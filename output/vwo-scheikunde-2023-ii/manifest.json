@@ -1,0 +1,52 @@
+{
+  "source": "VWO Scheikunde 2023-II",
+  "subject_name": "Scheikunde",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Indigo",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Gifblaar",
+      "question_numbers": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "PFOA",
+      "question_numbers": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "title": "Vonkremmers",
+      "question_numbers": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    }
+  ]
+}
