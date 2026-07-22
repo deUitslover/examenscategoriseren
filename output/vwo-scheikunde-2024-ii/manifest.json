@@ -1,0 +1,11 @@
+{
+  "source": "VWO Scheikunde 2024-II",
+  "subject_name": "Scheikunde",
+  "level": "VWO",
+  "exercises": [
+    { "title": "TCP en het aerotoxisch syndroom", "question_numbers": [1, 2, 3, 4, 5] },
+    { "title": "Lignine: nuttig afval", "question_numbers": [6, 7, 8, 9, 10, 11, 12] },
+    { "title": "Geosmine", "question_numbers": [13, 14, 15, 16, 17] },
+    { "title": "Distikstoftetraoxide", "question_numbers": [18, 19, 20, 21, 22, 23, 24, 25] }
+  ]
+}
