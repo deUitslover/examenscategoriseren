@@ -1,0 +1,53 @@
+{
+  "source": "VWO Scheikunde 2025-II",
+  "subject_name": "Scheikunde",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "DCDA",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Gaatjes",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "3x productie van aniline",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "title": "De geur van kater-urine",
+      "question_numbers": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    }
+  ]
+}
