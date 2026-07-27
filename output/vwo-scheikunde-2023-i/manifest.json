@@ -1,0 +1,11 @@
+{
+  "source": "VWO Scheikunde 2023-I",
+  "subject_name": "Scheikunde",
+  "level": "VWO",
+  "exercises": [
+    { "title": "Biodiesel uit algen", "question_numbers": [1, 2, 3, 4, 5] },
+    { "title": "Gerolsteiner®", "question_numbers": [6, 7, 8, 9, 10, 11] },
+    { "title": "Glyfosaat", "question_numbers": [12, 13, 14, 15, 16, 17] },
+    { "title": "Lithium-luchtbatterij", "question_numbers": [18, 19, 20, 21, 22, 23, 24, 25] }
+  ]
+}
