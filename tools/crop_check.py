@@ -20,17 +20,41 @@ Usage:
 
 def get_blocks(page):
     """Return a list of (x0, y0, x1, y1, kind, snippet) for every text and
-    image block on the page, kind is 'text' or 'image'. Uses
-    get_text('blocks') which already gives exact block boundaries -- never
-    guess margins.
+    image block on the page, kind is 'text' or 'image'.
+
+    Uses get_text('dict') rather than get_text('blocks'): on at least some
+    ExamenCentraal PDFs, the simple 'blocks' mode silently DROPS raster
+    image blocks (e.g. uitwerkbijlage figures, inline structure diagrams) --
+    this is what forced the manual get_image_info() workaround in PR #23.
+    'dict'/'rawdict' report images correctly (type==1), so doing this here
+    once fixes it for every future crop instead of needing a per-run patch.
+
+    Also: the raw block-level bbox PyMuPDF reports can include a trailing
+    blank line (empty span) after the real text, inflating y1 by 10-15pt
+    past the last visible glyph -- this makes check_crop flag a crop as
+    "straddling" a block when it actually only grazes dead whitespace. To
+    avoid that false positive, the returned bbox for text blocks is the
+    tight union of only its non-empty lines, not the raw block bbox.
     """
     blocks = []
-    for b in page.get_text("blocks"):
-        x0, y0, x1, y1, text = b[0], b[1], b[2], b[3], b[4]
-        kind = "image" if b[6] == 1 else "text"
-        if kind == "text" and not text.strip():
+    for b in page.get_text("dict")["blocks"]:
+        if b.get("type") == 1:
+            x0, y0, x1, y1 = b["bbox"]
+            blocks.append((x0, y0, x1, y1, "image", "<image>"))
             continue
-        blocks.append((x0, y0, x1, y1, kind, text.strip()[:60]))
+        text = "".join(s["text"] for l in b["lines"] for s in l["spans"])
+        if not text.strip():
+            continue
+        line_boxes = [
+            l["bbox"]
+            for l in b["lines"]
+            if "".join(s["text"] for s in l["spans"]).strip()
+        ]
+        x0 = min(lb[0] for lb in line_boxes)
+        y0 = min(lb[1] for lb in line_boxes)
+        x1 = max(lb[2] for lb in line_boxes)
+        y1 = max(lb[3] for lb in line_boxes)
+        blocks.append((x0, y0, x1, y1, "text", text.strip()[:60]))
     return blocks
 
 
