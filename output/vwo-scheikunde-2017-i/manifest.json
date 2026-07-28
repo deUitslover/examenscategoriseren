@@ -1,0 +1,55 @@
+{
+  "source": "VWO Scheikunde 2017-I",
+  "subject_name": "Scheikunde",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "PAL",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Waterstofopslag in carbazool",
+      "question_numbers": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Polymeren maken de chip",
+      "question_numbers": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Chemicaliën uit biomassa",
+      "question_numbers": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    }
+  ]
+}
