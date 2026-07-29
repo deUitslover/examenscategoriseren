@@ -1,0 +1,11 @@
+{
+  "source": "VWO Scheikunde 2018-II",
+  "subject_name": "Scheikunde",
+  "level": "VWO",
+  "exercises": [
+    { "title": "Mauveïne", "question_numbers": [1, 2, 3, 4, 5, 6] },
+    { "title": "Stroom uit hout", "question_numbers": [7, 8, 9, 10, 11, 12] },
+    { "title": "Haarverf", "question_numbers": [13, 14, 15, 16, 17, 18, 19] },
+    { "title": "Van afvalgas naar brandstof", "question_numbers": [20, 21, 22, 23, 24, 25, 26] }
+  ]
+}
