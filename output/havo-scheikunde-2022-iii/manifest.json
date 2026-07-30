@@ -1,0 +1,70 @@
+{
+  "source": "HAVO Scheikunde 2022-III",
+  "subject_name": "Scheikunde",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Brons",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Maniok",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Hard water",
+      "question_numbers": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Zalmbatterijtje",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "title": "Methaan uit hout",
+      "question_numbers": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "title": "BioPAD®",
+      "question_numbers": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    }
+  ]
+}

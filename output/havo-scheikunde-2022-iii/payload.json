@@ -1,0 +1,1133 @@
+{
+  "exercises": [
+    {
+      "id": "eed40822-df31-4f50-a71b-49d9c626adf0",
+      "subject_name": "Scheikunde",
+      "level": "HAVO",
+      "title": "Brons",
+      "source": "HAVO Scheikunde 2022-III"
+    },
+    {
+      "id": "aadd2a46-00b0-4b31-8b1d-9bac88c15396",
+      "subject_name": "Scheikunde",
+      "level": "HAVO",
+      "title": "Maniok",
+      "source": "HAVO Scheikunde 2022-III"
+    },
+    {
+      "id": "5c96dc83-5cbc-49f0-8aa4-1e0b305c4c05",
+      "subject_name": "Scheikunde",
+      "level": "HAVO",
+      "title": "Hard water",
+      "source": "HAVO Scheikunde 2022-III"
+    },
+    {
+      "id": "db2e174b-6cc8-4dc6-a376-d6bcf47f5f0b",
+      "subject_name": "Scheikunde",
+      "level": "HAVO",
+      "title": "Zalmbatterijtje",
+      "source": "HAVO Scheikunde 2022-III"
+    },
+    {
+      "id": "8f37a885-d573-4446-b27b-7b76ff61ed70",
+      "subject_name": "Scheikunde",
+      "level": "HAVO",
+      "title": "Methaan uit hout",
+      "source": "HAVO Scheikunde 2022-III"
+    },
+    {
+      "id": "08a977cf-bd04-4975-9176-a89eda62b30f",
+      "subject_name": "Scheikunde",
+      "level": "HAVO",
+      "title": "BioPAD®",
+      "source": "HAVO Scheikunde 2022-III"
+    }
+  ],
+  "context_blocks": [
+    {
+      "id": "bc7824c8-ff2a-480a-99d4-f6fb94b160af",
+      "exercise_id": "eed40822-df31-4f50-a71b-49d9c626adf0",
+      "label": "tekstfragment — geschiedenis van koper en brons (regels 1-26)",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-brons-context1.png",
+      "text_content": "(regel 1) Zo'n 5000 jaar geleden waren mensen al in staat koper te winnen uit het\n(regel 2) mineraal malachiet. Malachiet wordt weergegeven met de formule\n(regel 3) Cu₂(OH)₂CO₃. Koper werd in die tijd in een zogenoemde vuurplaats\n(regel 4) gemaakt. Daarbij werd een hoeveelheid malachiet gemengd met een\n(regel 5) ruime hoeveelheid houtskool (koolstof). Dit mengsel werd daarna bedekt\n(regel 6) met houtskool. Dit houtskool werd verbrand. Door de warmte die hierbij\n(regel 7) vrijkwam, ontleedde het malachiet tot koper(II)oxide (CuO), water en\n(regel 8) koolstofdioxide.\n(regel 9) Het ontstane koper(II)oxide werd vervolgens door de reactie met de\n(regel 10) overgebleven koolstof omgezet tot koper.\n(regel 11) Brons is toevallig ontdekt. Omdat de vuurplaats verontreinigd was met\n(regel 12) casseriet, een mineraal dat voornamelijk uit SnO₂ bestaat, had het\n(regel 13) materiaal dat werd gevormd een andere kleur dan men gewend was.\n(regel 14) Voorwerpen gemaakt van dit materiaal (brons) bleken sterker dan\n(regel 15) koperen voorwerpen. Vanaf deze ontdekking maakte men brons door een\n(regel 16) mengsel van malachiet, casseriet en houtskool op eenzelfde manier te\n(regel 17) laten reageren als bij de productie van koper. SnO₂ wordt daarbij omgezet\n(regel 18) tot tin dat met het gevormde koper samensmelt tot vloeibaar brons.\n(regel 19) Tegenwoordig wordt brons gemaakt door het mengen van vloeibaar koper\n(regel 20) en vloeibaar tin. Dit vloeibare mengsel wordt vervolgens in vormen\n(regel 21) gegoten. Na afkoelen kan het vaste brons worden bewerkt tot voorwerpen\n(regel 22) zoals kranen en beelden. Voor kranen van waterleidingen wordt veelal\n(regel 23) brons gebruikt dat 10 massaprocent tin bevat. Deze bronssoort wordt in\n(regel 24) de materiaalkunde aangeduid als CuSn10. Het is sterker en harder dan\n(regel 25) koper en minder gevoelig voor aantasting door water in combinatie met\n(regel 26) zuurstof en/of opgeloste zouten.",
+      "block_type": "inline"
+    },
+    {
+      "id": "8958a38c-184e-4c9b-94da-c6de9c4cfc03",
+      "exercise_id": "eed40822-df31-4f50-a71b-49d9c626adf0",
+      "label": "malachiet als mengsel van twee zouten",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-brons-context2.png",
+      "text_content": "Malachiet kan worden opgevat als een mengsel van twee zouten.",
+      "block_type": "inline"
+    },
+    {
+      "id": "32f280e9-d3a0-4ffc-b7c1-bcc3222621f9",
+      "exercise_id": "eed40822-df31-4f50-a71b-49d9c626adf0",
+      "label": "vorming van koper uit koper(II)oxide is een redoxreactie",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-brons-context3.png",
+      "text_content": "De vorming van koper uit koper(II)oxide (regels 9 en 10) is een redoxreactie.",
+      "block_type": "inline"
+    },
+    {
+      "id": "6daadea9-ec9c-4078-b7a6-2eb54bb72a2e",
+      "exercise_id": "eed40822-df31-4f50-a71b-49d9c626adf0",
+      "label": "notatie CuₓSny voor de atomaire samenstelling van een bronssoort",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-brons-context4.png",
+      "text_content": "Bronssoorten worden, behalve met een aanduiding als CuSn10, ook wel aangeduid met een formule die de atomaire samenstelling van de bronssoort weergeeft, bijvoorbeeld CuₓSny.",
+      "block_type": "inline"
+    },
+    {
+      "id": "8e0abd15-94ee-4244-afe2-cf5ac9900103",
+      "exercise_id": "eed40822-df31-4f50-a71b-49d9c626adf0",
+      "label": "brons geleidt elektrische stroom",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-brons-context5.png",
+      "text_content": "Brons geleidt elektrische stroom. Om dit te verklaren kan een beschrijving worden gebruikt van het kristalrooster van brons.",
+      "block_type": "inline"
+    },
+    {
+      "id": "2d89fd6f-3ed9-46d8-905f-cbaa4984bb82",
+      "exercise_id": "aadd2a46-00b0-4b31-8b1d-9bac88c15396",
+      "label": "intro — maniokmeel, zetmeel en de afbraak tot glucose",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-maniok-context1.png",
+      "text_content": "Maniokmeel (cassavemeel) wordt gewonnen uit de wortelknol van de maniokplant en veel gegeten in Zuid-Amerika en Afrika. Het is een voedingsbron die rijk is aan het koolhydraat zetmeel en weinig eiwit en vet bevat. In het menselijk lichaam verloopt de afbraak van zetmeel in grote lijnen via twee reactietypen. Glucose is hierbij een tussenproduct.",
+      "block_type": "inline"
+    },
+    {
+      "id": "034c1bd7-b4fb-454e-a00f-39df6123ab4c",
+      "exercise_id": "aadd2a46-00b0-4b31-8b1d-9bac88c15396",
+      "label": "productiemethode maniokmeel — linamarine en nitrilgroep",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-maniok-context2.png",
+      "text_content": "Bij de productie van maniokmeel gaat men via een speciale methode te werk om een giftige stof die voorkomt in de maniokknol onschadelijk te maken. De knollen worden eerst geschild en gedroogd. Daarna worden ze in stukken gesneden en minstens drie dagen in water gelegd. Vervolgens worden de stukken uit het water gehaald, gedroogd en fijngemalen tot meel.\nDe giftige verbinding in de maniokknol is linamarine (C₁₀H₁₇NO₆). In een molecuul linamarine komt een nitrilgroep (–CN) voor. Bij de hierboven beschreven methode komt een enzym vrij dat linamarine omzet tot glucose en acetoncyaanhydrine. Deze omzetting is in figuur 1 onvolledig weergegeven.",
+      "block_type": "inline"
+    },
+    {
+      "id": "7e02b5a6-b39e-4964-a2f1-e161d58b733c",
+      "exercise_id": "aadd2a46-00b0-4b31-8b1d-9bac88c15396",
+      "label": "figuur 1 — omzetting van linamarine tot glucose en acetoncyaanhydrine",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-maniok-context3.png",
+      "text_content": "figuur 1: de onvolledige reactievergelijking (in structuurformules) van de omzetting van linamarine met water tot glucose en acetoncyaanhydrine. Linamarine is een ringstructuur (zoals glucose) met een O-C(CH₃)₂-CN-zijgroep op de plaats waar bij glucose een OH-groep zit; na reactie met H₂O ontstaat glucose (de ringstructuur met OH in plaats van de zijgroep) plus een niet-getekend tweede product, aangeduid met '…' (acetoncyaanhydrine).",
+      "block_type": "inline"
+    },
+    {
+      "id": "4dc1c803-b266-45a2-b145-7761241af7ca",
+      "exercise_id": "aadd2a46-00b0-4b31-8b1d-9bac88c15396",
+      "label": "C-O-C-groep verbroken in figuur 1",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-maniok-context4.png",
+      "text_content": "In de vergelijking van figuur 1 wordt uitsluitend een C-O-C-groep verbroken.",
+      "block_type": "inline"
+    },
+    {
+      "id": "2c5b8dbe-122c-4b5d-8cb8-3c664abea7a6",
+      "exercise_id": "aadd2a46-00b0-4b31-8b1d-9bac88c15396",
+      "label": "vorming van waterstofcyanide (HCN)",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-maniok-context5.png",
+      "text_content": "Acetoncyaanhydrine ontleedt vervolgens. Hierbij ontstaat onder andere het giftige waterstofcyanide (blauwzuur). Dit verdampt bij de hierboven beschreven methode. Waterstofcyanide heeft de molecuulformule HCN.",
+      "block_type": "inline"
+    },
+    {
+      "id": "ed6d2c68-9376-4dd9-9b65-8b57cfecf4d3",
+      "exercise_id": "aadd2a46-00b0-4b31-8b1d-9bac88c15396",
+      "label": "zwavelhoudend aminozuur — voorlichting en bladeren van de maniokplant",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-maniok-context6.png",
+      "text_content": "Door voorlichting te geven over de juiste productiewijze van maniokmeel wordt geprobeerd de ziekte konzo terug te dringen. Ook wordt onderzocht of het eten van eiwitten die voldoende zwavel bevatten de ziekte kan voorkomen. Bij dat onderzoek heeft men eerst gekeken naar de bladeren van de maniokplant. Deze bevatten veel eiwitten en worden vaak als bijgerecht gegeten. Bij het onderzoek bestond vooral aandacht voor het gehalte aan één bepaald zwavelhoudend aminozuur dat mensen niet zelf kunnen maken, maar via hun voeding binnen moeten krijgen.",
+      "block_type": "inline"
+    },
+    {
+      "id": "67ac4f6c-740c-4443-9709-2de046bab1bf",
+      "exercise_id": "5c96dc83-5cbc-49f0-8aa4-1e0b305c4c05",
+      "label": "intro — hardheid van water in °D en Ca²⁺-concentratie",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-hard-water-context1.png",
+      "text_content": "Water met een hoog gehalte aan calciumionen noemen we hard water. De hardheid van water wordt vaak uitgedrukt in Duitse hardheidsgraden, °D. Water met een hardheid van 1,00 °D bevat 7,17 mg Ca²⁺ per liter. Leidingwater in Nijmegen bevat 2,2·10⁻³ mol Ca²⁺ per liter.",
+      "block_type": "inline"
+    },
+    {
+      "id": "891e8755-317e-4c71-b6c3-b51d475c2396",
+      "exercise_id": "5c96dc83-5cbc-49f0-8aa4-1e0b305c4c05",
+      "label": "kalkaanslag — reactievergelijking vorming van CaCO₃",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-hard-water-context2.png",
+      "text_content": "Wanneer hard water wordt verhit, ontstaat een witte aanslag van kalk (CaCO₃). Dit ontstaan van kalkaanslag kan met de volgende reactievergelijking worden weergegeven:\nCa²⁺ + 2 HCO₃⁻ → CaCO₃ + H₂O + CO₂",
+      "block_type": "inline"
+    },
+    {
+      "id": "90d2e77f-cf32-4643-9263-2d81a51becc6",
+      "exercise_id": "5c96dc83-5cbc-49f0-8aa4-1e0b305c4c05",
+      "label": "tekstfragment — kalk verwijderen met natuurazijn (Wikipedia)",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-hard-water-context3.png",
+      "text_content": "Een waterkoker met een dompelaar als verwarmingselement zal na verloop van tijd veel kalk op het verwarmingselement krijgen. Dit kan simpel worden verwijderd door de waterkoker te vullen met natuurazijn. Na een paar minuten is de kalk in de azijn opgelost. Deze azijn kan vele malen worden hergebruikt als ontkalker, wanneer deze onverdund wordt gebruikt.\nnaar: Wikipedia",
+      "block_type": "inline"
+    },
+    {
+      "id": "262fc9f0-6759-4cee-8402-8a9e006759b1",
+      "exercise_id": "5c96dc83-5cbc-49f0-8aa4-1e0b305c4c05",
+      "label": "natuurazijn — zuur-basereactie met kalk",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-hard-water-context4.png",
+      "text_content": "Natuurazijn is een oplossing van azijnzuur in water. Het verwijderen van kalk met behulp van natuurazijn komt neer op de volgende zuur-basereactie:\nCaCO₃ + 2 CH₃COOH → Ca²⁺ + H₂O + CO₂ + 2 CH₃COO⁻",
+      "block_type": "inline"
+    },
+    {
+      "id": "87c4fdc2-05a1-4107-90f7-05080b2ce5b1",
+      "exercise_id": "5c96dc83-5cbc-49f0-8aa4-1e0b305c4c05",
+      "label": "advies: azijn in de waterkoker aan de kook brengen",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-hard-water-context5.png",
+      "text_content": "Op de website www.VoorOma.nl staat het advies de azijn in de waterkoker even aan de kook te brengen.",
+      "block_type": "inline"
+    },
+    {
+      "id": "ba98d8b2-6829-420f-bc40-2b6e00858185",
+      "exercise_id": "5c96dc83-5cbc-49f0-8aa4-1e0b305c4c05",
+      "label": "reactiewarmte kalk met azijnzuur — onvolledig energiediagram",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-hard-water-context6.png",
+      "text_content": "Emine berekent op school de reactiewarmte voor de reactie van kalk met azijnzuur. Ze komt uit op ∆E = –1,2·10⁴ J per mol CaCO₃. Op de uitwerkbijlage is een nog onvolledig energiediagram gegeven van deze reactie.",
+      "block_type": "inline"
+    },
+    {
+      "id": "21b4433a-52f7-4fd9-bd9a-252e69e8baac",
+      "exercise_id": "5c96dc83-5cbc-49f0-8aa4-1e0b305c4c05",
+      "label": "uitwerkbijlage vraag 15 — onvolledig energiediagram",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-hard-water-context7.png",
+      "text_content": "uitwerkbijlage bij vraag 15: een onvolledig energiediagram (energie op de y-as) van de reactie van kalk met azijnzuur. Alleen het energieniveau van de beginstoffen is al ingetekend; de leerling moet het energieniveau van de geactiveerde toestand en van de reactieproducten tekenen en ∆E aangeven, met bijschriften.",
+      "block_type": "uitwerkbijlage"
+    },
+    {
+      "id": "e154228b-2d58-4000-88c8-9659bb71d1ac",
+      "exercise_id": "5c96dc83-5cbc-49f0-8aa4-1e0b305c4c05",
+      "label": "verchroomd verwarmingselement — bescherming door een chroomoxidelaagje",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-hard-water-context8.png",
+      "text_content": "Het verwarmingselement van waterkokers is vaak gemaakt van koper waarop een laagje chroom is aangebracht. Hoewel chroom een onedeler metaal is dan koper, is zo'n verchroomd verwarmingselement toch bestand tegen corrosie. Door reactie met zuurstof ontstaat namelijk op het chroom een laagje chroomoxide dat verdere aantasting van het chroom verhindert.",
+      "block_type": "inline"
+    },
+    {
+      "id": "836fe5db-07d7-46a7-95c9-d0e44478db89",
+      "exercise_id": "db2e174b-6cc8-4dc6-a376-d6bcf47f5f0b",
+      "label": "halfreacties zilveroxidebatterij (Ag₂O/Zn)",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-zalmbatterijtje-context1.png",
+      "text_content": "Ag₂O + H₂O + 2 e⁻ → 2 Ag + 2 OH⁻\nZn + 2 OH⁻ → ZnO + H₂O + 2 e⁻",
+      "block_type": "inline"
+    },
+    {
+      "id": "bb9954b9-0330-4555-84f6-f230af0f33dc",
+      "exercise_id": "db2e174b-6cc8-4dc6-a376-d6bcf47f5f0b",
+      "label": "constructie van het zalmbatterijtje (laagjes)",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-zalmbatterijtje-context3.png",
+      "text_content": "Het batterijtje wordt als volgt gemaakt:\n− Een aluminiumgaasje wordt ingesmeerd met een pasta van carbofluor.\n− Dit gaasje wordt tussen twee dunne laagjes polypropeen (PP) gelegd.\n− Daarop komt een dun velletje lithium.\n− Aan de elektroden (het aluminiumgaasje en het lithiumvelletje) zijn koperdraadjes bevestigd.\n− De vier laagjes worden opgerold en in een kokertje gestopt.\n− Het kokertje wordt gevuld met elektrolyt en daarna dichtgemaakt.\n− Alleen de twee koperdraadjes steken uit het kokertje.",
+      "block_type": "inline"
+    },
+    {
+      "id": "e4aec91f-a446-47d9-828c-cf841f1b9611",
+      "exercise_id": "db2e174b-6cc8-4dc6-a376-d6bcf47f5f0b",
+      "label": "halfreacties zalmbatterijtje (CFₓ/Li)",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-zalmbatterijtje-context5.png",
+      "text_content": "Wanneer het batterijtje stroom levert, treden de volgende halfreacties op:\nCFₓ + x e⁻ → C + x F⁻\nLi → Li⁺ + e⁻",
+      "block_type": "inline"
+    },
+    {
+      "id": "60587e1a-2edc-4de3-abc2-e862b7098b25",
+      "exercise_id": "db2e174b-6cc8-4dc6-a376-d6bcf47f5f0b",
+      "label": "figuur 2 — microscoopopname van polypropeen met gaatjes",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-zalmbatterijtje-context6.png",
+      "text_content": "Figuur 2 toont een microscoopopname van een deel van het laagje polypropeen. figuur 2: elektronenmicroscoopopname van een stukje polypropeenfolie, met een onregelmatig netwerk van langwerpige poriën (gaatjes) van ongeveer 1·10⁻⁶ m grootte.",
+      "block_type": "inline"
+    },
+    {
+      "id": "8d5b2ba4-0842-43ec-a267-2fc05f770dc7",
+      "exercise_id": "db2e174b-6cc8-4dc6-a376-d6bcf47f5f0b",
+      "label": "polypropeen heeft gaatjes (uit figuur 2)",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-zalmbatterijtje-context7.png",
+      "text_content": "In figuur 2 is te zien dat het polypropeen niet dicht is, maar gaatjes heeft.",
+      "block_type": "inline"
+    },
+    {
+      "id": "e29c6401-1a91-4021-840b-3a9184b2b9ac",
+      "exercise_id": "8f37a885-d573-4446-b27b-7b76ff61ed70",
+      "label": "intro — ECN Petten: methaanproces uit hout (R1/R2)",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-methaan-uit-hout-context1.png",
+      "text_content": "Bij ECN in Petten is een proces ontwikkeld waarbij methaan uit (afval)hout wordt geproduceerd. Sinds 2015 draait er een proeffabriek volgens dat proces. Een essentieel onderdeel van de fabriek is een zogenoemde vergassingsreactor (R1) waarin hout bij ongeveer 850 °C wordt omgezet tot een mengsel van verschillende gassen. De warmte die hiervoor nodig is, wordt geleverd door een verbrandingsreactor (R2) die voornamelijk wordt gevoed met hout. In onderstaand blokschema zijn deze onderdelen van de fabriek vereenvoudigd weergegeven.",
+      "block_type": "inline"
+    },
+    {
+      "id": "1a8cea09-1eda-4860-b4da-6eafa0ce988e",
+      "exercise_id": "8f37a885-d573-4446-b27b-7b76ff61ed70",
+      "label": "blokschema — hout naar methaan (R1, R2)",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-methaan-uit-hout-context2.png",
+      "text_content": "blokschema: hout wordt toegevoerd aan zowel R1 als R2; in R1 (met stoom als extra toevoer) ontstaat productgas; R2 krijgt lucht toegevoerd en levert verbrandingsgassen + stikstof.",
+      "block_type": "inline"
+    },
+    {
+      "id": "abbb2be6-7f9b-4694-819f-52354a7380e3",
+      "exercise_id": "8f37a885-d573-4446-b27b-7b76ff61ed70",
+      "label": "reactie 1 — vorming van CO en H₂ uit hout",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-methaan-uit-hout-context3.png",
+      "text_content": "Het productgas dat de vergassingsreactor (R1) verlaat, bestaat voor een belangrijk gedeelte uit koolstofmono-oxide en waterstof. De vorming van deze gassen verloopt volgens reactie 1. In deze reactievergelijking is hout vereenvoudigd weergegeven met de formule C₆H₁₀O₅.\nC₆H₁₀O₅ (s) + H₂O (g) → 6 CO (g) + 6 H₂ (g)  reactie 1",
+      "block_type": "inline"
+    },
+    {
+      "id": "bb27b83c-4589-4b8d-94da-9212ac2d211c",
+      "exercise_id": "8f37a885-d573-4446-b27b-7b76ff61ed70",
+      "label": "scheiding S1/S2 — teer en benzeen afscheiden",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-methaan-uit-hout-context4.png",
+      "text_content": "Behalve CO en H₂ bevat het productgas ook CO₂, C₂H₄, C₆H₆ (benzeen) en hogere koolwaterstoffen (koolwaterstoffen met een groter aantal C-atomen per molecuul). De hogere koolwaterstoffen worden in een eerste scheidingsruimte (S1) door afkoeling uit het productgas afgescheiden als teer. De teer wordt naar de verbrandingsreactor (R2) geleid, waar het ook wordt verbrand. In een tweede scheidingsruimte (S2) wordt het overgebleven productgas verder afgekoeld zodat benzeen als vloeistof wordt afgescheiden. Dit kan worden gebruikt als grondstof in de kunststofindustrie.",
+      "block_type": "inline"
+    },
+    {
+      "id": "cec539f9-2bc9-4725-9cd5-6969334a46ae",
+      "exercise_id": "8f37a885-d573-4446-b27b-7b76ff61ed70",
+      "label": "benzeengehalte productgas (0,35 volumeprocent)",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-methaan-uit-hout-context5.png",
+      "text_content": "Het benzeengehalte van het productgas is afhankelijk van het soort hout dat in de vergassingsreactor (R1) wordt ontleed. Bij een bepaald soort hout bevat het productgas uit de vergassingsreactor 0,35 volumeprocent benzeen (C₆H₆).",
+      "block_type": "inline"
+    },
+    {
+      "id": "5fc6133e-d18a-4154-8c88-f27d800e98bb",
+      "exercise_id": "8f37a885-d573-4446-b27b-7b76ff61ed70",
+      "label": "reactie 2 — vorming van methaan uit CO",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-methaan-uit-hout-context6.png",
+      "text_content": "Het CO uit het productgas wordt in een reactor (R3) omgezet tot methaan. Deze omzetting wordt met de volgende reactievergelijking weergegeven:\nCO + 3 H₂ → CH₄ + H₂O  reactie 2",
+      "block_type": "inline"
+    },
+    {
+      "id": "5ce4956e-8eab-4393-9a44-f5f7376392d3",
+      "exercise_id": "8f37a885-d573-4446-b27b-7b76ff61ed70",
+      "label": "overige omzettingen in R3 — ontbrekende stofstromen",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-methaan-uit-hout-context7.png",
+      "text_content": "Ook de andere stoffen uit het productgas worden in R3 omgezet tot methaan. Voor al deze omzettingen in R3 is extra waterstofgas nodig. Op de uitwerkbijlage bij dit examen is een nog onvolledig blokschema van het beschreven proces weergegeven. Er ontbreekt een aantal stofstromen.",
+      "block_type": "inline"
+    },
+    {
+      "id": "8304099b-428f-48cd-94f5-4fb2f6bb2a80",
+      "exercise_id": "8f37a885-d573-4446-b27b-7b76ff61ed70",
+      "label": "uitwerkbijlage vraag 28 — onvolledig blokschema (S1, S2, R3)",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-methaan-uit-hout-context8.png",
+      "text_content": "uitwerkbijlage bij vraag 28: het blokschema uitgebreid met scheidingsruimtes S1, S2 en reactor R3 na R1/R2: hout → R1/R2 → productgas → S1 → S2 → R3, met de bestaande stofstromen (hout, stoom, lucht, verbrandingsgassen + stikstof, productgas) al getekend, maar zonder de stofstromen tussen S1–S2–R3 (teer naar R2, benzeen uit S2, extra waterstofgas naar R3, methaan uit R3).",
+      "block_type": "uitwerkbijlage"
+    },
+    {
+      "id": "e3853b6e-b686-463e-a0d6-f2e5baf53140",
+      "exercise_id": "08a977cf-bd04-4975-9176-a89eda62b30f",
+      "label": "TCE wordt gebruikt om textiel te reinigen",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-biopad-context1.png",
+      "text_content": "De vloeistof TCE wordt gebruikt om bepaalde soorten textiel te reinigen.",
+      "block_type": "inline"
+    },
+    {
+      "id": "e93ebcec-2052-49e2-a022-888373c58e47",
+      "exercise_id": "08a977cf-bd04-4975-9176-a89eda62b30f",
+      "label": "vorming en zuivering met BioPAD (Pd-korreltjes, waterstofatomen)",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-biopad-context2.png",
+      "text_content": "Om BioPAD te vormen (figuur 1A) wordt eerst een oplossing van methaanzuur (HCOOH) toegevoegd aan een suspensie van bacteriën. Daarna wordt een oplossing van palladiumchloride (PdCl₂) toegevoegd. Onder invloed van enzymen in de bacteriën treedt een reactie op. Hierbij wordt HCOOH omgezet tot CO₂ en wordt het metaal palladium gevormd uit Pd²⁺-ionen. Het gevormde palladium hecht zich in de vorm van zeer kleine korreltjes (met een diameter van ongeveer 30 nanometer) aan de celwand van de bacteriën. De bacteriën sterven vervolgens af. De celwand blijft echter heel. Tijdens het zuiveringsproces (figuur 1B) wordt H₂-gas toegevoegd, waarbij waterstofatomen zich hechten aan de palladiumkorreltjes.",
+      "block_type": "inline"
+    },
+    {
+      "id": "a3d608ca-6801-465e-b8fe-52bc9b1f93df",
+      "exercise_id": "08a977cf-bd04-4975-9176-a89eda62b30f",
+      "label": "figuur 1B — zuiveringsproces: TCE + BioPAD → ethaan + waterstofchloride",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-biopad-context3.png",
+      "text_content": "figuur 1B (zuiveringsproces): BioPAD (een Pd-deeltje met waterstofatomen eraan gehecht) reageert met TCE tot ethaan en een oplossing van waterstofchloride, waarbij het Pd-deeltje zijn waterstofatomen verliest.",
+      "block_type": "inline"
+    },
+    {
+      "id": "424835cb-9c58-4f7c-91d6-2915724f4724",
+      "exercise_id": "08a977cf-bd04-4975-9176-a89eda62b30f",
+      "label": "onvolledige vergelijking zuiveringsproces (TCE → ethaan)",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-biopad-context4.png",
+      "text_content": "De vergelijking van de totale reactie die optreedt tijdens het zuiveringsproces (figuur 1B) is hieronder schematisch weergegeven.\nBioPAD\nTCE + … → ethaan + … + …",
+      "block_type": "inline"
+    },
+    {
+      "id": "ecc4065d-385c-48e1-bc77-25edfb7e3f51",
+      "exercise_id": "08a977cf-bd04-4975-9176-a89eda62b30f",
+      "label": "voordeel van BioPAD als katalysator (geen samenklontering)",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-biopad-context5.png",
+      "text_content": "Voor de omzetting van TCE tot onder andere ethaan zou ook palladiumpoeder als katalysator gebruikt kunnen worden. Een belangrijk voordeel van BioPAD als katalysator is dat de Pd-deeltjes niet samenklonteren tot grotere deeltjes.",
+      "block_type": "inline"
+    },
+    {
+      "id": "bafd4de9-cee0-49b7-834c-039f2841f073",
+      "exercise_id": "08a977cf-bd04-4975-9176-a89eda62b30f",
+      "label": "membraan houdt BioPAD tegen in de reactor",
+      "image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-biopad-context6.png",
+      "text_content": "De zuivering van water dat verontreinigd is met TCE wordt uitgevoerd in een reactor waarin een membraan is aangebracht. De opgeloste stoffen kunnen het membraan passeren, maar BioPAD niet.",
+      "block_type": "inline"
+    }
+  ],
+  "questions": [
+    {
+      "id": "ef79c20a-4c71-4c73-bd47-1c1e1d7b9239",
+      "exercise_id": "eed40822-df31-4f50-a71b-49d9c626adf0",
+      "question_number": 1,
+      "topics": [
+        {
+          "domain": "Materie",
+          "subdomain": "Deeltjesmodellen"
+        }
+      ],
+      "keywords": [
+        "malachiet",
+        "verhoudingsformule",
+        "zout",
+        "molverhouding",
+        "hydroxide",
+        "carbonaat"
+      ],
+      "question_summary": "Een mineraalformule ontleden in de formules en molverhouding van de samenstellende zouten",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-brons-vraag1.png",
+      "question_text": "Geef de formules van deze twee zouten en geef de molverhouding waarin ze voorkomen in malachiet.\nNoteer je antwoord als volgt:\nformule zout 1: …\nformule zout 2: …\nmolverhouding zout 1 : zout 2 = … : …",
+      "context_block_ids": [
+        "bc7824c8-ff2a-480a-99d4-f6fb94b160af",
+        "8958a38c-184e-4c9b-94da-c6de9c4cfc03"
+      ]
+    },
+    {
+      "id": "8c2e0da7-9d74-4c86-9a0b-81ae7aaa0011",
+      "exercise_id": "eed40822-df31-4f50-a71b-49d9c626adf0",
+      "question_number": 2,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Chemische processen"
+        }
+      ],
+      "keywords": [
+        "ontledingsreactie",
+        "thermolyse",
+        "reactievergelijking",
+        "koper(II)oxide",
+        "coëfficiënten"
+      ],
+      "question_summary": "De reactievergelijking opstellen voor de thermische ontleding van malachiet",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-brons-vraag2.png",
+      "question_text": "Geef de vergelijking van de ontledingsreactie van malachiet die in regel 7 en 8 is beschreven.",
+      "context_block_ids": [
+        "bc7824c8-ff2a-480a-99d4-f6fb94b160af"
+      ]
+    },
+    {
+      "id": "9a5f8126-b76f-4b1d-a22c-a018932bd9d4",
+      "exercise_id": "eed40822-df31-4f50-a71b-49d9c626adf0",
+      "question_number": 3,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Chemische processen"
+        }
+      ],
+      "keywords": [
+        "oxidator",
+        "reductor",
+        "ladingsverandering",
+        "redoxreactie",
+        "koper(II)oxide"
+      ],
+      "question_summary": "Oxidator en reductor bepalen aan de hand van de ladingsverandering van koperdeeltjes",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-brons-vraag3.png",
+      "question_text": "Bepaal aan de hand van de ladingsverandering of de koperdeeltjes in koper(II)oxide bij deze reactie oxidator of reductor zijn.\nNoteer je antwoord als volgt:\nDe lading van de koperdeeltjes in koper(II)oxide is: …\nDe lading van de koperdeeltjes in koper is: …\nDe koperdeeltjes in koper(II)oxide zijn dus: …",
+      "context_block_ids": [
+        "bc7824c8-ff2a-480a-99d4-f6fb94b160af",
+        "32f280e9-d3a0-4ffc-b7c1-bcc3222621f9"
+      ]
+    },
+    {
+      "id": "117e0868-2a3a-4ea1-906e-abfcb45794b0",
+      "exercise_id": "eed40822-df31-4f50-a71b-49d9c626adf0",
+      "question_number": 4,
+      "topics": [
+        {
+          "domain": "Rekenen en analyse",
+          "subdomain": "Grootheden en relaties"
+        }
+      ],
+      "keywords": [
+        "molaire massa",
+        "mol",
+        "massaprocent",
+        "legering",
+        "molverhouding"
+      ],
+      "question_summary": "Uit de massaverhouding van een legering het aantal mol van de metalen en de atomaire formule berekenen",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-brons-vraag4.png",
+      "question_text": "Voer de volgende opdrachten uit:\n− Bereken het aantal mol Cu en Sn in 100 gram CuSn10.\n− Leid hieruit de formule van CuₓSn₁ af waarin x een geheel getal is.",
+      "context_block_ids": [
+        "bc7824c8-ff2a-480a-99d4-f6fb94b160af",
+        "6daadea9-ec9c-4078-b7a6-2eb54bb72a2e"
+      ]
+    },
+    {
+      "id": "c86e7a32-8d3e-445e-ac2b-3f9d68fe5895",
+      "exercise_id": "eed40822-df31-4f50-a71b-49d9c626adf0",
+      "question_number": 5,
+      "topics": [
+        {
+          "domain": "Materie",
+          "subdomain": "Bindingen, structuren en eigenschappen"
+        }
+      ],
+      "keywords": [
+        "metaalrooster",
+        "metaalbinding",
+        "elektrisch geleidingsvermogen",
+        "legering",
+        "vrije elektronen"
+      ],
+      "question_summary": "Het kristalrooster van een legering beschrijven om het elektrisch geleidingsvermogen te verklaren",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-brons-vraag5.png",
+      "question_text": "Voer de volgende opdrachten uit:\n− Geef de naam van het type kristalrooster van brons.\n− Geef een beschrijving van het kristalrooster van brons waarmee verklaard kan worden dat brons elektrische stroom geleidt.",
+      "context_block_ids": [
+        "8e0abd15-94ee-4244-afe2-cf5ac9900103"
+      ]
+    },
+    {
+      "id": "ba5b614a-6d95-4a5b-a67a-698ec4c5307f",
+      "exercise_id": "aadd2a46-00b0-4b31-8b1d-9bac88c15396",
+      "question_number": 6,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Classificatie van reacties"
+        }
+      ],
+      "keywords": [
+        "hydrolyse",
+        "zetmeel",
+        "glucose",
+        "polysacharide",
+        "reactietype"
+      ],
+      "question_summary": "Het reactietype benoemen van de afbraak van een polysacharide tot glucose",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-maniok-vraag6.png",
+      "question_text": "Tot welk reactietype behoort de afbraak van zetmeel tot glucose?",
+      "context_block_ids": [
+        "2d89fd6f-3ed9-46d8-905f-cbaa4984bb82"
+      ]
+    },
+    {
+      "id": "0b7c446e-450e-4444-bb2c-41437a208ba0",
+      "exercise_id": "aadd2a46-00b0-4b31-8b1d-9bac88c15396",
+      "question_number": 7,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Chemische processen"
+        }
+      ],
+      "keywords": [
+        "verbranding",
+        "glucose",
+        "koolstofdioxide",
+        "reactietype",
+        "celademhaling"
+      ],
+      "question_summary": "Het reactietype benoemen van de afbraak van glucose tot koolstofdioxide en water",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-maniok-vraag7.png",
+      "question_text": "Tot welk reactietype behoort de afbraak van glucose tot koolstofdioxide en water?",
+      "context_block_ids": [
+        "2d89fd6f-3ed9-46d8-905f-cbaa4984bb82"
+      ]
+    },
+    {
+      "id": "f1792246-7a69-4b0a-8585-efed484304b7",
+      "exercise_id": "aadd2a46-00b0-4b31-8b1d-9bac88c15396",
+      "question_number": 8,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Chemische processen"
+        }
+      ],
+      "keywords": [
+        "structuurformule",
+        "hydrolyse",
+        "nitrilgroep",
+        "acetoncyaanhydrine",
+        "functionele groep"
+      ],
+      "question_summary": "De structuurformule van een reactieproduct afleiden uit een onvolledige hydrolysereactie in structuurformules",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-maniok-vraag8.png",
+      "question_text": "Geef de structuurformule van acetoncyaanhydrine. Geef de nitrilgroep als volgt weer: –CN.",
+      "context_block_ids": [
+        "034c1bd7-b4fb-454e-a00f-39df6123ab4c",
+        "7e02b5a6-b39e-4964-a2f1-e161d58b733c",
+        "4dc1c803-b266-45a2-b145-7761241af7ca"
+      ]
+    },
+    {
+      "id": "186c13ee-5d87-4695-bf4f-e957cf5a4f5d",
+      "exercise_id": "aadd2a46-00b0-4b31-8b1d-9bac88c15396",
+      "question_number": 9,
+      "topics": [
+        {
+          "domain": "Materie",
+          "subdomain": "Deeltjesmodellen"
+        }
+      ],
+      "keywords": [
+        "structuurformule",
+        "atoombinding",
+        "covalentie",
+        "waterstofcyanide",
+        "nitrilgroep"
+      ],
+      "question_summary": "De structuurformule van waterstofcyanide tekenen met alle atoombindingen",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-maniok-vraag9.png",
+      "question_text": "Geef de structuurformule van HCN. Geef alle atoombindingen weer.",
+      "context_block_ids": [
+        "2c5b8dbe-122c-4b5d-8cb8-3c664abea7a6"
+      ]
+    },
+    {
+      "id": "c08de8c8-34c3-40ac-a5dc-02d80a7583c5",
+      "exercise_id": "aadd2a46-00b0-4b31-8b1d-9bac88c15396",
+      "question_number": 10,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Reactiesnelheid en katalyse"
+        }
+      ],
+      "keywords": [
+        "katalysator",
+        "enzym",
+        "activeringsenergie",
+        "specificiteit"
+      ],
+      "question_summary": "Uitleggen dat enzymen katalysatoren zijn die specifiek zijn voor één reactie",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-maniok-vraag10.png",
+      "question_text": "Voer de volgende opdrachten uit:\n− Geef de algemene term voor stoffen zoals enzymen die een specifieke reactie versnellen.\n− Geef aan waarom enzymen specifiek zijn voor één type reactie.",
+      "context_block_ids": []
+    },
+    {
+      "id": "022fed35-67c8-4629-9c00-176880c2a226",
+      "exercise_id": "aadd2a46-00b0-4b31-8b1d-9bac88c15396",
+      "question_number": 11,
+      "topics": [
+        {
+          "domain": "Chemie van het leven",
+          "subdomain": "Structuur en functie"
+        }
+      ],
+      "keywords": [
+        "aminozuur",
+        "zwavel",
+        "eiwit",
+        "essentieel aminozuur"
+      ],
+      "question_summary": "Zwavelhoudende aminozuren benoemen en bepalen welke via voeding moet worden binnengekregen",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-maniok-vraag11.png",
+      "question_text": "Geef de namen van twee zwavelhoudende aminozuren en leg uit welk van deze aminozuren de mensen via hun voeding binnen moeten krijgen. Gebruik hierbij je informatieboek.",
+      "context_block_ids": [
+        "ed6d2c68-9376-4dd9-9b65-8b57cfecf4d3"
+      ]
+    },
+    {
+      "id": "aea7e069-a0c0-4290-9765-e2dc82c7bdbc",
+      "exercise_id": "5c96dc83-5cbc-49f0-8aa4-1e0b305c4c05",
+      "question_number": 12,
+      "topics": [
+        {
+          "domain": "Rekenen en analyse",
+          "subdomain": "Grootheden en relaties"
+        }
+      ],
+      "keywords": [
+        "hardheidsgraad",
+        "concentratie",
+        "significante cijfers",
+        "eenheidsomrekening"
+      ],
+      "question_summary": "De hardheid van water in Duitse hardheidsgraden berekenen uit een molaire concentratie",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-hard-water-vraag12.png",
+      "question_text": "Bereken de hardheid, in °D, van het Nijmeegse leidingwater.\nGeef de uitkomst in het juiste aantal significante cijfers.",
+      "context_block_ids": [
+        "67ac4f6c-740c-4443-9709-2de046bab1bf"
+      ]
+    },
+    {
+      "id": "833a7f30-92ef-4125-b3d1-2f9bde82b602",
+      "exercise_id": "5c96dc83-5cbc-49f0-8aa4-1e0b305c4c05",
+      "question_number": 13,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Chemische processen"
+        }
+      ],
+      "keywords": [
+        "amfolyt",
+        "zuur-basereactie",
+        "waterstofcarbonaat",
+        "protolyse"
+      ],
+      "question_summary": "Aantonen dat waterstofcarbonaat in een reactievergelijking zowel als zuur als als base optreedt",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-hard-water-vraag13.png",
+      "question_text": "Leg uit, aan de hand van formules in de reactievergelijking, dat HCO₃⁻ in deze reactie zowel een zuur als een base is.",
+      "context_block_ids": [
+        "891e8755-317e-4c71-b6c3-b51d475c2396"
+      ]
+    },
+    {
+      "id": "6d4b8eb2-0b57-4472-8b31-99149ba6a8f0",
+      "exercise_id": "5c96dc83-5cbc-49f0-8aa4-1e0b305c4c05",
+      "question_number": 14,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Reactiesnelheid en katalyse"
+        }
+      ],
+      "keywords": [
+        "botsende-deeltjesmodel",
+        "reactiesnelheid",
+        "temperatuur",
+        "azijnzuur"
+      ],
+      "question_summary": "Met het botsende-deeltjesmodel uitleggen waarom verwarmen een zuur-basereactie versnelt",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-hard-water-vraag14.png",
+      "question_text": "Leg uit waarom dit handig is. Gebruik in je uitleg het botsende-deeltjesmodel.",
+      "context_block_ids": [
+        "90d2e77f-cf32-4643-9263-2d81a51becc6",
+        "262fc9f0-6759-4cee-8402-8a9e006759b1",
+        "87c4fdc2-05a1-4107-90f7-05080b2ce5b1"
+      ]
+    },
+    {
+      "id": "a3c783ac-cb96-4ce5-b106-72cfadc54515",
+      "exercise_id": "5c96dc83-5cbc-49f0-8aa4-1e0b305c4c05",
+      "question_number": 15,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Energie"
+        }
+      ],
+      "keywords": [
+        "energiediagram",
+        "geactiveerde toestand",
+        "reactiewarmte",
+        "exotherme reactie",
+        "activeringsenergie"
+      ],
+      "question_summary": "Een energiediagram van een exotherme reactie aanvullen met de geactiveerde toestand en de reactiewarmte",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-hard-water-vraag15.png",
+      "question_text": "Maak het energiediagram op de uitwerkbijlage af.\n− Teken het ontbrekende energieniveau van de geactiveerde toestand.\n− Teken het ontbrekende energieniveau van de reactieproducten.\n− Geef ∆E op de juiste plaats in het energiediagram aan.\n− Gebruik bijschriften.",
+      "context_block_ids": [
+        "ba98d8b2-6829-420f-bc40-2b6e00858185",
+        "21b4433a-52f7-4fd9-bd9a-252e69e8baac"
+      ]
+    },
+    {
+      "id": "e8f85e3c-7da3-403f-87a3-b1771fbc3c6b",
+      "exercise_id": "5c96dc83-5cbc-49f0-8aa4-1e0b305c4c05",
+      "question_number": 16,
+      "topics": [
+        {
+          "domain": "Materie",
+          "subdomain": "Bindingen, structuren en eigenschappen"
+        }
+      ],
+      "keywords": [
+        "corrosie",
+        "oxidelaag",
+        "chroom",
+        "microniveau"
+      ],
+      "question_summary": "Op microniveau verklaren waarom een oxidelaagje het onderliggende metaal tegen corrosie beschermt",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-hard-water-vraag16.png",
+      "question_text": "Verklaar met behulp van begrippen op microniveau dat een laagje chroomoxide de corrosie van het daaronder liggende chroom verhindert.",
+      "context_block_ids": [
+        "e154228b-2d58-4000-88c8-9659bb71d1ac"
+      ]
+    },
+    {
+      "id": "20fde1ed-52d3-4c4b-88a1-e807ebe0ca58",
+      "exercise_id": "db2e174b-6cc8-4dc6-a376-d6bcf47f5f0b",
+      "question_number": 17,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Chemische processen"
+        }
+      ],
+      "keywords": [
+        "halfreacties",
+        "elektrochemische cel",
+        "totale reactie",
+        "batterij"
+      ],
+      "question_summary": "De totale reactievergelijking van een batterij opstellen uit twee halfreacties",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-zalmbatterijtje-vraag17.png",
+      "question_text": "Geef met behulp van deze halfreacties de vergelijking van de totale reactie voor de stroomlevering.",
+      "context_block_ids": [
+        "836fe5db-07d7-46a7-95c9-d0e44478db89"
+      ]
+    },
+    {
+      "id": "8f904c41-096b-4c9a-9a3b-6296fad4ec05",
+      "exercise_id": "db2e174b-6cc8-4dc6-a376-d6bcf47f5f0b",
+      "question_number": 18,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Chemische processen"
+        }
+      ],
+      "keywords": [
+        "elektrode",
+        "elektrochemische cel",
+        "reductie",
+        "oxidatie",
+        "polariteit"
+      ],
+      "question_summary": "Bepalen of een elektrode de positieve of negatieve pool van een batterij is aan de hand van de halfreactie",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-zalmbatterijtje-vraag18.png",
+      "question_text": "Leg uit of de elektrode met carbofluor de positieve of de negatieve elektrode is.",
+      "context_block_ids": [
+        "e4aec91f-a446-47d9-828c-cf841f1b9611"
+      ]
+    },
+    {
+      "id": "06fa67c8-cb5d-4841-b96d-55a5223b274e",
+      "exercise_id": "db2e174b-6cc8-4dc6-a376-d6bcf47f5f0b",
+      "question_number": 19,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Chemische processen"
+        }
+      ],
+      "keywords": [
+        "separator",
+        "ionentransport",
+        "polypropeen",
+        "elektrochemische cel"
+      ],
+      "question_summary": "Uitleggen waarom porën in de scheidingslaag van een batterij nodig zijn voor ionentransport",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-zalmbatterijtje-vraag19.png",
+      "question_text": "Leg uit dat de gaatjes noodzakelijk zijn voor de werking van het batterijtje.",
+      "context_block_ids": [
+        "bb9954b9-0330-4555-84f6-f230af0f33dc",
+        "60587e1a-2edc-4de3-abc2-e862b7098b25",
+        "8d5b2ba4-0842-43ec-a267-2fc05f770dc7"
+      ]
+    },
+    {
+      "id": "679e0fec-4baf-45be-afb7-facb52d8de20",
+      "exercise_id": "db2e174b-6cc8-4dc6-a376-d6bcf47f5f0b",
+      "question_number": 20,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Classificatie van reacties"
+        }
+      ],
+      "keywords": [
+        "polypropeen",
+        "additiepolymeer",
+        "monomeer",
+        "structuurformule"
+      ],
+      "question_summary": "De structuurformule van een middenfragment van een additiepolymeer met drie monomeereenheden tekenen",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-zalmbatterijtje-vraag20.png",
+      "question_text": "Geef de structuurformule van een fragment van polypropeen. Dit fragment moet komen uit het midden van een molecuul en drie monomeereenheden bevatten.",
+      "context_block_ids": []
+    },
+    {
+      "id": "b5839e7b-66b3-4667-a5d6-a1ed2ec5918e",
+      "exercise_id": "db2e174b-6cc8-4dc6-a376-d6bcf47f5f0b",
+      "question_number": 21,
+      "topics": [
+        {
+          "domain": "Rekenen en analyse",
+          "subdomain": "Grootheden en relaties"
+        }
+      ],
+      "keywords": [
+        "molaire massa",
+        "mol",
+        "elektronen",
+        "berekening"
+      ],
+      "question_summary": "Aantonen dat 1 gram lithium meer elektronen levert dan 1 gram zink via molaire massa's en halfreacties",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-zalmbatterijtje-vraag21.png",
+      "question_text": "Toon dit aan met behulp van een berekening.",
+      "context_block_ids": [
+        "836fe5db-07d7-46a7-95c9-d0e44478db89",
+        "e4aec91f-a446-47d9-828c-cf841f1b9611"
+      ]
+    },
+    {
+      "id": "4ec0c2d1-956f-469f-b3c0-5f3addeaaa65",
+      "exercise_id": "db2e174b-6cc8-4dc6-a376-d6bcf47f5f0b",
+      "question_number": 22,
+      "topics": [
+        {
+          "domain": "Rekenen en analyse",
+          "subdomain": "Grootheden en relaties"
+        }
+      ],
+      "keywords": [
+        "energie",
+        "massa",
+        "berekening",
+        "levensduur"
+      ],
+      "question_summary": "De maximale gebruiksduur van een batterijtje berekenen uit energie- en massagegevens",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-zalmbatterijtje-vraag22.png",
+      "question_text": "Bereken het maximale aantal dagen dat een zalmbatterijtje energie kan leveren voor het zendertje waarmee de zalm is uitgerust.\nGebruik hierbij de volgende gegevens:\n− De massa van het batterijtje is 100 mg.\n− De verhouding energie/massa van het batterijtje is 799 J g⁻¹.\n− Het zendertje geeft één signaal per drie seconden.\n− Voor ieder signaal is 1,0·10⁻⁴ J nodig.",
+      "context_block_ids": []
+    },
+    {
+      "id": "56099e33-8dc2-4f19-a157-8ffd97efcf74",
+      "exercise_id": "8f37a885-d573-4446-b27b-7b76ff61ed70",
+      "question_number": 23,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Chemische processen"
+        }
+      ],
+      "keywords": [
+        "volledige verbranding",
+        "reactievergelijking",
+        "hout",
+        "coëfficiënten"
+      ],
+      "question_summary": "De reactievergelijking opstellen voor de volledige verbranding van een gegeven formule voor hout",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-methaan-uit-hout-vraag23.png",
+      "question_text": "Geef de reactievergelijking voor de volledige verbranding van hout. Gebruik hierbij (C₆H₁₀O₅)ₙ als formule voor hout.",
+      "context_block_ids": []
+    },
+    {
+      "id": "fa06c1c5-3335-46dd-b4c8-6387e92a3388",
+      "exercise_id": "8f37a885-d573-4446-b27b-7b76ff61ed70",
+      "question_number": 24,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Energie"
+        }
+      ],
+      "keywords": [
+        "reactiewarmte",
+        "vormingswarmte",
+        "Binas-tabel",
+        "berekening"
+      ],
+      "question_summary": "De reactiewarmte per mol berekenen met vormingswarmtes uit Binas",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-methaan-uit-hout-vraag24.png",
+      "question_text": "Bereken de reactiewarmte (bij 298 K en p = p0) van reactie 1 in J per mol C₆H₁₀O₅.\nGebruik hierbij:\n− de vormingswarmte van C₆H₁₀O₅ (s): –9,9·10⁵ J mol⁻¹ (T = 298 K, p = p0);\n− Binas-tabel 57A of ScienceData-tabel 9.2a.",
+      "context_block_ids": [
+        "abbb2be6-7f9b-4694-819f-52354a7380e3"
+      ]
+    },
+    {
+      "id": "5941d038-287a-467c-85ab-c1064cd24c4d",
+      "exercise_id": "8f37a885-d573-4446-b27b-7b76ff61ed70",
+      "question_number": 25,
+      "topics": [
+        {
+          "domain": "Rekenen en analyse",
+          "subdomain": "Chemische vakmethodes"
+        }
+      ],
+      "keywords": [
+        "kookpunt",
+        "condenseren",
+        "scheidingsmethode",
+        "Binas-tabel"
+      ],
+      "question_summary": "De minimale afkoeltemperatuur bepalen om een stof als vloeistof af te scheiden, met kookpuntgegevens",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-methaan-uit-hout-vraag25.png",
+      "question_text": "Leg uit tot welke temperatuur het gasmengsel in scheidingsruimte S2 minstens moet worden afgekoeld. Maak gebruik van Binas of ScienceData.",
+      "context_block_ids": [
+        "bb27b83c-4589-4b8d-94da-9212ac2d211c"
+      ]
+    },
+    {
+      "id": "907e46e9-28ed-4d01-a2a6-d1126369f00a",
+      "exercise_id": "8f37a885-d573-4446-b27b-7b76ff61ed70",
+      "question_number": 26,
+      "topics": [
+        {
+          "domain": "Rekenen en analyse",
+          "subdomain": "Grootheden en relaties"
+        }
+      ],
+      "keywords": [
+        "volumeprocent",
+        "molair volume",
+        "dichtheid",
+        "berekening",
+        "significante cijfers"
+      ],
+      "question_summary": "De massa van een gas per volume-eenheid berekenen uit een volumepercentage en het molair volume",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-methaan-uit-hout-vraag26.png",
+      "question_text": "Bereken hoeveel gram benzeen aanwezig is per m³ productgas.\nGeef de uitkomst in het juiste aantal significante cijfers. Maak hierbij onder andere gebruik van het volgende gegeven:\n1,0 mol van elk gas heeft bij 850 °C een volume van 92 dm³.",
+      "context_block_ids": [
+        "cec539f9-2bc9-4725-9cd5-6969334a46ae"
+      ]
+    },
+    {
+      "id": "c1f04969-ed4d-4cb6-9925-0aa0331c2c57",
+      "exercise_id": "8f37a885-d573-4446-b27b-7b76ff61ed70",
+      "question_number": 27,
+      "topics": [
+        {
+          "domain": "Technologie en duurzaamheid",
+          "subdomain": "Industriële processen en groene chemie"
+        }
+      ],
+      "keywords": [
+        "atoomeconomie",
+        "groene chemie",
+        "molaire massa",
+        "berekening"
+      ],
+      "question_summary": "De atoomeconomie van een reactie berekenen met molaire massa's uit Binas",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-methaan-uit-hout-vraag27.png",
+      "question_text": "Bereken de atoomeconomie voor de vorming van methaan volgens reactie 2. Maak gebruik van Binas-tabel 37H of ScienceData-tabel 1.7.7.",
+      "context_block_ids": [
+        "5fc6133e-d18a-4154-8c88-f27d800e98bb"
+      ]
+    },
+    {
+      "id": "37b09bb2-e15a-4c4f-bd2a-473417db5338",
+      "exercise_id": "8f37a885-d573-4446-b27b-7b76ff61ed70",
+      "question_number": 28,
+      "topics": [
+        {
+          "domain": "Technologie en duurzaamheid",
+          "subdomain": "Industriële processen en groene chemie"
+        }
+      ],
+      "keywords": [
+        "blokschema",
+        "stofstroom",
+        "industrieel proces"
+      ],
+      "question_summary": "Een blokschema van een industrieel proces aanvullen met de ontbrekende stofstromen",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-methaan-uit-hout-vraag28.png",
+      "question_text": "Maak het blokschema op de uitwerkbijlage compleet door de ontbrekende stofstromen te tekenen.\n− Gebruik lijnen met pijlen voor stofstromen.\n− Geef bij elke zelf getekende stofstroom de naam/namen van de betreffende stof/stoffen.",
+      "context_block_ids": [
+        "e29c6401-1a91-4021-840b-3a9184b2b9ac",
+        "1a8cea09-1eda-4860-b4da-6eafa0ce988e",
+        "bb27b83c-4589-4b8d-94da-9212ac2d211c",
+        "5fc6133e-d18a-4154-8c88-f27d800e98bb",
+        "5ce4956e-8eab-4393-9a44-f5f7376392d3",
+        "8304099b-428f-48cd-94f5-4fb2f6bb2a80"
+      ]
+    },
+    {
+      "id": "7d198341-ec5e-44a8-a5a1-80da5e51d66f",
+      "exercise_id": "08a977cf-bd04-4975-9176-a89eda62b30f",
+      "question_number": 29,
+      "topics": [
+        {
+          "domain": "Materie",
+          "subdomain": "Bindingen en eigenschappen"
+        }
+      ],
+      "keywords": [
+        "hydrofoob",
+        "hydrofiel",
+        "vanderwaalsbinding",
+        "oplosmiddel"
+      ],
+      "question_summary": "Bepalen of een apolair oplosmiddel hydrofiel of hydrofoob vuil verwijdert",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-biopad-vraag29.png",
+      "question_text": "Leg uit welk soort vuil met behulp van TCE verwijderd kan worden uit textiel: hydrofiel of hydrofoob vuil.",
+      "context_block_ids": [
+        "e3853b6e-b686-463e-a0d6-f2e5baf53140"
+      ]
+    },
+    {
+      "id": "0ffbea57-8303-4217-b114-8176855d58a1",
+      "exercise_id": "08a977cf-bd04-4975-9176-a89eda62b30f",
+      "question_number": 30,
+      "topics": [
+        {
+          "domain": "Materie",
+          "subdomain": "Bindingen en eigenschappen"
+        }
+      ],
+      "keywords": [
+        "atoombinding",
+        "waterstofmolecuul",
+        "bindingsbreuk"
+      ],
+      "question_summary": "Het type binding benoemen dat wordt verbroken bij het splitsen van een waterstofmolecuul in atomen",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-biopad-vraag30.png",
+      "question_text": "Welk soort chemische binding wordt verbroken bij de omzetting van H₂ tot waterstofatomen?",
+      "context_block_ids": [
+        "e93ebcec-2052-49e2-a022-888373c58e47"
+      ]
+    },
+    {
+      "id": "032ec2ac-1a3e-4721-9326-9aa914e03560",
+      "exercise_id": "08a977cf-bd04-4975-9176-a89eda62b30f",
+      "question_number": 31,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Chemische processen"
+        }
+      ],
+      "keywords": [
+        "substitutiereactie",
+        "molecuulformule",
+        "reactievergelijking",
+        "katalysator"
+      ],
+      "question_summary": "Een onvolledige reactievergelijking met molecuulformules kloppend maken op basis van een schematische figuur",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-biopad-vraag31.png",
+      "question_text": "Maak deze vergelijking van de totale reactie van het zuiveringsproces compleet.\n− Maak gebruik van informatie in figuur 1B.\n− Vervang TCE en ethaan door molecuulformules.\n− Zet formules van de ontbrekende deeltjes op de plaats van de stippellijntjes.\n− Maak de vergelijking kloppend.",
+      "context_block_ids": [
+        "e93ebcec-2052-49e2-a022-888373c58e47",
+        "a3d608ca-6801-465e-b8fe-52bc9b1f93df",
+        "424835cb-9c58-4f7c-91d6-2915724f4724"
+      ]
+    },
+    {
+      "id": "279a123b-c244-4ba0-b0c2-82ca781b7ba3",
+      "exercise_id": "08a977cf-bd04-4975-9176-a89eda62b30f",
+      "question_number": 32,
+      "topics": [
+        {
+          "domain": "Reacties",
+          "subdomain": "Reactiesnelheid en katalyse"
+        }
+      ],
+      "keywords": [
+        "katalysator",
+        "verdelingsgraad",
+        "oppervlak",
+        "reactiesnelheid"
+      ],
+      "question_summary": "Uitleggen waarom een fijnverdeelde katalysator die niet samenklontert voordelig is",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-biopad-vraag32.png",
+      "question_text": "Leg uit waarom dit een voordeel is bij dit proces.",
+      "context_block_ids": [
+        "ecc4065d-385c-48e1-bc77-25edfb7e3f51"
+      ]
+    },
+    {
+      "id": "d9e3ae81-4913-45d0-aebb-c675e1fc437f",
+      "exercise_id": "08a977cf-bd04-4975-9176-a89eda62b30f",
+      "question_number": 33,
+      "topics": [
+        {
+          "domain": "Rekenen en analyse",
+          "subdomain": "Chemische vakmethodes"
+        }
+      ],
+      "keywords": [
+        "membraan",
+        "scheidingsmethode",
+        "katalysator hergebruik"
+      ],
+      "question_summary": "Voordelen benoemen van het achterblijven van een katalysator in een reactor dankzij een membraan",
+      "question_image_url": "https://rfyffbietarhprlbvdek.supabase.co/storage/v1/object/public/practice-question-images/scheikunde-havo-2022-iii-biopad-vraag33.png",
+      "question_text": "Geef twee redenen waarom het gunstig is dat BioPAD in de reactor achterblijft.",
+      "context_block_ids": [
+        "bafd4de9-cee0-49b7-834c-039f2841f073"
+      ]
+    }
+  ]
+}
