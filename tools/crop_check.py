@@ -86,24 +86,36 @@ def check_crop(blocks, y0, y1, x0=None, x1=None, tolerance=0.5):
     return problems
 
 
-def get_x_bounds(blocks, y0, y1, margin=15, page_width=595.56):
+def get_x_bounds(blocks, y0, y1, margin=15, page_width=None):
     """Return a tight (x0, x1) crop width based on the actual content that
     falls within [y0, y1], plus a fixed margin on each side. Never crop the
     full page width by default -- that's what causes huge, illegible side
     margins on narrow content (e.g. a short answer or small diagram).
 
     margin: points of whitespace to keep on each side (15pt default).
+
+    page_width: pass the REAL page's width (page.rect.width) if you want x1
+    clamped to the page edge. Do not rely on the old hardcoded 595.56
+    default -- ExamenCentraal PDFs mix portrait (595.56pt) and landscape
+    (842.04pt, e.g. some uitwerkbijlage pages) pages in the same document,
+    and silently clamping a landscape page's content to the portrait width
+    truncates real content (seen: a reaction-equation label cropped off the
+    right edge of a landscape uitwerkbijlage page). If page_width is not
+    given, x1 is left unclamped (only content + margin), which is always
+    safe since fitz simply renders no further than the actual page edge.
     """
     relevant = [
         (bx0, bx1) for bx0, by0, bx1, by1, kind, snippet in blocks
         if by1 > y0 and by0 < y1  # block overlaps this y-range at all
     ]
     if not relevant:
-        return (0, page_width)  # fallback: no content found, use full width
+        return (0, page_width if page_width is not None else 595.56)  # fallback: no content found
 
     content_x0 = min(b[0] for b in relevant)
     content_x1 = max(b[1] for b in relevant)
 
     x0 = max(0, content_x0 - margin)
-    x1 = min(page_width, content_x1 + margin)
+    x1 = content_x1 + margin
+    if page_width is not None:
+        x1 = min(page_width, x1)
     return (x0, x1)
