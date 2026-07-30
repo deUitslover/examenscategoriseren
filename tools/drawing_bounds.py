@@ -89,9 +89,24 @@ def get_full_y_bounds(drawing_boxes, y0, y1):
     """Widen a (y0, y1) crop so it fully contains any vector drawing that
     overlaps it (prevents slicing through the top/bottom of a skeletal
     formula whose bbox pokes slightly outside the originally guessed range).
+
+    Iterates to a fixed point instead of a single pass: a table border is
+    often dozens of separate thin-line boxes (one per cell edge), and
+    get_drawings() does not return them in y-order. A single pass only
+    widens using each box's position against the *original* y0/y1, so a
+    border segment right at the initial edge (e.g. the last row's bottom
+    line) can be skipped if it happens to be visited before an earlier
+    widening reaches it -- silently leaving the crop one row short. Looping
+    until the bounds stop changing catches every overlapping box regardless
+    of list order, at negligible cost (drawing box lists are small).
     """
-    for dx0, dy0, dx1, dy1 in drawing_boxes:
-        if dy1 > y0 and dy0 < y1:
-            y0 = min(y0, dy0)
-            y1 = max(y1, dy1)
+    changed = True
+    while changed:
+        changed = False
+        for dx0, dy0, dx1, dy1 in drawing_boxes:
+            if dy1 > y0 and dy0 < y1:
+                if dy0 < y0 or dy1 > y1:
+                    y0 = min(y0, dy0)
+                    y1 = max(y1, dy1)
+                    changed = True
     return (y0, y1)
