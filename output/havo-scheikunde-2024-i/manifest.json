@@ -1,0 +1,31 @@
+{
+  "source": "HAVO Scheikunde 2024-I",
+  "subject_name": "Scheikunde",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Toiletpapier wordt bio-ethanol",
+      "question_numbers": [1, 2, 3, 4, 5]
+    },
+    {
+      "title": "Koeien boeren methaan op",
+      "question_numbers": [6, 7, 8, 9, 10, 11]
+    },
+    {
+      "title": "Zuurstofvanger",
+      "question_numbers": [12, 13, 14, 15, 16]
+    },
+    {
+      "title": "Lithium-ion-accu’s recyclen",
+      "question_numbers": [17, 18, 19, 20, 21, 22, 23]
+    },
+    {
+      "title": "Plastic wordt olie",
+      "question_numbers": [24, 25, 26, 27, 28]
+    },
+    {
+      "title": "Ademende flowbatterij",
+      "question_numbers": [29, 30, 31, 32, 33, 34]
+    }
+  ]
+}
