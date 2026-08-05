@@ -119,3 +119,32 @@ def get_x_bounds(blocks, y0, y1, margin=15, page_width=None):
     if page_width is not None:
         x1 = min(page_width, x1)
     return (x0, x1)
+
+def get_shared_x_bounds(per_block_bounds, page_width=None):
+    """Given the individual (x0, x1) bounds already computed for each crop
+    belonging to one opgave, return one shared (x0, x1) equal to their
+    union -- the widest x-extent among them. Use this SAME (x0, x1) for
+    every crop in the opgave (context blocks and question crops alike)
+    instead of each block's own tight bounds.
+
+    Why: every cropped image is later displayed scaled to fill the same
+    fixed container width, regardless of its own point-width. A crop that
+    is naturally narrower gets upscaled more, making its text look bigger
+    on screen than a crop from a wider block -- even though the actual
+    font size in the PDF is identical. Giving every crop in an opgave the
+    same physical width in points keeps the upscale factor identical, so
+    rendered text size stays visually consistent across the whole opgave.
+
+    per_block_bounds: list of (x0, x1) tuples, one per PLANNED crop in the
+    opgave (from get_x_bounds / get_full_x_bounds), collected BEFORE
+    rendering anything.
+
+    Call this separately per page-orientation group (portrait vs.
+    landscape uitwerkbijlage pages) within the opgave -- those are
+    physically different page widths and should not share one bound.
+    """
+    x0 = min(b[0] for b in per_block_bounds)
+    x1 = max(b[1] for b in per_block_bounds)
+    if page_width is not None:
+        x1 = min(page_width, x1)
+    return (x0, x1)
