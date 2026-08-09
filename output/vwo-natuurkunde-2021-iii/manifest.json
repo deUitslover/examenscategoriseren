@@ -1,0 +1,12 @@
+{
+  "source": "VWO Natuurkunde 2021-III",
+  "subject_name": "Natuurkunde",
+  "level": "VWO",
+  "exercises": [
+    { "title": "Kayak-jumping", "question_numbers": [1, 2, 3, 4, 5, 6, 7] },
+    { "title": "AA-Batterijen", "question_numbers": [8, 9, 10, 11, 12] },
+    { "title": "GPS", "question_numbers": [13, 14, 15, 16, 17] },
+    { "title": "SIRT", "question_numbers": [18, 19, 20, 21] },
+    { "title": "Wortel en mango", "question_numbers": [22, 23, 24] }
+  ]
+}
