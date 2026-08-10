@@ -1,0 +1,57 @@
+{
+  "source": "VWO Natuurkunde 2023-I",
+  "subject_name": "Natuurkunde",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Langlaufen in klassieke stijl",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Cappuccino",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Poollicht",
+      "question_numbers": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Boomwhackers",
+      "question_numbers": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Ramsauer en Townsend",
+      "question_numbers": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    }
+  ]
+}
