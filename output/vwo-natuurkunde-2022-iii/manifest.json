@@ -1,0 +1,62 @@
+{
+  "source": "VWO Natuurkunde 2022-III",
+  "subject_name": "Natuurkunde",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Schakeling van LED's",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Hoe kan men rustig in de ruimte parkeren?",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Radon in de kelder",
+      "question_numbers": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Parasailing",
+      "question_numbers": [
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Compton",
+      "question_numbers": [
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Viool",
+      "question_numbers": [
+        22,
+        23,
+        24,
+        25
+      ]
+    }
+  ]
+}
