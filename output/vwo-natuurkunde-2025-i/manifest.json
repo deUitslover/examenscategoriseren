@@ -1,0 +1,62 @@
+{
+  "source": "VWO Natuurkunde 2025-I",
+  "subject_name": "Natuurkunde",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Shorttrack",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Geluidssnelheid",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Opslag van energie",
+      "question_numbers": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Lycopeen",
+      "question_numbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "title": "Stikstof-13",
+      "question_numbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "title": "H-alfafilter",
+      "question_numbers": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    }
+  ]
+}
