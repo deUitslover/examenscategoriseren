@@ -1,0 +1,61 @@
+{
+  "source": "VWO Natuurkunde 2025-II",
+  "subject_name": "Natuurkunde",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Lampjespracticum",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Springende hydrogelballetjes",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Sterrenlicht",
+      "question_numbers": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Experiment van Millikan",
+      "question_numbers": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Lever zichtbaar maken",
+      "question_numbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "title": "WASP",
+      "question_numbers": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  ]
+}
