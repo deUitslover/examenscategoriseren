@@ -1,0 +1,59 @@
+{
+  "source": "VWO Natuurkunde 2016-II",
+  "subject_name": "Natuurkunde",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Onderzoek naar geluid uit een fles",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Thalliumscintigrafie",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Jupiter ‘fly-by’",
+      "question_numbers": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Buiging bij een enkelspleet",
+      "question_numbers": [
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "title": "Draadbreuk",
+      "question_numbers": [
+        24,
+        25,
+        26,
+        27
+      ]
+    }
+  ]
+}

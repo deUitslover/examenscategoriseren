@@ -86,6 +86,18 @@ def check_crop(blocks, y0, y1, x0=None, x1=None, tolerance=0.5):
     that is fully inside or fully outside [y0, y1] is fine. If x0/x1 are
     given, only blocks overlapping that x-range are considered (useful when
     two columns/figures share a y-range but only one is being cropped).
+
+    Gotcha (seen while processing VWO-NAT-16-II-O.pdf, uitwerkbijlage pages):
+    this function ONLY checks the Y axis for slicing -- x0/x1 are just an
+    overlap filter that decides whether a block is "relevant", never a check
+    that the block's own x-range fits inside [x0, x1]. A narrow per-crop x
+    override (e.g. to dodge a neighbouring figure, see the module docstring)
+    can silently slice through the LEFT edge of a vraagnummer/figuur label
+    ("16 figuur 3a" rendered as "6 figuur 3a") with zero warning from this
+    function, because that's an x-slice, not a y-straddle. When narrowing
+    x0 for a crop that contains a text label, always cross-check x0 against
+    that label's own bbox x0 (from get_blocks) with margin -- check_crop
+    cannot catch this for you.
     """
     problems = []
     for block in blocks:
