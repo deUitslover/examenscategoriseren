@@ -15,6 +15,28 @@ Usage:
     problems = check_crop(blocks, y0=120, y1=480, x0=x0, x1=x1)
     if problems:
         print(problems)  # adjust y0/y1 and re-check
+
+Gotcha (seen while processing VWO-NAT-16-I-O.pdf): on pages where a figure
+sits beside a paragraph/vraag-tekst instead of above/below it (two "columns"
+sharing the same y-range), applying the whole opgave's get_shared_x_bounds()
+to a narrow vraag-only crop will pull in a slice of the neighbouring figure
+even though the figure doesn't horizontally overlap the vraag's own text --
+because shared bounds are wide enough to span both columns. check_crop will
+correctly flag this (image straddles top/bottom). Two fixes, both compatible
+with get_shared_x_bounds() for every OTHER crop in the opgave:
+  1. Per-crop x override: render just that one crop with a narrower x1 (or
+     x0) that stops short of the neighbouring figure's column, instead of
+     the shared bounds. Only do this for the specific crop that collides;
+     leave every other crop on the shared bounds.
+  2. If the offending crop's own content changes column partway through
+     (e.g. an early line sits beside the figure but a later, wider line
+     does not), split that one crop into two pieces at the y where the
+     column layout changes, give the first piece the narrower x1 and the
+     second piece the full shared x1, then stitch them with
+     crop_stitch.stack_pixmaps(). Pick the split y strictly more than 0.5pt
+     (check_crop's default tolerance) away from both the crop-ending block
+     above it and the crop-starting block below it, or check_crop will
+     report a false-positive straddle right at the seam.
 """
 
 

@@ -1,0 +1,57 @@
+{
+  "source": "VWO Natuurkunde 2016-I",
+  "subject_name": "Natuurkunde",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Gekleurde LED's",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Ruimtelift?",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Vliegen",
+      "question_numbers": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Trillingen binnen een molecuul",
+      "question_numbers": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Onderzoek van bot met calcium-47",
+      "question_numbers": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    }
+  ]
+}
