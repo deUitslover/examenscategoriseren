@@ -15,6 +15,28 @@ Usage:
     problems = check_crop(blocks, y0=120, y1=480, x0=x0, x1=x1)
     if problems:
         print(problems)  # adjust y0/y1 and re-check
+
+Gotcha (seen while processing VWO-NAT-16-I-O.pdf): on pages where a figure
+sits beside a paragraph/vraag-tekst instead of above/below it (two "columns"
+sharing the same y-range), applying the whole opgave's get_shared_x_bounds()
+to a narrow vraag-only crop will pull in a slice of the neighbouring figure
+even though the figure doesn't horizontally overlap the vraag's own text --
+because shared bounds are wide enough to span both columns. check_crop will
+correctly flag this (image straddles top/bottom). Two fixes, both compatible
+with get_shared_x_bounds() for every OTHER crop in the opgave:
+  1. Per-crop x override: render just that one crop with a narrower x1 (or
+     x0) that stops short of the neighbouring figure's column, instead of
+     the shared bounds. Only do this for the specific crop that collides;
+     leave every other crop on the shared bounds.
+  2. If the offending crop's own content changes column partway through
+     (e.g. an early line sits beside the figure but a later, wider line
+     does not), split that one crop into two pieces at the y where the
+     column layout changes, give the first piece the narrower x1 and the
+     second piece the full shared x1, then stitch them with
+     crop_stitch.stack_pixmaps(). Pick the split y strictly more than 0.5pt
+     (check_crop's default tolerance) away from both the crop-ending block
+     above it and the crop-starting block below it, or check_crop will
+     report a false-positive straddle right at the seam.
 """
 
 
@@ -64,6 +86,31 @@ def check_crop(blocks, y0, y1, x0=None, x1=None, tolerance=0.5):
     that is fully inside or fully outside [y0, y1] is fine. If x0/x1 are
     given, only blocks overlapping that x-range are considered (useful when
     two columns/figures share a y-range but only one is being cropped).
+
+    Gotcha (seen while processing VWO-NAT-16-II-O.pdf, uitwerkbijlage pages):
+    this function ONLY checks the Y axis for slicing -- x0/x1 are just an
+    overlap filter that decides whether a block is "relevant", never a check
+    that the block's own x-range fits inside [x0, x1]. A narrow per-crop x
+    override (e.g. to dodge a neighbouring figure, see the module docstring)
+    can silently slice through the LEFT edge of a vraagnummer/figuur label
+    ("16 figuur 3a" rendered as "6 figuur 3a") with zero warning from this
+    function, because that's an x-slice, not a y-straddle. When narrowing
+    x0 for a crop that contains a text label, always cross-check x0 against
+    that label's own bbox x0 (from get_blocks) with margin -- check_crop
+    cannot catch this for you.
+
+    Gotcha (seen throughout VWO-NAT-17-I-O.pdf): ExamenCentraal PDFs very
+    often merge a context paragraph's final sentence and the following
+    vraag's "Np N ..." text into ONE PyMuPDF block (no blank line between
+    them at the block level, even though there's a real visual gap). When
+    a context crop and the next vraag crop deliberately split that shared
+    block at the clean line-boundary between them, check_crop WILL report
+    it as a straddling block on both sides -- this is expected and safe,
+    not a real slicing bug, as long as the chosen y0/y1 falls in the gap
+    between two consecutive lines (check with get_text('dict') line bboxes,
+    not just block bboxes) rather than inside a single line's own bbox.
+    Only worry about a straddle flag when the tolerance-sized gap doesn't
+    correspond to a real inter-line gap -- that's a genuine slice.
     """
     problems = []
     for block in blocks:
