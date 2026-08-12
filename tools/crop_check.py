@@ -98,6 +98,19 @@ def check_crop(blocks, y0, y1, x0=None, x1=None, tolerance=0.5):
     x0 for a crop that contains a text label, always cross-check x0 against
     that label's own bbox x0 (from get_blocks) with margin -- check_crop
     cannot catch this for you.
+
+    Gotcha (seen throughout VWO-NAT-17-I-O.pdf): ExamenCentraal PDFs very
+    often merge a context paragraph's final sentence and the following
+    vraag's "Np N ..." text into ONE PyMuPDF block (no blank line between
+    them at the block level, even though there's a real visual gap). When
+    a context crop and the next vraag crop deliberately split that shared
+    block at the clean line-boundary between them, check_crop WILL report
+    it as a straddling block on both sides -- this is expected and safe,
+    not a real slicing bug, as long as the chosen y0/y1 falls in the gap
+    between two consecutive lines (check with get_text('dict') line bboxes,
+    not just block bboxes) rather than inside a single line's own bbox.
+    Only worry about a straddle flag when the tolerance-sized gap doesn't
+    correspond to a real inter-line gap -- that's a genuine slice.
     """
     problems = []
     for block in blocks:

@@ -1,0 +1,57 @@
+{
+  "source": "VWO Natuurkunde 2017-I",
+  "subject_name": "Natuurkunde",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Zonvolgsysteem",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Cessna",
+      "question_numbers": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Sirius B als Quantumsysteem",
+      "question_numbers": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Protonenweegschaal?",
+      "question_numbers": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Inwendige bestraling",
+      "question_numbers": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    }
+  ]
+}
