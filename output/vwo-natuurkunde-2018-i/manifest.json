@@ -1,0 +1,58 @@
+{
+  "source": "VWO Natuurkunde 2018-I",
+  "subject_name": "Natuurkunde",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Uitrijden van een auto",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Water uit de ruimte",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Elektrische tandenborstel",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "MRI (Magnetic Resonance Imaging)",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Energievoorziening voor een weerstation",
+      "question_numbers": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    }
+  ]
+}
