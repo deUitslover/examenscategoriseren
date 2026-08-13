@@ -1,0 +1,57 @@
+{
+  "source": "VWO Natuurkunde 2017-II",
+  "subject_name": "Natuurkunde",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Rookmelder",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "X-stream",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "De kracht van het viriaal-theorema",
+      "question_numbers": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Speeldoosje",
+      "question_numbers": [
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "title": "Elektronen uit metaal ‘stoken’",
+      "question_numbers": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    }
+  ]
+}
