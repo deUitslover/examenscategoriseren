@@ -195,3 +195,49 @@ def get_shared_x_bounds(per_block_bounds, page_width=None):
     if page_width is not None:
         x1 = min(page_width, x1)
     return (x0, x1)
+
+
+def get_column_groups(planned, gap=2.0):
+    """Given planned crops (list of dicts with keys x0, y0, x1, y1), return a
+    list of groups (each a list of indices into `planned`) safe to pass
+    individually into get_shared_x_bounds().
+
+    Two crops are FORCED into separate groups if their y-ranges overlap but
+    their x-ranges do not -- i.e. they sit side-by-side on the page (e.g. a
+    question next to its figure). Sharing a width across such a pair would
+    stretch one crop's x0/x1 into the other's territory, visually capturing
+    the neighbor's content too. Any other pair (stacked, non-overlapping y)
+    is grouped together as before.
+    """
+    n = len(planned)
+    parent = list(range(n))
+
+    def find(i):
+        while parent[i] != i:
+            parent[i] = parent[parent[i]]
+            i = parent[i]
+        return i
+
+    def union(i, j):
+        ri, rj = find(i), find(j)
+        if ri != rj:
+            parent[ri] = rj
+
+    def y_overlap(a, b):
+        return a["y0"] < b["y1"] - gap and b["y0"] < a["y1"] - gap
+
+    def x_overlap(a, b):
+        return a["x0"] < b["x1"] and b["x0"] < a["x1"]
+
+    for i in range(n):
+        for j in range(i + 1, n):
+            side_by_side = y_overlap(planned[i], planned[j]) and not x_overlap(planned[i], planned[j])
+            if not side_by_side:
+                union(i, j)
+
+    groups = {}
+    for i in range(n):
+        groups.setdefault(find(i), []).append(i)
+    return list(groups.values())
+
+
