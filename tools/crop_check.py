@@ -167,6 +167,63 @@ def get_x_bounds(blocks, y0, y1, margin=15, page_width=None):
         x1 = min(page_width, x1)
     return (x0, x1)
 
+def get_column_groups(blocks, y0, y1, gap=20):
+    """Detect left-to-right "columns" among the blocks overlapping [y0, y1]:
+    clusters of blocks whose x-ranges touch or overlap, separated from the
+    next cluster by at least `gap` points of empty horizontal space. Returns
+    a list of (x0, x1) column bounds, sorted left-to-right.
+
+    Why this exists (bug seen across several VWO-NAT opgaven, e.g. 2017-I
+    Cessna, 2024-II Elektrische scooter): when a vraag sits beside a figure
+    on the same page (two side-by-side "columns" sharing one y-range) instead
+    of above/below it, blindly feeding every crop's own (x0, x1) into
+    get_shared_x_bounds() for the whole opgave produces ONE shared bound
+    spanning BOTH columns -- so a narrow vraag-only crop gets rendered at the
+    figure's width and pulls in a strip of the figure (or vice versa),
+    showing up as an oversized, duplicated-looking crop.
+
+    Fix: call get_column_groups() first (per y-range, before rendering
+    anything) to find the real column structure, assign every planned crop
+    in the opgave to the column its own bbox overlaps most (see
+    assign_column below), then call get_shared_x_bounds() SEPARATELY per
+    column group -- never across columns. Two crops that are genuinely
+    stacked vertically in the same column still correctly share one width;
+    two crops sitting side by side never do.
+
+    gap: minimum points of horizontal whitespace between blocks to treat
+    them as different columns rather than one wide column (20pt default --
+    normal word/inline-spacing gaps are much smaller than this).
+    """
+    relevant = [b for b in blocks if b[3] > y0 and b[1] < y1]
+    if not relevant:
+        return []
+    ranges = sorted((b[0], b[2]) for b in relevant)
+    groups = [list(ranges[0])]
+    for x0, x1 in ranges[1:]:
+        if x0 <= groups[-1][1] + gap:
+            groups[-1][1] = max(groups[-1][1], x1)
+        else:
+            groups.append([x0, x1])
+    return [tuple(g) for g in groups]
+
+
+def assign_column(bbox_x0_x1, column_groups):
+    """Given a planned crop's own (x0, x1) and the column_groups returned by
+    get_column_groups() for its y-range, return the (x0, x1) of the column
+    it belongs to (the one it overlaps most). Use the result as a grouping
+    key: crops sharing the same returned tuple may share x-bounds via
+    get_shared_x_bounds(); crops with different keys must not.
+    """
+    cx0, cx1 = bbox_x0_x1
+    best, best_overlap = None, 0
+    for gx0, gx1 in column_groups:
+        overlap = min(cx1, gx1) - max(cx0, gx0)
+        if overlap > best_overlap:
+            best_overlap = overlap
+            best = (gx0, gx1)
+    return best if best is not None else (cx0, cx1)
+
+
 def get_shared_x_bounds(per_block_bounds, page_width=None):
     """Given the individual (x0, x1) bounds already computed for each crop
     belonging to one opgave, return one shared (x0, x1) equal to their

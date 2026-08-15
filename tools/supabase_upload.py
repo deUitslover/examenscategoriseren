@@ -24,6 +24,27 @@ import os
 import requests
 
 
+def delete_image(supabase_url, anon_key, bucket, remote_filename):
+    """Delete a single object from a Supabase Storage bucket, e.g. before
+    re-uploading a corrected crop under the same filename (image_url columns
+    in the DB reference the filename, not a version, so re-uploading under
+    the same name is how a bad crop gets fixed without any SQL/db change).
+
+    Returns (True, status_code) on 200/204, or on a 404 (already absent --
+    treat as fine, nothing to clean up). Returns (False, status_code) for
+    any other status.
+    """
+    headers = {
+        "apikey": anon_key,
+        "Authorization": f"Bearer {anon_key}",
+    }
+    url = f"{supabase_url}/storage/v1/object/{bucket}/{remote_filename}"
+    r = requests.delete(url, headers=headers, timeout=30)
+    if r.status_code in (200, 204, 404):
+        return True, r.status_code
+    return False, r.status_code
+
+
 def upload_image(supabase_url, anon_key, bucket, local_path, remote_filename=None):
     """Upload a single local image file to a Supabase Storage bucket.
     Returns (True, None) on success (HTTP 200 from the PUT), or
