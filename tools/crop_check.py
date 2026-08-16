@@ -167,6 +167,115 @@ def get_x_bounds(blocks, y0, y1, margin=15, page_width=None):
         x1 = min(page_width, x1)
     return (x0, x1)
 
+def pad_bounds(x0, y0, x1, y1, other_rects, margin=15):
+    """Expand a tight content rect (x0, y0, x1, y1) outward by `margin` on
+    each side, EXCEPT shrink the padding on any side where another crop's
+    rect sits close enough that the full margin would eat into it.
+
+    Why this exists: adding a flat 15pt margin independently to two
+    vertically-adjacent crops works fine when they're far apart, but when
+    the real content gap between them is small (e.g. 16pt), 15pt of
+    padding on EACH side adds up to more than the gap itself -- the two
+    padded rects overlap, and whichever is rendered second silently bakes
+    a sliver of its neighbour's text into its own PNG. This is the same
+    duplication failure mode as the column-conflict case, just triggered
+    by margin instead of a genuine side-by-side layout.
+
+    other_rects: iterable of (x0, y0, x1, y1) tuples for every OTHER
+    crop's own tight (pre-margin) bounds on the same page (do not include
+    this rect's own sibling pieces from the same multi-piece crop -- those
+    are deliberately adjacent and already split at a safe seam).
+
+    For each side, only rects that are strictly beyond that side (and
+    still overlap the rect's span on the perpendicular axis) can shrink
+    that side's padding; the padding used is min(margin, gap / 2), so two
+    crops padding towards each other always end up with an equal,
+    non-overlapping gap between them. Do NOT floor this at some minimum
+    padding (e.g. max(2, gap / 2)): when the real content gap is smaller
+    than 2x that floor (seen between two consecutive vragen only ~1.7pt
+    apart in VWO-NAT-16-I-O.pdf), flooring each side independently makes
+    the two padded rects overlap by construction, which silently bakes a
+    sliver of one crop's own text into its neighbour's PNG -- the exact
+    duplication bug this function exists to prevent. When the gap is
+    tight, the resulting padding is just small (down to 0), never absent.
+    """
+    top, bottom, left, right = margin, margin, margin, margin
+    for ox0, oy0, ox1, oy1 in other_rects:
+        x_overlap = ox1 > x0 and ox0 < x1
+        y_overlap = oy1 > y0 and oy0 < y1
+        if x_overlap and oy1 <= y0:
+            top = min(top, max(0.0, (y0 - oy1) / 2))
+        if x_overlap and oy0 >= y1:
+            bottom = min(bottom, max(0.0, (oy0 - y1) / 2))
+        if y_overlap and ox1 <= x0:
+            left = min(left, max(0.0, (x0 - ox1) / 2))
+        if y_overlap and ox0 >= x1:
+            right = min(right, max(0.0, (ox0 - x1) / 2))
+    return (x0 - left, y0 - top, x1 + right, y1 + bottom)
+
+
+def get_column_groups(crops, y_overlap_tolerance=5):
+    """Partition a list of PLANNED crops belonging to one opgave into
+    column-groups, so that get_shared_x_bounds() can be applied separately
+    per group instead of once for the whole opgave.
+
+    Why this exists (seen while processing VWO-NAT-16-I-O.pdf): when a
+    figure sits beside a vraag/paragraph instead of above/below it (two
+    "columns" sharing the same y-range on one page), giving every crop in
+    the opgave one shared x-width pulls the narrow column (e.g. a vraag
+    text next to a wide figure) up to the wide column's width -- rendering
+    it oversized, or duplicating a slice of the neighbouring column into
+    frame when check_crop's x-overlap filter isn't narrowed to match.
+
+    crops: list of dicts, each with at least:
+        'name'  -- any hashable identifier for the crop (e.g. filename)
+        'page'  -- identifies which physical PDF page this crop is on
+                   (e.g. page.number). Crops on different pages are NEVER
+                   considered column-neighbours, regardless of coordinates.
+        'x0', 'y0', 'x1', 'y1' -- the crop's own PLANNED tight bounds
+                   (from get_x_bounds), before any shared-width widening.
+
+    Returns: list of groups, each group a list of the input crops' 'name'
+    values. Feed each group's own crops (their own x0/x1) into
+    get_shared_x_bounds() separately -- the resulting shared width never
+    crosses a column boundary. A crop with no column-neighbour ends up
+    alone in its own group, which is equivalent to using its own tight
+    bounds (this is "fix 1" from the get_blocks/check_crop gotcha notes).
+
+    Two crops conflict (must end up in different groups) when they are on
+    the same page, their y-ranges overlap by more than
+    y_overlap_tolerance points, AND their x-ranges do NOT overlap at all
+    -- i.e. they sit side by side on the page rather than stacked.
+
+    Grouping is a simple greedy bin-packing over the crops in input order:
+    a crop joins the first existing group with no conflicting member,
+    otherwise it starts a new group. This only matters for opgaves with
+    an actual side-by-side layout; the common case (everything stacked
+    vertically) always yields exactly one group, same as before this
+    function existed.
+    """
+    def conflicts(a, b):
+        if a["page"] != b["page"]:
+            return False
+        y_overlap = min(a["y1"], b["y1"]) - max(a["y0"], b["y0"])
+        if y_overlap <= y_overlap_tolerance:
+            return False
+        x_overlap = min(a["x1"], b["x1"]) - max(a["x0"], b["x0"])
+        return x_overlap <= 0
+
+    groups = []  # list of lists of crop dicts
+    for crop in crops:
+        placed = False
+        for group in groups:
+            if not any(conflicts(crop, member) for member in group):
+                group.append(crop)
+                placed = True
+                break
+        if not placed:
+            groups.append([crop])
+    return [[c["name"] for c in group] for group in groups]
+
+
 def get_shared_x_bounds(per_block_bounds, page_width=None):
     """Given the individual (x0, x1) bounds already computed for each crop
     belonging to one opgave, return one shared (x0, x1) equal to their
