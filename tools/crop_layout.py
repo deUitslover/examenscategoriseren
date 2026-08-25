@@ -60,6 +60,28 @@ Usage (the overlap case -- figure extends into a sibling's row):
     # it never needs to include the figure's column at all, so it never
     # needs foreign_boxes/whiteout either.
     v_x0, v_x1 = own_bounds_excluding(blocks, y0=552, y1=615, x1_cap=275)
+
+IMAGE_WIDTH COLUMN: tight independent crops (above) fixed dead space, but
+left the frontend to size every crop in the browser -- guessing at a crop's
+display width from CSS percentages, or measuring it client-side after the
+image loaded. Both turned out unreliable (percentages can't resolve inside
+a shrink-to-fit flex item; client-side measurement races the image load and
+still needs an arbitrary scale guess). The actual pixel width of a crop is
+never ambiguous HERE, at generation time -- so compute it once, in Python,
+and store it as `image_width` on practice_context_blocks /
+practice_questions. The frontend then sets an explicit CSS width from that
+number on first paint: no guessing, no race, and multiple crops with a
+small combined width naturally sit side by side (see display_width() below).
+
+Every crop written into insert.sql must set image_width = display_width(img)
+alongside its image_url, e.g.:
+    img = render_crop(page, crop, window, zoom=4)  # or page.get_pixmap(...)
+    width = display_width(img)
+    # INSERT ... (image_url, image_width) VALUES ('...png', {width})
+Leave image_width out (NULL) only for crops you have NOT regenerated with
+this tight-crop method -- NULL tells the frontend to fall back to the old
+full-width behaviour, so already-processed exams keep looking exactly as
+they do today until they too get reprocessed.
 """
 
 import io
@@ -69,6 +91,30 @@ from PIL import Image, ImageDraw
 
 from crop_check import get_blocks
 from drawing_bounds import get_drawing_boxes, cluster_drawing_boxes
+
+# CSS px per raw crop px (raw px = 4 * PDF-pt, since every crop is rendered
+# at fitz.Matrix(4,4)) -- i.e. 1.6 CSS px per PDF-pt. Chosen so a crop that
+# is already page-width-ish (the common case before this module existed)
+# comes out close to the app's actual content-column width. This is the
+# ONE knob to turn if inline crops ever look subtly bigger/smaller than
+# older, non-inline ones -- nothing else should need to change.
+DISPLAY_SCALE = 0.4
+
+
+def display_width(image_or_pixmap):
+    """The value to store as `image_width` for this crop, so the frontend
+    can size it correctly on the very first paint -- no client-side
+    measuring, no guessing.
+
+    Always call this on the crop's FINAL rendered image/pixmap (the return
+    value of render_crop(), or the Pixmap from a plain page.get_pixmap()
+    call) -- never estimate it from y0/y1/content_x0/x1, since padding,
+    foreign-box whiteout and multi-piece stitching can all change the
+    actual pixel width after the fact. Works on both a PIL Image
+    (render_crop's return value) and a raw fitz Pixmap -- both expose
+    `.width`.
+    """
+    return round(image_or_pixmap.width * DISPLAY_SCALE)
 
 
 def own_bounds_excluding(blocks, y0, y1, margin=15, x0_floor=None, x1_cap=None,
