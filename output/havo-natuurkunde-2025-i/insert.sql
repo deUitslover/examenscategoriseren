@@ -1,0 +1,346 @@
+insert into practice_exercises (id, subject_name, level, title, source) values
+  ('c034cce6-9920-4910-b426-32181d3abaf8', $$Natuurkunde$$, $$HAVO$$, $$Kaval$$, $$HAVO Natuurkunde 2025-I$$),
+  ('a4044903-7b76-477a-9a11-028ed6a87a61', $$Natuurkunde$$, $$HAVO$$, $$Papieren schakelingen$$, $$HAVO Natuurkunde 2025-I$$),
+  ('b3382ff6-6875-4bf1-93fe-e000a2ad0ee0', $$Natuurkunde$$, $$HAVO$$, $$Coconuts$$, $$HAVO Natuurkunde 2025-I$$),
+  ('c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', $$Natuurkunde$$, $$HAVO$$, $$Springende larven$$, $$HAVO Natuurkunde 2025-I$$),
+  ('361d28d7-39fa-4b7e-8564-371ca1f67f4e', $$Natuurkunde$$, $$HAVO$$, $$Vervalst schilderij$$, $$HAVO Natuurkunde 2025-I$$);
+
+insert into practice_context_blocks (id, exercise_id, label, image_url, image_width, text_content, block_type) values
+  ('ae0c72de-92a7-466d-af14-f85362b33698', 'c034cce6-9920-4910-b426-32181d3abaf8', $$figuur 1 — foto van een kaval (Turkse herdersfluit)$$,
+   $$natuurkunde-havo-2025-i-kaval-context1.png$$, 314,
+   $$Een kaval is een Turkse herdersfluit. Zie figuur 1.$$, 'inline'),
+  ('c00ed306-4c91-4c75-bf89-5729adbd826c', 'c034cce6-9920-4910-b426-32181d3abaf8', $$kaval 700 mm lang, gemeten laagste toon 277 Hz; model buis met twee open uiteinden bij 20 °C geeft berekende laagste toon 245 Hz$$,
+   $$natuurkunde-havo-2025-i-kaval-context2.png$$, 443,
+   $$De lucht in de fluit wordt in trilling gebracht door over een mondstuk heen te blazen.
+Jeroen ziet op internet een filmpje van een kaval en besluit deze fluit te onderzoeken. Uit het filmpje blijkt dat de kaval 700 mm lang is. Hij vergelijkt het geluid van de kaval met zuivere tonen uit een toongenerator en ontdekt dat 277 Hz de laagste toonhoogte is die de kaval kan produceren.
+Jeroen beschouwt de kaval als een buis met twee open uiteindes. Hij neemt aan dat de luchttemperatuur 20 °C is. Hij berekent dat de laagst mogelijke toon dan 245 Hz is.$$, 'inline'),
+  ('86c55cae-5437-4305-94e0-bfe3122ff6ea', 'c034cce6-9920-4910-b426-32181d3abaf8', $$alternatief model: buis met één open en één gesloten uiteinde$$,
+   $$natuurkunde-havo-2025-i-kaval-context3.png$$, 494,
+   $$Jeroen gaat uitzoeken waarom de toon in werkelijkheid hoger is dan hij heeft berekend. Hij onderzoekt drie mogelijke verklaringen.
+Hij vraagt zich als eerste af of hij de kaval beter kan modelleren als een buis met één open en één gesloten uiteinde in plaats van een buis met twee open uiteinden.$$, 'inline'),
+  ('1760f09c-a0fd-4150-902d-24b4778fe0d1', 'c034cce6-9920-4910-b426-32181d3abaf8', $$temperatuurverklaring: model twee open uiteinden geeft berekende geluidssnelheid van 387 m s⁻¹$$,
+   $$natuurkunde-havo-2025-i-kaval-context4.png$$, 438,
+   $$Jeroens tweede verklaring voor het verschil in toonhoogte is dat de luchttemperatuur tijdens de meting niet gelijk was aan 20 °C. Hij gebruikt weer het model met twee open uiteinden. Hij berekent dat de geluidssnelheid dan 387 m s⁻¹ geweest moet zijn.$$, 'inline'),
+  ('96bc188b-ed88-4e2f-be43-b0317a1d006b', 'c034cce6-9920-4910-b426-32181d3abaf8', $$figuur 2 — foto van de kaval met devil holes (extra, niet afgedekte gaten aan het uiteinde)$$,
+   $$natuurkunde-havo-2025-i-kaval-context5.png$$, 446,
+   $$Jeroens derde verklaring heeft te maken met extra gaten aan het uiteinde van de kaval die niet met de vingers worden gesloten, de zogenaamde devil holes. Zie figuur 2.
+
+figuur 2: foto van de kaval met een rij extra gaten aan het uiteinde (devil holes) die niet door de vingers worden afgedekt.$$, 'inline'),
+  ('81ad9366-0dae-40c7-a2b2-1344eaef042f', 'c034cce6-9920-4910-b426-32181d3abaf8', $$figuur 3 — (u,t)-diagrammen van de buis met en zonder devil holes; buis zonder devil holes heeft laagste toon 245 Hz$$,
+   $$natuurkunde-havo-2025-i-kaval-context6.png$$, 447,
+   $$Devil holes zorgen voor boventonen en kunnen ook invloed hebben op de hoogte van de grondtoon. Om de invloed van de devil holes te onderzoeken, neemt Jeroen twee even lange buizen. Hij boort in één buis devil holes. Hij maakt voor beide buizen een (u,t)-diagram van de laagste toon. Voor de buis zonder devil holes is de laagste toon 245 Hz. Zie figuur 3. Er staan geen waardes bij de assen, maar de tijdschaal is voor beide diagrammen gelijk.
+
+figuur 3: (u,t)-diagrammen van de buis met devil holes en van de buis zonder devil holes, over dezelfde tijdspanne getekend zodat de periodes van beide trillingen vergeleken kunnen worden.$$, 'inline'),
+  ('0fa5df20-f0f3-432f-826b-e40afaa2503b', 'c034cce6-9920-4910-b426-32181d3abaf8', $$uitwerkbijlage vraag 2 — in te vullen knopen/buiken-patroon voor beide buismodellen$$,
+   $$natuurkunde-havo-2025-i-kaval-uitwerkbijlage-vraag2.png$$, 434,
+   $$Uitwerkbijlage vraag 2: twee regels om het patroon van knopen (K) en buiken (B) van de grondtoon te tekenen — één voor het model ''open uiteinden'' en één (in een kader) voor het model ''gesloten uiteinde en open uiteinde'' — gevolgd door schrijfruimte voor het antwoord op de toelichtingsvraag.$$, 'uitwerkbijlage'),
+  ('390ed4a0-8a2e-4ff6-867e-730f2673f3f4', 'a4044903-7b76-477a-9a11-028ed6a87a61', $$potloodlijn als elektrische geleider met weerstand$$,
+   $$natuurkunde-havo-2025-i-papieren-schakelingen-context1.png$$, 443,
+   $$Het materiaal van de stift van een potlood is elektrisch geleidend. Een potloodlijn die op papier getekend is, is daardoor ook elektrisch geleidend en werkt als een draad met weerstand.$$, 'inline'),
+  ('b401b3e3-0c05-4821-bbf6-c85e274c81ac', 'a4044903-7b76-477a-9a11-028ed6a87a61', $$harde (H) potloden: veel vulmiddel, weinig grafiet; zachte (B) potloden: weinig vulmiddel, veel grafiet; soortelijke weerstand vulmiddel 2,5·10² Ω·m$$,
+   $$natuurkunde-havo-2025-i-papieren-schakelingen-context2.png$$, 439,
+   $$Er bestaan verschillende soorten potloden. De stift van ieder potlood bestaat uit een mix van grafiet en vulmiddel. Harde ''H'' potloden bevatten veel vulmiddel en weinig grafiet, zachte ''B'' potloden bevatten weinig vulmiddel en veel grafiet. De soortelijke weerstand van het vulmiddel is 2,5·10² Ω·m.$$, 'inline'),
+  ('2f6f0737-4afd-4f0f-aff9-e90c8810260a', 'a4044903-7b76-477a-9a11-028ed6a87a61', $$doel: potloodlijn met zo klein mogelijke weerstand tekenen$$,
+   $$natuurkunde-havo-2025-i-papieren-schakelingen-context3.png$$, 434,
+   $$Theo en Rob hebben een artikel gelezen over op papier getekende draden en gaan hier onderzoek naar doen. Ze willen een potloodlijn met een zo klein mogelijke weerstand tekenen.$$, 'inline'),
+  ('ce585196-590e-4a66-9897-28ce2bfb2d84', 'a4044903-7b76-477a-9a11-028ed6a87a61', $$figuur 1 — potloodlijn I (Theo, dikker/donkerder) en II (Rob, dunner/lichter), gelijke lengte en breedte$$,
+   $$natuurkunde-havo-2025-i-papieren-schakelingen-context4.png$$, 447,
+   $$Theo en Rob hebben elk een potloodlijn getekend met hetzelfde potlood. Beide lijnen zijn gelijk in lengte en breedte. Ze meten de elektrische weerstand met een multimeter. De multimeter is met zogenaamde krokodillenklemmen verbonden met de potloodlijn. De potloodlijn van Theo (I) is met een dikkere laag getekend en daardoor donkerder gekleurd dan de lijn van Rob (II). Zie figuur 1.
+
+figuur 1: foto van twee potloodlijnen op papier, elk aangesloten met krokodillenklemmen; lijn I (van Theo) is dikker en donkerder dan lijn II (van Rob).$$, 'inline'),
+  ('c265254f-9702-449f-80fd-ac0a5f71f5df', 'a4044903-7b76-477a-9a11-028ed6a87a61', $$figuur 2 — 9,0 V batterij met led in serie via twee identieke potloodlijnen$$,
+   $$natuurkunde-havo-2025-i-papieren-schakelingen-context5.png$$, 442,
+   $$Rob sluit een 9,0 V batterij en een led aan op twee identieke potloodlijnen. Zie figuur 2.
+
+figuur 2: foto van een 9,0 V batterij die via twee identieke, parallel getekende potloodlijnen in serie met een led is verbonden.$$, 'inline'),
+  ('c3eacf73-22a7-4c3e-9827-97cd2a50368b', 'a4044903-7b76-477a-9a11-028ed6a87a61', $$led heeft minimaal 1,4 V nodig; figuur 3 — (I,U)-diagram van de led$$,
+   $$natuurkunde-havo-2025-i-papieren-schakelingen-context6.png$$, 443,
+   $$De led heeft minimaal een spanning van 1,4 V nodig om licht te geven. In figuur 3 staat het (I,U)-diagram van de led.
+
+figuur 3: (I,U)-diagram van de led; de stroom I (in mA, 0 tot 4) blijft vrijwel nul tot een spanning U van ongeveer 1,4 V en loopt daarna steil op tot ongeveer 4 mA bij ongeveer 1,6 V.$$, 'inline'),
+  ('6ae7dddb-55ad-4def-a94f-d46b62e77324', 'a4044903-7b76-477a-9a11-028ed6a87a61', $$formule R = K·ℓ/b; potloodlijn heeft R = 1,2·10⁴ Ω bij b = 0,50 cm en ℓ = 12 cm$$,
+   $$natuurkunde-havo-2025-i-papieren-schakelingen-context7.png$$, 424,
+   $$Voor de weerstand van één getekende potloodlijn uit figuur 2 geldt het volgende verband:
+
+R = K·ℓ/b (1)
+
+Hierin is:
+− R de weerstand van het lijnstuk;
+− k een constante;
+− ℓ de lengte van het lijnstuk;
+− b de breedte van het lijnstuk.
+
+Eén potloodlijn in figuur 2 heeft in werkelijkheid een weerstand van 1,2·10⁴ Ω bij een breedte van 0,50 cm en een lengte van 12 cm.$$, 'inline'),
+  ('1e0d1525-8d12-409a-9d8b-de5d00d1d5c2', 'a4044903-7b76-477a-9a11-028ed6a87a61', $$figuur 4 — nieuwe schakeling met twee identieke leds op twee potloodlijnen$$,
+   $$natuurkunde-havo-2025-i-papieren-schakelingen-context8.png$$, 450,
+   $$Theo maakt een nieuwe schakeling. Hierbij sluit hij twee identieke leds aan op twee getekende potloodlijnen. Zie figuur 4.
+
+figuur 4: foto van een batterij met twee getekende potloodlijnen (rails); een eerste led is halverwege tussen de twee lijnen aangesloten (dicht bij de batterij), een tweede led is aan het uiteinde van de lijnen aangesloten (verder van de batterij).$$, 'inline'),
+  ('a4409976-fd72-4cf6-9256-fb3b5142505a', 'a4044903-7b76-477a-9a11-028ed6a87a61', $$led dichter bij batterij brandt feller; figuur 5 — vier mogelijke schakelschema''s (I t/m IV)$$,
+   $$natuurkunde-havo-2025-i-papieren-schakelingen-context9.png$$, 436,
+   $$Theo constateert dat de led dichter bij de batterij feller brandt dan de led verder van de batterij. In figuur 5 zijn vier mogelijke schakelschema''s getekend.
+
+figuur 5: vier schakelschema''s (I t/m IV) met een spanningsbron en twee leds; schema I: twee weerstanden in de bovenste tak en twee in de onderste tak, met de eerste led aangesloten tussen de takken na de eerste weerstanden en de tweede led aan het eind; schema II: één weerstand in de bovenste tak en één in de onderste tak, met beide leds parallel aangesloten na de weerstanden; schema III: de twee leds elk in serie met een eigen weerstand, in twee gescheiden lussen; schema IV: de twee leds parallel aan elkaar en rechtstreeks op de bron aangesloten, zonder weerstanden.$$, 'inline'),
+  ('9bace876-a1fc-49d6-8882-0933b9bfb843', 'b3382ff6-6875-4bf1-93fe-e000a2ad0ee0', $$figuur 1 — foto van de ster COCONUTS-2a met exoplaneet COCONUTS-2b$$,
+   $$natuurkunde-havo-2025-i-coconuts-context1.png$$, 439,
+   $$Exoplaneten zijn planeten die rond een andere ster dan de zon draaien. In 2020 werd de exoplaneet COCONUTS-2b ontdekt met behulp van een foto. Deze exoplaneet draait rond de ster COCONUTS-2a. Zie figuur 1.
+
+figuur 1: foto van de ster COCONUTS-2a met, ver daarvan verwijderd, het lichtpuntje van de exoplaneet COCONUTS-2b.$$, 'inline'),
+  ('cadba38d-24b3-4f8b-947d-27499a8ba129', 'b3382ff6-6875-4bf1-93fe-e000a2ad0ee0', $$exoplaneet heeft oppervlaktetemperatuur 160 °C, straling vastgelegd met camera$$,
+   $$natuurkunde-havo-2025-i-coconuts-context2.png$$, 426,
+   $$De exoplaneet heeft een hoge oppervlaktetemperatuur van 160 °C. De straling die de exoplaneet bij deze temperatuur uitzendt is door de onderzoekers vastgelegd met behulp van een camera.$$, 'inline'),
+  ('5549bbda-fd73-4735-b026-107cfa846359', 'b3382ff6-6875-4bf1-93fe-e000a2ad0ee0', $$figuur 2 — kijkhoek 0,165° tussen aarde en de twee objecten, afstand aarde-COCONUTS-2a 35,4 lichtjaar$$,
+   $$natuurkunde-havo-2025-i-coconuts-context3.png$$, 444,
+   $$Vanaf de aarde zie je COCONUTS-2a op een andere positie dan COCONUTS-2b. Tussen deze twee kijkrichtingen zit een kijkhoek. Deze is 0,165°. In figuur 2 is dit schematisch maar niet op schaal weergegeven.
+
+figuur 2: schematische tekening met de aarde, de ster COCONUTS-2a en de exoplaneet COCONUTS-2b; de afstand aarde-COCONUTS-2a is 35,4 lichtjaar, de kijkhoek tussen de twee kijkrichtingen vanaf de aarde is 0,165°, en r is de afstand tussen COCONUTS-2b en COCONUTS-2a (rechte hoek bij COCONUTS-2a).$$, 'inline'),
+  ('c3e6d89d-6fa9-448d-9fba-9b44c1ce0612', 'b3382ff6-6875-4bf1-93fe-e000a2ad0ee0', $$afstand r tussen COCONUTS-2b en COCONUTS-2a is 9,65·10¹⁴ m$$,
+   $$natuurkunde-havo-2025-i-coconuts-context4.png$$, 404,
+   $$De afstand r tussen COCONUTS-2b en zijn ster COCONUTS-2a is 9,65·10¹⁴ m.$$, 'inline'),
+  ('256c29e0-8253-477e-a86f-6f221a372d52', 'b3382ff6-6875-4bf1-93fe-e000a2ad0ee0', $$cirkelbaan; massa ster 0,35 keer massa zon; baansnelheid 2,2·10² m s⁻¹$$,
+   $$natuurkunde-havo-2025-i-coconuts-context5.png$$, 408,
+   $$COCONUTS-2b beweegt in een cirkelvormige baan rond de ster COCONUTS-2a. De massa van de ster is 0,35 keer die van de zon. De baansnelheid van COCONUTS-2b is gelijk aan 2,2·10² m s⁻¹.$$, 'inline'),
+  ('f6a666cb-0a6b-4378-924c-2f5a3b2b3c9b', 'b3382ff6-6875-4bf1-93fe-e000a2ad0ee0', $$figuur 3 — schema van de transitmethode met lichtintensiteit-tijddiagram$$,
+   $$natuurkunde-havo-2025-i-coconuts-context6.png$$, 219,
+   $$figuur 3: schematische tekening van de transitmethode; een ster met een planeet die op twee momenten in zijn baan is weergegeven (voor en tijdens de doorgang voor de ster), met daaronder een grafiek van de lichtintensiteit tegen de tijd die tijdelijk afneemt wanneer de planeet voor de ster langsbeweegt.$$, 'inline'),
+  ('5660ff54-34f1-48f1-b09e-59c200c25956', 'b3382ff6-6875-4bf1-93fe-e000a2ad0ee0', $$transitmethode: verandering in waargenomen lichtintensiteit van de ster$$,
+   $$natuurkunde-havo-2025-i-coconuts-context6b.png$$, 228,
+   $$Er zijn al duizenden exoplaneten in andere sterrenstelsels ontdekt. Meestal worden deze ontdekt met de transitmethode. Bij deze methode wordt de verandering in waargenomen lichtintensiteit van de ster gemeten. Deze waargenomen lichtintensiteit neemt tijdelijk af wanneer een planeet voor de ster langs beweegt. Zie figuur 3.$$, 'inline'),
+  ('7b536a8f-b62e-46f2-987b-cc60c2c31e9c', 'b3382ff6-6875-4bf1-93fe-e000a2ad0ee0', $$transitmethode was niet geschikt om COCONUTS-2b te detecteren$$,
+   $$natuurkunde-havo-2025-i-coconuts-context7.png$$, 478,
+   $$De transitmethode was geen geschikte methode om COCONUTS-2b te detecteren.$$, 'inline'),
+  ('21aa803a-d4c1-418f-a9c0-45514a1809ab', 'c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', $$figuur 1 — stroboscopische foto van de springende larve (posities 1-6, zwaartepunt Z, schaalbalk 5,0 mm)$$,
+   $$natuurkunde-havo-2025-i-springende-larven-context1.png$$, 119,
+   $$figuur 1: stroboscopische foto van een springende larve, zes keer gefotografeerd tijdens de sprong (genummerd 1 t/m 6) met het zwaartepunt Z in elk beeld aangegeven en een schaalbalk van 5,0 mm.$$, 'inline'),
+  ('a319e28e-7224-4689-9335-d0b11bdd3ffa', 'c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', $$camera maakt 132 foto''s per seconde; figuur 1 staat op schaal op de uitwerkbijlage$$,
+   $$natuurkunde-havo-2025-i-springende-larven-context1b.png$$, 310,
+   $$Onderzoekers hebben ontdekt dat de larven van een bepaalde kever zeer hoog kunnen springen in verhouding tot hun lengte. John en Imani onderzoeken dit.
+Van een sprong is een stroboscopische foto gemaakt. Zie figuur 1. De larve is zes keer gefotografeerd tijdens de sprong. Het zwaartepunt Z van de larve is in ieder beeld aangegeven.
+
+Figuur 1 is gemaakt met een camera die 132 foto''s per seconde maakt. Figuur 1 staat op schaal op de uitwerkbijlage.$$, 'inline'),
+  ('8d6c9f52-46a6-4b64-9fbd-94d028f9d491', 'c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', $$figuur 2 — (v,t)-diagram van de snelheid tijdens het begin van de sprong$$,
+   $$natuurkunde-havo-2025-i-springende-larven-context2c.png$$, 433,
+   $$Imani maakt een (v,t)-diagram van de snelheid tijdens het begin van de sprong. Het resultaat staat in figuur 2.
+
+figuur 2: (v,t)-diagram van de snelheid van de larve tijdens het begin van de sprong (v in m s⁻¹ van 0 tot 0,3, t in ms van 0 tot 6); de snelheid neemt vanaf 0 toe tot een maximum van ongeveer 0,26 m s⁻¹ bij ongeveer t = 4,7 ms en daalt daarna licht.$$, 'inline'),
+  ('fcfce106-1ff4-4ca7-8b00-06e3975613b3', 'c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', $$afzetafstand nodig voor Fres,gem; figuur 2 staat ook op de uitwerkbijlage$$,
+   $$natuurkunde-havo-2025-i-springende-larven-context2b.png$$, 426,
+   $$Imani wil met behulp van het diagram het vermogen van de larve gaan bepalen. Hiervoor heeft ze de gemiddelde resulterende kracht Fres,gem over de hele afzet nodig. Ze bepaalt daarvoor de afstand waarover de larve zich heeft afgezet.
+Figuur 2 staat ook op de uitwerkbijlage.$$, 'inline'),
+  ('1551a093-a101-40ae-a485-159c27bc1d54', 'c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', $$afzetafstand 0,72 mm; massa larve 1,3·10⁻⁶ kg; Fres,gem = 6,1·10⁻⁵ N$$,
+   $$natuurkunde-havo-2025-i-springende-larven-context3.png$$, 436,
+   $$Imani heeft de afzetafstand bepaald op 0,72 mm. De massa van deze soort larve is 1,3·10⁻⁶ kg. Uit een energiebeschouwing met de maximale snelheid ve volgt dat de gemiddelde resulterende kracht Fres,gem gelijk is aan 6,1·10⁻⁵ N.$$, 'inline'),
+  ('6d43461e-e372-4e6d-b98a-ddb75a8b40c0', 'c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', $$John verwaarloost de zwaartekracht: Fres = −Fafzet$$,
+   $$natuurkunde-havo-2025-i-springende-larven-context4.png$$, 438,
+   $$John verwaarloost de zwaartekracht ten opzichte van de afzetkracht. Dus hij gebruikt Fres = −Fafzet.$$, 'inline'),
+  ('81e04f60-2828-4051-b226-2dda22558e6f', 'c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', $$veermodel: acceptabel als Fres,max/Fres,gem tussen 1,5 en 2,5 ligt; figuur 2 nogmaals op de uitwerkbijlage$$,
+   $$natuurkunde-havo-2025-i-springende-larven-context5.png$$, 446,
+   $$John constateert dat de resulterende kracht niet constant is tijdens de afzet. Hij vraagt zich af of hij de springende larve kan modelleren als een veer. Als de larve zich gedraagt als een gespannen veer die zich ontspant tijdens de afzet, zou er moeten gelden dat de maximale resulterende kracht Fres,max twee keer zo groot is als de gemiddelde resulterende kracht Fres,gem. Hij vindt het model acceptabel als blijkt dat de verhouding van die krachten tussen 1,5 en 2,5 uitkomt. Figuur 2 staat nogmaals op de uitwerkbijlage.$$, 'inline'),
+  ('00309870-41d2-44ff-a30c-c2a16062549a', 'c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', $$specifiek vermogen mens 3,3 W/kg; larve massa 1,3·10⁻⁶ kg, snelheid 0,14 m s⁻¹, Fres,gem = 6,1·10⁻⁵ N$$,
+   $$natuurkunde-havo-2025-i-springende-larven-context6.png$$, 435,
+   $$Tot slot willen John en Imani het specifieke vermogen van een mens en van een larve tijdens een verticale sprong vergelijken. Het specifieke vermogen Pspec is het vermogen per kilogram lichaamsmassa. Voor een gemiddelde mens geldt: Pspec = 3,3 W per kilogram lichaamsmassa. De massa van de larve is 1,3·10⁻⁶ kg. Tijdens de afzet tot het loskomen van de grond is de gemiddelde snelheid van de larve 0,14 m s⁻¹ en is de gemiddelde resulterende kracht Fres,gem = 6,1·10⁻⁵ N.$$, 'inline'),
+  ('4e914ab6-4c8c-41bd-b62f-8c690ce8b7b4', 'c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', $$uitwerkbijlage vraag 14 — figuur 1 op schaal, met schrijfruimte voor de bepaling$$,
+   $$natuurkunde-havo-2025-i-springende-larven-uitwerkbijlage-vraag14.png$$, 438,
+   $$Uitwerkbijlage vraag 14: figuur 1 op schaal (stroboscopische foto van de larve, posities 1 t/m 6 met zwaartepunt Z en schaalbalk 5,0 mm), gevolgd door schrijfruimte voor de bepaling.$$, 'uitwerkbijlage'),
+  ('9e0b43d6-1d83-4bbd-8b68-478f4b2dc6d8', 'c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', $$uitwerkbijlage vraag 15 — figuur 2, met schrijfruimte voor het antwoord$$,
+   $$natuurkunde-havo-2025-i-springende-larven-uitwerkbijlage-vraag15.png$$, 458,
+   $$Uitwerkbijlage vraag 15: figuur 2 ((v,t)-diagram van de larve), gevolgd door schrijfruimte voor het antwoord.$$, 'uitwerkbijlage'),
+  ('b413eda4-9a68-49b9-a293-67b7d043d230', 'c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', $$uitwerkbijlage vraag 17 — figuur 2, met schrijfruimte voor bepaling, berekening en antwoord$$,
+   $$natuurkunde-havo-2025-i-springende-larven-uitwerkbijlage-vraag17.png$$, 460,
+   $$Uitwerkbijlage vraag 17: figuur 2 ((v,t)-diagram van de larve), gevolgd door schrijfruimte voor de bepaling, de berekening en het antwoord.$$, 'uitwerkbijlage'),
+  ('d7d985a9-1afd-4e0b-8281-ba6fde11fedf', '361d28d7-39fa-4b7e-8564-371ca1f67f4e', $$figuur 1 — kunstexpert onderzoekt een schilderij met een handmeetinstrument$$,
+   $$natuurkunde-havo-2025-i-vervalst-schilderij-context1.png$$, 436,
+   $$Echte schilderijen kunnen veel waard zijn, in tegenstelling tot vervalsingen. Kunstexperts maken daarom gebruik van speciale technieken om de echtheid van schilderijen te onderzoeken. Zie figuur 1.
+
+figuur 1: foto van een kunstexpert die met een handmeetinstrument (röntgenfluorescentie-scanner) een schilderij onderzoekt.$$, 'inline'),
+  ('c222b806-f341-4159-ab53-3d810362edc1', '361d28d7-39fa-4b7e-8564-371ca1f67f4e', $$C-14-datering: koolstof-14 ontstaat door botsing van een stikstofkern met een snel neutron$$,
+   $$natuurkunde-havo-2025-i-vervalst-schilderij-context2.png$$, 437,
+   $$Bij een methode om nieuwere vervalsingen van oude originelen te onderscheiden wordt de ouderdom van het gebruikte doek bepaald door datering met C-14.
+
+Koolstof-14 ontstaat hoog in de atmosfeer door een botsing tussen een stikstofkern en een snel neutron dat afkomstig is van kosmische straling. Bij deze botsing ontstaat instabiel C-14 en nog een ander deeltje. Op de uitwerkbijlage staat een deel van deze reactie weergegeven.$$, 'inline'),
+  ('18f7efbf-2fa1-4377-9f5a-fb8da195ec1d', '361d28d7-39fa-4b7e-8564-371ca1f67f4e', $$canvas van hennep; verhouding C-12/C-14 in levende plant gelijk aan die in de lucht$$,
+   $$natuurkunde-havo-2025-i-vervalst-schilderij-context3.png$$, 494,
+   $$Een schilderij is geschilderd op doek van canvas. Dit materiaal wordt gemaakt van hennepplanten. De atmosfeer bevat behalve C-14 vooral de isotoop C-12. Een levende hennepplant neemt beide soorten koolstof op uit de lucht. De verhouding tussen C-12 en C-14 is in de levende plant hetzelfde als in de lucht.$$, 'inline'),
+  ('b64d1eef-e2d5-44e3-a7b0-b64c91da0452', '361d28d7-39fa-4b7e-8564-371ca1f67f4e', $$figuur 2 — verloop van relatieve hoeveelheid C-14 in de lucht (1900-2020), piek door kernproeven rond 1960$$,
+   $$natuurkunde-havo-2025-i-vervalst-schilderij-context4.png$$, 441,
+   $$De relatieve hoeveelheid C-14 in de lucht was tot eind jaren 50 van de vorige eeuw constant. Door nucleaire testen in de open lucht nam de hoeveelheid C-14 ten opzichte van C-12 in korte tijd flink toe.
+In figuur 2 is voor de periode van 1900 tot 2020 het verloop van de relatieve hoeveelheid C-14 in de lucht aangegeven. De grootheid N langs de verticale as is het aantal atomen C-14 per 10¹⁴ koolstofatomen.
+
+figuur 2: grafiek van N (aantal atomen C-14 per 10¹⁴ koolstofatomen, 0-250) tegen jaartal (1900-2020); N is constant op 100 tot ongeveer 1960, stijgt dan abrupt naar 200 en neemt daarna geleidelijk weer af richting 100 rond 2020.$$, 'inline'),
+  ('94f3b2b0-1e38-40fd-acd4-17718ac2bcdb', '361d28d7-39fa-4b7e-8564-371ca1f67f4e', $$testen stopten begin jaren 60; afname niet te verklaren door radioactief verval van C-14$$,
+   $$natuurkunde-havo-2025-i-vervalst-schilderij-context5.png$$, 441,
+   $$Begin jaren 60 stopten de testen in de open lucht en nam de relatieve hoeveelheid C-14 in de lucht weer af richting de oorspronkelijke waarde.
+
+De waargenomen afname is niet te verklaren door het radioactieve verval van C-14.$$, 'inline'),
+  ('0b7e1929-c9f5-4bd8-81d0-5dce894b089c', '361d28d7-39fa-4b7e-8564-371ca1f67f4e', $$daling vanaf jaren 60 verklaard door biologische opname van C-14, ook te beschrijven met een halveringstijd$$,
+   $$natuurkunde-havo-2025-i-vervalst-schilderij-context6.png$$, 443,
+   $$De daling vanaf de jaren 60 is te verklaren door biologische opname van C-14 door planten. Ook die daling is te beschrijven met een halveringstijd.$$, 'inline'),
+  ('c1bc0da4-0c02-4345-9941-d845c7186396', '361d28d7-39fa-4b7e-8564-371ca1f67f4e', $$schilderijen van Fernand Léger van vóór 1913; vervalst doek heeft 1,3× de langdurige gemiddelde C-14-hoeveelheid$$,
+   $$natuurkunde-havo-2025-i-vervalst-schilderij-context7.png$$, 492,
+   $$Een museum heeft verschillende originele schilderijen van de kunstschilder Fernand Léger. Deze zijn gemaakt vóór 1913. Eén schilderij lijkt een vervalsing. Daarom wordt de ouderdom onderzocht met koolstofdatering.
+Uit een analyse blijkt dat de relatieve hoeveelheid C-14 in het canvas doek 1,3 keer zo hoog is als het langdurige gemiddelde van voor de nucleaire testen.$$, 'inline'),
+  ('08ba8c99-c3c4-4b04-a95a-5fc8e497c1aa', '361d28d7-39fa-4b7e-8564-371ca1f67f4e', $$uitwerkbijlage vraag 19 — kernreactievergelijking om aan te vullen$$,
+   $$natuurkunde-havo-2025-i-vervalst-schilderij-uitwerkbijlage-vraag19.png$$, 190,
+   $$Uitwerkbijlage vraag 19: kernreactievergelijking om af te maken: ¹⁴₇N + ⋯n → ¹⁴₆C + ⋯…$$, 'uitwerkbijlage'),
+  ('566b74cc-1e34-4e94-b8dd-2765c63b32fc', '361d28d7-39fa-4b7e-8564-371ca1f67f4e', $$uitwerkbijlage vraag 23 — figuur 2 met schrijfruimte voor het antwoord$$,
+   $$natuurkunde-havo-2025-i-vervalst-schilderij-uitwerkbijlage-vraag23.png$$, 454,
+   $$Uitwerkbijlage vraag 23: figuur 2 (grafiek van N tegen jaartal), gevolgd door schrijfruimte voor het antwoord.$$, 'uitwerkbijlage');
+
+insert into practice_questions (id, exercise_id, question_number, topics, keywords, question_summary, question_image_url, image_width, question_text, context_block_ids) values
+  ('53943320-8428-491e-b7ba-26ae6aff7386', 'c034cce6-9920-4910-b426-32181d3abaf8', 1,
+   $$[{"domain": "Beeld- en geluidstechniek", "subdomain": "Informatieoverdracht"}]$$::jsonb,
+   $$["staande golf", "buis met open uiteinden", "geluidssnelheid", "golflengte", "grondtoon"]$$::jsonb,
+   $$Berekenen van de laagste resonantiefrequentie van een buis met twee open uiteinden bij een gegeven lengte en temperatuur.$$,
+   $$natuurkunde-havo-2025-i-kaval-vraag1.png$$, 272,
+   $$Toon dat aan met een berekening.$$, array['c00ed306-4c91-4c75-bf89-5729adbd826c']::uuid[]),
+  ('c2519a8c-fc81-4bbb-8eef-7dd0b83b6df9', 'c034cce6-9920-4910-b426-32181d3abaf8', 2,
+   $$[{"domain": "Beeld- en geluidstechniek", "subdomain": "Informatieoverdracht"}]$$::jsonb,
+   $$["staande golf", "knopen en buiken", "open en gesloten uiteinde", "grondtoon", "resonerende luchtkolom"]$$::jsonb,
+   $$Knopen- en bukenpatroon tekenen voor twee buismodellen en beoordelen of het model het toonhoogteverschil verklaart.$$,
+   $$natuurkunde-havo-2025-i-kaval-vraag2.png$$, 494,
+   $$Voer de volgende opdrachten uit:
+− Geef op de uitwerkbijlage voor beide modellen het patroon van knopen (K) en buiken (B) dat hoort bij de grondtoon.
+− Leg aan de hand van dit patroon uit dat het verschil tussen de gemeten en berekende laagste toonhoogte van de kaval niet verklaard kan worden door de keuze voor dit model.$$, array['c00ed306-4c91-4c75-bf89-5729adbd826c','86c55cae-5437-4305-94e0-bfe3122ff6ea','0fa5df20-f0f3-432f-826b-e40afaa2503b']::uuid[]),
+  ('5950ce9f-766f-445e-a778-e3b7baa92e67', 'c034cce6-9920-4910-b426-32181d3abaf8', 3,
+   $$[{"domain": "Beeld- en geluidstechniek", "subdomain": "Informatieoverdracht"}]$$::jsonb,
+   $$["geluidssnelheid", "temperatuur en geluidssnelheid", "informatieboek raadplegen", "kritische beoordeling model"]$$::jsonb,
+   $$Beoordelen of een afwijkende luchttemperatuur de gemeten geluidssnelheid kan verklaren.$$,
+   $$natuurkunde-havo-2025-i-kaval-vraag3.png$$, 474,
+   $$Leg met behulp van het informatieboek uit dat ook deze verklaring niet goed kan zijn.$$, array['1760f09c-a0fd-4150-902d-24b4778fe0d1']::uuid[]),
+  ('439f97a6-e7e5-48a9-a158-a0d2a0507983', 'c034cce6-9920-4910-b426-32181d3abaf8', 4,
+   $$[{"domain": "Beeld- en geluidstechniek", "subdomain": "Informatieoverdracht"}]$$::jsonb,
+   $$["boventonen", "frequentie uit diagram aflezen", "trillingstijd", "devil holes", "periodieke trilling"]$$::jsonb,
+   $$Frequentie van een trilling aflezen uit een (u,t)-diagram en boventonen beoordelen als verklaring voor een toonhoogteverschil.$$,
+   $$natuurkunde-havo-2025-i-kaval-vraag4.png$$, 490,
+   $$Voer de volgende opdrachten uit:
+− Bepaal met behulp van figuur 3 de frequentie van de laagste toon van de buis met devil holes.
+− Geef aan of devil holes een aannemelijke verklaring kunnen zijn voor het verschil tussen gemeten (f = 277 Hz) en berekende (f = 245 Hz) laagste toonhoogte van de echte kaval.$$, array['81ad9366-0dae-40c7-a2b2-1344eaef042f']::uuid[]),
+  ('4c91643a-10ea-4262-abf0-9a06c596d1af', 'a4044903-7b76-477a-9a11-028ed6a87a61', 5,
+   $$[{"domain": "Meten en regelen", "subdomain": "Gebruik van elektriciteit"}]$$::jsonb,
+   $$["soortelijke weerstand", "geleidbaarheid materiaal", "grafietgehalte", "weerstand vergelijken"]$$::jsonb,
+   $$Redeneren welk potloodtype de kleinste elektrische weerstand geeft op basis van het grafietgehalte.$$,
+   $$natuurkunde-havo-2025-i-papieren-schakelingen-vraag5.png$$, 458,
+   $$Leg met behulp van het informatieboek uit of Theo en Rob voor een hard (H) of een zacht (B) potlood moeten kiezen.$$, array['b401b3e3-0c05-4821-bbf6-c85e274c81ac','2f6f0737-4afd-4f0f-aff9-e90c8810260a']::uuid[]),
+  ('e63517fa-5ebc-4778-980a-9227e0e9e198', 'a4044903-7b76-477a-9a11-028ed6a87a61', 6,
+   $$[{"domain": "Meten en regelen", "subdomain": "Gebruik van elektriciteit"}]$$::jsonb,
+   $$["soortelijke weerstand", "doorsnede en weerstand", "formule voor weerstand", "geleider vergelijken"]$$::jsonb,
+   $$Met de weerstandsformule bepalen welke van twee potloodlijnen de kleinste weerstand heeft.$$,
+   $$natuurkunde-havo-2025-i-papieren-schakelingen-vraag6.png$$, 474,
+   $$Leg met behulp van de formule voor soortelijke weerstand uit bij welke potloodlijn (I of II) ze de kleinste weerstand meten.$$, array['ce585196-590e-4a66-9897-28ce2bfb2d84']::uuid[]),
+  ('3875cae1-4304-4a8b-bc22-89251d76fc20', 'a4044903-7b76-477a-9a11-028ed6a87a61', 7,
+   $$[{"domain": "Meten en regelen", "subdomain": "Gebruik van elektriciteit"}]$$::jsonb,
+   $$["serieschakeling", "(I,U)-diagram", "spanningsdeling", "led-drempelspanning", "weerstand berekenen"]$$::jsonb,
+   $$Met een (I,U)-diagram en de spanningsdeling in een serieschakeling de weerstand berekenen waarbij een led net gaat branden.$$,
+   $$natuurkunde-havo-2025-i-papieren-schakelingen-vraag7.png$$, 476,
+   $$Bepaal met behulp van een berekening en figuur 3 bij welke weerstand van één potloodlijn de led net brandt. Noteer je antwoord in twee significante cijfers.$$, array['c265254f-9702-449f-80fd-ac0a5f71f5df','c3eacf73-22a7-4c3e-9827-97cd2a50368b']::uuid[]),
+  ('aa5cd54c-8915-4e7a-adb2-2b53da277ce3', 'a4044903-7b76-477a-9a11-028ed6a87a61', 8,
+   $$[{"domain": "Meten en regelen", "subdomain": "Gebruik van elektriciteit"}]$$::jsonb,
+   $$["eenheid afleiden", "constante bepalen uit formule", "dimensieanalyse", "weerstandsformule"]$$::jsonb,
+   $$Uit een lengte-, breedte- en weerstandsmeting de eenheid en waarde van een materiaalconstante afleiden.$$,
+   $$natuurkunde-havo-2025-i-papieren-schakelingen-vraag8.png$$, 358,
+   $$Voer de volgende twee opdrachten uit:
+− Leid af dat de constante k de eenheid Ω heeft.
+− Bereken de waarde van de constante k.$$, array['6ae7dddb-55ad-4def-a94f-d46b62e77324']::uuid[]),
+  ('7dfaa434-68b3-4372-a516-62ac0cb0a634', 'a4044903-7b76-477a-9a11-028ed6a87a61', 9,
+   $$[{"domain": "Meten en regelen", "subdomain": "Gebruik van elektriciteit"}]$$::jsonb,
+   $$["schakelschema herkennen", "serie- en parallelschakeling", "spanningsval over weerstand", "helderheid led"]$$::jsonb,
+   $$Een schakelschema kiezen dat verklaart waarom een led dichter bij de batterij feller brandt.$$,
+   $$natuurkunde-havo-2025-i-papieren-schakelingen-vraag9.png$$, 467,
+   $$Voer de volgende twee opdrachten uit:
+− Geef aan welk schakelschema (I, II, III of IV) de situatie het best weergeeft.
+− Leg het verschil in felheid tussen de leds uit met behulp van het gekozen schakelschema.$$, array['1e0d1525-8d12-409a-9d8b-de5d00d1d5c2','a4409976-fd72-4cf6-9256-fb3b5142505a']::uuid[]),
+  ('0b5197e7-f52a-46d7-9bfd-207efc3dabfb', 'b3382ff6-6875-4bf1-93fe-e000a2ad0ee0', 10,
+   $$[{"domain": "Beeld- en geluidstechniek", "subdomain": "Medische beeldvorming"}]$$::jsonb,
+   $$["elektromagnetisch spectrum", "wet van Wien", "temperatuur en straling", "infraroodstraling", "ultravioletstraling"]$$::jsonb,
+   $$Met de wet van Wien bepalen in welk deel van het elektromagnetisch spectrum een object bij een gegeven temperatuur straalt.$$,
+   $$natuurkunde-havo-2025-i-coconuts-vraag10.png$$, 491,
+   $$Leg met behulp van een berekening uit of COCONUTS-2b gefotografeerd is met een camera voor infraroodstraling, voor ultravioletstraling of voor zichtbaar licht.$$, array['cadba38d-24b3-4f8b-947d-27499a8ba129']::uuid[]),
+  ('10891b51-fae4-4950-8b4b-02d514273e40', 'b3382ff6-6875-4bf1-93fe-e000a2ad0ee0', 11,
+   $$[{"domain": "Aarde en heelal", "subdomain": "Zonnestelsel en heelal"}]$$::jsonb,
+   $$["parallax", "hoek en afstand", "kleine-hoekbenadering", "lichtjaar", "driehoeksmeting"]$$::jsonb,
+   $$Met een kijkhoek en een afstand de straal van een exoplaneetbaan berekenen.$$,
+   $$natuurkunde-havo-2025-i-coconuts-vraag11.png$$, 289,
+   $$Toon dit aan met behulp van figuur 2.$$, array['5549bbda-fd73-4735-b026-107cfa846359','c3e6d89d-6fa9-448d-9fba-9b44c1ce0612']::uuid[]),
+  ('fa168023-b40c-42e8-96af-28bcb0a89e27', 'b3382ff6-6875-4bf1-93fe-e000a2ad0ee0', 12,
+   $$[{"domain": "Aarde en heelal", "subdomain": "Zonnestelsel en heelal"}]$$::jsonb,
+   $$["cirkelbeweging", "middelpuntzoekende kracht", "gravitatiekracht", "baansnelheid", "massa van de zon"]$$::jsonb,
+   $$Met de gravitatiewet en de middelpuntzoekende kracht de baansnelheid van een exoplaneet berekenen.$$,
+   $$natuurkunde-havo-2025-i-coconuts-vraag12.png$$, 272,
+   $$Toon dat aan met een berekening.$$, array['c3e6d89d-6fa9-448d-9fba-9b44c1ce0612','256c29e0-8253-477e-a86f-6f221a372d52']::uuid[]),
+  ('c69e9526-8410-4951-8495-f51547c09851', 'b3382ff6-6875-4bf1-93fe-e000a2ad0ee0', 13,
+   $$[{"domain": "Aarde en heelal", "subdomain": "Zonnestelsel en heelal"}]$$::jsonb,
+   $$["omlooptijd", "cirkelbeweging", "transitmethode", "lichtintensiteit", "baanhelling"]$$::jsonb,
+   $$Omlooptijd van een exoplaneet berekenen en beoordelen waarom de transitmethode niet geschikt is om de planeet te detecteren.$$,
+   $$natuurkunde-havo-2025-i-coconuts-vraag13.png$$, 478,
+   $$Voer de volgende opdrachten uit:
+− Bereken hoelang een jaar op COCONUTS-2b duurt, uitgedrukt in aardse jaren. Noteer je antwoord in het juiste aantal significante cijfers.
+− Geef aan waarom de transitmethode geen geschikte methode is om COCONUTS-2b te detecteren.$$, array['c3e6d89d-6fa9-448d-9fba-9b44c1ce0612','256c29e0-8253-477e-a86f-6f221a372d52','f6a666cb-0a6b-4378-924c-2f5a3b2b3c9b','5660ff54-34f1-48f1-b09e-59c200c25956','7b536a8f-b62e-46f2-987b-cc60c2c31e9c']::uuid[]),
+  ('55199db2-72f7-48ba-bd01-33665bd382ea', 'c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', 14,
+   $$[{"domain": "Beweging en energie", "subdomain": "Kracht en beweging"}]$$::jsonb,
+   $$["gemiddelde snelheid", "stroboscopische foto", "afstand en tijd", "beeldfrequentie", "schaaltekening"]$$::jsonb,
+   $$Gemiddelde snelheid van een springende larve bepalen uit een schaaltekening en de beeldfrequentie van een stroboscopische foto.$$,
+   $$natuurkunde-havo-2025-i-springende-larven-vraag14.png$$, 358,
+   $$Bepaal met behulp van de figuur op de uitwerkbijlage de gemiddelde snelheid van de larve tussen het moment van loskomen van de grond (1) en het bereiken van het hoogste punt (6). Noteer je antwoord in twee significante cijfers.$$, array['21aa803a-d4c1-418f-a9c0-45514a1809ab','a319e28e-7224-4689-9335-d0b11bdd3ffa','4e914ab6-4c8c-41bd-b62f-8c690ce8b7b4']::uuid[]),
+  ('25533bca-b35b-4592-8d89-690a8998cba7', 'c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', 15,
+   $$[{"domain": "Beweging en energie", "subdomain": "Kracht en beweging"}]$$::jsonb,
+   $$["oppervlakte onder (v,t)-diagram", "afgelegde weg uit snelheidsgrafiek", "grafiek aflezen"]$$::jsonb,
+   $$Uitleggen hoe de afgelegde afstand tijdens de afzet uit de oppervlakte onder een (v,t)-diagram bepaald wordt.$$,
+   $$natuurkunde-havo-2025-i-springende-larven-vraag15c.png$$, 494,
+   $$Leg met behulp van de figuur op de uitwerkbijlage uit hoe Imani deze afstand heeft bepaald. Laat in de figuur zien hoe Imani aan haar antwoord komt. Je hoeft deze bepaling niet uit te voeren.$$, array['8d6c9f52-46a6-4b64-9fbd-94d028f9d491','fcfce106-1ff4-4ca7-8b00-06e3975613b3','9e0b43d6-1d83-4bbd-8b68-478f4b2dc6d8']::uuid[]),
+  ('9e95382d-2d75-41bd-a915-880e62d82fde', 'c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', 16,
+   $$[{"domain": "Beweging en energie", "subdomain": "Energieomzettingen"}]$$::jsonb,
+   $$["arbeid en kinetische energie", "gemiddelde kracht", "energieomzetting", "afzetafstand"]$$::jsonb,
+   $$Met de relatie tussen arbeid en kinetische energie de gemiddelde resulterende kracht tijdens de afzet van een larve aantonen.$$,
+   $$natuurkunde-havo-2025-i-springende-larven-vraag16.png$$, 451,
+   $$Toon dit aan met figuur 2 en de relatie tussen arbeid en kinetische energie.$$, array['8d6c9f52-46a6-4b64-9fbd-94d028f9d491','1551a093-a101-40ae-a485-159c27bc1d54']::uuid[]),
+  ('885ad976-1d72-4733-811f-1d5f892d76d6', 'c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', 17,
+   $$[{"domain": "Beweging en energie", "subdomain": "Kracht en beweging"}]$$::jsonb,
+   $$["maximale versnelling uit diagram", "wet van Newton", "veermodel", "krachtverhouding", "resulterende kracht"]$$::jsonb,
+   $$Maximale versnelling en kracht tijdens een afzet bepalen en toetsen of een veermodel de beweging beschrijft.$$,
+   $$natuurkunde-havo-2025-i-springende-larven-vraag17.png$$, 472,
+   $$Voer de volgende opdrachten uit:
+− Bepaal met behulp van de figuur op de uitwerkbijlage de maximale versnelling tijdens de afzet. Laat in de figuur zien hoe je aan je antwoord komt. Noteer je antwoord in twee significante cijfers.
+− Bereken Fres,max tijdens de afzet.
+− Toon aan dat de larve zich binnen de marge van John volgens het model van een veer gedraagt.$$, array['1551a093-a101-40ae-a485-159c27bc1d54','6d43461e-e372-4e6d-b98a-ddb75a8b40c0','81e04f60-2828-4051-b226-2dda22558e6f','b413eda4-9a68-49b9-a293-67b7d043d230']::uuid[]),
+  ('1561d1da-6e38-456f-94b0-73a8e72a4ac1', 'c6b7dbe1-000e-4bc2-b662-fcc0a6426a52', 18,
+   $$[{"domain": "Beweging en energie", "subdomain": "Energieomzettingen"}]$$::jsonb,
+   $$["specifiek vermogen", "vermogen per kilogram", "arbeid per tijd", "vergelijken van vermogens"]$$::jsonb,
+   $$Specifiek vermogen van een springende larve vergelijken met dat van een mens.$$,
+   $$natuurkunde-havo-2025-i-springende-larven-vraag18.png$$, 473,
+   $$Bereken hoeveel keer zo groot Pspec van de larve is tijdens de afzet ten opzichte van Pspec van een mens.$$, array['00309870-41d2-44ff-a30c-c2a16062549a']::uuid[]),
+  ('5fbc04f2-861f-4a70-a774-8a96b97c9fbe', '361d28d7-39fa-4b7e-8564-371ca1f67f4e', 19,
+   $$[{"domain": "Beeld- en geluidstechniek", "subdomain": "Medische beeldvorming"}]$$::jsonb,
+   $$["kernreactie", "behoud van massagetal", "behoud van kernlading", "neutron invangen", "isotoopnotatie"]$$::jsonb,
+   $$Een kernreactievergelijking voor het ontstaan van koolstof-14 aanvullen met behoud van massagetal en kernlading.$$,
+   $$natuurkunde-havo-2025-i-vervalst-schilderij-vraag19.png$$, 327,
+   $$Maak de vergelijking op de uitwerkbijlage af.$$, array['c222b806-f341-4159-ab53-3d810362edc1','08ba8c99-c3c4-4b04-a95a-5fc8e497c1aa']::uuid[]),
+  ('a0403268-e0ea-4cc6-86b2-2b8a88f6eb14', '361d28d7-39fa-4b7e-8564-371ca1f67f4e', 20,
+   $$[{"domain": "Beeld- en geluidstechniek", "subdomain": "Medische beeldvorming"}]$$::jsonb,
+   $$["radioactief verval", "bètaverval", "vervalreactie", "isotoopnotatie"]$$::jsonb,
+   $$De bètavervalreactie van koolstof-14 opstellen.$$,
+   $$natuurkunde-havo-2025-i-vervalst-schilderij-vraag20.png$$, 365,
+   $$Geef de vergelijking van de vervalreactie van C-14.$$, array[]::uuid[]),
+  ('c7ece218-32ef-4162-970a-d7249c6128d7', '361d28d7-39fa-4b7e-8564-371ca1f67f4e', 21,
+   $$[{"domain": "Beeld- en geluidstechniek", "subdomain": "Medische beeldvorming"}]$$::jsonb,
+   $$["radioactief verval", "verhouding isotopen", "koolstofdatering", "afsterven organisme"]$$::jsonb,
+   $$Uitleggen hoe de verhouding tussen C-12 en C-14 in organisch materiaal verandert na de dood van een organisme.$$,
+   $$natuurkunde-havo-2025-i-vervalst-schilderij-vraag21.png$$, 494,
+   $$Leg uit hoe deze verhouding in de plant verandert na het afsterven van de plant.$$, array['18f7efbf-2fa1-4377-9f5a-fb8da195ec1d']::uuid[]),
+  ('8c79c7d6-9449-4f70-badf-dcc16e595903', '361d28d7-39fa-4b7e-8564-371ca1f67f4e', 22,
+   $$[{"domain": "Beeld- en geluidstechniek", "subdomain": "Medische beeldvorming"}]$$::jsonb,
+   $$["halveringstijd", "grafiek aflezen", "exponentieel verval", "onderscheid oorzaak en gevolg"]$$::jsonb,
+   $$Uitleggen waarom een waargenomen afname van de C-14-concentratie niet door radioactief verval van C-14 kan worden verklaard.$$,
+   $$natuurkunde-havo-2025-i-vervalst-schilderij-vraag22.png$$, 390,
+   $$Leg dat uit met behulp van de halveringstijd en figuur 2.$$, array['b64d1eef-e2d5-44e3-a7b0-b64c91da0452','94f3b2b0-1e38-40fd-acd4-17718ac2bcdb']::uuid[]),
+  ('dd2e06f5-b5c6-4ba2-b564-dc03b6970087', '361d28d7-39fa-4b7e-8564-371ca1f67f4e', 23,
+   $$[{"domain": "Beeld- en geluidstechniek", "subdomain": "Medische beeldvorming"}]$$::jsonb,
+   $$["halveringstijd bepalen", "grafiek aflezen", "exponentiële afname"]$$::jsonb,
+   $$Halveringstijd van een dalend verloop bepalen uit een grafiek.$$,
+   $$natuurkunde-havo-2025-i-vervalst-schilderij-vraag23.png$$, 487,
+   $$Bepaal deze halveringstijd met behulp van de figuur op de uitwerkbijlage.$$, array['b64d1eef-e2d5-44e3-a7b0-b64c91da0452','0b7e1929-c9f5-4bd8-81d0-5dce894b089c','566b74cc-1e34-4e94-b8dd-2765c63b32fc']::uuid[]),
+  ('f9a3efd4-b696-41c7-8e72-469773c8f56e', '361d28d7-39fa-4b7e-8564-371ca1f67f4e', 24,
+   $$[{"domain": "Beeld- en geluidstechniek", "subdomain": "Medische beeldvorming"}]$$::jsonb,
+   $$["koolstofdatering", "halveringstijd toepassen", "ouderdom bepalen", "grafiek aflezen"]$$::jsonb,
+   $$Met koolstofdatering en een grafiek het ontstaansjaar van een vervalst schilderij bepalen.$$,
+   $$natuurkunde-havo-2025-i-vervalst-schilderij-vraag24.png$$, 492,
+   $$Bepaal met behulp van figuur 2 het jaartal waarin het vervalste schilderij gemaakt is.$$, array['b64d1eef-e2d5-44e3-a7b0-b64c91da0452','c1bc0da4-0c02-4345-9941-d845c7186396']::uuid[]);
