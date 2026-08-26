@@ -1,0 +1,59 @@
+{
+  "source": "HAVO Natuurkunde 2016-II",
+  "subject_name": "Natuurkunde",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Sluis van Fankel",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Wieg",
+      "question_numbers": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Bliksem",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "title": "Aerogel",
+      "question_numbers": [
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "title": "Airbus E-fan",
+      "question_numbers": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    }
+  ]
+}
