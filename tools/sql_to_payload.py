@@ -176,9 +176,9 @@ def sql_file_to_payload(path):
 
 def sql_text_to_payload(text):
     exercise_cols = ["id", "subject_name", "level", "title", "source"]
-    context_cols = ["id", "exercise_id", "label", "image_url", "text_content", "block_type"]
+    context_cols = ["id", "exercise_id", "label", "image_url", "image_width", "text_content", "block_type"]
     question_cols = ["id", "exercise_id", "question_number", "topics", "keywords",
-                      "question_summary", "question_image_url", "question_text", "context_block_ids"]
+                      "question_summary", "question_image_url", "image_width", "question_text", "context_block_ids"]
 
     def rows_to_dicts(table, cols):
         out = []

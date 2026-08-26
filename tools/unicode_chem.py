@@ -45,6 +45,30 @@ def formula_subscripts(formula):
     return "".join(result)
 
 
+SYMBOL_FONT_MAP = {
+    "": "Ω",  # Symbol font 'W' position -> Omega (e.g. soortelijke weerstand "Ω·m")
+    "": "ℓ",  # Symbol font 'l' position -> script small L (lengte-symbol in formules)
+    "": "α",  # Symbol font 'a' position -> alpha
+    "": "β",  # Symbol font 'b' position -> beta
+    "": "°",  # Symbol font degree position -> degree sign (hoek/temperatuur)
+    "": "·",  # Symbol font multiply-dot position -> centered dot (machtsnotatie/eenheden)
+}
+
+
+def fix_symbol_font(text):
+    """Replace ExamenCentraal Symbol-font private-use-area codepoints
+    (page.get_text() on these PDFs sometimes yields e.g. U+F057 instead of
+    a real 'Ω' glyph) with their real Unicode characters. Always verify a
+    NEW codepoint visually (render the PDF region and look at it) before
+    adding it here -- Symbol font slots don't map 1:1 to intuitive
+    characters (e.g. 'l' position is lambda in some fonts, but the actual
+    ExamenCentraal template uses it for the length symbol ℓ).
+    """
+    for pua, real in SYMBOL_FONT_MAP.items():
+        text = text.replace(pua, real)
+    return text
+
+
 ION_CHARGE_EXAMPLES = {
     "Cd2+": "Cd²⁺",
     "Pb2+": "Pb²⁺",

@@ -112,6 +112,57 @@ def get_foreign_boxes(page, crop, window, gap=1.0):
     return foreign
 
 
+def own_bounds_excluding(page, y0, y1, text_only=False, x0_floor=None, x1_cap=None, margin=15, page_width=None):
+    """Return a tight (x0, x1) for THIS crop's own content in [y0, y1] only --
+    the per-crop replacement for get_shared_x_bounds()/get_opgave_x_window(),
+    which no longer get used (every crop now gets its own narrow x0/x1
+    instead of one width shared across the whole opgave).
+
+    text_only=True: only consider text blocks (crop_check.get_blocks kind
+    == 'text'), ignoring raster image blocks. Use this when the crop's own
+    y-range visually overlaps a neighbouring figure that belongs to a
+    DIFFERENT column (e.g. a figure straddling this crop's row from the row
+    above/below) -- without the filter, that figure's bbox would count as
+    "own" content and pull x0/x1 into it even though it isn't this crop's.
+
+    x0_floor / x1_cap: hard manual limits, for the rarer case where even
+    text_only isn't enough to keep a neighbouring column's text out (it's
+    also text, in the same y-range). Clamps the computed bounds so they
+    never extend past the given floor/cap.
+    """
+    blocks = get_blocks(page)
+    relevant = [
+        (bx0, bx1) for bx0, by0, bx1, by1, kind, snippet in blocks
+        if by1 > y0 and by0 < y1 and (not text_only or kind == "text")
+    ]
+    if not relevant:
+        return (0, page_width if page_width is not None else 595.56)
+
+    content_x0 = min(b[0] for b in relevant)
+    content_x1 = max(b[1] for b in relevant)
+
+    x0 = max(0, content_x0 - margin)
+    x1 = content_x1 + margin
+    if x0_floor is not None:
+        x0 = max(x0, x0_floor)
+    if x1_cap is not None:
+        x1 = min(x1, x1_cap)
+    if page_width is not None:
+        x1 = min(page_width, x1)
+    return (x0, x1)
+
+
+def display_width(img, zoom=4):
+    """Return the screen/CSS width (in points) to store in the image_width
+    column, given the rendered PIL image and the zoom factor it was
+    rendered at (every crop uses fitz.Matrix(4,4), i.e. zoom=4). The PNG
+    itself stays at the full 4x pixel resolution for crispness; image_width
+    tells the frontend the intended DISPLAY width so it doesn't render the
+    image 4x too large on screen.
+    """
+    return round(img.width / zoom)
+
+
 def filter_own_column_drawings(drawing_boxes, content_x0, content_x1, gap=1.0):
     """Return only the drawing boxes that belong to the crop's own column.
 
