@@ -1,0 +1,59 @@
+{
+  "source": "HAVO Natuurkunde 2018-I",
+  "subject_name": "Natuurkunde",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Scheepsradar",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Operatiedeken",
+      "question_numbers": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "SpaceShipOne",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Verontreinigd technetium",
+      "question_numbers": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "title": "Auto uit het ijs",
+      "question_numbers": [
+        24,
+        25,
+        26,
+        27
+      ]
+    }
+  ]
+}
