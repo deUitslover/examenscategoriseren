@@ -1,0 +1,59 @@
+{
+  "source": "HAVO Natuurkunde 2019-II",
+  "subject_name": "Natuurkunde",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Koper-67",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Buisisolatie",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Hyperloop",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "title": "PWM",
+      "question_numbers": [
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "title": "Proxima b",
+      "question_numbers": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    }
+  ]
+}
