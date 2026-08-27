@@ -1,0 +1,621 @@
+{
+  "payload": {
+    "subject_name": "Natuurkunde",
+    "level": "HAVO",
+    "source": "HAVO Natuurkunde 2017-I",
+    "answers": [
+      {
+        "title": "Elektrische doorstroomverwarmer",
+        "question_number": 1,
+        "answer_text": "Voorbeelden van antwoorden: Er gaat minder energie verloren aan de buitenlucht. / De waterleiding wordt minder verwarmd.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "juist antwoord (zie voorbeelden van antwoorden)"
+          }
+        ],
+        "grading_note": "Een antwoord in de trant van “er is minder draad nodig” of “er is minder verlies” zonder fysisch correcte vermelding waaraan: geen scorepunt toekennen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-elektrische-doorstroomverwarmer-antw1.png"
+        ]
+      },
+      {
+        "title": "Elektrische doorstroomverwarmer",
+        "question_number": 2,
+        "answer_text": "Uitkomst: ΔT = 25 K\n\nVoorbeeld van een berekening:\nEr geldt P = 70 · debiet · ΔT. Invullen geeft: 5000 = 70 · 2,9 · ΔT.\nHieruit volgt dat ΔT = 5000 / (70·2,9) = 25 K.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van P = 70 · debiet · ΔT"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-elektrische-doorstroomverwarmer-antw2.png"
+        ]
+      },
+      {
+        "title": "Elektrische doorstroomverwarmer",
+        "question_number": 3,
+        "answer_text": "Voorbeeld van een antwoord:\nDe stroomsterkte I = P/U = 5000/230 = 21,7 (A), de zekering van 25 A is dan het meest geschikt. Zekeringen tot en met 20 A branden allemaal door, de zekering van 40 A geeft te weinig bescherming bij overbelasting.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van P = UI"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat te kleine zekeringen doorbranden en te grote te weinig bescherming bieden tegen overbelasting"
+          },
+          {
+            "points": 1,
+            "description": "completeren en consequente conclusie"
+          }
+        ],
+        "grading_note": "Er hoeft hier geen rekening gehouden te worden met significantie.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-elektrische-doorstroomverwarmer-antw3.png"
+        ]
+      },
+      {
+        "title": "Elektrische doorstroomverwarmer",
+        "question_number": 4,
+        "answer_text": "Antwoord:\n– de totale weerstand van de doorstroomverwarmer afneemt.\n– de totale stroomsterkte door de weerstandsdraden samen daardoor toeneemt.\n– het vermogen van de doorstroomverwarmer daardoor toeneemt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "de spanning over ab en bc juist"
+          },
+          {
+            "points": 1,
+            "description": "de spanning over ac juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-elektrische-doorstroomverwarmer-antw4.png"
+        ]
+      },
+      {
+        "title": "Elektrische doorstroomverwarmer",
+        "question_number": 5,
+        "answer_text": "A",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "juist antwoord: A"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-elektrische-doorstroomverwarmer-antw5.png"
+        ]
+      },
+      {
+        "title": "Elektrische doorstroomverwarmer",
+        "question_number": 6,
+        "answer_text": "Uitkomst: I = 6,3 · 10⁻⁶ A\n\nVoorbeeld van een berekening:\nVoor de weerstand van de waterkolom geldt: R = ρ·ℓ/A,\nwaarbij ρ = 1,3 · 10⁵ Ω·m; ℓ = 5,0 · 10⁻² m; A = πr² = π·(7,5 · 10⁻³)² m².\nInvullen geeft R = 3,68 · 10⁷ Ω. De stroomsterkte door de waterkolom is dan\nI = U/R = 230 / (3,68·10⁷) = 6,3 · 10⁻⁶ A.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van R = ρ·ℓ/A"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van A = πr² met r = ½·15 mm of A = ¼πd²"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van U = IR"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-elektrische-doorstroomverwarmer-antw6.png"
+        ]
+      },
+      {
+        "title": "Molybdeen-99",
+        "question_number": 7,
+        "answer_text": "Antwoord:\n⁹⁸₄₂Mo + ¹₀n → ⁹⁹₄₂Mo",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "atoomnummer van molybdeen correct"
+          },
+          {
+            "points": 1,
+            "description": "massagetal en atoomnummer van het neutron correct"
+          },
+          {
+            "points": 1,
+            "description": "voor de moederkern een consequente berekening van massagetal en atoomnummer en consequente notatie"
+          }
+        ],
+        "grading_note": "Een kandidaat die het verkeerde atoomnummer bij Mo-99 vindt maar wel Mo-98 als moederkern noteert, mist de eerste deelscore, maar kan de derde deelscore nog wel behalen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-molybdeen-99-antw7.png"
+        ]
+      },
+      {
+        "title": "Molybdeen-99",
+        "question_number": 8,
+        "answer_text": "A",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "juist antwoord: A"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-molybdeen-99-antw8.png"
+        ]
+      },
+      {
+        "title": "Molybdeen-99",
+        "question_number": 9,
+        "answer_text": "Uitkomst: λ = 8,79 · 10⁻¹² m\n\nVoorbeeld van een berekening:\nEr geldt E = hf met E = 0,141 MeV = 0,141 · 10⁶ · 1,602 · 10⁻¹⁹ J en h = 6,626 · 10⁻³⁴ J·s.\nInvullen geeft: 0,141 · 10⁶ · 1,602 · 10⁻¹⁹ = 6,626 · 10⁻³⁴ · f.\nHieruit volgt dat f = 3,409 · 10¹⁹ Hz.\nTen slotte geldt: λ = c/f = 2,998·10⁸ / 3,409·10¹⁹ = 8,79 · 10⁻¹² m.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat geldt 1,000 MeV = 1,602 · 10⁻¹³ J"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van E = hf met correcte waarde voor h"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van c = fλ met correcte waarde voor c"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "Onder correcte waarde wordt verstaan: de waarde uit een tabellenboek. Fouten in de significantie vallen onder de vierde deelscore.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-molybdeen-99-antw9.png"
+        ]
+      },
+      {
+        "title": "Molybdeen-99",
+        "question_number": 10,
+        "answer_text": "Voorbeeld van een bepaling:\n– Voor de activiteit geldt: A = −(ΔN/Δt)raaklijn.\nDe helling van de grafiek aan de (N,t)-grafiek van Tc-99m op t = 3,0 uur is gelijk aan\n−(ΔN/Δt) = −(0,40·10¹² − 0,80·10¹²)/((7,0−1,6)·3600) = 0,40·10¹²/19,4·10³ = 2,1 · 10⁷ (Bq).\nDit is meer dan 2,0 · 10⁷ (Bq).\n\n– voorbeeld van een antwoord:\nDe helling van de grafiek op t = 3,0 uur is bij beide andere stoffen minder steil. (Dus de activiteit op t = 3,0 uur is lager, er is een grotere beginhoeveelheid nodig.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de helling van de grafiek gebruikt moet worden"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van de helling van de grafiek in het vervaldiagram van Tc-99m op t = 3,0 uur binnen het interval (−)2,0 · 10⁷ tot en met (−)2,4 · 10⁷ Bq"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en consequente conclusie"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de helling van de grafieken op t = 3,0 uur bij beide andere stoffen minder steil is of de activiteit van beide andere stoffen op t = 3,0 uur kleiner is"
+          }
+        ],
+        "grading_note": "Een antwoord waar het inzicht in de helling of activiteit niet uit blijkt: vierde deelscore niet toekennen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-molybdeen-99-antw10.png"
+        ]
+      },
+      {
+        "title": "Molybdeen-99",
+        "question_number": 11,
+        "answer_text": "Voorbeelden van antwoorden: Meer absorptie van straling. / Verspreiding over een grotere oppervlakte.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "juist antwoord (zie voorbeelden van antwoorden)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-molybdeen-99-antw11.png"
+        ]
+      },
+      {
+        "title": "Molybdeen-99",
+        "question_number": 12,
+        "answer_text": "Voorbeeld van een antwoord:\nDe intensiteit die detector p meet, is groter dan de intensiteit die q meet. De tracer bevindt zich dus in a of in b.\n\nmethode 1\nDe afstand bp = 12 cm; de intensiteit die p meet is 27 µW m⁻².\nDe afstand bq = 20 cm; de intensiteit die q meet is 7 µW m⁻².\n27/7 = 3,9 dus de tracer bevindt zich in b.\n\nof\n\nmethode 2\nDe afstand ap = 8 cm; de intensiteit die p meet is 75 µW m⁻².\nDe afstand aq = 24 cm; de intensiteit die q meet is 4 µW m⁻².\n75/4 = 19 dus de tracer bevindt zich niet in a, maar in b.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de tracer zich in a of in b moet bevinden"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van afstanden en intensiteiten van a of b tot een detector"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": "Een antwoord zonder uitleg: geen scorepunten toekennen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-molybdeen-99-antw12.png"
+        ]
+      },
+      {
+        "title": "Road-train",
+        "question_number": 13,
+        "answer_text": "Uitkomst: 3,3 (h)\n\nVoorbeeld van een bepaling:\nDe afstand van Port Augusta naar Port Lincoln is op de kaart van de uitwerkbijlage 5,0 cm. Dit komt overeen met een afstand van 5,0 · 60 = 300 km.\nDe road-train rijdt met 90 km h⁻¹, de reis duurt dus 300/90 = 3,3 (h).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bepalen van de werkelijke afstand van Port Augusta naar Port Lincoln met een marge van 60 km"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van s = vt"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": "Er hoeft hier geen rekening gehouden te worden met significantie.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-road-train-antw13.png"
+        ]
+      },
+      {
+        "title": "Road-train",
+        "question_number": 14,
+        "answer_text": "Uitkomst: P = 7,9 · 10⁴ W\n\nVoorbeeld van een berekening:\nDe hoogte van het wegdek stijgt over traject ab van 13,0 m naar 15,0 m.\nDe motor levert dan W = mgΔh = 160 · 10³ · 9,81 · (15,0 − 13,0) = 3,14 · 10⁶ J extra arbeid.\nDe road-train legt hierbij 1000 m af met een snelheid van 90/3,6 = 25 m s⁻¹.\nDit duurt t = s/v = 1000/25 = 40 s. Het vermogen dat de motor extra levert is\nP = W/t = 3,14·10⁶/40 = 7,9 · 10⁴ W",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat geldt: W = mgΔh"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van Δh = 2,0 m"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van s = vt en P = W/t"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-road-train-antw14.png"
+        ]
+      },
+      {
+        "title": "Road-train",
+        "question_number": 15,
+        "answer_text": "Antwoorden:\nbewering — juist — onjuist\nOp traject ab is de zwaartekracht op de road-train het grootst. — — X\nDe normaalkracht op de road-train is het grootst op traject bc. — — X\nDe tijd die nodig is om traject cd af te leggen is het langst. — — X",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien drie antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien twee antwoorden juist"
+          },
+          {
+            "points": 0,
+            "description": "indien één of geen antwoord juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-road-train-antw15.png"
+        ]
+      },
+      {
+        "title": "Road-train",
+        "question_number": 16,
+        "answer_text": "Voorbeelden van een antwoord:\n\nmethode 1\nEr geldt: a = Δv/Δt = 7,09/28,2 = 0,251 m s⁻².\nF = ma = 160 · 10³ · 0,251 = 40,2 · 10³ (N) = 40,2 (kN).\nen: Ek = ½mv² = ½ · 160 · 10³ · 7,09² = 4,02 · 10⁶ (J) = 4,02 (MJ).\n\nDus:\nbewering 1 – “De motor van de road-train van 160 ton levert over deze 100 m meer kracht dan de motor van de vrachtwagen van 40 ton.” – juist\nbewering 2 – “De road-train van 160 ton heeft na 100 m meer kinetische energie dan de vrachtwagen van 40 ton.” – juist\n\nof\n\nmethode 2\nEr geldt: Ek = ½mv² = ½ · 160 · 10³ · 7,09² = 4,02 · 10⁶ (J) = 4,02 (MJ).\nen: F = W/s = Ekin/s = 4,02·10⁶/100 = 40,2 · 10³ (N) = 40,2 (kN).\n\nDus: bewering 1 juist, bewering 2 juist.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van a = Δv/Δt en F = ma"
+          },
+          {
+            "points": 1,
+            "description": "completeren en consequente conclusie bij bewering 1"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van Ek = ½mv²"
+          },
+          {
+            "points": 1,
+            "description": "completeren en consequente conclusie bij bewering 2"
+          }
+        ],
+        "grading_note": "Wanneer de massa verkeerd is omgerekend: maximaal 3 scorepunten toekennen. Er hoeft hier geen rekening gehouden te worden met significantie. Wanneer de massa op dezelfde manier fout is omgerekend als in vraag 14: niet opnieuw aanrekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-road-train-antw16.png"
+        ]
+      },
+      {
+        "title": "Road-train",
+        "question_number": 17,
+        "answer_text": "Uitkomst: Δsrem = 10 m met een marge van 1,0 m\n\nVoorbeeld van een bepaling:\nDe remweg van een voertuig kan worden bepaald met de oppervlakte onder het (v,t)-diagram. Voor de vrachtwagen van 40 ton is dit ½ · 6,0 · 16,7 = 50 m. Voor de road-train van 160 ton is dit ½ · 7,2 · 16,7 = 60 m. Het verschil in remweg is dan 60 − 50 = 10 m.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de remweg de oppervlakte onder het (v,t)-diagram is"
+          },
+          {
+            "points": 1,
+            "description": "inzicht Δsrem = s160t − s40t"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": "Wanneer gerekend is met vmax in plaats van met vgem vervalt de eerste deelscore, maar is de deelscore voor completeren nog wel te behalen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-road-train-antw17.png"
+        ]
+      },
+      {
+        "title": "Metaalmoeheid",
+        "question_number": 18,
+        "answer_text": "Uitkomst: F = 5,00 · 10² N\n\nVoorbeeld van een berekening:\nVoor de spanning geldt: σ = F/A.\nHierin is A = 2,63 mm² = 2,63 · 10⁻⁶ m².\nDe spanning σ = 190 MPa = 190 · 10⁶ Pa. Invullen geeft\nF = σA = 190 · 10⁶ · 2,63 · 10⁻⁶ = 5,00 · 10² N.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van σ = F/A"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 1,0 mm² = 1,0 · 10⁻⁶ m²"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-metaalmoeheid-antw18.png"
+        ]
+      },
+      {
+        "title": "Metaalmoeheid",
+        "question_number": 19,
+        "answer_text": "Uitkomst: ε = 9,5 · 10⁻⁴ (Binas) of ε = 9,74 · 10⁻⁴ (Science Data)\n\nVoorbeeld van een berekening:\nmethode 1\nBinas: Er geldt: E = σ/ε waarin E = 0,20 · 10¹² Pa en σ = 190 MPa.\nDe relatieve rek van de spaak is dan ε = σ/E = 190·10⁶ / 0,20·10¹² = 9,5 · 10⁻⁴.\n\nof\n\nmethode 2\nScience Data: Er geldt: E = σ/ε waarin E = 195 · 10⁹ Pa en σ = 190 MPa.\nDe relatieve rek van de spaak is dan ε = σ/E = 190·10⁶ / 195·10⁹ = 9,74 · 10⁻⁴.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van E = σ/ε met E = 0,20 · 10¹² Pa"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "In Binas wordt ook gewerkt met de waarde E = 200 · 10⁹ Pa voor roestvast staal. De uitkomst is dan in 3 significante cijfers.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-metaalmoeheid-antw19.png"
+        ]
+      },
+      {
+        "title": "Metaalmoeheid",
+        "question_number": 20,
+        "answer_text": "Uitkomst: f = 3,78 Hz met een marge van 0,06 Hz\n\nVoorbeeld van een bepaling:\nmethode 1\nUit de figuur op de uitwerkbijlage is af te lezen dat de spaak 7 keer ronddraait in 1,85 s, dus T = 1,85/7 = 0,264 s.\nHieruit volgt f = 1/0,264 = 3,78 Hz.\n\nOf\n\nmethode 2\nUit de figuur op de uitwerkbijlage is af te lezen dat de spaak 7 keer ronddraait in 1,85 s, dus f = 7/1,85 = 3,78 Hz.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat geldt T = benodigde tijd / aantal omwentelingen en f = 1/T"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-metaalmoeheid-antw20.png"
+        ]
+      },
+      {
+        "title": "Metaalmoeheid",
+        "question_number": 21,
+        "answer_text": "Voorbeeld van een antwoord:\n– De spanningsamplitude in dit onderzoek is gelijk aan (198−130)/2 = 34 MPa.\n\n– Bij een spanningsamplitude van 100 MPa zijn 1 · 10⁷ wielomwentelingen te maken. De spanningsamplitude voor de spaak is lager, dus het wiel kan (minimaal) 1 · 10⁷ wielomwentelingen maken.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat σmax en σmin bepaald moeten worden"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening van σA (met een marge van 4 MPa)"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat σA vergeleken moet worden met σ bij N = 1 · 10⁷"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": "Bij de tweede deelscore hoeft geen rekening gehouden te worden met fouten in significantie of eenheid.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-metaalmoeheid-antw21.png"
+        ]
+      },
+      {
+        "title": "Metaalmoeheid",
+        "question_number": 22,
+        "answer_text": "Uitkomst: 6,6 · 10³ (km)\n\nVoorbeeld van een bepaling:\nBij een spanningsamplitude van 120 MPa wordt de levensduur van de spaak 3,0 · 10⁶ wielomwentelingen.\nDe diameter van het wiel is 70 cm, de omtrek is dan 2π · ½ · 70 = 220 cm = 2,2 m.\nDe spaak zal dan na 3,0 · 10⁶ · 2,2 = 6,6 · 10⁶ m = 6,6 · 10³ km breken.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "aflezen van de levensduur bij 120 MPa"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van omtrek = 2πr met r = 35 cm of πd met d = 70 cm"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "Er hoeft hier geen rekening gehouden te worden met significantie.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-metaalmoeheid-antw22.png"
+        ]
+      },
+      {
+        "title": "Naaldjes rond de aarde",
+        "question_number": 23,
+        "answer_text": "Voorbeeld van een berekening:\nEr geldt: m = ρV = ρ·ℓ·A. De dichtheid van koper is 8,96 · 10³ kg m⁻³.\nInvullen geeft: 40 · 10⁻⁹ = 8,96 · 10³ · 0,018 · ¼πd². Hieruit volgt dat\nd = 1,8 · 10⁻⁵ m = 18 µm. Dit is minder dan de diameter van een mensenhaar.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van m = ρV met ρ = 8,96 · 10³ kg m⁻³"
+          },
+          {
+            "points": 1,
+            "description": "omrekenen van µg naar kg"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": "Er hoeft hier geen rekening gehouden te worden met significantie.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-naaldjes-rond-de-aarde-antw23.png"
+        ]
+      },
+      {
+        "title": "Naaldjes rond de aarde",
+        "question_number": 24,
+        "answer_text": "Uitkomst: f = 8,3 · 10⁹ Hz\n\nVoorbeeld van een berekening:\nDe golflengte van de microgolfstraling is gelijk aan 2 · 1,8 = 3,6 cm.\nVoor de frequentie van deze straling geldt: f = c/λ = 3,00·10⁸ / 0,036 = 8,3 · 10⁹ Hz.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat λ = 2 · ℓnaaldje"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van c = fλ"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-naaldjes-rond-de-aarde-antw24.png"
+        ]
+      },
+      {
+        "title": "Naaldjes rond de aarde",
+        "question_number": 25,
+        "answer_text": "Uitkomst: t = 0,6 (h)\n\nVoorbeeld van een berekening:\nEr wordt 2,0·10⁴/8 = 2500 byte per seconde = 2,5 · 10⁻³ megabyte per seconde verzonden.\nVoor een foto van 5 megabyte is dan 5/(2,5·10⁻³) = 2 · 10³ s = 0,6 h nodig.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "correct omrekenen van bits naar megabyte of omgekeerd"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "Wanneer is gerekend met 1,000 MB = 1024 kB (= 1,049 · 10⁶ B), dit goed rekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-naaldjes-rond-de-aarde-antw25.png"
+        ]
+      },
+      {
+        "title": "Naaldjes rond de aarde",
+        "question_number": 26,
+        "answer_text": "Uitkomst: T = 1,01 · 10⁴ s\n\nVoorbeeld van een berekening:\nVoor de snelheid van een naaldje geldt: v = √(GM/r).\nHierin is G = 6,674 · 10⁻¹¹ N m² kg⁻² en M = 5,972 · 10²⁴ kg.\nDe straal van de cirkelbaan is gelijk aan r = h + raarde = 3,70 · 10⁶ + 6,371 · 10⁶ = 10,071 · 10⁶ m.\nHieruit volgt dat v = √(GM/r) = √(6,674·10⁻¹¹ · 5,972·10²⁴ / 10,071·10⁶) = 6,291 · 10³ m s⁻¹.\nUit v = 2πr/T volgt: T = 2π·10,071·10⁶ / 6,291·10³ = 1,01 · 10⁴ s.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van v = √(GM/r) met correcte waardes voor G en M"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat r = h + raarde met correcte waarde voor raarde"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van v = 2πr/T"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "Wanneer de straal van de aarde niet is meegerekend is het scorepunt voor completeren nog wel te behalen. Onder correcte waarde wordt verstaan: de waarde uit een tabellenboek. Fouten in de significantie vallen onder de vierde deelscore. Als een kandidaat voor de straal van de aarde gebruik maakt van de waarde 6,378 · 10⁶ m: dit ook goed rekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-naaldjes-rond-de-aarde-antw26.png"
+        ]
+      },
+      {
+        "title": "Naaldjes rond de aarde",
+        "question_number": 27,
+        "answer_text": "Antwoord:\n– De naaldjes bevonden zich lager dan de geostationaire baan.\n– De middelpuntzoekende kracht op een naaldje was gelijk aan de gravitatiekracht.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "op correcte zin (dit criterium geldt voor elk van de twee bovenstaande zinnen afzonderlijk, tot een maximumscore van 2)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-naaldjes-rond-de-aarde-antw27.png"
+        ]
+      },
+      {
+        "title": "Naaldjes rond de aarde",
+        "question_number": 28,
+        "answer_text": "Uitkomst: 4,7 (naaldjes per km²)\n\nVoorbeeld van een berekening:\nHet aardoppervlak is 4πr² = 4π(6,371 · 10³)² = 5,101 · 10⁸ km².\nHet gemiddelde aantal naaldjes per km² is 480·10⁶ / (0,20·5,101·10⁸) = 4,7.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van A = 4πr²"
+          },
+          {
+            "points": 1,
+            "description": "correct gebruik van factor 20%"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "Wanneer is gerekend met dezelfde foutieve waarde voor raarde als in vraag 26: niet opnieuw aanrekenen. Er hoeft hier geen rekening gehouden te worden met significantie. De antwoorden \"4 (naaldjes per km²)\" of \"5 (naaldjes per km²)\" ook goed rekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2017-i-naaldjes-rond-de-aarde-antw28.png"
+        ]
+      }
+    ]
+  }
+}
