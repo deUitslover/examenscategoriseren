@@ -171,6 +171,24 @@ def find_vraag_lines(page, y0=None, y1=None, max_gap=6.0, column_slack=60.0):
     column_slack: continuation lines must start within this many points of
     the vraag's own left edge, so a figure label or caption sitting in the
     right-hand column at the same height is never absorbed into the vraag.
+
+    Bug fixed here: the points marker ("3p") and its own vraag-number +
+    first text line ("1", "Leg met behulp...") sit on the same visual row
+    but almost always have slightly different line y0 (font-baseline
+    jitter -- the marker's y0 is consistently a couple points BELOW the
+    number/text it belongs to on every ExamenCentraal page checked). A
+    plain y0-sort places the marker AFTER its own number and first line,
+    so starting the group at the marker's sorted position (the old
+    `lines[i:]`) silently dropped that number and first line for every
+    SINGLE-LINE vraag (nothing to bring them back in as a wipe_all_except
+    keep-box). A multi-line vraag could accidentally survive anyway if a
+    later continuation line's wider x1 happened to widen the union box
+    enough to still overlap the missing first line/number -- which made
+    this look fine in spot checks and only render as "<punten>p" with
+    nothing else for the (common) single-line case. Fix: first collect the
+    marker's own ROW (every same-column line whose y-range overlaps the
+    marker's, searched over the WHOLE page, not just lines[i:]), then
+    continue downward from the bottom of that row exactly as before.
     """
     lines = sorted(text_lines(page), key=lambda l: (l[1], l[0]))
     starts = [i for i, l in enumerate(lines) if POINTS_RE.match(l[4])]
@@ -183,26 +201,41 @@ def find_vraag_lines(page, y0=None, y1=None, max_gap=6.0, column_slack=60.0):
         if y1 is not None and sy0 >= y1:
             continue
 
-        column = [
-            l for l in lines[i:]
+        row = [
+            l for l in lines
             if l[0] <= sx0 + column_slack
+            and l[1] < sy1 and l[3] > sy0  # true y-range overlap, no slack:
+            # the marker/number/text of one vraag always truly overlap in y
+            # (they're glyphs on the same visual line); a previous
+            # paragraph's last line never does, it only sits close above.
+            and (l is lines[i] or not POINTS_RE.match(l[4]))
         ]
-        group = [column[0]]
-        prev = column[0]
-        for cand in column[1:]:
+        row.sort(key=lambda l: l[0])
+        row_bottom = max(l[3] for l in row)
+
+        rest = [
+            l for l in lines
+            if l[0] <= sx0 + column_slack and l[1] >= row_bottom
+            and l not in row
+        ]
+        rest.sort(key=lambda l: (l[1], l[0]))
+
+        group = list(row)
+        prev_y1 = row_bottom
+        for cand in rest:
             if POINTS_RE.match(cand[4]):
                 break
-            if cand[1] - prev[3] > max_gap:
+            if cand[1] - prev_y1 > max_gap:
                 break
             group.append(cand)
-            prev = cand
+            prev_y1 = max(prev_y1, cand[3])
 
         result.append({
             "x0": min(g[0] for g in group),
             "y0": min(g[1] for g in group),
             "x1": max(g[2] for g in group),
             "y1": max(g[3] for g in group),
-            "text": " ".join(g[4] for g in group),
+            "text": " ".join(g[4] for g in sorted(group, key=lambda l: (l[1], l[0]))),
         })
     return result
 
