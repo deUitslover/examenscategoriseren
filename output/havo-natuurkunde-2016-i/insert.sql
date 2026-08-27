@@ -199,7 +199,7 @@ insert into practice_questions (id, exercise_id, question_number, topics, keywor
    $$["radioactief verval", "alfastraling", "doordringend vermogen straling", "vervalreactie", "atoombouw"]$$::jsonb,
    $$Met de vervalreactie van radium-226 (alfaverval) beoordelen of alfastraling door de huid kan dringen.$$,
    $$natuurkunde-havo-2016-i-radiumbad-vraag1.png$$, 501,
-   $$Leg met behulp van de vervalreactie van radium-226 uit of die artsen gelijk hadden.$$, array[]::uuid[]),
+   $$Leg met behulp van de vervalreactie van radium-226 uit of die artsen gelijk hadden.$$, array['09cda2cc-90db-4bb6-a657-ca26033a9ded', 'f305d0ab-3f90-4262-b10d-84810f0b64e0']::uuid[]),
   ('813eeb0d-8f80-4cc8-917f-89edc357ad76', '102e8995-a5cc-4a79-a294-1ba55b3d417a', 2,
    $$[{"domain": "Beeld- en geluidstechniek", "subdomain": "Medische beeldvorming"}]$$::jsonb,
    $$["activiteit", "halveringstijd", "aantal atomen berekenen", "molaire massa", "radioactief verval"]$$::jsonb,
