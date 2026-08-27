@@ -171,6 +171,24 @@ def find_vraag_lines(page, y0=None, y1=None, max_gap=6.0, column_slack=60.0):
     column_slack: continuation lines must start within this many points of
     the vraag's own left edge, so a figure label or caption sitting in the
     right-hand column at the same height is never absorbed into the vraag.
+
+    Gotcha (seen throughout HAVO-NAT-18-I-O.pdf): on pages where the points
+    marker ("3p") sits in its own narrow left column, its line bbox can
+    have a slightly different y0 than the question-number/text line on the
+    same visual row (font baseline differences) -- often enough to sort
+    the marker line AFTER that row's own number/text line in the (y0, x0)
+    sort. Since the old code only scanned forward from the marker's index
+    (`lines[i:]`), it silently dropped that row's own number and question
+    text, returning a vraag bbox/text that started mid-question. Fixed by
+    first pulling in any line whose y0 is within `row_tol` of the marker's
+    own y0 (regardless of sort position) before doing the forward-only
+    continuation scan. row_tol is deliberately small (a couple points, well
+    under one line-height) -- the real same-row offset seen is ~2pt, while
+    consecutive body-text lines (including a paragraph's last line running
+    directly into a marker with no blank line before it, seen on some
+    pages) are a full line-height (~14-16pt) apart, so this does not pull
+    in unrelated preceding content. Leaves single-line "3p 10 Bereken ..."
+    pages (where marker and text are already one line) unchanged.
     """
     lines = sorted(text_lines(page), key=lambda l: (l[1], l[0]))
     starts = [i for i, l in enumerate(lines) if POINTS_RE.match(l[4])]
@@ -183,19 +201,46 @@ def find_vraag_lines(page, y0=None, y1=None, max_gap=6.0, column_slack=60.0):
         if y1 is not None and sy0 >= y1:
             continue
 
-        column = [
-            l for l in lines[i:]
-            if l[0] <= sx0 + column_slack
-        ]
-        group = [column[0]]
-        prev = column[0]
-        for cand in column[1:]:
+        row_tol = 2.5
+        same_row_idx = sorted(
+            j for j, l in enumerate(lines)
+            if l[0] <= sx0 + column_slack and abs(l[1] - sy0) <= row_tol
+        )
+        group = [lines[j] for j in same_row_idx]
+        prev = max(group, key=lambda l: l[3])
+        last_j = same_row_idx[-1]
+        # Right edge of the column accepted so far. Starts at the marker's
+        # own x0, but grows as deeper-indented continuation lines are
+        # accepted (see col_ref note below) -- plain forward-scan
+        # continuation (no bullets) never grows this, so behaviour there
+        # is unchanged.
+        col_ref = sx0
+
+        for j in range(last_j + 1, len(lines)):
+            cand = lines[j]
+            if cand[0] > col_ref + column_slack:
+                continue
             if POINTS_RE.match(cand[4]):
                 break
             if cand[1] - prev[3] > max_gap:
                 break
             group.append(cand)
             prev = cand
+            # A "− opdracht" bullet list indents its own text a further
+            # ~20pt past the dash (e.g. dash at x0=104.9, its wrapped text
+            # at x0=124.7) -- both comfortably inside one column_slack step
+            # of each other, but a fixed sx0-only reference (as before)
+            # permanently excludes that indent once sx0 sits at the far
+            # left points column, silently truncating any wrapped bullet
+            # text (seen on q22 of HAVO-NAT-18-I-O.pdf: grouping broke off
+            # after the first bullet's dash, losing ~100pt of real
+            # question text -- a big gap that then also wrongly aborted
+            # the scan for the wrapped lines that were still to come).
+            # Only ever widening, and only by column_slack per accepted
+            # line, so this still cannot reach genuine right-hand-column
+            # content (figure captions in this exam start at x0>=276,
+            # far past anything reachable via legitimate list indents).
+            col_ref = max(col_ref, cand[0])
 
         result.append({
             "x0": min(g[0] for g in group),
