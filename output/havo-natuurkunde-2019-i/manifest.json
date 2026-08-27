@@ -1,0 +1,61 @@
+{
+  "source": "HAVO Natuurkunde 2019-I",
+  "subject_name": "Natuurkunde",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Walstroom",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Wereldrecord blobspringen",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Kookstenen",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Oude horloges",
+      "question_numbers": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "title": "Elysium",
+      "question_numbers": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    }
+  ]
+}
