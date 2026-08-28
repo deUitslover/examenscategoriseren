@@ -1,0 +1,348 @@
+{
+  "subject_name": "Natuurkunde",
+  "level": "HAVO",
+  "source": "HAVO Natuurkunde 2019-I",
+  "answers": [
+    {
+      "title": "Walstroom",
+      "question_number": 1,
+      "answer_text": "voorbeeld van een berekening:\nVoor het elektrisch vermogen van het schip geldt:\nP = E/t = (3000·3,5·10³·3,6·10⁶)/(365·24·3600) = 1,2 · 10⁶ W.",
+      "scoring_steps": [
+        {"points": 1, "description": "gebruik van E = Pt"},
+        {"points": 1, "description": "gebruik van de factor 3000"},
+        {"points": 1, "description": "completeren van de berekening"}
+      ],
+      "grading_note": "Er hoeft geen rekening gehouden te worden met significantie.\nAls de eenheid niet vermeld is: dit niet aanrekenen",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-walstroom-antw1.png"]
+    },
+    {
+      "title": "Walstroom",
+      "question_number": 2,
+      "answer_text": "pijl I: chemische energie\npijl II: warmte\npijl III: elektrische energie",
+      "scoring_steps": [
+        {"points": 2, "description": "indien drie antwoorden juist"},
+        {"points": 1, "description": "indien twee antwoorden juist"},
+        {"points": 0, "description": "indien één of geen antwoord juist"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2019-i-walstroom-antw2.png"]
+    },
+    {
+      "title": "Walstroom",
+      "question_number": 3,
+      "answer_text": "uitkomst: Binas: V = 9,3 (m³)\nSciencedata: V = 9,5 (m³)\n\nvoorbeeld van een berekening:\nIn 24 uur geldt voor de elektrische energie die de generator heeft geleverd:\nE_elektrisch = Pt = 1,2 · 10⁶ · 3600 · 24 = 1,04 · 10¹¹ J.\nVoor de energie die de dieselmotor aan de generator moet leveren geldt:\nη = E_elektrisch/E_motor → E_motor = E_elektrisch/η → E_motor = (1,04·10¹¹)/0,80 = 1,30 · 10¹¹ J.\nVoor de energie die de stookolie moet leveren geldt:\nη = E_motor/E_stookolie → E_stookolie = E_motor/η → E_stookolie = (1,30·10¹¹)/0,35 = 3,70 · 10¹¹ J.\nVoor de stookolie geldt dan:\nE_stookolie = r_V·V → V = E_stookolie/r_V = (3,70·10¹¹)/(40·10⁹) = 9,3 m³.",
+      "scoring_steps": [
+        {"points": 1, "description": "gebruik van P = E/t"},
+        {"points": 1, "description": "juist gebruik van de factoren 0,80 en 0,35"},
+        {"points": 1, "description": "gebruik E_stookolie = r_V·V"},
+        {"points": 1, "description": "opzoeken r_V van stookolie"},
+        {"points": 1, "description": "completeren van de berekening"}
+      ],
+      "grading_note": "Sciencedata geeft r_V = 38,9 · 10⁹ J m⁻³. Hieruit volgt V_stookolie = 9,5 m³.\nWanneer een van de factoren voor het rendement niet of onjuist is meegenomen, vervalt de tweede deelscore. Wanneer beide factoren niet of onjuist zijn meegenomen, vervallen de tweede en de vijfde deelscore.",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-walstroom-antw3.png"]
+    },
+    {
+      "title": "Walstroom",
+      "question_number": 4,
+      "answer_text": "uitkomst: I_kabel = 76 A\n\nvoorbeeld van een berekening:\nVoor de totale stroomsterkte in alle kabels geldt:\nP_schip = U·I_totaal → I_totaal = P_schip/U = (1,2·10⁶)/440 = 2727 A.\nDe 36 kabels zijn parallel aangesloten, dus:\nI_kabel = I_totaal/36 = 2727/36 = 76 A.",
+      "scoring_steps": [
+        {"points": 1, "description": "gebruik P = UI"},
+        {"points": 1, "description": "inzicht I_kabel = I_totaal/36"},
+        {"points": 1, "description": "completeren van de berekening"}
+      ],
+      "grading_note": "Wanneer een kandidaat voor de tweede deelscore gebruik heeft gemaakt van 18 in plaats van 36, dit niet aanrekenen.",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-walstroom-antw4.png"]
+    },
+    {
+      "title": "Walstroom",
+      "question_number": 5,
+      "answer_text": "uitkomst: Binas: R = 8,8 · 10⁻⁵ Ω\nSciencedata: R = 8,7 · 10⁻⁵ Ω\n\nvoorbeeld van een berekening:\nVoor de weerstand van de koperen draad geldt:\nR = ρℓ/A = (17·10⁻⁹·13)/(25·10⁻⁴) = 8,8 · 10⁻⁵ Ω.",
+      "scoring_steps": [
+        {"points": 1, "description": "gebruik van ρ = RA/ℓ"},
+        {"points": 1, "description": "opzoeken van de soortelijke weerstand van koper"},
+        {"points": 1, "description": "completeren van de berekening"}
+      ],
+      "grading_note": "Sciencedata geeft ρ_koper = 16,8 · 10⁻⁹ Ω m. Hieruit volgt R = 8,7 · 10⁻⁵ Ω.\nWanneer een kandidaat rekent met een lengte van 26 m, dit niet aanrekenen.",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-walstroom-antw5.png"]
+    },
+    {
+      "title": "Walstroom",
+      "question_number": 6,
+      "answer_text": "De geleidbaarheid van de 6,6kV kabel is veel kleiner dan de geleidbaarheid van de 36 oude 440 V kabels samen.\nDe stroomsterkte door de 6,6kV kabel is veel kleiner dan de stroomsterkte door de 36 oude 440 V kabels samen.",
+      "scoring_steps": [
+        {"points": 1, "description": "per juiste regel"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2019-i-walstroom-antw6.png"]
+    },
+    {
+      "title": "Wereldrecord blobspringen",
+      "question_number": 7,
+      "answer_text": "uitkomst: v_groep = 11,8 m s⁻¹ (10,5 m s⁻¹ ≤ v_groep ≤ 12,4 m s⁻¹)\n\nvoorbeeld van een bepaling:\nDe snelheid van de groep is te bepalen door op t = 1,27 s de helling van de raaklijn te bepalen.\nEr geldt: v_groep = Δh/Δt = 17,1/1,45 = 11,8 m s⁻¹.",
+      "scoring_steps": [
+        {"points": 1, "description": "tekenen van de raaklijn op t = 1,27 s"},
+        {"points": 1, "description": "gebruik van v = (Δx/Δt)_raaklijn"},
+        {"points": 1, "description": "completeren van de bepaling"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2019-i-wereldrecord-blobspringen-antw7.png"]
+    },
+    {
+      "title": "Wereldrecord blobspringen",
+      "question_number": 8,
+      "answer_text": "voorbeelden van een antwoord:\n\nmethode 1\nVoor de snelheid van de drukgolf geldt:\nv_drukgolf = s_blob/t_drukgolf = s_blob/(1,34−1,27).\nDe afstand die de drukgolf door de blob reist moet geschat worden. Op de foto is de afstand tussen de groep en Zimmerli op de blob 2 cm. De groep valt van een hoogte van 9,9 m. Op de foto is dit een afstand van 2,8 cm.\nVoor de afstand die de drukgolf aflegt geldt dan: (2/2,8)·9,9 = 7 m.\nIngevuld levert dit: v_drukgolf = 7/(1,34−1,27) = 1 · 10² m s⁻¹.\nDeze snelheid is lager dan de geluidssnelheid in lucht (= 3,4 · 10² m s⁻¹).\n\nof\n\nmethode 2\nDe lengte van een persoon op de foto is te schatten op 1,8 m. Dit komt overeen met 0,5 cm op de foto. De afstand tussen Zimmerli en de groep is 2 cm. Voor de afstand die de drukgolf aflegt geldt dan: (1,8/0,5)·2 = 7 m.\nIngevuld levert dit: v_drukgolf = 7/(1,34−1,27) = 1 · 10² m s⁻¹.\nDeze snelheid is lager dan de geluidssnelheid in lucht (= 3,4 · 10² m s⁻¹).",
+      "scoring_steps": [
+        {"points": 1, "description": "gebruik van s = vt met t = 0,07 s"},
+        {"points": 1, "description": "beredeneerd schatten van de afstand tussen de 4 en 9 m"},
+        {"points": 1, "description": "completeren en consequente conclusie"}
+      ],
+      "grading_note": "Er hoeft geen rekening gehouden te worden met significantie.\nBij een schatting tussen 3,5 m en 9,4 m: dit goed rekenen.",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-wereldrecord-blobspringen-antw8.png", "natuurkunde-havo-2019-i-wereldrecord-blobspringen-antw8-deel2.png"]
+    },
+    {
+      "title": "Wereldrecord blobspringen",
+      "question_number": 9,
+      "answer_text": "uitkomst: F_blob = 1,5 · 10⁴ N\n\nvoorbeeld van een berekening:\nUit F_res = F_blob − F_z volgt:\nF_blob = F_res + F_z = ma + mg = 80 · 1,78 · 10² + 80 · 9,81 = 1,5 · 10⁴ N.",
+      "scoring_steps": [
+        {"points": 1, "description": "gebruik van F_res = ma"},
+        {"points": 1, "description": "inzicht dat geldt F_blob = F_res + F_z"},
+        {"points": 1, "description": "completeren van de berekening"}
+      ],
+      "grading_note": "Als de kandidaat geen gebruik heeft gemaakt van F_z = mg vervallen de tweede en de derde deelscore.",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-wereldrecord-blobspringen-antw9.png"]
+    },
+    {
+      "title": "Wereldrecord blobspringen",
+      "question_number": 10,
+      "answer_text": "antwoord: IV",
+      "scoring_steps": [
+        {"points": 1, "description": "juist antwoord: IV"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2019-i-wereldrecord-blobspringen-antw10.png"]
+    },
+    {
+      "title": "Wereldrecord blobspringen",
+      "question_number": 11,
+      "answer_text": "uitkomst: Δh = 37 m\n\nvoorbeeld van een berekening:\nVolgens het behoud van energie geldt:\nm_groep·g·Δh_groep = m_Zimmerli·g·Δh_Zimmerli → Δh_Zimmerli = (m_groep·Δh_groep)/m_Zimmerli →\nΔh_Zimmerli = (300·9,9)/80 = 37 m.",
+      "scoring_steps": [
+        {"points": 1, "description": "inzicht in het behoud van zwaarte-energie"},
+        {"points": 1, "description": "gebruik E_z = mgh"},
+        {"points": 1, "description": "completeren van de berekening"}
+      ],
+      "grading_note": "Wanneer een kandidaat de snelheid van de groep heeft gebruikt, vervalt de eerste deelscore.",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-wereldrecord-blobspringen-antw11.png"]
+    },
+    {
+      "title": "Wereldrecord blobspringen",
+      "question_number": 12,
+      "answer_text": "mogelijke verklaringen:\nDe blob neemt energie op. — juist\nDe zwaartekracht remt Zimmerli af. — onjuist\nZimmerli schiet schuin omhoog weg. — juist",
+      "scoring_steps": [
+        {"points": 2, "description": "indien drie antwoorden juist"},
+        {"points": 1, "description": "indien twee antwoorden juist"},
+        {"points": 0, "description": "indien één of geen antwoord juist"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2019-i-wereldrecord-blobspringen-antw12.png"]
+    },
+    {
+      "title": "Kookstenen",
+      "question_number": 13,
+      "answer_text": "uitkomst: λ_max = 4,41 · 10⁻⁶ m\n\nvoorbeeld van een berekening:\nλ_max·T = k_W → λ_max = k_W/T = (2,8978·10⁻³)/(384+273) = 4,41 · 10⁻⁶ m.",
+      "scoring_steps": [
+        {"points": 1, "description": "gebruik van λ_max·T = k_W"},
+        {"points": 1, "description": "omrekenen van °C naar K"},
+        {"points": 1, "description": "completeren van de berekening"}
+      ],
+      "grading_note": "Als de tweede deelscore niet is gehaald, kan de derde deelscore nog wel worden behaald.",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-kookstenen-antw13.png"]
+    },
+    {
+      "title": "Kookstenen",
+      "question_number": 14,
+      "answer_text": "uitkomst: m = 1,6 kg\n\nvoorbeeld van een berekening:\nEr geldt: Q_graniet = Q_water → c_graniet·m_graniet·ΔT_graniet = c_water·m_water·ΔT_water.\nHieruit volgt:\nm_water = (c_graniet·m_graniet·ΔT_graniet)/(c_water·ΔT_water) = (0,82·10³·2,3·(384−100))/(4,18·10³·(100−18)) = 1,6 kg water.",
+      "scoring_steps": [
+        {"points": 1, "description": "inzicht Q_graniet = Q_water"},
+        {"points": 1, "description": "gebruik van Q = cmΔT"},
+        {"points": 1, "description": "opzoeken c_graniet en c_water"},
+        {"points": 1, "description": "completeren van de berekening"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2019-i-kookstenen-antw14.png"]
+    },
+    {
+      "title": "Kookstenen",
+      "question_number": 15,
+      "answer_text": "voorbeeld van een antwoord:\nBasalt heeft een grotere soortelijke warmte. Er is dus een kleinere massa basalt nodig om dezelfde hoeveelheid water op te warmen.",
+      "scoring_steps": [
+        {"points": 1, "description": "inzicht dat basalt een grotere soortelijke warmte heeft"},
+        {"points": 1, "description": "consequente conclusie"}
+      ],
+      "grading_note": "Een antwoord gebaseerd op dichtheid: geen scorepunten toekennen.",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-kookstenen-antw15.png"]
+    },
+    {
+      "title": "Kookstenen",
+      "question_number": 16,
+      "answer_text": "situatie — opwarmtijd water wordt langer / opwarmtijd water wordt korter:\nDe kooksteen heeft een groter oppervlak bij gelijke massa. — korter\nDe kooksteen heeft een hogere begintemperatuur. — korter\nDe houten pot wordt afgedekt met een deksel. — korter\nDe houten pot is breder en minder diep. De pot is gevuld met dezelfde hoeveelheid water. — langer\nDe bodem waar de houten pot op staat is bevroren. — langer",
+      "scoring_steps": [
+        {"points": 3, "description": "indien vijf antwoorden juist"},
+        {"points": 2, "description": "indien vier antwoorden juist"},
+        {"points": 1, "description": "indien drie antwoorden juist"},
+        {"points": 0, "description": "indien minder dan drie antwoorden juist"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2019-i-kookstenen-antw16.png"]
+    },
+    {
+      "title": "Kookstenen",
+      "question_number": 17,
+      "answer_text": "uitkomst: P = 1 · 10² W\n\nvoorbeeld van een berekening:\nInvullen geeft: P = λAΔT/d → P = (0,4·0,1·(100−20))/(3·10⁻²) = 1 · 10² W.",
+      "scoring_steps": [
+        {"points": 1, "description": "gebruik van P = λAΔT/d"},
+        {"points": 1, "description": "omrekenen van cm² naar m² en van cm naar m"},
+        {"points": 1, "description": "completeren van de berekening"}
+      ],
+      "grading_note": "Wanneer gerekend met een waarde voor λ tussen 0,3 en 0,5 W m⁻¹ K⁻¹ (Binas), dit niet aanrekenen.",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-kookstenen-antw17.png"]
+    },
+    {
+      "title": "Oude horloges",
+      "question_number": 18,
+      "answer_text": "eigenfrequentie/resonantiefrequentie/grondtoon/grondfrequentie",
+      "scoring_steps": [
+        {"points": 1, "description": "juist antwoord: eigenfrequentie/resonantiefrequentie/grondtoon/grondfrequentie"}
+      ],
+      "grading_note": "Alleen resonantie: geen scorepunt toekennen.",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-oude-horloges-antw18.png"]
+    },
+    {
+      "title": "Oude horloges",
+      "question_number": 19,
+      "answer_text": "voorbeeld van een antwoord:\n\nmethode 1\nT = (8,4·10⁻³)/3 = 2,8 · 10⁻³ s.\nf = 1/T = 1/(2,8·10⁻³) = 3,6 · 10² Hz. Dit ligt in het hoorbare gebied.\n\nof\n\nmethode 2\nf = 3/(8,4·10⁻³) = 3,6 · 10² Hz. Dit ligt in het hoorbare gebied.",
+      "scoring_steps": [
+        {"points": 1, "description": "bepalen van T met een marge van 0,1 · 10⁻³ s"},
+        {"points": 1, "description": "gebruik van f = 1/T"},
+        {"points": 1, "description": "completeren van de bepaling en consequente conclusie"}
+      ],
+      "grading_note": "Er hoeft geen rekening gehouden te worden met significantie.\n\nAlternatieve methode 2 (methode 2): inzicht dat geldt f = aantal trillingen/benodigde tijd (1); bepalen van een aantal trillingen en de daarvoor benodigde tijd met een marge van 0,1 · 10⁻³ s (1); completeren van de bepaling en consequente conclusie (1).",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-oude-horloges-antw19.png"]
+    },
+    {
+      "title": "Oude horloges",
+      "question_number": 20,
+      "answer_text": "voorbeeld van een antwoord:\nIn een massa-veersysteem (met een bepaalde C) hangt T alleen af van m. Hierin is m onafhankelijk van de plaats. Dus T is dan overal hetzelfde; de NASA hoeft geen rekening te houden met een andere T in de ruimte.",
+      "scoring_steps": [
+        {"points": 1, "description": "inzicht dat m onafhankelijk is van de plaats"},
+        {"points": 1, "description": "consequente conclusie over T"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2019-i-oude-horloges-antw20.png"]
+    },
+    {
+      "title": "Oude horloges",
+      "question_number": 21,
+      "answer_text": "voorbeeld van een antwoord:\n¹⁴⁷₆₁Pm → ¹⁴⁷₆₂Sm + ⁰₋₁e",
+      "scoring_steps": [
+        {"points": 1, "description": "alleen bètadeeltje als vervaldeeltje rechts van de pijl"},
+        {"points": 1, "description": "Sm rechts van de pijl (mits verkregen via kloppende atoomnummers)"},
+        {"points": 1, "description": "aantal nucleonen links en rechts gelijk"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2019-i-oude-horloges-antw21.png"]
+    },
+    {
+      "title": "Oude horloges",
+      "question_number": 22,
+      "answer_text": "voorbeeld van een antwoord:\nβ-straling komt (blijkbaar) niet of nauwelijks door de behuizing heen.\nRöntgenstraling komt er door het grote doordringende vermogen wel doorheen.",
+      "scoring_steps": [
+        {"points": 1, "description": "inzicht dat het doordringend vermogen van β-straling kleiner is dan dat van röntgenstraling"},
+        {"points": 1, "description": "conclusie dat röntgenstraling wel door de wand van het horloge doordringt en β-straling niet"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2019-i-oude-horloges-antw22.png"]
+    },
+    {
+      "title": "Oude horloges",
+      "question_number": 23,
+      "answer_text": "uitkomst: 0 tot 20%\n\nvoorbeelden van een antwoord:\n\nmethode 1 (Binas)\nDe halveringsdikte van ijzer bij 0,05MeV is 0,049 cm.\nEr is dus 0,147/0,049 = 3,0 maal gehalveerd.\nDus 100 · (1/2)³ = 12,5% van de röntgenstraling dringt door de achterzijde van het horloge, dus 0 tot 20%.\n\nof\n\nmethode 2 (Sciencedata)\nDe halveringsdikte van ijzer bij 0,05MeV is 0,045 cm.\nVoor 3 keer halveren is een ijzerdikte van 3 · 0,045 = 0,135 cm = 1,35 mm nodig. Dan zou 12,5% van de röntgenstraling overblijven.\nDe achterkant van het horloge is nog dikker, dus er blijft nog minder over, dus 0 tot 20%.",
+      "scoring_steps": [
+        {"points": 1, "description": "opzoeken halveringsdikte van ijzer"},
+        {"points": 1, "description": "inzicht dat geldt dikte horlogewand/halveringsdikte = aantal halveringen"},
+        {"points": 1, "description": "completeren van de berekening en consequente conclusie"}
+      ],
+      "grading_note": "Bij een juist antwoord waarbij dit niet is omcirkeld in de tabel, dit niet aanrekenen.\nEr hoeft geen rekening gehouden te worden met significantie.",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-oude-horloges-antw23.png", "natuurkunde-havo-2019-i-oude-horloges-antw23-deel2.png"]
+    },
+    {
+      "title": "Oude horloges",
+      "question_number": 24,
+      "answer_text": "voorbeeld van een antwoord:\nPer seconde ontvangt de pols een energie van\nE = 25 · 0,05 = 1,25 MeV.\nDit komt overeen met 1,25 · 1,6 · 10⁻¹³ = 2,0 · 10⁻¹³ J.\nD = E/m = (2,0·10⁻¹³)/0,075 = 2,7 · 10⁻¹² Gy per seconde.\nUit H = w_R·D volgt per jaar: H = 365 · 24 · 3600 · 1 · 2,7 · 10⁻¹² = 8 · 10⁻⁵ Sv.\nHet dragen van het horloge blijft dus (ruimschoots) onder de limiet van 50 · 10⁻³ Sv.",
+      "scoring_steps": [
+        {"points": 1, "description": "inzicht dat E gelijk is aan het aantal geabsorbeerde fotonen maal de energie van een foton"},
+        {"points": 1, "description": "omrekenen van MeV naar J"},
+        {"points": 1, "description": "gebruik van D = E/m en gebruik van H = w_R·D"},
+        {"points": 1, "description": "omrekenen van seconde naar jaar of omgekeerd"},
+        {"points": 1, "description": "completeren van de berekening en consequente conclusie"}
+      ],
+      "grading_note": "Het gebruik van H = w_R·D mag ook impliciet.\nEr hoeft geen rekening gehouden te worden met significantie.",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-oude-horloges-antw24.png"]
+    },
+    {
+      "title": "Elysium",
+      "question_number": 25,
+      "answer_text": "A",
+      "scoring_steps": [
+        {"points": 1, "description": "juist antwoord: A"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2019-i-elysium-antw25.png"]
+    },
+    {
+      "title": "Elysium",
+      "question_number": 26,
+      "answer_text": "voorbeeld van een antwoord:\nDe afstand r van de geostationaire baan tot het middelpunt van de aarde is gelijk aan\n6,371 · 10⁶ + 36 · 10⁶ = 42 · 10⁶ m.\nEr geldt:\nr³/T² = GM/4π² → T² = 4π²r³/GM = (4π²·(42·10⁶)³)/(6,674·10⁻¹¹·5,972·10²⁴) = 7,53 · 10⁹ →\nT = 8,7 · 10⁴ s.\nDit (komt overeen met 8,6·10⁴/3,60·10³ = 24 h en) is de tijd waarin de aarde één keer rond zijn as draait.",
+      "scoring_steps": [
+        {"points": 1, "description": "gebruik van r³/T² = GM/4π² met opzoeken van G en M"},
+        {"points": 1, "description": "inzicht dat geldt r = R_A + h_geostationair met opzoeken van R_A"},
+        {"points": 1, "description": "inzicht dat de omlooptijd in een geostationaire baan gelijk is aan de rotatietijd van de aarde"},
+        {"points": 1, "description": "completeren van de berekening"}
+      ],
+      "grading_note": "Er hoeft geen rekening gehouden te worden met significantie.\nAls geen rekening is gehouden met R_A, vervallen de tweede en vierde deelscore.",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-elysium-antw26.png"]
+    },
+    {
+      "title": "Elysium",
+      "question_number": 27,
+      "answer_text": "voorbeelden van een antwoord:\n\nmethode 1\nAls Elysium even groot lijkt als de maan, moeten de twee gegeven driehoeken gelijkvormig zijn.\nEr geldt dan voor de hoogte waarop Elysium zich moet bevinden:\nD_M/D_Elysium = h_M/h_Elysium → (3,5·10⁶)/(64·10³) = (3,8·10⁸)/h_Elysium →\nh_Elysium = 6,9 · 10⁶ m (= 6,9 · 10³ km).\nDit is lager dan de geostationaire baan.\n\nof\n\nmethode 2\nVoor de hoek waaronder je de maan ziet geldt:\ntan α = (3,5·10⁶)/(3,8·10⁸) → α = 0,53°.\nVoor de hoek waaronder je Elysium ziet als deze zich in de geostationaire baan zou bevinden geldt:\ntan α = (64·10³)/(36·10⁶) → α = 0,10°.\nDeze hoeken zijn niet hetzelfde, Elysium kan zich dus niet in de geostationaire baan bevinden.",
+      "scoring_steps": [
+        {"points": 1, "description": "inzicht dat geldt D_M/D_Elysium = h_M/h_Elysium (methode 1) of tan α = diameter/afstand tot aardoppervlak (methode 2)"},
+        {"points": 1, "description": "completeren en consequente conclusie"}
+      ],
+      "grading_note": "Wanneer is gerekend met de sinus (kleine hoekenbenadering), dit niet aanrekenen.\nEr hoeft geen rekening gehouden te worden met significantie.",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-elysium-antw27.png"]
+    },
+    {
+      "title": "Elysium",
+      "question_number": 28,
+      "answer_text": "antwoord: II",
+      "scoring_steps": [
+        {"points": 1, "description": "juist antwoord: II"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2019-i-elysium-antw28.png"]
+    },
+    {
+      "title": "Elysium",
+      "question_number": 29,
+      "answer_text": "voorbeeld van een berekening:\nEr geldt: v = 2πr/T met T = (360/3,0)·3,2 = 384 s.\nDus v = (2π·32·10³)/384 = 5,2 · 10² m s⁻¹.\nDit is minder dan de benodigde snelheid.",
+      "scoring_steps": [
+        {"points": 1, "description": "gebruik van v = 2πr/T"},
+        {"points": 1, "description": "inzicht dat geldt T = (360/3,0)·3,2"},
+        {"points": 1, "description": "completeren van de berekening en consequente conclusie"}
+      ],
+      "grading_note": "Er hoeft geen rekening gehouden te worden met significantie.",
+      "answer_image_urls": ["natuurkunde-havo-2019-i-elysium-antw29.png"]
+    }
+  ]
+}
