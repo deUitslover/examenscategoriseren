@@ -5,52 +5,589 @@
     "source": "HAVO Natuurkunde 2018-I",
     "answers": [
       {
+        "title": "Scheepsradar",
+        "question_number": 1,
+        "answer_text": "Uitkomst: s = 3,9 · 10⁴ m\n\nVoorbeeld van een berekening:\nElektromagnetische golven bewegen met de lichtsnelheid. De afstand die het signaal heeft afgelegd is: s_signaal = ct = 3,00 · 10⁸ · 0,26 · 10⁻³ = 7,8 · 10⁴ m.\nHet signaal gaat heen en terug, dus de afstand s tot het voorwerp is:\n½ · 7,8 · 10⁴ = 3,9 · 10⁴ m.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van s = vt met v = c"
+          },
+          {
+            "points": 1,
+            "description": "inzicht s = ½ s_signaal"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-scheepsradar-antw1.png"
+        ]
+      },
+      {
+        "title": "Scheepsradar",
+        "question_number": 2,
+        "answer_text": "Uitkomst: n = 938\n\nVoorbeeld van een berekening:\nDe frequentie van de puls is 9,38 GHz. Eén puls duurt 0,100 μs. In één puls zitten dan:\n9,38 · 10⁹ · 0,100 · 10⁻⁶ = 938 golven.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat het aantal golven gelijk is aan f · Δt"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-scheepsradar-antw2.png"
+        ]
+      },
+      {
+        "title": "Scheepsradar",
+        "question_number": 3,
+        "answer_text": "Uitkomst: ℓ = 3,2 · 10⁻³ m\n\nVoorbeeld van een berekening:\nVoor de golflengte van de radar geldt: λ = c/f = (3,00 · 10⁸)/(9,38 · 10⁹) = 3,20 · 10⁻² m.\nDe minimale lengte van een voorwerp is dan: 0,10 · 3,20 · 10⁻² = 3,2 · 10⁻³ m.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van c = fλ"
+          },
+          {
+            "points": 1,
+            "description": "juist gebruik van de factor 0,10"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "Wanneer de kandidaat hier dezelfde foutieve waarde voor c gebruikt als in vraag 1: niet opnieuw aanrekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-scheepsradar-antw3.png"
+        ]
+      },
+      {
+        "title": "Scheepsradar",
+        "question_number": 4,
+        "answer_text": "Uitkomst: A = 30 m²\n\nVoorbeeld van een berekening:\nVoor de radar geldt: r⁴/(P·A) = constant. Bij een bereik van 30 km heeft het doel een reflecterende oppervlakte van 6,0 m² dus:\n(30·10³)⁴/(P·6,0) = (45·10³)⁴/(P·A) zodat A = 6,0·(45·10³)⁴/(30·10³)⁴ = 30 m².",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat (r⁴/PA)₃₀ₖₘ = (r⁴/PA)₄₅ₖₘ met P₃₀ₖₘ = P₄₅ₖₘ"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-scheepsradar-antw4.png"
+        ]
+      },
+      {
+        "title": "Scheepsradar",
+        "question_number": 5,
+        "answer_text": "Antwoord:\nEen radar met een lager vermogen heeft een kleiner bereik voor een doel met een bepaalde oppervlakte A.\nDe tijd tussen twee pulsen kan dan korter zijn.\nDe herhalingsfrequentie is dan hoger.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste zin correct"
+          },
+          {
+            "points": 1,
+            "description": "volgende twee zinnen beide consequent met de eerste zin"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-scheepsradar-antw5.png"
+        ]
+      },
+      {
+        "title": "Scheepsradar",
+        "question_number": 6,
+        "answer_text": "Antwoord: frequentiemodulatie",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "juist antwoord: frequentiemodulatie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-scheepsradar-antw6.png"
+        ]
+      },
+      {
+        "title": "Scheepsradar",
+        "question_number": 7,
+        "answer_text": "Uitkomst: s = 25 km\n\nVoorbeelden van een bepaling:\nmethode 1\nVoor de figuur op de uitwerkbijlage geldt dat het tijdsverschil Δt tussen het uitgezonden en het ontvangen signaal (ongeveer) gelijk is aan 0,33T. Bij een maximaal tijdsverschil (Δt = T) hoort een bereik van 75 km. Als het tijdsverschil 0,33T is, is de afstand tot het reflecterende doel 0,33 · 75 = 25 km.\n\nmethode 2\nVoor de figuur op de uitwerkbijlage geldt dat het frequentieverschil Δf tussen het uitgezonden en het ontvangen signaal (ongeveer) gelijk is aan 0,33f. Bij een maximaal frequentieverschil hoort een bereik van 75 km. Als het tijdsverschil 0,33f is, is de afstand tot het reflecterende doel 0,33 · 75 = 25 km.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bepalen van Δt/T = 0,33 (met een marge van 0,03) [methode 1] of bepalen van Δf/f = 0,33 (met een marge van 0,03) [methode 2]"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-scheepsradar-antw7.png"
+        ]
+      },
+      {
+        "title": "Operatiedeken",
+        "question_number": 8,
+        "answer_text": "Uitkomst: ρ = 1,4 · 10³ kg m⁻³\n\nVoorbeeld van een berekening:\nHet volume van de draad is V = ℓ · A = 8,8 · 10³ · 3,85 · 10⁻⁹ = 3,39 · 10⁻⁵ m³.\nDe massa van de draad is 47 · 10⁻³ kg. De dichtheid is dan\nρ = m/V = (47·10⁻³)/(3,39·10⁻⁵) = 1,4 · 10³ kg m⁻³.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat V = ℓ · A"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van ρ = m/V"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-operatiedeken-antw8.png"
+        ]
+      },
+      {
+        "title": "Operatiedeken",
+        "question_number": 9,
+        "answer_text": "Uitkomst: 23(%) (met een marge van 1(%))\n\nVoorbeeld van een bepaling:\nDe weerstand van 1,00 m draad is 250 Ω. De doorsnede van deze draad is gelijk aan A = πr² = π(20 · 10⁻⁶)² = 1,26 · 10⁻⁹ m². De soortelijke weerstand van deze draad is dan: ρ = RA/ℓ = (250·1,26·10⁻⁹)/1,00 = 3,1 · 10⁻⁷ Ω m.\nIn figuur 3 is dan af te lezen dat het massapercentage nikkel voor deze draad 23% is.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van ρ = RA/ℓ"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van A = πr² met r = ½d of A = ¼πd²"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening van ρ"
+          },
+          {
+            "points": 1,
+            "description": "consequente bepaling van het massapercentage"
+          }
+        ],
+        "grading_note": "- Voor de derde deelscore hoeft geen rekening gehouden te worden met de significantie.\n- Wanneer de eenheid van ρ niet vermeld is: dit niet aanrekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-operatiedeken-antw9.png"
+        ]
+      },
+      {
+        "title": "Operatiedeken",
+        "question_number": 10,
+        "answer_text": "Voorbeeld van een berekening:\nDe geleidbaarheid van vijf draden parallel is: G = 5 · 1/R = 5/3,6 = 1,39 S.\nDe weerstand van deze vijf draden samen is dan R = 1/1,39 = 0,72 Ω.\nIn deze deken zijn twee van deze groepjes draden in serie aangesloten.\nDe totale weerstand van de deken is dan Rₜₒₜₐₐₗ = 0,72 + 0,72 = 1,44 = 1,4 Ω.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat Gₚₐᵣₐₗₗₑₗ = 5G_draad of 1/R_parallel = 5/R_draad"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat Rₜₒₜₐₐₗ gelijk is aan de som van de weerstanden van de twee groepen van vijf draden"
+          },
+          {
+            "points": 1,
+            "description": "completeren van het antwoord"
+          }
+        ],
+        "grading_note": "- Voor de laatste deelscore hoeft geen rekening gehouden te worden met de significantie.\n- Wanneer de eenheid niet vermeld is: dit niet aanrekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-operatiedeken-antw10.png"
+        ]
+      },
+      {
+        "title": "Operatiedeken",
+        "question_number": 11,
+        "answer_text": "Uitkomst: P = 1,0 · 10² W\n\nVoorbeeld van een berekening:\nVoor het elektrisch vermogen geldt: P = UI. Hierin is U = 12,0 V en I = U/Rₜₒₜₐₐₗ = 12,0/1,4 = 8,57 A. Het elektrisch vermogen van de deken is dan\nP = UI = 12,0 · 8,57 = 1,0 · 10² W.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van P = UI"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van U = IR of I = GU"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-operatiedeken-antw11.png"
+        ]
+      },
+      {
+        "title": "Operatiedeken",
+        "question_number": 12,
+        "answer_text": "Antwoord:\nAls de deken te warm is, zal het vermogen P van de deken kleiner moeten worden.\nDe stroomsterkte I in de deken moet dan kleiner worden.\nDe weerstand R van de verwarmingsdraden moet dan met het oplopen van de temperatuur groter worden.\nDeze verwarmingsdraden moeten dan van PTC-materiaal gemaakt zijn.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "keuze P kleiner"
+          },
+          {
+            "points": 1,
+            "description": "keuze voor I en R beide consequent met de keuze voor P"
+          },
+          {
+            "points": 1,
+            "description": "consequente materiaalkeuze passend bij de keuze voor R"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-operatiedeken-antw12.png"
+        ]
+      },
+      {
+        "title": "SpaceShipOne",
+        "question_number": 13,
+        "answer_text": "Voorbeelden van een antwoord:\n- De (verticale) snelheid verandert van richting.\n- De (verticale) snelheid is gelijk aan nul.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "juist antwoord (de verticale snelheid verandert van richting, of: de verticale snelheid is gelijk aan nul)"
+          }
+        ],
+        "grading_note": "Een antwoord als “dat staat in de figuur in de opgave”: geen scorepunt toekennen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-spaceshipone-antw13.png"
+        ]
+      },
+      {
+        "title": "SpaceShipOne",
+        "question_number": 14,
+        "answer_text": "Uitkomst: a = (-)9,55 ms⁻² (9,36 ms⁻² ≤ |a| ≤ 9,74 ms⁻²)\n\nVoorbeeld van een bepaling:\nEr geldt: a = (Δv/Δt)_raaklijn waarin Δv = (-)2100 ms⁻¹ en Δt = 220 s.\nHieruit volgt dat: a = (-)2100/220 = (-)9,55 ms⁻².",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van a = (Δv/Δt)_raaklijn in punt c"
+          },
+          {
+            "points": 1,
+            "description": "aflezen van bij elkaar behorende waarden van Δv en Δt"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": "Voor de eerste deelscore hoeft de raaklijn niet expliciet getekend te zijn.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-spaceshipone-antw14.png"
+        ]
+      },
+      {
+        "title": "SpaceShipOne",
+        "question_number": 15,
+        "answer_text": "Uitkomst: g = 9,518 ms⁻²\n\nVoorbeeld van een berekening:\nEr geldt: g = GM/r² waarin G = 6,674 · 10⁻¹¹ Nm² kg⁻², M = 5,972 · 10²⁴ kg en r = 6,371 · 10⁶ + 0,100 · 10⁶ = 6,471 · 10⁶ m.\nInvullen levert: g = (6,674·10⁻¹¹·5,972·10²⁴)/(6,471·10⁶)² = 9,518 ms⁻².",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van g = GM/r²"
+          },
+          {
+            "points": 1,
+            "description": "opzoeken van M_aarde en G"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat r = r_aarde + 100 · 10³ en opzoeken van r_aarde"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "- De constanten moeten opgezocht worden met het aantal significante cijfers minimaal gelijk aan de significantie van het door de kandidaat gegeven antwoord.\n- Als r_aarde niet is meegenomen in de berekening, vervallen de derde en vierde deelscore.\n- Als er is geantwoord in twee significante cijfers: niet aanrekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-spaceshipone-antw15.png"
+        ]
+      },
+      {
+        "title": "SpaceShipOne",
+        "question_number": 16,
+        "answer_text": "Antwoord:\ntraject ab: niet gewichtloos\ntraject bc: wel gewichtloos\nin punt c: wel gewichtloos\ntraject cd: wel gewichtloos (kruisje bij “wel gewichtloos”; “niet gewichtloos” ook goed te rekenen, zie toelichting)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien vier antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien twee of drie antwoorden juist"
+          },
+          {
+            "points": 0,
+            "description": "indien één of geen antwoord juist"
+          }
+        ],
+        "grading_note": "Toelichting: Voor traject cd een kruisje in één van beide kolommen goed rekenen: Uit de vierde streep in de inleidende tekst blijkt dat vóór punt d ook al sprake moet zijn van luchtweerstand.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-spaceshipone-antw16.png"
+        ]
+      },
+      {
+        "title": "SpaceShipOne",
+        "question_number": 17,
+        "answer_text": "Voorbeelden van een antwoord:\n\nmethode 1\nDe afstand die het ruimteschip tussen b en c (in verticale richting) aflegt, is gelijk aan de oppervlakte onder de grafiek tussen t_b en t_c.\nDeze oppervlakte is: ½ · 1100 · (195 - 80) = 63 · 10³ m = 63 km.\nIn punt c bevindt het ruimteschip zich op een hoogte van 63 + 45 = 108 km (> 100 km)\nDe inzittenden van het ruimteschip mogen zich dus astronaut noemen na deze vlucht.\n\nof\n\nmethode 2\n(Op het traject bc is de luchtweerstand verwaarloosbaar.)\nDe maximale snelheid is volgens de grafiek 1100 m s⁻¹. (De minimale hoogte wordt bereikt bij de maximale waarde voor g op aarde.)\nUit de wet van behoud van energie volgt dan:\nh = (vₘₐₓ)²/2g = 1100²/(2 · 9,81) = 61,6 · 10³ m = 61,6 km\nIn punt c bevindt het ruimteschip zich op een hoogte van 61,6 + 45 = 107 km (> 100 km).\nDe inzittenden van het ruimteschip mogen zich dus astronaut noemen na deze vlucht.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de afstand bepaald kan worden uit een oppervlakte onder de kromme [methode 1] of inzicht dat h = (vₘₐₓ)²/2g [methode 2]"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van de afgelegde afstand s tussen t_b en t_c binnen het interval 60 km ≤ s ≤ 65 km [methode 1] of gebruik van vₘₐₓ = 1100 m s⁻¹ en g = 9,81 m s⁻² [methode 2]"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat hoogte = s + 45 km"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en consequente conclusie"
+          }
+        ],
+        "grading_note": "- Als voor g een waarde uit vraag 14 of 15 gebruikt wordt: goed rekenen.\n- Er hoeft hier geen rekening gehouden te worden met significantie.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-spaceshipone-antw17.png"
+        ]
+      },
+      {
+        "title": "Verontreinigd technetium",
+        "question_number": 18,
+        "answer_text": "Antwoord:\n⁹⁹₄₂Mo → ⁹⁹ᵐ₄₃Tc + ⁰₋₁e (+ ⁰₀γ) (of ⁹⁹Mo → ⁹⁹ᵐTc + β⁻(+γ))",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Tc-99m rechts van de pijl"
+          },
+          {
+            "points": 1,
+            "description": "elektron (en γ) rechts van de pijl"
+          },
+          {
+            "points": 1,
+            "description": "alleen Mo-99 links van de pijl"
+          }
+        ],
+        "grading_note": "- Als rechts van de pijl nog andere vervalproducten zijn genoemd, vervalt de tweede deelscore.\n- Als er Tc-99 is genoteerd: niet aanrekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-verontreinigd-technetium-antw18.png"
+        ]
+      },
+      {
+        "title": "Verontreinigd technetium",
+        "question_number": 19,
+        "answer_text": "Voorbeeld van een antwoord:\nDe bron komt in de patiënt terecht, dus er is sprake van besmetting.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat een tracer inwendig gebruikt wordt"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-verontreinigd-technetium-antw19.png"
+        ]
+      },
+      {
+        "title": "Verontreinigd technetium",
+        "question_number": 20,
+        "answer_text": "Uitkomst: n = 1,6 · 10³ (kernen)\n\nVoorbeeld van een berekening:\nEr geldt: A(t)_Mo-99 / A(t)_Tc-99m = (t½_Tc-99m · N(t)_Mo-99) / (t½_Mo-99 · N(t)_Tc-99m).\nDe halveringstijd van Mo-99 is 65,9 uur; de halveringstijd van Tc-99m is 6,0 uur.\nDe activiteit van Mo-99 is 0,15 kBq; de activiteit van Tc-99m is 1,0 MBq.\nInvullen geeft: (0,15·10³)/(1,0·10⁶) = (6,0·N(t)_Mo)/(65,9·1·10⁶). Hieruit volgt dat het aantal kernen Mo-99 dat er maximaal mag voorkomen per miljoen Tc-99m-kernen gelijk is aan 1,6 · 10³.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "opzoeken van de halveringstijden van Tc-99m en Mo-99"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van gelijke eenheden voor A"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "Er hoeft hier geen rekening gehouden te worden met significantie.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-verontreinigd-technetium-antw20.png"
+        ]
+      },
+      {
+        "title": "Verontreinigd technetium",
+        "question_number": 21,
+        "answer_text": "Voorbeelden van een antwoord:\nDeze deeltjes dringen niet door het lood van de pot heen. / Het doordringend vermogen van de bètastraling is te laag.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "juist antwoord (deze deeltjes dringen niet door het lood van de pot heen, of: het doordringend vermogen van de bètastraling is te laag)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-verontreinigd-technetium-antw21.png"
+        ]
+      },
+      {
+        "title": "Verontreinigd technetium",
+        "question_number": 22,
+        "answer_text": "Antwoord:\nhalveringsdikte in cm: bij 0,1 MeV = 0,011; bij 1,0 MeV = 0,86\n\nintensiteit buiten de pot (%):\nTc-99m | Mo-99\n50-100 | 50-100  (juiste antwoord voor Mo-99: 50-100)\n10-50 | 10-50\n1-10 | 1-10\n10⁻³-1 | 10⁻³-1\n10⁻⁶-10⁻³ | 10⁻⁶-10⁻³\n≤10⁻⁶ (juiste antwoord voor Tc-99m) | <10⁻⁶",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "correcte halveringsdiktes bij 0,1 MeV en bij 1,0 MeV"
+          },
+          {
+            "points": 1,
+            "description": "consequente intensiteit Tc-99m"
+          },
+          {
+            "points": 0,
+            "description": "consequente intensiteit Mo-99"
+          }
+        ],
+        "grading_note": "De halveringsdikte bij 0,1 MeV is volgens Binas 0,0106 cm. Dit goed rekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-verontreinigd-technetium-antw22.png"
+        ]
+      },
+      {
+        "title": "Verontreinigd technetium",
+        "question_number": 23,
+        "answer_text": "Antwoord:\nDe halveringstijd van Tc-99m is kleiner dan de halveringstijd van Mo-99.\nDe activiteit van Tc-99m neemt daardoor sneller af dan de activiteit van Mo-99.\nVoor de verhouding A(t)_Mo-99 / A(t)_Tc-99m geldt dan dat deze in de loop van de tijd groter wordt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste zin correct"
+          },
+          {
+            "points": 1,
+            "description": "volgende twee zinnen beide consequent met de eerste zin"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-verontreinigd-technetium-antw23.png"
+        ]
+      },
+      {
         "title": "Auto uit het ijs",
         "question_number": 24,
         "answer_text": "Uitkomst: F = 7,8 · 10³ N\n\nVoorbeeld van een bepaling:\nUit de vector van de spankracht volgt de schaal: 1,0 cm = 1,0 · 10³ N. Hieruit volgt voor de kracht F: F = 7,8 · 1,0 · 10³ = 7,8 · 10³ N.",
         "scoring_steps": [
-          {"points": 1, "description": "juiste constructie van de normaalkracht"},
-          {"points": 1, "description": "juiste constructie van F uit Fₛₚₐₙ en F naar beneden ingetekend"},
-          {"points": 1, "description": "bepalen van de schaal met behulp van vector Fₛₚₐₙ"},
-          {"points": 1, "description": "completeren van de bepaling van F met een marge van 0,5 · 10³ N"}
+          {
+            "points": 1,
+            "description": "juiste constructie van de normaalkracht"
+          },
+          {
+            "points": 1,
+            "description": "juiste constructie van F uit Fₛₚₐₙ en F naar beneden ingetekend"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van de schaal met behulp van vector Fₛₚₐₙ"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling van F met een marge van 0,5 · 10³ N"
+          }
         ],
         "grading_note": "Wanneer F niet naar beneden is ingetekend, vervalt de tweede deelscore, maar is de vierde deelscore nog wel te behalen.",
-        "answer_image_urls": ["natuurkunde-havo-2018-i-auto-uit-het-ijs-antw24.png"]
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-auto-uit-het-ijs-antw24.png"
+        ]
       },
       {
         "title": "Auto uit het ijs",
         "question_number": 25,
         "answer_text": "Uitkomst: F = 1,1 · 10² N\n\nVoorbeeld van een berekening:\nIn deze situatie geldt de hefboomwet: F₁r₁ = F₂r₂.\nDe balk is 5,0 m lang; de as heeft een diameter van 18 cm; de spankracht in de kabel is 6,1 · 10³ N. Invullen geeft:\nF · 5,0 = 6,1 · 10³ · ½ · 18 · 10⁻². Hieruit volgt dat F = 110 N = 1,1 · 10² N.",
         "scoring_steps": [
-          {"points": 1, "description": "gebruik van F₁r₁ = F₂r₂"},
-          {"points": 1, "description": "inzicht dat geldt: r₂ = ½d"},
-          {"points": 1, "description": "completeren van de berekening"}
+          {
+            "points": 1,
+            "description": "gebruik van F₁r₁ = F₂r₂"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat geldt: r₂ = ½d"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
         ],
         "grading_note": null,
-        "answer_image_urls": ["natuurkunde-havo-2018-i-auto-uit-het-ijs-antw25.png"]
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-auto-uit-het-ijs-antw25.png"
+        ]
       },
       {
         "title": "Auto uit het ijs",
         "question_number": 26,
         "answer_text": "Uitkomst: Δℓ = 5,7 · 10⁻³ m\n\nVoorbeeld van een berekening:\nVoor de spanning in de kabel geldt σ = F/A = (6,1 · 10³)/(80 · 10⁻⁶) = 7,63 · 10⁷ N m⁻².\nDe elasticiteitsmodulus van koolstofstaal is 0,20 · 10¹² N m⁻².\nDe relatieve rek in de kabel is dan gelijk aan ε = σ/E = (7,63 · 10⁷)/(0,20 · 10¹²) = 3,81 · 10⁻⁴.\nDe lengteverandering van de kabel is dan Δℓ = ε · ℓ₀ = 3,81 · 10⁻⁴ · 15 = 5,7 · 10⁻³ m",
         "scoring_steps": [
-          {"points": 1, "description": "gebruik van σ = F/A"},
-          {"points": 1, "description": "gebruik van ε = σ/E"},
-          {"points": 1, "description": "gebruik van ε = Δℓ/ℓ₀"},
-          {"points": 1, "description": "completeren van de berekening"}
+          {
+            "points": 1,
+            "description": "gebruik van σ = F/A"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van ε = σ/E"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van ε = Δℓ/ℓ₀"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
         ],
         "grading_note": null,
-        "answer_image_urls": ["natuurkunde-havo-2018-i-auto-uit-het-ijs-antw26.png"]
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-auto-uit-het-ijs-antw26.png"
+        ]
       },
       {
         "title": "Auto uit het ijs",
         "question_number": 27,
         "answer_text": "A",
         "scoring_steps": [
-          {"points": 1, "description": "juist antwoord: A"}
+          {
+            "points": 1,
+            "description": "juist antwoord: A"
+          }
         ],
         "grading_note": null,
-        "answer_image_urls": ["natuurkunde-havo-2018-i-auto-uit-het-ijs-antw27.png"]
+        "answer_image_urls": [
+          "natuurkunde-havo-2018-i-auto-uit-het-ijs-antw27.png"
+        ]
       }
     ]
   }
