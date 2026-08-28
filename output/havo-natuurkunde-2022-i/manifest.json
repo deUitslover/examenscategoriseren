@@ -1,0 +1,59 @@
+{
+  "source": "HAVO Natuurkunde 2022-I",
+  "subject_name": "Natuurkunde",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Muziekdoos",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "New Horizons",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Lithografie",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Stunt in Dubai",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Exploderende draad",
+      "question_numbers": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    }
+  ]
+}
