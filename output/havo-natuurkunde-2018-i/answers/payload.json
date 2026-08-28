@@ -1,0 +1,57 @@
+{
+  "payload": {
+    "subject_name": "Natuurkunde",
+    "level": "HAVO",
+    "source": "HAVO Natuurkunde 2018-I",
+    "answers": [
+      {
+        "title": "Auto uit het ijs",
+        "question_number": 24,
+        "answer_text": "Uitkomst: F = 7,8 · 10³ N\n\nVoorbeeld van een bepaling:\nUit de vector van de spankracht volgt de schaal: 1,0 cm = 1,0 · 10³ N. Hieruit volgt voor de kracht F: F = 7,8 · 1,0 · 10³ = 7,8 · 10³ N.",
+        "scoring_steps": [
+          {"points": 1, "description": "juiste constructie van de normaalkracht"},
+          {"points": 1, "description": "juiste constructie van F uit Fₛₚₐₙ en F naar beneden ingetekend"},
+          {"points": 1, "description": "bepalen van de schaal met behulp van vector Fₛₚₐₙ"},
+          {"points": 1, "description": "completeren van de bepaling van F met een marge van 0,5 · 10³ N"}
+        ],
+        "grading_note": "Wanneer F niet naar beneden is ingetekend, vervalt de tweede deelscore, maar is de vierde deelscore nog wel te behalen.",
+        "answer_image_urls": ["natuurkunde-havo-2018-i-auto-uit-het-ijs-antw24.png"]
+      },
+      {
+        "title": "Auto uit het ijs",
+        "question_number": 25,
+        "answer_text": "Uitkomst: F = 1,1 · 10² N\n\nVoorbeeld van een berekening:\nIn deze situatie geldt de hefboomwet: F₁r₁ = F₂r₂.\nDe balk is 5,0 m lang; de as heeft een diameter van 18 cm; de spankracht in de kabel is 6,1 · 10³ N. Invullen geeft:\nF · 5,0 = 6,1 · 10³ · ½ · 18 · 10⁻². Hieruit volgt dat F = 110 N = 1,1 · 10² N.",
+        "scoring_steps": [
+          {"points": 1, "description": "gebruik van F₁r₁ = F₂r₂"},
+          {"points": 1, "description": "inzicht dat geldt: r₂ = ½d"},
+          {"points": 1, "description": "completeren van de berekening"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-i-auto-uit-het-ijs-antw25.png"]
+      },
+      {
+        "title": "Auto uit het ijs",
+        "question_number": 26,
+        "answer_text": "Uitkomst: Δℓ = 5,7 · 10⁻³ m\n\nVoorbeeld van een berekening:\nVoor de spanning in de kabel geldt σ = F/A = (6,1 · 10³)/(80 · 10⁻⁶) = 7,63 · 10⁷ N m⁻².\nDe elasticiteitsmodulus van koolstofstaal is 0,20 · 10¹² N m⁻².\nDe relatieve rek in de kabel is dan gelijk aan ε = σ/E = (7,63 · 10⁷)/(0,20 · 10¹²) = 3,81 · 10⁻⁴.\nDe lengteverandering van de kabel is dan Δℓ = ε · ℓ₀ = 3,81 · 10⁻⁴ · 15 = 5,7 · 10⁻³ m",
+        "scoring_steps": [
+          {"points": 1, "description": "gebruik van σ = F/A"},
+          {"points": 1, "description": "gebruik van ε = σ/E"},
+          {"points": 1, "description": "gebruik van ε = Δℓ/ℓ₀"},
+          {"points": 1, "description": "completeren van de berekening"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-i-auto-uit-het-ijs-antw26.png"]
+      },
+      {
+        "title": "Auto uit het ijs",
+        "question_number": 27,
+        "answer_text": "A",
+        "scoring_steps": [
+          {"points": 1, "description": "juist antwoord: A"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-i-auto-uit-het-ijs-antw27.png"]
+      }
+    ]
+  }
+}
