@@ -1,0 +1,324 @@
+{
+  "payload": {
+    "subject_name": "Natuurkunde",
+    "level": "HAVO",
+    "source": "HAVO Natuurkunde 2018-II",
+    "answers": [
+      {
+        "title": "Magische lamp",
+        "question_number": 1,
+        "answer_text": "D",
+        "scoring_steps": [{"points": 1, "description": "juist antwoord: D"}],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-magische-lamp-antw1.png"]
+      },
+      {
+        "title": "Magische lamp",
+        "question_number": 2,
+        "answer_text": "Uitkomst: 2,0 cm\n\nVoorbeeld van een bepaling:\nDe weerstand RLDR is dan gelijk aan 40 Ω.\nIn figuur 4 is af te lezen dat de lichtintensiteit dan gelijk is aan 2,4 W m⁻².\nIn figuur 3 is af te lezen dat bij een lichtintensiteit van 2,4 W m⁻² de afstand dan gelijk is aan 2,0 cm.",
+        "scoring_steps": [
+          {"points": 1, "description": "bepalen van de lichtintensiteit bij RLDR = 40 Ω met een marge van 0,1 W m⁻²"},
+          {"points": 1, "description": "consequent bepalen van de afstand bij de bepaalde lichtintensiteit"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-magische-lamp-antw2.png"]
+      },
+      {
+        "title": "Magische lamp",
+        "question_number": 3,
+        "answer_text": "Voorbeeld van een antwoord:\nIn een serieschakeling is de stroomsterkte overal gelijk, dus wordt de spanning verdeeld: ULDR = Ubron − Ulampje = 3,6 − 1,9 = 1,7 V.\nEr geldt: ILDR = ULDR/RLDR = 1,7/40 = 0,0425 A.\nHieruit volgt: PLDR = ULDR·ILDR = 1,7 · 0,0425 = 0,072 W.\nDit is minder dan 0,20 W, dus de LDR blijft heel.",
+        "scoring_steps": [
+          {"points": 1, "description": "inzicht dat ULDR = Ubron − Ulampje"},
+          {"points": 1, "description": "gebruik van R = U/I"},
+          {"points": 1, "description": "gebruik van P = UI"},
+          {"points": 1, "description": "completeren van de berekening en consequente conclusie"}
+        ],
+        "grading_note": "Als de kandidaat uitgaat van ULDR = Ubron vervallen de eerste en de vierde deelscore. Er hoeft hier geen rekening gehouden te worden met significantie.",
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-magische-lamp-antw3.png"]
+      },
+      {
+        "title": "Magische lamp",
+        "question_number": 4,
+        "answer_text": "Voorbeelden van een antwoord:\nDoor het licht van de lucifer daalt de weerstand van de LDR. De spanning over de LDR neemt af/de stroomsterkte door de LDR neemt toe, de spanning over/de stroomsterkte door het lampje neemt toe. Het lampje gaat hierdoor licht geven.\n\nVoorbeeld van een uitleg:\nDoor het licht van het lampje blijft de waarde van RLDR laag en de spanning over het lampje dus hoog.\n\nVoorbeeld van een uitleg:\nDoor het opzij bewegen valt er minder licht/geen licht meer op de LDR. De weerstand daarvan neemt toe, de spanning over/de stroomsterkte door het lampje neemt weer af.",
+        "scoring_steps": [
+          {"points": 1, "description": "inzicht dat RLDR daalt als er licht op valt"},
+          {"points": 1, "description": "inzicht dat daardoor de spanning over het lampje of de stroomsterkte door het lampje groter wordt"},
+          {"points": 1, "description": "inzicht dat door het licht van het lampje RLDR laag blijft"},
+          {"points": 1, "description": "inzicht dat de weerstand van de LDR dan toeneemt waardoor de spanning over het lampje of de stroomsterkte door het lampje kleiner wordt"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-magische-lamp-antw4.png"]
+      },
+      {
+        "title": "Heftruck",
+        "question_number": 5,
+        "answer_text": "Uitkomst: mp,max = 4,3 · 10³ kg\n\nVoorbeeld van een bepaling:\nDe arm van FZtruck is gelijk aan 4,0 cm.\nDe arm van FZpakket is gelijk aan 3,2 cm.\nUit de hefboomwet volgt dan: Fp,max = (3,4 · 10³ · 9,81 · 4,0)/3,2 = 4,17 · 10⁴ N\nHieruit volgt: mp,max = (4,17 · 10⁴)/9,81 = 4,3 · 10³ kg.",
+        "scoring_steps": [
+          {"points": 1, "description": "inzicht dat de hefboomwet geldt"},
+          {"points": 1, "description": "bepalen van de armen van FZtruck en FZpakket met een marge van 2 mm"},
+          {"points": 1, "description": "completeren van de bepaling"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-heftruck-antw5.png"]
+      },
+      {
+        "title": "Heftruck",
+        "question_number": 6,
+        "answer_text": "A",
+        "scoring_steps": [{"points": 1, "description": "juist antwoord: A"}],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-heftruck-antw6.png"]
+      },
+      {
+        "title": "Heftruck",
+        "question_number": 7,
+        "answer_text": "Voorbeelden van een antwoord:\n– Bij de schuin geplaatste lift schuift het pakket niet alleen naar voren, maar ook omhoog, (deels) tegen de zwaartekracht in.\n– De schuin geplaatste lift kan een grotere wrijvingskracht op het pakket uitoefenen.",
+        "scoring_steps": [{"points": 1, "description": "juist antwoord (zie voorbeelden van antwoorden)"}],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-heftruck-antw7.png"]
+      },
+      {
+        "title": "Heftruck",
+        "question_number": 8,
+        "answer_text": "Uitkomst: Fspan = 4,8 · 10⁴ N\n\nVoorbeeld van een bepaling:\nEr geldt: F = σA met A = 4·Astaalplaatje = 4 · (4,0 · 10⁻³ · 11 · 10⁻³) = 1,76 · 10⁻⁴ m²\nen σ = 275 · 10⁶ N m⁻².\nHieruit volgt: Fspan = 275 · 10⁶ · 1,76 · 10⁻⁴ = 4,8 · 10⁴ N.",
+        "scoring_steps": [
+          {"points": 1, "description": "bepalen van Astaalplaatje (met een marge van 0,5 · 10⁻⁵ m²)"},
+          {"points": 1, "description": "gebruik van factor 4"},
+          {"points": 1, "description": "inzicht dat σ = 275 · 10⁶ N m⁻²"},
+          {"points": 1, "description": "gebruik van σ = F/A"},
+          {"points": 1, "description": "completeren van de bepaling"}
+        ],
+        "grading_note": "De afmetingen in de figuur op de uitwerkbijlage kunnen per druk verschillen. Hierdoor kan de kandidaat tot een afwijkende waarde van Astaalplaatje komen waardoor deze buiten de marge valt. In dat geval kan de corrector de waarde nameten en de gegeven marge toepassen op deze gemeten waarde.",
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-heftruck-antw8.png"]
+      },
+      {
+        "title": "Heftruck",
+        "question_number": 9,
+        "answer_text": "Uitkomst: η = 0,78 (of 78%)\n\nVoorbeelden van een berekening:\nmethode 1\nEr geldt: η = Pnuttig/Pin = Fz·v/Pe = (2,0 · 10³ · 9,81 · 0,44)/(11 · 10³) = (8,63 · 10³)/(11 · 10³) = 0,78.\n(Dit komt overeen met 78%.)\n\nof\n\nmethode 2\nDe pakketten worden opgetild over een afstand van: s = vg · t = 0,44 · 7,0 = 3,08 m.\nEr geldt: η = Enuttig/Ein = mgh/(Pe·t) = (2,0 · 10³ · 9,81 · 3,08)/(11 · 10³ · 7,0) = (6,04 · 10⁴)/(7,70 · 10⁴) = 0,78.\n(Dit komt overeen met 78%.)",
+        "scoring_steps": [
+          {"points": 1, "description": "gebruik van η = Pnuttig/Pin"},
+          {"points": 1, "description": "gebruik van Pnuttig = Fv met F = mg"},
+          {"points": 1, "description": "completeren van de berekening"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-heftruck-antw9.png"]
+      },
+      {
+        "title": "Heftruck",
+        "question_number": 10,
+        "answer_text": "Uitkomst: t = 1,7 h\n\nVoorbeelden van een berekening:\nmethode 1\nDe accu levert een stroomsterkte van: I = Pmotor/U = (11 · 10³)/48 = 2,29 · 10² A.\nDe accu kan deze stroomsterkte (400 Ah)/(2,29 · 10² A) = 1,7 h lang leveren.\n\nof\n\nmethode 2\nVoor de energie in de accu geldt: E = Pt = UIt = 400 · 48 · 3600 = 6,91 · 10⁷ J.\nHet optillen van één pakket kost: E = Pt = 11 · 10³ · 7,0 = 7,70 · 10⁴ J.\nDe lift kan dan (6,91 · 10⁷)/(7,70 · 10⁴) = 9,0 · 10² pakketten liften.\nDit duurt 9,0 · 10² · 7,0 = 6,3 · 10³ s = 1,7 h.",
+        "scoring_steps": [
+          {"points": 1, "description": "gebruik van P = UI"},
+          {"points": 1, "description": "inzicht dat geldt t = accucapaciteit/I"},
+          {"points": 1, "description": "completeren van de berekening"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-heftruck-antw10.png"]
+      },
+      {
+        "title": "Heftruck",
+        "question_number": 11,
+        "answer_text": "Voor vraag 11 moeten altijd 2 scorepunten worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.",
+        "scoring_steps": [{"points": 2, "description": "altijd toekennen, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord"}],
+        "grading_note": "Toelichting: Deze vraagstelling valt buiten de examensyllabus.",
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-heftruck-antw11.png"]
+      },
+      {
+        "title": "Rosetta",
+        "question_number": 12,
+        "answer_text": "Voorbeeld van een antwoord:\nEr werkt een resulterende kracht op de komeet. Een component hiervan werkt in de richting van de bewegingsrichting. De grootte van de snelheid van de komeet zal dus veranderen.",
+        "scoring_steps": [
+          {"points": 1, "description": "tekenen van Fg in de richting van het zwaartepunt van de zon"},
+          {"points": 1, "description": "ontbinden van Fg in de twee componenten met een marge van 0,5 cm"},
+          {"points": 1, "description": "conclusie dat er een kracht(component) werkt in de richting van de snelheid van de komeet"},
+          {"points": 1, "description": "consequente conclusie over de snelheid"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-rosetta-antw12.png"]
+      },
+      {
+        "title": "Rosetta",
+        "question_number": 13,
+        "answer_text": "B",
+        "scoring_steps": [{"points": 1, "description": "juist antwoord: B"}],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-rosetta-antw13.png"]
+      },
+      {
+        "title": "Rosetta",
+        "question_number": 14,
+        "answer_text": "Uitkomst: vgem = 21 (km s⁻¹)\n\nVoorbeeld van een berekening:\nEr geldt: vgem = Δx/Δt = (6,5 · 10⁹)/(10 · 365 · 24 · 3600) = (6,5 · 10⁹)/(3,15 · 10⁸) = 21 km s⁻¹.",
+        "scoring_steps": [
+          {"points": 1, "description": "gebruik van vgem = Δx/Δt"},
+          {"points": 1, "description": "omrekenen van 10 jaar naar seconden"},
+          {"points": 1, "description": "completeren van de berekening"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-rosetta-antw14.png"]
+      },
+      {
+        "title": "Rosetta",
+        "question_number": 15,
+        "answer_text": "Uitkomst: v = 0,18 m s⁻¹\n\nVoorbeeld van een berekening:\nEr geldt: Fg = Fmpz → GmM/r² = mv²/r → v = √(GM/r).\nHieruit volgt: v = √((6,67 · 10⁻¹¹ · 1,0 · 10¹³)/(20 · 10³)) = 0,18 m s⁻¹.",
+        "scoring_steps": [
+          {"points": 1, "description": "inzicht dat geldt Fg = Fmpz"},
+          {"points": 1, "description": "gebruik van Fmpz = mv²/r"},
+          {"points": 1, "description": "gebruik van Fg = GmM/r² met correcte waarde voor G"},
+          {"points": 1, "description": "completeren van de berekening"}
+        ],
+        "grading_note": "Onder correcte waarde wordt verstaan: de waarde uit een tabellenboek. Fouten in de significantie vallen onder de vierde deelscore.",
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-rosetta-antw15.png"]
+      },
+      {
+        "title": "Rosetta",
+        "question_number": 16,
+        "answer_text": "Antwoord: T = −92 (°C)\n\nVoorbeeld van een berekening:\nT = kW/λmax = (2,90 · 10⁻³)/(1,6 · 10⁻⁵) = 181 K. Dit is 181 − 273 = −92 °C.",
+        "scoring_steps": [
+          {"points": 1, "description": "gebruik van λmax · T = kW"},
+          {"points": 1, "description": "omrekenen van kelvin naar graden Celsius"},
+          {"points": 1, "description": "completeren van de berekening"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-rosetta-antw16.png"]
+      },
+      {
+        "title": "Rosetta",
+        "question_number": 17,
+        "answer_text": "Uitkomst: 12%\n\nVoorbeeld van een berekening:\nVoor het percentage geldt: (Ek na)/(Ek voor) · 100% = (½mvna²)/(½mvvoor²) · 100% = 0,382/1,12 · 100% = 12%.",
+        "scoring_steps": [
+          {"points": 1, "description": "inzicht dat geldt (Ek na)/(Ek voor) · 100%"},
+          {"points": 1, "description": "gebruik van Ek = ½mv²"},
+          {"points": 1, "description": "completeren van de berekening"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-rosetta-antw17.png"]
+      },
+      {
+        "title": "Rosetta",
+        "question_number": 18,
+        "answer_text": "Voorbeeld van een antwoord:\nVoor de ontsnappingssnelheid geldt:\nv = √(2GM/R) = √((2 · 6,67 · 10⁻¹¹ · 1,0 · 10¹³)/(2,9 · 10³)) = 0,68 m s⁻¹.\nDe ontsnappingssnelheid is groter dan de snelheid van Philae na het opstuiten. Philae zal dus terugvallen op de komeet.",
+        "scoring_steps": [
+          {"points": 1, "description": "invullen van v = √(2GM/R) en completeren van de berekening"},
+          {"points": 1, "description": "vergelijken van de werkelijke snelheid van Philae met de ontsnappingssnelheid"},
+          {"points": 1, "description": "consequente conclusie"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-rosetta-antw18.png"]
+      },
+      {
+        "title": "Renium-188",
+        "question_number": 19,
+        "answer_text": "B",
+        "scoring_steps": [{"points": 1, "description": "juist antwoord: B"}],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-renium-188-antw19.png"]
+      },
+      {
+        "title": "Renium-188",
+        "question_number": 20,
+        "answer_text": "Antwoord: A = 5,3 · 10¹⁰ Bq (met een marge van 1,0 · 10¹⁰ Bq)\n\nVoorbeeld van een bepaling:\nEr geldt: A = −(ΔN/Δt)raaklijn = −((−430 · 10¹⁵)/(94 · 24 · 3600)) = 5,3 · 10¹⁰ Bq.",
+        "scoring_steps": [
+          {"points": 1, "description": "gebruik van A = −(ΔN/Δt)raaklijn"},
+          {"points": 1, "description": "tekenen van de raaklijn op t = 0 s en bepalen bijpassende ΔN en Δt"},
+          {"points": 1, "description": "completeren van de bepaling"}
+        ],
+        "grading_note": "Bij een antwoord buiten de marge vervalt de tweede deelscore, maar is de derde deelscore nog wel te behalen.",
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-renium-188-antw20.png"]
+      },
+      {
+        "title": "Renium-188",
+        "question_number": 21,
+        "answer_text": "¹⁸⁸₇₅Re → ¹⁸⁸₇₆Os + ⁰₋₁e + ⁰₀γ",
+        "scoring_steps": [
+          {"points": 1, "description": "elektron en γ-foton rechts van de pijl"},
+          {"points": 1, "description": "Os als vervalproduct (mits verkregen via kloppende atoomnummers)"},
+          {"points": 1, "description": "het aantal nucleonen links en rechts van de pijl gelijk"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-renium-188-antw21.png"]
+      },
+      {
+        "title": "Renium-188",
+        "question_number": 22,
+        "answer_text": "Voorbeeld van een antwoord:\nβ-straling, dit volgt uit de volgende argumenten:\n– De β-deeltjes hebben meer energie dan de γ-fotonen.\n– De β-deeltjes worden sterker geabsorbeerd door het bot.",
+        "scoring_steps": [
+          {"points": 1, "description": "keuze voor β-straling"},
+          {"points": 1, "description": "eerste argument correct"},
+          {"points": 1, "description": "tweede argument correct"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-renium-188-antw22.png"]
+      },
+      {
+        "title": "Renium-188",
+        "question_number": 23,
+        "answer_text": "Antwoord: H = 8,4 mSv\n\nVoorbeeld van een berekening:\nH = wR·D = 1 · 0,070 · 10⁻³ · 120 = 8,4 · 10⁻³ Sv.",
+        "scoring_steps": [
+          {"points": 1, "description": "gebruik van H = wR·D met wR = 1"},
+          {"points": 1, "description": "inzicht dat geldt D = 0,070 · 10⁻³ · 120"},
+          {"points": 1, "description": "completeren van de berekening"}
+        ],
+        "grading_note": "De eerste deelscore kan ook impliciet gescoord worden.",
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-renium-188-antw23.png"]
+      },
+      {
+        "title": "Elektrolarynx",
+        "question_number": 24,
+        "answer_text": "Uitkomst: v = 2,6 m s⁻¹\n\nVoorbeeld van een bepaling:\nUit de fotoreeks is op te maken dat T = 8,40 · 10⁻³ s.\nHieruit volgt: f = 1/T = 1/(8,40 · 10⁻³) = 119,0 Hz.\nv = fλ = 119,0 · 0,022 = 2,6 m s⁻¹",
+        "scoring_steps": [
+          {"points": 1, "description": "bepalen van T = 8,40 · 10⁻³ s"},
+          {"points": 1, "description": "gebruik van f = 1/T en v = fλ"},
+          {"points": 1, "description": "completeren van de bepaling"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-elektrolarynx-antw24.png"]
+      },
+      {
+        "title": "Elektrolarynx",
+        "question_number": 25,
+        "answer_text": "Voorbeeld van een uitleg:\nVoor een massa-veersysteem geldt: T = 2π√(m/C).\nHierin (blijft C constant en) neemt m toe. De trillingstijd T neemt toe, dus uit f = 1/T volgt dat de frequentie f afneemt.",
+        "scoring_steps": [
+          {"points": 1, "description": "inzicht dat (uit T = 2π√(m/C) volgt dat) T toeneemt als m toeneemt"},
+          {"points": 1, "description": "consequente conclusie over f"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-elektrolarynx-antw25.png"]
+      },
+      {
+        "title": "Elektrolarynx",
+        "question_number": 26,
+        "answer_text": "Uitkomst: f = 1,8 · 10² Hz (met een marge van 0,2 · 10² Hz)\n\nVoorbeeld van een bepaling:\nEr geldt: ngrondtoon/fgrondtoon = c = nboventoon/fboventoon.\nMet behulp van figuur 3 kunnen f en n bepaald worden.\nHieruit volgt: 1/fgrondtoon = 3/540 → fgrondtoon = 1,8 · 10² Hz.",
+        "scoring_steps": [
+          {"points": 1, "description": "inzicht dat ngrondtoon/fgrondtoon = nboventoon/fboventoon"},
+          {"points": 1, "description": "bepalen van bij elkaar horende nboventoon en fboventoon"},
+          {"points": 1, "description": "completeren van de bepaling"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-elektrolarynx-antw26.png"]
+      },
+      {
+        "title": "Elektrolarynx",
+        "question_number": 27,
+        "answer_text": "Antwoord:\ngrootheid: trillingstijd — blijft gelijk\ngrootheid: voortplantingssnelheid — neemt af\ngrootheid: golflengte — neemt af",
+        "scoring_steps": [
+          {"points": 1, "description": "eerste rij goed"},
+          {"points": 1, "description": "tweede rij goed"},
+          {"points": 1, "description": "derde rij consequent met de tweede"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-elektrolarynx-antw27.png"]
+      },
+      {
+        "title": "Elektrolarynx",
+        "question_number": 28,
+        "answer_text": "– De frequentie van de 5e boventoon is met de elektrolarynx even hoog als de frequentie van de natuurlijke stem.\n– De geluidssterkte van de 5e boventoon is met de elektrolarynx groter dan de geluidssterkte van de natuurlijke stem.",
+        "scoring_steps": [
+          {"points": 1, "description": "De frequentie van de 5e boventoon is met de elektrolarynx even hoog als de frequentie van de natuurlijke stem"},
+          {"points": 1, "description": "De geluidssterkte van de 5e boventoon is met de elektrolarynx groter dan de geluidssterkte van de natuurlijke stem"}
+        ],
+        "grading_note": null,
+        "answer_image_urls": ["natuurkunde-havo-2018-ii-elektrolarynx-antw28.png"]
+      }
+    ]
+  }
+}
