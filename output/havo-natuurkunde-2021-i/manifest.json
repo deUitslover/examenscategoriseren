@@ -1,0 +1,27 @@
+{
+  "source": "HAVO Natuurkunde 2021-I",
+  "subject_name": "Natuurkunde",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Lassen",
+      "question_numbers": [1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "title": "De maan Europa",
+      "question_numbers": [8, 9, 10, 11, 12]
+    },
+    {
+      "title": "Kitmarker",
+      "question_numbers": [13, 14, 15, 16, 17, 18]
+    },
+    {
+      "title": "Sprong van Luke Aikins",
+      "question_numbers": [19, 20, 21, 22, 23, 24, 25]
+    },
+    {
+      "title": "Cicaden",
+      "question_numbers": [26, 27, 28, 29, 30]
+    }
+  ]
+}

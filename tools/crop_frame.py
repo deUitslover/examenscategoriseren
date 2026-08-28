@@ -201,7 +201,13 @@ def find_vraag_lines(page, y0=None, y1=None, max_gap=6.0, column_slack=60.0):
         if y1 is not None and sy0 >= y1:
             continue
 
-        row_tol = 2.5
+        # row_tol was 2.5 but HAVO-NAT-21-I-O.pdf q7 has a marker/text
+        # same-row offset of 2.53pt -- just over that threshold, which
+        # silently dropped the question's own text line (leaving only "7
+        # 2p"). Real consecutive body-text lines are still a full
+        # line-height (~14-16pt) apart, so widening to 3.5 stays far below
+        # any real inter-line gap while covering this case too.
+        row_tol = 3.5
         same_row_idx = sorted(
             j for j, l in enumerate(lines)
             if l[0] <= sx0 + column_slack and abs(l[1] - sy0) <= row_tol
