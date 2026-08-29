@@ -1,0 +1,659 @@
+{
+  "payload": {
+    "subject_name": "Natuurkunde",
+    "level": "HAVO",
+    "source": "HAVO Natuurkunde 2021-I",
+    "answers": [
+      {
+        "title": "Lassen",
+        "question_number": 1,
+        "answer_text": "C",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "C"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-lassen-antw1.png"
+        ]
+      },
+      {
+        "title": "Lassen",
+        "question_number": 2,
+        "answer_text": "voorbeeld van een berekening:\nVoor de elektrische weerstand geldt:\nR = ρℓ/A = 1,05 · 10⁻⁷ · 1,8 · 10⁻³ / 6,4 · 10⁻⁵ = 2,95 · 10⁻⁶ Ω.\nHieruit volgt:\nI = U/R = 0,20 / 2,95 · 10⁻⁶ = 6,8 · 10⁴ A (= 68 kA).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van ρ = RA/ℓ met ρ = 1,05 · 10⁻⁷ Ω m"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van U = IR"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-lassen-antw2.png"
+        ]
+      },
+      {
+        "title": "Lassen",
+        "question_number": 3,
+        "answer_text": "uitkomst: t = 0,31 s\n\nvoorbeeld van een berekening:\nVoor de warmte die het ijzer heeft opgenomen geldt:\nQ = cmΔT = 0,46 · 10³ · 9,1 · 10⁻⁴ · (1811 − 293) = 6,35 · 10² J.\nVoor de warmte die de elektroden leveren geldt:\nQ = E = ηPt = ηUIt\n6,35 · 10² = 0,15 · 0,20 · 68 · 10³ · t → t = 6,35 · 10² / 2,04 · 10³ = 0,31 s.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van Q = cmΔT met c = 0,46 · 10³ J kg⁻¹ K⁻¹"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat geldt ΔT = 1811 K − 293 K"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van E = Pt en P = UI"
+          },
+          {
+            "points": 1,
+            "description": "juist gebruik van de factor 0,15"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "Als er verkeerd is omgerekend van °C naar K vervalt de tweede deelscore en is de laatste deelscore nog wel te behalen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-lassen-antw3.png"
+        ]
+      },
+      {
+        "title": "Lassen",
+        "question_number": 4,
+        "answer_text": "voorbeeld van een antwoord:\nMet iedere extra las wordt de geleidbaarheid G tussen de plaatjes groter. Er geldt I = GU. De stroom I neemt toe (bij een gelijke spanning U).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat G toeneemt (of R afneemt) bij meerdere lassen"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie over de stroomsterkte door de elektroden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-lassen-antw4.png"
+        ]
+      },
+      {
+        "title": "Lassen",
+        "question_number": 5,
+        "answer_text": "voorbeeld van een antwoord:\nTijdens het toenemen van de lastijd neemt de temperatuur in de las toe.\nVolgens de figuur neemt de weerstand van het materiaal dan ook toe. Dit is een eigenschap van PTC-materiaal.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de temperatuur én de weerstand toenemen gedurende de lastijd"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-lassen-antw5.png"
+        ]
+      },
+      {
+        "title": "Lassen",
+        "question_number": 6,
+        "answer_text": "antwoord:\nHet heet worden van de elektroden wordt veroorzaakt door:\n⎼ het hoge smeltpunt van het koper van de elektroden: niet waar\n⎼ de elektrische weerstand van de koperen elektroden: waar\n⎼ de grote kracht die de elektroden uitoefenen op de ijzeren platen: niet waar",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien drie antwoorden goed"
+          },
+          {
+            "points": 1,
+            "description": "indien twee antwoorden goed"
+          },
+          {
+            "points": 0,
+            "description": "indien één of geen antwoord goed"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-lassen-antw6.png"
+        ]
+      },
+      {
+        "title": "Lassen",
+        "question_number": 7,
+        "answer_text": "uitkomst: F = 2,2 · 10⁴ N\n\nvoorbeeld van een berekening:\nEr geldt: F = σA = 3,5 · 10⁸ · 6,4 · 10⁻⁵ = 2,2 · 10⁴ N.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van σ = F/A met σ = 3,5 · 10⁸ Pa"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-lassen-antw7.png"
+        ]
+      },
+      {
+        "title": "De maan Europa",
+        "question_number": 8,
+        "answer_text": "uitkomst: v = 1,374 · 10⁴ m s⁻¹\n\nvoorbeeld van een berekening:\nDe omlooptijd van Europa is 3,551 · 24 · 3600 = 3,0681 · 10⁵ s (Binas-tabel 31 of Sciencedata-tabel 3.3a).\nEr geldt: v = 2πr/T = 2π · 670,9 · 10⁶ / 3,0681 · 10⁵ = 1,374 · 10⁴ m s⁻¹.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "opzoeken van de omlooptijd van Europa"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van v = 2πr/T"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-de-maan-europa-antw8.png"
+        ]
+      },
+      {
+        "title": "De maan Europa",
+        "question_number": 9,
+        "answer_text": "uitkomst: f = 1,79 · 10¹³ Hz\n\nvoorbeeld van een berekening:\nEr geldt: λ_max·T = k_W → λ_max = 2,898 · 10⁻³ / 173 = 1,675 · 10⁻⁵ m.\nDus: f = c/λ = 2,998 · 10⁸ / 1,675 · 10⁻⁵ = 1,79 · 10¹³ Hz.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van λ_max·T = k_W met opzoeken van k_W"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van c = fλ met opzoeken van c"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-de-maan-europa-antw9.png"
+        ]
+      },
+      {
+        "title": "De maan Europa",
+        "question_number": 10,
+        "answer_text": "uitkomst: figuur II\n\nvoorbeeld van een antwoord:\nVoor de gravitatiekracht geldt: F_g = G·Mm/r². De gravitatiekracht op een massa m wordt dus kleiner als de afstand r tot Jupiter groter wordt. (Europa wordt dus harder aangetrokken in punt a dan in punt b.) Dit komt het best overeen met figuur II.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat F_g kleiner wordt als r groter wordt of omgekeerd"
+          },
+          {
+            "points": 1,
+            "description": "consequente keuze voor de figuur"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-de-maan-europa-antw10.png"
+        ]
+      },
+      {
+        "title": "De maan Europa",
+        "question_number": 11,
+        "answer_text": "A of B\n\nToelichting:\nIn de stam van de vraag is beschreven dat de manen in een cirkelbaan bewegen. In figuur 4 en 5 zijn de banen als cirkels weergegeven. Uit deze informatie kan een kandidaat afleiden dat de middelpuntzoekende en dus de resulterende kracht op één maan overal gelijk moet zijn.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "A of B (zie toelichting)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-de-maan-europa-antw11.png"
+        ]
+      },
+      {
+        "title": "De maan Europa",
+        "question_number": 12,
+        "answer_text": "voorbeeld van een berekening:\nmethode 1\nDe omlooptijd van Io is 3,55/2,0 = 1,78 d. Hieruit volgt voor Europa een omlooptijd van 2 · 1,78 = 3,55 d en voor Ganymedes 4 · 1,78 = 7,10 d.\nVoor het aantal omwentelingen op t = 5,32 d geldt dan voor Io 5,32/1,78 = 3,0; voor Europa 5,32/3,55 = 1,5 en voor Ganymedes 5,32/7,10 = 0,75.\nTegen de klok in draaiend levert dat: (zie figuur met standen van Io, Europa, Ganymedes en Jupiter op t = 5,32 d)\n\nof\n\nmethode 2\nDe omlooptijden T_Io, T_Europa en T_Ganymedes hebben de verhouding 1:2:4. Dat betekent dat het aantal omwentelingen in een bepaalde tijd de omgekeerde verhouding 4:2:1 heeft.\nNa 3,55 d heeft Io 2,0 omwentelingen gemaakt, dus tussen 3,55 d en 5,32 d is dat nog 1,0 omwenteling extra.\nIn diezelfde tijd heeft Europa nog 1,0/2 = 0,5 omwenteling extra gemaakt en Ganymedes 1,0/4 = 0,25 omwenteling extra.\nTegen de klok in draaiend levert dat: (zie figuur met standen van Io, Europa, Ganymedes en Jupiter op t = 5,32 d)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat T_maan = 3,55/2,0 · verhoudingsfactor"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat aantal omwentelingen = t/T_maan"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "standen van de drie manen consequent en tegen de klok in ingetekend"
+          }
+        ],
+        "grading_note": "⎼ Er hoeft geen rekening gehouden te worden met significantie.\n⎼ Als wordt uitgegaan van T_Io : T_Europa : T_Ganymedes = f_Io : f_Europa : f_Ganymedes: maximaal 2 scorepunten toekennen.\n⎼ Als voor vraag 8 een verkeerde waarde is gebruikt voor de omlooptijd van Europa en er hier mee is verder gerekend: niet opnieuw aanrekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-de-maan-europa-antw12.png"
+        ]
+      },
+      {
+        "title": "Kitmarker",
+        "question_number": 13,
+        "answer_text": "voorbeeld van een antwoord:\n³₁H → ³₂He + ⁰₋₁e",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bètadeeltje rechts van de pijl"
+          },
+          {
+            "points": 1,
+            "description": "He als vervalproduct, mits verkregen via kloppende atoomnummers"
+          },
+          {
+            "points": 1,
+            "description": "aantal nucleonen links en rechts gelijk"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-kitmarker-antw13.png"
+        ]
+      },
+      {
+        "title": "Kitmarker",
+        "question_number": 14,
+        "answer_text": "uitkomst: f = 6,0 · 10¹⁴ Hz\n\nvoorbeeld van een berekening:\nEr geldt: f = E/h = 2,5 · 1,60 · 10⁻¹⁹ / 6,63 · 10⁻³⁴ = 6,0 · 10¹⁴ Hz.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van E_f = hf met opzoeken van h"
+          },
+          {
+            "points": 1,
+            "description": "omrekenen van eV naar J"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-kitmarker-antw14.png"
+        ]
+      },
+      {
+        "title": "Kitmarker",
+        "question_number": 15,
+        "answer_text": "D",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "D"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-kitmarker-antw15.png"
+        ]
+      },
+      {
+        "title": "Kitmarker",
+        "question_number": 16,
+        "answer_text": "B",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "B"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-kitmarker-antw16.png"
+        ]
+      },
+      {
+        "title": "Kitmarker",
+        "question_number": 17,
+        "answer_text": "uitkomst: d½ = 14 mm\n\nvoorbeeld van een bepaling:\nZonder aluminium is de intensiteit van de kitmarker gelijk aan 6,00 · 10³ − 1,00 · 10³ = 5,00 · 10³ pulsen per minuut. Na een halvering is dat 5,00 · 10³ / 2 = 2,50 · 10³ pulsen per minuut.\nHet diagram moet afgelezen worden bij 2,50 · 10³ + 1,0 · 10³ = 3,50 · 10³ pulsen per minuut. Hieruit volgt dat de halveringsdikte voor aluminium gelijk is aan 1,43 mm.\nDe halveringsdikte voor menselijk weefsel is dan gelijk aan 1,43 · 10 = 14 mm.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de achtergrondstraling twee keer juist verrekend moet worden"
+          },
+          {
+            "points": 1,
+            "description": "consequent bepalen van d½ van aluminium (met een marge van 0,1 mm)"
+          },
+          {
+            "points": 1,
+            "description": "juist gebruik van de factor 10"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": "⎼ Als de achtergrondstraling eenmaal juist wordt toegepast vervalt alleen de eerste deelscore.\n⎼ Als er geen rekening wordt gehouden met de achtergrondstraling of als deze twee keer onjuist wordt verrekend vervallen de eerste en de laatste deelscore.\n⎼ Er hoeft geen rekening gehouden te worden met significantie.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-kitmarker-antw17.png"
+        ]
+      },
+      {
+        "title": "Kitmarker",
+        "question_number": 18,
+        "answer_text": "voorbeeld van een antwoord:\nmethode 1\nVoor de energie die de bestraalde lichaamsmassa in een jaar absorbeert geldt:\nE_totaal = E_f · A · t = 1,6 · 10⁻¹⁵ · 1,25 · 10³ · (365 · 8,0 · 3600) = 2,10 · 10⁻⁵ J.\nVoor het jaarlijkse dosisequivalent geldt dan:\nH = w_R·D = w_R·E/m = 1 · 2,10 · 10⁻⁵ / 0,15 = 1,4 · 10⁻⁴ Sv (= 0,14 mSv).\nDit is minder dan de jaarlijkse equivalente dosislimiet.\n\nof\n\nmethode 2\nVoor het dosisequivalent van een foton geldt:\nH_f = w_R·D = w_R·E_f/m = 1 · 1,6 · 10⁻¹⁵ / 0,15 = 1,07 · 10⁻¹⁴ Sv.\nVoor het jaarlijkse dosisequivalent geldt dan:\nH_totaal = H_f · A · t = 1,07 · 10⁻¹⁴ · 1,25 · 10³ · (365 · 8,0 · 3600) = 1,4 · 10⁻⁴ Sv (= 0,14 mSv).\nDit is minder dan de jaarlijkse equivalente dosislimiet.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat geldt E_totaal = E_f · A · t"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van H = w_R·D en D = E/m"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": "⎼ Het gebruik van H = w_R·D mag ook impliciet.\n⎼ Er hoeft geen rekening gehouden te worden met significantie.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-kitmarker-antw18.png"
+        ]
+      },
+      {
+        "title": "Sprong van Luke Aikins",
+        "question_number": 19,
+        "answer_text": "voorbeeld van een antwoord:\n[k] = [F_w]/([A][v²]) = N / (m² · (m s⁻¹)²) = N s²/m⁴ = kg/m³.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "invullen van een correcte SI-eenheid voor F_w, A en v"
+          },
+          {
+            "points": 1,
+            "description": "vereenvoudigen tot kg/m³"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-sprong-van-luke-aikins-antw19.png"
+        ]
+      },
+      {
+        "title": "Sprong van Luke Aikins",
+        "question_number": 20,
+        "answer_text": "uitkomst: k = 0,32 (kg m⁻³)\n\nvoorbeeld van een berekening:\nEr geldt: F_w = (−)F_z.\nHieruit volgt: k = mg/(Av²) = 75 · 9,81 / (0,80 · 54²) = 0,32 (kg m⁻³).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat F_w = (−)F_z"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "Als er een verkeerde eenheid is vermeld voor k: dit niet aanrekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-sprong-van-luke-aikins-antw20.png"
+        ]
+      },
+      {
+        "title": "Sprong van Luke Aikins",
+        "question_number": 21,
+        "answer_text": "uitkomsten: t = 19 s en s = 25 m\n\nvoorbeeld van een berekening:\n⎼ t = h/v_v = 1,0 · 10³ / 54 = 19 s.\n⎼ s = v_h·t_h = (4,9/3,6) · 19 = 25 m.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van s = v·t"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat t_h gelijk is aan de valtijd"
+          },
+          {
+            "points": 1,
+            "description": "omrekenen van km h⁻¹ naar m s⁻¹"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekeningen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-sprong-van-luke-aikins-antw21.png"
+        ]
+      },
+      {
+        "title": "Sprong van Luke Aikins",
+        "question_number": 22,
+        "answer_text": "voorbeeld van een antwoord:\nIn de eerste situatie zijn de krachtvectoren vanuit beide handen even lang en recht naar boven gericht, waarbij iedere arm de kortste afstand tussen draaipunt D en de werklijn van de kracht vormt.\nDoordat Aikins één hand naar zich toe buigt, wordt het moment van de luchtweerstandskracht op die hand kleiner.\nAikins begint hierdoor te draaien in de richting van Q.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat alle krachtvectoren vanuit de handen recht naar boven gericht zijn"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat alle krachtvectoren even lang zijn"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat iedere arm de kortste afstand tussen D en werklijn is"
+          },
+          {
+            "points": 1,
+            "description": "beide zinnen juist (moment op de hand wordt kleiner; Aikins draait in de richting van Q)"
+          }
+        ],
+        "grading_note": "Wanneer een kandidaat bij de laatste deelvraag heeft gekozen voor een andere dan de gegeven oplossing en deze is consequent met de getekende krachtvectoren uit de eerste deelvraag, mag de laatste deelscore worden toegekend.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-sprong-van-luke-aikins-antw22.png"
+        ]
+      },
+      {
+        "title": "Sprong van Luke Aikins",
+        "question_number": 23,
+        "answer_text": "uitkomst: E_net = 1,4 · 10⁵ J\n\nvoorbeeld van een berekening:\nEr geldt:\nE_net = ½mv² + mgh\nE_net = ½ · 75 · 54² + 75 · 9,81 · 37\nE_net = 1,4 · 10⁵ J",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat E_net = E_k + E_z"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van E_k = ½mv²"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van E_z = mgh"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "Als het inzicht, genoemd in de eerste deelscore, ontbreekt, vervalt ook de laatste deelscore.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-sprong-van-luke-aikins-antw23.png"
+        ]
+      },
+      {
+        "title": "Sprong van Luke Aikins",
+        "question_number": 24,
+        "answer_text": "antwoord:\nHet net is hoog opgehangen. → remafstand\nHet net scheurt niet. → treksterkte\nHet net veert niet terug. → plastische vervorming",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien drie antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien twee of één antwoord(en) juist"
+          },
+          {
+            "points": 0,
+            "description": "indien geen antwoorden juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-sprong-van-luke-aikins-antw24.png"
+        ]
+      },
+      {
+        "title": "Sprong van Luke Aikins",
+        "question_number": 25,
+        "answer_text": "uitkomsten: a = 54,5 m s⁻² (met een marge van 2 m s⁻²)\nΔt = 0,72 s (binnen het bereik 0,64 s ≤ Δt ≤ 0,77 s)\n\n⎼ voorbeeld van een bepaling:\nMet behulp van een raaklijn in het steilste deel van de (v,t)-grafiek kan de grootte en de duur van de vertraging bepaald worden. Hiervoor geldt:\na = (Δv/Δt)_raaklijn = 60,0 / (88,60−87,50) = 54,5 m s⁻².\nDe tijdsduur van deze vertraging is 88,44 − 87,72 = 0,72 s.\n\n⎼ voorbeeld van een antwoord:\nIn het tweede diagram is te zien dat de maximale veilige vertraging bij 0,72 s gelijk is aan 93 m s⁻² of dat de maximale vertraging van 54,5 m s⁻² veel langer mag duren dan 0,72 s. Het afremmen van Aikins was dus veilig voor hem.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van a = (Δv/Δt)_raaklijn"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de tijdsduur van het steile, rechte deel van het (v,t)-diagram bepaald moet worden"
+          },
+          {
+            "points": 1,
+            "description": "completeren van beide bepalingen"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie met behulp van het tweede diagram"
+          }
+        ],
+        "grading_note": "Er hoeft voor de derde deelscore geen rekening gehouden te worden met significantie.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-sprong-van-luke-aikins-antw25.png"
+        ]
+      },
+      {
+        "title": "Cicaden",
+        "question_number": 26,
+        "answer_text": "Het geluid gaat van een cicade-mannetje naar een cicade-vrouwtje via een lopende golf in de lucht.\nDeze golf is longitudinaal.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "per juist alternatief"
+          },
+          {
+            "points": 1,
+            "description": "per juist alternatief"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-cicaden-antw26.png"
+        ]
+      },
+      {
+        "title": "Cicaden",
+        "question_number": 27,
+        "answer_text": "uitkomst: f = 4,4 · 10² Hz\n\nvoorbeeld van een bepaling:\nmethode 1\nIn de tijd van 4,0 periodes op de klok worden 17,5 periodes van de uit-klik gemaakt.\nHieruit volgt: T = 4,0 · 10 · 10⁻³ / 17,5 = 2,29 · 10⁻³ s.\nf = 1/T = 1 / (2,29 · 10⁻³) = 4,4 · 10² Hz.\n\nof\n\nmethode 2\nIn de tijd van 4,0 periodes op de klok worden 17,5 periodes van de uit-klik gemaakt, dus\nf = 17,5 / (4,0 · 10 · 10⁻³) = 4,4 · 10² Hz.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van f = 1/T"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van de trillingstijd binnen het interval 2,15 ms < T < 2,45 ms"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": "⎼ Als gebruikgemaakt is van T = 10 ms: maximaal 1 scorepunt toekennen.\n⎼ Wanneer een kandidaat voor één periode van de klok heeft gerekend met 20 ms in plaats van 10 ms, dit niet aanrekenen.\nToelichting: In de tekst wordt aangegeven dat de klok 'om de 10 ms' een piek geeft. Dit is ook te lezen als 'iedere 20 ms een piek'.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-cicaden-antw27.png"
+        ]
+      },
+      {
+        "title": "Cicaden",
+        "question_number": 28,
+        "answer_text": "resonantie/resoneren",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "resonantie/resoneren"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-cicaden-antw28.png"
+        ]
+      },
+      {
+        "title": "Cicaden",
+        "question_number": 29,
+        "answer_text": "D",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "D"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-cicaden-antw29.png"
+        ]
+      },
+      {
+        "title": "Cicaden",
+        "question_number": 30,
+        "answer_text": "uitkomst: f = 4 · 10³ Hz\n\nvoorbeeld van een bepaling:\nMet figuur 2 kan de lengte van deze cicade met vleugels bepaald worden op 4,8 cm. De diameter van de boom kan daarmee geschat worden op 10 cm.\nHieruit volgt: λ = 0,1 m → f = v/λ = 350/0,1 = 4 · 10³ Hz.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "schatten van de dikte van de boom tussen 8 en 15 cm"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van v = fλ met 343 m s⁻¹ ≤ v ≤ 355 m s⁻¹"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": "Er hoeft geen rekening gehouden te worden met significantie.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2021-i-cicaden-antw30.png"
+        ]
+      }
+    ]
+  }
+}
