@@ -207,7 +207,26 @@ def find_vraag_lines(page, y0=None, y1=None, max_gap=6.0, column_slack=60.0):
         # 2p"). Real consecutive body-text lines are still a full
         # line-height (~14-16pt) apart, so widening to 3.5 stays far below
         # any real inter-line gap while covering this case too.
-        row_tol = 3.5
+        #
+        # HAVO-NAT-23-II-O.pdf has its own systematic marker/text baseline
+        # offset of 3.6pt (seen on vragen 8, 11, 17, 18, 19, 20 -- e.g. the
+        # "18"/"4p" line at y0=582.1/583.8 vs its own question-text line at
+        # y0=580.2), just over the 3.5 threshold, which again silently
+        # dropped the question's own sentence (leaving only "18 4p"). Real
+        # inter-line gaps in this exam are still >=13pt, so widening to 4.0
+        # stays far below any real gap while covering this offset too.
+        #
+        # Still not enough: HAVO-NAT-23-I-O.pdf uses a same-row offset of
+        # 3.58pt for EVERY SINGLE vraag in the document (4.27pt for two of
+        # them) -- confirmed by checking all 25 questions, all fall in the
+        # 3.58-4.27pt band. At row_tol=4.0 this again silently dropped the
+        # question's own text line for most of the exam (e.g. vraag 1
+        # rendered as "1 4p volle gasfles. Noteer je antwoord..." missing
+        # the whole first line "Bereken hoelang de barbecue kan branden als
+        # begonnen wordt met een"). Widening to 4.5 covers this exam's
+        # offsets too while staying far below any real inter-line gap
+        # (~14-16pt), so behaviour on prior exams is unchanged.
+        row_tol = 4.5
         same_row_idx = sorted(
             j for j, l in enumerate(lines)
             if l[0] <= sx0 + column_slack and abs(l[1] - sy0) <= row_tol

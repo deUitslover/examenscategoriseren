@@ -1,0 +1,55 @@
+{
+  "source": "HAVO Natuurkunde 2023-II",
+  "subject_name": "Natuurkunde",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Vleermuisdetector",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Noodstroom voor de Arena",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Caravanremmen",
+      "question_numbers": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Aluminium",
+      "question_numbers": [
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "title": "OSIRIS-REx",
+      "question_numbers": [
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  ]
+}
