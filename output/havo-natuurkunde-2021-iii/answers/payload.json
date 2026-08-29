@@ -1,0 +1,651 @@
+{
+  "subject_name": "Natuurkunde",
+  "level": "HAVO",
+  "source": "HAVO Natuurkunde 2021-III",
+  "answers": [
+    {
+      "title": "Lutetium-177",
+      "question_number": 1,
+      "answer_text": "antwoord:\n¹⁷⁷₇₁Lu → ¹⁷⁷₇₂Hf + ⁰₋₁e + γ of ¹⁷⁷Lu → ¹⁷⁷Hf + β⁻ + γ",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "elektron en gammafoton rechts van de pijl"
+        },
+        {
+          "points": 1,
+          "description": "Hf als vervalproduct (mits verkregen via kloppende atoomnummers)"
+        },
+        {
+          "points": 1,
+          "description": "aantal nucleonen links en rechts gelijk"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-lutetium-177-antw1.png"
+      ]
+    },
+    {
+      "title": "Lutetium-177",
+      "question_number": 2,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juist antwoord: D"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-lutetium-177-antw2.png"
+      ]
+    },
+    {
+      "title": "Lutetium-177",
+      "question_number": 3,
+      "answer_text": "uitkomst: λ = 2,82 · 10⁻¹² m\n\nvoorbeeld van een antwoord:\nEr geldt E = hf. Invullen geeft 7,05·10⁻¹⁴ = 6,626·10⁻³⁴·f zodat f = (7,05·10⁻¹⁴)/(6,626·10⁻³⁴) = 1,06·10²⁰ Hz. De golflengte van de straling is dan\nλ = c/f = (2,998·10⁸)/(1,06·10²⁰) = 2,82·10⁻¹² m.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "gebruik van E = hf"
+        },
+        {
+          "points": 1,
+          "description": "gebruik van λ = c/f"
+        },
+        {
+          "points": 1,
+          "description": "completeren van de berekening"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-lutetium-177-antw3.png"
+      ]
+    },
+    {
+      "title": "Lutetium-177",
+      "question_number": 4,
+      "answer_text": "uitkomst: 67 (dagen)\n\nvoorbeeld van een antwoord:\nAls de activiteit is afgenomen tot 0,001 van de oorspronkelijke activiteit, geldt (1/2)ⁿ = 0,001 waarbij n = t/t½.\nAls (1/2)ⁿ = 0,001 is n = 10. Er moeten dus minstens 10 halveringstijden verstreken zijn voor de volgende afspraak; dit komt overeen met 10 · 6,7 = 67 dagen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "inzicht dat (1/2)ⁿ = 0,001"
+        },
+        {
+          "points": 1,
+          "description": "inzicht dat geldt t = n · t½"
+        },
+        {
+          "points": 1,
+          "description": "consequente conclusie"
+        }
+      ],
+      "grading_note": "Als voor de redenering gebruik is gemaakt van een berekening waarin een rekenfout is gemaakt: maximaal twee scorepunten toekennen.",
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-lutetium-177-antw4.png"
+      ]
+    },
+    {
+      "title": "Lutetium-177",
+      "question_number": 5,
+      "answer_text": "voorbeeld van een antwoord:\nDe intensiteit van de γ-straling is omgekeerd kwadratisch evenredig met de afstand (of I = constante/r²).\nDit betekent dat als de afstand tot de patiënt wordt verdubbeld, de intensiteit van de stralingsenergie vier keer zo klein wordt.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "inzicht in I = constante/r²"
+        },
+        {
+          "points": 1,
+          "description": "completeren van het antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-lutetium-177-antw5.png"
+      ]
+    },
+    {
+      "title": "Lutetium-177",
+      "question_number": 6,
+      "answer_text": "uitkomst: 6 · 10⁻³%\n\nvoorbeeld van een antwoord:\nDe halveringsdikte van beton voor γ-straling met een energie van 0,05 MeV is 0,75 cm (Binas tabel 28 F of Science Data tabel 5.9)\nEen betonnen muur van 10,5 cm is 10,5/0,75 = 14 halveringsdiktes dik.\nEr komt dan nog (1/2)¹⁴ · 100% = 6 · 10⁻³% van de straling door de muur heen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "opzoeken van de halveringsdikte van beton bij E_f = 0,05 MeV"
+        },
+        {
+          "points": 1,
+          "description": "vergelijken van de dikte van de muur met de halveringsdikte d½"
+        },
+        {
+          "points": 1,
+          "description": "completeren van de berekening"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-lutetium-177-antw6.png"
+      ]
+    },
+    {
+      "title": "Accuboormachine",
+      "question_number": 7,
+      "answer_text": "uitkomst: 4,7 (minuten)\n\nvoorbeeld van een antwoord:\nEr geldt: P = UI. Invullen geeft 180 = 10,8 · I zodat I = 16,7 A.\nDe capaciteit van de boormachine is 1,3 Ah. De boormachine kan dan 1,3/16,7 = 0,078 h = 4,7 minuten werken.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "gebruik van: P = UI"
+        },
+        {
+          "points": 1,
+          "description": "gebruik van It = 1,3"
+        },
+        {
+          "points": 1,
+          "description": "completeren van de berekening"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-accuboormachine-antw7.png"
+      ]
+    },
+    {
+      "title": "Accuboormachine",
+      "question_number": 8,
+      "answer_text": "schakeling I: wel\nschakeling II: niet\nschakeling III: niet\nschakeling IV: niet\nschakeling V: niet",
+      "scoring_steps": [
+        {
+          "points": 3,
+          "description": "indien vijf juiste antwoorden"
+        },
+        {
+          "points": 2,
+          "description": "indien vier juiste antwoorden"
+        },
+        {
+          "points": 1,
+          "description": "indien drie juiste antwoorden"
+        },
+        {
+          "points": 0,
+          "description": "indien twee, één of geen juiste antwoorden"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-accuboormachine-antw8.png"
+      ]
+    },
+    {
+      "title": "Accuboormachine",
+      "question_number": 9,
+      "answer_text": "uitkomst: v = 0,79 (m s⁻¹)\n\nvoorbeeld van een antwoord:\nEr geldt v = 2πr/T met T = 60/1500 = 0,040 s dus v = 2π · (5,0·10⁻³)/0,040 = 0,79 m s⁻¹.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "gebruik van v = 2πr/T"
+        },
+        {
+          "points": 1,
+          "description": "inzicht dat T = 60/toerental"
+        },
+        {
+          "points": 1,
+          "description": "completeren van de berekening"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-accuboormachine-antw9.png"
+      ]
+    },
+    {
+      "title": "Accuboormachine",
+      "question_number": 10,
+      "answer_text": "voorbeeld van een antwoord:\nAls er harder hout wordt gebruikt, moet er een grotere kracht F op het materiaal worden uitgeoefend om een gat te boren. Als het vermogen P constant is en de kracht F groter is, is de snelheid v kleiner en wordt het toerental minder.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "inzicht dat er een grotere kracht wordt uitgeoefend"
+        },
+        {
+          "points": 1,
+          "description": "inzicht dat de snelheid van het boortje en dus het toerental afnemen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-accuboormachine-antw10.png"
+      ]
+    },
+    {
+      "title": "Accuboormachine",
+      "question_number": 11,
+      "answer_text": "uitkomst: F = 1,1 · 10³ N\n\nvoorbeeld van een antwoord:\nVoor deze boor geldt: 16 = F · d. Het boortje heeft een diameter 15 mm, invullen geeft:\nF = 16/0,015 = 1,1 · 10³ N.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "inzicht dat koppel = F · d"
+        },
+        {
+          "points": 1,
+          "description": "completeren van de berekening"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-accuboormachine-antw11.png"
+      ]
+    },
+    {
+      "title": "Accuboormachine",
+      "question_number": 12,
+      "answer_text": "voorbeeld van een antwoord:\nAls het koppel constant is, is bij een grotere afstand d de kracht F minder. De bewering klopt niet.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "inzicht dat de kracht kleiner wordt bij een grotere diameter"
+        },
+        {
+          "points": 1,
+          "description": "consequente conclusie"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-accuboormachine-antw12.png"
+      ]
+    },
+    {
+      "title": "Solderen",
+      "question_number": 13,
+      "answer_text": "voorbeeld van een antwoord:\nmethode 1 Binas\nHet smeltpunt van messing is 1170 K; het smeltpunt van zacht soldeer is 490 K. De temperatuur van de punt van de soldeerbout moet hoger zijn dan 490 K omdat het zacht soldeer moet smelten maar lager dan 1170 K omdat het messing niet mag smelten.\n\nof\n\nmethode 2 Sciencedata\nHet smeltpunt van messing is 1233 K; het smeltpunt van zacht soldeer is 456 K. De temperatuur van de punt van de soldeerbout moet hoger zijn dan 456 K omdat het zacht soldeer moet smelten maar lager dan 1233 K omdat het messing niet mag smelten.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "opzoeken van de smeltpunten van zacht soldeer en messing"
+        },
+        {
+          "points": 1,
+          "description": "inzicht dat de temperatuur van de punt van de soldeerbout tussen de smeltpunten van zacht soldeer en messing moet liggen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-solderen-antw13.png"
+      ]
+    },
+    {
+      "title": "Solderen",
+      "question_number": 14,
+      "answer_text": "voorbeeld van een antwoord:\nHet vermogen in de punt is 90 W, de stroomsterkte is 15 A.\nDe spanning U over de punt is dan: U = P/I = 90/15 = 6,0 V.\nHet apparaat is aangesloten op 230 V, de spanning over de punt is 6,0 V. In het soldeerapparaat zit dus een transformator.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "gebruik van P = UI"
+        },
+        {
+          "points": 1,
+          "description": "inzicht in de eigenschappen van een transformator"
+        },
+        {
+          "points": 1,
+          "description": "completeren van het antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-solderen-antw14.png"
+      ]
+    },
+    {
+      "title": "Solderen",
+      "question_number": 15,
+      "answer_text": "voorbeeld van een antwoord:\nAls de transformator warm wordt, gaat er energie verloren. Deze energie is wel geleverd door het stopcontact, maar wordt niet gebruikt om te solderen. Het stopcontact levert dus meer dan 90 W.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-solderen-antw15.png"
+      ]
+    },
+    {
+      "title": "Solderen",
+      "question_number": 16,
+      "answer_text": "uitkomst: t = 82 s (Binas) of t = 81 s (Sciencedata)\n\nvoorbeeld van een antwoord:\nmethode 1 Binas\nOm de koperen punt van de soldeerbout op te warmen van 20°C naar 400°C is Q = cmΔT = 387 · 50·10⁻³ · (400−20) J = 7,35·10³ J nodig.\nHet vermogen van de soldeerbout is 90 W, dus het duurt t = Q/P = (7,35·10³)/90 = 82 s.\n\nof\n\nmethode 2 Sciencedata\nOm de koperen punt van de soldeerbout op te warmen van 20°C naar 400°C is Q = cmΔT = 385 · 50·10⁻³ · (400−20) J = 7,32·10³ J nodig.\nHet vermogen van de soldeerbout is 90 W, dus het duurt t = Q/P = (7,32·10³)/90 = 81 s.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "gebruik van Q = cmΔT"
+        },
+        {
+          "points": 1,
+          "description": "opzoeken van de soortelijke warmte van koper"
+        },
+        {
+          "points": 1,
+          "description": "gebruik van E = Pt"
+        },
+        {
+          "points": 1,
+          "description": "completeren van de berekening"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-solderen-antw16.png"
+      ]
+    },
+    {
+      "title": "Solderen",
+      "question_number": 17,
+      "answer_text": "De warmtegeleidingscoëfficiënt van het materiaal van de punt van de tang moet groot zijn.\nDe soortelijke weerstand van het materiaal van de punt van de tang is niet van belang.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De warmtegeleidingscoëfficiënt van het materiaal van de punt van de tang moet groot zijn"
+        },
+        {
+          "points": 1,
+          "description": "De soortelijke weerstand van het materiaal van de punt van de tang is niet van belang"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-solderen-antw17.png"
+      ]
+    },
+    {
+      "title": "Mondharp",
+      "question_number": 18,
+      "answer_text": "uitkomst: f = 82 Hz (met een marge van 5 Hz)\n\nvoorbeeld van een antwoord:\nmethode 1\nVoor de frequentie geldt: f = 1/T, waarin T = (0,295−0,198)/8 = 0,0121 s.\nHieruit volgt dat f = 1/0,0121 = 82 Hz.\n\nof\n\nmethode 2\nUit de figuur is af te lezen dat er 8 trillingen gemaakt worden in 0,295−0,198 = 0,097 s.\nHieruit volgt f = 8/0,097 = 82 Hz.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "methode 1: bepalen van T met meer dan 5 trillingen"
+        },
+        {
+          "points": 1,
+          "description": "methode 1: gebruik van f = 1/T"
+        },
+        {
+          "points": 1,
+          "description": "methode 1: completeren van de bepaling"
+        },
+        {
+          "points": 1,
+          "description": "methode 2: inzicht dat geldt f = aantal trillingen/benodigde tijd"
+        },
+        {
+          "points": 1,
+          "description": "methode 2: bepalen van de benodigde tijd voor minimaal 5 trillingen"
+        },
+        {
+          "points": 1,
+          "description": "methode 2: completeren van de bepaling"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-mondharp-antw18.png"
+      ]
+    },
+    {
+      "title": "Mondharp",
+      "question_number": 19,
+      "answer_text": "uitkomst: m = 1,2 · 10⁻³ kg\n\nvoorbeeld van een antwoord:\nVoor de massa van het metaalplaatje geldt: m = ρV. Hierin is ρ = 7,8·10³ kg m⁻³ en V = 8,5·10⁻² · 3,5·10⁻³ · 0,50·10⁻³ = 1,49·10⁻⁷ m³.\nInvullen geeft: m = ρV = 1,49·10⁻⁷ · 7,8·10³ = 1,2·10⁻³ kg.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "gebruik van m = ρV"
+        },
+        {
+          "points": 1,
+          "description": "opzoeken van de dichtheid van staal"
+        },
+        {
+          "points": 1,
+          "description": "completeren van de berekening"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-mondharp-antw19.png"
+      ]
+    },
+    {
+      "title": "Mondharp",
+      "question_number": 20,
+      "answer_text": "voorbeeld van een antwoord:\n[f_g] = [c]·([v][d])/[ℓ]². Hieruit volgt dat [c] = ([f_g][ℓ]²)/([v][d]) = (s⁻¹ m²)/(m s⁻¹ m) = 1.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "dimensie van f_g als s⁻¹"
+        },
+        {
+          "points": 1,
+          "description": "dimensie van ℓ en v en d"
+        },
+        {
+          "points": 1,
+          "description": "completeren van het antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-mondharp-antw20.png"
+      ]
+    },
+    {
+      "title": "Mondharp",
+      "question_number": 21,
+      "answer_text": "uitkomst: f = 57 Hz (Binas) of f = 65 Hz (Sciencedata)\n\nvoorbeeld van een antwoord:\nmethode 1 Binas\nVoor de frequentie van de grondtoon geldt: f_g = c·vd/ℓ².\nHierin is c = 0,162; v_staal = 5,1·10³ m s⁻¹; d = 0,50·10⁻³ m; ℓ = 8,5·10⁻² m.\nInvullen geeft f_g = c·vd/ℓ² = 0,162 · (5,1·10³·0,50·10⁻³)/(8,5·10⁻²)² = 57 Hz.\n\nof\n\nmethode 2 Sciencedata\nVoor de frequentie van de grondtoon geldt: f_g = c·vd/ℓ².\nHierin is c = 0,162; v_staal = 5790 m s⁻¹; d = 0,50·10⁻³ m; ℓ = 8,5·10⁻² m.\nInvullen geeft f_g = c·vd/ℓ² = 0,162 · (5790·0,50·10⁻³)/(8,5·10⁻²)² = 65 Hz.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "gebruik van f_g = c·vd/ℓ²"
+        },
+        {
+          "points": 1,
+          "description": "opzoeken van de geluidsnelheid/voortplantingssnelheid in staal"
+        },
+        {
+          "points": 1,
+          "description": "completeren van de berekening"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-mondharp-antw21.png"
+      ]
+    },
+    {
+      "title": "Mondharp",
+      "question_number": 22,
+      "answer_text": "voorbeeld van een antwoord:\nOp de tong van de mondharp is van links naar rechts de volgorde: K (knoop) uiterst links, B (buik), K (knoop), B (buik) uiterst rechts.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "knoop uiterst links en buik uiterst rechts"
+        },
+        {
+          "points": 1,
+          "description": "juiste verdeling en volgorde van knopen en buiken"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-mondharp-antw22.png"
+      ]
+    },
+    {
+      "title": "Mondharp",
+      "question_number": 23,
+      "answer_text": "voorbeeld van een antwoord:\nDe laagst mogelijke toon heeft een langere golflengte, want f = v/λ.\n(In beide holtes past 0,25λ.) In beide holtes is de geluidssnelheid hetzelfde, dus de laagste toon heeft de langste golflengte en dus de langste klankkast.\nDe figuur 4A zal dus de lagere toon laten horen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(impliciet) gebruik van f = v/λ"
+        },
+        {
+          "points": 1,
+          "description": "completeren van de uitleg"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-mondharp-antw23.png"
+      ]
+    },
+    {
+      "title": "Mondharp",
+      "question_number": 24,
+      "answer_text": "uitkomst: f = 5,2 · 10² Hz\n\nvoorbeeld van een antwoord:\nDe klankkast is 17 cm lang, dus 0,25λ = 0,17 m. Hieruit volgt dat λ = 0,68 m.\nDe geluidsnelheid bij 313 K is 354 m s⁻¹ (Binas) of 355 m s⁻¹ (Sciencedata).\nDe frequentie van de laagste toon is dan f = v/λ = 354/0,68 = 5,2·10² Hz.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "inzicht dat ℓ = 0,25λ"
+        },
+        {
+          "points": 1,
+          "description": "opzoeken van de geluidsnelheid/voortplantingssnelheid bij 313 K"
+        },
+        {
+          "points": 1,
+          "description": "completeren van de berekening"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-mondharp-antw24.png"
+      ]
+    },
+    {
+      "title": "Wereldrecord Usain Bolt",
+      "question_number": 25,
+      "answer_text": "uitkomst: v = 10 m s⁻¹\n\nvoorbeeld van een antwoord:\nEr geldt: s = vt waarbij s = 100 m en t = 9,6 s. Invullen geeft: 100 = v·9,6 zodat v = 100/9,6 = 10,42 m s⁻¹ = 10 m s⁻¹.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "gebruik van s = vt"
+        },
+        {
+          "points": 1,
+          "description": "bepalen van de eindtijd met een marge van 0,1 s"
+        },
+        {
+          "points": 1,
+          "description": "completeren van de berekening"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-wereldrecord-usain-bolt-antw25.png"
+      ]
+    },
+    {
+      "title": "Wereldrecord Usain Bolt",
+      "question_number": 26,
+      "answer_text": "voorbeeld van een antwoord:\nBolt haalt zijn maximale snelheid vanaf 40 m. De snelheid is daar v = (100−40)/(9,6−4,7) = 60/4,9 = 12,24 m s⁻¹ = 12,24 · 3,6 = 44 km h⁻¹.\nDit is bijna 45 km h⁻¹.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "gebruik van v = Δx/Δt"
+        },
+        {
+          "points": 1,
+          "description": "inzicht dat steilheid vanaf 40 m bepaald moet worden"
+        },
+        {
+          "points": 1,
+          "description": "bepalen van de steilheid met een marge van 0,5 m s⁻¹"
+        },
+        {
+          "points": 1,
+          "description": "consequente conclusie"
+        }
+      ],
+      "grading_note": "Voor het behalen van de tweede deelscore mag ieder stuk van de grafiek tussen x = 40 m en x = 100 m gebruikt worden.",
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-wereldrecord-usain-bolt-antw26.png"
+      ]
+    },
+    {
+      "title": "Wereldrecord Usain Bolt",
+      "question_number": 27,
+      "answer_text": "uitkomst: P = 1,6 · 10³ W\n\nvoorbeeld van een antwoord:\nBolt heeft na 2,86 s een E_k = ½mv² = ½ · 93 · 10² = 4,65·10³ J.\nHet vermogen dat hij hiervoor moet leveren is dan P = ΔE_k/t = (4,65·10³)/2,86 = 1,6·10³ W.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "gebruik van P = ΔE_k/t"
+        },
+        {
+          "points": 1,
+          "description": "gebruik van E_k = ½mv²"
+        },
+        {
+          "points": 1,
+          "description": "completeren van de berekening"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-wereldrecord-usain-bolt-antw27.png",
+        "natuurkunde-havo-2021-iii-wereldrecord-usain-bolt-antw27-deel2.png"
+      ]
+    },
+    {
+      "title": "Wereldrecord Usain Bolt",
+      "question_number": 28,
+      "answer_text": "uitkomst: 0,84\n\nvoorbeeld van een antwoord:\nDe horizontale component van de vector van de afzetkracht is 3,2 cm lang; de vector van de afzetkracht is 3,8 cm. De efficiëntie is dan 3,2/3,8 = 0,84.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "gebruik van efficiëntie = F_afzet,hor/F_afzet"
+        },
+        {
+          "points": 1,
+          "description": "construeren van de horizontale component van de afzetkracht"
+        },
+        {
+          "points": 1,
+          "description": "opmeten van de lengtes van beide vectoren met een marge van 1 mm"
+        },
+        {
+          "points": 1,
+          "description": "completeren van de bepaling"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-wereldrecord-usain-bolt-antw28.png"
+      ]
+    },
+    {
+      "title": "Wereldrecord Usain Bolt",
+      "question_number": 29,
+      "answer_text": "uitkomst: 1,5 s (met een marge van 0,2 s)\n\nvoorbeeld van een antwoord:\nAls Usain Bolt niet vanuit stilstand hoeft te vertrekken, kan hij het met een snelheid die hij vanaf 60 m en verder heeft, beginnen. De grafiek in figuur 1 vanaf 60 m kan dan doorgetrokken worden tot x = 0.\nHet snijpunt met de t-as geeft de tijdwinst. Dit is 1,5 sec.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "inzicht dat de lijn vanaf 60 m doorgetrokken moet worden tot x = 0"
+        },
+        {
+          "points": 1,
+          "description": "bepalen van het snijpunt met de t-as"
+        }
+      ],
+      "grading_note": "Wanneer een kandidaat een raaklijn heeft getrokken aan de grafiek op x = 10 m en deze doortrekt tot x = 0 m, mag de eerste deelscore worden toegekend. Als het antwoord dan uitkomt op t = 0,7 s (met een marge van 0,2 s), mag ook de tweede deelscore worden toegekend.\n\nToelichting: Het aanloopvak bij een hardloopestafette heeft een lengte van 10 m.",
+      "answer_image_urls": [
+        "natuurkunde-havo-2021-iii-wereldrecord-usain-bolt-antw29.png"
+      ]
+    }
+  ]
+}
