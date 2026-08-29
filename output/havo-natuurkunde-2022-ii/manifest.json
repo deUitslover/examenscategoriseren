@@ -1,0 +1,56 @@
+{
+  "source": "HAVO Natuurkunde 2022-II",
+  "subject_name": "Natuurkunde",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Straling tijdens vliegen",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Ruimtepuin",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Kreukelzone",
+      "question_numbers": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Ocarina",
+      "question_numbers": [
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "title": "Koffiepercolator",
+      "question_numbers": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  ]
+}
