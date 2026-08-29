@@ -1,0 +1,12 @@
+{
+  "source": "HAVO Natuurkunde 2023-I",
+  "subject_name": "Natuurkunde",
+  "level": "HAVO",
+  "exercises": [
+    { "title": "Gasniveau meten", "question_numbers": [1, 2, 3, 4, 5] },
+    { "title": "Noodstopstrook", "question_numbers": [6, 7, 8, 9, 10, 11, 12] },
+    { "title": "Kosmische explosie", "question_numbers": [13, 14, 15, 16] },
+    { "title": "Radioactieve rook", "question_numbers": [17, 18, 19] },
+    { "title": "Zelfbouw zaklamp", "question_numbers": [20, 21, 22, 23, 24, 25] }
+  ]
+}
