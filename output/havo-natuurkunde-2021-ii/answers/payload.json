@@ -1,0 +1,325 @@
+{
+  "subject_name": "Natuurkunde",
+  "level": "HAVO",
+  "source": "HAVO Natuurkunde 2021-II",
+  "answers": [
+    {
+      "title": "Zweven op geluid",
+      "question_number": 1,
+      "answer_text": "De golf in de lucht tussen de luidspreker en de reflector is een longitudinale golf.\nDe druppels zweven op een staande golf.",
+      "scoring_steps": [
+        {"points": 1, "description": "per juiste zin"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-zweven-op-geluid-antw1.png"]
+    },
+    {
+      "title": "Zweven op geluid",
+      "question_number": 2,
+      "answer_text": "voorbeelden van een antwoord:\n\nmethode 1\nOp het scherm zijn in 9 hokjes 2,0 trillingen zichtbaar. De totale tijdsduur hiervoor is 90 · 10⁻⁶ s. Hieruit volgt dat T = (90·10⁻⁶)/2,0 = 4,5 · 10⁻⁵ s.\nDus: f = 1/T = 1/(4,5·10⁻⁵) = 22 · 10³ Hz(= 22kHz).\n\nof\n\nmethode 2\nOp het scherm zijn in 9 hokjes 2,0 trillingen zichtbaar. De totale tijdsduur hiervoor is 90 · 10⁻⁶ s.\nHieruit volgt: f = 2,0/(90·10⁻⁶) = 22 · 10³ Hz(= 22kHz).",
+      "scoring_steps": [
+        {"points": 1, "description": "bepalen van T met een marge van 0,1 · 10⁻⁵ s"},
+        {"points": 1, "description": "gebruik van f = 1/T"},
+        {"points": 1, "description": "completeren van de bepaling"}
+      ],
+      "grading_note": "Alternatieve methode 2 (methode 2): inzicht dat geldt f = aantal trillingen/benodigde tijd (1); bepalen van een aantal trillingen en de daarvoor benodigde tijd met een marge van 0,1 · 10⁻⁵ s (1); completeren van de bepaling (1).",
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-zweven-op-geluid-antw2.png"]
+    },
+    {
+      "title": "Zweven op geluid",
+      "question_number": 3,
+      "answer_text": "uitkomst: Δx = 3,9 · 10⁻² m\n\nvoorbeeld van een berekening:\nIn totaal zitten er 2,5 golven tussen de eerste en de zesde druppel. Voor de golflengte geldt:\nv = fλ → λ = v/f = 343/(22·10³) = 1,56 · 10⁻² m.\nDe afstand tussen druppel 1 en 6 is 2,5 · 1,56 · 10⁻² = 3,9 · 10⁻² m.",
+      "scoring_steps": [
+        {"points": 1, "description": "inzicht dat er 2,5 golven tussen druppel 1 en 6 zitten"},
+        {"points": 1, "description": "gebruik van v = fλ met opzoeken van v_geluid bij de gegeven temperatuur"},
+        {"points": 1, "description": "inzicht dat Δx = n_golven · λ"},
+        {"points": 1, "description": "completeren van de berekening"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-zweven-op-geluid-antw3.png"]
+    },
+    {
+      "title": "Zweven op geluid",
+      "question_number": 4,
+      "answer_text": "voorbeeld van een antwoord (schets):\nIn het (u,t)-diagram is, naast het gegeven signaal, een tweede golf getekend met dezelfde vorm maar met een kleinere amplitude en een lagere frequentie (grotere trillingstijd) dan het gegeven signaal.",
+      "scoring_steps": [
+        {"points": 1, "description": "het geschetste signaal heeft een kleinere amplitude"},
+        {"points": 1, "description": "het geschetste signaal heeft een lagere frequentie"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-zweven-op-geluid-antw4.png"]
+    },
+    {
+      "title": "Sirius",
+      "question_number": 5,
+      "answer_text": "eigenschap — van ster P het grootst / van ster Q het grootst / voor ster P en Q gelijk:\nbaanstraal — van ster Q het grootst\nbaansnelheid — van ster Q het grootst",
+      "scoring_steps": [
+        {"points": 1, "description": "de eerste regel correct"},
+        {"points": 1, "description": "de tweede regel consequent met de eerste regel"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-sirius-antw5.png"]
+    },
+    {
+      "title": "Sirius",
+      "question_number": 6,
+      "answer_text": "uitkomst: s = 4,1 · 10⁴ m\n\nvoorbeeld van een berekening:\nDe onderlinge afstand tussen Sirius A en B is gelijk aan\n20 · 1,50 · 10¹¹ = 3,00 · 10¹² m.\nSirius staat op een afstand van 8,7 · 9,46 · 10¹⁵ = 8,23 · 10¹⁶ m.\nHieruit volgt:\n(3,00·10¹²)/(8,23·10¹⁶) = tan α = 1,5/s_auto → s_auto = 4,1 · 10⁴ m.",
+      "scoring_steps": [
+        {"points": 1, "description": "opzoeken van waardes voor de afstand zon-aarde en lichtjaar"},
+        {"points": 1, "description": "gebruik van tan α = overstaand/aanliggend of inzicht dat s_Sirius A-B/s_Sirius-aarde = s_koplampen/s_auto"},
+        {"points": 1, "description": "completeren van de berekening"}
+      ],
+      "grading_note": "Wanneer sinus is gebruikt in plaats van tangens: dit niet aanrekenen.",
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-sirius-antw6.png"]
+    },
+    {
+      "title": "Sirius",
+      "question_number": 7,
+      "answer_text": "voorbeeld van een antwoord:\nIn de bovenste figuur is een vector van 3 cm getekend vanaf Sirius A, in de richting van Sirius B.\nIn de onderste figuur is een even lange vector getekend vanaf Sirius B, in de richting van Sirius A.\n\n– De gravitatiekracht werkt (deels) met de bewegingsrichting van Sirius B mee. De snelheid van Sirius B neemt dus toe.",
+      "scoring_steps": [
+        {"points": 1, "description": "in de bovenste figuur tekenen van een vector van 3 cm van Sirius A richting Sirius B"},
+        {"points": 1, "description": "in de onderste figuur tekenen van een even lange vector van Sirius B richting Sirius A"},
+        {"points": 1, "description": "inzicht dat de gravitatiekracht (deels) meewerkt met de bewegingsrichting van Sirius B"},
+        {"points": 1, "description": "consequente conclusie over de snelheid"}
+      ],
+      "grading_note": "Als in de bovenste figuur een vector getekend is van Sirius B naar Sirius A en in de onderste figuur een even lange vector van Sirius A naar Sirius B kan de tweede deelscore nog wel behaald worden.\nAls de vector niet aangrijpt in het midden van de ster: dit niet aanrekenen.",
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-sirius-antw7.png", "natuurkunde-havo-2021-ii-sirius-antw7-deel2.png"]
+    },
+    {
+      "title": "Sirius",
+      "question_number": 8,
+      "answer_text": "voorbeeld van een antwoord:\nVoor de dichtheid geldt: ρ = m/V.\nVoor het volume V van een bol geldt: V = (4/3)πr³.\nDe massa m van Sirius A is in orde van grootte vergelijkbaar met de massa van Sirius B. De straal (en daarmee het volume) van Sirius A is echter veel groter dan de straal van Sirius B.\nDe dichtheid van Sirius B is dus (veel) groter dan de dichtheid van Sirius A.",
+      "scoring_steps": [
+        {"points": 1, "description": "inzicht dat ρ = m/V waarbij V toeneemt met r"},
+        {"points": 1, "description": "inzicht dat m_Sirius A ≈ m_Sirius B terwijl R_Sirius A ≫ R_Sirius B"},
+        {"points": 1, "description": "consequente conclusie"}
+      ],
+      "grading_note": "Als voor de redenering gebruik is gemaakt van een berekening waarin een rekenfout is gemaakt: maximaal twee scorepunten toekennen.",
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-sirius-antw8.png"]
+    },
+    {
+      "title": "Sirius",
+      "question_number": 9,
+      "answer_text": "voorbeeld van een antwoord:\nUit de massa volgt dat Sirius B een witte dwerg of een rode reus is.\nVoor de temperatuur geldt:\nλ_max·T = k_W → T = k_W/λ_max = (2,898·10⁻³)/(117·10⁻⁹) = 2,48 · 10⁴ K.\nUit de temperatuur volgt dat Sirius B een blauwe reus of een witte dwerg is.\nSirius B valt in de categorie witte dwerg.",
+      "scoring_steps": [
+        {"points": 1, "description": "inzicht dat de massa van Sirius B vergeleken moet worden met de massa per categorie in figuur 5"},
+        {"points": 1, "description": "gebruik van λ_max·T = k_W"},
+        {"points": 1, "description": "completeren van de berekening"},
+        {"points": 1, "description": "consequente conclusie"}
+      ],
+      "grading_note": "Er hoeft geen rekening gehouden te worden met significantie.",
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-sirius-antw9.png"]
+    },
+    {
+      "title": "Schommelsprong",
+      "question_number": 10,
+      "answer_text": "uitkomst: s = 4,8 m (met een marge van 0,2 m)\n\nvoorbeelden van een bepaling:\nmethode 1\nDe afstand waarover de springer valt, is gelijk aan de oppervlakte onder de (v,t)-grafiek tot t = 1,0 s. De afstand van de val is dan gelijk aan s = ½·1,0·9,6 = 4,8 m.\n\nof\n\nmethode 2\nDe afstand waarover de springer valt, is uit te rekenen met s = vt met v = v_gem = (9,6+0)/2 = 4,8 ms⁻¹. De vrije val duurt t_v = 1,0 s, dus:\ns = vt = 4,8 · 1,0 = 4,8 m.",
+      "scoring_steps": [
+        {"points": 1, "description": "inzicht dat een oppervlakte onder de (v,t)-grafiek bepaald moet worden"},
+        {"points": 1, "description": "gebruik van een correcte methode om de oppervlakte te bepalen onder het rechte deel van de (v,t)-grafiek"},
+        {"points": 1, "description": "completeren van de bepaling"}
+      ],
+      "grading_note": "Als gerekend is met s = vt waarin voor v niet de gemiddelde snelheid is ingevuld: geen scorepunten toekennen.\n\nAlternatieve methode 2 (methode 2): inzicht dat geldt s = vt met v = v_gem (1); bepalen van t_v en v_gem voor het rechte deel van de grafiek (1); completeren van de bepaling (1).",
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-schommelsprong-antw10.png"]
+    },
+    {
+      "title": "Schommelsprong",
+      "question_number": 11,
+      "answer_text": "uitkomst: F_mpz = 9,4 · 10² N\n\nvoorbeeld van een berekening:\n– Er geldt: F_mpz = mv²/r = (60·(16,8)²)/18 = 9,4 · 10² N.\nvoorbeeld van een antwoord:\n– Er geldt: F_smax = F_z + F_mpz = mg + F_mpz = 60 · 9,81 + 9,4 · 10² = 1,5 · 10³ N.",
+      "scoring_steps": [
+        {"points": 1, "description": "gebruik van F_mpz = mv²/r"},
+        {"points": 1, "description": "gebruik van F_s max = F_z + F_mpz met F_z = mg"},
+        {"points": 1, "description": "completeren van beide berekeningen"}
+      ],
+      "grading_note": "Als de middelpuntzoekende kracht niet is uitgerekend met behulp van de snelheid, vervallen de eerste en laatste deelscores.",
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-schommelsprong-antw11.png"]
+    },
+    {
+      "title": "Schommelsprong",
+      "question_number": 12,
+      "answer_text": "voorbeeld van een antwoord:\nDe spankracht in het touw is (maximaal) 1,5 · 10³ N. De oppervlakte van de doorsnede van het touw is A = πr² = π·(5,0·10⁻³)² = 7,85 · 10⁻⁵ m².\nVoor de spanning σ geldt: σ = F/A = (1,5·10³)/(7,85·10⁻⁵) = 1,9 · 10⁷ Nm⁻².\nDe toegelaten spanning is 0,20 · 2,4 · 10⁸ = 4,8 · 10⁷ Nm⁻².\nDe belasting van het touw blijft in het veilige gebied, dit touw is dus sterk genoeg.",
+      "scoring_steps": [
+        {"points": 1, "description": "gebruik van σ = F/A"},
+        {"points": 1, "description": "gebruik van A = πr² met r = ½d"},
+        {"points": 1, "description": "juist toepassen van de factor 0,20"},
+        {"points": 1, "description": "completeren van de berekening en consequente conclusie"}
+      ],
+      "grading_note": "Er hoeft geen rekening gehouden te worden met significantie.",
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-schommelsprong-antw12.png"]
+    },
+    {
+      "title": "Schommelsprong",
+      "question_number": 13,
+      "answer_text": "antwoord: optie IV",
+      "scoring_steps": [
+        {"points": 1, "description": "juist antwoord: optie IV"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-schommelsprong-antw13.png"]
+    },
+    {
+      "title": "Schommelsprong",
+      "question_number": 14,
+      "answer_text": "uitkomst: W = 1,7 · 10³ J\n\nvoorbeeld van een bepaling:\nVoor de arbeid die de weerstand heeft verricht geldt:\nW = ΔE_k = ½mv_p² − ½mv_q² = ½ · 60 · ((−12,5)² − 10,0²) = 1,7 · 10³ J.",
+      "scoring_steps": [
+        {"points": 1, "description": "inzicht dat W = E_kp − E_kq"},
+        {"points": 1, "description": "gebruik van E_k = ½mv²"},
+        {"points": 1, "description": "bepalen van v_p en v_q met een marge van 0,4 ms⁻¹"},
+        {"points": 1, "description": "completeren van de bepaling"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-schommelsprong-antw14.png"]
+    },
+    {
+      "title": "Elektrische eierkoker",
+      "question_number": 15,
+      "answer_text": "voorbeeld van een juiste schakeling (zie figuur):\nSchakelaar S staat in serie met de 230 V bron en de rest van de schakeling. De thermoschakelaar T schakelt tussen twee standen: stand I (≤100 °C) is verbonden met weerstand R en lampje L, die parallel op elkaar zijn aangesloten. Stand II (>100 °C) is verbonden met de zoemer Z.",
+      "scoring_steps": [
+        {"points": 1, "description": "schakelaar S staat in serie met de overige componenten"},
+        {"points": 1, "description": "R en L zijn beide aangesloten op I"},
+        {"points": 1, "description": "R en L zijn parallel op elkaar aangesloten"},
+        {"points": 1, "description": "Z is aangesloten op II"}
+      ],
+      "grading_note": "Als een niet naar behoren werkende schakeling is getekend, bijvoorbeeld door extra verbindingen: maximaal 3 scorepunten toekennen.",
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-elektrische-eierkoker-antw15.png"]
+    },
+    {
+      "title": "Elektrische eierkoker",
+      "question_number": 16,
+      "answer_text": "voorbeeld van een antwoord:\n(De eierkoker schakelt uit als de temperatuur boven 100 °C komt.) Het uitschakelen gebeurt pas als al het water verdampt/verdwenen is. Door het condenseren en teruglopen van het water duurt dit met deksel langer dan zonder deksel.",
+      "scoring_steps": [
+        {"points": 1, "description": "inzicht dat de eierkoker pas uitschakelt als al het water verdampt/verdwenen is"},
+        {"points": 1, "description": "inzicht dat het door het condenseren langer duurt voor al het water verdampt/verdwenen is"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-elektrische-eierkoker-antw16.png"]
+    },
+    {
+      "title": "Elektrische eierkoker",
+      "question_number": 17,
+      "answer_text": "aanpassing ontwerp — de werktijd neemt af / de werktijd neemt toe:\neen verwarmingselement met een grotere weerstand R — de werktijd neemt toe\neen groter gat in het deksel — de werktijd neemt af\nwarmte-isolatie rondom het deksel — de werktijd neemt af",
+      "scoring_steps": [
+        {"points": 2, "description": "indien drie antwoorden juist"},
+        {"points": 1, "description": "indien twee antwoorden juist"},
+        {"points": 0, "description": "indien één of geen antwoord juist"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-elektrische-eierkoker-antw17.png"]
+    },
+    {
+      "title": "Elektrische eierkoker",
+      "question_number": 18,
+      "answer_text": "voorbeeld van een antwoord:\nDe werktijd t₇ voor het koken van 7 eieren in één kookbeurt is veel korter dan 7 keer de werktijd t₁ bij 1 ei. Uit E_elektrisch = Pt volgt dat de eierkoker voor 7 eieren dus minder elektrische energie nodig heeft dan voor het koken van zeven keer 1 ei. (De zeven eieren nemen in beide gevallen evenveel energie op.) Het rendement voor het koken van 7 eieren is dus hoger dan voor het koken van 1 ei.",
+      "scoring_steps": [
+        {"points": 1, "description": "inzicht dat de werktijd bij 7 eieren relatief kort is ten opzichte van de werktijd bij 1 ei"},
+        {"points": 1, "description": "inzicht dat de elektrische energie toeneemt met de werktijd"},
+        {"points": 1, "description": "consequente conclusie"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-elektrische-eierkoker-antw18.png"]
+    },
+    {
+      "title": "Elektrische eierkoker",
+      "question_number": 19,
+      "answer_text": "voorbeelden van een antwoord:\n\nmethode 1\nMet 52 gram water en zonder ei is het verwarmingselement 5,18 · 10² s aan. Met 1 ei en 52 gram water is dat 5,80 · 10² s. Het element staat dus 62 s langer aan om het ei te verwarmen.\nHieruit volgt voor de energie voor 1 ei:\nE_ei (= E_verwarming) = Pt = 320 · 62 = 20 · 10³ J = 20 kJ.\nDit is meer dan 14 kJ, dus de stelling kan kloppen.\n\nof\n\nmethode 2\nAls een ei 14 kJ aan energie opneemt, moet de eierkoker hier\nE = Pt → t_1 ei theorie = E/P = (14·10³)/320 = 44 s extra voor aanstaan ten opzichte van de werktijd voor alleen 52 gram water. Deze extra tijd t_1 ei gemeten is in werkelijkheid 5,80·10² − 5,18·10² = 62 s. Er is meer energie door de eierkoker afgegeven dan volgens de stelling nodig is. De stelling kan dus kloppen.",
+      "scoring_steps": [
+        {"points": 1, "description": "gebruik van E = Pt"},
+        {"points": 1, "description": "bepalen van Δt binnen het bereik: 60 s ≤ Δt ≤ 70 s"},
+        {"points": 1, "description": "completeren van de berekening en consequente conclusie"}
+      ],
+      "grading_note": "Er hoeft geen rekening gehouden te worden met significantie.\n\nAlternatieve methode 2 (methode 2): gebruik van E = Pt (1); inzicht dat t_1 ei theorie < t_1 ei gemeten (1); completeren van de berekening en consequente conclusie (1).",
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-elektrische-eierkoker-antw19.png"]
+    },
+    {
+      "title": "Elektrische eierkoker",
+      "question_number": 20,
+      "answer_text": "voorbeelden van een berekening:\n\nmethode 1\nBinas: voor het Gronings aardgas geldt:\nρ = m/V → V = (14·10⁻³)/0,833 = 1,68 · 10⁻² m³.\nE_ch = r_V·V = 8,9 · 1,68 · 10⁻² = 0,15 kWh.\nDit is meer dan er aan elektrische energie nodig is, dus de elektrische eierkoker is zuiniger.\n\nof\n\nmethode 2\nSciencedata: voor het gemiddelde aardgas geldt:\nE_ch = r_m·m = 54,0 · 10⁶ · 14 · 10⁻³ = 7,56 · 10⁵ J.\nDit komt overeen met (7,56·10⁵)/(3,6·10⁶) = 0,21 kWh.\nDit is meer dan er aan elektrische energie nodig is, dus de elektrische eierkoker is zuiniger.",
+      "scoring_steps": [
+        {"points": 1, "description": "gebruik van E_ch = r_V·V met opzoeken van r_V aardgas"},
+        {"points": 1, "description": "gebruik van ρ = m/V met opzoeken van ρ aardgas"},
+        {"points": 1, "description": "completeren van de berekening en consequente conclusie"}
+      ],
+      "grading_note": "Er hoeft geen rekening gehouden te worden met significantie.\n\nAlternatieve methode 2 (methode 2): gebruik van E_ch = r_m·m met opzoeken van r_m aardgas (1); omrekenen van J naar kWh of vice versa (1); completeren van de berekening en consequente conclusie (1).",
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-elektrische-eierkoker-antw20.png"]
+    },
+    {
+      "title": "Stralingsdetectie",
+      "question_number": 21,
+      "answer_text": "voorbeeld van een antwoord:\n– ⁶⁰₂₇Co → ⁶⁰₂₈Ni + ⁰₋₁e + ⁰₀γ\n\nIn het (N,Z)-diagram is een pijl getekend vanaf de plaats van Co-60 (Z=27, N=33) naar de plaats van Ni-60 (Z=28, N=32), consequent met het gegeven antwoord.",
+      "scoring_steps": [
+        {"points": 1, "description": "alleen Co-60 links van de pijl, β en γ rechts van de pijl"},
+        {"points": 1, "description": "Ni als vervalproduct (mits verkregen via kloppende atoomnummers)"},
+        {"points": 1, "description": "het aantal nucleonen links en rechts gelijk"},
+        {"points": 1, "description": "consequente pijl"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-stralingsdetectie-antw21.png"]
+    },
+    {
+      "title": "Stralingsdetectie",
+      "question_number": 22,
+      "answer_text": "uitkomst: 13(%)\n\nvoorbeeld van een berekening:\n– De halveringsdikte van lood voor deze γ-fotonen is 0,061 cm.\nHieruit volgt: I = I₀(1/2)^(d/d½) = I₀(1/2)^(0,183/0,061) → I/I₀ = 0,13 = 13%.\n\nvoorbeeld van een antwoord:\n– Een grotere halveringsdikte betekent dat er een grotere laagdikte nodig is om een gelijk percentage straling tegen te houden. (De plaatjes zijn even dik.) Er komt dus een groter percentage γ-fotonen door het karton.",
+      "scoring_steps": [
+        {"points": 1, "description": "gebruik van I = I₀(1/2)ⁿ met n = d/d½"},
+        {"points": 1, "description": "inzicht in de relatie tussen verschillen in halveringsdiktes en de verschillen in hoeveelheid doorgelaten (of geabsorbeerde) straling"},
+        {"points": 1, "description": "completeren van de berekening en consequente conclusie"}
+      ],
+      "grading_note": "Voor de tweede deelscore is een antwoord in de trant van \"karton laat meer straling door dan lood\" niet voldoende. De derde deelscore kan dan nog wel behaald worden.\nEr hoeft geen rekening gehouden te worden met significantie.",
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-stralingsdetectie-antw22.png"]
+    },
+    {
+      "title": "Stralingsdetectie",
+      "question_number": 23,
+      "answer_text": "eerste kolom: γ\ntweede kolom: α",
+      "scoring_steps": [
+        {"points": 1, "description": "beide kolommen juist"}
+      ],
+      "grading_note": "Het scorepunt alleen toekennen wanneer beide kolommen juist zijn.",
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-stralingsdetectie-antw23.png"]
+    },
+    {
+      "title": "Stralingsdetectie",
+      "question_number": 24,
+      "answer_text": "deeltjes — bewegen naar de minpool van de telbuis / bewegen naar de pluspool van de telbuis / bewegen niet in een vaste richting:\nelektronen — bewegen naar de pluspool van de telbuis\nionen — bewegen naar de minpool van de telbuis\ngasatomen — bewegen niet in een vaste richting",
+      "scoring_steps": [
+        {"points": 1, "description": "regel 1 en regel 3 juist"},
+        {"points": 1, "description": "regel 2 consequent met regel 1"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-stralingsdetectie-antw24.png"]
+    },
+    {
+      "title": "Stralingsdetectie",
+      "question_number": 25,
+      "answer_text": "voorbeeld van een antwoord:\nDoor het ioniseren van het gas neemt de weerstand van de telbuis af. De spanning over de telbuis neemt hierdoor ook af. In een serieschakeling geldt U_tot = U_telbuis + U_R. Hieruit volgt dat de spanning U over weerstand R toeneemt.",
+      "scoring_steps": [
+        {"points": 1, "description": "inzicht dat de weerstand van / de spanning over de telbuis afneemt"},
+        {"points": 1, "description": "consequente conclusie over de spanning U over weerstand R"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-stralingsdetectie-antw25.png"]
+    },
+    {
+      "title": "Stralingsdetectie",
+      "question_number": 26,
+      "answer_text": "voorbeelden van een antwoord:\n\nmethode 1\nDe GMT geeft 0,12 μSv h⁻¹ = 0,12 · 10⁻⁶ Sv h⁻¹.\nDe jaarlijkse dosislimiet voor een werknemer ouder dan 18 jaar is 20 mSv = 20 · 10⁻³ Sv. Hieruit volgt dat de werknemer na (20·10⁻³)/(0,12·10⁻⁶) = 1,7 · 10⁵ h over de limiet zou gaan. Dat zijn meer uren dan er in een jaar zitten, dus er is geen risico om over de jaarlijkse limiet te gaan.\n\nof\n\nmethode 2\nDe medewerker ontvangt 0,12 · 10⁻⁶ Sv per uur. Per jaar is dat 0,12 · 10⁻⁶ · 365 · 24 = 1,1 · 10⁻³ Sv. Dit ligt al ver onder de jaarlijkse dosislimiet voor werknemers (en is in praktijk nog lager, omdat niet ieder uur van het jaar gewerkt wordt).",
+      "scoring_steps": [
+        {"points": 1, "description": "inzicht dat H_max/H_uur = t"},
+        {"points": 1, "description": "completeren van de berekening"},
+        {"points": 1, "description": "consequente conclusie"}
+      ],
+      "grading_note": "Er hoeft geen rekening gehouden te worden met significantie.\n\nAlternatieve methode 2 (methode 2): inzicht dat H = H_uur·t_jaar (1); completeren van de berekening (1); consequente conclusie (1).",
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-stralingsdetectie-antw26.png"]
+    },
+    {
+      "title": "Stralingsdetectie",
+      "question_number": 27,
+      "answer_text": "voorbeelden van een antwoord:\nDe GMT kan op ieder moment worden afgelezen (en de badge alleen achteraf). / De GMT levert een meting met een nauwkeurig getal (en de badge alleen een verkleuring).",
+      "scoring_steps": [
+        {"points": 1, "description": "juist antwoord (één van de genoemde voorbeelden)"}
+      ],
+      "grading_note": null,
+      "answer_image_urls": ["natuurkunde-havo-2021-ii-stralingsdetectie-antw27.png"]
+    }
+  ]
+}
