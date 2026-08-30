@@ -37,15 +37,42 @@ def find_question_starts(lines, question_numbers):
     'maximumscore' appearing within the next few lines) or that starts
     with "N" followed by optional punctuation/space then 'maximumscore'
     on the SAME line (two-digit numbers are laid out this way).
+
+    Also matches a multiple-choice row, which has no 'maximumscore' text
+    at all -- just "N" followed by the single correct-answer letter (e.g.
+    "24 D"), since the Vraag/Antwoord/Scores table renders the vraagnummer
+    and antwoord-letter as two spans on one line with nothing else (seen
+    throughout HAVO-NAT-22-I-CV.pdf: questions 2 and 24 are MC and have no
+    maximumscore marker anywhere nearby). The vraagnummer and antwoord
+    letter render as two SEPARATE lines at the same y0 (one per table
+    column, e.g. "2" at x0=73 immediately followed in reading order by "C"
+    at x0=95), not one merged "2 C" line -- so this looks one line ahead
+    for a bare A-E line sharing the marker's own y0. But elsewhere in the
+    SAME document (e.g. "13 C ") the two spans DO land in one merged line,
+    so a same-line "N LETTER" pattern is checked too. Without either, the
+    scan runs straight past the MC row and finds no match for it at all.
     """
     starts = {}
     cursor = 0
     for n in question_numbers:
         pat = re.compile(rf"^{n}\b[\s.]*(maximumscore\b.*)?$")
+        bare_pat = re.compile(rf"^{n}$")
+        letter_pat = re.compile(r"^[A-E]$")
+        merged_mc_pat = re.compile(rf"^{n}\s+[A-E]$")
         found = None
         for i in range(cursor, len(lines)):
             pi, y0, y1, text = lines[i]
             t = text.strip()
+            if merged_mc_pat.match(t):
+                found = (pi, y0)
+                cursor = i + 1
+                break
+            if bare_pat.match(t) and i + 1 < len(lines):
+                npi, ny0, ny1, ntext = lines[i + 1]
+                if npi == pi and abs(ny0 - y0) < 0.5 and letter_pat.match(ntext.strip()):
+                    found = (pi, y0)
+                    cursor = i + 2
+                    break
             if pat.match(t):
                 if "maximumscore" in t:
                     found = (pi, y0)
@@ -63,9 +90,24 @@ def find_question_starts(lines, question_numbers):
     return starts
 
 
-def get_header_bottom(page, default=89.0):
+def get_header_bottom(page, default=20.0):
     """y1 of the repeating 'Vraag / Antwoord / Scores' header row, i.e. the
-    y-coordinate below which real content starts on a page."""
+    y-coordinate below which real content starts on a page.
+
+    default: used only when this page has no repeating header at all --
+    seen on an orphan continuation page in HAVO-NAT-22-II-CV.pdf (page
+    index 6), which carries just the last scoring bullet of the previous
+    question spilling over from the prior page, starting at y0=52 with no
+    "Vraag / Antwoord / Scores" row above it. The old default of 89.0
+    (the normal header's own bottom edge) silently excluded that bullet
+    from compute_segments' content_bottoms scan (ly0=52 < 89), which then
+    made the whole page look content-free and get discarded by the
+    trailing-empty-segment filter -- dropping a real scoring point from
+    the answer. A near-zero default has no such blind spot: it only
+    widens the accepted y-range on pages that lack the header text to
+    begin with, so it can never re-swallow a real header row (which is
+    still detected and skipped normally wherever it's actually present).
+    """
     for b in page.get_text("dict")["blocks"]:
         if b.get("type") != 0:
             continue

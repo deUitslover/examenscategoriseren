@@ -1,0 +1,622 @@
+{
+  "payload": {
+    "subject_name": "Natuurkunde",
+    "level": "HAVO",
+    "source": "HAVO Natuurkunde 2022-I",
+    "answers": [
+      {
+        "title": "Muziekdoos",
+        "question_number": 1,
+        "answer_text": "uitkomst: v = 4 · 10⁻³ m s⁻¹ (2,5 · 10⁻³ ms⁻¹ ≤ v < 6,5 · 10⁻³ ms⁻¹)\n\nvoorbeeld van een antwoord:\nIn de figuur is te zien dat de diameter van de rol ongeveer gelijk is aan de dikte van een vinger. De straal van de rol kan hiermee geschat worden op 1 cm. Voor de baansnelheid geldt dan:\n\nv = 2πr/T = 2π·1·10⁻²/15 = 6,3·10⁻²/15 = 4 · 10⁻³ ms⁻¹.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van v = 2πr/T"
+          },
+          {
+            "points": 1,
+            "description": "beredeneerde schatting van de straal of de diameter van de rol"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de schatting"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-muziekdoos-antw1.png"
+        ]
+      },
+      {
+        "title": "Muziekdoos",
+        "question_number": 2,
+        "answer_text": "C",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "C"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-muziekdoos-antw2.png"
+        ]
+      },
+      {
+        "title": "Muziekdoos",
+        "question_number": 3,
+        "answer_text": "uitkomst: f = 3,5 · 10² Hz (met een marge van 0,1 · 10² Hz)\n\nvoorbeeld van een antwoord:\n\nmethode 1\n– Er worden 3 trillingen geproduceerd in 8,6 · 10⁻³ s, dus T = 8,6·10⁻³/3 = 2,87 · 10⁻³ s\nVoor de frequentie geldt: f = 1/T = 1/2,87·10⁻³ = 3,5 · 10² Hz.\n– f 1 of f′\n\nof\n\nmethode 2\n– Er worden 3 trillingen geproduceerd in 8,6 · 10⁻³ s,\ndus f = 3/8,6·10⁻³ = 3,5 · 10² Hz.\n– f1 of f'",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat geldt T = benodigde tijd/aantal trillingen en f = 1/T"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          },
+          {
+            "points": 1,
+            "description": "consequente keuze voor de muzieknoot"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-muziekdoos-antw3.png"
+        ]
+      },
+      {
+        "title": "Muziekdoos",
+        "question_number": 4,
+        "answer_text": "Om de tijdsduur van één volledige trilling van de strip met een fotocamera te bepalen, is meer dan één foto per trilling nodig.\n\nDe beeldfrequentie van de camera moet dan hoger zijn dan de frequentie van de trillende strip.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste zin goed"
+          },
+          {
+            "points": 1,
+            "description": "tweede zin consequent met de eerste"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-muziekdoos-antw4.png"
+        ]
+      },
+      {
+        "title": "Muziekdoos",
+        "question_number": 5,
+        "answer_text": "voorbeeld van een antwoord:\nDe frequentie van de toon van 'London Bridge' is lager, de trillingstijd T is dan hoger. Uit T = 2π√(m/C) volgt dat (bij gelijke C) de massa m dan groter is.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de lagere toon een kleinere frequentie of grotere trillingstijd heeft"
+          },
+          {
+            "points": 1,
+            "description": "een uit de formule van een massa-veersysteem volgende consequente conclusie over de massa"
+          }
+        ],
+        "grading_note": "Wanneer alleen is aangegeven dat een zwaardere strip een lagere toon geeft, geen scorepunten toekennen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-muziekdoos-antw5.png"
+        ]
+      },
+      {
+        "title": "New Horizons",
+        "question_number": 6,
+        "answer_text": "Op positie 1.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Op positie 1."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-new-horizons-antw6.png"
+        ]
+      },
+      {
+        "title": "New Horizons",
+        "question_number": 7,
+        "answer_text": "voorbeeld van een antwoord:\nEr geldt: Fg = Fmpz → G·mM/r² = mv²/r.\nHieruit volgt:\nBinas: v = √(GM/r) = √(6,674·10⁻¹¹·0,0131·10²⁴/12,5·10⁶) = 2,64 · 10² ms⁻¹.\nSciencedata: v = √(GM/r) = √(6,674·10⁻¹¹·0,0130·10²⁴/12,5·10⁶) = 2,63 · 10² ms⁻¹.\n(Dit klopt met de snelheid die de ontwerpers hebben gevonden.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat Fg = Fmpz"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van Fg = G·mM/r² met opzoeken MPluto en G"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van Fmpz = mv²/r"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "Wanneer de eenheid niet vermeld is, dit niet aanrekenen.\nDe eerste deelscore niet toekennen voor Fz = Fmpz.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-new-horizons-antw7.png"
+        ]
+      },
+      {
+        "title": "New Horizons",
+        "question_number": 8,
+        "answer_text": "uitkomst: m = 3,5 · 10⁴ kg\n\nvoorbeeld van een antwoord:\n– Voor de arbeid die de raketmotor moet leveren geldt:\nWmotor = ΔEkin = ½·m·(ve²−vb²) = ½·465·((2,6·10²)²−(1,2·10⁴)²) = (−)3,35 · 10¹⁰ J.\nHiervoor is 3,35·10¹⁰/0,95·10⁶ = 3,5 · 10⁴ kg hydrazine nodig.\n– Door de brandstof is de totale massa bij het begin van het afremmen van NH veel groter dan 465 kg.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat Wmotor = ΔEkin met Ekin = ½mv²"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat mhydrazine = Wmotor/0,95·10⁶"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de totale massa van NH door de brandstof groter is"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-new-horizons-antw8.png"
+        ]
+      },
+      {
+        "title": "New Horizons",
+        "question_number": 9,
+        "answer_text": "voorbeeld van een antwoord:\n²³⁸₉₄Pu → ²³⁴₉₂U + ⁴₂He",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Pu-238 links en alleen een alfadeeltje als vervaldeeltje rechts van de pijl"
+          },
+          {
+            "points": 1,
+            "description": "U rechts van de pijl (mits verkregen via kloppende atoomnummers)"
+          },
+          {
+            "points": 1,
+            "description": "aantal nucleonen links en rechts gelijk"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-new-horizons-antw9.png"
+        ]
+      },
+      {
+        "title": "New Horizons",
+        "question_number": 10,
+        "answer_text": "uitkomst: Δt = 120 jaar\nmb = 9,0 kg\n\nvoorbeeld van een antwoord:\n– Uit het snijpunt van de raaklijn met de horizontale as volgt dat Δt = 120 jaar.\n– De activiteit bij de lancering is gelijk aan 6,0 · 10¹⁵ Bq. Als deze activiteit constant zou zijn over de tijd, zouden alle Pu-238-deeltjes in 120 jaar volledig zijn omgezet. Hieruit volgt:\nΔN = (−)6,0 · 10¹⁵ · (120 · 365 · 24 · 3600) = 2,27 · 10²⁵ deeltjes.\nDit komt overeen met een massa van\nmtot = ΔN · mPu−238 = 2,27 · 10²⁵ · 3,95 · 10⁻²⁵ = 9,0 kg.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "aflezen van Δt (met een marge van 5 jaar) en significantie"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat ΔN = A · Δt"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat mtot = ΔN · mPu−238"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-new-horizons-antw10.png"
+        ]
+      },
+      {
+        "title": "New Horizons",
+        "question_number": 11,
+        "answer_text": "uitkomst: η = 0,046 of 4,6%\n\nvoorbeeld van een antwoord:\nHet plutonium levert bij de start een vermogen van:\nPPu−238 = A · Everval = 6,0 · 10¹⁵ · 5,59 · 10⁶ · 1,60 · 10⁻¹⁹ = 5,37 · 10³ W.\nHet rendement van de generator is dan:\nη = Pelektrisch/PPu−238 = 248/5,37·10³ = 0,046 (= 4,6%).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat PPu−238 = A · Everval"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat η = Pelektrisch/PPu-238"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-new-horizons-antw11.png"
+        ]
+      },
+      {
+        "title": "New Horizons",
+        "question_number": 12,
+        "answer_text": "uitkomst: t = 2,6 · 10² jaar (met een marge van 0,1 · 10² jaar)\n\nvoorbeelden van een antwoord:\n\nmethode 1\nUit de grafiek is te bepalen dat de halveringstijd van Pu-238 gelijk is aan 88 jaar. Het vermogen van de generator halveert met het verstrijken van een halveringstijd. Na 3 halveringstijden is het vermogen gedaald tot 31 W. Dat is na 3 · 88 = 2,6 · 10² jaar.\n\nof\n\nmethode 2\nHet elektrische vermogen van de energiebron is recht evenredig met de activiteit van de bron en dus het aantal deeltjes in de bron. Als de generator stopt met functioneren is het vermogen van de bron gedaald tot\n31/248 · 100% = 12,5% van het vermogen van de bron bij het begin.\nHieruit volgt dat ook het resterende percentage Pu-238 gelijk is aan 12,5%.\nAflezen in de grafiek levert t = 2,6 · 10² jaar.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat t½ bepaald moet worden"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat het vermogen van de generator halveert per halveringstijd"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-new-horizons-antw12.png"
+        ]
+      },
+      {
+        "title": "Lithografie",
+        "question_number": 13,
+        "answer_text": "C",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "C"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-lithografie-antw13.png"
+        ]
+      },
+      {
+        "title": "Lithografie",
+        "question_number": 14,
+        "answer_text": "voorbeeld van een antwoord:\nDe begintemperatuur van het tin is hoger dan het smeltpunt. Het tin gaat dus van vloeibaar naar gasvormig. Er is dus sprake van verdampen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat het tin bij aanvang vloeibaar is"
+          },
+          {
+            "points": 1,
+            "description": "consequente vermelding van de faseovergang"
+          }
+        ],
+        "grading_note": "Voor een antwoord zonder toelichting geen scorepunten toekennen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-lithografie-antw14.png"
+        ]
+      },
+      {
+        "title": "Lithografie",
+        "question_number": 15,
+        "answer_text": "uitkomst: t = 0,13 s\n\nvoorbeeld van een antwoord:\nEr zijn Etotaal/Epuls = 2,5/1,5·10⁻⁴ = 1,67 · 10⁴ pulsen nodig. Eén puls duurt 8,0 · 10⁻⁶ s.\nDe totale tijd van belichten is dan 1,67 · 10⁴ · 8,0 · 10⁻⁶ = 0,13 s.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat Etotaal/Epuls = npulsen"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat t = npulsen · tpuls met tpuls = 8,0 · 10⁻⁶ s"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": "Wanneer een kandidaat voor tpuls de waarde 8 · 10⁻⁶ s noteert, dit niet aanrekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-lithografie-antw15.png"
+        ]
+      },
+      {
+        "title": "Lithografie",
+        "question_number": 16,
+        "answer_text": "uitkomst: ℓ = 1,8 nm = 1,8 · 10⁻⁹ m\n\nvoorbeeld van een antwoord:\nDe golflengte van de nieuwe fotonen is:\nf = Ef/h = 1,47·10⁻¹⁷/6,63·10⁻³⁴ = 2,22 · 10¹⁶ Hz.\nλ = c/f = 3,00·10⁸/2,22·10¹⁶ = 1,35 · 10⁻⁸ m.\nVoor de minimale breedte van een draad die met het nieuwe proces gemaakt kan worden, geldt:\nℓnieuw = 1,35·10⁻⁸/193·10⁻⁹ · 25 · 10⁻⁹ = 1,8 · 10⁻⁹ m = 1,8 nm.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van Ef = hf met opzoeken van h"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van c = fλ met opzoeken van c"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat ℓnieuw = (λnieuw/λoud) · ℓoud"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-lithografie-antw16.png"
+        ]
+      },
+      {
+        "title": "Stunt in Dubai",
+        "question_number": 17,
+        "answer_text": "uitkomst: η = 0,8 of 8 · 10¹%\n\nvoorbeeld van een antwoord:\nEr geldt: η = EMcD/Eblok = (½·mMcD·v² + mMcD·g·hMcD) / (mblok·g·hblok)\nHieruit volgt:\nη = (½·85·59² + 85·9,81·34) / (2,75·10⁴·9,81·0,8) = (1,48·10⁵ + 2,84·10⁴) / 2,2·10⁵ = 0,8 (= 8 · 10¹%)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat geldt η = EMcD/Eblok en EMcD = Ek + Ez"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van Ek = ½mv²"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van Ez = mgh"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "Als niet is voldaan aan de eerste deelscore, de laatste deelscore voor completeren ook niet toekennen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-stunt-in-dubai-antw17.png"
+        ]
+      },
+      {
+        "title": "Stunt in Dubai",
+        "question_number": 18,
+        "answer_text": "fase | punt in de grafiek\nMcDougall komt los van de katapult. | b\nMcDougall bereikt het hoogste punt. | d\nMcDougall opent zijn parachute. | e",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien drie antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien twee antwoorden juist"
+          },
+          {
+            "points": 0,
+            "description": "indien één of geen antwoord juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-stunt-in-dubai-antw18.png"
+        ]
+      },
+      {
+        "title": "Stunt in Dubai",
+        "question_number": 19,
+        "answer_text": "uitkomst: a = (−)32 ms⁻² (28 ms⁻² ≤ |a| ≤ 46 ms⁻²)\n\nvoorbeeld van een antwoord:\n– De versnelling kan bepaald worden met behulp van de raaklijn aan de grafiek, direct na het loskomen van het platform op t = 1,05 s:\n\nHieruit volgt:\na = (Δv/Δt)raaklijn = (−)70/(2,90−0,70) = (−)32 ms⁻².\n\n– voorbeeld van een antwoord:\nEr werkt (behalve de zwaartekracht ook) luchtweerstand",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "tekenen van de raaklijn direct na t = 1,05 s/ aangeven van een relevant recht deel van de grafiek"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van a = (Δv/Δt)raaklijn"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          },
+          {
+            "points": 1,
+            "description": "Er werkt (behalve de zwaartekracht ook) luchtweerstand"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-stunt-in-dubai-antw19.png"
+        ]
+      },
+      {
+        "title": "Stunt in Dubai",
+        "question_number": 20,
+        "answer_text": "uitkomst: s5→10 = 50 m (45 m ≤ s < 55 m)\n\nvoorbeeld van een antwoord:\n– De afstand kan bepaald worden door het bepalen van het aantal hokjes tussen de grafiek en de t-as. Hieruit volgt dat de afgelegde afstand tussen 5,0 s en 10 s gelijk is aan 50 m.\n– McDougall viel met constante snelheid van (-)8,0 ms⁻¹ over een afstand van 125 − 50 = 75 m. Deze val duurde tresterend = s/v = 75/8,0 = 9,4 s. Hieruit volgt voor de grafiek: [grafiek]",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de afstand bepaald kan worden uit de oppervlakte tussen de grafiek en de t-as"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling van de afstand"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat sresterend = 125 − s5→10"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat sresterend = v·tresterend met 7,5 m s⁻¹ ≤ v < 8,5 m s⁻¹"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling van tresterend en consequent intekenen van een horizontale lijn tot teind = 10 + tresterend (met een marge van 0,5 s)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-stunt-in-dubai-antw20.png"
+        ]
+      },
+      {
+        "title": "Stunt in Dubai",
+        "question_number": 21,
+        "answer_text": "fase | De resulterende kracht is:\nMcDougall wordt versneld door de katapult. | naar boven gericht\nMcDougall is op het hoogste punt. | naar beneden gericht\nMcDougall daalt met constante snelheid. | gelijk aan 0 N\nMcDougall wordt afgeremd door de grond. | naar boven gericht",
+        "scoring_steps": [
+          {
+            "points": 3,
+            "description": "indien vier antwoorden juist"
+          },
+          {
+            "points": 2,
+            "description": "indien drie antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien twee antwoorden juist"
+          },
+          {
+            "points": 0,
+            "description": "indien één of geen antwoord juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-stunt-in-dubai-antw21.png"
+        ]
+      },
+      {
+        "title": "Exploderende draad",
+        "question_number": 22,
+        "answer_text": "voorbeelden van een antwoord:\n\nmethode 1\nVoor de oppervlakte van de doorsnede van de draad geldt:\nAdraad = ρℓ/R = 17·10⁻⁹·80/35 = 3,89 · 10⁻⁸ m².\nHieruit volgt: Adraad = 3,89 · 10⁻⁸ = πr² → rdrad = 1,11 · 10⁻⁴ m.\nDe diameter van de draad is 2 · 1,11 · 10⁻⁴ = 2,2 · 10⁻⁴ m. Dit is dikker dan een mensenhaar.\n\nof\n\nmethode 2\nVoor de oppervlakte van de doorsnede van de draad geldt:\nAdraad = ρℓ/R = 17·10⁻⁹·80/35 = 3,89 · 10⁻⁸ m².\nVoor de oppervlakte van de doorsnede van de haar geldt:\nrhaar = 60·10⁻⁶/2 = 30 · 10⁻⁶ m → Ahaar = πrhaar² = 2,8 · 10⁻⁹ m².\nDe draad is dus dikker dan een mensenhaar.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van ρ = RA/ℓ"
+          },
+          {
+            "points": 1,
+            "description": "opzoeken van de soortelijke weerstand van koper"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van A = πr² en juist gebruik van factor 2"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": "In Sciencedata is ρkoper = 16,8 · 10⁻⁹ Ω m.\nHet gebruik van de factor 2 mag ook impliciet.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-exploderende-draad-antw22.png"
+        ]
+      },
+      {
+        "title": "Exploderende draad",
+        "question_number": 23,
+        "answer_text": "uitkomst: U = 5,0 · 10⁵ V\n\nvoorbeeld van een antwoord:\n– mschrijven van U = IR naar I = U/R en dit invullen in P = UI levert:\nP = (U/R)·U = U²/R.\n– Voor deze spanning over de draad geldt:\nP = U²/R → 7,1 · 10⁹ = U²/35 → U = √(7,1 · 10⁹ · 35) = 5,0 · 10⁵ V:",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van P = UI en U = IR"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de afleiding"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van P = U²/R en completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-exploderende-draad-antw23.png"
+        ]
+      },
+      {
+        "title": "Exploderende draad",
+        "question_number": 24,
+        "answer_text": "D",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "D"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-exploderende-draad-antw24.png"
+        ]
+      },
+      {
+        "title": "Exploderende draad",
+        "question_number": 25,
+        "answer_text": "uitkomst: 2 keer\n\nvoorbeeld van een antwoord:\nDe benodigde energie voor de bliksem is gelijk aan\nEbliksem = Pt = 7,1 · 10⁹ · 1,4 · 10⁻⁵ = 9,94 · 10⁴ J.\nVoor het opladen van de accu is Eaccu = 9,88 · 10⁻³ kWh = 3,56 · 10⁴ J nodig.\nEbliksem/Eaccu = 9,94·10⁴/3,56·10⁴ = 2,8. Dus de accu kan 2 keer opgeladen worden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van E = Pt"
+          },
+          {
+            "points": 1,
+            "description": "omrekenen van (k)Wh naar J of omgekeerd"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat voor het aantal keer opladen geldt Ebliksem/Eaccu"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "Als de uitkomst is gegeven als 2,8 keer of 3 keer opladen, dit goed rekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-exploderende-draad-antw25.png"
+        ]
+      },
+      {
+        "title": "Exploderende draad",
+        "question_number": 26,
+        "answer_text": "voorbeeld van een antwoord:\n– Toenemen van de temperatuur betekent dat de deeltjes sneller gingen trillen/bewegen.\n– De koperdeeltjes kwamen los uit het rooster. / De koperdeeltjes verloren hun onderlinge vaste positie.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht in de relatie tussen temperatuur en snelheid van de deeltjes"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat bij deze faseovergang de koperdeeltjes hun vaste plek ten opzichte van elkaar verliezen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-exploderende-draad-antw26.png"
+        ]
+      },
+      {
+        "title": "Exploderende draad",
+        "question_number": 27,
+        "answer_text": "voorbeeld van een antwoord:\nDe druppels leggen een afstand af van s = vt = 0,9 · 10³ · 1,0 · 10⁻⁴ = 0,09 m.\nOp de foto is te zien dat het publiek op veel grotere afstand dan 0,09 m van de draad af stond, dus de druppels konden het publiek niet bereiken.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van s = vt"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-i-exploderende-draad-antw27.png"
+        ]
+      }
+    ]
+  }
+}
