@@ -1,0 +1,577 @@
+{
+  "payload": {
+    "subject_name": "Natuurkunde",
+    "level": "HAVO",
+    "source": "HAVO Natuurkunde 2025-I",
+    "answers": [
+      {
+        "title": "Kaval",
+        "question_number": 1,
+        "answer_text": "Voorbeeld van een antwoord:\nEr geldt:\nv = fλ → f = v/λ = 343/(2 · 0,700) = 245 Hz",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van v = fλ met opzoeken van v"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat λ = 2 L"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-kaval-antw1.png"
+        ]
+      },
+      {
+        "title": "Kaval",
+        "question_number": 2,
+        "answer_text": "Voorbeeld van een antwoord:\nopen uiteinden:\nB — K — B\n\ngesloten uiteinde en open uiteinde:\nK — B\n\n– In de buis met een open en een gesloten uiteinde is de golflengte van de grondtoon langer dan in de buis met twee open uiteinden. Bij de langere golflengte hoort een lagere frequentie. (Het model met een gesloten uiteinde biedt dus geen verklaring voor het verschil tussen berekende en gemeten frequentie.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "juist patroon in de buis met open uiteinden"
+          },
+          {
+            "points": 1,
+            "description": "juist patroon in de buis met gesloten en open uiteinde"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de golflengte in de buis met gesloten uiteinde langer is"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie over de frequentie in de buis met gesloten uiteinde"
+          }
+        ],
+        "grading_note": "Als een patroon alleen is getekend zonder aangeven van knopen K en buiken B, vervalt de bijbehorende deelscore.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-kaval-antw2.png"
+        ]
+      },
+      {
+        "title": "Kaval",
+        "question_number": 3,
+        "answer_text": "Voorbeeld van een antwoord:\nOm een geluidssnelheid te halen van 387 m s⁻¹ moet de temperatuur (ver) boven de 333 K (Binas) / 373 K (Sciencedata) liggen. Deze temperatuur ligt veel hoger dan de temperatuur van de leefomgeving van een mens. (Dit is dus geen goede verklaring.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "opzoeken van de geluidssnelheid bij 333 K (Binas) of 373 K (SD)"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de temperatuur te hoog is"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-kaval-antw3.png"
+        ]
+      },
+      {
+        "title": "Kaval",
+        "question_number": 4,
+        "answer_text": "Uitkomst: fkaval = 2,9 · 10² Hz\n\nVoorbeeld van een antwoord:\n– Uit de verhouding tussen de twee (u,t)-diagrammen volgt: fkaval = (7,0/6,0) · 245 = 2,9 · 10² Hz\n– De devil holes zorgen ervoor dat de frequentie omhoog gaat. De devil holes kunnen dus inderdaad een aannemelijke verklaring zijn voor het verschil tussen gemeten en berekende laagste toonhoogte van de echte kaval.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat geldt fkaval = (nkaval/n245) · 245"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van het aantal trillingen in een gelijk interval (met een marge van 0,25) of bepalen van de lengte van een gelijk aantal trillingen in beide (u,t)-diagrammen (met een marge van 2 mm)"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": "Als een kandidaat constateert dat de frequentie te veel omhoog gaat en daarom de verklaring verwerpt, kan dit wel als consequente conclusie gelden.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-kaval-antw4.png"
+        ]
+      },
+      {
+        "title": "Papieren schakelingen",
+        "question_number": 5,
+        "answer_text": "Voorbeeld van een antwoord:\nVoor een zo klein mogelijke weerstand moeten Theo en Rob materiaal kiezen met een zo laag mogelijke soortelijke weerstand. Grafiet heeft een soortelijke weerstand ρ = 10⁻⁵ Ω·m. Die soortelijke weerstand is veel kleiner dan van het vulmiddel, dus ze moeten een zacht (B) potlood gebruiken.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de soortelijke weerstand zo klein mogelijk moet zijn"
+          },
+          {
+            "points": 1,
+            "description": "opzoeken van grafiet"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-papieren-schakelingen-antw5.png"
+        ]
+      },
+      {
+        "title": "Papieren schakelingen",
+        "question_number": 6,
+        "answer_text": "Voorbeeld van een antwoord:\nUit ρ = RA/ℓ volgt dat de weerstand R afneemt met het toenemen van de doorsnede A. (Beide lijnen zijn even breed, dus) de dik getekende lijn I heeft de kleinste weerstand.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat uit ρ = RA/ℓ volgt dat R afneemt met het toenemen van A"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-papieren-schakelingen-antw6.png"
+        ]
+      },
+      {
+        "title": "Papieren schakelingen",
+        "question_number": 7,
+        "answer_text": "Uitkomst: R = 2,1 · 10⁴ Ω\n\nVoorbeeld van een antwoord:\nOver de potloodlijnen staat een maximale spanning van Ulijnen = Ub − Uled = 9,0 − 1,4 = 7,6 V.\nOver één lijn staat dan een spanning van 7,6/2 = 3,8 V.\nIn een serieschakeling is de stroomsterkte overal gelijk, dus Ilijn = Iled = 0,18 mA.\nVoor de maximale weerstand van één potloodlijn geldt:\nR = U/I = 3,8/(0,18 · 10⁻³) = 2,1 · 10⁴ Ω.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van Ub = Ulijnen + Uled of Rtot = Rlijnen + Rled"
+          },
+          {
+            "points": 1,
+            "description": "correct gebruik van de factor 2"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat Ilijn = Iled en aflezen I met een marge van 0,05 mA"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van U = IR"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": "Als een kandidaat alleen Rled uitrekent en deze interpreteert als Rlijn, vervallen de eerste, tweede en vijfde deelscore, maar zijn de derde en vierde deelscore nog wel te behalen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-papieren-schakelingen-antw7.png"
+        ]
+      },
+      {
+        "title": "Papieren schakelingen",
+        "question_number": 8,
+        "answer_text": "Uitkomst: k = 5,0 · 10² Ω\n\nVoorbeeld van een antwoord:\n– [R] = [k] · [ℓ]/[b] → Ω = [k] · m/m → [k] = Ω\n– R = k · ℓ/b → k = R · b/ℓ = 1,2 · 10⁴ · (0,50 · 10⁻²)/(12 · 10⁻²) = 5,0 · 10² Ω",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "invullen van correcte eenheden voor R, ℓ en b"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de afleiding"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-papieren-schakelingen-antw8.png"
+        ]
+      },
+      {
+        "title": "Papieren schakelingen",
+        "question_number": 9,
+        "answer_text": "Voorbeeld van een antwoord:\n– schakelschema I\n– De tweede led verder van de batterij is in serie met een weerstand parallel aangesloten aan de eerste led dichter bij de batterij. Hierdoor krijgt hij minder spanning/stroom dan de eerste led.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "keuze voor schakelschema I"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de tweede led in serie met een weerstand parallel aan de eerste led is aangesloten"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de tweede led minder spanning/stroom krijgt"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-papieren-schakelingen-antw9.png"
+        ]
+      },
+      {
+        "title": "Coconuts",
+        "question_number": 10,
+        "answer_text": "Voorbeeld van een antwoord:\nVoor de golflengte van de waargenomen straling geldt:\nλmax = kW/T = 2,898 · 10⁻³/(160+273) = 6,69 · 10⁻⁶ m.\nDeze golflengte bevindt zich in het infrarode gebied, dus een camera voor infraroodstraling.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "omrekenen van graden Celsius naar kelvin"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van λmax · T = kW"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-coconuts-antw10.png"
+        ]
+      },
+      {
+        "title": "Coconuts",
+        "question_number": 11,
+        "answer_text": "Voorbeeld van een antwoord:\nCOCONUTS-2a staat op een afstand van 35,4 · 9,461 · 10¹⁵ = 3,349 · 10¹⁷ m van de aarde. Uit de hoek volgt voor de afstand tussen ster en exoplaneet:\ntan α = o/a → r = 3,349 · 10¹⁷ · tan(0,165) = 9,65 · 10¹⁴ m",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "omrekenen of opzoeken afstand van lichtjaar naar meter"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat r = afstand · tan α"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "Als een kandidaat gebruik heeft gemaakt van de sinus, dit niet aanrekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-coconuts-antw11.png"
+        ]
+      },
+      {
+        "title": "Coconuts",
+        "question_number": 12,
+        "answer_text": "Voorbeeld van een antwoord:\nEr geldt:\nDe massa van COCONUTS-2a is gelijk aan 0,35 · 1,99 · 10³⁰ = 6,97 · 10²⁹ kg.\nVoor de baansnelheid geldt:\nFmpz = FG → mv²/r = G · mM/r² → v = √(GM/r) = √(6,67 · 10⁻¹¹ · 6,97 · 10²⁹ / 9,65 · 10¹⁴) = 2,2 · 10² m s⁻¹.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat Fmpz = FG"
+          },
+          {
+            "points": 1,
+            "description": "opzoeken van de massa van de zon"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van Fmpz = mv²/r en FG = GmM/r²"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-coconuts-antw12.png"
+        ]
+      },
+      {
+        "title": "Coconuts",
+        "question_number": 13,
+        "answer_text": "Uitkomst: T = 8,7 · 10⁵ (jaren)\n\nVoorbeeld van een antwoord:\n– Er geldt: T = 2πr/v = 2π · 9,65 · 10¹⁴ / 2,2 · 10² = 2,76 · 10¹³ s.\nDit komt overeen met 2,76 · 10¹³ / (365 · 24 · 3600) = 8,7 · 10⁵ aardse jaren.\n– De kans om een overgang waar te nemen is zeer klein door de lange omlooptijd. (De transitmethode is dus niet geschikt om COCONUTS-2b waar te nemen.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van v = 2πr/T"
+          },
+          {
+            "points": 1,
+            "description": "omrekenen naar jaren en completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "significantie"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat het te lang duurt voordat de planeet voor de ster is of voordat er verandering in lichtintensiteit zichtbaar is"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-coconuts-antw13.png"
+        ]
+      },
+      {
+        "title": "Springende larven",
+        "question_number": 14,
+        "answer_text": "Uitkomst: vgem = 0,22 m s⁻¹\n\nVoorbeeld van een antwoord:\nEr zijn 5 beeldovergangen. Hieruit volgt voor de tijd:\nt = 5 · 1/132 = 0,0379 s.\nUit de schaal in figuur 1 volgt voor de afgelegde afstand:\nΔx = (5,4/3,2) · 5,0 mm = 8,4 mm.\nDus: vgem = Δx/Δt = 8,4 · 10⁻³ / 3,79 · 10⁻² = 0,22 m s⁻¹.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat t = nbeeldovergangen/132 met nbeeldovergangen = 5"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van Δx (met een marge van 0,3 mm)"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van vgem = Δx/Δt"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-springende-larven-antw14.png"
+        ]
+      },
+      {
+        "title": "Springende larven",
+        "question_number": 15,
+        "answer_text": "Voorbeeld van een antwoord:\nDoor de oppervlakte onder de grafiek te bepalen tot het moment dat de snelheid weer gaat afnemen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de oppervlakte onder de grafiek bepaald moet worden"
+          },
+          {
+            "points": 1,
+            "description": "in de grafiek markeren van de oppervlakte tussen de oorsprong en het bereiken van het maximum van de grafiek"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-springende-larven-antw15.png"
+        ]
+      },
+      {
+        "title": "Springende larven",
+        "question_number": 16,
+        "answer_text": "Voorbeeld van een antwoord:\nEr geldt:\nWtot = ΔEk → Fres gem = (½mve² − ½mvb²)/s = (½ · 1,3 · 10⁻⁶ · 0,26² − 0)/(0,72 · 10⁻³) = 6,1 · 10⁻⁵ N",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van Wtot = ΔEk met W = Fs en Ek = ½mv²"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van ve met een marge van 0,01 m s⁻¹"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-springende-larven-antw16.png"
+        ]
+      },
+      {
+        "title": "Springende larven",
+        "question_number": 17,
+        "answer_text": "Uitkomst: a = 88 m s⁻² (binnen het bereik 82 m s⁻² ≤ a ≤ 120 m s⁻²)\nFres = 1,1 · 10⁻⁴ N\n\nVoorbeeld van een antwoord:\nEr geldt: a = (Δv/Δt)raaklijn = 0,30/(3,4 · 10⁻³) = 88 m s⁻².\n– Hieruit volgt: Fres max = ma = 1,3 · 10⁻⁶ · 88 = 1,1 · 10⁻⁴ N.\n– Volgens het model geldt: Fres max/Fres gem = 2\nVoor de larve geldt: Fres max/Fres gem = 1,1 · 10⁻⁴ / 6,1 · 10⁻⁵ = 1,8\n(De larve gedraagt zich binnen de marge van John volgens het model van een veer.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "tekenen van een raaklijn in het steilste deel van de grafiek"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van a = (Δv/Δt)raaklijn"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van Fres = ma"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat Fres max/Fres gem voor de larve vergeleken moet worden met Fres max/Fres gem = 2 voor een veer"
+          },
+          {
+            "points": 1,
+            "description": "completeren van bepaling en berekeningen en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-springende-larven-antw17.png"
+        ]
+      },
+      {
+        "title": "Springende larven",
+        "question_number": 18,
+        "answer_text": "Uitkomst: n = 2,0\n\nVoorbeeld van een antwoord:\nDe larve levert een (gemiddeld) vermogen van P = Fv = 6,1 · 10⁻⁵ · 0,14 = 8,5 · 10⁻⁶ W. Het specifieke vermogen van de larve is dan 8,5 · 10⁻⁶ / 1,3 · 10⁻⁶ = 6,6 W kg⁻¹.\nDit is 6,6/3,3 = 2,0 keer zo groot als dat van een mens.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van P = Fv"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat Pspec larve = Plarve/mlarve"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat n = Pspec larve/Pspec mens"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-springende-larven-antw18.png"
+        ]
+      },
+      {
+        "title": "Vervalst schilderij",
+        "question_number": 19,
+        "answer_text": "¹⁴₇N + ¹₀n → ¹⁴₆C + ¹₁H",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "atoomnummer en massagetal van het neutron"
+          },
+          {
+            "points": 1,
+            "description": "aantal nucleonen links en rechts gelijk"
+          },
+          {
+            "points": 1,
+            "description": "som van de atoomnummers links en rechts gelijk en consequente keuze voor het vrijgekomen deeltje"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-vervalst-schilderij-antw19.png"
+        ]
+      },
+      {
+        "title": "Vervalst schilderij",
+        "question_number": 20,
+        "answer_text": "¹⁴₆C → ¹⁴₇N + ⁰₋₁e",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "C-14 links en een bètadeeltje rechts van de pijl"
+          },
+          {
+            "points": 1,
+            "description": "N rechts van de pijl (mits verkregen via kloppende atoomnummers)"
+          },
+          {
+            "points": 1,
+            "description": "aantal nucleonen links en rechts gelijk"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-vervalst-schilderij-antw20.png"
+        ]
+      },
+      {
+        "title": "Vervalst schilderij",
+        "question_number": 21,
+        "answer_text": "Voorbeeld van een antwoord:\nNa het afsterven van de plant neemt deze geen nieuwe koolstof meer op uit de atmosfeer. C-12 is een stabiele isotoop van koolstof (C-14 is instabiel). Het aandeel C-12 in de plant verandert niet, maar het aandeel C-14 neemt af in de tijd.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat C-12 stabiel is"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat het aandeel C-14 afneemt na het afsterven van de plant"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-vervalst-schilderij-antw21.png"
+        ]
+      },
+      {
+        "title": "Vervalst schilderij",
+        "question_number": 22,
+        "answer_text": "Voorbeeld van een antwoord:\nDe halveringstijd van C-14 is 5,7 · 10³ jaar. In de korte tijd sinds 1960 is dus bijna geen C-14 vervallen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "opzoeken halveringstijd C-14"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat sinds het stoppen van de testen bijna geen C-14 is vervallen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-vervalst-schilderij-antw22.png"
+        ]
+      },
+      {
+        "title": "Vervalst schilderij",
+        "question_number": 23,
+        "answer_text": "Uitkomst: t₁/₂ = 7 jaar (binnen het bereik 6,5 jaar ≤ t ≤ 9,0 jaar)\n\nVoorbeeld van een antwoord:\nDe achtergrondwaarde is gelijk aan 100. De eerste halvering vindt dus plaats van 200 naar 150. Dit gebeurt in een periode van 7 jaar.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat N = 100 de achtergrondwaarde is"
+          },
+          {
+            "points": 1,
+            "description": "aangeven van een voor de halveringstijd relevant deel van de grafiek"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": "⚠️ CONTROLEREN: in het brondocument staat bij deze vraag het vraagnummer “1” in plaats van “23” (kennelijke zetfout in het correctievoorschrift). Inhoudelijk is dit onmiskenbaar het antwoord op vraag 23 — dit is geverifieerd tegen de vraagstelling in het opgavenboekje.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-vervalst-schilderij-antw23.png"
+        ]
+      },
+      {
+        "title": "Vervalst schilderij",
+        "question_number": 24,
+        "answer_text": "Uitkomst: 1973 (met een marge van 1 jaar)\n\nVoorbeeld van een antwoord:\nIn het schilderij zijn 1,3 · 10² deeltjes C-14 (per 10¹⁴ koolstofatomen) aangetroffen. Dit hoort bij het jaartal 1973.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat N = 1,3 · 10²"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en consequente conclusie"
+          }
+        ],
+        "grading_note": "Als een kandidaat het jaartal 1958 benoemt: dit niet aanrekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-i-vervalst-schilderij-antw24.png"
+        ]
+      }
+    ]
+  }
+}

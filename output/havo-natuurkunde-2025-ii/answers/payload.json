@@ -1,0 +1,573 @@
+{
+  "payload": {
+    "subject_name": "Natuurkunde",
+    "level": "HAVO",
+    "source": "HAVO Natuurkunde 2025-II",
+    "answers": [
+      {
+        "title": "Muzikale schelp",
+        "question_number": 1,
+        "answer_text": "Uitkomst: f = 455 Hz (met een marge van 2 Hz)\n\nVoorbeeld van een antwoord:\nEr worden 9 trillingen gemaakt in 19,8 ms. Hieruit volgt:\nf = 1/T = 1/(19,8 · 10⁻³/9) = 455 Hz.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat geldt T = benodigde tijd/aantal trillingen en gebruik van f = 1/T"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de trilling met de grootste periode moet worden gebruikt"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-muzikale-schelp-antw1.png"
+        ]
+      },
+      {
+        "title": "Muzikale schelp",
+        "question_number": 2,
+        "answer_text": "Uitkomst: l = 0,61 m\n\nVoorbeeld van een antwoord:\nEr geldt: v = fλ → λ = v/f = 343/(2,8 · 10²) = 1,225 m.\nBij de grondtoon is de afstand tussen twee buiken gelijk aan een halve golflengte, dus l = ½λ = 0,61 m.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van v = fλ met opzoeken van v"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat l = ½λ"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-muzikale-schelp-antw2.png"
+        ]
+      },
+      {
+        "title": "Muzikale schelp",
+        "question_number": 3,
+        "answer_text": "Voorbeeld van een antwoord:\nDe buis heeft nu een open en een gesloten uiteinde met een buik en een knoop:\nK — B\n\nDe golflengte van de grondtoon is daardoor langer geworden. Dat betekent dat (bij gelijkblijvende geluidssnelheid) de frequentie is afgenomen/de toon lager is geworden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een schets waaruit het inzicht van een knoop bij het gesloten einde en een buik bij het open einde blijkt"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de golflengte van de grondtoon is toegenomen"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-muzikale-schelp-antw3.png"
+        ]
+      },
+      {
+        "title": "Veilig ontsnappen",
+        "question_number": 4,
+        "answer_text": "B",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "juist antwoord: B"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-veilig-ontsnappen-antw4.png"
+        ]
+      },
+      {
+        "title": "Veilig ontsnappen",
+        "question_number": 5,
+        "answer_text": "Uitkomst: amax = 35,6 m s⁻² (met een marge van 12,0 m s⁻²)\n\nVoorbeeld van een antwoord:\nUit de raaklijn aan de grafiek vlak na het openen van de parachute volgt: a = (Δv/Δt) = 16,0/(1,90−1,45) = 35,6 m s⁻². Dat is lager dan de veiligheidseis.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "tekenen van een raaklijn direct na t = 1,5 s of gebruik van een relevant recht deel in de grafiek"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van a = (Δv/Δt)raaklijn"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-veilig-ontsnappen-antw5.png"
+        ]
+      },
+      {
+        "title": "Veilig ontsnappen",
+        "question_number": 6,
+        "answer_text": "Uitkomst: m = 1,4 kg\n\nVoorbeeld van een antwoord:\nVoor de warmte die in de remschijf wordt opgenomen geldt:\nQ = ηEz = ηmgh = 0,85 · 280 · 9,81 · 150 = 3,50 · 10⁵ J.\nVoor de massa van de remschijf geldt:\nBinas: m = Q/(cΔT) = 3,50 · 10⁵ / (0,46 · 10³ · (600−50)) = 1,4 kg.\nSciencedata: m = Q/(cΔT) = 3,50 · 10⁵ / (0,449 · 10³ · (600−50)) = 1,4 kg.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van Ez = mgh"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat Q = ηEz"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van Q = cmΔT"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-veilig-ontsnappen-antw6.png"
+        ]
+      },
+      {
+        "title": "Veilig ontsnappen",
+        "question_number": 7,
+        "answer_text": "Uitkomst: Fres = 1,4 · 10³ N\nv = 2,0 m s⁻¹\n\nVoorbeeld van een antwoord:\n– Tijdens een veilige landing is de maximale resulterende kracht op de monteur gelijk aan Fres = ma = 140 · 10 = 1,4 · 10³ N.\n– Er geldt: Ek = W → ½mv² = Fres · s → v = √(2Fres·s/m) = √(2 · 1,4 · 10³ · 0,20 / 140) = 2,0 m s⁻¹",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van F = ma"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van W = Fs"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van Ek = ½mv²"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekeningen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-veilig-ontsnappen-antw7.png"
+        ]
+      },
+      {
+        "title": "Uraniumkubus",
+        "question_number": 8,
+        "answer_text": "Voorbeeld van een antwoord:\nHet volume van de kubus is gelijk aan V = (5,08 · 10⁻²)³ = 1,31 · 10⁻⁴ m³.\nDe dichtheid van de kubus is daarmee gelijk aan ρ = m/V = 2,27/(1,31 · 10⁻⁴) = 17,3 · 10³ kg m⁻³. De dichtheid van puur uraan is 19 · 10³ kg m⁻³ (Binas tabel 8, Sciencedata tabel 8.1), dus de kubus bestaat niet volledig uit uraan.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van V = l · b · h"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van ρ = m/V"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-uraniumkubus-antw8.png"
+        ]
+      },
+      {
+        "title": "Uraniumkubus",
+        "question_number": 9,
+        "answer_text": "¹³⁷₅₅Cs → ¹³⁷₅₆Ba + ⁰₋₁e + γ",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "alleen Cs-137 links van de pijl, β en γ rechts van de pijl"
+          },
+          {
+            "points": 1,
+            "description": "Ba rechts van de pijl (mits verkregen via kloppende atoomnummers)"
+          },
+          {
+            "points": 1,
+            "description": "aantal nucleonen links en rechts gelijk"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-uraniumkubus-antw9.png"
+        ]
+      },
+      {
+        "title": "Uraniumkubus",
+        "question_number": 10,
+        "answer_text": "Voorbeeld van een antwoord:\nVoor de energie van de gammafotonen geldt:\nE = hf = hc/λ = 6,626 · 10⁻³⁴ · 2,998 · 10⁸ / (1,875 · 10⁻¹²) = 1,059 · 10⁻¹³ J. Dit komt overeen met een foton-energie van 1,059 · 10⁻¹³ / 1,602 · 10⁻¹⁹ = 661 · 10³ eV = 661 keV. Bij deze foton-energie is er geen piek zichtbaar in het diagram van figuur 3.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van E = hf en c = fλ"
+          },
+          {
+            "points": 1,
+            "description": "omrekenen van eV naar J of vice versa"
+          },
+          {
+            "points": 1,
+            "description": "vergelijken met figuur 3 en completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-uraniumkubus-antw10.png"
+        ]
+      },
+      {
+        "title": "Uraniumkubus",
+        "question_number": 11,
+        "answer_text": "Voorbeeld van een antwoord:\nCs-137 heeft een halveringstijd van 30 jaar. Sinds 1945 zijn dus pas een paar halveringstijden verstreken en niet genoeg om alle Cs-137 te laten vervallen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "opzoeken van de halveringstijd van Cs-137"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat sinds 1945 nog lang niet alle Cs-137 heeft kunnen vervallen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-uraniumkubus-antw11.png"
+        ]
+      },
+      {
+        "title": "Uraniumkubus",
+        "question_number": 12,
+        "answer_text": "waarneming — waarneming\nDe lijn begint in de oorsprong. — 2\nDe lijn stijgt. — 1\nDe maximale waarde is kleiner dan 1,0. — 3",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "alle rijen goed"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-uraniumkubus-antw12.png"
+        ]
+      },
+      {
+        "title": "Uraniumkubus",
+        "question_number": 13,
+        "answer_text": "Uitkomst: NTh-230 = 6,5 · 10¹⁶\n\nVoorbeeld van een antwoord:\nDe massa van de U-234-atomen is 0,0055/100 · 2,27 = 1,25 · 10⁻⁴ kg.\nHet aantal U-234-atomen is dan NU-234 = 1,25 · 10⁻⁴ / (234 · 1,66 · 10⁻²⁷) = 3,22 · 10²⁰.\nDe verhouding na 75 jaar is NTh-230/NU-234 = 20,3 · 10⁻⁵ / 1.\nHet aantal Th-230-atomen is dan NTh-230 = 20,3 · 10⁻⁵ · 3,22 · 10²⁰ = 6,5 · 10¹⁶",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat mU-234 = 5,5 · 10⁻⁵ · mkubus"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat NU-234 = mU-234/(u · 1,66 · 10⁻²⁷)"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van de verhouding op t = 75 jaar met een marge van 0,2 · 10⁻⁵"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat NTh-230 = verhouding · NU-234"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-uraniumkubus-antw13.png"
+        ]
+      },
+      {
+        "title": "Verwarmde inlegzolen",
+        "question_number": 14,
+        "answer_text": "Antwoorden:\nbewering — juist — onjuist\nHet temperatuurverschil tussen de binnenkant van de voet (I) en de buitenkant van de schoenzool (IV) is in beide situaties gelijk. — X — \nHet temperatuurverschil tussen de inlegzool (II) en de buitenkant van de schoenzool (IV) is in beide situaties gelijk. — — X\nDe warmtestroom tussen de rand van de inlegzool (III) en de buitenkant van de schoenzool (IV) is groter als de verwarming is uitgeschakeld. — — X\nAls de verwarming is ingeschakeld, is er geen warmtestroom tussen de binnenkant van de voet (I) en de inlegzool (II). — X —",
+        "scoring_steps": [
+          {
+            "points": 3,
+            "description": "indien vier antwoorden juist"
+          },
+          {
+            "points": 2,
+            "description": "indien drie antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien twee antwoorden juist"
+          },
+          {
+            "points": 0,
+            "description": "indien één of geen antwoord juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-verwarmde-inlegzolen-antw14.png"
+        ]
+      },
+      {
+        "title": "Verwarmde inlegzolen",
+        "question_number": 15,
+        "answer_text": "Uitkomst: A = 0,02 m²\n\nVoorbeeld van een antwoord:\n– Er geldt: P = λA · ΔT/d → 5 = 0,15 · A · 35/(1,8 · 10⁻²) → A = 0,02 m².\n– Dit komt overeen met een inlegzool van 0,1 m breed en 0,2 m lang. Dat is een realistische schatting die past bij een schoenzool.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van P = λA · ΔT/d"
+          },
+          {
+            "points": 1,
+            "description": "opzoeken van λrubber"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de berekende oppervlakte vergeleken moet worden met de maten van een zool"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-verwarmde-inlegzolen-antw15.png"
+        ]
+      },
+      {
+        "title": "Verwarmde inlegzolen",
+        "question_number": 16,
+        "answer_text": "Voorbeeld van een antwoord:\nUit de soortelijke weerstand volgt:\nρ = RA/l → 1,65 · 10⁻⁴ = (5,5 · A)/0,30 → A = 9,0 · 10⁻⁶ m².\nVoor de breedte van de tape geldt: b = A/d = 9,0 · 10⁻⁶ / (0,6 · 10⁻³) = 1,5 · 10⁻² m. Ze moet dus de smalle tape kiezen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van ρ = RA/l"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat b = A/d"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-verwarmde-inlegzolen-antw16.png"
+        ]
+      },
+      {
+        "title": "Verwarmde inlegzolen",
+        "question_number": 17,
+        "answer_text": "In schakeling 1 zijn de twee weerstanden serie geschakeld.\nIn schakeling 2 zijn de twee weerstanden parallel geschakeld.\n\nDe vervangingsweerstand van schakeling 1 is groter dan de vervangingsweerstand van schakeling 2.\n\nDe stroomsterkte die bij gelijke spanning loopt in schakeling 1 is kleiner dan de stroomsterkte in schakeling 2.\n\nHet elektrisch vermogen van schakeling 1 is bij een gelijke spanning kleiner dan het elektrisch vermogen van schakeling 2.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "zinnen 1 en 2 beide goed"
+          },
+          {
+            "points": 1,
+            "description": "zinnen 3 en 4 beide consequent met zinnen 1 en 2 ⚠️ CONTROLEREN: puntenaantal niet expliciet vermeld in het brondocument bij deze deelscore (afgeleid uit maximumscore 3, aangezien de andere twee deelscores elk expliciet 1 punt vermelden)"
+          },
+          {
+            "points": 1,
+            "description": "zin 5 consequent met zin 4"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-verwarmde-inlegzolen-antw17.png"
+        ]
+      },
+      {
+        "title": "Verwarmde inlegzolen",
+        "question_number": 18,
+        "answer_text": "Voorbeeld van een antwoord:\n\nmethode 1\nEr loopt een stroomsterkte I = P/U = 5,0/3,7 = 1,35 A.\nDus voor de tijd geldt: t = 3,4/1,35 = 2,5 h.\nDit is langer dan de gestelde tijd van 2,0 h.\n\nof\n\nmethode 2\nOm aan de gestelde eis te voldoen is er voor de zool een batterij nodig met een energie-inhoud van E = Pt = 5,0 · 2,0 = 10 Wh.\nDit komt overeen met een capaciteit van E/U = 10 Wh / 3,7 V = 2,7 Ah.\nDit is minder dan de echte capaciteit van de batterij, dus de batterij heeft voldoende capaciteit.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van P = UI"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat t = capaciteit/I"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-verwarmde-inlegzolen-antw18.png"
+        ]
+      },
+      {
+        "title": "Vloeibare telescoop",
+        "question_number": 19,
+        "answer_text": "De baansnelheid v van het water is op plek I ten opzichte van plek II: twee keer zo klein\n\nDe benodigde middelpuntzoekende kracht is op plek I ten opzichte van plek II: twee keer zo klein",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "per goed antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-vloeibare-telescoop-antw19.png"
+        ]
+      },
+      {
+        "title": "Vloeibare telescoop",
+        "question_number": 20,
+        "answer_text": "Uitkomst: v = 0,42 m s⁻¹\n\nVoorbeeld van een antwoord:\nUit figuur 5 volgt dat hoek α gelijk is aan 30 graden. Uit figuur 6 blijkt dat de omlooptijd 0,90 s is. Dan geldt voor de baansnelheid:\nv = 2πr/T = 2π · 6,0 · 10⁻² / 0,90 = 0,42 m s⁻¹.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bepalen van hoek α (met een marge van 2 graden)"
+          },
+          {
+            "points": 1,
+            "description": "consequent bepalen van de omlooptijd (met een marge van 0,1 s)"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van v = 2πr/T"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-vloeibare-telescoop-antw20.png"
+        ]
+      },
+      {
+        "title": "Vloeibare telescoop",
+        "question_number": 21,
+        "answer_text": "Voorbeeld van een antwoord:\nOp de maan is de valversnelling g kleiner. (Hoek α en straal r blijven constant, dus) uit formule (1) volgt dat v kleiner moet zijn. Bob heeft gelijk.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de valversnelling op de maan kleiner is"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-vloeibare-telescoop-antw21.png"
+        ]
+      },
+      {
+        "title": "Beugel",
+        "question_number": 22,
+        "answer_text": "Uitkomst: Fs = 28 N (met een marge van 3 N)\n\nVoorbeeld van een antwoord:\nUit de grootte van Ftand volgt voor de schaal: 1,0 cm ≙ 5,7 N.\nUit de lengte van de pijl Fs volgt Fs = 4,9 · 5,7 = 28 N.\n– Kracht Ftand op de tand wordt kleiner met het naar binnen bewegen van de tand.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat kracht Ftand ontbonden moet worden langs de stippellijnen"
+          },
+          {
+            "points": 1,
+            "description": "toepassen van een juiste constructie"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van de schaal"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie over de grootte van Ftand"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-beugel-antw22.png"
+        ]
+      },
+      {
+        "title": "Beugel",
+        "question_number": 23,
+        "answer_text": "Voorbeeld van een antwoord:\n– De lengte van de arm is 2,1 cm. Hieruit volgt voor het moment:\nF1r1 = F2r2 → 37 · 10⁻³ = F2 · 2,1 · 10⁻² → F2 = 1,8 N. Hiervoor is elastiekje 4 nodig.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "intekenen van de arm"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van F1r1 = F2r2 met r2 consequent bepaald (met een marge van 2 mm)"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-beugel-antw23.png"
+        ]
+      },
+      {
+        "title": "Beugel",
+        "question_number": 24,
+        "answer_text": "De mond gaat bij de kiezen minder ver open dan bij de voortanden.\n\nOm bij de kiezen een even grote kracht uit te oefenen als bij de voortanden, moet bij de kiezen dus gekozen worden voor een elastiek met een grotere veerconstante dan bij de voortanden.\n\nBij de kiezen moet elastiekje I worden gebruikt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste zin juist"
+          },
+          {
+            "points": 1,
+            "description": "tweede zin consequent met de eerste"
+          },
+          {
+            "points": 1,
+            "description": "derde zin consequent met de tweede"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2025-ii-beugel-antw24.png"
+        ]
+      }
+    ]
+  }
+}
