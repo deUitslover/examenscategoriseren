@@ -1,0 +1,56 @@
+{
+  "source": "HAVO Natuurkunde 2024-I",
+  "subject_name": "Natuurkunde",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Schip uit koers",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Kampeerbrander op hout",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Falcon heavy",
+      "question_numbers": [
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Sarcoïde",
+      "question_numbers": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "title": "Infrasone trillingen",
+      "question_numbers": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  ]
+}

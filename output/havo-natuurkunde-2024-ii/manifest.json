@@ -1,0 +1,56 @@
+{
+  "source": "HAVO Natuurkunde 2024-II",
+  "subject_name": "Natuurkunde",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Kunstmatige meteoroïden",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Knakworstenverwarmer",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Boombrommer",
+      "question_numbers": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Wiebelgenerator",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Gebitsfoto",
+      "question_numbers": [
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  ]
+}

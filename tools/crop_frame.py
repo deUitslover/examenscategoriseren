@@ -226,7 +226,24 @@ def find_vraag_lines(page, y0=None, y1=None, max_gap=6.0, column_slack=60.0):
         # begonnen wordt met een"). Widening to 4.5 covers this exam's
         # offsets too while staying far below any real inter-line gap
         # (~14-16pt), so behaviour on prior exams is unchanged.
-        row_tol = 4.5
+        #
+        # One more class of offset, independent of the exam's own baseline
+        # offset: a question-text line that contains a Symbol/Times glyph at
+        # a LARGER point size than the surrounding Arial body text gets a
+        # line bbox whose y0 is pulled UP by that glyph's taller cell, on top
+        # of the exam's normal marker/text offset. Seen on q2 of
+        # HAVO-NAT-24-II-O.pdf: "Bereken de temperatuur van de bolletjes in
+        # °C." has its Arial spans at y0=741.3 (a normal 3.6pt offset from
+        # the "3p" marker at y0=744.9), but a 13pt SymbolMT '°' span starting
+        # at y0=739.1 drags the whole line bbox up, making the apparent
+        # offset 5.8pt. At row_tol=4.5 that silently dropped the question's
+        # entire text, leaving a crop and a bbox of just "2 3p". Degree
+        # signs, Ω, ℓ and Times-set numbers are everywhere in these exams, so
+        # this is not a one-off. Widening to 6.0 covers a full extra point of
+        # glyph-height inflation and still sits far below the smallest real
+        # inter-line gap in these documents (>=13pt), so no unrelated line
+        # can be pulled into a vraag.
+        row_tol = 6.0
         same_row_idx = sorted(
             j for j, l in enumerate(lines)
             if l[0] <= sx0 + column_slack and abs(l[1] - sy0) <= row_tol
