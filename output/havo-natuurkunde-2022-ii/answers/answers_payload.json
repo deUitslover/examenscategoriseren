@@ -1,0 +1,585 @@
+{
+  "payload": {
+    "subject_name": "Natuurkunde",
+    "level": "HAVO",
+    "source": "HAVO Natuurkunde 2022-II",
+    "answers": [
+      {
+        "title": "Straling tijdens vliegen",
+        "question_number": 1,
+        "answer_text": "uitkomst: Ef = 0,99 (MeV)\nvoorbeeld van een antwoord:\n\n– Voor de fotonenergie geldt: Ef = hf = 6,63 · 10⁻³⁴ · 2,4 · 10²⁰ = 1,59 · 10⁻¹³ J. Dit komt overeen met Ef = 0,99 · 10⁶ eV = 0,99 MeV.\n– De halveringsdikte van aluminium voor gammastraling met een fotonenergie van 0,99 MeV is ongeveer 4,2 cm. Dit is veel groter dan de dikte van de wand van een vliegtuig. De meeste gammastraling zal de aluminium wand passeren, de wand biedt dus niet veel bescherming.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van Ef = hf met opzoeken van h"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat d1/2 >> dwand"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-straling-tijdens-vliegen-antw1.png"
+        ]
+      },
+      {
+        "title": "Straling tijdens vliegen",
+        "question_number": 2,
+        "answer_text": "voorbeeld van een antwoord:\n²⁴¹₉₅Am → ²³⁷₉₃Np + ⁴₂He (+γ)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Am-241links en alfadeeltje rechts van de pijl"
+          },
+          {
+            "points": 1,
+            "description": "Np rechts van de pijl (mits verkregen via kloppende atoomnummers)"
+          },
+          {
+            "points": 1,
+            "description": "aantal nucleonen links en rechts gelijk"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-straling-tijdens-vliegen-antw2.png"
+        ]
+      },
+      {
+        "title": "Straling tijdens vliegen",
+        "question_number": 3,
+        "answer_text": "antwoord:\n⁹₄Be + ⁴₂He → ¹²₆C + ¹₀n",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "atoomnummer van Beryllium correct"
+          },
+          {
+            "points": 1,
+            "description": "massagetal en 'atoomnummer' van het neutron correct"
+          },
+          {
+            "points": 1,
+            "description": "voor de dochterkern een consequente berekening van het atoomnummer en consequente notatie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-straling-tijdens-vliegen-antw3.png"
+        ]
+      },
+      {
+        "title": "Straling tijdens vliegen",
+        "question_number": 4,
+        "answer_text": "uitkomst: H = 2,0 · 10⁻⁶ Sv\n\nvoorbeeld van een antwoord:\nIn het vliegtuig zijn 6 extra bubbels gevormd. De extra dosis als gevolg van het vliegen is dan 6/3 · 5,0 · 10⁻⁸ = 1,0 · 10⁻⁷ Gy.\nHieruit volgt voor de extra equivalente dosis:\nH = wR·D = 20 · 1,0 · 10⁻⁷ = 2,0 · 10⁻⁶ Sv.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat er 6 extra bubbels gevormd worden door het vliegen"
+          },
+          {
+            "points": 1,
+            "description": "inzicht D = nbubbels/3 · 5,0 · 10⁻⁸"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van H = wR·D met opzoeken of bepalen van wR"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": "In Sciencedata moet de stralingsweegfactor uit het diagram bepaald worden binnen het bereik 19 ≤ wR ≤ 21.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-straling-tijdens-vliegen-antw4.png"
+        ]
+      },
+      {
+        "title": "Ruimtepuin",
+        "question_number": 5,
+        "answer_text": "voorbeeld van een antwoord:\nVoor een satelliet in een cirkelbaan om de aarde geldt:\nFmpz = Fg → mv²/r = G·mM/r²\nHieruit volgt voor de baanstraal:\nv = √(GM/r) → 7,75 · 10³ = √(6,674·10⁻¹¹·5,972·10²⁴/r) → r = 6,636 · 10⁶ m.\nEn voor de hoogte boven het aardoppervlak:\nh = r − RA = 6,636 · 10⁶ − 6,371 · 10⁶ = 0,265 · 10⁶ m.\nDit ligt binnen de grenzen die de kunstenaar heeft aangeduid.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat Fmpz = Fg"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van Fmpz = mv²/r"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van Fg = G·mM/r² met opzoeken van G en Maarde"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat h = r − RA met opzoeken van RA"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-ruimtepuin-antw5.png"
+        ]
+      },
+      {
+        "title": "Ruimtepuin",
+        "question_number": 6,
+        "answer_text": "uitkomst: m = 0,56 (kg)\n\nvoorbeeld van een antwoord:\n– Uit het rendement volgt voor de totaal benodigde (chemische) energie:\nη = Enuttig/Ein → Ein = Enuttig/η = 7,0·10⁶/0,64 = 1,09 · 10⁷ J.\nDus:\nEch = rm·m → m = Ech/rm = 1,09·10⁷/19,4·10⁶ = 0,56 kg.\n– De massa van de brandstof is laag ten opzichte van de massa van de satelliet, dus het is een haalbare mogelijkheid.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van η = Enuttig/Ein"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van Ech = rm·m"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de massa's van brandstof en satelliet met elkaar vergeleken moeten worden"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie over de haalbaarheid"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-ruimtepuin-antw6.png"
+        ]
+      },
+      {
+        "title": "Ruimtepuin",
+        "question_number": 7,
+        "answer_text": "B",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "B"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-ruimtepuin-antw7.png"
+        ]
+      },
+      {
+        "title": "Ruimtepuin",
+        "question_number": 8,
+        "answer_text": "voorbeeld van een antwoord:\nVoor de verandering in kinetische energie van het brokstuk geldt:\nΔEk = ½mvv² − ½mvn² = ½·2·((7,6·10³)² − (7,5·10³)²) = 1,51 · 10⁶ J.\nVoor de totale arbeid die de lasers samen leveren, geldt:\nW = Pt = 1·10² · 6·10¹ = 6·10³ J.\nDeze lasers verrichten dus niet genoeg arbeid.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van Ek = ½mv²"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van W = ΔEk"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van W = P · t of E = P · t"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-ruimtepuin-antw8.png"
+        ]
+      },
+      {
+        "title": "Kreukelzone",
+        "question_number": 9,
+        "answer_text": "voorbeeld van een antwoord: Jeroen moet een grotere kracht op de krachtsensor uitoefenen dan de zwaartekracht op de 25 gewichten samen. Volgens de hefboomwet moet de arm van de kracht op de gewichten dan langer zijn dan de arm van de kracht op de krachtmeter. Opstelling II voldoet hieraan.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat er een grotere kracht uitgeoefend moet worden op de sensor dan de gewichten samen kunnen uitoefenen"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat uit de hefboomwet volgt dat"
+          },
+          {
+            "points": 1,
+            "description": "rgewichten groter moet zijn dan rkrachtsensor"
+          },
+          {
+            "points": 1,
+            "description": "consequente keuze voor een opstelling"
+          }
+        ],
+        "grading_note": "Als voor de beredenering gebruik is gemaakt van een berekening waarin een fout is gemaakt: maximaal 2 scorepunten toekennen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-kreukelzone-antw9.png"
+        ]
+      },
+      {
+        "title": "Kreukelzone",
+        "question_number": 10,
+        "answer_text": "uitkomst: R1 = 3,7 · 10³ Ω\n\nvoorbeeld van een antwoord:\nBij een kracht van 15 N is Usensor gelijk aan 3,0 V.\nEr geldt:\nIR1 = IR2 = Usensor/R2 = 3,0/5,6·10³ = 5,36 · 10⁻⁴ A.\nUR1 = 5,0 − 3,0 = 2,0 V.\nR1 = U1/I1 = 2,0/5,36·10⁻⁴ = 3,7 · 10³ Ω.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bepalen van Usensor (met een marge van 0,05 V)"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van U = IR"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat geldt: 5,0 = UR1 + UR2 en IR1 = IR2"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-kreukelzone-antw10.png"
+        ]
+      },
+      {
+        "title": "Kreukelzone",
+        "question_number": 11,
+        "answer_text": "Als de krachtgevoelige weerstand R1 toeneemt, neemt de spanning over deze weerstand R1 toe.\nDe sensorspanning Usensor over weerstand R2 neemt dan af.\nOm de sensorspanning Usensor op 0 V uit te laten komen moet de krachtgevoelige weerstand R1 oneindig groot worden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste zin correct"
+          },
+          {
+            "points": 1,
+            "description": "tweede en derde zin consequent met de eerste zin"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-kreukelzone-antw11.png"
+        ]
+      },
+      {
+        "title": "Kreukelzone",
+        "question_number": 12,
+        "answer_text": "uitkomst: UA = 0,5 V\n\nvoorbeeld van een antwoord:\n– [foto van het karretje op de helling met krachtenvectoren F en Fz]\n– Voor de zwaartekracht geldt: Fz = mg = 0,26 · 9,81 = 2,55 N.\nUit de lengte van de vector Fz kan de schaal bepaald worden:\n1 cm ≙ 0,5 N.\nUit de lengte van de vector F volgt: F = 0,6 N.\nDe bijpassende waarde voor UA kan bepaald worden uit het diagram: UA = 0,5 V.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "construeren van F parallel aan de helling"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van Fz = mg"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van de schaalfactor"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van de waarde van F binnen het bereik 0,50 N ≤ F ≤ 0,70 N"
+          },
+          {
+            "points": 1,
+            "description": "consequent aflezen van UA (met een marge van 0,1 V)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-kreukelzone-antw12.png"
+        ]
+      },
+      {
+        "title": "Kreukelzone",
+        "question_number": 13,
+        "answer_text": "uitkomst: Ek = 0,29 J (0,20 J ≤ Ek ≤ 0,36 J)\n\nvoorbeeld van een antwoord:\n[grafiek van x tegen t met raaklijn]\nDe snelheid vlak voor de eerste botsing is te bepalen met een raaklijn aan de grafiek op t = 0,70 s.\nHieruit volgt: v = (Δx/Δt)raaklijn = 0,70/(0,82−0,35) = 1,49 m s⁻¹.\nVoor de kinetische energie geldt: Ek = ½mv² = ½ · 0,26 · 1,49² = 0,29 J.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "tekenen van een raaklijn aan de grafiek/aangeven van een recht deel van de grafiek"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van v = (Δx/Δt)raaklijn voor een tijdstip vlak voor de eerste botsing"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van Ek = ½mv²"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-kreukelzone-antw13.png"
+        ]
+      },
+      {
+        "title": "Kreukelzone",
+        "question_number": 14,
+        "answer_text": "uitkomst: E = 0,110 J (met een marge van 0,002 J)\n\nvoorbeeld van een antwoord:\nZonder kreukelzone heeft de sensor een arbeid verricht van\n(0,5020−0,4800)/2 · 24,0 = 0,264 J.\nMet kreukelzone heeft de sensor een arbeid verricht van\n(0,5080−0,4800)/2 · 11,0 = 0,154 J.\nDe kreukelzone heeft 0,264 − 0,154 = 0,110 J energie geabsorbeerd.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "toepassen van een juiste methode om de oppervlakte onder een grafiek te bepalen"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat Ekreukelzone = Wzonder − Wmet"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": "Als een kandidaat voor de botsing zonder kreukelzone de (foutieve) uitkomst gebruikt van vraag 13: dit niet aanrekenen.\nToelichting:\nDe grafieken zijn op vier decimalen af te lezen. Hieruit volgt dat een eindantwoord in drie significante cijfers terecht is. Als een leerling de afgelezen waardes in minder dan vier cijfers heeft genoteerd, kan dit wel alle scorepunten opleveren.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-kreukelzone-antw14.png"
+        ]
+      },
+      {
+        "title": "Kreukelzone",
+        "question_number": 15,
+        "answer_text": "Conclusie Jeroen | juist/onjuist\nDe afgelegde afstand is tijdens een botsing met kreukelzone groter dan tijdens een botsing met hetzelfde snelheidsverschil zonder kreukelzone. | juist\nDe tijdsduur van een botsing met kreukelzone is even lang als de tijdsduur van een botsing met hetzelfde snelheidsverschil zonder kreukelzone. | onjuist\nDe maximale kracht op het karretje is tijdens een botsing met kreukelzone gelijk aan de maximale kracht op het karretje tijdens een botsing met hetzelfde snelheidsverschil zonder kreukelzone. | onjuist",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien drie antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien twee antwoorden juist"
+          },
+          {
+            "points": 0,
+            "description": "indien één of geen antwoord juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-kreukelzone-antw15.png"
+        ]
+      },
+      {
+        "title": "Ocarina",
+        "question_number": 16,
+        "answer_text": "tkomst: f = 6,3 · 10² Hz (met een marge van 0,1 · 10² Hz)\n\nvoorbeeld van een antwoord:\nEr zijn 17 trillingen in 27 ms. Hieruit volgt:\nf = 1/T = 1/(27·10⁻³/17) = 6,3 · 10² Hz.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van f = 1/T en T = benodigde tijd/aantal trillingen"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-ocarina-antw16.png"
+        ]
+      },
+      {
+        "title": "Ocarina",
+        "question_number": 17,
+        "answer_text": "uitkomst: C = 1,5 · 10² N m⁻¹\n\nvoorbeeld van een antwoord:\nVoor de massa van de lucht in de hals geldt:\nm = ρV = 1,29 · 1,9 · 10⁻⁵ = 2,45 · 10⁻⁵ kg.\nHieruit volgt:\nT = 2π√(m/C) → 2,5 · 10⁻³ = 2π√(2,45·10⁻⁵/C) → C = 1,5 · 10² N m⁻¹.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van T = 2π√(m/C)"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van ρ = m/V met opzoeken van ρlucht"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-ocarina-antw17.png"
+        ]
+      },
+      {
+        "title": "Ocarina",
+        "question_number": 18,
+        "answer_text": "A uitkomst: f = 2 · 10³ Hz\n\nvoorbeeld van een antwoord:\n– Het instrument in figuur 2 heeft ongeveer dezelfde lengte als een hand, dus ℓ = λ = 15 cm. Hieruit volgt:\nf = v/λ = 343/0,15 = 2 · 10³ Hz.\n– De golflengte kan ook groter zijn dan de lengte van het instrument. Uit v = λf volgt dat (bij gelijke geluidssnelheid) een grotere golflengte een lagere frequentie oplevert. Het is dus de hoogste toon die de ocarina kan produceren.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "beredeneerd schatten van de lengte van het instrument tussen 5 en 20 cm"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van v = fλ met v binnen het bereik 300 ms⁻¹ ≤ v ≤ 400 ms⁻¹"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat als de golflengte groter wordt, de frequentie kleiner wordt"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-ocarina-antw18.png"
+        ]
+      },
+      {
+        "title": "Ocarina",
+        "question_number": 19,
+        "answer_text": "Voor vraag 19 moeten altijd alle scorepunten worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.\n\nToelichting: Er kan uit de tekst niet opgemaakt worden of A verandert tijdens het afbakken",
+        "scoring_steps": [
+          {
+            "points": 4,
+            "description": "alle scorepunten altijd toekennen, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-ocarina-antw19.png"
+        ]
+      },
+      {
+        "title": "Koffiepercolator",
+        "question_number": 20,
+        "answer_text": "voorbeeld van een antwoord:\n\nVoor de stroomsterkte door de percolator geldt:\nI = P/U = 1,5·10³/230 = 6,5 A.\nDeze stroom is hoger dan de 4,4 A die door het opgerolde verlengsnoer mag, dus het verlengsnoer moet afgerold worden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van P = UI"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de benodigde stroomsterkte voor de percolator vergeleken moet worden met 4,4 A"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-koffiepercolator-antw20.png"
+        ]
+      },
+      {
+        "title": "Koffiepercolator",
+        "question_number": 21,
+        "answer_text": "uitkomst: η = 0,44 (=44%) (met een marge van 3%)\n\nvoorbeeld van een antwoord:\nVoor de warmte die de koffie heeft opgenomen, geldt:\nQ = cmΔT = 4,18 · 10³ · 3,0 · (94−15) = 9,91 · 10⁵ J.\nVoor de elektrische energie die de percolator heeft opgenomen, geldt:\nE = Pt = 1,5 · 10³ · 25 · 60 = 2,25 · 10⁶ J.\nVoor het rendement volgt:\nη = Enuttig/Ein = Q/Ee = 9,91·10⁵/2,25·10⁶ = 0,44 (= 44%).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van Q = cmΔT met opzoeken van cwater"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van E = Pt"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van η = Enuttig/Ein"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-koffiepercolator-antw21.png"
+        ]
+      },
+      {
+        "title": "Koffiepercolator",
+        "question_number": 22,
+        "answer_text": "| Pelektrisch > Pverlies | Pelektrisch = Pverlies | Pelektrisch < Pverlies\nOp t = 10 min geldt: | X | |\nOp t = 100 min geldt: | | | X\nOp t = 500 min geldt: | | X |",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "indien drie antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien twee antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien één of geen antwoord juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-koffiepercolator-antw22.png"
+        ]
+      },
+      {
+        "title": "Koffiepercolator",
+        "question_number": 23,
+        "answer_text": "voorbeeld van een antwoord:\n– Voor een groot elektrisch vermogen is een grote stroomsterkte nodig. Voor een grote stroomsterkte moet de totale weerstand klein zijn.\n– (Om tijdens fase I een kleine totale weerstand/grote stroomsterkte te krijgen moet de vervangingsweerstand van R2, R3 en S zo klein mogelijk zijn.) Schakelaar S moet gesloten zijn tijdens fase I.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat voor een groot elektrisch vermogen een grote stroomsterkte nodig is"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie over de grootte van de totale weerstand"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie over de stand van schakelaar S tijdens fase I"
+          }
+        ],
+        "grading_note": "Als voor de uitleg gebruik is gemaakt van een berekening waarin een fout is gemaakt: maximaal 2 scorepunten toekennen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-koffiepercolator-antw23.png"
+        ]
+      },
+      {
+        "title": "Koffiepercolator",
+        "question_number": 24,
+        "answer_text": "geleiding",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "geleiding"
+          }
+        ],
+        "grading_note": "Als (ook) straling of stroming is genoemd: geen scorepunt toekennen",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-ii-koffiepercolator-antw24.png"
+        ]
+      }
+    ]
+  }
+}
