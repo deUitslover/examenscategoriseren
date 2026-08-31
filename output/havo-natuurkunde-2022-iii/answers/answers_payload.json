@@ -1,0 +1,629 @@
+{
+  "payload": {
+    "subject_name": "Natuurkunde",
+    "level": "HAVO",
+    "source": "HAVO Natuurkunde 2022-III",
+    "answers": [
+      {
+        "title": "Superaarde?",
+        "question_number": 1,
+        "answer_text": "maximumscore 3\nuitkomst: 3,2 · 10³ K\nvoorbeeld van een berekening:\nEr geldt: T = kw / λmax = 2,898·10⁻³ / 9,2·10⁻⁷ = 3,2 · 10³ K.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de hoogste temperatuur volgt uit de kleinste gemeten waarde voor λmax"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van λmax T = kw"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-superaarde-antw1.png"
+        ]
+      },
+      {
+        "title": "Superaarde?",
+        "question_number": 2,
+        "answer_text": "C",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "C"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-superaarde-antw2.png"
+        ]
+      },
+      {
+        "title": "Superaarde?",
+        "question_number": 3,
+        "answer_text": "maximumscore 3\nvoorbeeld van een berekening:\nVoor de oppervlakte van het cirkelvormige aanzicht van de planeet geldt:\nA_GJ1214b = 0,0150 · 6,487 · 10¹⁶ = 9,731 · 10¹⁴ m².\nHieruit volgt voor de straal r van GJ1214b:\nA_GJ1214b = πr² → r_GJ1214b = √(A_GJ1214b / π) = √(9,731·10¹⁴ / π) = 1,760 · 10⁷ m.\nHieruit volgt r_GJ1214b / r_aarde = 1,760·10⁷ / 6,371·10⁶ = 2,76",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "juist gebruik van de factor 0,0150"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van A = πr²"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat factor = r_GJ1214b / r_aarde en completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-superaarde-antw3.png"
+        ]
+      },
+      {
+        "title": "Superaarde?",
+        "question_number": 4,
+        "answer_text": "maximumscore 3\nuitkomst: g = 8,38 m s⁻²\nvoorbeeld van een antwoord:\n– Fz = Fg → mg = G·mM/r² → g = GM/r².\n– Er geldt:\ng_GJ1214b = G·M_GJ1214b / r_GJ1214b² = G·6,50M_aarde / (2,76r_aarde)² =\n6,674 · 10⁻¹¹ · 6,50 · 5,972 · 10²⁴ / (2,76 · 6,371 · 10⁶)² = 8,38 ms⁻².",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat mg = G·mM/r²"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat g_GJ1214b = G·6,50M_aarde / (2,76r_aarde)²"
+          },
+          {
+            "points": 1,
+            "description": "opzoeken van waardes voor G en M_aarde of inzicht g_GJ1214b = 6,50/2,76² g_aarde"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de afleiding en de berekening en significantie"
+          }
+        ],
+        "grading_note": "Afhankelijk van de gekozen methode volgt voor de uitkomst g = 8,37 m s⁻² of g = 8,38 m s⁻².",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-superaarde-antw4.png"
+        ]
+      },
+      {
+        "title": "Superaarde?",
+        "question_number": 5,
+        "answer_text": "E",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "E"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-superaarde-antw5.png"
+        ]
+      },
+      {
+        "title": "Superaarde?",
+        "question_number": 6,
+        "answer_text": "maximumscore 3\nvoorbeeld van een antwoord:\nmethode 1\nUranus is 86,8·10²⁴ / 5,972·10²⁴ = 14,5 × zo zwaar als de aarde.\nGJ1214b valt met 6,5M_aarde dus binnen de kwalificatie voor superaarde.\n\nof\n\nmethode 2\nExoplaneet GJ1214b heeft een massa van 6,50 · 5,972 · 10²⁴ = 38,8 · 10²⁴ kg. (Dit is groter dan de massa van de aarde). De massa van Uranus is 86,8 · 10²⁴ kg en daarmee groter dan de massa van GJ1214b. GJ 1214 b valt dus binnen de kwalificatie voor superaarde.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de factor M_Uranus / M_aarde berekend moet worden (methode 1) / inzicht dat de massa van GJ1214b berekend moet worden (methode 2)"
+          },
+          {
+            "points": 1,
+            "description": "opzoeken M_Uranus"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": "Wanneer de kandidaat hier dezelfde foutieve waarde voor M_aarde gebruikt als in vraag 4: niet opnieuw aanrekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-superaarde-antw6.png"
+        ]
+      },
+      {
+        "title": "Concertharp",
+        "question_number": 7,
+        "answer_text": "maximumscore 2\ngolven in de snaar | transversale golven\ngolven in de lucht | longitudinale golven",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste rij juist"
+          },
+          {
+            "points": 1,
+            "description": "tweede rij juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-concertharp-antw7.png"
+        ]
+      },
+      {
+        "title": "Concertharp",
+        "question_number": 8,
+        "answer_text": "maximumscore 3\nuitkomst: v = 3,34 · 10² ms⁻¹\nvoorbeeld van een berekening:\nDe snaar trilt in de grondtoon, dus er geldt:\nℓ = ½λ → λ = 2 · 0,379 = 0,758 m.\nHieruit volgt:\nv = fλ = 440 · 0,758 = 3,34 · 10² ms⁻¹.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht ℓ = ½λ"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van v = fλ"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-concertharp-antw8.png"
+        ]
+      },
+      {
+        "title": "Concertharp",
+        "question_number": 9,
+        "answer_text": "maximumscore 2\n[tekening van een snaar met knopen K en buiken B, van boven naar beneden: K, B, K, B, K, B, K — een knoop aan beide uiteinden]",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een knoop aan beide uiteindes van de snaar"
+          },
+          {
+            "points": 1,
+            "description": "resterende patroon van knopen en buiken correct"
+          }
+        ],
+        "grading_note": "Wanneer het patroon alleen is getekend zonder aangeven van knopen K en buiken B: maximaal 1 punt toekennen. Wanneer de knopen en buiken niet gelijkmatig verdeeld zijn: dit niet aanrekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-concertharp-antw9.png"
+        ]
+      },
+      {
+        "title": "Concertharp",
+        "question_number": 10,
+        "answer_text": "D",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "D"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-concertharp-antw10.png"
+        ]
+      },
+      {
+        "title": "Concertharp",
+        "question_number": 11,
+        "answer_text": "maximumscore 2\nvoorbeeld van een antwoord:\nDoor het intrappen van het pedaal wordt de trillende lengte ℓ van de snaar (en dus de bijpassende golflengte λ) korter. Bij gelijke golfsnelheid v wordt de frequentie f van de grondtoon dan hoger. De toon klinkt dan hoger.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat lengte ℓ korter wordt"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie over de hoogte van de toon"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-concertharp-antw11.png"
+        ]
+      },
+      {
+        "title": "Concertharp",
+        "question_number": 12,
+        "answer_text": "maximumscore 4\nuitkomst: f = 2,2 · 10² Hz (met een marge van 0,1 · 10² Hz)\nvoorbeeld van een bepaling:\n– Er zijn 4,0 trillingen gemaakt in 9,2 · 2,0 · 10⁻³ = 0,0184 s. Hieruit volgt:\nT = 0,0184 / 4,0 = 4,6 · 10⁻³ → f = 1/T = 1 / 4,6 · 10⁻³ = 2,2 · 10² Hz\n\nvoorbeeld van een antwoord:\n– Op het scherm is geen zuivere sinus zichtbaar. Deze snaar brengt dus naast de grondtoon ook boventonen voort.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht T = benodigde tijd / aantal trillingen en gebruik f = 1/T"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat er geen sprake is van een sinusoïde"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-concertharp-antw12.png"
+        ]
+      },
+      {
+        "title": "Wielrennen met een motor",
+        "question_number": 13,
+        "answer_text": "maximumscore 4\nuitkomst: Δt = 33 s\nvoorbeeld van een berekening:\nDe arbeid die geleverd moet worden is gelijk aan\nW = Ez = mgh = 80 · 9,81 · 64 = 5,02 · 10⁴ J.\nZonder motor kost deze beklimming tz = W/P = 5,02·10⁴ / 4,0·10² = 126 s.\nMet motor kost deze beklimming tm = W/P = 5,02·10⁴ / (1,4·10² + 4,0·10²) = 93 s.\nDe tijdswinst is 126 − 93 = 33 s.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van Ez = mgh"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van W = Pt"
+          },
+          {
+            "points": 1,
+            "description": "inzicht Δt = tz − tm"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-wielrennen-met-een-motor-antw13.png"
+        ]
+      },
+      {
+        "title": "Wielrennen met een motor",
+        "question_number": 14,
+        "answer_text": "maximumscore 2\nvoorbeeld van een antwoord:\nNiCd levert maximaal 200 W kg⁻¹. De gegeven accu kan dus 200 · 0,80 = 1,6 · 10² W vermogen leveren. Dat is onvoldoende voor de gebruikte motor. Dus het maximaal vermogen per kilogram maakt NiCd onbruikbaar.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat moet gelden: Paccu ≥ Pmotor"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": "Bij een eventuele rekenfout de tweede deelscore niet toekennen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-wielrennen-met-een-motor-antw14.png"
+        ]
+      },
+      {
+        "title": "Wielrennen met een motor",
+        "question_number": 15,
+        "answer_text": "maximumscore 3\nuitkomst: t = 0,88 h (= 3,2 · 10³ s)\nvoorbeeld van een berekening:\nDe accu heeft een capaciteit van 220 · 0,80 = 176 Wh.\nDe motor kan hiermee gedurende t = E/P = 176 / 2,0·10² = 0,88 h (= 3,2 · 10³ s) van energie worden voorzien.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht capaciteit = m_accu · energiedichtheid"
+          },
+          {
+            "points": 1,
+            "description": "gebruik E = Pt"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-wielrennen-met-een-motor-antw15.png"
+        ]
+      },
+      {
+        "title": "Wielrennen met een motor",
+        "question_number": 16,
+        "answer_text": "maximumscore 5\nuitkomst: t = 4 s\nvoorbeeld van een berekening:\nDe aluminium buis heeft een massa van\nm = ρV = 2,70 · 10³ · 48 · 10⁻⁶ = 0,130 kg.\nDe motor levert 2,0 · 10² − 1,4 · 10² = 0,6 · 10² Js⁻¹ aan warmte.\nVoor de warmte die de aluminium buis moet opnemen geldt:\nBinas: Q = cmΔT = 0,88 · 10³ · 0,130 · 2,0 = 228 J.\nDe buis is daarmee in t = Q/P = 228 / 0,6·10² = 4 s opgewarmd.\n\nof\n\nSciencedata: Q = cmΔT = 0,897 · 10³ · 0,130 · 2,0 = 233 J.\nDe buis is daarmee in t = Q/P = 233 / 0,6·10² = 4 s opgewarmd.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van ρ = m/V met opzoeken ρ"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van Q = cmΔT met opzoeken c"
+          },
+          {
+            "points": 1,
+            "description": "inzicht Pwarmte = Pelektrisch − Pmechanisch"
+          },
+          {
+            "points": 1,
+            "description": "gebruik t = Q/P"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-wielrennen-met-een-motor-antw16.png"
+        ]
+      },
+      {
+        "title": "Wielrennen met een motor",
+        "question_number": 17,
+        "answer_text": "A",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "A"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-wielrennen-met-een-motor-antw17.png"
+        ]
+      },
+      {
+        "title": "Wielrennen met een motor",
+        "question_number": 18,
+        "answer_text": "maximumscore 3\nvoorbeeld van een antwoord:\nDe medewerker zou op één wedstrijddag een equivalente dosis ontvangen van D = E/m = 0,72/85 = 8,5 · 10⁻³ Gy = 8,5 mGy. Dat is al bijna de helft van de jaarlijks toegestane equivalente dosis van 20 mGy.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van D = E/m"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat D1dag en Dnorm in dezelfde orde van grootte liggen of dat Djaar veel groter is dan Dnorm"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-wielrennen-met-een-motor-antw18.png"
+        ]
+      },
+      {
+        "title": "Wielrennen met een motor",
+        "question_number": 19,
+        "answer_text": "maximumscore 2\nDe fiets is bestraald tijdens de scan.\nHet aluminium van het frame heeft een grotere halveringsdikte dan het materiaal waarvan de ketting is gemaakt.\nEen buis met motor zou donkerder op de foto te zien zijn geweest dan een buis zonder motor.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien drie antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien twee antwoorden juist"
+          },
+          {
+            "points": 0,
+            "description": "indien één of geen antwoord juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-wielrennen-met-een-motor-antw19.png"
+        ]
+      },
+      {
+        "title": "Marathon onder de twee uur",
+        "question_number": 20,
+        "answer_text": "maximumscore 3\nvoorbeeld van een antwoord:\nVoor het record uit 2014 geldt vgem = Δx/Δt = 42195/7377 = 5,720 ms⁻¹.\nIn het (s, t)-diagram is te zien dat deze snelheid constant is. Hieruit volgt het (v, t)-diagram van het record uit 2014.\n[grafiek: horizontale lijn op v = 5,720 ms⁻¹ van t = 0 tot t ≈ 2,05 h]",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van vgem = Δx/Δt"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening van de waarde van vgem"
+          },
+          {
+            "points": 1,
+            "description": "consequent tekenen van de (v, t)-grafiek met een horizontale lijn op v = vgem tot t = teind met een marge van 0,1 ms⁻¹ en 0,05 h"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-marathon-onder-de-twee-uur-antw20.png"
+        ]
+      },
+      {
+        "title": "Marathon onder de twee uur",
+        "question_number": 21,
+        "answer_text": "maximumscore 2\nIn het (v, t)-diagram voor de lopers die onder de twee uur wilden lopen:\n– is de looptijd korter dan die van het oude wereldrecord.\n– is de gemiddelde snelheid hoger dan die van het oude wereldrecord.\n– is de oppervlakte onder de grafiek gelijk aan de oppervlakte onder de (v, t)-grafiek van het oude wereldrecord.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien drie antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien twee antwoorden juist"
+          },
+          {
+            "points": 0,
+            "description": "indien één of geen antwoord juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-marathon-onder-de-twee-uur-antw21.png"
+        ]
+      },
+      {
+        "title": "Marathon onder de twee uur",
+        "question_number": 22,
+        "answer_text": "maximumscore 2\nvoorbeeld van een antwoord:\nBeide rechte stukken zijn even lang. De lagere snelheid tegen de wind in moet dus langer worden volgehouden dan de hogere snelheid met wind mee. De gemiddelde snelheid is dus niet het gemiddelde van de twee snelheden, maar deze valt lager uit. De looptijd voor een hele ronde wordt daarmee langer, Bert heeft gelijk.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat langer gelopen moet worden met de lagere snelheid en/of korter met de hogere snelheid"
+          },
+          {
+            "points": 1,
+            "description": "consequente keuze voor Bert"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-marathon-onder-de-twee-uur-antw22.png"
+        ]
+      },
+      {
+        "title": "Marathon onder de twee uur",
+        "question_number": 23,
+        "answer_text": "maximumscore 3\nvoorbeeld van een antwoord:\nEen haas heeft een grotere luchtweerstand Fw dan Kipchoge. De snelheid v van de haas is gelijk aan die van Kipchoge. Uit P = Fw·v volgt dat de haas dus met een groter vermogen loopt dan Kipchoge.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat geldt P = Fw·v"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat v voor een haas en Kipchoge hetzelfde is"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat Fw voor een haas groter is dan voor Kipchoge"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-marathon-onder-de-twee-uur-antw23.png"
+        ]
+      },
+      {
+        "title": "Marathon onder de twee uur",
+        "question_number": 24,
+        "answer_text": "maximumscore 4\nuitkomst: segment ea\nvoorbeeld van een antwoord:\nKipchoge had 25 s te veel nodig. In deze tijd heeft hij een afstand afgelegd van s = vt = 5,84 · 25 = 1,5 · 10² m.\nIeder segment van het circuit is 2,4·10³ / 5 = 4,8 · 10² m lang.\nKipchoge was dus (al) in segment ea.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van s = vt"
+          },
+          {
+            "points": 1,
+            "description": "berekenen van de lengte van één segment of inzicht dat s < s_segment"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "consequente keuze voor het segment"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-marathon-onder-de-twee-uur-antw24.png"
+        ]
+      },
+      {
+        "title": "Theaterverlichting",
+        "question_number": 25,
+        "answer_text": "maximumscore 4\nuitkomst: FII = 3,7 · 10² N\nvoorbeeld van een antwoord:\nVoor de hefboom geldt:\nF1r1 = F2r2 → FII = rZ/rII · Fz = 22/134 · (230 · 9,81) = 22/134 · 2256 = 3,7 · 10² N.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van F1r1 = F2r2"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van Fz = mg"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van rz en rII (met een marge van 2 mm)"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-theaterverlichting-antw25.png"
+        ]
+      },
+      {
+        "title": "Theaterverlichting",
+        "question_number": 26,
+        "answer_text": "maximumscore 2\nvoorbeeld van een antwoord:\nDe draad moet zo ver mogelijk uitrekken als de staalkabel uitrekt. De draad in de sensor moet dus in dezelfde richting staan als de staalkabel. Dat is het geval bij methode 1.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de draad moet mee rekken met het uitrekken van de staalkabel"
+          },
+          {
+            "points": 1,
+            "description": "consequente keuze voor methode 1"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-theaterverlichting-antw26.png"
+        ]
+      },
+      {
+        "title": "Theaterverlichting",
+        "question_number": 27,
+        "answer_text": "maximumscore 3\nvoorbeeld van een antwoord:\nDe weerstand van de rekstrook wordt groter met het uitrekken.\nIn een serieschakeling neemt de spanning over een weerstand toe met het toenemen van die weerstand (ten opzichte van de andere weerstand).\nDe spanning wordt dus gemeten over de rekstrook.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de weerstand van de rekstrook toeneemt met de rek"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat in een serieschakeling de spanningen zich verhouden zoals de weerstanden"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-theaterverlichting-antw27.png"
+        ]
+      },
+      {
+        "title": "Theaterverlichting",
+        "question_number": 28,
+        "answer_text": "maximumscore 4\nvoorbeeld van een bepaling:\nBij een sensorspanning van 2,520 V is ε = 0,081%. Voor de staalkabel geldt dan:\nBinas: σ = εE = 8,1 · 10⁻⁴ · 0,20 · 10¹² = 1,6 · 10⁸ Nm⁻².\nof\nSciencedata: σ = εE = 8,1 · 10⁻⁴ · 210 · 10⁹ = 1,7 · 10⁸ Nm⁻².\n\nDe hoogst belaste kabel zit nog onder de maximaal toegelaten belasting. Beide staalkabels zitten dus nog in het veilige gebied",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "aflezen van ε bij U = 2,520 V met een marge van 0,001%"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van E = σ/ε met opzoeken van E"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de hoogste elektrische spanning bepalend is voor de veilige belasting en consequente conclusie"
+          }
+        ],
+        "grading_note": "Als een kandidaat met Sciencedata heeft gerekend met E = 195 · 10⁹ Pa (roestvrij staal): dit niet aanrekenen. Als een kandidaat voor ε de waarde 0,08% noteert: dit niet aanrekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2022-iii-theaterverlichting-antw28.png"
+        ]
+      }
+    ]
+  }
+}

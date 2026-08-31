@@ -1,0 +1,592 @@
+{
+  "payload": {
+    "subject_name": "Natuurkunde",
+    "level": "HAVO",
+    "source": "HAVO Natuurkunde 2023-I",
+    "answers": [
+      {
+        "title": "Gasniveau meten",
+        "question_number": 1,
+        "answer_text": "maximumscore 4\nuitkomst: t = 5,6 h (= 2,0·10⁴ s)\nvoorbeeld van een antwoord:\nEr geldt: Ech = rₘm = 13,8 · 6,1 = 84,2 kWh.\nDe tijd dat de barbecue hier op kan branden is\nt = E/P = 84,2/15 = 5,6 h (= 2,0·10⁴ s).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van Ech = rₘm"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van E = Pt"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-gasniveau-meten-antw1.png"
+        ]
+      },
+      {
+        "title": "Gasniveau meten",
+        "question_number": 2,
+        "answer_text": "maximumscore 2\n• De faseovergang van vloeibaar naar gasvormig propaan in de fles heet verdampen\n• De faseovergang van waterdamp naar waterdruppels op de buitenzijde van de fles heet condenseren",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "verdampen"
+          },
+          {
+            "points": 1,
+            "description": "condenseren"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-gasniveau-meten-antw2.png"
+        ]
+      },
+      {
+        "title": "Gasniveau meten",
+        "question_number": 3,
+        "answer_text": "maximumscore 3\nvoorbeeld van een antwoord:\nIn figuur 2 is te zien dat de gemeten frequentie van de toon afneemt tijdens het vullen.\nEchter, in figuur 3 is te zien dat de golflengte van een staande golf in het propaangas zou afnemen tijdens het vullen.\nHoe korter de golflengte, hoe hoger de frequentie van het geluid moet worden (bij gelijkblijvende geluidssnelheid).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de frequentie afneemt bij het vullen van de fles"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat bij het vullen van de fles de golflengte kleiner zou worden"
+          },
+          {
+            "points": 1,
+            "description": "inzicht in het verband tussen frequentie en golflengte"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-gasniveau-meten-antw3.png"
+        ]
+      },
+      {
+        "title": "Gasniveau meten",
+        "question_number": 4,
+        "answer_text": "maximumscore 4\nvoorbeeld van een antwoord:\nEr passen 2 golflengtes op de omtrek van de fles.\nDus: λ = ℓ/2 = 0,72/2 = 0,36 m.\nHieruit volgt v = fλ = 1,50·10³ · 0,36 = 5,4·10² ms⁻¹.\nDe voortplantingssnelheid van geluid in staal is 5,1·10³ m s⁻¹ (Binas) of 5,79·10³ m s⁻¹ (Sciencedata).\nDe golfsnelheid is dus niet gelijk aan de voortplantingssnelheid in staal.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat λ = ℓ/2"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van v = fλ"
+          },
+          {
+            "points": 1,
+            "description": "opzoeken van v_staal"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-gasniveau-meten-antw4.png"
+        ]
+      },
+      {
+        "title": "Gasniveau meten",
+        "question_number": 5,
+        "answer_text": "maximumscore 3\nuitkomst: 45(%) (met een marge van 4%)\nvoorbeeld van een antwoord:\nEr worden 20,5 trillingen geproduceerd tussen 4,0 ms en 20,0 ms, dus\nT = (20,0·10⁻³ − 4,0·10⁻³)/20,5 = 7,80·10⁻⁴ s.\nVoor de frequentie geldt: f = 1/T = 1/7,80·10⁻⁴ = 1,28·10³ Hz.\nAflezen in de ijkgrafiek levert een vulstand van 45%.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat geldt T = benodigde tijd / aantal trillingen en gebruik van f = 1/T"
+          },
+          {
+            "points": 1,
+            "description": "aflezen van de bijbehorende vulstand"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-gasniveau-meten-antw5.png"
+        ]
+      },
+      {
+        "title": "Noodstopstrook",
+        "question_number": 6,
+        "answer_text": "maximumscore 3\nuitkomst: s = 1,6 · 10² m (met een marge van 0,2 · 10² m)\nvoorbeelden van een antwoord:\nmethode 1\nDe lengte komt overeen met de oppervlakte onder de grafiek tot t = 9,0 s.\nDe bepaling van de oppervlakte levert 31,5 grote hokjes.\nElk hokje komt overeen met 5,0 · 1,0 = 5,0 m.\nDus de lengte is 31,5 · 5,0 = 1,6 · 10² m.\n\nof\n\nmethode 2\nVoor de lengte geldt: s = vgem·t. De gemiddelde snelheid is te bepalen uit de grafiek. Dit levert 17,5 ms⁻¹.\nDus voor de lengte geldt: s = 17,5 · 9,0 = 1,6 · 10² ms⁻¹.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de lengte overeenkomt met de oppervlakte onder de grafiek (methode 1) / inzicht dat s = vgem·t (methode 2)"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van een correcte methode om de oppervlakte te bepalen (methode 1) / gebruik van een correcte methode om de gemiddelde snelheid te bepalen (methode 2)"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": "Aan een antwoord uitgaande van s = vbegin·t geen scorepunten toekennen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-noodstopstrook-antw6.png"
+        ]
+      },
+      {
+        "title": "Noodstopstrook",
+        "question_number": 7,
+        "answer_text": "maximumscore 5\nvoorbeeld van een antwoord:\nEr geldt: a = (Δv/Δt)raaklijn.\nDe vertraging is het grootste op het steilste deel van de grafiek, dus op t = 9,0 s.\n[grafiek met raaklijn getekend op t = 9,0 s]\nHieruit volgt: a = (Δv/Δt)raaklijn = (30,0−0)/(9,0−5,4) = 8,3 m s⁻².\nDit is gelijk aan 8,3/9,81 · g = 0,85 · g.\nDeze vertraging is lager dan de ontwerp-eis.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "tekenen van een raaklijn aan de grafiek op t = 9,0 s"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van a = (Δv/Δt)raaklijn"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van de versnelling tussen a = 6,5 ms⁻² en a = 10 m s⁻²"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat a/g of 0,90 · g moet worden berekend"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-noodstopstrook-antw7.png"
+        ]
+      },
+      {
+        "title": "Noodstopstrook",
+        "question_number": 8,
+        "answer_text": "maximumscore 2\n• de schets begint bij v = 25 m s⁻¹ en toont een in de tijd voortdurend toenemende vertraging en langere remtijd\n• uit de schets blijkt het inzicht dat de oppervlakte onder de grafiek groter is dan die van de oorspronkelijke grafiek",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "de schets begint bij v = 25 m s⁻¹ en toont een in de tijd voortdurend toenemende vertraging en langere remtijd"
+          },
+          {
+            "points": 1,
+            "description": "uit de schets blijkt het inzicht dat de oppervlakte onder de grafiek groter is dan die van de oorspronkelijke grafiek"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-noodstopstrook-antw8.png"
+        ]
+      },
+      {
+        "title": "Noodstopstrook",
+        "question_number": 9,
+        "answer_text": "maximumscore 3\nvoorbeeld van een antwoord:\n[constructie van Frem in situatie I: krachten vanuit twee bevestigingspunten naar het aangrijpingspunt, resultante Frem naar beneden]\n– In situatie II maken de spankrachten een kleinere hoek met elkaar. De resultante van deze krachten wordt daardoor groter. De remkracht Frem wordt dus groter als de vrachtwagen verder het net inrijdt, (net als bij het grind).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "constructie van Frem in situatie I"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat in situatie II de resultante groter is (of: construeren van Frem in situatie II)"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": "Als in situatie I alleen de hulplijnen zijn ingetekend, maar vector Frem is niet getekend, de eerste deelscore niet toekennen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-noodstopstrook-antw9.png"
+        ]
+      },
+      {
+        "title": "Noodstopstrook",
+        "question_number": 10,
+        "answer_text": "maximumscore 4\nvoorbeeld van een antwoord:\nVoor de spanning in de stalen band geldt:\nσ = F/A = 2,0·10⁴ / (5,0·10⁻² · 3,0·10⁻³) = 1,33·10⁸ Nm⁻².\nDe elasticiteitsmodulus van roestvrij staal is 0,20·10¹² Pa.\nDe relatieve rek in de kabel is dan gelijk aan ε = σ/E = 1,33·10⁸ / 0,20·10¹² = 6,67·10⁻⁴.\nDit komt overeen met een relatieve rek van 6,7·10⁻²%, dus veel minder dan 10%.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van σ = F/A"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat A = breedte band · dikte band"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van ε = σ/E met opzoeken van E"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": "Sciencedata geeft Ervs = 195·10⁹ Pa.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-noodstopstrook-antw10.png"
+        ]
+      },
+      {
+        "title": "Noodstopstrook",
+        "question_number": 11,
+        "answer_text": "maximumscore 2\nvoorbeeld van een antwoord:\nVoor de tweede wet van Newton geldt: Fres = ma. Vrachtwagens met een kleine massa m ondervinden dus een grote vertraging. Door de remkracht van het eerste net kleiner te maken, wordt voorkomen dat bij kleine vrachtwagens de vertraging boven de maximaal toegestane a komt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat uit de tweede wet van Newton volgt dat (bij gelijke Frem) vrachtwagens met een kleine massa een grotere vertraging ondervinden/ dat (bij een bepaalde amax) vrachtwagens met een kleine massa door een kleinere remkracht moeten worden afgeremd"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat minder trommels voor een kleinere Frem door het eerste vangnet zorgen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-noodstopstrook-antw11.png"
+        ]
+      },
+      {
+        "title": "Noodstopstrook",
+        "question_number": 12,
+        "answer_text": "maximumscore 2\nDe vrachtwagen heeft een kinetische energie van\nEk = ½mv² = ½ · 60·10³ · 24² = 1,73·10⁷ J.\nEén trommel kan een arbeid verrichten van\nW = FS = 2,0·10⁴ · 61 = 1,22·10⁶ J.\nHieruit volgt: ntrommels = 1,73·10⁷ / 1,22·10⁶ = 14,2. Dit is minder dan 16 trommels.\nDe drie netten kunnen de vrachtwagen stoppen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van Ek = ½mv²"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van W = Fs"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat ntrommels = Ek/Wtrommel"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-noodstopstrook-antw12.png"
+        ]
+      },
+      {
+        "title": "Kosmische explosie",
+        "question_number": 13,
+        "answer_text": "A",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "A"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-kosmische-explosie-antw13.png"
+        ]
+      },
+      {
+        "title": "Kosmische explosie",
+        "question_number": 14,
+        "answer_text": "maximumscore 5\nvoorbeeld van een antwoord:\nVoor de golflengte van de fotonen geldt:\nE = hf = hc/λ → λ = hc/E = (6,63·10⁻³⁴ · 3,00·10⁸) / (1,0 · 1,60·10⁻¹⁹) = 1,24·10⁻⁶ m.\nVoor de grootte die de lensdiameter van Hubble moet hebben om de twee sterren afzonderlijk te kunnen zien, geldt:\n1,22λ/D = d/ℓ → D = 1,22·λ·ℓ/d = (1,22 · 1,24·10⁻⁶ · 1,70·10¹⁹) / 4,18·10⁹ = 6,2·10³ m.\nDeze benodigde diameter is veel groter dan de echte diameter, dus Hubble kan de twee sterren niet afzonderlijk waarnemen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van E = hf en c = fλ"
+          },
+          {
+            "points": 1,
+            "description": "omrekenen van eV naar J"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 1,22λ/D = d/ℓ"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": "Als een kandidaat voor het bepalen van de golflengte gebruik maakt van Binas tabel 19B of Sciencedata tabel 5.1c, kunnen de eerste en tweede deelscore worden toegekend.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-kosmische-explosie-antw14.png"
+        ]
+      },
+      {
+        "title": "Kosmische explosie",
+        "question_number": 15,
+        "answer_text": "maximumscore 2\nvoorbeeld van een antwoord:\nUit het verband d³/T² = k volgt dat wanneer de waarde voor d kleiner wordt (en k constant is) de waarde voor T ook afneemt. Als T afneemt volgt (uit f = 1/T) dat de waargenomen frequentie toeneemt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat uit formule (2) volgt dat de omlooptijd T afneemt"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-kosmische-explosie-antw15.png"
+        ]
+      },
+      {
+        "title": "Kosmische explosie",
+        "question_number": 16,
+        "answer_text": "maximumscore 4\nuitkomst: periode 2\nvoorbeeld van een antwoord:\nmethode 1\nEr geldt: Δt = S/v = s/c = 1,70·10¹⁹ / 2,998·10⁸ = 5,67·10¹⁰ s.\nDit is 5,67·10¹⁰ / (365·24·3600) = 1798 jaar.\nDe samensmelting zou dan volgens de voorspelling hebben plaatsgevonden rond het jaar 2023-1798 = 225, dus in periode 2.\n\nof\n\nmethode 2\nDe afstand tot de dubbelster kan uitgedrukt worden in lichtjaar. Hiervoor geldt:\ns = 1,70·10¹⁹ / 9,461·10¹⁵ = 1797 lichtjaar. Het licht is dus 1797 jaar onderweg geweest.\nDe samensmelting heeft dan volgens de voorspelling plaatsgevonden rond het jaar 2023 − 1797 = 226, dus in periode 2.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van s = vt met v = c (methode 1) / inzicht dat Slichtjaar = Sm / 9,461·10¹⁵ (methode 2)"
+          },
+          {
+            "points": 1,
+            "description": "omrekenen van seconde naar jaar (methode 1) / inzicht dat licht in een jaar een afstand aflegt van een lichtjaar (methode 2)"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat geldt: jaartal = 2023 − t"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-kosmische-explosie-antw16.png"
+        ]
+      },
+      {
+        "title": "Radioactieve rook",
+        "question_number": 17,
+        "answer_text": "maximumscore 2\nvoorbeeld van een antwoord:\nDe halveringstijden van alle isotopen tot aan Pb-210 zijn veel korter dan twee jaar, terwijl Pb-210 zelf een heel lange halveringstijd heeft. Die isotopen vervallen dus snel tot Pb-210, terwijl dat zelf maar langzaam vervalt in de volgende isotoop.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat het verval tot aan Pb-210 snel gaat door relatief korte halveringstijden"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat Pb-210 langzaam vervalt door een relatief lange halveringstijd"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-radioactieve-rook-antw17.png"
+        ]
+      },
+      {
+        "title": "Radioactieve rook",
+        "question_number": 18,
+        "answer_text": "maximumscore 3\nuitkomst: massapercentage Po-210 = 8·10⁻¹⁵ (%)\nvoorbeeld van een antwoord:\nDe massa van Po-210 in een sigaret is\nmtotaal Po = N · mPo = 2·10⁵ · 210 · 1,66·10⁻²⁷ = 7,0·10⁻²⁰ kg.\nmtotaal Po / mtotaal = 7,0·10⁻²⁰ / 0,90·10⁻³ = 8·10⁻¹⁷. Dit is 8·10⁻¹⁵%.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat mtotaal Po = N · mPo"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de verhouding mtotaal Po / mtotaal gevraagd wordt"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-radioactieve-rook-antw18.png"
+        ]
+      },
+      {
+        "title": "Radioactieve rook",
+        "question_number": 19,
+        "answer_text": "maximumscore 3\nVoorbeeld van een antwoord:\nVolgens formule (1) is Po-210 in de longen zo gevaarlijk omdat:\n1 De α-straling een grote weegfactor heeft.\n2 De bestraalde massa klein is.\n3 De tijd van het bestralen lang is.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat α-straling een (relatief) grote weegfactor wR heeft"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat (door de hotspots) de bestraalde massa m klein is"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat (door het vastplakken) de tijd van het bestralen Δt lang is"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-radioactieve-rook-antw19.png"
+        ]
+      },
+      {
+        "title": "Zelfbouw zaklamp",
+        "question_number": 20,
+        "answer_text": "maximumscore 4\nuitkomst: 3 accu's\nvoorbeeld van een antwoord:\n− Voor de spanning over de led geldt:\nU = P/I = 1,0·10² / 3,0 = 33,3 V.\nOm deze spanning te bereiken zijn 33,3/11,1 = 3 accu's nodig.\n− De accu's staan in serie.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van P = UI"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat naccu's = Uled / Uaccu"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "keuze voor serie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-zelfbouw-zaklamp-antw20.png"
+        ]
+      },
+      {
+        "title": "Zelfbouw zaklamp",
+        "question_number": 21,
+        "answer_text": "maximumscore 4\nuitkomst: t = 13 (minuten)\nvoorbeeld van een antwoord:\nVoor de tijd dat het accupakket 1 led kan voeden geldt:\ntled = capaciteit / Iled = 5,0/3,0 = 1,67 h.\nVoor 8 leds geldt:\nt = tled/8 = 1,67/8 = 0,21 h.\nDit komt overeen met 0,21 · 60 = 13 minuten.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat t = capaciteit / I"
+          },
+          {
+            "points": 1,
+            "description": "toepassen van de factor 8"
+          },
+          {
+            "points": 1,
+            "description": "omrekenen van uren naar minuten"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-zelfbouw-zaklamp-antw21.png"
+        ]
+      },
+      {
+        "title": "Zelfbouw zaklamp",
+        "question_number": 22,
+        "answer_text": "maximumscore 5\nuitkomst: t = 32 s\nvoorbeeld van een antwoord:\nVoor de warmte die het water in één koelblok heeft opgenomen zodra het kookt geldt:\nQ = cmΔT = 4,18·10³ · 25·10⁻³ · (100 − 20) = 8,36·10³ J.\nDe 4 leds op een koelblok leveren per seconde een warmte van:\nPwarmte = 4 · (1,00 − 0,35) · 1,0·10² = 2,60·10² W.\nVoor de tijd geldt:\nt = Q/Pwarmte = 8,36·10³ / 2,60·10² = 32 s.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van Q = cmΔT met opzoeken van c"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat Pwarmte = (1 − η) · Pled"
+          },
+          {
+            "points": 1,
+            "description": "toepassen van factor 4"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat t = Q/P"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-zelfbouw-zaklamp-antw22.png"
+        ]
+      },
+      {
+        "title": "Zelfbouw zaklamp",
+        "question_number": 23,
+        "answer_text": "maximumscore 2\nplek | situatie | belangrijkste vorm van warmtetransport\nI | warmtetransport door de wand van het koelblok | geleiding\nII | warmtetransport van koelblok naar radiator | stroming\nIII | warmtetransport van de radiator naar de omgeving door het draaien van de ventilator | stroming",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien drie antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien twee antwoorden juist"
+          },
+          {
+            "points": 0,
+            "description": "indien een of geen antwoord juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-zelfbouw-zaklamp-antw23.png"
+        ]
+      },
+      {
+        "title": "Zelfbouw zaklamp",
+        "question_number": 24,
+        "answer_text": "B",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "B"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-zelfbouw-zaklamp-antw24.png"
+        ]
+      },
+      {
+        "title": "Zelfbouw zaklamp",
+        "question_number": 25,
+        "answer_text": "B",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "B"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-i-zelfbouw-zaklamp-antw25.png"
+        ]
+      }
+    ]
+  }
+}
