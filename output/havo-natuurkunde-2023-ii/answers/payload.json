@@ -1,0 +1,578 @@
+{
+  "payload": {
+    "subject_name": "Natuurkunde",
+    "level": "HAVO",
+    "source": "HAVO Natuurkunde 2023-II",
+    "answers": [
+      {
+        "title": "Vleermuisdetector",
+        "question_number": 1,
+        "answer_text": "voorbeeld van een antwoord: Uit het (u,t)-diagram blijkt dat de periode van de trilling aan het einde van de puls groter wordt en de frequentie dus afneemt. Uit het sonogram volgt dat alleen de dwergvleermuis een afnemende frequentie heeft.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat in het (u,t)-diagram de frequentie afneemt"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-vleermuisdetector-antw1.png"
+        ]
+      },
+      {
+        "title": "Vleermuisdetector",
+        "question_number": 2,
+        "answer_text": "voorbeeld van een antwoord: Uit de opgemeten lengte van de luchtkolom en de schaal volgt: ℓ = 5,1 ⋅ 500 ⋅ 10⁻⁶ = 2,55 ⋅ 10⁻³ m. 𝜆 = 4ℓ = 4 ⋅ 2,55 ⋅ 10⁻³ = 1,02 ⋅ 10⁻² m. 𝑓 = 𝑣/𝜆 = 343/(1,02 ⋅ 10⁻²) = 34 ⋅ 10³ Hz. (Dit is hoger dan de hoogste toon die een mens kan horen.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "aangeven van het juiste patroon van B en K"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van de echte lengte van de luchtkolom (met een marge van 0,2 ⋅ 10⁻³ m)"
+          },
+          {
+            "points": 1,
+            "description": "inzicht in het verband tussen 𝜆 en ℓ"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝑓 = 𝑣/𝜆 met opzoeken van 𝑣geluid"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": "Wanneer het patroon alleen is getekend zonder aangeven van knopen K en buiken B, vervalt de eerste deelscore. De derde deelscore kan alleen worden toegekend als deze consequent is met het patroon.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-vleermuisdetector-antw2.png"
+        ]
+      },
+      {
+        "title": "Vleermuisdetector",
+        "question_number": 3,
+        "answer_text": "uitkomst: 𝑓 = 14 ⋅ 10³ Hz en 𝑅 = 5,9. voorbeeld van een antwoord: Uit het (𝑢,𝑡)-diagram van de detector volgt: 𝑇 = (212 ⋅ 10⁻⁶)/3 = 7,1 ⋅ 10⁻⁵ s → 𝑓TE detector = 1/(7,1 ⋅ 10⁻⁵) = 14 ⋅ 10³ Hz. Uit formule (1) volgt: 𝑅 = 𝑓vleermuis/𝑓TE detector = (83 ⋅ 10³)/(14 ⋅ 10³) = 5,9.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bepalen van de trillingstijd (met een marge van 0,1 ⋅ 10⁻⁵ s)"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝑓 = 1/𝑇"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van formule (1) en completeren van de bepalingen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-vleermuisdetector-antw3.png"
+        ]
+      },
+      {
+        "title": "Vleermuisdetector",
+        "question_number": 4,
+        "answer_text": "uitkomst: Δ𝑓instel = 25 kHz (met een marge van 1 kHz). voorbeeld van een antwoord: Er geldt: Δ𝑓instel = 𝑓vleermuis − 𝑓HD detector = 35 − 10 = 25 kHz.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat het verschil tussen de twee weergeven frequentiegebieden bepaald moet worden"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-vleermuisdetector-antw4.png"
+        ]
+      },
+      {
+        "title": "Vleermuisdetector",
+        "question_number": 5,
+        "answer_text": "Het geluid van de dwergvleermuis bevat frequenties van 29 kHz tot 90 kHz. Het verschil tussen de hoogste en laagste frequentie van de roep van de dwergvleermuis is groter dan het verschil tussen de hoogste en laagste frequentie van het hoorbare gebied. Om de roep van de dwergvleermuis volledig hoorbaar te maken, kunnen de frequenties dus verkleind worden. Om de roep van de dwergvleermuis volledig hoorbaar te maken is alleen de TE-detector geschikt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bepalen van de frequenties (met een marge van 2 kHz)"
+          },
+          {
+            "points": 1,
+            "description": "tweede zin consequent met het bereik"
+          },
+          {
+            "points": 1,
+            "description": "derde en vierde zin consequent met de tweede"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-vleermuisdetector-antw5.png"
+        ]
+      },
+      {
+        "title": "Noodstroom voor de Arena",
+        "question_number": 6,
+        "answer_text": "uitkomst: 13(%). voorbeeld van een antwoord: De zonnepanelen leveren in totaal een elektrisch vermogen van: 𝑃 = 7,20 ⋅ 10³ ⋅ 7,5 ⋅ 10² ⋅ 0,18 = 9,72 ⋅ 10⁵ W = 972 kW. Per jaar leveren de panelen dan een energie van: 𝐸 = 𝑃𝑡 = 972 ⋅ 1,2 ⋅ 10³ = 1,17 ⋅ 10⁶ kWh. Dit komt overeen met (1,17 ⋅ 10⁶)/(9,0 ⋅ 10⁶) ⋅ 100 = 13%.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑃zonnepanelen = 𝐴zonnepanelen ⋅ 𝐼zon"
+          },
+          {
+            "points": 1,
+            "description": "juist gebruik van de factor 0,18"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝐸 = 𝑃𝑡"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat percentage = (𝐸zonnepanelen/𝐸totaal) ⋅ 100"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-noodstroom-voor-de-arena-antw6.png"
+        ]
+      },
+      {
+        "title": "Noodstroom voor de Arena",
+        "question_number": 7,
+        "answer_text": "uitkomst: 𝑉 = 1,3 ⋅ 10² (L). voorbeeld van een antwoord: 𝐸ch = 𝑟𝑉𝑉 → 𝑉 = 𝐸ch/𝑟𝑉 = (1,3 ⋅ 10³ ⋅ 3,6 ⋅ 10⁶)/(36 ⋅ 10⁹) = 0,13 m² = 1,3 ⋅ 10² L. Er is nog geen rekening gehouden met het rendement van de generatoren/er gaat energie verloren in andere vormen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝐸ch = 𝑟𝑉𝑉"
+          },
+          {
+            "points": 1,
+            "description": "omrekenen van kWh naar J"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "geven van een correcte reden voor het hogere dieselverbruik"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-noodstroom-voor-de-arena-antw7.png"
+        ]
+      },
+      {
+        "title": "Noodstroom voor de Arena",
+        "question_number": 8,
+        "answer_text": "De totale weerstand van de schakeling (zie figuur 2) neemt toe wanneer de accu wordt overgeplaatst van de auto naar de superbatterij. De stroomsterkte in deze schakeling neemt dan af. De spanning over Rint in deze schakeling neemt dan af. De warmteontwikkeling in Rint neemt dan af.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste zin goed"
+          },
+          {
+            "points": 1,
+            "description": "tweede zin consequent met de eerste zin"
+          },
+          {
+            "points": 1,
+            "description": "derde en vierde zin consequent met de tweede zin"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-noodstroom-voor-de-arena-antw8.png"
+        ]
+      },
+      {
+        "title": "Noodstroom voor de Arena",
+        "question_number": 9,
+        "answer_text": "uitkomsten: 𝐸accu = 18 kWh en 𝑛 = 1,6 ⋅ 10². voorbeelden van antwoorden: Er geldt: 3,0 V ⋅ 31 Ah = 93 Wh = 0,093 kWh. Voor de autoaccu is de opslag dan gelijk aan 192 ⋅ 0,093 = 18 kWh. Voor de Arena zijn dan in totaal (2,8 ⋅ 10³)/18 = 1,6 ⋅ 10² accu's nodig.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat 𝐸cel = 𝑈 ⋅ 𝐼 ⋅ 𝑡"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝐸accu = 192 ⋅ 𝐸cel"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑛 = 𝐸Arena/𝐸accu"
+          },
+          {
+            "points": 1,
+            "description": "completeren van beide berekeningen"
+          }
+        ],
+        "grading_note": "Als een kandidaat de factor 192 niet of niet juist toepast, kan deelscore vier nog wel behaald worden.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-noodstroom-voor-de-arena-antw9.png"
+        ]
+      },
+      {
+        "title": "Caravanremmen",
+        "question_number": 10,
+        "answer_text": "uitkomst 𝐹spier = 6,9 ⋅ 10² N. voorbeeld van een antwoord: Uit de hefboomwet volgt: 𝐹1𝑟1 = 𝐹2𝑟2 → 3,5 ⋅ 10³ ⋅ 1,4 = 𝐹spier ⋅ 7,1 → 𝐹spier = 6,9 ⋅ 10² N.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "tekenen van beide armen"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝐹1𝑟1 = 𝐹2𝑟2"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van de lengte van beide getekende armen (met een marge van 2 mm)"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-caravanremmen-antw10.png"
+        ]
+      },
+      {
+        "title": "Caravanremmen",
+        "question_number": 11,
+        "answer_text": "uitkomst: 𝑑 = 3,3 ⋅ 10⁻³ m. voorbeeld van een antwoord: Uit het diagram volgt dat de kabel breekt bij een spanning 𝜎 = 410 ⋅ 10⁶ N m⁻². De staalkabel moet een doorsnede hebben met een oppervlakte 𝐴 = 𝐹/𝜎 = (3,5 ⋅ 10³)/(410 ⋅ 10⁶) = 8,5 ⋅ 10⁻⁶ m². De kabel heeft een diameter 𝑑 = √(4𝐴/𝜋) = √(4 ⋅ 8,5 ⋅ 10⁻⁶/𝜋) = 3,3 ⋅ 10⁻³ m.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat 𝜎 = 410 ⋅ 10⁶ N m⁻²"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝜎 = 𝐹/𝐴"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝐴 = ¼𝜋𝑑² of 𝐴 = 𝜋𝑟² met 𝑑 = 2𝑟"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-caravanremmen-antw11.png"
+        ]
+      },
+      {
+        "title": "Caravanremmen",
+        "question_number": 12,
+        "answer_text": "voorbeeld van een antwoord: De afstand is te bepalen door de oppervlakte onder de grafiek te bepalen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de oppervlakte onder de grafiek bepaald moet worden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-caravanremmen-antw12.png"
+        ]
+      },
+      {
+        "title": "Caravanremmen",
+        "question_number": 13,
+        "answer_text": "uitkomst: 𝐹 = 2,5 ⋅ 10³ N. voorbeeld van een antwoord: Uit de wet van behoud van arbeid en energie volgt: 𝐸tot,in = 𝐸tot,uit → 𝑚𝑔ℎ = 𝐹𝑆 → 𝐹 = (3,0 ⋅ 10³ ⋅ 9,81 ⋅ 370)/(4,3 ⋅ 10³) = 2,5 ⋅ 10³ N.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat 𝐸z = 𝑄 of 𝑊z + 𝑊rem = 0"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝐸z = 𝑚𝑔ℎ"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑄 = 𝐹𝑠 of 𝑊rem = −𝐹𝑠"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-caravanremmen-antw13.png"
+        ]
+      },
+      {
+        "title": "Caravanremmen",
+        "question_number": 14,
+        "answer_text": "uitkomst: 𝐹 = (−)2,7 ⋅ 10³ N. voorbeeld van een antwoord: Uit de helling van de grafiek tussen 550 s en 560 s volgt: 𝑎 = Δ𝑣/Δ𝑡 = (0−9,0)/(560−550) = (−)0,90 ms². Voor de remkracht geldt dan: 𝐹 = 𝑚𝑎 = 3,0 ⋅ 10³ ⋅ −0,90 = −2,7 ⋅ 10³ N.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝑎 = (Δ𝑣/Δ𝑡)raaklijn"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝐹 = 𝑚𝑎"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          }
+        ],
+        "grading_note": "Als een kandidaat rekent met 𝛥𝑣 = 9,0 𝑚𝑠⁻¹ en 𝛥𝑡 = 20 𝑠, dit goed rekenen. Toelichting: De gegevens in de stam van vraag 14 en in figuur 6 zijn niet met elkaar in overeenstemming. De vraag verwijst naar het bepalen met behulp van figuur 6. Uit die figuur blijkt dat er gedurende 10 s is afgeremd en niet gedurende de 20 s die de stam suggereert.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-caravanremmen-antw14.png"
+        ]
+      },
+      {
+        "title": "Caravanremmen",
+        "question_number": 15,
+        "answer_text": "uitkomst: 𝑃 = 1,4 ⋅ 10³ W. voorbeeld van een antwoord: De remmen hebben energie opgenomen in de vorm van warmte. Voor het opgewekte warmtevermogen geldt: 𝑃 = 𝐸/𝑡 = 𝑐𝑚Δ𝑇/𝑡 = (0,46 ⋅ 10³ ⋅ 5,2 ⋅ (175 − 120))/(545 − 450) = 1,4 ⋅ 10³ W. In werkelijkheid is er tijdens het remmen ook warmte afgestaan aan de omgeving.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝑃 = 𝐸/𝑡"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝑄 = 𝑐𝑚Δ𝑇 met opzoeken van 𝑐"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "significantie"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat er warmte is afgestaan aan de omgeving van de remmen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-caravanremmen-antw15.png"
+        ]
+      },
+      {
+        "title": "Aluminium",
+        "question_number": 16,
+        "answer_text": "uitkomst: 2,91:1,00. voorbeeld van een antwoord: IJzer heeft een dichtheid van 7,87 ⋅ 10³ kg m⁻³, aluminium een dichtheid van 2,70 ⋅ 10³ kg m⁻³. Hieruit volgt de verhouding 7,87 : 2,70 → 2,91 : 1,00. De treksterkte van aluminium is veel lager dan van ijzer.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "opzoeken van dichtheden van ijzer en aluminium"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de treksterkte van aluminium verschilt van die van ijzer"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-aluminium-antw16.png"
+        ]
+      },
+      {
+        "title": "Aluminium",
+        "question_number": 17,
+        "answer_text": "Bij een gegeven temperatuur van de elektronica hangt de hoeveelheid warmte die het koellichaam per seconde afstaat aan de omgeving af van de warmtegeleidingscoëfficiënt van het gebruikte materiaal. De waarde van deze stofeigenschap is voor aluminium kleiner dan voor koper. Een elektrisch onderdeel in een computer bereikt daardoor een lagere temperatuur als het wordt gekoeld met een koellichaam van koper.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste zin goed"
+          },
+          {
+            "points": 1,
+            "description": "tweede zin consequent met de eerste zin"
+          },
+          {
+            "points": 1,
+            "description": "derde zin consequent met de tweede zin"
+          }
+        ],
+        "grading_note": "Bij een fout in de eerste zin komt ook de derde deelscore te vervallen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-aluminium-antw17.png"
+        ]
+      },
+      {
+        "title": "Aluminium",
+        "question_number": 18,
+        "answer_text": "voorbeeld van een antwoord: De halveringsdikte van aluminium bij 50 keV is 0,70 cm. Hieruit volgt voor de doorgelaten intensiteit: 𝐼 = 𝐼₀ ⋅ (1/2)^(𝑑/𝑑½) = 𝐼₀ ⋅ (1/2)^(1,4/0,70) = 0,25 ⋅ 𝐼₀. Aluminium zou 25% van de straling doorlaten. Omdat er slechts 17% wordt doorgelaten, is het geen aluminium en moet het dus niet worden weggeblazen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝐼 = 𝐼₀ ⋅ (1/2)ⁿ en 𝑛 = 𝑑/𝑑½"
+          },
+          {
+            "points": 1,
+            "description": "opzoeken van 𝑑½ van aluminium bij 𝐸 = 50 keV"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-aluminium-antw18.png"
+        ]
+      },
+      {
+        "title": "Aluminium",
+        "question_number": 19,
+        "answer_text": "voorbeeld van een antwoord: De straling levert een energie van 𝐸 = 𝑃𝑡 = 15 ⋅ 10³ ⋅ 0,1 = 1,5 ⋅ 10³ J. Hiervan wordt 25% geabsorbeerd. Uit 𝐻 = 𝑤R𝐷 en 𝐷 = 𝐸/𝑚 volgt: 𝐻 = 𝑤R ⋅ 𝐸/𝑚 = 1 ⋅ (0,25 ⋅ 1,5 ⋅ 10³)/0,50 = 8 ⋅ 10² Sv. (Deze waarde ligt ver boven de jaarlijkse beschermingsnorm.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝐷 = 𝐸/𝑚 en 𝐻 = 𝑤R ⋅ 𝐷 met 𝑤R = 1"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝐸 = 𝑃𝑡"
+          },
+          {
+            "points": 1,
+            "description": "juist toepassen van de factor 0,25"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-aluminium-antw19.png"
+        ]
+      },
+      {
+        "title": "OSIRIS-REx",
+        "question_number": 20,
+        "answer_text": "voorbeeld van een antwoord: Op het oppervlak van Bennu geldt: 𝐹z = 𝐹g → 𝑚𝑔 = 𝐺𝑀𝑚/𝑟² → 𝑔 = (6,674 ⋅ 10⁻¹¹ ⋅ 7,329 ⋅ 10¹⁰)/(2,45 ⋅ 10²)² = 8,14 ⋅ 10⁻⁵ ms⁻². Dus: 𝑔/𝑔B = 9,81/(8,14 ⋅ 10⁻⁵) = 1,2 ⋅ 10⁵.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝐹g = 𝐺𝑀𝑚/𝑟² met opzoeken van 𝐺"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑔 = 𝐹g/𝑚"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-osiris-rex-antw20.png"
+        ]
+      },
+      {
+        "title": "OSIRIS-REx",
+        "question_number": 21,
+        "answer_text": "uitkomst: 𝐹v = 0,24 N (met een marge van 0,02 N). voorbeeld van een antwoord: Uit de constructie en de schaal volgt 𝐹v = (3,3 ⋅ 10⁻¹/3,6) ⋅ 2,6 = 0,24 N. Uit (de symmetrie in) figuur 2 volgt dat de gasstromen links en rechts even groot zijn, maar niet in dezelfde richting staan. De krachten in horizontale richting zijn links en rechts even groot, maar tegengesteld gericht. De nettokracht in horizontale richting (en dus de versnelling) is dan gelijk aan 0.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van een juiste methode om de kracht te ontbinden"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de horizontale krachten tegengesteld gericht zijn"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de nettokracht in horizontale richting gelijk is aan 0"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-osiris-rex-antw21.png"
+        ]
+      },
+      {
+        "title": "OSIRIS-REx",
+        "question_number": 22,
+        "answer_text": "voorbeeld van een antwoord: Op de massa 𝑚 werkt een middelpuntzoekende kracht, dus er geldt: 𝐹arm = 𝐹mpz = 𝑚𝑣²/𝑟. De straal 𝑟 is bekend en constant en de massa 𝑚 moet worden bepaald, dus baansnelheid 𝑣 (of omlooptijd 𝑇) moet worden gemeten.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝐹mpz = 𝑚𝑣²/𝑟"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de baansnelheid of omlooptijd moet worden gemeten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-osiris-rex-antw22.png"
+        ]
+      },
+      {
+        "title": "OSIRIS-REx",
+        "question_number": 23,
+        "answer_text": "Tabel: dikte van het hitteschild — zo groot mogelijk; oppervlak van het hitteschild — zo klein mogelijk; warmtegeleidingscoëfficiënt van het materiaal — zo klein mogelijk.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien drie antwoorden goed"
+          },
+          {
+            "points": 1,
+            "description": "indien twee antwoorden goed"
+          },
+          {
+            "points": 0,
+            "description": "indien één of geen antwoord goed"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2023-ii-osiris-rex-antw23.png"
+        ]
+      }
+    ]
+  }
+}
