@@ -1,0 +1,577 @@
+{
+  "payload": {
+    "subject_name": "Natuurkunde",
+    "level": "HAVO",
+    "source": "HAVO Natuurkunde 2024-I",
+    "answers": [
+      {
+        "title": "Schip uit koers",
+        "question_number": 1,
+        "answer_text": "voorbeeld van een antwoord: Voor de kinetische energie van het schip vóór het afremmen geldt: 𝐸k = ½𝑚𝑣² = ½ ⋅ 1,55 ⋅ 10⁸ ⋅ 7,1² = 3,91 ⋅ 10⁹ J. Het schip heeft afgeremd over een afstand van 0,50 ⋅ 366 = 183 m. Hieruit volgt voor de wrijvingskracht: (𝐸k =)𝑊 = 𝐹W𝑠 → 𝐹W = 𝑊/𝑠 = (3,91 ⋅ 10⁹)/183 = 2,1 ⋅ 10⁷ (N)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝑊 = Δ𝐸k met 𝐸k = ½𝑚𝑣²"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑠 = 0,50 ⋅ ℓschip"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝑊 = 𝐹𝑆"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "Als de eenheid niet vermeld is, dit niet aanrekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-schip-uit-koers-antw1.png"
+        ]
+      },
+      {
+        "title": "Schip uit koers",
+        "question_number": 2,
+        "answer_text": "voorbeeld van een antwoord: Er geldt: 𝑃motor,max = 𝐹motor,max ⋅ 𝑣max → 7,2 ⋅ 10⁷ = 𝐹motor,max ⋅ (46/3,6) → 𝐹motor,max = 5,6 ⋅ 10⁶ N. Deze motorkracht is kleiner dan de wrijvingskracht op het schip.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝑃 = 𝐹𝑣"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de motorkracht vergeleken moet worden met de wrijvingskracht op het schip"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-schip-uit-koers-antw2.png"
+        ]
+      },
+      {
+        "title": "Schip uit koers",
+        "question_number": 3,
+        "answer_text": "voorbeeld van een antwoord: Arm van 𝐹W en arm van 𝐹duwboten (zie figuur). De arm van de kracht van de duwboten is langer dan de arm van de wrijvingskracht. De momenten zijn gelijk, dus uit de hefboomwet volgt dan dat de totale duwkracht van de duwboten kleiner was dan de wrijvingskracht.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "intekenen van de armen van de krachten"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de arm van de duwkracht groter is dan de arm van de wrijvingskracht"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van de hefboomwet en consequente conclusie"
+          }
+        ],
+        "grading_note": "Als de kandidaat één of twee armen verkeerd heeft ingetekend, maar deze armen consequent heeft gebruikt bij de beantwoording van de tweede deelvraag, kan de derde deelscore nog wel worden behaald.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-schip-uit-koers-antw3.png"
+        ]
+      },
+      {
+        "title": "Schip uit koers",
+        "question_number": 4,
+        "answer_text": "De zwaartekracht op het schip bleef gelijk. De normaalkracht van de oever op het schip werd kleiner. De kracht die de duwboten moesten uitoefenen om de wrijvingskracht te overwinnen werd kleiner.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "de eerste twee regels juist"
+          },
+          {
+            "points": 1,
+            "description": "de derde regel consequent met de tweede"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-schip-uit-koers-antw4.png"
+        ]
+      },
+      {
+        "title": "Kampeerbrander op hout",
+        "question_number": 5,
+        "answer_text": "voorbeeld van een antwoord: Voor het opwarmen van het water is nodig: 𝑄 = 𝑐𝑚Δ𝑇 = 4,18 ⋅ 10³ ⋅ 0,400 ⋅ (100 − 10) = 1,50 ⋅ 10⁵ J. Voor de energie van het verbranden van het hout en het rendement geldt: Binas: 𝐸ch = 𝑟𝑚𝑚 = 16 ⋅ 10⁶ ⋅ 18 ⋅ 10⁻³ = 2,88 ⋅ 10⁵ J. 𝜂 = (𝐸nuttig/𝐸in) ⋅ 100% = (1,50 ⋅ 10⁵)/(2,88 ⋅ 10⁵) ⋅ 100% = 52%. Sciencedata: 𝐸ch = 𝑟𝑚𝑚 = 18,9 ⋅ 10⁶ ⋅ 18 ⋅ 10⁻³ = 3,40 ⋅ 10⁵ J. 𝜂 = (𝐸nuttig/𝐸in) ⋅ 100% = (1,50 ⋅ 10⁵)/(3,40 ⋅ 10⁵) ⋅ 100% = 44%. De brander voldoet dus aan de eerste ontwerpeis.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝑄 = 𝑐𝑚Δ𝑇 met opzoeken van 𝑐water"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝐸ch = 𝑟𝑚𝑚 met opzoeken van 𝑟𝑚 hout"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝜂 = 𝑄/𝐸ch"
+          },
+          {
+            "points": 1,
+            "description": "⚠️ CONTROLEREN: het correctievoorschrift vermeldt maximumscore 4, maar geeft slechts drie deelscore-omschrijvingen (samen 3 punten); een vierde deelscore ontbreekt in de brontekst van ExamenCentraal.nl"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-kampeerbrander-op-hout-antw5.png"
+        ]
+      },
+      {
+        "title": "Kampeerbrander op hout",
+        "question_number": 6,
+        "answer_text": "voorbeeld van een antwoord: Een stof met een hoge warmtegeleidingscoëfficiënt is in staat om veel warmte per tijdseenheid te geleiden. Koper heeft een hogere warmtegeleidingscoëfficiënt dan aluminium. Koper is dus de beste keuze.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat een grotere warmtegeleidingscoëfficiënt tot een sneller warmtetransport leidt"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": "Als de kandidaat heeft geredeneerd vanuit gelijkblijvende massa van het koellichaam en daarmee op aluminium uitkomt, dit goed rekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-kampeerbrander-op-hout-antw6.png"
+        ]
+      },
+      {
+        "title": "Kampeerbrander op hout",
+        "question_number": 7,
+        "answer_text": "uitkomst: VK⁻¹ of V°C⁻¹. voorbeeld van een antwoord: [𝑈] = [𝐶][Δ𝑇] → [𝐶] = [𝑈]/[Δ𝑇] = VK⁻¹ of V°C⁻¹",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "invullen van correcte eenheden voor 𝑈 en Δ𝑇"
+          },
+          {
+            "points": 1,
+            "description": "completeren van het antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-kampeerbrander-op-hout-antw7.png"
+        ]
+      },
+      {
+        "title": "Kampeerbrander op hout",
+        "question_number": 8,
+        "answer_text": "uitkomst: Δ𝑇 = 1,7 ⋅ 10² K. voorbeeld van een antwoord: 𝑈 = 𝐶Δ𝑇 → 𝐶 = 𝑈/Δ𝑇 = 2,8/(160 − 63) = 0,0289 (V/K). 𝑈 = 𝐶Δ𝑇 → Δ𝑇 = 𝑈/𝐶 = 5,0/0,0289 = 1,7 ⋅ 10² K = 1,7 ⋅ 10² °C",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝑈 = 𝐶Δ𝑇"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de waarde van 𝐶 volgt uit de meting bij 2,8 V / inzicht dat 𝑈₁/𝑈₂ = Δ𝑇₁/Δ𝑇₂"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-kampeerbrander-op-hout-antw8.png"
+        ]
+      },
+      {
+        "title": "Kampeerbrander op hout",
+        "question_number": 9,
+        "answer_text": "uitkomst: 𝑅1 = 1,0 ⋅ 10³ Ω (binnen het bereik 7,8 ⋅ 10² Ω ≤ 𝑅1 ≤ 1,4 ⋅ 10³ Ω). voorbeeld van een antwoord: Over deze weerstand staat een spanning van 𝑈R = 𝑈pelt − 𝑈led = 5,0 − 1,5 = 3,5 V. Uit het (𝐼,𝑈)-diagram volgt dat bij een spanning van 1,5 V een stroom van 3,5 ⋅ 10⁻³ A door de schakeling gaat. Voor de weerstand geldt: 𝑅1 = 𝑈R/𝐼 = 3,5/(3,5 ⋅ 10⁻³) = 1,0 ⋅ 10³ Ω.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝑈tot = 𝑈1 + 𝑈2"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝑅 = 𝑈/𝐼"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝐼 uit figuur 4 afgelezen moet worden bij 𝑈 = 1,5 V"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": "Als niet is voldaan aan de eerste deelscore, de laatste deelscore voor completeren ook niet toekennen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-kampeerbrander-op-hout-antw9.png"
+        ]
+      },
+      {
+        "title": "Kampeerbrander op hout",
+        "question_number": 10,
+        "answer_text": "uitkomst: 𝑡 = 24 h. voorbeeld van een antwoord: Voor de laadstroom van de accu geldt: 𝐼accu = 𝐼pelt − 𝐼ventilator = 0,41 − 0,30 = 0,11 A. Hieruit volgt voor de tijd: 𝑡 = capaciteit/𝐼 = 2,6/0,11 = 24 h. Een laadtijd van 24 h is veel langer dan het koken van een maaltijd duurt. Ze hebben hun vierde ontwerpeis dus niet gehaald.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝐼tot = 𝐼1 + 𝐼2"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑡 = capaciteit/𝐼"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de berekende laadtijd met de kooktijd van een maaltijd vergeleken moet worden en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-kampeerbrander-op-hout-antw10.png"
+        ]
+      },
+      {
+        "title": "Falcon heavy",
+        "question_number": 11,
+        "answer_text": "voorbeeld van een antwoord: Voor de baansnelheid geldt 𝑣 = 2𝜋𝑟/𝑇. De periode van de rotatie van de aarde is altijd 24 uur. Op de evenaar is de afstand 𝑟 tot de aardas het grootst, dus de baansnelheid 𝑣 ook. Uit 𝐸k = ½𝑚𝑣² volgt dat bij een grotere snelheid 𝑣L er meer kinetische energie bij de start is. (De raketmotoren hoeven dan minder brandstof te verbranden.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝑣 = 2𝜋𝑟/𝑇 of 𝑣 = 𝑠/𝑡 met 𝑠 = 2𝜋𝑟"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑇 constant is en dat 𝑟 het grootst is op de evenaar"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝐸k = ½𝑚𝑣²"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat er bij een start vanaf de evenaar meer kinetische energie aanwezig is"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-falcon-heavy-antw11.png"
+        ]
+      },
+      {
+        "title": "Falcon heavy",
+        "question_number": 12,
+        "answer_text": "uitkomst: 𝑎 = 23,6 ms⁻² (binnen het bereik 20,0 ms⁻² ≤ 𝑎 ≤ 25,0 ms⁻²). voorbeeld van een antwoord: Uit de raaklijn volgt: 𝑎 = Δ𝑣/Δ𝑡 = (20,0 ⋅ 10³/3,6)/(310 − 75) = 23,6 ms⁻².",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "tekenen van de raaklijn op 𝑡 = 180 s / aangeven van een relevant recht deel in de grafiek"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝑎 = (Δ𝑣/Δ𝑡)raaklijn"
+          },
+          {
+            "points": 1,
+            "description": "omrekenen van km h⁻¹ naar m s⁻¹"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-falcon-heavy-antw12.png"
+        ]
+      },
+      {
+        "title": "Falcon heavy",
+        "question_number": 13,
+        "answer_text": "uitkomst: 𝑣 = 7,80 ⋅ 10³ ms⁻¹. voorbeeld van een antwoord: Voor een satellietbaan met een constante hoogte geldt: 𝑚𝑣²/𝑟 = 𝐺𝑚𝑀/𝑟² → 𝑣 = √(𝐺𝑀/𝑟) = √((6,674 ⋅ 10⁻¹¹ ⋅ 5,972 ⋅ 10²⁴)/(6,371 ⋅ 10⁶ + 1,80 ⋅ 10⁵)) = 7,80 ⋅ 10³ ms⁻¹",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑚𝑣²/𝑟 = 𝐺𝑚𝑀/𝑟²"
+          },
+          {
+            "points": 1,
+            "description": "opzoeken van waardes voor 𝐺 en 𝑀"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van ℎ (met een marge van 5 km)"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑟 = 𝑅A + ℎ met opzoeken van 𝑅A"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": "Als gebruik is gemaakt van 𝑅A = 6,378 ⋅ 10⁶ m, dit goed rekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-falcon-heavy-antw13.png"
+        ]
+      },
+      {
+        "title": "Falcon heavy",
+        "question_number": 14,
+        "answer_text": "uitkomst: 𝑣 = 8,50 ⋅ 10³ ms⁻¹. voorbeeld van een antwoord: Uit de stelling van Pythagoras volgt: 𝑠 = √(Δℎ² + Δ𝑥²) = √((9,21 ⋅ 10⁶)² + (4,38 ⋅ 10⁶)²) = 1,02 ⋅ 10⁷ m. Tussen foto 1 en 2 zat een tijd van 20,0 minuten. Hieruit volgt: 𝑣 = 𝑠/𝑡 = (1,02 ⋅ 10⁷)/(20,0 ⋅ 60) = 8,50 ⋅ 10³ m s⁻¹",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑠 = √(Δ𝑥² + Δℎ²)"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝑠 = 𝑣𝑡"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekeningen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-falcon-heavy-antw14.png"
+        ]
+      },
+      {
+        "title": "Sarcoïde",
+        "question_number": 15,
+        "answer_text": "voorbeeld van een antwoord: De activiteit van de isotoop moet in relatief korte tijd afnemen. Hiervoor is een korte halveringstijd nodig. De isotoop Au-198 heeft de kortste halveringstijd, dus capsule I. De dracht van 𝛽-straling in weefsel is heel klein.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat er sprake moet zijn van een korte halveringstijd"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat de dracht van 𝛽-straling klein is"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-sarcoide-antw15.png"
+        ]
+      },
+      {
+        "title": "Sarcoïde",
+        "question_number": 16,
+        "answer_text": "voorbeeld van een antwoord: ⁹⁰₃₈Sr → ⁹⁰₃₉Y + ⁰₋₁e",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "alleen Sr-90 links van de pijl, 𝛽 rechts van de pijl"
+          },
+          {
+            "points": 1,
+            "description": "Y rechts van de pijl (mits verkregen via kloppende atoomnummers)"
+          },
+          {
+            "points": 1,
+            "description": "aantal nucleonen links en rechts gelijk"
+          }
+        ],
+        "grading_note": "Als rechts van de pijl ook 𝛾 is genoteerd, vervalt de eerste deelscore.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-sarcoide-antw16.png"
+        ]
+      },
+      {
+        "title": "Sarcoïde",
+        "question_number": 17,
+        "answer_text": "uitkomst: 𝑡 = 1,1 ⋅ 10³ s. voorbeelden van een antwoord: methode 1: Voor de behandeling is een totale energie nodig van: 𝐷 = 𝐸/𝑚 → 𝐸 = 20 ⋅ 7,9 ⋅ 10⁻⁵ = 1,58 ⋅ 10⁻³ J. Per vervalreactie wordt 2,9 ⋅ 1,60 ⋅ 10⁻¹³ = 4,64 ⋅ 10⁻¹³ J door het weefsel opgenomen. In totaal zijn er dan 𝐸/𝐸verval = (1,58 ⋅ 10⁻³)/(4,64 ⋅ 10⁻¹³) = 3,41 ⋅ 10⁹ vervalreacties nodig. Hiervoor is een tijd nodig van (3,41 ⋅ 10⁹)/(3,1 ⋅ 10⁶) = 1,1 ⋅ 10³ s. of methode 2: Er geldt: 𝑃 = 𝐴 ⋅ 𝐸vervalreactie = 3,1 ⋅ 10⁶ ⋅ 4,64 ⋅ 10⁻¹³ = 1,44 ⋅ 10⁻⁶ J s⁻¹. De behandeling duurt 𝑡 = 𝐸/𝑃 = (1,58 ⋅ 10⁻³)/(1,44 ⋅ 10⁻⁶) = 1,1 ⋅ 10³ s.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝐷 = 𝐸/𝑚"
+          },
+          {
+            "points": 1,
+            "description": "omrekenen van MeV naar J"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑛vervalreacties = 𝐸totaal/𝐸vervalreactie"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑡 = 𝑛vervalreacties/𝐴"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-sarcoide-antw17.png"
+        ]
+      },
+      {
+        "title": "Sarcoïde",
+        "question_number": 18,
+        "answer_text": "uitkomst: 𝑡 = 37 s. voorbeeld van een antwoord: Voor de energie van een foton geldt: 𝐸 = ℎ𝑓 = 6,63 ⋅ 10⁻³⁴ ⋅ 2,45 ⋅ 10⁹ = 1,62 ⋅ 10⁻²⁴ J. Hieruit volgt voor het vermogen van de stralingsbron: 𝑃 = 6,2 ⋅ 10²⁵ ⋅ 1,62 ⋅ 10⁻²⁴ = 1,01 ⋅ 10² J s⁻¹. Het opwarmen duurt 𝑡opw = 𝐸/𝑃 = (7,2 ⋅ 10²)/(1,01 ⋅ 10²) = 7,1 s. De minimale totale tijd voor de behandeling is 𝑡totaal = 30 + 7,1 = 37 s.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝐸f = ℎ𝑓"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑃 = 6,2 ⋅ 10²⁵ ⋅ 𝐸f"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝐸 = 𝑃𝑡"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑡totaal = 30 + 𝑡opw"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-sarcoide-antw18.png"
+        ]
+      },
+      {
+        "title": "Sarcoïde",
+        "question_number": 19,
+        "answer_text": "voorbeelden van een antwoord: methode 1: De temperatuur van 42°C kan bereikt worden tot een diepte van 5,7 mm in het weefsel. De huiddikte van het paard is 4,5 mm. Hyperthermie is dus voor de hele dikte van de huid geschikt. of methode 2: De huiddikte van het paard is 4,5 mm. De temperatuur die op deze diepte bereikt kan worden is 43,5°C. Dit is hoger dan de benodigde 42°C. Hyperthermie is dus voor de hele dikte van de huid geschikt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "vergelijken van de doordringdiepte bij 42°C met de huiddikte"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-sarcoide-antw19.png"
+        ]
+      },
+      {
+        "title": "Infrasone trillingen",
+        "question_number": 20,
+        "answer_text": "voorbeeld van een antwoord: Voor de golflengte in de ruimte geldt: 𝜆 = 2𝐿 → 𝜆 = 2 ⋅ 11,0 = 22,0 m. 𝑣 = 𝑓𝜆 → 𝑓 = 343/22,0 = 15,6 Hz. (Deze frequentie ligt onder de frequentie van hoorbaar geluid.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "aangeven van een buik in het midden en twee knopen bij de wanden"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝜆 = 2𝐿"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝑣 = 𝑓𝜆 met 𝑣 = 343 ms⁻¹"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": "Als het patroon alleen is getekend zonder aangeven van knopen K en buiken B, vervalt de eerste deelscore. Als de leerling een onjuist patroon van knopen en buiken heeft getekend en vervolgens de golflengte consequent met dit patroon heeft bepaald, dit in de tweede deelscore niet aanrekenen.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-infrasone-trillingen-antw20.png"
+        ]
+      },
+      {
+        "title": "Infrasone trillingen",
+        "question_number": 21,
+        "answer_text": "voorbeeld van een antwoord: Uit figuur 3 blijkt dat een deel van de verdiepingen weinig tot geen klachten kende en een deel juist heel veel. Dit patroon past het best bij een staande golf, waar een deel niet in trilling is en een deel voortdurend in trilling is.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de klachten niet gelijkmatig over het gebouw verdeeld waren"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-infrasone-trillingen-antw21.png"
+        ]
+      },
+      {
+        "title": "Infrasone trillingen",
+        "question_number": 22,
+        "answer_text": "resonantie/resoneren",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "antwoord: resonantie/resoneren"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-infrasone-trillingen-antw22.png"
+        ]
+      },
+      {
+        "title": "Infrasone trillingen",
+        "question_number": 23,
+        "answer_text": "D",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "antwoord D"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-infrasone-trillingen-antw23.png"
+        ]
+      },
+      {
+        "title": "Infrasone trillingen",
+        "question_number": 24,
+        "answer_text": "voorbeeld van een antwoord: De glaswasinstallatie is een massa-veersysteem waarvoor geldt: 𝑇 = 2𝜋√(𝑚/𝐶) = 2𝜋√(350/(2,2 ⋅ 10⁵)) = 0,251 s. Hieruit volgt voor de frequentie: 𝑓 = 1/𝑇 = 1/0,251 = 4,0 Hz. (De frequentie van deze infrasone trillingen is gelijk aan de eigenfrequentie van de bureaus.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝑇 = 2𝜋√(𝑚/𝐶)"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝑓 = 1/𝑇"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-i-infrasone-trillingen-antw24.png"
+        ]
+      }
+    ]
+  }
+}
