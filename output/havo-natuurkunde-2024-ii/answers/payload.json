@@ -1,0 +1,585 @@
+{
+  "payload": {
+    "subject_name": "Natuurkunde",
+    "level": "HAVO",
+    "source": "HAVO Natuurkunde 2024-II",
+    "answers": [
+      {
+        "title": "Kunstmatige meteoroïden",
+        "question_number": 1,
+        "answer_text": "uitkomst: 𝑠max = 85 km. voorbeeld van een antwoord: De maximale lengte van de baan wordt bereikt bij de maximale snelheid. Hieruit volgt: 𝑠max = 𝑣max𝑡 = ((2,5 ⋅ 10⁵)/3,6) ⋅ 1,22 = 8,5 ⋅ 10⁴ m = 85 km.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de maximale snelheid gebruikt moet worden"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝑠 = 𝑣𝑡"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-kunstmatige-meteoroiden-antw1.png"
+        ]
+      },
+      {
+        "title": "Kunstmatige meteoroïden",
+        "question_number": 2,
+        "answer_text": "uitkomst: 𝑇 = 2,81 ⋅ 10³ (∘C). voorbeeld van een antwoord: Uit de wet van Wien volgt: 𝑇 = 𝑘W/𝜆max = (2,898 ⋅ 10⁻³)/(940 ⋅ 10⁻⁹) = 3,083 ⋅ 10³ K. Dit komt overeen met 3,083 ⋅ 10³ − 273 = 2,81 ⋅ 10³ ∘C.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝜆max𝑇 = 𝑘w"
+          },
+          {
+            "points": 1,
+            "description": "omrekenen van K naar ∘C"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-kunstmatige-meteoroiden-antw2.png"
+        ]
+      },
+      {
+        "title": "Kunstmatige meteoroïden",
+        "question_number": 3,
+        "answer_text": "uitkomst: 𝑣 = 7,7 ⋅ 10³ m s⁻¹. voorbeeld van een antwoord: Voor de baansnelheid van de satelliet geldt: 𝐹mpz = 𝐹g → 𝑚𝑣²/𝑟 = 𝐺𝑀𝑚/𝑟² → 𝑣 = √(𝐺𝑀/𝑟) = √((6,67 ⋅ 10⁻¹¹ ⋅ 5,972 ⋅ 10²⁴)/(6,371 ⋅ 10⁶ + 4,0 ⋅ 10⁵)) = 7,7 ⋅ 10³ m s⁻¹.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat 𝐹mpz = 𝐹g"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝐹mpz = 𝑚𝑣²/𝑟 en 𝐹g = 𝐺𝑀𝑚/𝑟²"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑟 = 𝑅A + ℎ"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-kunstmatige-meteoroiden-antw3.png"
+        ]
+      },
+      {
+        "title": "Kunstmatige meteoroïden",
+        "question_number": 4,
+        "answer_text": "C",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "juist antwoord: C"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-kunstmatige-meteoroiden-antw4.png"
+        ]
+      },
+      {
+        "title": "Kunstmatige meteoroïden",
+        "question_number": 5,
+        "answer_text": "voorbeeld van een antwoord: Er geldt: ½𝑚𝑣v² + 𝑚𝑔ℎv = ½𝑚𝑣n² + 𝑚𝑔ℎn → ½(7,5 ⋅ 10³)² + 9,8 ⋅ 4,0 ⋅ 10⁵ = ½𝑣n² + 9,8 ⋅ 1,0 ⋅ 10⁵. Hieruit volgt: 𝑣n = 7,9 ⋅ 10³ m s⁻¹. Dit komt overeen met 𝑣 = 2,8 ⋅ 10⁴ km h⁻¹. (Deze snelheid is lager dan van een echte meteoroïde).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat 𝐸k voor + 𝐸z voor = 𝐸k na + 𝐸z na"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝐸k = ½𝑚𝑣² en 𝐸z = 𝑚𝑔ℎ"
+          },
+          {
+            "points": 1,
+            "description": "omrekenen van m s⁻¹ naar km h⁻¹ of vice versa"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-kunstmatige-meteoroiden-antw5.png"
+        ]
+      },
+      {
+        "title": "Kunstmatige meteoroïden",
+        "question_number": 6,
+        "answer_text": "voorbeeld van een antwoord: Er geldt voor de straal van het cirkelvormige gebied: tan(77/2) = 𝑟/100 → 𝑟 = 80 km. Het gebied heeft dus een diameter van 1,6 ⋅ 10² km. Dit komt in orde van grootte overeen met gebied III, op autoafstand.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat tan(𝛼/2) = 𝑟/ℎ"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-kunstmatige-meteoroiden-antw6.png"
+        ]
+      },
+      {
+        "title": "Knakworstenverwarmer",
+        "question_number": 7,
+        "answer_text": "voorbeeld van een antwoord: De stroommeter moet in serie zijn aangesloten met de knakworst. Dat is meter II.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat een stroommeter in serie moet worden aangesloten"
+          },
+          {
+            "points": 1,
+            "description": "consequente keuze voor meter II"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-knakworstenverwarmer-antw7.png"
+        ]
+      },
+      {
+        "title": "Knakworstenverwarmer",
+        "question_number": 8,
+        "answer_text": "uitkomst: 𝑅 = 2,6 ⋅ 10² Ω (met een marge van 0,1 ⋅ 10² Ω). voorbeeld van een antwoord: Er geldt: 𝑅 = 𝑈/𝐼 = 20,0/0,076 = 2,6 ⋅ 10² Ω. De knakworst heeft een doorsnede met een oppervlakte van 𝐴 = 𝜋𝑟² = 𝜋(7,5 ⋅ 10⁻³)² = 1,77 ⋅ 10⁻⁴ m². Hieruit volgt: 𝜌 = 𝑅𝐴/ℓ = (2,6 ⋅ 10² ⋅ 1,77 ⋅ 10⁻⁴)/(8,0 ⋅ 10⁻²) = 0,58 Ω m. Dat is niet hetzelfde als de soortelijke weerstand van zout water.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝑈 = 𝐼𝑅"
+          },
+          {
+            "points": 1,
+            "description": "aflezen van een bij elkaar passende 𝑈 en 𝐼"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝜌 = 𝑅𝐴/ℓ"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝐴 = 𝜋𝑟² of 𝐴 = ¼𝜋𝑑² met 𝑟 = ½𝑑"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en de berekening en significantie"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-knakworstenverwarmer-antw8.png"
+        ]
+      },
+      {
+        "title": "Knakworstenverwarmer",
+        "question_number": 9,
+        "answer_text": "voorbeeld van een antwoord: Tijdens het opwarmen neemt de stroomsterkte toe. De weerstand neemt dus af (omdat de spanning constant blijft). Dit is een eigenschap van een NTC.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de stroomsterkte toeneemt"
+          },
+          {
+            "points": 1,
+            "description": "inzicht in het verband tussen de stroomsterkte en de weerstand van de knakworst"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-knakworstenverwarmer-antw9.png"
+        ]
+      },
+      {
+        "title": "Knakworstenverwarmer",
+        "question_number": 10,
+        "answer_text": "uitkomst: 𝜂 = 0,70 (= 70%). voorbeeld van een antwoord: Er geldt: 𝑄 = 𝑐𝑚Δ𝑇 = 3,0 ⋅ 10³ ⋅ 20 ⋅ 10⁻³ ⋅ (60 − 22) = 2,28 ⋅ 10³ J. En voor de benodigde elektrische energie: 𝐸 = 𝑃𝑡 = 3,9 ⋅ (14 ⋅ 60) = 3,28 ⋅ 10³ J. Dus: 𝜂 = 𝐸nuttig/𝐸in = (2,28 ⋅ 10³)/(3,28 ⋅ 10³) = 0,70 (= 70%).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝑄 = 𝑐𝑚Δ𝑇"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝐸 = 𝑃𝑡"
+          },
+          {
+            "points": 1,
+            "description": "inzicht van 𝜂 = 𝑄/𝐸el of 𝜂 = 𝑃verwarmen/𝑃el"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-knakworstenverwarmer-antw10.png"
+        ]
+      },
+      {
+        "title": "Knakworstenverwarmer",
+        "question_number": 11,
+        "answer_text": "voorbeeld van een antwoord: Uit figuren 2 en 3 volgt dat één knakworst is aangesloten op een stroomsterkte van ongeveer 0,1 A bij een spanning van ongeveer 30 V. De voeding kan geen veelvoud van deze spanning leveren, maar wel een veelvoud van deze stroomsterkte. Dat kan alleen als de worsten parallel op de voeding worden aangesloten.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat figuren 2 en 3 gebruikt moeten worden om de stroomsterkte door en de spanning over 1 knakworst te bepalen"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat bij serieschakeling de maximale spanning wordt overschreden / dat de totale stroomsterkte moet toenemen"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-knakworstenverwarmer-antw11.png"
+        ]
+      },
+      {
+        "title": "Boombrommer",
+        "question_number": 12,
+        "answer_text": "Antwoorden:\ntijdstip (s) — de motorkracht verricht arbeid — de remkracht verricht arbeid — er wordt geen arbeid verricht\n7 — — — X\n23 — X — —\n36 — — X —",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien drie antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien twee antwoorden juist"
+          },
+          {
+            "points": 0,
+            "description": "indien één of geen antwoord juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-boombrommer-antw12.png"
+        ]
+      },
+      {
+        "title": "Boombrommer",
+        "question_number": 13,
+        "answer_text": "uitkomst: 𝑣 = 1,2 m s⁻¹ (met een marge van 0,1 m s⁻¹). voorbeeld van een antwoord: De maximale snelheid wordt bereikt in het steilste deel van de grafiek, tussen 2,0 s en 4,5 s. Hieruit volgt: 𝑣 = (Δ𝑥/Δ𝑡)raaklijn = ((9,0 − 0)/(8,5 − 1,0)) = 1,2 m s⁻¹.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de steilheid bepaald moet worden in het steilste deel van de grafiek"
+          },
+          {
+            "points": 1,
+            "description": "tekenen van een raaklijn aan de grafiek of gebruik van een relevant recht deel van de grafiek"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝑣 = (Δ𝑥/Δ𝑡)raaklijn"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-boombrommer-antw13.png"
+        ]
+      },
+      {
+        "title": "Boombrommer",
+        "question_number": 14,
+        "answer_text": "uitkomst: 𝐹n = 1,9 ⋅ 10³ N. voorbeeld van een antwoord: Uit de hefboomwet volgt: 𝐹1𝑟1 = 𝐹2𝑟2 → 𝐹n = ((104 ⋅ 9,81) ⋅ 3,8)/2,0 = 1,9 ⋅ 10³ N.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "intekenen van de arm van de zwaartekracht"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van de hefboomwet"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van de lengtes van de getekende armen (met een marge van 2,0 mm)"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": "Als de kandidaat de arm verkeerd heeft ingetekend, maar deze arm consequent heeft gebruikt bij de beantwoording van de tweede deelvraag, kunnen de tweede, derde en vierde deelscore nog wel worden behaald.",
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-boombrommer-antw14.png"
+        ]
+      },
+      {
+        "title": "Boombrommer",
+        "question_number": 15,
+        "answer_text": "voorbeeld van een antwoord: De arm 𝑟𝐹n neemt af als de afstand SD kleiner wordt. Het moment 𝑀 van de normaalkracht blijft gelijk, dus bij de afname van de afstand 𝑟𝐹n zal de normaalkracht 𝐹n groter worden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat de arm 𝑟𝐹n kleiner wordt"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat het moment van de normaalkracht gelijk blijft"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-boombrommer-antw15.png"
+        ]
+      },
+      {
+        "title": "Boombrommer",
+        "question_number": 16,
+        "answer_text": "voorbeeld van een antwoord: methode 1: De brommer gebruikt 1,5 liter benzine. Dit levert een chemische energie van 𝐸ch = 𝑟𝑉𝑉 = 33 ⋅ 10⁹ ⋅ 1,5 ⋅ 10⁻³ = 4,95 ⋅ 10⁷ J. De verbrandingsmotor kan dan een nuttige energie leveren van 𝐸nuttig = 𝜂𝐸in = (18/100) ⋅ 4,95 ⋅ 10⁷ = 8,91 ⋅ 10⁶ J. Om een boom te beklimmen is een energie nodig van 𝐸z = 𝑚𝑔ℎ = 104 ⋅ 9,81 ⋅ 30 = 3,06 ⋅ 10⁴ J. Met de brommer kunnen dan (8,91 ⋅ 10⁶)/(3,06 ⋅ 10⁴) = 2,9 ⋅ 10² bomen worden beklommen. Dat is meer dan de bewering van de uitvinder, dus de bewering kan kloppen. of methode 2: De brommer gebruikt 1,5 L benzine. Dit levert een chemische energie van 𝐸ch = 𝑟𝑉𝑉 = 33 ⋅ 10⁹ ⋅ 1,5 ⋅ 10⁻³ = 4,95 ⋅ 10⁷ J. Om alle bomen te beklimmen is een totale energie nodig van 𝐸z = 𝑚𝑔ℎ = 104 ⋅ 9,81 ⋅ (135 ⋅ 30) = 4,13 ⋅ 10⁶ J. Het rendement dat hier uit volgt is gelijk aan 𝜂 = (𝐸nuttig/𝐸in) ⋅ 100 = (𝐸z/𝐸ch) ⋅ 100 = ((4,13 ⋅ 10⁶)/(4,95 ⋅ 10⁷)) ⋅ 100 = 8,3%. Dit rendement is lager dan het rendement van de benzinemotor, dus de bewering van de uitvinder kan kloppen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝐸ch = 𝑟𝑉𝑉 met opzoeken van 𝑟𝑉"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝜂 = 𝐸nuttig/𝐸ch en de factor 100"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑛bomen = 𝐸nuttig/𝐸z boom"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": "Alternatieve methode 2 (methode 2): gebruik van 𝐸ch = 𝑟𝑉𝑉 met opzoeken van 𝑟𝑉 (1); gebruik van 𝐸𝑧 = 𝑚𝑔ℎ (1); inzicht 𝜂 = 𝐸nuttig/𝐸ch (1); toepassen van de factor 135 (1); completeren van de berekening en consequente conclusie (1).",
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-boombrommer-antw16.png"
+        ]
+      },
+      {
+        "title": "Wiebelgenerator",
+        "question_number": 17,
+        "answer_text": "voorbeeld van een antwoord: (zie afbeelding)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "knoop bij de basis en buik aan het uiteinde"
+          },
+          {
+            "points": 1,
+            "description": "afwisseling van buiken en knopen met in totaal twee buiken en twee knopen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-wiebelgenerator-antw17.png"
+        ]
+      },
+      {
+        "title": "Wiebelgenerator",
+        "question_number": 18,
+        "answer_text": "uitkomst: 𝑣 = 98 m s⁻¹. voorbeeld van een antwoord: In figuur 2 is af te lezen dat er 16 trillingen in 8,2 s gemaakt zijn. Hieruit volgt dat de frequentie van de toon gelijk is aan 𝑓 = 16/8,2 = 1,95 Hz. Uit figuur 1 volgt: ¼𝜆 = 12,5 m → 𝜆 = 50,0 m. Dus: 𝑣 = 𝜆𝑓 = 50,0 ⋅ 1,95 = 98 m s⁻¹.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝑣 = 𝜆𝑓"
+          },
+          {
+            "points": 1,
+            "description": "bepalen van de frequentie (met een marge van 0,1 Hz)"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝜆 = 4ℓ"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de bepaling en significantie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-wiebelgenerator-antw18.png"
+        ]
+      },
+      {
+        "title": "Wiebelgenerator",
+        "question_number": 19,
+        "answer_text": "Wanneer de windsnelheid en dus de frequentie 𝑓w afneemt, moet de trillingstijd van de paal toenemen. De veerconstante moet dan verlaagd worden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste zin correct"
+          },
+          {
+            "points": 1,
+            "description": "tweede zin consequent met de eerste zin"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-wiebelgenerator-antw19.png"
+        ]
+      },
+      {
+        "title": "Wiebelgenerator",
+        "question_number": 20,
+        "answer_text": "voorbeeld van een antwoord: Voor het vermogen dat de wind overdraagt op de generator geldt: 𝑃wind = 0,30 ⋅ 𝜌 ⋅ 𝐴 ⋅ 𝑣³ → 𝑃wind = 0,30 ⋅ 1,293 ⋅ 1,2 ⋅ 12³ = 804 W. Het rendement van de generator is dan: 𝜂 = 𝑃nuttig/𝑃in = 100/804 = 0,12 (= 12%). Het rendement is dus lager dan het rendement van de reguliere windmolen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝑃wind = 0,30 ⋅ 𝜌 ⋅ 𝐴 ⋅ 𝑣³ met opzoeken van 𝜌lucht"
+          },
+          {
+            "points": 1,
+            "description": "inzicht dat 𝜂 = 𝑃wiebelgenerator/𝑃wind"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening en consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-wiebelgenerator-antw20.png"
+        ]
+      },
+      {
+        "title": "Gebitsfoto",
+        "question_number": 21,
+        "answer_text": "voorbeeld van een antwoord: Voor de frequentie van de gebruikte fotonen geldt: 𝑓 = 𝐸𝑓/ℎ = (85 ⋅ 10³ ⋅ 1,60 ⋅ 10⁻¹⁹)/(6,63 ⋅ 10⁻³⁴) = (1,36 ⋅ 10⁻¹⁴)/(6,63 ⋅ 10⁻³⁴) = 2,05 ⋅ 10¹⁹ Hz. En voor de golflengte: 𝜆 = 𝑐/𝑓 = (3,00 ⋅ 10⁸)/(2,05 ⋅ 10¹⁹) = 1,46 ⋅ 10⁻¹¹ m = 0,015 nm. (Deze waarde ligt binnen het gegeven golflengtegebied).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "omrekenen van eV naar J"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝐸𝑓 = ℎ𝑓"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝑐 = 𝑓𝜆"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-gebitsfoto-antw21.png"
+        ]
+      },
+      {
+        "title": "Gebitsfoto",
+        "question_number": 22,
+        "answer_text": "uitkomst: 𝑛fotonen = 3,8 ⋅ 10¹⁴ (fotonen per seconde). voorbeeld van een berekening: De stroomsterkte is gelijk aan 6,0 ⋅ 10⁻³ A = 6,0 ⋅ 10⁻³ C s⁻¹, dus: 𝑛elektronen = 𝐼/𝑒 = (6,0 ⋅ 10⁻³)/(1,60 ⋅ 10⁻¹⁹) = 3,75 ⋅ 10¹⁶ elektronen per seconde. Per 100 elektronen wordt er 1 foton vrijgemaakt, dus 𝑛fotonen = (3,75 ⋅ 10¹⁶)/100 = 3,8 ⋅ 10¹⁴ fotonen per seconde.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat 𝑛elektronen = 𝐼/𝑒"
+          },
+          {
+            "points": 1,
+            "description": "toepassen van de factor 100"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-gebitsfoto-antw22.png"
+        ]
+      },
+      {
+        "title": "Gebitsfoto",
+        "question_number": 23,
+        "answer_text": "uitkomst: 𝐷 = 2,9 ⋅ 10⁻³ Gy. voorbeeld van een berekening: Tijdens de scan ontvangt de pop een totale energie van 𝐸 = 𝑃𝑡 = 2,6 ⋅ 10⁻⁴ ⋅ 16,7 = 4,34 ⋅ 10⁻³ J. De pop ontvangt hierdoor een dosis van 𝐷 = 𝐸/𝑚 = (4,34 ⋅ 10⁻³)/1,5 = 2,9 ⋅ 10⁻³ Gy.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gebruik van 𝐸 = 𝑃𝑡"
+          },
+          {
+            "points": 1,
+            "description": "gebruik van 𝐷 = 𝐸/𝑚"
+          },
+          {
+            "points": 1,
+            "description": "completeren van de berekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-gebitsfoto-antw23.png"
+        ]
+      },
+      {
+        "title": "Gebitsfoto",
+        "question_number": 24,
+        "answer_text": "voorbeeld van een antwoord: De scan is lichter van kleur op de plek van het implantaat, dus het implantaat heeft meer straling geabsorbeerd dan de originele kies. Gezien de gelijke dikte heeft het implantaat dus een kleinere halveringsdikte dan de originele kies.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inzicht dat het implantaat meer straling absorbeert/minder straling doorlaat dan de originele kies"
+          },
+          {
+            "points": 1,
+            "description": "consequente conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "natuurkunde-havo-2024-ii-gebitsfoto-antw24.png"
+        ]
+      }
+    ]
+  }
+}
