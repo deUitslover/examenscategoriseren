@@ -59,11 +59,9 @@ Usage:
     width = display_width(img)   # same number for every image of the exam
 """
 
-import io
 import re
 
 import fitz
-from PIL import Image, ImageDraw
 
 from crop_check import get_blocks
 from drawing_bounds import get_drawing_boxes, cluster_drawing_boxes
@@ -285,34 +283,53 @@ def render(page, y0, y1, window, wipe=(), zoom=ZOOM):
     The clip rectangle always spans the full window, never a narrower
     per-crop width -- that is what keeps text size and alignment identical
     across every image of the exam.
+
+    Returns a fitz.Pixmap (not a PIL Image -- PIL is not a dependency of
+    this module). Pixmap supports the same .save(path) and .width used
+    throughout this codebase, so it is a drop-in replacement at call sites.
     """
     wx0, wx1 = window
     pix = page.get_pixmap(matrix=fitz.Matrix(zoom, zoom),
                           clip=fitz.Rect(wx0, y0, wx1, y1))
-    img = Image.open(io.BytesIO(pix.tobytes("png"))).convert("RGB")
+    if pix.alpha:
+        pix = fitz.Pixmap(pix, 0)  # drop alpha so set_rect's RGB triple matches n
 
-    draw = ImageDraw.Draw(img)
+    # get_pixmap(clip=...) returns a pixmap whose .x/.y stay at the clip's
+    # page-space pixel offset (e.g. x=176, y=1179), not (0, 0). The wipe
+    # boxes below are computed as LOCAL pixel offsets from this crop's own
+    # top-left corner, but Pixmap.set_rect() interprets its IRect in the
+    # pixmap's own (non-zero) coordinate space -- passing local coordinates
+    # straight through silently no-ops (or whites out the wrong pixels)
+    # whenever the crop's origin isn't (0, 0), i.e. for almost every crop
+    # in the document. Resetting the origin makes set_rect's coordinate
+    # space match the local pixel offsets computed below.
+    pix.set_origin(0, 0)
+
+    white = (255, 255, 255)
     for bx0, by0, bx1, by1 in wipe:
-        px0 = max(0, (bx0 - wx0) * zoom)
-        py0 = max(0, (by0 - y0) * zoom)
-        px1 = min(img.width, (bx1 - wx0) * zoom)
-        py1 = min(img.height, (by1 - y0) * zoom)
+        px0 = max(0, int((bx0 - wx0) * zoom))
+        py0 = max(0, int((by0 - y0) * zoom))
+        px1 = min(pix.width, int((bx1 - wx0) * zoom + 0.999))
+        py1 = min(pix.height, int((by1 - y0) * zoom + 0.999))
         if px1 > px0 and py1 > py0:
-            draw.rectangle([px0, py0, px1, py1], fill="white")
-    return img
+            pix.set_rect(fitz.IRect(px0, py0, px1, py1), white)
+    return pix
 
 
-def stack(images, out_path, gap=24, bg="white"):
+def stack(images, out_path, gap=24, bg=(255, 255, 255)):
     """Stack images vertically (for a crop that runs across a page break).
     All images share the same width because they share the same window, so
-    they line up without any alignment logic.
+    they line up without any alignment logic. `images` are fitz.Pixmap
+    objects, as returned by render().
     """
     width = max(im.width for im in images)
     height = sum(im.height for im in images) + gap * (len(images) - 1)
-    canvas = Image.new("RGB", (width, height), bg)
+    canvas = fitz.Pixmap(fitz.csRGB, fitz.IRect(0, 0, width, height), False)
+    canvas.set_rect(canvas.irect, bg)
     y = 0
     for im in images:
-        canvas.paste(im, (0, y))
+        im.set_origin(0, y)
+        canvas.copy(im, im.irect)
         y += im.height + gap
     canvas.save(out_path)
     return out_path
