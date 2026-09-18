@@ -172,23 +172,23 @@ def find_vraag_lines(page, y0=None, y1=None, max_gap=6.0, column_slack=60.0):
     the vraag's own left edge, so a figure label or caption sitting in the
     right-hand column at the same height is never absorbed into the vraag.
 
-    Gotcha (seen throughout HAVO-NAT-18-I-O.pdf): on pages where the points
-    marker ("3p") sits in its own narrow left column, its line bbox can
-    have a slightly different y0 than the question-number/text line on the
-    same visual row (font baseline differences) -- often enough to sort
-    the marker line AFTER that row's own number/text line in the (y0, x0)
-    sort. Since the old code only scanned forward from the marker's index
-    (`lines[i:]`), it silently dropped that row's own number and question
-    text, returning a vraag bbox/text that started mid-question. Fixed by
-    first pulling in any line whose y0 is within `row_tol` of the marker's
-    own y0 (regardless of sort position) before doing the forward-only
-    continuation scan. row_tol is deliberately small (a couple points, well
-    under one line-height) -- the real same-row offset seen is ~2pt, while
-    consecutive body-text lines (including a paragraph's last line running
-    directly into a marker with no blank line before it, seen on some
-    pages) are a full line-height (~14-16pt) apart, so this does not pull
-    in unrelated preceding content. Leaves single-line "3p 10 Bereken ..."
-    pages (where marker and text are already one line) unchanged.
+    Bug fixed here: the points marker ("3p") and its own vraag-number +
+    first text line ("1", "Leg met behulp...") sit on the same visual row
+    but almost always have slightly different line y0 (font-baseline
+    jitter -- the marker's y0 is consistently a couple points BELOW the
+    number/text it belongs to on every ExamenCentraal page checked). A
+    plain y0-sort places the marker AFTER its own number and first line,
+    so starting the group at the marker's sorted position (the old
+    `lines[i:]`) silently dropped that number and first line for every
+    SINGLE-LINE vraag (nothing to bring them back in as a wipe_all_except
+    keep-box). A multi-line vraag could accidentally survive anyway if a
+    later continuation line's wider x1 happened to widen the union box
+    enough to still overlap the missing first line/number -- which made
+    this look fine in spot checks and only render as "<punten>p" with
+    nothing else for the (common) single-line case. Fix: first collect the
+    marker's own ROW (every same-column line whose y-range overlaps the
+    marker's, searched over the WHOLE page, not just lines[i:]), then
+    continue downward from the bottom of that row exactly as before.
     """
     lines = sorted(text_lines(page), key=lambda l: (l[1], l[0]))
     starts = [i for i, l in enumerate(lines) if POINTS_RE.match(l[4])]
@@ -201,95 +201,41 @@ def find_vraag_lines(page, y0=None, y1=None, max_gap=6.0, column_slack=60.0):
         if y1 is not None and sy0 >= y1:
             continue
 
-        # row_tol was 2.5 but HAVO-NAT-21-I-O.pdf q7 has a marker/text
-        # same-row offset of 2.53pt -- just over that threshold, which
-        # silently dropped the question's own text line (leaving only "7
-        # 2p"). Real consecutive body-text lines are still a full
-        # line-height (~14-16pt) apart, so widening to 3.5 stays far below
-        # any real inter-line gap while covering this case too.
-        #
-        # HAVO-NAT-23-II-O.pdf has its own systematic marker/text baseline
-        # offset of 3.6pt (seen on vragen 8, 11, 17, 18, 19, 20 -- e.g. the
-        # "18"/"4p" line at y0=582.1/583.8 vs its own question-text line at
-        # y0=580.2), just over the 3.5 threshold, which again silently
-        # dropped the question's own sentence (leaving only "18 4p"). Real
-        # inter-line gaps in this exam are still >=13pt, so widening to 4.0
-        # stays far below any real gap while covering this offset too.
-        #
-        # Still not enough: HAVO-NAT-23-I-O.pdf uses a same-row offset of
-        # 3.58pt for EVERY SINGLE vraag in the document (4.27pt for two of
-        # them) -- confirmed by checking all 25 questions, all fall in the
-        # 3.58-4.27pt band. At row_tol=4.0 this again silently dropped the
-        # question's own text line for most of the exam (e.g. vraag 1
-        # rendered as "1 4p volle gasfles. Noteer je antwoord..." missing
-        # the whole first line "Bereken hoelang de barbecue kan branden als
-        # begonnen wordt met een"). Widening to 4.5 covers this exam's
-        # offsets too while staying far below any real inter-line gap
-        # (~14-16pt), so behaviour on prior exams is unchanged.
-        #
-        # One more class of offset, independent of the exam's own baseline
-        # offset: a question-text line that contains a Symbol/Times glyph at
-        # a LARGER point size than the surrounding Arial body text gets a
-        # line bbox whose y0 is pulled UP by that glyph's taller cell, on top
-        # of the exam's normal marker/text offset. Seen on q2 of
-        # HAVO-NAT-24-II-O.pdf: "Bereken de temperatuur van de bolletjes in
-        # °C." has its Arial spans at y0=741.3 (a normal 3.6pt offset from
-        # the "3p" marker at y0=744.9), but a 13pt SymbolMT '°' span starting
-        # at y0=739.1 drags the whole line bbox up, making the apparent
-        # offset 5.8pt. At row_tol=4.5 that silently dropped the question's
-        # entire text, leaving a crop and a bbox of just "2 3p". Degree
-        # signs, Ω, ℓ and Times-set numbers are everywhere in these exams, so
-        # this is not a one-off. Widening to 6.0 covers a full extra point of
-        # glyph-height inflation and still sits far below the smallest real
-        # inter-line gap in these documents (>=13pt), so no unrelated line
-        # can be pulled into a vraag.
-        row_tol = 6.0
-        same_row_idx = sorted(
-            j for j, l in enumerate(lines)
-            if l[0] <= sx0 + column_slack and abs(l[1] - sy0) <= row_tol
-        )
-        group = [lines[j] for j in same_row_idx]
-        prev = max(group, key=lambda l: l[3])
-        last_j = same_row_idx[-1]
-        # Right edge of the column accepted so far. Starts at the marker's
-        # own x0, but grows as deeper-indented continuation lines are
-        # accepted (see col_ref note below) -- plain forward-scan
-        # continuation (no bullets) never grows this, so behaviour there
-        # is unchanged.
-        col_ref = sx0
+        row = [
+            l for l in lines
+            if l[0] <= sx0 + column_slack
+            and l[1] < sy1 and l[3] > sy0  # true y-range overlap, no slack:
+            # the marker/number/text of one vraag always truly overlap in y
+            # (they're glyphs on the same visual line); a previous
+            # paragraph's last line never does, it only sits close above.
+            and (l is lines[i] or not POINTS_RE.match(l[4]))
+        ]
+        row.sort(key=lambda l: l[0])
+        row_bottom = max(l[3] for l in row)
 
-        for j in range(last_j + 1, len(lines)):
-            cand = lines[j]
-            if cand[0] > col_ref + column_slack:
-                continue
+        rest = [
+            l for l in lines
+            if l[0] <= sx0 + column_slack and l[1] >= row_bottom
+            and l not in row
+        ]
+        rest.sort(key=lambda l: (l[1], l[0]))
+
+        group = list(row)
+        prev_y1 = row_bottom
+        for cand in rest:
             if POINTS_RE.match(cand[4]):
                 break
-            if cand[1] - prev[3] > max_gap:
+            if cand[1] - prev_y1 > max_gap:
                 break
             group.append(cand)
-            prev = cand
-            # A "− opdracht" bullet list indents its own text a further
-            # ~20pt past the dash (e.g. dash at x0=104.9, its wrapped text
-            # at x0=124.7) -- both comfortably inside one column_slack step
-            # of each other, but a fixed sx0-only reference (as before)
-            # permanently excludes that indent once sx0 sits at the far
-            # left points column, silently truncating any wrapped bullet
-            # text (seen on q22 of HAVO-NAT-18-I-O.pdf: grouping broke off
-            # after the first bullet's dash, losing ~100pt of real
-            # question text -- a big gap that then also wrongly aborted
-            # the scan for the wrapped lines that were still to come).
-            # Only ever widening, and only by column_slack per accepted
-            # line, so this still cannot reach genuine right-hand-column
-            # content (figure captions in this exam start at x0>=276,
-            # far past anything reachable via legitimate list indents).
-            col_ref = max(col_ref, cand[0])
+            prev_y1 = max(prev_y1, cand[3])
 
         result.append({
             "x0": min(g[0] for g in group),
             "y0": min(g[1] for g in group),
             "x1": max(g[2] for g in group),
             "y1": max(g[3] for g in group),
-            "text": " ".join(g[4] for g in group),
+            "text": " ".join(g[4] for g in sorted(group, key=lambda l: (l[1], l[0]))),
         })
     return result
 
