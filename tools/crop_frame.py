@@ -294,6 +294,17 @@ def render(page, y0, y1, window, wipe=(), zoom=ZOOM):
     if pix.alpha:
         pix = fitz.Pixmap(pix, 0)  # drop alpha so set_rect's RGB triple matches n
 
+    # get_pixmap(clip=...) returns a pixmap whose .x/.y stay at the clip's
+    # page-space pixel offset (e.g. x=176, y=1179), not (0, 0). The wipe
+    # boxes below are computed as LOCAL pixel offsets from this crop's own
+    # top-left corner, but Pixmap.set_rect() interprets its IRect in the
+    # pixmap's own (non-zero) coordinate space -- passing local coordinates
+    # straight through silently no-ops (or whites out the wrong pixels)
+    # whenever the crop's origin isn't (0, 0), i.e. for almost every crop
+    # in the document. Resetting the origin makes set_rect's coordinate
+    # space match the local pixel offsets computed below.
+    pix.set_origin(0, 0)
+
     white = (255, 255, 255)
     for bx0, by0, bx1, by1 in wipe:
         px0 = max(0, int((bx0 - wx0) * zoom))
