@@ -25,12 +25,23 @@ import re
 
 
 def _find_statement_rows(text, table_name):
-    """Locate `insert into <table_name> (...) values <rows>;` and return the
-    raw text of each row (the content between one row's outer parens).
+    """Locate `insert into <table_name> (...) values <rows>;` and return
+    (column_names, rows) -- the column list exactly as declared in the
+    INSERT header, and the raw text of each row (the content between one
+    row's outer parens).
+
+    Returning the header's own column list (rather than a hardcoded schema
+    in the caller) is what lets this module parse an insert.sql generated
+    under an OLDER or NEWER table schema (e.g. practice_context_blocks
+    with or without an `image_width` column -- that column was dropped
+    from the STAP 5 template between the physics/chemistry exams and the
+    2025 ones) without needing a matching code change here every time the
+    schema changes upstream.
     """
-    header_match = re.search(r"insert\s+into\s+" + re.escape(table_name) + r"\s*\([^)]*\)\s*values", text, re.IGNORECASE)
+    header_match = re.search(r"insert\s+into\s+" + re.escape(table_name) + r"\s*\(([^)]*)\)\s*values", text, re.IGNORECASE)
     if not header_match:
         raise ValueError(f"no insert statement found for {table_name}")
+    columns = [c.strip() for c in header_match.group(1).split(",")]
     i = header_match.end()
     n = len(text)
     rows = []
@@ -76,7 +87,7 @@ def _find_statement_rows(text, table_name):
             i += 1
             continue
         if paren_depth == 0 and c == ";":
-            return rows
+            return columns, rows
         i += 1
     raise ValueError(f"unterminated insert statement for {table_name} (no trailing ';' found)")
 
@@ -175,25 +186,21 @@ def sql_file_to_payload(path):
 
 
 def sql_text_to_payload(text):
-    exercise_cols = ["id", "subject_name", "level", "title", "source"]
-    context_cols = ["id", "exercise_id", "label", "image_url", "image_width", "text_content", "block_type"]
-    question_cols = ["id", "exercise_id", "question_number", "topics", "keywords",
-                      "question_summary", "question_image_url", "image_width", "question_text", "context_block_ids"]
-
-    def rows_to_dicts(table, cols):
+    def rows_to_dicts(table):
+        cols, row_texts = _find_statement_rows(text, table)
         out = []
-        for row_text in _find_statement_rows(text, table):
+        for row_text in row_texts:
             fields = _split_fields(row_text)
             if len(fields) != len(cols):
-                raise ValueError(f"{table}: expected {len(cols)} fields, got {len(fields)} in row: {row_text[:120]!r}")
+                raise ValueError(f"{table}: expected {len(cols)} fields (from header {cols}), got {len(fields)} in row: {row_text[:120]!r}")
             values = [_parse_scalar(f) for f in fields]
             out.append(dict(zip(cols, values)))
         return out
 
     return {
-        "exercises": rows_to_dicts("practice_exercises", exercise_cols),
-        "context_blocks": rows_to_dicts("practice_context_blocks", context_cols),
-        "questions": rows_to_dicts("practice_questions", question_cols),
+        "exercises": rows_to_dicts("practice_exercises"),
+        "context_blocks": rows_to_dicts("practice_context_blocks"),
+        "questions": rows_to_dicts("practice_questions"),
     }
 
 

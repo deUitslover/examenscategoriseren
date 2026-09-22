@@ -75,6 +75,14 @@ ZOOM = 4
 # A subvraag always starts with a points marker like "3p" or "2p".
 POINTS_RE = re.compile(r"^\s*\d+\s*p\b")
 
+# Generous indent allowed when first collecting a vraag's own marker ROW
+# (see find_vraag_lines): wide enough for a sub-bullet's indented text
+# (~142.7, ~68pt right of a "1p"/"2p" marker at ~74.7) but well short of
+# where a genuinely separate right-hand column (a figure label/caption
+# sharing the same y by coincidence) sits in every ExamenCentraal exam
+# checked so far (x0 > 250).
+ROW_INDENT_SLACK = 150.0
+
 
 # ---------------------------------------------------------------- helpers
 
@@ -187,6 +195,40 @@ def find_vraag_lines(page, y0=None, y1=None, max_gap=6.0, column_slack=60.0):
     marker's own ROW (every same-column line whose y-range overlaps the
     marker's, searched over the WHOLE page, not just lines[i:]), then
     continue downward from the bottom of that row exactly as before.
+
+    Second bug fixed here (found on VWO-BIO-16-I-O.pdf, opgaven using a
+    "− ..." sub-bullet list, e.g. "− Beschrijf een gebeurtenis waaruit
+    blijkt dat de endosymbiose vergevorderd is."): the continuation filter
+    used to measure column_slack from the POINTS MARKER's own x0 (e.g.
+    "2p" at x=74.7), not from the vraag's actual body-text column (x=122.8
+    in this template). An indented sub-bullet's TEXT sits at x=142.7 --
+    only 20pt right of the body column, but 68pt right of the marker
+    column, which used to exceed the default 60pt slack and get silently
+    excluded from `rest`. When the vraag's own row is just a lone "−" with
+    nothing else at the body column (list starts immediately), the very
+    next accepted continuation line was then a LATER "−" more than
+    max_gap below, so the whole group stopped after just the marker row --
+    silently rendering a vraag crop containing only "2p 29 −" with the
+    actual question text missing entirely. (For most other vragen this
+    stayed invisible: an option letter or dash at x=122.8 sitting on the
+    same visual line as its indented text has a line bbox tall enough to
+    match that text's own y1, so the union bbox often reached the right
+    height by coincidence even while excluding the indented text lines
+    from `group` -- until a vraag had no such x=122.8 companion left to
+    coincidentally cover the final lines.) Fix: measure column_slack from
+    the row's own rightmost member (the body-text/bullet column actually
+    used by this vraag), not from the marker's column. The very first
+    pass (finding the marker's own row before that column is even known)
+    has the same problem for a marker/dash pair whose first TEXT line is
+    itself already indented (e.g. "2p" / "8" / "-" on one line with
+    "Beschrijf ... team 1 ..." starting at x=142.7 on the very same visual
+    row) -- that text line used to fail the sx0-based slack check in the
+    row pass itself and then ALSO fail the rest-pass check (its y0 sits
+    inside row_bottom, not after it), dropping it with no later pass able
+    to recover it. Fixed the same way: the row pass now also accepts
+    genuinely row-overlapping lines out to a generous fixed indent
+    (ROW_INDENT_SLACK), well short of the x>250 columns actual side-by-side
+    figures/captions sit at in every exam checked.
     """
     lines = sorted(text_lines(page), key=lambda l: (l[1], l[0]))
     starts = [i for i, l in enumerate(lines) if POINTS_RE.match(l[4])]
@@ -201,7 +243,7 @@ def find_vraag_lines(page, y0=None, y1=None, max_gap=6.0, column_slack=60.0):
 
         row = [
             l for l in lines
-            if l[0] <= sx0 + column_slack
+            if l[0] <= sx0 + max(column_slack, ROW_INDENT_SLACK)
             and l[1] < sy1 and l[3] > sy0  # true y-range overlap, no slack:
             # the marker/number/text of one vraag always truly overlap in y
             # (they're glyphs on the same visual line); a previous
@@ -210,10 +252,32 @@ def find_vraag_lines(page, y0=None, y1=None, max_gap=6.0, column_slack=60.0):
         ]
         row.sort(key=lambda l: l[0])
         row_bottom = max(l[3] for l in row)
+        # The row's own rightmost member is this vraag's actual body-text
+        # (or bullet) column -- e.g. 122.8 when the marker sits at 74.7 --
+        # not the marker's column itself. Sub-bullet TEXT is indented a
+        # further ~20pt from there (to ~142.7), well inside column_slack,
+        # but is ~68pt from the marker column, which used to exceed it.
+        body_x0 = max(l[0] for l in row)
 
+        # rest_limit normally just widens body_x0 by column_slack. But when
+        # the marker ROW itself is a single PyMuPDF line with marker+number+
+        # dash+text all merged (seen on VWO-BIO-16-II-O.pdf, opgave 1 vraag
+        # 7: "2p   7   −  Welke groep reducenten ... ammonium-" is one line
+        # at x0=74.8, the marker's OWN column), `row` has only that one
+        # member, so body_x0 == sx0 (74.8), not the real body/bullet column
+        # the vraag's WRAPPED continuation lines actually sit at (142.7,
+        # after a mid-word line break: "ammonium-" / "productie in het
+        # water?"). column_slack (60) from 74.8 reaches only to 134.8, just
+        # short of 142.7 -- silently dropping the rest of the vraag (here,
+        # the entire second "− Verklaar ..." bullet) with no warning. Also
+        # fall back to the same generous ROW_INDENT_SLACK used above (well
+        # short of a genuine side-by-side column at x>250) so a continuation
+        # is never lost just because this page's marker row happened to
+        # merge into one line instead of several.
+        rest_limit = max(body_x0 + column_slack, sx0 + ROW_INDENT_SLACK)
         rest = [
             l for l in lines
-            if l[0] <= sx0 + column_slack and l[1] >= row_bottom
+            if l[0] <= rest_limit and l[1] >= row_bottom
             and l not in row
         ]
         rest.sort(key=lambda l: (l[1], l[0]))
@@ -227,6 +291,40 @@ def find_vraag_lines(page, y0=None, y1=None, max_gap=6.0, column_slack=60.0):
                 break
             group.append(cand)
             prev_y1 = max(prev_y1, cand[3])
+
+        # Extension pass: some vragen combine two sub-questions into ONE
+        # multiple-choice table -- a short two-column header row (e.g.
+        # "curve" / "effect op O2-afgifte in de weefsels", or "osteocalcine
+        # is een" / "plaats testosteronreceptor") followed by lettered A-F
+        # option rows -- separated from the vraag's own question text by a
+        # full blank-paragraph-sized gap (~16pt, seen on VWO-BIO-16-II-O.pdf
+        # vragen 12, 15 and 36). That gap is not reliably distinguishable
+        # BY SIZE from the gap before a genuine new CONTEXT paragraph after
+        # a vraag (also ~16pt, e.g. vraag 1 on the same document) -- so the
+        # main continuation loop above (correctly) stops there and leaves
+        # the option table stranded as "context". But unlike this exam's
+        # real context paragraphs, which only ever enumerate with digits
+        # ("1 2 3"), a bare A-F letter on its own line ONLY ever appears as
+        # an MC option -- so if one turns up while scanning ahead (ignoring
+        # the gap check) before the next vraag marker, the whole span up to
+        # the end of that lettered block belongs to THIS vraag. Only look
+        # within the same column used above (rest_limit), so a genuine
+        # neighbouring figure/table in another column is never pulled in.
+        tail = [l for l in rest if l not in group]
+        tail.sort(key=lambda l: (l[1], l[0]))
+        letter_re = re.compile(r"^[A-F]$")
+        lookahead, last_letter_y1 = [], None
+        for cand in tail:
+            if POINTS_RE.match(cand[4]):
+                break
+            lookahead.append(cand)
+            if letter_re.match(cand[4].strip()):
+                last_letter_y1 = cand[3]
+        if last_letter_y1 is not None:
+            for cand in lookahead:
+                if cand[1] > last_letter_y1:
+                    break
+                group.append(cand)
 
         result.append({
             "x0": min(g[0] for g in group),
