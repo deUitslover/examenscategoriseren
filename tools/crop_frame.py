@@ -259,9 +259,25 @@ def find_vraag_lines(page, y0=None, y1=None, max_gap=6.0, column_slack=60.0):
         # but is ~68pt from the marker column, which used to exceed it.
         body_x0 = max(l[0] for l in row)
 
+        # rest_limit normally just widens body_x0 by column_slack. But when
+        # the marker ROW itself is a single PyMuPDF line with marker+number+
+        # dash+text all merged (seen on VWO-BIO-16-II-O.pdf, opgave 1 vraag
+        # 7: "2p   7   −  Welke groep reducenten ... ammonium-" is one line
+        # at x0=74.8, the marker's OWN column), `row` has only that one
+        # member, so body_x0 == sx0 (74.8), not the real body/bullet column
+        # the vraag's WRAPPED continuation lines actually sit at (142.7,
+        # after a mid-word line break: "ammonium-" / "productie in het
+        # water?"). column_slack (60) from 74.8 reaches only to 134.8, just
+        # short of 142.7 -- silently dropping the rest of the vraag (here,
+        # the entire second "− Verklaar ..." bullet) with no warning. Also
+        # fall back to the same generous ROW_INDENT_SLACK used above (well
+        # short of a genuine side-by-side column at x>250) so a continuation
+        # is never lost just because this page's marker row happened to
+        # merge into one line instead of several.
+        rest_limit = max(body_x0 + column_slack, sx0 + ROW_INDENT_SLACK)
         rest = [
             l for l in lines
-            if l[0] <= body_x0 + column_slack and l[1] >= row_bottom
+            if l[0] <= rest_limit and l[1] >= row_bottom
             and l not in row
         ]
         rest.sort(key=lambda l: (l[1], l[0]))
@@ -275,6 +291,40 @@ def find_vraag_lines(page, y0=None, y1=None, max_gap=6.0, column_slack=60.0):
                 break
             group.append(cand)
             prev_y1 = max(prev_y1, cand[3])
+
+        # Extension pass: some vragen combine two sub-questions into ONE
+        # multiple-choice table -- a short two-column header row (e.g.
+        # "curve" / "effect op O2-afgifte in de weefsels", or "osteocalcine
+        # is een" / "plaats testosteronreceptor") followed by lettered A-F
+        # option rows -- separated from the vraag's own question text by a
+        # full blank-paragraph-sized gap (~16pt, seen on VWO-BIO-16-II-O.pdf
+        # vragen 12, 15 and 36). That gap is not reliably distinguishable
+        # BY SIZE from the gap before a genuine new CONTEXT paragraph after
+        # a vraag (also ~16pt, e.g. vraag 1 on the same document) -- so the
+        # main continuation loop above (correctly) stops there and leaves
+        # the option table stranded as "context". But unlike this exam's
+        # real context paragraphs, which only ever enumerate with digits
+        # ("1 2 3"), a bare A-F letter on its own line ONLY ever appears as
+        # an MC option -- so if one turns up while scanning ahead (ignoring
+        # the gap check) before the next vraag marker, the whole span up to
+        # the end of that lettered block belongs to THIS vraag. Only look
+        # within the same column used above (rest_limit), so a genuine
+        # neighbouring figure/table in another column is never pulled in.
+        tail = [l for l in rest if l not in group]
+        tail.sort(key=lambda l: (l[1], l[0]))
+        letter_re = re.compile(r"^[A-F]$")
+        lookahead, last_letter_y1 = [], None
+        for cand in tail:
+            if POINTS_RE.match(cand[4]):
+                break
+            lookahead.append(cand)
+            if letter_re.match(cand[4].strip()):
+                last_letter_y1 = cand[3]
+        if last_letter_y1 is not None:
+            for cand in lookahead:
+                if cand[1] > last_letter_y1:
+                    break
+                group.append(cand)
 
         result.append({
             "x0": min(g[0] for g in group),
