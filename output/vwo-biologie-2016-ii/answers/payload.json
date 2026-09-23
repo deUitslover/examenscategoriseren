@@ -1,0 +1,624 @@
+{
+  "payload": {
+    "subject_name": "Biologie",
+    "level": "VWO",
+    "source": "VWO Biologie 2016-II",
+    "answers": [
+      {
+        "title": "Eendenkroos voor de koe",
+        "question_number": 1,
+        "answer_text": "voorbeelden van een juiste toelichting voor het ontbreken van houtvaten:\n− Door de bouw van het blad kunnen de benodigde anorganische stoffen de cellen makkelijk bereiken.\n− De plantjes zijn zo klein dat de cellen zouten rechtstreeks uit het water kunnen opnemen.\n− Waterplanten hebben minder steunweefsel nodig dankzij de opwaartse kracht van het water.\n− Ze hebben geen wortels die nutriënten opnemen en vervoeren naar de blaadjes.\n− Water kan de cellen van de blaadjes ook zonder houtvaten makkelijk bereiken.\n\nvoorbeelden van een juiste toelichting voor het ontbreken van bastvaten:\n− Vrijwel alle cellen in het blad kunnen organische stoffen maken, zodat transport hiervan niet nodig is.\n− De in de groene blaadjes geproduceerde stoffen worden ter plekke gebruikt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een juiste toelichting voor het ontbreken van houtvaten"
+          },
+          {
+            "points": 1,
+            "description": "een juiste toelichting voor het ontbreken van bastvaten"
+          }
+        ],
+        "grading_note": "Voor het antwoord dat kroosplantjes zo klein zijn dat voldoende transport door diffusie kan plaatsvinden en ze daardoor geen hout- en bastvaten nodig hebben wordt maximaal 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-eendenkroos-voor-de-koe-antw1.png"
+        ]
+      },
+      {
+        "title": "Eendenkroos voor de koe",
+        "question_number": 2,
+        "answer_text": "Uit het antwoord moet blijken dat in gebieden met intensieve landbouw\n• door (over)bemesting / uitspoeling van nutriënten (vanuit de landbouwgrond)\n• het water er relatief eutroof/voedselrijk is (waardoor kroos snel kan groeien)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "door (over)bemesting / uitspoeling van nutriënten (vanuit de landbouwgrond)"
+          },
+          {
+            "points": 1,
+            "description": "het water er relatief eutroof/voedselrijk is (waardoor kroos snel kan groeien)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-eendenkroos-voor-de-koe-antw2.png"
+        ]
+      },
+      {
+        "title": "Eendenkroos voor de koe",
+        "question_number": 3,
+        "answer_text": "Uit het antwoord moet blijken dat\n• naarmate de temperatuur toeneemt stofwisselingsprocessen/enzymreacties sneller verlopen\n• boven een bepaalde temperatuur steeds meer enzymmoleculen denatureren / hun werking verliezen (waardoor de fotosynthese steeds trager verloopt en de groei afneemt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "naarmate de temperatuur toeneemt stofwisselingsprocessen/enzymreacties sneller verlopen"
+          },
+          {
+            "points": 1,
+            "description": "boven een bepaalde temperatuur steeds meer enzymmoleculen denatureren / hun werking verliezen (waardoor de fotosynthese steeds trager verloopt en de groei afneemt)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-eendenkroos-voor-de-koe-antw3.png"
+        ]
+      },
+      {
+        "title": "Eendenkroos voor de koe",
+        "question_number": 4,
+        "answer_text": "A",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "juist antwoord: A (Lemna minor) — optietekst uit het opgavenboekje: A Lemna minor, B Lemna turionifera, C Spirodela polyrhiza; puntenaantal (2p) eveneens afkomstig uit het opgavenboekje"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-eendenkroos-voor-de-koe-antw4.png"
+        ]
+      },
+      {
+        "title": "Eendenkroos voor de koe",
+        "question_number": 5,
+        "answer_text": "voorbeelden van een juiste beschrijving van een natuurlijke variatie in de lichtintensiteit overdag:\n− De invalshoek van het licht: in het voorjaar en najaar staat de zon laag (en is er minder lichtenergie en daardoor minder groei van het kroos).\n− Oeverbegroeiing kan steeds hoger worden en schaduw geven.\n− Als kroos in dikke lagen groeit, krijgt de onderste laag steeds minder licht.\n− De daglengte varieert met de seizoenen (in de herfst worden de dagen korter, is er minder licht en dus minder fotosynthese).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "per juiste beschrijving van een natuurlijke variatie in de lichtintensiteit: 1 scorepunt, tot een maximum van 2 scorepunten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-eendenkroos-voor-de-koe-antw5.png"
+        ]
+      },
+      {
+        "title": "Eendenkroos voor de koe",
+        "question_number": 6,
+        "answer_text": "voorbeelden van een juiste verklaring:\n− Het kroosdek houdt zonlicht tegen, waardoor ondergedoken planten geen zuurstof meer kunnen produceren.\n− De krooslaag remt de diffusie van zuurstof van de lucht naar het water.\n− De ondergedoken waterplanten kunnen gaan rotten, waarbij de reducenten de zuurstof verbruiken.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "per juiste verklaring: 1 scorepunt, tot een maximum van 2 scorepunten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-eendenkroos-voor-de-koe-antw6.png"
+        ]
+      },
+      {
+        "title": "Eendenkroos voor de koe",
+        "question_number": 7,
+        "answer_text": "• ammonificerende bacteriën / rottingsbacteriën / urobacteriën\n• een juiste verklaring voor het lage nitraatgehalte als gevolg van het zuurstofarme milieu\n\nvoorbeelden van een juiste verklaring:\n− Door zuurstofgebrek in het water is er minder nitrificatie.\n− Nitrificerende bacteriën zijn aeroob en worden dus geremd (met als gevolg minder nitraat en meer ammonium).\n− Denitrificatie door anaerobe bacteriën neemt toe in het zuurstofarme water.\n− Er is door zuurstofgebrek meer ammonificatie, waarbij nitraat wordt omgezet in ammonium.\n− Door het zuurstofgebrek is er meer rottend materiaal waaruit NH₄⁺ wordt gevormd.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "ammonificerende bacteriën / rottingsbacteriën / urobacteriën"
+          },
+          {
+            "points": 1,
+            "description": "een juiste verklaring voor het lage nitraatgehalte als gevolg van het zuurstofarme milieu"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-eendenkroos-voor-de-koe-antw7.png"
+        ]
+      },
+      {
+        "title": "Eendenkroos voor de koe",
+        "question_number": 8,
+        "answer_text": "voorbeelden van een juist argument:\n− Bij de teelt van soja worden bestrijdingsmiddelen gebruikt (en bij de teelt van kroos niet).\n− Voor de teelt van eendenkroos wordt geen kunstmest gebruikt (en bij de teelt van soja wel).\n− Regenwoud wordt gekapt om grond te verkrijgen voor de teelt van soja (terwijl kroos in bestaande sloten kan groeien).\n− Voor het transport van soja vanuit het buitenland worden meer fossiele brandstoffen verbruikt (en kroos groeit dichtbij).\n− Eendenkroos kan de eutrofiëring door uitspoeling van mineralen in het water tegengaan (terwijl het verbouwen van soja juist uitspoeling van nutriënten kan veroorzaken).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "per juist argument: 1 scorepunt, tot een maximum van 2 scorepunten"
+          }
+        ],
+        "grading_note": "Voor het antwoord dat soja genetisch gemodificeerd kan zijn, of dat soja ook geschikt is als voedsel voor mensen (en eendenkroos niet), wordt geen scorepunt toegekend.",
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-eendenkroos-voor-de-koe-antw8.png"
+        ]
+      },
+      {
+        "title": "Kunstbloed",
+        "question_number": 9,
+        "answer_text": "A",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "juist antwoord: A (Het bloedplasma van de donor bevat antistoffen.) — optietekst uit het opgavenboekje: A Het bloedplasma van de donor bevat antistoffen, B Het bloedplasma van de donor bevat bloedgroepantigenen, C Het bloedplasma van de ontvanger bevat antistoffen, D Het bloedplasma van de ontvanger bevat bloedgroepantigenen; puntenaantal (2p) eveneens afkomstig uit het opgavenboekje"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-kunstbloed-antw9.png"
+        ]
+      },
+      {
+        "title": "Kunstbloed",
+        "question_number": 10,
+        "answer_text": "Uit het antwoord moet blijken dat\n• in rode bloedcellen (door aanwezigheid van het enzym koolzuuranhydrase) CO₂ wordt omgezet in HCO₃⁻\n• door het vervoer in de vorm van HCO₃⁻ in het bloedplasma de transportcapaciteit voor CO₂ van het bloed wordt vergroot / doordat HCO₃⁻ beter oplost in het plasma dan CO₂ de pCO₂ laag blijft en er meer CO₂ (uit de weefsels) naar het bloed kan diffunderen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "in rode bloedcellen (door aanwezigheid van het enzym koolzuuranhydrase) CO₂ wordt omgezet in HCO₃⁻"
+          },
+          {
+            "points": 1,
+            "description": "door het vervoer in de vorm van HCO₃⁻ in het bloedplasma de transportcapaciteit voor CO₂ van het bloed wordt vergroot / doordat HCO₃⁻ beter oplost in het plasma dan CO₂ de pCO₂ laag blijft en er meer CO₂ (uit de weefsels) naar het bloed kan diffunderen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-kunstbloed-antw10.png"
+        ]
+      },
+      {
+        "title": "Kunstbloed",
+        "question_number": 11,
+        "answer_text": "Uit het antwoord moet blijken dat\n• er voor dezelfde bloedhoeveelheid een kleiner vaatvolume is (met als gevolg een hogere bloeddruk) / door vaatvernauwing de weerstand groter wordt zodat een hogere druk nodig is om het bloed (per tijdseenheid dezelfde hoeveelheid) te verplaatsen\n• de (door Hb-fragmenten) verstopte nierkanaaltjes minder water kunnen uitscheiden om de bloeddruk te verlagen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "er voor dezelfde bloedhoeveelheid een kleiner vaatvolume is (met als gevolg een hogere bloeddruk) / door vaatvernauwing de weerstand groter wordt zodat een hogere druk nodig is om het bloed (per tijdseenheid dezelfde hoeveelheid) te verplaatsen"
+          },
+          {
+            "points": 1,
+            "description": "de (door Hb-fragmenten) verstopte nierkanaaltjes minder water kunnen uitscheiden om de bloeddruk te verlagen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-kunstbloed-antw11.png"
+        ]
+      },
+      {
+        "title": "Kunstbloed",
+        "question_number": 12,
+        "answer_text": "B",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "juist antwoord: B (curve L; O₂-afgifte gebeurt pas bij een lagere pO₂) — optietekst uit het opgavenboekje: A curve L / O2-afgifte gebeurt al bij een hogere pO2, B curve L / O2-afgifte gebeurt pas bij een lagere pO2, C curve R / O2-afgifte gebeurt al bij een hogere pO2, D curve R / O2-afgifte gebeurt pas bij een lagere pO2; puntenaantal (2p) eveneens afkomstig uit het opgavenboekje"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-kunstbloed-antw12.png"
+        ]
+      },
+      {
+        "title": "Kunstbloed",
+        "question_number": 13,
+        "answer_text": "A",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "juist antwoord: A (Het kan de kapsels van Bowman niet passeren.) — optietekst uit het opgavenboekje: A Het kan de kapsels van Bowman niet passeren, B Het kan de kapsels van Bowman ongehinderd passeren, C Het wordt vrijwel volledig uit de voorurine gere(ab)sorbeerd, D Het wordt niet uit de voorurine gere(ab)sorbeerd; puntenaantal (2p) eveneens afkomstig uit het opgavenboekje"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-kunstbloed-antw13.png"
+        ]
+      },
+      {
+        "title": "Kunstbloed",
+        "question_number": 14,
+        "answer_text": "Uit het antwoord moet blijken dat hiermee de basishoeveelheid IgE vastgesteld wordt / dat hiermee bepaald wordt welk effect het spuiten op zich heeft.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "hiermee wordt de basishoeveelheid IgE vastgesteld / hiermee wordt bepaald welk effect het spuiten op zich heeft"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-kunstbloed-antw14.png"
+        ]
+      },
+      {
+        "title": "Kunstbloed",
+        "question_number": 15,
+        "answer_text": "A",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "juist antwoord: A (hypothese 1 ondersteund door resultaten van groep 2 en 3; hypothese 2 ondersteund door resultaten van groep 2 en 4) — optietekst uit het opgavenboekje: A groep 2 en 3 / groep 2 en 4, B groep 2 en 3 / groep 3 en 4, C groep 2 en 4 / groep 2 en 3, D groep 2 en 4 / groep 3 en 4, E groep 3 en 4 / groep 2 en 3, F groep 3 en 4 / groep 2 en 4; puntenaantal (2p) eveneens afkomstig uit het opgavenboekje"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-kunstbloed-antw15.png"
+        ]
+      },
+      {
+        "title": "Kunstbloed",
+        "question_number": 16,
+        "answer_text": "C",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "juist antwoord: C (rijp mRNA) — optietekst uit het opgavenboekje: A DNA, B pre-mRNA, C rijp mRNA, D rRNA, E tRNA; puntenaantal (2p) eveneens afkomstig uit het opgavenboekje"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-kunstbloed-antw16.png"
+        ]
+      },
+      {
+        "title": "Kunstbloed",
+        "question_number": 17,
+        "answer_text": "het juiste antwoord:\n1 niet\n2 wel\n3 niet\n4 niet",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "juiste antwoord: 1 (menselijk weefsel) niet nodig, 2 (wadpierweefsel) wel nodig, 3 (gezuiverde Hb van de mens) niet nodig, 4 (gezuiverde Hb van de wadpier) niet nodig (materiaalomschrijving afkomstig uit het opgavenboekje) — indien vier juist: 2 punten; indien drie juist: 1 punt; indien minder dan drie juist: 0 punten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-kunstbloed-antw17.png"
+        ]
+      },
+      {
+        "title": "Schimmel als eiwitbron",
+        "question_number": 18,
+        "answer_text": "Uit het antwoord moet blijken dat de schimmel heterotroof is / dat de schimmel geen eiwitten / organische stoffen vormt uit (alleen) anorganische stoffen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "de schimmel is heterotroof / de schimmel vormt geen eiwitten / organische stoffen uit (alleen) anorganische stoffen"
+          }
+        ],
+        "grading_note": "Voor het antwoord dat de schimmel een consument of een reducent is, wordt geen scorepunt toegekend.",
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-schimmel-als-eiwitbron-antw18.png"
+        ]
+      },
+      {
+        "title": "Schimmel als eiwitbron",
+        "question_number": 19,
+        "answer_text": "voorbeelden van een juist antwoord:\n− De aerobe dissimilatie levert meer ATP op voor de voortgezette assimilatie (productie mycoproteïne).\n− Bij anaerobe dissimilatie ontstaan restproducten (melkzuur of alcohol) die de schimmelgroei kunnen remmen.\n− De aerobe dissimilatie levert per mol glucose meer energie op voor de productie van biomassa (en dus de opbrengst).\n− Bij anaerobe dissimilatie wordt meer glucose verbruikt (dan bij aerobe dissimilatie), waardoor er minder over is als bouwstof van mycoproteïne.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een juist verschil tussen aerobe en anaerobe dissimilatie"
+          },
+          {
+            "points": 1,
+            "description": "en de invloed daarvan op de opbrengst"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-schimmel-als-eiwitbron-antw19.png"
+        ]
+      },
+      {
+        "title": "Schimmel als eiwitbron",
+        "question_number": 20,
+        "answer_text": "Uit het antwoord moet blijken dat\n• bij een te hoge flow er meer schimmel wordt uitgespoeld dan dat er bij kan groeien, waardoor er steeds minder productie is / er veel glucose doorspoelt zonder dat de schimmel die heeft kunnen omzetten (verspilling voedingsstoffen)\n• bij een te lage flow een tekort ontstaat aan een bepaalde voedingsstof / aan zuurstof / er ophoping van afvalstoffen / er ruimtegebrek ontstaat, waardoor de groei wordt geremd",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij een te hoge flow er meer schimmel wordt uitgespoeld dan dat er bij kan groeien, waardoor er steeds minder productie is / er veel glucose doorspoelt zonder dat de schimmel die heeft kunnen omzetten (verspilling voedingsstoffen)"
+          },
+          {
+            "points": 1,
+            "description": "bij een te lage flow een tekort ontstaat aan een bepaalde voedingsstof / aan zuurstof / er ophoping van afvalstoffen / er ruimtegebrek ontstaat, waardoor de groei wordt geremd"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-schimmel-als-eiwitbron-antw20.png"
+        ]
+      },
+      {
+        "title": "Schimmel als eiwitbron",
+        "question_number": 21,
+        "answer_text": "voorbeeld van een juist antwoord:\nNa elke deling moeten bouwstoffen gemaakt worden voor de dochtercellen. Er is dan meer mRNA, want dat bevat de genetische code voor de verschillende (bouw)eiwitten.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "mRNA is nodig voor de productie van eiwitten/enzymen"
+          },
+          {
+            "points": 1,
+            "description": "tijdens een deling / voor celgroei na een deling zijn er meer eiwitten/enzymen nodig"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-schimmel-als-eiwitbron-antw21.png"
+        ]
+      },
+      {
+        "title": "Schimmel als eiwitbron",
+        "question_number": 22,
+        "answer_text": "E",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "juist antwoord: E (alleen in 2 en 3) — optietekst uit het opgavenboekje: A alleen in 1, B alleen in 2, C alleen in 3, D alleen in 1 en 2, E alleen in 2 en 3, F in zowel 1 als 2 als 3; puntenaantal (2p) eveneens afkomstig uit het opgavenboekje"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-schimmel-als-eiwitbron-antw22.png"
+        ]
+      },
+      {
+        "title": "Schimmel als eiwitbron",
+        "question_number": 23,
+        "answer_text": "A",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "juist antwoord: A (adenine en guanine) — optietekst uit het opgavenboekje: A adenine en guanine, B adenine en uracil, C cytosine en thymine, D cytosine en uracil; puntenaantal (2p) eveneens afkomstig uit het opgavenboekje"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-schimmel-als-eiwitbron-antw23.png"
+        ]
+      },
+      {
+        "title": "Duikende zeezoogdieren",
+        "question_number": 24,
+        "answer_text": "B",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "juist antwoord: B (alleen 1) — optietekst uit het opgavenboekje: A geen van beide, B alleen 1, C alleen 2, D zowel 1 als 2; puntenaantal (2p) eveneens afkomstig uit het opgavenboekje"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-duikende-zeezoogdieren-antw24.png"
+        ]
+      },
+      {
+        "title": "Duikende zeezoogdieren",
+        "question_number": 25,
+        "answer_text": "C",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "juist antwoord: C (het parasympathische deel van het autonome zenuwstelsel) — optietekst uit het opgavenboekje: A het animale zenuwstelsel, B het orthosympatische deel van het autonome zenuwstelsel, C het parasympathische deel van het autonome zenuwstelsel; puntenaantal (2p) eveneens afkomstig uit het opgavenboekje"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-duikende-zeezoogdieren-antw25.png"
+        ]
+      },
+      {
+        "title": "Duikende zeezoogdieren",
+        "question_number": 26,
+        "answer_text": "voorbeelden van een juist antwoord:\n− Indien perifere organen minder doorbloed worden, zullen ze minder zuurstof verbruiken (voor verbranding) waardoor er langere tijd voldoende zuurstof is voor de vitale organen.\n− Doordat de perifere organen minder CO₂ zullen afgeven (en het bloed minder verzuurt) blijft de ademprikkel langer uit en wordt de duiktijd verlengd.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "in de perifere organen minder O₂-verbruik/CO₂-productie"
+          },
+          {
+            "points": 1,
+            "description": "met een daarbij passende verklaring voor de verlengde duiktijd"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-duikende-zeezoogdieren-antw26.png"
+        ]
+      },
+      {
+        "title": "Duikende zeezoogdieren",
+        "question_number": 27,
+        "answer_text": "Uit het antwoord moet blijken dat\n• door de miltcontractie een extra voorraad rode bloedcellen met zuurstof in de bloedbaan komt\n• die geleidelijk beschikbaar komt doordat de kringspier de bloedstroom afremt (waardoor de duiktijd wordt verlengd)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "door de miltcontractie een extra voorraad rode bloedcellen met zuurstof in de bloedbaan komt"
+          },
+          {
+            "points": 1,
+            "description": "die geleidelijk beschikbaar komt doordat de kringspier de bloedstroom afremt (waardoor de duiktijd wordt verlengd)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-duikende-zeezoogdieren-antw27.png"
+        ]
+      },
+      {
+        "title": "Duikende zeezoogdieren",
+        "question_number": 28,
+        "answer_text": "C",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "juist antwoord: C (acht alfa-helices) — optietekst uit het opgavenboekje: A één globine-eiwit, B één heemgroep, C acht alfa-helices, D 153 aminozuren; puntenaantal (2p) eveneens afkomstig uit het opgavenboekje"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-duikende-zeezoogdieren-antw28.png"
+        ]
+      },
+      {
+        "title": "Duikende zeezoogdieren",
+        "question_number": 29,
+        "answer_text": "voorbeelden van een juist antwoord:\n− De resultaten uit de gel stemmen goed overeen, want de myoglobines van landdieren (varken, schaap, rund) lopen minder ver in de gel. Ze zijn dus minder positief geladen en hebben blijkbaar een lagere Z_Mb.\n− Hoe positiever geladen, hoe sneller de moleculen in de gel lopen. Myoglobines van zeezoogdieren zijn het verst gekomen in de gel, dus die zijn meer positief geladen dan die van landdieren, en dat stemt overeen met de gegevens in afbeelding 3.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "voor een juist verband tussen de loopafstand in de gel en de positieve lading van de myoglobine"
+          },
+          {
+            "points": 1,
+            "description": "met een juiste conclusie over de overeenstemming van de Z_Mb met het type dier (zeezoogdier of landdier)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-duikende-zeezoogdieren-antw29.png"
+        ]
+      },
+      {
+        "title": "Duikende zeezoogdieren",
+        "question_number": 30,
+        "answer_text": "Uit het antwoord moet blijken dat\n• 1,26 de waarde is bij de (gewone) wasbeer en de reuzenpanda\n• dat zijn de enige soorten waarbij (volgens de gegevens) vanaf de gemeenschappelijke voorouder geen (ladingbeïnvloedende) mutaties zijn opgetreden",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "1,26 de waarde is bij de (gewone) wasbeer en de reuzenpanda"
+          },
+          {
+            "points": 1,
+            "description": "dat zijn de enige soorten waarbij (volgens de gegevens) vanaf de gemeenschappelijke voorouder geen (ladingbeïnvloedende) mutaties zijn opgetreden"
+          }
+        ],
+        "grading_note": "Indien naast (een van) bovenstaande soorten ook de Amerikaanse nerts wordt genoemd, met de uitleg dat de twee mutaties (met een tegengesteld effect) geen ladingverandering veroorzaken, worden 2 scorepunten toegekend.",
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-duikende-zeezoogdieren-antw30.png"
+        ]
+      },
+      {
+        "title": "Duikende zeezoogdieren",
+        "question_number": 31,
+        "answer_text": "Uit het antwoord moet blijken dat eenzelfde aminozuur gecodeerd kan worden door verschillende codons (in het DNA/mRNA).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eenzelfde aminozuur kan gecodeerd worden door verschillende codons (in het DNA/mRNA)"
+          }
+        ],
+        "grading_note": "Voor het antwoord dat in het DNA mogelijk ook introns (tussen de afgelezen exons) aanwezig zijn, wordt 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-duikende-zeezoogdieren-antw31.png"
+        ]
+      },
+      {
+        "title": "Duikende zeezoogdieren",
+        "question_number": 32,
+        "answer_text": "B",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "juist antwoord: B (ongeveer 4 minuten) — optietekst uit het opgavenboekje: A ongeveer 1,5 minuten, B ongeveer 4 minuten, C ongeveer 8 minuten, D ongeveer een kwartier; puntenaantal (2p) eveneens afkomstig uit het opgavenboekje"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-duikende-zeezoogdieren-antw32.png"
+        ]
+      },
+      {
+        "title": "Bot bepaalt vruchtbaarheid",
+        "question_number": 33,
+        "answer_text": "Uit het antwoord moet blijken dat\n• spermatogonia de (stam)cellen zijn waaruit jarenlang spermacellen gevormd moeten kunnen worden\n• na mitotische deling een van de twee dochtercellen weer een stamcel is / door meiotische delingen deze cellen op zouden raken",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "spermatogonia de (stam)cellen zijn waaruit jarenlang spermacellen gevormd moeten kunnen worden"
+          },
+          {
+            "points": 1,
+            "description": "na mitotische deling een van de twee dochtercellen weer een stamcel is / door meiotische delingen deze cellen op zouden raken"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-bot-bepaalt-vruchtbaarheid-antw33.png"
+        ]
+      },
+      {
+        "title": "Bot bepaalt vruchtbaarheid",
+        "question_number": 34,
+        "answer_text": "voorbeeld van een juist antwoord:\nDoordat de FSH-afgifte geremd wordt, produceren Sertoli-cellen minder ABP. Daardoor wordt er minder testosteron naar het lumen vervoerd, met als gevolg minder spermatogenese (en dus onvruchtbaarheid).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "voor een juist verband tussen remming FSH en ABP-productie (via LH/ICSH) door cellen van Sertoli"
+          },
+          {
+            "points": 1,
+            "description": "vervoer van testosteron (gebonden aan ABP) naar lumen is nodig voor spermatogenese (en dus voor de vruchtbaarheid)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-bot-bepaalt-vruchtbaarheid-antw34.png"
+        ]
+      },
+      {
+        "title": "Bot bepaalt vruchtbaarheid",
+        "question_number": 35,
+        "answer_text": "C",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "juist antwoord: C (alleen 2) — optietekst uit het opgavenboekje: A geen van beide, B alleen 1, C alleen 2, D zowel 1 als 2; puntenaantal (2p) eveneens afkomstig uit het opgavenboekje"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-bot-bepaalt-vruchtbaarheid-antw35.png"
+        ]
+      },
+      {
+        "title": "Bot bepaalt vruchtbaarheid",
+        "question_number": 36,
+        "answer_text": "B",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "juist antwoord: B (osteocalcine is een peptidehormoon; plaats testosteronreceptor: cytoplasma) — optietekst uit het opgavenboekje: A peptidehormoon / celmembraan, B peptidehormoon / cytoplasma, C steroïdhormoon / celmembraan, D steroïdhormoon / cytoplasma; puntenaantal (2p) eveneens afkomstig uit het opgavenboekje"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-bot-bepaalt-vruchtbaarheid-antw36.png"
+        ]
+      },
+      {
+        "title": "Bot bepaalt vruchtbaarheid",
+        "question_number": 37,
+        "answer_text": "voorbeelden van een juiste voorwaarde:\n− De onvruchtbaarheid is het gevolg van een tekort aan testosteron.\n− Er zijn functionele GPRC6A-receptoren.\n− De doelwitcellen moeten normaal reageren op testosteron.\n− Er zijn voldoende cellen van Leydig.\n− De genen betrokken bij de testosteronproductie zijn intact.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een juiste voorwaarde (één van de genoemde voorbeelden volstaat voor het maximum van 1 scorepunt)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "biologie-vwo-2016-ii-bot-bepaalt-vruchtbaarheid-antw37.png"
+        ]
+      }
+    ]
+  }
+}

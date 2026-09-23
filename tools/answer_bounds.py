@@ -57,8 +57,11 @@ def find_question_starts(lines, question_numbers):
     for n in question_numbers:
         pat = re.compile(rf"^{n}\b[\s.]*(maximumscore\b.*)?$")
         bare_pat = re.compile(rf"^{n}$")
-        letter_pat = re.compile(r"^[A-E]$")
-        merged_mc_pat = re.compile(rf"^{n}\s+[A-E]$")
+        # A-F, not A-E: VWO-BIO-16-I-CV.pdf has six-option MC questions
+        # (e.g. question 22's answer is "F"), matching the range crop_frame
+        # .find_vraag_lines already uses for the same reason.
+        letter_pat = re.compile(r"^[A-F]$")
+        merged_mc_pat = re.compile(rf"^{n}\s+[A-F]$")
         found = None
         for i in range(cursor, len(lines)):
             pi, y0, y1, text = lines[i]
@@ -67,21 +70,67 @@ def find_question_starts(lines, question_numbers):
                 found = (pi, y0)
                 cursor = i + 1
                 break
-            if bare_pat.match(t) and i + 1 < len(lines):
-                npi, ny0, ny1, ntext = lines[i + 1]
-                if npi == pi and abs(ny0 - y0) < 0.5 and letter_pat.match(ntext.strip()):
-                    found = (pi, y0)
-                    cursor = i + 2
-                    break
+            if bare_pat.match(t):
+                # A bare vraagnummer next to a bare answer-letter is a
+                # multiple-choice row (Vraag/Antwoord/Scores table, no
+                # "maximumscore" text at all). Normally the letter is the
+                # NEXT line, but on at least one ExamenCentraal CV
+                # (VWO-BIO-16-I-CV.pdf, question 4: "C" then "4") the
+                # letter's bbox y0 sits a hair ABOVE the number's, so it
+                # sorts as the PREVIOUS line instead -- the same baseline-
+                # jitter-flips-the-sort-order issue as the "maximumscore"
+                # case above. Check both neighbours (same page, near-equal
+                # y0) so either layout is recognised.
+                # Tolerance widened from 0.5 to 1.5: VWO-BIO-16-I-CV.pdf's
+                # "C" / "4" pair (question 4) sits 0.98pt apart, same order
+                # of magnitude as the "maximumscore"/number jitter above --
+                # still far short of a real inter-line gap (13pt+).
+                if i + 1 < len(lines):
+                    npi, ny0, ny1, ntext = lines[i + 1]
+                    if npi == pi and abs(ny0 - y0) < 1.5 and letter_pat.match(ntext.strip()):
+                        found = (pi, min(y0, ny0))
+                        cursor = i + 2
+                        break
+                if i > 0:
+                    ppi, py0, py1, ptext = lines[i - 1]
+                    if ppi == pi and abs(py0 - y0) < 1.5 and letter_pat.match(ptext.strip()):
+                        # Use the earlier of the two y0's (usually the
+                        # letter's, per the jitter noted above) as the true
+                        # top of this row, so compute_segments' resulting
+                        # crop never starts a hair below the row's real top
+                        # edge -- see the module-level note on this fix.
+                        found = (pi, min(y0, py0))
+                        cursor = i + 1
+                        break
             if pat.match(t):
                 if "maximumscore" in t:
                     found = (pi, y0)
                     cursor = i + 1
                     break
                 else:
-                    window = lines[i : i + 4]
+                    # Look one line BACK as well as three forward: on at
+                    # least one ExamenCentraal CV (VWO-BIO-16-I-CV.pdf) the
+                    # "maximumscore" line's bbox y0 sits a hair ABOVE the
+                    # vraagnummer line's own y0 (baseline jitter between the
+                    # two different font sizes), the mirror image of the
+                    # vraag-marker row jitter already documented in
+                    # crop_frame.find_vraag_lines. A forward-only window
+                    # then misses the marker's own real "maximumscore" line
+                    # entirely and silently latches onto some unrelated
+                    # later line that happens to equal str(n) (e.g. a "1"
+                    # scorepunt value), producing a wrong-but-no-error start
+                    # position. Checking one line back (same page only, so
+                    # a previous page's trailing content can never bleed
+                    # in) fixes this without weakening the forward check.
+                    prev = lines[i - 1] if i > 0 and lines[i - 1][0] == pi else None
+                    window = ([prev] if prev else []) + lines[i : i + 4]
                     if any("maximumscore" in w[3] for w in window):
-                        found = (pi, y0)
+                        # If the preceding line is the one that actually
+                        # carries "maximumscore", its y0 is the row's real
+                        # top edge (see note above) -- use it, not the
+                        # vraagnummer line's own (later) y0.
+                        row_y0 = prev[1] if prev and "maximumscore" in prev[3] else y0
+                        found = (pi, min(y0, row_y0))
                         cursor = i + 1
                         break
         if found is None:
