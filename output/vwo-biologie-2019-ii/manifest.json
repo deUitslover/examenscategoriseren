@@ -1,0 +1,70 @@
+{
+  "source": "VWO Biologie 2019-II",
+  "subject_name": "Biologie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Hoe wild blijft de nieuwe wildernis?",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Insecten bestrijden met RNAi",
+      "question_numbers": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Leven met cystic fibrosis",
+      "question_numbers": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "title": "Zijn bittere spruitjes lekker?",
+      "question_numbers": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "title": "Vaccineren tegen mazelen",
+      "question_numbers": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ]
+    }
+  ]
+}
