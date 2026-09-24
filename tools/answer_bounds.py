@@ -61,6 +61,11 @@ def find_question_starts(lines, question_numbers):
         # (e.g. question 22's answer is "F"), matching the range crop_frame
         # .find_vraag_lines already uses for the same reason.
         letter_pat = re.compile(r"^[A-F]$")
+        # A bare answer letter followed by a scoring note on the SAME line
+        # (seen on VWO-BIO-18-I-CV.pdf, question 10: "C altijd 2 punten
+        # toekennen" immediately above the "10" marker line) -- not just a
+        # lone letter, so letter_pat alone misses it.
+        letter_note_pat = re.compile(r"^[A-F]\s+\S")
         merged_mc_pat = re.compile(rf"^{n}\s+[A-F]$")
         found = None
         for i in range(cursor, len(lines)):
@@ -93,7 +98,9 @@ def find_question_starts(lines, question_numbers):
                         break
                 if i > 0:
                     ppi, py0, py1, ptext = lines[i - 1]
-                    if ppi == pi and abs(py0 - y0) < 1.5 and letter_pat.match(ptext.strip()):
+                    if ppi == pi and abs(py0 - y0) < 1.5 and (
+                        letter_pat.match(ptext.strip()) or letter_note_pat.match(ptext.strip())
+                    ):
                         # Use the earlier of the two y0's (usually the
                         # letter's, per the jitter noted above) as the true
                         # top of this row, so compute_segments' resulting
