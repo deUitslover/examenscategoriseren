@@ -1,0 +1,70 @@
+{
+  "source": "VWO Biologie 2018-II",
+  "subject_name": "Biologie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "De lauwbloedige koningsvis",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Nieuwe eilandjes voor de alvleesklier",
+      "question_numbers": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Een bijzondere band tussen grootvader en kleinkind",
+      "question_numbers": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "title": "Biologische productie van waterstofgas",
+      "question_numbers": [
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "title": "Wat te doen aan de muizenplagen?",
+      "question_numbers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ]
+    }
+  ]
+}
