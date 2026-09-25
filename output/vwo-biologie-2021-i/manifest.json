@@ -1,0 +1,71 @@
+{
+  "source": "VWO Biologie 2021-I",
+  "subject_name": "Biologie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Ledlampjes voorkomen hartritmestoornis",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Een vismigratierivier",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Yoghurt zonder klonten",
+      "question_numbers": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "title": "Aardappels veredelen",
+      "question_numbers": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "title": "Teken en de ziekte van Lyme",
+      "question_numbers": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ]
+    }
+  ]
+}
