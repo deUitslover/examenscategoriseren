@@ -109,6 +109,36 @@ def find_question_starts(lines, question_numbers):
                         found = (pi, min(y0, py0))
                         cursor = i + 1
                         break
+                if found is None and i > 1:
+                    # A THIRD MC row layout, seen throughout
+                    # VWO-BIO-21-II-CV.pdf (every single MC question in
+                    # that document, e.g. question 12: "A" (y0=736.50),
+                    # "2" (y0=736.50, the score), "12" (y0=737.48, this
+                    # line)): the row's own score digit sits BETWEEN the
+                    # answer text and the vraagnummer line, all three at
+                    # (near-)equal y0. The plain i-1 check just above only
+                    # ever looks at that score digit itself (which is
+                    # letter_pat/letter_note_pat-negative, being a bare
+                    # number) and never reaches the answer text one line
+                    # further back. This layout also carries a multi-letter
+                    # accepted answer, "D of B" (question 30, same
+                    # document), which letter_pat/letter_note_pat cannot
+                    # match at all since it isn't a single A-F letter.
+                    # Fix: within this near-equal-y0 3-line cluster, any
+                    # line that is NOT itself a bare integer (i.e. not
+                    # another score/vraagnummer digit) is the row's answer
+                    # text, whatever it says.
+                    p2i, p2y0, p2y1, p2text = lines[i - 2]
+                    mid_pi, mid_y0, mid_y1, mid_text = lines[i - 1]
+                    if (
+                        p2i == pi and mid_pi == pi
+                        and abs(p2y0 - y0) < 1.5 and abs(mid_y0 - y0) < 1.5
+                        and not re.match(r"^\d+$", p2text.strip())
+                        and re.match(r"^\d+$", mid_text.strip())
+                    ):
+                        found = (pi, min(y0, p2y0, mid_y0))
+                        cursor = i + 1
+                        break
             if pat.match(t):
                 if "maximumscore" in t:
                     found = (pi, y0)
