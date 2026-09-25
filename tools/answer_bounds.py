@@ -90,23 +90,75 @@ def find_question_starts(lines, question_numbers):
                 # "C" / "4" pair (question 4) sits 0.98pt apart, same order
                 # of magnitude as the "maximumscore"/number jitter above --
                 # still far short of a real inter-line gap (13pt+).
-                if i + 1 < len(lines):
-                    npi, ny0, ny1, ntext = lines[i + 1]
-                    if npi == pi and abs(ny0 - y0) < 1.5 and letter_pat.match(ntext.strip()):
-                        found = (pi, min(y0, ny0))
-                        cursor = i + 2
+                #
+                # Widened from checking only lines[i-1]/lines[i+1] to a
+                # small same-page window (VWO-BIO-21-I-CV.pdf, question 1):
+                # the row's Scores-column digit can itself land BETWEEN the
+                # answer-letter and the vraagnummer in sort order (letter
+                # "A" and score "2" both at y0=149.75, vraagnummer "1" at
+                # y0=150.73 -- so the letter is TWO positions back, not
+                # one), which the single-neighbour check silently missed.
+                # A missed MC row here is not just a missed match: the scan
+                # then falls through to the generic "pat" branch below,
+                # whose own forward window (lines[i:i+4]) can latch onto a
+                # LATER, unrelated question's "maximumscore" line that
+                # happens to fall within 4 lines of some coincidental later
+                # bare "N" (e.g. a scoring-point value equal to N) --
+                # producing a confidently-wrong start position with no
+                # error raised at all. Scanning a wider same-page,
+                # near-equal-y0 window up to 3 lines either side (still far
+                # inside a real single visual row, far short of the 13pt+
+                # gap to the next row) finds the letter regardless of which
+                # column's value the sort happened to place in between.
+                window = [
+                    (j, lines[j]) for j in range(max(0, i - 3), min(len(lines), i + 4))
+                    if j != i
+                ]
+                letter_hit = None
+                for j, (wpi, wy0, wy1, wtext) in window:
+                    if wpi != pi or abs(wy0 - y0) >= 1.5:
+                        continue
+                    wt = wtext.strip()
+                    if letter_pat.match(wt) or letter_note_pat.match(wt):
+                        letter_hit = (j, wy0)
                         break
-                if i > 0:
-                    ppi, py0, py1, ptext = lines[i - 1]
-                    if ppi == pi and abs(py0 - y0) < 1.5 and (
-                        letter_pat.match(ptext.strip()) or letter_note_pat.match(ptext.strip())
+                if letter_hit is not None:
+                    j, ly0 = letter_hit
+                    # Use the earlier of the two y0's (usually the letter's,
+                    # per the jitter noted above) as the true top of this
+                    # row, so compute_segments' resulting crop never starts
+                    # a hair below the row's real top edge.
+                    found = (pi, min(y0, ly0))
+                    cursor = max(i, j) + 1
+                    break
+                if found is None and i > 1:
+                    # A THIRD MC row layout, seen throughout
+                    # VWO-BIO-21-II-CV.pdf (every single MC question in
+                    # that document, e.g. question 12: "A" (y0=736.50),
+                    # "2" (y0=736.50, the score), "12" (y0=737.48, this
+                    # line)): the row's own score digit sits BETWEEN the
+                    # answer text and the vraagnummer line, all three at
+                    # (near-)equal y0. The letter_hit search just above only
+                    # matches a single A-F letter or "LETTER + note" line,
+                    # so it never reaches the answer text one line further
+                    # back when that text isn't shaped like a plain letter.
+                    # This layout also carries a multi-letter accepted
+                    # answer, "D of B" (question 30, same document), which
+                    # letter_pat/letter_note_pat cannot match at all since
+                    # it isn't a single A-F letter. Fix: within this
+                    # near-equal-y0 3-line cluster, any line that is NOT
+                    # itself a bare integer (i.e. not another score/
+                    # vraagnummer digit) is the row's answer text, whatever
+                    # it says.
+                    p2i, p2y0, p2y1, p2text = lines[i - 2]
+                    mid_pi, mid_y0, mid_y1, mid_text = lines[i - 1]
+                    if (
+                        p2i == pi and mid_pi == pi
+                        and abs(p2y0 - y0) < 1.5 and abs(mid_y0 - y0) < 1.5
+                        and not re.match(r"^\d+$", p2text.strip())
+                        and re.match(r"^\d+$", mid_text.strip())
                     ):
-                        # Use the earlier of the two y0's (usually the
-                        # letter's, per the jitter noted above) as the true
-                        # top of this row, so compute_segments' resulting
-                        # crop never starts a hair below the row's real top
-                        # edge -- see the module-level note on this fix.
-                        found = (pi, min(y0, py0))
+                        found = (pi, min(y0, p2y0, mid_y0))
                         cursor = i + 1
                         break
             if pat.match(t):
