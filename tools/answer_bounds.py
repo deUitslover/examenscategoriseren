@@ -90,25 +90,47 @@ def find_question_starts(lines, question_numbers):
                 # "C" / "4" pair (question 4) sits 0.98pt apart, same order
                 # of magnitude as the "maximumscore"/number jitter above --
                 # still far short of a real inter-line gap (13pt+).
-                if i + 1 < len(lines):
-                    npi, ny0, ny1, ntext = lines[i + 1]
-                    if npi == pi and abs(ny0 - y0) < 1.5 and letter_pat.match(ntext.strip()):
-                        found = (pi, min(y0, ny0))
-                        cursor = i + 2
+                #
+                # Widened from checking only lines[i-1]/lines[i+1] to a
+                # small same-page window (VWO-BIO-21-I-CV.pdf, question 1):
+                # the row's Scores-column digit can itself land BETWEEN the
+                # answer-letter and the vraagnummer in sort order (letter
+                # "A" and score "2" both at y0=149.75, vraagnummer "1" at
+                # y0=150.73 -- so the letter is TWO positions back, not
+                # one), which the single-neighbour check silently missed.
+                # A missed MC row here is not just a missed match: the scan
+                # then falls through to the generic "pat" branch below,
+                # whose own forward window (lines[i:i+4]) can latch onto a
+                # LATER, unrelated question's "maximumscore" line that
+                # happens to fall within 4 lines of some coincidental later
+                # bare "N" (e.g. a scoring-point value equal to N) --
+                # producing a confidently-wrong start position with no
+                # error raised at all. Scanning a wider same-page,
+                # near-equal-y0 window up to 3 lines either side (still far
+                # inside a real single visual row, far short of the 13pt+
+                # gap to the next row) finds the letter regardless of which
+                # column's value the sort happened to place in between.
+                window = [
+                    (j, lines[j]) for j in range(max(0, i - 3), min(len(lines), i + 4))
+                    if j != i
+                ]
+                letter_hit = None
+                for j, (wpi, wy0, wy1, wtext) in window:
+                    if wpi != pi or abs(wy0 - y0) >= 1.5:
+                        continue
+                    wt = wtext.strip()
+                    if letter_pat.match(wt) or letter_note_pat.match(wt):
+                        letter_hit = (j, wy0)
                         break
-                if i > 0:
-                    ppi, py0, py1, ptext = lines[i - 1]
-                    if ppi == pi and abs(py0 - y0) < 1.5 and (
-                        letter_pat.match(ptext.strip()) or letter_note_pat.match(ptext.strip())
-                    ):
-                        # Use the earlier of the two y0's (usually the
-                        # letter's, per the jitter noted above) as the true
-                        # top of this row, so compute_segments' resulting
-                        # crop never starts a hair below the row's real top
-                        # edge -- see the module-level note on this fix.
-                        found = (pi, min(y0, py0))
-                        cursor = i + 1
-                        break
+                if letter_hit is not None:
+                    j, ly0 = letter_hit
+                    # Use the earlier of the two y0's (usually the letter's,
+                    # per the jitter noted above) as the true top of this
+                    # row, so compute_segments' resulting crop never starts
+                    # a hair below the row's real top edge.
+                    found = (pi, min(y0, ly0))
+                    cursor = max(i, j) + 1
+                    break
             if pat.match(t):
                 if "maximumscore" in t:
                     found = (pi, y0)
