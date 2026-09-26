@@ -57,6 +57,11 @@ Usage:
     img.save("vraag1.png")
 
     width = display_width(img)   # same number for every image of the exam
+
+    # question_text / text_content for insert.sql: do NOT join find_vraag_lines()'s
+    # own `text` field or sort text_lines() yourself -- see format_block_text()'s
+    # docstring for the row-ordering bug that produces (e.g. "A" / "1.050.000"
+    # coming out reversed). Use format_block_text(page, v["y0"], v["y1"], x0=v["x0"], x1=v["x1"]) instead.
 """
 
 import re
@@ -438,3 +443,74 @@ def display_width(img, zoom=ZOOM):
     for every image of the exam, since every image shares the window.
     """
     return round(img.width / zoom)
+
+
+# --------------------------------------------------- question/context text
+
+_TEXT_MARKER_RE = re.compile(r"^(−|-|[A-F]|\d{1,2})$")
+
+
+def format_block_text(page, y0, y1, x0=None, x1=None, gap_threshold=6.5):
+    """Reconstruct human-readable text for STAP 5's question_text /
+    text_content fields from the lines in [y0, y1] (optionally also bounded
+    by [x0, x1]).
+
+    Use this instead of joining find_vraag_lines()'s own `text` field or a
+    plain sort of text_lines(): those sort strictly by (y0, x0), which
+    silently misorders an MC option's own letter and its value onto the
+    wrong side of each other whenever the two carry slightly different line
+    y0 (the same font-baseline jitter documented on find_vraag_lines) --
+    e.g. an "A" / "1.050.000" pair can come out as "1.050.000 A" if the
+    value's line happens to start a hair above the letter's. Rendering is
+    unaffected (it only needs the union bbox), but any TEXT built the same
+    way is wrong.
+
+    This clusters lines into visual ROWS by y-overlap first (so a same-row
+    pair like that lands in one row regardless of which one's y0 is a touch
+    earlier) and sorts each row left-to-right by x0, then joins rows: a
+    plain wrapped continuation line joins the previous row with a space (so
+    one flowing sentence stays on one line, matching how existing insert.sql
+    files write question/context text), while a new MC option (bare A-F), a
+    numbered list item (bare 1-2 digit number) or a dash bullet always
+    starts a new line, and so does any row separated from the previous one
+    by a real paragraph-sized vertical gap (> gap_threshold).
+
+    Caller should pass y0/y1 a hair inside the target content's own bbox
+    (e.g. a find_vraag_lines() result's y0/y1 exactly, not y0-4/y1+4) --
+    widening the window risks pulling in a neighbouring line whose bbox
+    grazes the boundary by the same sub-pixel jitter.
+    """
+    lines = [l for l in text_lines(page) if l[1] < y1 and l[3] > y0]
+    if x0 is not None:
+        lines = [l for l in lines if l[2] > x0 and l[0] < x1]
+    lines.sort(key=lambda l: (l[1], l[0]))
+    rows = []  # each: dict(y0, y1, items=[(x0, text), ...])
+    for lx0, ly0, lx1, ly1, text in lines:
+        text = text.strip()
+        if not text:
+            continue
+        placed = False
+        for row in rows:
+            if ly0 < row["y1"] - 1.0 and ly1 > row["y0"] + 1.0:
+                row["items"].append((lx0, text))
+                row["y0"] = min(row["y0"], ly0)
+                row["y1"] = max(row["y1"], ly1)
+                placed = True
+                break
+        if not placed:
+            rows.append(dict(y0=ly0, y1=ly1, items=[(lx0, text)]))
+    rows.sort(key=lambda r: r["y0"])
+    out_lines = []
+    prev_y1 = None
+    for row in rows:
+        items = sorted(row["items"], key=lambda t: t[0])
+        row_text = " ".join(t[1] for t in items)
+        first_tok = items[0][1].split(" ")[0] if items else ""
+        is_marker = bool(_TEXT_MARKER_RE.match(first_tok))
+        gap = (row["y0"] - prev_y1) if prev_y1 is not None else None
+        if prev_y1 is None or is_marker or (gap is not None and gap > gap_threshold):
+            out_lines.append(row_text)
+        else:
+            out_lines[-1] = out_lines[-1] + " " + row_text
+        prev_y1 = row["y1"]
+    return "\n".join(out_lines)
