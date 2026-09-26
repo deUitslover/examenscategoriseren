@@ -1,0 +1,80 @@
+{
+  "source": "VWO Biologie 2022-II",
+  "subject_name": "Biologie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "NIPT",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "title": "De fipronilcrisis in de pluimveesector",
+      "question_numbers": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Bruinvis werd rivierbewoner",
+      "question_numbers": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "title": "Warkruid verbindt planten",
+      "question_numbers": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "title": "Gene drive voor malariabestrijding",
+      "question_numbers": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ]
+    },
+    {
+      "title": "Mosselen voorkomen vissterfte",
+      "question_numbers": [
+        40,
+        41,
+        42,
+        43
+      ]
+    }
+  ]
+}
