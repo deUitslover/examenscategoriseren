@@ -133,8 +133,24 @@ def _footer_limit(page, hashes):
 
 # ------------------------------------------------------------ the window
 
+def _width_bucket(width):
+    """Bucket a page width to the nearest 5pt so pages of the same real
+    orientation land in the same window group even when their nominal
+    width differs by a sub-point rounding jitter (seen on
+    VWO-BIO-24-I-CV.pdf: portrait pages alternate between 595.32pt and
+    595.56pt -- 0.24pt apart, but straddling the x.5 boundary that
+    round(width) uses, so plain 1pt rounding silently split one document
+    into TWO "portrait" window groups with two different crop widths.
+    Every crop in the exam must share one pixel width (see module
+    docstring), so a genuine landscape page (842pt) must still end up in
+    its own bucket -- 5pt is well inside a single real orientation's
+    jitter and nowhere near the portrait/landscape gap.
+    """
+    return round(width / 5.0) * 5.0
+
+
 def get_exam_window(doc, margin=6.0):
-    """Return {rounded_page_width: (x0, x1)} -- ONE crop window per page
+    """Return {width_bucket: (x0, x1)} -- ONE crop window per page
     orientation, valid for every crop in the whole document.
 
     x0 ends up at the left edge of the puntenkolom (the leftmost text on
@@ -149,7 +165,7 @@ def get_exam_window(doc, margin=6.0):
     acc = {}
     for page in doc:
         limit = _footer_limit(page, hashes)
-        key = round(page.rect.width)
+        key = _width_bucket(page.rect.width)
         for x0, y0, x1, y1 in content_boxes(page):
             if y0 >= limit:
                 continue
@@ -158,6 +174,7 @@ def get_exam_window(doc, margin=6.0):
             else:
                 acc[key][0] = min(acc[key][0], x0)
                 acc[key][1] = max(acc[key][1], x1)
+                acc[key][2] = max(acc[key][2], page.rect.width)
     return {
         key: (max(0.0, x0 - margin), min(page_width, x1 + margin))
         for key, (x0, x1, page_width) in acc.items()
@@ -166,7 +183,7 @@ def get_exam_window(doc, margin=6.0):
 
 def window_for(windows, page):
     """Pick the window matching this page's orientation/width."""
-    return windows[round(page.rect.width)]
+    return windows[_width_bucket(page.rect.width)]
 
 
 # ------------------------------------------------------- vraag detection
