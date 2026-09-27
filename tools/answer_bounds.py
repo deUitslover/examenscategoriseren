@@ -55,7 +55,7 @@ def find_question_starts(lines, question_numbers):
     starts = {}
     cursor = 0
     for n in question_numbers:
-        pat = re.compile(rf"^{n}\b[\s.]*(maximumscore\b.*)?$")
+        pat = re.compile(rf"^{n}\b[\s.]*(maximumscore\b.*)?$", re.IGNORECASE)
         bare_pat = re.compile(rf"^{n}$")
         # A-F, not A-E: VWO-BIO-16-I-CV.pdf has six-option MC questions
         # (e.g. question 22's answer is "F"), matching the range crop_frame
@@ -162,7 +162,7 @@ def find_question_starts(lines, question_numbers):
                         cursor = i + 1
                         break
             if pat.match(t):
-                if "maximumscore" in t:
+                if "maximumscore" in t.lower():
                     found = (pi, y0)
                     cursor = i + 1
                     break
@@ -183,12 +183,12 @@ def find_question_starts(lines, question_numbers):
                     # in) fixes this without weakening the forward check.
                     prev = lines[i - 1] if i > 0 and lines[i - 1][0] == pi else None
                     window = ([prev] if prev else []) + lines[i : i + 4]
-                    if any("maximumscore" in w[3] for w in window):
+                    if any("maximumscore" in w[3].lower() for w in window):
                         # If the preceding line is the one that actually
                         # carries "maximumscore", its y0 is the row's real
                         # top edge (see note above) -- use it, not the
                         # vraagnummer line's own (later) y0.
-                        row_y0 = prev[1] if prev and "maximumscore" in prev[3] else y0
+                        row_y0 = prev[1] if prev and "maximumscore" in prev[3].lower() else y0
                         found = (pi, min(y0, row_y0))
                         cursor = i + 1
                         break
