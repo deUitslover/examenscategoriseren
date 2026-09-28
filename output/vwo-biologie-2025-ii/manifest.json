@@ -1,0 +1,79 @@
+{
+  "source": "VWO Biologie 2025-II",
+  "subject_name": "Biologie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Een brouwerij in de darmen",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Jakobskruiskruid uit de berm",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Verouderende eicellen",
+      "question_numbers": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "title": "Zwanger met de ziekte van Graves",
+      "question_numbers": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "title": "Epilepsie door lintwormlarven",
+      "question_numbers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ]
+    },
+    {
+      "title": "Dwergolifanten op Sicilië",
+      "question_numbers": [
+        38,
+        39,
+        40,
+        41,
+        42
+      ]
+    }
+  ]
+}
