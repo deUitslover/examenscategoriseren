@@ -1,0 +1,723 @@
+{
+  "subject_name": "Biologie",
+  "level": "VWO",
+  "source": "VWO Biologie 2025-I",
+  "answers": [
+    {
+      "title": "Slangengifklieren uit het lab",
+      "question_number": 1,
+      "answer_text": "1 juist\n2 onjuist\n3 juist",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "alle 3 nummers correct: 1 juist, 2 onjuist, 3 juist"
+        },
+        {
+          "points": 1,
+          "description": "twee van de drie nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-slangengifklieren-uit-het-lab-antw1.png"
+      ]
+    },
+    {
+      "title": "Slangengifklieren uit het lab",
+      "question_number": 2,
+      "answer_text": "Uit het antwoord moet blijken dat:\n• aan ribosomen de synthese van eiwitten/gif plaatsvindt.\n• in het golgi-systeem eiwitten/gifmoleculen hun definitieve vorm (door modificatie) krijgen. / het golgi-systeem zorgt voor transport (van eiwitten/gif) naar buiten de cel.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "aan ribosomen de synthese van eiwitten/gif plaatsvindt"
+        },
+        {
+          "points": 1,
+          "description": "in het golgi-systeem eiwitten/gifmoleculen hun definitieve vorm (door modificatie) krijgen. / het golgi-systeem zorgt voor transport (van eiwitten/gif) naar buiten de cel"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-slangengifklieren-uit-het-lab-antw2.png"
+      ]
+    },
+    {
+      "title": "Slangengifklieren uit het lab",
+      "question_number": 3,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "C (meerkeuzevraag; het correctievoorschrift geeft bij deze vraag zelf al het puntenaantal in de Scores-kolom, gecontroleerd tegen en overeenstemmend met het opgavenboekje VWO-BIO-25-I-O.pdf: 1 punt)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-slangengifklieren-uit-het-lab-antw3.png"
+      ]
+    },
+    {
+      "title": "Slangengifklieren uit het lab",
+      "question_number": 4,
+      "answer_text": "voorbeelden van een juist antwoord:\n− Het antiserum werkt alleen als het ruimtelijk past op het gif van een bepaalde slangensoort.\n− De antistoffen moeten kunnen binden aan de gifstoffen van een bepaalde slangensoort.\n− Elke slangensoort heeft ander gif, er moet dus voor elke slangensoort een ander antiserum worden gemaakt dat zich kan hechten aan dat gif.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "één van de genoemde voorbeeldantwoorden (of een gelijkwaardig antwoord), zie de antwoordtekst"
+        }
+      ],
+      "grading_note": "Het antwoord van de kandidaat moet ingaan op de binding tussen gif(moleculen) en antistof/antiserum(-moleculen). Als de kandidaat in het antwoord uitgaat van maar één gifstof in het gif van een slangensoort, dit niet aanrekenen.",
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-slangengifklieren-uit-het-lab-antw4.png"
+      ]
+    },
+    {
+      "title": "Slangengifklieren uit het lab",
+      "question_number": 5,
+      "answer_text": "Uit het antwoord moet blijken dat stamcellen / de cellen (van de bolletjes) zich kunnen differentiëren. / dat stamcellen / de cellen (van de bolletjes) zich kunnen ontwikkelen tot verschillende celtypen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "stamcellen / de cellen (van de bolletjes) kunnen zich differentiëren. / stamcellen / de cellen (van de bolletjes) kunnen zich ontwikkelen tot verschillende celtypen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-slangengifklieren-uit-het-lab-antw5.png"
+      ]
+    },
+    {
+      "title": "Slangengifklieren uit het lab",
+      "question_number": 6,
+      "answer_text": "Uit het antwoord moet blijken dat:\n• het mRNA(-profiel) / de genexpressie van de minigifklier(cellen) overeenkomt met dat/die van de gewone gifklieren.\n• het mRNA(-profiel) / de genexpressie verschilt van dat/die van de alvleesklier(cellen).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "het mRNA(-profiel) / de genexpressie van de minigifklier(cellen) overeenkomt met dat/die van de gewone gifklieren"
+        },
+        {
+          "points": 1,
+          "description": "het mRNA(-profiel) / de genexpressie verschilt van dat/die van de alvleesklier(cellen)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-slangengifklieren-uit-het-lab-antw6.png"
+      ]
+    },
+    {
+      "title": "Slangengifklieren uit het lab",
+      "question_number": 7,
+      "answer_text": "1 juist\n2 onjuist\n3 onjuist",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "alle 3 nummers correct: 1 juist, 2 onjuist, 3 onjuist"
+        },
+        {
+          "points": 1,
+          "description": "twee van de drie nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-slangengifklieren-uit-het-lab-antw7.png"
+      ]
+    },
+    {
+      "title": "Hoe planten overstroming overleven",
+      "question_number": 8,
+      "answer_text": "voorbeelden van een juist antwoord:\n− In water is minder zuurstof opgelost dan in de lucht, waardoor het concentratieverschil met de wortelcellen kleiner is.\n− Doordat de bodem is gevuld met water, wordt de afstand tot de lucht dx groter.\n− Normaal maakt de wortel veel contact met de lucht. Bij een overstroming is het contactoppervlak tussen lucht en wortels kleiner: de A wordt kleiner. Er is dus minder diffusie van zuurstof mogelijk.\n− De diffusieconstante voor water is lager: de zuurstof diffundeert minder snel door het water dan door de lucht.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "het gevolg van een overstroming voor (cellen van) wortels, zie de antwoordtekst"
+        },
+        {
+          "points": 1,
+          "description": "de daarbij passende verandering van een factor uit de wet van Fick"
+        }
+      ],
+      "grading_note": "Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald. Het antwoord Δc / Δx wordt kleiner” of “de concentratiegradiënt wordt kleiner”, goed rekenen als ten minste een van de twee factoren uit de breuk juist is toegelicht.",
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-hoe-planten-overstroming-overleven-antw8.png"
+      ]
+    },
+    {
+      "title": "Hoe planten overstroming overleven",
+      "question_number": 9,
+      "answer_text": "Uit het antwoord moet blijken dat:\n• (door het zuurstofgebrek in de wortelcellen) de ATP-productie afneemt, / (aerobe) dissimilatie afneemt,\n• (waardoor) het actief transport afneemt, / de (actieve) opname van ionen/mineralen afneemt,\n• (waardoor) er minder wateropname/osmose plaatsvindt / de worteldruk afneemt (waardoor het transport van water naar de bladeren afneemt).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(door het zuurstofgebrek in de wortelcellen) de ATP-productie afneemt, / (aerobe) dissimilatie afneemt"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) het actief transport afneemt, / de (actieve) opname van ionen/mineralen afneemt"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) er minder wateropname/osmose plaatsvindt / de worteldruk afneemt (waardoor het transport van water naar de bladeren afneemt)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-hoe-planten-overstroming-overleven-antw9.png"
+      ]
+    },
+    {
+      "title": "Hoe planten overstroming overleven",
+      "question_number": 10,
+      "answer_text": "(via de) huidmondjes/stomata",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(via de) huidmondjes/stomata"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-hoe-planten-overstroming-overleven-antw10.png"
+      ]
+    },
+    {
+      "title": "Hoe planten overstroming overleven",
+      "question_number": 11,
+      "answer_text": "1 ↑ / neemt toe\n2 ↓ / neemt af\n3 ↓ / neemt af\n4 ↑ / neemt toe",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "alle 4 nummers correct: 1 ↑ / neemt toe, 2 ↓ / neemt af, 3 ↓ / neemt af, 4 ↑ / neemt toe"
+        },
+        {
+          "points": 1,
+          "description": "drie van de vier nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "minder dan drie nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-hoe-planten-overstroming-overleven-antw11.png"
+      ]
+    },
+    {
+      "title": "Hoe planten overstroming overleven",
+      "question_number": 12,
+      "answer_text": "1 wel\n2 niet\n3 niet",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "alle 3 nummers correct: 1 wel, 2 niet, 3 niet"
+        },
+        {
+          "points": 1,
+          "description": "twee van de drie nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-hoe-planten-overstroming-overleven-antw12.png"
+      ]
+    },
+    {
+      "title": "Hoe planten overstroming overleven",
+      "question_number": 13,
+      "answer_text": "(alleen de nummers) 2 en 4",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(alleen de nummers) 2 en 4"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-hoe-planten-overstroming-overleven-antw13.png"
+      ]
+    },
+    {
+      "title": "De nijlpaarden van Pablo Escobar",
+      "question_number": 14,
+      "answer_text": "1 onjuist\n2 juist\n3 onjuist",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "alle 3 nummers correct: 1 onjuist, 2 juist, 3 onjuist"
+        },
+        {
+          "points": 1,
+          "description": "twee van de drie nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-de-nijlpaarden-van-pablo-escobar-antw14.png"
+      ]
+    },
+    {
+      "title": "De nijlpaarden van Pablo Escobar",
+      "question_number": 15,
+      "answer_text": "voorbeelden van een juist antwoord:\n− Er breekt een ziekte uit, waardoor dieren sterven.\n− Door voedselgebrek overleven er minder jongen.\n− Door concurrentie is er minder voedsel voor nijlpaarden beschikbaar, waardoor nijlpaarden minder vruchtbaar zijn.\n− Door jacht gaan er dieren dood.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "één van de genoemde voorbeeldantwoorden (of een gelijkwaardig antwoord), zie de antwoordtekst"
+        }
+      ],
+      "grading_note": "Aan het antwoord “predatie” met een bijpassende toelichting, het scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-de-nijlpaarden-van-pablo-escobar-antw15.png"
+      ]
+    },
+    {
+      "title": "De nijlpaarden van Pablo Escobar",
+      "question_number": 16,
+      "answer_text": "stichtereffect / founder effect",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "stichtereffect / founder effect"
+        }
+      ],
+      "grading_note": "Aan het antwoord “bottleneck effect” of “flessenhalseffect” geen scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-de-nijlpaarden-van-pablo-escobar-antw16.png"
+      ]
+    },
+    {
+      "title": "De nijlpaarden van Pablo Escobar",
+      "question_number": 17,
+      "answer_text": "allopatrische (soortvorming), met een toelichting waaruit blijkt dat er een (ruimtelijke) scheiding / geen contact is tussen de populaties (in Afrika en Colombia)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "allopatrische (soortvorming), met een toelichting waaruit blijkt dat er een (ruimtelijke) scheiding / geen contact is tussen de populaties (in Afrika en Colombia)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-de-nijlpaarden-van-pablo-escobar-antw17.png"
+      ]
+    },
+    {
+      "title": "De nijlpaarden van Pablo Escobar",
+      "question_number": 18,
+      "answer_text": "voorbeelden van een juist antwoord:\n− Doordat nijlpaarden bij het grazen ook jonge boompjes eten, kunnen die climaxsoorten niet groot worden.\n− Doordat nijlpaarden de bodem verdichten, kunnen climaxsoorten zich niet vestigen.\n− Nijlpaarden voeren nutriënten af, waardoor er vooral groeiplaatsen zijn waar climaxsoorten minder goed groeien.\n− Nijlpaarden vertrappen de vegetatie, waardoor climaxsoorten niet kunnen overleven.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist voorbeeld, zie de antwoordtekst"
+        },
+        {
+          "points": 1,
+          "description": "een beschrijving waaruit blijkt dat er een negatieve invloed is op de groei/vestiging/overleving van climaxsoorten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-de-nijlpaarden-van-pablo-escobar-antw18.png"
+      ]
+    },
+    {
+      "title": "De nijlpaarden van Pablo Escobar",
+      "question_number": 19,
+      "answer_text": "glycerinezuur-3-fosfaat/3-glycerinezuurfosfaat",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "glycerinezuur-3-fosfaat/3-glycerinezuurfosfaat"
+        }
+      ],
+      "grading_note": "Aan het antwoord “glycerinezuur”, “glycerinezuur-1,3-difosfaat” of “(3-)glyceraldehyde-3-fosfaat”, het scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-de-nijlpaarden-van-pablo-escobar-antw19.png"
+      ]
+    },
+    {
+      "title": "De nijlpaarden van Pablo Escobar",
+      "question_number": 20,
+      "answer_text": "A",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "A (meerkeuzevraag; het correctievoorschrift geeft bij deze vraag zelf al het puntenaantal in de Scores-kolom, gecontroleerd tegen en overeenstemmend met het opgavenboekje VWO-BIO-25-I-O.pdf: 2 punten)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-de-nijlpaarden-van-pablo-escobar-antw20.png"
+      ]
+    },
+    {
+      "title": "De nijlpaarden van Pablo Escobar",
+      "question_number": 21,
+      "answer_text": "Uit het antwoord moet blijken dat:\n• de verhouding ¹³C/¹²C in meren met nijlpaarden hoog is / hoger is dan in meren zonder nijlpaarden.\n• dat (waarschijnlijk) veroorzaakt wordt door materiaal afkomstig van C₄-planten (van het land uit uitwerpselen van nijlpaarden).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "de verhouding ¹³C/¹²C in meren met nijlpaarden is hoog / hoger dan in meren zonder nijlpaarden"
+        },
+        {
+          "points": 1,
+          "description": "dat (waarschijnlijk) veroorzaakt wordt door materiaal afkomstig van C₄-planten (van het land uit uitwerpselen van nijlpaarden)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-de-nijlpaarden-van-pablo-escobar-antw21.png"
+      ]
+    },
+    {
+      "title": "De nijlpaarden van Pablo Escobar",
+      "question_number": 22,
+      "answer_text": "Uit het antwoord moet blijken dat in meren met nijlpaarden:\n• ’s nachts meer afbraak van organische stoffen plaatsvindt / ’s nachts meer afbraak door reducenten/bacteriën plaatsvindt (waarbij O₂ wordt verbruikt).\n• (meer voedingsstoffen aanwezig zijn voor algen/planten zodat) overdag meer fotosynthese plaatsvindt (en er daardoor meer O₂-productie is).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "’s nachts meer afbraak van organische stoffen plaatsvindt / ’s nachts meer afbraak door reducenten/bacteriën plaatsvindt (waarbij O₂ wordt verbruikt)"
+        },
+        {
+          "points": 1,
+          "description": "(meer voedingsstoffen aanwezig zijn voor algen/planten zodat) overdag meer fotosynthese plaatsvindt (en er daardoor meer O₂-productie is)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-de-nijlpaarden-van-pablo-escobar-antw22.png"
+      ]
+    },
+    {
+      "title": "De nijlpaarden van Pablo Escobar",
+      "question_number": 23,
+      "answer_text": "1 niet\n2 wel\n3 wel\n4 niet",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "alle 4 nummers correct: 1 niet, 2 wel, 3 wel, 4 niet"
+        },
+        {
+          "points": 1,
+          "description": "drie van de vier nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "minder dan drie nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-de-nijlpaarden-van-pablo-escobar-antw23.png"
+      ]
+    },
+    {
+      "title": "Onderzoek naar pijnbeleving",
+      "question_number": 24,
+      "answer_text": "Uit het antwoord moet blijken dat:\n• de mutatie autosomaal is, omdat deze op chromosoom 14 ligt.\n• de mutatie (zeer waarschijnlijk) dominant is, omdat anders de drie (aangetrouwde) mannen (die het fenotype niet hebben) alle drie drager zouden zijn (en dat is zeer onwaarschijnlijk als het zo zeldzaam is).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "de mutatie is autosomaal, omdat deze op chromosoom 14 ligt"
+        },
+        {
+          "points": 1,
+          "description": "de mutatie is (zeer waarschijnlijk) dominant, omdat anders de drie (aangetrouwde) mannen (die het fenotype niet hebben) alle drie drager zouden zijn (en dat is zeer onwaarschijnlijk als het zo zeldzaam is)"
+        }
+      ],
+      "grading_note": "Als de kandidaat uit de stamboom afleidt dat het niet X-chromosomaal kan zijn, het eerste scorepunt niet toekennen.",
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-onderzoek-naar-pijnbeleving-antw24.png"
+      ]
+    },
+    {
+      "title": "Onderzoek naar pijnbeleving",
+      "question_number": 25,
+      "answer_text": "1 wel\n2 wel\n3 niet",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "alle 3 nummers correct: 1 wel, 2 wel, 3 niet"
+        },
+        {
+          "points": 1,
+          "description": "twee van de drie nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-onderzoek-naar-pijnbeleving-antw25.png"
+      ]
+    },
+    {
+      "title": "Onderzoek naar pijnbeleving",
+      "question_number": 26,
+      "answer_text": "myeline(schede) / cellen van Schwann",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "myeline(schede) / cellen van Schwann"
+        }
+      ],
+      "grading_note": "Aan het antwoord “insnoering van Ranvier”, het scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-onderzoek-naar-pijnbeleving-antw26.png"
+      ]
+    },
+    {
+      "title": "Onderzoek naar pijnbeleving",
+      "question_number": 27,
+      "answer_text": "A",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "A (meerkeuzevraag; het correctievoorschrift geeft bij deze vraag zelf al het puntenaantal in de Scores-kolom, gecontroleerd tegen en overeenstemmend met het opgavenboekje VWO-BIO-25-I-O.pdf: 2 punten)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-onderzoek-naar-pijnbeleving-antw27.png"
+      ]
+    },
+    {
+      "title": "Onderzoek naar pijnbeleving",
+      "question_number": 28,
+      "answer_text": "• (gen aanwezig in) P, Q en R\n• (afwijkende genexpressie in alleen) Q",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(gen aanwezig in) P, Q en R"
+        },
+        {
+          "points": 1,
+          "description": "(afwijkende genexpressie in alleen) Q"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-onderzoek-naar-pijnbeleving-antw28.png"
+      ]
+    },
+    {
+      "title": "Onderzoek naar pijnbeleving",
+      "question_number": 29,
+      "answer_text": "Uit het antwoord moet blijken dat:\n• het organisme niet goed reageert op lichaamsschade/pijn als het ZFHX2-gen (hier) gemuteerd raakt, / het organisme niet goed reageert op lichaamsschade/pijn als het ZFHX2-eiwit niet goed functioneert,\n• (waardoor) de overlevingskans/fitness / het voortplantingssucces kleiner is (en de mutatie wordt weggeselecteerd).\nof\n• een organisme zonder mutatie van het ZFHX2-gen beter reageert op lichaamsschade/pijn (dan een organisme met mutatie), / een organisme beter reageert op lichaamsschade/pijn als het ZFHX2-eiwit functioneert (dan een organisme waarbij dat niet zo is),\n• (waardoor) de overlevingskans/fitness / het voortplantingssucces groter is (dan bij een organisme met de mutatie).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "het organisme niet goed reageert op lichaamsschade/pijn als het ZFHX2-gen (hier) gemuteerd raakt / als het ZFHX2-eiwit niet goed functioneert. Of (alternatief): een organisme zonder mutatie van het ZFHX2-gen beter reageert op lichaamsschade/pijn (dan een organisme met mutatie) / een organisme beter reageert op lichaamsschade/pijn als het ZFHX2-eiwit functioneert (dan een organisme waarbij dat niet zo is)"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) de overlevingskans/fitness / het voortplantingssucces kleiner is (en de mutatie wordt weggeselecteerd). Of (alternatief): (waardoor) de overlevingskans/fitness / het voortplantingssucces groter is (dan bij een organisme met de mutatie)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-onderzoek-naar-pijnbeleving-antw29.png"
+      ]
+    },
+    {
+      "title": "Onderzoek naar pijnbeleving",
+      "question_number": 30,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "C (meerkeuzevraag; het correctievoorschrift geeft bij deze vraag zelf al het puntenaantal in de Scores-kolom, gecontroleerd tegen en overeenstemmend met het opgavenboekje VWO-BIO-25-I-O.pdf: 2 punten)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-onderzoek-naar-pijnbeleving-antw30.png"
+      ]
+    },
+    {
+      "title": "Onderzoek naar pijnbeleving",
+      "question_number": 31,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "D (meerkeuzevraag; het correctievoorschrift geeft bij deze vraag zelf al het puntenaantal in de Scores-kolom, gecontroleerd tegen en overeenstemmend met het opgavenboekje VWO-BIO-25-I-O.pdf: 2 punten)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-onderzoek-naar-pijnbeleving-antw31.png"
+      ]
+    },
+    {
+      "title": "Onderzoek naar pijnbeleving",
+      "question_number": 32,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "C (meerkeuzevraag; het correctievoorschrift geeft bij deze vraag zelf al het puntenaantal in de Scores-kolom, gecontroleerd tegen en overeenstemmend met het opgavenboekje VWO-BIO-25-I-O.pdf: 2 punten)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-onderzoek-naar-pijnbeleving-antw32.png"
+      ]
+    },
+    {
+      "title": "Onderzoek naar pijnbeleving",
+      "question_number": 33,
+      "answer_text": "B",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "B (meerkeuzevraag; het correctievoorschrift geeft bij deze vraag zelf al het puntenaantal in de Scores-kolom, gecontroleerd tegen en overeenstemmend met het opgavenboekje VWO-BIO-25-I-O.pdf: 1 punt)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-onderzoek-naar-pijnbeleving-antw33.png"
+      ]
+    },
+    {
+      "title": "Histamine-intoxicatie",
+      "question_number": 34,
+      "answer_text": "Uit het antwoord moet blijken dat enzymen dan te weinig (effectieve) botsingen hebben met substraatmoleculen. / dat de kans dat enzymen aan substraatmoleculen binden kleiner is. / dat de beweging van moleculen te traag is.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "enzymen hebben dan te weinig (effectieve) botsingen met substraatmoleculen. / de kans dat enzymen aan substraatmoleculen binden is kleiner. / de beweging van moleculen is te traag"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-histamine-intoxicatie-antw34.png"
+      ]
+    },
+    {
+      "title": "Histamine-intoxicatie",
+      "question_number": 35,
+      "answer_text": "Uit het antwoord moet blijken dat histidine een aminozuur is.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "histidine is een aminozuur"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-histamine-intoxicatie-antw35.png"
+      ]
+    },
+    {
+      "title": "Histamine-intoxicatie",
+      "question_number": 36,
+      "answer_text": "1 niet\n2 niet\n3 wel\n4 niet",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "alle 4 nummers correct: 1 niet, 2 niet, 3 wel, 4 niet"
+        },
+        {
+          "points": 1,
+          "description": "drie van de vier nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "minder dan drie nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-histamine-intoxicatie-antw36.png"
+      ]
+    },
+    {
+      "title": "Histamine-intoxicatie",
+      "question_number": 37,
+      "answer_text": "Uit het antwoord moet blijken dat:\n• (door samentrekking van glad spierweefsel) de bronchiolen nauwer worden, / er minder lucht (per tijdseenheid) doorstroomt, / de ventilatie afneemt,\n• (waardoor) in het bloed de CO₂-concentratie toeneemt, / de pH afneemt, / de O₂-concentratie afneemt,\n• (waardoor) (chemo)receptoren een signaal doorgeven (zodat het ademcentrum wordt gestimuleerd).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(door samentrekking van glad spierweefsel) de bronchiolen worden nauwer, / er stroomt minder lucht (per tijdseenheid) door, / de ventilatie neemt af"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) in het bloed de CO₂-concentratie toeneemt, / de pH afneemt, / de O₂-concentratie afneemt"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) (chemo)receptoren een signaal doorgeven (zodat het ademcentrum wordt gestimuleerd)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-histamine-intoxicatie-antw37.png"
+      ]
+    },
+    {
+      "title": "Histamine-intoxicatie",
+      "question_number": 38,
+      "answer_text": "A",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "A (meerkeuzevraag; het correctievoorschrift geeft bij deze vraag zelf al het puntenaantal in de Scores-kolom, gecontroleerd tegen en overeenstemmend met het opgavenboekje VWO-BIO-25-I-O.pdf: 1 punt)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-histamine-intoxicatie-antw38.png"
+      ]
+    },
+    {
+      "title": "Histamine-intoxicatie",
+      "question_number": 39,
+      "answer_text": "Uit het antwoord moet blijken dat bij een rode huid (er meer bloed wordt vervoerd door de huid zodat) het lichaam meer warmte kwijtraakt (en er bij koorts juist warmte wordt vastgehouden/geproduceerd).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "bij een rode huid wordt (er meer bloed vervoerd door de huid zodat) het lichaam meer warmte kwijtraakt (en er bij koorts juist warmte wordt vastgehouden/geproduceerd)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-histamine-intoxicatie-antw39.png"
+      ]
+    },
+    {
+      "title": "Histamine-intoxicatie",
+      "question_number": 40,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "D (meerkeuzevraag; het correctievoorschrift geeft bij deze vraag zelf al het puntenaantal in de Scores-kolom, gecontroleerd tegen en overeenstemmend met het opgavenboekje VWO-BIO-25-I-O.pdf: 2 punten)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2025-i-histamine-intoxicatie-antw40.png"
+      ]
+    }
+  ]
+}
