@@ -1,0 +1,722 @@
+{
+  "subject_name": "Biologie",
+  "level": "VWO",
+  "source": "VWO Biologie 2026-I",
+  "answers": [
+    {
+      "title": "Bloedplaatjes belaagd",
+      "question_number": 1,
+      "answer_text": "Uit het antwoord moet blijken dat\n• door het tekort aan bloedplaatjes de hechting tussen endotheelcellen vermindert, / door het tekort aan bloedplaatjes de verbindingen tussen endotheelcellen worden afgebroken,\n• (waardoor) bloed kan weglekken uit de bloedvaten/haarvaten.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "door het tekort aan bloedplaatjes vermindert de hechting tussen endotheelcellen / worden de verbindingen tussen endotheelcellen afgebroken"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) bloed kan weglekken uit de bloedvaten/haarvaten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-bloedplaatjes-belaagd-antw1.png"
+      ]
+    },
+    {
+      "title": "Bloedplaatjes belaagd",
+      "question_number": 2,
+      "answer_text": "A",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord A gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-bloedplaatjes-belaagd-antw2.png"
+      ]
+    },
+    {
+      "title": "Bloedplaatjes belaagd",
+      "question_number": 3,
+      "answer_text": "E",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord E gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-bloedplaatjes-belaagd-antw3.png"
+      ]
+    },
+    {
+      "title": "Bloedplaatjes belaagd",
+      "question_number": 4,
+      "answer_text": "2 en 4",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "alleen de twee juiste nummers"
+        },
+        {
+          "points": 1,
+          "description": "alleen de twee juiste nummers met daarbij een onjuist nummer extra"
+        },
+        {
+          "points": 1,
+          "description": "alleen één juist nummer"
+        },
+        {
+          "points": 0,
+          "description": "in alle andere gevallen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-bloedplaatjes-belaagd-antw4.png"
+      ]
+    },
+    {
+      "title": "Bloedplaatjes belaagd",
+      "question_number": 5,
+      "answer_text": "A",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord A gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-bloedplaatjes-belaagd-antw5.png"
+      ]
+    },
+    {
+      "title": "Bloedplaatjes belaagd",
+      "question_number": 6,
+      "answer_text": "1 onjuist\n2 onjuist\n3 onjuist",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "drie nummers correct"
+        },
+        {
+          "points": 1,
+          "description": "twee nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-bloedplaatjes-belaagd-antw6.png"
+      ]
+    },
+    {
+      "title": "Bloedplaatjes belaagd",
+      "question_number": 7,
+      "answer_text": "Uit het antwoord moet blijken dat de placenta bloedplaatjes niet doorlaat. / dat de bloedstromen (van moeder en foetus) van elkaar gescheiden zijn.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "de placenta laat bloedplaatjes niet door / de bloedstromen (van moeder en foetus) zijn van elkaar gescheiden"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-bloedplaatjes-belaagd-antw7.png"
+      ]
+    },
+    {
+      "title": "Bloedplaatjes belaagd",
+      "question_number": 8,
+      "answer_text": "antigeen: foetus\nAPC’s: moeder\nT-helpercellen: moeder",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "drie correct"
+        },
+        {
+          "points": 1,
+          "description": "twee correct"
+        },
+        {
+          "points": 0,
+          "description": "minder dan twee correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-bloedplaatjes-belaagd-antw8.png"
+      ]
+    },
+    {
+      "title": "Bloedplaatjes belaagd",
+      "question_number": 9,
+      "answer_text": "A\n[q = 0,16; q² = 0,0256 → 2,6%]",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord A gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-bloedplaatjes-belaagd-antw9.png"
+      ]
+    },
+    {
+      "title": "Bloedplaatjes belaagd",
+      "question_number": 10,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord D gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-bloedplaatjes-belaagd-antw10.png"
+      ]
+    },
+    {
+      "title": "Bloedplaatjes belaagd",
+      "question_number": 11,
+      "answer_text": "• Rosie: 1a1b 5a5b\n• moeder: 1b1b 5a5a",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Rosie: 1a1b 5a5b"
+        },
+        {
+          "points": 1,
+          "description": "moeder: 1b1b 5a5a"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-bloedplaatjes-belaagd-antw11.png"
+      ]
+    },
+    {
+      "title": "Synthetische biologie: ombouwen van E. coli",
+      "question_number": 12,
+      "answer_text": "• 1: mutualisme\n• 2: parasitisme",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "1: mutualisme"
+        },
+        {
+          "points": 1,
+          "description": "2: parasitisme"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-synthetische-biologie-ombouwen-van-e-coli-antw12.png"
+      ]
+    },
+    {
+      "title": "Synthetische biologie: ombouwen van E. coli",
+      "question_number": 13,
+      "answer_text": "• Q: ADP én R: ATP\n• S: oxidatieve fosforylering / ademhalingsketen",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Q: ADP én R: ATP"
+        },
+        {
+          "points": 1,
+          "description": "S: oxidatieve fosforylering / ademhalingsketen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-synthetische-biologie-ombouwen-van-e-coli-antw13.png"
+      ]
+    },
+    {
+      "title": "Synthetische biologie: ombouwen van E. coli",
+      "question_number": 14,
+      "answer_text": "transgeen, met een toelichting waaruit blijkt dat de genen afkomstig zijn van een andere bacterie/soort",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "transgeen, met een juiste toelichting"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-synthetische-biologie-ombouwen-van-e-coli-antw14.png"
+      ]
+    },
+    {
+      "title": "Synthetische biologie: ombouwen van E. coli",
+      "question_number": 15,
+      "answer_text": "B",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord B gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-synthetische-biologie-ombouwen-van-e-coli-antw15.png"
+      ]
+    },
+    {
+      "title": "Synthetische biologie: ombouwen van E. coli",
+      "question_number": 16,
+      "answer_text": "Uit het antwoord moet blijken dat\n• er genetische variatie is in de mate waarin E. coli-bacteriën (al) autotroof zijn. / er mutaties ontstaan die sommige E. coli-bacteriën meer autotroof maken.\n• de lage concentratie xylose / de afnemende hoeveelheid xylose de selectiedruk vormt (die de meer autotrofe bacteriën een selectievoordeel geeft).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "er is genetische variatie in de mate waarin E. coli-bacteriën (al) autotroof zijn / er ontstaan mutaties die sommige E. coli-bacteriën meer autotroof maken"
+        },
+        {
+          "points": 1,
+          "description": "de lage concentratie xylose / de afnemende hoeveelheid xylose vormt de selectiedruk (die de meer autotrofe bacteriën een selectievoordeel geeft)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-synthetische-biologie-ombouwen-van-e-coli-antw16.png"
+      ]
+    },
+    {
+      "title": "Synthetische biologie: ombouwen van E. coli",
+      "question_number": 17,
+      "answer_text": "• stikstofassimilatie / voortgezette assimilatie\n• ammoniak/NH₃/ammonium/NH₄⁺/nitraat/NO₃⁻",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "stikstofassimilatie / voortgezette assimilatie"
+        },
+        {
+          "points": 1,
+          "description": "ammoniak/NH₃/ammonium/NH₄⁺/nitraat/NO₃⁻"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-synthetische-biologie-ombouwen-van-e-coli-antw17.png"
+      ]
+    },
+    {
+      "title": "Synthetische biologie: ombouwen van E. coli",
+      "question_number": 18,
+      "answer_text": "Uit het antwoord moet blijken dat\n• ¹³C in aminozuren wordt opgenomen als ¹³CO₂ wordt toegediend.\n• ¹³C niet in aminozuren wordt opgenomen als ¹³C alleen in methaanzuur voorkomt.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "¹³C wordt in aminozuren opgenomen als ¹³CO₂ wordt toegediend"
+        },
+        {
+          "points": 1,
+          "description": "¹³C wordt niet in aminozuren opgenomen als ¹³C alleen in methaanzuur voorkomt"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-synthetische-biologie-ombouwen-van-e-coli-antw18.png"
+      ]
+    },
+    {
+      "title": "Synthetische biologie: ombouwen van E. coli",
+      "question_number": 19,
+      "answer_text": "Uit het antwoord moet blijken dat de CO₂ die afkomstig is van methaanzuur dan ¹³C bevat (die terechtkomt in aminozuren).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "de CO₂ die afkomstig is van methaanzuur bevat dan ¹³C (die terechtkomt in aminozuren)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-synthetische-biologie-ombouwen-van-e-coli-antw19.png"
+      ]
+    },
+    {
+      "title": "Imker door bijensteken naar de eerste hulp",
+      "question_number": 20,
+      "answer_text": "Uit het antwoord moet blijken dat\n• histamine / de mediator ervoor zorgt dat kleine bloedvaten verwijden, / lek raken,\n• (waardoor) de hoeveelheid weefselvloeistof toeneemt.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "histamine / de mediator zorgt ervoor dat kleine bloedvaten verwijden / lek raken"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) de hoeveelheid weefselvloeistof toeneemt"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-imker-door-bijensteken-naar-de-eerste-hulp-antw20.png"
+      ]
+    },
+    {
+      "title": "Imker door bijensteken naar de eerste hulp",
+      "question_number": 21,
+      "answer_text": "Uit het antwoord moet blijken dat dan (nog) geen sensibilisatie heeft plaatsgevonden. / dat dan (nog) geen antistoffen zijn aangemaakt.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "dan heeft (nog) geen sensibilisatie plaatsgevonden / zijn (nog) geen antistoffen aangemaakt"
+        }
+      ],
+      "grading_note": "Als de kandidaat antwoordt dat er geen geheugencellen zijn gevormd, geen scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-imker-door-bijensteken-naar-de-eerste-hulp-antw21.png"
+      ]
+    },
+    {
+      "title": "Imker door bijensteken naar de eerste hulp",
+      "question_number": 22,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord D gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-imker-door-bijensteken-naar-de-eerste-hulp-antw22.png"
+      ]
+    },
+    {
+      "title": "Imker door bijensteken naar de eerste hulp",
+      "question_number": 23,
+      "answer_text": "(nummer) 2 / zwavelbruggen, met als verklaring dat er geen zwavelhoudende restgroepen aanwezig zijn / dat er geen cysteïne aanwezig is",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(nummer) 2 / zwavelbruggen, met een juiste verklaring"
+        }
+      ],
+      "grading_note": "Als de kandidaat naast cysteïne ook methionine in het antwoord noemt, dit niet aanrekenen.",
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-imker-door-bijensteken-naar-de-eerste-hulp-antw23.png"
+      ]
+    },
+    {
+      "title": "Imker door bijensteken naar de eerste hulp",
+      "question_number": 24,
+      "answer_text": "Uit het antwoord moet blijken dat (het midden van) de membraan hydrofoob/apolair is (waardoor de aminozuren met apolaire restgroepen zich in dit deel van de membraan bevinden).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(het midden van) de membraan is hydrofoob/apolair (waardoor de aminozuren met apolaire restgroepen zich in dit deel van de membraan bevinden)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-imker-door-bijensteken-naar-de-eerste-hulp-antw24.png"
+      ]
+    },
+    {
+      "title": "Imker door bijensteken naar de eerste hulp",
+      "question_number": 25,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord D gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-imker-door-bijensteken-naar-de-eerste-hulp-antw25.png"
+      ]
+    },
+    {
+      "title": "Imker door bijensteken naar de eerste hulp",
+      "question_number": 26,
+      "answer_text": "A",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord A gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-imker-door-bijensteken-naar-de-eerste-hulp-antw26.png"
+      ]
+    },
+    {
+      "title": "Imker door bijensteken naar de eerste hulp",
+      "question_number": 27,
+      "answer_text": "1 wel\n2 geen\n3 wel\n4 geen",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "vier nummers correct"
+        },
+        {
+          "points": 1,
+          "description": "drie nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "minder dan drie nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-imker-door-bijensteken-naar-de-eerste-hulp-antw27.png"
+      ]
+    },
+    {
+      "title": "CRISPR in de strijd tegen overgewicht",
+      "question_number": 28,
+      "answer_text": "Uit het antwoord moet blijken dat (het bloed opgewarmd wordt en) het warme bloed wordt verspreid door het lichaam.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(het bloed wordt opgewarmd en) het warme bloed wordt verspreid door het lichaam"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-crispr-in-de-strijd-tegen-overgewicht-antw28.png"
+      ]
+    },
+    {
+      "title": "CRISPR in de strijd tegen overgewicht",
+      "question_number": 29,
+      "answer_text": "Uit het antwoord moet blijken dat\n• (bruin vetweefsel afwezig zou kunnen zijn doordat) obese mensen het minder koud hebben dankzij de isolerende vetlaag. / dankzij hun relatief kleine lichaamsoppervlak.\n• (obesitas zou kunnen ontstaan doordat bij afwezigheid van bruin vetweefsel) minder vetten worden verbrand. / (een overschot aan) vetten worden opgeslagen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(bruin vetweefsel zou afwezig kunnen zijn doordat) obese mensen het minder koud hebben dankzij de isolerende vetlaag / dankzij hun relatief kleine lichaamsoppervlak"
+        },
+        {
+          "points": 1,
+          "description": "(obesitas zou kunnen ontstaan doordat bij afwezigheid van bruin vetweefsel) minder vetten worden verbrand / (een overschot aan) vetten worden opgeslagen"
+        }
+      ],
+      "grading_note": "− Aan een antwoord als “Er is minder warmteproductie, waardoor meer isolatie nodig is”, het tweede scorepunt toekennen.\n− Aan een antwoord als “Er is meer energie/brandstof nodig voor warmteproductie, met als gevolg meer eten, waardoor er ook meer reserves worden aangelegd”, het tweede scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-crispr-in-de-strijd-tegen-overgewicht-antw29.png"
+      ]
+    },
+    {
+      "title": "CRISPR in de strijd tegen overgewicht",
+      "question_number": 30,
+      "answer_text": "Uit het antwoord moet blijken dat (als gevolg van UCP1-activiteit bij de oxidatieve fosforylering) H⁺-ionen niet via ATP-synth(et)ase terugstromen. / de H⁺-gradiënt niet groot genoeg wordt om de ATP-synth(et)ase te laten werken.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(als gevolg van UCP1-activiteit) stromen H⁺-ionen niet via ATP-synth(et)ase terug / wordt de H⁺-gradiënt niet groot genoeg om de ATP-synth(et)ase te laten werken"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-crispr-in-de-strijd-tegen-overgewicht-antw30.png"
+      ]
+    },
+    {
+      "title": "CRISPR in de strijd tegen overgewicht",
+      "question_number": 31,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord D gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-crispr-in-de-strijd-tegen-overgewicht-antw31.png"
+      ]
+    },
+    {
+      "title": "CRISPR in de strijd tegen overgewicht",
+      "question_number": 32,
+      "answer_text": "Uit het antwoord moet blijken dat de activator-eiwitten (van het Cas-eiwit) betrokken zijn bij de binding van RNA-polymerase (aan de promotor) / binden aan een enhancer (waardoor de transcriptie kan plaatsvinden).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "de activator-eiwitten (van het Cas-eiwit) zijn betrokken bij de binding van RNA-polymerase (aan de promotor) / binden aan een enhancer (waardoor de transcriptie kan plaatsvinden)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-crispr-in-de-strijd-tegen-overgewicht-antw32.png"
+      ]
+    },
+    {
+      "title": "CRISPR in de strijd tegen overgewicht",
+      "question_number": 33,
+      "answer_text": "Uit het antwoord moet blijken dat (het uitschakelen van het immuunsysteem ertoe leidt dat) de muizen de (getransplanteerde menselijke) cellen niet afstoten.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(het uitschakelen van het immuunsysteem leidt ertoe dat) de muizen de (getransplanteerde menselijke) cellen niet afstoten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-crispr-in-de-strijd-tegen-overgewicht-antw33.png"
+      ]
+    },
+    {
+      "title": "CRISPR in de strijd tegen overgewicht",
+      "question_number": 34,
+      "answer_text": "Uit het antwoord moet blijken dat (bij een vetrijk dieet) de muizen met (getransplanteerde) beige (CRISPR-)vetcellen minder gewichtstoename hebben (na vier weken) dan de muizen met (getransplanteerde) witte vetcellen.\nof\ndat de muizen met (getransplanteerde) beige (CRISPR-)vetcellen in de eerste week een gewichtsafname hebben en de muizen met (getransplanteerde) witte vetcellen niet.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "muizen met beige (CRISPR-)vetcellen hebben minder gewichtstoename dan muizen met witte vetcellen / hebben in de eerste week gewichtsafname terwijl muizen met witte vetcellen dat niet hebben"
+        }
+      ],
+      "grading_note": "Als de kandidaat alleen een vergelijking maakt tussen muizen met (getransplanteerde) beige vetcellen en bruine vetcellen, geen scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-crispr-in-de-strijd-tegen-overgewicht-antw34.png"
+      ]
+    },
+    {
+      "title": "CRISPR in de strijd tegen overgewicht",
+      "question_number": 35,
+      "answer_text": "validiteit, met een toelichting waaruit blijkt dat door deze groep kan worden bepaald of het effect van de (CRISPR-)behandeling lijkt op het effect van bruine vetcellen / of het effect van beige vetcellen lijkt op het effect van bruine vetcellen",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "validiteit, met een juiste toelichting"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-crispr-in-de-strijd-tegen-overgewicht-antw35.png"
+      ]
+    },
+    {
+      "title": "CRISPR in de strijd tegen overgewicht",
+      "question_number": 36,
+      "answer_text": "Uit het antwoord moet blijken dat\n• bij diabetes type 2 de glucoseconcentratie (na een glucose-injectie) hoger zou blijven.\n• bij muizen met (getransplanteerde) beige vetcellen (na een glucose-injectie) de glucoseconcentratie lager is dan bij muizen met (getransplanteerde) witte vetcellen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "bij diabetes type 2 zou de glucoseconcentratie (na een glucose-injectie) hoger blijven"
+        },
+        {
+          "points": 1,
+          "description": "bij muizen met beige vetcellen is (na een glucose-injectie) de glucoseconcentratie lager dan bij muizen met witte vetcellen"
+        }
+      ],
+      "grading_note": "Als de kandidaat antwoordt dat insuline de glucoseconcentratie in het bloed verlaagt, het eerste scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-crispr-in-de-strijd-tegen-overgewicht-antw36.png"
+      ]
+    },
+    {
+      "title": "Zetmeelmatten voor de kust",
+      "question_number": 37,
+      "answer_text": "voorbeelden van een juist antwoord:\n− Door de stijging van de zeespiegel zullen de zeegras- en slijkgrasplanten te diep komen te liggen.\n− Het zeewater warmt op, waardoor de stofwisseling van planten kan worden verstoord.\n− Door de klimaatopwarming kunnen bepaalde plantenziekten vaker voorkomen.\n− Het zal meer gaan stormen, waardoor het water troebeler wordt en zeegras minder licht krijgt.\n− Doordat stormen krachtiger worden, worden zeegras- en slijkgrasvelden sneller weggeslagen.\n− Door meer CO₂ verzuurt het zeewater, wat ongunstig kan zijn voor de groei van zulke planten.\n− De temperatuur wordt hoger, waardoor deze boven de maximumwaarde komt, en de planten doodgaan.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-zetmeelmatten-voor-de-kust-antw37.png"
+      ]
+    },
+    {
+      "title": "Zetmeelmatten voor de kust",
+      "question_number": 38,
+      "answer_text": "1 juist\n2 juist\n3 juist",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "drie nummers correct"
+        },
+        {
+          "points": 1,
+          "description": "twee nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-zetmeelmatten-voor-de-kust-antw38.png"
+      ]
+    },
+    {
+      "title": "Zetmeelmatten voor de kust",
+      "question_number": 39,
+      "answer_text": "1 onjuist\n2 onjuist\n3 onjuist",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "drie nummers correct"
+        },
+        {
+          "points": 1,
+          "description": "twee nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-zetmeelmatten-voor-de-kust-antw39.png"
+      ]
+    },
+    {
+      "title": "Zetmeelmatten voor de kust",
+      "question_number": 40,
+      "answer_text": "voorbeelden van een juist antwoord:\n− De zetmeelmatten zijn (biologisch) afbreekbaar.\n− Het gebruik ervan levert geen milieuvervuiling op.\n− Als vogels of vissen ervan eten is dat niet schadelijk.\n− Het materiaal van halfvergane zetmeelmatten hoopt niet op in de voedselketen.\n− De matten dragen niet bij aan het versterkt broeikaseffect, doordat er bij de productie geen aardolie wordt gebruikt.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-zetmeelmatten-voor-de-kust-antw40.png"
+      ]
+    },
+    {
+      "title": "Zetmeelmatten voor de kust",
+      "question_number": 41,
+      "answer_text": "1 juist\n2 onjuist\n3 onjuist",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "drie nummers correct"
+        },
+        {
+          "points": 1,
+          "description": "twee nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-vwo-2026-i-zetmeelmatten-voor-de-kust-antw41.png"
+      ]
+    }
+  ]
+}
