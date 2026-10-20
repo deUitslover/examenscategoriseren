@@ -6,7 +6,7 @@ flow is the documented workaround).
 Usage:
     from supabase_upload import upload_image
 
-    ok, detail = upload_image(SUPABASE_URL, SUPABASE_ANON_KEY,
+    ok, detail = upload_image(SUPABASE_URL, SUPABASE_SECRET_KEY,
                                "practice-question-images", "images/foo.png")
     if not ok:
         print("upload failed:", detail)
@@ -30,9 +30,10 @@ def upload_image(supabase_url, anon_key, bucket, local_path, remote_filename=Non
     (False, "sign"/"put", status_code, response_text) on failure.
     """
     remote_filename = remote_filename or os.path.basename(local_path)
+    # Only the apikey header: an sb_secret_ key is not a JWT and is
+    # rejected when sent as "Authorization: Bearer".
     headers = {
         "apikey": anon_key,
-        "Authorization": f"Bearer {anon_key}",
         "Content-Type": "application/json",
     }
     sign_url = f"{supabase_url}/storage/v1/object/upload/sign/{bucket}/{remote_filename}"
@@ -50,7 +51,6 @@ def upload_image(supabase_url, anon_key, bucket, local_path, remote_filename=Non
         img_bytes = f.read()
     put_headers = {
         "apikey": anon_key,
-        "Authorization": f"Bearer {anon_key}",
         "Content-Type": "image/png",
     }
     r2 = requests.put(upload_url, headers=put_headers, data=img_bytes, timeout=60)
