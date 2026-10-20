@@ -1,0 +1,94 @@
+{
+  "source": "HAVO Biologie 2019-II",
+  "subject_name": "Biologie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "De ziekte van Wilson",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Hoofdluis",
+      "question_numbers": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Bruinvis verhongert in een zee vol vis",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "title": "Mysterieuze paardenziekte",
+      "question_numbers": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "title": "Het smaakt naar nootjes, maar dan met pootjes",
+      "question_numbers": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "title": "NIPT",
+      "question_numbers": [
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "title": "Kanoet met te korte snavel",
+      "question_numbers": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ]
+    },
+    {
+      "title": "Energiedrankjes",
+      "question_numbers": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ]
+    }
+  ]
+}

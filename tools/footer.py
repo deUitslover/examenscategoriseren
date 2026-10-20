@@ -64,7 +64,10 @@ def footer_top_y(page, hashes, doc=None):
         h = hashlib.md5(data).hexdigest()
         if h in hashes:
             bbox = page.get_image_bbox(img)
-            tops.append(bbox.y0)
+            # recurring images in the top half are the running page HEADER
+            # logo (2019+ layout, e.g. HAVO-BIO-19-I-O.pdf), not the footer
+            if bbox.y0 > page.rect.height / 2:
+                tops.append(bbox.y0)
     return min(tops) if tops else None
 
 

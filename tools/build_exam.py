@@ -14,8 +14,18 @@ Usage:
                  option that spilled onto the next page) belongs to vraag n:
                  it is rendered and stacked under that vraag's crop.
 --drop p:i       ignore plan item i on page p entirely.
+--merge p:i-j    merge ctx plan items i..j on page p into ONE context block
+                 (a vector figure / table whose labels sit more than
+                 para_gap apart gets split by plan_page; seen on
+                 HAVO-BIO-19-I-O.pdf bar charts and tables). Plan indices
+                 are the ORIGINAL plan_page indices (before merging).
+--extend p:i=pt  grow plan item i on page p downward by pt points: the
+                 ruime witruimte ONDER the in te vullen element of an
+                 uitwerkbijlage block (mark it block_type 'uitwerkbijlage'
+                 via "block_types" in the annotation file).
 
 Exam-specific quirks used so far (re-run these exactly):
+    HAVO-BIO-19-I-O.pdf: see tools/annotations/havo-biologie-2019-i.py header
     HAVO-BIO-18-I-O.pdf: --attach 3:0=5   (vraag 5 option D on next page)
     annotations: tools/annotations/havo-biologie-2018-i.py
 
@@ -49,7 +59,9 @@ def slugify(s):
 
 def opgave_title(page):
     bar = title_bar_y(page)
-    lines = [l for l in text_lines(page) if l[3] <= bar + 1 and l[1] > 40]
+    # only the title row right above the bar: skips the running page header
+    # and the italic "Tenzij anders vermeld ..." line on page 1 (2019 layout)
+    lines = [l for l in text_lines(page) if l[3] <= bar + 1 and l[1] > max(40, bar - 30)]
     return " ".join(l[4] for l in sorted(lines, key=lambda l: (l[1], l[0]))).strip()
 
 
@@ -60,6 +72,8 @@ def main():
     ap.add_argument("prefix")
     ap.add_argument("--attach", nargs="*", default=[])
     ap.add_argument("--drop", nargs="*", default=[])
+    ap.add_argument("--merge", nargs="*", default=[])
+    ap.add_argument("--extend", nargs="*", default=[])
     a = ap.parse_args()
 
     doc = fitz.open(a.pdf)
@@ -76,6 +90,15 @@ def main():
         p, i = map(int, k.split(":"))
         attach[(p, i)] = int(n)
     drop = {tuple(map(int, s.split(":"))) for s in a.drop}
+    merges = {}
+    for spec in a.merge:
+        p, rng = spec.split(":")
+        i, j = map(int, rng.split("-"))
+        merges.setdefault(int(p), []).append((i, j))
+    extend = {}
+    for spec in a.extend:
+        k, pt = spec.split("=")
+        extend[tuple(map(int, k.split(":")))] = float(pt)
 
     opgaven = []
     for page in doc:
@@ -83,9 +106,19 @@ def main():
             opgaven.append({"title": opgave_title(page), "items": []})
         if not opgaven:
             continue
-        for i, it in enumerate(plan_page(page, hashes)):
+        plan = list(enumerate(plan_page(page, hashes)))
+        for i, j in merges.get(page.number, []):
+            grp = [it for k, it in plan if i <= k <= j]
+            assert all(it["kind"] == "ctx" for it in grp), f"merge {page.number}:{i}-{j} spans a vraag"
+            grp[0]["y0"] = min(it["y0"] for it in grp)
+            grp[0]["y1"] = max(it["y1"] for it in grp)
+            grp[0]["members"] = [m for it in grp for m in it["members"]]
+            grp[0]["embedded"] = [e for it in grp for e in it.get("embedded", [])]
+            plan = [(k, it) for k, it in plan if not (i < k <= j)]
+        for i, it in plan:
             if (page.number, i) in drop:
                 continue
+            it["y1"] += extend.get((page.number, i), 0.0)
             it["key"] = f"{page.number}:{i}"
             if (page.number, i) in attach:
                 it["attach_to"] = attach[(page.number, i)]
