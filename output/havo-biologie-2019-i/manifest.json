@@ -1,0 +1,90 @@
+{
+  "source": "HAVO Biologie 2019-I",
+  "subject_name": "Biologie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Bungeejumpen",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Planten die vliegen vangen",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Nierdonor bij leven",
+      "question_numbers": [
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Toch het haasje door klimaatverandering?",
+      "question_numbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Aquaponics",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "title": "Rijst doneert menselijk bloedeiwit",
+      "question_numbers": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "title": "Smeerwortel",
+      "question_numbers": [
+        32,
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "title": "MERS",
+      "question_numbers": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ]
+    }
+  ]
+}

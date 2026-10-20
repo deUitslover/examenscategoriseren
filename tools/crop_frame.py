@@ -131,6 +131,18 @@ def _footer_limit(page, hashes):
     return top - 4.0
 
 
+def _header_limit(page, max_y=100.0):
+    """y of the hairline under a running page header (2019+ layout:
+    "biologie havo 2019-I" + logo above a full-width 0pt line), or 0.
+    The header must not stretch the window, just like the footer.
+    """
+    for d in page.get_drawings():
+        r = d["rect"]
+        if r.width > 300 and r.height < 1.5 and r.y0 < max_y:
+            return r.y1
+    return 0.0
+
+
 # ------------------------------------------------------------ the window
 
 def _width_bucket(width):
@@ -165,9 +177,10 @@ def get_exam_window(doc, margin=6.0):
     acc = {}
     for page in doc:
         limit = _footer_limit(page, hashes)
+        head = _header_limit(page)
         key = _width_bucket(page.rect.width)
         for x0, y0, x1, y1 in content_boxes(page):
-            if y0 >= limit:
+            if y0 >= limit or y1 <= head:
                 continue
             if key not in acc:
                 acc[key] = [x0, x1, page.rect.width]

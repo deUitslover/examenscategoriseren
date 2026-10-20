@@ -13,6 +13,7 @@ Annotation file (Python, loaded with runpy) defines:
           ...
         },
         "text": {"c3": "override text", "q5": "override text"},  # optional
+        "block_types": {7: "uitwerkbijlage"},                   # optional, default 'inline'
       },
     }
 Subdomain names are validated against SUBDOMAINS below (HAVO Biologie
@@ -91,7 +92,7 @@ def main():
                          "label": a["labels"].get(n, f"context {n}"),
                          "image_url": c["image"],
                          "text_content": clean(overrides.get(f"c{n}", c["text"])),
-                         "block_type": "inline"})
+                         "block_type": a.get("block_types", {}).get(n, "inline")})
         nums = []
         for qq in ex["questions"]:
             n = qq["number"]

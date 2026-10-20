@@ -46,10 +46,25 @@ from footer import footer_top_y, footer_image_boxes
 
 
 def title_bar_y(page, max_y=200.0):
-    """y1 of the grey opgave-title bar on this page, or None."""
+    """y1 of the grey opgave-title bar on this page, or None. The bar is
+    ~4-5pt high; the 0pt hairline under the running page header
+    (header_line_y) must not count as one.
+    """
     for d in page.get_drawings():
         r = d["rect"]
-        if r.width > 300 and r.height < 8 and r.y0 < max_y and d.get("fill"):
+        if r.width > 300 and 2 <= r.height < 8 and r.y0 < max_y and d.get("fill"):
+            return r.y1
+    return None
+
+
+def header_line_y(page, max_y=100.0):
+    """y1 of the hairline under a running page header ("biologie havo
+    2019-I" + logo, top of every page in the 2019+ layout), or None.
+    Nothing above it may end up in a crop.
+    """
+    for d in page.get_drawings():
+        r = d["rect"]
+        if r.width > 300 and r.height < 1.5 and r.y0 < max_y:
             return r.y1
     return None
 
@@ -87,6 +102,9 @@ def plan_page(page, hashes, para_gap=9.0, pad=4.0):
     """
     top = title_bar_y(page)
     y_min = (top + 2.0) if top is not None else 0.0
+    head = header_line_y(page)
+    if head is not None:
+        y_min = max(y_min, head + 2.0)
     y_max = footer_limit(page, hashes)
 
     boxes = [b for b in content_boxes(page) if b[1] >= y_min and b[1] < y_max]
@@ -199,6 +217,11 @@ def render_item(page, it, windows, hashes, render_page=None, pad=4.0):
     win = window_for(windows, page)
     y0 = it["y0"] - pad
     y1 = it["y1"] + pad
+    head = header_line_y(page)
+    if head is not None and y0 < head + 1.0:
+        # first line under the running header: the pad would pull the
+        # header hairline into the crop (HAVO-BIO-19-I-O.pdf p.3)
+        y0 = head + 1.0
     fboxes = footer_image_boxes(page, hashes)
 
     def is_footer(b):
