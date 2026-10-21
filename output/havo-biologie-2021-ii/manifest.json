@@ -1,0 +1,89 @@
+{
+  "source": "HAVO Biologie 2021-II",
+  "subject_name": "Biologie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Bionisch oog",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Zilte landbouw",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "De Mont Blanc: adembenemend",
+      "question_numbers": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "title": "Modificatie van malariamuggen",
+      "question_numbers": [
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "title": "Klimaat en hommel-evolutie",
+      "question_numbers": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "title": "Zwemmersjeuk",
+      "question_numbers": [
+        28,
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "title": "Amerikaanse vogelkers",
+      "question_numbers": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "title": "Boerderijstof beschermt tegen astma",
+      "question_numbers": [
+        39,
+        40,
+        41,
+        42
+      ]
+    }
+  ]
+}
