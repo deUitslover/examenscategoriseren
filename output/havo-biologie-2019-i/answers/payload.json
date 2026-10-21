@@ -1,0 +1,732 @@
+{
+ "subject_name": "Biologie",
+ "level": "HAVO",
+ "source": "HAVO Biologie 2019-I",
+ "answers": [
+  {
+   "title": "Bungeejumpen",
+   "question_number": 1,
+   "answer_text": "R",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "R"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-bungeejumpen-antw1.png"
+   ]
+  },
+  {
+   "title": "Bungeejumpen",
+   "question_number": 2,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-bungeejumpen-antw2.png"
+   ]
+  },
+  {
+   "title": "Bungeejumpen",
+   "question_number": 3,
+   "answer_text": "voorbeeld van een juist antwoord:\nBij Cathy zijn de zintuigcellen in de gele vlek uitgeschakeld. Dit zijn vooral kegeltjes, waarmee je normaal kleuren waarneemt. Hierdoor ziet ze nu dus geen kleur.\n\nUit het antwoord moet blijken dat\n• kegeltjes zich (vooral) in de gele vlek bevinden\n• kleuren worden waargenomen met kegeltjes\n\nof\n\n• aan de randen / buiten cirkel M zich (vooral) staafjes bevinden\n• met staafjes geen kleuren onderscheiden worden",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "kegeltjes bevinden zich (vooral) in de gele vlek (of: aan de randen / buiten cirkel M bevinden zich (vooral) staafjes)"
+    },
+    {
+     "points": 1,
+     "description": "kleuren worden waargenomen met kegeltjes (of: met staafjes worden geen kleuren onderscheiden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-bungeejumpen-antw3.png"
+   ]
+  },
+  {
+   "title": "Bungeejumpen",
+   "question_number": 4,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-bungeejumpen-antw4.png"
+   ]
+  },
+  {
+   "title": "Bungeejumpen",
+   "question_number": 5,
+   "answer_text": "B — altijd 2 scorepunten toekennen\n\nToelichting:\nDoor het ontbreken van een schaalverdeling kunnen kandidaten twijfelen over de mate waarin verschillen van belang zijn in deze grafieken en afhankelijk van hun inschatting daarvan voor andere alternatieven kiezen.",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "altijd 2 scorepunten toekennen (antwoord B)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-bungeejumpen-antw5.png"
+   ]
+  },
+  {
+   "title": "Planten die vliegen vangen",
+   "question_number": 6,
+   "answer_text": "voorbeelden van een juist antwoord:\n− DNA – nuclease\n− RNA – RNA-ase\n− nucleotide – nucleotidase\n− chitine – chitinase\n− fosfolipide – (fosfo)lipase\n− ureum – urease",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "voor een juiste stikstofhoudende organische stof"
+    },
+    {
+     "points": 1,
+     "description": "voor een bijpassend enzym"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-planten-die-vliegen-vangen-antw6.png"
+   ]
+  },
+  {
+   "title": "Planten die vliegen vangen",
+   "question_number": 7,
+   "answer_text": "bij alle genoemde organismen (fruitvliegjes, luizen, spinnen, planten)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien vier juiste / alle organismen genoteerd"
+    },
+    {
+     "points": 1,
+     "description": "indien drie juiste organismen genoteerd"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan drie juiste organismen genoteerd"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-planten-die-vliegen-vangen-antw7.png"
+   ]
+  },
+  {
+   "title": "Planten die vliegen vangen",
+   "question_number": 8,
+   "answer_text": "1 juist\n2 onjuist\n3 juist",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct aangevuld"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct aangevuld"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct aangevuld"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-planten-die-vliegen-vangen-antw8.png"
+   ]
+  },
+  {
+   "title": "Planten die vliegen vangen",
+   "question_number": 9,
+   "answer_text": "Uit het antwoord moet blijken dat de plant (door het vangen van vliegen) stikstof(verbindingen) verkrijgt via (de uitscheidingsproducten van) luizen (zodat de plant kan groeien op voedselarme bodem).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de plant verkrijgt (door het vangen van vliegen) stikstof(verbindingen) via (de uitscheidingsproducten van) luizen"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoordt dat de plant hierdoor voedingsstoffen verkrijgt, dit niet goed rekenen.",
+   "answer_image_urls": [
+    "biologie-havo-2019-i-planten-die-vliegen-vangen-antw9.png"
+   ]
+  },
+  {
+   "title": "Planten die vliegen vangen",
+   "question_number": 10,
+   "answer_text": "Uit het antwoord moet blijken dat\n• er genetische variatie in schorsdikte is\n• (een dikke schors de overlevingskans bij brand vergroot, waardoor) planten met dikkere schors meer nakomelingen zullen krijgen / een hogere fitness hebben",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "er is genetische variatie in schorsdikte"
+    },
+    {
+     "points": 1,
+     "description": "(een dikke schors vergroot de overlevingskans bij brand, waardoor) planten met dikkere schors meer nakomelingen zullen krijgen / een hogere fitness hebben"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoordt dat door mutatie en/of recombinatie verschillen ontstaan in schorsdikte, het eerste scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2019-i-planten-die-vliegen-vangen-antw10.png"
+   ]
+  },
+  {
+   "title": "Nierdonor bij leven",
+   "question_number": 11,
+   "answer_text": "• bloedgroep B en bloedgroep 0\n\nUit de verklaring moet blijken dat\n• zijn (rode) bloedcellen voor Marja geen lichaamsvreemde antigenen/eiwitten mogen hebben\n\nof\n\n• het bloed van Marja geen antistof mag bevatten tegen Arno’s (rode) bloedcellen",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "bloedgroep B en bloedgroep 0"
+    },
+    {
+     "points": 1,
+     "description": "verklaring: zijn (rode) bloedcellen mogen voor Marja geen lichaamsvreemde antigenen/eiwitten hebben (of: het bloed van Marja mag geen antistof bevatten tegen Arno’s (rode) bloedcellen)"
+    }
+   ],
+   "grading_note": "Als de kandidaat de keuze enkel toelicht aan de hand van een donor-acceptor-schema, het tweede scorepunt niet toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2019-i-nierdonor-bij-leven-antw11.png"
+   ]
+  },
+  {
+   "title": "Nierdonor bij leven",
+   "question_number": 12,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-nierdonor-bij-leven-antw12.png"
+   ]
+  },
+  {
+   "title": "Nierdonor bij leven",
+   "question_number": 13,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-nierdonor-bij-leven-antw13.png"
+   ]
+  },
+  {
+   "title": "Nierdonor bij leven",
+   "question_number": 14,
+   "answer_text": "P: een (grote) slagader in de buikholte / heupslagader / aorta / darmslagader / nierslagader / beenslagader\nQ: een (grote) ader in de buikholte / heupader / onderste holle ader / poortader / nierader / beenader\nR: blaas/urineleider",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "voor een juist bloedvat bij P én een juist bloedvat bij Q"
+    },
+    {
+     "points": 1,
+     "description": "voor blaas/urineleider bij R"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-nierdonor-bij-leven-antw14.png"
+   ]
+  },
+  {
+   "title": "Toch het haasje door klimaatverandering?",
+   "question_number": 15,
+   "answer_text": "• predatie/coyote/vos/lynx/predatoren/roofdieren\n• (de aanwezigheid van) sneeuw",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "predatie/coyote/vos/lynx/predatoren/roofdieren"
+    },
+    {
+     "points": 1,
+     "description": "(de aanwezigheid van) sneeuw"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-toch-het-haasje-door-klimaatverandering-antw15.png"
+   ]
+  },
+  {
+   "title": "Toch het haasje door klimaatverandering?",
+   "question_number": 16,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-toch-het-haasje-door-klimaatverandering-antw16.png"
+   ]
+  },
+  {
+   "title": "Aquaponics",
+   "question_number": 17,
+   "answer_text": "voorbeelden van juiste eigenschappen:\n− Er wordt vissenvoer toegevoegd.\n− De gekweekte vis wordt afgevoerd.\n− De groente wordt geoogst.\n− De planten nemen CO₂ op uit de omgeving.\n− Vissen verbruiken zuurstof.\n− Er wordt jonge vis uitgezet.\n− Er wordt gezaaid om nieuwe planten te kweken.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "per juiste eigenschap"
+    },
+    {
+     "points": 1,
+     "description": "per juiste eigenschap"
+    }
+   ],
+   "grading_note": "Als de kandidaat een technisch onderdeel van het systeem noteert, zoals kleikorrels, hiervoor geen scorepunt toekennen.\nAls de kandidaat antwoordt dat licht instraalt, geen scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2019-i-aquaponics-antw17.png"
+   ]
+  },
+  {
+   "title": "Aquaponics",
+   "question_number": 18,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-aquaponics-antw18.png"
+   ]
+  },
+  {
+   "title": "Aquaponics",
+   "question_number": 19,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-aquaponics-antw19.png"
+   ]
+  },
+  {
+   "title": "Aquaponics",
+   "question_number": 20,
+   "answer_text": "Uit het antwoord moet blijken dat\n• de vissen een deel van de energie uit het voer gebruiken voor stofwisselingsprocessen\n• de vissen een deel van het voedsel niet kunnen verteren/opnemen / een deel van het voedsel als ontlasting het lichaam verlaat",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de vissen gebruiken een deel van de energie uit het voer voor stofwisselingsprocessen"
+    },
+    {
+     "points": 1,
+     "description": "de vissen kunnen een deel van het voedsel niet verteren/opnemen / een deel van het voedsel verlaat als ontlasting het lichaam"
+    }
+   ],
+   "grading_note": "Als de kandidaat noteert dat bacteriën in de darmen een deel van de voedingsstoffen verbruiken, het tweede scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2019-i-aquaponics-antw20.png"
+   ]
+  },
+  {
+   "title": "Aquaponics",
+   "question_number": 21,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-aquaponics-antw21.png"
+   ]
+  },
+  {
+   "title": "Aquaponics",
+   "question_number": 22,
+   "answer_text": "voorbeelden van juiste argumenten:\n− In aquaponics met tomaat is er meer visproductie.\n− In aquaponics met paksoi is er meer visvoer nodig.\n− Met tomaat is de eetbare productie hoger.\n− Met tomaat is de voedselconversiefactor gunstiger.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "per juist argument"
+    },
+    {
+     "points": 1,
+     "description": "per juist argument"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-aquaponics-antw22.png"
+   ]
+  },
+  {
+   "title": "Aquaponics",
+   "question_number": 23,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-aquaponics-antw23.png"
+   ]
+  },
+  {
+   "title": "Rijst doneert menselijk bloedeiwit",
+   "question_number": 24,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-rijst-doneert-menselijk-bloedeiwit-antw24.png"
+   ]
+  },
+  {
+   "title": "Rijst doneert menselijk bloedeiwit",
+   "question_number": 25,
+   "answer_text": "Uit het antwoord moet blijken dat\n• de osmotische waarde van gedestilleerd water (te) laag is\n• (waardoor door osmose) bloedcellen te veel water opnemen / knappen",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de osmotische waarde van gedestilleerd water is (te) laag"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor door osmose) bloedcellen te veel water opnemen / knappen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-rijst-doneert-menselijk-bloedeiwit-antw25.png"
+   ]
+  },
+  {
+   "title": "Rijst doneert menselijk bloedeiwit",
+   "question_number": 26,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Bij een plasmadonor wordt alleen het bloedplasma afgenomen, dit is in enkele dagen weer volledig aangevuld. Bij volbloeddonatie worden ook de (rode) cellen afgenomen. Omdat het veel langer duurt om nieuwe cellen aan te maken, moet je ten minste twee maanden wachten, zodat het aantal (rode) bloedcellen weer op peil kan komen.\n− Omdat het maken van nieuwe bloedcellen meer tijd kost dan het maken van bloedplasma.\n\nUit het antwoord moet blijken dat\n• (bij volbloeddonatie) de aanmaak van voldoende nieuwe bloedcellen veel/meer tijd kost\n• (bij plasmadonatie) bloedplasma/plasma-eiwitten sneller / binnen enkele dagen worden aangemaakt",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(bij volbloeddonatie) kost de aanmaak van voldoende nieuwe bloedcellen veel/meer tijd"
+    },
+    {
+     "points": 1,
+     "description": "(bij plasmadonatie) worden bloedplasma/plasma-eiwitten sneller / binnen enkele dagen aangemaakt"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-rijst-doneert-menselijk-bloedeiwit-antw26.png"
+   ]
+  },
+  {
+   "title": "Rijst doneert menselijk bloedeiwit",
+   "question_number": 27,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-rijst-doneert-menselijk-bloedeiwit-antw27.png"
+   ]
+  },
+  {
+   "title": "Rijst doneert menselijk bloedeiwit",
+   "question_number": 28,
+   "answer_text": "Uit het antwoord moet blijken dat het eiwit niet goed gevouwen wordt / dat bacteriën geen endoplasmatisch reticulum / geen golgi-systeem / geen organellen hebben.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "het eiwit wordt niet goed gevouwen / bacteriën hebben geen endoplasmatisch reticulum / geen golgi-systeem / geen organellen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-rijst-doneert-menselijk-bloedeiwit-antw28.png"
+   ]
+  },
+  {
+   "title": "Rijst doneert menselijk bloedeiwit",
+   "question_number": 29,
+   "answer_text": "bacterie: wel (genetisch gemodificeerd)\nmens: niet (genetisch gemodificeerd)\nrijstplant: wel (genetisch gemodificeerd)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie organismen correct aangevuld"
+    },
+    {
+     "points": 1,
+     "description": "indien twee organismen correct aangevuld"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee organismen correct aangevuld"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-rijst-doneert-menselijk-bloedeiwit-antw29.png"
+   ]
+  },
+  {
+   "title": "Rijst doneert menselijk bloedeiwit",
+   "question_number": 30,
+   "answer_text": "• voor een groep die een infuus krijgt met (een oplossing met) HSA uit rijst / GM-HSA\n• voor een groep die een infuus krijgt met (een oplossing met) HSA uit (donor)bloed\n\nToelichting:\nHet blijkt dat bij patiëntenonderzoek waarin een nieuwe behandeling vergeleken wordt met een bestaande behandeling in veel gevallen geen placebo wordt gehanteerd om de patiënten geen behandeling te onthouden.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "voor een groep die een infuus krijgt met (een oplossing met) HSA uit rijst / GM-HSA"
+    },
+    {
+     "points": 1,
+     "description": "voor een groep die een infuus krijgt met (een oplossing met) HSA uit (donor)bloed"
+    }
+   ],
+   "grading_note": "Als de kandidaat een groep noemt die een infuus krijgt met een placebo, dit niet in de beoordeling meenemen.",
+   "answer_image_urls": [
+    "biologie-havo-2019-i-rijst-doneert-menselijk-bloedeiwit-antw30.png"
+   ]
+  },
+  {
+   "title": "Rijst doneert menselijk bloedeiwit",
+   "question_number": 31,
+   "answer_text": "Uit het antwoord moet blijken dat uit bloedplasma andere stoffen gewonnen worden.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "uit bloedplasma worden andere stoffen gewonnen"
+    }
+   ],
+   "grading_note": "Als de kandidaat een juist voorbeeld geeft van een andere stof uit bloedplasma, zoals bijvoorbeeld stollingseiwitten, antistoffen of hormonen, het scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2019-i-rijst-doneert-menselijk-bloedeiwit-antw31.png"
+   ]
+  },
+  {
+   "title": "Smeerwortel",
+   "question_number": 32,
+   "answer_text": "allantoïne, met een verklaring waaruit blijkt dat celdeling nodig is voor wondherstel",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "allantoïne, met een verklaring waaruit blijkt dat celdeling nodig is voor wondherstel"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-smeerwortel-antw32.png"
+   ]
+  },
+  {
+   "title": "Smeerwortel",
+   "question_number": 33,
+   "answer_text": "Uit het antwoord moet blijken dat er door het produceren van gifstoffen minder vraat is.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "door het produceren van gifstoffen is er minder vraat"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-smeerwortel-antw33.png"
+   ]
+  },
+  {
+   "title": "Smeerwortel",
+   "question_number": 34,
+   "answer_text": "Uit het antwoord moet blijken dat er door drinken van thee / er via darmen een grotere hoeveelheid PA’s worden opgenomen (dan door wondbehandeling / via de huid).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "door drinken van thee / via darmen wordt een grotere hoeveelheid PA’s opgenomen (dan door wondbehandeling / via de huid)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-smeerwortel-antw34.png"
+   ]
+  },
+  {
+   "title": "Smeerwortel",
+   "question_number": 35,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Anders weet je niet zeker hoe het chromosoomaantal van de nakomelingen tot stand is gekomen.\n− Zo weet je bij de kruising zeker welke plant de vaderplant is.\n\nUit het antwoord moet blijken dat er hierdoor zekerheid is over (de chromosoomaantallen van) de ouderplanten.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "er is hierdoor zekerheid over (de chromosoomaantallen van) de ouderplanten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-smeerwortel-antw35.png"
+   ]
+  },
+  {
+   "title": "Smeerwortel",
+   "question_number": 36,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-smeerwortel-antw36.png"
+   ]
+  },
+  {
+   "title": "MERS",
+   "question_number": 37,
+   "answer_text": "Uit het antwoord moet blijken dat hierdoor de diffusieafstand groter is / dat hierdoor het diffusieoppervlak kleiner is / dat de diffusiesnelheid in water lager is.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de diffusieafstand is groter / het diffusieoppervlak is kleiner / de diffusiesnelheid in water is lager"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-mers-antw37.png"
+   ]
+  },
+  {
+   "title": "MERS",
+   "question_number": 38,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-mers-antw38.png"
+   ]
+  },
+  {
+   "title": "MERS",
+   "question_number": 39,
+   "answer_text": "1 niet\n2 niet\n3 wel",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct aangevuld"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct aangevuld"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct aangevuld"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-mers-antw39.png"
+   ]
+  },
+  {
+   "title": "MERS",
+   "question_number": 40,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-mers-antw40.png"
+   ]
+  },
+  {
+   "title": "MERS",
+   "question_number": 41,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-mers-antw41.png"
+   ]
+  },
+  {
+   "title": "MERS",
+   "question_number": 42,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-mers-antw42.png"
+   ]
+  },
+  {
+   "title": "MERS",
+   "question_number": 43,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2019-i-mers-antw43.png"
+   ]
+  }
+ ]
+}
