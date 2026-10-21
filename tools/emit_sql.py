@@ -51,6 +51,7 @@ FORMULAS = {
     r"\bH2O2\b": "H₂O₂", r"\bCa2\+": "Ca²⁺", r"\bNa\+": "Na⁺", r"\bK\+": "K⁺",
     r"\bCl-(?=\s|$|[,.;)])": "Cl⁻", r"\bH\+": "H⁺", r"\bCH4\b": "CH₄", r"\bN2\b": "N₂",
     r"\bSO2\b": "SO₂", r"\bPO4": "PO₄", r"\bCO2-": "CO₂-",
+    r"\bFe3\+": "Fe³⁺", r"\bZ50%": "Z₅₀%", r"\bZmax\b": "Zₘₐₓ", r"\bcm2\b": "cm²",
 }
 
 

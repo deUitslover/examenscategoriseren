@@ -77,8 +77,11 @@ from footer import footer_hashes, footer_top_y
 # images that the frontend shows at the wrong size.
 ZOOM = 4
 
-# A subvraag always starts with a points marker like "3p" or "2p".
-POINTS_RE = re.compile(r"^\s*\d+\s*p\b")
+# A subvraag always starts with a points marker like "3p" or "2p". The
+# marker must stand on its own (followed by whitespace or end of line):
+# "\b" also matched "18p-tetrasomie" (opgave title/context text starting
+# with a chromosome arm on HAVO-BIO-21-I-O.pdf), which then became a vraag.
+POINTS_RE = re.compile(r"^\s*\d+\s*p(?=\s|$)")
 
 # Generous indent allowed when first collecting a vraag's own marker ROW
 # (see find_vraag_lines): wide enough for a sub-bullet's indented text
