@@ -19,6 +19,11 @@ Usage:
                  para_gap apart gets split by plan_page; seen on
                  HAVO-BIO-19-I-O.pdf bar charts and tables). Plan indices
                  are the ORIGINAL plan_page indices (before merging).
+--join p:i       ctx plan item i on page p continues the PREVIOUS context
+                 block of the same opgave (a kader that runs over a page
+                 break, e.g. HAVO-BIO-22-I-O.pdf "prooi voor deze plant
+                 zijn." on page 8): it is rendered and stacked under that
+                 block's image, and its text appended.
 --extend p:i=pt  grow plan item i on page p downward by pt points: the
                  ruime witruimte ONDER the in te vullen element of an
                  uitwerkbijlage block (mark it block_type 'uitwerkbijlage'
@@ -74,6 +79,7 @@ def main():
     ap.add_argument("--drop", nargs="*", default=[])
     ap.add_argument("--merge", nargs="*", default=[])
     ap.add_argument("--extend", nargs="*", default=[])
+    ap.add_argument("--join", nargs="*", default=[])
     a = ap.parse_args()
 
     doc = fitz.open(a.pdf)
@@ -90,6 +96,7 @@ def main():
         p, i = map(int, k.split(":"))
         attach[(p, i)] = int(n)
     drop = {tuple(map(int, s.split(":"))) for s in a.drop}
+    join = {tuple(map(int, s.split(":"))) for s in a.join}
     merges = {}
     for spec in a.merge:
         p, rng = spec.split(":")
@@ -122,6 +129,9 @@ def main():
             it["key"] = f"{page.number}:{i}"
             if (page.number, i) in attach:
                 it["attach_to"] = attach[(page.number, i)]
+            if (page.number, i) in join:
+                assert it["kind"] == "ctx", f"join {page.number}:{i} is not a ctx item"
+                it["join"] = True
             opgaven[-1]["items"].append(it)
 
     widths = set()
@@ -130,6 +140,7 @@ def main():
         tslug = slugify(op["title"])
         ex = {"title": op["title"], "title_slug": tslug, "context_blocks": [], "questions": []}
         vraag_pix = {}
+        ctx_pix = {}
         ctx_n = 0
         for it in op["items"]:
             page = doc[it["page"]]
@@ -140,6 +151,10 @@ def main():
                 ex["questions"].append({"number": it["num"], "text": text,
                                         "image": f"{a.prefix}-{tslug}-vraag{it['num']}.png",
                                         "key": it["key"]})
+            elif it.get("join"):
+                assert ctx_n, f"join {it['key']}: no earlier context block in this opgave"
+                ctx_pix[ctx_n].append(pix)
+                ex["context_blocks"][-1]["text"] += "\n" + text
             elif "attach_to" in it:
                 vraag_pix[it["attach_to"]].append(pix)
                 q = [q for q in ex["questions"] if q["number"] == it["attach_to"]][0]
@@ -147,11 +162,17 @@ def main():
             else:
                 ctx_n += 1
                 name = f"{a.prefix}-{tslug}-context{ctx_n}.png"
-                pix.save(os.path.join(imgdir, name))
-                widths.add(display_width(pix))
+                ctx_pix[ctx_n] = [pix]
                 ex["context_blocks"].append({"n": ctx_n, "image": name, "text": text,
                                              "key": it["key"], "page": it["page"],
                                              "before_vraag": None})
+        for n, pixes in ctx_pix.items():
+            path = os.path.join(imgdir, f"{a.prefix}-{tslug}-context{n}.png")
+            if len(pixes) == 1:
+                pixes[0].save(path)
+            else:
+                stack(pixes, path)
+            widths.add(display_width(fitz.Pixmap(path)))
         for num, pixes in vraag_pix.items():
             name = f"{a.prefix}-{tslug}-vraag{num}.png"
             path = os.path.join(imgdir, name)
@@ -162,7 +183,8 @@ def main():
             widths.add(display_width(fitz.Pixmap(path)))
         # record which vraag directly follows each ctx block (reading order)
         order = [("c", it["key"]) if it["kind"] == "ctx" and "attach_to" not in it else
-                 ("q", it.get("num")) for it in op["items"] if "attach_to" not in it]
+                 ("q", it.get("num")) for it in op["items"]
+                 if "attach_to" not in it and not it.get("join")]
         for idx, (kind, key) in enumerate(order):
             if kind == "c":
                 nxt = next((k for t, k in order[idx + 1:] if t == "q"), None)
