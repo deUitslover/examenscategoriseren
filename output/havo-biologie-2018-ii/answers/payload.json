@@ -1,0 +1,773 @@
+{
+ "subject_name": "Biologie",
+ "level": "HAVO",
+ "source": "HAVO Biologie 2018-II",
+ "answers": [
+  {
+   "title": "Kunst-alvleesklier",
+   "question_number": 1,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-kunst-alvleesklier-antw1.png"
+   ]
+  },
+  {
+   "title": "Kunst-alvleesklier",
+   "question_number": 2,
+   "answer_text": "Uit het antwoord moet blijken dat (door glucoseopname in de darmen en activiteit van de lever) de glucoseconcentratie in de poortader (veelal) sterk afwijkt van de waarde in de andere bloedvaten.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(door glucoseopname in de darmen en activiteit van de lever) wijkt de glucoseconcentratie in de poortader (veelal) sterk af van de waarde in de andere bloedvaten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-kunst-alvleesklier-antw2.png"
+   ]
+  },
+  {
+   "title": "Kunst-alvleesklier",
+   "question_number": 3,
+   "answer_text": "1 wel\n2 niet\n3 wel",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "voor drie correct aangevulde nummers"
+    },
+    {
+     "points": 1,
+     "description": "voor twee correct aangevulde nummers"
+    },
+    {
+     "points": 0,
+     "description": "voor minder dan twee correct aangevulde nummers"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-kunst-alvleesklier-antw3.png"
+   ]
+  },
+  {
+   "title": "Kunst-alvleesklier",
+   "question_number": 4,
+   "answer_text": "2 (keer)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "2 (keer)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-kunst-alvleesklier-antw4.png"
+   ]
+  },
+  {
+   "title": "Kunst-alvleesklier",
+   "question_number": 5,
+   "answer_text": "voorbeelden van een juist antwoord:\n− neutraliseren van het zuur uit de maag\n− productie van HCO₃⁻\n− afgifte van lipase\n− afgifte van alvleessap\n− vertering van zetmeel",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-kunst-alvleesklier-antw5.png"
+   ]
+  },
+  {
+   "title": "Levend fossiel",
+   "question_number": 6,
+   "answer_text": "voorbeelden van een juist antwoord:\n− De milieuomstandigheden voor de coelacanth zijn gelijk gebleven.\n− Ze hebben weinig predatoren.\n− De selectiedruk voor coelacanthen is laag.\n− Er hebben weinig mutaties plaatsgevonden in het DNA van de coelacanth.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-levend-fossiel-antw6.png"
+   ]
+  },
+  {
+   "title": "Levend fossiel",
+   "question_number": 7,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-levend-fossiel-antw7.png"
+   ]
+  },
+  {
+   "title": "Levend fossiel",
+   "question_number": 8,
+   "answer_text": "de longvis, met een daarbij juiste verklaring\n\nvoorbeelden van een juiste verklaring:\n− De gemeenschappelijke voorouder van de longvis en de vierpotige gewervelden leefde recenter dan de gemeenschappelijke voorouder van de coelacanth en de vierpotige gewervelden.\n− De splitsing van de longvis ligt verder naar rechts.\n− Uit de stamboom blijkt dat het DNA van de longvis meer overeenkomt met het DNA van de bruine kikker.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de longvis, met een daarbij juiste verklaring"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-levend-fossiel-antw8.png"
+   ]
+  },
+  {
+   "title": "MSUD",
+   "question_number": 9,
+   "answer_text": "• ureum\n• de nier(en)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "ureum"
+    },
+    {
+     "points": 1,
+     "description": "de nier(en)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-msud-antw9.png"
+   ]
+  },
+  {
+   "title": "MSUD",
+   "question_number": 10,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-msud-antw10.png"
+   ]
+  },
+  {
+   "title": "MSUD",
+   "question_number": 11,
+   "answer_text": "• eiwitten\n• Uit de toelichting moet blijken dat eiwitten zijn opgebouwd uit aminozuren (waaronder valine, leucine en isoleucine die niet afgebroken kunnen worden door Stan)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "eiwitten"
+    },
+    {
+     "points": 1,
+     "description": "eiwitten zijn opgebouwd uit aminozuren (waaronder valine, leucine en isoleucine die niet afgebroken kunnen worden door Stan)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-msud-antw11.png"
+   ]
+  },
+  {
+   "title": "MSUD",
+   "question_number": 12,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-msud-antw12.png"
+   ]
+  },
+  {
+   "title": "MSUD",
+   "question_number": 13,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-msud-antw13.png"
+   ]
+  },
+  {
+   "title": "Muizenplaag",
+   "question_number": 14,
+   "answer_text": "bastvaten/zeefvaten",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "bastvaten/zeefvaten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-muizenplaag-antw14.png"
+   ]
+  },
+  {
+   "title": "Muizenplaag",
+   "question_number": 15,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-muizenplaag-antw15.png"
+   ]
+  },
+  {
+   "title": "Muizenplaag",
+   "question_number": 16,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-muizenplaag-antw16.png"
+   ]
+  },
+  {
+   "title": "Muizenplaag",
+   "question_number": 17,
+   "answer_text": "speekselklier(en), alvleesklier en (dunne-)darmsapklieren / enzymproducerende darmcellen / crypten van Lieberkühn",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "voor drie juiste klieren"
+    },
+    {
+     "points": 1,
+     "description": "voor drie juiste klieren en een onjuist deel"
+    },
+    {
+     "points": 1,
+     "description": "voor alleen twee juiste klieren"
+    },
+    {
+     "points": 0,
+     "description": "voor alle overige antwoorden"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-muizenplaag-antw17.png"
+   ]
+  },
+  {
+   "title": "Muizenplaag",
+   "question_number": 18,
+   "answer_text": "F",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord F gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-muizenplaag-antw18.png"
+   ]
+  },
+  {
+   "title": "Muizenplaag",
+   "question_number": 19,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-muizenplaag-antw19.png"
+   ]
+  },
+  {
+   "title": "Muizenplaag",
+   "question_number": 20,
+   "answer_text": "Uit het antwoord moet blijken dat er (door afwisselende begroeiing) meer habitat/ruimte ontstaat voor predatoren (waardoor wordt voorkomen dat de muizenpopulatie uitgroeit tot plaaggrootte).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "er ontstaat (door afwisselende begroeiing) meer habitat/ruimte voor predatoren (waardoor wordt voorkomen dat de muizenpopulatie uitgroeit tot plaaggrootte)"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoordt dat de populaties geïsoleerd raken, het scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-muizenplaag-antw20.png"
+   ]
+  },
+  {
+   "title": "Sluipwesp verdooft en ontsmet",
+   "question_number": 21,
+   "answer_text": "Uit het antwoord moet blijken dat een predator meerdere prooien vangt / dat hier maar één individu wordt gegeten.\n\n1 punt altijd toekennen\n\nToelichting:\nwant de definities van predatie in vakliteratuur en schoolboeken verschillen onderling. Bepaalde definities maken het uitgangspunt van de vraag dubieus dat er bij de relatie sluipwesp- kakkerlak geen sprake is van predatie.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "1 punt altijd toekennen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-sluipwesp-verdooft-en-ontsmet-antw21.png"
+   ]
+  },
+  {
+   "title": "Sluipwesp verdooft en ontsmet",
+   "question_number": 22,
+   "answer_text": "F",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord F gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-sluipwesp-verdooft-en-ontsmet-antw22.png"
+   ]
+  },
+  {
+   "title": "Sluipwesp verdooft en ontsmet",
+   "question_number": 23,
+   "answer_text": "• kleiner\n• Uit de verklaring moet blijken dat voor dissimilatie/verbranding (organische) stoffen zijn verbruikt",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "kleiner"
+    },
+    {
+     "points": 1,
+     "description": "voor dissimilatie/verbranding zijn (organische) stoffen verbruikt"
+    }
+   ],
+   "grading_note": "Als de kandidaat als verklaring alleen geeft dat de kakkerlak niet meer eet, het tweede scorepunt niet toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-sluipwesp-verdooft-en-ontsmet-antw23.png"
+   ]
+  },
+  {
+   "title": "Sluipwesp verdooft en ontsmet",
+   "question_number": 24,
+   "answer_text": "Uit het antwoord moet blijken dat\n• resistentie (tegen een antibioticum) ontstaat door mutatie/recombinatie\n• de kans kleiner is dat meerdere resistenties in één bacterie ontstaan\nof\n• resistentie tegen een antibioticum aanwezig is door variatie\n• de kans kleiner is dat meerdere resistenties in één bacterie aanwezig zijn",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "resistentie (tegen een antibioticum) ontstaat door mutatie/recombinatie / resistentie tegen een antibioticum is aanwezig door variatie"
+    },
+    {
+     "points": 1,
+     "description": "de kans is kleiner dat meerdere resistenties in één bacterie ontstaan / aanwezig zijn"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-sluipwesp-verdooft-en-ontsmet-antw24.png"
+   ]
+  },
+  {
+   "title": "Degeneratie van het netvlies",
+   "question_number": 25,
+   "answer_text": "voorbeeld van een juist antwoord:\nDoor de ophopingen achter het netvlies is dit gebobbeld. Het licht valt dan op andere zintuigcellen dan in de normale situatie, waardoor in de hersenen een afwijkend beeld wordt gevormd.\n\nUit het antwoord moet blijken dat\n• door de ophopingen het netvlies (plaatselijk) vervormd is\n• zintuigcellen op een andere plaats (in het netvlies) geprikkeld worden (dan in de normale situatie)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "door de ophopingen is het netvlies (plaatselijk) vervormd"
+    },
+    {
+     "points": 1,
+     "description": "zintuigcellen worden op een andere plaats (in het netvlies) geprikkeld (dan in de normale situatie)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-degeneratie-van-het-netvlies-antw25.png"
+   ]
+  },
+  {
+   "title": "Degeneratie van het netvlies",
+   "question_number": 26,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-degeneratie-van-het-netvlies-antw26.png"
+   ]
+  },
+  {
+   "title": "Degeneratie van het netvlies",
+   "question_number": 27,
+   "answer_text": "vooral kegeltjes, met een toelichting waaruit blijkt dat hij niets ziet in het centrum van zijn gezichtsveld / met de gele vlek / met de zintuigcellen op de optische as",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "vooral kegeltjes, met een toelichting waaruit blijkt dat hij niets ziet in het centrum van zijn gezichtsveld / met de gele vlek / met de zintuigcellen op de optische as"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-degeneratie-van-het-netvlies-antw27.png"
+   ]
+  },
+  {
+   "title": "Degeneratie van het netvlies",
+   "question_number": 28,
+   "answer_text": "Uit het antwoord moet blijken dat bij een groot aantal proefpersonen grote individuele variaties minder invloed hebben op het resultaat / het onderzoek hierdoor betrouwbaarder is.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "bij een groot aantal proefpersonen hebben grote individuele variaties minder invloed op het resultaat / het onderzoek is hierdoor betrouwbaarder"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-degeneratie-van-het-netvlies-antw28.png"
+   ]
+  },
+  {
+   "title": "Degeneratie van het netvlies",
+   "question_number": 29,
+   "answer_text": "Uit het antwoord moet blijken dat de controlegroep een placebo kreeg / een pil die identiek is aan de andere pillen maar dan zonder de te onderzoeken stoffen kreeg.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de controlegroep kreeg een placebo / een pil die identiek is aan de andere pillen maar dan zonder de te onderzoeken stoffen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-degeneratie-van-het-netvlies-antw29.png"
+   ]
+  },
+  {
+   "title": "Degeneratie van het netvlies",
+   "question_number": 30,
+   "answer_text": "1 wel\n2 niet\n3 niet",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "voor drie correct aangevulde nummers"
+    },
+    {
+     "points": 1,
+     "description": "voor twee correct aangevulde nummers"
+    },
+    {
+     "points": 0,
+     "description": "voor minder dan twee correct aangevulde nummers"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-degeneratie-van-het-netvlies-antw30.png"
+   ]
+  },
+  {
+   "title": "Degeneratie van het netvlies",
+   "question_number": 31,
+   "answer_text": "• (grootst:) 1\n• (kleinst:) 2",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(grootst:) 1"
+    },
+    {
+     "points": 1,
+     "description": "(kleinst:) 2"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-degeneratie-van-het-netvlies-antw31.png"
+   ]
+  },
+  {
+   "title": "Amerikaanse invasie in Nederlandse sloten",
+   "question_number": 32,
+   "answer_text": "• (aantal soorten:) 7\n• (aantal genera:) 4",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(aantal soorten:) 7"
+    },
+    {
+     "points": 1,
+     "description": "(aantal genera:) 4"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-amerikaanse-invasie-in-nederlandse-sloten-antw32.png"
+   ]
+  },
+  {
+   "title": "Amerikaanse invasie in Nederlandse sloten",
+   "question_number": 33,
+   "answer_text": "het zenuwstelsel",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "het zenuwstelsel"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-amerikaanse-invasie-in-nederlandse-sloten-antw33.png"
+   ]
+  },
+  {
+   "title": "Amerikaanse invasie in Nederlandse sloten",
+   "question_number": 34,
+   "answer_text": "1 wel\n2 wel\n3 niet\n4 wel",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "voor vier correct aangevulde nummers"
+    },
+    {
+     "points": 1,
+     "description": "voor drie correct aangevulde nummers"
+    },
+    {
+     "points": 0,
+     "description": "voor minder dan drie correct aangevulde nummers"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-amerikaanse-invasie-in-nederlandse-sloten-antw34.png"
+   ]
+  },
+  {
+   "title": "Amerikaanse invasie in Nederlandse sloten",
+   "question_number": 35,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-amerikaanse-invasie-in-nederlandse-sloten-antw35.png"
+   ]
+  },
+  {
+   "title": "Amerikaanse invasie in Nederlandse sloten",
+   "question_number": 36,
+   "answer_text": "Uit het antwoord moet blijken dat de kans groter is dat er (voldoende) kreeften zijn met de juiste eigenschappen voor de nieuwe situatie / veranderende omstandigheden.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de kans is groter dat er (voldoende) kreeften zijn met de juiste eigenschappen voor de nieuwe situatie / veranderende omstandigheden"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoordt dat de kans op inteelt kleiner is, het scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-amerikaanse-invasie-in-nederlandse-sloten-antw36.png"
+   ]
+  },
+  {
+   "title": "Amerikaanse invasie in Nederlandse sloten",
+   "question_number": 37,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-amerikaanse-invasie-in-nederlandse-sloten-antw37.png"
+   ]
+  },
+  {
+   "title": "Amerikaanse invasie in Nederlandse sloten",
+   "question_number": 38,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-amerikaanse-invasie-in-nederlandse-sloten-antw38.png"
+   ]
+  },
+  {
+   "title": "Amerikaanse invasie in Nederlandse sloten",
+   "question_number": 39,
+   "answer_text": "Uit het antwoord moet blijken dat bij lage dichtheden de detectiekans met eDNA-techniek hoger is (dan met de traditionele methoden).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "bij lage dichtheden is de detectiekans met eDNA-techniek hoger (dan met de traditionele methoden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-amerikaanse-invasie-in-nederlandse-sloten-antw39.png"
+   ]
+  },
+  {
+   "title": "Amerikaanse invasie in Nederlandse sloten",
+   "question_number": 40,
+   "answer_text": "Uit het antwoord moet blijken dat\n• (door de verbindingsroutes) Amerikaanse kreeften / schimmelsporen in contact kunnen komen met Europese rivierkreeften\n• de kans op besmetting met de kreeftenpest groter wordt",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(door de verbindingsroutes) kunnen Amerikaanse kreeften / schimmelsporen in contact komen met Europese rivierkreeften"
+    },
+    {
+     "points": 1,
+     "description": "de kans op besmetting met de kreeftenpest wordt groter"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoordt dat Europese rivierkreeften weggeconcurreerd kunnen worden door Amerikaanse rivierkreeften, het tweede scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-amerikaanse-invasie-in-nederlandse-sloten-antw40.png"
+   ]
+  },
+  {
+   "title": "Pandakeutels",
+   "question_number": 41,
+   "answer_text": "Uit het antwoord moet blijken dat\n• cellulase nodig is om cellulose/celwanden af te breken / te verteren\n• zonder cellulase de reuzenpanda onvoldoende energie/voedingsstoffen binnen zou krijgen",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "cellulase is nodig om cellulose/celwanden af te breken / te verteren"
+    },
+    {
+     "points": 1,
+     "description": "zonder cellulase zou de reuzenpanda onvoldoende energie/voedingsstoffen binnen krijgen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-pandakeutels-antw41.png"
+   ]
+  },
+  {
+   "title": "Pandakeutels",
+   "question_number": 42,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-pandakeutels-antw42.png"
+   ]
+  },
+  {
+   "title": "Pandakeutels",
+   "question_number": 43,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-pandakeutels-antw43.png"
+   ]
+  },
+  {
+   "title": "Pandakeutels",
+   "question_number": 44,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Als maïs wordt gebruikt voor het maken van biobrandstof kan het niet worden gebruikt voor voedselproductie.\n− Er is dan minder grond voor voedselproductie beschikbaar.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoordt dat bij de productie van maïs en/of suikerriet kunstmest en/of bestrijdingsmiddelen gebruikt worden, het scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-pandakeutels-antw44.png"
+   ]
+  },
+  {
+   "title": "Pandakeutels",
+   "question_number": 45,
+   "answer_text": "voorbeelden van juiste abiotische factoren:\n− temperatuur\n− pH\n− zuurstofconcentratie\n− zoutconcentratie\n− water",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "voor twee juiste abiotische factoren"
+    },
+    {
+     "points": 0,
+     "description": "voor minder dan twee juiste abiotische factoren"
+    }
+   ],
+   "grading_note": "Als de kandidaat glucoseconcentratie noemt als abiotische factor naast een juiste abiotische factor, het scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-pandakeutels-antw45.png"
+   ]
+  },
+  {
+   "title": "Pandakeutels",
+   "question_number": 46,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2018-ii-pandakeutels-antw46.png"
+   ]
+  }
+ ]
+}
