@@ -1,0 +1,95 @@
+{
+  "source": "HAVO Biologie 2021-III",
+  "subject_name": "Biologie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Huidcellen als visvoer",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Voedsel-allergieën",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Biologische wijn",
+      "question_numbers": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Stamcellen als behandeling voor diabetes",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "title": "Koraalriffen",
+      "question_numbers": [
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "title": "Dubbele bypass",
+      "question_numbers": [
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "title": "Kwieker ouder door genmutatie",
+      "question_numbers": [
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "title": "Methaan uit koeienwinden: broeikaseffect of duurzame energie?",
+      "question_numbers": [
+        35,
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "title": "Zon en hitte",
+      "question_numbers": [
+        39,
+        40,
+        41,
+        42,
+        43
+      ]
+    }
+  ]
+}
