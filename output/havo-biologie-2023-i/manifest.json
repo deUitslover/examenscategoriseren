@@ -1,0 +1,90 @@
+{
+  "source": "HAVO Biologie 2023-I",
+  "subject_name": "Biologie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Rivierdonderpad in de Leidse grachten",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Een bos om op te eten",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Spoedkeizersnede",
+      "question_numbers": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "title": "Planten ‘horen’ bijen vliegen",
+      "question_numbers": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "title": "Bèta-thalassemie genezen met stamceltransplantatie",
+      "question_numbers": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ]
+    },
+    {
+      "title": "Mens temde het paard al in de oertijd",
+      "question_numbers": [
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "title": "Nierstenen in de bocht",
+      "question_numbers": [
+        45,
+        46,
+        47,
+        48
+      ]
+    }
+  ]
+}
