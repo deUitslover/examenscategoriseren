@@ -1,0 +1,88 @@
+{
+  "source": "HAVO Biologie 2022-III",
+  "subject_name": "Biologie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "IJskoud de beste?",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Mangrove in Arnhem",
+      "question_numbers": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Bijziendheid, een groeiend probleem",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Stamceldonatie",
+      "question_numbers": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "title": "Regenwormen voor vogels en planten",
+      "question_numbers": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "title": "Leven zonder milt",
+      "question_numbers": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "title": "Essentaksterfte",
+      "question_numbers": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ]
+    }
+  ]
+}
