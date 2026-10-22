@@ -52,6 +52,7 @@ FORMULAS = {
     r"\bCl-(?=\s|$|[,.;)])": "Cl⁻", r"\bH\+": "H⁺", r"\bCH4\b": "CH₄", r"\bN2\b": "N₂",
     r"\bSO2\b": "SO₂", r"\bPO4": "PO₄", r"\bCO2-": "CO₂-",
     r"\bFe3\+": "Fe³⁺", r"\bFe2\+": "Fe²⁺", r"\bZ50%": "Z₅₀%", r"\bZmax\b": "Zₘₐₓ", r"\bcm2\b": "cm²", r"\bm2\b": "m²",
+    r"\bNO3[–−]": "NO₃⁻", r"\bmm3\b": "mm³",
 }
 
 

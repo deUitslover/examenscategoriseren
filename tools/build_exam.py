@@ -27,7 +27,15 @@ Usage:
 --extend p:i=pt  grow plan item i on page p downward by pt points: the
                  ruime witruimte ONDER the in te vullen element of an
                  uitwerkbijlage block (mark it block_type 'uitwerkbijlage'
-                 via "block_types" in the annotation file).
+                 via "block_types" in the annotation file). On a vraag item
+                 the keep box grows too: use it (with --drop of the stray
+                 ctx item) for a vraag's last line that plan_page split off.
+--trim p:i=pt    move the top of vraag item i on page p down by pt points.
+                 find_vraag_lines sometimes swallows the last line of the
+                 context right above the vraag ("de maag." above vraag 27,
+                 HAVO-BIO-23-II-O.pdf p.11): trim the vraag and --extend the
+                 ctx item above by the same amount (the extended ctx then
+                 keeps those lines as members, so they are not wiped).
 
 Exam-specific quirks used so far (re-run these exactly):
     HAVO-BIO-19-I-O.pdf: see tools/annotations/havo-biologie-2019-i.py header
@@ -80,6 +88,7 @@ def main():
     ap.add_argument("--merge", nargs="*", default=[])
     ap.add_argument("--extend", nargs="*", default=[])
     ap.add_argument("--join", nargs="*", default=[])
+    ap.add_argument("--trim", nargs="*", default=[])
     a = ap.parse_args()
 
     doc = fitz.open(a.pdf)
@@ -102,6 +111,10 @@ def main():
         p, rng = spec.split(":")
         i, j = map(int, rng.split("-"))
         merges.setdefault(int(p), []).append((i, j))
+    trim = {}
+    for spec in a.trim:
+        k, pt = spec.split("=")
+        trim[tuple(map(int, k.split(":")))] = float(pt)
     extend = {}
     for spec in a.extend:
         k, pt = spec.split("=")
@@ -125,7 +138,26 @@ def main():
         for i, it in plan:
             if (page.number, i) in drop:
                 continue
-            it["y1"] += extend.get((page.number, i), 0.0)
+            ext = extend.get((page.number, i), 0.0)
+            old_y1 = it["y1"]
+            it["y1"] += ext
+            if ext and it["kind"] == "ctx":
+                # text lines in the extension become members, so the vraag
+                # wipe of a neighbouring vraag never paints them white
+                it["members"] = it["members"] + [tuple(l[:4]) for l in text_lines(page)
+                                                 if l[1] >= old_y1 - 0.5 and l[3] <= it["y1"] + 0.5]
+            tr = trim.get((page.number, i), 0.0)
+            if tr:
+                assert it["kind"] == "vraag", f"trim {page.number}:{i} is not a vraag item"
+                it["y0"] += tr
+                m = it["members"][0]
+                it["members"] = [(m[0], m[1] + tr, m[2], m[3])]
+            if ext and it["kind"] == "vraag":
+                # grow the keep box too, otherwise the extra line (e.g. a
+                # wrapped last word of MC option D that find_vraag_lines
+                # missed, HAVO-BIO-23-I-O.pdf vraag 23) is wiped white
+                m = it["members"][0]
+                it["members"] = [(m[0], m[1], m[2], m[3] + ext)]
             it["key"] = f"{page.number}:{i}"
             if (page.number, i) in attach:
                 it["attach_to"] = attach[(page.number, i)]
