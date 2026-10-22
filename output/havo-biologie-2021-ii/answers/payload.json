@@ -1,0 +1,710 @@
+{
+ "subject_name": "Biologie",
+ "level": "HAVO",
+ "source": "HAVO Biologie 2021-II",
+ "answers": [
+  {
+   "title": "Bionisch oog",
+   "question_number": 1,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-bionisch-oog-antw1.png"
+   ]
+  },
+  {
+   "title": "Bionisch oog",
+   "question_number": 2,
+   "answer_text": "• (de combinatie) 5 met 1 en 2\n• (de combinatie) 5 met 2 / (de combinatie) 9 met 5 / (de combinatie) 7 met 6 / (de combinatie) 8 met 6",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(de combinatie) 5 met 1 en 2"
+    },
+    {
+     "points": 1,
+     "description": "(de combinatie) 5 met 2 / (de combinatie) 9 met 5 / (de combinatie) 7 met 6 / (de combinatie) 8 met 6"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-bionisch-oog-antw2.png"
+   ]
+  },
+  {
+   "title": "Bionisch oog",
+   "question_number": 3,
+   "answer_text": "S",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "S"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-bionisch-oog-antw3.png"
+   ]
+  },
+  {
+   "title": "Bionisch oog",
+   "question_number": 4,
+   "answer_text": "1 onjuist\n2 juist\n3 juist",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-bionisch-oog-antw4.png"
+   ]
+  },
+  {
+   "title": "Bionisch oog",
+   "question_number": 5,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-bionisch-oog-antw5.png"
+   ]
+  },
+  {
+   "title": "Bionisch oog",
+   "question_number": 6,
+   "answer_text": "voorbeelden van een juist antwoord:\n− De proefpersoon doet de test nog eens, maar dan met het bionische oog uitgeschakeld.\n− Het oog waarin het bionische oog is aangebracht, wordt afgeplakt. De proefpersoon doet vervolgens dezelfde test.\n− De proefpersonen hebben voorafgaand aan de implantatie dezelfde test gedaan.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": "In het antwoord moet zijn beschreven dat de proefpersoon de test doet zonder (werkend) bionisch oog.",
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-bionisch-oog-antw6.png"
+   ]
+  },
+  {
+   "title": "Zilte landbouw",
+   "question_number": 7,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-zilte-landbouw-antw7.png"
+   ]
+  },
+  {
+   "title": "Zilte landbouw",
+   "question_number": 8,
+   "answer_text": "1 kleiner\n2 groter\n3 kleiner",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": "Als de kandidaat bij kenmerk 1 ‘minder’ en/of bij kenmerk 2 ‘dikker’ noteert, dit niet fout rekenen.",
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-zilte-landbouw-antw8.png"
+   ]
+  },
+  {
+   "title": "Zilte landbouw",
+   "question_number": 9,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-zilte-landbouw-antw9.png"
+   ]
+  },
+  {
+   "title": "Zilte landbouw",
+   "question_number": 10,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-zilte-landbouw-antw10.png"
+   ]
+  },
+  {
+   "title": "Zilte landbouw",
+   "question_number": 11,
+   "answer_text": "P: stikstofbinding/stikstoffixatie / biologische fixatie / stikstofassimilatie\nQ: ammonificatie/rotting\nR: nitrificatie",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": "Als de kandidaat bij Q alleen ammonificerende bacteriën of rottingsbacteriën en/of bij R alleen nitrificerende bacteriën of nitriet- en nitraatbacteriën noteert, hiervoor in totaal 1 scorepunt in mindering brengen.",
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-zilte-landbouw-antw11.png"
+   ]
+  },
+  {
+   "title": "Zilte landbouw",
+   "question_number": 12,
+   "answer_text": "voorbeelden van een juist antwoord:\n− De productie van kunstmest kost veel energie terwijl stikstoffixatie ‘vanzelf’ gaat.\n− Het gebruik van kunstmest leidt eerder tot eutrofiëring.\n− Voor het transport van kunstmest worden fossiele brandstoffen verbruikt.\n− De grondstoffen voor kunstmest raken op.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-zilte-landbouw-antw12.png"
+   ]
+  },
+  {
+   "title": "Zilte landbouw",
+   "question_number": 13,
+   "answer_text": "1 niet\n2 niet\n3 niet",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-zilte-landbouw-antw13.png"
+   ]
+  },
+  {
+   "title": "De Mont Blanc: adembenemend",
+   "question_number": 14,
+   "answer_text": "1 wel\n2 wel\n3 niet\n4 wel\n5 niet",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien vijf nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien drie of vier nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan drie nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-de-mont-blanc-adembenemend-antw14.png"
+   ]
+  },
+  {
+   "title": "De Mont Blanc: adembenemend",
+   "question_number": 15,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-de-mont-blanc-adembenemend-antw15.png"
+   ]
+  },
+  {
+   "title": "De Mont Blanc: adembenemend",
+   "question_number": 16,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-de-mont-blanc-adembenemend-antw16.png"
+   ]
+  },
+  {
+   "title": "De Mont Blanc: adembenemend",
+   "question_number": 17,
+   "answer_text": "het juist ingevulde schema:\nCO₂-concentratie van het bloed —(+)→ chemoreceptoren —(+)→ ademcentrum —(+)→ ademhalingsspieren —(+)→ ademhalingsfrequentie —(−)→ CO₂-concentratie van het bloed",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "voor ademcentrum, ademhalingsspieren en chemoreceptoren op de drie plaatsen juist"
+    },
+    {
+     "points": 1,
+     "description": "voor stimulering/toename (+) en remming/afname (–) in de vijf cirkels juist"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-de-mont-blanc-adembenemend-antw17.png"
+   ]
+  },
+  {
+   "title": "De Mont Blanc: adembenemend",
+   "question_number": 18,
+   "answer_text": "neurotransmitter(s)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "neurotransmitter(s)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-de-mont-blanc-adembenemend-antw18.png"
+   ]
+  },
+  {
+   "title": "Modificatie van malariamuggen",
+   "question_number": 19,
+   "answer_text": "(alleen) de malariaparasiet",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(alleen) de malariaparasiet"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-modificatie-van-malariamuggen-antw19.png"
+   ]
+  },
+  {
+   "title": "Modificatie van malariamuggen",
+   "question_number": 20,
+   "answer_text": "• geen celwand / geen grote (centrale) vacuole\n• een kern/mitochondrium/golgisysteem/ER / geen celwand",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "geen celwand / geen grote (centrale) vacuole"
+    },
+    {
+     "points": 1,
+     "description": "een kern/mitochondrium/golgisysteem/ER / geen celwand"
+    }
+   ],
+   "grading_note": "Als de kandidaat op beide deelvragen ‘geen celwand’ antwoordt, alleen het eerste scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-modificatie-van-malariamuggen-antw20.png"
+   ]
+  },
+  {
+   "title": "Modificatie van malariamuggen",
+   "question_number": 21,
+   "answer_text": "het juist ingevulde schema:\ngemodificeerde mug (♂), genotype RR → zaadcellen, genotype: R\ngewone mug (♀), genotype rr → eicellen, genotype: r\nzygoten direct na bevruchting, genotype: Rr\nmodificatie door modificatiegenen → genotype nakomelingen: RR\nzaadcellen, genotype: R of eicellen, genotype: R",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "voor genotypen geslachtscellen ouders én zygote juist"
+    },
+    {
+     "points": 1,
+     "description": "voor genotypen nakomelingen én geslachtscellen nakomelingen juist"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-modificatie-van-malariamuggen-antw21.png"
+   ]
+  },
+  {
+   "title": "Klimaat en hommel-evolutie",
+   "question_number": 23,
+   "answer_text": "(diagram) 3",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(diagram) 3"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-klimaat-en-hommel-evolutie-antw23.png"
+   ]
+  },
+  {
+   "title": "Klimaat en hommel-evolutie",
+   "question_number": 24,
+   "answer_text": "Uit het antwoord moet blijken dat de hommel (door zijn grotere lichaam) een relatief klein (lichaams-)oppervlak heeft / een kleine oppervlakte heeft ten opzichte van zijn volume.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de hommel heeft (door zijn grotere lichaam) een relatief klein (lichaams-)oppervlak / een kleine oppervlakte ten opzichte van zijn volume"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-klimaat-en-hommel-evolutie-antw24.png"
+   ]
+  },
+  {
+   "title": "Klimaat en hommel-evolutie",
+   "question_number": 25,
+   "answer_text": "voorbeelden van een juist antwoord:\n− toename van concurrentie met andere organismen\n− andere ziekteverwekkers\n− komst van andere predatoren\n− introductie van exoten",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-klimaat-en-hommel-evolutie-antw25.png"
+   ]
+  },
+  {
+   "title": "Klimaat en hommel-evolutie",
+   "question_number": 26,
+   "answer_text": "Uit het antwoord moet blijken dat\n• er elke generatie genetische variatie ontstaat / recombinatie plaatsvindt / mutaties ontstaan\n• (door een korte generatietijd) natuurlijke selectie vaker kan plaatsvinden (waardoor aanpassing van een soort kan optreden)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "er ontstaat elke generatie genetische variatie / recombinatie vindt plaats / mutaties ontstaan"
+    },
+    {
+     "points": 1,
+     "description": "(door een korte generatietijd) kan natuurlijke selectie vaker plaatsvinden (waardoor aanpassing van een soort kan optreden)"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoord geeft aan de hand van een specifiek voorbeeld, scorepunten toekennen naar analogie met het correctievoorschrift.",
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-klimaat-en-hommel-evolutie-antw26.png"
+   ]
+  },
+  {
+   "title": "Klimaat en hommel-evolutie",
+   "question_number": 27,
+   "answer_text": "Uit het antwoord moet blijken dat\n• er minder bestuiving/bevruchting (van planten met een lange bloembuis) plaatsvindt\n• (waardoor) er steeds minder planten met een lange bloembuis zullen voorkomen\n• (waardoor) hommels met een korte/kortere zuigsnuit selectievoordeel hebben / een hogere fitness hebben",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "er vindt minder bestuiving/bevruchting (van planten met een lange bloembuis) plaats"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) er steeds minder planten met een lange bloembuis zullen voorkomen"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) hommels met een korte/kortere zuigsnuit selectievoordeel / een hogere fitness hebben"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-klimaat-en-hommel-evolutie-antw27.png"
+   ]
+  },
+  {
+   "title": "Zwemmersjeuk",
+   "question_number": 28,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-zwemmersjeuk-antw28.png"
+   ]
+  },
+  {
+   "title": "Zwemmersjeuk",
+   "question_number": 29,
+   "answer_text": "voorbeelden van juiste verklaringen:\n− De opname van bouwstoffen in de darm is verminderd (door de beschadiging van het darmweefsel).\n− Voor herstel van beschadigd darmepitheel zijn voedingsstoffen nodig.\n− De kans op infectie is groter, waardoor meer energie nodig is voor de afweer.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "per juiste verklaring"
+    },
+    {
+     "points": 1,
+     "description": "per juiste verklaring"
+    }
+   ],
+   "grading_note": "Als de kandidaat in beide verklaringen verminderde opname van bepaalde bouwstoffen noemt (bijvoorbeeld: 1. minder opname van vetten en 2. minder opname van eiwitten), hiervoor in totaal 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-zwemmersjeuk-antw29.png"
+   ]
+  },
+  {
+   "title": "Zwemmersjeuk",
+   "question_number": 30,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-zwemmersjeuk-antw30.png"
+   ]
+  },
+  {
+   "title": "Zwemmersjeuk",
+   "question_number": 31,
+   "answer_text": "Uit het antwoord moet blijken dat\n• (er meer) blankvoorns gegeten worden door de baars\n• waardoor het aantal blankvoorns weer afneemt (en het aantal waterslakken toeneemt)\nof\n• de blankvoorn muggenlarven/watervlooien eet die algen eten / eet kikkervisjes/kokerjufferlarven die waterplanten eten\n• waardoor de hoeveelheid algen/waterplanten toeneemt (en het aantal waterslakken toeneemt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(er meer) blankvoorns gegeten worden door de baars — of: de blankvoorn eet muggenlarven/watervlooien die algen eten / eet kikkervisjes/kokerjufferlarven die waterplanten eten"
+    },
+    {
+     "points": 1,
+     "description": "waardoor het aantal blankvoorns weer afneemt (en het aantal waterslakken toeneemt) — of: waardoor de hoeveelheid algen/waterplanten toeneemt (en het aantal waterslakken toeneemt)"
+    }
+   ],
+   "grading_note": "Aan het antwoord “De blankvoorn eet andere organismen” geen scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-zwemmersjeuk-antw31.png"
+   ]
+  },
+  {
+   "title": "Amerikaanse vogelkers",
+   "question_number": 32,
+   "answer_text": "voorbeelden van juiste abiotische factoren:\n− pH van de bodem\n− voedselrijkdom / mineralen in de bodem\n− bodemvochtigheid/droogte\n− zoutgehalte\n− temperatuur",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "per juiste abiotische factor"
+    },
+    {
+     "points": 1,
+     "description": "per juiste abiotische factor"
+    }
+   ],
+   "grading_note": "Als de kandidaat humus of organische stof noteert, hiervoor 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-amerikaanse-vogelkers-antw32.png"
+   ]
+  },
+  {
+   "title": "Amerikaanse vogelkers",
+   "question_number": 33,
+   "answer_text": "Uit het antwoord moet blijken dat\n• er planten zijn met verschillende/diverse eigenschappen\n• (waardoor) onder verschillende omstandigheden individuen kunnen overleven / de kans groot is dat er individuen zijn die kunnen overleven bij bepaalde omstandigheden",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "er zijn planten met verschillende/diverse eigenschappen"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) onder verschillende omstandigheden individuen kunnen overleven / de kans groot is dat er individuen zijn die kunnen overleven bij bepaalde omstandigheden"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoord geeft aan de hand van een specifiek voorbeeld, scorepunten toekennen naar analogie met het correctievoorschrift.",
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-amerikaanse-vogelkers-antw33.png"
+   ]
+  },
+  {
+   "title": "Amerikaanse vogelkers",
+   "question_number": 34,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-amerikaanse-vogelkers-antw34.png"
+   ]
+  },
+  {
+   "title": "Amerikaanse vogelkers",
+   "question_number": 35,
+   "answer_text": "Uit het antwoord moet blijken dat weer nieuwe planten opkomen uit de zaden in de bodem / uit zaden van (Amerikaanse vogelkers-)planten in de omgeving.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "er komen weer nieuwe planten op uit de zaden in de bodem / uit zaden van (Amerikaanse vogelkers-)planten in de omgeving"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoordt dat in de bodem wortelresten achterblijven waaruit nieuwe planten kunnen groeien, hiervoor het scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-amerikaanse-vogelkers-antw35.png"
+   ]
+  },
+  {
+   "title": "Amerikaanse vogelkers",
+   "question_number": 36,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Schapen eten ook andere planten (die niet bestreden hoeven te worden).\n− Schapen laten mest achter (waardoor de bodem lokaal minder verschraalt).\n− Schapen eten voedsel van wilde dieren op.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-amerikaanse-vogelkers-antw36.png"
+   ]
+  },
+  {
+   "title": "Amerikaanse vogelkers",
+   "question_number": 37,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-amerikaanse-vogelkers-antw37.png"
+   ]
+  },
+  {
+   "title": "Amerikaanse vogelkers",
+   "question_number": 38,
+   "answer_text": "Uit het antwoord moet blijken dat\n• (door het verwijderen van Amerikaanse vogelkers) er minder voedsel is voor (vijfstippelig) struikhaantjes die voorkeur hebben voor (Amerikaanse) vogelkers / geen duidelijke voorkeur hebben\n• (waardoor) deze struikhaantjes minder (selectie)voordeel hebben (zodat aanpassing aan de Amerikaanse vogelkers vertraagd wordt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(door het verwijderen van Amerikaanse vogelkers) is er minder voedsel voor (vijfstippelig) struikhaantjes die voorkeur hebben voor (Amerikaanse) vogelkers / geen duidelijke voorkeur hebben"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) deze struikhaantjes minder (selectie)voordeel hebben (zodat aanpassing aan de Amerikaanse vogelkers vertraagd wordt)"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoordt dat wanneer de populatie struikhaantjes kleiner is, de kans dat gunstige mutaties ontstaan kleiner is, 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-amerikaanse-vogelkers-antw38.png"
+   ]
+  },
+  {
+   "title": "Boerderijstof beschermt tegen astma",
+   "question_number": 39,
+   "answer_text": "adrenaline/noradrenaline",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "adrenaline/noradrenaline"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-boerderijstof-beschermt-tegen-astma-antw39.png"
+   ]
+  },
+  {
+   "title": "Boerderijstof beschermt tegen astma",
+   "question_number": 40,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-boerderijstof-beschermt-tegen-astma-antw40.png"
+   ]
+  },
+  {
+   "title": "Boerderijstof beschermt tegen astma",
+   "question_number": 41,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-boerderijstof-beschermt-tegen-astma-antw41.png"
+   ]
+  },
+  {
+   "title": "Boerderijstof beschermt tegen astma",
+   "question_number": 42,
+   "answer_text": "(groep) 3",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(groep) 3"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-ii-boerderijstof-beschermt-tegen-astma-antw42.png"
+   ]
+  }
+ ]
+}
