@@ -1,0 +1,760 @@
+{
+ "subject_name": "Biologie",
+ "level": "HAVO",
+ "source": "HAVO Biologie 2021-I",
+ "answers": [
+  {
+   "title": "Pas op voor tekenbeten!",
+   "question_number": 1,
+   "answer_text": "voorbeelden van een juist antwoord:\n− weerhaken, daarmee kan de teek zich goed vasthechten\n− spits, zo kan de huid van de gastheer goed doorboord worden\n− lang, daardoor kunnen de bloedvaten worden bereikt",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-pas-op-voor-tekenbeten-antw1.png"
+   ]
+  },
+  {
+   "title": "Pas op voor tekenbeten!",
+   "question_number": 2,
+   "answer_text": "voorbeeld van een juist antwoord:\nDe lengte van de zuigsnuit op de afbeelding is 22 mm.\nDe werkelijke lengte is 22/100 = 0,22 mm = 220 micrometer.\nDit is voldoende om de bloedvaten te bereiken die zich onder opperhuid met een dikte van 30 micrometer bevinden.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "voor een juiste meting: 21/22/23 mm"
+    },
+    {
+     "points": 1,
+     "description": "voor een juiste berekening passend bij de gemeten lengte, met een juist antwoord in micrometers"
+    },
+    {
+     "points": 1,
+     "description": "voor een toelichting waaruit blijkt dat bloedvaten zich (direct) onder de (dunne) opperhuid bevinden"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-pas-op-voor-tekenbeten-antw2.png"
+   ]
+  },
+  {
+   "title": "Pas op voor tekenbeten!",
+   "question_number": 3,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-pas-op-voor-tekenbeten-antw3.png"
+   ]
+  },
+  {
+   "title": "Pas op voor tekenbeten!",
+   "question_number": 4,
+   "answer_text": "1 stijgen\n2 dalen\n3 stijgen",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": "Als de kandidaat symbolen (zoals pijlen, plussen of minnen) juist gebruikt, de scorepunten toekennen naar analogie met het correctievoorschrift.",
+   "answer_image_urls": [
+    "biologie-havo-2021-i-pas-op-voor-tekenbeten-antw4.png"
+   ]
+  },
+  {
+   "title": "Pas op voor tekenbeten!",
+   "question_number": 5,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-pas-op-voor-tekenbeten-antw5.png"
+   ]
+  },
+  {
+   "title": "Pas op voor tekenbeten!",
+   "question_number": 6,
+   "answer_text": "Uit het antwoord moet blijken dat veranderde eiwitten niet herkend worden door de (aanwezige) geheugencellen/antistoffen.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "veranderde eiwitten worden niet herkend door de (aanwezige) geheugencellen/antistoffen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-pas-op-voor-tekenbeten-antw6.png"
+   ]
+  },
+  {
+   "title": "Pas op voor tekenbeten!",
+   "question_number": 7,
+   "answer_text": "Uit het antwoord moet blijken dat\n• er variatie is in resistentie tegen het antibioticum / door mutatie resistente bacteriën kunnen ontstaan\n• resistente bacteriën in leven blijven en zich voortplanten / een selectievoordeel hebben / een hogere fitness hebben (waardoor een resistente bacteriestam kan ontstaan)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "er is variatie in resistentie tegen het antibioticum / door mutatie kunnen resistente bacteriën ontstaan"
+    },
+    {
+     "points": 1,
+     "description": "resistente bacteriën blijven in leven en planten zich voort / hebben een selectievoordeel / hebben een hogere fitness (waardoor een resistente bacteriestam kan ontstaan)"
+    }
+   ],
+   "grading_note": "Als de kandidaat immuniteit gebruikt in plaats van resistentie, 1 scorepunt in mindering brengen.",
+   "answer_image_urls": [
+    "biologie-havo-2021-i-pas-op-voor-tekenbeten-antw7.png"
+   ]
+  },
+  {
+   "title": "Groenten telen op Mars",
+   "question_number": 8,
+   "answer_text": "In de opzet van het experiment worden de volgende aspecten omschreven:\n• Er worden twee (groepen) kweekbakken gebruikt: één met potgrond en één met marszand\n• In beide groepen/kweekbakken worden meerdere bonen gezaaid/opgekweekt; het aantal is in de twee groepen/kweekbakken gelijk\n• Alle omstandigheden (behalve de grond) in de twee groepen/kweekbakken zijn identiek\n• De bonenplanten worden gedroogd en (vervolgens) gewogen",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er worden twee (groepen) kweekbakken gebruikt: één met potgrond en één met marszand"
+    },
+    {
+     "points": 1,
+     "description": "In beide groepen/kweekbakken worden meerdere bonen gezaaid/opgekweekt; het aantal is in de twee groepen/kweekbakken gelijk"
+    },
+    {
+     "points": 1,
+     "description": "Alle omstandigheden (behalve de grond) in de twee groepen/kweekbakken zijn identiek"
+    },
+    {
+     "points": 1,
+     "description": "De bonenplanten worden gedroogd en (vervolgens) gewogen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-groenten-telen-op-mars-antw8.png"
+   ]
+  },
+  {
+   "title": "Groenten telen op Mars",
+   "question_number": 9,
+   "answer_text": "1 onjuist\n2 onjuist\n3 juist",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-groenten-telen-op-mars-antw9.png"
+   ]
+  },
+  {
+   "title": "Groenten telen op Mars",
+   "question_number": 10,
+   "answer_text": "E",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord E gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-groenten-telen-op-mars-antw10.png"
+   ]
+  },
+  {
+   "title": "Groenten telen op Mars",
+   "question_number": 11,
+   "answer_text": "1 niet\n2 wel\n3 wel",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-groenten-telen-op-mars-antw11.png"
+   ]
+  },
+  {
+   "title": "Groenten telen op Mars",
+   "question_number": 12,
+   "answer_text": "voorbeelden van een juist antwoord:\n− De N₂-concentratie op Mars is lager, waardoor knolletjesbacteriën minder makkelijk stikstof kunnen binden.\n− De O₂-concentratie is lager, waardoor in knolletjesbacteriën minder verbranding kan plaatsvinden.\n− De CO₂-concentratie is hoger, waardoor de bodem verzuurt en de enzymen van knolletjesbacteriën minder goed werken.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-groenten-telen-op-mars-antw12.png"
+   ]
+  },
+  {
+   "title": "Galstenen",
+   "question_number": 13,
+   "answer_text": "(letter) Q",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(letter) Q"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-galstenen-antw13.png"
+   ]
+  },
+  {
+   "title": "Galstenen",
+   "question_number": 14,
+   "answer_text": "(letter) P",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(letter) P"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-galstenen-antw14.png"
+   ]
+  },
+  {
+   "title": "Galstenen",
+   "question_number": 15,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-galstenen-antw15.png"
+   ]
+  },
+  {
+   "title": "Galstenen",
+   "question_number": 16,
+   "answer_text": "5 - 9 - 8 - 3 - 7 - 1",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien alleen de zes juiste nummers in de juiste volgorde"
+    },
+    {
+     "points": 1,
+     "description": "indien alleen de zes juiste nummers in een onjuiste volgorde"
+    },
+    {
+     "points": 1,
+     "description": "indien alleen de zes juiste nummers in de juiste volgorde met één onjuist nummer"
+    },
+    {
+     "points": 1,
+     "description": "indien alleen vijf juiste nummers in de juiste volgorde"
+    },
+    {
+     "points": 0,
+     "description": "in alle andere gevallen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-galstenen-antw16.png"
+   ]
+  },
+  {
+   "title": "Galstenen",
+   "question_number": 17,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-galstenen-antw17.png"
+   ]
+  },
+  {
+   "title": "Galstenen",
+   "question_number": 18,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Door het tekort aan gal is het contactoppervlak tussen vet en spijsverteringssappen kleiner waardoor lipase minder goed vet kan afbreken.\n− Normaal zorgt gal voor emulgeren van vet. Door emulgeren kunnen enzymen het vet sneller verteren. Bij de patiënt wordt het vet dus niet volledig verteerd.\n− Gal verdeelt vet in kleine druppels. Enzymen kunnen de vetten dan goed afbreken. Bij de patiënt is dat dus niet het geval.\n\nUit het antwoord moet blijken dat\n• (door een tekort aan gal bij de patiënt) vet minder geëmulgeerd wordt\n• (waardoor) enzymen (uit de alvleesklier) vetten minder goed afbreken",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(door een tekort aan gal bij de patiënt) vet wordt minder geëmulgeerd"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) enzymen (uit de alvleesklier) vetten minder goed afbreken"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-galstenen-antw18.png"
+   ]
+  },
+  {
+   "title": "Verdachte chrysanten",
+   "question_number": 19,
+   "answer_text": "Uit het antwoord moet blijken dat (bij klassieke veredeling) moet worden voorkómen dat planten kruisen met andere dan de geselecteerde planten / dat er alleen kruisingen mogen plaatsvinden tussen planten met de gewenste eigenschappen.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "voorkómen dat planten kruisen met andere dan de geselecteerde planten / alleen kruisingen tussen planten met de gewenste eigenschappen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-verdachte-chrysanten-antw19.png"
+   ]
+  },
+  {
+   "title": "Verdachte chrysanten",
+   "question_number": 20,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-verdachte-chrysanten-antw20.png"
+   ]
+  },
+  {
+   "title": "Verdachte chrysanten",
+   "question_number": 21,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-verdachte-chrysanten-antw21.png"
+   ]
+  },
+  {
+   "title": "Verdachte chrysanten",
+   "question_number": 22,
+   "answer_text": "1 onjuist\n2 onjuist\n3 onjuist",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-verdachte-chrysanten-antw22.png"
+   ]
+  },
+  {
+   "title": "Verdachte chrysanten",
+   "question_number": 23,
+   "answer_text": "Uit het antwoord moet blijken dat hierdoor wordt uitgesloten dat gevonden verschillen worden veroorzaakt door milieufactoren / door andere dan genetische factoren.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "uitgesloten wordt dat gevonden verschillen worden veroorzaakt door milieufactoren / door andere dan genetische factoren"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoordt dat in een onderzoek maar één variabele anders mag zijn, het scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2021-i-verdachte-chrysanten-antw23.png"
+   ]
+  },
+  {
+   "title": "Verdachte chrysanten",
+   "question_number": 24,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-verdachte-chrysanten-antw24.png"
+   ]
+  },
+  {
+   "title": "Verdachte chrysanten",
+   "question_number": 25,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-verdachte-chrysanten-antw25.png"
+   ]
+  },
+  {
+   "title": "Zeeslak maakt pijnstiller",
+   "question_number": 26,
+   "answer_text": "(uit 17 x 3 =) 51 (nucleotiden)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(uit 17 x 3 =) 51 (nucleotiden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-zeeslak-maakt-pijnstiller-antw26.png"
+   ]
+  },
+  {
+   "title": "Zeeslak maakt pijnstiller",
+   "question_number": 27,
+   "answer_text": "1 Conus stercusmuscarum\n2 Conus striatus\n3 Conus kinoshitai",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "1 Conus stercusmuscarum, 2 Conus striatus, 3 Conus kinoshitai"
+    }
+   ],
+   "grading_note": "− Als de kandidaat een spelfout maakt, dit niet fout rekenen.\n− Als de kandidaat de geslachtsnaam afkort, dit niet fout rekenen.",
+   "answer_image_urls": [
+    "biologie-havo-2021-i-zeeslak-maakt-pijnstiller-antw27.png"
+   ]
+  },
+  {
+   "title": "Zeeslak maakt pijnstiller",
+   "question_number": 28,
+   "answer_text": "2 - 3 - 1 - 4 (met stap 1 omcirkeld)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "voor de juiste volgorde"
+    },
+    {
+     "points": 1,
+     "description": "voor omcirkelen van stap 1"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-zeeslak-maakt-pijnstiller-antw28.png"
+   ]
+  },
+  {
+   "title": "Zombieplanten",
+   "question_number": 29,
+   "answer_text": "Uit het antwoord moet blijken dat\n• er (met meer bladeren) meer fotosynthese is / meer energierijke/organische voedingsstoffen gemaakt worden\n• (waardoor) er meer energie is / er meer voedingsstoffen zijn / er meer voedsel is voor fytoplasma’s (waardoor zij kunnen leven / groeien / zich kunnen voorplanten)\nof\n• er bij de aanleg van bloemen/vruchten energierijke stoffen door de plant gebruikt worden\n• (waardoor) energierijke stoffen dan niet meer beschikbaar zijn voor (leven/groei/voortplanting van) fytoplasma’s",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "er is (met meer bladeren) meer fotosynthese / er worden meer energierijke/organische voedingsstoffen gemaakt — of: bij de aanleg van bloemen/vruchten worden energierijke stoffen door de plant gebruikt"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) er meer energie / voedingsstoffen / voedsel is voor fytoplasma’s — of: (waardoor) energierijke stoffen dan niet meer beschikbaar zijn voor (leven/groei/voortplanting van) fytoplasma’s"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoordt dat er hierdoor meer weefsel is om te infecteren, hiervoor 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2021-i-zombieplanten-antw29.png"
+   ]
+  },
+  {
+   "title": "Zombieplanten",
+   "question_number": 30,
+   "answer_text": "bastvaten",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "bastvaten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-zombieplanten-antw30.png"
+   ]
+  },
+  {
+   "title": "Zombieplanten",
+   "question_number": 31,
+   "answer_text": "Uit het antwoord moet blijken dat\n• (bij mutualisme) beide organismen voordeel hebben (van de relatie)\n• fytoplasma wordt verspreid (door de dwergcicade)\n• de dwergcicade meer blad tot zijn beschikking heeft (als gevolg van de fytoplasma-infectie bij planten)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(bij mutualisme) hebben beide organismen voordeel (van de relatie)"
+    },
+    {
+     "points": 1,
+     "description": "fytoplasma wordt verspreid (door de dwergcicade)"
+    },
+    {
+     "points": 1,
+     "description": "de dwergcicade heeft meer blad tot zijn beschikking (als gevolg van de fytoplasma-infectie bij planten)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-zombieplanten-antw31.png"
+   ]
+  },
+  {
+   "title": "Zombieplanten",
+   "question_number": 32,
+   "answer_text": "Uit het antwoord moet blijken dat er meer dwergcicaden per besmette plant worden geteld (dan per niet-besmette plant) / dwergcicaden (relatief) meer voorkomen op besmette planten.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "er worden meer dwergcicaden per besmette plant geteld (dan per niet-besmette plant) / dwergcicaden komen (relatief) meer voor op besmette planten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-zombieplanten-antw32.png"
+   ]
+  },
+  {
+   "title": "Zombieplanten",
+   "question_number": 33,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-zombieplanten-antw33.png"
+   ]
+  },
+  {
+   "title": "18p-tetrasomie",
+   "question_number": 34,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-18p-tetrasomie-antw34.png"
+   ]
+  },
+  {
+   "title": "18p-tetrasomie",
+   "question_number": 35,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-18p-tetrasomie-antw35.png"
+   ]
+  },
+  {
+   "title": "18p-tetrasomie",
+   "question_number": 36,
+   "answer_text": "Uit het antwoord moet blijken dat (in de maag) (speeksel)enzym/amylase wordt verteerd / de (speeksel)enzymen niet werken bij een lage pH.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(in de maag) wordt (speeksel)enzym/amylase verteerd / de (speeksel)enzymen werken niet bij een lage pH"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-18p-tetrasomie-antw36.png"
+   ]
+  },
+  {
+   "title": "Vleermuizen bedreigd!",
+   "question_number": 37,
+   "answer_text": "producenten",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "producenten"
+    }
+   ],
+   "grading_note": "− Aan het antwoord planten, geen scorepunt toekennen.\n− Aan het antwoord autotrofe organismen of aan het antwoord consumenten van de 5e orde (of hoger), het scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2021-i-vleermuizen-bedreigd-antw37.png"
+   ]
+  },
+  {
+   "title": "Vleermuizen bedreigd!",
+   "question_number": 38,
+   "answer_text": "Uit het antwoord moet blijken dat\n• (bij wakkere vleermuizen) de activiteit / het energieverbruik / het stofwisselingsniveau / de lichaamstemperatuur hoger is\n• er meer (vet)verbranding is (waardoor de vetreserves eerder opraken)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(bij wakkere vleermuizen) is de activiteit / het energieverbruik / het stofwisselingsniveau / de lichaamstemperatuur hoger"
+    },
+    {
+     "points": 1,
+     "description": "er is meer (vet)verbranding (waardoor de vetreserves eerder opraken)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-vleermuizen-bedreigd-antw38.png"
+   ]
+  },
+  {
+   "title": "Vleermuizen bedreigd!",
+   "question_number": 39,
+   "answer_text": "fysiologische zoutoplossing (zonder schimmel)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "fysiologische zoutoplossing (zonder schimmel)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-vleermuizen-bedreigd-antw39.png"
+   ]
+  },
+  {
+   "title": "Vleermuizen bedreigd!",
+   "question_number": 40,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-vleermuizen-bedreigd-antw40.png"
+   ]
+  },
+  {
+   "title": "Vleermuizen bedreigd!",
+   "question_number": 41,
+   "answer_text": "Uit het antwoord moet blijken dat\n• EUPd niet verantwoordelijk kan zijn (voor de massale sterfte), want deze komt niet voor in Noord-Amerika\n• NAPd wel verantwoordelijk kan zijn (voor de massale sterfte), want deze leidt tot sterfte in het experiment (en komt voor in Noord-Amerika)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "EUPd kan niet verantwoordelijk zijn (voor de massale sterfte), want deze komt niet voor in Noord-Amerika"
+    },
+    {
+     "points": 1,
+     "description": "NAPd kan wel verantwoordelijk zijn (voor de massale sterfte), want deze leidt tot sterfte in het experiment (en komt voor in Noord-Amerika)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-vleermuizen-bedreigd-antw41.png"
+   ]
+  },
+  {
+   "title": "Vleermuizen bedreigd!",
+   "question_number": 42,
+   "answer_text": "1 niet\n2 wel\n3 niet",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-vleermuizen-bedreigd-antw42.png"
+   ]
+  },
+  {
+   "title": "Vleermuizen bedreigd!",
+   "question_number": 43,
+   "answer_text": "Uit het antwoord moet blijken dat immuniteit niet wordt doorgegeven aan het nageslacht.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "immuniteit wordt niet doorgegeven aan het nageslacht"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2021-i-vleermuizen-bedreigd-antw43.png"
+   ]
+  }
+ ]
+}
