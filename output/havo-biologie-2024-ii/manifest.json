@@ -1,0 +1,90 @@
+{
+  "source": "HAVO Biologie 2024-II",
+  "subject_name": "Biologie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Poep moet leven",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Een miss met een litteken",
+      "question_numbers": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Gifkikkers",
+      "question_numbers": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "title": "Hond speurt naar zieke boom",
+      "question_numbers": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "title": "Levertransplantatie",
+      "question_numbers": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "title": "Vissen op zeebaars",
+      "question_numbers": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "title": "Gamma Knife",
+      "question_numbers": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ]
+    }
+  ]
+}

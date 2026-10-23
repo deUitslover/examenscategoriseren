@@ -1,0 +1,82 @@
+{
+  "source": "HAVO Biologie 2024-I",
+  "subject_name": "Biologie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Een nieuwe hartklep, door het lichaam zelf gemaakt",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Op jacht met SnailSnap",
+      "question_numbers": [
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Last van de eikenprocessierups",
+      "question_numbers": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Het syndroom van Swyer",
+      "question_numbers": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "title": "Psychose door auto-immuunreactie?",
+      "question_numbers": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "title": "Quinoa",
+      "question_numbers": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    }
+  ]
+}

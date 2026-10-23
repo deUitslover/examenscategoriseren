@@ -240,6 +240,23 @@ def render_item(page, it, windows, hashes, render_page=None, pad=4.0):
         m = it["members"][0]
         if any(abs(l[3] - m[1]) < 1.5 and l[1] < m[1] - 3 for l in text_lines(page)):
             wipe.append((win[0], y0, win[1], m[1] + 1.2))
+        # A figure from the neighbouring column whose top starts next to the
+        # vraag's last lines overlaps the keep box and so survives
+        # wipe_all_except (HAVO-BIO-24-II-O.pdf vraag 46: top of the Gamma
+        # Knife figure beside option C). Content that sticks out of the keep
+        # box and touches none of the vraag's own text lines is not part of
+        # the vraag: wipe it.
+        vlines = [l[:4] for l in text_lines(page)
+                  if l[0] >= m[0] - 1 and l[2] <= m[2] + 1 and l[1] >= m[1] - 1 and l[3] <= m[3] + 1]
+        for b in content_boxes(page):
+            if b[2] <= m[0] or b[0] >= m[2] or b[3] <= m[1] or b[1] >= m[3]:
+                continue
+            if b[3] <= m[3] + 3 and b[1] >= m[1] - 3:
+                continue
+            if any(b[0] < l[2] - 1 and b[2] > l[0] + 1 and b[1] < l[3] - 1 and b[3] > l[1] + 1
+                   for l in vlines):
+                continue
+            wipe.append((b[0] - 2, b[1] - 2, b[2] + 2, b[3] + 2))
     if render_page is None:
         wipe += fboxes
         render_page = page
