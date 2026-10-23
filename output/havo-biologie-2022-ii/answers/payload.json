@@ -1,0 +1,771 @@
+{
+ "subject_name": "Biologie",
+ "level": "HAVO",
+ "source": "HAVO Biologie 2022-II",
+ "answers": [
+  {
+   "title": "IJzertekort in de topsport",
+   "question_number": 1,
+   "answer_text": "Uit het antwoord moet blijken dat\n• (door het verlaagd hemoglobinegehalte) er minder transport van zuurstof is / er minder zuurstof beschikbaar is\n• (waardoor) er minder verbranding / (aerobe) dissimilatie mogelijk is (waardoor de hoeveelheid energie die beschikbaar komt in de spieren lager is en de prestaties afnemen)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(door het verlaagd hemoglobinegehalte) er minder transport van zuurstof is / er minder zuurstof beschikbaar is"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) er minder verbranding / (aerobe) dissimilatie mogelijk is (waardoor de hoeveelheid energie die beschikbaar komt in de spieren lager is en de prestaties afnemen)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-ijzertekort-in-de-topsport-antw1.png"
+   ]
+  },
+  {
+   "title": "IJzertekort in de topsport",
+   "question_number": 2,
+   "answer_text": "1 juist\n2 onjuist\n3 juist",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-ijzertekort-in-de-topsport-antw2.png"
+   ]
+  },
+  {
+   "title": "IJzertekort in de topsport",
+   "question_number": 3,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-ijzertekort-in-de-topsport-antw3.png"
+   ]
+  },
+  {
+   "title": "Avocado",
+   "question_number": 4,
+   "answer_text": "Uit het antwoord moet blijken dat\n• (door de inname van natrium-ionen) de osmotische waarde van het bloed stijgt / het bloed een hogere concentratie (natrium-)ionen bevat\n• (waardoor) meer water wordt vastgehouden (en de bloeddruk stijgt)\n• (door vaatverwijding) de weerstand van de vaten daalt / er meer ruimte ontstaat voor het bloed (waardoor de bloeddruk daalt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(door de inname van natrium-ionen) de osmotische waarde van het bloed stijgt / het bloed een hogere concentratie (natrium-)ionen bevat"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) meer water wordt vastgehouden (en de bloeddruk stijgt)"
+    },
+    {
+     "points": 1,
+     "description": "(door vaatverwijding) de weerstand van de vaten daalt / er meer ruimte ontstaat voor het bloed (waardoor de bloeddruk daalt)"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoordt dat door vaatverwijding het bloed makkelijker kan doorstromen, het derde scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-avocado-antw4.png"
+   ]
+  },
+  {
+   "title": "Avocado",
+   "question_number": 5,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-avocado-antw5.png"
+   ]
+  },
+  {
+   "title": "Avocado",
+   "question_number": 6,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-avocado-antw6.png"
+   ]
+  },
+  {
+   "title": "Avocado",
+   "question_number": 7,
+   "answer_text": "1 wel\n2 wel\n3 niet",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-avocado-antw7.png"
+   ]
+  },
+  {
+   "title": "Avocado",
+   "question_number": 8,
+   "answer_text": "1 onjuist\n2 onjuist\n3 juist",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-avocado-antw8.png"
+   ]
+  },
+  {
+   "title": "Avocado",
+   "question_number": 9,
+   "answer_text": "Uit het antwoord moet blijken dat zuurstoftekort ontstaat.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "zuurstoftekort ontstaat"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-avocado-antw9.png"
+   ]
+  },
+  {
+   "title": "Avocado",
+   "question_number": 10,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-avocado-antw10.png"
+   ]
+  },
+  {
+   "title": "Avocado",
+   "question_number": 11,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Nee, want de erfelijke eigenschappen worden bepaald door de delen van de planten met de bloemen en die zijn vatbaar voor fytoftora.\n− Nee, alleen de niet-resistente genen worden doorgegeven.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-avocado-antw11.png"
+   ]
+  },
+  {
+   "title": "Borstvoeding",
+   "question_number": 12,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-borstvoeding-antw12.png"
+   ]
+  },
+  {
+   "title": "Borstvoeding",
+   "question_number": 13,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-borstvoeding-antw13.png"
+   ]
+  },
+  {
+   "title": "Borstvoeding",
+   "question_number": 14,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-borstvoeding-antw14.png"
+   ]
+  },
+  {
+   "title": "Borstvoeding",
+   "question_number": 15,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-borstvoeding-antw15.png"
+   ]
+  },
+  {
+   "title": "Borstvoeding",
+   "question_number": 16,
+   "answer_text": "1 juist\n2 juist\n3 onjuist",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-borstvoeding-antw16.png"
+   ]
+  },
+  {
+   "title": "Borstvoeding",
+   "question_number": 17,
+   "answer_text": "Uit het antwoord moet blijken dat de verblijfsduur in de (dikke) darm verkort is / de voedselbrij de darm te snel verlaat (waardoor effectieve waterresorptie niet mogelijk is).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de verblijfsduur in de (dikke) darm verkort is / de voedselbrij de darm te snel verlaat (waardoor effectieve waterresorptie niet mogelijk is)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-borstvoeding-antw17.png"
+   ]
+  },
+  {
+   "title": "Hoelang nog voor de Yangtze-bruinvissen?",
+   "question_number": 18,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Als de dieren zouden paren, ontstaan mogelijk toch vruchtbare nakomelingen.\n− Als er weinig genetische verschillen zijn, is het mogelijk dezelfde soort.\n− De tijd van scheiding kan te kort zijn om genetische verschillen te veroorzaken.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-hoelang-nog-voor-de-yangtze-bruinvissen-antw18.png"
+   ]
+  },
+  {
+   "title": "Hoelang nog voor de Yangtze-bruinvissen?",
+   "question_number": 19,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-hoelang-nog-voor-de-yangtze-bruinvissen-antw19.png"
+   ]
+  },
+  {
+   "title": "Hoelang nog voor de Yangtze-bruinvissen?",
+   "question_number": 20,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-hoelang-nog-voor-de-yangtze-bruinvissen-antw20.png"
+   ]
+  },
+  {
+   "title": "Hoelang nog voor de Yangtze-bruinvissen?",
+   "question_number": 21,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Er is bij een klein aantal dieren minder genetische variatie, waardoor de kans groter is dat de populatie uitsterft bij veranderende omstandigheden.\n− Hierdoor treedt inteelt op, waardoor dieren sterven door recessieve afwijkingen.\n• voor een juist genetisch aspect van een kleine populatie\n• voor een juist gevolg daarvan voor de overleving van de populatie",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "voor een juist genetisch aspect van een kleine populatie"
+    },
+    {
+     "points": 1,
+     "description": "voor een juist gevolg daarvan voor de overleving van de populatie"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoordt dat bij een kleine populatie de kans kleiner is dat individuen een geschikte partner vinden, het eerste scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-hoelang-nog-voor-de-yangtze-bruinvissen-antw21.png"
+   ]
+  },
+  {
+   "title": "Zoenen voor de wetenschap",
+   "question_number": 22,
+   "answer_text": "Uit het antwoord moet blijken dat door het gebruik van dezelfde soort tandpasta de (abiotische) omstandigheden in de mond meer op elkaar lijken (wat leidt tot een meer overeenkomstig speekselmicrobioom).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "door het gebruik van dezelfde soort tandpasta de (abiotische) omstandigheden in de mond meer op elkaar lijken (wat leidt tot een meer overeenkomstig speekselmicrobioom)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-zoenen-voor-de-wetenschap-antw22.png"
+   ]
+  },
+  {
+   "title": "Zoenen voor de wetenschap",
+   "question_number": 23,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-zoenen-voor-de-wetenschap-antw23.png"
+   ]
+  },
+  {
+   "title": "Zoenen voor de wetenschap",
+   "question_number": 24,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Door meting 1 kun je aantonen dat de melkzuurbacteriën die na de tongzoen in de mond van de ontvanger voorkomen echt overgedragen zijn via de tongzoen (en niet van nature in het speeksel voorkomen).\n− Deze meting laat zien dat het percentage melkzuurbacteriën in de mond verwaarloosbaar klein is.\n− Om te meten hoeveel melkzuurbacteriën je van jezelf hebt. Hierdoor kan je de toename van het aantal bacteriën vaststellen bij de ontvanger.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": "Aan een antwoord als: “Het is een controlemeting”, geen scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-zoenen-voor-de-wetenschap-antw24.png"
+   ]
+  },
+  {
+   "title": "Zoenen voor de wetenschap",
+   "question_number": 25,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-zoenen-voor-de-wetenschap-antw25.png"
+   ]
+  },
+  {
+   "title": "Zoenen voor de wetenschap",
+   "question_number": 26,
+   "answer_text": "Uit het antwoord moet blijken dat\n• gebruik van antibiotica (mond)bacteriën doodt / de groei van (mond-)bacteriën remt\n• (waardoor) de ziekmakende bacteriën zich kunnen vestigen / minder concurrentie hebben van de al aanwezige bacteriën",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "gebruik van antibiotica (mond)bacteriën doodt / de groei van (mond-)bacteriën remt"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) de ziekmakende bacteriën zich kunnen vestigen / minder concurrentie hebben van de al aanwezige bacteriën"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-zoenen-voor-de-wetenschap-antw26.png"
+   ]
+  },
+  {
+   "title": "Zoenen voor de wetenschap",
+   "question_number": 27,
+   "answer_text": "lysozymen: aangeboren/niet-specifieke/aspecifieke (afweer)\nantistoffen: verworven/specifieke (afweer)\nzoutzuur: aangeboren/niet-specifieke/aspecifieke (afweer)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie indelingen correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee indelingen correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee indelingen correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-zoenen-voor-de-wetenschap-antw27.png"
+   ]
+  },
+  {
+   "title": "Insecten resistent tegen GM-gewassen?",
+   "question_number": 28,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Eiwitsplitsende enzymen uit het spijsverteringskanaal kunnen delen van weefsels verteren.\n− Bacteriën uit de darmen kunnen een infectie in de weefsels veroorzaken.\n− De hoge pH beschadigt de organen.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoordt dat er hierdoor minder voedingsstoffen opgenomen kunnen worden, geen scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-insecten-resistent-tegen-gm-gewassen-antw28.png"
+   ]
+  },
+  {
+   "title": "Insecten resistent tegen GM-gewassen?",
+   "question_number": 29,
+   "answer_text": "voorbeelden van een juist antwoord:\n− De pH in het spijsverteringsstelsel van de mens is lager dan 11 (waardoor de kristallen niet oplossen).\n− Spijsverteringsenzymen van de mens breken het gif af.\n− In de menselijke darm zijn geen receptoren voor het Cry-eiwit aanwezig.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-insecten-resistent-tegen-gm-gewassen-antw29.png"
+   ]
+  },
+  {
+   "title": "Insecten resistent tegen GM-gewassen?",
+   "question_number": 30,
+   "answer_text": "1 onjuist\n2 onjuist\n3 juist",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-insecten-resistent-tegen-gm-gewassen-antw30.png"
+   ]
+  },
+  {
+   "title": "Insecten resistent tegen GM-gewassen?",
+   "question_number": 31,
+   "answer_text": "Uit het antwoord moet blijken dat\n• op deze stroken (ook) niet-resistente katoendaguiltjes (over)leven / katoendaguiltjes met dominante allelen (over)leven\n• (waardoor) paring/kruising zal optreden tussen resistente en niet-resistente katoendaguiltjes, waarbij (veel) niet-resistente/heterozygote nakomelingen ontstaan (waardoor het percentage resistente katoendaguiltjes in de populatie laag blijft)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "op deze stroken (ook) niet-resistente katoendaguiltjes (over)leven / katoendaguiltjes met dominante allelen (over)leven"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) paring/kruising zal optreden tussen resistente en niet-resistente katoendaguiltjes, waarbij (veel) niet-resistente/heterozygote nakomelingen ontstaan (waardoor het percentage resistente katoendaguiltjes in de populatie laag blijft)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-insecten-resistent-tegen-gm-gewassen-antw31.png"
+   ]
+  },
+  {
+   "title": "Insecten resistent tegen GM-gewassen?",
+   "question_number": 32,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-insecten-resistent-tegen-gm-gewassen-antw32.png"
+   ]
+  },
+  {
+   "title": "Insecten resistent tegen GM-gewassen?",
+   "question_number": 33,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-insecten-resistent-tegen-gm-gewassen-antw33.png"
+   ]
+  },
+  {
+   "title": "Fantoompijn bestrijden met virtual reality",
+   "question_number": 34,
+   "answer_text": "• cellen van Schwann / schwanncellen\n• de impulsgeleiding versnellen / de impulsgeleiding sprongsgewijs laten verlopen / isolatie van de uitloper",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "cellen van Schwann / schwanncellen"
+    },
+    {
+     "points": 1,
+     "description": "de impulsgeleiding versnellen / de impulsgeleiding sprongsgewijs laten verlopen / isolatie van de uitloper"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-fantoompijn-bestrijden-met-virtual-reality-antw34.png"
+   ]
+  },
+  {
+   "title": "Fantoompijn bestrijden met virtual reality",
+   "question_number": 35,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-fantoompijn-bestrijden-met-virtual-reality-antw35.png"
+   ]
+  },
+  {
+   "title": "Fantoompijn bestrijden met virtual reality",
+   "question_number": 36,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-fantoompijn-bestrijden-met-virtual-reality-antw36.png"
+   ]
+  },
+  {
+   "title": "Fantoompijn bestrijden met virtual reality",
+   "question_number": 37,
+   "answer_text": "(letter) R",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(letter) R"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-fantoompijn-bestrijden-met-virtual-reality-antw37.png"
+   ]
+  },
+  {
+   "title": "Fantoompijn bestrijden met virtual reality",
+   "question_number": 38,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-fantoompijn-bestrijden-met-virtual-reality-antw38.png"
+   ]
+  },
+  {
+   "title": "Fantoompijn bestrijden met virtual reality",
+   "question_number": 39,
+   "answer_text": "(primaire/secundaire) visuele schors / velden voor zien",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(primaire/secundaire) visuele schors / velden voor zien"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-fantoompijn-bestrijden-met-virtual-reality-antw39.png"
+   ]
+  },
+  {
+   "title": "Op zoek naar de grootste bloedzuiger van Nederland",
+   "question_number": 40,
+   "answer_text": "1 abiotisch\n2 abiotisch\n3 biotisch\n4 abiotisch",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien vier nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan drie nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-op-zoek-naar-de-grootste-bloedzuiger-van-nederland-antw40.png"
+   ]
+  },
+  {
+   "title": "Op zoek naar de grootste bloedzuiger van Nederland",
+   "question_number": 41,
+   "answer_text": "• (relatie met waterslak:) predatie\n• (relatie met zoogdier:) parasitisme",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(relatie met waterslak:) predatie"
+    },
+    {
+     "points": 1,
+     "description": "(relatie met zoogdier:) parasitisme"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-op-zoek-naar-de-grootste-bloedzuiger-van-nederland-antw41.png"
+   ]
+  },
+  {
+   "title": "Op zoek naar de grootste bloedzuiger van Nederland",
+   "question_number": 42,
+   "answer_text": "Uit het antwoord moet blijken dat\n• (door de verdoving) de bloedzuiger niet wordt opgemerkt / de bloedzuiger langer/meer bloed kan zuigen\n• (waardoor) de overlevingskans/voortplantingskans/fitness groter is (dan bij de soortgenoten die deze eigenschap niet/minder hebben)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(door de verdoving) de bloedzuiger niet wordt opgemerkt / de bloedzuiger langer/meer bloed kan zuigen"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) de overlevingskans/voortplantingskans/fitness groter is (dan bij de soortgenoten die deze eigenschap niet/minder hebben)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-op-zoek-naar-de-grootste-bloedzuiger-van-nederland-antw42.png"
+   ]
+  },
+  {
+   "title": "Op zoek naar de grootste bloedzuiger van Nederland",
+   "question_number": 43,
+   "answer_text": "1 fibrinogeen\n2 hirudine\n3 trombine\n4 fibrine",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien vier nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee of drie nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-op-zoek-naar-de-grootste-bloedzuiger-van-nederland-antw43.png"
+   ]
+  },
+  {
+   "title": "Op zoek naar de grootste bloedzuiger van Nederland",
+   "question_number": 44,
+   "answer_text": "• (onafhankelijke variabele:) (wel of geen) lieslaarzen / (wel of geen) blote benen\n• (afhankelijke variabele:) het aantal (gevangen) bloedzuigers",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(onafhankelijke variabele:) (wel of geen) lieslaarzen / (wel of geen) blote benen"
+    },
+    {
+     "points": 1,
+     "description": "(afhankelijke variabele:) het aantal (gevangen) bloedzuigers"
+    }
+   ],
+   "grading_note": "Als de kandidaat onafhankelijke en afhankelijke variabele verwisselt in een verder correct antwoord, in totaal 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-ii-op-zoek-naar-de-grootste-bloedzuiger-van-nederland-antw44.png"
+   ]
+  }
+ ]
+}

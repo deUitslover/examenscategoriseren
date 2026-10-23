@@ -1,0 +1,829 @@
+{
+ "subject_name": "Biologie",
+ "level": "HAVO",
+ "source": "HAVO Biologie 2022-III",
+ "answers": [
+  {
+   "title": "IJskoud de beste?",
+   "question_number": 1,
+   "answer_text": "7 – 6 – 3 – 2 – 4",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien alleen de vijf juiste nummers in de juiste volgorde"
+    },
+    {
+     "points": 1,
+     "description": "indien alleen de vijf juiste nummers in een onjuiste volgorde"
+    },
+    {
+     "points": 1,
+     "description": "indien de vijf juiste nummers in de juiste volgorde en één of twee onjuiste nummers"
+    },
+    {
+     "points": 1,
+     "description": "indien alleen vier juiste nummers in de juiste volgorde"
+    },
+    {
+     "points": 0,
+     "description": "in alle andere gevallen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-ijskoud-de-beste-antw1.png"
+   ]
+  },
+  {
+   "title": "IJskoud de beste?",
+   "question_number": 2,
+   "answer_text": "• (grootheid:) hartslag(frequentie)\n• (eenheid:) (aantal slagen) per minuut / BPM",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(grootheid:) hartslag(frequentie)"
+    },
+    {
+     "points": 1,
+     "description": "(eenheid:) (aantal slagen) per minuut / BPM"
+    }
+   ],
+   "grading_note": "− Bij een verwisseling van bovengenoemde grootheid en eenheid, in totaal 1 scorepunt toekennen.\n− Aan het antwoord ‘grootheid: temperatuur; eenheid: graden Celsius’, 1 scorepunt toekennen.\n− Aan een andere tijdsaanduiding dan per minuut het tweede scorepunt niet toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-ijskoud-de-beste-antw2.png"
+   ]
+  },
+  {
+   "title": "IJskoud de beste?",
+   "question_number": 3,
+   "answer_text": "(aerobe) dissimilatie / verbranding",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(aerobe) dissimilatie / verbranding"
+    }
+   ],
+   "grading_note": "Aan het antwoord ‘ATP-omzetting (bij spiercontractie)’, het scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-ijskoud-de-beste-antw3.png"
+   ]
+  },
+  {
+   "title": "IJskoud de beste?",
+   "question_number": 4,
+   "answer_text": "1 wordt overschreden\n2 groter\n3 daalt",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-ijskoud-de-beste-antw4.png"
+   ]
+  },
+  {
+   "title": "IJskoud de beste?",
+   "question_number": 5,
+   "answer_text": "sinusknoop / (natuurlijke) pacemaker(cellen)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "sinusknoop / (natuurlijke) pacemaker(cellen)"
+    }
+   ],
+   "grading_note": "Aan het antwoord ‘cellen van het autonome zenuwstelsel’, geen scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-ijskoud-de-beste-antw5.png"
+   ]
+  },
+  {
+   "title": "IJskoud de beste?",
+   "question_number": 6,
+   "answer_text": "Uit het antwoord moet blijken dat\n• (boezems minder effectief samentrekken waardoor) de kamers minder worden gevuld / minder bloed van boezems naar kamers stroomt\n• (waardoor er per samentrekking) minder bloed wordt rondgepompt / minder bloed in de slagader(s)/aorta wordt gepompt (waardoor de bloeddruk daalt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(boezems minder effectief samentrekken waardoor) de kamers minder worden gevuld / minder bloed van boezems naar kamers stroomt"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor er per samentrekking) minder bloed wordt rondgepompt / minder bloed in de slagader(s)/aorta wordt gepompt (waardoor de bloeddruk daalt)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-ijskoud-de-beste-antw6.png"
+   ]
+  },
+  {
+   "title": "IJskoud de beste?",
+   "question_number": 7,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-ijskoud-de-beste-antw7.png"
+   ]
+  },
+  {
+   "title": "IJskoud de beste?",
+   "question_number": 8,
+   "answer_text": "1 juist\n2 onjuist\n3 juist",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-ijskoud-de-beste-antw8.png"
+   ]
+  },
+  {
+   "title": "Mangrove in Arnhem",
+   "question_number": 9,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-mangrove-in-arnhem-antw9.png"
+   ]
+  },
+  {
+   "title": "Mangrove in Arnhem",
+   "question_number": 10,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-mangrove-in-arnhem-antw10.png"
+   ]
+  },
+  {
+   "title": "Mangrove in Arnhem",
+   "question_number": 11,
+   "answer_text": "• zonlicht/licht/lichtintensiteit\nUit de uitleg moet blijken dat\n• (door het gebrek aan zonlicht) in de algen (die in de kwal leven) minder fotosynthese plaatsvindt / minder productie van organische stoffen plaatsvindt / minder productie van glucose plaatsvindt (waardoor de kwal minder voedingsstoffen krijgt zodat de overlevingskans afneemt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "zonlicht/licht/lichtintensiteit"
+    },
+    {
+     "points": 1,
+     "description": "(door het gebrek aan zonlicht) in de algen (die in de kwal leven) minder fotosynthese plaatsvindt / minder productie van organische stoffen plaatsvindt / minder productie van glucose plaatsvindt (waardoor de kwal minder voedingsstoffen krijgt zodat de overlevingskans afneemt)"
+    }
+   ],
+   "grading_note": "Algemene regel 5 mag hier niet worden toegepast.",
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-mangrove-in-arnhem-antw11.png"
+   ]
+  },
+  {
+   "title": "Mangrove in Arnhem",
+   "question_number": 12,
+   "answer_text": "voorbeeld van een juist aangevuld diagram: (zie afbeelding)\nhet diagram toont de doorgetrokken lijn van de nitraatconcentratie, doorgetrokken tot 15 mei '18, en de stippellijn van de fosfaatconcentratie, doorgetrokken tot 15 mei '18, met een gemarkeerd punt op de x-as bij een fosfaatconcentratie van 4,0 mg/L\n• voor de doorgetrokken lijnen van nitraatconcentratie die (op 15 mei) uitkomt tussen 16 en 18 mg/L en fosfaatconcentratie die uitkomt tussen 4,0 en 5,0 mg/L\n• voor een gemarkeerd punt op de x-as dat past bij een fosfaatconcentratie van 4,0 mg/L",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "voor de doorgetrokken lijnen van nitraatconcentratie die (op 15 mei) uitkomt tussen 16 en 18 mg/L en fosfaatconcentratie die uitkomt tussen 4,0 en 5,0 mg/L"
+    },
+    {
+     "points": 1,
+     "description": "voor een gemarkeerd punt op de x-as dat past bij een fosfaatconcentratie van 4,0 mg/L"
+    }
+   ],
+   "grading_note": "Als de fosfaatconcentratie is weergegeven met een andere lijn dan een stippellijn, dit niet fout rekenen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-mangrove-in-arnhem-antw12.png"
+   ]
+  },
+  {
+   "title": "Mangrove in Arnhem",
+   "question_number": 13,
+   "answer_text": "eutrofiëring/vermesting",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "eutrofiëring/vermesting"
+    }
+   ],
+   "grading_note": "Aan het antwoord ‘overbemesting’, geen scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-mangrove-in-arnhem-antw13.png"
+   ]
+  },
+  {
+   "title": "Mangrove in Arnhem",
+   "question_number": 14,
+   "answer_text": "1 wel\n2 niet\n3 niet\n4 niet",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien vier nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan drie nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-mangrove-in-arnhem-antw14.png"
+   ]
+  },
+  {
+   "title": "Mangrove in Arnhem",
+   "question_number": 15,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Grootte: door een net worden alleen de grote vissen gevangen.\n− Ontwikkelingssnelheid: bij het vangen met een net zullen vissen die zich eerder kunnen voortplanten voordeel hebben.\n− Snelheid: vissen die snel zijn, kunnen ontsnappen aan predatoren.\n− Schutkleur: vissen die niet opvallen, worden minder gevangen door predatoren.\n• voor een juiste eigenschap\n• voor een daarbij passende verklaring",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "voor een juiste eigenschap"
+    },
+    {
+     "points": 1,
+     "description": "voor een daarbij passende verklaring"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-mangrove-in-arnhem-antw15.png"
+   ]
+  },
+  {
+   "title": "Mangrove in Arnhem",
+   "question_number": 16,
+   "answer_text": "voorbeelden van een juist antwoord:\n− De predator eet ook andere soorten, waardoor deze verdwijnen.\n− Er worden ziekten geïntroduceerd.\n− Ze eten liever zwaarddragers, waardoor de cichliden-populatie niet kleiner wordt.\n− De predatoren eten alle cichliden op.\n− Er is geen soort die de predatorpopulatie in toom houdt.\n− Het water wordt troebel doordat algeneters worden opgegeten.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-mangrove-in-arnhem-antw16.png"
+   ]
+  },
+  {
+   "title": "Bijziendheid, een groeiend probleem",
+   "question_number": 17,
+   "answer_text": "accommoderen / accommodatie",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "accommoderen / accommodatie"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-bijziendheid-een-groeiend-probleem-antw17.png"
+   ]
+  },
+  {
+   "title": "Bijziendheid, een groeiend probleem",
+   "question_number": 18,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen (⚠️ CONTROLEREN: het correctievoorschrift vermeldt bij deze vraag geen score; 2 punten overgenomen uit het opgavenblad (2p))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-bijziendheid-een-groeiend-probleem-antw18.png"
+   ]
+  },
+  {
+   "title": "Bijziendheid, een groeiend probleem",
+   "question_number": 19,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-bijziendheid-een-groeiend-probleem-antw19.png"
+   ]
+  },
+  {
+   "title": "Bijziendheid, een groeiend probleem",
+   "question_number": 20,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Een niet-behandeld oog uit de atropine-groep (1b) is evenveel dioptrieën veranderd als een oog dat behandeld is met een placebo (2a).\n− Het niet-behandelde oog van de placebogroep (2b) is evenveel achteruitgegaan als het behandelde oog van de placebogroep (2a).\n− 2a is net zo sterk gedaald als 1b.\n− Het aantal dioptrie is bij 2a is net zoveel afgenomen als bij 2b.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": "Als de kandidaat in het antwoord schrijft dat de brilsterkte is afgenomen, in een verder juist geformuleerd antwoord, dit niet fout rekenen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-bijziendheid-een-groeiend-probleem-antw20.png"
+   ]
+  },
+  {
+   "title": "Bijziendheid, een groeiend probleem",
+   "question_number": 21,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-bijziendheid-een-groeiend-probleem-antw21.png"
+   ]
+  },
+  {
+   "title": "Stamceldonatie",
+   "question_number": 22,
+   "answer_text": "Uit het antwoord moet blijken dat het beenmerg de plaats is waar witte bloedcellen / cellen van het afweersysteem worden geproduceerd.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "het beenmerg de plaats is waar witte bloedcellen / cellen van het afweersysteem worden geproduceerd"
+    }
+   ],
+   "grading_note": "Aan een antwoord als: “Door het doden van het beenmerg zijn er minder witte bloedcellen”, het scorepunt niet toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-stamceldonatie-antw22.png"
+   ]
+  },
+  {
+   "title": "Stamceldonatie",
+   "question_number": 23,
+   "answer_text": "1 wel\n2 wel\n3 wel",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-stamceldonatie-antw23.png"
+   ]
+  },
+  {
+   "title": "Stamceldonatie",
+   "question_number": 24,
+   "answer_text": "Uit het antwoord moet blijken dat wangslijmvliescellen / alle lichaamscellen hetzelfde DNA bevatten / dezelfde erfelijke informatie bevatten (als beenmergcellen).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "wangslijmvliescellen / alle lichaamscellen hetzelfde DNA bevatten / dezelfde erfelijke informatie bevatten (als beenmergcellen)"
+    }
+   ],
+   "grading_note": "Aan een antwoord als: “In cellen van het wangslijmvlies zit ook DNA”, geen scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-stamceldonatie-antw24.png"
+   ]
+  },
+  {
+   "title": "Stamceldonatie",
+   "question_number": 25,
+   "answer_text": "1 juist\n2 onjuist\n3 juist",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-stamceldonatie-antw25.png"
+   ]
+  },
+  {
+   "title": "Stamceldonatie",
+   "question_number": 26,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-stamceldonatie-antw26.png"
+   ]
+  },
+  {
+   "title": "Stamceldonatie",
+   "question_number": 27,
+   "answer_text": "1 Q\n2 P\n3 S\n4 R",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien vier nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien drie of twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-stamceldonatie-antw27.png"
+   ]
+  },
+  {
+   "title": "Stamceldonatie",
+   "question_number": 28,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-stamceldonatie-antw28.png"
+   ]
+  },
+  {
+   "title": "Regenwormen voor vogels en planten",
+   "question_number": 29,
+   "answer_text": "Uit het antwoord moet blijken dat detrivoren worden weergegeven met P, omdat stalmest meer (grof) plantaardig materiaal bevat / omdat drijfmest minder (grof) plantaardig materiaal bevat / omdat stalmest meer voedsel voor detrivoren bevat.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "detrivoren worden weergegeven met P, omdat stalmest meer (grof) plantaardig materiaal bevat / omdat drijfmest minder (grof) plantaardig materiaal bevat / omdat stalmest meer voedsel voor detrivoren bevat"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-regenwormen-voor-vogels-en-planten-antw29.png"
+   ]
+  },
+  {
+   "title": "Regenwormen voor vogels en planten",
+   "question_number": 30,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-regenwormen-voor-vogels-en-planten-antw30.png"
+   ]
+  },
+  {
+   "title": "Regenwormen voor vogels en planten",
+   "question_number": 31,
+   "answer_text": "1 onjuist\n2 juist\n3 onjuist",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-regenwormen-voor-vogels-en-planten-antw31.png"
+   ]
+  },
+  {
+   "title": "Regenwormen voor vogels en planten",
+   "question_number": 32,
+   "answer_text": "voorbeelden van een juiste berekening:\n− Het aantal wormen per 10.000 m² soortenrijke veengrond is 10.000 × 0,44 = 4400 wormen. Hiervan kunnen 4400 / 555 = 7,9 kieviten leven.\n− 0,44 x 10.000 / 555 = 7,9\nvoorbeelden van een juiste verklaring:\n− Er komen steeds weer wormen aan de oppervlakte.\n− Kieviten eten ook andere dieren dan regenwormen.\n− De gemeten beschikbaarheid van wormen is een momentopname.\n− Kieviten zien beter dan mensen (en zien dus meer regenwormen dan geteld).\n− In de groep kieviten zijn ook jongere dieren die minder eten.\n− Kieviten trappelen waardoor wormen omhoog komen.\n• voor een juiste berekening\n• voor een juiste verklaring",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "voor een juiste berekening"
+    },
+    {
+     "points": 1,
+     "description": "voor een juiste verklaring"
+    }
+   ],
+   "grading_note": "Aan een verklaring als: “Kieviten foerageren ook op andere plaatsen.” geen scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-regenwormen-voor-vogels-en-planten-antw32.png"
+   ]
+  },
+  {
+   "title": "Regenwormen voor vogels en planten",
+   "question_number": 33,
+   "answer_text": "1 wel\n2 wel\n3 geen\n4 wel",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien vier nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan drie nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-regenwormen-voor-vogels-en-planten-antw33.png"
+   ]
+  },
+  {
+   "title": "Regenwormen voor vogels en planten",
+   "question_number": 34,
+   "answer_text": "Uit het antwoord moet blijken dat\n• (door het verbeteren van de bodem) de plantengroei toeneemt / de planten sneller groeien\n• (waardoor) meer CO₂ wordt opgenomen/vastgelegd",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(door het verbeteren van de bodem) de plantengroei toeneemt / de planten sneller groeien"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) meer CO₂ wordt opgenomen/vastgelegd"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoordt dat er minder fosfaatbemesting nodig is waardoor er minder fossiele brandstoffen nodig zijn voor productie en/of transport, 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-regenwormen-voor-vogels-en-planten-antw34.png"
+   ]
+  },
+  {
+   "title": "Leven zonder milt",
+   "question_number": 35,
+   "answer_text": "lever / (rood) beenmerg",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "lever / (rood) beenmerg"
+    }
+   ],
+   "grading_note": "Aan het antwoord ‘bot’ of ‘botten’ het scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-leven-zonder-milt-antw35.png"
+   ]
+  },
+  {
+   "title": "Leven zonder milt",
+   "question_number": 36,
+   "answer_text": "bloedplaatjes",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "bloedplaatjes"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-leven-zonder-milt-antw36.png"
+   ]
+  },
+  {
+   "title": "Leven zonder milt",
+   "question_number": 37,
+   "answer_text": "Uit het antwoord moet blijken dat oude rode bloedcellen (doordat ze stugger zijn) in de rode pulpa achterblijven / in het weefsel achterblijven / niet (via de spleetjes in de wand) in de sinus terechtkomen.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "oude rode bloedcellen (doordat ze stugger zijn) in de rode pulpa achterblijven / in het weefsel achterblijven / niet (via de spleetjes in de wand) in de sinus terechtkomen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-leven-zonder-milt-antw37.png"
+   ]
+  },
+  {
+   "title": "Leven zonder milt",
+   "question_number": 38,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-leven-zonder-milt-antw38.png"
+   ]
+  },
+  {
+   "title": "Leven zonder milt",
+   "question_number": 39,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-leven-zonder-milt-antw39.png"
+   ]
+  },
+  {
+   "title": "Leven zonder milt",
+   "question_number": 40,
+   "answer_text": "1 wel\n2 niet\n3 niet",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-leven-zonder-milt-antw40.png"
+   ]
+  },
+  {
+   "title": "Essentaksterfte",
+   "question_number": 41,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-essentaksterfte-antw41.png"
+   ]
+  },
+  {
+   "title": "Essentaksterfte",
+   "question_number": 42,
+   "answer_text": "• (bastvaten: alleen) Q\n• (houtvaten: alleen) R en S",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(bastvaten: alleen) Q"
+    },
+    {
+     "points": 1,
+     "description": "(houtvaten: alleen) R en S"
+    }
+   ],
+   "grading_note": "Als de kandidaat bastvaten en houtvaten verwisselt in een verder volledig correct antwoord, in totaal 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-essentaksterfte-antw42.png"
+   ]
+  },
+  {
+   "title": "Essentaksterfte",
+   "question_number": 43,
+   "answer_text": "1 wel\n2 wel\n3 niet",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct"
+    },
+    {
+     "points": 1,
+     "description": "indien twee nummers correct"
+    },
+    {
+     "points": 0,
+     "description": "indien minder dan twee nummers correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-essentaksterfte-antw43.png"
+   ]
+  },
+  {
+   "title": "Essentaksterfte",
+   "question_number": 44,
+   "answer_text": "F",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord F gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-essentaksterfte-antw44.png"
+   ]
+  },
+  {
+   "title": "Essentaksterfte",
+   "question_number": 45,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-essentaksterfte-antw45.png"
+   ]
+  },
+  {
+   "title": "Essentaksterfte",
+   "question_number": 46,
+   "answer_text": "Uit het antwoord moet blijken dat\n• (met methode 2 door recombinatie) een populatie ontstaat met een grote(re) genetische diversiteit\n• deze (resistente) populatie een grotere kans op overleven heeft als de schimmel muteert / bij verandering van de milieuomstandigheden",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(met methode 2 door recombinatie) een populatie ontstaat met een grote(re) genetische diversiteit"
+    },
+    {
+     "points": 1,
+     "description": "deze (resistente) populatie een grotere kans op overleven heeft als de schimmel muteert / bij verandering van de milieuomstandigheden"
+    }
+   ],
+   "grading_note": "− Aan een uitleg waarom methode 1 minder geschikt is, punten toekennen naar analogie van het correctievoorschrift.\n− Aan een antwoord aan de hand van een relevant voorbeeld van een verandering in milieuomstandigheden, het tweede scorepunt toekennen.\n− Aan een antwoord als: “Dan is de kans op individuen met een gunstige combinatie van genen groter”, het tweede scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2022-iii-essentaksterfte-antw46.png"
+   ]
+  }
+ ]
+}
