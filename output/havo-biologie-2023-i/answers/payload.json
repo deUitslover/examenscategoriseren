@@ -1,0 +1,827 @@
+{
+  "subject_name": "Biologie",
+  "level": "HAVO",
+  "source": "HAVO Biologie 2023-I",
+  "answers": [
+    {
+      "title": "Rivierdonderpad in de Leidse grachten",
+      "question_number": 1,
+      "answer_text": "voorbeelden van een juist kenmerk met toelichting:\n− De ogen van de vis zitten boven op zijn kop, zodat hij vanaf de bodem goed predatoren kan waarnemen.\n− De (borst)vinnen wijzen naar de zijkant, zodat hij goed op de bodem kan liggen.\n− De bek van de rivierdonderpad is naar boven gericht, zodat hij liggend op de bodem prooien kan eten.\n− De vis heeft een afgeplatte buik, waardoor hij stil op de bodem kan liggen.\n− De vis is gespikkeld, waardoor hij op de bodem minder opvalt voor predatoren.\nper kenmerk dat past bij het leven op de bodem met een juiste toelichting over de functionaliteit van dit kenmerk: 1 scorepunt",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "per kenmerk dat past bij het leven op de bodem met een juiste toelichting over de functionaliteit van dit kenmerk (eerste kenmerk)"
+        },
+        {
+          "points": 1,
+          "description": "per kenmerk dat past bij het leven op de bodem met een juiste toelichting over de functionaliteit van dit kenmerk (tweede kenmerk)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-rivierdonderpad-in-de-leidse-grachten-antw1.png"
+      ]
+    },
+    {
+      "title": "Rivierdonderpad in de Leidse grachten",
+      "question_number": 2,
+      "answer_text": "B",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord B gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-rivierdonderpad-in-de-leidse-grachten-antw2.png"
+      ]
+    },
+    {
+      "title": "Rivierdonderpad in de Leidse grachten",
+      "question_number": 3,
+      "answer_text": "voorbeelden van een juiste biotische factor:\n− (aanwezigheid van) predatoren\n− (aanwezigheid van) prooidieren\n− concurrentie\nvoorbeelden van een juiste abiotische factor:\n− (concentratie) zuurstof\n− (concentratie) koolstofdioxide\n− (hoeveelheid) licht\n− (water)temperatuur\n− stroming (van het water)\n• voor een juiste biotische factor\n• voor een juiste abiotische factor",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "voor een juiste biotische factor"
+        },
+        {
+          "points": 1,
+          "description": "voor een juiste abiotische factor"
+        }
+      ],
+      "grading_note": "Als de kandidaat biotisch en abiotisch verwisselt bij een verder correct antwoord, in totaal 1 scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2023-i-rivierdonderpad-in-de-leidse-grachten-antw3.png"
+      ]
+    },
+    {
+      "title": "Rivierdonderpad in de Leidse grachten",
+      "question_number": 4,
+      "answer_text": "voorbeelden van een juist antwoord:\n− Er is een risico dat deze predator ook rivierdonderpadden eet.\n− Mogelijk eet de predator ook andere soorten, die daardoor verdwijnen.\n− Misschien ontstaat er dan een plaag van deze predator.\n− De predator kan ziekteverwekkers meebrengen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-rivierdonderpad-in-de-leidse-grachten-antw4.png"
+      ]
+    },
+    {
+      "title": "Een bos om op te eten",
+      "question_number": 5,
+      "answer_text": "voorbeelden van een juist antwoord:\n− Alle aardappelplanten zijn even gevoelig voor een plaag.\n− In een monocultuur zijn weinig predatoren voor plaaginsecten.\n− Er is veel voedsel beschikbaar voor plaagdieren.\n− Op een akker met veel planten van dezelfde soort kunnen plagen zich gemakkelijker verspreiden.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": "Als de kandidaat alleen antwoordt dat alle planten genetisch identiek zijn, het scorepunt niet toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2023-i-een-bos-om-op-te-eten-antw5.png"
+      ]
+    },
+    {
+      "title": "Een bos om op te eten",
+      "question_number": 6,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-een-bos-om-op-te-eten-antw6.png"
+      ]
+    },
+    {
+      "title": "Een bos om op te eten",
+      "question_number": 7,
+      "answer_text": "mutualisme",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "mutualisme"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-een-bos-om-op-te-eten-antw7.png"
+      ]
+    },
+    {
+      "title": "Een bos om op te eten",
+      "question_number": 8,
+      "answer_text": "4 ─ 3 ─ 2",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien alleen de drie juiste nummers in de juiste volgorde"
+        },
+        {
+          "points": 1,
+          "description": "indien alleen de drie juiste nummers in een onjuiste volgorde"
+        },
+        {
+          "points": 1,
+          "description": "indien de drie juiste nummers in de juiste volgorde en nummer 1 op een willekeurige plaats"
+        },
+        {
+          "points": 1,
+          "description": "indien alleen twee juiste nummers in de juiste volgorde"
+        },
+        {
+          "points": 0,
+          "description": "in alle andere gevallen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-een-bos-om-op-te-eten-antw8.png"
+      ]
+    },
+    {
+      "title": "Een bos om op te eten",
+      "question_number": 9,
+      "answer_text": "1 stikstoffixatie\n2 ⚠️ CONTROLEREN: in het correctievoorschrift onvolledig weergegeven als 'N₃' (een teken ontbreekt in de PDF)\n3 stikstofassimilatie\n4 aminozuur\n⚠️ CONTROLEREN: in de PDF ontbreken ook letters in 1 ('stikst ffixatie') en 3 ('stikst fassimilatie'); aangevuld tot stikstoffixatie/stikstofassimilatie",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien vier nummers correct"
+        },
+        {
+          "points": 1,
+          "description": "indien drie of twee nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "indien minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-een-bos-om-op-te-eten-antw9.png"
+      ]
+    },
+    {
+      "title": "Een bos om op te eten",
+      "question_number": 10,
+      "answer_text": "B",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord B gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-een-bos-om-op-te-eten-antw10.png"
+      ]
+    },
+    {
+      "title": "Een bos om op te eten",
+      "question_number": 11,
+      "answer_text": "Uit het antwoord moet blijken dat\n• een groot blad meer licht kan opvangen\n• bladeren van een schaduwplant minder gevaar lopen om uit te drogen",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een groot blad meer licht kan opvangen"
+        },
+        {
+          "points": 1,
+          "description": "bladeren van een schaduwplant minder gevaar lopen om uit te drogen"
+        }
+      ],
+      "grading_note": "Aan een antwoord als: “Een dikke cuticula is in de schaduw niet nodig en zou alleen maar extra energie kosten”, het tweede scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2023-i-een-bos-om-op-te-eten-antw11.png"
+      ]
+    },
+    {
+      "title": "Een bos om op te eten",
+      "question_number": 12,
+      "answer_text": "(invasieve) exoot / invasieve soort",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(invasieve) exoot / invasieve soort"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-een-bos-om-op-te-eten-antw12.png"
+      ]
+    },
+    {
+      "title": "Een bos om op te eten",
+      "question_number": 13,
+      "answer_text": "Uit het antwoord moet blijken dat bij maisteelt de CO₂ weer sneller vrijkomt in de atmosfeer / dat in het voedselbos de opgenomen CO₂ langduriger wordt vastgelegd (dan bij mais) / dat in het voedselbos de opgenomen CO₂ wordt vastgelegd in hout.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit het antwoord moet blijken dat bij maisteelt de CO₂ weer sneller vrijkomt in de atmosfeer / dat in het voedselbos de opgenomen CO₂ langduriger wordt vastgelegd (dan bij mais) / dat in het voedselbos de opgenomen CO₂ wordt vastgelegd in hout."
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-een-bos-om-op-te-eten-antw13.png"
+      ]
+    },
+    {
+      "title": "Spoedkeizersnede",
+      "question_number": 14,
+      "answer_text": "5 ─ 2 ─ 1 ─ 4",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien alleen de vier juiste nummers in de juiste volgorde"
+        },
+        {
+          "points": 1,
+          "description": "indien alleen de vier juiste nummers in een onjuiste volgorde"
+        },
+        {
+          "points": 0,
+          "description": "in alle andere gevallen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-spoedkeizersnede-antw14.png"
+      ]
+    },
+    {
+      "title": "Spoedkeizersnede",
+      "question_number": 15,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord D gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-spoedkeizersnede-antw15.png"
+      ]
+    },
+    {
+      "title": "Spoedkeizersnede",
+      "question_number": 16,
+      "answer_text": "Uit het antwoord moet blijken dat (bij buikademhaling) buikspieren/middenrif(spieren) samentrekken (waardoor extra druk op de baarmoeder ontstaat).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit het antwoord moet blijken dat (bij buikademhaling) buikspieren/middenrif(spieren) samentrekken (waardoor extra druk op de baarmoeder ontstaat)."
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-spoedkeizersnede-antw16.png"
+      ]
+    },
+    {
+      "title": "Spoedkeizersnede",
+      "question_number": 17,
+      "answer_text": "2 (per 10 minuten)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "2 (per 10 minuten)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-spoedkeizersnede-antw17.png"
+      ]
+    },
+    {
+      "title": "Spoedkeizersnede",
+      "question_number": 18,
+      "answer_text": "1 Q\n2 R\n3 P",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "1 Q, 2 R, 3 P"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-spoedkeizersnede-antw18.png"
+      ]
+    },
+    {
+      "title": "Spoedkeizersnede",
+      "question_number": 19,
+      "answer_text": "Uit het antwoord moet blijken dat er een verminderde gaswisseling is (waardoor zowel een hoge CO₂-concentratie als zuurstofgebrek ontstaat).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit het antwoord moet blijken dat er een verminderde gaswisseling is (waardoor zowel een hoge CO₂-concentratie als zuurstofgebrek ontstaat)."
+        }
+      ],
+      "grading_note": "− Als de kandidaat antwoordt dat door verbranding alle zuurstof is omgezet in CO₂, geen scorepunt toekennen.\n− Als de kandidaat antwoordt dat de placenta niet goed werkt, of dat de bloedvaten in de navelstreng worden afgekneld, het scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2023-i-spoedkeizersnede-antw19.png"
+      ]
+    },
+    {
+      "title": "Spoedkeizersnede",
+      "question_number": 20,
+      "answer_text": "B",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord B gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-spoedkeizersnede-antw20.png"
+      ]
+    },
+    {
+      "title": "Spoedkeizersnede",
+      "question_number": 21,
+      "answer_text": "1 de huid\n2 de laag vet- en bindweefsel\n3 het buikspierweefsel\n4 de blaas",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien vier nummers correct"
+        },
+        {
+          "points": 1,
+          "description": "indien drie of twee nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "indien minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-spoedkeizersnede-antw21.png"
+      ]
+    },
+    {
+      "title": "Spoedkeizersnede",
+      "question_number": 22,
+      "answer_text": "oxytocine/ocytocine",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "oxytocine/ocytocine"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-spoedkeizersnede-antw22.png"
+      ]
+    },
+    {
+      "title": "Spoedkeizersnede",
+      "question_number": 23,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-spoedkeizersnede-antw23.png"
+      ]
+    },
+    {
+      "title": "Planten ‘horen’ bijen vliegen",
+      "question_number": 24,
+      "answer_text": "(via) bastvaten",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(via) bastvaten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-planten-horen-bijen-vliegen-antw24.png"
+      ]
+    },
+    {
+      "title": "Planten ‘horen’ bijen vliegen",
+      "question_number": 25,
+      "answer_text": "Uit het antwoord moet blijken dat\n• door kruisbestuiving de genetische variatie (in de nakomelingen) groter is (dan bij zelfbestuiving)\n• (waardoor) bij een verandering in het milieu de overlevingskansen (van de nakomelingen) groter zijn / (waardoor) verschillende nakomelingen zich kunnen vestigen in verschillende milieus / (waardoor) gunstiger combinaties (van allelen bij de nakomelingen) kunnen ontstaan",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "door kruisbestuiving de genetische variatie (in de nakomelingen) groter is (dan bij zelfbestuiving)"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) bij een verandering in het milieu de overlevingskansen (van de nakomelingen) groter zijn / (waardoor) verschillende nakomelingen zich kunnen vestigen in verschillende milieus / (waardoor) gunstiger combinaties (van allelen bij de nakomelingen) kunnen ontstaan"
+        }
+      ],
+      "grading_note": "Als de kandidaat een juist antwoord geeft aan de hand van een voorbeeld van een verandering in het milieu (bijvoorbeeld ziekte), het tweede scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2023-i-planten-horen-bijen-vliegen-antw25.png"
+      ]
+    },
+    {
+      "title": "Planten ‘horen’ bijen vliegen",
+      "question_number": 26,
+      "answer_text": "B",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord B gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-planten-horen-bijen-vliegen-antw26.png"
+      ]
+    },
+    {
+      "title": "Planten ‘horen’ bijen vliegen",
+      "question_number": 27,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-planten-horen-bijen-vliegen-antw27.png"
+      ]
+    },
+    {
+      "title": "Planten ‘horen’ bijen vliegen",
+      "question_number": 28,
+      "answer_text": "voorbeelden van een juist antwoord:\n− (19,1 − 16,5) / 16,5 × 100% = 15,7%. Dit is meer dan 3%, dus waarneembaar voor een honingbij.\n− 16,5 x 0,03 = 0,495\n  16,5 + 0,495 = 16,995\n  Boven deze waarde is het waarneembaar voor een bij. Dus 19,1 kan de bij waarnemen.\n• voor de juiste gegevens afgelezen: 16,5 ± 0,1 en 19,1 ± 0,1\n• voor een juiste berekening met een daarbij passende conclusie",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "voor de juiste gegevens afgelezen: 16,5 ± 0,1 en 19,1 ± 0,1"
+        },
+        {
+          "points": 1,
+          "description": "voor een juiste berekening met een daarbij passende conclusie"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-planten-horen-bijen-vliegen-antw28.png"
+      ]
+    },
+    {
+      "title": "Planten ‘horen’ bijen vliegen",
+      "question_number": 29,
+      "answer_text": "voorbeelden van een juist antwoord:\n− De teunisbloem bespaart zo energie.\n− Hij produceert daardoor niet onnodig veel suiker.\n− Zij lokt daarmee alleen bestuivers en geen andere dieren.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-planten-horen-bijen-vliegen-antw29.png"
+      ]
+    },
+    {
+      "title": "Bèta-thalassemie genezen met stamceltransplantatie",
+      "question_number": 30,
+      "answer_text": "B",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord B gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-beta-thalassemie-genezen-met-stamceltransplantatie-antw30.png"
+      ]
+    },
+    {
+      "title": "Bèta-thalassemie genezen met stamceltransplantatie",
+      "question_number": 31,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-beta-thalassemie-genezen-met-stamceltransplantatie-antw31.png"
+      ]
+    },
+    {
+      "title": "Bèta-thalassemie genezen met stamceltransplantatie",
+      "question_number": 32,
+      "answer_text": "Uit het antwoord moet blijken dat\n• (als er minder rode bloedcellen zijn) er minder zuurstoftransport is\n• (waardoor) het hart meer bloed (per tijdseenheid) moet rondpompen / het bloed sneller moet worden rondgepompt (om het lichaam van voldoende zuurstof te kunnen voorzien)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(als er minder rode bloedcellen zijn) er minder zuurstoftransport is"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) het hart meer bloed (per tijdseenheid) moet rondpompen / het bloed sneller moet worden rondgepompt (om het lichaam van voldoende zuurstof te kunnen voorzien)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-beta-thalassemie-genezen-met-stamceltransplantatie-antw32.png"
+      ]
+    },
+    {
+      "title": "Bèta-thalassemie genezen met stamceltransplantatie",
+      "question_number": 33,
+      "answer_text": "erytropoëtine/epo",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "erytropoëtine/epo"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-beta-thalassemie-genezen-met-stamceltransplantatie-antw33.png"
+      ]
+    },
+    {
+      "title": "Bèta-thalassemie genezen met stamceltransplantatie",
+      "question_number": 34,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-beta-thalassemie-genezen-met-stamceltransplantatie-antw34.png"
+      ]
+    },
+    {
+      "title": "Bèta-thalassemie genezen met stamceltransplantatie",
+      "question_number": 35,
+      "answer_text": "Uit het antwoord moet blijken dat alle (stam)cellen van Ryan de mutatie / hetzelfde DNA bezitten.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit het antwoord moet blijken dat alle (stam)cellen van Ryan de mutatie / hetzelfde DNA bezitten."
+        }
+      ],
+      "grading_note": "Als de kandidaat antwoordt dat de stamcellen niet goed werken, het scorepunt niet toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2023-i-beta-thalassemie-genezen-met-stamceltransplantatie-antw35.png"
+      ]
+    },
+    {
+      "title": "Bèta-thalassemie genezen met stamceltransplantatie",
+      "question_number": 36,
+      "answer_text": "1 juist\n2 juist\n3 onjuist",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien drie nummers correct"
+        },
+        {
+          "points": 1,
+          "description": "indien twee nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "indien minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-beta-thalassemie-genezen-met-stamceltransplantatie-antw36.png"
+      ]
+    },
+    {
+      "title": "Bèta-thalassemie genezen met stamceltransplantatie",
+      "question_number": 37,
+      "answer_text": "• Ryan: P\n• moeder: Q",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Ryan: P"
+        },
+        {
+          "points": 1,
+          "description": "moeder: Q"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-beta-thalassemie-genezen-met-stamceltransplantatie-antw37.png"
+      ]
+    },
+    {
+      "title": "Bèta-thalassemie genezen met stamceltransplantatie",
+      "question_number": 38,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-beta-thalassemie-genezen-met-stamceltransplantatie-antw38.png"
+      ]
+    },
+    {
+      "title": "Bèta-thalassemie genezen met stamceltransplantatie",
+      "question_number": 39,
+      "answer_text": "1 Q\n2 S\n3 R\n4 P",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien vier nummers correct"
+        },
+        {
+          "points": 1,
+          "description": "indien drie of twee nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "indien minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-beta-thalassemie-genezen-met-stamceltransplantatie-antw39.png"
+      ]
+    },
+    {
+      "title": "Mens temde het paard al in de oertijd",
+      "question_number": 40,
+      "answer_text": "(paarden)bot en (houten) kom",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(paarden)bot en (houten) kom"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-mens-temde-het-paard-al-in-de-oertijd-antw40.png"
+      ]
+    },
+    {
+      "title": "Mens temde het paard al in de oertijd",
+      "question_number": 41,
+      "answer_text": "B",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord B gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-mens-temde-het-paard-al-in-de-oertijd-antw41.png"
+      ]
+    },
+    {
+      "title": "Mens temde het paard al in de oertijd",
+      "question_number": 42,
+      "answer_text": "voorbeelden van een juist antwoord:\n− Door het fokken selecteer je op bepaalde allelen, waardoor andere allelen verloren gaan.\n− Er wordt slechts een klein aantal dieren gebruikt.\n− Bij fokken wordt vaak gebruikgemaakt van inteelt, en dan krijg je steeds meer homozygoten.\n− Er wordt vaak met dezelfde hengst gefokt.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-mens-temde-het-paard-al-in-de-oertijd-antw42.png"
+      ]
+    },
+    {
+      "title": "Mens temde het paard al in de oertijd",
+      "question_number": 43,
+      "answer_text": "1 onjuist\n2 juist\n3 juist",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien drie nummers correct"
+        },
+        {
+          "points": 1,
+          "description": "indien twee nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "indien minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-mens-temde-het-paard-al-in-de-oertijd-antw43.png"
+      ]
+    },
+    {
+      "title": "Mens temde het paard al in de oertijd",
+      "question_number": 44,
+      "answer_text": "1 onjuist\n2 onjuist\n3 onjuist",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien drie nummers correct"
+        },
+        {
+          "points": 1,
+          "description": "indien twee nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "indien minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-mens-temde-het-paard-al-in-de-oertijd-antw44.png"
+      ]
+    },
+    {
+      "title": "Nierstenen in de bocht",
+      "question_number": 45,
+      "answer_text": "2 ─ 3 ─ 6 ─ 5 ─ 1 ─ 4",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "2 ─ 3 ─ 6 ─ 5 ─ 1 ─ 4"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-nierstenen-in-de-bocht-antw45.png"
+      ]
+    },
+    {
+      "title": "Nierstenen in de bocht",
+      "question_number": 46,
+      "answer_text": "A",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord A gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-nierstenen-in-de-bocht-antw46.png"
+      ]
+    },
+    {
+      "title": "Nierstenen in de bocht",
+      "question_number": 47,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-nierstenen-in-de-bocht-antw47.png"
+      ]
+    },
+    {
+      "title": "Nierstenen in de bocht",
+      "question_number": 48,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-i-nierstenen-in-de-bocht-antw48.png"
+      ]
+    }
+  ]
+}
