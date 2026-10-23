@@ -1,0 +1,773 @@
+{
+  "subject_name": "Biologie",
+  "level": "HAVO",
+  "source": "HAVO Biologie 2023-II",
+  "answers": [
+    {
+      "title": "Designerkatten",
+      "question_number": 1,
+      "answer_text": "voorbeelden van een juist antwoord:\n− kruisingstabel (zie afbeelding): gameten H en h × h en h; nakomelingen Hh, hh, Hh, hh, met de kolom hh omcirkeld. De kans op een haarloze kitten is ½.\n− kruisingstabel (zie afbeelding): gameten H en h × h; nakomelingen Hh en hh, met hh omcirkeld. 50% = haarloos\n• voor een juiste kruisingstabel en een kans van 50% / ½\n• voor genotype hh omcirkeld",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "voor een juiste kruisingstabel en een kans van 50% / ½"
+        },
+        {
+          "points": 1,
+          "description": "voor genotype hh omcirkeld"
+        }
+      ],
+      "grading_note": "Als de kandidaat in een tabel zoals in het bovenste voorbeeld slechts eenmaal hh omcirkelt, het tweede scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-designerkatten-antw1.png"
+      ]
+    },
+    {
+      "title": "Designerkatten",
+      "question_number": 2,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-designerkatten-antw2.png"
+      ]
+    },
+    {
+      "title": "Designerkatten",
+      "question_number": 3,
+      "answer_text": "Uit het antwoord moet blijken dat\n• een haarloze kat meer warmte verliest / minder (warmte)isolatie heeft (dan een behaarde kat)\n• (waardoor) hij meer brandstof/energie nodig heeft / hij meer moet verbranden (om het warmteverlies te compenseren)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een haarloze kat meer warmte verliest / minder (warmte)isolatie heeft (dan een behaarde kat)"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) hij meer brandstof/energie nodig heeft / hij meer moet verbranden (om het warmteverlies te compenseren)"
+        }
+      ],
+      "grading_note": "Als de kandidaat alleen noteert dat er energieverlies optreedt, het eerste scorepunt niet toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-designerkatten-antw3.png"
+      ]
+    },
+    {
+      "title": "Designerkatten",
+      "question_number": 4,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord D gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-designerkatten-antw4.png"
+      ]
+    },
+    {
+      "title": "Designerkatten",
+      "question_number": 5,
+      "answer_text": "voorbeelden van een juist antwoord:\n− Haarloze katten hebben een grotere kans op huidkanker.\n− kaal; eerder huidbeschadigingen\n− Een haarloze kat zal in de winter niet naar buiten kunnen omdat hij dan veel sneller afkoelt dan een kat met een vacht.\n− Korte poten beperken een kat in zijn bewegingen.\n− korte poten; kan niet hoog springen\n− Door het ontbreken van snorharen kunnen haarloze katten minder goed hun omgeving waarnemen in het donker.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-designerkatten-antw5.png"
+      ]
+    },
+    {
+      "title": "Tuberculose-bacterie speelt verstoppertje",
+      "question_number": 6,
+      "answer_text": "Uit het antwoord moet blijken dat de lymfeknoop links zit en dat dit kan worden afgeleid uit de positie van het hart / uit de kleinere linkerlong.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit het antwoord moet blijken dat de lymfeknoop links zit en dat dit kan worden afgeleid uit de positie van het hart / uit de kleinere linkerlong."
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-tuberculose-bacterie-speelt-verstoppertje-antw6.png"
+      ]
+    },
+    {
+      "title": "Tuberculose-bacterie speelt verstoppertje",
+      "question_number": 7,
+      "answer_text": "1 kleiner\n2 kleiner\n3 gelijk",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien drie nummers correct"
+        },
+        {
+          "points": 1,
+          "description": "indien twee nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "indien minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-tuberculose-bacterie-speelt-verstoppertje-antw7.png"
+      ]
+    },
+    {
+      "title": "Tuberculose-bacterie speelt verstoppertje",
+      "question_number": 8,
+      "answer_text": "voorbeelden van een juist antwoord:\n− Men vond het ethisch niet verantwoord om een groep patiënten niet te behandelen.\n− omdat in de niet-behandelde groep dan mensen dood zouden kunnen gaan",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": "Uit het antwoord moet blijken dat je (in het geval van een dodelijke infectieziekte) patiënten geen behandeling mag ontzeggen.",
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-tuberculose-bacterie-speelt-verstoppertje-antw8.png"
+      ]
+    },
+    {
+      "title": "Tuberculose-bacterie speelt verstoppertje",
+      "question_number": 9,
+      "answer_text": "A",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord A gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-tuberculose-bacterie-speelt-verstoppertje-antw9.png"
+      ]
+    },
+    {
+      "title": "Tuberculose-bacterie speelt verstoppertje",
+      "question_number": 10,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord D gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-tuberculose-bacterie-speelt-verstoppertje-antw10.png"
+      ]
+    },
+    {
+      "title": "Tuberculose-bacterie speelt verstoppertje",
+      "question_number": 11,
+      "answer_text": "Uit het antwoord moet blijken dat de werking van enzymen/lysozymen door de pH beïnvloed wordt.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit het antwoord moet blijken dat de werking van enzymen/lysozymen door de pH beïnvloed wordt."
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-tuberculose-bacterie-speelt-verstoppertje-antw11.png"
+      ]
+    },
+    {
+      "title": "Tuberculose-bacterie speelt verstoppertje",
+      "question_number": 12,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-tuberculose-bacterie-speelt-verstoppertje-antw12.png"
+      ]
+    },
+    {
+      "title": "Tuberculose-bacterie speelt verstoppertje",
+      "question_number": 13,
+      "answer_text": "(neus)slijmvlies/trilhaarepitheel",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(neus)slijmvlies/trilhaarepitheel"
+        }
+      ],
+      "grading_note": "Aan het antwoord “slijmproducerende cellen” of “trilhaarcellen”, het scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-tuberculose-bacterie-speelt-verstoppertje-antw13.png"
+      ]
+    },
+    {
+      "title": "Terug naar de mammoetsteppe?",
+      "question_number": 14,
+      "answer_text": "een juist aangevuld schema (zie afbeelding):\nontdooiing permafrost →(+) 1 (stofwisselingsactiviteit van reducenten) →(+) 3 (vrijkomen CO₂ en CH₄) →(+) 2 (versterkt broeikaseffect) →(+) ontdooiing permafrost\n• voor de drie nummers op de juiste plaats\n• voor de drie plussen",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "voor de drie nummers op de juiste plaats"
+        },
+        {
+          "points": 1,
+          "description": "voor de drie plussen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-terug-naar-de-mammoetsteppe-antw14.png"
+      ]
+    },
+    {
+      "title": "Terug naar de mammoetsteppe?",
+      "question_number": 15,
+      "answer_text": "A",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord A gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-terug-naar-de-mammoetsteppe-antw15.png"
+      ]
+    },
+    {
+      "title": "Terug naar de mammoetsteppe?",
+      "question_number": 16,
+      "answer_text": "transgeen (organisme) / genetisch gemodificeerd/gemanipuleerd (organisme) / ggo / gmo",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "transgeen (organisme) / genetisch gemodificeerd/gemanipuleerd (organisme) / ggo / gmo"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-terug-naar-de-mammoetsteppe-antw16.png"
+      ]
+    },
+    {
+      "title": "Terug naar de mammoetsteppe?",
+      "question_number": 17,
+      "answer_text": "Uit het antwoord moet blijken dat het (hemoglobine-eiwit) daardoor een andere aminozuurvolgorde heeft / er daardoor (in het hemoglobine-eiwit) andere aminozuren worden ingebouwd.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit het antwoord moet blijken dat het (hemoglobine-eiwit) daardoor een andere aminozuurvolgorde heeft / er daardoor (in het hemoglobine-eiwit) andere aminozuren worden ingebouwd."
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-terug-naar-de-mammoetsteppe-antw17.png"
+      ]
+    },
+    {
+      "title": "Terug naar de mammoetsteppe?",
+      "question_number": 18,
+      "answer_text": "Uit het antwoord moet blijken dat\n• er mutatie(s) is/zijn opgetreden / er genetische variatie was in het gen voor hemoglobine\n• individuen met afwijkende hemoglobine bij koude een selectievoordeel hebben / bij koude een hogere fitness hebben / bij koude meer nakomelingen krijgen",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "er mutatie(s) is/zijn opgetreden / er genetische variatie was in het gen voor hemoglobine"
+        },
+        {
+          "points": 1,
+          "description": "individuen met afwijkende hemoglobine bij koude een selectievoordeel hebben / bij koude een hogere fitness hebben / bij koude meer nakomelingen krijgen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-terug-naar-de-mammoetsteppe-antw18.png"
+      ]
+    },
+    {
+      "title": "Terug naar de mammoetsteppe?",
+      "question_number": 19,
+      "answer_text": "Uit het antwoord moet blijken dat\n• (in een grotere populatie) de genetische variatie groter is (dan in een kleine populatie)\n• (waardoor) er meer kans is op individuen met passende eigenschappen bij veranderende omstandigheden / er meer kans is op individuen die kunnen overleven bij bepaalde omstandigheden\nof\n• (in een grotere populatie) de kans op inteelt kleiner is (dan in een kleine populatie)\n• (waardoor) de kans kleiner wordt dat nakomelingen erfelijke aandoeningen zullen hebben\nof\n• de kans op genetic drift kleiner is\n• (waardoor) de kans kleiner is dat gunstige allelen verloren gaan",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(in een grotere populatie) de genetische variatie groter is (dan in een kleine populatie) / of: (in een grotere populatie) de kans op inteelt kleiner is (dan in een kleine populatie) / of: de kans op genetic drift kleiner is"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) er meer kans is op individuen met passende eigenschappen bij veranderende omstandigheden / er meer kans is op individuen die kunnen overleven bij bepaalde omstandigheden / of: (waardoor) de kans kleiner wordt dat nakomelingen erfelijke aandoeningen zullen hebben / of: (waardoor) de kans kleiner is dat gunstige allelen verloren gaan"
+        }
+      ],
+      "grading_note": "Als een juist antwoord wordt gegeven aan de hand van een concreet voorbeeld, het tweede scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-terug-naar-de-mammoetsteppe-antw19.png"
+      ]
+    },
+    {
+      "title": "Witte haai wordt zelf prooi",
+      "question_number": 20,
+      "answer_text": "voorbeeld van een juist voedselweb (zie afbeelding):\nplantaardig plankton → dierlijk plankton → sardine en ansjovis → zeehond → witte haai → orka\n• voor de zeven in de tekst genoemde (groepen van) soorten, elk apart genoteerd, op een juiste wijze verbonden in een voedselweb\n• voor de getekende pijlen in de juiste richting",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "voor de zeven in de tekst genoemde (groepen van) soorten, elk apart genoteerd, op een juiste wijze verbonden in een voedselweb"
+        },
+        {
+          "points": 1,
+          "description": "voor de getekende pijlen in de juiste richting"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-witte-haai-wordt-zelf-prooi-antw20.png"
+      ]
+    },
+    {
+      "title": "Witte haai wordt zelf prooi",
+      "question_number": 21,
+      "answer_text": "1 onjuist\n2 juist\n3 juist",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien drie nummers correct"
+        },
+        {
+          "points": 1,
+          "description": "indien twee nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "indien minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-witte-haai-wordt-zelf-prooi-antw21.png"
+      ]
+    },
+    {
+      "title": "Witte haai wordt zelf prooi",
+      "question_number": 22,
+      "answer_text": "voorbeelden van een juiste berekening:\n− energie in een haaienlever: (800.000 / 6) × 27 = 3.600.000\n  aantal dagen energie: 3.600.000 / 900.000 = 4. Dus 4 dagen.\n− Een haai weegt 800.000 gram. De lever weegt 800.000 / 6 = 133.333 gram. Dit levert 133.333 × 27 = 3.600.000 kJ. Dit is genoeg voor 3.600.000 / 900.000 = 4 dagen.\n• voor een juiste berekening van de energie van de lever\n• voor een juiste berekening van het aantal dagen (op basis van het antwoord van de eerste deelvraag) in hele dagen of nauwkeuriger",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "voor een juiste berekening van de energie van de lever"
+        },
+        {
+          "points": 1,
+          "description": "voor een juiste berekening van het aantal dagen (op basis van het antwoord van de eerste deelvraag) in hele dagen of nauwkeuriger"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-witte-haai-wordt-zelf-prooi-antw22.png"
+      ]
+    },
+    {
+      "title": "Witte haai wordt zelf prooi",
+      "question_number": 23,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-witte-haai-wordt-zelf-prooi-antw23.png"
+      ]
+    },
+    {
+      "title": "Witte haai wordt zelf prooi",
+      "question_number": 24,
+      "answer_text": "B",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord B gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-witte-haai-wordt-zelf-prooi-antw24.png"
+      ]
+    },
+    {
+      "title": "Witte haai wordt zelf prooi",
+      "question_number": 25,
+      "answer_text": "Uit het antwoord moet blijken dat\n• (als gevolg van het stoppen van de waterstoom) de gaswisseling stopt / de diffusie van zuurstof afneemt / geen zuurstof meer kan worden opgenomen\n• (waardoor) de hersenen geen zuurstof meer krijgen / er in de hersenen geen verbranding meer kan plaatsvinden (en de witte haai bewusteloos raakt)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(als gevolg van het stoppen van de waterstoom) de gaswisseling stopt / de diffusie van zuurstof afneemt / geen zuurstof meer kan worden opgenomen"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) de hersenen geen zuurstof meer krijgen / er in de hersenen geen verbranding meer kan plaatsvinden (en de witte haai bewusteloos raakt)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-witte-haai-wordt-zelf-prooi-antw25.png"
+      ]
+    },
+    {
+      "title": "Witte haai wordt zelf prooi",
+      "question_number": 26,
+      "answer_text": "(nor)adrenaline",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(nor)adrenaline"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-witte-haai-wordt-zelf-prooi-antw26.png"
+      ]
+    },
+    {
+      "title": "Witte haai wordt zelf prooi",
+      "question_number": 27,
+      "answer_text": "• hart: gestimuleerd\n  maag: geremd\n• voor een toelichting waaruit blijkt dat hierdoor een grotere hoeveelheid bloed/zuurstof/brandstof beschikbaar komt voor de spieren (die gebruikt worden om te vluchten)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "hart: gestimuleerd, maag: geremd"
+        },
+        {
+          "points": 1,
+          "description": "voor een toelichting waaruit blijkt dat hierdoor een grotere hoeveelheid bloed/zuurstof/brandstof beschikbaar komt voor de spieren (die gebruikt worden om te vluchten)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-witte-haai-wordt-zelf-prooi-antw27.png"
+      ]
+    },
+    {
+      "title": "Witte haai wordt zelf prooi",
+      "question_number": 28,
+      "answer_text": "B",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord B gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-witte-haai-wordt-zelf-prooi-antw28.png"
+      ]
+    },
+    {
+      "title": "Het gevaar van mestgassen",
+      "question_number": 29,
+      "answer_text": "voorbeelden van een juist antwoord:\n− de groei van planten\n− opname door gewassen",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": "Aan het antwoord “deammonificatie” of “denitrificatie”, het scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-het-gevaar-van-mestgassen-antw29.png"
+      ]
+    },
+    {
+      "title": "Het gevaar van mestgassen",
+      "question_number": 30,
+      "answer_text": "B",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord B gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-het-gevaar-van-mestgassen-antw30.png"
+      ]
+    },
+    {
+      "title": "Het gevaar van mestgassen",
+      "question_number": 31,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-het-gevaar-van-mestgassen-antw31.png"
+      ]
+    },
+    {
+      "title": "Het gevaar van mestgassen",
+      "question_number": 32,
+      "answer_text": "Uit het antwoord moet blijken dat\n• urine ureum bevat / stikstofhoudende stoffen bevat / N bevat\n• de (uro)bacteriën (in de poep) zorgen voor ammonificatie / voor de omzetting (van ureum) naar ammoniak",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "urine ureum bevat / stikstofhoudende stoffen bevat / N bevat"
+        },
+        {
+          "points": 1,
+          "description": "de (uro)bacteriën (in de poep) zorgen voor ammonificatie / voor de omzetting (van ureum) naar ammoniak"
+        }
+      ],
+      "grading_note": "− Als de kandidaat in plaats van ureum urinezuur noemt, dit niet fout rekenen.\n− Als de kandidaat in het antwoord voor het tweede scorepunt rottingsbacteriën noemt, dit niet fout rekenen.",
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-het-gevaar-van-mestgassen-antw32.png"
+      ]
+    },
+    {
+      "title": "Het gevaar van mestgassen",
+      "question_number": 33,
+      "answer_text": "A",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord A gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-het-gevaar-van-mestgassen-antw33.png"
+      ]
+    },
+    {
+      "title": "Het gevaar van mestgassen",
+      "question_number": 34,
+      "answer_text": "Uit het antwoord moet blijken dat blauwzuurgas door sommige personen pas wordt geroken wanneer de grenswaarde al is bereikt.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit het antwoord moet blijken dat blauwzuurgas door sommige personen pas wordt geroken wanneer de grenswaarde al is bereikt."
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-het-gevaar-van-mestgassen-antw34.png"
+      ]
+    },
+    {
+      "title": "Het gevaar van mestgassen",
+      "question_number": 35,
+      "answer_text": "1 orgaan(-niveau)\n2 molecuul(-niveau)\n3 organisme(-niveau)\n4 cel(-niveau)",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien vier nummers correct"
+        },
+        {
+          "points": 1,
+          "description": "indien drie of twee nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "indien minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-het-gevaar-van-mestgassen-antw35.png"
+      ]
+    },
+    {
+      "title": "Het gevaar van mestgassen",
+      "question_number": 36,
+      "answer_text": "• (letter) P\n• (letter) S",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(letter) P"
+        },
+        {
+          "points": 1,
+          "description": "(letter) S"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-het-gevaar-van-mestgassen-antw36.png"
+      ]
+    },
+    {
+      "title": "Paddentrek",
+      "question_number": 37,
+      "answer_text": "Uit het antwoord moet blijken dat (door de hogere lichaamstemperatuur) enzymen beter werken / de enzymactiviteit hoger is / reacties sneller verlopen / moleculen sneller bewegen (waardoor de padden een hogere stofwisseling hebben).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit het antwoord moet blijken dat (door de hogere lichaamstemperatuur) enzymen beter werken / de enzymactiviteit hoger is / reacties sneller verlopen / moleculen sneller bewegen (waardoor de padden een hogere stofwisseling hebben)."
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-paddentrek-antw37.png"
+      ]
+    },
+    {
+      "title": "Paddentrek",
+      "question_number": 38,
+      "answer_text": "voorbeelden van een juist antwoord:\n− De zuurstofvoorziening is beter.\n− De diffusie van koolstofdioxide is groter.\n− Het diffusieoppervlak is groter.\n− De oppervlakte-inhoud-verhouding is gunstiger.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-paddentrek-antw38.png"
+      ]
+    },
+    {
+      "title": "Paddentrek",
+      "question_number": 39,
+      "answer_text": "Uit het antwoord moet blijken dat in een klont de eieren (in het midden) beter beschermd zijn tegen predatie/uitdroging.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit het antwoord moet blijken dat in een klont de eieren (in het midden) beter beschermd zijn tegen predatie/uitdroging."
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-paddentrek-antw39.png"
+      ]
+    },
+    {
+      "title": "Paddentrek",
+      "question_number": 40,
+      "answer_text": "1 onjuist\n2 juist\n3 onjuist",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien drie nummers correct"
+        },
+        {
+          "points": 1,
+          "description": "indien twee nummers correct"
+        },
+        {
+          "points": 0,
+          "description": "indien minder dan twee nummers correct"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-paddentrek-antw40.png"
+      ]
+    },
+    {
+      "title": "Paddentrek",
+      "question_number": 41,
+      "answer_text": "voorbeelden van een juist antwoord:\n− Brulkikkers kunnen ziektes introduceren.\n− Ze kunnen andere kikkersoorten wegconcurreren.\n− Ze vormen een bedreiging voor zeldzame insecten.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": "− Aan een antwoord als “Ze horen hier niet”, geen scorepunt toekennen.\n− Aan een antwoord als “Ze verstoren het ecosysteem”, geen scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-paddentrek-antw41.png"
+      ]
+    },
+    {
+      "title": "Paddentrek",
+      "question_number": 42,
+      "answer_text": "Uit het antwoord moet blijken dat zo andere factoren / toevallige effecten worden uitgesloten.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit het antwoord moet blijken dat zo andere factoren / toevallige effecten worden uitgesloten."
+        }
+      ],
+      "grading_note": "Als de kandidaat antwoord geeft aan de hand van een juist voorbeeld van een andere factor, het scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-paddentrek-antw42.png"
+      ]
+    },
+    {
+      "title": "Paddentrek",
+      "question_number": 43,
+      "answer_text": "voorbeelden van een juist antwoord:\n− In het donkere gedeelte worden meer padden gevangen.\n− In de gedeeltes met licht worden minder padden geteld.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-paddentrek-antw43.png"
+      ]
+    },
+    {
+      "title": "Paddentrek",
+      "question_number": 44,
+      "answer_text": "voorbeelden van een juist antwoord:\n− Het resultaat bij rood licht lijkt het meest op het resultaat bij geen licht.\n− Padden lijken licht te mijden, maar bij rood licht worden juist veel padden gevonden.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-paddentrek-antw44.png"
+      ]
+    },
+    {
+      "title": "Paddentrek",
+      "question_number": 45,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-paddentrek-antw45.png"
+      ]
+    },
+    {
+      "title": "Paddentrek",
+      "question_number": 46,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2023-ii-paddentrek-antw46.png"
+      ]
+    }
+  ]
+}
