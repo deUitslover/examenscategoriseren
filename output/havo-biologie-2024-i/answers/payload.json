@@ -1,0 +1,707 @@
+{
+  "subject_name": "Biologie",
+  "level": "HAVO",
+  "source": "HAVO Biologie 2024-I",
+  "answers": [
+    {
+      "title": "Een nieuwe hartklep, door het lichaam zelf gemaakt",
+      "question_number": 1,
+      "answer_text": "(alleen de letter) Q",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-een-nieuwe-hartklep-door-het-lichaam-zelf-gemaakt-antw1.png"
+      ]
+    },
+    {
+      "title": "Een nieuwe hartklep, door het lichaam zelf gemaakt",
+      "question_number": 2,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord D gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-een-nieuwe-hartklep-door-het-lichaam-zelf-gemaakt-antw2.png"
+      ]
+    },
+    {
+      "title": "Een nieuwe hartklep, door het lichaam zelf gemaakt",
+      "question_number": 3,
+      "answer_text": "Uit het antwoord moet blijken dat\n• er minder zuurstof/brandstof wordt getransporteerd,\n• (waardoor) er minder dissimilatie/verbranding kan plaatsvinden.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "er minder zuurstof/brandstof wordt getransporteerd,"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) er minder dissimilatie/verbranding kan plaatsvinden."
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-een-nieuwe-hartklep-door-het-lichaam-zelf-gemaakt-antw3.png"
+      ]
+    },
+    {
+      "title": "Een nieuwe hartklep, door het lichaam zelf gemaakt",
+      "question_number": 4,
+      "answer_text": "(de) bloedplaatje(s)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-een-nieuwe-hartklep-door-het-lichaam-zelf-gemaakt-antw4.png"
+      ]
+    },
+    {
+      "title": "Een nieuwe hartklep, door het lichaam zelf gemaakt",
+      "question_number": 5,
+      "answer_text": "P samentrekken boezems\nQ samentrekken kamers\nR hartpauze",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-een-nieuwe-hartklep-door-het-lichaam-zelf-gemaakt-antw5.png"
+      ]
+    },
+    {
+      "title": "Een nieuwe hartklep, door het lichaam zelf gemaakt",
+      "question_number": 6,
+      "answer_text": "A",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord A gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-een-nieuwe-hartklep-door-het-lichaam-zelf-gemaakt-antw6.png"
+      ]
+    },
+    {
+      "title": "Een nieuwe hartklep, door het lichaam zelf gemaakt",
+      "question_number": 7,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-een-nieuwe-hartklep-door-het-lichaam-zelf-gemaakt-antw7.png"
+      ]
+    },
+    {
+      "title": "Een nieuwe hartklep, door het lichaam zelf gemaakt",
+      "question_number": 8,
+      "answer_text": "1 onjuist\n2 juist\n3 juist\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-een-nieuwe-hartklep-door-het-lichaam-zelf-gemaakt-antw8.png"
+      ]
+    },
+    {
+      "title": "Een nieuwe hartklep, door het lichaam zelf gemaakt",
+      "question_number": 9,
+      "answer_text": "A",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord A gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-een-nieuwe-hartklep-door-het-lichaam-zelf-gemaakt-antw9.png"
+      ]
+    },
+    {
+      "title": "Op jacht met SnailSnap",
+      "question_number": 10,
+      "answer_text": "voorbeeld van een juist antwoord:\nDe ouders moeten dan heterozygoot zijn. De bruine ouder heeft genotype Cᵇcᵍ. De roze ouder heeft genotype Cʳcᵍ. De nakomelingen met genotype cᵍcᵍ zijn geel.\nkruisingstabel (zie afbeelding): gameten Cᵇ en cᵍ × Cʳ en cᵍ; nakomelingen CᵇCʳ, Cʳcᵍ, Cᵇcᵍ, cᵍcᵍ\n• de genotypen Cᵇcᵍ (bruine ouder) en Cʳcᵍ (roze ouder)\n• een juiste kruisingstabel met cᵍcᵍ gemarkeerd/benoemd (als geel)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "de genotypen Cᵇcᵍ (bruine ouder) en Cʳcᵍ (roze ouder)"
+        },
+        {
+          "points": 1,
+          "description": "een juiste kruisingstabel met cᵍcᵍ gemarkeerd/benoemd (als geel)"
+        }
+      ],
+      "grading_note": "Als de kandidaat een andere correcte notatie gebruikt, scorepunten toekennen naar analogie met het correctievoorschrift.",
+      "answer_image_urls": [
+        "biologie-havo-2024-i-op-jacht-met-snailsnap-antw10.png"
+      ]
+    },
+    {
+      "title": "Op jacht met SnailSnap",
+      "question_number": 11,
+      "answer_text": "1 juist\n2 juist\n3 onjuist\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-op-jacht-met-snailsnap-antw11.png"
+      ]
+    },
+    {
+      "title": "Op jacht met SnailSnap",
+      "question_number": 12,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-op-jacht-met-snailsnap-antw12.png"
+      ]
+    },
+    {
+      "title": "Op jacht met SnailSnap",
+      "question_number": 13,
+      "answer_text": "Uit het antwoord moet blijken dat\n• er meerdere (tuin)slakken uit een stedelijke omgeving en meerdere (tuin)slakken uit een landelijke omgeving getest worden.\n• van elke slak (op dezelfde manier) gemeten wordt hoeveel tijd na terugtrekking hij weer uit het huisje kruipt.\n• de hypothese ondersteund wordt als de slakken uit de stedelijke omgeving (gemiddeld) sneller weer uit hun huisje kruipen (dan de slakken uit een landelijke omgeving).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "er meerdere (tuin)slakken uit een stedelijke omgeving en meerdere (tuin)slakken uit een landelijke omgeving getest worden."
+        },
+        {
+          "points": 1,
+          "description": "van elke slak (op dezelfde manier) gemeten wordt hoeveel tijd na terugtrekking hij weer uit het huisje kruipt."
+        },
+        {
+          "points": 1,
+          "description": "de hypothese ondersteund wordt als de slakken uit de stedelijke omgeving (gemiddeld) sneller weer uit hun huisje kruipen (dan de slakken uit een landelijke omgeving)."
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-op-jacht-met-snailsnap-antw13.png"
+      ]
+    },
+    {
+      "title": "Last van de eikenprocessierups",
+      "question_number": 14,
+      "answer_text": "• (aantal soorten:) 3\n• (aantal genera:) 2",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(aantal soorten:) 3"
+        },
+        {
+          "points": 1,
+          "description": "(aantal genera:) 2"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-last-van-de-eikenprocessierups-antw14.png"
+      ]
+    },
+    {
+      "title": "Last van de eikenprocessierups",
+      "question_number": 15,
+      "answer_text": "voorbeeld van een juist antwoord:\nDe brandhaar op de foto is 3 mm dik, wat in werkelijkheid 3 mm / 500 = 0,006 mm is. Dat is veel kleiner dan 0,1 mm.\n• een juiste berekening van de werkelijke dikte van de brandhaar\n• een juiste conclusie",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juiste berekening van de werkelijke dikte van de brandhaar"
+        },
+        {
+          "points": 1,
+          "description": "een juiste conclusie"
+        }
+      ],
+      "grading_note": "Een juiste berekening die uitgaat van een meting van de dikte van de brandhaar van 2 mm tot en met 4 mm goed rekenen.",
+      "answer_image_urls": [
+        "biologie-havo-2024-i-last-van-de-eikenprocessierups-antw15.png"
+      ]
+    },
+    {
+      "title": "Last van de eikenprocessierups",
+      "question_number": 16,
+      "answer_text": "A",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord A gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-last-van-de-eikenprocessierups-antw16.png"
+      ]
+    },
+    {
+      "title": "Last van de eikenprocessierups",
+      "question_number": 17,
+      "answer_text": "60 °C, met een verklaring waaruit blijkt dat eiwitten dan hun vorm/werking verliezen / dat eiwitten dan denatureren (en bij –20 °C niet)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": "− Als de kandidaat antwoordt dat eiwitten bij 60 °C doodgaan, het scorepunt niet toekennen.\n− Als de kandidaat enzymen noemt in plaats van eiwitten, dit niet fout rekenen.",
+      "answer_image_urls": [
+        "biologie-havo-2024-i-last-van-de-eikenprocessierups-antw17.png"
+      ]
+    },
+    {
+      "title": "Last van de eikenprocessierups",
+      "question_number": 18,
+      "answer_text": "Uit het antwoord moet blijken dat (door afname van de biodiversiteit) er minder (natuurlijke) vijanden/concurrenten van de eikenprocessierupsen zijn (waardoor het aantal rupsen kan toenemen).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": "Als de kandidaat antwoordt dat als er minder diversiteit is in bossen, er meer eiken zijn, waardoor er meer voedsel is voor de rupsen, het scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2024-i-last-van-de-eikenprocessierups-antw18.png"
+      ]
+    },
+    {
+      "title": "Last van de eikenprocessierups",
+      "question_number": 19,
+      "answer_text": "Uit het antwoord moet blijken dat\n• (door vraat van de rupsen) er minder fotosynthese mogelijk is, / er minder bladgroen is,\n• (waardoor) de hoeveelheid stoffen die beschikbaar komt voor de groei (van eikels) kleiner is. / (waardoor) er minder vorming is van organische stoffen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(door vraat van de rupsen) er minder fotosynthese mogelijk is, / er minder bladgroen is,"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) de hoeveelheid stoffen die beschikbaar komt voor de groei (van eikels) kleiner is. / (waardoor) er minder vorming is van organische stoffen."
+        }
+      ],
+      "grading_note": "Aan een antwoord als “rupsen onttrekken voedingsstoffen waardoor minder voedingsstoffen beschikbaar zijn”, alleen het tweede scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2024-i-last-van-de-eikenprocessierups-antw19.png"
+      ]
+    },
+    {
+      "title": "Last van de eikenprocessierups",
+      "question_number": 20,
+      "answer_text": "mutualisme",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-last-van-de-eikenprocessierups-antw20.png"
+      ]
+    },
+    {
+      "title": "Last van de eikenprocessierups",
+      "question_number": 21,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-last-van-de-eikenprocessierups-antw21.png"
+      ]
+    },
+    {
+      "title": "Het syndroom van Swyer",
+      "question_number": 22,
+      "answer_text": "Uit het antwoord moet blijken dat\n• (bij Emma) eierstokken/follikels ontbreken.\n• (door de lage oestradiolconcentratie) de productie (van FSH) niet/minder geremd wordt.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(bij Emma) eierstokken/follikels ontbreken."
+        },
+        {
+          "points": 1,
+          "description": "(door de lage oestradiolconcentratie) de productie (van FSH) niet/minder geremd wordt."
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-het-syndroom-van-swyer-antw22.png"
+      ]
+    },
+    {
+      "title": "Het syndroom van Swyer",
+      "question_number": 23,
+      "answer_text": "1 S\n2 R\n3 P\n4 Q\nindien vier nummers correct: 2 scorepunten\nindien drie of twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien vier nummers correct: 2 scorepunten; indien drie of twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-het-syndroom-van-swyer-antw23.png"
+      ]
+    },
+    {
+      "title": "Het syndroom van Swyer",
+      "question_number": 25,
+      "answer_text": "1 juist\n2 onjuist\n3 onjuist\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-het-syndroom-van-swyer-antw25.png"
+      ]
+    },
+    {
+      "title": "Het syndroom van Swyer",
+      "question_number": 26,
+      "answer_text": "9 – 4 – 8 – 7 – 6 – 1\nindien alleen de zes juiste nummers in de juiste volgorde: 2 scorepunten\nindien alleen de zes juiste nummers in een onjuiste volgorde: 1 scorepunt\nindien de zes juiste nummers in de juiste volgorde met daarbij maximaal één onjuist nummer extra op een willekeurige plaats: 1 scorepunt\nindien vijf juiste nummers in de juiste volgorde met daarbij maximaal één onjuist nummer extra op een willekeurige plaats: 1 scorepunt\nin alle andere gevallen: 0 scorepunten",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien alleen de zes juiste nummers in de juiste volgorde: 2 scorepunten; indien alleen de zes juiste nummers in een onjuiste volgorde: 1 scorepunt; indien de zes juiste nummers in de juiste volgorde met daarbij maximaal één onjuist nummer extra op een willekeurige plaats: 1 scorepunt; indien vijf juiste nummers in de juiste volgorde met daarbij maximaal één onjuist nummer extra op een willekeurige plaats: 1 scorepunt; in alle andere gevallen: 0 scorepunten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-het-syndroom-van-swyer-antw26.png"
+      ]
+    },
+    {
+      "title": "Het syndroom van Swyer",
+      "question_number": 27,
+      "answer_text": "1 P\n2 R\n3 T\n4 S\n5 Q\nindien vijf nummers correct: 2 scorepunten\nindien vier of drie nummers correct: 1 scorepunt\nindien minder dan drie nummers correct: 0 scorepunten",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien vijf nummers correct: 2 scorepunten; indien vier of drie nummers correct: 1 scorepunt; indien minder dan drie nummers correct: 0 scorepunten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-het-syndroom-van-swyer-antw27.png"
+      ]
+    },
+    {
+      "title": "Het syndroom van Swyer",
+      "question_number": 28,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord D gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-het-syndroom-van-swyer-antw28.png"
+      ]
+    },
+    {
+      "title": "Het syndroom van Swyer",
+      "question_number": 29,
+      "answer_text": "Uit het antwoord moet blijken dat oestradiol wordt uitgescheiden door de lever. / dat oestradiol via de gal terechtkomt in de darm.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-het-syndroom-van-swyer-antw29.png"
+      ]
+    },
+    {
+      "title": "Het syndroom van Swyer",
+      "question_number": 30,
+      "answer_text": "B",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord B gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-het-syndroom-van-swyer-antw30.png"
+      ]
+    },
+    {
+      "title": "Psychose door auto-immuunreactie?",
+      "question_number": 31,
+      "answer_text": "Uit het antwoord moet blijken dat eeneiige tweelingen genetisch (meer) overeenkomen. / dat twee-eiige tweelingen genetisch meer verschillen (dan eeneiige).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": "Als de kandidaat antwoordt dat eeneiige tweelingen hetzelfde DNA hebben of dat eeneiige tweelingen zijn ontstaan uit dezelfde eicel en zaadcel, het scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2024-i-psychose-door-auto-immuunreactie-antw31.png"
+      ]
+    },
+    {
+      "title": "Psychose door auto-immuunreactie?",
+      "question_number": 32,
+      "answer_text": "Uit het antwoord moet blijken dat\n• de genetische overeenkomst bij situaties 3 en 4 (ongeveer) gelijk is.\n• de (milieu-)omstandigheden in situatie 3 meer verschillend zijn geweest (dan in situatie 4). / de (milieu-)omstandigheden in situatie 4 (in de baarmoeder en rondom de bevalling min of meer) gelijk zijn geweest (en bij 3 niet).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "de genetische overeenkomst bij situaties 3 en 4 (ongeveer) gelijk is."
+        },
+        {
+          "points": 1,
+          "description": "de (milieu-)omstandigheden in situatie 3 meer verschillend zijn geweest (dan in situatie 4). / de (milieu-)omstandigheden in situatie 4 (in de baarmoeder en rondom de bevalling min of meer) gelijk zijn geweest (en bij 3 niet)."
+        }
+      ],
+      "grading_note": "Als de kandidaat antwoordt dat het percentage gelijk zou zijn als het alleen genetisch was, het eerste scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2024-i-psychose-door-auto-immuunreactie-antw32.png"
+      ]
+    },
+    {
+      "title": "Psychose door auto-immuunreactie?",
+      "question_number": 33,
+      "answer_text": "A",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord A gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-psychose-door-auto-immuunreactie-antw33.png"
+      ]
+    },
+    {
+      "title": "Psychose door auto-immuunreactie?",
+      "question_number": 34,
+      "answer_text": "(alleen de letter) S",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-psychose-door-auto-immuunreactie-antw34.png"
+      ]
+    },
+    {
+      "title": "Psychose door auto-immuunreactie?",
+      "question_number": 35,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-psychose-door-auto-immuunreactie-antw35.png"
+      ]
+    },
+    {
+      "title": "Quinoa",
+      "question_number": 36,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-quinoa-antw36.png"
+      ]
+    },
+    {
+      "title": "Quinoa",
+      "question_number": 37,
+      "answer_text": "Uit het antwoord moet blijken dat er verlies van energie is bij elke (volgende) schakel in een voedselketen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": "Als de kandidaat antwoordt dat er warmteverlies is bij elke schakel in een voedselketen, of dat er bij elke schakel in een voedselketen een deel van de vastgelegde organische stof verdwijnt als dood materiaal en afval, het scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2024-i-quinoa-antw37.png"
+      ]
+    },
+    {
+      "title": "Quinoa",
+      "question_number": 38,
+      "answer_text": "Uit het antwoord moet blijken dat het aminozuren zijn die in het voedsel aanwezig moeten zijn. / dat het aminozuren zijn die de mens niet zelf kan maken (op basis van andere aminozuren).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-quinoa-antw38.png"
+      ]
+    },
+    {
+      "title": "Quinoa",
+      "question_number": 39,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord D gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-quinoa-antw39.png"
+      ]
+    },
+    {
+      "title": "Quinoa",
+      "question_number": 40,
+      "answer_text": "4 – 3 – 1 – 2\n• 4, 1 en 2 in de juiste volgorde\n• 3 direct na 4",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "4, 1 en 2 in de juiste volgorde"
+        },
+        {
+          "points": 1,
+          "description": "3 direct na 4"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-quinoa-antw40.png"
+      ]
+    },
+    {
+      "title": "Quinoa",
+      "question_number": 41,
+      "answer_text": "B",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord B gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-quinoa-antw41.png"
+      ]
+    },
+    {
+      "title": "Quinoa",
+      "question_number": 42,
+      "answer_text": "eutrofiëring/vermesting",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": "Aan het antwoord overbemesting, geen scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2024-i-quinoa-antw42.png"
+      ]
+    },
+    {
+      "title": "Quinoa",
+      "question_number": 43,
+      "answer_text": "voorbeelden van een juist antwoord:\n− In een omgeving met zout grondwater diffundeert het water uit de hypotone cellen naar het hypertone grondwater.\n− De osmotische waarde van het grondwater is te hoog om water aan te onttrekken.\n− Door osmose gaat het water juist de plant uit.\n− Water uit de plant gaat naar de hoge zoutconcentratie van de bodem.\n− Het verschil in osmotische waarde wordt veel kleiner, waardoor de plant minder water kan opnemen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-quinoa-antw43.png"
+      ]
+    },
+    {
+      "title": "Quinoa",
+      "question_number": 44,
+      "answer_text": "1 onjuist\n2 juist\n3 juist\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-quinoa-antw44.png"
+      ]
+    },
+    {
+      "title": "Quinoa",
+      "question_number": 45,
+      "answer_text": "(melkzuur)gisting / anaerobe dissimilatie / fermentatie",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-quinoa-antw45.png"
+      ]
+    }
+  ]
+}
