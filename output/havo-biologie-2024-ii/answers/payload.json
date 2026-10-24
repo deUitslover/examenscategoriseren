@@ -1,0 +1,767 @@
+{
+  "subject_name": "Biologie",
+  "level": "HAVO",
+  "source": "HAVO Biologie 2024-II",
+  "answers": [
+    {
+      "title": "Poep moet leven",
+      "question_number": 1,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord D gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-poep-moet-leven-antw1.png"
+      ]
+    },
+    {
+      "title": "Poep moet leven",
+      "question_number": 2,
+      "answer_text": "S: runderen\nT: mestkevers\nU: bacteriën\n(pijl/nummer) 4\n• de drie letters correct\n• (pijl/nummer) 4",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "de drie letters correct"
+        },
+        {
+          "points": 1,
+          "description": "(pijl/nummer) 4"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-poep-moet-leven-antw2.png"
+      ]
+    },
+    {
+      "title": "Poep moet leven",
+      "question_number": 3,
+      "answer_text": "voorbeelden van een juist antwoord:\n− In de mest zitten voedingstoffen die (na afbraak door reducenten) beschikbaar komen voor planten.\n− De bodem wordt luchtiger, waardoor plantenwortels goed zuurstof op kunnen nemen.\n− De hoeveelheid humus in de bodem neemt toe, waardoor meer water beschikbaar is voor de planten.\n− Water zakt sneller de grond in, waardoor wortels niet gaan rotten.\n− Regenwater kan via de gangetjes makkelijk de grond in komen en bij de wortels terechtkomen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-poep-moet-leven-antw3.png"
+      ]
+    },
+    {
+      "title": "Poep moet leven",
+      "question_number": 4,
+      "answer_text": "Uit het antwoord moet blijken dat er dan minder voedingsstoffen opgenomen kunnen worden.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": "Als de kandidaat antwoordt dat het herstel van de darmvlokken veel bouwstoffen/energie kost, waardoor er minder over is voor de groei, het scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-poep-moet-leven-antw4.png"
+      ]
+    },
+    {
+      "title": "Poep moet leven",
+      "question_number": 5,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-poep-moet-leven-antw5.png"
+      ]
+    },
+    {
+      "title": "Poep moet leven",
+      "question_number": 6,
+      "answer_text": "voorbeelden van een juist antwoord:\n− Er is dan minder voedsel voor de egels.\n− Door de ivermectine gaan de insecten die in de mest leven dood, waardoor er minder insecten zijn voor de egels.\n− Er zijn dan minder slakken en padden als prooi beschikbaar.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-poep-moet-leven-antw6.png"
+      ]
+    },
+    {
+      "title": "Poep moet leven",
+      "question_number": 7,
+      "answer_text": "In de opzet van het experiment worden de volgende aspecten omschreven:\n• Er worden twee (vergelijkbare) stukken natuurgebied afgezet (met hekwerk/draad).\n• In één gebied wordt boerenwormkruid verwijderd en worden 10 runderen/koeien geplaatst; in het andere gebied (met boerenwormkruid) worden 10 runderen/koeien geplaatst.\n• In (een steekproef van) de mest worden (na enige tijd, van beide groepen) de eitjes van nematoden geteld.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Er worden twee (vergelijkbare) stukken natuurgebied afgezet (met hekwerk/draad)."
+        },
+        {
+          "points": 1,
+          "description": "In één gebied wordt boerenwormkruid verwijderd en worden 10 runderen/koeien geplaatst; in het andere gebied (met boerenwormkruid) worden 10 runderen/koeien geplaatst."
+        },
+        {
+          "points": 1,
+          "description": "In (een steekproef van) de mest worden (na enige tijd, van beide groepen) de eitjes van nematoden geteld."
+        }
+      ],
+      "grading_note": "Als de kandidaat beschrijft dat meer dan twee stukken natuurgebied worden afgezet, scorepunten toekennen naar analogie van het correctievoorschrift.",
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-poep-moet-leven-antw7.png"
+      ]
+    },
+    {
+      "title": "Een miss met een litteken",
+      "question_number": 8,
+      "answer_text": "1 onjuist\n2 juist\n3 onjuist\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-een-miss-met-een-litteken-antw8.png"
+      ]
+    },
+    {
+      "title": "Een miss met een litteken",
+      "question_number": 9,
+      "answer_text": "voorbeelden van een juiste berekening:\n− Een volledige hartslag duurt 0,7 sec.\nEr zitten dan 60/0,7 = 85,7 hartslagen in een minuut.\n(2×60×70)/1,4 = 6000 → 6,0\n− (3×60×70)/2,1 = 6000 → 6,0\n• een juiste aflezing van de tijdsduur van een volledige hartslag van 0,7 (sec) of nauwkeuriger / twee volledige hartslagen van 1,4 (sec) of nauwkeuriger / drie volledige hartslagen van 2,1 (sec) of nauwkeuriger\n• een juiste berekening van het hartminuutvolume, juist afgerond op één decimaal",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juiste aflezing van de tijdsduur van een volledige hartslag van 0,7 (sec) of nauwkeuriger / twee volledige hartslagen van 1,4 (sec) of nauwkeuriger / drie volledige hartslagen van 2,1 (sec) of nauwkeuriger"
+        },
+        {
+          "points": 1,
+          "description": "een juiste berekening van het hartminuutvolume, juist afgerond op één decimaal"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-een-miss-met-een-litteken-antw9.png"
+      ]
+    },
+    {
+      "title": "Een miss met een litteken",
+      "question_number": 10,
+      "answer_text": "adrenaline/noradrenaline",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-een-miss-met-een-litteken-antw10.png"
+      ]
+    },
+    {
+      "title": "Een miss met een litteken",
+      "question_number": 11,
+      "answer_text": "B",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord B gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-een-miss-met-een-litteken-antw11.png"
+      ]
+    },
+    {
+      "title": "Een miss met een litteken",
+      "question_number": 12,
+      "answer_text": "Uit het antwoord moet blijken dat in het littekenweefsel geen pigmentcellen/melanocyten/pigmentkorrels aanwezig zijn (die voor een donkerder kleur zorgen).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-een-miss-met-een-litteken-antw12.png"
+      ]
+    },
+    {
+      "title": "Een miss met een litteken",
+      "question_number": 13,
+      "answer_text": "sinusknoop",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": "Aan het antwoord ‘pacemaker’ of ‘natuurlijke pacemaker’ het scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-een-miss-met-een-litteken-antw13.png"
+      ]
+    },
+    {
+      "title": "Gifkikkers",
+      "question_number": 14,
+      "answer_text": "1 onjuist\n2 juist\n3 juist\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-gifkikkers-antw14.png"
+      ]
+    },
+    {
+      "title": "Gifkikkers",
+      "question_number": 15,
+      "answer_text": "accumulatie/ophoping",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-gifkikkers-antw15.png"
+      ]
+    },
+    {
+      "title": "Gifkikkers",
+      "question_number": 16,
+      "answer_text": "Uit het antwoord moet blijken dat\n• er door mutatie / door recombinatie / door genetische variatie (voorouders van driekleurige) gifkikkers waren die bestand waren tegen gif/epibatidine. / die giftige prooien konden eten.\n• deze gifkikkers minder vaak gegeten werden en daardoor (vergeleken met niet-giftige soortgenoten) een hogere fitness hadden. / deze gifkikkers minder vaak gegeten werden en daardoor meer nakomelingen kregen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "er door mutatie / door recombinatie / door genetische variatie (voorouders van driekleurige) gifkikkers waren die bestand waren tegen gif/epibatidine. / die giftige prooien konden eten."
+        },
+        {
+          "points": 1,
+          "description": "deze gifkikkers minder vaak gegeten werden en daardoor (vergeleken met niet-giftige soortgenoten) een hogere fitness hadden. / deze gifkikkers minder vaak gegeten werden en daardoor meer nakomelingen kregen."
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-gifkikkers-antw16.png"
+      ]
+    },
+    {
+      "title": "Gifkikkers",
+      "question_number": 17,
+      "answer_text": "1 juist\n2 onjuist\n3 juist\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-gifkikkers-antw17.png"
+      ]
+    },
+    {
+      "title": "Gifkikkers",
+      "question_number": 18,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-gifkikkers-antw18.png"
+      ]
+    },
+    {
+      "title": "Gifkikkers",
+      "question_number": 19,
+      "answer_text": "voorbeelden van een juist antwoord:\n− De prooidieren voor de gifkikkers in het terrarium eten geen giftige planten.\n− In het terrarium staan geen giftige planten.\n− De gifkikkers in het terrarium eten geen giftige prooien.\n− Haar gifkikkers krijgen fruitvliegjes en keverlarven te eten.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-gifkikkers-antw19.png"
+      ]
+    },
+    {
+      "title": "Hond speurt naar zieke boom",
+      "question_number": 20,
+      "answer_text": "Uit het antwoord moet blijken dat\n• er weinig/geen genetische variatie is, / de bomen allemaal hetzelfde DNA/genotype hebben,\n• (waardoor) alle individuen even vatbaar zijn voor een ziekte.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "er weinig/geen genetische variatie is, / de bomen allemaal hetzelfde DNA/genotype hebben,"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) alle individuen even vatbaar zijn voor een ziekte."
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-hond-speurt-naar-zieke-boom-antw20.png"
+      ]
+    },
+    {
+      "title": "Hond speurt naar zieke boom",
+      "question_number": 21,
+      "answer_text": "1 werkzaam PLCP-enzym\n2 SDE1\n3 geïnactiveerd PLCP-enzym",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-hond-speurt-naar-zieke-boom-antw21.png"
+      ]
+    },
+    {
+      "title": "Hond speurt naar zieke boom",
+      "question_number": 22,
+      "answer_text": "Uit het antwoord moet blijken dat\n• er (in vergeelde bladeren) minder/geen bladgroen aanwezig is, / er minder/geen fotosynthese mogelijk is,\n• (waardoor) de hoeveelheid (bouw)stoffen die beschikbaar is (voor de groei van vruchten) kleiner is.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "er (in vergeelde bladeren) minder/geen bladgroen aanwezig is, / er minder/geen fotosynthese mogelijk is,"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) de hoeveelheid (bouw)stoffen die beschikbaar is (voor de groei van vruchten) kleiner is."
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-hond-speurt-naar-zieke-boom-antw22.png"
+      ]
+    },
+    {
+      "title": "Hond speurt naar zieke boom",
+      "question_number": 23,
+      "answer_text": "Uit het antwoord moet blijken dat (door de DNA-analyse) het DNA van de bacterie aangetoond kan worden (in het blad).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-hond-speurt-naar-zieke-boom-antw23.png"
+      ]
+    },
+    {
+      "title": "Hond speurt naar zieke boom",
+      "question_number": 24,
+      "answer_text": "voorbeelden van een juist antwoord:\n− Zo wordt uitgesloten dat de plaats van een geïnfecteerde boom een rol speelt bij de beoordeling.\n− Anders zou de hond de plaats van een geïnfecteerde boom kunnen onthouden.\n− De hond leert misschien steeds naar dezelfde plek te gaan waar hij eerder werd beloond, en let niet meer op de boom.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-hond-speurt-naar-zieke-boom-antw24.png"
+      ]
+    },
+    {
+      "title": "Hond speurt naar zieke boom",
+      "question_number": 25,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-hond-speurt-naar-zieke-boom-antw25.png"
+      ]
+    },
+    {
+      "title": "Levertransplantatie",
+      "question_number": 26,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord D gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-levertransplantatie-antw26.png"
+      ]
+    },
+    {
+      "title": "Levertransplantatie",
+      "question_number": 27,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord D gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-levertransplantatie-antw27.png"
+      ]
+    },
+    {
+      "title": "Levertransplantatie",
+      "question_number": 28,
+      "answer_text": "1 juist\n2 juist\n3 onjuist\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-levertransplantatie-antw28.png"
+      ]
+    },
+    {
+      "title": "Levertransplantatie",
+      "question_number": 29,
+      "answer_text": "(bij) anaerobe dissimilatie / (bij melkzuur)gisting",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-levertransplantatie-antw29.png"
+      ]
+    },
+    {
+      "title": "Levertransplantatie",
+      "question_number": 30,
+      "answer_text": "• mitochondrium/mitochondriën/mitochondria\n• ATP",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "mitochondrium/mitochondriën/mitochondria"
+        },
+        {
+          "points": 1,
+          "description": "ATP"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-levertransplantatie-antw30.png"
+      ]
+    },
+    {
+      "title": "Levertransplantatie",
+      "question_number": 31,
+      "answer_text": "Uit het antwoord moet blijken dat de enzymen (die betrokken zijn bij de stofwisseling) sneller/beter werken. / dat moleculen sneller bewegen. / dat moleculen vaker botsen. / dat reacties sneller verlopen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-levertransplantatie-antw31.png"
+      ]
+    },
+    {
+      "title": "Levertransplantatie",
+      "question_number": 32,
+      "answer_text": "B",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord B gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-levertransplantatie-antw32.png"
+      ]
+    },
+    {
+      "title": "Levertransplantatie",
+      "question_number": 33,
+      "answer_text": "voorbeeld van een juist antwoord:\nVader Jan heeft IᴬIᴮ; moeder heeft Iᴮi.\nkruisingstabel (zie afbeelding): gameten Iᴬ en Iᴮ × Iᴮ en i; nakomelingen IᴬIᴮ, Iᴬi, IᴮIᴮ, Iᴮi\nDe kans op IᴬIᴮ is 25%.\n• een juiste kruisingstabel\n• een kans van 25% / ¼",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juiste kruisingstabel"
+        },
+        {
+          "points": 1,
+          "description": "een kans van 25% / ¼"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-levertransplantatie-antw33.png"
+      ]
+    },
+    {
+      "title": "Levertransplantatie",
+      "question_number": 34,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord D gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-levertransplantatie-antw34.png"
+      ]
+    },
+    {
+      "title": "Levertransplantatie",
+      "question_number": 35,
+      "answer_text": "P: leverader\nQ: poortader\nR: (onderste) holle ader\nindien drie letters correct: 2 scorepunten\nindien twee letters correct: 1 scorepunt\nindien minder dan twee letters correct: 0 scorepunten",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien drie letters correct: 2 scorepunten; indien twee letters correct: 1 scorepunt; indien minder dan twee letters correct: 0 scorepunten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-levertransplantatie-antw35.png"
+      ]
+    },
+    {
+      "title": "Levertransplantatie",
+      "question_number": 36,
+      "answer_text": "Uit het antwoord moet blijken dat de afweer moet worden onderdrukt. / dat afstoting (van de getransplanteerde lever) moet worden voorkomen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-levertransplantatie-antw36.png"
+      ]
+    },
+    {
+      "title": "Vissen op zeebaars",
+      "question_number": 37,
+      "answer_text": "E",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord E gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-vissen-op-zeebaars-antw37.png"
+      ]
+    },
+    {
+      "title": "Vissen op zeebaars",
+      "question_number": 38,
+      "answer_text": "D",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord D gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-vissen-op-zeebaars-antw38.png"
+      ]
+    },
+    {
+      "title": "Vissen op zeebaars",
+      "question_number": 39,
+      "answer_text": "Uit het antwoord moet blijken dat er dan minder geslachtsrijpe vrouwtjes zijn. / dat vrouwtjes dan gevangen worden voordat ze zich voortplanten.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": "Aan een antwoord als: “de vissen hebben geen tijd gehad om zich voort te planten”, geen scorepunt toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-vissen-op-zeebaars-antw39.png"
+      ]
+    },
+    {
+      "title": "Vissen op zeebaars",
+      "question_number": 40,
+      "answer_text": "uitwerpselen/uitscheiding (van/door de vissen in de kooien)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-vissen-op-zeebaars-antw40.png"
+      ]
+    },
+    {
+      "title": "Vissen op zeebaars",
+      "question_number": 41,
+      "answer_text": "voorbeelden van een juist antwoord:\n− Er is dan minder kans op overbevissing.\n− Voor de productie van plantaardig eiwit is minder energie nodig.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-vissen-op-zeebaars-antw41.png"
+      ]
+    },
+    {
+      "title": "Vissen op zeebaars",
+      "question_number": 42,
+      "answer_text": "Uit het antwoord moet blijken dat\n• bacteriën die bestand zijn tegen de antibiotica overleven, / antibiotica leiden tot resistentie van bacteriën (in de vis of het water),\n• (waardoor) mensen met deze resistente bacteriën in aanraking kunnen komen (via voeding of water).\nof\n• mensen met de antibiotica in aanraking kunnen komen (door de consumptie van vis of contact met het zeewater),\n• (waardoor) bacteriën die bestand zijn tegen deze antibiotica in de mens overleven. / (waardoor) deze antibiotica leiden tot resistentie van bacteriën bij de mens.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "bacteriën die bestand zijn tegen de antibiotica overleven, / antibiotica leiden tot resistentie van bacteriën (in de vis of het water), — of (alternatief): mensen met de antibiotica in aanraking kunnen komen (door de consumptie van vis of contact met het zeewater),"
+        },
+        {
+          "points": 1,
+          "description": "(waardoor) mensen met deze resistente bacteriën in aanraking kunnen komen (via voeding of water). — of (alternatief): (waardoor) bacteriën die bestand zijn tegen deze antibiotica in de mens overleven. / (waardoor) deze antibiotica leiden tot resistentie van bacteriën bij de mens."
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-vissen-op-zeebaars-antw42.png"
+      ]
+    },
+    {
+      "title": "Gamma Knife",
+      "question_number": 43,
+      "answer_text": "voorbeelden van een juist antwoord:\n− elektrische isolatie van de zenuwcellen\n− het sneller laten verlopen van impulsen\n− Myeline-schedes maken sprongsgewijze impulsgeleiding mogelijk over de zenuwuitlopers.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "een juist antwoord (zie voorbeelden)"
+        }
+      ],
+      "grading_note": "− Als de kandidaat alleen isolatie noemt, in plaats van elektrische isolatie, dit niet aanrekenen.\n− Als de kandidaat alleen antwoordt dat de myeline-schedes regeneratie van uitlopers mogelijk maken, het scorepunt niet toekennen.",
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-gamma-knife-antw43.png"
+      ]
+    },
+    {
+      "title": "Gamma Knife",
+      "question_number": 44,
+      "answer_text": "C",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord C gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-gamma-knife-antw44.png"
+      ]
+    },
+    {
+      "title": "Gamma Knife",
+      "question_number": 45,
+      "answer_text": "A",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord A gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-gamma-knife-antw45.png"
+      ]
+    },
+    {
+      "title": "Gamma Knife",
+      "question_number": 46,
+      "answer_text": "B",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "antwoord B gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-gamma-knife-antw46.png"
+      ]
+    },
+    {
+      "title": "Gamma Knife",
+      "question_number": 47,
+      "answer_text": "1 Gamma Knife(-behandeling)\n2 Gamma Knife(-behandeling)\n3 (klassieke) operatie\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-gamma-knife-antw47.png"
+      ]
+    },
+    {
+      "title": "Gamma Knife",
+      "question_number": 48,
+      "answer_text": "E",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "antwoord E gekozen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-ii-gamma-knife-antw48.png"
+      ]
+    }
+  ]
+}
