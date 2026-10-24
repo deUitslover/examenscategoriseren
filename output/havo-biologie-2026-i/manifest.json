@@ -1,0 +1,85 @@
+{
+  "source": "HAVO Biologie 2026-I",
+  "subject_name": "Biologie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Vanya in actie",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Bedreigingen voor de beekprik",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Razendsnelle adaptatie bij olifanten door stroperij",
+      "question_numbers": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Plantenveredeling voor biologische landbouw",
+      "question_numbers": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "title": "Gastric bypass",
+      "question_numbers": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "title": "Giraffen: aparte soorten",
+      "question_numbers": [
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "title": "Mastitis bestrijden zonder antibiotica",
+      "question_numbers": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ]
+    }
+  ]
+}
