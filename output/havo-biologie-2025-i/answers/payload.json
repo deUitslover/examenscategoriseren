@@ -1,0 +1,763 @@
+{
+ "subject_name": "Biologie",
+ "level": "HAVO",
+ "source": "HAVO Biologie 2025-I",
+ "answers": [
+  {
+   "title": "De zeearend moet blijven!",
+   "question_number": 1,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-zeearend-moet-blijven-antw1.png"
+   ]
+  },
+  {
+   "title": "De zeearend moet blijven!",
+   "question_number": 2,
+   "answer_text": "voorbeelden van een juist antwoord:\n− De zeearend is op eigen kracht naar Nederland gekomen.\n− De zeearend is zonder hulp van de mens hier gekomen.\n− Het is een gevolg van migratie.\n− Hij komt hier van nature voor.\n− De zeearend was hier eerder al uitgestorven.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-zeearend-moet-blijven-antw2.png"
+   ]
+  },
+  {
+   "title": "De zeearend moet blijven!",
+   "question_number": 3,
+   "answer_text": "Uit het antwoord moet blijken dat\n• de insecticiden niet worden afgebroken door organismen, / de insecticiden zich ophopen in organismen, / de insecticiden accumuleren in organismen,\n• (waardoor) de concentratie insecticiden in hogere trofische niveaus toeneemt. / in de voedselketen toeneemt.\nof\n• (waardoor) de zeearend, die hoger in de voedselketen staat (dan insectenetende vogels) insecticiden in hogere concentraties in zijn lichaam opbouwt.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de insecticiden niet worden afgebroken door organismen, / de insecticiden zich ophopen in organismen, / de insecticiden accumuleren in organismen,"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) de concentratie insecticiden in hogere trofische niveaus toeneemt. / in de voedselketen toeneemt. of (waardoor) de zeearend, die hoger in de voedselketen staat (dan insectenetende vogels) insecticiden in hogere concentraties in zijn lichaam opbouwt."
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoordt dat insecticiden accumuleren in de voedselketen, het tweede scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-zeearend-moet-blijven-antw3.png"
+   ]
+  },
+  {
+   "title": "De zeearend moet blijven!",
+   "question_number": 4,
+   "answer_text": "1 niet\n2 niet\n3 niet\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-zeearend-moet-blijven-antw4.png"
+   ]
+  },
+  {
+   "title": "De zeearend moet blijven!",
+   "question_number": 5,
+   "answer_text": "Uit het antwoord moet blijken dat\n• hierdoor de genetische variatie (van de nakomelingen) groter wordt, / de kans op inteelt kleiner wordt,\n• (waardoor) de populatie zeearenden beter bestand is tegen verandering van milieufactoren. / (waardoor) de kans op (recessief) overervende aandoeningen kleiner is.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "hierdoor de genetische variatie (van de nakomelingen) groter wordt, / de kans op inteelt kleiner wordt,"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) de populatie zeearenden beter bestand is tegen verandering van milieufactoren. / (waardoor) de kans op (recessief) overervende aandoeningen kleiner is."
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoord geeft aan de hand van een specifiek voorbeeld, scorepunten toekennen naar analogie met het correctievoorschrift.",
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-zeearend-moet-blijven-antw5.png"
+   ]
+  },
+  {
+   "title": "De zeearend moet blijven!",
+   "question_number": 6,
+   "answer_text": "voorbeelden van een juist antwoord:\n− De eieren vallen door de harde wind uit het nest.\n− De jonge zeearenden drogen uit door hitte.\n− De kuikens worden te koud door te veel regen.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": "Het antwoord moet een abiotische factor én een toelichting voor een lager broedsucces bevatten.",
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-zeearend-moet-blijven-antw6.png"
+   ]
+  },
+  {
+   "title": "De zeearend moet blijven!",
+   "question_number": 7,
+   "answer_text": "DNA-analyse / DNA-onderzoek / bepaling van het karyotype/karyogram / aantonen van de geslachtschromosomen",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": "Als een kandidaat het bepalen van de aan- of afwezigheid van het Y-chromosoom noemt, het scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-zeearend-moet-blijven-antw7.png"
+   ]
+  },
+  {
+   "title": "De zeearend moet blijven!",
+   "question_number": 8,
+   "answer_text": "methode 1, met als verklaring dat er geen overlap is tussen de waardes van de vrouwtjes en de mannetjes",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-zeearend-moet-blijven-antw8.png"
+   ]
+  },
+  {
+   "title": "De zeearend moet blijven!",
+   "question_number": 9,
+   "answer_text": "voorbeelden van een juist antwoord:\n− De zeearend is afhankelijk van de populier, terwijl de bever ook andere bomen kan eten.\n− Er zijn al heel veel bevers in De Biesbosch.\n− Er zijn weinig andere soorten toppredatoren.\n− De populatie zeearenden is nog maar klein.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-zeearend-moet-blijven-antw9.png"
+   ]
+  },
+  {
+   "title": "De zeearend moet blijven!",
+   "question_number": 10,
+   "answer_text": "voorbeelden van een juist antwoord:\n− De zeearend heeft voordeel; de populier heeft geen voordeel of nadeel.\n− Het maakt voor de populier niet uit dat de zeearend erin nestelt.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": "Uit het antwoord moet voordeel voor de zeearend blijken, evenals het ontbreken van voordeel én nadeel voor de populier.",
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-zeearend-moet-blijven-antw10.png"
+   ]
+  },
+  {
+   "title": "Fanconi-anemie",
+   "question_number": 11,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-fanconi-anemie-antw11.png"
+   ]
+  },
+  {
+   "title": "Fanconi-anemie",
+   "question_number": 12,
+   "answer_text": "de juist ingevulde tabel:\nbloedbestanddeel | nummer in afbeelding 2 | symptoom bij tekort\nbloedplaatje | 2 | bloedingen\nrode bloedcel | 3 | vermoeidheid\nwitte bloedcel | 1 | infecties\n• de nummers juist\n• de symptomen juist",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de nummers juist"
+    },
+    {
+     "points": 1,
+     "description": "de symptomen juist"
+    }
+   ],
+   "grading_note": "Als de kandidaat meerdere symptomen heeft ingevuld in een vakje, het tweede scorepunt niet toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2025-i-fanconi-anemie-antw12.png"
+   ]
+  },
+  {
+   "title": "Fanconi-anemie",
+   "question_number": 13,
+   "answer_text": "B⁻, 0⁺ en 0⁻\nindien alleen de drie juiste bloedgroepen: 2 scorepunten\nindien de drie juiste bloedgroepen en één onjuiste bloedgroep: 1 scorepunt\nindien alleen twee juiste bloedgroepen: 1 scorepunt\nin alle andere gevallen: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien alleen de drie juiste bloedgroepen: 2 scorepunten; indien de drie juiste bloedgroepen en één onjuiste bloedgroep: 1 scorepunt; indien alleen twee juiste bloedgroepen: 1 scorepunt; in alle andere gevallen: 0 scorepunten"
+    }
+   ],
+   "grading_note": "Als de kandidaat ook B⁺ noteert, dit niet aanrekenen.",
+   "answer_image_urls": [
+    "biologie-havo-2025-i-fanconi-anemie-antw13.png"
+   ]
+  },
+  {
+   "title": "Fanconi-anemie",
+   "question_number": 14,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-fanconi-anemie-antw14.png"
+   ]
+  },
+  {
+   "title": "Fanconi-anemie",
+   "question_number": 15,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-fanconi-anemie-antw15.png"
+   ]
+  },
+  {
+   "title": "Fanconi-anemie",
+   "question_number": 16,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-fanconi-anemie-antw16.png"
+   ]
+  },
+  {
+   "title": "Fanconi-anemie",
+   "question_number": 17,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-fanconi-anemie-antw17.png"
+   ]
+  },
+  {
+   "title": "Een nieuwe groente: eendenkroos",
+   "question_number": 18,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-een-nieuwe-groente-eendenkroos-antw18.png"
+   ]
+  },
+  {
+   "title": "Een nieuwe groente: eendenkroos",
+   "question_number": 19,
+   "answer_text": "1 geslachtelijk(e voortplanting)\n2 ongeslachtelijk(e voortplanting)\n3 geslachtelijk(e voortplanting)\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-een-nieuwe-groente-eendenkroos-antw19.png"
+   ]
+  },
+  {
+   "title": "Een nieuwe groente: eendenkroos",
+   "question_number": 20,
+   "answer_text": "2 – 3 – 4 – 1",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-een-nieuwe-groente-eendenkroos-antw20.png"
+   ]
+  },
+  {
+   "title": "Een nieuwe groente: eendenkroos",
+   "question_number": 21,
+   "answer_text": "1 geen\n2 wel\n3 wel\n4 wel\nindien vier nummers correct: 2 scorepunten\nindien drie nummers correct: 1 scorepunt\nindien minder dan drie nummers correct: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien vier nummers correct: 2 scorepunten; indien drie nummers correct: 1 scorepunt; indien minder dan drie nummers correct: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-een-nieuwe-groente-eendenkroos-antw21.png"
+   ]
+  },
+  {
+   "title": "Een nieuwe groente: eendenkroos",
+   "question_number": 22,
+   "answer_text": "voorbeelden van een juist antwoord:\n− temperatuur (van de lucht / van het water)\n− (hoeveelheid) licht\n− pH van het water\n− grootte van de kweekbak",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": "Aan het antwoord (hoeveelheid) water, het scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2025-i-een-nieuwe-groente-eendenkroos-antw22.png"
+   ]
+  },
+  {
+   "title": "Een nieuwe groente: eendenkroos",
+   "question_number": 23,
+   "answer_text": "dissimilatie/verbranding/warmteverlies",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-een-nieuwe-groente-eendenkroos-antw23.png"
+   ]
+  },
+  {
+   "title": "Een nieuwe groente: eendenkroos",
+   "question_number": 24,
+   "answer_text": "Uit het antwoord moet blijken dat\n• de essentiële aminozuren (die een uur na het eten van eendenkroos in het bloed aanwezig zijn) afkomstig moeten zijn uit verteerde eiwitten (van het eendenkroos).\n• essentiële aminozuren niet in het lichaam van de mens gevormd kunnen worden. / niet-essentiële aminozuren in het lichaam van de mens gevormd zouden kunnen zijn.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de essentiële aminozuren (die een uur na het eten van eendenkroos in het bloed aanwezig zijn) afkomstig moeten zijn uit verteerde eiwitten (van het eendenkroos)."
+    },
+    {
+     "points": 1,
+     "description": "essentiële aminozuren niet in het lichaam van de mens gevormd kunnen worden. / niet-essentiële aminozuren in het lichaam van de mens gevormd zouden kunnen zijn."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-een-nieuwe-groente-eendenkroos-antw24.png"
+   ]
+  },
+  {
+   "title": "Een nieuwe groente: eendenkroos",
+   "question_number": 25,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Bij verticale landbouw is er geen uitspoeling van meststoffen.\n− laag waterverbruik mogelijk\n− minder bestrijdingsmiddelen nodig\n− minder last van dieren, zoals slakken, die van de planten eten\n− minder grote machines nodig die fossiele brandstoffen gebruiken\n− minder stikstofbelasting van natuurgebieden\n− Er is minder transport nodig omdat de bedrijven dicht bij de consumenten kunnen staan.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-een-nieuwe-groente-eendenkroos-antw25.png"
+   ]
+  },
+  {
+   "title": "De Bajau",
+   "question_number": 26,
+   "answer_text": "1 onjuist\n2 juist\n3 onjuist\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-bajau-antw26.png"
+   ]
+  },
+  {
+   "title": "De Bajau",
+   "question_number": 27,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-bajau-antw27.png"
+   ]
+  },
+  {
+   "title": "De Bajau",
+   "question_number": 28,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-bajau-antw28.png"
+   ]
+  },
+  {
+   "title": "De Bajau",
+   "question_number": 29,
+   "answer_text": "hemoglobine",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-bajau-antw29.png"
+   ]
+  },
+  {
+   "title": "De Bajau",
+   "question_number": 30,
+   "answer_text": "Uit het antwoord moet blijken dat het DNA in alle (lichaams)cellen hetzelfde is / wangslijmvliescellen hetzelfde DNA hebben als miltcellen.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-bajau-antw30.png"
+   ]
+  },
+  {
+   "title": "De Bajau",
+   "question_number": 31,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-bajau-antw31.png"
+   ]
+  },
+  {
+   "title": "De Bajau",
+   "question_number": 32,
+   "answer_text": "Uit het antwoord moet blijken dat\n• Bajau-vrouwen worden vergeleken met Saluan-vrouwen.\n• de (gemiddelde) miltgrootte van de Bajau-vrouwen groter is (dan die van de Saluan-vrouwen).\nof\n• Bajau-kinderen worden vergeleken met Saluan-kinderen.\n• de (gemiddelde) miltgrootte van de Bajau-kinderen groter is (dan die van de Saluan-kinderen).\nof\n• niet-duikende Bajau(-mannen) worden vergeleken met niet-duikende Saluan(-mannen).\n• de (gemiddelde) miltgrootte van de niet-duikende Bajau(-mannen) groter is (dan die van de niet-duikende Saluan-mannen).\nof\n• duikende Bajau(-mannen) worden vergeleken met niet-duikende Bajau(-mannen).\n• bij deze groepen de milt (gemiddeld ongeveer) dezelfde omvang heeft.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Bajau-vrouwen worden vergeleken met Saluan-vrouwen. of Bajau-kinderen worden vergeleken met Saluan-kinderen. of niet-duikende Bajau(-mannen) worden vergeleken met niet-duikende Saluan(-mannen). of duikende Bajau(-mannen) worden vergeleken met niet-duikende Bajau(-mannen)."
+    },
+    {
+     "points": 1,
+     "description": "de (gemiddelde) miltgrootte van de Bajau-vrouwen groter is (dan die van de Saluan-vrouwen). of de (gemiddelde) miltgrootte van de Bajau-kinderen groter is (dan die van de Saluan-kinderen). of de (gemiddelde) miltgrootte van de niet-duikende Bajau(-mannen) groter is (dan die van de niet-duikende Saluan-mannen). of bij deze groepen de milt (gemiddeld ongeveer) dezelfde omvang heeft."
+    }
+   ],
+   "grading_note": "Het tweede scorepunt kan alleen worden toegekend als het eerste scorepunt is behaald.",
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-bajau-antw32.png"
+   ]
+  },
+  {
+   "title": "De Bajau",
+   "question_number": 33,
+   "answer_text": "1 wel\n2 wel\n3 niet\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-bajau-antw33.png"
+   ]
+  },
+  {
+   "title": "De Bajau",
+   "question_number": 34,
+   "answer_text": "Uit het antwoord moet blijken dat\n• er genetische variatie is in miltgrootte. / er mutaties zijn opgetreden die leidden tot een grotere milt.\n• mannen met een grotere milt meer voedsel konden verzamelen, / diepere duiken konden overleven,\n• (waardoor) deze mannen een hogere fitness hadden. / meer voortplantingssucces hadden.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "er genetische variatie is in miltgrootte. / er mutaties zijn opgetreden die leidden tot een grotere milt."
+    },
+    {
+     "points": 1,
+     "description": "mannen met een grotere milt meer voedsel konden verzamelen, / diepere duiken konden overleven,"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) deze mannen een hogere fitness hadden. / meer voortplantingssucces hadden."
+    }
+   ],
+   "grading_note": "Als een kandidaat antwoordt dat mannen die diep kunnen duiken aantrekkelijker waren voor vrouwen, het tweede scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2025-i-de-bajau-antw34.png"
+   ]
+  },
+  {
+   "title": "Gevaarlijke sporen",
+   "question_number": 35,
+   "answer_text": "Uit het antwoord moet blijken dat\n• de slijmcellen slijm maken waardoor de sporen blijven plakken. / waardoor de sporen weggevangen worden.\n• de trilhaarcellen het slijm (met sporen) afvoeren (richting slokdarm).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de slijmcellen slijm maken waardoor de sporen blijven plakken. / waardoor de sporen weggevangen worden."
+    },
+    {
+     "points": 1,
+     "description": "de trilhaarcellen het slijm (met sporen) afvoeren (richting slokdarm)."
+    }
+   ],
+   "grading_note": "Het eerste scorepunt alleen toekennen als zowel de productie als het effect van slijm is benoemd.",
+   "answer_image_urls": [
+    "biologie-havo-2025-i-gevaarlijke-sporen-antw35.png"
+   ]
+  },
+  {
+   "title": "Gevaarlijke sporen",
+   "question_number": 36,
+   "answer_text": "(alleen) 2/celkern én 3/celwand én 4/vacuole",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-gevaarlijke-sporen-antw36.png"
+   ]
+  },
+  {
+   "title": "Gevaarlijke sporen",
+   "question_number": 37,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-gevaarlijke-sporen-antw37.png"
+   ]
+  },
+  {
+   "title": "Gevaarlijke sporen",
+   "question_number": 38,
+   "answer_text": "het juist ingevulde schema:\nazolen ↓ (−) lanosteroldemethylase ↓ (+) lanosterol → ergosterol\n(zie afbeelding voor het schema)\n• azolen, ergosterol en lanosteroldemethylase op de juiste plaats\n• de + en de – op de juiste plaats",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "azolen, ergosterol en lanosteroldemethylase op de juiste plaats"
+    },
+    {
+     "points": 1,
+     "description": "de + en de – op de juiste plaats"
+    }
+   ],
+   "grading_note": "Het tweede scorepunt kan alleen worden toegekend als het eerste scorepunt is behaald.",
+   "answer_image_urls": [
+    "biologie-havo-2025-i-gevaarlijke-sporen-antw38.png"
+   ]
+  },
+  {
+   "title": "Gevaarlijke sporen",
+   "question_number": 39,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-gevaarlijke-sporen-antw39.png"
+   ]
+  },
+  {
+   "title": "Gevaarlijke sporen",
+   "question_number": 40,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Mutaties zijn toevallig.\n− Mutaties ontstaan op willekeurige plaatsen.\n− De kans op een mutatie van één base is al klein; de kans op dezelfde baseverandering op dezelfde plek is nog veel kleiner.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-gevaarlijke-sporen-antw40.png"
+   ]
+  },
+  {
+   "title": "Gevaarlijke sporen",
+   "question_number": 41,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-gevaarlijke-sporen-antw41.png"
+   ]
+  },
+  {
+   "title": "Gevaarlijke sporen",
+   "question_number": 42,
+   "answer_text": "zetmeel/amylose",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-gevaarlijke-sporen-antw42.png"
+   ]
+  },
+  {
+   "title": "Gevaarlijke sporen",
+   "question_number": 43,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-gevaarlijke-sporen-antw43.png"
+   ]
+  },
+  {
+   "title": "Eieren met spek",
+   "question_number": 44,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-eieren-met-spek-antw44.png"
+   ]
+  },
+  {
+   "title": "Eieren met spek",
+   "question_number": 45,
+   "answer_text": "1 neurotransmitters\n2 exocytose\n3 impulsen\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-eieren-met-spek-antw45.png"
+   ]
+  },
+  {
+   "title": "Eieren met spek",
+   "question_number": 46,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-eieren-met-spek-antw46.png"
+   ]
+  },
+  {
+   "title": "Eieren met spek",
+   "question_number": 47,
+   "answer_text": "de juist ingevulde tabel:\n| wel smaakwaarneming | geen smaakwaarneming\npudding 1 | | x\npudding 2 | | x\npudding 3 | x |",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de juist ingevulde tabel"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-i-eieren-met-spek-antw47.png"
+   ]
+  },
+  {
+   "title": "Eieren met spek",
+   "question_number": 48,
+   "answer_text": "Uit het antwoord moet blijken dat er een pudding is met ham-smaakstof in een concentratie (ruim) boven de drempelwaarde, én een pudding is met kaas-smaakstof in een concentratie (ruim) boven de drempelwaarde.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": "− Als de kandidaat noteert dat de concentraties ham- en kaas-smaakstof in de puddingen hoger moeten zijn dan die in pudding 1 en 2, het scorepunt toekennen.\n− Als de kandidaat ook een derde pudding noteert met ham- en kaas-smaakstof in (dezelfde) concentraties boven de drempelwaarde, dit niet aanrekenen.",
+   "answer_image_urls": [
+    "biologie-havo-2025-i-eieren-met-spek-antw48.png"
+   ]
+  }
+ ]
+}

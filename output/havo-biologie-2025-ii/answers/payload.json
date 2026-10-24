@@ -1,0 +1,703 @@
+{
+ "subject_name": "Biologie",
+ "level": "HAVO",
+ "source": "HAVO Biologie 2025-II",
+ "answers": [
+  {
+   "title": "De tetralogie van Fallot",
+   "question_number": 1,
+   "answer_text": "Uit het antwoord moet blijken dat de wand van de rechterkamer gespierder/dikker is (dan bij een normaal gebouwd hart).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-de-tetralogie-van-fallot-antw1.png"
+   ]
+  },
+  {
+   "title": "De tetralogie van Fallot",
+   "question_number": 2,
+   "answer_text": "diastole, met een juiste verklaring\nvoorbeelden van een juiste verklaring:\n− Tijdens de diastole wordt de druk in de rechterkamer lager dan in de longslagader.\n− Het bloed stroomt terug tijdens de diastole, omdat de kamer dan ontspannen is.\n− Tijdens de diastole, omdat tijdens de systole de druk in de kamers hoog is.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "diastole, met een juiste verklaring"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-de-tetralogie-van-fallot-antw2.png"
+   ]
+  },
+  {
+   "title": "De tetralogie van Fallot",
+   "question_number": 3,
+   "answer_text": "Uit het antwoord moet blijken dat\n• (door menging van zuurstofrijk en zuurstofarm bloed) het bloed minder zuurstof bevat\n• (waardoor) er minder (aerobe) dissimilatie kan plaatsvinden. / er minder verbranding kan plaatsvinden. / er minder ATP gevormd kan worden.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(door menging van zuurstofrijk en zuurstofarm bloed) het bloed minder zuurstof bevat"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) er minder (aerobe) dissimilatie kan plaatsvinden. / er minder verbranding kan plaatsvinden. / er minder ATP gevormd kan worden."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-de-tetralogie-van-fallot-antw3.png"
+   ]
+  },
+  {
+   "title": "De tetralogie van Fallot",
+   "question_number": 4,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-de-tetralogie-van-fallot-antw4.png"
+   ]
+  },
+  {
+   "title": "Zwarte kip",
+   "question_number": 5,
+   "answer_text": "1 onjuist\n2 juist\n3 onjuist\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-zwarte-kip-antw5.png"
+   ]
+  },
+  {
+   "title": "Zwarte kip",
+   "question_number": 6,
+   "answer_text": "Uit het antwoord moet blijken dat het onwaarschijnlijk is dat deze (uiterst complexe) mutatie twee keer (in de evolutie) is ontstaan.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": "Als de kandidaat antwoordt dat het onwaarschijnlijk is dat een complexe mutatie twee keer ontstaat, het scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-zwarte-kip-antw6.png"
+   ]
+  },
+  {
+   "title": "Zwarte kip",
+   "question_number": 7,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-zwarte-kip-antw7.png"
+   ]
+  },
+  {
+   "title": "Zwarte kip",
+   "question_number": 8,
+   "answer_text": "• (licht)bruin en zwart/fibromelanose\n• 1 : 1 of 50%, 50%",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(licht)bruin en zwart/fibromelanose"
+    },
+    {
+     "points": 1,
+     "description": "1 : 1 of 50%, 50%"
+    }
+   ],
+   "grading_note": "Aan de juiste genotypen (in plaats van fenotypen) in de juiste verhouding, in totaal 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-zwarte-kip-antw8.png"
+   ]
+  },
+  {
+   "title": "Zwarte kip",
+   "question_number": 9,
+   "answer_text": "Uit het antwoord moet blijken dat (bij inteelt) de kans groot is dat beide ouders hetzelfde (recessieve) afwijkende allel hebben. / dat beide ouders drager zijn van een (recessief) afwijkend allel.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-zwarte-kip-antw9.png"
+   ]
+  },
+  {
+   "title": "Groene energie nog groener",
+   "question_number": 10,
+   "answer_text": "voorbeelden van een juist antwoord:\n− enzym: amylase\n  Dit enzym breekt polysachariden af tot kleinere sachariden.\n− cellulase\n  Polysachariden kunnen niet worden afgebroken door gist. De suikers die ontstaan door de werking van cellulase wel.\n− Gistcellen hebben geen cellulase, waardoor ze de grote koolhydraten niet kunnen afbreken. Door die toe te voegen hebben ze meer stoffen om alcohol van te maken.\n• de naam van een enzym dat een polysacharide omzet in een oligo-, di- of monosacharide\n• een verklaring waaruit blijkt dat polysachariden worden afgebroken (tot kleinere sachariden die door de gistcellen gebruikt kunnen worden)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de naam van een enzym dat een polysacharide omzet in een oligo-, di- of monosacharide"
+    },
+    {
+     "points": 1,
+     "description": "een verklaring waaruit blijkt dat polysachariden worden afgebroken (tot kleinere sachariden die door de gistcellen gebruikt kunnen worden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-groene-energie-nog-groener-antw10.png"
+   ]
+  },
+  {
+   "title": "Groene energie nog groener",
+   "question_number": 11,
+   "answer_text": "anaerobe dissimilatie / (alcohol)gisting / fermentatie",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-groene-energie-nog-groener-antw11.png"
+   ]
+  },
+  {
+   "title": "Groene energie nog groener",
+   "question_number": 12,
+   "answer_text": "koolstofdioxide/CO₂ én water/H₂O (en ATP)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-groene-energie-nog-groener-antw12.png"
+   ]
+  },
+  {
+   "title": "Groene energie nog groener",
+   "question_number": 13,
+   "answer_text": "voorbeelden van een juist antwoord:\n− vermindering van het gebruik van kunstmest\n− Door het gebruik van robots is veel minder (fossiele) brandstof nodig.\n− De trekkers worden elektrisch aangedreven.\n− gebruik van biobrandstof in tractoren",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-groene-energie-nog-groener-antw13.png"
+   ]
+  },
+  {
+   "title": "Groene energie nog groener",
+   "question_number": 14,
+   "answer_text": "voorbeelden van een juist antwoord:\n− opbrengst = 94500 × (1 – 0,1) × 0,24 × 0,73 × 0,52 = 7748 kg bio-ethanol\n  afname aan CO₂ = 7748 × (1,31 – 0,80) = 3,95 kg CO₂ / ha\n− 94,5 × 0,9 × 0,24 × 0,73 × 0,52 = 7,748\n  7,748 × 0,51 = 4\n• een juiste berekening van de hoeveelheid bio-ethanol\n• een juiste berekening van de hoeveelheid CO₂-vermindering per hectare passend bij de berekende hoeveelheid bio-ethanol (in kilogram)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juiste berekening van de hoeveelheid bio-ethanol"
+    },
+    {
+     "points": 1,
+     "description": "een juiste berekening van de hoeveelheid CO₂-vermindering per hectare passend bij de berekende hoeveelheid bio-ethanol (in kilogram)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-groene-energie-nog-groener-antw14.png"
+   ]
+  },
+  {
+   "title": "Groene energie nog groener",
+   "question_number": 15,
+   "answer_text": "Uit het antwoord moet blijken dat de koolstofdioxide (die vrijkomt bij de verbranding van bio-ethanol) recent onttrokken is aan de atmosfeer. / dat gebruik van bio-ethanol onderdeel is van de korte/snelle koolstofkringloop.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-groene-energie-nog-groener-antw15.png"
+   ]
+  },
+  {
+   "title": "Ademtherapie bij long covid",
+   "question_number": 16,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-ademtherapie-bij-long-covid-antw16.png"
+   ]
+  },
+  {
+   "title": "Ademtherapie bij long covid",
+   "question_number": 17,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-ademtherapie-bij-long-covid-antw17.png"
+   ]
+  },
+  {
+   "title": "Ademtherapie bij long covid",
+   "question_number": 18,
+   "answer_text": "plasmacellen",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": "Aan het antwoord (geactiveerde) B-cellen het scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-ademtherapie-bij-long-covid-antw18.png"
+   ]
+  },
+  {
+   "title": "Ademtherapie bij long covid",
+   "question_number": 19,
+   "answer_text": "cytotoxische T-cellen / Tc-cellen",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": "Aan het antwoord T-cellen geen scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-ademtherapie-bij-long-covid-antw19.png"
+   ]
+  },
+  {
+   "title": "Ademtherapie bij long covid",
+   "question_number": 20,
+   "answer_text": "Uit het antwoord moet blijken dat\n• (door de mutatie) de eiwitten/antigenen (aan de buitenkant) van het virus anders (van vorm) zijn,\n• (waardoor) er geen binding optreedt tussen het antigeen(molecuul) en de antistof(fen). / en de (receptor van) afweercellen/Tc-cellen.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(door de mutatie) de eiwitten/antigenen (aan de buitenkant) van het virus anders (van vorm) zijn,"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) er geen binding optreedt tussen het antigeen(molecuul) en de antistof(fen). / en de (receptor van) afweercellen/Tc-cellen."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-ademtherapie-bij-long-covid-antw20.png"
+   ]
+  },
+  {
+   "title": "Ademtherapie bij long covid",
+   "question_number": 21,
+   "answer_text": "voorbeelden van een juiste beschrijving van een voorwaarde voor een deelnemer in de controlegroep:\n− Iemand die geen corona heeft gehad.\n− Een persoon met een negatieve coronatest.\n− Iemand zonder antistoffen tegen corona.\n\nvoorbeelden van een juiste beschrijving van een voorwaarde voor de samenstelling van de controlegroep:\n− De mensen moeten gemiddeld ongeveer dezelfde leeftijd hebben als in de onderzoeksgroep.\n− De man-vrouwverdeling moet hetzelfde zijn als in de testgroep.\n− Hun leefstijl moet vergelijkbaar zijn met de andere groep.\n− Ze moeten verder qua gezondheid vergelijkbaar zijn met de onderzoeksgroep.\n\n• een juiste voorwaarde voor een deelnemer van de controlegroep\n• een juiste voorwaarde voor de samenstelling van een controlegroep",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juiste voorwaarde voor een deelnemer van de controlegroep"
+    },
+    {
+     "points": 1,
+     "description": "een juiste voorwaarde voor de samenstelling van een controlegroep"
+    }
+   ],
+   "grading_note": "Als de kandidaat op de eerste deelvraag antwoordt dat een deelnemer een gezond persoon moet zijn, het eerste scorepunt niet toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-ademtherapie-bij-long-covid-antw21.png"
+   ]
+  },
+  {
+   "title": "Ademtherapie bij long covid",
+   "question_number": 22,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-ademtherapie-bij-long-covid-antw22.png"
+   ]
+  },
+  {
+   "title": "Ademtherapie bij long covid",
+   "question_number": 23,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-ademtherapie-bij-long-covid-antw23.png"
+   ]
+  },
+  {
+   "title": "Project Partridge",
+   "question_number": 24,
+   "answer_text": "F",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord F gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-project-partridge-antw24.png"
+   ]
+  },
+  {
+   "title": "Project Partridge",
+   "question_number": 25,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Insecten bevatten de meeste eiwitten, wat bouwstoffen zijn voor het groeiende kuiken.\n− Insecten bevatten vooral eiwitten, en die zijn nodig voor de groei.\n− Ze bevatten meer vetten en meer eiwitten, die zijn nodig om te groeien.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": "Aan een antwoord waarin eiwitten niet zijn genoemd, geen scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-project-partridge-antw25.png"
+   ]
+  },
+  {
+   "title": "Project Partridge",
+   "question_number": 26,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-project-partridge-antw26.png"
+   ]
+  },
+  {
+   "title": "Project Partridge",
+   "question_number": 27,
+   "answer_text": "Uit het antwoord moet blijken dat de onderzoekers keken naar de periode (eind) mei, juni, (juli,) omdat er dan patrijskuikens zijn (die insecten eten).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-project-partridge-antw27.png"
+   ]
+  },
+  {
+   "title": "Koeientoilet",
+   "question_number": 28,
+   "answer_text": "voorbeelden van een juist antwoord:\n− In de weide komt de ontlasting meestal niet op dezelfde plek terecht als de urine.\n− In de bodem wordt ammonium omgezet tot nitraat.\n− Koeien poepen en plassen niet tegelijkertijd.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-koeientoilet-antw28.png"
+   ]
+  },
+  {
+   "title": "Koeientoilet",
+   "question_number": 29,
+   "answer_text": "1 onjuist\n2 juist\n3 onjuist\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-koeientoilet-antw29.png"
+   ]
+  },
+  {
+   "title": "Koeientoilet",
+   "question_number": 30,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Zonnedauw doet aan fotosynthese.\n− Deze plant maakt zelf organische stoffen.\n− Zonnedauw is autotroof.\n− Zonnedauw neemt alleen anorganische stoffen op.\n− In de bladeren van zonnedauw is bladgroen aanwezig.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-koeientoilet-antw30.png"
+   ]
+  },
+  {
+   "title": "Koeientoilet",
+   "question_number": 31,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-koeientoilet-antw31.png"
+   ]
+  },
+  {
+   "title": "Koeientoilet",
+   "question_number": 32,
+   "answer_text": "1 niet\n2 niet\n3 niet\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-koeientoilet-antw32.png"
+   ]
+  },
+  {
+   "title": "Koeientoilet",
+   "question_number": 33,
+   "answer_text": "Uit het antwoord moet blijken dat\n• veenpluis beter kan profiteren van / aangepast is aan de verhoogde hoeveelheid stikstof(verbindingen),\n• (waardoor) kleine zonnedauw wordt verdrongen/weggeconcurreerd. / kleine zonnedauw minder licht krijgt.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "veenpluis beter kan profiteren van / aangepast is aan de verhoogde hoeveelheid stikstof(verbindingen),"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) kleine zonnedauw wordt verdrongen/weggeconcurreerd. / kleine zonnedauw minder licht krijgt."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-koeientoilet-antw33.png"
+   ]
+  },
+  {
+   "title": "Kameleon bekent kleur",
+   "question_number": 34,
+   "answer_text": "voorbeelden van een juiste verklaring voor overleving aan de hand van een biotische factor:\n− Er is voldoende voedsel aanwezig.\n− Er zijn geen ziekteverwekkers aanwezig.\n\nvoorbeelden van een juiste verklaring voor overleving aan de hand van een abiotische factor:\n− De temperatuur ligt binnen de tolerantiegrenzen.\n− De luchtvochtigheid is gunstig.\n\n• een juiste verklaring voor overleving aan de hand van een biotische factor (anders dan predatie)\n• een juiste verklaring voor overleving aan de hand van een abiotische factor",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juiste verklaring voor overleving aan de hand van een biotische factor (anders dan predatie)"
+    },
+    {
+     "points": 1,
+     "description": "een juiste verklaring voor overleving aan de hand van een abiotische factor"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-kameleon-bekent-kleur-antw34.png"
+   ]
+  },
+  {
+   "title": "Kameleon bekent kleur",
+   "question_number": 35,
+   "answer_text": "Uit het antwoord moet blijken dat de tijd (vanaf 1972) dat de populaties gescheiden zijn geweest, te kort is (om dusdanig grote verschillen te laten ontstaan waardoor geen vruchtbare nakomelingen meer zouden kunnen ontstaan bij kruising van individuen uit de verschillende populaties).",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-kameleon-bekent-kleur-antw35.png"
+   ]
+  },
+  {
+   "title": "Kameleon bekent kleur",
+   "question_number": 36,
+   "answer_text": "1 wel\n2 niet\n3 wel\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-kameleon-bekent-kleur-antw36.png"
+   ]
+  },
+  {
+   "title": "Kameleon bekent kleur",
+   "question_number": 37,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Voor de processen in de cel zijn enzymen nodig die beter functioneren bij een hogere temperatuur.\n− Als de kameleon warmer wordt, kunnen zijn enzymen in de cel beter werken.\n− De optimumtemperatuur van enzymen ligt hoger dan de lichaamstemperatuur in de ochtend.\n− De reacties verlopen sneller bij hogere temperaturen.\n\nUit het antwoord moet blijken dat (bij een hogere temperatuur) enzymen sneller/beter werken. / reacties sneller verlopen.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord (zie voorbeelden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-kameleon-bekent-kleur-antw37.png"
+   ]
+  },
+  {
+   "title": "Kameleon bekent kleur",
+   "question_number": 38,
+   "answer_text": "Uit het antwoord moet blijken dat aansturing door het zenuwstelsel snelle aanpassing van kleur mogelijk maakt.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-kameleon-bekent-kleur-antw38.png"
+   ]
+  },
+  {
+   "title": "Kameleon bekent kleur",
+   "question_number": 39,
+   "answer_text": "1 onjuist\n2 onjuist\n3 onjuist\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-kameleon-bekent-kleur-antw39.png"
+   ]
+  },
+  {
+   "title": "Nierfalen bij katten",
+   "question_number": 40,
+   "answer_text": "2 – 4 – 3 – 1\nindien 4 – 3 – 1 – 2: 1 scorepunt\nindien 2 – 3 – 1 – 4: 1 scorepunt\nin alle andere gevallen: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "2 – 4 – 3 – 1; indien 4 – 3 – 1 – 2: 1 scorepunt; indien 2 – 3 – 1 – 4: 1 scorepunt; in alle andere gevallen: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-nierfalen-bij-katten-antw40.png"
+   ]
+  },
+  {
+   "title": "Nierfalen bij katten",
+   "question_number": 41,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-nierfalen-bij-katten-antw41.png"
+   ]
+  },
+  {
+   "title": "Nierfalen bij katten",
+   "question_number": 42,
+   "answer_text": "3 – 7 – 6 – 5 – 1\nindien alleen de vijf juiste nummers in de juiste volgorde: 2 scorepunten\nindien alleen de vijf juiste nummers in een onjuiste volgorde: 1 scorepunt\nindien alleen de vijf juiste nummers in de juiste volgorde en één onjuist nummer extra op een willekeurige plaats: 1 scorepunt\nindien alleen vier juiste nummers in de juiste volgorde en één onjuist nummer extra op een willekeurige plaats: 1 scorepunt\nindien alleen vier juiste nummers in de juiste volgorde: 1 scorepunt\nin alle andere gevallen: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien alleen de vijf juiste nummers in de juiste volgorde: 2 scorepunten; indien alleen de vijf juiste nummers in een onjuiste volgorde: 1 scorepunt; indien alleen de vijf juiste nummers in de juiste volgorde en één onjuist nummer extra op een willekeurige plaats: 1 scorepunt; indien alleen vier juiste nummers in de juiste volgorde en één onjuist nummer extra op een willekeurige plaats: 1 scorepunt; indien alleen vier juiste nummers in de juiste volgorde: 1 scorepunt; in alle andere gevallen: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-nierfalen-bij-katten-antw42.png"
+   ]
+  },
+  {
+   "title": "Nierfalen bij katten",
+   "question_number": 43,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-nierfalen-bij-katten-antw43.png"
+   ]
+  },
+  {
+   "title": "Nierfalen bij katten",
+   "question_number": 44,
+   "answer_text": "• 1: aminozuren\n• 2: lever(cellen)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "1: aminozuren"
+    },
+    {
+     "points": 1,
+     "description": "2: lever(cellen)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2025-ii-nierfalen-bij-katten-antw44.png"
+   ]
+  }
+ ]
+}
