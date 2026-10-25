@@ -349,15 +349,11 @@
     {
       "title": "Het syndroom van Swyer",
       "question_number": 22,
-      "answer_text": "Uit het antwoord moet blijken dat\n• (bij Emma) eierstokken/follikels ontbreken.\n• (door de lage oestradiolconcentratie) de productie (van FSH) niet/minder geremd wordt.",
+      "answer_text": "D",
       "scoring_steps": [
         {
           "points": 1,
-          "description": "(bij Emma) eierstokken/follikels ontbreken."
-        },
-        {
-          "points": 1,
-          "description": "(door de lage oestradiolconcentratie) de productie (van FSH) niet/minder geremd wordt."
+          "description": "antwoord D gekozen"
         }
       ],
       "grading_note": null,
@@ -368,11 +364,15 @@
     {
       "title": "Het syndroom van Swyer",
       "question_number": 23,
-      "answer_text": "1 S\n2 R\n3 P\n4 Q\nindien vier nummers correct: 2 scorepunten\nindien drie of twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+      "answer_text": "Uit het antwoord moet blijken dat\n• (bij Emma) eierstokken/follikels ontbreken.\n• (door de lage oestradiolconcentratie) de productie (van FSH) niet/minder geremd wordt.",
       "scoring_steps": [
         {
-          "points": 2,
-          "description": "indien vier nummers correct: 2 scorepunten; indien drie of twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+          "points": 1,
+          "description": "(bij Emma) eierstokken/follikels ontbreken."
+        },
+        {
+          "points": 1,
+          "description": "(door de lage oestradiolconcentratie) de productie (van FSH) niet/minder geremd wordt."
         }
       ],
       "grading_note": null,
