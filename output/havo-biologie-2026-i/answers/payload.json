@@ -1,0 +1,704 @@
+{
+ "subject_name": "Biologie",
+ "level": "HAVO",
+ "source": "HAVO Biologie 2026-I",
+ "answers": [
+  {
+   "title": "Vanya in actie",
+   "question_number": 1,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-vanya-in-actie-antw1.png"
+   ]
+  },
+  {
+   "title": "Vanya in actie",
+   "question_number": 2,
+   "answer_text": "1 juist\n2 onjuist\n3 onjuist\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-vanya-in-actie-antw2.png"
+   ]
+  },
+  {
+   "title": "Vanya in actie",
+   "question_number": 3,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-vanya-in-actie-antw3.png"
+   ]
+  },
+  {
+   "title": "Vanya in actie",
+   "question_number": 4,
+   "answer_text": "Uit het antwoord moet blijken dat er (per samentrekking) een grote(re) hoeveelheid bloed de slagaders/aorta/bloedvaten ingaat (waardoor de druk op de vaatwanden stijgt).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-vanya-in-actie-antw4.png"
+   ]
+  },
+  {
+   "title": "Vanya in actie",
+   "question_number": 5,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-vanya-in-actie-antw5.png"
+   ]
+  },
+  {
+   "title": "Vanya in actie",
+   "question_number": 6,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-vanya-in-actie-antw6.png"
+   ]
+  },
+  {
+   "title": "Bedreigingen voor de beekprik",
+   "question_number": 7,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Meststoffen uit het landbouwgebied komen terecht in de beek.\n− Door afbraak van bladeren komen er steeds meer anorganische stoffen in het water.\n− Organische resten worden door reducenten afgebroken, waarbij anorganische stoffen ontstaan.\n\nUit het antwoord moet blijken dat door uitspoeling anorganische stoffen in het water terechtkomen. / dat door afbraak anorganische stoffen ontstaan (in het water).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-bedreigingen-voor-de-beekprik-antw7.png"
+   ]
+  },
+  {
+   "title": "Bedreigingen voor de beekprik",
+   "question_number": 8,
+   "answer_text": "Uit het antwoord moet blijken dat\n• er (door schaduw) weinig licht is, waardoor fotosynthese beperkt wordt (en er dus minder algenbloei kan plaatsvinden).\n• (door schaduw) de temperatuur laag is, waardoor algen minder snel groeien / waardoor processen minder snel verlopen (en er dus minder algenbloei kan plaatsvinden).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "er (door schaduw) weinig licht is, waardoor fotosynthese beperkt wordt (en er dus minder algenbloei kan plaatsvinden)."
+    },
+    {
+     "points": 1,
+     "description": "(door schaduw) de temperatuur laag is, waardoor algen minder snel groeien / waardoor processen minder snel verlopen (en er dus minder algenbloei kan plaatsvinden)."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-bedreigingen-voor-de-beekprik-antw8.png"
+   ]
+  },
+  {
+   "title": "Bedreigingen voor de beekprik",
+   "question_number": 9,
+   "answer_text": "Uit het antwoord moet blijken dat de vis gestroomlijnd is. / minder weerstand heeft. / makkelijker tegen de stroom kan inzwemmen.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-bedreigingen-voor-de-beekprik-antw9.png"
+   ]
+  },
+  {
+   "title": "Bedreigingen voor de beekprik",
+   "question_number": 10,
+   "answer_text": "voorbeeld van een juist voedselweb (zie afbeelding): algen → amoeben, sporendiertjes, trilhaardiertjes en raderdiertjes; amoeben, sporendiertjes en trilhaardiertjes → raderdiertjes; raderdiertjes en algen → (larven van) beekprik\n• de in de tekst genoemde (groepen) organismen op een juiste wijze, apart opgenomen in een voedselweb\n• de getekende pijlen in de juiste richting",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de in de tekst genoemde (groepen) organismen op een juiste wijze, apart opgenomen in een voedselweb"
+    },
+    {
+     "points": 1,
+     "description": "de getekende pijlen in de juiste richting"
+    }
+   ],
+   "grading_note": "− Als de kandidaat een andere soort of een abiotische factor opneemt in het voedselweb, 1 scorepunt in mindering brengen.\n− Als de kandidaat naast raderdiertjes ook “andere kleine meercellige waterorganismen” opneemt met een pijl naar (larven van) beekprik, dit niet aanrekenen.\n− Als de kandidaat naast amoeben, sporendiertjes en trilhaardiertjes ook “andere eencellige organismen” opneemt met een pijl naar raderdiertjes, dit niet aanrekenen.",
+   "answer_image_urls": [
+    "biologie-havo-2026-i-bedreigingen-voor-de-beekprik-antw10.png"
+   ]
+  },
+  {
+   "title": "Bedreigingen voor de beekprik",
+   "question_number": 11,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-bedreigingen-voor-de-beekprik-antw11.png"
+   ]
+  },
+  {
+   "title": "Bedreigingen voor de beekprik",
+   "question_number": 12,
+   "answer_text": "1 onjuist\n2 onjuist\n3 juist\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-bedreigingen-voor-de-beekprik-antw12.png"
+   ]
+  },
+  {
+   "title": "Bedreigingen voor de beekprik",
+   "question_number": 13,
+   "answer_text": "A",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord A gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-bedreigingen-voor-de-beekprik-antw13.png"
+   ]
+  },
+  {
+   "title": "Bedreigingen voor de beekprik",
+   "question_number": 14,
+   "answer_text": "voorbeeld van een juiste grafiek: zie afbeelding (overleving (%) uitgezet tegen zuurstofconcentratie; de curve voor volwassen beekprikken ligt rechts van die van de beekpriklarven en bereikt dezelfde hoogte).\n\neen grafiek waarin de curve voor volwassen beekprikken\n• zich rechts bevindt van die van de beekpriklarven\n• eenzelfde hoogte bereikt als die van de beekpriklarven",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "zich rechts bevindt van die van de beekpriklarven"
+    },
+    {
+     "points": 1,
+     "description": "eenzelfde hoogte bereikt als die van de beekpriklarven"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-bedreigingen-voor-de-beekprik-antw14.png"
+   ]
+  },
+  {
+   "title": "Bedreigingen voor de beekprik",
+   "question_number": 15,
+   "answer_text": "voorbeelden van een juist antwoord:\n− De volwassen beekprikken kunnen zo de bovenloop van beken bereiken, waardoor ze voor nageslacht kunnen zorgen.\n− Alleen als de vissen eitjes kunnen afzetten, blijft de populatie in stand.\n\nUit het antwoord moet blijken dat dankzij de vispassages voortplanting kan plaatsvinden.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": "Als de kandidaat alleen antwoordt dat de vissen dankzij de vispassage niet gedood worden door het molenrad, geen scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2026-i-bedreigingen-voor-de-beekprik-antw15.png"
+   ]
+  },
+  {
+   "title": "Razendsnelle adaptatie bij olifanten door stroperij",
+   "question_number": 16,
+   "answer_text": "voorbeeld van een juiste berekening:\nIn 1977 waren er (18,5 × 1271) / 100 = 235 slagtandloze vrouwtjes. In 2000 waren er 61.\nIn 1977 was 18,5% slagtandloos. In 2000 was dat 61 / 121 × 100% = 50,4%.\n\n• een berekening waaruit blijkt dat in 1977 het aantal slagtandloze vrouwtjes 235 was\n• een berekening waaruit blijkt dat in 2000 het percentage slagtandloze vrouwtjes 50% (of nauwkeuriger) was",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een berekening waaruit blijkt dat in 1977 het aantal slagtandloze vrouwtjes 235 was"
+    },
+    {
+     "points": 1,
+     "description": "een berekening waaruit blijkt dat in 2000 het percentage slagtandloze vrouwtjes 50% (of nauwkeuriger) was"
+    }
+   ],
+   "grading_note": "Als de kandidaat de berekening voor het eerste scorepunt heeft afgerond op 236, of niet heeft afgerond, dit niet aanrekenen.\nToelichting: De berekening voor het eerste scorepunt komt uit op 235,1. Bij het afronden dient de kandidaat dit rekenkundig naar beneden af te ronden op een geheel getal. Afronden was echter geen toetsdoel bij deze vraag; daarom hoeft een afrondfout hier niet te worden aangerekend.",
+   "answer_image_urls": [
+    "biologie-havo-2026-i-razendsnelle-adaptatie-bij-olifanten-door-stroperij-antw16.png"
+   ]
+  },
+  {
+   "title": "Razendsnelle adaptatie bij olifanten door stroperij",
+   "question_number": 17,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-razendsnelle-adaptatie-bij-olifanten-door-stroperij-antw17.png"
+   ]
+  },
+  {
+   "title": "Razendsnelle adaptatie bij olifanten door stroperij",
+   "question_number": 18,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-razendsnelle-adaptatie-bij-olifanten-door-stroperij-antw18.png"
+   ]
+  },
+  {
+   "title": "Razendsnelle adaptatie bij olifanten door stroperij",
+   "question_number": 19,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-razendsnelle-adaptatie-bij-olifanten-door-stroperij-antw19.png"
+   ]
+  },
+  {
+   "title": "Razendsnelle adaptatie bij olifanten door stroperij",
+   "question_number": 20,
+   "answer_text": "Uit het antwoord moet blijken dat een populatie met een kleine genenpool minder aanpassingsvermogen heeft als milieuomstandigheden veranderen (dan een populatie met een grote genenpool).\n\nof\n\nUit het antwoord moet blijken dat (bij een populatie met een kleine genenpool) de kans op inteelt / erfelijke ziekten groter is (dan bij een populatie met een grote genenpool).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-razendsnelle-adaptatie-bij-olifanten-door-stroperij-antw20.png"
+   ]
+  },
+  {
+   "title": "Razendsnelle adaptatie bij olifanten door stroperij",
+   "question_number": 21,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Er komt ruimte voor andere soorten.\n− Er komt meer licht op de bodem, waardoor andere plantensoorten een kans krijgen.\n− In de omgewoelde grond kunnen zaden van andere soorten kiemen.\n− De uitgerukte planten trekken organismen aan die het dode hout afbreken.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-razendsnelle-adaptatie-bij-olifanten-door-stroperij-antw21.png"
+   ]
+  },
+  {
+   "title": "Plantenveredeling voor biologische landbouw",
+   "question_number": 22,
+   "answer_text": "voorbeelden van juiste processen:\n− uitspoeling\n− denitrificatie\n− vervluchtiging\n− opname door planten / oogsten van gewassen / vraat door dieren\n\nper juist proces: 1 scorepunt",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "per juist proces (eerste juiste proces)"
+    },
+    {
+     "points": 1,
+     "description": "per juist proces (tweede juiste proces)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-plantenveredeling-voor-biologische-landbouw-antw22.png"
+   ]
+  },
+  {
+   "title": "Plantenveredeling voor biologische landbouw",
+   "question_number": 23,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-plantenveredeling-voor-biologische-landbouw-antw23.png"
+   ]
+  },
+  {
+   "title": "Plantenveredeling voor biologische landbouw",
+   "question_number": 24,
+   "answer_text": "In de beschrijving worden de volgende aspecten omschreven:\n• Er worden twee (groepen) proefvelden/akkers ingericht; op het ene deel wordt langdurig / een aantal jaar één gewas gekweekt; op het andere deel wordt vruchtwisseling toegepast.\n• De overige omstandigheden (op de proefvelden) zijn gelijk. / worden (zoveel mogelijk) gelijk gehouden.\n• Het aantal ziekteverwekkende bodemorganismen wordt bepaald (na een aantal jaar).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er worden twee (groepen) proefvelden/akkers ingericht; op het ene deel wordt langdurig / een aantal jaar één gewas gekweekt; op het andere deel wordt vruchtwisseling toegepast."
+    },
+    {
+     "points": 1,
+     "description": "De overige omstandigheden (op de proefvelden) zijn gelijk. / worden (zoveel mogelijk) gelijk gehouden."
+    },
+    {
+     "points": 1,
+     "description": "Het aantal ziekteverwekkende bodemorganismen wordt bepaald (na een aantal jaar)."
+    }
+   ],
+   "grading_note": "Als de kandidaat ten minste twee relevante omstandigheden omschrijft die gelijk zijn of gelijk gehouden worden, het tweede scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2026-i-plantenveredeling-voor-biologische-landbouw-antw24.png"
+   ]
+  },
+  {
+   "title": "Plantenveredeling voor biologische landbouw",
+   "question_number": 25,
+   "answer_text": "Uit het antwoord moet blijken dat\n• door de knolletjesbacteriën stikstof(gas)/N₂ wordt vastgelegd/opgenomen,\n• (waardoor) stikstof(verbindingen)/N/ammonium/NH₄⁺/ammoniak/NH₃ beschikbaar komt voor planten (waardoor minder mest nodig is).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "door de knolletjesbacteriën stikstof(gas)/N₂ wordt vastgelegd/opgenomen,"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) stikstof(verbindingen)/N/ammonium/NH₄⁺/ammoniak/NH₃ beschikbaar komt voor planten (waardoor minder mest nodig is)."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-plantenveredeling-voor-biologische-landbouw-antw25.png"
+   ]
+  },
+  {
+   "title": "Plantenveredeling voor biologische landbouw",
+   "question_number": 26,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-plantenveredeling-voor-biologische-landbouw-antw26.png"
+   ]
+  },
+  {
+   "title": "Plantenveredeling voor biologische landbouw",
+   "question_number": 27,
+   "answer_text": "P: DNA\nQ: RNA\nR: receptor\nS: effector",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "P, Q, R en S juist"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-plantenveredeling-voor-biologische-landbouw-antw27.png"
+   ]
+  },
+  {
+   "title": "Plantenveredeling voor biologische landbouw",
+   "question_number": 28,
+   "answer_text": "Uit het antwoord moet blijken dat\n• (door mutatie de vorm van) de effector verandert, / de stof die de afweer onderdrukt verandert,\n• (waardoor) deze niet meer bindt met de receptor. / deze niet meer bindt met de stof die de afweeronderdrukkende stof onschadelijk maakt.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(door mutatie de vorm van) de effector verandert, / de stof die de afweer onderdrukt verandert,"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) deze niet meer bindt met de receptor. / deze niet meer bindt met de stof die de afweeronderdrukkende stof onschadelijk maakt."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-plantenveredeling-voor-biologische-landbouw-antw28.png"
+   ]
+  },
+  {
+   "title": "Gastric bypass",
+   "question_number": 29,
+   "answer_text": "plaats | koolhydraatvertering | eiwitvertering\nin de pouch | wel | geen\nop plaats R | wel | wel\n\n• koolhydraat- en eiwitvertering bij pouch correct\n• koolhydraat- en eiwitvertering bij plaats R correct",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "koolhydraat- en eiwitvertering bij pouch correct"
+    },
+    {
+     "points": 1,
+     "description": "koolhydraat- en eiwitvertering bij plaats R correct"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-gastric-bypass-antw29.png"
+   ]
+  },
+  {
+   "title": "Gastric bypass",
+   "question_number": 30,
+   "answer_text": "juiste oorzaken:\n− Er is minder tijd voor de inwerking van gal. / voor het emulgeren.\n− Alvleessap/lipase/enzymen kan/kunnen kortere tijd inwerken.\n− De oppervlakte van de dunne darm is kleiner. / De resorptieoppervlakte is kleiner.\n\nper juiste oorzaak: 1 scorepunt",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "per juiste oorzaak (eerste juiste oorzaak)"
+    },
+    {
+     "points": 1,
+     "description": "per juiste oorzaak (tweede juiste oorzaak)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-gastric-bypass-antw30.png"
+   ]
+  },
+  {
+   "title": "Gastric bypass",
+   "question_number": 31,
+   "answer_text": "Uit het antwoord moet blijken dat\n• (na de operatie) geen voedsel/eiwitten in (het onderste deel van) de maag komt/komen,\n• (waardoor) de maag geen gastrine afgeeft (waardoor de productie van maagzuur afneemt).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(na de operatie) geen voedsel/eiwitten in (het onderste deel van) de maag komt/komen,"
+    },
+    {
+     "points": 1,
+     "description": "(waardoor) de maag geen gastrine afgeeft (waardoor de productie van maagzuur afneemt)."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-gastric-bypass-antw31.png"
+   ]
+  },
+  {
+   "title": "Gastric bypass",
+   "question_number": 32,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-gastric-bypass-antw32.png"
+   ]
+  },
+  {
+   "title": "Giraffen: aparte soorten",
+   "question_number": 33,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-giraffen-aparte-soorten-antw33.png"
+   ]
+  },
+  {
+   "title": "Giraffen: aparte soorten",
+   "question_number": 34,
+   "answer_text": "voorbeelden van een juist antwoord:\n− Individuen uit verschillende populaties met elkaar kruisen is niet mogelijk.\n− Ze krijgen geen vruchtbare nakomelingen als je ze laat paren.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": "Aan een antwoord als “Ze kunnen samen geen nakomelingen krijgen”, het scorepunt toekennen.",
+   "answer_image_urls": [
+    "biologie-havo-2026-i-giraffen-aparte-soorten-antw34.png"
+   ]
+  },
+  {
+   "title": "Giraffen: aparte soorten",
+   "question_number": 35,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-giraffen-aparte-soorten-antw35.png"
+   ]
+  },
+  {
+   "title": "Mastitis bestrijden zonder antibiotica",
+   "question_number": 36,
+   "answer_text": "1 juist\n2 onjuist\n3 juist\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien drie nummers correct: 2 scorepunten; indien twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-mastitis-bestrijden-zonder-antibiotica-antw36.png"
+   ]
+  },
+  {
+   "title": "Mastitis bestrijden zonder antibiotica",
+   "question_number": 37,
+   "answer_text": "1 mechanische\n2 chemische\n3 chemische\n4 mechanische\nindien vier nummers correct: 2 scorepunten\nindien drie nummers correct: 1 scorepunt\nindien minder dan drie nummers correct: 0 scorepunten",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "indien vier nummers correct: 2 scorepunten; indien drie nummers correct: 1 scorepunt; indien minder dan drie nummers correct: 0 scorepunten"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-mastitis-bestrijden-zonder-antibiotica-antw37.png"
+   ]
+  },
+  {
+   "title": "Mastitis bestrijden zonder antibiotica",
+   "question_number": 38,
+   "answer_text": "Uit het antwoord moet blijken dat\n• (het rood kleuren komt doordat) bloedvaten verwijden / de doorbloeding toeneemt.\n• (de vochtophoping ontstaat doordat) bloedvaten meer doorlaatbaar/lek worden. / meer vocht de bloedvaten uitgaat.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(het rood kleuren komt doordat) bloedvaten verwijden / de doorbloeding toeneemt."
+    },
+    {
+     "points": 1,
+     "description": "(de vochtophoping ontstaat doordat) bloedvaten meer doorlaatbaar/lek worden. / meer vocht de bloedvaten uitgaat."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-mastitis-bestrijden-zonder-antibiotica-antw38.png"
+   ]
+  },
+  {
+   "title": "Mastitis bestrijden zonder antibiotica",
+   "question_number": 39,
+   "answer_text": "plasmacellen/B-cellen/B-lymfocyten",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "een juist antwoord"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-mastitis-bestrijden-zonder-antibiotica-antw39.png"
+   ]
+  },
+  {
+   "title": "Mastitis bestrijden zonder antibiotica",
+   "question_number": 40,
+   "answer_text": "D",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord D gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-mastitis-bestrijden-zonder-antibiotica-antw40.png"
+   ]
+  },
+  {
+   "title": "Mastitis bestrijden zonder antibiotica",
+   "question_number": 41,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-mastitis-bestrijden-zonder-antibiotica-antw41.png"
+   ]
+  },
+  {
+   "title": "Mastitis bestrijden zonder antibiotica",
+   "question_number": 42,
+   "answer_text": "B",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord B gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-mastitis-bestrijden-zonder-antibiotica-antw42.png"
+   ]
+  },
+  {
+   "title": "Mastitis bestrijden zonder antibiotica",
+   "question_number": 43,
+   "answer_text": "C",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "antwoord C gekozen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "biologie-havo-2026-i-mastitis-bestrijden-zonder-antibiotica-antw43.png"
+   ]
+  }
+ ]
+}
