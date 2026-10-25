@@ -17,7 +17,10 @@ Annotation file (Python, loaded with runpy) defines:
       },
     }
 Subdomain names are validated against SUBDOMAINS below (HAVO Biologie
-list); the domain is derived from it.
+list) or, with SUBJECT = "Wiskunde B" in the annotation file, against
+WISKUNDE_B_SUBDOMAINS (VWO Wiskunde B list); the domain is derived from it.
+For Wiskunde B every text also goes through unicode_math.clean_math
+(Cambria Math italic letters -> plain letters, invisible operators out).
 
 Usage: python3 tools/emit_sql.py output/<slug> annotations.py
 """
@@ -28,6 +31,9 @@ import re
 import runpy
 import sys
 import uuid
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from unicode_math import clean_math  # noqa: E402
 
 SUBDOMAINS = {
     "Stofwisseling van de cel": "Zelfregulatie",
@@ -40,6 +46,19 @@ SUBDOMAINS = {
     "Erfelijke eigenschap": "Reproductie",
     "Selectie": "Evolutie",
     "Soortvorming": "Evolutie",
+}
+
+_F = "Functies, grafieken en vergelijkingen"
+_D = "Differentiaal- en integraalrekening"
+_M = "Meetkunde met coördinaten"
+WISKUNDE_B_SUBDOMAINS = {
+    "Formules en functies": _F, "Standaardfuncties": _F, "Functies en grafieken": _F,
+    "Inverse functies": _F, "Vergelijkingen en ongelijkheden": _F,
+    "Asymptoten en limietgedrag van functies": _F,
+    "Afgeleide functies": _D, "Technieken voor differentiëren": _D, "Integraalrekening": _D,
+    "Goniometrische functies": "Goniometrische functies",
+    "Meetkundige vaardigheden": _M, "Algebraïsche methoden in de vlakke meetkunde": _M,
+    "Vectoren en inproduct": _M,
 }
 
 # Plain-ASCII chemical notation that shows up in ExamenCentraal text
@@ -56,14 +75,17 @@ FORMULAS = {
 }
 
 
-def clean(text):
+def clean(text, math=False):
+    if math:
+        text = clean_math(text)
     lines = [l.strip() for l in text.split("\n")]
     while lines and lines[-1] in ("−", "-", ""):
         lines.pop()
     text = "\n".join(lines)
     text = re.sub(r"[ \t]{2,}", " ", text)
-    for pat, rep in FORMULAS.items():
-        text = re.sub(pat, rep, text)
+    if not math:
+        for pat, rep in FORMULAS.items():
+            text = re.sub(pat, rep, text)
     return text.replace("''", "'").replace("'", "''").replace("$$", "$ $")
 
 
@@ -76,13 +98,16 @@ def main():
     draft = json.load(open(os.path.join(outdir, "draft.json"), encoding="utf-8"))
     ann = runpy.run_path(annpath)
     source, level = ann["SOURCE"], ann.get("LEVEL", "HAVO")
+    subject = ann.get("SUBJECT", "Biologie")
+    math = subject.startswith("Wiskunde")
+    subdomains = WISKUNDE_B_SUBDOMAINS if subject == "Wiskunde B" else SUBDOMAINS
     exs, ctxs, qs, manifest = [], [], [], []
     problems = []
     for ex in draft["exercises"]:
         a = ann["EX"][ex["title"]]
         overrides = a.get("text", {})
         ex_id = str(uuid.uuid4())
-        exs.append({"id": ex_id, "subject_name": "Biologie", "level": level,
+        exs.append({"id": ex_id, "subject_name": subject, "level": level,
                     "title": ex["title"], "source": source})
         cid = {}
         for c in ex["context_blocks"]:
@@ -93,7 +118,7 @@ def main():
             ctxs.append({"id": cid[n], "exercise_id": ex_id,
                          "label": a["labels"].get(n, f"context {n}"),
                          "image_url": c["image"],
-                         "text_content": clean(overrides.get(f"c{n}", c["text"])),
+                         "text_content": clean(overrides.get(f"c{n}", c["text"]), math),
                          "block_type": a.get("block_types", {}).get(n, "inline")})
         nums = []
         for qq in ex["questions"]:
@@ -101,7 +126,7 @@ def main():
             nums.append(n)
             links, subs, kws, summ = a["q"][n]
             for s in subs:
-                if s not in SUBDOMAINS:
+                if s not in subdomains:
                     problems.append(f"vraag {n}: unknown subdomain {s!r}")
             for l in links:
                 if l not in cid:
@@ -109,10 +134,10 @@ def main():
             if not (4 <= len(kws) <= 8):
                 problems.append(f"vraag {n}: {len(kws)} keywords")
             qs.append({"id": str(uuid.uuid4()), "exercise_id": ex_id, "question_number": n,
-                       "topics": [{"domain": SUBDOMAINS.get(s, "?"), "subdomain": s} for s in subs],
+                       "topics": [{"domain": subdomains.get(s, "?"), "subdomain": s} for s in subs],
                        "keywords": kws, "question_summary": summ,
                        "question_image_url": qq["image"],
-                       "question_text": clean(overrides.get(f"q{n}", qq["text"])),
+                       "question_text": clean(overrides.get(f"q{n}", qq["text"]), math),
                        "context_block_ids": [cid[l] for l in links if l in cid]})
         manifest.append({"title": ex["title"], "question_numbers": nums})
     if problems:
@@ -121,7 +146,7 @@ def main():
 
     # SQL
     out = ["insert into practice_exercises (id, subject_name, level, title, source) values"]
-    out.append(",\n".join(f"  ('{e['id']}', $$Biologie$$, $${level}$$, {q(e['title'])}, {q(source)})" for e in exs) + ";\n")
+    out.append(",\n".join(f"  ('{e['id']}', $${subject}$$, $${level}$$, {q(e['title'])}, {q(source)})" for e in exs) + ";\n")
     out.append("insert into practice_context_blocks (id, exercise_id, label, image_url, text_content, block_type) values")
     out.append(",\n".join(
         f"  ('{c['id']}', '{c['exercise_id']}', {q(c['label'])},\n   {q(c['image_url'])},\n   {q(c['text_content'])}, '{c['block_type']}')"
@@ -141,7 +166,7 @@ def main():
         f.write("\n".join(out))
 
     with open(os.path.join(outdir, "manifest.json"), "w", encoding="utf-8") as f:
-        json.dump({"source": source, "subject_name": "Biologie", "level": level,
+        json.dump({"source": source, "subject_name": subject, "level": level,
                    "exercises": manifest}, f, ensure_ascii=False, indent=2)
 
     # payload: SQL-level '' escaping must not leak into JSON

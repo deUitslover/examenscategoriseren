@@ -1,0 +1,63 @@
+{
+  "source": "VWO Wiskunde B 2016-I",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Kettinglijn",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Automotor",
+      "question_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Een driehoek draaiend over een cirkel",
+      "question_numbers": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Snelheid op een baan",
+      "question_numbers": [
+        9
+      ]
+    },
+    {
+      "title": "Metselboog",
+      "question_numbers": [
+        10
+      ]
+    },
+    {
+      "title": "Vierkant bij een grafiek",
+      "question_numbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Limietpunt",
+      "question_numbers": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Vier vierkanten",
+      "question_numbers": [
+        16
+      ]
+    }
+  ]
+}
