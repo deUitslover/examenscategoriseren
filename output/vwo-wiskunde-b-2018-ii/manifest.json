@@ -1,0 +1,58 @@
+{
+  "source": "VWO Wiskunde B 2018-II",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Loodrecht in de perforatie",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "IJsbol",
+      "question_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Constante verhouding",
+      "question_numbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Gekanteld vierkant",
+      "question_numbers": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Anderhalf keer zo groot",
+      "question_numbers": [
+        11
+      ]
+    },
+    {
+      "title": "Een baan",
+      "question_numbers": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Buiten een vierkant",
+      "question_numbers": [
+        15,
+        16
+      ]
+    }
+  ]
+}

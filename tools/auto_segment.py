@@ -232,6 +232,9 @@ def render_item(page, it, windows, hashes, render_page=None, pad=4.0):
         for v in find_vraag_lines(page, y0, y1):
             wipe.append((v["x0"] - 2, v["y0"] - 2, v["x1"] + 2, v["y1"] + 2))
     wipe = [w for w in (_clip_against(w, it["members"]) for w in wipe) if w]
+    # build_exam.py --widen: the rest of a vraag line that plan_page put in
+    # this ctx block (no longer a member, so nothing to clip against)
+    wipe += it.get("extra_wipe", [])
     if it["kind"] == "vraag":
         # A context line ending flush on top of the vraag (bbox gap ~0pt)
         # leaves descender specks inside the vraag's own top strip, which

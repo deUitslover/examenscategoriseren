@@ -46,6 +46,14 @@ Usage:
                  HAVO-BIO-23-II-O.pdf p.11): trim the vraag and --extend the
                  ctx item above by the same amount (the extended ctx then
                  keeps those lines as members, so they are not wiped).
+--widen p:i=x1   vraag item i on page p also owns the text lines right of its
+                 keep box up to x1 that overlap its rows: a stacked fraction
+                 in the vraag line ("Bewijs dat voor t = 3/4 pi geldt: ...",
+                 VWO-WISB-18-II-O.pdf p.10 vraag 14) stands higher than the
+                 line, so find_vraag_lines stops before it and plan_page
+                 puts the rest of the line in the ctx block beside it. The
+                 keep box grows to cover those lines; the ctx items of the
+                 page drop them as members and wipe that box instead.
 
 Exam-specific quirks used so far (re-run these exactly):
     HAVO-BIO-19-I-O.pdf: see tools/annotations/havo-biologie-2019-i.py header
@@ -100,6 +108,7 @@ def main():
     ap.add_argument("--join", nargs="*", default=[])
     ap.add_argument("--trim", nargs="*", default=[])
     ap.add_argument("--absorb", nargs="*", default=[])
+    ap.add_argument("--widen", nargs="*", default=[])
     a = ap.parse_args()
 
     doc = fitz.open(a.pdf)
@@ -131,6 +140,10 @@ def main():
         k, j = spec.split("=")
         p, i = map(int, k.split(":"))
         absorb[(p, i)] = int(j)
+    widen = {}
+    for spec in a.widen:
+        k, x1 = spec.split("=")
+        widen[tuple(map(int, k.split(":")))] = float(x1)
     extend = {}
     for spec in a.extend:
         k, pt = spec.split("=")
@@ -172,6 +185,27 @@ def main():
             v["y0"] = min(v["y0"], o["y0"])
             v["y1"] = max(v["y1"], o["y1"])
             plan = [(k, it) for k, it in plan if k != j]
+        for (p, i), x1 in widen.items():
+            if p != page.number:
+                continue
+            v = dict(plan)[i]
+            assert v["kind"] == "vraag", f"widen {p}:{i} is not a vraag item"
+            m = v["members"][0]
+            grab = [l[:4] for l in text_lines(page)
+                    if l[0] >= m[2] - 1 and l[2] <= x1 and l[1] < m[3] and l[3] > m[1]]
+            bx = [m] + grab
+            box = (m[0], min(b[1] for b in bx), max(b[2] for b in bx), max(b[3] for b in bx))
+            v["members"] = [box]
+            v["y0"], v["y1"] = min(v["y0"], box[1]), max(v["y1"], box[3])
+            for _, o in plan:
+                if o["kind"] != "ctx":
+                    continue
+                inb = [b for b in o["members"] if b[0] >= box[0] - 1 and b[2] <= box[2] + 1
+                       and b[1] >= box[1] - 1 and b[3] <= box[3] + 1]
+                if inb:
+                    o["members"] = [b for b in o["members"] if b not in inb]
+                    o.setdefault("extra_wipe", []).append(
+                        (box[0] - 2, box[1] - 1, box[2] + 2, box[3] + 1))
         for i, it in plan:
             if (page.number, i) in drop:
                 continue
