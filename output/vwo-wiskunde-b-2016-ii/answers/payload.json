@@ -1,0 +1,487 @@
+{
+ "subject_name": "Wiskunde B",
+ "level": "VWO",
+ "source": "VWO Wiskunde B 2016-II",
+ "answers": [
+  {
+   "title": "De derde macht",
+   "question_number": 1,
+   "answer_text": "• Er moet dan gelden f(g(x)) = x (of g(f(x)) = x)\n• f(g(x)) = (∛(x + 1) − 1 + 1)³ − 1 = (∛(x + 1))³ − 1\n• f(g(x)) = x + 1 − 1 = x (dus g is de inverse functie van f)\nof\n• Spiegeling van het punt (x, y) op de grafiek van f geeft x = (y + 1)³ − 1\n• Dit geeft x + 1 = (y + 1)³, dus ∛(x + 1) = y + 1\n• Dus y = ∛(x + 1) − 1, dus (y, x) ligt op de grafiek van g (dus g is de inverse functie van f)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er moet dan gelden f(g(x)) = x (of g(f(x)) = x)"
+    },
+    {
+     "points": 1,
+     "description": "f(g(x)) = (∛(x + 1) − 1 + 1)³ − 1 = (∛(x + 1))³ − 1"
+    },
+    {
+     "points": 1,
+     "description": "f(g(x)) = x + 1 − 1 = x (dus g is de inverse functie van f)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2016-ii-de-derde-macht-antw1.png"
+   ]
+  },
+  {
+   "title": "De derde macht",
+   "question_number": 2,
+   "answer_text": "• Opgelost moet worden (x + 1)³ − 1 = ∛(x + 1) − 1, dus (x + 1)³ = ∛(x + 1)\n• Hieruit volgt (x + 1)⁹ = x + 1 (of x + 1 = ⁹√(x + 1))\n• Hieruit volgt (x + 1)((x + 1)⁸ − 1) = 0\n• Dus x + 1 = 0 of (x + 1)⁸ = 1\n• Dit geeft x = −2, x = −1 of x = 0\n• De gemeenschappelijke punten zijn (−2,−2), (−1,−1) en (0,0)\nof\n• De gemeenschappelijke punten liggen op de lijn y = x\n• Uit f(x) = x volgt x³ + 3x² + 2x = 0\n• Hieruit volgt x(x² + 3x + 2) = 0\n• Dus x(x + 1)(x + 2) = 0\n• Dit geeft x = −2, x = −1 of x = 0\n• De gemeenschappelijke punten zijn (−2,−2), (−1,−1) en (0,0)\nof\n• De gemeenschappelijke punten liggen op de lijn y = x\n• Uit f(x) = x volgt (x + 1)³ = x + 1\n• Hieruit volgt (x + 1)((x + 1)² − 1) = 0\n• Dus x + 1 = 0 of (x + 1)² = 1\n• Dit geeft x = −2, x = −1 of x = 0\n• De gemeenschappelijke punten zijn (−2,−2), (−1,−1) en (0,0)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Opgelost moet worden (x + 1)³ − 1 = ∛(x + 1) − 1, dus (x + 1)³ = ∛(x + 1)"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt (x + 1)⁹ = x + 1 (of x + 1 = ⁹√(x + 1))"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt (x + 1)((x + 1)⁸ − 1) = 0"
+    },
+    {
+     "points": 1,
+     "description": "Dus x + 1 = 0 of (x + 1)⁸ = 1"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft x = −2, x = −1 of x = 0"
+    },
+    {
+     "points": 1,
+     "description": "De gemeenschappelijke punten zijn (−2,−2), (−1,−1) en (0,0)"
+    }
+   ],
+   "grading_note": "Als één van de drie oplossingen van de op te lossen vergelijking ontbreekt, voor deze vraag maximaal 4 scorepunten toekennen. Als twee oplossingen ontbreken, voor deze vraag maximaal 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2016-ii-de-derde-macht-antw2.png"
+   ]
+  },
+  {
+   "title": "Spots",
+   "question_number": 3,
+   "answer_text": "• r² = x² + d² (en dus 1/r² = 1/(x² + d²))\n• cos α = x/r\n• x/r = x/√(x² + d²)\n• E = I_spot/(4π) · 1/(x² + d²) · x/√(x² + d²) = I_spot/(4π) · x/(x² + d²)^(3/2)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "r² = x² + d² (en dus 1/r² = 1/(x² + d²))"
+    },
+    {
+     "points": 1,
+     "description": "cos α = x/r"
+    },
+    {
+     "points": 1,
+     "description": "x/r = x/√(x² + d²)"
+    },
+    {
+     "points": 1,
+     "description": "E = I_spot/(4π) · 1/(x² + d²) · x/√(x² + d²) = I_spot/(4π) · x/(x² + d²)^(3/2)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2016-ii-spots-antw3.png"
+   ]
+  },
+  {
+   "title": "Spots",
+   "question_number": 4,
+   "answer_text": "• dE/dx = I_spot/(4π) · (1 · (x² + 100)^(3/2) − x · (3/2) · (x² + 100)^(½) · 2x)/((x² + 100)^(3/2))²\n• dE/dx = 0 geeft (x² + 100)^(3/2) − 3x²(x² + 100)^(½) = 0\n• (x² + 100)^(½)(x² + 100 − 3x²) = 0\n• x² + 100 − 3x² = 0 (omdat (x² + 100)^(½) ≠ 0)\n• x² = 50 dus (omdat x > 0) x = √50\n• Het antwoord: 7,1 (mm)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "dE/dx = I_spot/(4π) · (1 · (x² + 100)^(3/2) − x · (3/2) · (x² + 100)^(½) · 2x)/((x² + 100)^(3/2))²"
+    },
+    {
+     "points": 1,
+     "description": "dE/dx = 0 geeft (x² + 100)^(3/2) − 3x²(x² + 100)^(½) = 0"
+    },
+    {
+     "points": 1,
+     "description": "(x² + 100)^(½)(x² + 100 − 3x²) = 0"
+    },
+    {
+     "points": 1,
+     "description": "x² + 100 − 3x² = 0 (omdat (x² + 100)^(½) ≠ 0)"
+    },
+    {
+     "points": 1,
+     "description": "x² = 50 dus (omdat x > 0) x = √50"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 7,1 (mm)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2016-ii-spots-antw4.png"
+   ]
+  },
+  {
+   "title": "Spots",
+   "question_number": 5,
+   "answer_text": "• De horizontale afstand (in mm) van de rechterspot tot P is 40 − d\n• De totale verlichtingssterkte in P is 500/(4π) · 25/(25² + d²)^(3/2) + 500/(4π) · 25/(25² + (40 − d)²)^(3/2)\n• Beschrijven hoe het maximum 0,074 (of nauwkeuriger) gevonden kan worden\n• Beschrijven hoe het minimum 0,061 (of nauwkeuriger) gevonden kan worden\n• Het minimum is 82% (of nauwkeuriger) (of: 80% van het maximum is 0,059), dus het deel van het werkoppervlak tussen de spots wordt voldoende gelijkmatig belicht",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De horizontale afstand (in mm) van de rechterspot tot P is 40 − d"
+    },
+    {
+     "points": 2,
+     "description": "De totale verlichtingssterkte in P is 500/(4π) · 25/(25² + d²)^(3/2) + 500/(4π) · 25/(25² + (40 − d)²)^(3/2)"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe het maximum 0,074 (of nauwkeuriger) gevonden kan worden"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe het minimum 0,061 (of nauwkeuriger) gevonden kan worden"
+    },
+    {
+     "points": 1,
+     "description": "Het minimum is 82% (of nauwkeuriger) (of: 80% van het maximum is 0,059), dus het deel van het werkoppervlak tussen de spots wordt voldoende gelijkmatig belicht"
+    }
+   ],
+   "grading_note": "– De factor 500/(4π) mag, mits toegelicht, in de berekening buiten beschouwing worden gelaten.\n– Als wordt aangenomen dat E_totaal = 2E, voor deze vraag geen scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2016-ii-spots-antw5.png"
+   ]
+  },
+  {
+   "title": "Twee snijdende cirkels",
+   "question_number": 6,
+   "answer_text": "• (Pythagoras in driehoek NDA geeft) AD² + DN² = r²\n• (Pythagoras in driehoek MDA geeft) AD² + (DN − 1)² = 1²\n• Samen geeft dit 1 − (DN − 1)² = r² − DN²\n• Herleiden tot DN = ½r²",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(Pythagoras in driehoek NDA geeft) AD² + DN² = r²"
+    },
+    {
+     "points": 1,
+     "description": "(Pythagoras in driehoek MDA geeft) AD² + (DN − 1)² = 1²"
+    },
+    {
+     "points": 1,
+     "description": "Samen geeft dit 1 − (DN − 1)² = r² − DN²"
+    },
+    {
+     "points": 1,
+     "description": "Herleiden tot DN = ½r²"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2016-ii-twee-snijdende-cirkels-antw6.png"
+   ]
+  },
+  {
+   "title": "Twee snijdende cirkels",
+   "question_number": 7,
+   "answer_text": "• DM = DN − 1 = ½r² − 1\n• CD = ½CM = ½(r − 1)\n• CD = DM geeft r² − r − 1 = 0\n• Exact oplossen geeft r = ½ + ½√5 (of een gelijkwaardige uitdrukking) (r = ½ − ½√5 voldoet niet)\nof\n• DM = DN − 1 = ½r² − 1\n• CD = CN − DM − MN = r − (½r² − 1) − 1 = r − ½r²\n• CD = DM geeft r² − r − 1 = 0\n• Exact oplossen geeft r = ½ + ½√5 (of een gelijkwaardige uitdrukking) (r = ½ − ½√5 voldoet niet)\nof\n• DM + 1 = DN, dus DM = ½r² − 1\n• CD + DM + 1 = CN, dus 2DM + 1 = r\n• Samen geeft dit r² − r − 1 = 0\n• Exact oplossen geeft r = ½ + ½√5 (of een gelijkwaardige uitdrukking) (r = ½ − ½√5 voldoet niet)\nof\n• Een redenering waaruit volgt △NCA ∼ △AMC\n• Hieruit volgt AC/CM = AN/AC dus 1/(r − 1) = r/1\n• Dit geeft r² − r − 1 = 0\n• Exact oplossen geeft r = ½ + ½√5 (of een gelijkwaardige uitdrukking) (r = ½ − ½√5 voldoet niet)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "DM = DN − 1 = ½r² − 1"
+    },
+    {
+     "points": 1,
+     "description": "CD = ½CM = ½(r − 1)"
+    },
+    {
+     "points": 1,
+     "description": "CD = DM geeft r² − r − 1 = 0"
+    },
+    {
+     "points": 1,
+     "description": "Exact oplossen geeft r = ½ + ½√5 (of een gelijkwaardige uitdrukking) (r = ½ − ½√5 voldoet niet)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2016-ii-twee-snijdende-cirkels-antw7.png"
+   ]
+  },
+  {
+   "title": "Sinusoïde met perforaties",
+   "question_number": 8,
+   "answer_text": "• De noemer is nul als cos(x) = 0, dus als x = ½π of x = 1½π\n• f(x) = (1 + 2cos²(x) − 1)/cos(x) + 1\n• Dit is gelijk aan 2cos(x) + 1 (voor x ≠ ½π, x ≠ 1½π)\n• lim_(x→½π) 2cos(x) + 1 = 1 en lim_(x→1½π) 2cos(x) + 1 = 1 (of: als x nadert tot ½π of tot 1½π, dan nadert f(x) tot 1)\n• Dus de coördinaten van de perforaties zijn (½π, 1) en (1½π, 1)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De noemer is nul als cos(x) = 0, dus als x = ½π of x = 1½π"
+    },
+    {
+     "points": 1,
+     "description": "f(x) = (1 + 2cos²(x) − 1)/cos(x) + 1"
+    },
+    {
+     "points": 1,
+     "description": "Dit is gelijk aan 2cos(x) + 1 (voor x ≠ ½π, x ≠ 1½π)"
+    },
+    {
+     "points": 1,
+     "description": "lim_(x→½π) 2cos(x) + 1 = 1 en lim_(x→1½π) 2cos(x) + 1 = 1 (of: als x nadert tot ½π of tot 1½π, dan nadert f(x) tot 1)"
+    },
+    {
+     "points": 1,
+     "description": "Dus de coördinaten van de perforaties zijn (½π, 1) en (1½π, 1)"
+    }
+   ],
+   "grading_note": "Als het stelsel {1 + cos(2x) = 0, cos(x) = 0} opgelost wordt, resulterend in x = ½π, x = 1½π, zonder daarna op exacte wijze tot y = 1 te komen, hiervoor hoogstens 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2016-ii-sinusoide-met-perforaties-antw8.png"
+   ]
+  },
+  {
+   "title": "Getransformeerde grafiek",
+   "question_number": 9,
+   "answer_text": "• AP = ln(p² + 1) − 1 en BP = 1 − ln(e²/(p² + 1))\n• BP = 1 − (ln(e²) − ln(p² + 1))\n• BP = 1 − 2 + ln(p² + 1) = ln(p² + 1) − 1 (= AP)\nof\n• De y-coördinaat van het midden van lijnstuk AB is (f(p) + g(p))/2\n• (f(p) + g(p))/2 = (ln(p² + 1) + ln(e²/(p² + 1)))/2 = (ln(p² + 1) + 2 − ln(p² + 1))/2 (of ln(e²)/2)\n• (f(p) + g(p))/2 = 2/2 = 1, dus het midden van lijnstuk AB is P, dus AP = BP",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "AP = ln(p² + 1) − 1 en BP = 1 − ln(e²/(p² + 1))"
+    },
+    {
+     "points": 1,
+     "description": "BP = 1 − (ln(e²) − ln(p² + 1))"
+    },
+    {
+     "points": 1,
+     "description": "BP = 1 − 2 + ln(p² + 1) = ln(p² + 1) − 1 (= AP)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2016-ii-getransformeerde-grafiek-antw9.png"
+   ]
+  },
+  {
+   "title": "Getransformeerde grafiek",
+   "question_number": 10,
+   "answer_text": "• (Vanwege de symmetrie in de lijn met vergelijking y = 1 geldt) de inhoud is gelijk aan 2 · π∫₀¹ x² dy, met y = ln(x² + 1)\n• y = ln(x² + 1) herleiden tot x² = eʸ − 1\n• Een primitieve van eʸ − 1 is eʸ − y\n• De inhoud is 2π(e − 2)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "(Vanwege de symmetrie in de lijn met vergelijking y = 1 geldt) de inhoud is gelijk aan 2 · π∫₀¹ x² dy, met y = ln(x² + 1)"
+    },
+    {
+     "points": 1,
+     "description": "y = ln(x² + 1) herleiden tot x² = eʸ − 1"
+    },
+    {
+     "points": 1,
+     "description": "Een primitieve van eʸ − 1 is eʸ − y"
+    },
+    {
+     "points": 1,
+     "description": "De inhoud is 2π(e − 2)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2016-ii-getransformeerde-grafiek-antw10.png"
+   ]
+  },
+  {
+   "title": "Getransformeerde grafiek",
+   "question_number": 11,
+   "answer_text": "• Een vergelijking van de verschoven grafiek is y = ln((x − 2)² + 1)\n• Voor de x-coördinaat van het snijpunt geldt x² + 1 = (x − 2)² + 1\n• Hieruit volgt x = 1\n• f′(x) = 2x/(x² + 1)\n• De richtingscoëfficiënt van de raaklijn aan de grafiek van f in het snijpunt is f′(1) = 1\n• De richtingscoëfficiënt van de raaklijn aan de verschoven grafiek is f′(−1) = −1 (of 2(1 − 2)/((1 − 2)² + 1) = −1)\n• Het product van de richtingscoëfficiënten is −1, dus de grafieken snijden elkaar loodrecht\nof\n• Een vergelijking van de verschoven grafiek is y = ln((x − 2)² + 1)\n• Voor de x-coördinaat van het snijpunt geldt x² + 1 = (x − 2)² + 1\n• Hieruit volgt x = 1\n• f′(x) = 2x/(x² + 1)\n• De richtingscoëfficiënt van de raaklijn aan de grafiek van f in het snijpunt is f′(1) = 1\n• De afgeleide die hoort bij de verschoven grafiek is dy/dx = 2(x − 2)/((x − 2)² + 1) (of een gelijkwaardige uitdrukking)\n• De richtingscoëfficiënt van de raaklijn aan de verschoven grafiek is (2(1 − 2)/((1 − 2)² + 1) =) −1\n• Het product van de richtingscoëfficiënten is −1, dus de grafieken snijden elkaar loodrecht\nof\n• f(−x) = ln((−x)² + 1) = f(x) (voor elke waarde van x)\n• Uit de verschuiving (en de symmetrie) volgt x = 1\n• f′(x) = 2x/(x² + 1)\n• De richtingscoëfficiënt van de raaklijn aan de grafiek van f in het snijpunt is f′(1) = 1\n• De richtingscoëfficiënt van de raaklijn aan de verschoven grafiek is f′(−1) = −1 (of 2(1 − 2)/((1 − 2)² + 1) = −1)\n• Het product van de richtingscoëfficiënten is −1, dus de grafieken snijden elkaar loodrecht",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Een vergelijking van de verschoven grafiek is y = ln((x − 2)² + 1)"
+    },
+    {
+     "points": 1,
+     "description": "Voor de x-coördinaat van het snijpunt geldt x² + 1 = (x − 2)² + 1"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt x = 1"
+    },
+    {
+     "points": 1,
+     "description": "f′(x) = 2x/(x² + 1)"
+    },
+    {
+     "points": 1,
+     "description": "De richtingscoëfficiënt van de raaklijn aan de grafiek van f in het snijpunt is f′(1) = 1"
+    },
+    {
+     "points": 2,
+     "description": "De richtingscoëfficiënt van de raaklijn aan de verschoven grafiek is f′(−1) = −1 (of 2(1 − 2)/((1 − 2)² + 1) = −1)"
+    },
+    {
+     "points": 1,
+     "description": "Het product van de richtingscoëfficiënten is −1, dus de grafieken snijden elkaar loodrecht"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2016-ii-getransformeerde-grafiek-antw11.png"
+   ]
+  },
+  {
+   "title": "Droogligtijd",
+   "question_number": 12,
+   "answer_text": "• De vergelijking 125cos((2π/745)t) = 40 moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• t₁ ≈ 147,6 en t₂ ≈ 597,4\n• Het antwoord: 450 (minuten)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 125cos((2π/745)t) = 40 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "t₁ ≈ 147,6 en t₂ ≈ 597,4"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 450 (minuten)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2016-ii-droogligtijd-antw12.png"
+   ]
+  },
+  {
+   "title": "Droogligtijd",
+   "question_number": 13,
+   "answer_text": "• Op t = t₁ is h = z, dus z = 125cos((2π/745)t₁)\n• Een redenering waaruit volgt dat t₁ = 745/2 − ½D\n• Substitutie van t₁ = 745/2 − ½D in z = 125cos((2π/745)t₁) geeft z = 125cos((2π/745)(745/2 − ½D))\n• Hieruit volgt z = 125cos(π − (π/745)D)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Op t = t₁ is h = z, dus z = 125cos((2π/745)t₁)"
+    },
+    {
+     "points": 2,
+     "description": "Een redenering waaruit volgt dat t₁ = 745/2 − ½D"
+    },
+    {
+     "points": 1,
+     "description": "Substitutie van t₁ = 745/2 − ½D in z = 125cos((2π/745)t₁) geeft z = 125cos((2π/745)(745/2 − ½D))"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt z = 125cos(π − (π/745)D)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2016-ii-droogligtijd-antw13.png"
+   ]
+  },
+  {
+   "title": "Droogligtijd",
+   "question_number": 14,
+   "answer_text": "• Voor de formule van de grafiek van figuur 2 geldt dz/dD = −125sin(π − (π/745)D) · −π/745\n• D = 372,5 geeft dz/dD = 125π/745 (of (ongeveer) 0,53)\n• Dus de helling bij de grafiek van figuur 3 is 745/(125π) ≈ 1,9\n• Voor de formule van de grafiek van figuur 4 geldt dD/dz = 2,4 · 10⁻⁴z² + 1,7 (of een gelijkwaardige uitdrukking)\n• De helling bij de grafiek van figuur 4 voor z = 0 is 1,7",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor de formule van de grafiek van figuur 2 geldt dz/dD = −125sin(π − (π/745)D) · −π/745"
+    },
+    {
+     "points": 1,
+     "description": "D = 372,5 geeft dz/dD = 125π/745 (of (ongeveer) 0,53)"
+    },
+    {
+     "points": 1,
+     "description": "Dus de helling bij de grafiek van figuur 3 is 745/(125π) ≈ 1,9"
+    },
+    {
+     "points": 1,
+     "description": "Voor de formule van de grafiek van figuur 4 geldt dD/dz = 2,4 · 10⁻⁴z² + 1,7 (of een gelijkwaardige uitdrukking)"
+    },
+    {
+     "points": 1,
+     "description": "De helling bij de grafiek van figuur 4 voor z = 0 is 1,7"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2016-ii-droogligtijd-antw14.png"
+   ]
+  },
+  {
+   "title": "Punt bewegend over een lijn",
+   "question_number": 15,
+   "answer_text": "• AP² = (2 + 4t)² + (5t − 1)²\n• BP² = (4t − 4)² + (5t + 1)²\n• AP² = BP² herleiden tot een lineaire vergelijking\n• Dit geeft t = 3/7\n• Invullen in de vectorvoorstelling van k geeft P(3⁵⁄₇, 3¹⁄₇)\nof\n• Een vergelijking van lijn k is y = 1¼x − 1½\n• AP² = x² + (1¼x − 3½)² en BP² = (x − 6)² + (1¼x − 1½)²\n• AP² = BP² herleiden tot een lineaire vergelijking\n• Dit geeft x = 3⁵⁄₇\n• Invullen in de vergelijking van k geeft y = 3¹⁄₇ (dus P(3⁵⁄₇, 3¹⁄₇))\nof\n• Een vergelijking van lijn k is y = 1¼x − 1½\n• Een vergelijking van de middelloodlijn n van lijnstuk AB is van de vorm 6x − 2y + c = 0\n• Het punt (3,1) ligt op n; hieruit volgt voor n de vergelijking y = 3x − 8\n• 3x − 8 = 1¼x − 1½ exact oplossen geeft x = 3⁵⁄₇\n• Invullen in de vergelijking van k geeft y = 3¹⁄₇ (dus P(3⁵⁄₇, 3¹⁄₇))\nof\n• Een vergelijking van lijn k is y = 1¼x − 1½\n• Een richtingsvector van de middelloodlijn n van lijnstuk AB is (2 ; 6)\n• Een vectorvoorstelling van de middelloodlijn is (x ; y) = (3 ; 1) + t · (2 ; 6)\n• 1 + 6t = 1¼(3 + 2t) − 1½ exact oplossen geeft t = 5/14; dit geeft x = 3⁵⁄₇\n• y = 3¹⁄₇ (dus P(3⁵⁄₇, 3¹⁄₇))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "AP² = (2 + 4t)² + (5t − 1)²"
+    },
+    {
+     "points": 1,
+     "description": "BP² = (4t − 4)² + (5t + 1)²"
+    },
+    {
+     "points": 1,
+     "description": "AP² = BP² herleiden tot een lineaire vergelijking"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft t = 3/7"
+    },
+    {
+     "points": 1,
+     "description": "Invullen in de vectorvoorstelling van k geeft P(3⁵⁄₇, 3¹⁄₇)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2016-ii-punt-bewegend-over-een-lijn-antw15.png"
+   ]
+  },
+  {
+   "title": "Punt bewegend over een lijn",
+   "question_number": 16,
+   "answer_text": "• Er moet gelden d(P, m) = d(P, y-as)\n• d(P, y-as) (of de straal) is gelijk aan 2 + 4t (of |2 + 4t|)\n• Lijn m heeft vergelijking x + 3y = 6\n• d(P, m) = |2 + 4t + 3(1 + 5t) − 6|/√(1² + 3²) (= |19t − 1|/√10)\n• Beschrijven hoe de vergelijking d(P, m) = d(P, y-as) kan worden opgelost\n• Dit geeft t ≈ −0,17 of t ≈ 1,15\n• Invullen in 2 + 4t geeft stralen 1,33 en 6,61",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er moet gelden d(P, m) = d(P, y-as)"
+    },
+    {
+     "points": 1,
+     "description": "d(P, y-as) (of de straal) is gelijk aan 2 + 4t (of |2 + 4t|)"
+    },
+    {
+     "points": 1,
+     "description": "Lijn m heeft vergelijking x + 3y = 6"
+    },
+    {
+     "points": 1,
+     "description": "d(P, m) = |2 + 4t + 3(1 + 5t) − 6|/√(1² + 3²) (= |19t − 1|/√10)"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe de vergelijking d(P, m) = d(P, y-as) kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft t ≈ −0,17 of t ≈ 1,15"
+    },
+    {
+     "points": 1,
+     "description": "⚠️ CONTROLEREN: bij dit deelpunt staat in het correctievoorschrift geen scorepunt vermeld (afgeleid uit maximumscore 7). Invullen in 2 + 4t geeft stralen 1,33 en 6,61"
+    }
+   ],
+   "grading_note": "Als door tussentijds afronden een afwijkend antwoord wordt gevonden, hiervoor 1 scorepunt in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2016-ii-punt-bewegend-over-een-lijn-antw16.png"
+   ]
+  }
+ ]
+}
