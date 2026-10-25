@@ -382,6 +382,21 @@
     },
     {
       "title": "Het syndroom van Swyer",
+      "question_number": 24,
+      "answer_text": "1 S\n2 R\n3 P\n4 Q\nindien vier nummers correct: 2 scorepunten\nindien drie of twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "indien vier nummers correct: 2 scorepunten; indien drie of twee nummers correct: 1 scorepunt; indien minder dan twee nummers correct: 0 scorepunten"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "biologie-havo-2024-i-het-syndroom-van-swyer-antw24.png"
+      ]
+    },
+    {
+      "title": "Het syndroom van Swyer",
       "question_number": 25,
       "answer_text": "1 juist\n2 onjuist\n3 onjuist\nindien drie nummers correct: 2 scorepunten\nindien twee nummers correct: 1 scorepunt\nindien minder dan twee nummers correct: 0 scorepunten",
       "scoring_steps": [
