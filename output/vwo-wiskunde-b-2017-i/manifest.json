@@ -1,0 +1,57 @@
+{
+  "source": "VWO Wiskunde B 2017-I",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Rakende grafieken?",
+      "question_numbers": [
+        1
+      ]
+    },
+    {
+      "title": "Bewegen over een lijn",
+      "question_numbers": [
+        2
+      ]
+    },
+    {
+      "title": "Een derde cirkel",
+      "question_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Een achtbaan",
+      "question_numbers": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Een gebroken functie",
+      "question_numbers": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Brandwerendheid van een deur",
+      "question_numbers": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Perforatie",
+      "question_numbers": [
+        15
+      ]
+    }
+  ]
+}
