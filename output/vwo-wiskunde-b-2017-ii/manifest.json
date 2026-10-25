@@ -1,0 +1,64 @@
+{
+  "source": "VWO Wiskunde B 2017-II",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Twee machten van 2",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Een grafiek met een knik",
+      "question_numbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Driehoek in cirkel",
+      "question_numbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Straal van een waterstraal",
+      "question_numbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Cirkels",
+      "question_numbers": [
+        10
+      ]
+    },
+    {
+      "title": "De vergelijking van Arrhenius",
+      "question_numbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Een foto van de Eusebiuskerk",
+      "question_numbers": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Scheve parabolen",
+      "question_numbers": [
+        16,
+        17
+      ]
+    }
+  ]
+}
