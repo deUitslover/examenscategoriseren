@@ -1,0 +1,64 @@
+{
+  "source": "VWO Wiskunde B 2018-I",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Bewegend punt",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Lijn door de toppen",
+      "question_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Zwaartepunt en rakende cirkels",
+      "question_numbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Maxima en minima",
+      "question_numbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Sheffield Winter Garden",
+      "question_numbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Natuurlijke logaritme van de wortel",
+      "question_numbers": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Vierkant onder grafiek",
+      "question_numbers": [
+        15
+      ]
+    },
+    {
+      "title": "Twee vierkanten op een kwartcirkel",
+      "question_numbers": [
+        16,
+        17
+      ]
+    }
+  ]
+}
