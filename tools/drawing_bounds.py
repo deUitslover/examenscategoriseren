@@ -32,6 +32,11 @@ def get_drawing_boxes(page, min_height=6.0, min_width=6.0):
             continue  # full-width hairline rule, not real content
         if r.width < min_width and r.height < min_height:
             continue  # degenerate sliver
+        fill = d.get("fill")
+        if d.get("color") is None and fill is not None and min(fill) > 0.98:
+            continue  # white fill, no stroke: invisible (VWO-WISB-16-I-O.pdf
+            # paints a full-page white rect on every page, which stretched
+            # the exam window to the whole page width)
         boxes.append((r.x0, r.y0, r.x1, r.y1))
     return boxes
 

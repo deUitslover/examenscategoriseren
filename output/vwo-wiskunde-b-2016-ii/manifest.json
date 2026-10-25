@@ -1,0 +1,58 @@
+{
+  "source": "VWO Wiskunde B 2016-II",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "De derde macht",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Spots",
+      "question_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Twee snijdende cirkels",
+      "question_numbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Sinusoïde met perforaties",
+      "question_numbers": [
+        8
+      ]
+    },
+    {
+      "title": "Getransformeerde grafiek",
+      "question_numbers": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Droogligtijd",
+      "question_numbers": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Punt bewegend over een lijn",
+      "question_numbers": [
+        15,
+        16
+      ]
+    }
+  ]
+}

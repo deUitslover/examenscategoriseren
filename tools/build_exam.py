@@ -30,7 +30,17 @@ Usage:
                  via "block_types" in the annotation file). On a vraag item
                  the keep box grows too: use it (with --drop of the stray
                  ctx item) for a vraag's last line that plan_page split off.
---trim p:i=pt    move the top of vraag item i on page p down by pt points.
+--absorb p:i=j   vraag item i on page p absorbs plan item j of the same
+                 page: the keep box becomes the union of both, item j is
+                 dropped. For a vraag line that find_vraag_lines cuts short
+                 because a stacked fraction sits higher than the line
+                 (VWO-WISB-16-II-O.pdf vraag 6 "DN = ½r². Je kunt ..."
+                 became a separate ctx item 6:2).
+--trim p:i=pt    on a ctx item: move its top down by pt points and drop the
+                 members above (they are wiped), e.g. the "Naam: ......"
+                 line above an uitwerkbijlage figure (VWO-WISB-16-II-O.pdf
+                 p.8: --drop 7:0 --trim 7:1=14).
+                 On a vraag item: move the top of vraag item i on page p down by pt points.
                  find_vraag_lines sometimes swallows the last line of the
                  context right above the vraag ("de maag." above vraag 27,
                  HAVO-BIO-23-II-O.pdf p.11): trim the vraag and --extend the
@@ -89,6 +99,7 @@ def main():
     ap.add_argument("--extend", nargs="*", default=[])
     ap.add_argument("--join", nargs="*", default=[])
     ap.add_argument("--trim", nargs="*", default=[])
+    ap.add_argument("--absorb", nargs="*", default=[])
     a = ap.parse_args()
 
     doc = fitz.open(a.pdf)
@@ -115,13 +126,27 @@ def main():
     for spec in a.trim:
         k, pt = spec.split("=")
         trim[tuple(map(int, k.split(":")))] = float(pt)
+    absorb = {}
+    for spec in a.absorb:
+        k, j = spec.split("=")
+        p, i = map(int, k.split(":"))
+        absorb[(p, i)] = int(j)
     extend = {}
     for spec in a.extend:
         k, pt = spec.split("=")
         extend[tuple(map(int, k.split(":")))] = float(pt)
 
     opgaven = []
+    seen = set()
     for page in doc:
+        # VWO-WISB PDFs (e.g. VWO-WISB-16-I-O.pdf) print every opgave twice
+        # in a row: skip any page whose text + image layout repeats an
+        # earlier page exactly (blank pages are skipped by plan_page anyway).
+        sig = (page.get_text(), tuple(tuple(round(v) for v in page.get_image_bbox(im)) for im in page.get_images(full=True)
+                                     if page.get_image_bbox(im).is_valid))
+        if sig[0].strip() and sig in seen:
+            continue
+        seen.add(sig)
         if title_bar_y(page) is not None:
             opgaven.append({"title": opgave_title(page), "items": []})
         if not opgaven:
@@ -135,6 +160,18 @@ def main():
             grp[0]["members"] = [m for it in grp for m in it["members"]]
             grp[0]["embedded"] = [e for it in grp for e in it.get("embedded", [])]
             plan = [(k, it) for k, it in plan if not (i < k <= j)]
+        for (p, i), j in absorb.items():
+            if p != page.number:
+                continue
+            v = dict(plan)[i]
+            o = dict(plan)[j]
+            assert v["kind"] == "vraag", f"absorb {p}:{i} is not a vraag item"
+            bx = [v["members"][0]] + list(o["members"])
+            v["members"] = [(min(b[0] for b in bx), min(b[1] for b in bx),
+                             max(b[2] for b in bx), max(b[3] for b in bx))]
+            v["y0"] = min(v["y0"], o["y0"])
+            v["y1"] = max(v["y1"], o["y1"])
+            plan = [(k, it) for k, it in plan if k != j]
         for i, it in plan:
             if (page.number, i) in drop:
                 continue
@@ -147,8 +184,10 @@ def main():
                 it["members"] = it["members"] + [tuple(l[:4]) for l in text_lines(page)
                                                  if l[1] >= old_y1 - 0.5 and l[3] <= it["y1"] + 0.5]
             tr = trim.get((page.number, i), 0.0)
-            if tr:
-                assert it["kind"] == "vraag", f"trim {page.number}:{i} is not a vraag item"
+            if tr and it["kind"] == "ctx":
+                it["y0"] += tr
+                it["members"] = [m for m in it["members"] if m[3] > it["y0"]]
+            elif tr:
                 it["y0"] += tr
                 m = it["members"][0]
                 it["members"] = [(m[0], m[1] + tr, m[2], m[3])]
