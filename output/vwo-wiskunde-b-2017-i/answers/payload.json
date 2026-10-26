@@ -1,0 +1,448 @@
+{
+ "subject_name": "Wiskunde B",
+ "level": "VWO",
+ "source": "VWO Wiskunde B 2017-I",
+ "answers": [
+  {
+   "title": "Rakende grafieken?",
+   "question_number": 1,
+   "answer_text": "• Er moet gelden f(x) = g(x) en f′(x) = g′(x)\n• f′(x) = 1/x en g′(x) = (1/e) · x\n• Uit f′(x) = g′(x) volgt x = √e (x = −√e voldoet niet)\n• f(√e) = ½ en g(√e) = ½\n• f(√e) = g(√e) en f′(√e) = g′(√e), dus) de grafieken van f en g raken elkaar",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er moet gelden f(x) = g(x) en f′(x) = g′(x)"
+    },
+    {
+     "points": 1,
+     "description": "f′(x) = 1/x en g′(x) = (1/e) · x"
+    },
+    {
+     "points": 1,
+     "description": "Uit f′(x) = g′(x) volgt x = √e (x = −√e voldoet niet)"
+    },
+    {
+     "points": 1,
+     "description": "f(√e) = ½ en g(√e) = ½"
+    },
+    {
+     "points": 1,
+     "description": "f(√e) = g(√e) en f′(√e) = g′(√e), dus) de grafieken van f en g raken elkaar"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-i-rakende-grafieken-antw1.png"
+   ]
+  },
+  {
+   "title": "Bewegen over een lijn",
+   "question_number": 2,
+   "answer_text": "• OP⃗ = (p ; −½p + 3)\n• PQ⃗ (of OP′⃗) = (−(−½p + 3) ; p) (= (½p − 3 ; p))\n• OQ⃗ = OP⃗ + PQ⃗ = (1½p − 3 ; ½p + 3)\n• Het stelsel {x = 1½p − 3 ; y = ½p + 3} geeft voor m de vergelijking y = ⅓x + 4\nof\n• De punten P₁(0,3) en P₂(6,0) liggen op k\n• Dit geeft P₁′(−3,0) en P₂′(0,6)\n• Dit geeft Q₁(−3,3) en Q₂(6,6)\n• Hieruit volgt voor m de vergelijking y = ⅓x + 4",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "OP⃗ = (p ; −½p + 3)"
+    },
+    {
+     "points": 1,
+     "description": "PQ⃗ (of OP′⃗) = (−(−½p + 3) ; p) (= (½p − 3 ; p))"
+    },
+    {
+     "points": 1,
+     "description": "OQ⃗ = OP⃗ + PQ⃗ = (1½p − 3 ; ½p + 3)"
+    },
+    {
+     "points": 1,
+     "description": "Het stelsel {x = 1½p − 3 ; y = ½p + 3} geeft voor m de vergelijking y = ⅓x + 4"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-i-bewegen-over-een-lijn-antw2.png"
+   ]
+  },
+  {
+   "title": "Een derde cirkel",
+   "question_number": 3,
+   "answer_text": "• In driehoek M₁M₂M₃ geldt (r + 2)² = 8² + (r + 6)² − 2 · 8 · (r + 6) · cos(∠M₁M₂M₃)\n• cos(∠M₁M₂M₃) = ((r + 2)² − 8² − (r + 6)²)/(−2 · 8 · (r + 6))\n• De teller herleiden tot −8r − 96\n• De rest van de herleiding tot cos(∠M₁M₂M₃) = (r + 12)/(2r + 12)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "In driehoek M₁M₂M₃ geldt (r + 2)² = 8² + (r + 6)² − 2 · 8 · (r + 6) · cos(∠M₁M₂M₃)"
+    },
+    {
+     "points": 1,
+     "description": "cos(∠M₁M₂M₃) = ((r + 2)² − 8² − (r + 6)²)/(−2 · 8 · (r + 6))"
+    },
+    {
+     "points": 1,
+     "description": "De teller herleiden tot −8r − 96"
+    },
+    {
+     "points": 1,
+     "description": "De rest van de herleiding tot cos(∠M₁M₂M₃) = (r + 12)/(2r + 12)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-i-een-derde-cirkel-antw3.png"
+   ]
+  },
+  {
+   "title": "Een derde cirkel",
+   "question_number": 4,
+   "answer_text": "• ((r + 12)/(2r + 12) = (1 + 12/r)/(2 + 12/r), dus) (r + 12)/(2r + 12) nadert tot ½\n• (cos(∠M₁M₂M₃) nadert tot ½,) dus de limiet is 60°\nof\n• (de termen 12 in teller en noemer zijn voor grote waarden van r verwaarloosbaar, dus) (r + 12)/(2r + 12) nadert tot ½\n• (cos(∠M₁M₂M₃) nadert tot ½,) dus de limiet is 60°\nof\n• Als r onbegrensd toeneemt, nadert c₃ tot een gemeenschappelijke raaklijn aan C₁ en c₂\n• Een redenering of berekening waaruit volgt dat deze raaklijn de x-as in (−6,0) snijdt, dus cos(∠M₁M₂M₃) = 2/4 (of cos(∠M₁M₂M₃) = 6/12)\n• (cos(∠M₁M₂M₃) nadert tot ½,) dus de limiet is 60°",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "((r + 12)/(2r + 12) = (1 + 12/r)/(2 + 12/r), dus) (r + 12)/(2r + 12) nadert tot ½"
+    },
+    {
+     "points": 1,
+     "description": "(cos(∠M₁M₂M₃) nadert tot ½,) dus de limiet is 60°"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-i-een-derde-cirkel-antw4.png"
+   ]
+  },
+  {
+   "title": "Een derde cirkel",
+   "question_number": 5,
+   "answer_text": "• De stelling van Pythagoras in driehoek M₁PM₃ geeft (r + 2)² = r² + (−2 − a)², met a de x-coördinaat van M₃\n• De stelling van Pythagoras in driehoek M₂PM₃ geeft (r + 6)² = r² + (6 − a)²\n• Dit geeft 4r = a² + 4a en 12r = a² − 12a\n• Hieruit volgt 3(a² + 4a) = a² − 12a\n• Dus 2a² + 24a = 0, dus a(a + 12) = 0, dus a = −12 (a = 0 voldoet niet)\n• Invullen in een eerder gevonden vergelijking met r en a geeft r = 24\nof\n• cos(∠PM₂M₃) = cos(∠M₁M₂M₃)\n• M₂P/(r + 6) = (r + 12)/(2r + 12)\n• Dit geeft M₂P = ½r + 6\n• De stelling van Pythagoras in driehoek M₂PM₃ geeft (½r + 6)² + r² = (r + 6)² (of in driehoek M₁PM₃: (½r − 2)² + r² = (r + 2)²)\n• Herleiden tot een kwadratische vergelijking zonder haakjes\n• Hieruit volgt r = 24 (r = 0 voldoet niet)\nof\n• De stelling van Pythagoras in driehoek M₂PM₃ geeft r² + M₂P² = (r + 6)²\n• M₂P = √(12r + 36)\n• cos(∠M₁M₂M₃) = cos(∠PM₂M₃)\n• (r + 12)/(2r + 12) = √(12r + 36)/(r + 6), dus 2√(12r + 36) = r + 12\n• Herleiden tot een kwadratische vergelijking zonder haakjes\n• Hieruit volgt r = 24 (r = 0 voldoet niet)\nof\n• De stelling van Pythagoras in driehoek M₁PM₃ geeft (r + 2)² = r² + PM₁²\n• Hieruit volgt PM₁ = √(4r + 4)\n• Invullen in (r + 6)² = r² + (PM₁ + 8)² geeft (r + 6)² = r² + (√(4r + 4) + 8)²\n• Hieruit volgt 12r + 36 = 4r + 68 + 16√(4r + 4)\n• Herleiden tot een kwadratische vergelijking zonder haakjes\n• Hieruit volgt r = 24 (r = 0 voldoet niet)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De stelling van Pythagoras in driehoek M₁PM₃ geeft (r + 2)² = r² + (−2 − a)², met a de x-coördinaat van M₃"
+    },
+    {
+     "points": 1,
+     "description": "De stelling van Pythagoras in driehoek M₂PM₃ geeft (r + 6)² = r² + (6 − a)²"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft 4r = a² + 4a en 12r = a² − 12a"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt 3(a² + 4a) = a² − 12a"
+    },
+    {
+     "points": 1,
+     "description": "Dus 2a² + 24a = 0, dus a(a + 12) = 0, dus a = −12 (a = 0 voldoet niet)"
+    },
+    {
+     "points": 1,
+     "description": "Invullen in een eerder gevonden vergelijking met r en a geeft r = 24"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-i-een-derde-cirkel-antw5.png"
+   ]
+  },
+  {
+   "title": "Een achtbaan",
+   "question_number": 6,
+   "answer_text": "• De afgeleide van sin(2t) is 2cos(2t)\n• x′(t) = −sin(t) + 2cos(2t) en y′(t) = −2sin(t)\n• Voor de snelheid v op tijdstip t geldt v(t) = √((−sin(t) + 2cos(2t))² + (−2sin(t))²)\n• Beschrijven hoe het maximum van v kan worden bepaald\n• De maximale snelheid is 3,6 (m/s)\n\nVoor vraag moeten de twee scorepunten van de laatste twee antwoordelementen altijd worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.\n\nNB: de eerste drie antwoordelementen moeten beoordeeld worden volgens het beoordelingsmodel.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De afgeleide van sin(2t) is 2cos(2t)"
+    },
+    {
+     "points": 1,
+     "description": "x′(t) = −sin(t) + 2cos(2t) en y′(t) = −2sin(t)"
+    },
+    {
+     "points": 1,
+     "description": "Voor de snelheid v op tijdstip t geldt v(t) = √((−sin(t) + 2cos(2t))² + (−2sin(t))²)"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe het maximum van v kan worden bepaald"
+    },
+    {
+     "points": 1,
+     "description": "De maximale snelheid is 3,6 (m/s)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-i-een-achtbaan-antw6.png"
+   ]
+  },
+  {
+   "title": "Een achtbaan",
+   "question_number": 7,
+   "answer_text": "• 2cos(t) = cos(t) + sin(2t) geeft 2cos(t) = cos(t) + 2sin(t)cos(t)\n• cos(t) − 2sin(t)cos(t) = 0\n• cos(t)(1 − 2sin(t)) = 0, dus sin(t) = ½ (cos(t) = 0 voldoet niet, want dat geeft O)\n• Dit geeft t = ⅙π of t = ⅚π\n• De beweging duurt ⅔π (s)\nof\n• 2cos(t) = cos(t) + sin(2t) geeft sin(2t) = cos(t), dus sin(2t) = sin(½π − t)\n• 2t = ½π − t + k · 2π (met k geheel) of 2t = π − (½π − t) + k · 2π (met k geheel)\n• t = ⅙π + k · ⅔π (met k geheel) of t = ½π + k · 2π (met k geheel)\n• Dit geeft t = ⅙π of t = ⅚π (want t = 1½π en t = ½π + k · 2π geven O)\n• De beweging duurt ⅔π (s)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "2cos(t) = cos(t) + sin(2t) geeft 2cos(t) = cos(t) + 2sin(t)cos(t)"
+    },
+    {
+     "points": 1,
+     "description": "cos(t) − 2sin(t)cos(t) = 0"
+    },
+    {
+     "points": 1,
+     "description": "cos(t)(1 − 2sin(t)) = 0, dus sin(t) = ½ (cos(t) = 0 voldoet niet, want dat geeft O)"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft t = ⅙π of t = ⅚π"
+    },
+    {
+     "points": 1,
+     "description": "De beweging duurt ⅔π (s)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-i-een-achtbaan-antw7.png"
+   ]
+  },
+  {
+   "title": "Een achtbaan",
+   "question_number": 8,
+   "answer_text": "• De helling van lijnstuk PQ op tijdstip t is gelijk aan (2cos(t + π) − 2cos(t))/(cos(t + π) + sin(2(t + π)) − (cos(t) + sin(2t)))\n• sin(2(t + π)) = sin(2t + 2π) = sin(2t)\n• De helling is gelijk aan (2cos(t + π) − 2cos(t))/(cos(t + π) + sin(2t) − cos(t) − sin(2t)) = (2cos(t + π) − 2cos(t))/(cos(t + π) − cos(t))\n• Dit is (voor elke waarde van t met cos(t) ≠ 0) gelijk aan (2(cos(t + π) − cos(t))/(cos(t + π) − cos(t)) =) 2 (en dus onafhankelijk van t)\nof\n• De helling van lijnstuk PQ op tijdstip t is gelijk aan (2cos(t + π) − 2cos(t))/(cos(t + π) + sin(2(t + π)) − (cos(t) + sin(2t)))\n• sin(2(t + π)) = sin(2t + 2π) = sin(2t)\n• cos(t + π) = −cos(t), dus de helling is gelijk aan (−2cos(t) − 2cos(t))/(−cos(t) + sin(2t) − cos(t) − sin(2t)) = (−2cos(t) − 2cos(t))/(−cos(t) − cos(t))\n• Dit is (voor elke waarde van t met cos(t) ≠ 0) gelijk aan (−4cos(t)/(−2cos(t)) =) 2 (en dus onafhankelijk van t)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De helling van lijnstuk PQ op tijdstip t is gelijk aan (2cos(t + π) − 2cos(t))/(cos(t + π) + sin(2(t + π)) − (cos(t) + sin(2t)))"
+    },
+    {
+     "points": 1,
+     "description": "sin(2(t + π)) = sin(2t + 2π) = sin(2t)"
+    },
+    {
+     "points": 1,
+     "description": "De helling is gelijk aan (2cos(t + π) − 2cos(t))/(cos(t + π) + sin(2t) − cos(t) − sin(2t)) = (2cos(t + π) − 2cos(t))/(cos(t + π) − cos(t))"
+    },
+    {
+     "points": 1,
+     "description": "Dit is (voor elke waarde van t met cos(t) ≠ 0) gelijk aan (2(cos(t + π) − cos(t))/(cos(t + π) − cos(t)) =) 2 (en dus onafhankelijk van t)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-i-een-achtbaan-antw8.png"
+   ]
+  },
+  {
+   "title": "Een gebroken functie",
+   "question_number": 9,
+   "answer_text": "• De vergelijking 5/(4x − 6) = x − 3½ moet worden opgelost\n• Dit geeft x² − 5x + 4 = 0\n• Herleiden tot (x − 1)(x − 4) = 0 geeft x = 1 of x = 4\n• De coördinaten van punt B zijn (4, ½)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 5/(4x − 6) = x − 3½ moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft x² − 5x + 4 = 0"
+    },
+    {
+     "points": 1,
+     "description": "Herleiden tot (x − 1)(x − 4) = 0 geeft x = 1 of x = 4"
+    },
+    {
+     "points": 1,
+     "description": "De coördinaten van punt B zijn (4, ½)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-i-een-gebroken-functie-antw9.png"
+   ]
+  },
+  {
+   "title": "Een gebroken functie",
+   "question_number": 10,
+   "answer_text": "• De inhoud van het linkerdeel is gelijk aan π · ∫₀¹ (5/(4x − 6))² dx\n• De inhoud van het rechterdeel is gelijk aan π · ∫₁^(3½) (x − 3½)² dx\n• Een primitieve van (5/(4x − 6))² is −25/(4(4x − 6))\n• Een primitieve van (x − 3½)² is ⅓(x − 3½)³\n• De inhoud is (2 1/12 π + 5 5/24 π =) 7 7/24 π\nof\n• De inhoud van het linkerdeel is gelijk aan π · ∫₀¹ (5/(4x − 6))² dx\n• Een primitieve van (5/(4x − 6))² is −25/(4(4x − 6))\n• De inhoud van het rechterdeel is gelijk aan de inhoud van de kegel die ontstaat door lijn k van x = 1 tot x = 3½ om de x-as te wentelen\n• De hoogte van de kegel is 2½, de straal van het grondvlak G is (|−2½|) = 2½, de inhoud van de kegel is te berekenen met ⅓ · G · h\n• De inhoud is (2 1/12 π + 5 5/24 π =) 7 7/24 π",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De inhoud van het linkerdeel is gelijk aan π · ∫₀¹ (5/(4x − 6))² dx"
+    },
+    {
+     "points": 1,
+     "description": "De inhoud van het rechterdeel is gelijk aan π · ∫₁^(3½) (x − 3½)² dx"
+    },
+    {
+     "points": 1,
+     "description": "Een primitieve van (5/(4x − 6))² is −25/(4(4x − 6))"
+    },
+    {
+     "points": 1,
+     "description": "Een primitieve van (x − 3½)² is ⅓(x − 3½)³"
+    },
+    {
+     "points": 1,
+     "description": "De inhoud is (2 1/12 π + 5 5/24 π =) 7 7/24 π"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-i-een-gebroken-functie-antw10.png"
+   ]
+  },
+  {
+   "title": "Een gebroken functie",
+   "question_number": 11,
+   "answer_text": "• Er geldt g(x) = 5/(4x − 6) + a en de grafiek van g heeft een verticale asymptoot met vergelijking x = 1½\n• De horizontale asymptoot van de grafiek van g heeft vergelijking y = a\n• De verticale asymptoot van de grafiek van de inverse functie van g (ontstaan door spiegeling in de lijn met vergelijking y = x) is dus de lijn met vergelijking x = a\n• (|a − 1½| = 4, dus) a = −2½ of a = 5½\nof\n• Er geldt g(x) = 5/(4x − 6) + a en de grafiek van g heeft een verticale asymptoot met vergelijking x = 1½\n• Voor de grafiek van de inverse functie van g geldt y = 5/(4(x − a)) + 1½\n• De verticale asymptoot van de grafiek van de inverse functie van g heeft vergelijking x = a\n• (|a − 1½| = 4, dus) a = −2½ of a = 5½",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er geldt g(x) = 5/(4x − 6) + a en de grafiek van g heeft een verticale asymptoot met vergelijking x = 1½"
+    },
+    {
+     "points": 1,
+     "description": "De horizontale asymptoot van de grafiek van g heeft vergelijking y = a"
+    },
+    {
+     "points": 1,
+     "description": "De verticale asymptoot van de grafiek van de inverse functie van g (ontstaan door spiegeling in de lijn met vergelijking y = x) is dus de lijn met vergelijking x = a"
+    },
+    {
+     "points": 1,
+     "description": "(|a − 1½| = 4, dus) a = −2½ of a = 5½"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-i-een-gebroken-functie-antw11.png"
+   ]
+  },
+  {
+   "title": "Brandwerendheid van een deur",
+   "question_number": 12,
+   "answer_text": "• T′nat(t) = 1050 · e^(−ln²(t) + 6ln(t) − 9) · (−2ln(t)/t + 6/t)\n• T′nat(t) = 0 geeft −2ln(t)/t + 6/t = 0\n• Dit geeft ln(t) = 3\n• De maximale temperatuur is 20 + 1050 · e⁰ = 1070 (°C)\nof\n• De herleiding tot 20 + 1050 · e^(−(ln(t) − 3)²)\n• Dit is maximaal als −(ln(t) − 3)² maximaal is\n• Dat is het geval als ln(t) = 3\n• De maximale temperatuur is 20 + 1050 · e⁰ = 1070 (°C)\nof\n• Tnat is maximaal als −ln²(t) + 6ln(t) − 9 maximaal is\n• d/dt(−ln²(t) + 6ln(t) − 9) = −2ln(t)/t + 6/t\n• −2ln(t)/t + 6/t = 0 geeft ln(t) = 3\n• De maximale temperatuur is 20 + 1050 · e⁰ = 1070 (°C)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "T′nat(t) = 1050 · e^(−ln²(t) + 6ln(t) − 9) · (−2ln(t)/t + 6/t)"
+    },
+    {
+     "points": 1,
+     "description": "T′nat(t) = 0 geeft −2ln(t)/t + 6/t = 0"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft ln(t) = 3"
+    },
+    {
+     "points": 1,
+     "description": "De maximale temperatuur is 20 + 1050 · e⁰ = 1070 (°C)"
+    }
+   ],
+   "grading_note": "Als in het eerste antwoordalternatief voor T′nat(t) de uitdrukking 1050 · e^(−ln²(t) + 6ln(t) − 9) · (−2ln(t) + 6/t) wordt gegeven, dan één van de twee scorepunten voor de afgeleide functie toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-i-brandwerendheid-van-een-deur-antw12.png"
+   ]
+  },
+  {
+   "title": "Brandwerendheid van een deur",
+   "question_number": 13,
+   "answer_text": "• De vergelijking 20 + 345 · log(8t + 1) = 300 moet worden opgelost\n• log(8t + 1) = 280/345 (of 0,8116)\n• 8t + 1 = 10^(280/345) (of 6,4803)\n• Het antwoord: t ≈ 0,685 (minuten)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 20 + 345 · log(8t + 1) = 300 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "log(8t + 1) = 280/345 (of 0,8116)"
+    },
+    {
+     "points": 1,
+     "description": "8t + 1 = 10^(280/345) (of 6,4803)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: t ≈ 0,685 (minuten)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-i-brandwerendheid-van-een-deur-antw13.png"
+   ]
+  },
+  {
+   "title": "Brandwerendheid van een deur",
+   "question_number": 14,
+   "answer_text": "• De oppervlakte van het grijze vlakdeel in figuur 3 is ∫ van 0,69 tot 30 van (20 + 345 · log(8t + 1) − 300) dt\n• Deze oppervlakte is (ongeveer) 11929\n• Beschrijven hoe de vergelijking Tnat(t) = 300 kan worden opgelost\n• Dit geeft t ≈ 6,36 (of nauwkeuriger)\n• De oppervlakte bij de natuurlijke brand is ∫ van 6,36 tot 30 van (20 + 1050 · e^(−ln²(t) + 6ln(t) − 9) − 300) dt\n• Deze oppervlakte is (ongeveer) 14242\n• (14242 > 11929, dus) de deur houdt tijdens de natuurlijke brand niet minstens 30 minuten stand\nof\n• De oppervlakte van het grijze vlakdeel in figuur 3 is ∫ van 0,69 tot 30 van (20 + 345 · log(8t + 1) − 300) dt\n• Deze oppervlakte is (ongeveer) 11929\n• Beschrijven hoe de vergelijking Tnat(t) = 300 kan worden opgelost\n• Dit geeft t ≈ 6,36 (of nauwkeuriger)\n• Beschrijven hoe de vergelijking ∫ van 6,36 tot x van (20 + 1050 · e^(−ln²(t) + 6ln(t) − 9) − 300) dt = 11929 kan worden opgelost\n• Dit geeft x ≈ 26\n• (26 < 30, dus) de deur houdt tijdens de natuurlijke brand niet minstens 30 minuten stand",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De oppervlakte van het grijze vlakdeel in figuur 3 is ∫ van 0,69 tot 30 van (20 + 345 · log(8t + 1) − 300) dt"
+    },
+    {
+     "points": 1,
+     "description": "Deze oppervlakte is (ongeveer) 11929"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe de vergelijking Tnat(t) = 300 kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft t ≈ 6,36 (of nauwkeuriger)"
+    },
+    {
+     "points": 1,
+     "description": "De oppervlakte bij de natuurlijke brand is ∫ van 6,36 tot 30 van (20 + 1050 · e^(−ln²(t) + 6ln(t) − 9) − 300) dt"
+    },
+    {
+     "points": 1,
+     "description": "Deze oppervlakte is (ongeveer) 14242"
+    },
+    {
+     "points": 1,
+     "description": "(14242 > 11929, dus) de deur houdt tijdens de natuurlijke brand niet minstens 30 minuten stand"
+    }
+   ],
+   "grading_note": "– In plaats van de ondergrens 0,69 van de eerste integraal mag ook de nauwkeuriger waarde gebruikt worden die in de vorige vraag is berekend.\n– Als in één of beide integralen de term 300 is vergeten, voor deze vraag maximaal 6 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-i-brandwerendheid-van-een-deur-antw14.png"
+   ]
+  },
+  {
+   "title": "Perforatie",
+   "question_number": 15,
+   "answer_text": "• (x² + 1)(x − 2) = 0 geeft x = 2 (want x² + 1 = 0 heeft geen oplossing)\n• x = 2 invullen in px² + 4px + 6 geeft 4p + 8p + 6 (= 12p + 6)\n• 12p + 6 = 0 geeft p = −½ (dus voor p = −½ heeft de grafiek van fₚ een perforatie)\n• f₋½(x) = ((x − 2)(−½x − 3))/((x² + 1)(x − 2))\n• f₋½(x) = (−½x − 3)/(x² + 1) (voor x ≠ 2)\n• De coördinaten van de perforatie zijn (2, −⅘) (want lim x→2 f₋½(x) = −⅘)\nof\n• Herleiden van de teller tot (x − 2)(px + 6p) + 12p + 6\n• 12p + 6 = 0 geeft p = −½ (dus voor p = −½ heeft de grafiek van fₚ een perforatie)\n• f₋½(x) = ((x − 2)(−½x − 3))/((x² + 1)(x − 2))\n• f₋½(x) = (−½x − 3)/(x² + 1) (voor x ≠ 2)\n• De coördinaten van de perforatie zijn (2, −⅘) (want lim x→2 f₋½(x) = −⅘)\nof\n• px² + 4px + 6 = 0 geeft x = (−4p ± √(16p² − 24p))/(2p)\n• (x² + 1)(x − 2) = 0 geeft x = 2 (want x² + 1 = 0 heeft geen oplossing) (dus er is een perforatie bij x = 2), dus er moet gelden (−4p ± √(16p² − 24p))/(2p) = 2\n• Dit geeft p = −½\n• f₋½(x) = ((x − 2)(−½x − 3))/((x² + 1)(x − 2))\n• f₋½(x) = (−½x − 3)/(x² + 1) (voor x ≠ 2)\n• De coördinaten van de perforatie zijn (2, −⅘) (want lim x→2 f₋½(x) = −⅘)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(x² + 1)(x − 2) = 0 geeft x = 2 (want x² + 1 = 0 heeft geen oplossing)"
+    },
+    {
+     "points": 1,
+     "description": "x = 2 invullen in px² + 4px + 6 geeft 4p + 8p + 6 (= 12p + 6)"
+    },
+    {
+     "points": 1,
+     "description": "12p + 6 = 0 geeft p = −½ (dus voor p = −½ heeft de grafiek van fₚ een perforatie)"
+    },
+    {
+     "points": 1,
+     "description": "f₋½(x) = ((x − 2)(−½x − 3))/((x² + 1)(x − 2))"
+    },
+    {
+     "points": 1,
+     "description": "f₋½(x) = (−½x − 3)/(x² + 1) (voor x ≠ 2)"
+    },
+    {
+     "points": 1,
+     "description": "De coördinaten van de perforatie zijn (2, −⅘) (want lim x→2 f₋½(x) = −⅘)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-i-perforatie-antw15.png"
+   ]
+  }
+ ]
+}

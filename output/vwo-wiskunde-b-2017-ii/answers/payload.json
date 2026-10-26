@@ -1,0 +1,478 @@
+{
+ "subject_name": "Wiskunde B",
+ "level": "VWO",
+ "source": "VWO Wiskunde B 2017-II",
+ "answers": [
+  {
+   "title": "Twee machten van 2",
+   "question_number": 1,
+   "answer_text": "• f′(x) = ln(2) · 2ˣ + ln(2) · 2⁻²ˣ · −2\n• Uit f′(x) = 0 volgt dat 2ˣ = 2 · 2⁻²ˣ\n• Dus 2³ˣ = 2 (of 2ˣ = 2⁻²ˣ⁺¹)\n• Hieruit volgt x = ⅓\nof\n• a + a⁻², met a = 2ˣ, moet minimaal zijn\n• De vergelijking 1 − 2a⁻³ = 0 moet worden opgelost\n• Dit geeft a = (½)^(−⅓) (of een gelijkwaardige uitdrukking)\n• Hieruit volgt x = ⅓",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "f′(x) = ln(2) · 2ˣ + ln(2) · 2⁻²ˣ · −2"
+    },
+    {
+     "points": 1,
+     "description": "Uit f′(x) = 0 volgt dat 2ˣ = 2 · 2⁻²ˣ"
+    },
+    {
+     "points": 1,
+     "description": "Dus 2³ˣ = 2 (of 2ˣ = 2⁻²ˣ⁺¹)"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt x = ⅓"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-twee-machten-van-2-antw1.png"
+   ]
+  },
+  {
+   "title": "Twee machten van 2",
+   "question_number": 2,
+   "answer_text": "• Een primitieve van 2ˣ is (1/ln(2)) · 2ˣ\n• Een primitieve van 2⁻²ˣ is (1/ln(2)) · 2⁻²ˣ · (1/−2)\n• De oppervlakte tussen de grafiek van f en de x-as is (2/ln(2) − 1/(8ln(2))) − (1/(2ln(2)) − 4/(2ln(2))) (≈ 4,869)\n• De oppervlakte van het rechthoekige gebied is 2k, dus de gevraagde waarde van k is 2,43",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Een primitieve van 2ˣ is (1/ln(2)) · 2ˣ"
+    },
+    {
+     "points": 1,
+     "description": "Een primitieve van 2⁻²ˣ is (1/ln(2)) · 2⁻²ˣ · (1/−2)"
+    },
+    {
+     "points": 2,
+     "description": "De oppervlakte tussen de grafiek van f en de x-as is (2/ln(2) − 1/(8ln(2))) − (1/(2ln(2)) − 4/(2ln(2))) (≈ 4,869)"
+    },
+    {
+     "points": 1,
+     "description": "De oppervlakte van het rechthoekige gebied is 2k, dus de gevraagde waarde van k is 2,43"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-twee-machten-van-2-antw2.png"
+   ]
+  },
+  {
+   "title": "Twee machten van 2",
+   "question_number": 3,
+   "answer_text": "• AP⃗ = (p − 1 ; f(p) − 2¼), waarbij p de x-coördinaat van P is\n• (p − 1 ; 2ᵖ + 2⁻²ᵖ − 2¼) · (1 ; 1 13/16) = 0\n• De vergelijking p − 1 + 1 13/16 (2ᵖ + 2⁻²ᵖ − 2¼) = 0 moet worden opgelost\n• Beschrijven hoe deze vergelijking wordt opgelost\n• Dit geeft p ≈ −0,67 (dus de x-coördinaat van P is −0,67)\nof\n• De richtingscoëfficiënt van AQ is 29/16\n• (Het product van de richtingscoëfficiënten van AP en AQ moet −1 zijn,) dus de richtingscoëfficiënt van AP is −16/29\n• Een vergelijking van AP is y = −(16/29)(x − 1) + 2¼\n• Beschrijven hoe de vergelijking 2ˣ + 2⁻²ˣ = −(16/29)(x − 1) + 2¼ wordt opgelost\n• Dit geeft x ≈ −0,67 (dus de x-coördinaat van P is −0,67)\nof\n• De richtingscoëfficiënt van AQ is 29/16\n• (Het product van de richtingscoëfficiënten van AP en AQ moet −1 zijn,) dus de richtingscoëfficiënt van AP is −16/29\n• De richtingscoëfficiënt van AP is ook Δy/Δx = (2¼ − (2ˣ + 2⁻²ˣ))/(1 − x)\n• Beschrijven hoe de vergelijking −16/29 = (2¼ − (2ˣ + 2⁻²ˣ))/(1 − x) wordt opgelost\n• Dit geeft x ≈ −0,67 (dus de x-coördinaat van P is −0,67)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "AP⃗ = (p − 1 ; f(p) − 2¼), waarbij p de x-coördinaat van P is"
+    },
+    {
+     "points": 1,
+     "description": "(p − 1 ; 2ᵖ + 2⁻²ᵖ − 2¼) · (1 ; 1 13/16) = 0"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking p − 1 + 1 13/16 (2ᵖ + 2⁻²ᵖ − 2¼) = 0 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking wordt opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft p ≈ −0,67 (dus de x-coördinaat van P is −0,67)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-twee-machten-van-2-antw3.png"
+   ]
+  },
+  {
+   "title": "Een grafiek met een knik",
+   "question_number": 4,
+   "answer_text": "• Voor de x-coördinaat van de knik geldt 8 − 4x = 0, dus x = 2\n• Voor x < 2 geldt f(x) = 4e^(2−x) + 8 − 4x\n• Voor x < 2 geldt f′(x) = −4e^(2−x) − 4\n• De richtingscoëfficiënt van m is −8\n• tan(α) = −8 geeft (α ≈ −83°, dus) het antwoord: 83° (of nauwkeuriger)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor de x-coördinaat van de knik geldt 8 − 4x = 0, dus x = 2"
+    },
+    {
+     "points": 1,
+     "description": "Voor x < 2 geldt f(x) = 4e^(2−x) + 8 − 4x"
+    },
+    {
+     "points": 1,
+     "description": "Voor x < 2 geldt f′(x) = −4e^(2−x) − 4"
+    },
+    {
+     "points": 1,
+     "description": "De richtingscoëfficiënt van m is −8"
+    },
+    {
+     "points": 1,
+     "description": "tan(α) = −8 geeft (α ≈ −83°, dus) het antwoord: 83° (of nauwkeuriger)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-een-grafiek-met-een-knik-antw4.png"
+   ]
+  },
+  {
+   "title": "Een grafiek met een knik",
+   "question_number": 5,
+   "answer_text": "• Voor x ≥ 2 geldt f(x) = 4e^(2−x) − 8 + 4x\n• lim 4e^(2−x) = 0\n• Een vergelijking van de asymptoot is y = 4x − 8",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor x ≥ 2 geldt f(x) = 4e^(2−x) − 8 + 4x"
+    },
+    {
+     "points": 1,
+     "description": "lim 4e^(2−x) = 0"
+    },
+    {
+     "points": 1,
+     "description": "Een vergelijking van de asymptoot is y = 4x − 8"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-een-grafiek-met-een-knik-antw5.png"
+   ]
+  },
+  {
+   "title": "Driehoek in cirkel",
+   "question_number": 6,
+   "answer_text": "• De lijn door A loodrecht op AB heeft richtingscoëfficiënt −2\n• Een vergelijking van die lijn is y = −2x + 8\n• Beschrijven hoe de vergelijking x² + (−2x + 5)² = 25 exact wordt opgelost\n• Het antwoord: C(0,8)\nof\n• De lijn door B loodrecht op AB heeft richtingscoëfficiënt −2\n• Een vergelijking van die lijn is y = −2x − 2\n• Beschrijven hoe de vergelijking x² + (−2x − 5)² = 25 exact wordt opgelost\n• Het antwoord: C(−4,6)\nof\n• Een zijde van de driehoek moet middellijn van de cirkel zijn (stelling van Thales)\n• Het middelpunt van de cirkel is (0,3) en de straal is 5\n• Als BC middellijn is, dan is C(0,8) (of: Als AC middellijn is, dan is C(−4,6))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De lijn door A loodrecht op AB heeft richtingscoëfficiënt −2"
+    },
+    {
+     "points": 1,
+     "description": "Een vergelijking van die lijn is y = −2x + 8"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe de vergelijking x² + (−2x + 5)² = 25 exact wordt opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: C(0,8)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-driehoek-in-cirkel-antw6.png"
+   ]
+  },
+  {
+   "title": "Driehoek in cirkel",
+   "question_number": 7,
+   "answer_text": "• AB = √(4² + 2²) = √20\n• C moet liggen op de cirkel met middelpunt A en straal √20\n• Een vergelijking van die cirkel is (x − 4)² + y² = 20\n• Uit het stelsel {x² + (y − 3)² = 25, (x − 4)² + y² = 20} een lineair verband tussen x en y afleiden, zoals 6y + 16 = 8x + 4\n• Beschrijven hoe de vergelijking (x − 4)² + (1⅓x − 2)² = 20 (of (¾y − 2½)² + y² = 20) exact wordt opgelost\n• Het antwoord: C(4⅘, 4⅖)\nof\n• A(4,0) en M(0,3) (met M het middelpunt van de cirkel), dus de richtingscoëfficiënt van AM is −¾\n• Een vergelijking van de lijn door B loodrecht op AM is y = 1⅓x − 2\n• Het snijpunt van deze lijn met de cirkel geeft x² + (1⅓x − 5)² = 25\n• Dit geeft 2 7/9 x² − 13⅓x = 0\n• Hieruit volgt x = 4⅘ (x = 0 voldoet niet)\n• Het antwoord: C(4⅘, 4⅖)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "AB = √(4² + 2²) = √20"
+    },
+    {
+     "points": 1,
+     "description": "C moet liggen op de cirkel met middelpunt A en straal √20"
+    },
+    {
+     "points": 1,
+     "description": "Een vergelijking van die cirkel is (x − 4)² + y² = 20"
+    },
+    {
+     "points": 1,
+     "description": "Uit het stelsel {x² + (y − 3)² = 25, (x − 4)² + y² = 20} een lineair verband tussen x en y afleiden, zoals 6y + 16 = 8x + 4"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe de vergelijking (x − 4)² + (1⅓x − 2)² = 20 (of (¾y − 2½)² + y² = 20) exact wordt opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: C(4⅘, 4⅖)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-driehoek-in-cirkel-antw7.png"
+   ]
+  },
+  {
+   "title": "Straal van een waterstraal",
+   "question_number": 8,
+   "answer_text": "• Er geldt v² = v₀² + 2gh₀ − 2gh (uit formule 1)\n• Dit is gelijk aan v₀² + 2g(h₀ − h) = v₀² + 2gx\n• Ook geldt r² = r₀² · v₀/v (uit formule 2)\n• Combineren geeft r² = r₀² · v₀/√(v₀² + 2gx)\n• r² = r₀² · √(v₀²/(v₀² + 2gx)) dus (omdat r en r₀ beide positief zijn) r = r₀ · ⁴√(v₀²/(v₀² + 2gx))\nof\n• Er geldt v² = v₀² + 2gh₀ − 2gh (uit formule 1)\n• Dit is gelijk aan v₀² + 2g(h₀ − h) = v₀² + 2gx\n• Uit formule 2 volgt r₀⁴ · v₀² = r⁴ · v² en dus r⁴ = (r₀⁴ · v₀²)/v²\n• Dit combineren met v² = v₀² + 2gx geeft r⁴ = r₀⁴ · v₀²/(v₀² + 2gx)\n• Dan (omdat r en r₀ beide positief zijn) volgt r = r₀ · ⁴√(v₀²/(v₀² + 2gx))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er geldt v² = v₀² + 2gh₀ − 2gh (uit formule 1)"
+    },
+    {
+     "points": 1,
+     "description": "Dit is gelijk aan v₀² + 2g(h₀ − h) = v₀² + 2gx"
+    },
+    {
+     "points": 1,
+     "description": "Ook geldt r² = r₀² · v₀/v (uit formule 2)"
+    },
+    {
+     "points": 1,
+     "description": "Combineren geeft r² = r₀² · v₀/√(v₀² + 2gx)"
+    },
+    {
+     "points": 1,
+     "description": "r² = r₀² · √(v₀²/(v₀² + 2gx)) dus (omdat r en r₀ beide positief zijn) r = r₀ · ⁴√(v₀²/(v₀² + 2gx))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-straal-van-een-waterstraal-antw8.png"
+   ]
+  },
+  {
+   "title": "Straal van een waterstraal",
+   "question_number": 9,
+   "answer_text": "• De inhoud is gelijk aan π · ∫₀^(0,3) r² dx\n• r = 0,01 · ⁴√(0,5²/(0,5² + 2 · 9,81 · x))\n• Beschrijven hoe π · ∫₀^(0,3) (0,01 · ⁴√(0,5²/(0,5² + 2 · 9,81 · x)))² dx berekend kan worden\n• Dit geeft 3,2 · 10⁻⁵ (m³)\n• Het antwoord 32 (cm³) (of 0,000032 m³",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De inhoud is gelijk aan π · ∫₀^(0,3) r² dx"
+    },
+    {
+     "points": 1,
+     "description": "r = 0,01 · ⁴√(0,5²/(0,5² + 2 · 9,81 · x))"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe π · ∫₀^(0,3) (0,01 · ⁴√(0,5²/(0,5² + 2 · 9,81 · x)))² dx berekend kan worden"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft 3,2 · 10⁻⁵ (m³)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord 32 (cm³) (of 0,000032 m³"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-straal-van-een-waterstraal-antw9.png"
+   ]
+  },
+  {
+   "title": "Cirkels",
+   "question_number": 10,
+   "answer_text": "• De periode van de beweging van Q is 12, dus m = 2π/12 (= ⅙π)\n• (P heeft op t = 12 vier maal c₁ doorlopen en omdat de snelheid van P en de snelheid van Q gelijk zijn, geldt:) de omtrek van c₂ is vier keer zo groot als de omtrek van c₁\n• De straal van c₂ is dus gelijk aan (4 · ½ =) 2\n• De y-coördinaat van het middelpunt van c₂ is (−½ + 2 =) 1½\n• Punt Q gaat omhoog door de evenwichtsstand na een kwart periode, dus voor t = 3\n• (m = ⅙π,) k = 1½, l = 2 en n = 3 (of andere correcte waarden) (of een formule voor y_Q is y_Q = 1½ + 2sin(⅙π(t − 3)))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De periode van de beweging van Q is 12, dus m = 2π/12 (= ⅙π)"
+    },
+    {
+     "points": 1,
+     "description": "(P heeft op t = 12 vier maal c₁ doorlopen en omdat de snelheid van P en de snelheid van Q gelijk zijn, geldt:) de omtrek van c₂ is vier keer zo groot als de omtrek van c₁"
+    },
+    {
+     "points": 1,
+     "description": "De straal van c₂ is dus gelijk aan (4 · ½ =) 2"
+    },
+    {
+     "points": 1,
+     "description": "De y-coördinaat van het middelpunt van c₂ is (−½ + 2 =) 1½"
+    },
+    {
+     "points": 1,
+     "description": "Punt Q gaat omhoog door de evenwichtsstand na een kwart periode, dus voor t = 3"
+    },
+    {
+     "points": 1,
+     "description": "(m = ⅙π,) k = 1½, l = 2 en n = 3 (of andere correcte waarden) (of een formule voor y_Q is y_Q = 1½ + 2sin(⅙π(t − 3)))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-cirkels-antw10.png"
+   ]
+  },
+  {
+   "title": "De vergelijking van Arrhenius",
+   "question_number": 11,
+   "answer_text": "• Uit de vergelijking van Arrhenius volgt k/A = e^(−(E/(8,314T)))\n• −(E/(8,314T)) = ln(k/A)\n• E/(8,314T) = −ln(k/A) (= ln((k/A)⁻¹)) = ln(A/k)\n• Dus E = 8,314T · ln(A/k)\nof\n• Uit de vergelijking van Arrhenius volgt ln(k) = ln(A · e^(−(E/(8,314T))))\n• ln(k) = ln(A) − E/(8,314T)\n• E/(8,314T) = ln(A) − ln(k) = ln(A/k)\n• Dus E = 8,314T · ln(A/k)\nof\n• Als E = 8,314T · ln(A/k) dan moet gelden E/(8,314T) = ln(A/k)\n• Dan is E/(8,314T) = ln(A) − ln(k)\n• Dus ln(k) = ln(A) + (−E)/(8,314T) = ln(A) + ln(e^(−(E/(8,314T))))\n• Dus ln(k) = ln(A · e^(−(E/(8,314T)))) (en dat komt overeen met de gegeven formule)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Uit de vergelijking van Arrhenius volgt k/A = e^(−(E/(8,314T)))"
+    },
+    {
+     "points": 1,
+     "description": "−(E/(8,314T)) = ln(k/A)"
+    },
+    {
+     "points": 1,
+     "description": "E/(8,314T) = −ln(k/A) (= ln((k/A)⁻¹)) = ln(A/k)"
+    },
+    {
+     "points": 1,
+     "description": "Dus E = 8,314T · ln(A/k)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-de-vergelijking-van-arrhenius-antw11.png"
+   ]
+  },
+  {
+   "title": "De vergelijking van Arrhenius",
+   "question_number": 12,
+   "answer_text": "• Er moet gelden 8,314 · 500 · ln(A/(2,7 · 10⁻²)) = 8,314 · 550 · ln(A/(2,4 · 10⁻¹))\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• De gevraagde waarde van E is 1,0 · 10⁵ (J/mol)\nof\n• 2,7 · 10⁻² = A · e^(−(E/(8,314 · 500))) en 2,4 · 10⁻¹ = A · e^(−(E/(8,314 · 550))) dus (2,7 · 10⁻²)/(2,4 · 10⁻¹) = e^(−E/(8,314 · 500)) : e^(−E/(8,314 · 550))\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• De gevraagde waarde van E is 1,0 · 10⁵ (J/mol)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er moet gelden 8,314 · 500 · ln(A/(2,7 · 10⁻²)) = 8,314 · 550 · ln(A/(2,4 · 10⁻¹))"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "De gevraagde waarde van E is 1,0 · 10⁵ (J/mol)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-de-vergelijking-van-arrhenius-antw12.png"
+   ]
+  },
+  {
+   "title": "Een foto van de Eusebiuskerk",
+   "question_number": 13,
+   "answer_text": "• tan(α − β) = sin(α − β)/cos(α − β) = (sin(α)cos(β) − cos(α)sin(β))/(cos(α)cos(β) + sin(α)sin(β))\n• Teller en noemer delen door cos(α)cos(β) geeft (sin(α)cos(β)/(cos(α)cos(β)) − cos(α)sin(β)/(cos(α)cos(β)))/(1 + sin(α)sin(β)/(cos(α)cos(β)))\n• Dat is gelijk aan (sin(α)/cos(α) − sin(β)/cos(β))/(1 + (sin(α)/cos(α)) · (sin(β)/cos(β))) ofwel (tan(α) − tan(β))/(1 + tan(α) · tan(β))\nof\n• (tan(α) − tan(β))/(1 + tan(α) · tan(β)) = (sin(α)/cos(α) − sin(β)/cos(β))/(1 + (sin(α)/cos(α)) · (sin(β)/cos(β)))\n• Teller en noemer vermenigvuldigen met cos(α)cos(β) geeft (sin(α)cos(β) − cos(α)sin(β))/(cos(α)cos(β) + sin(α)sin(β))\n• Dit is gelijk aan sin(α − β)/cos(α − β) = tan(α − β)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "tan(α − β) = sin(α − β)/cos(α − β) = (sin(α)cos(β) − cos(α)sin(β))/(cos(α)cos(β) + sin(α)sin(β))"
+    },
+    {
+     "points": 1,
+     "description": "Teller en noemer delen door cos(α)cos(β) geeft (sin(α)cos(β)/(cos(α)cos(β)) − cos(α)sin(β)/(cos(α)cos(β)))/(1 + sin(α)sin(β)/(cos(α)cos(β)))"
+    },
+    {
+     "points": 1,
+     "description": "Dat is gelijk aan (sin(α)/cos(α) − sin(β)/cos(β))/(1 + (sin(α)/cos(α)) · (sin(β)/cos(β))) ofwel (tan(α) − tan(β))/(1 + tan(α) · tan(β))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-een-foto-van-de-eusebiuskerk-antw13.png"
+   ]
+  },
+  {
+   "title": "Een foto van de Eusebiuskerk",
+   "question_number": 14,
+   "answer_text": "• tan(α) = 75/x en tan(β) = 27/x\n• Dus tan(φ) = tan(α − β) = (75/x − 27/x)/(1 + (75/x) · (27/x))\n• Dit is gelijk aan (48/x)/(1 + 2025/x²), dus tan(φ) = 48x/(x² + 2025)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "tan(α) = 75/x en tan(β) = 27/x"
+    },
+    {
+     "points": 1,
+     "description": "Dus tan(φ) = tan(α − β) = (75/x − 27/x)/(1 + (75/x) · (27/x))"
+    },
+    {
+     "points": 1,
+     "description": "Dit is gelijk aan (48/x)/(1 + 2025/x²), dus tan(φ) = 48x/(x² + 2025)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-een-foto-van-de-eusebiuskerk-antw14.png"
+   ]
+  },
+  {
+   "title": "Een foto van de Eusebiuskerk",
+   "question_number": 15,
+   "answer_text": "• g′(x) = (48(x² + 2025) − 48x · 2x)/(x² + 2025)²\n• (Uit g′(x) = 0 volgt) −48x² + 97200 = 0\n• Hieruit volgt x = 45 (x = −45 voldoet niet)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "g′(x) = (48(x² + 2025) − 48x · 2x)/(x² + 2025)²"
+    },
+    {
+     "points": 1,
+     "description": "(Uit g′(x) = 0 volgt) −48x² + 97200 = 0"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt x = 45 (x = −45 voldoet niet)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-een-foto-van-de-eusebiuskerk-antw15.png"
+   ]
+  },
+  {
+   "title": "Scheve parabolen",
+   "question_number": 16,
+   "answer_text": "• dx/dt = 6t + 1 en dy/dt = 6t − 1\n• De snelheid v(t) wordt gegeven door √((6t + 1)² + (6t − 1)²)\n• v(t) = √(72t² + 2)\n• (Voor t = 0 is v(t) minimaal, dus) het minimum is √2 (dus de minimale snelheid is √2)\nof\n• dx/dt = 6t + 1 en dy/dt = 6t − 1\n• De snelheid v(t) wordt gegeven door √((6t + 1)² + (6t − 1)²)\n• v′(t) = (12(6t + 1) + 12(6t − 1))/(2√((6t + 1)² + (6t − 1)²)) (of een gelijkwaardige uitdrukking)\n• v′(t) = 0 geeft t = 0; v(0) = √2 (dus de minimale snelheid is √2)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "dx/dt = 6t + 1 en dy/dt = 6t − 1"
+    },
+    {
+     "points": 1,
+     "description": "De snelheid v(t) wordt gegeven door √((6t + 1)² + (6t − 1)²)"
+    },
+    {
+     "points": 1,
+     "description": "v(t) = √(72t² + 2)"
+    },
+    {
+     "points": 1,
+     "description": "(Voor t = 0 is v(t) minimaal, dus) het minimum is √2 (dus de minimale snelheid is √2)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-scheve-parabolen-antw16.png"
+   ]
+  },
+  {
+   "title": "Scheve parabolen",
+   "question_number": 17,
+   "answer_text": "• y = 0 geeft at² − t + 1 = 0\n• (Deze vergelijking moet één oplossing hebben, dus) D = 0\n• D = 1 − 4a\n• D = 0 geeft a = ¼\nof\n• dy/dt = 2at − 1\n• (De parabool moet de x-as raken dus) dy/dt = 0 geeft t = 1/(2a)\n• De vergelijking a · (1/(2a))² − 1/(2a) + 1 = 0 moet worden opgelost\n• Dit geeft a = ¼",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "y = 0 geeft at² − t + 1 = 0"
+    },
+    {
+     "points": 1,
+     "description": "(Deze vergelijking moet één oplossing hebben, dus) D = 0"
+    },
+    {
+     "points": 1,
+     "description": "D = 1 − 4a"
+    },
+    {
+     "points": 1,
+     "description": "D = 0 geeft a = ¼"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2017-ii-scheve-parabolen-antw17.png"
+   ]
+  }
+ ]
+}
