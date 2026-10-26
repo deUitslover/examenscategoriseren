@@ -1,0 +1,58 @@
+{
+  "source": "VWO Wiskunde B 2021-II",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Kromme K",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Vectoren spiegelen",
+      "question_numbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Raaklijnen bij een vierdegraadsfunctie",
+      "question_numbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Bankenformules",
+      "question_numbers": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Twee wortelgrafieken",
+      "question_numbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Asymptoten en raaklijnen",
+      "question_numbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Driehoek in cirkel",
+      "question_numbers": [
+        15,
+        16
+      ]
+    }
+  ]
+}
