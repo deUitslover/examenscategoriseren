@@ -1,0 +1,62 @@
+{
+  "source": "VWO Wiskunde B 2019-I",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Lijnen door de oorsprong en een cirkel",
+      "question_numbers": [
+        1
+      ]
+    },
+    {
+      "title": "Rechts van het snijpunt",
+      "question_numbers": [
+        2
+      ]
+    },
+    {
+      "title": "Altijd raak",
+      "question_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Slingshot",
+      "question_numbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Een logaritmische functie en haar afgeleide",
+      "question_numbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Gebroken goniometrische functie",
+      "question_numbers": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Driehoek met bewegend hoekpunt",
+      "question_numbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Afgeknotte paraboloïde",
+      "question_numbers": [
+        15
+      ]
+    }
+  ]
+}
