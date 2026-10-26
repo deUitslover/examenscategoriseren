@@ -1,0 +1,463 @@
+{
+ "subject_name": "Wiskunde B",
+ "level": "VWO",
+ "source": "VWO Wiskunde B 2018-II",
+ "answers": [
+  {
+   "title": "Loodrecht in de perforatie",
+   "question_number": 1,
+   "answer_text": "• f(x) = (−2 + 2√(x + 1))/x = (−2 + 2√(x + 1))/x · (2 + 2√(x + 1))/(2 + 2√(x + 1))\n• Dus f(x) = (−4 + 4(x + 1)) / (x(2 + 2√(x + 1)))\n• Dit geeft 4x / (2x(1 + √(x + 1))) = 2/(1 + √(x + 1)) (= h(x)) (voor x ≠ 0)\nof\n• h(x) = 2/(1 + √(x + 1)) · (1 − √(x + 1))/(1 − √(x + 1)) (voor x ≠ 0)\n• Dus h(x) = 2(1 − √(x + 1)) / (1 − x − 1) (voor x ≠ 0)\n• Dit geeft (2 − 2√(x + 1))/(−x) = (−2 + 2√(x + 1))/x (= f(x)) (voor x ≠ 0)\nof\n• Als moet gelden f(x) = h(x) (voor x ≠ 0), dan moet gelden (−2 + 2√(x + 1)) · (1 + √(x + 1)) = 2x (voor x ≠ 0)\n• (−2 + 2√(x + 1)) · (1 + √(x + 1)) = 2(−1 + √(x + 1)) · (1 + √(x + 1))\n• 2(−1 + √(x + 1)) · (1 + √(x + 1)) = 2(−1 + x + 1) = 2x (dus f(x) = h(x)) (voor x ≠ 0)\nof\n• Als moet gelden f(x) = h(x) (voor x ≠ 0), dan moet gelden (−2 + 2√(x + 1)) · (1 + √(x + 1)) = 2x (voor x ≠ 0)\n• (−2 + 2√(x + 1)) · (1 + √(x + 1)) = −2 − 2√(x + 1) + 2√(x + 1) + 2(x + 1)\n• Dit is gelijk aan 2x (dus f(x) = h(x)) (voor x ≠ 0)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "f(x) = (−2 + 2√(x + 1))/x = (−2 + 2√(x + 1))/x · (2 + 2√(x + 1))/(2 + 2√(x + 1))"
+    },
+    {
+     "points": 1,
+     "description": "Dus f(x) = (−4 + 4(x + 1)) / (x(2 + 2√(x + 1)))"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft 4x / (2x(1 + √(x + 1))) = 2/(1 + √(x + 1)) (= h(x)) (voor x ≠ 0)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-ii-loodrecht-in-de-perforatie-antw1.png"
+   ]
+  },
+  {
+   "title": "Loodrecht in de perforatie",
+   "question_number": 2,
+   "answer_text": "• h′(x) = −2/(1 + √(x + 1))² · 1/(2√(x + 1)) (of een gelijkwaardige uitdrukking)\n• h′(0) = −¼\n• (4x² + x)/x = 4x + 1 (voor x ≠ 0), dus een vergelijking van k is y = 4x + 1\n• 4 · −¼ = −1 (dus de grafieken van h en k staan in P loodrecht op elkaar en dus staan de grafieken van f en g in P loodrecht op elkaar)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "h′(x) = −2/(1 + √(x + 1))² · 1/(2√(x + 1)) (of een gelijkwaardige uitdrukking)"
+    },
+    {
+     "points": 1,
+     "description": "h′(0) = −¼"
+    },
+    {
+     "points": 1,
+     "description": "(4x² + x)/x = 4x + 1 (voor x ≠ 0), dus een vergelijking van k is y = 4x + 1"
+    },
+    {
+     "points": 1,
+     "description": "4 · −¼ = −1 (dus de grafieken van h en k staan in P loodrecht op elkaar en dus staan de grafieken van f en g in P loodrecht op elkaar)"
+    }
+   ],
+   "grading_note": "Als de kettingregel niet of onjuist is toegepast, voor deze vraag maximaal 3 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-ii-loodrecht-in-de-perforatie-antw2.png"
+   ]
+  },
+  {
+   "title": "IJsbol",
+   "question_number": 3,
+   "answer_text": "• Voor het bolvormige ijsklontje met straal r moet gelden (4/3)πr³ = 27\n• Dit geeft r = ∛(81/(4π)) (= 1,86…) (cm)\n• De oppervlakte van het bolvormige ijsklontje is 4π · (81/(4π))^(2/3) (of 4π · 1,86…²) (cm²)\n• Het gevraagde quotiënt is 1,61\nof\n• Voor het bolvormige ijsklontje met straal r moet gelden (4/3)πr³ = 27\n• Dit geeft r = ∛(81/(4π)) (= 1,86…) (cm)\n• A/V = 4πr² / ((4/3)πr³) = 3/r\n• (De gevonden waarde van r invullen geeft) 1,61",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor het bolvormige ijsklontje met straal r moet gelden (4/3)πr³ = 27"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft r = ∛(81/(4π)) (= 1,86…) (cm)"
+    },
+    {
+     "points": 1,
+     "description": "De oppervlakte van het bolvormige ijsklontje is 4π · (81/(4π))^(2/3) (of 4π · 1,86…²) (cm²)"
+    },
+    {
+     "points": 1,
+     "description": "Het gevraagde quotiënt is 1,61"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-ii-ijsbol-antw3.png"
+   ]
+  },
+  {
+   "title": "IJsbol",
+   "question_number": 4,
+   "answer_text": "• Het volume van het deel van de ijsbol onder het wateroppervlak is π∫₋₁,₅ᵃ (2,25 − y²) dy\n• Er moet gelden π∫₋₁,₅ᵃ (2,25 − y²) dy = 0,92 · 14,137\n• Beschrijven hoe deze vergelijking (met de GR) kan worden opgelost\n• a ≈ 0,98 dus het gevraagde antwoord is 0,52 (cm)\nof\n• Het volume van het deel van de ijsbol boven het wateroppervlak is π∫₁,₅₋ₕ^1,5 (2,25 − y²) dy\n• Er moet gelden π∫₁,₅₋ₕ^1,5 (2,25 − y²) dy = 0,08 · 14,137\n• Beschrijven hoe deze vergelijking (met de GR) kan worden opgelost\n• h ≈ 0,52 (dus het gevraagde antwoord is 0,52 (cm))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het volume van het deel van de ijsbol onder het wateroppervlak is π∫₋₁,₅ᵃ (2,25 − y²) dy"
+    },
+    {
+     "points": 1,
+     "description": "Er moet gelden π∫₋₁,₅ᵃ (2,25 − y²) dy = 0,92 · 14,137"
+    },
+    {
+     "points": 2,
+     "description": "Beschrijven hoe deze vergelijking (met de GR) kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "a ≈ 0,98 dus het gevraagde antwoord is 0,52 (cm)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-ii-ijsbol-antw4.png"
+   ]
+  },
+  {
+   "title": "IJsbol",
+   "question_number": 5,
+   "answer_text": "• r(t) = a · t + 1,5 (voor een constante waarde a)\n• V(10) = 7,068… (= 2,25π) (cm³)\n• Hieruit volgt r(10) = ∛1,6875 (= 1,190…) (cm)\n• r(10) = 10a + 1,5 = 1,190… (of: a = (r(10) − r(0))/10) geeft a = −0,0309…\n• −0,0309… · t + 1,5 = 0 geeft t = 48,47…, dus het gevraagde antwoord is 49 (minuten)\nof\n• r(t) = a · t + 1,5 (voor een constante waarde a)\n• V(10) = 7,068… (= 2,25π) (cm³)\n• De vergelijking (4/3)π(10a + 1,5)³ = 7,068… moet worden opgelost\n• De oplossing van deze vergelijking is a = −0,0309…\n• −0,0309… · t + 1,5 = 0 geeft t = 48,47…, dus het gevraagde antwoord is 49 (minuten)\nof\n• (Na 10 minuten geldt:) (4/3)π · r³ = ½ · (4/3)π · 1,5³\n• Beschrijven hoe hieruit de waarde van r berekend kan worden\n• r = 1,190… (cm)\n• r neemt in 10 minuten af met 0,309… (cm), dus 0,0309… cm per minuut\n• 1,5/0,0309… = 48,47…, dus het gevraagde antwoord is 49 (minuten)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "r(t) = a · t + 1,5 (voor een constante waarde a)"
+    },
+    {
+     "points": 1,
+     "description": "V(10) = 7,068… (= 2,25π) (cm³)"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt r(10) = ∛1,6875 (= 1,190…) (cm)"
+    },
+    {
+     "points": 1,
+     "description": "r(10) = 10a + 1,5 = 1,190… (of: a = (r(10) − r(0))/10) geeft a = −0,0309…"
+    },
+    {
+     "points": 1,
+     "description": "−0,0309… · t + 1,5 = 0 geeft t = 48,47…, dus het gevraagde antwoord is 49 (minuten)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-ii-ijsbol-antw5.png"
+   ]
+  },
+  {
+   "title": "Constante verhouding",
+   "question_number": 6,
+   "answer_text": "• fₐ(x) + f₁/ₐ(x) = x − xln(ax) + x − xln((1/a)x) = 2x − x(ln(ax) + ln((1/a)x))\n• ln(ax) + ln((1/a)x) = ln(x²) = 2ln(x)\n• Dus (fₐ(x) + f₁/ₐ(x))/2 = (2x − x · 2ln(x))/2 = x − xln(x) (= f₁(x))\nof\n• fₐ(x) = x − xln(ax) = x − xln(a) − xln(x)\n• f₁/ₐ(x) = x − xln((1/a)x) = x + xln(a) − xln(x)\n• Dus (fₐ(x) + f₁/ₐ(x))/2 = (2x − 2xln(x))/2 = x − xln(x) (= f₁(x))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "fₐ(x) + f₁/ₐ(x) = x − xln(ax) + x − xln((1/a)x) = 2x − x(ln(ax) + ln((1/a)x))"
+    },
+    {
+     "points": 2,
+     "description": "ln(ax) + ln((1/a)x) = ln(x²) = 2ln(x)"
+    },
+    {
+     "points": 1,
+     "description": "Dus (fₐ(x) + f₁/ₐ(x))/2 = (2x − x · 2ln(x))/2 = x − xln(x) (= f₁(x))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-ii-constante-verhouding-antw6.png"
+   ]
+  },
+  {
+   "title": "Constante verhouding",
+   "question_number": 7,
+   "answer_text": "• x − xln(ax) = 0 geeft ln(ax) = 1\n• Dit geeft ax = e dus x_S = e/a\n• fₐ′(x) = 1 − (ln(ax) + x · a/(ax))\n• fₐ′(x) = 1 − ln(ax) − 1 = −ln(ax) = 0\n• Dit geeft ax = 1, dus x_T = 1/a\n• Dit geeft: x_S/x_T = (e/a)/(1/a) = e (en dus is de verhouding x_S/x_T constant)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "x − xln(ax) = 0 geeft ln(ax) = 1"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft ax = e dus x_S = e/a"
+    },
+    {
+     "points": 2,
+     "description": "fₐ′(x) = 1 − (ln(ax) + x · a/(ax))"
+    },
+    {
+     "points": 1,
+     "description": "fₐ′(x) = 1 − ln(ax) − 1 = −ln(ax) = 0"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft ax = 1, dus x_T = 1/a"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft: x_S/x_T = (e/a)/(1/a) = e (en dus is de verhouding x_S/x_T constant)"
+    }
+   ],
+   "grading_note": "Als de product- en/of kettingregel niet of onjuist is toegepast, voor deze vraag maximaal 5 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-ii-constante-verhouding-antw7.png"
+   ]
+  },
+  {
+   "title": "Gekanteld vierkant",
+   "question_number": 8,
+   "answer_text": "• Omdat ∠PBC = 90° is PC een middellijn van de cirkel (Thales)\n• Het middelpunt M is het midden van lijnstuk PC dus M(−1, −½)\n• De straal is ½CP = ½√(6² + 7²) = ½√85 (of een gelijkwaardige uitdrukking) (= 4,609…)\n• Een vergelijking van de cirkel is (x + 1)² + (y + ½)² = 21¼ (of een gelijkwaardige uitdrukking)\nof\n• Omdat ∠PBC = 90° is PC een middellijn van de cirkel (Thales)\n• Het middelpunt M is het midden van lijnstuk PC dus M(−1, −½)\n• Een vergelijking van de cirkel is (x + 1)² + (y + ½)² = r²\n• Invullen van de coördinaten van P, B of C geeft r² = 21¼, dus een vergelijking van de cirkel is (x + 1)² + (y + ½)² = 21¼ (of een gelijkwaardige uitdrukking)\nof\n• De middelloodlijn van lijnstuk BC heeft vergelijking y = −½x − 1 (of vectorvoorstelling (x, y) = (−2, 0) + s(2, −1))\n• De middelloodlijn van lijnstuk PB heeft vergelijking y = 2x + 1½ (of vectorvoorstelling (x, y) = (1, 3½) + t(1, 2))\n• Berekenen van het snijpunt van de middelloodlijnen geeft middelpunt M(−1, −½)\n• De straal is CM (= BM = PM) = √(21¼) (of een gelijkwaardige uitdrukking) (= 4,609…)\n• Een vergelijking van de cirkel is (x + 1)² + (y + ½)² = 21¼ (of een gelijkwaardige uitdrukking)\nof\n• Een vergelijking van de cirkel (met middelpunt (a, b) en straal r) is (x − a)² + (y − b)² = r²\n• Invullen van de coördinaten van de punten B, C en P geeft a² + (4 − b)² = r², (−4 − a)² + (−4 − b)² = r² en (2 − a)² + (3 − b)² = r²\n• Beschrijven hoe dit stelsel van drie vergelijkingen met drie onbekenden opgelost kan worden\n• a = −1, b = −½ en r = √21,25 (= 4,609…)\n• Een vergelijking van de cirkel is (x + 1)² + (y + ½)² = 21,25 (of een gelijkwaardige uitdrukking)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "Omdat ∠PBC = 90° is PC een middellijn van de cirkel (Thales)"
+    },
+    {
+     "points": 1,
+     "description": "Het middelpunt M is het midden van lijnstuk PC dus M(−1, −½)"
+    },
+    {
+     "points": 1,
+     "description": "De straal is ½CP = ½√(6² + 7²) = ½√85 (of een gelijkwaardige uitdrukking) (= 4,609…)"
+    },
+    {
+     "points": 1,
+     "description": "Een vergelijking van de cirkel is (x + 1)² + (y + ½)² = 21¼ (of een gelijkwaardige uitdrukking)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-ii-gekanteld-vierkant-antw8.png"
+   ]
+  },
+  {
+   "title": "Gekanteld vierkant",
+   "question_number": 9,
+   "answer_text": "• De lijn door P en D heeft vergelijking y = −5½x + 14\n• De lijn door C loodrecht op de lijn door P en D heeft vergelijking y = (2/11)(x + 4) − 4 (of een gelijkwaardige uitdrukking)\n• Snijden van de twee lijnen geeft de vergelijking (2/11)(x + 4) − 4 = −5½x + 14\n• Dit geeft x = 3 1/25\n• Het antwoord Q(3 1/25, −2 18/25)\nof\n• De lijn door P en D heeft vectorvoorstelling (x, y) = (2, 3) + t(2, −11)\n• CQ→ = (6 + 2t, 7 − 11t)\n• CQ→ ⊥ PD→ geeft (2, −11) · (6 + 2t, 7 − 11t) = 0\n• Dit geeft t = 13/25\n• Het antwoord Q(3 1/25, −2 18/25)\nof\n• Omdat ∠PQC = 90° is PC een middellijn van de cirkel (Thales), dus ligt Q op de cirkel door P, B en C met vergelijking (x + 1)² + (y + ½)² = 21¼\n• De lijn door P en D heeft vectorvoorstelling (x, y) = (2, 3) + t(2, −11)\n• (2t + 3)² + (−11t + 3½)² = 21¼ geeft 125t² − 65t = 0\n• Dit geeft t = 13/25 (t = 0 voldoet niet)\n• Het antwoord Q(3 1/25, −2 18/25)\nof\n• Omdat ∠PQC = 90° is PC een middellijn van de cirkel (Thales), dus ligt Q op de cirkel door P, B en C met vergelijking (x + 1)² + (y + ½)² = 21¼\n• De lijn door P en D heeft vergelijking y = −5½x + 14\n• (x + 1)² + (−5½x + 14½)² = 21¼ geeft 31¼x² − 157½x + 190 = 0\n• Dit geeft (bijvoorbeeld met de abc-formule) x = 3 1/25 (x = 2 voldoet niet)\n• Het antwoord Q(3 1/25, −2 18/25)\nof\n• De lijn door P en D heeft vectorvoorstelling (x, y) = (2, 3) + t(2, −11)\n• Dus Q heeft coördinaten (2 + 2t, 3 − 11t)\n• CP² = CQ² + PQ² geeft 6² + 7² = (6 + 2t)² + (7 − 11t)² + (2t)² + (−11t)²\n• Dit geeft t = 13/25 (t = 0 voldoet niet)\n• Het antwoord Q(3 1/25, −2 18/25)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De lijn door P en D heeft vergelijking y = −5½x + 14"
+    },
+    {
+     "points": 1,
+     "description": "De lijn door C loodrecht op de lijn door P en D heeft vergelijking y = (2/11)(x + 4) − 4 (of een gelijkwaardige uitdrukking)"
+    },
+    {
+     "points": 1,
+     "description": "Snijden van de twee lijnen geeft de vergelijking (2/11)(x + 4) − 4 = −5½x + 14"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft x = 3 1/25"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord Q(3 1/25, −2 18/25)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-ii-gekanteld-vierkant-antw9.png"
+   ]
+  },
+  {
+   "title": "Gekanteld vierkant",
+   "question_number": 10,
+   "answer_text": "• De hoogte van driehoek CDQ, met basis CD, moet ⅔ deel zijn van de zijde van het vierkant\n• Dus DQ : PQ = 2 : 1\n• (OQ→ = OD→ + ⅔ · DP→ geeft) OQ→ = (4, −8) + ⅔ · (−2, 11)\n• Het antwoord Q(8/3, −⅔)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De hoogte van driehoek CDQ, met basis CD, moet ⅔ deel zijn van de zijde van het vierkant"
+    },
+    {
+     "points": 1,
+     "description": "Dus DQ : PQ = 2 : 1"
+    },
+    {
+     "points": 2,
+     "description": "(OQ→ = OD→ + ⅔ · DP→ geeft) OQ→ = (4, −8) + ⅔ · (−2, 11)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord Q(8/3, −⅔)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-ii-gekanteld-vierkant-antw10.png"
+   ]
+  },
+  {
+   "title": "Anderhalf keer zo groot",
+   "question_number": 11,
+   "answer_text": "• f′(x) = 2x, dus de richtingscoëfficiënt van de raaklijn is 2p\n• Een vergelijking van de raaklijn is y = 2p(x − p) + p² (of een vergelijkbare uitdrukking)\n• Hieruit volgt dat de x-coördinaat van A gelijk is aan ½p\n• De oppervlakte van driehoek OAP is ½ · ½p · p² = ¼p³\n• Een vergelijking van de lijn door O en P is y = px\n• De oppervlakte van V is ∫₀ᵖ (px − x²) dx\n• Een primitieve van px − x² is ½px² − ⅓x³\n• De oppervlakte van V is ⅙p³, dus de oppervlakte van driehoek OAP is anderhalf keer zo groot als de oppervlakte van V\nof\n• De oppervlakte van driehoek OPP′, met P′(p, 0), is ½ · p · p² = ½p³\n• De oppervlakte van V is ½p³ − ∫₀ᵖ x² dx\n• Een primitieve van x² is ⅓x³\n• De oppervlakte van V is ½p³ − ⅓p³ = ⅙p³\n• f′(x) = 2x, dus de richtingscoëfficiënt van de raaklijn is 2p\n• P′P/AP′ = 2p, dus p²/AP′ = 2p\n• Hieruit volgt AP′ = p²/(2p) = ½p, dus OA = OP′ − AP′ = p − ½p = ½p\n• De oppervlakte van driehoek OAP is ½ · ½p · p² = ¼p³, dus de oppervlakte van driehoek OAP is anderhalf keer zo groot als de oppervlakte van V",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "f′(x) = 2x, dus de richtingscoëfficiënt van de raaklijn is 2p"
+    },
+    {
+     "points": 1,
+     "description": "Een vergelijking van de raaklijn is y = 2p(x − p) + p² (of een vergelijkbare uitdrukking)"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt dat de x-coördinaat van A gelijk is aan ½p"
+    },
+    {
+     "points": 1,
+     "description": "De oppervlakte van driehoek OAP is ½ · ½p · p² = ¼p³"
+    },
+    {
+     "points": 1,
+     "description": "Een vergelijking van de lijn door O en P is y = px"
+    },
+    {
+     "points": 1,
+     "description": "De oppervlakte van V is ∫₀ᵖ (px − x²) dx"
+    },
+    {
+     "points": 1,
+     "description": "Een primitieve van px − x² is ½px² − ⅓x³"
+    },
+    {
+     "points": 1,
+     "description": "De oppervlakte van V is ⅙p³, dus de oppervlakte van driehoek OAP is anderhalf keer zo groot als de oppervlakte van V"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-ii-anderhalf-keer-zo-groot-antw11.png"
+   ]
+  },
+  {
+   "title": "Een baan",
+   "question_number": 12,
+   "answer_text": "• cos(π − a)sin(2(π − a)) = cos(π − a)sin(2π − 2a) = cos(π − a) · −sin(2a)\n• cos(π − a) · −sin(2a) = −cos(a) · −sin(2a) = cos(a) · sin(2a)\n• Dus de x-coördinaat van P_(π−a) is gelijk aan de x-coördinaat van Pₐ (dus de lijn door Pₐ en P_(π−a) is verticaal)\nof\n• De lijn door Pₐ en P_(π−a) is verticaal als de x-coördinaten van Pₐ en P_(π−a) gelijk zijn\n• Er moet dus gelden dat cos(π − a)sin(2(π − a)) = cos(a)sin(2a)\n• −cos(a) · −sin(2a) = cos(a) · sin(2a) en dus bevinden beide punten zich recht boven elkaar, waarmee het gestelde bewezen is\nof\n• Er moet bewezen worden dat cos(π − a)sin(2(π − a)) = cos(a)sin(2a)\n• sin(2(π − a)) = sin(2π − 2a) = −sin(2a)\n• Omdat cos(π − a) = −cos(a) geldt nu cos(π − a) · sin(2(π − a)) = −cos(a) · −sin(2a) = cos(a) · sin(2a) en dus bevinden beide punten zich recht boven elkaar, waarmee het gestelde bewezen is",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "cos(π − a)sin(2(π − a)) = cos(π − a)sin(2π − 2a) = cos(π − a) · −sin(2a)"
+    },
+    {
+     "points": 1,
+     "description": "cos(π − a) · −sin(2a) = −cos(a) · −sin(2a) = cos(a) · sin(2a)"
+    },
+    {
+     "points": 1,
+     "description": "Dus de x-coördinaat van P_(π−a) is gelijk aan de x-coördinaat van Pₐ (dus de lijn door Pₐ en P_(π−a) is verticaal)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-ii-een-baan-antw12.png"
+   ]
+  },
+  {
+   "title": "Een baan",
+   "question_number": 13,
+   "answer_text": "• Er moet gelden 2 · |x(t)| = |y(t)|\n• 2 · |cos(t)sin(2t)| = |cos(t)| geeft cos(t) = 0 of |sin(2t)| = ½\n• cos(t) = 0 geeft t = ½π of t = 1½π (en deze laten we buiten beschouwing)\n• |sin(2t)| = ½ geeft 2t = ⅙π + k · π of 2t = ⅚π + k · π\n• De oplossing t = (11/12)π",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er moet gelden 2 · |x(t)| = |y(t)|"
+    },
+    {
+     "points": 1,
+     "description": "2 · |cos(t)sin(2t)| = |cos(t)| geeft cos(t) = 0 of |sin(2t)| = ½"
+    },
+    {
+     "points": 1,
+     "description": "cos(t) = 0 geeft t = ½π of t = 1½π (en deze laten we buiten beschouwing)"
+    },
+    {
+     "points": 1,
+     "description": "|sin(2t)| = ½ geeft 2t = ⅙π + k · π of 2t = ⅚π + k · π"
+    },
+    {
+     "points": 1,
+     "description": "De oplossing t = (11/12)π"
+    }
+   ],
+   "grading_note": "– Als gerekend is met |x(t)| = 2 · |y(t)| voor deze vraag maximaal 2 scorepunten toekennen.\n– Als gerekend is met y(t) = 2 · x(t) voor deze vraag maximaal 3 scorepunten toekennen.\n– Als gerekend is met x(t) = 2 · y(t) voor deze vraag maximaal 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-ii-een-baan-antw13.png"
+   ]
+  },
+  {
+   "title": "Een baan",
+   "question_number": 14,
+   "answer_text": "• Er geldt voor t = ¾π: OPₜ→ = (cos(¾π)sin(2 · ¾π), cos(¾π)) = (½√2, −½√2)\n• x′(t) = −sin(t)sin(2t) + cos(t) · 2cos(2t)\n• y′(t) = −sin(t)\n• Er geldt voor t = ¾π: v→ = (−sin(¾π)sin(2 · ¾π) + 2cos(¾π)cos(2 · ¾π), −sin(¾π)) = (½√2, −½√2) (en dus OPₜ→ en v→ gelijk)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er geldt voor t = ¾π: OPₜ→ = (cos(¾π)sin(2 · ¾π), cos(¾π)) = (½√2, −½√2)"
+    },
+    {
+     "points": 2,
+     "description": "x′(t) = −sin(t)sin(2t) + cos(t) · 2cos(2t)"
+    },
+    {
+     "points": 1,
+     "description": "y′(t) = −sin(t)"
+    },
+    {
+     "points": 1,
+     "description": "Er geldt voor t = ¾π: v→ = (−sin(¾π)sin(2 · ¾π) + 2cos(¾π)cos(2 · ¾π), −sin(¾π)) = (½√2, −½√2) (en dus OPₜ→ en v→ gelijk)"
+    }
+   ],
+   "grading_note": "Als de product- en/of kettingregel niet of onjuist is toegepast, voor deze vraag maximaal 3 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-ii-een-baan-antw14.png"
+   ]
+  },
+  {
+   "title": "Buiten een vierkant",
+   "question_number": 15,
+   "answer_text": "• Een vergelijking van de cirkel is (x − 3)² + (y − 2)² = 5\n• De lijn door A en C heeft vergelijking y = 4 − x\n• De cirkel snijden met deze lijn geeft x² − 5x + 4 = 0\n• Dan volgt (x − 1)(x − 4) = 0 dus de x-coördinaat van F is 1 (want x = 4 geeft punt A)\n• F(1,3) en omdat C(0,4) en S(2,2) (of: omdat F op CS ligt en x_F = 1 = (0 + 2)/2 = (x_C + x_S)/2) is F het midden van CS\nof\n• (Omdat C(0,4) en S(2,2) geldt:) het midden van CS is het punt (1,3)\n• De afstand tussen (1,3) en (3,2) is √5\n• Ook geldt MA (= MB) = √5\n• Dus (1,3) ligt op de gegeven cirkel\n• Dus is F het midden van CS\nof\n• (Omdat C(0,4) en S(2,2) geldt:) het midden van CS is het punt (1,3)\n• Een vergelijking van de cirkel is (x − 3)² + (y − 2)² = 5\n• De lijn door A en C heeft vergelijking y = 4 − x\n• Omdat (1 − 3)² + (3 − 2)² = 5 ligt (1,3) op de cirkel\n• Omdat 3 = 4 − 1 ligt (1,3) op de lijn door A en C (en dus is F het midden van CS)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Een vergelijking van de cirkel is (x − 3)² + (y − 2)² = 5"
+    },
+    {
+     "points": 1,
+     "description": "De lijn door A en C heeft vergelijking y = 4 − x"
+    },
+    {
+     "points": 1,
+     "description": "De cirkel snijden met deze lijn geeft x² − 5x + 4 = 0"
+    },
+    {
+     "points": 1,
+     "description": "Dan volgt (x − 1)(x − 4) = 0 dus de x-coördinaat van F is 1 (want x = 4 geeft punt A)"
+    },
+    {
+     "points": 1,
+     "description": "F(1,3) en omdat C(0,4) en S(2,2) (of: omdat F op CS ligt en x_F = 1 = (0 + 2)/2 = (x_C + x_S)/2) is F het midden van CS"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-ii-buiten-een-vierkant-antw15.png"
+   ]
+  },
+  {
+   "title": "Buiten een vierkant",
+   "question_number": 16,
+   "answer_text": "• MF→ · MB→ = (−2, 1) · (1, 2) = 0 dus ∠(MF→, MB→) = 90°\n• MG→ · MA→ = (−2, −1) · (1, −2) = 0 dus ∠(MG→, MA→) = 90°\n• ∠(MF→, MB→) + ∠(MG→, MA→) = 90° + 90° = 180° (of: cirkelsector BMF is een kwart cirkel en cirkelsector GMA is een kwart cirkel), dus de oppervlakte van de twee sectoren samen is gelijk aan de helft van de oppervlakte van de cirkel\nof\n• rc_MB = 2 en rc_FM = −½ dus rc_MB · rc_FM = −1 en dus MB→ ⊥ MF→\n• rc_MA = −2 en rc_GM = ½ dus rc_MA · rc_GM = −1 en dus MA→ ⊥ MG→\n• Dan volgt: cirkelsector BMF is een kwart cirkel en cirkelsector GMA is een kwart cirkel (of: ∠(MF→, MB→) + ∠(MG→, MA→) = 90° + 90° = 180°), dus de oppervlakte van de twee sectoren samen is gelijk aan de helft van de oppervlakte van de cirkel\nof\n• cos(∠(MF→, MG→)) = ((−2, 1) · (−2, −1)) / (|(−2, 1)| · |(−2, −1)|) = 3/5\n• cos(∠(MB→, MA→)) = ((1, 2) · (1, −2)) / |(1, 2) · (1, −2)| = −3/5\n• cos(180° − α) = −cos(α), dus ∠(MF→, MG→) + ∠(MB→, MA→) = 180°, dus de oppervlakte van de twee sectoren samen is gelijk aan de helft van de oppervlakte van de cirkel",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "MF→ · MB→ = (−2, 1) · (1, 2) = 0 dus ∠(MF→, MB→) = 90°"
+    },
+    {
+     "points": 1,
+     "description": "MG→ · MA→ = (−2, −1) · (1, −2) = 0 dus ∠(MG→, MA→) = 90°"
+    },
+    {
+     "points": 1,
+     "description": "∠(MF→, MB→) + ∠(MG→, MA→) = 90° + 90° = 180° (of: cirkelsector BMF is een kwart cirkel en cirkelsector GMA is een kwart cirkel), dus de oppervlakte van de twee sectoren samen is gelijk aan de helft van de oppervlakte van de cirkel"
+    }
+   ],
+   "grading_note": "Wanneer de hoeken zijn benaderd voor deze vraag maximaal 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-ii-buiten-een-vierkant-antw16.png"
+   ]
+  }
+ ]
+}

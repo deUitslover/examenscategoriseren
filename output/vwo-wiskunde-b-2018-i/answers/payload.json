@@ -1,0 +1,478 @@
+{
+ "subject_name": "Wiskunde B",
+ "level": "VWO",
+ "source": "VWO Wiskunde B 2018-I",
+ "answers": [
+  {
+   "title": "Bewegend punt",
+   "question_number": 1,
+   "answer_text": "• (1 − t² = 0 geeft t = −1 of t = 1; y(−1) = 0, dus) bij punt A hoort t = 1\n• dx/dt = −2t en dy/dt = 2(1 + t)\n• [dx/dt]ₜ₌₁ = −2 en [dy/dt]ₜ₌₁ = 4\n• De snelheid is (√((−2)² + 4²) = ) 2√5 (of √20)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(1 − t² = 0 geeft t = −1 of t = 1; y(−1) = 0, dus) bij punt A hoort t = 1"
+    },
+    {
+     "points": 1,
+     "description": "dx/dt = −2t en dy/dt = 2(1 + t)"
+    },
+    {
+     "points": 1,
+     "description": "[dx/dt]ₜ₌₁ = −2 en [dy/dt]ₜ₌₁ = 4"
+    },
+    {
+     "points": 1,
+     "description": "De snelheid is (√((−2)² + 4²) = ) 2√5 (of √20)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-bewegend-punt-antw1.png"
+   ]
+  },
+  {
+   "title": "Bewegend punt",
+   "question_number": 2,
+   "answer_text": "• x + y = 1 − t² + 1 + 2t + t²\n• x + y = 2(1 + t) (of x + y = 2 + 2t)\n• (x + y)² = 4(1 + t)²\n• 4y = 4(1 + t)² (dus is (x + y)² = 4y)\nof\n• Te bewijzen is (1 − t² + (1 + t)²)² = 4(1 + t)² (voor elke waarde van t)\n• 1 − t² + (1 + t)² = 2 + 2t\n• (2 + 2t)² = 4 + 8t + 4t²\n• 4(1 + t)² = 4 + 8t + 4t² (dus is (x + y)² = 4y)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "x + y = 1 − t² + 1 + 2t + t²"
+    },
+    {
+     "points": 1,
+     "description": "x + y = 2(1 + t) (of x + y = 2 + 2t)"
+    },
+    {
+     "points": 1,
+     "description": "(x + y)² = 4(1 + t)²"
+    },
+    {
+     "points": 1,
+     "description": "4y = 4(1 + t)² (dus is (x + y)² = 4y)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-bewegend-punt-antw2.png"
+   ]
+  },
+  {
+   "title": "Lijn door de toppen",
+   "question_number": 3,
+   "answer_text": "• fₐ′(x) = 0 geeft eᵃˣ(1 + ax) = 0\n• (eᵃˣ ≠ 0) dus 1 + ax = 0, dus (voor de x-coördinaat van de top geldt) x = −1/a\n• Voor de y-coördinaat van de top geldt y = fₐ(−1/a) = −1/a · e⁻¹\n• Dit is gelijk aan 1/e · −1/a (dus de top ligt op lijn l)\nof\n• fₐ′(x) = 0 geeft eᵃˣ(1 + ax) = 0\n• (eᵃˣ ≠ 0) dus 1 + ax = 0, dus (voor de x-coördinaat van de top geldt) x = −1/a\n• Uit x = −1/a volgt a = −1/x\n• Invullen in fₐ geeft y = x·e^(−(1/x)·x) = (1/e)x (dus de top ligt op lijn l)\nof\n• fₐ(x) = (1/e)x geeft eᵃˣ = 1/e (x = 0 voldoet niet)\n• Dus ax = −1, dus x = −1/a\n• fₐ′(−1/a) = e^(a·−1/a) + a · −1/a · e^(a·−1/a)\n• Dit is gelijk aan e⁻¹ − e⁻¹ = 0 (dus de top ligt op lijn l)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "fₐ′(x) = 0 geeft eᵃˣ(1 + ax) = 0"
+    },
+    {
+     "points": 1,
+     "description": "(eᵃˣ ≠ 0) dus 1 + ax = 0, dus (voor de x-coördinaat van de top geldt) x = −1/a"
+    },
+    {
+     "points": 1,
+     "description": "Voor de y-coördinaat van de top geldt y = fₐ(−1/a) = −1/a · e⁻¹"
+    },
+    {
+     "points": 1,
+     "description": "Dit is gelijk aan 1/e · −1/a (dus de top ligt op lijn l)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-lijn-door-de-toppen-antw3.png"
+   ]
+  },
+  {
+   "title": "Lijn door de toppen",
+   "question_number": 4,
+   "answer_text": "• (Er moet gelden: Fₐ′(x) = fₐ(x);) de afgeleide van eᵃˣ is eᵃˣ · a\n• De afgeleide van (1/a²)eᵃˣ is (1/a²)eᵃˣ · a = (1/a)eᵃˣ\n• Toepassen van de productregel geeft Fₐ′(x) = (1/a)eᵃˣ + (1/a)x · aeᵃˣ − (1/a)eᵃˣ = xeᵃˣ (= fₐ(x))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(Er moet gelden: Fₐ′(x) = fₐ(x);) de afgeleide van eᵃˣ is eᵃˣ · a"
+    },
+    {
+     "points": 1,
+     "description": "De afgeleide van (1/a²)eᵃˣ is (1/a²)eᵃˣ · a = (1/a)eᵃˣ"
+    },
+    {
+     "points": 1,
+     "description": "Toepassen van de productregel geeft Fₐ′(x) = (1/a)eᵃˣ + (1/a)x · aeᵃˣ − (1/a)eᵃˣ = xeᵃˣ (= fₐ(x))"
+    }
+   ],
+   "grading_note": "Als een kandidaat bij het differentiëren de kettingregel beide keren niet of niet correct heeft toegepast, dan geen scorepunten toekennen voor het eerste en tweede antwoordelement.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-lijn-door-de-toppen-antw4.png"
+   ]
+  },
+  {
+   "title": "Lijn door de toppen",
+   "question_number": 5,
+   "answer_text": "• xeˣ = (1/e)x geeft x = 0 of eˣ = e⁻¹, dus x = 0 of x = −1\n• De gevraagde oppervlakte is gelijk aan ∫₋₁⁰ ((1/e)x − xeˣ) dx\n• Een primitieve van (1/e)x is (1/(2e))x²\n• Een primitieve van (1/e)x − xeˣ is (1/(2e))x² − xeˣ + eˣ\n• De oppervlakte is gelijk aan 1 − 1/(2e) − 2/e (= 1 − 5/(2e))\nof\n• xeˣ = (1/e)x geeft x = 0 of eˣ = e⁻¹, dus x = 0 of x = −1\n• De gevraagde oppervlakte is gelijk aan het verschil van −∫₋₁⁰ xeˣ dx en de oppervlakte van driehoek OPQ met P het snijpunt van l en de grafiek van f₁ en Q de loodrechte projectie van P op de x-as\n• (f₁(−1) = −1/e, dus) de gevraagde oppervlakte is gelijk aan −∫₋₁⁰ xeˣ dx − ½ · 1 · 1/e\n• Een primitieve van xeˣ is xeˣ − eˣ, dus de gevraagde oppervlakte is gelijk aan −[xeˣ − eˣ]₋₁⁰ − ½ · 1 · 1/e\n• De oppervlakte is gelijk aan 1 − 2/e − 1/(2e) (= 1 − 5/(2e))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "xeˣ = (1/e)x geeft x = 0 of eˣ = e⁻¹, dus x = 0 of x = −1"
+    },
+    {
+     "points": 1,
+     "description": "De gevraagde oppervlakte is gelijk aan ∫₋₁⁰ ((1/e)x − xeˣ) dx"
+    },
+    {
+     "points": 1,
+     "description": "Een primitieve van (1/e)x is (1/(2e))x²"
+    },
+    {
+     "points": 1,
+     "description": "Een primitieve van (1/e)x − xeˣ is (1/(2e))x² − xeˣ + eˣ"
+    },
+    {
+     "points": 1,
+     "description": "De oppervlakte is gelijk aan 1 − 1/(2e) − 2/e (= 1 − 5/(2e))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-lijn-door-de-toppen-antw5.png"
+   ]
+  },
+  {
+   "title": "Zwaartepunt en rakende cirkels",
+   "question_number": 6,
+   "answer_text": "• Een vergelijking van c is (x − 14)² + (y − 8)² = 10²\n• De vergelijking (x − 14)² + (0 − 8)² = 10² moet worden opgelost\n• Uit (x − 14)² = 36 volgt voor A: x = 8 en voor B: x = 20\n• Voor het zwaartepunt Z geldt OZ→ = 3/6 · (8, 0) + 1/6 · (20, 0) + 2/6 · (14, 8)\n• De coördinaten zijn (12, 2⅔)\nof\n• AP² + PM² = AM², waarbij P de loodrechte projectie van M op de x-as is\n• Dus AP² + 8² = 10², waaruit volgt AP (= BP) = 6\n• Hieruit volgt voor A: x (= 14 − 6) = 8 en voor B: x (= 14 + 6) = 20\n• Voor het zwaartepunt Z geldt OZ→ = 3/6 · (8, 0) + 1/6 · (20, 0) + 2/6 · (14, 8)\n• De coördinaten zijn (12, 2⅔)\nof\n• PM = 8 en AM = 10, waarbij P de loodrechte projectie van M op de x-as is; dus driehoek APM is een 3-4-5-driehoek\n• Hieruit volgt AP (= BP) = 6\n• Hieruit volgt voor A: x (= 14 − 6) = 8 en voor B: x (= 14 + 6) = 20\n• Voor het zwaartepunt Z geldt OZ→ = 3/6 · (8, 0) + 1/6 · (20, 0) + 2/6 · (14, 8)\n• De coördinaten zijn (12, 2⅔)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Een vergelijking van c is (x − 14)² + (y − 8)² = 10²"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking (x − 14)² + (0 − 8)² = 10² moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Uit (x − 14)² = 36 volgt voor A: x = 8 en voor B: x = 20"
+    },
+    {
+     "points": 1,
+     "description": "Voor het zwaartepunt Z geldt OZ→ = 3/6 · (8, 0) + 1/6 · (20, 0) + 2/6 · (14, 8)"
+    },
+    {
+     "points": 1,
+     "description": "De coördinaten zijn (12, 2⅔)"
+    }
+   ],
+   "grading_note": "– De vectoren mogen ook genoteerd worden als (8,0), (20,0) en (14,8).\n– Als het eindantwoord genoteerd wordt als de vector (12, 2⅔), voor deze vraag maximaal 4 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-zwaartepunt-en-rakende-cirkels-antw6.png"
+   ]
+  },
+  {
+   "title": "Zwaartepunt en rakende cirkels",
+   "question_number": 7,
+   "answer_text": "• MN = r + 10, waarbij r de straal van cirkel d is\n• NP = 14 − r, waarbij P de loodrechte projectie van M op de x-as is\n• MP = 8, dus geldt (14 − r)² + 8² = (r + 10)²\n• Herleiden tot een lineaire vergelijking als 260 − 28r = 20r + 100\n• Oplossen geeft straal 3⅓",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "MN = r + 10, waarbij r de straal van cirkel d is"
+    },
+    {
+     "points": 1,
+     "description": "NP = 14 − r, waarbij P de loodrechte projectie van M op de x-as is"
+    },
+    {
+     "points": 1,
+     "description": "MP = 8, dus geldt (14 − r)² + 8² = (r + 10)²"
+    },
+    {
+     "points": 1,
+     "description": "Herleiden tot een lineaire vergelijking als 260 − 28r = 20r + 100"
+    },
+    {
+     "points": 1,
+     "description": "Oplossen geeft straal 3⅓"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-zwaartepunt-en-rakende-cirkels-antw7.png"
+   ]
+  },
+  {
+   "title": "Maxima en minima",
+   "question_number": 8,
+   "answer_text": "• f′(x) = 6cos(x) + 2sin(2x)\n• 2sin(2x) = 4sin(x)cos(x)\n• f′(x) = 0 geeft 2cos(x) · (3 + 2sin(x)) = 0\n• 3 + 2sin(x) = 0 geeft sin(x) = −1½; deze vergelijking heeft geen oplossingen\n• cos(x) = 0 geeft x = ½π + k · π (met k geheel)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "f′(x) = 6cos(x) + 2sin(2x)"
+    },
+    {
+     "points": 1,
+     "description": "2sin(2x) = 4sin(x)cos(x)"
+    },
+    {
+     "points": 1,
+     "description": "f′(x) = 0 geeft 2cos(x) · (3 + 2sin(x)) = 0"
+    },
+    {
+     "points": 1,
+     "description": "3 + 2sin(x) = 0 geeft sin(x) = −1½; deze vergelijking heeft geen oplossingen"
+    },
+    {
+     "points": 1,
+     "description": "cos(x) = 0 geeft x = ½π + k · π (met k geheel)"
+    }
+   ],
+   "grading_note": "Als een kandidaat bij het differentiëren de kettingregel niet of niet correct heeft toegepast, voor deze vraag maximaal 4 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-maxima-en-minima-antw8.png"
+   ]
+  },
+  {
+   "title": "Maxima en minima",
+   "question_number": 9,
+   "answer_text": "• Het lijnstuk zit op hoogte f(1½π − 1) (of f(1½π + 1))\n• f(1½π − 1) = −3,657…\n• (−3,657… − −5 = 1,342… dus) de gevraagde afstand is 1,34\nof\n• De vergelijking f(x) = f(x + 2) (of f(x) = f(x − 2)) moet worden opgelost\n• Beschrijven hoe de vergelijking f(x) = f(x + 2) kan worden opgelost\n• Dat geeft (x = 3,712… met) y = −3,657… (andere oplossingen voldoen niet)\n• (−3,657… − −5 = 1,342… dus) de gevraagde afstand is 1,34",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "Het lijnstuk zit op hoogte f(1½π − 1) (of f(1½π + 1))"
+    },
+    {
+     "points": 1,
+     "description": "f(1½π − 1) = −3,657…"
+    },
+    {
+     "points": 1,
+     "description": "(−3,657… − −5 = 1,342… dus) de gevraagde afstand is 1,34"
+    }
+   ],
+   "grading_note": "Voor het eerste antwoordelement van het eerste alternatief uitsluitend 0 of 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-maxima-en-minima-antw9.png"
+   ]
+  },
+  {
+   "title": "Sheffield Winter Garden",
+   "question_number": 10,
+   "answer_text": "• d = f₀,₇(3) − f₀,₇(0)\n• d = 4,49…\n• De vergelijking 0,7 = (8 · 4,49…) / (l² − 4 · 4,49…²) moet worden opgelost\n• (Dit geeft l = 11,491… dus) de gevraagde lengte is 11,49",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "d = f₀,₇(3) − f₀,₇(0)"
+    },
+    {
+     "points": 1,
+     "description": "d = 4,49…"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking 0,7 = (8 · 4,49…) / (l² − 4 · 4,49…²) moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "(Dit geeft l = 11,491… dus) de gevraagde lengte is 11,49"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-sheffield-winter-garden-antw10.png"
+   ]
+  },
+  {
+   "title": "Sheffield Winter Garden",
+   "question_number": 11,
+   "answer_text": "• h(x) = −fₖ(x) + c (voor een zekere waarde van c)\n• k = (8 · 20,51) / (49,63² − 4 · 20,51²) (= 0,21…)\n• Bij de beeldgrafiek van de grafiek van f₀,₂₁… na spiegeling in de x-as hoort de functie g(x) = −2,37…(e^(0,21…x) + e^(−0,21…x)) (of g(x) = −1/(2 · 0,21…) · (e^(0,21…x) + e^(−0,21…x)))\n• g(0) = −4,75…\n• De top ligt op hoogte 20,51, dus een functievoorschrift van h is h(x) = 25,27 − 2,38(e^(0,21x) + e^(−0,21x)) (of een gelijkwaardige uitdrukking)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "h(x) = −fₖ(x) + c (voor een zekere waarde van c)"
+    },
+    {
+     "points": 1,
+     "description": "k = (8 · 20,51) / (49,63² − 4 · 20,51²) (= 0,21…)"
+    },
+    {
+     "points": 1,
+     "description": "Bij de beeldgrafiek van de grafiek van f₀,₂₁… na spiegeling in de x-as hoort de functie g(x) = −2,37…(e^(0,21…x) + e^(−0,21…x)) (of g(x) = −1/(2 · 0,21…) · (e^(0,21…x) + e^(−0,21…x)))"
+    },
+    {
+     "points": 1,
+     "description": "g(0) = −4,75…"
+    },
+    {
+     "points": 1,
+     "description": "De top ligt op hoogte 20,51, dus een functievoorschrift van h is h(x) = 25,27 − 2,38(e^(0,21x) + e^(−0,21x)) (of een gelijkwaardige uitdrukking)"
+    }
+   ],
+   "grading_note": "Als in het eindantwoord ook e op twee decimalen (correct) wordt afgerond, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-sheffield-winter-garden-antw11.png"
+   ]
+  },
+  {
+   "title": "Natuurlijke logaritme van de wortel",
+   "question_number": 12,
+   "answer_text": "• (Voor een punt (x, y) op de grafiek van f^inv geldt) x = ln(√y)\n• Dus eˣ = √y\n• Hieruit volgt f^inv(x) = (eˣ)², dus f^inv(x) = e²ˣ\nof\n• (Voor een punt (x, y) op de grafiek van f^inv geldt) x = ln(√y)\n• (x = ln(y^½), dus) x = ½ln(y), dus 2x = ln(y)\n• Hieruit volgt f^inv(x) = e²ˣ\nof\n• f is de samengestelde functie van y = √x en y = ln(x)\n• f^inv is dus de samengestelde functie van y = eˣ en y = x²\n• Hieruit volgt f^inv(x) = (eˣ)², dus f^inv(x) = e²ˣ",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(Voor een punt (x, y) op de grafiek van f^inv geldt) x = ln(√y)"
+    },
+    {
+     "points": 1,
+     "description": "Dus eˣ = √y"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt f^inv(x) = (eˣ)², dus f^inv(x) = e²ˣ"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-natuurlijke-logaritme-van-de-wortel-antw12.png"
+   ]
+  },
+  {
+   "title": "Natuurlijke logaritme van de wortel",
+   "question_number": 13,
+   "answer_text": "• De lengte van het lijnstuk is g(x) − f(x)\n• g(x) = ½ · e²ˣ\n• Beschrijven hoe het minimum van g(x) − f(x) berekend kan worden\n• De minimale lengte van het lijnstuk is 1,512",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De lengte van het lijnstuk is g(x) − f(x)"
+    },
+    {
+     "points": 1,
+     "description": "g(x) = ½ · e²ˣ"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe het minimum van g(x) − f(x) berekend kan worden"
+    },
+    {
+     "points": 1,
+     "description": "De minimale lengte van het lijnstuk is 1,512"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-natuurlijke-logaritme-van-de-wortel-antw13.png"
+   ]
+  },
+  {
+   "title": "Natuurlijke logaritme van de wortel",
+   "question_number": 14,
+   "answer_text": "• Het bepalen van de x-coördinaat van de perforatie: uit ln(x) = 0 volgt x = 1 (en er geldt ln(√1) = 0) of: uit ln(√x) = 0 volgt x = 1 (en er geldt ln(1) = 0) of: uit ln(x) = 0 en ln(√x) = 0 volgt x = 1\n• Er geldt ln(x^½) = ½ln(x)\n• (Voor x ≠ 1 en x > 0) geldt h(x) (= ln(x^½) / ln(x)) = ½ln(x) / ln(x) = ½\n• De coördinaten van de perforatie zijn dus (1, ½)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het bepalen van de x-coördinaat van de perforatie: uit ln(x) = 0 volgt x = 1 (en er geldt ln(√1) = 0) of: uit ln(√x) = 0 volgt x = 1 (en er geldt ln(1) = 0) of: uit ln(x) = 0 en ln(√x) = 0 volgt x = 1"
+    },
+    {
+     "points": 1,
+     "description": "Er geldt ln(x^½) = ½ln(x)"
+    },
+    {
+     "points": 1,
+     "description": "(Voor x ≠ 1 en x > 0) geldt h(x) (= ln(x^½) / ln(x)) = ½ln(x) / ln(x) = ½"
+    },
+    {
+     "points": 1,
+     "description": "De coördinaten van de perforatie zijn dus (1, ½)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-natuurlijke-logaritme-van-de-wortel-antw14.png"
+   ]
+  },
+  {
+   "title": "Vierkant onder grafiek",
+   "question_number": 15,
+   "answer_text": "• Er moet gelden f(1 + p) = p, met p de lengte van de zijde van het vierkant\n• 1/(1 + p) = p geeft p² + p − 1 = 0\n• Dit geeft p = (−1 ± √(1 + 4))/2\n• De lengte van de zijde is −½ + ½√5 (of (−1 + √5)/2) (−½ − ½√5 voldoet niet)\nof\n• Er moet gelden f(q) = q − 1, met q de x-coördinaat van het hoekpunt rechtsonder\n• 1/q = q − 1 geeft q² − q − 1 = 0\n• Dit geeft q = (1 ± √(1 + 4))/2\n• q − 1 = (1 ± √(1 + 4))/2 − 1, dus de lengte van de zijde is −½ + ½√5 (of (−1 + √5)/2) (−½ − ½√5 voldoet niet)\nof\n• De diagonaal van het vierkant door het hoekpunt rechtsboven ligt op de lijn met vergelijking y = x − 1\n• Voor de x-coördinaat van het hoekpunt rechtsboven geldt x − 1 = 1/x, ofwel x² − x − 1 = 0\n• Dit geeft x = (1 ± √(1 + 4))/2\n• x − 1 = (1 ± √(1 + 4))/2 − 1, dus de lengte van de zijde is −½ + ½√5 (of (−1 + √5)/2) (−½ − ½√5 voldoet niet)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er moet gelden f(1 + p) = p, met p de lengte van de zijde van het vierkant"
+    },
+    {
+     "points": 1,
+     "description": "1/(1 + p) = p geeft p² + p − 1 = 0"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft p = (−1 ± √(1 + 4))/2"
+    },
+    {
+     "points": 1,
+     "description": "De lengte van de zijde is −½ + ½√5 (of (−1 + √5)/2) (−½ − ½√5 voldoet niet)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-vierkant-onder-grafiek-antw15.png"
+   ]
+  },
+  {
+   "title": "Twee vierkanten op een kwartcirkel",
+   "question_number": 16,
+   "answer_text": "• Er moet gelden AC² = 2 · BC² (of AC = √2 · BC)\n• AC² = (1 − cos(t))² + (sin(t))² (of een gelijkwaardige uitdrukking, zoals 2 − 2cos(t))\n• BC² = (cos(t))² + (1 − sin(t))² (of een gelijkwaardige uitdrukking, zoals 2 − 2sin(t))\n• Beschrijven hoe de vergelijking (1 − cos(t))² + (sin(t))² = 2((cos(t))² + (1 − sin(t))²) (voor 0 < t < ½π) opgelost kan worden\n• t ≈ 0,93\nof\n• Er moet gelden AC² = 2 · BC² (of AC = √2 · BC)\n• AC² = 1 + 1 − 2 · 1 · 1 · cos(t) = 2 − 2cos(t)\n• BC² = 1 + 1 − 2 · 1 · 1 · cos(½π − t) = 2 − 2cos(½π − t)\n• Beschrijven hoe de vergelijking 2 − 2cos(t) = 2 · (2 − 2cos(½π − t)) (voor 0 < t < ½π) opgelost kan worden\n• t ≈ 0,93\nof\n• Er moet gelden AC² = 2 · BC² (of AC = √2 · BC)\n• sin(½t) = (½AC)/OC, ofwel sin(½t) = ½AC, dus AC = 2sin(½t)\n• sin(½∠BOC) = (½BC)/OC, ofwel sin(½(½π − t)) = ½BC, dus BC = 2sin(¼π − ½t)\n• Beschrijven hoe de vergelijking (2sin(½t))² = 2 · (2sin(¼π − ½t))² (voor 0 < t < ½π) opgelost kan worden\n• t ≈ 0,93",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er moet gelden AC² = 2 · BC² (of AC = √2 · BC)"
+    },
+    {
+     "points": 1,
+     "description": "AC² = (1 − cos(t))² + (sin(t))² (of een gelijkwaardige uitdrukking, zoals 2 − 2cos(t))"
+    },
+    {
+     "points": 1,
+     "description": "BC² = (cos(t))² + (1 − sin(t))² (of een gelijkwaardige uitdrukking, zoals 2 − 2sin(t))"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe de vergelijking (1 − cos(t))² + (sin(t))² = 2((cos(t))² + (1 − sin(t))²) (voor 0 < t < ½π) opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "t ≈ 0,93"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-twee-vierkanten-op-een-kwartcirkel-antw16.png"
+   ]
+  },
+  {
+   "title": "Twee vierkanten op een kwartcirkel",
+   "question_number": 17,
+   "answer_text": "• OF→ = OC→ + CF→\n• CB→ = OB→ − OC→ = (0, 1) − (cos(t), sin(t)) = (−cos(t), 1 − sin(t))\n• (CF→ is het beeld van CB→ bij een rotatie over −90°, dus) CF→ = (1 − sin(t), cos(t))\n• OF→ = (cos(t), sin(t)) + (1 − sin(t), cos(t)) = (1 − sin(t) + cos(t), sin(t) + cos(t))\nof\n• x_F = x_C + (x_F − x_C) = x_C + (y_B − y_C)\n• x_F = cos(t) + 1 − sin(t)\n• y_F = y_C + (y_F − y_C) = y_C + (x_C − x_B)\n• y_F = sin(t) + cos(t) (dus de formule voor OF→ is juist)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "OF→ = OC→ + CF→"
+    },
+    {
+     "points": 1,
+     "description": "CB→ = OB→ − OC→ = (0, 1) − (cos(t), sin(t)) = (−cos(t), 1 − sin(t))"
+    },
+    {
+     "points": 1,
+     "description": "(CF→ is het beeld van CB→ bij een rotatie over −90°, dus) CF→ = (1 − sin(t), cos(t))"
+    },
+    {
+     "points": 1,
+     "description": "OF→ = (cos(t), sin(t)) + (1 − sin(t), cos(t)) = (1 − sin(t) + cos(t), sin(t) + cos(t))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2018-i-twee-vierkanten-op-een-kwartcirkel-antw17.png"
+   ]
+  }
+ ]
+}
