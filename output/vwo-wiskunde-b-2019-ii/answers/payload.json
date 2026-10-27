@@ -1,0 +1,494 @@
+{
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "source": "VWO Wiskunde B 2019-II",
+  "answers": [
+    {
+      "title": "Minimale lengte",
+      "question_number": 1,
+      "answer_text": "• Δx = 7 − p en Δy = f(p), waarbij p de x-coördinaat van P is\n• AP = √((7 − p)² + (f(p))²) (of AP² = (7 − p)² + (f(p))²)\n• Beschrijven hoe het minimum hiervan (met de GR) bepaald kan worden\n• De minimale lengte van AP is 4,35",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Δx = 7 − p en Δy = f(p), waarbij p de x-coördinaat van P is"
+        },
+        {
+          "points": 1,
+          "description": "AP = √((7 − p)² + (f(p))²) (of AP² = (7 − p)² + (f(p))²)"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe het minimum hiervan (met de GR) bepaald kan worden"
+        },
+        {
+          "points": 1,
+          "description": "De minimale lengte van AP is 4,35"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-minimale-lengte-antw1.png"
+      ]
+    },
+    {
+      "title": "Bewegend punt",
+      "question_number": 2,
+      "answer_text": "• y = 0 geeft sin(2t) = sin(t)\n• Hieruit volgt 2t = t + k · 2π (met k geheel) of 2t = π − t + k · 2π (met k geheel)\n• Dit geeft t = 0, t = ⅓π, t = π, t = 1⅔π en t = 2π\n• x(⅓π) = −½ − ½√3\nof\n• y(t) = 2sin(t)cos(t) − sin(t)\n• y = 0 geeft sin(t) = 0 of cos(t) = ½\n• Dit geeft t = 0, t = ⅓π, t = π, t = 1⅔π en t = 2π\n• x(⅓π) = −½ − ½√3",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "y = 0 geeft sin(2t) = sin(t)"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt 2t = t + k · 2π (met k geheel) of 2t = π − t + k · 2π (met k geheel)"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft t = 0, t = ⅓π, t = π, t = 1⅔π en t = 2π"
+        },
+        {
+          "points": 1,
+          "description": "x(⅓π) = −½ − ½√3"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-bewegend-punt-antw2.png"
+      ]
+    },
+    {
+      "title": "Bewegend punt",
+      "question_number": 3,
+      "answer_text": "• De afgeleide van sin(2t) is 2cos(2t)\n• De afgeleide van cos(2t) is −2sin(2t)\n• (x′(t) = −2sin(2t) − 2cos(2t) en y′(t) = 2cos(2t) − cos(t), dus) (x′(0), y′(0)) = (−2, 1) en (x′(π), y′(π)) = (−2, 3)\n• cos(φ) = ((−2, 1) · (−2, 3)) / (|(−2, 1)| · |(−2, 3)|) (waarbij φ de gevraagde hoek is)\n• cos(φ) = 7/√65\n• φ ≈ 29,7(°)\nof\n• De afgeleide van sin(2t) is 2cos(2t)\n• De afgeleide van cos(2t) is −2sin(2t)\n• (x′(t) = −2sin(2t) − 2cos(2t) en y′(t) = 2cos(2t) − cos(t), dus) dy/dx = (2cos(2t) − cos(t)) / (−2sin(2t) − 2cos(2t))\n• t = 0 en t = π invullen geeft de richtingscoëfficiënten van de raaklijnen aan de baan: −½ en −3/2\n• De richtingshoeken zijn −26,56…° en −56,30…° (of: de hoeken die de raaklijnen met de x-as maken, zijn 26,56…° en 56,30…°)\n• De gevraagde hoek is (−56,30…° − −26,56…°) ≈ 29,7(°)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De afgeleide van sin(2t) is 2cos(2t)"
+        },
+        {
+          "points": 1,
+          "description": "De afgeleide van cos(2t) is −2sin(2t)"
+        },
+        {
+          "points": 1,
+          "description": "(x′(t) = −2sin(2t) − 2cos(2t) en y′(t) = 2cos(2t) − cos(t), dus) (x′(0), y′(0)) = (−2, 1) en (x′(π), y′(π)) = (−2, 3)"
+        },
+        {
+          "points": 1,
+          "description": "cos(φ) = ((−2, 1) · (−2, 3)) / (|(−2, 1)| · |(−2, 3)|) (waarbij φ de gevraagde hoek is)"
+        },
+        {
+          "points": 1,
+          "description": "cos(φ) = 7/√65"
+        },
+        {
+          "points": 1,
+          "description": "φ ≈ 29,7(°)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-bewegend-punt-antw3.png"
+      ]
+    },
+    {
+      "title": "Raaklijn in knikpunt",
+      "question_number": 4,
+      "answer_text": "• Voor de x-coördinaat van de knik geldt x − 2 = 0, dus x = 2\n• Voor x < 2 geldt f(x) = −(x − 2) · (½x + 2) + 1\n• (Voor x < 2 geldt) f′(x) = −1 · (½x + 2) − (x − 2) · ½\n• De helling van l is (lim_(x↑2) f′(x) =) −3\n• (y_A = 1;) uit 1 = −3 · 2 + b volgt b = 7, dus een vergelijking van l is y = −3x + 7",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Voor de x-coördinaat van de knik geldt x − 2 = 0, dus x = 2"
+        },
+        {
+          "points": 1,
+          "description": "Voor x < 2 geldt f(x) = −(x − 2) · (½x + 2) + 1"
+        },
+        {
+          "points": 1,
+          "description": "(Voor x < 2 geldt) f′(x) = −1 · (½x + 2) − (x − 2) · ½"
+        },
+        {
+          "points": 1,
+          "description": "De helling van l is (lim_(x↑2) f′(x) =) −3"
+        },
+        {
+          "points": 1,
+          "description": "(y_A = 1;) uit 1 = −3 · 2 + b volgt b = 7, dus een vergelijking van l is y = −3x + 7"
+        }
+      ],
+      "grading_note": "– Als de kandidaat het functievoorschrift f(x) = (x − 2) · (½x + 2) + 1 hanteert, voor deze vraag maximaal 3 scorepunten toekennen.\n– Voor de notatie f′(2) = −3 in plaats van lim_(x↑2) f′(x) = −3 geen scorepunten in mindering brengen.",
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-raaklijn-in-knikpunt-antw4.png"
+      ]
+    },
+    {
+      "title": "Optimale snijsnelheid",
+      "question_number": 5,
+      "answer_text": "• De vergelijking 20 · 116ᵐ = 30 · 40ᵐ\n• Herleiden tot 2,9ᵐ = 1,5\n• Dit geeft m = ²˒⁹log(1,5) = 0,380…, dus m ≈ 0,38\n• C = 20 · 116^(0,380…) geeft C ≈ 122",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De vergelijking 20 · 116ᵐ = 30 · 40ᵐ"
+        },
+        {
+          "points": 1,
+          "description": "Herleiden tot 2,9ᵐ = 1,5"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft m = ²˒⁹log(1,5) = 0,380…, dus m ≈ 0,38"
+        },
+        {
+          "points": 1,
+          "description": "C = 20 · 116^(0,380…) geeft C ≈ 122"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-optimale-snijsnelheid-antw5.png"
+      ]
+    },
+    {
+      "title": "Optimale snijsnelheid",
+      "question_number": 6,
+      "answer_text": "• N = 0,3V\n• Uit V · T^0,25 = 150 volgt T = (150/V)⁴\n• d = T/(T + 2) = (150/V)⁴ / ((150/V)⁴ + 2) = (150⁴/V⁴) / (150⁴/V⁴ + 2) = 150⁴ / (150⁴ + 2V⁴)\n• Dit is gelijk aan 1 / ((2/150⁴) · V⁴ + 1)\n• Dus A = 1440 · 0,3V · d = 432V · d = 432V / ((2/150⁴) · V⁴ + 1)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "N = 0,3V"
+        },
+        {
+          "points": 1,
+          "description": "Uit V · T^0,25 = 150 volgt T = (150/V)⁴"
+        },
+        {
+          "points": 1,
+          "description": "d = T/(T + 2) = (150/V)⁴ / ((150/V)⁴ + 2) = (150⁴/V⁴) / (150⁴/V⁴ + 2) = 150⁴ / (150⁴ + 2V⁴)"
+        },
+        {
+          "points": 1,
+          "description": "Dit is gelijk aan 1 / ((2/150⁴) · V⁴ + 1)"
+        },
+        {
+          "points": 1,
+          "description": "Dus A = 1440 · 0,3V · d = 432V · d = 432V / ((2/150⁴) · V⁴ + 1)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-optimale-snijsnelheid-antw6.png"
+      ]
+    },
+    {
+      "title": "Optimale snijsnelheid",
+      "question_number": 7,
+      "answer_text": "• De afgeleide van de noemer van de formule voor A is (8/150⁴) · V³ (of 0,0000000158… · V³)\n• dA/dV = (432 · (0,00000000395… · V⁴ + 1) − 432V · 0,0000000158… · V³) / (0,00000000395… · V⁴ + 1)²\n• dA/dV = 0 geeft 0,00000170… · V⁴ + 432 − 0,00000682… · V⁴ = 0\n• Dus −0,00000512 · V⁴ + 432 = 0, dus V⁴ = −432/−0,00000512 (= 84375000)\n• Dit geeft V (= ⁴√84375000) ≈ 95,8 (V ≈ −95,8 voldoet niet) (dus de gevraagde snelheid is 95,8 (m/min))",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De afgeleide van de noemer van de formule voor A is (8/150⁴) · V³ (of 0,0000000158… · V³)"
+        },
+        {
+          "points": 1,
+          "description": "dA/dV = (432 · (0,00000000395… · V⁴ + 1) − 432V · 0,0000000158… · V³) / (0,00000000395… · V⁴ + 1)²"
+        },
+        {
+          "points": 1,
+          "description": "dA/dV = 0 geeft 0,00000170… · V⁴ + 432 − 0,00000682… · V⁴ = 0"
+        },
+        {
+          "points": 1,
+          "description": "Dus −0,00000512 · V⁴ + 432 = 0, dus V⁴ = −432/−0,00000512 (= 84375000)"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft V (= ⁴√84375000) ≈ 95,8 (V ≈ −95,8 voldoet niet) (dus de gevraagde snelheid is 95,8 (m/min))"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-optimale-snijsnelheid-antw7.png"
+      ]
+    },
+    {
+      "title": "Oppervlakte onder een sinusgrafiek",
+      "question_number": 8,
+      "answer_text": "• A(p) = ∫ₚ^(π−p) 2sin(x) dx\n• Een primitieve van 2sin(x) is −2cos(x)\n• A(p) = −2cos(π − p) + 2cos(p)\n• −cos(π − p) = cos(p), dus A(p) = 4cos(p)\nof\n• A(p) = 2 · ∫ₚ^(½π) 2sin(x) dx (vanwege de symmetrie van f)\n• Een primitieve van 2sin(x) is −2cos(x)\n• A(p) = 2 · (−2cos(½π) + 2cos(p)), dus A(p) = 4cos(p)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "A(p) = ∫ₚ^(π−p) 2sin(x) dx"
+        },
+        {
+          "points": 1,
+          "description": "Een primitieve van 2sin(x) is −2cos(x)"
+        },
+        {
+          "points": 1,
+          "description": "A(p) = −2cos(π − p) + 2cos(p)"
+        },
+        {
+          "points": 1,
+          "description": "−cos(π − p) = cos(p), dus A(p) = 4cos(p)"
+        }
+      ],
+      "grading_note": "Voor het eerste antwoordelement van het tweede antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-oppervlakte-onder-een-sinusgrafiek-antw8.png"
+      ]
+    },
+    {
+      "title": "Oppervlakte onder een sinusgrafiek",
+      "question_number": 9,
+      "answer_text": "• De oppervlakte van W is gelijk aan (π − 2p) · 2sin(p)\n• De oppervlakte van W moet gelijk zijn aan ½A(p)\n• Beschrijven hoe de vergelijking (π − 2p) · 2sin(p) = ½ · 4cos(p) kan worden opgelost\n• Dit geeft p ≈ 0,41 (p = ½π voldoet niet)\nof\n• De oppervlakte van W is gelijk aan (π − 2p) · 2sin(p)\n• De vergelijking ∫ₚ^(π−p) 2sin(x) dx = 2 · (π − 2p) · 2sin(p) moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft p ≈ 0,41 (p = ½π voldoet niet)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De oppervlakte van W is gelijk aan (π − 2p) · 2sin(p)"
+        },
+        {
+          "points": 1,
+          "description": "De oppervlakte van W moet gelijk zijn aan ½A(p)"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe de vergelijking (π − 2p) · 2sin(p) = ½ · 4cos(p) kan worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft p ≈ 0,41 (p = ½π voldoet niet)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-oppervlakte-onder-een-sinusgrafiek-antw9.png"
+      ]
+    },
+    {
+      "title": "Horizontale en verticale asymptoot",
+      "question_number": 10,
+      "answer_text": "• lim_(x→−∞) eˣ = 0 en lim_(x→−∞) e²ˣ = 0\n• De horizontale asymptoot heeft vergelijking y = ((0 − 1000)/(0 − 10) =) 100\n• (eˣ = 10 geeft x = ln(10), dus) de verticale asymptoot heeft vergelijking x = ln(10) (en dit is x_B)\n• f(x) = 100 geeft e²ˣ − 1000 = 100eˣ − 1000\n• e²ˣ = 100eˣ geeft eˣ(eˣ − 100) = 0\n• Hieruit volgt x_C = ln(100) (want eˣ = 0 heeft geen oplossingen)\n• x_C = 2ln(10) (dus x_C − x_A = 2ln(10)) (en x_B − x_A = ln(10)) (en de y-coördinaten van A, B en C zijn gelijk) (dus B is het midden van lijnstuk AC)\nof\n• lim_(x→−∞) eˣ = 0 en lim_(x→−∞) e²ˣ = 0\n• De horizontale asymptoot heeft vergelijking y = ((0 − 1000)/(0 − 10) =) 100\n• (eˣ = 10 geeft x = ln(10), dus) de verticale asymptoot heeft vergelijking x = ln(10) (en dit is x_B)\n• f(x) = 100 geeft e²ˣ − 1000 = 100eˣ − 1000\n• e²ˣ = 100eˣ geeft eˣ(eˣ − 100) = 0\n• Hieruit volgt x_C = ln(100) (want eˣ = 0 heeft geen oplossingen)\n• x_C − x_B = ln(100) − ln(10) = (ln(100/10) =) ln(10) (en x_B − x_A = ln(10)) (en de y-coördinaten van A, B en C zijn gelijk) (dus B is het midden van lijnstuk AC)\nof\n• lim_(x→−∞) eˣ = 0 en lim_(x→−∞) e²ˣ = 0\n• De horizontale asymptoot heeft vergelijking y = ((0 − 1000)/(0 − 10) =) 100\n• (eˣ = 10 geeft x = ln(10), dus) de verticale asymptoot heeft vergelijking x = ln(10) (en dit is x_B)\n• f(x) = 100 geeft e²ˣ − 1000 = 100eˣ − 1000\n• e²ˣ = 100eˣ geeft eˣ(eˣ − 100) = 0\n• Hieruit volgt x_C = ln(100) (want eˣ = 0 heeft geen oplossingen)\n• ((x_A + x_C)/2 =) x_C/2 = ln(100)/2 = 2ln(10)/2 = ln(10) = x_B (en de y-coördinaten van A, B en C zijn gelijk) (dus B is het midden van lijnstuk AC)\nof\n• Als x onbegrensd afneemt, dan naderen eˣ en e²ˣ naar 0\n• De horizontale asymptoot heeft vergelijking y = ((0 − 1000)/(0 − 10) =) 100\n• f(x) = 100 geeft e²ˣ − 1000 = 100eˣ − 1000\n• e²ˣ = 100eˣ geeft eˣ(eˣ − 100) = 0\n• Hieruit volgt x_C = ln(100) (want eˣ = 0 heeft geen oplossingen)\n• Het midden van lijnstuk AC ligt bij x = ½ln(100)\n• Voor x = ½ln(100) is de noemer van f(x) gelijk aan e^(½ln(100)) − 10 = e^(ln(10)) − 10 = 0, dus de verticale asymptoot gaat door het midden van AC (en de y-coördinaten van A, B en C zijn gelijk) (dus B is het midden van lijnstuk AC)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "lim_(x→−∞) eˣ = 0 en lim_(x→−∞) e²ˣ = 0"
+        },
+        {
+          "points": 1,
+          "description": "De horizontale asymptoot heeft vergelijking y = ((0 − 1000)/(0 − 10) =) 100"
+        },
+        {
+          "points": 1,
+          "description": "(eˣ = 10 geeft x = ln(10), dus) de verticale asymptoot heeft vergelijking x = ln(10) (en dit is x_B)"
+        },
+        {
+          "points": 1,
+          "description": "f(x) = 100 geeft e²ˣ − 1000 = 100eˣ − 1000"
+        },
+        {
+          "points": 1,
+          "description": "e²ˣ = 100eˣ geeft eˣ(eˣ − 100) = 0"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt x_C = ln(100) (want eˣ = 0 heeft geen oplossingen)"
+        },
+        {
+          "points": 1,
+          "description": "x_C = 2ln(10) (dus x_C − x_A = 2ln(10)) (en x_B − x_A = ln(10)) (en de y-coördinaten van A, B en C zijn gelijk) (dus B is het midden van lijnstuk AC)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-horizontale-en-verticale-asymptoot-antw10.png"
+      ]
+    },
+    {
+      "title": "Wind aan zee",
+      "question_number": 11,
+      "answer_text": "• Tekenen van een cirkel met straal 6 cm en met als middelpunt het eindpunt van w⃗_z (of bogen daarvan die de kustlijn snijden)\n• Aangeven van de twee snijpunten van de cirkel met de kustlijn (de mogelijke eindpunten van vector w⃗_r) of tekenen van de twee mogelijke vectoren w⃗_r\n• Tekenen van w⃗_r − w⃗_z voor beide situaties (en dat zijn de gevraagde vectoren w⃗_d)\nof\n• |w⃗_r|² + |w⃗_z|² = |w⃗_d|²\n• |w⃗_r| = √(6² − 4²) = 4,4…\n• Aangeven van de twee punten op de kustlijn op afstand 4,4… cm van O (de mogelijke eindpunten van vector w⃗_r) of het tekenen van de twee mogelijke vectoren w⃗_r\n• Tekenen van w⃗_r − w⃗_z voor beide situaties (en dat zijn de gevraagde vectoren w⃗_d)",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "Tekenen van een cirkel met straal 6 cm en met als middelpunt het eindpunt van w⃗_z (of bogen daarvan die de kustlijn snijden)"
+        },
+        {
+          "points": 1,
+          "description": "Aangeven van de twee snijpunten van de cirkel met de kustlijn (de mogelijke eindpunten van vector w⃗_r) of tekenen van de twee mogelijke vectoren w⃗_r"
+        },
+        {
+          "points": 1,
+          "description": "Tekenen van w⃗_r − w⃗_z voor beide situaties (en dat zijn de gevraagde vectoren w⃗_d)"
+        }
+      ],
+      "grading_note": "– Als het eindpunt van minstens één getekende vector w⃗_d meer dan 2 mm afwijkt van het juiste eindpunt van de betreffende vector w⃗_d, voor deze vraag maximaal 3 scorepunten toekennen.\n– Als de kandidaat werkt volgens het eerste antwoordalternatief en daarbij de eindpunten van vector w⃗_r bepaalt zonder gebruik te maken van een cirkel, hiervoor geen scorepunten in mindering brengen.\n– Als slechts één situatie is getekend, voor deze vraag maximaal 3 scorepunten toekennen.\n– Voor het eerste antwoordelement van het eerste antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-wind-aan-zee-antw11.png"
+      ]
+    },
+    {
+      "title": "Wind aan zee",
+      "question_number": 12,
+      "answer_text": "• Omdat w⃗_z loodrecht staat op de kustlijn, is de hoek van w⃗_z met de lijn oost-west ook 30°\n• w⃗_z = (3cos(30°), −3sin(30°)) (= (2,59…, −1,5))\n• w⃗_d = (−5cos(45°), −5sin(45°)) (= (−3,53…, −3,53…))\n• Optellen geeft w⃗_r = (−0,93…, −5,03…)\n• Hieruit volgt |w⃗_r| = √((−0,93…)² + (−5,03…)²) ≈ 5,1\nof\n• Gebruikmaken van de driehoek die ontstaat door vector w⃗_d te laten aangrijpen in het eindpunt van vector w⃗_z\n• De hoek tussen de zijde met lengte 3 en de zijde met lengte 5 is 75°\n• De cosinusregel geeft |w⃗_r|² = 3² + 5² − 2 · 3 · 5 · cos(75°)\n• Hieruit volgt |w⃗_r| ≈ 5,1",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Omdat w⃗_z loodrecht staat op de kustlijn, is de hoek van w⃗_z met de lijn oost-west ook 30°"
+        },
+        {
+          "points": 1,
+          "description": "w⃗_z = (3cos(30°), −3sin(30°)) (= (2,59…, −1,5))"
+        },
+        {
+          "points": 1,
+          "description": "w⃗_d = (−5cos(45°), −5sin(45°)) (= (−3,53…, −3,53…))"
+        },
+        {
+          "points": 1,
+          "description": "Optellen geeft w⃗_r = (−0,93…, −5,03…)"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt |w⃗_r| = √((−0,93…)² + (−5,03…)²) ≈ 5,1"
+        }
+      ],
+      "grading_note": "Voor het tweede antwoordelement van het tweede antwoordalternatief mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-wind-aan-zee-antw12.png"
+      ]
+    },
+    {
+      "title": "Twee logaritmische functies",
+      "question_number": 13,
+      "answer_text": "• Als x_B = b, dan x_A = b − 3 (of: als x_A = a, dan x_B = a + 3)\n• Er moet gelden log(√(b − 3)) = log(b√b) − 1 (of: log(√a) = log((a + 3)√(a + 3)) − 1)\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Dit geeft q ≈ −0,20 of q ≈ 0,34\nof\n• log(√x_A) = q, dus √x_A = 10^q, dus x_A = 10^(2q), dus x_B = 10^(2q) + 3\n• Er moet gelden log((10^(2q) + 3)√(10^(2q) + 3)) − 1 = q\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Dit geeft q ≈ −0,20 of q ≈ 0,34\nof\n• log(√x_A) = q, dus √x_A = 10^q, dus x_A = 10^(2q) en log(x_B√x_B) − 1 = q, dus x_B√x_B = 10^(q+1), dus x_B = (10^(q+1))^(2/3)\n• Er moet gelden (10^(q+1))^(2/3) − 10^(2q) = 3\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Dit geeft q ≈ −0,20 of q ≈ 0,34",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Als x_B = b, dan x_A = b − 3 (of: als x_A = a, dan x_B = a + 3)"
+        },
+        {
+          "points": 1,
+          "description": "Er moet gelden log(√(b − 3)) = log(b√b) − 1 (of: log(√a) = log((a + 3)√(a + 3)) − 1)"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft q ≈ −0,20 of q ≈ 0,34"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-twee-logaritmische-functies-antw13.png"
+      ]
+    },
+    {
+      "title": "Twee logaritmische functies",
+      "question_number": 14,
+      "answer_text": "• CD/CE = (log(p√p) − 1 − log(√p)) / log(√p)\n• log(p√p) = 1½log(p) en log(√p) = ½log(p)\n• CD/CE = (1½log(p) − 1 − ½log(p)) / (½log(p)) = (log(p) − 1) / (½log(p)) = (2log(p) − 2) / log(p)\nof\n• f(x) = ½log(x) en g(x) = 1½log(x) − 1\n• CD = 1½log(p) − 1 − ½log(p) = log(p) − 1\n• CD/CE = (log(p) − 1) / (½log(p)) = (2log(p) − 2) / log(p)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "CD/CE = (log(p√p) − 1 − log(√p)) / log(√p)"
+        },
+        {
+          "points": 1,
+          "description": "log(p√p) = 1½log(p) en log(√p) = ½log(p)"
+        },
+        {
+          "points": 1,
+          "description": "CD/CE = (1½log(p) − 1 − ½log(p)) / (½log(p)) = (log(p) − 1) / (½log(p)) = (2log(p) − 2) / log(p)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-twee-logaritmische-functies-antw14.png"
+      ]
+    },
+    {
+      "title": "Twee logaritmische functies",
+      "question_number": 15,
+      "answer_text": "• (2log(p) − 2) / log(p) = (2 − 2/log(p)) / 1\n• Dus lim_(p→∞) CD/CE = ((2 − 0)/1 =) 2 (en dit is de gevraagde grenswaarde)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(2log(p) − 2) / log(p) = (2 − 2/log(p)) / 1"
+        },
+        {
+          "points": 1,
+          "description": "Dus lim_(p→∞) CD/CE = ((2 − 0)/1 =) 2 (en dit is de gevraagde grenswaarde)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-twee-logaritmische-functies-antw15.png"
+      ]
+    },
+    {
+      "title": "Parabool en cirkel met variabele straal",
+      "question_number": 16,
+      "answer_text": "• Voor de cirkel geldt x² + (y − r)² = r²\n• Voor snijpunten van de cirkel en de parabool geldt x² + (x² − r)² = r²\n• Herleiden tot x²(1 − 2r + x²) = 0\n• Dit geeft x² = 0 (of x = 0) of x² = 2r − 1\n• (x² = 2r − 1 moet twee oplossingen hebben, dus) er moet gelden 2r − 1 > 0, dus r > ½\nof\n• Voor de cirkel geldt x² + (y − r)² = r²\n• Voor snijpunten van de cirkel en de parabool geldt y + (y − r)² = r²\n• Herleiden tot y(y − 2r + 1) = 0\n• Dit geeft y = 0 (dus x = 0) of y = 2r − 1\n• (y = 2r − 1 geeft twee gemeenschappelijke punten als 2r − 1 > 0, dus) er moet gelden 2r − 1 > 0, dus r > ½",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Voor de cirkel geldt x² + (y − r)² = r²"
+        },
+        {
+          "points": 1,
+          "description": "Voor snijpunten van de cirkel en de parabool geldt x² + (x² − r)² = r²"
+        },
+        {
+          "points": 1,
+          "description": "Herleiden tot x²(1 − 2r + x²) = 0"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft x² = 0 (of x = 0) of x² = 2r − 1"
+        },
+        {
+          "points": 1,
+          "description": "(x² = 2r − 1 moet twee oplossingen hebben, dus) er moet gelden 2r − 1 > 0, dus r > ½"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-parabool-en-cirkel-met-variabele-straal-antw16.png"
+      ]
+    },
+    {
+      "title": "Parabool en cirkel met variabele straal",
+      "question_number": 17,
+      "answer_text": "• De inhoud van het omwentelingslichaam van de parabool kan worden berekend met de integraal ∫₀ʳ πy dy\n• Een primitieve van πy is ½πy²\n• Invullen van de grenzen geeft voor de inhoud ½πr²\n• Er moet gelden ½πr² − ½ · (4/3)πr³ = ½ · (4/3)πr³ (of een gelijkwaardige vergelijking)\n• Dit geeft πr²(3 − 8r) = 0, dus r = 3/8",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De inhoud van het omwentelingslichaam van de parabool kan worden berekend met de integraal ∫₀ʳ πy dy"
+        },
+        {
+          "points": 1,
+          "description": "Een primitieve van πy is ½πy²"
+        },
+        {
+          "points": 1,
+          "description": "Invullen van de grenzen geeft voor de inhoud ½πr²"
+        },
+        {
+          "points": 1,
+          "description": "Er moet gelden ½πr² − ½ · (4/3)πr³ = ½ · (4/3)πr³ (of een gelijkwaardige vergelijking)"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft πr²(3 − 8r) = 0, dus r = 3/8"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2019-ii-parabool-en-cirkel-met-variabele-straal-antw17.png"
+      ]
+    }
+  ]
+}
