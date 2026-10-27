@@ -1,0 +1,453 @@
+{
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "source": "VWO Wiskunde B 2021-I",
+  "answers": [
+    {
+      "title": "Parabool en twee lijnen",
+      "question_number": 1,
+      "answer_text": "• f′(x) = 1 − 2x, dus rc_l = f′(0) = 1\n• (rc_l · rc_m = −1, dus) rc_m = −1\n• (½, ¼) invullen in y = −x + b geeft voor m de vergelijking y = −x + ¾\n• Uit −x + ¾ = x − x² volgt x² − 2x + ¾ = 0\n• Exact oplossen geeft x = 1½ (x = ½ geeft T)\n• De oppervlakte van V is gelijk aan ∫ van ½ tot 1½ ((x − x²) − (−x + ¾)) dx\n• Een primitieve van −x² + 2x − ¾ is −⅓x³ + x² − ¾x\n• Invullen van de grenzen geeft: de oppervlakte van V is ⅙",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "f′(x) = 1 − 2x, dus rc_l = f′(0) = 1"
+        },
+        {
+          "points": 1,
+          "description": "(rc_l · rc_m = −1, dus) rc_m = −1"
+        },
+        {
+          "points": 1,
+          "description": "(½, ¼) invullen in y = −x + b geeft voor m de vergelijking y = −x + ¾"
+        },
+        {
+          "points": 1,
+          "description": "Uit −x + ¾ = x − x² volgt x² − 2x + ¾ = 0"
+        },
+        {
+          "points": 1,
+          "description": "Exact oplossen geeft x = 1½ (x = ½ geeft T)"
+        },
+        {
+          "points": 1,
+          "description": "De oppervlakte van V is gelijk aan ∫ van ½ tot 1½ ((x − x²) − (−x + ¾)) dx"
+        },
+        {
+          "points": 1,
+          "description": "Een primitieve van −x² + 2x − ¾ is −⅓x³ + x² − ¾x"
+        },
+        {
+          "points": 1,
+          "description": "Invullen van de grenzen geeft: de oppervlakte van V is ⅙"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-i-parabool-en-twee-lijnen-antw1.png"
+      ]
+    },
+    {
+      "title": "Goniometrische functies",
+      "question_number": 2,
+      "answer_text": "• 2sin(x) − sin(2x) = sin(2x) herleiden tot sin(x) = sin(2x)\n• Dit geeft x = 2x + k · 2π (met k geheel) of x = π − 2x + k · 2π (met k geheel)\n• Hieruit volgt x = k · 2π (met k geheel) of x = ⅓π + k · ⅔π (met k geheel)\n• De x-coördinaten van P en Q zijn x = ⅓π en x = 1⅔π (de andere oplossingen geven punten op de x-as)\nof\n• 2sin(x) − sin(2x) = sin(2x) herleiden tot sin(x) = sin(2x)\n• Dit geeft sin(x) = 2sin(x)cos(x)\n• Dit geeft sin(x) = 0 of cos(x) = ½\n• De x-coördinaten van P en Q zijn x = ⅓π en x = 1⅔π (de andere oplossingen geven punten op de x-as)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "2sin(x) − sin(2x) = sin(2x) herleiden tot sin(x) = sin(2x)"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft x = 2x + k · 2π (met k geheel) of x = π − 2x + k · 2π (met k geheel)"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt x = k · 2π (met k geheel) of x = ⅓π + k · ⅔π (met k geheel)"
+        },
+        {
+          "points": 1,
+          "description": "De x-coördinaten van P en Q zijn x = ⅓π en x = 1⅔π (de andere oplossingen geven punten op de x-as)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-i-goniometrische-functies-antw2.png"
+      ]
+    },
+    {
+      "title": "Goniometrische functies",
+      "question_number": 3,
+      "answer_text": "• De oppervlakte van V kan berekend worden met ∫ van a tot b (f(x) − h(x)) dx (met a = 1,33 en b = 2,97)\n• h(x) = sin(2x) + 1\n• De primitieve van f − h is −2cos(x) + cos(2x) − x\n• De gevraagde oppervlakte is 2,6",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De oppervlakte van V kan berekend worden met ∫ van a tot b (f(x) − h(x)) dx (met a = 1,33 en b = 2,97)"
+        },
+        {
+          "points": 1,
+          "description": "h(x) = sin(2x) + 1"
+        },
+        {
+          "points": 2,
+          "description": "De primitieve van f − h is −2cos(x) + cos(2x) − x"
+        },
+        {
+          "points": 1,
+          "description": "De gevraagde oppervlakte is 2,6"
+        }
+      ],
+      "grading_note": "Voor het derde antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend",
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-i-goniometrische-functies-antw3.png"
+      ]
+    },
+    {
+      "title": "Goniometrische functies",
+      "question_number": 4,
+      "answer_text": "• f(⅓π) = ½√3 en k(⅓π) = ½√3 (en zijn dus gelijk)\n• f′(x) = 2cos(x) − 2cos(2x)\n• k′(x) = 1/(2cos²(x)) (of een gelijkwaardige uitdrukking)\n• f′(⅓π) = 2 en k′(⅓π) = 2 (en zijn dus gelijk) (dus de grafiek van k raakt de grafiek van f in een punt met x-coördinaat ⅓π)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "f(⅓π) = ½√3 en k(⅓π) = ½√3 (en zijn dus gelijk)"
+        },
+        {
+          "points": 1,
+          "description": "f′(x) = 2cos(x) − 2cos(2x)"
+        },
+        {
+          "points": 1,
+          "description": "k′(x) = 1/(2cos²(x)) (of een gelijkwaardige uitdrukking)"
+        },
+        {
+          "points": 1,
+          "description": "f′(⅓π) = 2 en k′(⅓π) = 2 (en zijn dus gelijk) (dus de grafiek van k raakt de grafiek van f in een punt met x-coördinaat ⅓π)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-i-goniometrische-functies-antw4.png"
+      ]
+    },
+    {
+      "title": "Aardbevingen",
+      "question_number": 5,
+      "answer_text": "• Er geldt 6 = d/t (of een gelijkwaardige vorm) (waarbij t de tijd is, waarop de eerste primaire golf bij het meetstation aankomt)\n• (Voor de secundaire golf geldt) 3,5 = d/(t + 17) (of een gelijkwaardige vorm)\n• Beschrijven hoe dit stelsel kan worden opgelost\n• Hieruit volgt (d =) 142,8 (of 143) (km)\nof\n• De tijd die de primaire golf nodig heeft is d/6 (seconden)\n• De tijd die de secundaire golf nodig heeft is d/3,5 (seconden)\n• Er geldt dus d/3,5 − d/6 = 17\n• Hieruit volgt (d =) 142,8 (of 143) (km)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Er geldt 6 = d/t (of een gelijkwaardige vorm) (waarbij t de tijd is, waarop de eerste primaire golf bij het meetstation aankomt)"
+        },
+        {
+          "points": 1,
+          "description": "(Voor de secundaire golf geldt) 3,5 = d/(t + 17) (of een gelijkwaardige vorm)"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe dit stelsel kan worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt (d =) 142,8 (of 143) (km)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-i-aardbevingen-antw5.png"
+      ]
+    },
+    {
+      "title": "Aardbevingen",
+      "question_number": 6,
+      "answer_text": "• Voor de coördinaten van het epicentrum geldt x² + y² = 240² en (x − 192)² + (y − 128)² = 80²\n• Uit het verschil van beide vergelijkingen volgt 384x − 192² + 256y − 128² = 240² − 80²\n• Herleiden tot y = −1,5x + 408\n• Invullen (bijvoorbeeld in de vergelijking van de cirkel om S) en herleiden geeft 3,25x² − 1224x + 108864 = 0\n• De oplossingen van deze vergelijking zijn x = 144 en x = 232,6…\n• De gevraagde coördinaten zijn (144, 192) en (233, 59)\nof\n• ST = √(192² + 128²) = 230,75…\n• Voor de hellingshoek α van ST geldt tan(α) = 128/192, waaruit volgt α = 33,69… (°)\n• Toepassen van de cosinusregel in driehoek STE (met E de plaats van het epicentrum) geeft 80² = 240² + 230,75…² − 2 · 240 · 230,75… · cos(∠EST)\n• Algebraïsch oplossen geeft ∠EST = 19,44… (°)\n• De hellingshoek van SE is dus gelijk aan 33,69… + 19,44… = 53,13… (°) of gelijk aan 33,69… − 19,44… = 14,25… (°)\n• Dit geeft voor E (240 · cos(53,13…), 240 · sin(53,13…)) en (240 · cos(14,25…), 240 · sin(14,25…)), dus de gevraagde coördinaten zijn (144, 192) en (233, 59)\nof\n• Voor de coördinaten van het epicentrum geldt x² + y² = 240² en (x − 192)² + (y − 128)² = 80²\n• Uit de eerste vergelijking volgt y = √(240² − x²); invullen in de tweede vergelijking geeft (x − 192)² + (√(240² − x²) − 128)² = 80²\n• Dit geeft x² − 2 · 192 · x + 192² + 240² − x² − 2 · 128 · √(240² − x²) + 128² = 80² en hieruit volgt −256√(240² − x²) = 384x − 104448\n• Herleiden tot 3,25x² − 1224x + 108864 = 0\n• De oplossingen van deze vergelijking zijn x = 144 en x = 232,6…\n• De gevraagde coördinaten zijn (144, 192) en (233, 59)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Voor de coördinaten van het epicentrum geldt x² + y² = 240² en (x − 192)² + (y − 128)² = 80²"
+        },
+        {
+          "points": 1,
+          "description": "Uit het verschil van beide vergelijkingen volgt 384x − 192² + 256y − 128² = 240² − 80²"
+        },
+        {
+          "points": 1,
+          "description": "Herleiden tot y = −1,5x + 408"
+        },
+        {
+          "points": 1,
+          "description": "Invullen (bijvoorbeeld in de vergelijking van de cirkel om S) en herleiden geeft 3,25x² − 1224x + 108864 = 0"
+        },
+        {
+          "points": 1,
+          "description": "De oplossingen van deze vergelijking zijn x = 144 en x = 232,6…"
+        },
+        {
+          "points": 1,
+          "description": "De gevraagde coördinaten zijn (144, 192) en (233, 59)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-i-aardbevingen-antw6.png"
+      ]
+    },
+    {
+      "title": "Aardbevingen",
+      "question_number": 7,
+      "answer_text": "• Er geldt 4,5 = 10^(a − b · 7,5) en 285,5 = 10^(a − b · 6)\n• Het stelsel { a − 7,5b = log(4,5) ; a − 6b = log(285,5) } moet worden opgelost\n• Beschrijven hoe dit stelsel kan worden opgelost\n• Dit geeft a = 9,66… en b = 1,20…\n• N = 10^(9,66… − 1,20… · 6,5) = 71,5…\n• (56 + 15 + 3,1 + 1,1 + 0,3 =) 75,5, dus de voorspelling wijkt (−)4 af",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Er geldt 4,5 = 10^(a − b · 7,5) en 285,5 = 10^(a − b · 6)"
+        },
+        {
+          "points": 1,
+          "description": "Het stelsel { a − 7,5b = log(4,5) ; a − 6b = log(285,5) } moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe dit stelsel kan worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft a = 9,66… en b = 1,20…"
+        },
+        {
+          "points": 1,
+          "description": "N = 10^(9,66… − 1,20… · 6,5) = 71,5…"
+        },
+        {
+          "points": 1,
+          "description": "(56 + 15 + 3,1 + 1,1 + 0,3 =) 75,5, dus de voorspelling wijkt (−)4 af"
+        }
+      ],
+      "grading_note": "Als doorgerekend wordt met waarden van a en b die zijn afgerond op twee decimalen (resulterend in het eindantwoord (−)1) of meer dan twee decimalen, hiervoor geen scorepunten in mindering brengen.",
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-i-aardbevingen-antw7.png"
+      ]
+    },
+    {
+      "title": "Een vierkant en vier vectoren",
+      "question_number": 8,
+      "answer_text": "• CP→ = (p, −1) en CA→ = (1, −1)\n• cos(∠PCA) = ((p, −1) · (1, −1)) / (|(p, −1)| · |(1, −1)|)\n• Dit is gelijk aan (p + 1)/(√(p² + 1) · √2)\n• (CQ→ = (1/p, −1) dus) (p vervangen door 1/p geeft) cos(∠ACQ) = (1/p + 1)/(√((1/p)² + 1) · √2)\n• Teller en noemer van (1/p + 1)/(√((1/p)² + 1) · √2) vermenigvuldigen met p geeft (1 + p)/(√(p²) · √((1/p)² + 1) · √2)\n• Dit is gelijk aan (1 + p)/(√(1 + p²) · √2), (dus cos(∠ACQ) = cos(∠PCA),) dus (in deze situatie) ∠ACQ = ∠PCA (dus de hoek tussen de vectoren CP→ en CA→ is gelijk aan de hoek tussen de vectoren CA→ en CQ→)\nof\n• CP→ = (p, −1) en CA→ = (1, −1)\n• cos(∠PCA) = ((p, −1) · (1, −1)) / (|(p, −1)| · |(1, −1)|)\n• Dit is gelijk aan (p + 1)/(√(p² + 1) · √2)\n• (CQ→ = (1/p, −1) dus) (p vervangen door 1/p geeft) cos(∠ACQ) = (1/p + 1)/(√((1/p)² + 1) · √2)\n• Gelijkstellen van beide uitdrukkingen en vervolgens kruislings vermenigvuldigen geeft (dat bewezen moet worden:) √(p²) · √((1/p)² + 1) + √((1/p)² + 1) = √(1/p²) · √(p² + 1) + √(p² + 1)\n• Dit geeft √(1 + p²) + √(1/p² + 1) = √(1 + 1/p²) + √(p² + 1), (en dit is inderdaad aan elkaar gelijk, dus cos(∠ACQ) = cos(∠PCA),) dus (in deze situatie) ∠ACQ = ∠PCA (dus de hoek tussen de vectoren CP→ en CA→ is gelijk aan de hoek tussen de vectoren CA→ en CQ→)\nof\n• De richtingscoëfficiënt van de lijn door C en Q is −1/(1/p) = −p\n• Het snijpunt R van de lijn door C en Q en lijnstuk AB heeft dus y-coördinaat 1 − p\n• PA = 1 − p, dus PA = RA\n• ∠PAC = ∠RAC (= 45°) (want AC is een diagonaal van een vierkant)\n• Ook geldt CA = CA, dus △CAP is gelijkvormig met △CAR\n• Uit deze gelijkvormigheid volgt dat ∠ACQ = (∠ACR =) ∠ACP (dus de hoek tussen de vectoren CP→ en CA→ is gelijk aan de hoek tussen de vectoren CA→ en CQ→)\nof\n• OC/OP = 1/p\n• OQ/OC = (1/p)/1 = 1/p\n• Ook geldt ∠POC = ∠COQ, dus △OPC is gelijkvormig met △OCQ\n• ∠OQC = ∠BCQ (Z-hoeken), dus ∠OCP = ∠OQC = ∠BCQ\n• ∠ACP = 45° − ∠OCP en ∠QCA = 45° − ∠BCQ\n• Dus ∠ACP = ∠QCA (dus de hoek tussen de vectoren CP→ en CA→ is gelijk aan de hoek tussen de vectoren CA→ en CQ→)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "CP→ = (p, −1) en CA→ = (1, −1)"
+        },
+        {
+          "points": 1,
+          "description": "cos(∠PCA) = ((p, −1) · (1, −1)) / (|(p, −1)| · |(1, −1)|)"
+        },
+        {
+          "points": 1,
+          "description": "Dit is gelijk aan (p + 1)/(√(p² + 1) · √2)"
+        },
+        {
+          "points": 1,
+          "description": "(CQ→ = (1/p, −1) dus) (p vervangen door 1/p geeft) cos(∠ACQ) = (1/p + 1)/(√((1/p)² + 1) · √2)"
+        },
+        {
+          "points": 1,
+          "description": "Teller en noemer van (1/p + 1)/(√((1/p)² + 1) · √2) vermenigvuldigen met p geeft (1 + p)/(√(p²) · √((1/p)² + 1) · √2)"
+        },
+        {
+          "points": 1,
+          "description": "Dit is gelijk aan (1 + p)/(√(1 + p²) · √2), (dus cos(∠ACQ) = cos(∠PCA),) dus (in deze situatie) ∠ACQ = ∠PCA (dus de hoek tussen de vectoren CP→ en CA→ is gelijk aan de hoek tussen de vectoren CA→ en CQ→)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-i-een-vierkant-en-vier-vectoren-antw8.png"
+      ]
+    },
+    {
+      "title": "Een vierkant en vier vectoren",
+      "question_number": 9,
+      "answer_text": "• De coördinaten van M zijn (½p + ½, ½)\n• PB→ = (1 − p, 1)\n• QM→ = (½p + ½ − 1/p, ½)\n• PB→ staat loodrecht op QM→ als (1 − p, 1) · (½p + ½ − 1/p, ½) = 0\n• De vergelijking (1 − p) · (½p + ½ − 1/p) + 1 · ½ = 0 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• p ≈ 0,54 (want 0 < p < 1)\nof\n• De richtingscoëfficiënt van de lijn door P en B is 1/(1 − p)\n• De richtingscoëfficiënt van de lijn door M loodrecht op PB is p − 1\n• De coördinaten van M zijn (½p + ½, ½)\n• Hieruit volgt dat een vergelijking van de lijn door M loodrecht op PB is y = (p − 1)x − ½p² + 1\n• Deze lijn gaat door Q als 0 = (p − 1) · 1/p − ½p² + 1\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• p ≈ 0,54 (want 0 < p < 1)\nof\n• In dit geval is de lijn door M en Q de middelloodlijn van lijnstuk PB\n• (Omdat Q op deze middelloodlijn ligt, geldt) PQ = BQ\n• PQ = 1/p − p en AQ = 1/p − 1\n• BQ = √((1/p − 1)² + 1)\n• Beschrijven hoe de vergelijking 1/p − p = √((1/p − 1)² + 1) kan worden opgelost\n• p ≈ 0,54 (want 0 < p < 1)\nof\n• De coördinaten van M zijn (½p + ½, ½)\n• PM² = (½p + ½ − p)² + (½)²\n• QM² = (½p + ½ − 1/p)² + (½)²\n• PQ² = (1/p − p)²\n• De vergelijking (½p + ½ − p)² + (½)² + (½p + ½ − 1/p)² + (½)² = (1/p − p)² moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• p ≈ 0,54 (want 0 < p < 1)\nof\n• De coördinaten van M zijn (½p + ½, ½)\n• PB→ = (1 − p, 1)\n• Een vergelijking van een normaalvector van PB→ is (1 − p)x + y = c\n• Invullen van Q(1/p, 0) geeft voor de normaalvector door Q dat (1 − p) · 1/p = c\n• De normaalvector moet door M gaan, dus er moet gelden (1 − p) · (½p + ½) + ½ = (1 − p) · 1/p (en deze vergelijking moet worden opgelost)\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• p ≈ 0,54 (want 0 < p < 1)\nof\n• Er moet gelden PQ · AB = PB · QM\n• PQ = 1/p − p (en AB = 1)\n• PB = √((1 − p)² + 1)\n• QM = √((½p + ½ − 1/p)² + (½)²)\n• De vergelijking (1/p − p) · 1 = √((1 − p)² + 1) · √((½p + ½ − 1/p)² + (½)²) moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• p ≈ 0,54 (want 0 < p < 1)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De coördinaten van M zijn (½p + ½, ½)"
+        },
+        {
+          "points": 1,
+          "description": "PB→ = (1 − p, 1)"
+        },
+        {
+          "points": 1,
+          "description": "QM→ = (½p + ½ − 1/p, ½)"
+        },
+        {
+          "points": 1,
+          "description": "PB→ staat loodrecht op QM→ als (1 − p, 1) · (½p + ½ − 1/p, ½) = 0"
+        },
+        {
+          "points": 1,
+          "description": "De vergelijking (1 − p) · (½p + ½ − 1/p) + 1 · ½ = 0 moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "p ≈ 0,54 (want 0 < p < 1)"
+        }
+      ],
+      "grading_note": "In het derde antwoordalternatief mogen voor het eerste antwoordelement uitsluitend 0 of 2 scorepunten worden toegekend.",
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-i-een-vierkant-en-vier-vectoren-antw9.png"
+      ]
+    },
+    {
+      "title": "Limiet van een verhouding",
+      "question_number": 10,
+      "answer_text": "• t² = a geeft t = −√a of t = √a\n• y_S = y(−√a) = a + 2√a en y_R = y(√a) = a − 2√a\n• QR/QS = (a − 2√a)/(a + 2√a) = (1 − 2/√a)/(1 + 2/√a)\n• (2/√a nadert naar 0 als a onbegrensd toeneemt, dus) de limiet is 1 (of lim_(a→∞) (1 − 2/√a)/(1 + 2/√a) = 1)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "t² = a geeft t = −√a of t = √a"
+        },
+        {
+          "points": 1,
+          "description": "y_S = y(−√a) = a + 2√a en y_R = y(√a) = a − 2√a"
+        },
+        {
+          "points": 1,
+          "description": "QR/QS = (a − 2√a)/(a + 2√a) = (1 − 2/√a)/(1 + 2/√a)"
+        },
+        {
+          "points": 1,
+          "description": "(2/√a nadert naar 0 als a onbegrensd toeneemt, dus) de limiet is 1 (of lim_(a→∞) (1 − 2/√a)/(1 + 2/√a) = 1)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-i-limiet-van-een-verhouding-antw10.png"
+      ]
+    },
+    {
+      "title": "Gebroken functie met een parameter",
+      "question_number": 11,
+      "answer_text": "• f₁(x) = x + 4/x²\n• (Als x onbegrensd toeneemt, nadert 4/x² tot 0, dus) de vergelijking van de scheve asymptoot is y = x\n• Omdat (4 > 0 en) x² > 0, geldt x + 4/x² > x (dus ligt de grafiek van f₁ boven de scheve asymptoot)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "f₁(x) = x + 4/x²"
+        },
+        {
+          "points": 1,
+          "description": "(Als x onbegrensd toeneemt, nadert 4/x² tot 0, dus) de vergelijking van de scheve asymptoot is y = x"
+        },
+        {
+          "points": 1,
+          "description": "Omdat (4 > 0 en) x² > 0, geldt x + 4/x² > x (dus ligt de grafiek van f₁ boven de scheve asymptoot)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-i-gebroken-functie-met-een-parameter-antw11.png"
+      ]
+    },
+    {
+      "title": "Gebroken functie met een parameter",
+      "question_number": 12,
+      "answer_text": "• Er geldt f′ₚ(x) = (x² · 3x² − (x³ + 4p) · 2x)/(x²)²\n• Herleiden tot f′ₚ(x) = 1 − 8p/x³ (of f′ₚ(x) = (x⁴ − 8px)/x⁴)\n• f′ₚ(x) = 0 geeft voor de x-coördinaat van de top p = ⅛x³\n• Invullen in x³ + 4p geeft 1½x³\n• Dus de y-coördinaat van de top is 1½x³/x² = 1½x (dus de toppen liggen op de lijn met vergelijking y = 1½x)\nof\n• Er geldt fₚ(x) = x + 4p/x² = x + 4px⁻²\n• f′ₚ(x) = 1 − 8p/x³\n• f′ₚ(x) = 0 geeft voor de x-coördinaat van de top x = ∛(8p) (= 2p^(1/3))\n• Invullen in x³ + 4p geeft 12p en invullen in x² geeft (2p^(1/3))² = 4p^(2/3), dus de y-coördinaat van de top is 12p/(4p^(2/3)) = 3p^(1/3)\n• (Voor elke waarde van p > 0 geldt) 3p^(1/3)/(2p^(1/3)) = 1½ (of 3p^(1/3) = 1½ · 2p^(1/3)) (dus de toppen liggen op de lijn met vergelijking y = 1½x)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Er geldt f′ₚ(x) = (x² · 3x² − (x³ + 4p) · 2x)/(x²)²"
+        },
+        {
+          "points": 1,
+          "description": "Herleiden tot f′ₚ(x) = 1 − 8p/x³ (of f′ₚ(x) = (x⁴ − 8px)/x⁴)"
+        },
+        {
+          "points": 1,
+          "description": "f′ₚ(x) = 0 geeft voor de x-coördinaat van de top p = ⅛x³"
+        },
+        {
+          "points": 1,
+          "description": "Invullen in x³ + 4p geeft 1½x³"
+        },
+        {
+          "points": 1,
+          "description": "Dus de y-coördinaat van de top is 1½x³/x² = 1½x (dus de toppen liggen op de lijn met vergelijking y = 1½x)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-i-gebroken-functie-met-een-parameter-antw12.png"
+      ]
+    },
+    {
+      "title": "Absolute natuurlijke logaritme",
+      "question_number": 13,
+      "answer_text": "• |ln(x_C)| = ln(x_C) = q (want ln(x_C) > 0), dus x_C = e^q\n• |ln(x_B)| = −ln(x_B) (want ln(x_B) < 0)\n• −ln(x_B) = q, dus ln(x_B) = −q, dus x_B = e^(−q)\n• De vergelijking (e^q − e^(−q) = 3e^(−q), dus) e^q = 4e^(−q) moet worden opgelost\n• Hieruit volgt e^(2q) = 4\n• Dus q = ½ln(4) (of een gelijkwaardige uitdrukking)\nof\n• Er moet gelden (x_C − x_B = 3 · x_B, dus) x_C = 4 · x_B\n• De vergelijking |ln(b)| = |ln(4b)| moet worden opgelost, waarbij b de x-coördinaat van B is\n• |ln(b)| = −ln(b) (want ln(b) < 0) en |ln(4b)| = ln(4b) (want ln(4b) > 0)\n• Uit −ln(b) = ln(4b) volgt ln(1/b) = ln(4b)\n• 1/b = 4b, dus 1 = 4b²\n• Dit geeft b = ½ (b = −½ voldoet niet), dus q = ln(2) (of een gelijkwaardige uitdrukking)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "|ln(x_C)| = ln(x_C) = q (want ln(x_C) > 0), dus x_C = e^q"
+        },
+        {
+          "points": 1,
+          "description": "|ln(x_B)| = −ln(x_B) (want ln(x_B) < 0)"
+        },
+        {
+          "points": 1,
+          "description": "−ln(x_B) = q, dus ln(x_B) = −q, dus x_B = e^(−q)"
+        },
+        {
+          "points": 1,
+          "description": "De vergelijking (e^q − e^(−q) = 3e^(−q), dus) e^q = 4e^(−q) moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt e^(2q) = 4"
+        },
+        {
+          "points": 1,
+          "description": "Dus q = ½ln(4) (of een gelijkwaardige uitdrukking)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-i-absolute-natuurlijke-logaritme-antw13.png"
+      ]
+    },
+    {
+      "title": "P en Pʹ",
+      "question_number": 14,
+      "answer_text": "• De lijn door O en P heeft hellingshoek (180 − 120 =) 60°\n• De richtingscoëfficiënt van deze lijn is dus √3\n• Voor de x-coördinaat van P geldt √3 · x = 6√x\n• Een exacte berekening waaruit volgt x = 12 (x = 0 voldoet niet)\n• Dus P(12, 6√12), dus OP = √(12² + (6√12)²) = 24\n• Dus x_P′ = −24\nof\n• OP→ = (p, 6√p) en een richtingsvector van OP′ is (−1, 0) (of een andere vector van de vorm (a, 0) met a < 0)\n• cos(120°) = ((p, 6√p) · (−1, 0)) / (|(p, 6√p)| · |(−1, 0)|)\n• Dus −½ = −p/√(p² + 36p)\n• Een exacte berekening waaruit volgt p = 12\n• Dus P(12, 6√12), dus OP = √(12² + (6√12)²) = 24\n• Dus x_P′ = −24\nof\n• Als P(p, 6√p), dan is OP = √(p² + 36p)\n• Dan geldt x_P′ = −√(p² + 36p)\n• De lijn door O en P heeft hellingshoek (180 − 120 =) 60°\n• De richtingscoëfficiënt van deze lijn is dus √3\n• Als Q de loodrechte projectie van P op de x-as is, dan geldt PQ = p√3; er moet gelden OP² = OQ² + PQ², dus p² + 36p = p² + 3p²; dit geeft 3p² = 36p, dus p = 12 (p = 0 voldoet niet)\n• Dus OP = √(12² + 36 · 12) = 24, dus x_P′ = −24\nof\n• Als P′(−p, 0), dan is OP = p\n• De lijn door O en P heeft hellingshoek (180 − 120 =) 60°\n• Als Q de loodrechte projectie van P op de x-as is, dan is OQP een 1 − 2 − √3-driehoek\n• Hieruit volgt dat OQ = ½p en PQ = ½p√3\n• Dus 6√(½p) = ½p√3\n• Een exacte berekening waaruit volgt p = 24 (p = 0 voldoet niet), dus x_P′ = −24\nof\n• Als P(p, 6√p), dan is OP = √(p² + 36p)\n• Dan geldt OP′→ = (−√(p² + 36p), 0)\n• cos(120°) = ((p, 6√p) · (−√(p² + 36p), 0)) / (|(p, 6√p)| · |(−√(p² + 36p), 0)|)\n• Dus −½ = (−p · √(p² + 36p))/(p² + 36p)\n• Een exacte berekening waaruit volgt p = 12\n• Dus OP = √(12² + 36 · 12) = 24, dus x_P′ = −24\nof\n• Als P′(−p, 0), dan ligt P op de cirkel met middelpunt O en straal p, en die heeft vergelijking x² + y² = p²\n• Invullen van y = 6√x geeft x² + 36x = p² voor de x-coördinaat van P\n• De lijn door O en P heeft hellingshoek (180 − 120 =) 60°\n• x_P = p · cos(60°) = ½p\n• Invullen in x² + 36x = p² geeft (½p)² + 36 · ½p = p²\n• Een exacte berekening waaruit volgt p = 24 (p = 0 voldoet niet), dus x_P′ = −24",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De lijn door O en P heeft hellingshoek (180 − 120 =) 60°"
+        },
+        {
+          "points": 1,
+          "description": "De richtingscoëfficiënt van deze lijn is dus √3"
+        },
+        {
+          "points": 1,
+          "description": "Voor de x-coördinaat van P geldt √3 · x = 6√x"
+        },
+        {
+          "points": 1,
+          "description": "Een exacte berekening waaruit volgt x = 12 (x = 0 voldoet niet)"
+        },
+        {
+          "points": 1,
+          "description": "Dus P(12, 6√12), dus OP = √(12² + (6√12)²) = 24"
+        },
+        {
+          "points": 1,
+          "description": "Dus x_P′ = −24"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-i-p-en-p-antw14.png"
+      ]
+    }
+  ]
+}
