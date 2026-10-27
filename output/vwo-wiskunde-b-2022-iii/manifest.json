@@ -1,0 +1,64 @@
+{
+  "source": "VWO Wiskunde B 2022-III",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Gelijke oppervlaktes",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Drie op een rij",
+      "question_numbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Modeltube",
+      "question_numbers": [
+        6
+      ]
+    },
+    {
+      "title": "Vierkanten bij een exponentiële functie",
+      "question_numbers": [
+        7
+      ]
+    },
+    {
+      "title": "Gelijke hoeken",
+      "question_numbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Verouderingskromme",
+      "question_numbers": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Cosinusgrafiek door hoogste punten",
+      "question_numbers": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Loodrecht door de parabool",
+      "question_numbers": [
+        16,
+        17
+      ]
+    }
+  ]
+}

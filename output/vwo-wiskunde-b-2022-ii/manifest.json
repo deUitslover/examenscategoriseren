@@ -1,0 +1,63 @@
+{
+  "source": "VWO Wiskunde B 2022-II",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Buigraaklijn",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Op de diagonaal van een vierkant",
+      "question_numbers": [
+        3
+      ]
+    },
+    {
+      "title": "Golvend ertussendoor",
+      "question_numbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Efficiënt testen",
+      "question_numbers": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Begrensde gebieden",
+      "question_numbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Cirkels en lijnen",
+      "question_numbers": [
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Asymptoot",
+      "question_numbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Twee punten op een grafiek",
+      "question_numbers": [
+        16
+      ]
+    }
+  ]
+}
