@@ -1,0 +1,463 @@
+{
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "source": "VWO Wiskunde B 2021-II",
+  "answers": [
+    {
+      "title": "Kromme K",
+      "question_number": 1,
+      "answer_text": "• x′(t) = −3cos²(t) · sin(t)\n• y′(t) = 3sin²(t) · cos(t)\n• De helling is y′(t)/x′(t) = (3sin²(t) · cos(t))/(−3cos²(t) · sin(t)) en de verdere herleiding tot y′(t)/x′(t) = −sin(t)/cos(t)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "x′(t) = −3cos²(t) · sin(t)"
+        },
+        {
+          "points": 1,
+          "description": "y′(t) = 3sin²(t) · cos(t)"
+        },
+        {
+          "points": 1,
+          "description": "De helling is y′(t)/x′(t) = (3sin²(t) · cos(t))/(−3cos²(t) · sin(t)) en de verdere herleiding tot y′(t)/x′(t) = −sin(t)/cos(t)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-ii-kromme-k-antw1.png"
+      ]
+    },
+    {
+      "title": "Kromme K",
+      "question_number": 2,
+      "answer_text": "• Een vergelijking van de raaklijn is y = −(sin(t)/cos(t))x + b en gaat door (cos³(t), sin³(t))\n• Dit geeft: b = sin³(t) + sin(t) · cos²(t) = sin(t) · (sin²(t) + cos²(t))\n• cos²(t) + sin²(t) = 1 geeft b = sin(t) (dus is de vergelijking juist)\nof\n• cos³(t) invullen in de vergelijking geeft: y = −(sin(t)/cos(t)) · cos³(t) + sin(t) = −sin(t) · cos²(t) + sin(t)\n• cos²(t) = 1 − sin²(t) geeft y = −sin(t)(1 − sin²(t)) + sin(t)\n• Dit is gelijk aan sin³(t) (dus ligt (cos³(t), sin³(t)) op de lijn)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Een vergelijking van de raaklijn is y = −(sin(t)/cos(t))x + b en gaat door (cos³(t), sin³(t))"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft: b = sin³(t) + sin(t) · cos²(t) = sin(t) · (sin²(t) + cos²(t))"
+        },
+        {
+          "points": 1,
+          "description": "cos²(t) + sin²(t) = 1 geeft b = sin(t) (dus is de vergelijking juist)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-ii-kromme-k-antw2.png"
+      ]
+    },
+    {
+      "title": "Kromme K",
+      "question_number": 3,
+      "answer_text": "• Raaklijn snijden met de y-as geeft y_B = sin(t)\n• Raaklijn snijden met de x-as: −(sin(t)/cos(t))x_A + sin(t) = 0 geeft x_A = cos(t)\n• De lengte van het lijnstuk AB is √(sin²(t) + cos²(t)) = 1",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Raaklijn snijden met de y-as geeft y_B = sin(t)"
+        },
+        {
+          "points": 1,
+          "description": "Raaklijn snijden met de x-as: −(sin(t)/cos(t))x_A + sin(t) = 0 geeft x_A = cos(t)"
+        },
+        {
+          "points": 1,
+          "description": "De lengte van het lijnstuk AB is √(sin²(t) + cos²(t)) = 1"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-ii-kromme-k-antw3.png"
+      ]
+    },
+    {
+      "title": "Vectoren spiegelen",
+      "question_number": 4,
+      "answer_text": "• OG→ = (7, −2)\n• p · OF→ + q · OG→ = (7p + 7q, 2p − 2q)\n• Beschrijven hoe het stelsel { 7p + 7q = 7 ; 2p − 2q = −3 } exact kan worden opgelost\n• p = −¼ en q = 5/4",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "OG→ = (7, −2)"
+        },
+        {
+          "points": 1,
+          "description": "p · OF→ + q · OG→ = (7p + 7q, 2p − 2q)"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe het stelsel { 7p + 7q = 7 ; 2p − 2q = −3 } exact kan worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "p = −¼ en q = 5/4"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-ii-vectoren-spiegelen-antw4.png"
+      ]
+    },
+    {
+      "title": "Vectoren spiegelen",
+      "question_number": 5,
+      "answer_text": "• Als S de loodrechte projectie van F op k is, dan is (x, y) = (7, 2) + s · (4, −3) een vectorvoorstelling van de lijn door F en S\n• S ligt op k en op de lijn door F en S, dus (7, 2) + s · (4, −3) = t · (3, 4)\n• De oplossing van dit stelsel is s = −22/25 (en t = 29/25)\n• Dus x_S = 3 12/25\n• Dit is minder dan de helft van x_F = 7, dus ligt het spiegelbeeld links van de y-as\nof\n• Een vergelijking van k is y = (4/3)x\n• Een vergelijking van de lijn loodrecht op k en door F is y = −¾(x − 7) + 2\n• De x-coördinaat van het snijpunt S kan worden berekend met (4/3)x = −¾(x − 7) + 2\n• Dit geeft x_S = 3 12/25\n• x_F′ = x_F − 2 · (x_F − x_S) = −1/25 (of: x_F′ = x_S − (x_F − x_S) = −1/25) (met F′ het eindpunt van het spiegelbeeld) en dus ligt het spiegelbeeld links van de y-as\nof\n• Voor de hoek α tussen OF→ en lijn k geldt cos(α) = ((3, 4) · (7, 2)) / (|(3, 4)| · |(7, 2)|) (= 0,796…)\n• Hieruit volgt α = 37,1…°\n• Voor de hoek β tussen k en de y-as geldt cos(β) = ((3, 4) · (0, 1)) / (|(3, 4)| · |(0, 1)|) (= 0,8)\n• Hieruit volgt β = 36,8…°\n• Omdat β < α (en bij spiegeling de hoek tussen de vector en lijn k gelijk blijft) ligt het spiegelbeeld links van de y-as\nof\n• Voor de hoek α₁ tussen OF→ en de x-as geldt tan(α₁) = 2/7\n• Voor de hoek α₂ tussen lijn k en de x-as geldt tan(α₂) = 4/3, dus α = α₂ − α₁ = 37,1…°\n• Voor de hoek β tussen k en de y-as geldt tan(β) = ¾ (of β = 90° − α₂)\n• Hieruit volgt β = 36,8…\n• Omdat β < α (en bij spiegeling de hoek tussen de vector en lijn k gelijk blijft) ligt het spiegelbeeld links van de y-as\nof\n• Voor de hoek α₁ tussen OF→ en de x-as geldt tan(α₁) = 2/7\n• Voor de hoek α₂ tussen lijn k en de x-as geldt tan(α₂) = 4/3, dus α = α₂ − α₁ = 37,1…°\n• De hoek van de gespiegelde vector met de x-as is α₂ + α\n• Deze hoek is 53,1… + 37,1… = 90,… (°)\n• Dit is meer dan 90(°) dus ligt de gespiegelde vector links van de y-as",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Als S de loodrechte projectie van F op k is, dan is (x, y) = (7, 2) + s · (4, −3) een vectorvoorstelling van de lijn door F en S"
+        },
+        {
+          "points": 1,
+          "description": "S ligt op k en op de lijn door F en S, dus (7, 2) + s · (4, −3) = t · (3, 4)"
+        },
+        {
+          "points": 1,
+          "description": "De oplossing van dit stelsel is s = −22/25 (en t = 29/25)"
+        },
+        {
+          "points": 1,
+          "description": "Dus x_S = 3 12/25"
+        },
+        {
+          "points": 1,
+          "description": "Dit is minder dan de helft van x_F = 7, dus ligt het spiegelbeeld links van de y-as"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-ii-vectoren-spiegelen-antw5.png"
+      ]
+    },
+    {
+      "title": "Raaklijnen bij een vierdegraadsfunctie",
+      "question_number": 6,
+      "answer_text": "• f′ₚ(x) = x³ − 3x² + p\n• f′ₚ(2) = p − 4 dus een vergelijking van l is y = (p − 4)x + 4\n• De oplossing van de vergelijking px = (p − 4)x + 4 is de x-coördinaat van M\n• De oplossing is (voor alle p) x = 1 (en dus is M het midden van AB)\nof\n• fₚ(2) = 2p − 4 dus A(2, 2p − 4)\n• Lijn l door A(2, 2p − 4) en B(0, 4) heeft vergelijking y = (p − 4)x + 4\n• De oplossing van de vergelijking px = (p − 4)x + 4 is de x-coördinaat van M\n• De oplossing is (voor alle p) x = 1 (en dus is M het midden van AB)\nof\n• fₚ(2) = 2p − 4 dus A(2, 2p − 4)\n• Het midden van AB is (1, p)\n• (1, p) ligt op de lijn door A en B en daarmee op lijn l\n• p · 1 = p dus (1, p) ligt op k (en dus is het midden van AB het snijpunt van k en l)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "f′ₚ(x) = x³ − 3x² + p"
+        },
+        {
+          "points": 1,
+          "description": "f′ₚ(2) = p − 4 dus een vergelijking van l is y = (p − 4)x + 4"
+        },
+        {
+          "points": 1,
+          "description": "De oplossing van de vergelijking px = (p − 4)x + 4 is de x-coördinaat van M"
+        },
+        {
+          "points": 1,
+          "description": "De oplossing is (voor alle p) x = 1 (en dus is M het midden van AB)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-ii-raaklijnen-bij-een-vierdegraadsfunctie-antw6.png"
+      ]
+    },
+    {
+      "title": "Raaklijnen bij een vierdegraadsfunctie",
+      "question_number": 7,
+      "answer_text": "• De vergelijking ¼x⁴ − x³ + px = px moet worden opgelost\n• De oplossingen zijn x = 0 en x = 4\n• De oppervlakte van V is gelijk aan ∫ van 0 tot 4 (px − (¼x⁴ − x³ + px)) dx = ∫ van 0 tot 4 (−¼x⁴ + x³) dx\n• Een primitieve van −¼x⁴ + x³ is −(1/20)x⁵ + ¼x⁴\n• De oppervlakte van V is 12⅘",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De vergelijking ¼x⁴ − x³ + px = px moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "De oplossingen zijn x = 0 en x = 4"
+        },
+        {
+          "points": 1,
+          "description": "De oppervlakte van V is gelijk aan ∫ van 0 tot 4 (px − (¼x⁴ − x³ + px)) dx = ∫ van 0 tot 4 (−¼x⁴ + x³) dx"
+        },
+        {
+          "points": 1,
+          "description": "Een primitieve van −¼x⁴ + x³ is −(1/20)x⁵ + ¼x⁴"
+        },
+        {
+          "points": 1,
+          "description": "De oppervlakte van V is 12⅘"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-ii-raaklijnen-bij-een-vierdegraadsfunctie-antw7.png"
+      ]
+    },
+    {
+      "title": "Bankenformules",
+      "question_number": 8,
+      "answer_text": "• Bij groeipercentage p hoort groeifactor 1 + p/100\n• Bij verdubbelingstijd T geldt (1 + p/100)^T = 2\n• ln((1 + p/100)^T) = T · ln(1 + p/100)\n• Hieruit volgt T · ln(1 + p/100) = ln(2) dus T = ln(2)/ln(1 + p/100)\nof\n• Uit g^T = 2 volgt T = ᵍlog(2)\n• Dus T = ln(2)/ln(g)\n• Bij groeipercentage p hoort groeifactor (g =) 1 + p/100\n• Dus T = ln(2)/ln(1 + p/100)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Bij groeipercentage p hoort groeifactor 1 + p/100"
+        },
+        {
+          "points": 1,
+          "description": "Bij verdubbelingstijd T geldt (1 + p/100)^T = 2"
+        },
+        {
+          "points": 1,
+          "description": "ln((1 + p/100)^T) = T · ln(1 + p/100)"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt T · ln(1 + p/100) = ln(2) dus T = ln(2)/ln(1 + p/100)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-ii-bankenformules-antw8.png"
+      ]
+    },
+    {
+      "title": "Bankenformules",
+      "question_number": 9,
+      "answer_text": "• De formule voor de verticale afstand A tussen lijn k en de grafiek van f is A(x) = (1/100)x − ln(1 + x/100) (met x > 0)\n• A′(x) = 1/100 − 1/(100 + x) (of een gelijkwaardige uitdrukking)\n• Een redenering waaruit volgt dat A′(x) > 0 (en dus wordt de verticale afstand groter)\nof\n• De formule voor de verticale afstand A tussen lijn k en de grafiek van f is A(x) = (1/100)x − ln(1 + x/100) (met x > 0)\n• A′(x) = 1/100 − 1/(100 + x) (of een gelijkwaardige uitdrukking)\n• A″(x) = 1/(100 + x)² > 0 (en dus wordt de verticale afstand groter)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De formule voor de verticale afstand A tussen lijn k en de grafiek van f is A(x) = (1/100)x − ln(1 + x/100) (met x > 0)"
+        },
+        {
+          "points": 2,
+          "description": "A′(x) = 1/100 − 1/(100 + x) (of een gelijkwaardige uitdrukking)"
+        },
+        {
+          "points": 1,
+          "description": "Een redenering waaruit volgt dat A′(x) > 0 (en dus wordt de verticale afstand groter)"
+        }
+      ],
+      "grading_note": "Voor het tweede antwoordelement mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-ii-bankenformules-antw9.png"
+      ]
+    },
+    {
+      "title": "Bankenformules",
+      "question_number": 10,
+      "answer_text": "• Het verschil tussen T en T₁ is ln(2)/ln(1 + p/100) − 70/p (of |ln(2)/ln(1 + p/100) − 70/p|)\n• Het verschil tussen T en T₂ is 72/p − ln(2)/ln(1 + p/100) (of |ln(2)/ln(1 + p/100) − 72/p|)\n• De vergelijking ln(2)/ln(1 + p/100) − 70/p = 72/p − ln(2)/ln(1 + p/100) moet worden opgelost\n• Dit geeft p = 4,9…\n• Het gevraagde rentepercentage is 5,0\nof\n• Het verschil tussen T en T₁ is ln(2)/ln(1 + p/100) − 70/p (of |ln(2)/ln(1 + p/100) − 70/p|)\n• Het verschil tussen T en T₂ is 72/p − ln(2)/ln(1 + p/100) (of |ln(2)/ln(1 + p/100) − 72/p|)\n• Beschrijven hoe bovenstaande verschilformules in een tabel kunnen worden weergegeven\n• p = 4,9 geeft 0,203… respectievelijk 0,204… en p = 5,0 geeft 0,206… respectievelijk 0,193…\n• Het gevraagde rentepercentage is 5,0",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Het verschil tussen T en T₁ is ln(2)/ln(1 + p/100) − 70/p (of |ln(2)/ln(1 + p/100) − 70/p|)"
+        },
+        {
+          "points": 1,
+          "description": "Het verschil tussen T en T₂ is 72/p − ln(2)/ln(1 + p/100) (of |ln(2)/ln(1 + p/100) − 72/p|)"
+        },
+        {
+          "points": 1,
+          "description": "De vergelijking ln(2)/ln(1 + p/100) − 70/p = 72/p − ln(2)/ln(1 + p/100) moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft p = 4,9…"
+        },
+        {
+          "points": 1,
+          "description": "Het gevraagde rentepercentage is 5,0"
+        }
+      ],
+      "grading_note": "Als in de verschilformules de termen zijn verwisseld, hiervoor geen scorepunten in mindering brengen.",
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-ii-bankenformules-antw10.png"
+      ]
+    },
+    {
+      "title": "Twee wortelgrafieken",
+      "question_number": 11,
+      "answer_text": "• g′(x) = 1/√(2x) (of een gelijkwaardige uitdrukking)\n• De lijn door O en P heeft vergelijking y = (2/√p)x\n• Voor punt Q moet gelden (2/√p)x = √(2x)\n• Dan volgt (x = 0 of) (4/p) · x = 2\n• Dit geeft x_Q = ½p\n• g′(½p) = (1/√(2 · ½p) =) 1/√p (en dat is gelijk aan f′(p))",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "g′(x) = 1/√(2x) (of een gelijkwaardige uitdrukking)"
+        },
+        {
+          "points": 1,
+          "description": "De lijn door O en P heeft vergelijking y = (2/√p)x"
+        },
+        {
+          "points": 1,
+          "description": "Voor punt Q moet gelden (2/√p)x = √(2x)"
+        },
+        {
+          "points": 1,
+          "description": "Dan volgt (x = 0 of) (4/p) · x = 2"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft x_Q = ½p"
+        },
+        {
+          "points": 1,
+          "description": "g′(½p) = (1/√(2 · ½p) =) 1/√p (en dat is gelijk aan f′(p))"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-ii-twee-wortelgrafieken-antw11.png"
+      ]
+    },
+    {
+      "title": "Twee wortelgrafieken",
+      "question_number": 12,
+      "answer_text": "• De y-coördinaat van P is 4 en de y-coördinaat van R is √8 (= 2√2)\n• De oppervlakte van driehoek PRS is ½ · 8 · (4 − 2√2) = 8(2 − √2)\n• De oppervlakte van het vlakdeel is ∫ van 0 tot 4 (2√x − √(2x)) dx (of ∫ van 0 tot 4 (2 − √2)√x dx)\n• Een primitieve van 2√x − √(2x) is (4/3)x√x − ⅔x√(2x) (of ⅔(2 − √2)x√x)\n• De oppervlakte van het vlakdeel is 32/3 − (16/3)√2 (of (16/3)(2 − √2))\n• De verhouding tussen de oppervlakte van het vlakdeel en de oppervlakte van driehoek PRS is 2 : 3 (of een gelijkwaardige verhouding) (of: de oppervlakte van driehoek PRS is 1,5 keer zo groot als de oppervlakte van het vlakdeel)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De y-coördinaat van P is 4 en de y-coördinaat van R is √8 (= 2√2)"
+        },
+        {
+          "points": 1,
+          "description": "De oppervlakte van driehoek PRS is ½ · 8 · (4 − 2√2) = 8(2 − √2)"
+        },
+        {
+          "points": 1,
+          "description": "De oppervlakte van het vlakdeel is ∫ van 0 tot 4 (2√x − √(2x)) dx (of ∫ van 0 tot 4 (2 − √2)√x dx)"
+        },
+        {
+          "points": 1,
+          "description": "Een primitieve van 2√x − √(2x) is (4/3)x√x − ⅔x√(2x) (of ⅔(2 − √2)x√x)"
+        },
+        {
+          "points": 1,
+          "description": "De oppervlakte van het vlakdeel is 32/3 − (16/3)√2 (of (16/3)(2 − √2))"
+        },
+        {
+          "points": 1,
+          "description": "De verhouding tussen de oppervlakte van het vlakdeel en de oppervlakte van driehoek PRS is 2 : 3 (of een gelijkwaardige verhouding) (of: de oppervlakte van driehoek PRS is 1,5 keer zo groot als de oppervlakte van het vlakdeel)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-ii-twee-wortelgrafieken-antw12.png"
+      ]
+    },
+    {
+      "title": "Asymptoten en raaklijnen",
+      "question_number": 13,
+      "answer_text": "• lim_(x→∞) e^(−1/x) = 1 (of lim_(x→−∞) e^(−1/x) = 1), dus de grafiek van f heeft een horizontale asymptoot met vergelijking y = 1\n• lim_(x↑0) e^(−1/x) = ∞, dus de grafiek van f heeft een verticale asymptoot met vergelijking x = 0\n• Dus de grafiek van de inverse functie van f heeft een horizontale asymptoot met vergelijking y = 0 en een verticale asymptoot met vergelijking x = 1\nof\n• De inverse functie van f is gegeven door f^inv(x) = −1/ln(x)\n• lim_(x→∞) (−1/ln(x)) = 0, dus de grafiek van de inverse functie van f heeft een horizontale asymptoot met vergelijking y = 0\n• lim_(x↓1) (−1/ln(x)) = −∞ (of lim_(x↑1) (−1/ln(x)) = ∞), dus de grafiek van de inverse functie van f heeft een verticale asymptoot met vergelijking x = 1",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "lim_(x→∞) e^(−1/x) = 1 (of lim_(x→−∞) e^(−1/x) = 1), dus de grafiek van f heeft een horizontale asymptoot met vergelijking y = 1"
+        },
+        {
+          "points": 1,
+          "description": "lim_(x↑0) e^(−1/x) = ∞, dus de grafiek van f heeft een verticale asymptoot met vergelijking x = 0"
+        },
+        {
+          "points": 1,
+          "description": "Dus de grafiek van de inverse functie van f heeft een horizontale asymptoot met vergelijking y = 0 en een verticale asymptoot met vergelijking x = 1"
+        }
+      ],
+      "grading_note": "Als de kandidaat bij het tweede antwoordelement van het eerste antwoordalternatief geen limiet gebruikt, maar een argument noemt als 'voor x = 0 is 1/x en dus f niet gedefinieerd', hiervoor geen scorepunten in mindering brengen.",
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-ii-asymptoten-en-raaklijnen-antw13.png"
+      ]
+    },
+    {
+      "title": "Asymptoten en raaklijnen",
+      "question_number": 14,
+      "answer_text": "• Een vergelijking van de raaklijn in P met x-coördinaat p is y − e^(−1/p) = (1/p²) · e^(−1/p) · (x − p) (of een gelijkwaardige uitdrukking)\n• De x-coördinaat van S is oplossing van de vergelijking −e^(−1/p) = (1/p²) · e^(−1/p) · (x − p)\n• Dit geeft x_S = −p² + p\n• x_S is maximaal als −2p + 1 = 0\n• Dit geeft p = ½\n• De maximale waarde van x_S is ¼\nof\n• De raaklijn die de x-as snijdt in punt S met de grootste x-coördinaat is de raaklijn in het buigpunt van de grafiek van f\n• f″(x) = (1/x²) · (1/x²) · e^(−1/x) − (2/x³) · e^(−1/x)\n• f″(x) = 0 geeft 1/x⁴ = 2/x³\n• De x-coördinaat van het buigpunt is ½\n• De y-coördinaat van het buigpunt is e⁻²\n• De richtingscoëfficiënt van de raaklijn in het buigpunt is 4e⁻²\n• Hieruit volgt dat deze raaklijn de x-as snijdt voor x = ¼ (dus de maximale waarde van x_S is ¼)",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "Een vergelijking van de raaklijn in P met x-coördinaat p is y − e^(−1/p) = (1/p²) · e^(−1/p) · (x − p) (of een gelijkwaardige uitdrukking)"
+        },
+        {
+          "points": 1,
+          "description": "De x-coördinaat van S is oplossing van de vergelijking −e^(−1/p) = (1/p²) · e^(−1/p) · (x − p)"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft x_S = −p² + p"
+        },
+        {
+          "points": 1,
+          "description": "x_S is maximaal als −2p + 1 = 0"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft p = ½"
+        },
+        {
+          "points": 1,
+          "description": "De maximale waarde van x_S is ¼"
+        }
+      ],
+      "grading_note": "Voor het eerste antwoordelement van het eerste antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-ii-asymptoten-en-raaklijnen-antw14.png"
+      ]
+    },
+    {
+      "title": "Driehoek in cirkel",
+      "question_number": 15,
+      "answer_text": "• In driehoek OAM geldt: tan(α) = 1/OA en tan(α) = sin(α)/cos(α)\n• Hieruit volgt OA = cos(α)/sin(α)\n• x_A = (cos(α)/sin(α)) · cos(α)\n• Beschrijven hoe de vergelijking (cos(α)/sin(α)) · cos(α) = ½ kan worden opgelost\n• De gevraagde waarde van α is 51(°)\nof\n• In driehoek OAM geldt: sin(α) = 1/OM ofwel OM = 1/sin(α)\n• Met A′ de loodrechte projectie van A op de x-as geldt: MA′ = sin(α) 1\n• x_A = 1/sin(α) − sin(α)\n• Beschrijven hoe de vergelijking 1/sin(α) − sin(α) = ½ kan worden opgelost\n• De gevraagde waarde van α is 51(°)\nof\n• Met A′ de loodrechte projectie van A op de x-as geldt: tan(α) = AA′/OA′\n• In driehoek OAA′ is AA′ = ½tan(α)\n• In driehoek MAA′ is AA′ = cos(α)\n• Beschrijven hoe de vergelijking ½tan(α) = cos(α) kan worden opgelost\n• De gevraagde waarde van α is 51(°)\nof\n• Voor lijn k geldt: y = ax dus voor punt A geldt: (½, ½a)\n• Uit rc_k = a volgt dat rc_AM = −1/a en een vergelijking van de lijn door A en M is y = −(1/a)x + ½a + 1/(2a)\n• Het snijpunt van deze lijn met de x-as is M(½a² + ½, 0) en dan volgt (met behulp van de stelling van Pythagoras) (½a²)² + (½a)² = 1\n• Beschrijven hoe hieruit de waarde a = 1,24… gevonden kan worden\n• De gevraagde waarde van α is 51(°)\nof\n• Er geldt: tan(α) = y_A/x_A = y_A/½ (= 2y_A)\n• sin(∠AMO) = sin(90° − α) = y_A/1 (= y_A)\n• Dus tan(α) = 2 · sin(90° − α)\n• Beschrijven hoe de vergelijking tan(α) = 2 · sin(90° − α) kan worden opgelost\n• De gevraagde waarde van α is 51(°)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "In driehoek OAM geldt: tan(α) = 1/OA en tan(α) = sin(α)/cos(α)"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt OA = cos(α)/sin(α)"
+        },
+        {
+          "points": 1,
+          "description": "x_A = (cos(α)/sin(α)) · cos(α)"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe de vergelijking (cos(α)/sin(α)) · cos(α) = ½ kan worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "De gevraagde waarde van α is 51(°)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-ii-driehoek-in-cirkel-antw15.png"
+      ]
+    },
+    {
+      "title": "Driehoek in cirkel",
+      "question_number": 16,
+      "answer_text": "• ∠BMA = (180° − (90° − α) =) α + 90°\n• ∠BMC = (½∠BMA =) ½α + 45°\n• Als α naar 0 nadert, nadert ∠BMC naar 45°\n• Met C′ de loodrechte projectie van C op de x-as geldt: CC′ = sin(∠BMC). Dus (omdat BM = 1) de oppervlakte van driehoek MBC is ½sin(45°)\n• Als α naar 0 nadert, nadert de oppervlakte naar ¼√2 (en dus is de gevraagde grenswaarde ¼√2)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "∠BMA = (180° − (90° − α) =) α + 90°"
+        },
+        {
+          "points": 1,
+          "description": "∠BMC = (½∠BMA =) ½α + 45°"
+        },
+        {
+          "points": 1,
+          "description": "Als α naar 0 nadert, nadert ∠BMC naar 45°"
+        },
+        {
+          "points": 1,
+          "description": "Met C′ de loodrechte projectie van C op de x-as geldt: CC′ = sin(∠BMC). Dus (omdat BM = 1) de oppervlakte van driehoek MBC is ½sin(45°)"
+        },
+        {
+          "points": 1,
+          "description": "Als α naar 0 nadert, nadert de oppervlakte naar ¼√2 (en dus is de gevraagde grenswaarde ¼√2)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-vwo-2021-ii-driehoek-in-cirkel-antw16.png"
+      ]
+    }
+  ]
+}
