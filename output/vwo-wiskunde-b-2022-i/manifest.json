@@ -1,0 +1,59 @@
+{
+  "source": "VWO Wiskunde B 2022-I",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Inverse van ln(x)",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Letter op het computerbeeldscherm",
+      "question_numbers": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Gebroken sinusfunctie",
+      "question_numbers": [
+        8
+      ]
+    },
+    {
+      "title": "Raaklijn verschuiven",
+      "question_numbers": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Vulkaan",
+      "question_numbers": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Scheve asymptoot",
+      "question_numbers": [
+        15
+      ]
+    },
+    {
+      "title": "Vlieger",
+      "question_numbers": [
+        16,
+        17
+      ]
+    }
+  ]
+}

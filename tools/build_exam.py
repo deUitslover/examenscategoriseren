@@ -178,6 +178,18 @@ def main():
                 continue
             v = dict(plan)[i]
             o = dict(plan)[j]
+            if v["kind"] == "ctx":
+                # ctx absorbs ctx across a vraag row: a "figuur 1" caption
+                # beside vraag 1 whose figure sits beside the next context
+                # (VWO-WISB-22-I-O.pdf p.1: --absorb 0:3=1); the vraag in
+                # between is wiped like any vraag inside a ctx crop
+                assert o["kind"] == "ctx", f"absorb {p}:{i}={j}: ctx can only absorb ctx"
+                v["members"] = list(v["members"]) + list(o["members"])
+                v["embedded"] = v.get("embedded", []) + o.get("embedded", [])
+                v["y0"] = min(v["y0"], o["y0"])
+                v["y1"] = max(v["y1"], o["y1"])
+                plan = [(k, it) for k, it in plan if k != j]
+                continue
             assert v["kind"] == "vraag", f"absorb {p}:{i} is not a vraag item"
             bx = [v["members"][0]] + list(o["members"])
             v["members"] = [(min(b[0] for b in bx), min(b[1] for b in bx),
