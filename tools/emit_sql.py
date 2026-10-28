@@ -14,8 +14,13 @@ Annotation file (Python, loaded with runpy) defines:
         },
         "text": {"c3": "override text", "q5": "override text"},  # optional
         "block_types": {7: "uitwerkbijlage"},                   # optional, default 'inline'
+        "renumber": {3: 6},   # optional: PDF prints a wrong vraagnummer
       },
     }
+"renumber" maps the number printed in the PDF (and used by build_exam.py in
+the draft) to the real vraagnummer (VWO-WISB-24-I-O.pdf prints "3" for vraag
+6 and "7"/"8" for vraag 9/10). "q" and "text" ("q6") use the real number; the
+vraag PNG is renamed to ...-vraag<real>.png.
 Subdomain names are validated against SUBDOMAINS below (HAVO Biologie
 list) or, with SUBJECT = "Wiskunde B" in the annotation file, against
 WISKUNDE_B_SUBDOMAINS (VWO Wiskunde B list); the domain is derived from it.
@@ -122,7 +127,13 @@ def main():
                          "block_type": a.get("block_types", {}).get(n, "inline")})
         nums = []
         for qq in ex["questions"]:
-            n = qq["number"]
+            n = a.get("renumber", {}).get(qq["number"], qq["number"])
+            if n != qq["number"]:
+                new = qq["image"].replace(f"-vraag{qq['number']}.png", f"-vraag{n}.png")
+                src, dst = (os.path.join(outdir, "images", x) for x in (qq["image"], new))
+                if os.path.exists(src):
+                    os.replace(src, dst)
+                qq["image"] = new
             nums.append(n)
             links, subs, kws, summ = a["q"][n]
             for s in subs:
