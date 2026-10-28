@@ -54,6 +54,12 @@ Usage:
                  puts the rest of the line in the ctx block beside it. The
                  keep box grows to cover those lines; the ctx items of the
                  page drop them as members and wipe that box instead.
+--split p:i=y    vraag item i on page p ends at y: its text lines below y
+                 become a new ctx item right after the vraag. For a context
+                 line that directly follows the vraag at the page bottom and
+                 that find_vraag_lines swallows (VWO-WISB-23-I-O.pdf p.2
+                 "De kracht die uitgeoefend moet worden ..." under vraag 4,
+                 continued on p.3: --split 1:3=740 --join 2:0).
 
 Exam-specific quirks used so far (re-run these exactly):
     HAVO-BIO-19-I-O.pdf: see tools/annotations/havo-biologie-2019-i.py header
@@ -109,6 +115,7 @@ def main():
     ap.add_argument("--trim", nargs="*", default=[])
     ap.add_argument("--absorb", nargs="*", default=[])
     ap.add_argument("--widen", nargs="*", default=[])
+    ap.add_argument("--split", nargs="*", default=[])
     a = ap.parse_args()
 
     doc = fitz.open(a.pdf)
@@ -144,6 +151,10 @@ def main():
     for spec in a.widen:
         k, x1 = spec.split("=")
         widen[tuple(map(int, k.split(":")))] = float(x1)
+    split = {}
+    for spec in a.split:
+        k, y = spec.split("=")
+        split[tuple(map(int, k.split(":")))] = float(y)
     extend = {}
     for spec in a.extend:
         k, pt = spec.split("=")
@@ -218,6 +229,24 @@ def main():
                     o["members"] = [b for b in o["members"] if b not in inb]
                     o.setdefault("extra_wipe", []).append(
                         (box[0] - 2, box[1] - 1, box[2] + 2, box[3] + 1))
+        for (p, i), ysplit in split.items():
+            if p != page.number:
+                continue
+            idx = [k for k, _ in plan].index(i)
+            v = plan[idx][1]
+            assert v["kind"] == "vraag", f"split {p}:{i} is not a vraag item"
+            m = v["members"][0]
+            below = [tuple(l[:4]) for l in text_lines(page)
+                     if l[1] >= ysplit and l[3] <= m[3] + 0.5 and l[0] >= m[0] - 1]
+            assert below, f"split {p}:{i}={ysplit}: no lines below"
+            keep = [l[:4] for l in text_lines(page)
+                    if l[3] <= ysplit and l[1] >= m[1] - 0.5 and l[0] >= m[0] - 1]
+            v["members"] = [(m[0], m[1], m[2], max(b[3] for b in keep))]
+            v["y1"] = v["members"][0][3]
+            plan.insert(idx + 1, (f"{i}s", {"kind": "ctx", "page": page.number,
+                                            "y0": min(b[1] for b in below),
+                                            "y1": max(b[3] for b in below),
+                                            "members": below}))
         for i, it in plan:
             if (page.number, i) in drop:
                 continue

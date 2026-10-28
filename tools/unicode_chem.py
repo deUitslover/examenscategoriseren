@@ -52,6 +52,10 @@ SYMBOL_FONT_MAP = {
     "": "β",  # Symbol font 'b' position -> beta
     "": "°",  # Symbol font degree position -> degree sign (hoek/temperatuur)
     "": "·",  # Symbol font multiply-dot position -> centered dot (machtsnotatie/eenheden)
+    "\uf03e": ">",  # Symbol font '>' position -> greater-than ("x > 0", VWO-WISB-23-I-O.pdf)
+    "\uf03c": "<",  # Symbol font '<' position -> less-than
+    "\uf070": "π",  # Symbol font 'p' position -> pi ("A(12π, 1)", VWO-WISB-23-II-O.pdf)
+    "\uf0b3": "≥",  # Symbol font 0xB3 -> greater-than-or-equal ("x ≥ −3", VWO-WISB-23-II-O.pdf)
 }
 
 
