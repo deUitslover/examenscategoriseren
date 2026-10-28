@@ -18,7 +18,8 @@ def main():
     for ei, ex in enumerate(d["exercises"]):
         items = [(c["key"], "C%d" % c["n"], c["image"]) for c in ex["context_blocks"]] + \
                 [(q["key"], "Q%d" % q["number"], q["image"]) for q in ex["questions"]]
-        items.sort(key=lambda t: tuple(map(int, t[0].split(":"))))
+        # "p:is" keys come from build_exam.py --split (sort right after p:i)
+        items.sort(key=lambda t: tuple(float(x.replace("s", ".5")) for x in t[0].split(":")))
         pixes = [fitz.Pixmap(f"output/{slug}/images/{im}") for _, _, im in items]
         W = max(p.width for p in pixes)
         gap = 30
