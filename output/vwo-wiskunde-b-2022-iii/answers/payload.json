@@ -1,0 +1,480 @@
+{
+  "payload": {
+    "subject_name": "Wiskunde B",
+    "level": "VWO",
+    "source": "VWO Wiskunde B 2022-III",
+    "answers": [
+      {
+        "title": "Gelijke oppervlaktes",
+        "question_number": 1,
+        "answer_text": "• ⚠️ CONTROLEREN: begin van de zin is in het correctievoorschrift onleesbaar weergegeven ('9 RRUYDDJ IO'), vermoedelijk 'Voor deze vraag'. Tekst: ... moeten altijd 3 scorepunten worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.",
+        "scoring_steps": [
+          {
+            "points": 3,
+            "description": "⚠️ CONTROLEREN: begin van de zin is in het correctievoorschrift onleesbaar weergegeven ('9 RRUYDDJ IO'), vermoedelijk 'Voor deze vraag'. Tekst: ... moeten altijd 3 scorepunten worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-gelijke-oppervlaktes-antw1.png"
+        ]
+      },
+      {
+        "title": "Gelijke oppervlaktes",
+        "question_number": 2,
+        "answer_text": "• De oppervlakte van V is F(9) − F(7) = ln(12) − ln(2) (= ln(6))\n• De oppervlakte van W is F(p) − F(9) = ln(p² − 11p + 30) − ln(12)\n• Uit ln(p² − 11p + 30) − ln(12) = ln(6) volgt ln(p² − 11p + 30) = ln(72)\n• Hieruit volgt p² − 11p − 42 = 0\n• (p − 14)(p + 3) = 0 en dus p = 14 (p = −3 voldoet niet)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De oppervlakte van V is F(9) − F(7) = ln(12) − ln(2) (= ln(6))"
+          },
+          {
+            "points": 1,
+            "description": "De oppervlakte van W is F(p) − F(9) = ln(p² − 11p + 30) − ln(12)"
+          },
+          {
+            "points": 1,
+            "description": "Uit ln(p² − 11p + 30) − ln(12) = ln(6) volgt ln(p² − 11p + 30) = ln(72)"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt p² − 11p − 42 = 0"
+          },
+          {
+            "points": 1,
+            "description": "(p − 14)(p + 3) = 0 en dus p = 14 (p = −3 voldoet niet)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-gelijke-oppervlaktes-antw2.png"
+        ]
+      },
+      {
+        "title": "Gelijke oppervlaktes",
+        "question_number": 3,
+        "answer_text": "• De afgeleide van 1/(x − 5) + 1/(x − 6) is −1/(x − 5)² − 1/(x − 6)² (of: de afgeleide van −1/(x − 5) − 1/(x − 6) is 1/(x − 5)² + 1/(x − 6)²)\n• De richtingscoëfficiënt van één van de raaklijnen in A is (−1/(¼) − 1/(¼) =) −8 (of (1/(¼) + 1/(¼) =) 8)\n• De hoek die deze raaklijn met de x-as maakt is 82,8...°\n• De hoek die de andere raaklijn met de x-as maakt is (vanwege symmetrie) ook 82,8...°\n• De gevraagde hoek is 14°",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De afgeleide van 1/(x − 5) + 1/(x − 6) is −1/(x − 5)² − 1/(x − 6)² (of: de afgeleide van −1/(x − 5) − 1/(x − 6) is 1/(x − 5)² + 1/(x − 6)²)"
+          },
+          {
+            "points": 1,
+            "description": "De richtingscoëfficiënt van één van de raaklijnen in A is (−1/(¼) − 1/(¼) =) −8 (of (1/(¼) + 1/(¼) =) 8)"
+          },
+          {
+            "points": 1,
+            "description": "De hoek die deze raaklijn met de x-as maakt is 82,8...°"
+          },
+          {
+            "points": 1,
+            "description": "De hoek die de andere raaklijn met de x-as maakt is (vanwege symmetrie) ook 82,8...°"
+          },
+          {
+            "points": 1,
+            "description": "De gevraagde hoek is 14°"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-gelijke-oppervlaktes-antw3.png"
+        ]
+      },
+      {
+        "title": "Drie op een rij",
+        "question_number": 4,
+        "answer_text": "• De driehoeken ADS en FHS zijn gelijkvormig, waarbij de zijden van driehoek ADS 1½ keer zo groot zijn als de zijden van driehoek FHS\n• Hieruit volgt AS⃗ = 3/5 · AF⃗\n• AS⃗ = 3/5 · (2, 1) = (6/5, 3/5)\nof\n• In een geschikt assenstelsel met A als oorsprong is y = ½x een vergelijking van de lijn door A en F en y = 1 − ⅓x een vergelijking van de lijn door H en D\n• S is het snijpunt van deze twee lijnen, dus geldt ½x = 1 − ⅓x en dat geeft x = 6/5\n• Dus y = 3/5 (en dus AS⃗ = (6/5, 3/5))\nof\n• In een geschikt assenstelsel met A als oorsprong is y = ½x een vergelijking van de lijn door A en F en (x, y) = (0, 1) + λ(3, −1) een vectorvoorstelling van de lijn door H en D\n• S is het snijpunt van deze twee lijnen, dus geldt 1 − λ = ½ · 3λ en dat geeft λ = 2/5\n• Dus AS⃗ = (0, 1) + 2/5 · (3, −1) = (6/5, 3/5)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De driehoeken ADS en FHS zijn gelijkvormig, waarbij de zijden van driehoek ADS 1½ keer zo groot zijn als de zijden van driehoek FHS"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt AS⃗ = 3/5 · AF⃗"
+          },
+          {
+            "points": 1,
+            "description": "AS⃗ = 3/5 · (2, 1) = (6/5, 3/5)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-drie-op-een-rij-antw4.png"
+        ]
+      },
+      {
+        "title": "Drie op een rij",
+        "question_number": 5,
+        "answer_text": "• BS⃗ = (6/5, 3/5) − (1, 0) = (1/5, 3/5)\n• HD⃗ = (3, −1)\n• BS⃗ · HD⃗ = 0 dus BS⃗ en HD⃗ staan loodrecht op elkaar\nof\n• In een geschikt assenstelsel is de vergelijking van de cirkel met middelpunt C door B (x − 2)² + y² = 1²\n• S ligt op de cirkel want (6/5 − 2)² + (3/5)² = 1²\n• Dus ∠BSD = 90° (Thales) (, dus BS⃗ en HD⃗ staan loodrecht op elkaar)\nof\n• (BS⃗ = (6/5, 3/5) − (1, 0) = (1/5, 3/5) dus) de richtingscoëfficiënt van de lijn door B en S is 3\n• (Uit de gegevens volgt:) de richtingscoëfficiënt van de lijn door H en D is −⅓\n• 3 · −⅓ = −1 dus BS⃗ en HD⃗ staan loodrecht op elkaar",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "BS⃗ = (6/5, 3/5) − (1, 0) = (1/5, 3/5)"
+          },
+          {
+            "points": 1,
+            "description": "HD⃗ = (3, −1)"
+          },
+          {
+            "points": 1,
+            "description": "BS⃗ · HD⃗ = 0 dus BS⃗ en HD⃗ staan loodrecht op elkaar"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-drie-op-een-rij-antw5.png"
+        ]
+      },
+      {
+        "title": "Modeltube",
+        "question_number": 6,
+        "answer_text": "• De omtrek van de cilindervormige koker is 4π\n• De diameter van de halve cirkel op hoogte h is 0,4h\n• De lengte van één lijnstuk is 2π − 0,2πh\n• A(h) = π(0,2h)² + 0,4h(2π − 0,2πh) (= π(0,8h − 0,04h²)) of een gelijkwaardige uitdrukking\n• Beschrijven hoe (met de GR of met behulp van een primitieve van I) de waarde van I gevonden kan worden\n• De inhoud is 83,7... (of 80π/3) en dat is groter dan 80 (of: de inhoud is 83,7... (of 80π/3) en dus kan de modeltube 80 cm³ bevatten)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De omtrek van de cilindervormige koker is 4π"
+          },
+          {
+            "points": 1,
+            "description": "De diameter van de halve cirkel op hoogte h is 0,4h"
+          },
+          {
+            "points": 1,
+            "description": "De lengte van één lijnstuk is 2π − 0,2πh"
+          },
+          {
+            "points": 1,
+            "description": "A(h) = π(0,2h)² + 0,4h(2π − 0,2πh) (= π(0,8h − 0,04h²)) of een gelijkwaardige uitdrukking"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe (met de GR of met behulp van een primitieve van I) de waarde van I gevonden kan worden"
+          },
+          {
+            "points": 1,
+            "description": "De inhoud is 83,7... (of 80π/3) en dat is groter dan 80 (of: de inhoud is 83,7... (of 80π/3) en dus kan de modeltube 80 cm³ bevatten)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-modeltube-antw6.png"
+        ]
+      },
+      {
+        "title": "Vierkanten bij een exponentiële functie",
+        "question_number": 7,
+        "answer_text": "• De oppervlakte van vierkant V is p²\n• De oppervlakte van vierkant W is (eᵖ)² = e²ᵖ\n• R = p²/e²ᵖ\n• dR/dp = (2pe²ᵖ − 2p²e²ᵖ)/(e²ᵖ)²\n• dR/dp = 0 dus (2p − 2p²)e²ᵖ = 0\n• Dit geeft (p = 0 of) p = 1\n• De maximale waarde van R is (R(1) =) 1/e²\nof\n• R is maximaal als √R maximaal is\n• √R = zijde V / zijde W\n• √R = p/eᵖ\n• d√R/dp = (eᵖ − peᵖ)/e²ᵖ\n• d√R/dp = 0 dus p = 1\n• De maximale waarde van √R is (√R(1) =) 1/e\n• De maximale waarde van R is 1/e²\nof\n• De oppervlakte van vierkant V is p²\n• De oppervlakte van vierkant W is (eᵖ)² = e²ᵖ\n• R = p²/e²ᵖ = p² · e⁻²ᵖ\n• dR/dp = 2pe⁻²ᵖ − 2p²e⁻²ᵖ\n• dR/dp = 0 dus (2p − 2p²)e⁻²ᵖ = 0\n• Dit geeft (p = 0 of) p = 1\n• De maximale waarde van R is (R(1) =) 1/e²",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De oppervlakte van vierkant V is p²"
+          },
+          {
+            "points": 1,
+            "description": "De oppervlakte van vierkant W is (eᵖ)² = e²ᵖ"
+          },
+          {
+            "points": 1,
+            "description": "R = p²/e²ᵖ"
+          },
+          {
+            "points": 2,
+            "description": "dR/dp = (2pe²ᵖ − 2p²e²ᵖ)/(e²ᵖ)²"
+          },
+          {
+            "points": 1,
+            "description": "dR/dp = 0 dus (2p − 2p²)e²ᵖ = 0"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft (p = 0 of) p = 1"
+          },
+          {
+            "points": 1,
+            "description": "De maximale waarde van R is (R(1) =) 1/e²"
+          }
+        ],
+        "grading_note": "Als een kandidaat de ketting-, product- of quotiëntregel niet of onjuist heeft toegepast, voor deze vraag maximaal 6 scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-vierkanten-bij-een-exponentiele-functie-antw7.png"
+        ]
+      },
+      {
+        "title": "Gelijke hoeken",
+        "question_number": 8,
+        "answer_text": "• (Omdat k, l en m stijgende lijnen zijn, moet gelden:) ((5, 12) · (1, a))/(|(5, 12)| · |(1, a)|) = ((3, 4) · (1, a))/(|(3, 4)| · |(1, a)|)\n• (5, 12) · (1, a) = 5 + 12a en (3, 4) · (1, a) = 3 + 4a\n• Dus (5 + 12a)/13 = (3 + 4a)/5\n• Hieruit volgt (25 + 60a = 39 + 52a en dus) 8a = 14 waaruit volgt a = 1¾\nof\n• |(5, 12)| = 13 en |(3, 4)| = 5\n• 5 · (5, 12) + 13 · (3, 4) = (64, 112)\n• Dus a = (112/64 =) 1¾",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(Omdat k, l en m stijgende lijnen zijn, moet gelden:) ((5, 12) · (1, a))/(|(5, 12)| · |(1, a)|) = ((3, 4) · (1, a))/(|(3, 4)| · |(1, a)|)"
+          },
+          {
+            "points": 1,
+            "description": "(5, 12) · (1, a) = 5 + 12a en (3, 4) · (1, a) = 3 + 4a"
+          },
+          {
+            "points": 1,
+            "description": "Dus (5 + 12a)/13 = (3 + 4a)/5"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt (25 + 60a = 39 + 52a en dus) 8a = 14 waaruit volgt a = 1¾"
+          }
+        ],
+        "grading_note": "Voor het tweede antwoordelement van het tweede antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-gelijke-hoeken-antw8.png"
+        ]
+      },
+      {
+        "title": "Gelijke hoeken",
+        "question_number": 9,
+        "answer_text": "• In S geldt 29 + 5s = 3t en 4 + 12s = 24 + 4t\n• Beschrijven hoe dit stelsel van twee vergelijkingen met twee onbekenden opgelost kan worden\n• Dit geeft s = 11 (en t = 28)\n• Dus S(84, 136)\n• Hieruit volgt b = 136 − 84 · 1¾ = −11\nof\n• Een vergelijking van k is 12x − 5y = 328 en voor lijn l geldt x = 3t en y = 24 + 4t\n• Lijn k snijden met lijn l geeft 12(3t) − 5(24 + 4t) = 328\n• Dit geeft t = 28\n• Dus S(84, 136)\n• Hieruit volgt b = 136 − 84 · 1¾ = −11",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In S geldt 29 + 5s = 3t en 4 + 12s = 24 + 4t"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe dit stelsel van twee vergelijkingen met twee onbekenden opgelost kan worden"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft s = 11 (en t = 28)"
+          },
+          {
+            "points": 1,
+            "description": "Dus S(84, 136)"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt b = 136 − 84 · 1¾ = −11"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-gelijke-hoeken-antw9.png"
+        ]
+      },
+      {
+        "title": "Verouderingskromme",
+        "question_number": 10,
+        "answer_text": "• (Er moet gelden 2 ≤ C < 3, dus) de vergelijkingen 6 − 5(1 − t/25)^(1/2,3) = 2 en 6 − 5(1 − t/25)^(1/2,3) = 3 moeten worden opgelost\n• Een beschrijving waaruit de oplossing t ≈ 10,04 van de eerste vergelijking (of de oplossing t ≈ 17,28 van de tweede vergelijking) volgt\n• De andere oplossing is t ≈ 17,28 (of t ≈ 10,04), dus het gevraagde aantal jaren is 7,2",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(Er moet gelden 2 ≤ C < 3, dus) de vergelijkingen 6 − 5(1 − t/25)^(1/2,3) = 2 en 6 − 5(1 − t/25)^(1/2,3) = 3 moeten worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Een beschrijving waaruit de oplossing t ≈ 10,04 van de eerste vergelijking (of de oplossing t ≈ 17,28 van de tweede vergelijking) volgt"
+          },
+          {
+            "points": 1,
+            "description": "De andere oplossing is t ≈ 17,28 (of t ≈ 10,04), dus het gevraagde aantal jaren is 7,2"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-verouderingskromme-antw10.png"
+        ]
+      },
+      {
+        "title": "Verouderingskromme",
+        "question_number": 11,
+        "answer_text": "• C = 6 − 5(1 − t/L)^(1/2,3) geeft (1 − t/L)^(1/2,3) = ⅕(6 − C)\n• (1 − t/L)^(1/2,3) = ⅕(6 − C) geeft 1 − t/L = (⅕(6 − C))^2,3\n• Dat geeft 1 − t/L = (⅕)^2,3 (6 − C)^2,3 dus t/L = 1 − (⅕)^2,3 (6 − C)^2,3 (dus t = L − L · (⅕)^2,3 · (6 − C)^2,3 of t = L − L · 0,0246... · (6 − C)^2,3)\n• De gevraagde waarde van a is ((⅕)^2,3 ≈) 0,025 en b = 2,3",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "C = 6 − 5(1 − t/L)^(1/2,3) geeft (1 − t/L)^(1/2,3) = ⅕(6 − C)"
+          },
+          {
+            "points": 1,
+            "description": "(1 − t/L)^(1/2,3) = ⅕(6 − C) geeft 1 − t/L = (⅕(6 − C))^2,3"
+          },
+          {
+            "points": 1,
+            "description": "Dat geeft 1 − t/L = (⅕)^2,3 (6 − C)^2,3 dus t/L = 1 − (⅕)^2,3 (6 − C)^2,3 (dus t = L − L · (⅕)^2,3 · (6 − C)^2,3 of t = L − L · 0,0246... · (6 − C)^2,3)"
+          },
+          {
+            "points": 1,
+            "description": "De gevraagde waarde van a is ((⅕)^2,3 ≈) 0,025 en b = 2,3"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-verouderingskromme-antw11.png"
+        ]
+      },
+      {
+        "title": "Verouderingskromme",
+        "question_number": 12,
+        "answer_text": "• De vergelijking 1 + ½log(1 − t/L) = 3 moet worden opgelost\n• Dus ½log(1 − t/L) = 2 en dit geeft 1 − t/L = ¼\n• Hieruit volgt t = ¾L, dus het gevraagde percentage is 75",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De vergelijking 1 + ½log(1 − t/L) = 3 moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Dus ½log(1 − t/L) = 2 en dit geeft 1 − t/L = ¼"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt t = ¾L, dus het gevraagde percentage is 75"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-verouderingskromme-antw12.png"
+        ]
+      },
+      {
+        "title": "Cosinusgrafiek door hoogste punten",
+        "question_number": 13,
+        "answer_text": "• −2cos²(x) + 3cos(x) − 1 = 0 geeft (cos(x) − 1)(−2cos(x) + 1) = 0 (of gebruik van de abc-formule)\n• Dit geeft cos(x) = 1 of cos(x) = ½\n• In het gevraagde gemeenschappelijke punt met de x-as geldt cos(x) = ½\n• Dus de gevraagde x-coördinaat is ⅓π",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "−2cos²(x) + 3cos(x) − 1 = 0 geeft (cos(x) − 1)(−2cos(x) + 1) = 0 (of gebruik van de abc-formule)"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft cos(x) = 1 of cos(x) = ½"
+          },
+          {
+            "points": 1,
+            "description": "In het gevraagde gemeenschappelijke punt met de x-as geldt cos(x) = ½"
+          },
+          {
+            "points": 1,
+            "description": "Dus de gevraagde x-coördinaat is ⅓π"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-cosinusgrafiek-door-hoogste-punten-antw13.png"
+        ]
+      },
+      {
+        "title": "Cosinusgrafiek door hoogste punten",
+        "question_number": 14,
+        "answer_text": "• fₚ′(x) = 4cos(x) · sin(x) − p · sin(x)\n• fₚ′(a) = 0 geeft sin(a) · (4cos(a) − p) = 0\n• Dit geeft sin(a) = 0 of cos(a) = ¼p, dus (omdat sin(a) = 0 hoort bij de extremen met x = 0) hoort cos(a) = ¼p bij de hoogste punten (en dus geldt in een hoogste punt met x-coördinaat a dat cos(a) = ¼p)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "fₚ′(x) = 4cos(x) · sin(x) − p · sin(x)"
+          },
+          {
+            "points": 1,
+            "description": "fₚ′(a) = 0 geeft sin(a) · (4cos(a) − p) = 0"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft sin(a) = 0 of cos(a) = ¼p, dus (omdat sin(a) = 0 hoort bij de extremen met x = 0) hoort cos(a) = ¼p bij de hoogste punten (en dus geldt in een hoogste punt met x-coördinaat a dat cos(a) = ¼p)"
+          }
+        ],
+        "grading_note": "Als een kandidaat de kettingregel niet of onjuist heeft toegepast, voor deze vraag maximaal 2 scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-cosinusgrafiek-door-hoogste-punten-antw14.png"
+        ]
+      },
+      {
+        "title": "Cosinusgrafiek door hoogste punten",
+        "question_number": 15,
+        "answer_text": "• In een hoogste punt geldt (cos(a) = ¼p dus) p = 4cos(a) en fₚ(a) = −2cos²(a) + p · cos(a) − 1\n• Substitutie geeft fₚ(a) = −2cos²(a) + 4cos(a) · cos(a) − 1\n• Dus fₚ(a) = 2cos²(a) − 1\n• 2cos²(a) − 1 = cos(2a), dus de hoogste punten van de grafieken van fₚ liggen op de grafiek van g\nof\n• In een hoogste punt geldt cos(a) = ¼p en fₚ(a) = −2cos²(a) + p · cos(a) − 1\n• Substitutie geeft fₚ(a) = −⅛p² + ¼p² − 1 = ⅛p² − 1\n• Dus fₚ(a) = 2cos²(a) − 1\n• 2cos²(a) − 1 = cos(2a), dus de hoogste punten van de grafieken van fₚ liggen op de grafiek van g",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In een hoogste punt geldt (cos(a) = ¼p dus) p = 4cos(a) en fₚ(a) = −2cos²(a) + p · cos(a) − 1"
+          },
+          {
+            "points": 1,
+            "description": "Substitutie geeft fₚ(a) = −2cos²(a) + 4cos(a) · cos(a) − 1"
+          },
+          {
+            "points": 1,
+            "description": "Dus fₚ(a) = 2cos²(a) − 1"
+          },
+          {
+            "points": 1,
+            "description": "2cos²(a) − 1 = cos(2a), dus de hoogste punten van de grafieken van fₚ liggen op de grafiek van g"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-cosinusgrafiek-door-hoogste-punten-antw15.png"
+        ]
+      },
+      {
+        "title": "Loodrecht door de parabool",
+        "question_number": 16,
+        "answer_text": "• dx/dt = 2t en dy/dt = 1\n• Dan volgt dy/dx = 1/(2t)\n• (t = √a, dus) de richtingscoëfficiënt van de raaklijn in A is 1/(2√a)\n• De richtingscoëfficiënt van lijn AM is √a/(a − r)\n• Er moet gelden √a/(a − r) · 1/(2√a) = −1\n• Uit 1/(2(a − r)) = −1 volgt a − r = −½ en dus a = r − ½\nof\n• dx/dt = 2t en dy/dt = 1\n• (t = √a, dus) een richtingsvector van de raaklijn in A is (2√a, 1)\n• MA⃗ = (a − r, √a)\n• Er moet gelden (a − r, √a) · (2√a, 1) = 0\n• Dus (a − r)(2√a) + √a = 0\n• Hieruit volgt 2(a − r) = −1 en dus volgt a − r = −½ en dus a = r − ½\nof\n• (Voor het bovenste deel van de parabool geldt) y = √x\n• (dy/dx = 1/(2√x), dus) een richtingsvector van de raaklijn in A is (1, 1/(2√a))\n• MA⃗ = (a − r, √a)\n• Er moet gelden (a − r, √a) · (1, 1/(2√a)) = 0\n• Dus a − r + √a · 1/(2√a) = 0\n• Dus a − r + ½ = 0 en dus a = r − ½\nof\n• (Voor het bovenste deel van de parabool geldt) y = √x\n• dy/dx = 1/(2√x) dus de helling van de parabool in A is 1/(2√a)\n• MA (staat hier loodrecht op en) heeft (dus) richtingscoëfficiënt −2√a\n• Dus (omdat MA⃗ = (a − r, √a)) −2√a = √a/(a − r)\n• Dus −2√a(a − r) = √a ofwel −2(a − r) = 1\n• Dat geeft −a + r = ½ dus a = r − ½",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "dx/dt = 2t en dy/dt = 1"
+          },
+          {
+            "points": 1,
+            "description": "Dan volgt dy/dx = 1/(2t)"
+          },
+          {
+            "points": 1,
+            "description": "(t = √a, dus) de richtingscoëfficiënt van de raaklijn in A is 1/(2√a)"
+          },
+          {
+            "points": 1,
+            "description": "De richtingscoëfficiënt van lijn AM is √a/(a − r)"
+          },
+          {
+            "points": 1,
+            "description": "Er moet gelden √a/(a − r) · 1/(2√a) = −1"
+          },
+          {
+            "points": 1,
+            "description": "Uit 1/(2(a − r)) = −1 volgt a − r = −½ en dus a = r − ½"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-loodrecht-door-de-parabool-antw16.png"
+        ]
+      },
+      {
+        "title": "Loodrecht door de parabool",
+        "question_number": 17,
+        "answer_text": "• De zijden van driehoek AA′M (met A′ de loodrechte projectie van A op de x-as) hebben lengte ½, √(r − ½) en ½r\n• De vergelijking (½)² + (√(r − ½))² = (½r)²\n• Dit herleiden tot r² − 4r + 1 = 0\n• Dit geeft r = 2 + √3 en r = 2 − √3 (of gelijkwaardige uitdrukkingen)\n• Het antwoord r = 2 + √3 (of een gelijkwaardige uitdrukking)\nof\n• De zijden van driehoek AA′M (met A′ de loodrechte projectie van A op de x-as) hebben lengte ½, √a en (omdat MA = ½r) ½a + ¼\n• De vergelijking (½)² + (√a)² = (½a + ¼)²\n• Dit herleiden tot 4a² − 12a − 3 = 0\n• Dit geeft a = 3/2 + √3 en a = 3/2 − √3 (of gelijkwaardige uitdrukkingen)\n• Het antwoord r = 2 + √3 (of een gelijkwaardige uitdrukking)\nof\n• A(a, √a) = (r − ½, √(r − ½))\n• Dus B(r − 1, 2√(r − ½))\n• De cirkel met middelpunt M en straal r heeft vergelijking (x − r)² + y² = r²\n• B ligt op deze cirkel, dus (−1)² + 4r − 2 = r² ofwel r² − 4r + 1 = 0\n• Dit geeft r = 2 + √3 en r = 2 − √3 (of gelijkwaardige uitdrukkingen)\n• Het antwoord r = 2 + √3 (of een gelijkwaardige uitdrukking)\nof\n• A is het midden van MB, dus B(2a − r, 2√a)\n• De coördinaten van B invullen in (x − r)² + y² = r² geeft (2a − 2r)² + (2√a)² = r²\n• a = r − ½ invullen geeft (−1)² + 4r − 2 = r² ofwel r² − 4r + 1 = 0\n• Dit geeft r = 2 + √3 en r = 2 − √3 (of gelijkwaardige uitdrukkingen)\n• Het antwoord r = 2 + √3 (of een gelijkwaardige uitdrukking)\nof\n• Lijn AM heeft vergelijking y = −2√a(x − r)\n• Snijden met de cirkel (x − r)² + y² = r² geeft (x − r)² + 4a(x − r)² = r², ofwel (x − r)² = r²/(1 + 4a)\n• Dit geeft x_B = r − √(r²/(1 + 4a)), ofwel (met a = r − ½) x_B = r − √(r²/(4r − 1))\n• (Omdat r − x_B = 2(r − a) = 1 geldt) √(r²/(4r − 1)) = 1, dus r² − 4r + 1 = 0\n• Dit geeft r = 2 + √3 en r = 2 − √3 (of gelijkwaardige uitdrukkingen)\n• Het antwoord r = 2 + √3 (of een gelijkwaardige uitdrukking)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De zijden van driehoek AA′M (met A′ de loodrechte projectie van A op de x-as) hebben lengte ½, √(r − ½) en ½r"
+          },
+          {
+            "points": 1,
+            "description": "De vergelijking (½)² + (√(r − ½))² = (½r)²"
+          },
+          {
+            "points": 1,
+            "description": "Dit herleiden tot r² − 4r + 1 = 0"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft r = 2 + √3 en r = 2 − √3 (of gelijkwaardige uitdrukkingen)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord r = 2 + √3 (of een gelijkwaardige uitdrukking)"
+          }
+        ],
+        "grading_note": "Voor het eerste antwoordelement van het eerste, tweede en vierde antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-iii-loodrecht-door-de-parabool-antw17.png"
+        ]
+      }
+    ]
+  }
+}
