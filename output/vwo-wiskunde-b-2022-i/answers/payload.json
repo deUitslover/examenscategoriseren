@@ -1,0 +1,486 @@
+{
+ "subject_name": "Wiskunde B",
+ "level": "VWO",
+ "source": "VWO Wiskunde B 2022-I",
+ "answers": [
+  {
+   "title": "Inverse van ln(x)",
+   "question_number": 1,
+   "answer_text": "• (Bij de functie fₚ hoort de vergelijking y = p · ln(x) dus) bij de inverse functie van fₚ hoort de vergelijking x = p · ln(y)\n• Dan is x/p = ln(y), dus y = e^(x/p) (en dat is een vergelijking die past bij gₚ)\nof\n• (Bij de functie gₚ hoort de vergelijking y = e^(x/p) dus) bij de inverse functie van gₚ hoort de vergelijking x = e^(y/p)\n• Dan is y/p = ln(x), dus y = p·ln(x) (en dat is een vergelijking die past bij fₚ)\nof\n• Er moet gelden: gₚ(fₚ(x)) = x (voor alle x)\n• gₚ(fₚ(x)) = e^(p·ln(x)/p) = e^(ln(x)) = x (dus gₚ is de inverse van fₚ)\nof\n• Er moet gelden: fₚ(gₚ(x)) = x (voor alle x)\n• fₚ(gₚ(x)) = p·ln(e^(x/p)) = p · x/p = x (dus fₚ is de inverse van gₚ)\nof\n• De standaardfuncties f₁ en g₁ zijn elkaars inverse\n• De grafiek van fₚ ontstaat uit de grafiek van f₁ door een vermenigvuldiging met p ten opzichte van de x-as\n• De grafiek van gₚ ontstaat uit de grafiek van g₁ door een vermenigvuldiging met p ten opzichte van de y-as (dus fₚ en gₚ zijn elkaars inverse)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(Bij de functie fₚ hoort de vergelijking y = p · ln(x) dus) bij de inverse functie van fₚ hoort de vergelijking x = p · ln(y)"
+    },
+    {
+     "points": 2,
+     "description": "Dan is x/p = ln(y), dus y = e^(x/p) (en dat is een vergelijking die past bij gₚ)"
+    }
+   ],
+   "grading_note": "Voor het tweede antwoordelement van het eerste, tweede, derde en vierde antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-inverse-van-ln-x-antw1.png"
+   ]
+  },
+  {
+   "title": "Inverse van ln(x)",
+   "question_number": 2,
+   "answer_text": "• Beschrijven hoe het snijpunt van de grafieken van f₋₁ en g₋₁ (of het snijpunt van een van beide grafieken met de lijn y = x) gevonden kan worden\n• De grafieken van f₋₁ en g₋₁ snijden elkaar voor x = 0,567...\n• ∫ van 0 tot 0,567... van g₋₁(x) dx + ∫ van 0,567... tot 1 van f₋₁(x) dx moet worden berekend\n• Beschrijven hoe deze integralen kunnen worden berekend\n• De gevraagde oppervlakte is (0,432... + 0,111... =) 0,54\nof\n• Beschrijven hoe het snijpunt van de grafieken van f₋₁ en g₋₁ (of het snijpunt van een van beide grafieken met de lijn y = x) gevonden kan worden\n• De grafieken van f₋₁ en g₋₁ snijden elkaar voor x = 0,567...\n• 2 · ∫ van 0 tot 0,567... van (g₋₁(x) − x) dx moet worden berekend\n• Beschrijven hoe deze integraal kan worden berekend\n• De gevraagde oppervlakte is 0,54",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Beschrijven hoe het snijpunt van de grafieken van f₋₁ en g₋₁ (of het snijpunt van een van beide grafieken met de lijn y = x) gevonden kan worden"
+    },
+    {
+     "points": 1,
+     "description": "De grafieken van f₋₁ en g₋₁ snijden elkaar voor x = 0,567..."
+    },
+    {
+     "points": 1,
+     "description": "∫ van 0 tot 0,567... van g₋₁(x) dx + ∫ van 0,567... tot 1 van f₋₁(x) dx moet worden berekend"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze integralen kunnen worden berekend"
+    },
+    {
+     "points": 1,
+     "description": "De gevraagde oppervlakte is (0,432... + 0,111... =) 0,54"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-inverse-van-ln-x-antw2.png"
+   ]
+  },
+  {
+   "title": "Inverse van ln(x)",
+   "question_number": 3,
+   "answer_text": "• fₚ′(x) = p/x\n• Er moet gelden fₚ′(x) = 1, en hieruit volgt p = x\n• Er moet gelden fₚ(x) = x, dus p·ln(p) = p\n• De oplossing: p = e (p = 0 voldoet niet)\nof\n• gₚ′(x) = (1/p)e^(x/p)\n• Er moet gelden gₚ(x) = x en gₚ′(x) = 1, dus e^(x/p) = x en (1/p)e^(x/p) = 1\n• Hieruit volgt p = x\n• Uit e^(x/p) = x met p = x volgt: p = e",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "fₚ′(x) = p/x"
+    },
+    {
+     "points": 1,
+     "description": "Er moet gelden fₚ′(x) = 1, en hieruit volgt p = x"
+    },
+    {
+     "points": 1,
+     "description": "Er moet gelden fₚ(x) = x, dus p·ln(p) = p"
+    },
+    {
+     "points": 1,
+     "description": "De oplossing: p = e (p = 0 voldoet niet)"
+    }
+   ],
+   "grading_note": "Als een kandidaat alleen opmerkt dat moet gelden fₚ(x) = gₚ(x) = x en fₚ′(x) = gₚ′(x) = 1, voor deze vraag 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-inverse-van-ln-x-antw3.png"
+   ]
+  },
+  {
+   "title": "Letter op het computerbeeldscherm",
+   "question_number": 4,
+   "answer_text": "• Een vergelijking van de raaklijn in B is y = 19/10\n• Een vergelijking van de raaklijn in A is y − 4/3 = 4(x − 1/15) (of een gelijkwaardige uitdrukking)\n• 19/10 − 4/3 = 4(x − 1/15) oplossen geeft x = 5/24",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Een vergelijking van de raaklijn in B is y = 19/10"
+    },
+    {
+     "points": 1,
+     "description": "Een vergelijking van de raaklijn in A is y − 4/3 = 4(x − 1/15) (of een gelijkwaardige uitdrukking)"
+    },
+    {
+     "points": 1,
+     "description": "19/10 − 4/3 = 4(x − 1/15) oplossen geeft x = 5/24"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-letter-op-het-computerbeeldscherm-antw4.png"
+   ]
+  },
+  {
+   "title": "Letter op het computerbeeldscherm",
+   "question_number": 5,
+   "answer_text": "• Het tekenen van punt P met OP⃗ = OA⃗ + 0,25 · AC⃗ (of P op lijnstuk AC zo dat AP = 0,25 · AC)\n• Het tekenen van punt Q met OQ⃗ = OC⃗ + 0,25 · CB⃗ (of Q op lijnstuk CB zo dat CQ = 0,25 · CB)\n• Het tekenen van punt R met OR⃗ = OP⃗ + 0,25 · PQ⃗ (of R op lijnstuk PQ zo dat PR = 0,25 · PQ)\nof\n• OP⃗ = OA⃗ + 0,25 · AC⃗ = (0,066..., 1,333...) + 0,25 · (0,141..., 0,566...) = (0,102..., 1,475) en OQ⃗ = OC⃗ + 0,25 · CB⃗ = (0,208..., 1,9) + 0,25 · (0,791..., 0) = (0,406..., 1,9)\n• OR⃗ = OP⃗ + 0,25 · PQ⃗ = (0,102..., 1,475) + 0,25 · (0,304..., 0,425) = (0,178..., 1,581...)\n• Het bepalen van de schaal (bijvoorbeeld met behulp van de afstand van punt B tot de y-as) geeft 6,7 : 1 en vervolgens het tekenen van punt R\n(In het correctievoorschrift staat bij dit antwoord een figuur met de getekende punten A, P, R, C, Q en B; zie de afbeelding.)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het tekenen van punt P met OP⃗ = OA⃗ + 0,25 · AC⃗ (of P op lijnstuk AC zo dat AP = 0,25 · AC)"
+    },
+    {
+     "points": 1,
+     "description": "Het tekenen van punt Q met OQ⃗ = OC⃗ + 0,25 · CB⃗ (of Q op lijnstuk CB zo dat CQ = 0,25 · CB)"
+    },
+    {
+     "points": 1,
+     "description": "Het tekenen van punt R met OR⃗ = OP⃗ + 0,25 · PQ⃗ (of R op lijnstuk PQ zo dat PR = 0,25 · PQ)"
+    }
+   ],
+   "grading_note": "Voor elk van de drie punten geldt: een afwijking van maximaal 1 mm is toegestaan. Als P en/of Q niet binnen de marge zijn getekend, maar R wel is getekend, uitgaande van de getekende P en Q, en wél binnen de marge van 1 mm, dan voor R geen scorepunt in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-letter-op-het-computerbeeldscherm-antw5.png"
+   ]
+  },
+  {
+   "title": "Letter op het computerbeeldscherm",
+   "question_number": 6,
+   "answer_text": "• Een herleiding waarin minimaal twee van de volgende zes formules zijn gebruikt: OP⃗ = OA⃗ + t · AC⃗, OQ⃗ = OC⃗ + t · CB⃗, OR⃗ = OP⃗ + t · PQ⃗, AC⃗ = OC⃗ − OA⃗, CB⃗ = OB⃗ − OC⃗, PQ⃗ = OQ⃗ − OP⃗\n• Een herleiding waarin minimaal vier van de hierboven genoemde formules zijn gebruikt\n• Een herleiding waarin alle zes hierboven genoemde formules zijn gebruikt\n• Een herleiding van OR⃗ tot een formule zonder haakjes uitgedrukt in t, OA⃗, OB⃗ en OC⃗, bijvoorbeeld OA⃗ + t · OC⃗ − t · OA⃗ + t · OC⃗ + t² · OB⃗ − t² · OC⃗ − t · OA⃗ − t² · OC⃗ + t² · OA⃗\n• Een herleiding van OR⃗ tot een formule zonder haakjes uitgedrukt in t, OA⃗, OB⃗ en OC⃗, bijvoorbeeld ⚠️ CONTROLEREN: in het correctievoorschrift ontbreekt de voorbeeldformule bij dit antwoordelement",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Een herleiding waarin minimaal twee van de volgende zes formules zijn gebruikt: OP⃗ = OA⃗ + t · AC⃗, OQ⃗ = OC⃗ + t · CB⃗, OR⃗ = OP⃗ + t · PQ⃗, AC⃗ = OC⃗ − OA⃗, CB⃗ = OB⃗ − OC⃗, PQ⃗ = OQ⃗ − OP⃗"
+    },
+    {
+     "points": 1,
+     "description": "Een herleiding waarin minimaal vier van de hierboven genoemde formules zijn gebruikt"
+    },
+    {
+     "points": 1,
+     "description": "Een herleiding waarin alle zes hierboven genoemde formules zijn gebruikt"
+    },
+    {
+     "points": 1,
+     "description": "Een herleiding van OR⃗ tot een formule zonder haakjes uitgedrukt in t, OA⃗, OB⃗ en OC⃗, bijvoorbeeld OA⃗ + t · OC⃗ − t · OA⃗ + t · OC⃗ + t² · OB⃗ − t² · OC⃗ − t · OA⃗ − t² · OC⃗ + t² · OA⃗"
+    },
+    {
+     "points": 1,
+     "description": "Een herleiding van OR⃗ tot een formule zonder haakjes uitgedrukt in t, OA⃗, OB⃗ en OC⃗, bijvoorbeeld ⚠️ CONTROLEREN: in het correctievoorschrift ontbreekt de voorbeeldformule bij dit antwoordelement"
+    }
+   ],
+   "grading_note": "Voor het tweede antwoordelement van het eerste, tweede, derde en vierde antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend. ⚠️ CONTROLEREN: deze opmerking staat zo in het correctievoorschrift bij vraag 6, maar lijkt niet bij deze vraag te horen (vraag 6 heeft geen antwoordalternatieven en geen 2-puntselement).",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-letter-op-het-computerbeeldscherm-antw6.png"
+   ]
+  },
+  {
+   "title": "Letter op het computerbeeldscherm",
+   "question_number": 7,
+   "answer_text": "• OR⃗ = (1 − t)²(0, 4) + t²(2, 2) + 2t(1 − t)(3, 0)\n• OR⃗ = (0, 4(1 − t)²) + (2t², 2t²) + (6t(1 − t), 0)\n• Dus OR⃗ = (2t² + 6t − 6t², 4 − 8t + 4t² + 2t²) = (−4t² + 6t, 6t² − 8t + 4)\nof\n• OR⃗ = (1 − t)²(0, 4) + t²(2, 2) + 2t(1 − t)(3, 0)\n• x(t) = 2 · t² + 3 · 2t(1 − t) en y(t) = 4 · (1 − t)² + 2 · t²\n• Voor de rest van de herleiding",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "OR⃗ = (1 − t)²(0, 4) + t²(2, 2) + 2t(1 − t)(3, 0)"
+    },
+    {
+     "points": 1,
+     "description": "OR⃗ = (0, 4(1 − t)²) + (2t², 2t²) + (6t(1 − t), 0)"
+    },
+    {
+     "points": 1,
+     "description": "Dus OR⃗ = (2t² + 6t − 6t², 4 − 8t + 4t² + 2t²) = (−4t² + 6t, 6t² − 8t + 4)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-letter-op-het-computerbeeldscherm-antw7.png"
+   ]
+  },
+  {
+   "title": "Gebroken sinusfunctie",
+   "question_number": 8,
+   "answer_text": "• De gemeenschappelijke punten kunnen gevonden worden met de vergelijking sin(x)/sin(2x) = sin(x)\n• (sin(x) = sin(x)sin(2x) geeft) sin(x) = 0 of sin(2x) = 1\n• sin(2x) = 1 geeft 2x = ½π + k · 2π (sin(x) = 0 voldoet niet)\n• Op het domein geeft dit x = ¼π of x = −¾π\n• f′(x) = (cos(x) · sin(2x) − sin(x) · 2cos(2x))/sin²(2x) (of een gelijkwaardige vorm)\n• g′(x) = cos(x)\n• f′(¼π) = g′(¼π) = ½√2 en f′(−¾π) = g′(−¾π) = −½√2, dus de grafieken van f en g raken elkaar in twee punten",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De gemeenschappelijke punten kunnen gevonden worden met de vergelijking sin(x)/sin(2x) = sin(x)"
+    },
+    {
+     "points": 1,
+     "description": "(sin(x) = sin(x)sin(2x) geeft) sin(x) = 0 of sin(2x) = 1"
+    },
+    {
+     "points": 1,
+     "description": "sin(2x) = 1 geeft 2x = ½π + k · 2π (sin(x) = 0 voldoet niet)"
+    },
+    {
+     "points": 1,
+     "description": "Op het domein geeft dit x = ¼π of x = −¾π"
+    },
+    {
+     "points": 2,
+     "description": "f′(x) = (cos(x) · sin(2x) − sin(x) · 2cos(2x))/sin²(2x) (of een gelijkwaardige vorm)"
+    },
+    {
+     "points": 1,
+     "description": "g′(x) = cos(x)"
+    },
+    {
+     "points": 1,
+     "description": "f′(¼π) = g′(¼π) = ½√2 en f′(−¾π) = g′(−¾π) = −½√2, dus de grafieken van f en g raken elkaar in twee punten"
+    }
+   ],
+   "grading_note": "– Voor het vijfde antwoordelement mogen uitsluitend 0 of 2 scorepunten worden toegekend.\n– Als een kandidaat alleen opmerkt dat moet gelden f(x) = g(x) en f′(x) = g′(x), voor deze vraag 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-gebroken-sinusfunctie-antw8.png"
+   ]
+  },
+  {
+   "title": "Raaklijn verschuiven",
+   "question_number": 9,
+   "answer_text": "• x² − 2x√x + x = 0 geeft x = 0 of x − 2√x + 1 = 0\n• x − 2√x + 1 = 0 geeft (√x − 1)² = 0\n• Dit geeft x = 1\n• De enige twee oplossingen zijn x = 0 en x = 1\nof\n• x² − 2x√x + x = 0 geeft x = 0 of x − 2√x + 1 = 0\n• x − 2√x + 1 = 0 geeft 2√x = x + 1 en dan volgt x² − 2x + 1 = 0\n• Dit geeft x = 1\n• De enige twee oplossingen zijn x = 0 en x = 1",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "x² − 2x√x + x = 0 geeft x = 0 of x − 2√x + 1 = 0"
+    },
+    {
+     "points": 1,
+     "description": "x − 2√x + 1 = 0 geeft (√x − 1)² = 0"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft x = 1"
+    },
+    {
+     "points": 1,
+     "description": "De enige twee oplossingen zijn x = 0 en x = 1"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-raaklijn-verschuiven-antw9.png"
+   ]
+  },
+  {
+   "title": "Raaklijn verschuiven",
+   "question_number": 10,
+   "answer_text": "• De gevraagde oppervlakte is gelijk aan ∫₀¹ (x² − 2x√x + x) dx\n• Een primitieve van x² − 2x√x + x is ⅓x³ − ⅘x^(5/2) + ½x²\n• De oppervlakte is gelijk aan 1/30",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De gevraagde oppervlakte is gelijk aan ∫₀¹ (x² − 2x√x + x) dx"
+    },
+    {
+     "points": 2,
+     "description": "Een primitieve van x² − 2x√x + x is ⅓x³ − ⅘x^(5/2) + ½x²"
+    },
+    {
+     "points": 1,
+     "description": "De oppervlakte is gelijk aan 1/30"
+    }
+   ],
+   "grading_note": "Voor het tweede antwoordelement mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-raaklijn-verschuiven-antw10.png"
+   ]
+  },
+  {
+   "title": "Raaklijn verschuiven",
+   "question_number": 11,
+   "answer_text": "• f′(x) = 2x − 3√x + 1\n• f′(0) = 1\n• Uit 2x − 3√x + 1 = 1 volgt 2√x(√x − 3/2) = 0 (of 2x = 3√x)\n• Dit geeft (x = 0 of) (√x = 3/2 dus) x = 9/4\n• f(9/4) = 9/16\n• De raaklijn bij x = 9/4 heeft vergelijking y = (x − 9/4) + 9/16\n• (Dit is gelijk aan y = x − 27/16, dus) a = 27/16\nof\n• f′(x) = 2x − 3√x + 1\n• f′(0) = 1 (dus lijn k heeft vergelijking y = x)\n• Uit 2x − 3√x + 1 = 1 volgt 2√x(√x − 3/2) = 0 (of 2x = 3√x)\n• Dit geeft (x = 0 of) (√x = 3/2 dus) x = 9/4\n• f(9/4) = 9/16\n• Lijn k verschuiven over de vector (a, 0) geeft vergelijking y = x − a\n• 9/16 = 9/4 − a geeft a = 27/16",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "f′(x) = 2x − 3√x + 1"
+    },
+    {
+     "points": 1,
+     "description": "f′(0) = 1"
+    },
+    {
+     "points": 1,
+     "description": "Uit 2x − 3√x + 1 = 1 volgt 2√x(√x − 3/2) = 0 (of 2x = 3√x)"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft (x = 0 of) (√x = 3/2 dus) x = 9/4"
+    },
+    {
+     "points": 1,
+     "description": "f(9/4) = 9/16"
+    },
+    {
+     "points": 1,
+     "description": "De raaklijn bij x = 9/4 heeft vergelijking y = (x − 9/4) + 9/16"
+    },
+    {
+     "points": 1,
+     "description": "(Dit is gelijk aan y = x − 27/16, dus) a = 27/16"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-raaklijn-verschuiven-antw11.png"
+   ]
+  },
+  {
+   "title": "Vulkaan",
+   "question_number": 12,
+   "answer_text": "• t = x/(210cos(α))\n• y = 2000 + 210sin(α) · x/(210cos(α)) − 4,9 · (x/(210cos(α)))²\n• 4,9/210² = 1/9000, dus y = 2000 + tan(α) · x − 1/(9000cos²(α)) · x²\nof\n• x = 210cos(α) · t en y = 2000 + 210sin(α) · t − 4,9t² invullen in formule 2 geeft 210sin(α) · t − 4,9t² = tan(α) · 210cos(α) · t − 1/(9000cos²(α)) · (210cos(α) · t)²\n• Dit geeft 210sin(α) · t − 4,9t² = sin(α)/cos(α) · 210cos(α) · t − 44100cos²(α) · t²/(9000cos²(α))\n• Dit geeft 210sin(α) · t − 4,9t² = 210sin(α) · t − 4,9t² dus deze gelijkheid geldt (voor elke waarde van α en t) (en hiermee is formule 2 bewezen)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "t = x/(210cos(α))"
+    },
+    {
+     "points": 1,
+     "description": "y = 2000 + 210sin(α) · x/(210cos(α)) − 4,9 · (x/(210cos(α)))²"
+    },
+    {
+     "points": 1,
+     "description": "4,9/210² = 1/9000, dus y = 2000 + tan(α) · x − 1/(9000cos²(α)) · x²"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-vulkaan-antw12.png"
+   ]
+  },
+  {
+   "title": "Vulkaan",
+   "question_number": 13,
+   "answer_text": "• De vergelijking 0 = 2000 + tan(1) · x − 1/(9000cos²(1)) · x² moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• De gevraagde afstand is 5100 (meter) (het antwoord −1000 voldoet niet)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 0 = 2000 + tan(1) · x − 1/(9000cos²(1)) · x² moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "De gevraagde afstand is 5100 (meter) (het antwoord −1000 voldoet niet)"
+    }
+   ],
+   "grading_note": "Als een leerling de afstand tot de top van de vulkaan berekent, en daarvoor gebruik maakt van x = 5100 (of nauwkeuriger), dan mogen alle punten al worden toegekend mits het eindantwoord op honderden meters is afgerond.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-vulkaan-antw13.png"
+   ]
+  },
+  {
+   "title": "Vulkaan",
+   "question_number": 14,
+   "answer_text": "• Voor een gemeenschappelijk punt moet gelden −1/9000 · x² + 4250 = −(1 + tan²(α))/9000 · x² + tan(α) · x + 2000\n• Herleiden tot tan²(α)/9000 · x² − tan(α) · x + 2250 = 0\n• D = (−tan(α))² − 4 · tan²(α)/9000 · 2250\n• D = tan²(α) − tan²(α) = 0 (voor elke α) (dus heeft elke parabool precies één punt gemeenschappelijk met de gestippelde kromme)\nof\n• Er geldt voor formule 3: dy/dx = (−1 − tan²(α))/4500 · x + tan(α) en voor de formule van de gestippelde kromme: dy/dx = −1/4500 · x\n• Gelijkstellen geeft x = 4500/tan(α)\n• x = 4500/tan(α) invullen in formule 3 geeft: y = (−1 − tan²(α))/9000 · (4500/tan(α))² + tan(α) · 4500/tan(α) + 2000 = −4500/(2tan²(α)) + 4250\n• x = 4500/tan(α) invullen in formule 4 geeft: y = −1/9000 · (4500/tan(α))² + 4250 = −4500/(2tan²(α)) + 4250 (en dus is er voor iedere waarde van α een punt waarin de functiewaarden en de afgeleiden aan elkaar gelijk zijn, dus raken de banen in dat punt aan de gestippelde kromme)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor een gemeenschappelijk punt moet gelden −1/9000 · x² + 4250 = −(1 + tan²(α))/9000 · x² + tan(α) · x + 2000"
+    },
+    {
+     "points": 1,
+     "description": "Herleiden tot tan²(α)/9000 · x² − tan(α) · x + 2250 = 0"
+    },
+    {
+     "points": 1,
+     "description": "D = (−tan(α))² − 4 · tan²(α)/9000 · 2250"
+    },
+    {
+     "points": 1,
+     "description": "D = tan²(α) − tan²(α) = 0 (voor elke α) (dus heeft elke parabool precies één punt gemeenschappelijk met de gestippelde kromme)"
+    }
+   ],
+   "grading_note": "Als een kandidaat alleen opmerkt dat moet gelden −(1 + tan²(α))/9000 · x² + tan(α) · x + 2000 = −1/9000 · x² + 4250 en d/dx(−(1 + tan²(α))/9000 · x² + tan(α) · x + 2000) = d/dx(−1/9000 · x² + 4250), voor deze vraag 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-vulkaan-antw14.png"
+   ]
+  },
+  {
+   "title": "Scheve asymptoot",
+   "question_number": 15,
+   "answer_text": "• (Als x onbegrensd toeneemt, gaat 2/x naar de limietwaarde 0, dus) een vergelijking van de scheve asymptoot is y = x\n• f′(x) = 1 − 2/x²\n• Een vergelijking van de raaklijn in P is y = (1 − 2/p²)x + b\n• Dan geldt (omdat P(p, p + 2/p)) p + 2/p = (1 − 2/p²)p + b\n• Dan volgt b = 4/p (dus Q(0, 4/p))\n• Voor het snijpunt R geldt x_R = (1 − 2/p²)x_R + 4/p\n• Hieruit volgt x_R = 2p (dus R(2p, 2p))\n• (x_Q + x_R)/2 = (0 + 2p)/2 = p = x_P (of (y_Q + y_R)/2 = (4/p + 2p)/2 = 2/p + p = y_P), dus punt P is het midden van lijnstuk QR\nof\n• (Als x onbegrensd toeneemt, gaat 2/x naar de limietwaarde 0, dus) een vergelijking van de scheve asymptoot is y = x\n• f′(x) = 1 − 2/x²\n• Een vergelijking van de raaklijn in P is y − p − 2/p = (1 − 2/p²)(x − p) (of een gelijkwaardige uitdrukking) (dus Q(0, 4/p))\n• Voor het snijpunt met de scheve asymptoot geldt x = (1 − 2/p²)(x − p) + p + 2/p\n• Dan volgt x = x − p − (2/p²)x + 2/p + p + 2/p = x − (2/p²)x + 4/p\n• Hieruit volgt x_R = 2p (dus R(2p, 2p))\n• (x_Q + x_R)/2 = (0 + 2p)/2 = p = x_P (of (y_Q + y_R)/2 = (4/p + 2p)/2 = 2/p + p = y_P), dus punt P is het midden van lijnstuk QR\nof\n• (Als x onbegrensd toeneemt, gaat 2/x naar de limietwaarde 0, dus) een vergelijking van de scheve asymptoot is y = x\n• f′(x) = 1 − 2/x²\n• Een vergelijking van de raaklijn in P is y − p − 2/p = (1 − 2/p²)(x − p) (of een gelijkwaardige uitdrukking)\n• Uit x_Q = 0 en x_P = p volgt dat moet gelden dat x_R = 2p\n• x_Q = 0 geeft y_Q − p − 2/p = −p + 2/p ofwel y_Q = 4/p\n• Uit y_Q = 4/p en y_P = p + 2/p volgt dat moet gelden dat y_R = 2p\n• x_R = y_R, dus punt R ligt op de scheve asymptoot (en daarmee is P het midden van QR)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(Als x onbegrensd toeneemt, gaat 2/x naar de limietwaarde 0, dus) een vergelijking van de scheve asymptoot is y = x"
+    },
+    {
+     "points": 1,
+     "description": "f′(x) = 1 − 2/x²"
+    },
+    {
+     "points": 1,
+     "description": "Een vergelijking van de raaklijn in P is y = (1 − 2/p²)x + b"
+    },
+    {
+     "points": 1,
+     "description": "Dan geldt (omdat P(p, p + 2/p)) p + 2/p = (1 − 2/p²)p + b"
+    },
+    {
+     "points": 1,
+     "description": "Dan volgt b = 4/p (dus Q(0, 4/p))"
+    },
+    {
+     "points": 1,
+     "description": "Voor het snijpunt R geldt x_R = (1 − 2/p²)x_R + 4/p"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt x_R = 2p (dus R(2p, 2p))"
+    },
+    {
+     "points": 1,
+     "description": "(x_Q + x_R)/2 = (0 + 2p)/2 = p = x_P (of (y_Q + y_R)/2 = (4/p + 2p)/2 = 2/p + p = y_P), dus punt P is het midden van lijnstuk QR"
+    }
+   ],
+   "grading_note": "Voor het derde antwoordelement van het tweede en derde antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-scheve-asymptoot-antw15.png"
+   ]
+  },
+  {
+   "title": "Vlieger",
+   "question_number": 16,
+   "answer_text": "• M(½, ½a) is het midden van lijnstuk AB\n• AB⃗ = (1, −a) is een normaalvector van de middelloodlijn, dus een vergelijking van de middelloodlijn is x − ay = c, voor zekere waarde van c\n• Invullen van (½, ½a) geeft c = ½ − ½a², dus een vergelijking is x − ay = ½ − ½a²\n• Invullen van D(−1, 0) geeft de vergelijking −1 = ½ − ½a²\n• Dit geeft (omdat a > 0) de oplossing a = √3\nof\n• M(½, ½a) is het midden van lijnstuk AB\n• rc_AB = −a dus de richtingscoëfficiënt van de middelloodlijn van AB is 1/a\n• Een vergelijking van de middelloodlijn is: y = (1/a)x + ½a − 1/(2a)\n• De lijn moet door D(−1, 0) gaan, dus er moet gelden 0 = −1/a + ½a − 1/(2a)\n• De oplossing is (omdat a > 0) a = √3\nof\n• M(½, ½a) is het midden van lijnstuk AB\n• AB⃗ = (1, −a) is een normaalvector van de middelloodlijn, dus (a, 1) is een richtingsvector\n• (x, y) = (½, ½a) + t · (a, 1) is een vectorvoorstelling van de middelloodlijn\n• Invullen van D(−1, 0) geeft het stelsel −1 = ½ + at en 0 = ½a + t\n• Een berekening waaruit volgt (omdat a > 0) dat a = √3\nof\n• M(½, ½a) is het midden van lijnstuk AB\n• MB² = (½ − 1)² + (½a)² = ¼a² + ¼ en DM² = (½ − −1)² + (½a)² = ¼a² + 9/4\n• Pythagoras in rechthoekige driehoek BDM geeft DM² + MB² = DB², ofwel ¼a² + 9/4 + ¼a² + ¼ = 4\n• Hieruit volgt (omdat a > 0) a = √3\nof\n• Als de middelloodlijn van AB door D gaat, dan is driehoek DMB gelijkvormig met driehoek DMA, waarbij M het midden is van lijnstuk AB\n• Dus DA = DB = 2\n• Pythagoras in driehoek OAD geeft a² + 1² = 2²\n• Dus (omdat a > 0) a = √3\nof\n• M(½, ½a) is het midden van lijnstuk AB\n• (1, −a) is een richtingsvector van AB\n• (1½, ½a) is een richtingsvector van DM\n• (1, −a) · (1½, ½a) = 1½ − ½a² = 0\n• Een berekening waaruit volgt (omdat a > 0) dat a = √3\nof\n• M(½, ½a) is het midden van lijnstuk AB\n• Hoek BMD is 90° dus M ligt op de cirkel met middellijn DB\n• Een vergelijking van de cirkel met middellijn DB is x² + y² = 1\n• (½, ½a) invullen geeft (½)² + (½a)² = 1\n• Een berekening waaruit volgt (omdat a > 0) dat a = √3\nof\n• Voor de punten P(x, y) op de middelloodlijn van AB geldt d(P, A) = d(P, B)\n• x² + (y − a)² = (x − 1)² + y²\n• De middelloodlijn gaat door D, dus (−1, 0) is een oplossing van deze vergelijking\n• Substitutie geeft 1 + a² = 4 (of een gelijkwaardige uitdrukking)\n• Een berekening waaruit volgt (omdat a > 0) dat a = √3",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "M(½, ½a) is het midden van lijnstuk AB"
+    },
+    {
+     "points": 1,
+     "description": "AB⃗ = (1, −a) is een normaalvector van de middelloodlijn, dus een vergelijking van de middelloodlijn is x − ay = c, voor zekere waarde van c"
+    },
+    {
+     "points": 1,
+     "description": "Invullen van (½, ½a) geeft c = ½ − ½a², dus een vergelijking is x − ay = ½ − ½a²"
+    },
+    {
+     "points": 1,
+     "description": "Invullen van D(−1, 0) geeft de vergelijking −1 = ½ − ½a²"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft (omdat a > 0) de oplossing a = √3"
+    }
+   ],
+   "grading_note": "Voor het tweede antwoordelement van het vierde antwoordalternatief en het eerste antwoordelement van het vijfde antwoordalternatief mogen 0, 1 of 2 scorepunten worden toegekend.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-vlieger-antw16.png"
+   ]
+  },
+  {
+   "title": "Vlieger",
+   "question_number": 17,
+   "answer_text": "• Het totaal van de puntmassa's heeft gewicht 4 + a\n• Voor het zwaartepunt Z van de vier puntmassa's geldt OZ⃗ = a/(4 + a) · (0, −1) + 1/(4 + a) · (−1, 0) + 1/(4 + a) · (1, 0) + 2/(4 + a) · (0, a)\n• De coördinaten van het zwaartepunt Z zijn dus (0, a/(4 + a)) (of: de tweede coördinaat van Z is a/(4 + a))\n• lim_(a→∞) a/(4 + a) = lim_(a→∞) 1/(4/a + 1) = 1 (dus de y-coördinaat van P is 1)\nof\n• Het totaal van de puntmassa's heeft gewicht 4 + a\n• (Vanwege symmetrie ligt Z op de y-as, en) voor het zwaartepunt Z van de puntmassa's geldt y_Z = 1/(4 + a) · (−1 · a + a · 2)\n• Dus y_Z = a/(4 + a)\n• lim_(a→∞) a/(4 + a) = lim_(a→∞) 1/(4/a + 1) = 1 (dus de y-coördinaat van P is 1)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het totaal van de puntmassa's heeft gewicht 4 + a"
+    },
+    {
+     "points": 1,
+     "description": "Voor het zwaartepunt Z van de vier puntmassa's geldt OZ⃗ = a/(4 + a) · (0, −1) + 1/(4 + a) · (−1, 0) + 1/(4 + a) · (1, 0) + 2/(4 + a) · (0, a)"
+    },
+    {
+     "points": 1,
+     "description": "De coördinaten van het zwaartepunt Z zijn dus (0, a/(4 + a)) (of: de tweede coördinaat van Z is a/(4 + a))"
+    },
+    {
+     "points": 1,
+     "description": "lim_(a→∞) a/(4 + a) = lim_(a→∞) 1/(4/a + 1) = 1 (dus de y-coördinaat van P is 1)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2022-i-vlieger-antw17.png"
+   ]
+  }
+ ]
+}
