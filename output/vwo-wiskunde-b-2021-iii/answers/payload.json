@@ -1,0 +1,471 @@
+{
+ "subject_name": "Wiskunde B",
+ "level": "VWO",
+ "source": "VWO Wiskunde B 2021-III",
+ "answers": [
+  {
+   "title": "Onbekende zijde",
+   "question_number": 1,
+   "answer_text": "• Cosinusregel in driehoek ABM geeft 5² = 4² + 6² − 2 · 4 · 6 · cos(∠ABM)\n• Hieruit volgt cos(∠ABM) = 9/16 (dus cos(∠ABC) = 9/16) (dus ∠ABC = 55,77... (°))\n• Cosinusregel in driehoek ABC geeft AC² = 4² + 12² − 2 · 4 · 12 · 9/16\n• Dit geeft AC² = 106, dus AC ≈ 10,3\nof\n• Cosinusregel in driehoek ABM geeft 4² = 5² + 6² − 2 · 5 · 6 · cos(∠AMB)\n• Hieruit volgt cos(∠AMB) = 3/4 (dus ∠AMB = 41,40... (°))\n• cos(∠AMC) = (−cos(∠AMB) =) −3/4 (of ∠AMC = (180 − ∠AMB =) 138,59... (°), dus cos(∠AMC) = −3/4)\n• Cosinusregel in driehoek AMC geeft AC² = 5² + 6² − 2 · 5 · 6 · −3/4 = 106, dus AC ≈ 10,3\nof\n• Er geldt t² + u² = 4² (met P de loodrechte projectie van A op MB, t = AP en u = BP)\n• Ook geldt t² + (6 − u)² = 5²\n• Algebraïsch oplossen van dit stelsel geeft t = 3,30..., u = 2,25 (de oplossing t = −3,30..., u = 2,25 voldoet niet)\n• Omdat AC² = t² + (12 − u)², volgt AC² = 106, dus AC ≈ 10,3",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Cosinusregel in driehoek ABM geeft 5² = 4² + 6² − 2 · 4 · 6 · cos(∠ABM)"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt cos(∠ABM) = 9/16 (dus cos(∠ABC) = 9/16) (dus ∠ABC = 55,77... (°))"
+    },
+    {
+     "points": 1,
+     "description": "Cosinusregel in driehoek ABC geeft AC² = 4² + 12² − 2 · 4 · 12 · 9/16"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft AC² = 106, dus AC ≈ 10,3"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2021-iii-onbekende-zijde-antw1.png"
+   ]
+  },
+  {
+   "title": "Spookje",
+   "question_number": 2,
+   "answer_text": "• d/dx cos(2x) = −2sin(2x)\n• f′(x) = cos(x)cos(2x) − 2sin(x)sin(2x)\n• cos(x)cos(2x) = cos(x)(2cos²(x) − 1) = 2cos³(x) − cos(x)\n• 2sin(x)sin(2x) = 2sin(x) · 2sin(x)cos(x) = 4sin²(x)cos(x)\n• 4sin²(x)cos(x) = 4cos(x)(1 − cos²(x))\n• 2cos³(x) − cos(x) − 4cos(x)(1 − cos²(x)) herleiden tot 6cos³(x) − 5cos(x)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "d/dx cos(2x) = −2sin(2x)"
+    },
+    {
+     "points": 1,
+     "description": "f′(x) = cos(x)cos(2x) − 2sin(x)sin(2x)"
+    },
+    {
+     "points": 1,
+     "description": "cos(x)cos(2x) = cos(x)(2cos²(x) − 1) = 2cos³(x) − cos(x)"
+    },
+    {
+     "points": 1,
+     "description": "2sin(x)sin(2x) = 2sin(x) · 2sin(x)cos(x) = 4sin²(x)cos(x)"
+    },
+    {
+     "points": 1,
+     "description": "4sin²(x)cos(x) = 4cos(x)(1 − cos²(x))"
+    },
+    {
+     "points": 1,
+     "description": "2cos³(x) − cos(x) − 4cos(x)(1 − cos²(x)) herleiden tot 6cos³(x) − 5cos(x)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2021-iii-spookje-antw2.png"
+   ]
+  },
+  {
+   "title": "Spookje",
+   "question_number": 3,
+   "answer_text": "• Voor p moet gelden f′(p) · g′(p) = −1\n• (6cos³(p) − 5cos(p)) · cos(p) = −1 geeft 6cos⁴(p) − 5cos²(p) + 1 = 0\n• De vergelijking 6q² − 5q + 1 = 0 (met q = cos²(p)) moet worden opgelost\n• Dit geeft q = 1/3 of q = 1/2\n• Hieruit volgt cos(p) = −√(1/3) of cos(p) = √(1/3) of cos(p) = −√(1/2) of cos(p) = √(1/2)\n• Elk van deze vergelijkingen heeft 2 oplossingen (die allemaal verschillen), dus het gevraagde aantal is 8",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor p moet gelden f′(p) · g′(p) = −1"
+    },
+    {
+     "points": 1,
+     "description": "(6cos³(p) − 5cos(p)) · cos(p) = −1 geeft 6cos⁴(p) − 5cos²(p) + 1 = 0"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking 6q² − 5q + 1 = 0 (met q = cos²(p)) moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft q = 1/3 of q = 1/2"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt cos(p) = −√(1/3) of cos(p) = √(1/3) of cos(p) = −√(1/2) of cos(p) = √(1/2)"
+    },
+    {
+     "points": 1,
+     "description": "Elk van deze vergelijkingen heeft 2 oplossingen (die allemaal verschillen), dus het gevraagde aantal is 8"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2021-iii-spookje-antw3.png"
+   ]
+  },
+  {
+   "title": "Spookje",
+   "question_number": 4,
+   "answer_text": "• De keuze t = 2x en u = x\n• sin(2x + x) − sin(2x − x) = sin(2x)cos(x) + cos(2x)sin(x) − sin(2x)cos(x) + cos(2x)sin(x)\n• Dit is gelijk aan 2cos(2x)sin(x), dus ½(sin(3x) − sin(x)) = sin(x)cos(2x)\nof\n• sin(3x) − sin(x) = sin(2x + x) − sin(x) = sin(2x)cos(x) + cos(2x)sin(x) − sin(x)\n• Dit is gelijk aan 2sin(x)cos²(x) + cos(2x)sin(x) − sin(x) = sin(x)(2cos²(x) + cos(2x) − 1) = sin(x)(cos(2x) + cos(2x))\n• Dit is gelijk aan sin(x) · 2cos(2x), dus ½(sin(3x) − sin(x)) = sin(x)cos(2x)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De keuze t = 2x en u = x"
+    },
+    {
+     "points": 1,
+     "description": "sin(2x + x) − sin(2x − x) = sin(2x)cos(x) + cos(2x)sin(x) − sin(2x)cos(x) + cos(2x)sin(x)"
+    },
+    {
+     "points": 1,
+     "description": "Dit is gelijk aan 2cos(2x)sin(x), dus ½(sin(3x) − sin(x)) = sin(x)cos(2x)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2021-iii-spookje-antw4.png"
+   ]
+  },
+  {
+   "title": "Spookje",
+   "question_number": 5,
+   "answer_text": "• De oppervlakte van V is gelijk aan ∫ van −½π tot 1½π van (2 + sin(x) − ½(sin(3x) − sin(x))) dx\n• Een primitieve van ½sin(3x) is −⅙cos(3x)\n• Een primitieve van 2 + sin(x) + ½sin(x) is 2x − cos(x) − ½cos(x)\n• Invullen van de grenzen geeft: de oppervlakte is 4π\nof\n• De oppervlakte van V is gelijk aan ∫ van −½π tot 1½π van (2 + sin(x) − ½(sin(3x) − sin(x))) dx\n• Een primitieve van 2 + sin(x) is 2x − cos(x)\n• Een primitieve van ½(sin(3x) − sin(x)) is −⅙cos(3x) + ½cos(x)\n• Invullen van de grenzen geeft: de oppervlakte is 4π",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De oppervlakte van V is gelijk aan ∫ van −½π tot 1½π van (2 + sin(x) − ½(sin(3x) − sin(x))) dx"
+    },
+    {
+     "points": 1,
+     "description": "Een primitieve van ½sin(3x) is −⅙cos(3x)"
+    },
+    {
+     "points": 1,
+     "description": "Een primitieve van 2 + sin(x) + ½sin(x) is 2x − cos(x) − ½cos(x)"
+    },
+    {
+     "points": 1,
+     "description": "Invullen van de grenzen geeft: de oppervlakte is 4π"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2021-iii-spookje-antw5.png"
+   ]
+  },
+  {
+   "title": "Hoogwater",
+   "question_number": 6,
+   "answer_text": "• De vergelijking 12000 = 5734 − 1648ln(ln(T/(T − 1))) moet worden opgelost\n• ln(ln(T/(T − 1))) = (12000 − 5734)/(−1648) (= −3,802...)\n• ln(T/(T − 1)) = e^(−3,802...) (= 0,022...)\n• T/(T − 1) = e^(0,022...) = 1,022..., dus T = 1,022... · (T − 1)\n• Dit geeft T = 1,022.../(1,022... − 1) = 45,3..., dus de gevraagde herhalingstijd is 45 (of 46) (jaar)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 12000 = 5734 − 1648ln(ln(T/(T − 1))) moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "ln(ln(T/(T − 1))) = (12000 − 5734)/(−1648) (= −3,802...)"
+    },
+    {
+     "points": 1,
+     "description": "ln(T/(T − 1)) = e^(−3,802...) (= 0,022...)"
+    },
+    {
+     "points": 1,
+     "description": "T/(T − 1) = e^(0,022...) = 1,022..., dus T = 1,022... · (T − 1)"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft T = 1,022.../(1,022... − 1) = 45,3..., dus de gevraagde herhalingstijd is 45 (of 46) (jaar)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2021-iii-hoogwater-antw6.png"
+   ]
+  },
+  {
+   "title": "Hoogwater",
+   "question_number": 7,
+   "answer_text": "• dC/dT = −b/ln(T/(T − 1)) · d/dT ln(T/(T − 1)) (of een gelijkwaardige uitdrukking)\n• d/dT ln(T/(T − 1)) = 1/(T/(T − 1)) · d/dT (T/(T − 1))\n• d/dT (T/(T − 1)) = (1 · (T − 1) − 1 · T)/(T − 1)² = −1/(T − 1)²\n• dC/dT = −b/ln(T/(T − 1)) · 1/(T/(T − 1)) · −1/(T − 1)² geeft dC/dT = b/(T · (T − 1) · ln(T/(T − 1)))\nof\n• C = a − b·ln(ln(T) − ln(T − 1))\n• dC/dT = −b/(ln(T) − ln(T − 1)) · d/dT (ln(T) − ln(T − 1))\n• d/dT (ln(T) − ln(T − 1)) = 1/T − 1/(T − 1)\n• 1/T − 1/(T − 1) = (T − 1)/(T(T − 1)) − T/(T(T − 1)) = −1/(T(T − 1))\n• dC/dT = −b/(ln(T) − ln(T − 1)) · −1/(T(T − 1)) = b/(T · (T − 1) · ln(T/(T − 1)))",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "dC/dT = −b/ln(T/(T − 1)) · d/dT ln(T/(T − 1)) (of een gelijkwaardige uitdrukking)"
+    },
+    {
+     "points": 1,
+     "description": "d/dT ln(T/(T − 1)) = 1/(T/(T − 1)) · d/dT (T/(T − 1))"
+    },
+    {
+     "points": 1,
+     "description": "d/dT (T/(T − 1)) = (1 · (T − 1) − 1 · T)/(T − 1)² = −1/(T − 1)²"
+    },
+    {
+     "points": 1,
+     "description": "dC/dT = −b/ln(T/(T − 1)) · 1/(T/(T − 1)) · −1/(T − 1)² geeft dC/dT = b/(T · (T − 1) · ln(T/(T − 1)))"
+    }
+   ],
+   "grading_note": "In het eerste antwoordalternatief mogen voor het eerste antwoordelement uitsluitend 0 of 2 scorepunten worden toegekend.",
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2021-iii-hoogwater-antw7.png"
+   ]
+  },
+  {
+   "title": "Hoogwater",
+   "question_number": 8,
+   "answer_text": "• Er moet gelden: dC/dT > 0\n• (Omdat T > 1 geldt) T > 0 en T − 1 > 0\n• Omdat (ook) T > T − 1, geldt T/(T − 1) > 1\n• (Omdat y = ln(x) stijgend is en ln(1) = 0 volgt hieruit dat) ln(T/(T − 1)) > 0\n• Zowel b > 0 als T · (T − 1) · ln(T/(T − 1)) > 0 (dus dC/dT > 0, dus de grafiek van C is stijgend)\nof\n• Er moet gelden: dC/dT > 0\n• (Omdat T > 1 geldt) T > 0 en T − 1 > 0\n• ln(T/(T − 1)) = ln(T) − ln(T − 1)\n• (Omdat y = ln(x) stijgend is en T > T − 1, geldt) ln(T) > ln(T − 1), dus ln(T/(T − 1)) > 0\n• Zowel b > 0 als T · (T − 1) · ln(T/(T − 1)) > 0 (dus dC/dT > 0, dus de grafiek van C is stijgend)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er moet gelden: dC/dT > 0"
+    },
+    {
+     "points": 1,
+     "description": "(Omdat T > 1 geldt) T > 0 en T − 1 > 0"
+    },
+    {
+     "points": 1,
+     "description": "Omdat (ook) T > T − 1, geldt T/(T − 1) > 1"
+    },
+    {
+     "points": 1,
+     "description": "(Omdat y = ln(x) stijgend is en ln(1) = 0 volgt hieruit dat) ln(T/(T − 1)) > 0"
+    },
+    {
+     "points": 1,
+     "description": "Zowel b > 0 als T · (T − 1) · ln(T/(T − 1)) > 0 (dus dC/dT > 0, dus de grafiek van C is stijgend)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2021-iii-hoogwater-antw8.png"
+   ]
+  },
+  {
+   "title": "Hoogwater",
+   "question_number": 9,
+   "answer_text": "• Invullen geeft het stelsel vergelijkingen 1700 = a − b · −1,24... en 2100 = a − b · −2,25...\n• Beschrijven hoe dit stelsel kan worden opgelost\n• Hieruit volgt b = 398,22... en a = 1203,85...\n• Dit geeft C = 1203,85... − 398,22... · ln(ln(100/(100 − 1))) ≈ 3036 (of 3035) (m³/s)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Invullen geeft het stelsel vergelijkingen 1700 = a − b · −1,24... en 2100 = a − b · −2,25..."
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe dit stelsel kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt b = 398,22... en a = 1203,85..."
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft C = 1203,85... − 398,22... · ln(ln(100/(100 − 1))) ≈ 3036 (of 3035) (m³/s)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2021-iii-hoogwater-antw9.png"
+   ]
+  },
+  {
+   "title": "Twee halve cirkels",
+   "question_number": 10,
+   "answer_text": "• De vergelijking van c₁ herleiden tot (x + 6)² + y² = 4\n• M₁(−6, 0) en de straal van c₁ is 2\n• PM₁ = √(6² + OP²) en PM₂ = √(5² + OP²)\n• d(P, c₁) = √(6² + OP²) − 2 en d(P, c₂) = √(5² + OP²) − 5\n• De vergelijking √(6² + OP²) − 2 = 2 · (√(5² + OP²) − 5) moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft OP ≈ 7,02 (dus de gevraagde y-coördinaat van P is 7,02)\nof\n• Voor snijpunten van c₁ en de x-as geldt x² + 12x = −32, dus x² + 12x + 32 = 0, dus (x + 4)(x + 8) = 0, dus x = −4 of x = −8\n• (Omdat c₁ een halve cirkel is met y ≥ 0 volgt dat de diameter 4 is, dus) M₁(−6, 0) en de straal van c₁ is 2\n• Als a = d(P, c₂), dan geldt d(P, c₁) = 2a, dus M₂P = 5 + a en M₁P = 2 + 2a\n• Er geldt OP² = M₁P² − M₁O² = (2 + 2a)² − 6² en OP² = M₂P² − M₂O² = (5 + a)² − 5²\n• Dus (2 + 2a)² − 6² = (5 + a)² − 5²\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft a = 3,61...; invullen in een van de formules voor OP geeft OP ≈ 7,02 (dus de gevraagde y-coördinaat van P is 7,02)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking van c₁ herleiden tot (x + 6)² + y² = 4"
+    },
+    {
+     "points": 1,
+     "description": "M₁(−6, 0) en de straal van c₁ is 2"
+    },
+    {
+     "points": 1,
+     "description": "PM₁ = √(6² + OP²) en PM₂ = √(5² + OP²)"
+    },
+    {
+     "points": 1,
+     "description": "d(P, c₁) = √(6² + OP²) − 2 en d(P, c₂) = √(5² + OP²) − 5"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking √(6² + OP²) − 2 = 2 · (√(5² + OP²) − 5) moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft OP ≈ 7,02 (dus de gevraagde y-coördinaat van P is 7,02)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2021-iii-twee-halve-cirkels-antw10.png"
+   ]
+  },
+  {
+   "title": "Twee bewegende punten",
+   "question_number": 11,
+   "answer_text": "• Voor P₁ geldt x′(t) = 2t + 2 en y′(t) = 4\n• v₁(t) = √((2t + 2)² + 4²)\n• Uit √((2t + 2)² + 4²) = 4√(t² + 1) volgt (2t + 2)² + 4² = 16(t² + 1)\n• Herleiden tot 12t² − 8t − 4 = 0 (of 3t² − 2t − 1 = 0)\n• Dit geeft t = 1 (t = −⅓ voldoet niet)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor P₁ geldt x′(t) = 2t + 2 en y′(t) = 4"
+    },
+    {
+     "points": 1,
+     "description": "v₁(t) = √((2t + 2)² + 4²)"
+    },
+    {
+     "points": 1,
+     "description": "Uit √((2t + 2)² + 4²) = 4√(t² + 1) volgt (2t + 2)² + 4² = 16(t² + 1)"
+    },
+    {
+     "points": 1,
+     "description": "Herleiden tot 12t² − 8t − 4 = 0 (of 3t² − 2t − 1 = 0)"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft t = 1 (t = −⅓ voldoet niet)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2021-iii-twee-bewegende-punten-antw11.png"
+   ]
+  },
+  {
+   "title": "Twee bewegende punten",
+   "question_number": 12,
+   "answer_text": "• De richtingscoëfficiënt van de lijn door P₁ en P₂ is (2t² − 4t)/(4t − (t² + 2t))\n• Dit is gelijk aan (2t² − 4t)/(2t − t²)\n• Dit is gelijk aan −2(−t² + 2t)/(2t − t²) en dat is gelijk aan −2\nof\n• Een richtingsvector van de lijn door P₁ en P₂ is (4t − (t² + 2t), 2t² − 4t)\n• Dit is gelijk aan (2t − t², 2t² − 4t)\n• Dit is gelijk aan (2t − t², −2(2t − t²)), dus (1, −2) is een richtingsvector, dus de richtingscoëfficiënt is −2",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De richtingscoëfficiënt van de lijn door P₁ en P₂ is (2t² − 4t)/(4t − (t² + 2t))"
+    },
+    {
+     "points": 1,
+     "description": "Dit is gelijk aan (2t² − 4t)/(2t − t²)"
+    },
+    {
+     "points": 1,
+     "description": "Dit is gelijk aan −2(−t² + 2t)/(2t − t²) en dat is gelijk aan −2"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2021-iii-twee-bewegende-punten-antw12.png"
+   ]
+  },
+  {
+   "title": "Twee bewegende punten",
+   "question_number": 13,
+   "answer_text": "• Een vergelijking van l is van de vorm y = −2x + b\n• Substitutie van bijvoorbeeld (4t, 2t²) geeft b = 2t² + 8t\n• (3, 0) moet op l liggen, dus moet gelden 0 = −6 + 2t² + 8t\n• Exact oplossen geeft t = (−4 ± √28)/2, dus het gevraagde tijdstip is t = (−4 + √28)/2 (of een gelijkwaardige uitdrukking) (t = (−4 − √28)/2 voldoet niet)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Een vergelijking van l is van de vorm y = −2x + b"
+    },
+    {
+     "points": 1,
+     "description": "Substitutie van bijvoorbeeld (4t, 2t²) geeft b = 2t² + 8t"
+    },
+    {
+     "points": 1,
+     "description": "(3, 0) moet op l liggen, dus moet gelden 0 = −6 + 2t² + 8t"
+    },
+    {
+     "points": 1,
+     "description": "Exact oplossen geeft t = (−4 ± √28)/2, dus het gevraagde tijdstip is t = (−4 + √28)/2 (of een gelijkwaardige uitdrukking) (t = (−4 − √28)/2 voldoet niet)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2021-iii-twee-bewegende-punten-antw13.png"
+   ]
+  },
+  {
+   "title": "Een derdegraadsfunctie",
+   "question_number": 14,
+   "answer_text": "• (Voor een punt (x, y) op de grafiek van f ligt punt (y, x) op de grafiek van de inverse van f, dus er geldt) x = −2 + ∛(y − 1)\n• Dus x + 2 = ∛(y − 1), dus (x + 2)³ = y − 1, dus y = (x + 2)³ + 1\n• Dit is gelijk aan (x + 2)² · (x + 2) + 1 = (x² + 4x + 4) · (x + 2) + 1 = x³ + 6x² + 12x + 9 (= f(x), dus geldt inderdaad fⁱⁿᵛ(x) = −2 + ∛(x − 1))\nof\n• (Voor een punt (x, y) op de grafiek van de inverse van f ligt punt (y, x) op de grafiek van f, dus er geldt) x = y³ + 6y² + 12y + 9\n• (y + 2)³ = (y + 2)²(y + 2) = (y² + 4y + 4)(y + 2) = y³ + 6y² + 12y + 8, dus x = (y + 2)³ + 1\n• Herleiden geeft y = −2 + ∛(x − 1) (dus geldt inderdaad fⁱⁿᵛ(x) = −2 + ∛(x − 1))\nof\n• f(fⁱⁿᵛ(x)) = (−2 + ∛(x − 1))³ + 6 · (−2 + ∛(x − 1))² + 12 · (−2 + ∛(x − 1)) + 9\n• (−2 + ∛(x − 1))³ = −8 + 3 · 4 · ∛(x − 1) + 3 · −2 · (∛(x − 1))² + x − 1\n• De rest van de herleiding van f(fⁱⁿᵛ(x)) tot x (dus geldt inderdaad fⁱⁿᵛ(x) = −2 + ∛(x − 1))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(Voor een punt (x, y) op de grafiek van f ligt punt (y, x) op de grafiek van de inverse van f, dus er geldt) x = −2 + ∛(y − 1)"
+    },
+    {
+     "points": 1,
+     "description": "Dus x + 2 = ∛(y − 1), dus (x + 2)³ = y − 1, dus y = (x + 2)³ + 1"
+    },
+    {
+     "points": 1,
+     "description": "Dit is gelijk aan (x + 2)² · (x + 2) + 1 = (x² + 4x + 4) · (x + 2) + 1 = x³ + 6x² + 12x + 9 (= f(x), dus geldt inderdaad fⁱⁿᵛ(x) = −2 + ∛(x − 1))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2021-iii-een-derdegraadsfunctie-antw14.png"
+   ]
+  },
+  {
+   "title": "Een derdegraadsfunctie",
+   "question_number": 15,
+   "answer_text": "• De ondergrens van de integraal is 0, de bovengrens is f(0) = 9\n• De inhoud van het omwentelingslichaam is gelijk aan π · ∫₀⁹ (−2 + ∛(x − 1))² dx\n• De inhoud is 33,9",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De ondergrens van de integraal is 0, de bovengrens is f(0) = 9"
+    },
+    {
+     "points": 1,
+     "description": "De inhoud van het omwentelingslichaam is gelijk aan π · ∫₀⁹ (−2 + ∛(x − 1))² dx"
+    },
+    {
+     "points": 1,
+     "description": "De inhoud is 33,9"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2021-iii-een-derdegraadsfunctie-antw15.png"
+   ]
+  },
+  {
+   "title": "Een derdegraadsfunctie",
+   "question_number": 16,
+   "answer_text": "• f′(x) = 3x² + 12x + 12\n• Voor P geldt 3x² + 12x + 12 = 0; dit geeft (x + 2)² = 0, dus x = −2\n• Voor Q geldt (vanwege de symmetrie in de lijn met vergelijking y = x) y = −2\n• (f(−2) = 1, dus) P(−2, 1) en Q(1, −2)\n• De richtingscoëfficiënt van de lijn door P en Q is ((−2 − 1)/(1 − 2) =) −1\n• De y-coördinaat van S is dus 1 + 2 · −1 = −1\nof\n• fⁱⁿᵛ(x) = ⅓(x − 1)^(−⅔) = 1/(3 · ∛((x − 1)²)) (⚠️ CONTROLEREN: in het correctievoorschrift staat hier fⁱⁿᵛ(x) zonder accent, bedoeld is vermoedelijk de afgeleide (fⁱⁿᵛ)′(x))\n• (Als x → 1, dan fⁱⁿᵛ(x) → ∞, dus) de grafiek van fⁱⁿᵛ(x) heeft een verticale raaklijn als x = 1 (en dit is dus de x-coördinaat van Q)\n• Voor P geldt (vanwege de symmetrie in de lijn met vergelijking y = x) y = 1\n• (fⁱⁿᵛ(1) = −2, dus) Q(1, −2) en P(−2, 1)\n• (Omdat Q het spiegelbeeld is van P in de lijn met vergelijking y = x, geldt) de richtingscoëfficiënt van de lijn door P en Q is −1\n• De y-coördinaat van S is dus 1 + 2 · −1 = −1\nof\n• f′(x) = 3x² + 12x + 12\n• Voor P geldt 3x² + 12x + 12 = 0; dit geeft (x + 2)² = 0, dus x = −2\n• fⁱⁿᵛ(x) = ⅓(x − 1)^(−⅔) = 1/(3 · ∛((x − 1)²)) (⚠️ CONTROLEREN: in het correctievoorschrift staat hier fⁱⁿᵛ(x) zonder accent, bedoeld is vermoedelijk de afgeleide (fⁱⁿᵛ)′(x))\n• (f(−2) = 1, dus) P(−2, 1) en (als x → 1, dan fⁱⁿᵛ′(x) → ∞, dus) de grafiek van fⁱⁿᵛ(x) heeft een verticale raaklijn als x = 1 (en dit is dus de x-coördinaat van Q); (fⁱⁿᵛ(1) = −2, dus) Q(1, −2)\n• De richtingscoëfficiënt van de lijn door P en Q is ((−2 − 1)/(1 − 2) =) −1\n• De y-coördinaat van S is dus 1 + 2 · −1 = −1",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "f′(x) = 3x² + 12x + 12"
+    },
+    {
+     "points": 1,
+     "description": "Voor P geldt 3x² + 12x + 12 = 0; dit geeft (x + 2)² = 0, dus x = −2"
+    },
+    {
+     "points": 1,
+     "description": "Voor Q geldt (vanwege de symmetrie in de lijn met vergelijking y = x) y = −2"
+    },
+    {
+     "points": 1,
+     "description": "(f(−2) = 1, dus) P(−2, 1) en Q(1, −2)"
+    },
+    {
+     "points": 1,
+     "description": "De richtingscoëfficiënt van de lijn door P en Q is ((−2 − 1)/(1 − 2) =) −1"
+    },
+    {
+     "points": 1,
+     "description": "De y-coördinaat van S is dus 1 + 2 · −1 = −1"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-vwo-2021-iii-een-derdegraadsfunctie-antw16.png"
+   ]
+  }
+ ]
+}
