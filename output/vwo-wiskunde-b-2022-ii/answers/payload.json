@@ -1,0 +1,481 @@
+{
+  "payload": {
+    "subject_name": "Wiskunde B",
+    "level": "VWO",
+    "source": "VWO Wiskunde B 2022-II",
+    "answers": [
+      {
+        "title": "Buigraaklijn",
+        "question_number": 1,
+        "answer_text": "• f′(x) = 6(2x − 1)² · 2 + 6(2x − 1) · 2 2\n• Herleiden tot f′(x) = 12(4x² − 4x + 1) + 24x − 12\n• Herleiden tot f′(x) = 48x² − 24x\nof\n• (2x − 1)² = 4x² − 4x + 1\n• (2x − 1)³ = 8x³ − 12x² + 6x − 1\n• f(x) herleiden tot f(x) = 16x³ − 12x² + 1\n• f′(x) = 48x² − 24x",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "f′(x) = 6(2x − 1)² · 2 + 6(2x − 1) · 2 2"
+          },
+          {
+            "points": 1,
+            "description": "Herleiden tot f′(x) = 12(4x² − 4x + 1) + 24x − 12"
+          },
+          {
+            "points": 1,
+            "description": "Herleiden tot f′(x) = 48x² − 24x"
+          }
+        ],
+        "grading_note": "Voor het eerste antwoordelement van het eerste antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-ii-buigraaklijn-antw1.png"
+        ]
+      },
+      {
+        "title": "Buigraaklijn",
+        "question_number": 2,
+        "answer_text": "• f″(x) = 96x − 24\n• f″(x) = 0 geeft x = ¼\n• f(¼) = ½\n• f′(¼) = −3\n• Een vergelijking van k is y = −3x + 5/4",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "f″(x) = 96x − 24"
+          },
+          {
+            "points": 1,
+            "description": "f″(x) = 0 geeft x = ¼"
+          },
+          {
+            "points": 1,
+            "description": "f(¼) = ½"
+          },
+          {
+            "points": 1,
+            "description": "f′(¼) = −3"
+          },
+          {
+            "points": 1,
+            "description": "Een vergelijking van k is y = −3x + 5/4"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-ii-buigraaklijn-antw2.png"
+        ]
+      },
+      {
+        "title": "Op de diagonaal van een vierkant",
+        "question_number": 3,
+        "answer_text": "• Voor het kiezen van een assenstelsel met bijbehorende coördinaten, bijvoorbeeld A(0,0), D(0,2) en M(1,0)\n• Punt P heeft coördinaten (p, p) (met 0 < p < 2)\n• MP⃗ = (p − 1, p) en DP⃗ = (p, p − 2)\n• (p − 1, p) · (p, p − 2) = 0\n• p² − p + p² − 2p = 0 geeft p = 3/2 (p = 0 voldoet niet)\n• AP = 3/2·√2 (of een gelijkwaardige uitdrukking)\nof\n• Voor het kiezen van een assenstelsel met bijbehorende coördinaten, bijvoorbeeld A(0,0), D(0,2) en M(1,0)\n• Punt P heeft coördinaten (p, p) (met 0 < p < 2)\n• Lijn MP heeft rc p/(p − 1) (voor p ≠ 1) en lijn DP heeft rc (p − 2)/p\n• p/(p − 1) · (p − 2)/p = −1\n• Hieruit volgt p = 3/2 (p = 0 voldoet niet)\n• AP = 3/2·√2 (of een gelijkwaardige uitdrukking)\nof\n• Voor het kiezen van een assenstelsel met bijbehorende coördinaten, bijvoorbeeld A(0,0), D(0,2) en M(1,0)\n• Als DP en MP loodrecht op elkaar staan, dan ligt P op de cirkel met middellijn MD\n• (Dat is de cirkel met middelpunt (½, 1) en straal √((½)² + 1²) = √(5/4), dus) een vergelijking van deze cirkel is (x − ½)² + (y − 1)² = 5/4\n• Snijden met de lijn AP met vergelijking y = x geeft (x − ½)² + (x − 1)² = 5/4, dus 2x² − 3x = 0\n• Dit geeft x = 3/2 (x = 0 voldoet niet)\n• AP = 3/2·√2 (of een gelijkwaardige uitdrukking)\nof\n• Voor het kiezen van een assenstelsel met bijbehorende coördinaten, bijvoorbeeld A(0,0), D(0,2) en M(1,0)\n• Punt P heeft coördinaten (p, p) (met 0 < p < 2)\n• Een redenering waaruit volgt dat ∠DPR = ∠PMQ (of ∠RDP = ∠QPM) (met R de loodrechte projectie van P op CD en Q de loodrechte projectie van P op AB)\n• Ook geldt (omdat D(0,2), R(p, 2), P(p, p) en Q(p, 0)) DR = PQ, dus △PRD ≅ △MQP\n• MQ = PR geeft p − 1 = 2 − p ofwel p = 3/2 ⚠️ CONTROLEREN: in het correctievoorschrift staat hier '3/2 1'\n• AP = 3/2·√2 (of een gelijkwaardige uitdrukking)\nof\n• Een redenering waaruit volgt dat ∠DPR = ∠PMQ (of ∠RDP = ∠QPM) (met R de loodrechte projectie van P op CD en Q de loodrechte projectie van P op AB)\n• Ook geldt DR = PQ, dus △PRD ≅ △MQP\n• Dus MQ = PR en (omdat ∠PCR = 45°) PR = RC\n• Dus MQ = PR = RC = BQ en dus is Q het midden van MB\n• Hieruit volgt AQ : QB = 3 : 1\n• AP = 3/2·√2 (want △AQP is gelijkvormig met △ABC) (of een gelijkwaardige uitdrukking)\nof\n• Voor het kiezen van een assenstelsel met bijbehorende coördinaten, bijvoorbeeld A(0,0), D(0,2) en M(1,0)\n• Punt P heeft coördinaten (p, p) (met 0 < p < 2)\n• DP = √(p² + (2 − p)²) en MP = √(p² + (p − 1)²) en MD = √5\n• DP ⊥ MP als p² + (2 − p)² + p² + (p − 1)² = 5\n• Hieruit volgt p = 3/2 (p = 0 voldoet niet)\n• AP = 3/2·√2 (of een gelijkwaardige uitdrukking)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor het kiezen van een assenstelsel met bijbehorende coördinaten, bijvoorbeeld A(0,0), D(0,2) en M(1,0)"
+          },
+          {
+            "points": 1,
+            "description": "Punt P heeft coördinaten (p, p) (met 0 < p < 2)"
+          },
+          {
+            "points": 1,
+            "description": "MP⃗ = (p − 1, p) en DP⃗ = (p, p − 2)"
+          },
+          {
+            "points": 1,
+            "description": "(p − 1, p) · (p, p − 2) = 0"
+          },
+          {
+            "points": 1,
+            "description": "p² − p + p² − 2p = 0 geeft p = 3/2 (p = 0 voldoet niet)"
+          },
+          {
+            "points": 1,
+            "description": "AP = 3/2·√2 (of een gelijkwaardige uitdrukking)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-ii-op-de-diagonaal-van-een-vierkant-antw3.png"
+        ]
+      },
+      {
+        "title": "Golvend ertussendoor",
+        "question_number": 4,
+        "answer_text": "• f′(x) = −cos(x)/(2sin²(x)) (of een gelijkwaardige uitdrukking)\n• f′(x) = 0 geeft cos(x) = 0 (en 2sin²(x) ≠ 0)\n• f(½π) = ½ en f(3/2·π) = −½\n• Het bereik is y ≤ −½ of y ≥ ½\nof\n• f heeft een minimum als sin(x) maximaal is\n• sin(x) is maximaal 1 dus het minimum van f is ½\n• f heeft een maximum als sin(x) minimaal is\n• sin(x) is minimaal −1 dus het maximum van f is −½\n• Het bereik is y ≤ −½ of y ≥ ½",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "f′(x) = −cos(x)/(2sin²(x)) (of een gelijkwaardige uitdrukking)"
+          },
+          {
+            "points": 1,
+            "description": "f′(x) = 0 geeft cos(x) = 0 (en 2sin²(x) ≠ 0)"
+          },
+          {
+            "points": 1,
+            "description": "f(½π) = ½ en f(3/2·π) = −½"
+          },
+          {
+            "points": 1,
+            "description": "Het bereik is y ≤ −½ of y ≥ ½"
+          }
+        ],
+        "grading_note": "Voor het eerste antwoordelement van het eerste antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-ii-golvend-ertussendoor-antw4.png"
+        ]
+      },
+      {
+        "title": "Golvend ertussendoor",
+        "question_number": 5,
+        "answer_text": "• a·cos(x) = 1/(2sin(x)) geeft 2a·cos(x)sin(x) = 1\n• (Voor a = 0 zijn er geen oplossingen en voor a ≠ 0 geldt:) a·sin(2x) = 1 en dit geeft sin(2x) = 1/a\n• Deze vergelijking heeft alleen oplossingen als −1 ≤ 1/a ≤ 1\n• Dus er zijn geen oplossingen als 1/a > 1 (dus 0 < a < 1) en als 1/a < −1 (dus −1 < a < 0)\n• Dus voor −1 < a < 1 hebben de grafieken geen punten gemeenschappelijk\nof\n• f(x) = g(x) geeft a·cos(x) = 1/(2sin(x)) dus a = 1/(2cos(x)sin(x)) en f′(x) = g′(x) geeft −cos(x)/(2sin²(x)) = −a·sin(x)\n• Substitutie van a geeft −cos(x)/(2sin²(x)) = −sin(x)/(2cos(x)sin(x)) (of cos(x)/sin²(x) = 1/cos(x))\n• Hieruit volgt cos²(x) = sin²(x) dus x = ¼π + k · ½π\n• Dan volgt a = 1 of a = −1\n• Dus voor −1 < a < 1 hebben de grafieken geen punten gemeenschappelijk",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "a·cos(x) = 1/(2sin(x)) geeft 2a·cos(x)sin(x) = 1"
+          },
+          {
+            "points": 1,
+            "description": "(Voor a = 0 zijn er geen oplossingen en voor a ≠ 0 geldt:) a·sin(2x) = 1 en dit geeft sin(2x) = 1/a"
+          },
+          {
+            "points": 1,
+            "description": "Deze vergelijking heeft alleen oplossingen als −1 ≤ 1/a ≤ 1"
+          },
+          {
+            "points": 1,
+            "description": "Dus er zijn geen oplossingen als 1/a > 1 (dus 0 < a < 1) en als 1/a < −1 (dus −1 < a < 0)"
+          },
+          {
+            "points": 1,
+            "description": "Dus voor −1 < a < 1 hebben de grafieken geen punten gemeenschappelijk"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-ii-golvend-ertussendoor-antw5.png"
+        ]
+      },
+      {
+        "title": "Efficiënt testen",
+        "question_number": 6,
+        "answer_text": "• dT/dn = 1000 · (−1/n² − ln(0,8) · 0,8ⁿ)\n• Voor n = 4 geeft dit de waarde 28,8...\n• Deze waarde is positief dus het laagste punt ligt links van n = 4",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "dT/dn = 1000 · (−1/n² − ln(0,8) · 0,8ⁿ)"
+          },
+          {
+            "points": 1,
+            "description": "Voor n = 4 geeft dit de waarde 28,8..."
+          },
+          {
+            "points": 1,
+            "description": "Deze waarde is positief dus het laagste punt ligt links van n = 4"
+          }
+        ],
+        "grading_note": "Voor het eerste antwoordelement mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-ii-efficient-testen-antw6.png"
+        ]
+      },
+      {
+        "title": "Efficiënt testen",
+        "question_number": 7,
+        "answer_text": "• T(n) = T(n + 1) geeft N · (1 + 1/n − (1 − p)ⁿ) = N · (1 + 1/(n + 1) − (1 − p)ⁿ⁺¹)\n• Herleiden tot (1 − p)ⁿ − (1 − p)ⁿ⁺¹ = 1/n − 1/(n + 1)\n• (1 − p)ⁿ − (1 − p)ⁿ⁺¹ = (1 − p)ⁿ(1 − (1 − p)) = p(1 − p)ⁿ\n• Voor de rest van de herleiding\nof\n• T(n) = T(n + 1) geeft N · (1 + 1/n − (1 − p)ⁿ) = N · (1 + 1/(n + 1) − (1 − p)ⁿ⁺¹)\n• Herleiden tot 1/n − (1 − p)ⁿ = 1/(n + 1) − (1 − p)ⁿ⁺¹\n• Dit vervolgens herleiden tot 1 = n(n + 1)((1 − p)ⁿ − (1 − p)ⁿ⁺¹)\n• (1 − p)ⁿ − (1 − p)ⁿ⁺¹ = (1 − p)ⁿ(1 − (1 − p)) = p(1 − p)ⁿ (en de rest van de herleiding)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "T(n) = T(n + 1) geeft N · (1 + 1/n − (1 − p)ⁿ) = N · (1 + 1/(n + 1) − (1 − p)ⁿ⁺¹)"
+          },
+          {
+            "points": 1,
+            "description": "Herleiden tot (1 − p)ⁿ − (1 − p)ⁿ⁺¹ = 1/n − 1/(n + 1)"
+          },
+          {
+            "points": 1,
+            "description": "(1 − p)ⁿ − (1 − p)ⁿ⁺¹ = (1 − p)ⁿ(1 − (1 − p)) = p(1 − p)ⁿ"
+          },
+          {
+            "points": 1,
+            "description": "Voor de rest van de herleiding"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-ii-efficient-testen-antw7.png"
+        ]
+      },
+      {
+        "title": "Efficiënt testen",
+        "question_number": 8,
+        "answer_text": "• Als p = 0,025, dan volgt uit de tabel dat n = 7\n• De vergelijking 750 = N · (1 + 1/7 − (1 − 0,025)⁷) moet worden opgelost\n• Het gevraagde aantal monsters is 2456",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als p = 0,025, dan volgt uit de tabel dat n = 7"
+          },
+          {
+            "points": 1,
+            "description": "De vergelijking 750 = N · (1 + 1/7 − (1 − 0,025)⁷) moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Het gevraagde aantal monsters is 2456"
+          }
+        ],
+        "grading_note": "Voor het antwoord 2457 geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-ii-efficient-testen-antw8.png"
+        ]
+      },
+      {
+        "title": "Begrensde gebieden",
+        "question_number": 9,
+        "answer_text": "• De integraal ∫₀^q f(x)dx moet worden berekend\n• Een primitieve van 4/√(x + 1) is 8√(x + 1)\n• De oppervlakte onder de grafiek is 8√(q + 1) − 8\n• De oppervlakte van de rechthoek is 4q, de oppervlakte onder de grafiek is dus 2q\n• 8√(q + 1) − 8 = 2q herleiden tot 64(q + 1) = (8 + 2q)²\n• Dit geeft 4q² − 32q = 0\n• q = 8",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De integraal ∫₀^q f(x)dx moet worden berekend"
+          },
+          {
+            "points": 1,
+            "description": "Een primitieve van 4/√(x + 1) is 8√(x + 1)"
+          },
+          {
+            "points": 1,
+            "description": "De oppervlakte onder de grafiek is 8√(q + 1) − 8"
+          },
+          {
+            "points": 1,
+            "description": "De oppervlakte van de rechthoek is 4q, de oppervlakte onder de grafiek is dus 2q"
+          },
+          {
+            "points": 1,
+            "description": "8√(q + 1) − 8 = 2q herleiden tot 64(q + 1) = (8 + 2q)²"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft 4q² − 32q = 0"
+          },
+          {
+            "points": 1,
+            "description": "q = 8"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-ii-begrensde-gebieden-antw9.png"
+        ]
+      },
+      {
+        "title": "Begrensde gebieden",
+        "question_number": 10,
+        "answer_text": "• Voor de inverse functie g geldt x = 4/√(y + 1) dus √(y + 1) = 4/x\n• Dit herleiden tot y = 16/x² − 1\n• Beschrijven hoe de x-coördinaat van het snijpunt van de grafiek van f met de grafiek van g met de GR gevonden kan worden\n• Deze x-coördinaat is 2,22...\n• ∫ van 2,22... tot 4 van (4/√(x + 1) − 16/x² + 1) dx = 2,10... dus de gevraagde oppervlakte is 2,1\nof\n• Beschrijven hoe de x-coördinaat van het snijpunt van de grafiek van f met de lijn y = x met de GR gevonden kan worden\n• Deze x-coördinaat is 2,22...\n• Er geldt: ∫ van 2,22... tot 4 van (f(x) − g(x))dx = ∫ van 2,22... tot 4 van f(x)dx − (∫ van 0 tot 2,22... van f(x)dx − (2,22...)²)\n• (Dit geeft 3,51... − (6,37... − (2,22...)²) = 2,10... dus) de gevraagde oppervlakte is 2,1",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor de inverse functie g geldt x = 4/√(y + 1) dus √(y + 1) = 4/x"
+          },
+          {
+            "points": 1,
+            "description": "Dit herleiden tot y = 16/x² − 1"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de x-coördinaat van het snijpunt van de grafiek van f met de grafiek van g met de GR gevonden kan worden"
+          },
+          {
+            "points": 1,
+            "description": "Deze x-coördinaat is 2,22..."
+          },
+          {
+            "points": 1,
+            "description": "∫ van 2,22... tot 4 van (4/√(x + 1) − 16/x² + 1) dx = 2,10... dus de gevraagde oppervlakte is 2,1"
+          }
+        ],
+        "grading_note": "Voor het derde antwoordelement van het tweede antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-ii-begrensde-gebieden-antw10.png"
+        ]
+      },
+      {
+        "title": "Cirkels en lijnen",
+        "question_number": 11,
+        "answer_text": "• Er geldt: OP⃗ = (2cos(t), 2sin(t)) en OQ⃗ = (2 + cos(t), sin(t))\n• Er moet gelden: OP⃗ · OQ⃗ = 0, dus (2cos(t), 2sin(t)) · (2 + cos(t), sin(t)) = 0\n• Hieruit volgt 4cos(t) + 2cos²(t) + 2sin²(t) = 0 (of een gelijkwaardige uitdrukking)\n• Herleiden tot cos(t) = −½\n• De oplossingen: t = 2/3·π en t = 4/3·π\nof\n• Er geldt: rc_OP = 2sin(t)/(2cos(t)) (met cos(t) ≠ 0) en rc_OQ = sin(t)/(2 + cos(t))\n• Er moet gelden: rc_OP · rc_OQ = −1, dus 2sin(t)·sin(t)/(2cos(t)(2 + cos(t))) = −1\n• Hieruit volgt sin²(t) + 2cos(t) + cos²(t) = 0 (of een gelijkwaardige uitdrukking)\n• Herleiden tot cos(t) = −½\n• De oplossingen: t = 2/3·π en t = 4/3·π",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er geldt: OP⃗ = (2cos(t), 2sin(t)) en OQ⃗ = (2 + cos(t), sin(t))"
+          },
+          {
+            "points": 1,
+            "description": "Er moet gelden: OP⃗ · OQ⃗ = 0, dus (2cos(t), 2sin(t)) · (2 + cos(t), sin(t)) = 0"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt 4cos(t) + 2cos²(t) + 2sin²(t) = 0 (of een gelijkwaardige uitdrukking)"
+          },
+          {
+            "points": 1,
+            "description": "Herleiden tot cos(t) = −½"
+          },
+          {
+            "points": 1,
+            "description": "De oplossingen: t = 2/3·π en t = 4/3·π"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-ii-cirkels-en-lijnen-antw11.png"
+        ]
+      },
+      {
+        "title": "Cirkels en lijnen",
+        "question_number": 12,
+        "answer_text": "• Er geldt: QP⃗ = (cos(t) − 2, sin(t))\n• Een vectorvoorstelling van de lijn door P en Q is (x, y) = (2cos(t), 2sin(t)) + r · (cos(t) − 2, sin(t))\n• Voor het snijpunt met de x-as geldt: y = 0, dus r = −2\n• Dus x = 2cos(t) + −2(cos(t) − 2)) = 4 (en dat is onafhankelijk van t)\nof\n• Er geldt: rc_PQ = sin(t)/(cos(t) − 2)\n• Een vergelijking van de lijn door P en Q is y = sin(t)/(cos(t) − 2) · (x − 2cos(t)) + 2sin(t) (of een gelijkwaardige uitdrukking)\n• Voor het snijpunt met de x-as geldt: sin(t)/(cos(t) − 2) · (x − 2cos(t)) + 2sin(t) = 0\n• Dus x = −2sin(t) · (cos(t) − 2)/sin(t) + 2cos(t) = 4 (en dat is onafhankelijk van t)\nof\n• Omdat P en Q dezelfde hoeksnelheid hebben, is driehoek AOP gelijkvormig met driehoek ANQ (N is het middelpunt van c_Q)\n• Dus OA/NA = OP/NQ\n• Hieruit volgt (2 + NA)/NA = 2/1\n• Hieruit volgt NA = 2\n• Dus de x-coördinaat van A is 4 (en dat is onafhankelijk van t)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er geldt: QP⃗ = (cos(t) − 2, sin(t))"
+          },
+          {
+            "points": 2,
+            "description": "Een vectorvoorstelling van de lijn door P en Q is (x, y) = (2cos(t), 2sin(t)) + r · (cos(t) − 2, sin(t))"
+          },
+          {
+            "points": 1,
+            "description": "Voor het snijpunt met de x-as geldt: y = 0, dus r = −2"
+          },
+          {
+            "points": 1,
+            "description": "Dus x = 2cos(t) + −2(cos(t) − 2)) = 4 (en dat is onafhankelijk van t)"
+          }
+        ],
+        "grading_note": "Voor het tweede antwoordelement van zowel het eerste als het tweede antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-ii-cirkels-en-lijnen-antw12.png"
+        ]
+      },
+      {
+        "title": "Cirkels en lijnen",
+        "question_number": 13,
+        "answer_text": "• Er geldt: M(1 + 3/2·cos(t), 3/2·sin(t))\n• Een vergelijking van c_P is x² + y² = 4\n• M ligt in het buitengebied totdat M op c_P ligt, dus de vergelijking (1 + 3/2·cos(t))² + (3/2·sin(t))² = 4 moet worden opgelost\n• Beschrijven hoe deze vergelijking (met de GR) kan worden opgelost\n• Dit geeft t = 1,318...\n• (De baan is symmetrisch ten opzichte van de x-as, dus) 2(1,318... − 0,723)/(2π) = 0,1894... dus het gevraagde percentage is 19(%)\nof\n• Een vergelijking van c_P is x² + y² = 4\n• Er geldt: M(1 + 3/2·cos(t), 3/2·sin(t)), dus een vergelijking van c_M is (x − 1)² + y² = 1,5²\n• Beschrijven hoe de snijpunten van c_P en c_M (met de GR) gevonden kunnen worden\n• Dit geeft x = 1,375 dus 1 + 3/2·cos(t) = 1,375\n• Dit geeft t = 1,318...\n• (De baan is symmetrisch ten opzichte van de x-as, dus) 2(1,318... − 0,723)/(2π) = 0,1894... dus het gevraagde percentage is 19(%)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er geldt: M(1 + 3/2·cos(t), 3/2·sin(t))"
+          },
+          {
+            "points": 1,
+            "description": "Een vergelijking van c_P is x² + y² = 4"
+          },
+          {
+            "points": 1,
+            "description": "M ligt in het buitengebied totdat M op c_P ligt, dus de vergelijking (1 + 3/2·cos(t))² + (3/2·sin(t))² = 4 moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking (met de GR) kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft t = 1,318..."
+          },
+          {
+            "points": 1,
+            "description": "(De baan is symmetrisch ten opzichte van de x-as, dus) 2(1,318... − 0,723)/(2π) = 0,1894... dus het gevraagde percentage is 19(%)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-ii-cirkels-en-lijnen-antw13.png"
+        ]
+      },
+      {
+        "title": "Asymptoot",
+        "question_number": 14,
+        "answer_text": "• Voor x < 1 geldt: f(x) = −x + 1 + (x − 5)/(2x − 5)\n• lim_{x→−∞} (x − 5)/(2x − 5) = lim_{x→−∞} (1 − 5/x)/(2 − 5/x) = ½ (of: een redenering als \"voor grote negatieve waarden van x gaat de breuk (x − 5)/(2x − 5) naar ½\")\n• Een vergelijking van lijn k is y = −x + 1½",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor x < 1 geldt: f(x) = −x + 1 + (x − 5)/(2x − 5)"
+          },
+          {
+            "points": 1,
+            "description": "lim_{x→−∞} (x − 5)/(2x − 5) = lim_{x→−∞} (1 − 5/x)/(2 − 5/x) = ½ (of: een redenering als \"voor grote negatieve waarden van x gaat de breuk (x − 5)/(2x − 5) naar ½\")"
+          },
+          {
+            "points": 1,
+            "description": "Een vergelijking van lijn k is y = −x + 1½"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-ii-asymptoot-antw14.png"
+        ]
+      },
+      {
+        "title": "Asymptoot",
+        "question_number": 15,
+        "answer_text": "• (Het snijpunt met de x-as ligt rechts van het knikpunt, dus) x − 1 + (x − 5)/(2x − 5) = 0\n• Dit herleiden tot x − 5 = (2x − 5)(1 − x) (of een gelijkwaardige uitdrukking zonder gebroken vormen)\n• Herleiden tot 2x² − 6x = 0\n• Dit geeft x = 3 (x = 0 voldoet niet)\n• (x = 2½ is een nulpunt van de noemer en niet van de teller van (x − 5)/(2x − 5), dus) de grafiek heeft een verticale asymptoot met vergelijking x = 2½\n• De grafiek van f ligt onder de x-as voor 2½ < x < 3",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(Het snijpunt met de x-as ligt rechts van het knikpunt, dus) x − 1 + (x − 5)/(2x − 5) = 0"
+          },
+          {
+            "points": 1,
+            "description": "Dit herleiden tot x − 5 = (2x − 5)(1 − x) (of een gelijkwaardige uitdrukking zonder gebroken vormen)"
+          },
+          {
+            "points": 1,
+            "description": "Herleiden tot 2x² − 6x = 0"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft x = 3 (x = 0 voldoet niet)"
+          },
+          {
+            "points": 1,
+            "description": "(x = 2½ is een nulpunt van de noemer en niet van de teller van (x − 5)/(2x − 5), dus) de grafiek heeft een verticale asymptoot met vergelijking x = 2½"
+          },
+          {
+            "points": 1,
+            "description": "De grafiek van f ligt onder de x-as voor 2½ < x < 3"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-ii-asymptoot-antw15.png"
+        ]
+      },
+      {
+        "title": "Twee punten op een grafiek",
+        "question_number": 16,
+        "answer_text": "• Er geldt: P(p, p · eᵖ) en Q(2p, 2p · e²ᵖ)\n• De richtingscoëfficiënt van de lijn door P en Q is (2p·e²ᵖ − p·eᵖ)/p\n• Er moet gelden: 2 · e²ᵖ − eᵖ = 6\n• Beschrijven hoe uit deze vergelijking een exacte waarde voor eᵖ gevonden kan worden\n• Dit geeft (omdat eᵖ = −3/2 geen oplossing heeft) p = ln(2)\nof\n• Er geldt: P(p, p · eᵖ) en Q(2p, 2p · e²ᵖ)\n• Een vergelijking van de lijn door P en Q is y = 6x + b; invullen van de coördinaten van P geeft b = p · eᵖ − 6p\n• Uit invullen van de coördinaten van Q in y = 6x + p · eᵖ − 6p volgt 2 · e²ᵖ − eᵖ = 6\n• Beschrijven hoe uit deze vergelijking een exacte waarde voor eᵖ gevonden kan worden\n• Dit geeft (omdat eᵖ = −3/2 geen oplossing heeft) p = ln(2)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er geldt: P(p, p · eᵖ) en Q(2p, 2p · e²ᵖ)"
+          },
+          {
+            "points": 1,
+            "description": "De richtingscoëfficiënt van de lijn door P en Q is (2p·e²ᵖ − p·eᵖ)/p"
+          },
+          {
+            "points": 1,
+            "description": "Er moet gelden: 2 · e²ᵖ − eᵖ = 6"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe uit deze vergelijking een exacte waarde voor eᵖ gevonden kan worden"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft (omdat eᵖ = −3/2 geen oplossing heeft) p = ln(2)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2022-ii-twee-punten-op-een-grafiek-antw16.png"
+        ]
+      }
+    ]
+  }
+}
