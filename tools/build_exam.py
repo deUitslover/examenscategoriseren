@@ -271,7 +271,21 @@ def main():
                 # wrapped last word of MC option D that find_vraag_lines
                 # missed, HAVO-BIO-23-I-O.pdf vraag 23) is wiped white
                 m = it["members"][0]
-                it["members"] = [(m[0], m[1], m[2], m[3] + ext)]
+                box = (m[0], m[1], m[2], m[3] + ext)
+                it["members"] = [box]
+                # a ctx item that holds those lines as members (vraag beside
+                # a figure: VWO-WISB-24-II-O.pdf p.4 vraag 7 "volgt: sin(2t)
+                # = ..." under a stacked fraction) drops them and wipes the
+                # whole vraag box instead
+                for _, o in plan:
+                    if o["kind"] != "ctx":
+                        continue
+                    inb = [b for b in o["members"] if b[0] >= box[0] - 1 and b[2] <= box[2] + 1
+                           and b[1] >= box[1] - 1 and b[3] <= box[3] + 1]
+                    if inb:
+                        o["members"] = [b for b in o["members"] if b not in inb]
+                        o.setdefault("extra_wipe", []).append(
+                            (box[0] - 2, box[1] - 1, box[2] + 2, box[3] + 1))
             it["key"] = f"{page.number}:{i}"
             if (page.number, i) in attach:
                 it["attach_to"] = attach[(page.number, i)]

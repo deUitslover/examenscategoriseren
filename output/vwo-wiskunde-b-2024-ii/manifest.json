@@ -1,0 +1,64 @@
+{
+  "source": "VWO Wiskunde B 2024-II",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Twee functies",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Cobb-Douglas-productiefunctie",
+      "question_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Loodrecht op de snelheidsvector",
+      "question_numbers": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Passende parabool",
+      "question_numbers": [
+        9
+      ]
+    },
+    {
+      "title": "Lijnenparen",
+      "question_numbers": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Absolute logaritme",
+      "question_numbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Lijnstukken bij een exponentiële functie",
+      "question_numbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Een hoek van 45 graden",
+      "question_numbers": [
+        17
+      ]
+    }
+  ]
+}

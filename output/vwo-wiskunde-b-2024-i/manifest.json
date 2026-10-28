@@ -1,0 +1,65 @@
+{
+  "source": "VWO Wiskunde B 2024-I",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Stijgend en horizontaal",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Wachttijden",
+      "question_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Verschuiven",
+      "question_numbers": [
+        6
+      ]
+    },
+    {
+      "title": "Logaritme, wortel en exponent",
+      "question_numbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Klavertje drie",
+      "question_numbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Halve cirkel",
+      "question_numbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Top, asymptoot en geen perforatie",
+      "question_numbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Vereenvoudigde sterrenkunde",
+      "question_numbers": [
+        15,
+        16,
+        17,
+        18
+      ]
+    }
+  ]
+}
