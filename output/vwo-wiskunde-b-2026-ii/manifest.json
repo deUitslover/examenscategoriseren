@@ -1,0 +1,63 @@
+{
+  "source": "VWO Wiskunde B 2026-II",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Rondom een top",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Perforaties",
+      "question_numbers": [
+        3
+      ]
+    },
+    {
+      "title": "Thermosflessen",
+      "question_numbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Evenwijdige vectoren en zwaartepunt",
+      "question_numbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Draaierig",
+      "question_numbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Minimale lengte en grenswaarde",
+      "question_numbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Een gebroken wortelfunctie",
+      "question_numbers": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Twee cirkels",
+      "question_numbers": [
+        15,
+        16
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "source": "VWO Wiskunde B 2026-I",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Een punt en een lijn",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Twee snijpunten",
+      "question_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Perforatie en oppervlakte",
+      "question_numbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Stuiterbal",
+      "question_numbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Lus",
+      "question_numbers": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Gebroken gonio",
+      "question_numbers": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Begrensde inhoud",
+      "question_numbers": [
+        16,
+        17
+      ]
+    }
+  ]
+}
