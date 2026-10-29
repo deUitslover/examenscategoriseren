@@ -98,7 +98,9 @@ def opgave_title(page):
     bar = title_bar_y(page)
     # only the title row right above the bar: skips the running page header
     # and the italic "Tenzij anders vermeld ..." line on page 1 (2019 layout)
-    lines = [l for l in text_lines(page) if l[3] <= bar + 1 and l[1] > max(40, bar - 30)]
+    # (VWO-WISB-25-I-O.pdf p.5: the bar overlaps the title's descenders by
+    # ~2pt, "Een wortelfunctie en haar inverse" ends at bar + 2.1)
+    lines = [l for l in text_lines(page) if l[3] <= bar + 4 and l[1] < bar - 5 and l[1] > max(40, bar - 30)]
     return " ".join(l[4] for l in sorted(lines, key=lambda l: (l[1], l[0]))).strip()
 
 
