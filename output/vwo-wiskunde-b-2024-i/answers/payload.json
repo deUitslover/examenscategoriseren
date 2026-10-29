@@ -1,0 +1,507 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "source": "VWO Wiskunde B 2024-I",
+  "answers": [
+   {
+    "title": "Stijgend en horizontaal",
+    "question_number": 1,
+    "answer_text": "• f(x) = x⁵ − 3x^(1½)\n• f′(x) = 5x⁴ − 4½x^(½)\n• f′(1) = ½ en dit is groter dan 0 (dus de grafiek van f stijgt in A)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f(x) = x⁵ − 3x^(1½)"
+     },
+     {
+      "points": 1,
+      "description": "f′(x) = 5x⁴ − 4½x^(½)"
+     },
+     {
+      "points": 1,
+      "description": "f′(1) = ½ en dit is groter dan 0 (dus de grafiek van f stijgt in A)"
+     }
+    ],
+    "grading_note": "Als in het derde antwoordelement de positieve x-coördinaat van de top van de grafiek van f wordt berekend, gevolgd door een exact argument, waaruit volgt dat deze x-coördinaat kleiner is dan 1, dan mag het derde scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-stijgend-en-horizontaal-antw1.png"
+    ]
+   },
+   {
+    "title": "Stijgend en horizontaal",
+    "question_number": 2,
+    "answer_text": "• Als p de x-coördinaat van P is, dan is de x-coördinaat van Q gelijk aan p + ½\n• De vergelijking p⁵ − 3p√p = (p + ½)⁵ − 3(p + ½)√(p + ½) moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• (Dit geeft p = 0,6827 …, dus) het eindantwoord is 0,683",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als p de x-coördinaat van P is, dan is de x-coördinaat van Q gelijk aan p + ½"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking p⁵ − 3p√p = (p + ½)⁵ − 3(p + ½)√(p + ½) moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "(Dit geeft p = 0,6827 …, dus) het eindantwoord is 0,683"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-stijgend-en-horizontaal-antw2.png"
+    ]
+   },
+   {
+    "title": "Wachttijden",
+    "question_number": 3,
+    "answer_text": "• Het gevraagde percentage is ∫₀³ 50e^(−½t) dt\n• Een primitieve van 50e^(−½t) is −100e^(−½t)\n• ∫₀³ 50e^(−½t) dt = [−100e^(−½t)]₀³ (= −100e^(−1½) + 100 = 77,68 …), dus het eindantwoord is 77,7(%)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het gevraagde percentage is ∫₀³ 50e^(−½t) dt"
+     },
+     {
+      "points": 1,
+      "description": "Een primitieve van 50e^(−½t) is −100e^(−½t)"
+     },
+     {
+      "points": 1,
+      "description": "∫₀³ 50e^(−½t) dt = [−100e^(−½t)]₀³ (= −100e^(−1½) + 100 = 77,68 …), dus het eindantwoord is 77,7(%)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-wachttijden-antw3.png"
+    ]
+   },
+   {
+    "title": "Wachttijden",
+    "question_number": 4,
+    "answer_text": "• Uit y = (t/a − 1/a²)eᵃᵗ volgt y = (1/a)teᵃᵗ − (1/a²)eᵃᵗ\n• dy/dt = d/dt((1/a)t) · eᵃᵗ + (1/a)t · d/dt(eᵃᵗ) − (a/a²)eᵃᵗ\n• dy/dt = (1/a) · eᵃᵗ + (a/a)t · eᵃᵗ − (a/a²)eᵃᵗ en dus d/dt((t/a − 1/a²)eᵃᵗ) = teᵃᵗ (dus het is een juiste primitieve)\nof\n• d/dt((t/a − 1/a²)eᵃᵗ) = d/dt(t/a − 1/a²) · eᵃᵗ + (t/a − 1/a²) · d/dt(eᵃᵗ)\n• d/dt(t/a − 1/a²) = 1/a en d/dt(eᵃᵗ) = aeᵃᵗ\n• dy/dt = (1/a) · eᵃᵗ + (t/a − 1/a²) · aeᵃᵗ = (1/a) · eᵃᵗ + (1/a)t · aeᵃᵗ − (1/a²) · aeᵃᵗ en dus d/dt((t/a − 1/a²)eᵃᵗ) = teᵃᵗ (dus het is een juiste primitieve)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit y = (t/a − 1/a²)eᵃᵗ volgt y = (1/a)teᵃᵗ − (1/a²)eᵃᵗ"
+     },
+     {
+      "points": 1,
+      "description": "dy/dt = d/dt((1/a)t) · eᵃᵗ + (1/a)t · d/dt(eᵃᵗ) − (a/a²)eᵃᵗ"
+     },
+     {
+      "points": 1,
+      "description": "dy/dt = (1/a) · eᵃᵗ + (a/a)t · eᵃᵗ − (a/a²)eᵃᵗ en dus d/dt((t/a − 1/a²)eᵃᵗ) = teᵃᵗ (dus het is een juiste primitieve)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-wachttijden-antw4.png"
+    ]
+   },
+   {
+    "title": "Wachttijden",
+    "question_number": 5,
+    "answer_text": "• t_gemiddeld = (50/100) · ∫₀²⁰ t · e^(−½t) dt\n• Een primitieve van y = t · e^(−½t) is (−2t − 4) · e^(−½t)\n• Invullen van de grenzen in de primitieve geeft −44 · e⁻¹⁰ + 4 (of 3,99 …)\n• (Dus t_gemiddeld = 1,99 …,) dus het eindantwoord is 2 (minuten)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "t_gemiddeld = (50/100) · ∫₀²⁰ t · e^(−½t) dt"
+     },
+     {
+      "points": 1,
+      "description": "Een primitieve van y = t · e^(−½t) is (−2t − 4) · e^(−½t)"
+     },
+     {
+      "points": 1,
+      "description": "Invullen van de grenzen in de primitieve geeft −44 · e⁻¹⁰ + 4 (of 3,99 …)"
+     },
+     {
+      "points": 1,
+      "description": "(Dus t_gemiddeld = 1,99 …,) dus het eindantwoord is 2 (minuten)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-wachttijden-antw5.png"
+    ]
+   },
+   {
+    "title": "Verschuiven",
+    "question_number": 6,
+    "answer_text": "• f′(x) = 6(3x − 7)\n• f′(x) = −6 exact oplossen geeft x = 2\n• f(2) = 1; het origineel van A is dus het punt met coördinaten (2,1)\n• Dus de grafiek van f is (5 − 2 =) 3 naar rechts verschoven en (40 − 1 =) 39 omhoog\n• Dus g(x) = (3(x − 3) − 7)² + 39 (of een gelijkwaardige uitdrukking)\nof\n• Het functievoorschrift van g is te schrijven in de vorm g(x) = (3(x − a) − 7)² + b\n• g′(x) = 6(3(x − a) − 7)\n• 6(3(5 − a) − 7) = −6 exact oplossen geeft a = 3\n• Er moet gelden g(5) = (3(5 − 3) − 7)² + b = 40\n• Dit geeft b = 39 (dus g(x) = (3(x − 3) − 7)² + 39)\nof\n• Het functievoorschrift van g is te schrijven in de vorm g(x) = (3x − a)² + b\n• g′(x) = 6(3x − a)\n• 6(3 · 5 − a) = −6 exact oplossen geeft a = 16\n• Er moet gelden (3 · 5 − 16)² + b = 40\n• Dit geeft b = 39 (dus g(x) = (3x − 16)² + 39)\nof\n• Het functievoorschrift van g is te schrijven in de vorm g(x) = 9x² + ax + b\n• g′(x) = 18x + a\n• 18 · 5 + a = −6 exact oplossen geeft a = −96\n• Er moet gelden 9 · 5² + −96 · 5 + b = 40\n• Dit geeft b = 295 (dus g(x) = 9x² − 96x + 295)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "f′(x) = 6(3x − 7)"
+     },
+     {
+      "points": 1,
+      "description": "f′(x) = −6 exact oplossen geeft x = 2"
+     },
+     {
+      "points": 1,
+      "description": "f(2) = 1; het origineel van A is dus het punt met coördinaten (2,1)"
+     },
+     {
+      "points": 1,
+      "description": "Dus de grafiek van f is (5 − 2 =) 3 naar rechts verschoven en (40 − 1 =) 39 omhoog"
+     },
+     {
+      "points": 1,
+      "description": "Dus g(x) = (3(x − 3) − 7)² + 39 (of een gelijkwaardige uitdrukking)"
+     }
+    ],
+    "grading_note": "Als in het eerste antwoordelement van het eerste antwoordalternatief of in het tweede antwoordelement van het tweede of derde antwoordalternatief de kettingregel niet is gebruikt, mogen voor dit antwoordelement geen scorepunten worden toegekend. Als de kettingregel wel is gebruikt, maar niet correct, mag voor dit antwoordelement hoogstens 1 scorepunt worden toegekend op basis van vakspecifieke regel 1.",
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-verschuiven-antw6.png"
+    ]
+   },
+   {
+    "title": "Logaritme, wortel en exponent",
+    "question_number": 7,
+    "answer_text": "• Voor een punt (x, y) op de grafiek van g geldt x = ²log(√(1 + 8ʸ))\n• Hieruit volgt 2²ˣ = 1 + 8ʸ\n• De rest van de herleiding tot y = ⁸log(2²ˣ − 1) (dus g(x) = ⁸log(2²ˣ − 1))\n• Beschrijven hoe de minimale waarde van f(x) − g(x) kan worden bepaald\n• (Dit is 0,956 … dus) het eindantwoord is 0,96",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor een punt (x, y) op de grafiek van g geldt x = ²log(√(1 + 8ʸ))"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt 2²ˣ = 1 + 8ʸ"
+     },
+     {
+      "points": 1,
+      "description": "De rest van de herleiding tot y = ⁸log(2²ˣ − 1) (dus g(x) = ⁸log(2²ˣ − 1))"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de minimale waarde van f(x) − g(x) kan worden bepaald"
+     },
+     {
+      "points": 1,
+      "description": "(Dit is 0,956 … dus) het eindantwoord is 0,96"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-logaritme-wortel-en-exponent-antw7.png"
+    ]
+   },
+   {
+    "title": "Logaritme, wortel en exponent",
+    "question_number": 8,
+    "answer_text": "• Er moet gelden f(p + 1) − f(p) = 3\n• Dus ²log(√(1 + 8ᵖ⁺¹) / √(1 + 8ᵖ)) = 3\n• Hieruit volgt (1 + 8ᵖ⁺¹) / (1 + 8ᵖ) = 64\n• Hieruit volgt 64 + 64 · 8ᵖ = 1 + 8ᵖ⁺¹\n• Dus 56 · 8ᵖ = −63 (of 7 · 8ᵖ⁺¹ = −63)\n• Deze vergelijking heeft geen oplossingen, dus er is geen waarde van p waarvoor geldt y_Q − y_P = 3",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er moet gelden f(p + 1) − f(p) = 3"
+     },
+     {
+      "points": 1,
+      "description": "Dus ²log(√(1 + 8ᵖ⁺¹) / √(1 + 8ᵖ)) = 3"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt (1 + 8ᵖ⁺¹) / (1 + 8ᵖ) = 64"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt 64 + 64 · 8ᵖ = 1 + 8ᵖ⁺¹"
+     },
+     {
+      "points": 1,
+      "description": "Dus 56 · 8ᵖ = −63 (of 7 · 8ᵖ⁺¹ = −63)"
+     },
+     {
+      "points": 1,
+      "description": "Deze vergelijking heeft geen oplossingen, dus er is geen waarde van p waarvoor geldt y_Q − y_P = 3"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-logaritme-wortel-en-exponent-antw8.png"
+    ]
+   },
+   {
+    "title": "Klavertje drie",
+    "question_number": 9,
+    "answer_text": "• Er geldt 4cos(t + π) = −4cos(t)\n• Er geldt cos(4(t + π)) = cos(4t)\n• Uit (x_P = x_Q, dus) 4cos(t) + cos(4t) = 4cos(t + π) + cos(4(t + π)) volgt 4cos(t) + cos(4t) = −4cos(t) + cos(4t), dus 8cos(t) = 0\n• Dit geeft t = ½π of t = 1½π\n• Invullen in y_P en y_Q geeft PQ = 8 (in beide situaties)\nof\n• Er geldt cos(4(t + π)) = cos(4t)\n• Uit (x_P = x_Q, dus) 4cos(t) + cos(4t) = 4cos(t + π) + cos(4(t + π)) volgt 4cos(t) = 4cos(t + π)\n• Een berekening of redenering waaruit volgt t = ½π of t = 1½π\n• Invullen in y_P en y_Q geeft PQ = 8 (in beide situaties)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt 4cos(t + π) = −4cos(t)"
+     },
+     {
+      "points": 1,
+      "description": "Er geldt cos(4(t + π)) = cos(4t)"
+     },
+     {
+      "points": 1,
+      "description": "Uit (x_P = x_Q, dus) 4cos(t) + cos(4t) = 4cos(t + π) + cos(4(t + π)) volgt 4cos(t) + cos(4t) = −4cos(t) + cos(4t), dus 8cos(t) = 0"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft t = ½π of t = 1½π"
+     },
+     {
+      "points": 1,
+      "description": "Invullen in y_P en y_Q geeft PQ = 8 (in beide situaties)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-klavertje-drie-antw9.png"
+    ]
+   },
+   {
+    "title": "Klavertje drie",
+    "question_number": 10,
+    "answer_text": "• De afgeleide van cos(4t) is −4sin(4t)\n• De afgeleide van sin(4t) is 4cos(4t)\n• dy/dt = 4cos(t) + 4cos(4t) en dx/dt = −4sin(t) − 4sin(4t)\n• De helling van de raaklijn is (4cos(t) + 4cos(4t)) / (−4sin(t) − 4sin(4t))\n• Op t = ⅔π is de helling van de raaklijn ((4cos(⅔π) + 4cos(4 · ⅔π)) / (−4sin(⅔π) − 4sin(4 · ⅔π)) =) ⅓√3\n• (tan(30°) = ⅓√3, dus) de gevraagde hoek is 30°\nof\n• De afgeleide van cos(4t) is −4sin(4t)\n• De afgeleide van sin(4t) is 4cos(4t)\n• dy/dt = 4cos(t) + 4cos(4t) en dx/dt = −4sin(t) − 4sin(4t)\n• Op t = ⅔π is een richtingsvector van de raaklijn gelijk aan (−4√3, −4)\n• (Een richtingsvector van de x-as is (1, 0), dus) voor de hoek φ tussen de raaklijn en de x-as geldt cos(φ) = |(−4√3, −4) · (1, 0)| / (|(−4√3, −4)| · |(1, 0)|) = 4√3/8 = ½√3\n• (cos(30°) = ½√3, dus) de gevraagde hoek is 30°",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De afgeleide van cos(4t) is −4sin(4t)"
+     },
+     {
+      "points": 1,
+      "description": "De afgeleide van sin(4t) is 4cos(4t)"
+     },
+     {
+      "points": 1,
+      "description": "dy/dt = 4cos(t) + 4cos(4t) en dx/dt = −4sin(t) − 4sin(4t)"
+     },
+     {
+      "points": 1,
+      "description": "De helling van de raaklijn is (4cos(t) + 4cos(4t)) / (−4sin(t) − 4sin(4t))"
+     },
+     {
+      "points": 1,
+      "description": "Op t = ⅔π is de helling van de raaklijn ((4cos(⅔π) + 4cos(4 · ⅔π)) / (−4sin(⅔π) − 4sin(4 · ⅔π)) =) ⅓√3"
+     },
+     {
+      "points": 1,
+      "description": "(tan(30°) = ⅓√3, dus) de gevraagde hoek is 30°"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-klavertje-drie-antw10.png"
+    ]
+   },
+   {
+    "title": "Halve cirkel",
+    "question_number": 11,
+    "answer_text": "• Een vergelijking van c is (x − 1)² + y² = 2² (en hieraan voldoen de coördinaten van P)\n• Voor de coördinaten van P geldt x² + y² = (2½)²\n• Uit het stelsel van deze twee vergelijkingen volgt 4 + 2x − 1 = 6¼ (of een andere juiste lineaire vergelijking)\n• De x-coördinaat van P is 1⅝\nof\n• OP = 2½, MP = 2 en OM = 1, waarbij M het middelpunt van c is\n• De cosinusregel in driehoek OMP geeft 2² = 1² + (2½)² − 2 · 1 · 2½ · cos(∠POM), dus cos(∠POM) = (2² − 1² − (2½)²) / (−2 · 1 · 2½) = 13/20\n• Ook geldt cos(∠POM) = x_P / 2½\n• Samen geeft dit x_P = (13/20 · 2½ =) 1⅝",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een vergelijking van c is (x − 1)² + y² = 2² (en hieraan voldoen de coördinaten van P)"
+     },
+     {
+      "points": 1,
+      "description": "Voor de coördinaten van P geldt x² + y² = (2½)²"
+     },
+     {
+      "points": 1,
+      "description": "Uit het stelsel van deze twee vergelijkingen volgt 4 + 2x − 1 = 6¼ (of een andere juiste lineaire vergelijking)"
+     },
+     {
+      "points": 1,
+      "description": "De x-coördinaat van P is 1⅝"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-halve-cirkel-antw11.png"
+    ]
+   },
+   {
+    "title": "Halve cirkel",
+    "question_number": 12,
+    "answer_text": "• Uit de gelijkvormigheid van driehoek BRO en driehoek BSA (want ∠BRO = ∠BSA en ∠OBR = ∠ABS) (en AB = 4 en OB = 3) volgt dat de zijden van driehoek BSA 4/3 keer zo lang zijn als de zijden van driehoek BRO\n• Uit de stelling van Pythagoras in driehoek BRO volgt BR = √8\n• De oppervlakte van driehoek BRO is ½ · 1 · √8 (= ½√8)\n• De oppervlakte van driehoek BSA is (4/3)² · ½√8\n• De oppervlakte van vierhoek AORS is (4/3)² · ½√8 − ½√8 = 7/18 √8 (of een gelijkwaardige uitdrukking)\nof\n• Uit de gelijkvormigheid van driehoek BRO en driehoek BSA (want ∠BRO = ∠BSA en ∠OBR = ∠ABS) (en AB = 4 en OB = 3) volgt dat de zijden van driehoek BSA 4/3 keer zo lang zijn als de zijden van driehoek BRO\n• Uit de stelling van Pythagoras in driehoek BRO volgt BR = √8\n• Dus AS = 4/3 en BS = 4/3 √8\n• RS = (4/3 √8 − √8 =) ⅓√8\n• De oppervlakte van vierhoek AORS is ((1 + 4/3)/2) · ⅓√8 = 7/18 √8 (of een gelijkwaardige uitdrukking)\nof\n• De verdeling van vierhoek AORS in driehoek AOQ en rechthoek QORS, met Q de loodrechte projectie van O op AS\n• Uit de gelijkvormigheid van driehoek BRO en driehoek OQA (want ∠BRO = ∠OQA en ∠OBR = ∠AOQ) (en OB = 3 en AO = 1) volgt dat de zijden van driehoek OQA ⅓ keer zo lang zijn als de zijden van driehoek BRO\n• Dus AQ = ⅓\n• Uit de stelling van Pythagoras in driehoek OQA volgt OQ = √(8/9)\n• De oppervlakte van vierhoek AORS is ½ · ⅓ · √(8/9) + 1 · √(8/9) = 7/6 √(8/9) (of een gelijkwaardige uitdrukking)\nof\n• Uit de stelling van Pythagoras in driehoek BRO volgt BR = √8\n• sin(∠OBR) = ⅓ en cos(∠OBR) = ⅓√8\n• AS = 4 · sin(∠OBR) = 4/3 en BS = 4 · cos(∠OBR) = 4/3 √8\n• RS = (4/3 √8 − √8 =) ⅓√8\n• De oppervlakte van vierhoek AORS is ((1 + 4/3)/2) · ⅓√8 = 7/18 √8 (of een gelijkwaardige uitdrukking)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit de gelijkvormigheid van driehoek BRO en driehoek BSA (want ∠BRO = ∠BSA en ∠OBR = ∠ABS) (en AB = 4 en OB = 3) volgt dat de zijden van driehoek BSA 4/3 keer zo lang zijn als de zijden van driehoek BRO"
+     },
+     {
+      "points": 1,
+      "description": "Uit de stelling van Pythagoras in driehoek BRO volgt BR = √8"
+     },
+     {
+      "points": 1,
+      "description": "De oppervlakte van driehoek BRO is ½ · 1 · √8 (= ½√8)"
+     },
+     {
+      "points": 1,
+      "description": "De oppervlakte van driehoek BSA is (4/3)² · ½√8"
+     },
+     {
+      "points": 1,
+      "description": "De oppervlakte van vierhoek AORS is (4/3)² · ½√8 − ½√8 = 7/18 √8 (of een gelijkwaardige uitdrukking)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-halve-cirkel-antw12.png"
+    ]
+   },
+   {
+    "title": "Top, asymptoot en geen perforatie",
+    "question_number": 13,
+    "answer_text": "• (Als er een perforatie is, dan moet in dit geval gelden:) teller en noemer moeten (voor dezelfde waarde van x) gelijk zijn aan nul\n• De noemer is nul als x² = −a\n• De teller is dan −a² − 2\n• Een berekening of redenering waaruit volgt dat de vergelijking −a² − 2 = 0 geen oplossingen heeft; dus voor geen waarde van a is er een perforatie\nof\n• (Als er een perforatie is, dan moet in dit geval gelden:) teller en noemer moeten (voor dezelfde waarde van x) gelijk zijn aan nul\n• De teller is nul als x² = 2/a (a = 0 voldoet niet)\n• De noemer is nul als x² = −a\n• Een berekening of redenering waaruit volgt dat de vergelijking 2/a = −a geen oplossingen heeft; dus voor geen waarde van a is er een perforatie\nof\n• (Als er een perforatie is, dan moet in dit geval gelden:) teller en noemer moeten (voor dezelfde waarde van x) gelijk zijn aan nul\n• De teller is nul als x² = 2/a (a = 0 voldoet niet)\n• De noemer is dan 2/a + a\n• Een berekening of redenering waaruit volgt dat de vergelijking 2/a + a = 0 geen oplossingen heeft; dus voor geen waarde van a is er een perforatie\nof\n• (Als er een perforatie is, dan moet in dit geval gelden:) teller en noemer moeten (voor dezelfde waarde van x) gelijk zijn aan nul\n• Een berekening of beredenering waaruit volgt: als a < 0 dan kan de teller niet nul zijn\n• Een berekening of beredenering waaruit volgt: als a > 0 dan kan de noemer niet nul zijn\n• Voor a = 0 is de teller (gelijk aan −2, dus) ongelijk aan nul; dus voor geen waarde van a is er een perforatie",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Als er een perforatie is, dan moet in dit geval gelden:) teller en noemer moeten (voor dezelfde waarde van x) gelijk zijn aan nul"
+     },
+     {
+      "points": 1,
+      "description": "De noemer is nul als x² = −a"
+     },
+     {
+      "points": 1,
+      "description": "De teller is dan −a² − 2"
+     },
+     {
+      "points": 1,
+      "description": "Een berekening of redenering waaruit volgt dat de vergelijking −a² − 2 = 0 geen oplossingen heeft; dus voor geen waarde van a is er een perforatie"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-top-asymptoot-en-geen-perforatie-antw13.png"
+    ]
+   },
+   {
+    "title": "Top, asymptoot en geen perforatie",
+    "question_number": 14,
+    "answer_text": "• y_T = (f_a(0) =) −2/a\n• lim_{x→∞} (ax² − 2)/(x² + a) = lim_{x→∞} (a − 2/x²)/(1 + a/x²)\n• (lim_{x→∞} 2/x² = 0 en lim_{x→∞} a/x² = 0, dus) de limiet is gelijk aan a, dus de horizontale asymptoot is de lijn met vergelijking y = a (of: y_S = a)\n• (a > 0 en −2/a < 0, dus) ST = a − −2/a (of ST = a + 2/a)\n• De afgeleide hiervan is 1 − 2/a²\n• 1 − 2/a² = 0 geeft a² = 2, dus a = √2 (a = −√2 voldoet niet)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "y_T = (f_a(0) =) −2/a"
+     },
+     {
+      "points": 1,
+      "description": "lim_{x→∞} (ax² − 2)/(x² + a) = lim_{x→∞} (a − 2/x²)/(1 + a/x²)"
+     },
+     {
+      "points": 1,
+      "description": "(lim_{x→∞} 2/x² = 0 en lim_{x→∞} a/x² = 0, dus) de limiet is gelijk aan a, dus de horizontale asymptoot is de lijn met vergelijking y = a (of: y_S = a)"
+     },
+     {
+      "points": 1,
+      "description": "(a > 0 en −2/a < 0, dus) ST = a − −2/a (of ST = a + 2/a)"
+     },
+     {
+      "points": 1,
+      "description": "De afgeleide hiervan is 1 − 2/a²"
+     },
+     {
+      "points": 1,
+      "description": "1 − 2/a² = 0 geeft a² = 2, dus a = √2 (a = −√2 voldoet niet)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-top-asymptoot-en-geen-perforatie-antw14.png"
+    ]
+   },
+   {
+    "title": "Vereenvoudigde sterrenkunde",
+    "question_number": 15,
+    "answer_text": "• 10 = 0,4 + 0,3 · 2ⁿ⁻² geeft 2ⁿ⁻² = 32\n• Hieruit volgt n − 2 = 5, dus n = 7",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "10 = 0,4 + 0,3 · 2ⁿ⁻² geeft 2ⁿ⁻² = 32"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt n − 2 = 5, dus n = 7"
+     }
+    ],
+    "grading_note": "Als door systematisch zoeken de juiste waarde van n wordt gevonden, dan mogen voor deze vraag 2 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-vereenvoudigde-sterrenkunde-antw15.png"
+    ]
+   },
+   {
+    "title": "Vereenvoudigde sterrenkunde",
+    "question_number": 16,
+    "answer_text": "• De cosinusregel in driehoek ZAV geeft 1,0² = 0,7² + d² − 2 · 0,7 · d · cos(α)\n• De cosinusregel in driehoek ZVM geeft 1,6² = 0,7² + d² − 2 · 0,7 · d · cos(180° − α)\n• Herleiden van deze twee vergelijkingen geeft respectievelijk 1,4d · cos(α) = d² − 0,51 en 1,4d · cos(180° − α) = d² − 2,07, dus geldt (1,4d =) (d² − 0,51)/cos(α) = (d² − 2,07)/cos(180° − α)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De cosinusregel in driehoek ZAV geeft 1,0² = 0,7² + d² − 2 · 0,7 · d · cos(α)"
+     },
+     {
+      "points": 1,
+      "description": "De cosinusregel in driehoek ZVM geeft 1,6² = 0,7² + d² − 2 · 0,7 · d · cos(180° − α)"
+     },
+     {
+      "points": 1,
+      "description": "Herleiden van deze twee vergelijkingen geeft respectievelijk 1,4d · cos(α) = d² − 0,51 en 1,4d · cos(180° − α) = d² − 2,07, dus geldt (1,4d =) (d² − 0,51)/cos(α) = (d² − 2,07)/cos(180° − α)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-vereenvoudigde-sterrenkunde-antw16.png"
+    ]
+   },
+   {
+    "title": "Vereenvoudigde sterrenkunde",
+    "question_number": 17,
+    "answer_text": "• cos(180° − α) = −cos(α), dus de vergelijking d² − 0,51 = −d² + 2,07 moet worden opgelost\n• Hieruit volgt d² = 1,29\n• (Dit geeft d = 1,135 …, dus) het eindantwoord is d = 1,14 (AE)\nof\n• De cosinusregel in driehoek ABZ, met B een hoekpunt van het parallellogram ABMZ, geeft: 1,6² = 1,0² + 1,4² − 2 · 1,0 · 1,4 · cos(∠AZB); hieruit volgt cos(∠AZB) = (1,6² − 1,0² − 1,4²)/(−2 · 1,0 · 1,4) = 0,1428 …\n• De cosinusregel in driehoek AVZ geeft d² = 1,0² + 0,7² − 2 · 1,0 · 0,7 · 0,1428 … = 1,29\n• (Dit geeft d = 1,135 …, dus) het eindantwoord is d = 1,14 (AE)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "cos(180° − α) = −cos(α), dus de vergelijking d² − 0,51 = −d² + 2,07 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt d² = 1,29"
+     },
+     {
+      "points": 1,
+      "description": "(Dit geeft d = 1,135 …, dus) het eindantwoord is d = 1,14 (AE)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-vereenvoudigde-sterrenkunde-antw17.png"
+    ]
+   },
+   {
+    "title": "Vereenvoudigde sterrenkunde",
+    "question_number": 18,
+    "answer_text": "• Het gebruiken van coördinaten voor de zon en Jupiter, zoals Z(0,0) en J(8 · 10⁸, 0)\n• Voor het zwaartepunt P geldt OP→ = (2 · 10³⁰)/(2 · 10³⁰ + 2 · 10²⁷) · (0, 0) + (2 · 10²⁷)/(2 · 10³⁰ + 2 · 10²⁷) · (8 · 10⁸, 0) (of OP→ = (2 · 10²⁷)/(2 · 10³⁰ + 2 · 10²⁷) · (8 · 10⁸, 0))\n• Hieruit volgt P((2 · 10²⁷ · 8 · 10⁸)/(2 · 10³⁰ + 2 · 10²⁷), 0) (of x_P = (2 · 10²⁷ · 8 · 10⁸)/(2 · 10³⁰ + 2 · 10²⁷))\n• De straal van de baan is 8 · 10⁵ (of 800000) (km)\nof\n• De straal van de grote cirkel is 8 · 10⁸ − r (met r de gevraagde straal)\n• Er moet gelden r · 2 · 10³⁰ = (8 · 10⁸ − r) · 2 · 10²⁷\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• De straal van de baan is 8 · 10⁵ (of 800000) (km)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het gebruiken van coördinaten voor de zon en Jupiter, zoals Z(0,0) en J(8 · 10⁸, 0)"
+     },
+     {
+      "points": 1,
+      "description": "Voor het zwaartepunt P geldt OP→ = (2 · 10³⁰)/(2 · 10³⁰ + 2 · 10²⁷) · (0, 0) + (2 · 10²⁷)/(2 · 10³⁰ + 2 · 10²⁷) · (8 · 10⁸, 0) (of OP→ = (2 · 10²⁷)/(2 · 10³⁰ + 2 · 10²⁷) · (8 · 10⁸, 0))"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt P((2 · 10²⁷ · 8 · 10⁸)/(2 · 10³⁰ + 2 · 10²⁷), 0) (of x_P = (2 · 10²⁷ · 8 · 10⁸)/(2 · 10³⁰ + 2 · 10²⁷))"
+     },
+     {
+      "points": 1,
+      "description": "De straal van de baan is 8 · 10⁵ (of 800000) (km)"
+     }
+    ],
+    "grading_note": "Als gewerkt is volgens het eerste antwoordalternatief, mag in het tweede antwoordelement het onderste kental in de vectoren buiten de beoordeling gehouden worden.",
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-i-vereenvoudigde-sterrenkunde-antw18.png"
+    ]
+   }
+  ]
+ }
+}

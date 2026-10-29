@@ -1,0 +1,492 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "source": "VWO Wiskunde B 2024-II",
+  "answers": [
+   {
+    "title": "Twee functies",
+    "question_number": 1,
+    "answer_text": "• p = x√x geeft de vergelijking 72 − p² = p\n• Een exacte berekening waaruit volgt p = −9 of p = 8\n• Hieruit volgt x = 4 (p = −9 voldoet niet)\n• Dus de coördinaten van S zijn (4,8)\nof\n• De vergelijking 72 − x³ = x√x herschrijven tot x³ + x√x − 72 = 0\n• Een exacte berekening waaruit volgt x√x = 8 of x√x = −9\n• Hieruit volgt x = 4 (x√x = −9 geeft geen oplossingen)\n• Dus de coördinaten van S zijn (4,8)\nof\n• De vergelijking 72 − x³ = x√x herleiden tot x⁶ − 145x³ + 5184 = 0\n• Een exacte berekening waaruit volgt x³ = 64 of x³ = 81\n• Hieruit volgt x = 4 (x³ = 81 voldoet niet)\n• Dus de coördinaten van S zijn (4,8)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "p = x√x geeft de vergelijking 72 − p² = p"
+     },
+     {
+      "points": 1,
+      "description": "Een exacte berekening waaruit volgt p = −9 of p = 8"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt x = 4 (p = −9 voldoet niet)"
+     },
+     {
+      "points": 1,
+      "description": "Dus de coördinaten van S zijn (4,8)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-twee-functies-antw1.png"
+    ]
+   },
+   {
+    "title": "Twee functies",
+    "question_number": 2,
+    "answer_text": "• f′(x) = −3x²\n• −3x² = −12 geeft x = 2 (x = −2 voldoet niet)\n• De integraal ∫₀² (−12x + 88 − (72 − x³)) dx moet worden berekend\n• Een primitieve van x³ − 12x + 16 is ¼x⁴ − 6x² + 16x\n• Invullen van de grenzen geeft oppervlakte 12",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f′(x) = −3x²"
+     },
+     {
+      "points": 1,
+      "description": "−3x² = −12 geeft x = 2 (x = −2 voldoet niet)"
+     },
+     {
+      "points": 1,
+      "description": "De integraal ∫₀² (−12x + 88 − (72 − x³)) dx moet worden berekend"
+     },
+     {
+      "points": 1,
+      "description": "Een primitieve van x³ − 12x + 16 is ¼x⁴ − 6x² + 16x"
+     },
+     {
+      "points": 1,
+      "description": "Invullen van de grenzen geeft oppervlakte 12"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-twee-functies-antw2.png"
+    ]
+   },
+   {
+    "title": "Cobb-Douglas-productiefunctie",
+    "question_number": 3,
+    "answer_text": "• 50000L + 20000K = 1000000 herleiden tot K = 50 − 2,5L\n• Substitutie geeft Y = 40 · L^(0,7) · (50 − 2,5L)^(0,3)\nof\n• Het aantal machines bij 0 voltijdbanen is 1000000/20000 = 50 en voor elke voltijdbaan kunnen 50000/20000 = 2,5 machines minder worden besteld, dus het aantal machines is K = 50 − 2,5L\n• Substitutie geeft Y = 40 · L^(0,7) · (50 − 2,5L)^(0,3)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "50000L + 20000K = 1000000 herleiden tot K = 50 − 2,5L"
+     },
+     {
+      "points": 1,
+      "description": "Substitutie geeft Y = 40 · L^(0,7) · (50 − 2,5L)^(0,3)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-cobb-douglas-productiefunctie-antw3.png"
+    ]
+   },
+   {
+    "title": "Cobb-Douglas-productiefunctie",
+    "question_number": 4,
+    "answer_text": "• dY/dL = 28 · L^(−0,3) · (50 − 2,5L)^(0,3) − 30 · L^(0,7) · (50 − 2,5L)^(−0,7)\n• dY/dL = 0 als 28 · (50 − 2,5L)^(0,3) / L^(0,3) = 30L^(0,7) / (50 − 2,5L)^(0,7)\n• Hieruit volgt 28 · (50 − 2,5L) = 30L\n• Dit geeft L = 14 (dus het gevraagde aantal voltijdbanen is 14)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "dY/dL = 28 · L^(−0,3) · (50 − 2,5L)^(0,3) − 30 · L^(0,7) · (50 − 2,5L)^(−0,7)"
+     },
+     {
+      "points": 1,
+      "description": "dY/dL = 0 als 28 · (50 − 2,5L)^(0,3) / L^(0,3) = 30L^(0,7) / (50 − 2,5L)^(0,7)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt 28 · (50 − 2,5L) = 30L"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft L = 14 (dus het gevraagde aantal voltijdbanen is 14)"
+     }
+    ],
+    "grading_note": "Als in het eerste antwoordelement de productregel en/of de kettingregel niet is gebruikt, mogen voor dit antwoordelement geen scorepunten worden toegekend. Als de productregel en/of de kettingregel wel is gebruikt, maar niet correct, mag voor dit antwoordelement hoogstens 1 scorepunt worden toegekend op basis van vakspecifieke regel 1.",
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-cobb-douglas-productiefunctie-antw4.png"
+    ]
+   },
+   {
+    "title": "Cobb-Douglas-productiefunctie",
+    "question_number": 5,
+    "answer_text": "• Er moet bewezen worden dat gY = A · (gL)^α · (gK)^β\n• (β = 1 − α dus) (gL)^α · (gK)^(1−α) = g^α · L^α · g^(1−α) · K^(1−α)\n• Dit herschrijven tot g · L^α · K^(1−α) = g · L^α · K^β\n• Dus A · (gL)^α · (gK)^β = A · g · L^α · K^β = gY\nof\n• Er moet bewezen worden dat gY = A · (gL)^α · (gK)^β\n• A · (gL)^α · (gK)^β = A · g^α · L^α · g^β · K^β\n• A · g^α · L^α · g^β · K^β = g^(α+β) · A · L^α · K^β\n• Dan volgt (omdat α + β = 1) g^(α+β) · A · L^α · K^β = g · A · L^α · K^β = gY",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er moet bewezen worden dat gY = A · (gL)^α · (gK)^β"
+     },
+     {
+      "points": 1,
+      "description": "(β = 1 − α dus) (gL)^α · (gK)^(1−α) = g^α · L^α · g^(1−α) · K^(1−α)"
+     },
+     {
+      "points": 1,
+      "description": "Dit herschrijven tot g · L^α · K^(1−α) = g · L^α · K^β"
+     },
+     {
+      "points": 1,
+      "description": "Dus A · (gL)^α · (gK)^β = A · g · L^α · K^β = gY"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-cobb-douglas-productiefunctie-antw5.png"
+    ]
+   },
+   {
+    "title": "Loodrecht op de snelheidsvector",
+    "question_number": 6,
+    "answer_text": "• AP = √((sin(t))² + (½√2 − cos(t − ¼π))²)\n• Beschrijven hoe het maximum van AP kan worden berekend\n• De maximale afstand is gelijk aan 1,88",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "AP = √((sin(t))² + (½√2 − cos(t − ¼π))²)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe het maximum van AP kan worden berekend"
+     },
+     {
+      "points": 1,
+      "description": "De maximale afstand is gelijk aan 1,88"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-loodrecht-op-de-snelheidsvector-antw6.png"
+    ]
+   },
+   {
+    "title": "Loodrecht op de snelheidsvector",
+    "question_number": 7,
+    "answer_text": "• x′(t) = cos(t)\n• y′(t) = −sin(t − ¼π)\n• Uit OP→ ⊥ v→ volgt sin(t) · cos(t) − cos(t − ¼π) · sin(t − ¼π) = 0\n• Dit herleiden tot sin(2t) = sin(2t − ½π)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "x′(t) = cos(t)"
+     },
+     {
+      "points": 1,
+      "description": "y′(t) = −sin(t − ¼π)"
+     },
+     {
+      "points": 1,
+      "description": "Uit OP→ ⊥ v→ volgt sin(t) · cos(t) − cos(t − ¼π) · sin(t − ¼π) = 0"
+     },
+     {
+      "points": 1,
+      "description": "Dit herleiden tot sin(2t) = sin(2t − ½π)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-loodrecht-op-de-snelheidsvector-antw7.png"
+    ]
+   },
+   {
+    "title": "Loodrecht op de snelheidsvector",
+    "question_number": 8,
+    "answer_text": "• sin(2t) = sin(2t − ½π) geeft 2t = π − 2t + ½π + k · 2π (2t = 2t − ½π + k · 2π geeft geen oplossing)\n• Dit geeft 4t = 1½π + k · 2π\n• Dit geeft voor t de waarden 3/8 π, 7/8 π, 11/8 π en 15/8 π",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "sin(2t) = sin(2t − ½π) geeft 2t = π − 2t + ½π + k · 2π (2t = 2t − ½π + k · 2π geeft geen oplossing)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft 4t = 1½π + k · 2π"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft voor t de waarden 3/8 π, 7/8 π, 11/8 π en 15/8 π"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-loodrecht-op-de-snelheidsvector-antw8.png"
+    ]
+   },
+   {
+    "title": "Passende parabool",
+    "question_number": 9,
+    "answer_text": "• f(0) = 2 geeft c = 2\n• f′(x) = 2ax + b\n• De richtingscoëfficiënt van de raaklijn is −√3\n• f′(0) = −√3 geeft b = −√3 (dus f(x) = ax² − √3 · x + 2)\n• De grafiek van f raakt de x-as dus D = 3 − 8a = 0\n• Hieruit volgt a = ⅜ (dus f(x) = ⅜x² − √3 · x + 2)\nof\n• f(0) = 2 geeft c = 2\n• f′(x) = 2ax + b\n• De richtingscoëfficiënt van de raaklijn is −√3\n• f′(0) = −√3 geeft b = −√3 (dus f(x) = ax² − √3 · x + 2)\n• Voor de top van de grafiek van f geldt x = √3/(2a) en uit f(√3/(2a)) = 0 volgt 3/(4a) − 3/(2a) + 2 = 0\n• Hieruit volgt a = ⅜ (dus f(x) = ⅜x² − √3 · x + 2)\nof\n• Een vergelijking van een parabool is y = a(x − p)², dus dy/dx = 2a(x − p)\n• De richtingscoëfficiënt van de raaklijn is −√3\n• ((0,2) ligt op de parabool, dus) 2 = a(0 − p)² en dus 2 = ap²\n• In (0,2) geldt dy/dx = −√3 dus 2a(0 − p) = −√3 en dus 2ap = √3\n• Een exacte berekening waaruit volgt dat p = 4/√3 en a = ⅜\n• y = ⅜(x − 4/√3)² herleiden tot f(x) = ⅜x² − √3 · x + 2 (en dus b = √3 en c = 2)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f(0) = 2 geeft c = 2"
+     },
+     {
+      "points": 1,
+      "description": "f′(x) = 2ax + b"
+     },
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt van de raaklijn is −√3"
+     },
+     {
+      "points": 1,
+      "description": "f′(0) = −√3 geeft b = −√3 (dus f(x) = ax² − √3 · x + 2)"
+     },
+     {
+      "points": 1,
+      "description": "De grafiek van f raakt de x-as dus D = 3 − 8a = 0"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt a = ⅜ (dus f(x) = ⅜x² − √3 · x + 2)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-passende-parabool-antw9.png"
+    ]
+   },
+   {
+    "title": "Lijnenparen",
+    "question_number": 10,
+    "answer_text": "• (m gaat door P en S, dus) de richtingscoëfficiënt van m is (4 − ax)/(10 − x)\n• Uit (4 − ax)/(10 − x) = −a volgt 2ax = 10a + 4\n• Hieruit volgt a = 2/(x − 5)\n• y = ax geeft y = 2x/(x − 5)\nof\n• (m gaat door P en S, dus) de richtingscoëfficiënt van m is (4 − ax)/(10 − x)\n• Uit (4 − ax)/(10 − x) = −a volgt 2ax = 10a + 4\n• Hieruit volgt x = 5 + 2/a en y = 5a + 2\n• Dit invullen in y = 2x/(x − 5) geeft y = 2 · (5 + 2/a)/(5 + 2/a − 5) = (10a + 4)/2 = 5a + 2 (en dat is de y-coördinaat van S, dus S ligt op de grafiek van f)\nof\n• Een vergelijking van lijn m is y = −a(x − 10) + 4\n• a = y/x invullen geeft y − 4 = −(y/x)(x − 10)\n• Hieruit volgt 2xy − 10y = 4x\n• Een herleiding waaruit volgt dat y = 2x/(x − 5)\nof\n• Een vergelijking van lijn m is y = −a(x − 10) + 4\n• 2x/(x − 5) = ax geeft ax² − 5ax − 2x = 0\n• Hieruit volgt x = (5a + 2)/a (x = 0 voldoet niet) en y = 5a + 2\n• Dit invullen in y = −a(x − 10) + 4 geeft y = −a(2/a − 5) + 4 = 2 + 5a (en dus liggen het snijpunt van k en de grafiek van f op lijn m)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(m gaat door P en S, dus) de richtingscoëfficiënt van m is (4 − ax)/(10 − x)"
+     },
+     {
+      "points": 1,
+      "description": "Uit (4 − ax)/(10 − x) = −a volgt 2ax = 10a + 4"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt a = 2/(x − 5)"
+     },
+     {
+      "points": 1,
+      "description": "y = ax geeft y = 2x/(x − 5)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-lijnenparen-antw10.png"
+    ]
+   },
+   {
+    "title": "Lijnenparen",
+    "question_number": 11,
+    "answer_text": "• De afgeleide van y = 2x/(x − 5) is dy/dx = (2(x − 5) − 1(2x))/(x − 5)²\n• Dit herleiden tot −10/(x − 5)²\n• Voor elke waarde van x is −10/(x − 5)² < 0 (dus daalt de grafiek van f)\nof\n• y = 2x/(x − 5) herschrijven tot y = 2 + 10/(x − 5)\n• Als x toeneemt, neemt x − 5 toe en dus neemt 10/(x − 5) af\n• De waarde van y neemt dus af (dus daalt de grafiek van f)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De afgeleide van y = 2x/(x − 5) is dy/dx = (2(x − 5) − 1(2x))/(x − 5)²"
+     },
+     {
+      "points": 1,
+      "description": "Dit herleiden tot −10/(x − 5)²"
+     },
+     {
+      "points": 1,
+      "description": "Voor elke waarde van x is −10/(x − 5)² < 0 (dus daalt de grafiek van f)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-lijnenparen-antw11.png"
+    ]
+   },
+   {
+    "title": "Lijnenparen",
+    "question_number": 12,
+    "answer_text": "• MO = MP = MS = r\n• MP = √((10 − r)² + 4²)\n• r = √((10 − r)² + 4²) geeft r = 5,8\n• MS = 5,8 met S(x, 2x/(x − 5)) geeft (x − 5,8)² + (2x/(x − 5))² = 5,8²\n• Dit geeft x = 7,95 … (x = 0, x = 3,64 … en x = 10 voldoen niet)\n• De gevraagde waarde van a is 0,68\nof\n• De middelloodlijn van lijnstuk OP gaat door (5,2) en heeft richtingscoëfficiënt −5/2, dus een vergelijking is y = −5/2 (x − 5) + 2\n• M is het snijpunt van de x-as met de middelloodlijn met vergelijking y = −5/2 (x − 5) + 2\n• Dit geeft M(5⅘, 0) dus r = 5,8\n• S(x, 2x/(x − 5)) invullen in de vergelijking van c geeft (x − 5,8)² + (2x/(x − 5))² = 5,8²\n• Dit geeft x = 7,95 … (x = 0, x = 3,64 … en x = 10 voldoen niet)\n• De gevraagde waarde van a is 0,68\nof\n• Voor c geldt: (x − r)² + y² = r²\n• P ligt op c, dus (10 − r)² + 4² = r²\n• Hieruit volgt r = 5,8, dus een vergelijking van c is (x − 5,8)² + y² = 5,8²\n• S(x, 2x/(x − 5)) invullen in de vergelijking van c geeft (x − 5,8)² + (2x/(x − 5))² = 5,8²\n• Dit geeft x = 7,95 … (x = 0, x = 3,64 … en x = 10 voldoen niet)\n• De gevraagde waarde van a is 0,68",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "MO = MP = MS = r"
+     },
+     {
+      "points": 1,
+      "description": "MP = √((10 − r)² + 4²)"
+     },
+     {
+      "points": 1,
+      "description": "r = √((10 − r)² + 4²) geeft r = 5,8"
+     },
+     {
+      "points": 1,
+      "description": "MS = 5,8 met S(x, 2x/(x − 5)) geeft (x − 5,8)² + (2x/(x − 5))² = 5,8²"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x = 7,95 … (x = 0, x = 3,64 … en x = 10 voldoen niet)"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde waarde van a is 0,68"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-lijnenparen-antw12.png"
+    ]
+   },
+   {
+    "title": "Absolute logaritme",
+    "question_number": 13,
+    "answer_text": "• Uit ²log(x² − 18x + 69) = 2 volgt x² − 18x + 65 = 0\n• Een exacte berekening waaruit volgt x = 5 of x = 13\n• Uit ²log(x² − 18x + 69) = −2 volgt x² − 18x + 68¾ = 0\n• Een exacte berekening waaruit volgt x = 5½ of x = 12½",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit ²log(x² − 18x + 69) = 2 volgt x² − 18x + 65 = 0"
+     },
+     {
+      "points": 1,
+      "description": "Een exacte berekening waaruit volgt x = 5 of x = 13"
+     },
+     {
+      "points": 1,
+      "description": "Uit ²log(x² − 18x + 69) = −2 volgt x² − 18x + 68¾ = 0"
+     },
+     {
+      "points": 1,
+      "description": "Een exacte berekening waaruit volgt x = 5½ of x = 12½"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-absolute-logaritme-antw13.png"
+    ]
+   },
+   {
+    "title": "Absolute logaritme",
+    "question_number": 14,
+    "answer_text": "• De grafiek van fₐ heeft twee verticale asymptoten bij de waarden van x waarvoor geldt x² − ax + 69 = 0\n• De oplossingen hiervan zijn x = (a + √(a² − 276))/2 en x = (a − √(a² − 276))/2\n• Het verschil tussen deze oplossingen is 20 als √(a² − 276)/2 = 10\n• Een exacte berekening waaruit volgt a = 26 (a = −26 voldoet niet)\nof\n• De grafiek van fₐ heeft twee verticale asymptoten bij x = p en x = p + 20 als x² − ax + 69 = (x − p)(x − p − 20)\n• De constante termen in deze vergelijking zijn gelijk als p² + 20p − 69 = 0\n• De oplossing van deze vergelijking is p = 3 (p = −23 voldoet niet)\n• Een exacte berekening waaruit volgt a = (2p + 20 =) 26\nof\n• De grafiek van fₐ heeft twee verticale asymptoten bij x = p en x = p + 20 als {p² − ap + 69 = 0 ; (p + 20)² − a(p + 20) + 69 = 0}\n• Hieruit volgt a = 2p + 20\n• Invullen in een van beide vergelijkingen geeft p² + 20p − 69 = 0\n• Een exacte berekening waaruit volgt p = 3 (p = −23 voldoet niet) en dus a = (2p + 20 =) 26",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De grafiek van fₐ heeft twee verticale asymptoten bij de waarden van x waarvoor geldt x² − ax + 69 = 0"
+     },
+     {
+      "points": 1,
+      "description": "De oplossingen hiervan zijn x = (a + √(a² − 276))/2 en x = (a − √(a² − 276))/2"
+     },
+     {
+      "points": 1,
+      "description": "Het verschil tussen deze oplossingen is 20 als √(a² − 276)/2 = 10"
+     },
+     {
+      "points": 1,
+      "description": "Een exacte berekening waaruit volgt a = 26 (a = −26 voldoet niet)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-absolute-logaritme-antw14.png"
+    ]
+   },
+   {
+    "title": "Lijnstukken bij een exponentiële functie",
+    "question_number": 15,
+    "answer_text": "• Voor de x-coördinaat van het raakpunt geldt eᵃˣ = e, dus x = 1/a\n• fₐ′(x) = a · eᵃˣ\n• De helling van de raaklijn is fₐ′(1/a) = a · e^(a · 1/a) = ae\n• Een mogelijke vergelijking van de raaklijn is y = ae · x + b; deze gaat door (1/a, e) dus e = ae · 1/a + b\n• Dan volgt b = 0, dus de lijn gaat voor elke waarde van a door de oorsprong\nof\n• fₐ′(x) = a · eᵃˣ\n• De x-coördinaat van het raakpunt van de raaklijn door de oorsprong is oplossing van de vergelijking a · eᵃˣ = eᵃˣ/x\n• Hieruit volgt x = 1/a\n• fₐ(1/a) = e^(a · 1/a) = e\n• Dus de lijn door de oorsprong die raakt aan de grafiek, gaat door het (raak)punt met y-coördinaat e",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor de x-coördinaat van het raakpunt geldt eᵃˣ = e, dus x = 1/a"
+     },
+     {
+      "points": 1,
+      "description": "fₐ′(x) = a · eᵃˣ"
+     },
+     {
+      "points": 1,
+      "description": "De helling van de raaklijn is fₐ′(1/a) = a · e^(a · 1/a) = ae"
+     },
+     {
+      "points": 1,
+      "description": "Een mogelijke vergelijking van de raaklijn is y = ae · x + b; deze gaat door (1/a, e) dus e = ae · 1/a + b"
+     },
+     {
+      "points": 1,
+      "description": "Dan volgt b = 0, dus de lijn gaat voor elke waarde van a door de oorsprong"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-lijnstukken-bij-een-exponentiele-functie-antw15.png"
+    ]
+   },
+   {
+    "title": "Lijnstukken bij een exponentiële functie",
+    "question_number": 16,
+    "answer_text": "• D(1,0), E(eᵃ, 1) en F(e²ᵃ, 2)\n• AD² = 2, BE² = 2(eᵃ − 1)² en CF² = 2(e²ᵃ − 2)²\n• Dus AD = √2, BE = √2(eᵃ − 1) en CF = √2(e²ᵃ − 2)\n• Uit AD + BE = CF volgt √2 + √2(eᵃ − 1) = √2(e²ᵃ − 2)\n• Herleiden tot e²ᵃ − eᵃ − 2 = 0\n• Dit geeft (eᵃ + 1)(eᵃ − 2) = 0\n• Dus a = ln(2) (eᵃ = −1 geeft geen oplossing)\nof\n• D(1,0), E(eᵃ, 1) en F(e²ᵃ, 2)\n• AD = √2 en BE is de schuine zijde van een 1 − 1 − √2-driehoek met rechthoekszijde eᵃ − 1, dus BE = √2(eᵃ − 1)\n• CF is de schuine zijde van een 1 − 1 − √2-driehoek met rechthoekszijde e²ᵃ − 2, dus CF = √2(e²ᵃ − 2)\n• Uit AD + BE = CF volgt √2 + √2(eᵃ − 1) = √2(e²ᵃ − 2)\n• Herleiden tot e²ᵃ − eᵃ − 2 = 0\n• Dit geeft (eᵃ + 1)(eᵃ − 2) = 0\n• Dus a = ln(2) (eᵃ = −1 geeft geen oplossing)\nof\n• D(1,0), E(eᵃ, 1) en F(e²ᵃ, 2)\n• BE = √((eᵃ − 1)² + (1 − eᵃ)²) = √(2e²ᵃ − 4eᵃ + 2)\n• CF = √((e²ᵃ − 2)² + (2 − e²ᵃ)²) = √(2e⁴ᵃ − 8e²ᵃ + 4)\n• Uit AD + BE = CF volgt √2 + √(e²ᵃ − 4eᵃ + 2) = √(2e⁴ᵃ − 8e²ᵃ + 4)\n• Dit geeft 2√(2e²ᵃ − 8eᵃ + 4) = 2e⁴ᵃ − 9e²ᵃ + 4eᵃ\n• Kwadrateren geeft 8e²ᵃ − 32eᵃ + 16 = (2e⁴ᵃ − 9e²ᵃ + 4eᵃ)²\n• Een exacte berekening waaruit volgt a = ln(2)\nof\n• Het inzicht dat het volstaat de afstanden van A, B en C tot de lijn l met vergelijking y = x te bekijken (ofwel dat geldt: d(A, l) + d(B, l) = d(C, l))\n• d(A, l) = |0 − 1|/√2, d(B, l) = |1 − eᵃ|/√2 en d(C, l) = |2 − e²ᵃ|/√2\n• Uit d(A, l) + d(B, l) = d(C, l) volgt 1 + |1 − eᵃ| = |2 − e²ᵃ|\n• Het inzicht dat de vergelijking 1 − 1 + eᵃ = −2 + e²ᵃ opgelost moet worden\n• Herleiden tot e²ᵃ − eᵃ − 2 = 0\n• Dit geeft (eᵃ + 1)(eᵃ − 2) = 0\n• Dus a = ln(2) (eᵃ = −1 geeft geen oplossing)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "D(1,0), E(eᵃ, 1) en F(e²ᵃ, 2)"
+     },
+     {
+      "points": 1,
+      "description": "AD² = 2, BE² = 2(eᵃ − 1)² en CF² = 2(e²ᵃ − 2)²"
+     },
+     {
+      "points": 1,
+      "description": "Dus AD = √2, BE = √2(eᵃ − 1) en CF = √2(e²ᵃ − 2)"
+     },
+     {
+      "points": 1,
+      "description": "Uit AD + BE = CF volgt √2 + √2(eᵃ − 1) = √2(e²ᵃ − 2)"
+     },
+     {
+      "points": 1,
+      "description": "Herleiden tot e²ᵃ − eᵃ − 2 = 0"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft (eᵃ + 1)(eᵃ − 2) = 0"
+     },
+     {
+      "points": 1,
+      "description": "Dus a = ln(2) (eᵃ = −1 geeft geen oplossing)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-lijnstukken-bij-een-exponentiele-functie-antw16.png"
+    ]
+   },
+   {
+    "title": "Een hoek van 45 graden",
+    "question_number": 17,
+    "answer_text": "• Voor de coördinaten van Q geldt: a² + b² = 125\n• cos ∠(OP→, OQ→) = (9a + 27b)/(9√10 · 5√5)\n• Hieruit volgt (9a + 27b)/(9√10 · 5√5) = ½√2\n• Herleiden tot a + 3b = 25\n• Het stelsel {a + 3b = 25 ; a² + b² = 125} geeft b² − 15b + 50 = 0 (of a² − 5a − 50 = 0)\n• De mogelijke coördinaten van Q zijn (−5,10) en (10,5)\nof\n• Voor de coördinaten van Q geldt: a² + b² = 125\n• Noem de mogelijke punten Q₁ en Q₂; als OQ₁→ = (a, b) dan OQ₂→ = (b, −a)\n• Q₁Q₂→ = (−a + b, −a − b)\n• (−a + b, −a − b) · (9, 27) = 0 geeft b = −2a\n• Het stelsel {b = −2a ; a² + b² = 125} geeft a² = 25\n• De mogelijke coördinaten van Q zijn (−5,10) en (10,5)\nof\n• tan(∠P) = 3 (met ∠P de hoek tussen OP→ en de positieve x-as) dus ∠P = 71,5 … (°)\n• De richtingscoëfficiënt van de lijn door O en Q (met Q in het eerste kwadrant) is tan(∠P − 45°) = 0,5\n• Dit geeft b = 2a (dus de coördinaten van Q zijn (a, 2a) met a > 0)\n• Dit combineren met |OQ→| = 5√5 geeft als eerste mogelijkheid (10,5)\n• Beide mogelijkheden voor OQ→ staan loodrecht op elkaar, dus de richtingscoëfficiënt voor de andere mogelijke lijn door O en Q is −2 (of: tan(∠P + 45°) = −2)\n• Dit combineren met |OQ→| = 5√5 geeft als tweede mogelijkheid (−5,10)\nof\n• P ligt op de lijn met vectorvoorstelling (a, b) = t · (1, 3)\n• S is de loodrechte projectie van Q op deze lijn, dan geldt (omdat OQS een gelijkbenige rechthoekige driehoek is en |OQ→| = 5√5) dat |OS→| = 2½√10 en dus geldt t = 2½\n• Dus OS→ = (2½, 7½) en OS_L→ = (−7½, 2½)\n• OQ→ = OS→ + OS_L→ = (−5, 10) (dus mogelijke coördinaten van Q zijn (−5,10))\n• OS_R→ = (7½, −2½)\n• OQ→ = OS→ + OS_R→ = (10, 5) (dus mogelijke coördinaten van Q zijn (10,5))\nof\n• De richtingsvector van de lijn door O en Q is (1, q) (voor zekere waarde van q)\n• cos(∠(OP→, OQ→)) = ((9, 27) · (1, q))/(√810 · √(1 + q²)) ofwel ½√2 = (9 + 27q)/(√810 · √(1 + q²))\n• Dit herleiden tot 2q² + 3q − 2 = 0\n• Dit geeft q = 0,5 (q = −2 voldoet niet)\n• De richtingsvector van de lijn door O en Q is (1, 0,5); dit combineren met |OQ→| = 5√5 geeft als eerste mogelijke coördinaten van Q(−5,10) (of (10,5))\n• De andere mogelijke coördinaten van Q zijn (10,5) (of (−5,10))",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor de coördinaten van Q geldt: a² + b² = 125"
+     },
+     {
+      "points": 1,
+      "description": "cos ∠(OP→, OQ→) = (9a + 27b)/(9√10 · 5√5)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt (9a + 27b)/(9√10 · 5√5) = ½√2"
+     },
+     {
+      "points": 1,
+      "description": "Herleiden tot a + 3b = 25"
+     },
+     {
+      "points": 1,
+      "description": "Het stelsel {a + 3b = 25 ; a² + b² = 125} geeft b² − 15b + 50 = 0 (of a² − 5a − 50 = 0)"
+     },
+     {
+      "points": 1,
+      "description": "De mogelijke coördinaten van Q zijn (−5,10) en (10,5)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2024-ii-een-hoek-van-45-graden-antw17.png"
+    ]
+   }
+  ]
+ }
+}
