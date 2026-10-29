@@ -1,0 +1,504 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "source": "VWO Wiskunde B 2023-II",
+  "answers": [
+   {
+    "title": "Gebroken functie",
+    "question_number": 1,
+    "answer_text": "• f′(x) = ((2x − 2)(x − 3) − (x² − 2x) · 1)/(x − 3)² (of een gelijkwaardige vorm)\n• f′(0) = ⅔ (en dit is de gevraagde richtingscoëfficiënt)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "f′(x) = ((2x − 2)(x − 3) − (x² − 2x) · 1)/(x − 3)² (of een gelijkwaardige vorm)"
+     },
+     {
+      "points": 1,
+      "description": "f′(0) = ⅔ (en dit is de gevraagde richtingscoëfficiënt)"
+     }
+    ],
+    "grading_note": "Als in het eerste antwoordelement de productregel, quotiëntregel of kettingregel is gebruikt, maar niet correct, mag voor dit antwoordelement maximaal 1 scorepunt worden toegekend op basis van vakspecifieke regel 1.",
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-gebroken-functie-antw1.png"
+    ]
+   },
+   {
+    "title": "Gebroken functie",
+    "question_number": 2,
+    "answer_text": "• f(x) = (x² − 2x)/(x − 3) = x + 1 + 3/(x − 3)\n• De scheve asymptoot heeft vergelijking y = x + 1 (want lim_{x→∞} 3/(x − 3) = 0)\n• De verticale asymptoot heeft vergelijking x = 3\n• Dus S(3,4)\n• Er geldt g(x) = ((x − 2)² − 2(x − 2))/(x − 2 − 3) + b\n• Uit g(3) = 4 volgt (½ + b = 4, dus) b = 3½\nof\n• f(x) = (x² − 2x)/(x − 3) = x + 1 + 3/(x − 3)\n• De scheve asymptoot heeft vergelijking y = x + 1 (want lim_{x→∞} 3/(x − 3) = 0)\n• De verticale asymptoot heeft vergelijking x = 3\n• Dus S(3,4)\n• Omdat (3,4) op de grafiek van g ligt, moet (1, 4 − b) op de grafiek van f liggen\n• Uit f(1) = 4 − b volgt (½ = 4 − b, dus) b = 3½",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f(x) = (x² − 2x)/(x − 3) = x + 1 + 3/(x − 3)"
+     },
+     {
+      "points": 1,
+      "description": "De scheve asymptoot heeft vergelijking y = x + 1 (want lim_{x→∞} 3/(x − 3) = 0)"
+     },
+     {
+      "points": 1,
+      "description": "De verticale asymptoot heeft vergelijking x = 3"
+     },
+     {
+      "points": 1,
+      "description": "Dus S(3,4)"
+     },
+     {
+      "points": 1,
+      "description": "Er geldt g(x) = ((x − 2)² − 2(x − 2))/(x − 2 − 3) + b"
+     },
+     {
+      "points": 1,
+      "description": "Uit g(3) = 4 volgt (½ + b = 4, dus) b = 3½"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-gebroken-functie-antw2.png"
+    ]
+   },
+   {
+    "title": "Sinus en cosinus getransformeerd",
+    "question_number": 3,
+    "answer_text": "• De vergelijking 2sin(x − ⅓π) = 1 moet worden opgelost (met 12π ≤ x ≤ 16π)\n• Dit geeft sin(x − ⅓π) = ½, dus x − ⅓π = ⅙π + k · 2π (met k geheel) of x − ⅓π = ⅚π + k · 2π (met k geheel)\n• x = ½π + k · 2π (met k geheel) of x = 1⅙π + k · 2π (met k geheel)\n• De gevraagde waarden zijn x = 12½π, x = 13⅙π, x = 14½π en x = 15⅙π",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 2sin(x − ⅓π) = 1 moet worden opgelost (met 12π ≤ x ≤ 16π)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft sin(x − ⅓π) = ½, dus x − ⅓π = ⅙π + k · 2π (met k geheel) of x − ⅓π = ⅚π + k · 2π (met k geheel)"
+     },
+     {
+      "points": 1,
+      "description": "x = ½π + k · 2π (met k geheel) of x = 1⅙π + k · 2π (met k geheel)"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde waarden zijn x = 12½π, x = 13⅙π, x = 14½π en x = 15⅙π"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-sinus-en-cosinus-getransformeerd-antw3.png"
+    ]
+   },
+   {
+    "title": "Sinus en cosinus getransformeerd",
+    "question_number": 4,
+    "answer_text": "• De vergelijking 2cos(a − ¾π) + 2 = −2sin(a − ⅓π) (of een gelijkwaardige vergelijking) moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Hieruit volgt het eindantwoord: a = 0,39 of a = 4,59",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 2cos(a − ¾π) + 2 = −2sin(a − ⅓π) (of een gelijkwaardige vergelijking) moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt het eindantwoord: a = 0,39 of a = 4,59"
+     }
+    ],
+    "grading_note": "Voor het eindantwoord 'x = 0,39 of x = 4,59' geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-sinus-en-cosinus-getransformeerd-antw4.png"
+    ]
+   },
+   {
+    "title": "Sinus en cosinus getransformeerd",
+    "question_number": 5,
+    "answer_text": "• Beschrijven hoe de extreme waarden van h(x) = f(x) + 3 · g(x) berekend kunnen worden\n• Dit geeft (het minimum) −1,948… en (het maximum) 13,948…\n• De amplitude van de grafiek van h is ((13,948… − −1,948…)/2 =) 7,948…\n• p = 7,948…/2, dus het eindantwoord is 3,97 (of: de amplitude van de grafiek van f is 2, dus het eindantwoord is 3,97)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de extreme waarden van h(x) = f(x) + 3 · g(x) berekend kunnen worden"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft (het minimum) −1,948… en (het maximum) 13,948…"
+     },
+     {
+      "points": 1,
+      "description": "De amplitude van de grafiek van h is ((13,948… − −1,948…)/2 =) 7,948…"
+     },
+     {
+      "points": 1,
+      "description": "p = 7,948…/2, dus het eindantwoord is 3,97 (of: de amplitude van de grafiek van f is 2, dus het eindantwoord is 3,97)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-sinus-en-cosinus-getransformeerd-antw5.png"
+    ]
+   },
+   {
+    "title": "Projectie op een lijn",
+    "question_number": 6,
+    "answer_text": "• Een vectorvoorstelling van de lijn door B en D is (x, y) = (2, 2) + s · (1, 3)\n• Het stelsel { 2 + s = 1 + 3t ; 2 + 3s = 9 − t } moet worden opgelost\n• Een exacte berekening waaruit volgt dat s = 2 (of t = 1)\n• Hieruit volgt D(4,8)\n• AB² = (2 − −2)² + (2 − −2)² = 32 (of door het gebruik van een 1 − 1 − √2-driehoek)\n• CD² = (1⅗ − 4)² + (8⅘ − 8)² = 160/25\n• Een exacte berekening waaruit volgt dat k = 5 (dus lijnstuk AB is √5 keer zo lang als lijnstuk CD)\nof\n• Een vergelijking van lijn l is x + 3y = 28\n• Een vergelijking van de lijn door B en D is y = 3x − 4\n• Substitutie geeft x + 3(3x − 4) = 28\n• Hieruit volgt x = 4 dus D(4,8)\n• AB = √((2 − −2)² + (2 − −2)²) = √32 (of door het gebruik van een 1 − 1 − √2-driehoek)\n• CD = √((1⅗ − 4)² + (8⅘ − 8)²) = √(160/25)\n• Een exacte berekening waaruit volgt dat k = 5 (dus lijnstuk AB is √5 keer zo lang als lijnstuk CD)\nof\n• Een vergelijking van de lijn door A en C is y = 3x + 4\n• Een vergelijking van de lijn door B loodrecht op AC is y = −⅓x + 2⅔\n• Voor de x-coördinaat van B′, met B′ de loodrechte projectie van B op AC, geldt 3x + 4 = −⅓x + 2⅔\n• Dit geeft x_B′ = −⅖ en dan y_B′ = 2⅘\n• BB′ = √((−⅖ − 2)² + (2⅘ − 2)²) = √(160/25)\n• AB = √((2 − −2)² + (2 − −2)²) = √32 (of door het gebruik van een 1 − 1 − √2-driehoek)\n• (BB′ = CD;) een exacte berekening waaruit volgt dat k = 5 (dus lijnstuk AB is √5 keer zo lang als lijnstuk CD)\nof\n• Een vergelijking van lijn l is x + 3y = 28\n• Een vergelijking van de lijn door A en B is y = x\n• Voor de x-coördinaat van S geldt x + 3x = 28; dit geeft x_S = 7 en dan y_S = 7\n• Driehoek ASC is gelijkvormig met driehoek BSD (omdat ∠SDB = ∠SCA en ∠BSD = ∠ASC)\n• Een beredenering op basis van deze gelijkvormigheid waaruit blijkt dat AB/CD = AS/CS\n• AS = √((7 − −2)² + (7 − −2)²) = √162 (of door het gebruik van een 1 − 1 − √2-driehoek) en CS = √((1⅗ − 7)² + (8⅘ − 7)²) = √(810/25)\n• Een exacte berekening waaruit volgt dat k = 5 (dus lijnstuk AB is √5 keer zo lang als lijnstuk CD)\nof\n• (BB′ = CD, dus) √k = AB/BB′, met B′ de loodrechte projectie van B op AC\n• 1/√k = BB′/AB\n• BB′/AB = cos(∠ABB′)\n• Een richtingsvector van AB is (1, 1) en van BB′ (3, −1)\n• Er geldt dus cos(∠ABB′) = ((3, −1) · (1, 1))/(√2 · √10)\n• Beschrijven hoe de vergelijking ((3, −1) · (1, 1))/(√2 · √10) = 1/√k exact kan worden opgelost\n• Dit geeft k = 5",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een vectorvoorstelling van de lijn door B en D is (x, y) = (2, 2) + s · (1, 3)"
+     },
+     {
+      "points": 1,
+      "description": "Het stelsel { 2 + s = 1 + 3t ; 2 + 3s = 9 − t } moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Een exacte berekening waaruit volgt dat s = 2 (of t = 1)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt D(4,8)"
+     },
+     {
+      "points": 1,
+      "description": "AB² = (2 − −2)² + (2 − −2)² = 32 (of door het gebruik van een 1 − 1 − √2-driehoek)"
+     },
+     {
+      "points": 1,
+      "description": "CD² = (1⅗ − 4)² + (8⅘ − 8)² = 160/25"
+     },
+     {
+      "points": 1,
+      "description": "Een exacte berekening waaruit volgt dat k = 5 (dus lijnstuk AB is √5 keer zo lang als lijnstuk CD)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-projectie-op-een-lijn-antw6.png"
+    ]
+   },
+   {
+    "title": "Twee e-machten",
+    "question_number": 7,
+    "answer_text": "• f(x) = g(x) geeft 3e⁻ˣ + eˣ − 4 = 0\n• Vermenigvuldigen met eˣ geeft e²ˣ − 4eˣ + 3 = 0\n• Substitutie van eˣ = p geeft p² − 4p + 3 = 0\n• Hieruit volgt p = 1 of p = 3, dus x = 0 of x = ln(3)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f(x) = g(x) geeft 3e⁻ˣ + eˣ − 4 = 0"
+     },
+     {
+      "points": 1,
+      "description": "Vermenigvuldigen met eˣ geeft e²ˣ − 4eˣ + 3 = 0"
+     },
+     {
+      "points": 1,
+      "description": "Substitutie van eˣ = p geeft p² − 4p + 3 = 0"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt p = 1 of p = 3, dus x = 0 of x = ln(3)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-twee-e-machten-antw7.png"
+    ]
+   },
+   {
+    "title": "Twee e-machten",
+    "question_number": 8,
+    "answer_text": "• De integraal ∫₀^ln(3) (4 − 3e⁻ˣ − eˣ) dx moet worden berekend\n• Een primitieve van 4 − 3e⁻ˣ − eˣ is 4x + 3e⁻ˣ − eˣ\n• Substitutie van x = ln(3) geeft 4ln(3) − 2\n• Substitutie van x = 0 geeft 2, dus de gevraagde oppervlakte is (4ln(3) − 2 − 2 =) 4ln(3) − 4",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De integraal ∫₀^ln(3) (4 − 3e⁻ˣ − eˣ) dx moet worden berekend"
+     },
+     {
+      "points": 1,
+      "description": "Een primitieve van 4 − 3e⁻ˣ − eˣ is 4x + 3e⁻ˣ − eˣ"
+     },
+     {
+      "points": 1,
+      "description": "Substitutie van x = ln(3) geeft 4ln(3) − 2"
+     },
+     {
+      "points": 1,
+      "description": "Substitutie van x = 0 geeft 2, dus de gevraagde oppervlakte is (4ln(3) − 2 − 2 =) 4ln(3) − 4"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-twee-e-machten-antw8.png"
+    ]
+   },
+   {
+    "title": "Twee e-machten",
+    "question_number": 9,
+    "answer_text": "• Uit g(x) = 0 (of f(x) = 0) volgt dat voor de x-coördinaat van de perforatie moet gelden: x = 0 (er geldt dan ook f(0) = 0 respectievelijk g(0) = 0)\n• h(x) = (eˣ − 1)/(3(1 − e⁻ˣ)) = eˣ(eˣ − 1)/(3(eˣ − 1)) (of h(x) = (eˣ − 1)/(3(1 − e⁻ˣ)) = eˣ(1 − e⁻ˣ)/(3(1 − e⁻ˣ)))\n• lim_{x→0} h(x) = lim_{x→0} eˣ/3 = ⅓ en dit is de y-coördinaat van de perforatie (dus de coördinaten van de perforatie zijn (0, ⅓))",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit g(x) = 0 (of f(x) = 0) volgt dat voor de x-coördinaat van de perforatie moet gelden: x = 0 (er geldt dan ook f(0) = 0 respectievelijk g(0) = 0)"
+     },
+     {
+      "points": 1,
+      "description": "h(x) = (eˣ − 1)/(3(1 − e⁻ˣ)) = eˣ(eˣ − 1)/(3(eˣ − 1)) (of h(x) = (eˣ − 1)/(3(1 − e⁻ˣ)) = eˣ(1 − e⁻ˣ)/(3(1 − e⁻ˣ)))"
+     },
+     {
+      "points": 1,
+      "description": "lim_{x→0} h(x) = lim_{x→0} eˣ/3 = ⅓ en dit is de y-coördinaat van de perforatie (dus de coördinaten van de perforatie zijn (0, ⅓))"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-twee-e-machten-antw9.png"
+    ]
+   },
+   {
+    "title": "Basketbal",
+    "question_number": 10,
+    "answer_text": "• Het stelsel { 6 = v · cos(60°) · t ; 3,05 = v · sin(60°) · t − 4,9t² + 2,55 } moet worden opgelost\n• v · t = 6/cos(60°) (= 12)\n• Invullen geeft 3,05 = 12sin(60°) − 4,9t² + 2,55\n• Algebraïsch oplossen geeft t = 1,42… (t = −1,42… voldoet niet)\n• v = 6/(cos(60°) · 1,42…) dus de gevraagde snelheid is 8,4 (m/s)\nof\n• Het stelsel { 6 = v · cos(60°) · t ; 3,05 = v · sin(60°) · t − 4,9t² + 2,55 } moet worden opgelost\n• v · t = 6/cos(60°) (= 12)\n• Dus t = 12/v; invullen geeft 3,05 = v · sin(60°) · 12/v − 4,9 · (12/v)² + 2,55\n• Herleiden tot 0,5 − 12sin(60°) = −4,9 · (12/v)²\n• Verder algebraïsch oplossen geeft de gevraagde snelheid 8,4 (m/s) (−8,4 voldoet niet)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het stelsel { 6 = v · cos(60°) · t ; 3,05 = v · sin(60°) · t − 4,9t² + 2,55 } moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "v · t = 6/cos(60°) (= 12)"
+     },
+     {
+      "points": 1,
+      "description": "Invullen geeft 3,05 = 12sin(60°) − 4,9t² + 2,55"
+     },
+     {
+      "points": 1,
+      "description": "Algebraïsch oplossen geeft t = 1,42… (t = −1,42… voldoet niet)"
+     },
+     {
+      "points": 1,
+      "description": "v = 6/(cos(60°) · 1,42…) dus de gevraagde snelheid is 8,4 (m/s)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-basketbal-antw10.png"
+    ]
+   },
+   {
+    "title": "Basketbal",
+    "question_number": 11,
+    "answer_text": "• Het tijdstip waarop de bal door de basket gaat, is t = 6/(8cos(50°)) = 1,166…\n• x′(t) = 8cos(50°)\n• y′(t) = 8sin(50°) − 9,8t\n• x′(1,166…) = 5,14… en y′(1,166…) = −5,30…\n• Uit tan(β) = −5,30…/5,14… volgt dat de gevraagde hoek (−)46° is\nof\n• Voor het tijdstip waarop de bal door de basket gaat, geldt 3,05 = 8sin(50°) · t − 4,9t² + 2,55; een algebraïsche berekening waaruit volgt t = 1,162… (t = 0,08… voldoet niet)\n• x′(t) = 8cos(50°)\n• y′(t) = 8sin(50°) − 9,8t\n• x′(1,162…) = 5,14… en y′(1,162…) = −5,26…\n• Uit tan(β) = −5,26…/5,14… volgt dat de gevraagde hoek (−)46° is\nof\n• Er geldt t = x/(8cos(50°))\n• Voor punten op de baan geldt y = 8sin(50°) · x/(8cos(50°)) − 4,9 · (x/(8cos(50°)))² + 2,55\n• dy/dx = 8sin(50°)/(8cos(50°)) − 9,8 · x/(8cos(50°))²\n• Dus [dy/dx]_{x=6} = 8sin(50°)/(8cos(50°)) − 9,8 · 6/(8cos(50°))²\n• Uit tan(β) = [dy/dx]_{x=6} volgt dat de gevraagde hoek (−)46° is",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het tijdstip waarop de bal door de basket gaat, is t = 6/(8cos(50°)) = 1,166…"
+     },
+     {
+      "points": 1,
+      "description": "x′(t) = 8cos(50°)"
+     },
+     {
+      "points": 1,
+      "description": "y′(t) = 8sin(50°) − 9,8t"
+     },
+     {
+      "points": 1,
+      "description": "x′(1,166…) = 5,14… en y′(1,166…) = −5,30…"
+     },
+     {
+      "points": 1,
+      "description": "Uit tan(β) = −5,30…/5,14… volgt dat de gevraagde hoek (−)46° is"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-basketbal-antw11.png"
+    ]
+   },
+   {
+    "title": "Absolute waarde en wortelfunctie",
+    "question_number": 12,
+    "answer_text": "• (x_T < 0, dus bekeken moet worden) f(x) = −3 − x√(x + 3)\n• f′(x) = −√(x + 3) − x · 1/(2√(x + 3))\n• f′(x) = 0 geeft −(x + 3) − ½x = 0 (of een gelijkwaardige lineaire vergelijking)\n• Hieruit volgt x = −2 (en dit is de x-coördinaat van T)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(x_T < 0, dus bekeken moet worden) f(x) = −3 − x√(x + 3)"
+     },
+     {
+      "points": 2,
+      "description": "f′(x) = −√(x + 3) − x · 1/(2√(x + 3))"
+     },
+     {
+      "points": 1,
+      "description": "f′(x) = 0 geeft −(x + 3) − ½x = 0 (of een gelijkwaardige lineaire vergelijking)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt x = −2 (en dit is de x-coördinaat van T)"
+     }
+    ],
+    "grading_note": "Als in het tweede antwoordelement de productregel, quotiëntregel of kettingregel is gebruikt, maar niet correct, mag voor dit antwoordelement maximaal 1 scorepunt worden toegekend op basis van vakspecifieke regel 1.",
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-absolute-waarde-en-wortelfunctie-antw12.png"
+    ]
+   },
+   {
+    "title": "Absolute waarde en wortelfunctie",
+    "question_number": 13,
+    "answer_text": "• De lijn door O en P heeft vergelijking y = x\n• (x_S > 0, dus) de vergelijking −3 + x√(x + 3) = x moet worden opgelost\n• Dit geeft (x√(x + 3))² = (x + 3)², dus x²(x + 3) = (x + 3)²\n• Dus x² = x + 3 (x = −3 geeft P), dus x² − x − 3 = 0\n• x = (1 + √13)/2 (of een gelijkwaardige vorm) (x = (1 − √13)/2 voldoet niet)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De lijn door O en P heeft vergelijking y = x"
+     },
+     {
+      "points": 1,
+      "description": "(x_S > 0, dus) de vergelijking −3 + x√(x + 3) = x moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft (x√(x + 3))² = (x + 3)², dus x²(x + 3) = (x + 3)²"
+     },
+     {
+      "points": 1,
+      "description": "Dus x² = x + 3 (x = −3 geeft P), dus x² − x − 3 = 0"
+     },
+     {
+      "points": 1,
+      "description": "x = (1 + √13)/2 (of een gelijkwaardige vorm) (x = (1 − √13)/2 voldoet niet)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-absolute-waarde-en-wortelfunctie-antw13.png"
+    ]
+   },
+   {
+    "title": "Absolute waarde en wortelfunctie",
+    "question_number": 14,
+    "answer_text": "• Het inzicht dat de grafiek van f(x) + 3 gewenteld moet worden om de x-as\n• De inhoud van het omwentelingslichaam kan berekend worden met π∫₋₃⁰ (|x|√(x + 3))² dx\n• Dat is gelijk aan π∫₋₃⁰ (x³ + 3x²) dx\n• Een primitieve van x³ + 3x² is ¼x⁴ + x³\n• Invullen van de grenzen geeft: de inhoud is 6¾π",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het inzicht dat de grafiek van f(x) + 3 gewenteld moet worden om de x-as"
+     },
+     {
+      "points": 1,
+      "description": "De inhoud van het omwentelingslichaam kan berekend worden met π∫₋₃⁰ (|x|√(x + 3))² dx"
+     },
+     {
+      "points": 1,
+      "description": "Dat is gelijk aan π∫₋₃⁰ (x³ + 3x²) dx"
+     },
+     {
+      "points": 1,
+      "description": "Een primitieve van x³ + 3x² is ¼x⁴ + x³"
+     },
+     {
+      "points": 1,
+      "description": "Invullen van de grenzen geeft: de inhoud is 6¾π"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-absolute-waarde-en-wortelfunctie-antw14.png"
+    ]
+   },
+   {
+    "title": "Boogbrug",
+    "question_number": 15,
+    "answer_text": "• f′(x) = 0,00016x³ − 0,024x\n• f″(x) = 0,00048x² − 0,024\n• f″(x) = 0 geeft 0,00048x² = 0,024, dus x² = 50, dus x = −7,07… of x = 7,07… (of x = ±√50)\n• f′(−7,07…) = 0,113… en f′(7,07…) = −0,113…\n• 0,113… < 0,12, dus aan de eis is voldaan",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f′(x) = 0,00016x³ − 0,024x"
+     },
+     {
+      "points": 1,
+      "description": "f″(x) = 0,00048x² − 0,024"
+     },
+     {
+      "points": 1,
+      "description": "f″(x) = 0 geeft 0,00048x² = 0,024, dus x² = 50, dus x = −7,07… of x = 7,07… (of x = ±√50)"
+     },
+     {
+      "points": 1,
+      "description": "f′(−7,07…) = 0,113… en f′(7,07…) = −0,113…"
+     },
+     {
+      "points": 1,
+      "description": "0,113… < 0,12, dus aan de eis is voldaan"
+     }
+    ],
+    "grading_note": "- Als de kandidaat vermeldt dat de grafiek symmetrisch is ten opzichte van de y-as, dan is het voldoende dat één oplossing van f″(x) = 0 wordt genoemd (en daarmee verder wordt gerekend).\n- Als alleen voor x = ±10 de waarden van f′(x) worden vergeleken met 0,12, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-boogbrug-antw15.png"
+    ]
+   },
+   {
+    "title": "Boogbrug",
+    "question_number": 16,
+    "answer_text": "• De horizontale afstand tussen P en M is p − 5\n• De verticale afstand is f(p) (= 0,00004p⁴ − 0,012p² + 2,3)\n• Dus MP = √((p − 5)² + (f(p))²)\n• Beschrijven hoe het minimum van deze uitdrukking kan worden bepaald\n• Dit minimum is 2,014…\n• De maximale straal is dus 1,71 (m)\nof\n• De horizontale afstand tussen P en M is p − 5\n• De verticale afstand is f(p) (= 0,00004p⁴ − 0,012p² + 2,3)\n• De richtingscoëfficiënt van MP is dus f(p)/(p − 5), dus er moet gelden f(p)/(p − 5) · f′(p) = −1 (want de raaklijn aan de grafiek van f in P moet loodrecht op MP staan)\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft p = 5,205… met f(p) = 2,004…; hieruit volgt MP = √((5,205… − 5)² + 2,004…²) = 2,014…\n• De maximale straal is dus 1,71 (m)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De horizontale afstand tussen P en M is p − 5"
+     },
+     {
+      "points": 1,
+      "description": "De verticale afstand is f(p) (= 0,00004p⁴ − 0,012p² + 2,3)"
+     },
+     {
+      "points": 1,
+      "description": "Dus MP = √((p − 5)² + (f(p))²)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe het minimum van deze uitdrukking kan worden bepaald"
+     },
+     {
+      "points": 1,
+      "description": "Dit minimum is 2,014…"
+     },
+     {
+      "points": 1,
+      "description": "De maximale straal is dus 1,71 (m)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-boogbrug-antw16.png"
+    ]
+   },
+   {
+    "title": "Rechthoek met drie cirkels",
+    "question_number": 17,
+    "answer_text": "• MF = r en MS = 2r (want MN gaat door de punten waar de cirkels elkaar raken)\n• (De stelling van Pythagoras in driehoek FMS of het gebruik van een 1 − √3 − 2-driehoek geeft) FS = √3 · r\n• De oppervlakte van MFNG is (2 · ½ · r · 2√3 · r =) 2√3 · r²\n• De oppervlakte van één cirkel is πr²\n• 2√3 · r² > πr² (of 2√3 > π), dus de oppervlakte van vierhoek MFNG is groter dan de oppervlakte van een van de cirkels",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "MF = r en MS = 2r (want MN gaat door de punten waar de cirkels elkaar raken)"
+     },
+     {
+      "points": 1,
+      "description": "(De stelling van Pythagoras in driehoek FMS of het gebruik van een 1 − √3 − 2-driehoek geeft) FS = √3 · r"
+     },
+     {
+      "points": 1,
+      "description": "De oppervlakte van MFNG is (2 · ½ · r · 2√3 · r =) 2√3 · r²"
+     },
+     {
+      "points": 1,
+      "description": "De oppervlakte van één cirkel is πr²"
+     },
+     {
+      "points": 1,
+      "description": "2√3 · r² > πr² (of 2√3 > π), dus de oppervlakte van vierhoek MFNG is groter dan de oppervlakte van een van de cirkels"
+     }
+    ],
+    "grading_note": "Als gewerkt wordt met één gekozen waarde van r, en uitgelegd wordt waarom dit geen invloed heeft op de juistheid van de conclusie, hiervoor geen scorepunten in mindering brengen. Als deze uitleg ontbreekt, voor deze vraag maximaal 3 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-ii-rechthoek-met-drie-cirkels-antw17.png"
+    ]
+   }
+  ]
+ }
+}
