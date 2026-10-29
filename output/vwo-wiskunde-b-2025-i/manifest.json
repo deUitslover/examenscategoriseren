@@ -1,0 +1,60 @@
+{
+  "source": "VWO Wiskunde B 2025-I",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Vierdegraadsfunctie",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Druppel",
+      "question_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Cirkels in een cirkel",
+      "question_numbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Een wortelfunctie en haar inverse",
+      "question_numbers": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Op en neer",
+      "question_numbers": [
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Een raaklijn met twee cirkels",
+      "question_numbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Logaritmische functies",
+      "question_numbers": [
+        16,
+        17,
+        18
+      ]
+    }
+  ]
+}

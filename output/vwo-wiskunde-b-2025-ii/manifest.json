@@ -1,0 +1,60 @@
+{
+  "source": "VWO Wiskunde B 2025-II",
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Beweging over twee lijnen",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Opbrengst van zonnepanelen",
+      "question_numbers": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Vierkant en driehoek",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Twee lijnstukken met eindpunt P",
+      "question_numbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Wortel en sinus",
+      "question_numbers": [
+        13
+      ]
+    },
+    {
+      "title": "Drie keer over de lijn",
+      "question_numbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Vlakdeel en rakende cirkel",
+      "question_numbers": [
+        16,
+        17,
+        18
+      ]
+    }
+  ]
+}
