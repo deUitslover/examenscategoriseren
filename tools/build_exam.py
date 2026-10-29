@@ -268,6 +268,16 @@ def main():
                 it["y0"] += tr
                 m = it["members"][0]
                 it["members"] = [(m[0], m[1] + tr, m[2], m[3])]
+                # the released lines belong to the ctx block before the vraag
+                # on this page; make them members there, otherwise its vraag
+                # wipe paints them white when that block's y-range already
+                # covers them (VWO-WISB-26-I-O.pdf p.6 "weergegeven." above
+                # vraag 11, beside figuur 1: --trim 5:5=13.4)
+                prev = [o for o in opgaven[-1]["items"] if o["kind"] == "ctx" and o["page"] == page.number]
+                if prev:
+                    prev[-1]["members"] = list(prev[-1]["members"]) + [
+                        tuple(l[:4]) for l in text_lines(page)
+                        if l[1] >= m[1] - 0.5 and l[3] <= m[1] + tr + 0.5 and l[0] >= m[0] - 1]
             if ext and it["kind"] == "vraag":
                 # grow the keep box too, otherwise the extra line (e.g. a
                 # wrapped last word of MC option D that find_vraag_lines
