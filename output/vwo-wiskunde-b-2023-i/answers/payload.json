@@ -1,0 +1,518 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde B",
+  "level": "VWO",
+  "source": "VWO Wiskunde B 2023-I",
+  "answers": [
+   {
+    "title": "Een gebroken functie",
+    "question_number": 1,
+    "answer_text": "• f′(x) = 2 − 1/x²\n• f′(x) = 0 voor x = ½√2 (x = −½√2 voldoet niet)\n• f(½√2) = 2√2 (dus het minimum van f is 2√2) (of een gelijkwaardige uitdrukking)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f′(x) = 2 − 1/x²"
+     },
+     {
+      "points": 1,
+      "description": "f′(x) = 0 voor x = ½√2 (x = −½√2 voldoet niet)"
+     },
+     {
+      "points": 1,
+      "description": "f(½√2) = 2√2 (dus het minimum van f is 2√2) (of een gelijkwaardige uitdrukking)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-een-gebroken-functie-antw1.png"
+    ]
+   },
+   {
+    "title": "Een gebroken functie",
+    "question_number": 2,
+    "answer_text": "• (lim_{x→∞} 1/x = 0 dus) een vergelijking van de asymptoot k is y = 2x\n• De integraal ∫ₐ²ᵃ (2x + 1/x) dx min de oppervlakte van het trapezium (ingesloten door de x-as, de asymptoot en de lijnen x = a en x = 2a) moet worden berekend\n• Een primitieve van f is x² + ln(x) (x > 0)\n• De oppervlakte is 4a² + ln(2a) − a² − ln(a) − ½a(2a + 4a) (of een gelijkwaardige uitdrukking)\n• Dit herleiden tot ln(2a) − ln(a) = ln(2) (en dat is onafhankelijk van a)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(lim_{x→∞} 1/x = 0 dus) een vergelijking van de asymptoot k is y = 2x"
+     },
+     {
+      "points": 1,
+      "description": "De integraal ∫ₐ²ᵃ (2x + 1/x − 2x) dx = ∫ₐ²ᵃ 1/x dx moet worden berekend"
+     },
+     {
+      "points": 1,
+      "description": "Een primitieve van 1/x is ln(x) (x > 0)"
+     },
+     {
+      "points": 1,
+      "description": "De oppervlakte is ln(2a) − ln(a)"
+     },
+     {
+      "points": 1,
+      "description": "ln(2a) − ln(a) = ln(2) (en dat is onafhankelijk van a)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-een-gebroken-functie-antw2.png"
+    ]
+   },
+   {
+    "title": "Een gebroken functie",
+    "question_number": 3,
+    "answer_text": "• 2x + 1/x = 3 geeft x = 0,5 en x = 1\n• Het inzicht dat de grafiek van f(x) − 3 gewenteld moet worden om de x-as\n• De inhoud van het omwentelingslichaam kan berekend worden met π∫₀,₅¹ ((f(x) − 3)²) dx\n• De gevraagde inhoud is 0,02",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "2x + 1/x = 3 geeft x = 0,5 en x = 1"
+     },
+     {
+      "points": 1,
+      "description": "Het inzicht dat de grafiek van f(x) − 3 gewenteld moet worden om de x-as"
+     },
+     {
+      "points": 1,
+      "description": "De inhoud van het omwentelingslichaam kan berekend worden met π∫₀,₅¹ ((f(x) − 3)²) dx"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde inhoud is 0,02"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-een-gebroken-functie-antw3.png"
+    ]
+   },
+   {
+    "title": "Buigen van metalen platen",
+    "question_number": 4,
+    "answer_text": "• P′Q′ = 45/360 · 2 · π · 2,4d = ⅗d · π\n• Oppervlakte ABCD = ⅗d · π · d = ⅗π · d²\n• Oppervlakte A′B′C′D′ = 45/360 · π · (3d)² − 45/360 · π · (2d)² = ⅝π · d²\n• (⅝π · d²) / (⅗π · d²) = 1,041…\n• Het gevraagde percentage is 4",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "P′Q′ = 45/360 · 2 · π · 2,4d = ⅗d · π"
+     },
+     {
+      "points": 1,
+      "description": "Oppervlakte ABCD = ⅗d · π · d = ⅗π · d²"
+     },
+     {
+      "points": 1,
+      "description": "Oppervlakte A′B′C′D′ = 45/360 · π · (3d)² − 45/360 · π · (2d)² = ⅝π · d²"
+     },
+     {
+      "points": 1,
+      "description": "(⅝π · d²) / (⅗π · d²) = 1,041…"
+     },
+     {
+      "points": 1,
+      "description": "Het gevraagde percentage is 4"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-buigen-van-metalen-platen-antw4.png"
+    ]
+   },
+   {
+    "title": "Buigen van metalen platen",
+    "question_number": 5,
+    "answer_text": "• De vergelijking 420 = (R · 10²)/200 · (1 + 40/200) moet worden opgelost\n• Dit geeft R = 700\n• Dus F = 980 (kN/m)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 420 = (R · 10²)/200 · (1 + 40/200) moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft R = 700"
+     },
+     {
+      "points": 1,
+      "description": "Dus F = 980 (kN/m)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-buigen-van-metalen-platen-antw5.png"
+    ]
+   },
+   {
+    "title": "Buigen van metalen platen",
+    "question_number": 6,
+    "answer_text": "• Substitutie van formule 2 in formule 1 geeft F = R · d⁰,²⁵ + 4R · d⁻⁰,⁵\n• dF/dd = 0,25R · d⁻⁰,⁷⁵ − 2R · d⁻¹,⁵\n• dF/dd = 0 als d⁰,⁷⁵ = 8\n• Dit geeft d = 16",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Substitutie van formule 2 in formule 1 geeft F = R · d⁰,²⁵ + 4R · d⁻⁰,⁵"
+     },
+     {
+      "points": 1,
+      "description": "dF/dd = 0,25R · d⁻⁰,⁷⁵ − 2R · d⁻¹,⁵"
+     },
+     {
+      "points": 1,
+      "description": "dF/dd = 0 als d⁰,⁷⁵ = 8"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft d = 16"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-buigen-van-metalen-platen-antw6.png"
+    ]
+   },
+   {
+    "title": "Gedraaide parabool",
+    "question_number": 7,
+    "answer_text": "• OM⃗ = (t, t²)\n• MQ⃗ = (t², −t)\n• OQ⃗ = OM⃗ + MQ⃗ = (t + t², t² − t) (dus x_Q(t) = t + t² en y_Q(t) = t² − t)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "OM⃗ = (t, t²)"
+     },
+     {
+      "points": 1,
+      "description": "MQ⃗ = (t², −t)"
+     },
+     {
+      "points": 1,
+      "description": "OQ⃗ = OM⃗ + MQ⃗ = (t + t², t² − t) (dus x_Q(t) = t + t² en y_Q(t) = t² − t)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-gedraaide-parabool-antw7.png"
+    ]
+   },
+   {
+    "title": "Gedraaide parabool",
+    "question_number": 8,
+    "answer_text": "• (x_Q′(t), y_Q′(t)) = (1 + 2t, 2t − 1)\n• De snelheid van Q is √((1 + 2t)² + (2t − 1)²) = √(2 + 8t²)\n• √(4 + 16t²) = √(2(2 + 8t²)) = √2 · √(2 + 8t²) (dus c = √2)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(x_Q′(t), y_Q′(t)) = (1 + 2t, 2t − 1)"
+     },
+     {
+      "points": 1,
+      "description": "De snelheid van Q is √((1 + 2t)² + (2t − 1)²) = √(2 + 8t²)"
+     },
+     {
+      "points": 1,
+      "description": "√(4 + 16t²) = √(2(2 + 8t²)) = √2 · √(2 + 8t²) (dus c = √2)"
+     }
+    ],
+    "grading_note": "Als in het tweede en derde antwoordelement een specifieke waarde van t is genomen, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-gedraaide-parabool-antw8.png"
+    ]
+   },
+   {
+    "title": "Gedraaide parabool",
+    "question_number": 9,
+    "answer_text": "• L = √((t + t² − 2t)² + (t² − t − 2t²)²)\n• Dit herschrijven tot L = √(2t⁴ + 2t²)\n• Dus L = √(t²) · √(2t² + 2) = |t| · √(2t² + 2)\nof\n• (Omdat M het midden is van OP en MQ⃗ ⊥ OP⃗ geldt) PQ = OQ dus\n• L = √((t + t²)² + (t² − t)²)\n• Dit herschrijven tot L = √(2t⁴ + 2t²)\n• Dus L = √(t²) · √(2t² + 2) = |t| · √(2t² + 2)\nof\n• PQ² = MP² + MQ² geeft (t² − t)² + (−t² − t)² = (t²)² + t² + (t²)² + (−t)²\n• Dit herschrijven tot L² = 2t⁴ + 2t²\n• Dus L = √(t²) · √(2t² + 2) = |t| · √(2t² + 2)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "L = √((t + t² − 2t)² + (t² − t − 2t²)²)"
+     },
+     {
+      "points": 1,
+      "description": "Dit herschrijven tot L = √(2t⁴ + 2t²)"
+     },
+     {
+      "points": 1,
+      "description": "Dus L = √(t²) · √(2t² + 2) = |t| · √(2t² + 2)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-gedraaide-parabool-antw9.png"
+    ]
+   },
+   {
+    "title": "Gedraaide parabool",
+    "question_number": 10,
+    "answer_text": "• Voor t < 0 geldt L = −t · √(2t² + 2)\n• De afgeleide van √(2t² + 2) is 4t/(2√(2t² + 2))\n• dL/dt = −√(2t² + 2) − t · 4t/(2√(2t² + 2))\n• lim_{t↑0} (dL/dt) = −√2 − 0 = −√2 (dus de helling van de grafiek van L nadert tot −√2 als t vanaf links tot 0 nadert)\nof\n• Voor t > 0 geldt L = t · √(2t² + 2)\n• De afgeleide van √(2t² + 2) is 4t/(2√(2t² + 2))\n• dL/dt = √(2t² + 2) + t · 4t/(2√(2t² + 2)) en lim_{t↓0} (dL/dt) = √2 + 0 = √2\n• Vanwege symmetrie nadert de helling van de grafiek van L dan tot −√2 als t vanaf links tot 0 nadert",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor t < 0 geldt L = −t · √(2t² + 2)"
+     },
+     {
+      "points": 1,
+      "description": "De afgeleide van √(2t² + 2) is 4t/(2√(2t² + 2))"
+     },
+     {
+      "points": 1,
+      "description": "dL/dt = −√(2t² + 2) − t · 4t/(2√(2t² + 2))"
+     },
+     {
+      "points": 1,
+      "description": "lim_{t↑0} (dL/dt) = −√2 − 0 = −√2 (dus de helling van de grafiek van L nadert tot −√2 als t vanaf links tot 0 nadert)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-gedraaide-parabool-antw10.png"
+    ]
+   },
+   {
+    "title": "Absolute sinus",
+    "question_number": 11,
+    "answer_text": "• De y-coördinaat van A is 1 + ½√3 en de y-coördinaat van B is 1 − ½√3 (want −1 + ½√3 < 0)\n• Het gemiddelde van 1 − ½√3 en 1 + ½√3 is 1 dus a = 1\n• Dus b = ½√3",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De y-coördinaat van A is 1 + ½√3 en de y-coördinaat van B is 1 − ½√3 (want −1 + ½√3 < 0)"
+     },
+     {
+      "points": 1,
+      "description": "Het gemiddelde van 1 − ½√3 en 1 + ½√3 is 1 dus a = 1"
+     },
+     {
+      "points": 1,
+      "description": "Dus b = ½√3"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-absolute-sinus-antw11.png"
+    ]
+   },
+   {
+    "title": "Absolute sinus",
+    "question_number": 12,
+    "answer_text": "• f(x) = 0 als sin(x) = −½√3\n• Dit geeft x = 4/3π (+ k · 2π) en x = 5/3π (+ k · 2π)\n• De oppervlakte van een klein vlakdeel kan berekend worden met behulp van ∫_{4/3π}^{5/3π} (sin(x) + ½√3) dx\n• Een primitieve van sin(x) + ½√3 is −cos(x) + ½√3 · x\n• De gevraagde oppervlakte is 1 − ⅙√3 · π",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f(x) = 0 als sin(x) = −½√3"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x = 4/3π (+ k · 2π) en x = 5/3π (+ k · 2π)"
+     },
+     {
+      "points": 1,
+      "description": "De oppervlakte van een klein vlakdeel kan berekend worden met behulp van ∫_{4/3π}^{5/3π} (sin(x) + ½√3) dx"
+     },
+     {
+      "points": 1,
+      "description": "Een primitieve van sin(x) + ½√3 is −cos(x) + ½√3 · x"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde oppervlakte is 1 − ⅙√3 · π"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-absolute-sinus-antw12.png"
+    ]
+   },
+   {
+    "title": "Logaritmische functies",
+    "question_number": 13,
+    "answer_text": "• Uit f(x) = g(x) volgt (1 + e²) · ln(x) = 1 + e²\n• Dit geeft ln(x) = 1 dus x = e\n• f′(x) = 1/x\n• g′(x) = −e²/x\n• f′(e) = 1/e en g′(e) = −e²/e = −e\n• f′(e) · g′(e) = 1/e · −e = −1 dus de grafieken snijden elkaar loodrecht\nof\n• f′(x) = 1/x\n• g′(x) = −e²/x\n• Er moet gelden: f′(x) · g′(x) = −1\n• Dit geeft −e²/x² = −1\n• Dit geeft x = e (x = −e is geen oplossing)\n• f(e) = 1 en g(e) = 1 (dus de grafieken snijden elkaar in (e, 1)) en dus snijden de grafieken elkaar loodrecht",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit f(x) = g(x) volgt (1 + e²) · ln(x) = 1 + e²"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft ln(x) = 1 dus x = e"
+     },
+     {
+      "points": 1,
+      "description": "f′(x) = 1/x"
+     },
+     {
+      "points": 1,
+      "description": "g′(x) = −e²/x"
+     },
+     {
+      "points": 1,
+      "description": "f′(e) = 1/e en g′(e) = −e²/e = −e"
+     },
+     {
+      "points": 1,
+      "description": "f′(e) · g′(e) = 1/e · −e = −1 dus de grafieken snijden elkaar loodrecht"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-logaritmische-functies-antw13.png"
+    ]
+   },
+   {
+    "title": "Logaritmische functies",
+    "question_number": 14,
+    "answer_text": "• x_A = p en x_B = p + 3\n• Voor p moet gelden 1 + e² · (1 − ln(p)) = ln(p + 3)\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• De gevraagde waarde van q is 1,7\nof\n• f(x_B) = q dus x_B = e^q\n• g(x_A) = q dus x_A = e^(1 − (q − 1)/e²)\n• Beschrijven hoe de vergelijking e^q − e^(1 − (q − 1)/e²) = 3 opgelost kan worden\n• De gevraagde waarde van q is 1,7",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "x_A = p en x_B = p + 3"
+     },
+     {
+      "points": 1,
+      "description": "Voor p moet gelden 1 + e² · (1 − ln(p)) = ln(p + 3)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde waarde van q is 1,7"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-logaritmische-functies-antw14.png"
+    ]
+   },
+   {
+    "title": "Bissectrice in een rechthoek",
+    "question_number": 15,
+    "answer_text": "• Een vergelijking van AC is x + 2y = 8 (of een gelijkwaardige uitdrukking)\n• Een vergelijking van PF is x − 2y = 4 (of een gelijkwaardige uitdrukking)\n• Dan volgt dat de coördinaten van D(6,1) zijn\n• EP⃗ = (−4, −6) en ED⃗ = (2, −3)\n• cos(∠(EP⃗, EF⃗)) = ((−4, −6) · (0, −1)) / (|(−4, −6)| · |(0, −1)|) = 6/√52 = 3/√13 en cos(∠(ED⃗, EF⃗)) = ((2, −3) · (0, −1)) / (|(2, −3)| · |(0, −1)|) = 3/√13 (dus ∠(EP⃗, EF⃗) = ∠(ED⃗, EF⃗) waaruit volgt dat de lijn door E en F de bissectrice is van hoek PED)\nof\n• Een vergelijking van AC is x + 2y = 8 (of een gelijkwaardige uitdrukking)\n• Een vergelijking van PF is x − 2y = 4 (of een gelijkwaardige uitdrukking)\n• De coördinaten van D zijn (6,1)\n• EP⃗ = (−4, −6) en ED⃗ = (2, −3)\n• Dus de lijn door E en P en de lijn door E en D zijn elkaars beeld bij spiegelen in de lijn EF, dus de lijn door E en F is de bissectrice van hoek PED\nof\n• Een vergelijking van AC is x + 2y = 8 (of een gelijkwaardige uitdrukking)\n• Een vergelijking van PF is x − 2y = 4 (of een gelijkwaardige uitdrukking)\n• De coördinaten van D zijn (6,1)\n• ∠PEF = ∠EPC (Z-hoeken) dus tan(∠PEF) = tan(∠EPC) = 4/6 = 2/3\n• In driehoek D′ED (met D′ de loodrechte projectie van D op EF) geldt: tan(∠D′ED) = D′D/D′E = 2/3 (dus ∠D′ED = ∠PEF waaruit volgt dat de lijn door E en F de bissectrice is van hoek PED)\nof\n• Uit de gelijkvormigheid van driehoek AOC met driehoek FOP volgt dat driehoek CPD gelijkbenig is, dus DC = DP\n• Hieruit volgt y_D = (−2 + 4)/2 = 1\n• De coördinaten van D zijn (6,1)\n• In driehoek P′EP (met P′ de loodrechte projectie van P op het verlengde van EF) geldt: tan(∠P′EP) = P′P/P′E = 4/6 = 2/3\n• In driehoek D′ED (met D′ de loodrechte projectie van D op EF) geldt: tan(∠D′ED) = D′D/D′E = 2/3 (dus ∠D′ED = ∠P′EP waaruit volgt dat de lijn door E en F de bissectrice is van hoek PED)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een vergelijking van AC is x + 2y = 8 (of een gelijkwaardige uitdrukking)"
+     },
+     {
+      "points": 1,
+      "description": "Een vergelijking van PF is x − 2y = 4 (of een gelijkwaardige uitdrukking)"
+     },
+     {
+      "points": 1,
+      "description": "Dan volgt dat de coördinaten van D(6,1) zijn"
+     },
+     {
+      "points": 1,
+      "description": "EP⃗ = (−4, −6) en ED⃗ = (2, −3)"
+     },
+     {
+      "points": 1,
+      "description": "cos(∠(EP⃗, EF⃗)) = ((−4, −6) · (0, −1)) / (|(−4, −6)| · |(0, −1)|) = 6/√52 = 3/√13 en cos(∠(ED⃗, EF⃗)) = ((2, −3) · (0, −1)) / (|(2, −3)| · |(0, −1)|) = 3/√13 (dus ∠(EP⃗, EF⃗) = ∠(ED⃗, EF⃗) waaruit volgt dat de lijn door E en F de bissectrice is van hoek PED)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-bissectrice-in-een-rechthoek-antw15.png"
+    ]
+   },
+   {
+    "title": "Bissectrice in een rechthoek",
+    "question_number": 16,
+    "answer_text": "• Een vergelijking van c is (x − 4)² + (y − 2)² = 4 en een vergelijking van AC is y = −½x + 4\n• c snijden met AC geeft (x − 4)² + (−½x + 2)² = 4 dus 1¼x² − 10x + 16 = 0\n• Dit geeft D(4 + ⅘√5, 2 − ⅖√5)\n• Driehoek FDD″ (met D″ de loodrechte projectie van D op OA) is gelijkvormig met driehoek FPO dus PO/FO = DD″/FD″\n• Dit geeft −p/4 = (2 − ⅖√5)/(⅘√5) ofwel −p/4 = (2√5 − 2)/4\n• Dus p = 2 − 2√5\nof\n• Een vergelijking van PF is y = −¼px + p (of een gelijkwaardige uitdrukking)\n• Punt D is het snijpunt van AC met PF, dus moet gelden −¼px + p = −½x + 4\n• Dit geeft D((4p − 16)/(p − 2), 2p/(p − 2))\n• MD = 2 dus ((4p − 16)/(p − 2) − 4)² + (2 − 2p/(p − 2))² = 2²\n• Herleiden tot (bijvoorbeeld) 64/(p − 2)² + 16/(p − 2)² = 4\n• p = 2 − √20 (p = 2 + √20 voldoet niet)\nof\n• rc_ED = −rc_EP = −(4 − p)/4 = (p − 4)/4\n• rc_PF = −p/4\n• Punt M is het midden van EF, dus EF is de middellijn van de cirkel\n• D ligt op de cirkel, dus geldt ∠FDE = 90°\n• Er moet dus gelden dat rc_ED · rc_PF = (p − 4)/4 · −p/4 = −1\n• Dan volgt p = 2 − √20 (p = 2 + √20 voldoet niet)\nof\n• Driehoek AOC is gelijkvormig met driehoek DD′M (met D′ de loodrechte projectie van D op EF), dus AO/AC = DD′/DM en CO/CA = MD′/MD\n• DM = 2 en AC = √80 geeft D′M = ⅖√5 en D′D = ⅘√5\n• D(4 + ⅘√5, 2 − ⅖√5)\n• De richtingscoëfficiënt van de lijn door F en D is (2 − ⅖√5)/(⅘√5) = ½√5 − ½\n• Een vergelijking van de lijn door F en D is y = (½√5 − ½)(x − 4)\n• Het snijpunt met de y-as is P(0, 2 − 2√5) en dus is p = 2 − 2√5\nof\n• Een vectorvoorstelling van AC is (x, y) = (8, 0) + t · (−2, 1) en een vectorvoorstelling van PF is (x, y) = (4, 0) + v · (−4, p)\n• Voor het snijpunt D geldt: { 8 − 2t = 4 − 4v ; t = p · v }\n• Hieruit volgt dat voor de coördinaten van D geldt (4 + 16/(4 − 2p), −4p/(4 − 2p)) ofwel ((16 − 4p)/(2 − p), −2p/(2 − p))\n• MD = 2 dus ((16 − 4p)/(2 − p) − 4)² + (2 − (−2p)/(2 − p))² = 2²\n• Herleiden tot (bijvoorbeeld) 64/(2 − p)² + 16/(2 − p)² = 4\n• p = 2 − √20 (p = 2 + √20 voldoet niet)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een vergelijking van c is (x − 4)² + (y − 2)² = 4 en een vergelijking van AC is y = −½x + 4"
+     },
+     {
+      "points": 1,
+      "description": "c snijden met AC geeft (x − 4)² + (−½x + 2)² = 4 dus 1¼x² − 10x + 16 = 0"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft D(4 + ⅘√5, 2 − ⅖√5)"
+     },
+     {
+      "points": 1,
+      "description": "Driehoek FDD″ (met D″ de loodrechte projectie van D op OA) is gelijkvormig met driehoek FPO dus PO/FO = DD″/FD″"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft −p/4 = (2 − ⅖√5)/(⅘√5) ofwel −p/4 = (2√5 − 2)/4"
+     },
+     {
+      "points": 1,
+      "description": "Dus p = 2 − 2√5"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-bissectrice-in-een-rechthoek-antw16.png"
+    ]
+   },
+   {
+    "title": "Exponentiële breuk",
+    "question_number": 17,
+    "answer_text": "• lim_{x→−∞} eˣ = 0 en lim_{x→∞} eˣ = ∞\n• Een exacte berekening waaruit de vergelijking van de eerste asymptoot volgt\n• Een exacte berekening waaruit de vergelijking van de tweede asymptoot volgt, dus de gevraagde afstand is 1\nof\n• Als x onbeperkt afneemt, dan nadert eˣ naar 0 en als x onbeperkt toeneemt, dan neemt eˣ onbeperkt toe\n• Als x onbeperkt afneemt, dan nadert 1/(1 + eˣ) naar 1\n• Als x onbeperkt toeneemt, dan nadert 1/(1 + eˣ) naar 0 en dus is de gevraagde afstand 1",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "lim_{x→−∞} eˣ = 0 en lim_{x→∞} eˣ = ∞"
+     },
+     {
+      "points": 1,
+      "description": "Een exacte berekening waaruit de vergelijking van de eerste asymptoot volgt"
+     },
+     {
+      "points": 1,
+      "description": "Een exacte berekening waaruit de vergelijking van de tweede asymptoot volgt, dus de gevraagde afstand is 1"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-exponentiele-breuk-antw17.png"
+    ]
+   },
+   {
+    "title": "Exponentiële breuk",
+    "question_number": 18,
+    "answer_text": "• F′(x) = 1 − eˣ/(eˣ + 1) (of een gelijkwaardige uitdrukking)\n• 1 − eˣ/(eˣ + 1) = (eˣ + 1)/(eˣ + 1) − eˣ/(eˣ + 1) = 1/(eˣ + 1) (= f(x)) (dus is F(x) een primitieve van f(x))",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "F′(x) = 1 − eˣ/(eˣ + 1) (of een gelijkwaardige uitdrukking)"
+     },
+     {
+      "points": 1,
+      "description": "1 − eˣ/(eˣ + 1) = (eˣ + 1)/(eˣ + 1) − eˣ/(eˣ + 1) = 1/(eˣ + 1) (= f(x)) (dus is F(x) een primitieve van f(x))"
+     }
+    ],
+    "grading_note": "Als in het eerste antwoordelement de kettingregel niet is gebruikt, mogen voor dit antwoordelement geen scorepunten worden toegekend. Als de kettingregel wel is gebruikt, maar niet correct, mag voor dit antwoordelement hoogstens 1 scorepunt worden toegekend op basis van vakspecifieke regel 1.",
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-exponentiele-breuk-antw18.png"
+    ]
+   },
+   {
+    "title": "Exponentiële breuk",
+    "question_number": 19,
+    "answer_text": "• De oppervlakte van het vlakdeel kan worden berekend met ∫₀ᵃ 1/(eˣ + 1) dx\n• F(a) − F(0) = a − ln(eᵃ + 1) + ln(2)\n• ln(eᵃ + 1) > ln(eᵃ) = a, dus a − ln(eᵃ + 1) < 0 (of een gelijkwaardige redenering)\n• Hieruit volgt dat F(a) − F(0) < ln(2)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De oppervlakte van het vlakdeel kan worden berekend met ∫₀ᵃ 1/(eˣ + 1) dx"
+     },
+     {
+      "points": 1,
+      "description": "F(a) − F(0) = a − ln(eᵃ + 1) + ln(2)"
+     },
+     {
+      "points": 1,
+      "description": "ln(eᵃ + 1) > ln(eᵃ) = a, dus a − ln(eᵃ + 1) < 0 (of een gelijkwaardige redenering)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt dat F(a) − F(0) < ln(2)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-vwo-2023-i-exponentiele-breuk-antw19.png"
+    ]
+   }
+  ]
+ }
+}
