@@ -1,0 +1,481 @@
+{
+  "payload": {
+    "subject_name": "Wiskunde B",
+    "level": "VWO",
+    "source": "VWO Wiskunde B 2026-II",
+    "answers": [
+      {
+        "title": "Rondom een top",
+        "question_number": 1,
+        "answer_text": "• De oppervlakte van V is ½ · ½√2 · ½√2 = ¼\n• −x³ + 1½x = 0 geeft (x = 0 of) −x² + 1½ = 0\n• −x² + 1½ = 0 geeft x = √(1½) (en x = −√(1½))\n• De oppervlakte van W is ∫ van ½√2 tot √(1½) van −x³ + 1½x dx (of ∫ van ½√2 tot √(1½) van (−x³ + 1½x) dx)\n• Een primitieve van −x³ + 1½x is −¼x⁴ + ¾x²\n• Grenzen invullen geeft oppervlakte W = ¼ (dus V en W hebben gelijke oppervlakte)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De oppervlakte van V is ½ · ½√2 · ½√2 = ¼"
+          },
+          {
+            "points": 1,
+            "description": "−x³ + 1½x = 0 geeft (x = 0 of) −x² + 1½ = 0"
+          },
+          {
+            "points": 1,
+            "description": "−x² + 1½ = 0 geeft x = √(1½) (en x = −√(1½))"
+          },
+          {
+            "points": 1,
+            "description": "De oppervlakte van W is ∫ van ½√2 tot √(1½) van −x³ + 1½x dx (of ∫ van ½√2 tot √(1½) van (−x³ + 1½x) dx)"
+          },
+          {
+            "points": 1,
+            "description": "Een primitieve van −x³ + 1½x is −¼x⁴ + ¾x²"
+          },
+          {
+            "points": 1,
+            "description": "Grenzen invullen geeft oppervlakte W = ¼ (dus V en W hebben gelijke oppervlakte)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-ii-rondom-een-top-antw1.png"
+        ]
+      },
+      {
+        "title": "Rondom een top",
+        "question_number": 2,
+        "answer_text": "• De knik bevindt zich bij x = ½√2 (en y = ½√2), dus p · ½√2 − 1 = 0\n• Dit geeft p = √2\n• In de knik zijn de hellingen (in het linker- en rechterdeel) 1 − √2 en 1 + √2\n• (1 − √2)(1 + √2) = −1 (dus de hoek die de knik maakt is 90°)\nof\n• In de knik zijn de hellingen (in het linker- en rechterdeel) 1 − p en 1 + p\n• De hoek die de knik maakt is 90° als (1 − p)(1 + p) = −1\n• Dit is (voor p > 0) gelijkwaardig met p = √2\n• Dit is het geval als de knik zich in A bevindt, want √2 · ½√2 − 1 = 0",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De knik bevindt zich bij x = ½√2 (en y = ½√2), dus p · ½√2 − 1 = 0"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft p = √2"
+          },
+          {
+            "points": 1,
+            "description": "In de knik zijn de hellingen (in het linker- en rechterdeel) 1 − √2 en 1 + √2"
+          },
+          {
+            "points": 1,
+            "description": "(1 − √2)(1 + √2) = −1 (dus de hoek die de knik maakt is 90°)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-ii-rondom-een-top-antw2.png"
+        ]
+      },
+      {
+        "title": "Perforaties",
+        "question_number": 3,
+        "answer_text": "• Een voorwaarde voor een perforatie is dat de teller én de noemer gelijk zijn aan 0, dus sin(x) = ½\n• sin(x) = ½ als x = ⅙π en x = ⅚π\n• f(x) = (2sin(x) − 1)/(4sin²(x) − 1) = (2sin(x) − 1)/((2sin(x) − 1)(2sin(x) + 1))\n• lim_{x→⅙π} f(x) = lim_{x→⅙π} 1/(2sin(x) + 1) = ½ en lim_{x→⅚π} f(x) = lim_{x→⅚π} 1/(2sin(x) + 1) = ½, dus de coördinaten van de perforaties zijn (⅙π, ½) en (⅚π, ½)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een voorwaarde voor een perforatie is dat de teller én de noemer gelijk zijn aan 0, dus sin(x) = ½"
+          },
+          {
+            "points": 1,
+            "description": "sin(x) = ½ als x = ⅙π en x = ⅚π"
+          },
+          {
+            "points": 1,
+            "description": "f(x) = (2sin(x) − 1)/(4sin²(x) − 1) = (2sin(x) − 1)/((2sin(x) − 1)(2sin(x) + 1))"
+          },
+          {
+            "points": 1,
+            "description": "lim_{x→⅙π} f(x) = lim_{x→⅙π} 1/(2sin(x) + 1) = ½ en lim_{x→⅚π} f(x) = lim_{x→⅚π} 1/(2sin(x) + 1) = ½, dus de coördinaten van de perforaties zijn (⅙π, ½) en (⅚π, ½)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-ii-perforaties-antw3.png"
+        ]
+      },
+      {
+        "title": "Thermosflessen",
+        "question_number": 4,
+        "answer_text": "• De gegevens invullen geeft het stelsel { 67 = A + (87 − A)e^(−c·2,5) ; 53 = A + (87 − A)e^(−c·5) }\n• Hieruit volgt het stelsel { A − A · e^(−2,5c) = 67 − 87e^(−2,5c) ; A − A · e^(−5c) = 53 − 87e^(−5c) }\n• Herleiden tot een vorm zonder A geeft (67 − 87e^(−2,5c))/(1 − e^(−2,5c)) = (53 − 87e^(−5c))/(1 − e^(−5c))\n• De oplossing van deze vergelijking is c = 0,14...\n• Dit geeft A = 20,33... (°C)\n• De temperatuur om 15.00 uur is 49 (°C)\nof\n• De gegevens invullen geeft het stelsel { 67 = A + (87 − A)e^(−c·2,5) ; 53 = A + (87 − A)e^(−c·5) }\n• Hieruit volgt het stelsel { (67 − A)/(87 − A) = e^(−2,5c) ; (53 − A)/(87 − A) = e^(−5c) }\n• Herleiden tot een vorm zonder c geeft ((67 − A)/(87 − A))² = (53 − A)/(87 − A)\n• De oplossing van deze vergelijking is A = 20,33... (°C)\n• Oplossen van de vergelijking (53 − 20,33...)/(87 − 20,33...) = e^(−5c) geeft c = 0,14...\n• De temperatuur om 15.00 uur is 49 (°C)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De gegevens invullen geeft het stelsel { 67 = A + (87 − A)e^(−c·2,5) ; 53 = A + (87 − A)e^(−c·5) }"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt het stelsel { A − A · e^(−2,5c) = 67 − 87e^(−2,5c) ; A − A · e^(−5c) = 53 − 87e^(−5c) }"
+          },
+          {
+            "points": 1,
+            "description": "Herleiden tot een vorm zonder A geeft (67 − 87e^(−2,5c))/(1 − e^(−2,5c)) = (53 − 87e^(−5c))/(1 − e^(−5c))"
+          },
+          {
+            "points": 1,
+            "description": "De oplossing van deze vergelijking is c = 0,14..."
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft A = 20,33... (°C)"
+          },
+          {
+            "points": 1,
+            "description": "De temperatuur om 15.00 uur is 49 (°C)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-ii-thermosflessen-antw4.png"
+        ]
+      },
+      {
+        "title": "Thermosflessen",
+        "question_number": 5,
+        "answer_text": "• Voor het temperatuurverschil V geldt V(t) = 75e^(−0,15t) − 75e^(−0,2t)\n• V′(t) = −0,15 · 75e^(−0,15t) − −0,2 · 75e^(−0,2t)\n• Uit V′(t) = 0 volgt 15e^(−0,2t) = 11,25e^(−0,15t)\n• Dit geeft e^(−0,05t) = 11,25/15 (= 0,75)\n• Hieruit volgt t = −(1/0,05) · ln(0,75) (= 5,7...)\n• Het maximale temperatuurverschil is 8 (°C)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor het temperatuurverschil V geldt V(t) = 75e^(−0,15t) − 75e^(−0,2t)"
+          },
+          {
+            "points": 1,
+            "description": "V′(t) = −0,15 · 75e^(−0,15t) − −0,2 · 75e^(−0,2t)"
+          },
+          {
+            "points": 1,
+            "description": "Uit V′(t) = 0 volgt 15e^(−0,2t) = 11,25e^(−0,15t)"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft e^(−0,05t) = 11,25/15 (= 0,75)"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt t = −(1/0,05) · ln(0,75) (= 5,7...)"
+          },
+          {
+            "points": 1,
+            "description": "Het maximale temperatuurverschil is 8 (°C)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-ii-thermosflessen-antw5.png"
+        ]
+      },
+      {
+        "title": "Evenwijdige vectoren en zwaartepunt",
+        "question_number": 6,
+        "answer_text": "• CA⃗ = (−p, 2p − 5) en CB⃗ = (2p − 5, p − 5)\n• De vectoren zijn evenwijdig als (2p − 5)/(−p) = (p − 5)/(2p − 5)\n• Dit herleiden tot een kwadratische vergelijking zoals 5p² − 25p + 25 = 0\n• Dit geeft p = (5 − √5)/2 (of p = 1,381...) en p = (5 + √5)/2 (of p = 3,618...)\n• Een toelichting waaruit volgt dat voor p = 1,38 de vectoren gelijke richting hebben",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "CA⃗ = (−p, 2p − 5) en CB⃗ = (2p − 5, p − 5)"
+          },
+          {
+            "points": 1,
+            "description": "De vectoren zijn evenwijdig als (2p − 5)/(−p) = (p − 5)/(2p − 5)"
+          },
+          {
+            "points": 1,
+            "description": "Dit herleiden tot een kwadratische vergelijking zoals 5p² − 25p + 25 = 0"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft p = (5 − √5)/2 (of p = 1,381...) en p = (5 + √5)/2 (of p = 3,618...)"
+          },
+          {
+            "points": 1,
+            "description": "Een toelichting waaruit volgt dat voor p = 1,38 de vectoren gelijke richting hebben"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-ii-evenwijdige-vectoren-en-zwaartepunt-antw6.png"
+        ]
+      },
+      {
+        "title": "Evenwijdige vectoren en zwaartepunt",
+        "question_number": 7,
+        "answer_text": "• De wegingsfactoren van de plaatsvectoren OA⃗, OB⃗ en OC⃗ zijn respectievelijk ⅖, ⅖ en ⅕\n• OZ⃗ = ⅖ · (5 − p, 2p) + ⅖ · (2p, p) + ⅕ · (5, 5) = (3 + ⅖p, 1 + 6/5·p)\n• Uit 3 + ⅖p = 1 + 6/5·p volgt p = 2½\n• De coördinaten zijn (4,4)\nof\n• De wegingsfactoren van de plaatsvectoren OA⃗, OB⃗ en OC⃗ zijn respectievelijk ⅖, ⅖ en ⅕\n• OZ⃗ = ⅖ · (5 − p, 2p) + ⅖ · (2p, p) + ⅕ · (5, 5) = (3 + ⅖p, 1 + 6/5·p)\n• De lijn l gaat door het punt (3,1) en heeft richtingscoëfficiënt 3, dus een vergelijking van l is y = 3x − 8\n• Ook geldt y = x, dus de coördinaten zijn (4,4)\nof\n• De wegingsfactoren van de puntmassa's A, B en C zijn respectievelijk ⅖, ⅖ en ⅕\n• Een correcte berekening van de coördinaten van het zwaartepunt voor twee verschillende waarden van p. Bijvoorbeeld: voor p = 0 geldt Z = ((⅖ · 5 + ⅖ · 0 + ⅕ · 5, ⅖ · 0 + ⅖ · 0 + ⅕ · 5) =) (3,1) en voor p = 5 geldt Z = ((⅖ · 0 + ⅖ · 10 + ⅕ · 5, ⅖ · 10 + ⅖ · 5 + ⅕ · 5) =) (5,7)\n• Een vectorvoorstelling van l is (x, y) = (3, 1) + t(1, 3)\n• Uit 3 + t = 1 + 3t volgt t = 1, dus de coördinaten zijn (4,4)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De wegingsfactoren van de plaatsvectoren OA⃗, OB⃗ en OC⃗ zijn respectievelijk ⅖, ⅖ en ⅕"
+          },
+          {
+            "points": 1,
+            "description": "OZ⃗ = ⅖ · (5 − p, 2p) + ⅖ · (2p, p) + ⅕ · (5, 5) = (3 + ⅖p, 1 + 6/5·p)"
+          },
+          {
+            "points": 1,
+            "description": "Uit 3 + ⅖p = 1 + 6/5·p volgt p = 2½"
+          },
+          {
+            "points": 1,
+            "description": "De coördinaten zijn (4,4)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-ii-evenwijdige-vectoren-en-zwaartepunt-antw7.png"
+        ]
+      },
+      {
+        "title": "Draaierig",
+        "question_number": 8,
+        "answer_text": "• Uit x(t) = 0 volgt sin(t) = cos(3t)\n• sin(t) = sin(3t + ½π)\n• t = 3t + ½π + k · 2π of t = π − (3t + ½π) + k · 2π\n• t = ¾π, t = 1¾π, t = ⅛π, t = ⅝π, t = 1⅛π en t = 1⅝π",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Uit x(t) = 0 volgt sin(t) = cos(3t)"
+          },
+          {
+            "points": 1,
+            "description": "sin(t) = sin(3t + ½π)"
+          },
+          {
+            "points": 1,
+            "description": "t = 3t + ½π + k · 2π of t = π − (3t + ½π) + k · 2π"
+          },
+          {
+            "points": 1,
+            "description": "t = ¾π, t = 1¾π, t = ⅛π, t = ⅝π, t = 1⅛π en t = 1⅝π"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-ii-draaierig-antw8.png"
+        ]
+      },
+      {
+        "title": "Draaierig",
+        "question_number": 9,
+        "answer_text": "• x′(t) = cos(t) + 3sin(3t)\n• y′(t) = −sin(t) + 3cos(3t)\n• (x′(½π), y′(½π)) = (−3, −1) en (x′(π), y′(π)) = (−1, −3)\n• cos(φ) = ((−3, −1) · (−1, −3)) / (|(−3, −1)| · |(−1, −3)|) = 0,6\n• Dit geeft φ = 53(°)\nof\n• x′(t) = cos(t) + 3sin(3t)\n• y′(t) = −sin(t) + 3cos(3t)\n• De richtingscoëfficiënten van de raaklijnen aan de baan in (1,−1) zijn y′(½π)/x′(½π) = −1/−3 en y′(π)/x′(π) = −3/−1\n• Dit geeft de hoeken 18,4...(°) en 71,5...(°)\n• De baan snijdt zichzelf onder een hoek van 53(°)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "x′(t) = cos(t) + 3sin(3t)"
+          },
+          {
+            "points": 1,
+            "description": "y′(t) = −sin(t) + 3cos(3t)"
+          },
+          {
+            "points": 1,
+            "description": "(x′(½π), y′(½π)) = (−3, −1) en (x′(π), y′(π)) = (−1, −3)"
+          },
+          {
+            "points": 1,
+            "description": "cos(φ) = ((−3, −1) · (−1, −3)) / (|(−3, −1)| · |(−1, −3)|) = 0,6"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft φ = 53(°)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-ii-draaierig-antw9.png"
+        ]
+      },
+      {
+        "title": "Minimale lengte en grenswaarde",
+        "question_number": 10,
+        "answer_text": "• De afgeleide van x² is 2x en de afgeleide van ln(x) is 1/x\n• g′(x) = x² · 1/x + 2x · ln(x) = x + 2x · ln(x)\n• Voor de x-coördinaat van B geldt 1 + 2ln(x) = 0\n• Dit geeft ln(x) = −½, dus x_B = 1/√e (of 0,60...)\n• y_B = g(1/√e) = −1/(2e) (of y_B = g(0,60...) = −0,18...)\n• De horizontale afstand tussen de toppen is 1/√e (of 0,60...) en de verticale afstand is 3/(2e) (of 0,55...)\n• De gevraagde lengte is 0,6065\nof\n• Als op de grafiek van f een vermenigvuldiging met ½ ten opzichte van de y-as wordt toegepast, ontstaat de grafiek die hoort bij de vergelijking y = (2x)² · ln(½ · 2x)\n• (2x)² · ln(½ · 2x) = 4 · x² · ln(x)\n• Als op de grafiek van y = 4 · x² · ln(x) een vermenigvuldiging met ¼ ten opzichte van de x-as wordt toegepast, ontstaat de grafiek van g\n• Dus x_B = ½ · x_A = 1/√e (of x_B = ½ · x_A = 0,60...)\n• y_B = ¼ · y_A = −1/(2e) (of y_B = ¼ · y_A = −0,18...)\n• De horizontale afstand tussen de toppen is 1/√e (of 0,60...) en de verticale afstand is 3/(2e) (of 0,55...)\n• De gevraagde lengte is 0,6065",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De afgeleide van x² is 2x en de afgeleide van ln(x) is 1/x"
+          },
+          {
+            "points": 1,
+            "description": "g′(x) = x² · 1/x + 2x · ln(x) = x + 2x · ln(x)"
+          },
+          {
+            "points": 1,
+            "description": "Voor de x-coördinaat van B geldt 1 + 2ln(x) = 0"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft ln(x) = −½, dus x_B = 1/√e (of 0,60...)"
+          },
+          {
+            "points": 1,
+            "description": "y_B = g(1/√e) = −1/(2e) (of y_B = g(0,60...) = −0,18...)"
+          },
+          {
+            "points": 1,
+            "description": "De horizontale afstand tussen de toppen is 1/√e (of 0,60...) en de verticale afstand is 3/(2e) (of 0,55...)"
+          },
+          {
+            "points": 1,
+            "description": "De gevraagde lengte is 0,6065"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-ii-minimale-lengte-en-grenswaarde-antw10.png"
+        ]
+      },
+      {
+        "title": "Minimale lengte en grenswaarde",
+        "question_number": 11,
+        "answer_text": "• h(x) = (x² · ln(x))/(x² · ln(½x)) = ln(x)/ln(½x) = ln(x)/(ln(½) + ln(x)) (voor x > 0)\n• lim_{x→∞} ln(x)/(ln(½) + ln(x)) = lim_{x→∞} (ln(x)/ln(x)) / (ln(½)/ln(x) + ln(x)/ln(x))\n• (De grenswaarde is) lim_{x→∞} 1/(ln(½)/ln(x) + 1) = 1/(0 + 1) = 1",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "h(x) = (x² · ln(x))/(x² · ln(½x)) = ln(x)/ln(½x) = ln(x)/(ln(½) + ln(x)) (voor x > 0)"
+          },
+          {
+            "points": 1,
+            "description": "lim_{x→∞} ln(x)/(ln(½) + ln(x)) = lim_{x→∞} (ln(x)/ln(x)) / (ln(½)/ln(x) + ln(x)/ln(x))"
+          },
+          {
+            "points": 1,
+            "description": "(De grenswaarde is) lim_{x→∞} 1/(ln(½)/ln(x) + 1) = 1/(0 + 1) = 1"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-ii-minimale-lengte-en-grenswaarde-antw11.png"
+        ]
+      },
+      {
+        "title": "Een gebroken wortelfunctie",
+        "question_number": 12,
+        "answer_text": "• f′(x) = −3/(2x√x) (of f′(x) = −1,5x^(−1,5))\n• De helling van lijnstuk AB is (1 − 3)/(9 − 1) = −¼\n• Beschrijven hoe de vergelijking −3/(2x√x) = −¼ exact kan worden opgelost\n• Een exacte berekening waaruit volgt x = ∛36 (dus mogelijke waarden zijn p = 36 en q = 3)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "f′(x) = −3/(2x√x) (of f′(x) = −1,5x^(−1,5))"
+          },
+          {
+            "points": 1,
+            "description": "De helling van lijnstuk AB is (1 − 3)/(9 − 1) = −¼"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de vergelijking −3/(2x√x) = −¼ exact kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Een exacte berekening waaruit volgt x = ∛36 (dus mogelijke waarden zijn p = 36 en q = 3)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-ii-een-gebroken-wortelfunctie-antw12.png"
+        ]
+      },
+      {
+        "title": "Een gebroken wortelfunctie",
+        "question_number": 13,
+        "answer_text": "• De inhoud is π∫₁⁹ 3² − (f(x))² dx (of π∫₁⁹ (3² − (f(x))²) dx)\n• Dit is gelijk aan π∫₁⁹ 9 − 9/x dx (of π∫₁⁹ (9 − 9/x) dx)\n• Een primitieve van 9 − 9/x is 9x − 9ln(x)\n• Het antwoord 164\nof\n• Als de rechthoek met zijden AD en CD, met C en D de loodrechte projecties van B respectievelijk A op de x-as, om de x-as wordt gewenteld, is de inhoud van de cilinder π · 3² · 8 = 72π\n• Als het vlakdeel binnen deze rechthoek onder de grafiek van f om de x-as wordt gewenteld is de inhoud (π∫₁⁹ (f(x))² dx =) π∫₁⁹ 9/x dx (of π∫₁⁹ (9/x) dx)\n• Een primitieve van 9/x is 9ln(x)\n• Het antwoord 164",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De inhoud is π∫₁⁹ 3² − (f(x))² dx (of π∫₁⁹ (3² − (f(x))²) dx)"
+          },
+          {
+            "points": 1,
+            "description": "Dit is gelijk aan π∫₁⁹ 9 − 9/x dx (of π∫₁⁹ (9 − 9/x) dx)"
+          },
+          {
+            "points": 1,
+            "description": "Een primitieve van 9 − 9/x is 9x − 9ln(x)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord 164"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-ii-een-gebroken-wortelfunctie-antw13.png"
+        ]
+      },
+      {
+        "title": "Een gebroken wortelfunctie",
+        "question_number": 14,
+        "answer_text": "• De translatie 1 naar beneden\n• De vermenigvuldiging ten opzichte van de x-as met 1½\n• De volgorde: eerst de translatie en dan de vermenigvuldiging\nof\n• Een mogelijke vorm van het functievoorschrift van g is g(x) = 3a/√x + b met 3a + b = 3 en a + b = 0\n• Dit geeft a = 1½ en b = −1½\n• Dus eerst de vermenigvuldiging ten opzichte van de x-as met 1½ en dan de translatie 1½ naar beneden\nof\n• Een mogelijke vorm van het functievoorschrift van g is g(x) = 3/√(ax) + b met 3/√a + b = 3 en 3/√(9a) + b = 0\n• Dit geeft a = 4/9 en b = −1½\n• Dus een vermenigvuldiging ten opzichte van de y-as met 9/4 en een translatie 1½ naar beneden, waarbij de volgorde niet uitmaakt",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De translatie 1 naar beneden"
+          },
+          {
+            "points": 1,
+            "description": "De vermenigvuldiging ten opzichte van de x-as met 1½"
+          },
+          {
+            "points": 1,
+            "description": "De volgorde: eerst de translatie en dan de vermenigvuldiging"
+          }
+        ],
+        "grading_note": "Als in de uitwerking volgens het eerste antwoordalternatief alleen de correcte translatie wordt genoemd, mag alleen het eerste scorepunt worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-ii-een-gebroken-wortelfunctie-antw14.png"
+        ]
+      },
+      {
+        "title": "Twee cirkels",
+        "question_number": 15,
+        "answer_text": "• DF = r₂ · sin(30°) = ½r₂ (of driehoek DMF is een 1 − 2 − √3 driehoek, dus DF = ½r₂)\n• Uit de gelijkvormigheid van de driehoeken OBM en OEC volgt OM/OC = BM/CE\n• OM = r₁/sin(30°) = 2r₁ (of driehoek OAM is een 1 − 2 − √3 driehoek, dus OM = 2r₁)\n• Invullen in OM/OC = BM/CE geeft 2r₁/r₁ = r₂/CE, dus CE = ½r₂ (dus CE = DF = ½r₂)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "DF = r₂ · sin(30°) = ½r₂ (of driehoek DMF is een 1 − 2 − √3 driehoek, dus DF = ½r₂)"
+          },
+          {
+            "points": 1,
+            "description": "Uit de gelijkvormigheid van de driehoeken OBM en OEC volgt OM/OC = BM/CE"
+          },
+          {
+            "points": 1,
+            "description": "OM = r₁/sin(30°) = 2r₁ (of driehoek OAM is een 1 − 2 − √3 driehoek, dus OM = 2r₁)"
+          },
+          {
+            "points": 1,
+            "description": "Invullen in OM/OC = BM/CE geeft 2r₁/r₁ = r₂/CE, dus CE = ½r₂ (dus CE = DF = ½r₂)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-ii-twee-cirkels-antw15.png"
+        ]
+      },
+      {
+        "title": "Twee cirkels",
+        "question_number": 16,
+        "answer_text": "• In driehoek OEC is OC = 4 (en CE = ½r₂), dus OE = √(4² − (½r₂)²) (= √(16 − ¼r₂²))\n• In driehoek FMD is DM = r₂ (en DF = ½r₂), dus MF = √(r₂² − (½r₂)²) = ½r₂√3 (of MF = r₂ · cos(30(°)))\n• Dit geeft EF = 8 − √(16 − ¼r₂²) − ½r₂√3\n• Het maximum van (8 − √(16 − ¼r₂²) − ½r₂√3) · ½r₂ moet worden bepaald\n• Een toelichting waaruit volgt dat de gevraagde oppervlakte 2,56 is",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In driehoek OEC is OC = 4 (en CE = ½r₂), dus OE = √(4² − (½r₂)²) (= √(16 − ¼r₂²))"
+          },
+          {
+            "points": 1,
+            "description": "In driehoek FMD is DM = r₂ (en DF = ½r₂), dus MF = √(r₂² − (½r₂)²) = ½r₂√3 (of MF = r₂ · cos(30(°)))"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft EF = 8 − √(16 − ¼r₂²) − ½r₂√3"
+          },
+          {
+            "points": 1,
+            "description": "Het maximum van (8 − √(16 − ¼r₂²) − ½r₂√3) · ½r₂ moet worden bepaald"
+          },
+          {
+            "points": 1,
+            "description": "Een toelichting waaruit volgt dat de gevraagde oppervlakte 2,56 is"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-ii-twee-cirkels-antw16.png"
+        ]
+      }
+    ]
+  }
+}

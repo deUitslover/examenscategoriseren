@@ -1,0 +1,496 @@
+{
+  "payload": {
+    "subject_name": "Wiskunde B",
+    "level": "VWO",
+    "source": "VWO Wiskunde B 2026-I",
+    "answers": [
+      {
+        "title": "Een punt en een lijn",
+        "question_number": 1,
+        "answer_text": "• 7² + 24² = 625, dus de vergelijking van de cirkel is x² + y² = 625\n• De vergelijking van k is te schrijven als y = ¾x, dus voor de x-coördinaat van S geldt x² + (¾x)² = 625\n• 25/16·x² = 625 geeft x = 20 (x = −20 voldoet niet)\n• (x = 20 invullen in y = ¾x geeft) de coördinaten van S zijn (20,15)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "7² + 24² = 625, dus de vergelijking van de cirkel is x² + y² = 625"
+          },
+          {
+            "points": 1,
+            "description": "De vergelijking van k is te schrijven als y = ¾x, dus voor de x-coördinaat van S geldt x² + (¾x)² = 625"
+          },
+          {
+            "points": 1,
+            "description": "25/16·x² = 625 geeft x = 20 (x = −20 voldoet niet)"
+          },
+          {
+            "points": 1,
+            "description": "(x = 20 invullen in y = ¾x geeft) de coördinaten van S zijn (20,15)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-een-punt-en-een-lijn-antw1.png"
+        ]
+      },
+      {
+        "title": "Een punt en een lijn",
+        "question_number": 2,
+        "answer_text": "• De coördinaten van A zijn van de vorm (a, ¾a)\n• PA⃗ = (a − 7, ¾a − 24)\n• Er moet gelden ((4, 3) · (a − 7, ¾a − 24)) / (|(4, 3)| · |(a − 7, ¾a − 24)|) = ((1, 0) · (a − 7, ¾a − 24)) / (|(1, 0)| · |(a − 7, ¾a − 24)|)\n• Dit geeft (4(a − 7) + 3(¾a − 24))/5 = (a − 7)/1\n• (Dit geeft a = 52, dus) de coördinaten van A zijn (52,39)\nof\n• De richtingscoëfficiënt van k is ¾ en de hoek tussen k en de x-as is gelijk aan ∠OAB (Z-hoeken)\n• tan(∠OAB) = ¾ geeft ∠OAB = 36,86...° dus ∠OAP = 18,43...°\n• tan(∠OAP) = 0,33... en dus 0,33... = (0,75a − 24)/(a − 7)\n• Beschrijven hoe op algebraïsche wijze hieruit de waarde van a gevonden kan worden\n• (Dit geeft a = 52, dus) de coördinaten van A zijn (52,39)\nof\n• De coördinaten van A zijn van de vorm (a, ¾a)\n• Een richtingsvector van k is (4, 3) en een richtingsvector van AB (met dezelfde lengte) is (5, 0)\n• Een richtingsvector van de bissectrice is (4, 3) + (5, 0) = (9, 3). Een vectorvoorstelling van de bissectrice is (x, y) = (7, 24) + t · (9, 3)\n• Uit de vergelijking 3(7 + 9t) − 4(24 + 3t) = 0 volgt −75 + 15t = 0, dus t = 5\n• De coördinaten van A zijn (52,39)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De coördinaten van A zijn van de vorm (a, ¾a)"
+          },
+          {
+            "points": 1,
+            "description": "PA⃗ = (a − 7, ¾a − 24)"
+          },
+          {
+            "points": 1,
+            "description": "Er moet gelden ((4, 3) · (a − 7, ¾a − 24)) / (|(4, 3)| · |(a − 7, ¾a − 24)|) = ((1, 0) · (a − 7, ¾a − 24)) / (|(1, 0)| · |(a − 7, ¾a − 24)|)"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft (4(a − 7) + 3(¾a − 24))/5 = (a − 7)/1"
+          },
+          {
+            "points": 1,
+            "description": "(Dit geeft a = 52, dus) de coördinaten van A zijn (52,39)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-een-punt-en-een-lijn-antw2.png"
+        ]
+      },
+      {
+        "title": "Twee snijpunten",
+        "question_number": 3,
+        "answer_text": "• f′(x) = 2/x − 3/(2x²)\n• f′(½) = −2\n• Dus de richtingscoëfficiënt van m is ½\n• De vergelijking moet worden opgelost 2/x − 3/(2x²) = ½\n• Herleiden tot x² − 4x + 3 = 0\n• Een exacte berekening waaruit volgt x_Q = 1 (x = 3 voldoet niet)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "f′(x) = 2/x − 3/(2x²)"
+          },
+          {
+            "points": 1,
+            "description": "f′(½) = −2"
+          },
+          {
+            "points": 1,
+            "description": "Dus de richtingscoëfficiënt van m is ½"
+          },
+          {
+            "points": 1,
+            "description": "De vergelijking moet worden opgelost 2/x − 3/(2x²) = ½"
+          },
+          {
+            "points": 1,
+            "description": "Herleiden tot x² − 4x + 3 = 0"
+          },
+          {
+            "points": 1,
+            "description": "Een exacte berekening waaruit volgt x_Q = 1 (x = 3 voldoet niet)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-twee-snijpunten-antw3.png"
+        ]
+      },
+      {
+        "title": "Twee snijpunten",
+        "question_number": 4,
+        "answer_text": "• Het inzicht dat (het vervangen van x door 2x betekent dat) er sprake is van een vermenigvuldiging ten opzichte van de y-as\n• De bijbehorende factor is ½",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het inzicht dat (het vervangen van x door 2x betekent dat) er sprake is van een vermenigvuldiging ten opzichte van de y-as"
+          },
+          {
+            "points": 1,
+            "description": "De bijbehorende factor is ½"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-twee-snijpunten-antw4.png"
+        ]
+      },
+      {
+        "title": "Twee snijpunten",
+        "question_number": 5,
+        "answer_text": "• Uit 2ln(x) + 3/(2x) − 1 = 2ln(2x) + 3/(4x) − 1 volgt 3/(2x) − 3/(4x) = 2ln(2x) − 2ln(x)\n• 3/(2x) − 3/(4x) = 3/(4x)\n• 2ln(2x) − 2ln(x) = 2ln(2)\n• 3/(4x) = 2ln(2) geeft x = 3/(8ln(2)) (of een gelijkwaardige uitdrukking)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Uit 2ln(x) + 3/(2x) − 1 = 2ln(2x) + 3/(4x) − 1 volgt 3/(2x) − 3/(4x) = 2ln(2x) − 2ln(x)"
+          },
+          {
+            "points": 1,
+            "description": "3/(2x) − 3/(4x) = 3/(4x)"
+          },
+          {
+            "points": 1,
+            "description": "2ln(2x) − 2ln(x) = 2ln(2)"
+          },
+          {
+            "points": 1,
+            "description": "3/(4x) = 2ln(2) geeft x = 3/(8ln(2)) (of een gelijkwaardige uitdrukking)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-twee-snijpunten-antw5.png"
+        ]
+      },
+      {
+        "title": "Perforatie en oppervlakte",
+        "question_number": 6,
+        "answer_text": "• (Uit x − 1 = 0 volgt:) de x-coördinaat van de perforatie is 1\n• Voor x = 1 moet gelden dat |x − 2| + p = 0\n• Hieruit volgt 1 + p = 0, dus p = −1\n• lim_{x→1} f₋₁(x) = lim_{x→1} (|x − 2| − 1)/(x − 1) = (lim_{x→1} (−(x − 2) − 1)/(x − 1) =) lim_{x→1} (−x + 1)/(x − 1) = −1\n• De coördinaten van de perforatie zijn (1, −1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(Uit x − 1 = 0 volgt:) de x-coördinaat van de perforatie is 1"
+          },
+          {
+            "points": 1,
+            "description": "Voor x = 1 moet gelden dat |x − 2| + p = 0"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt 1 + p = 0, dus p = −1"
+          },
+          {
+            "points": 1,
+            "description": "lim_{x→1} f₋₁(x) = lim_{x→1} (|x − 2| − 1)/(x − 1) = (lim_{x→1} (−(x − 2) − 1)/(x − 1) =) lim_{x→1} (−x + 1)/(x − 1) = −1"
+          },
+          {
+            "points": 1,
+            "description": "De coördinaten van de perforatie zijn (1, −1)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-perforatie-en-oppervlakte-antw6.png"
+        ]
+      },
+      {
+        "title": "Perforatie en oppervlakte",
+        "question_number": 7,
+        "answer_text": "• De gevraagde oppervlakte kan berekend worden met behulp van ∫₂⁵ (1 − 1/(x − 1)) dx\n• Een primitieve van 1 − 1/(x − 1) (voor x ≥ 2) is x − ln(x − 1)\n• Invullen van de grenzen geeft: de oppervlakte van V is 3 − ln(4)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De gevraagde oppervlakte kan berekend worden met behulp van ∫₂⁵ (1 − 1/(x − 1)) dx"
+          },
+          {
+            "points": 1,
+            "description": "Een primitieve van 1 − 1/(x − 1) (voor x ≥ 2) is x − ln(x − 1)"
+          },
+          {
+            "points": 1,
+            "description": "Invullen van de grenzen geeft: de oppervlakte van V is 3 − ln(4)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-perforatie-en-oppervlakte-antw7.png"
+        ]
+      },
+      {
+        "title": "Stuiterbal",
+        "question_number": 8,
+        "answer_text": "• h₀′(t) = −9,8 · t\n• 0,45 invullen geeft de gevraagde snelheid is (−)4,4 (m/s)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "h₀′(t) = −9,8 · t"
+          },
+          {
+            "points": 1,
+            "description": "0,45 invullen geeft de gevraagde snelheid is (−)4,4 (m/s)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-stuiterbal-antw8.png"
+        ]
+      },
+      {
+        "title": "Stuiterbal",
+        "question_number": 9,
+        "answer_text": "• Invullen van n = 2 geeft T₂ = 0,576\n• t_K = 0,45 + 0,72 + T₂ = 1,746\n• t_L = (0,45 + 0,72 + T₂ + 0,9 · 0,8³ =) 2,2068\n• h₃ heeft een functievoorschrift van de vorm h₃(t) = p(t − 1,746)(t − 2,2068)\n• Voor het hoogste punt na stuit 3 geldt: t = ½(1,746 + 2,2068) = 1,9764\n• Er moet gelden h₃(1,9764) = 0,64³ (= 0,262144)\n• Hieruit volgt p = −4,938..., dus h₃(t) = −4,94(t − 1,75)(t − 2,21) (voor 1,75 ≤ t ≤ 2,21)\nof\n• Invullen van n = 2 geeft T₂ = 0,576\n• Voor het hoogste punt na stuit 3 geldt: t = 0,45 + 0,72 + T₂ + ½ · T₃\n• Dus t = (0,45 + 0,72 + T₂ + ½ · 0,9 · 0,8³ =) 1,9764\n• Er moet gelden h₃(1,9764) = 0,64³ (= 0,262144) (dus de coördinaten van de top zijn (1,9764; 0,262144))\n• h₃ heeft dus een functievoorschrift van de vorm h₃(t) = p(t − 1,9764)² + 0,262144\n• t_K = 0,45 + 0,72 + T₂ = 1,746, dus er moet gelden h₃(1,746) = 0\n• Hieruit volgt p = −4,938..., dus h₃(t) = −4,94(t − 1,98)² + 0,26 (voor 1,75 ≤ t ≤ 2,21)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Invullen van n = 2 geeft T₂ = 0,576"
+          },
+          {
+            "points": 1,
+            "description": "t_K = 0,45 + 0,72 + T₂ = 1,746"
+          },
+          {
+            "points": 1,
+            "description": "t_L = (0,45 + 0,72 + T₂ + 0,9 · 0,8³ =) 2,2068"
+          },
+          {
+            "points": 1,
+            "description": "h₃ heeft een functievoorschrift van de vorm h₃(t) = p(t − 1,746)(t − 2,2068)"
+          },
+          {
+            "points": 1,
+            "description": "Voor het hoogste punt na stuit 3 geldt: t = ½(1,746 + 2,2068) = 1,9764"
+          },
+          {
+            "points": 1,
+            "description": "Er moet gelden h₃(1,9764) = 0,64³ (= 0,262144)"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt p = −4,938..., dus h₃(t) = −4,94(t − 1,75)(t − 2,21) (voor 1,75 ≤ t ≤ 2,21)"
+          }
+        ],
+        "grading_note": "– Als voor p de waarde −4,9 (uit de vorige vraag) wordt gebruikt, voor deze vraag maximaal 5 scorepunten toekennen.\n– Als een leerling het functievoorschrift in de volgende vorm heeft weergegeven: h₃(t) = −4,94t² + 19,52t − 19,03, mogen alle scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-stuiterbal-antw9.png"
+        ]
+      },
+      {
+        "title": "Lus",
+        "question_number": 10,
+        "answer_text": "• De baansnelheid wordt gegeven door v(t) = √((4t − 3t²)² + (4 − 4t)²)\n• Beschrijven hoe het minimum kan worden berekend\n• De gevraagde waarde van t is 1,12",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De baansnelheid wordt gegeven door v(t) = √((4t − 3t²)² + (4 − 4t)²)"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe het minimum kan worden berekend"
+          },
+          {
+            "points": 1,
+            "description": "De gevraagde waarde van t is 1,12"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-lus-antw10.png"
+        ]
+      },
+      {
+        "title": "Lus",
+        "question_number": 11,
+        "answer_text": "• P en Q liggen op gelijke hoogte als geldt: 2t(2 − t) = 2(t − 1)(2 − (t − 1))\n• Dit geeft 4t − 2t² = −2t² + 8t − 6\n• 4t = 8t − 6 geeft t = 1½\n• De lengte van lijnstuk PQ is (x(1½) − x(½) = 9/8 − 3/8 =) ¾",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "P en Q liggen op gelijke hoogte als geldt: 2t(2 − t) = 2(t − 1)(2 − (t − 1))"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft 4t − 2t² = −2t² + 8t − 6"
+          },
+          {
+            "points": 1,
+            "description": "4t = 8t − 6 geeft t = 1½"
+          },
+          {
+            "points": 1,
+            "description": "De lengte van lijnstuk PQ is (x(1½) − x(½) = 9/8 − 3/8 =) ¾"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-lus-antw11.png"
+        ]
+      },
+      {
+        "title": "Lus",
+        "question_number": 12,
+        "answer_text": "• x′(t) = 0 geeft t = 4/3 (t = 0 voldoet niet)\n• De coördinaten van A zijn (32/27, 8/9·a)\n• y′(t) = 2a − 2at\n• y′(t) = 0 geeft t = 1; hieruit volgt dat (1, a) de coördinaten van B zijn\n• De richtingscoëfficiënt van AB is (8/9·a − a)/(32/27 − 1) (= −3/5·a)\n• −3/5·a = −1 geeft a = 5/3\nof\n• x′(t) = 0 geeft t = 4/3 (t = 0 voldoet niet)\n• De coördinaten van A zijn (32/27, 8/9·a)\n• y′(t) = 2a − 2at\n• y′(t) = 0 geeft t = 1; hieruit volgt dat (1, a) de coördinaten van B zijn\n• De driehoek ASB (met S het snijpunt van de verticale lijn door A en de horizontale lijn door B) moet gelijkbenig zijn, dus 1/9·a = 5/27\n• 1/9·a = 5/27 geeft a = 5/3\nof\n• De baan van deze vraag ontstaat uit de baan van de vorige vraag door een vermenigvuldiging ten opzichte van de x-as met factor ½a\n• x′(t) = 0 geeft t = 4/3 (t = 0 voldoet niet)\n• Voor a = 2 zijn de coördinaten van A (32/27, 16/9)\n• y′(t) = 0 geeft t = 1; hieruit volgt (voor a = 2) dat (1,2) de coördinaten van B zijn\n• Dus (voor a = 2) is de richtingscoëfficiënt van AB gelijk aan (2 − 16/9)/(1 − 32/27) (= −6/5)\n• (Dus voor de vermenigvuldigingsfactor ½a geldt) ½a · −6/5 = −1 en hieruit volgt a = 5/3",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "x′(t) = 0 geeft t = 4/3 (t = 0 voldoet niet)"
+          },
+          {
+            "points": 1,
+            "description": "De coördinaten van A zijn (32/27, 8/9·a)"
+          },
+          {
+            "points": 1,
+            "description": "y′(t) = 2a − 2at"
+          },
+          {
+            "points": 1,
+            "description": "y′(t) = 0 geeft t = 1; hieruit volgt dat (1, a) de coördinaten van B zijn"
+          },
+          {
+            "points": 1,
+            "description": "De richtingscoëfficiënt van AB is (8/9·a − a)/(32/27 − 1) (= −3/5·a)"
+          },
+          {
+            "points": 1,
+            "description": "−3/5·a = −1 geeft a = 5/3"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-lus-antw12.png"
+        ]
+      },
+      {
+        "title": "Gebroken gonio",
+        "question_number": 13,
+        "answer_text": "• f(x) = 1 geeft 2sin(x) = cos(x)\n• Dus tan(x) = ½\n• De oplossingen zijn periodiek met periode π (of: het oplossen van de vergelijking geeft x = 0,46... + k · π) dus AB = BC = π",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "f(x) = 1 geeft 2sin(x) = cos(x)"
+          },
+          {
+            "points": 1,
+            "description": "Dus tan(x) = ½"
+          },
+          {
+            "points": 1,
+            "description": "De oplossingen zijn periodiek met periode π (of: het oplossen van de vergelijking geeft x = 0,46... + k · π) dus AB = BC = π"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-gebroken-gonio-antw13.png"
+        ]
+      },
+      {
+        "title": "Gebroken gonio",
+        "question_number": 14,
+        "answer_text": "• d(1 + 2sin(x))/dx = 2cos(x) en d(1 + cos(x))/dx = −sin(x)\n• f′(x) = ((1 + cos(x)) · 2cos(x) − (1 + 2sin(x)) · −sin(x)) / (1 + cos(x))²\n• f′(x) = 0 als 2cos(x) + 2cos²(x) + sin(x) + 2sin²(x) = 0\n• (sin²(x) + cos²(x) = 1 dus) 2cos(x) + 2 + sin(x) = 0\n• 2cos(x) + 2 = −sin(x) kwadrateren geeft 4cos²(x) + 8cos(x) + 4 = sin²(x)\n• Gebruikmaken van sin²(x) = 1 − cos²(x) geeft 5cos²(x) + 8cos(x) + 3 = 0",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "d(1 + 2sin(x))/dx = 2cos(x) en d(1 + cos(x))/dx = −sin(x)"
+          },
+          {
+            "points": 1,
+            "description": "f′(x) = ((1 + cos(x)) · 2cos(x) − (1 + 2sin(x)) · −sin(x)) / (1 + cos(x))²"
+          },
+          {
+            "points": 1,
+            "description": "f′(x) = 0 als 2cos(x) + 2cos²(x) + sin(x) + 2sin²(x) = 0"
+          },
+          {
+            "points": 1,
+            "description": "(sin²(x) + cos²(x) = 1 dus) 2cos(x) + 2 + sin(x) = 0"
+          },
+          {
+            "points": 1,
+            "description": "2cos(x) + 2 = −sin(x) kwadrateren geeft 4cos²(x) + 8cos(x) + 4 = sin²(x)"
+          },
+          {
+            "points": 1,
+            "description": "Gebruikmaken van sin²(x) = 1 − cos²(x) geeft 5cos²(x) + 8cos(x) + 3 = 0"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-gebroken-gonio-antw14.png"
+        ]
+      },
+      {
+        "title": "Gebroken gonio",
+        "question_number": 15,
+        "answer_text": "• Substitutie van p = cos(x) in 5cos²(x) + 8cos(x) + 3 = 0 geeft 5p² + 8p + 3 = 0\n• Een algebraïsche berekening waaruit volgt p = −0,6 of p = −1\n• cos(x) = −0,6 (cos(x) = −1 voldoet niet)\n• cos(x) = −0,6 geeft sin(x) = −0,8 of sin(x) = 0,8\n• De y-coördinaat van T is dus −1,5 (6,5 voldoet niet)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Substitutie van p = cos(x) in 5cos²(x) + 8cos(x) + 3 = 0 geeft 5p² + 8p + 3 = 0"
+          },
+          {
+            "points": 1,
+            "description": "Een algebraïsche berekening waaruit volgt p = −0,6 of p = −1"
+          },
+          {
+            "points": 1,
+            "description": "cos(x) = −0,6 (cos(x) = −1 voldoet niet)"
+          },
+          {
+            "points": 1,
+            "description": "cos(x) = −0,6 geeft sin(x) = −0,8 of sin(x) = 0,8"
+          },
+          {
+            "points": 1,
+            "description": "De y-coördinaat van T is dus −1,5 (6,5 voldoet niet)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-gebroken-gonio-antw15.png"
+        ]
+      },
+      {
+        "title": "Begrensde inhoud",
+        "question_number": 16,
+        "answer_text": "• L_p = ∫₀ᵖ π(e⁻ˣ − e⁻²ˣ)² dx\n• (e⁻ˣ − e⁻²ˣ)² = e⁻²ˣ − 2e⁻³ˣ + e⁻⁴ˣ\n• Enn primitieve van e⁻²ˣ + e⁻⁴ˣ is −½e⁻²ˣ − ¼e⁻⁴ˣ\n• Een primitieve van 2e⁻³ˣ is −⅔e⁻³ˣ\n• x = p geeft −½e⁻²ᵖ + ⅔e⁻³ᵖ − ¼e⁻⁴ᵖ en x = 0 geeft −1/12\n• De rest van de afleiding van L_p = 1/12·π(1 − 6e⁻²ᵖ + 8e⁻³ᵖ − 3e⁻⁴ᵖ)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "L_p = ∫₀ᵖ π(e⁻ˣ − e⁻²ˣ)² dx"
+          },
+          {
+            "points": 1,
+            "description": "(e⁻ˣ − e⁻²ˣ)² = e⁻²ˣ − 2e⁻³ˣ + e⁻⁴ˣ"
+          },
+          {
+            "points": 1,
+            "description": "Enn primitieve van e⁻²ˣ + e⁻⁴ˣ is −½e⁻²ˣ − ¼e⁻⁴ˣ"
+          },
+          {
+            "points": 1,
+            "description": "Een primitieve van 2e⁻³ˣ is −⅔e⁻³ˣ"
+          },
+          {
+            "points": 1,
+            "description": "x = p geeft −½e⁻²ᵖ + ⅔e⁻³ᵖ − ¼e⁻⁴ᵖ en x = 0 geeft −1/12"
+          },
+          {
+            "points": 1,
+            "description": "De rest van de afleiding van L_p = 1/12·π(1 − 6e⁻²ᵖ + 8e⁻³ᵖ − 3e⁻⁴ᵖ)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-begrensde-inhoud-antw16.png"
+        ]
+      },
+      {
+        "title": "Begrensde inhoud",
+        "question_number": 17,
+        "answer_text": "• Het inzicht dat L = 1/12·π (of 0,26...)\n• De vergelijking L_p = 1/12·π(1 − 6e⁻²ᵖ + 8e⁻³ᵖ − 3e⁻⁴ᵖ) = 1/24·π (of: 1 − 6e⁻²ᵖ + 8e⁻³ᵖ − 3e⁻⁴ᵖ = ½) moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• De gevraagde waarde van p is 0,95",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het inzicht dat L = 1/12·π (of 0,26...)"
+          },
+          {
+            "points": 1,
+            "description": "De vergelijking L_p = 1/12·π(1 − 6e⁻²ᵖ + 8e⁻³ᵖ − 3e⁻⁴ᵖ) = 1/24·π (of: 1 − 6e⁻²ᵖ + 8e⁻³ᵖ − 3e⁻⁴ᵖ = ½) moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "De gevraagde waarde van p is 0,95"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2026-i-begrensde-inhoud-antw17.png"
+        ]
+      }
+    ]
+  }
+}
