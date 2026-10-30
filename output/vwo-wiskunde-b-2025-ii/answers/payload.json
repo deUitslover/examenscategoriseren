@@ -1,0 +1,515 @@
+{
+  "payload": {
+    "subject_name": "Wiskunde B",
+    "level": "VWO",
+    "source": "VWO Wiskunde B 2025-II",
+    "answers": [
+      {
+        "title": "Beweging over twee lijnen",
+        "question_number": 1,
+        "answer_text": "• Er moet gelden −(4 − 4t²) = 4t\n• Een exacte berekening waaruit volgt t = ½ + ½√5\n• Het eindantwoord y_P = −2 − 2√5 (of een vergelijkbare uitdrukking)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er moet gelden −(4 − 4t²) = 4t"
+          },
+          {
+            "points": 1,
+            "description": "Een exacte berekening waaruit volgt t = ½ + ½√5"
+          },
+          {
+            "points": 1,
+            "description": "Het eindantwoord y_P = −2 − 2√5 (of een vergelijkbare uitdrukking)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-beweging-over-twee-lijnen-antw1.png"
+        ]
+      },
+      {
+        "title": "Beweging over twee lijnen",
+        "question_number": 2,
+        "answer_text": "• Voor de bewegingsvergelijkingen van P geldt dx/dt = 16t en dy/dt = −8t\n• v(t) = √((16t)² + (−8t)²) = √(320t²)\n• De snelheid van Q is (√(3² + 4²) =) 5\n• √(320 · (√5)²) = 40 (dus op t = √5 is de snelheid van P acht keer zo groot als de snelheid van Q)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor de bewegingsvergelijkingen van P geldt dx/dt = 16t en dy/dt = −8t"
+          },
+          {
+            "points": 1,
+            "description": "v(t) = √((16t)² + (−8t)²) = √(320t²)"
+          },
+          {
+            "points": 1,
+            "description": "De snelheid van Q is (√(3² + 4²) =) 5"
+          },
+          {
+            "points": 1,
+            "description": "√(320 · (√5)²) = 40 (dus op t = √5 is de snelheid van P acht keer zo groot als de snelheid van Q)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-beweging-over-twee-lijnen-antw2.png"
+        ]
+      },
+      {
+        "title": "Beweging over twee lijnen",
+        "question_number": 3,
+        "answer_text": "• De helling van lijnstuk PQ is (4t − 4 + 4t²)/(1 + 3t − 8t²)\n• (4t − 4 + 4t²)/(1 + 3t − 8t²) = 4/3 geeft 3(4t − 4 + 4t²) = 4(1 + 3t − 8t²)\n• Een exacte berekening waaruit volgt dat t² = 16/44\n• De coördinaten van P zijn (128/44, 112/44)\nof\n• De richtingscoëfficiënt van de baan van Q is 4/3, dus P moet op de baan van Q liggen\n• P ligt dan op de lijn met vergelijking y = 4/3·x − 4/3, dus 4 − 4t² = 4/3 · 8t² − 4/3\n• Een exacte berekening waaruit volgt dat t² = 16/44\n• De coördinaten van P zijn (128/44, 112/44)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De helling van lijnstuk PQ is (4t − 4 + 4t²)/(1 + 3t − 8t²)"
+          },
+          {
+            "points": 1,
+            "description": "(4t − 4 + 4t²)/(1 + 3t − 8t²) = 4/3 geeft 3(4t − 4 + 4t²) = 4(1 + 3t − 8t²)"
+          },
+          {
+            "points": 1,
+            "description": "Een exacte berekening waaruit volgt dat t² = 16/44"
+          },
+          {
+            "points": 1,
+            "description": "De coördinaten van P zijn (128/44, 112/44)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-beweging-over-twee-lijnen-antw3.png"
+        ]
+      },
+      {
+        "title": "Opbrengst van zonnepanelen",
+        "question_number": 4,
+        "answer_text": "• In driehoek PQR geldt: b/sin(28°) = PR/sin(122°)\n• Hieruit volgt PR = 1,806 … · b\n• RS′ = (bcos(30°) =) 0,866 … · b (met S′ de loodrechte projectie van S op de lijn door P en R)\n• Er geldt 1,806 … · b + 0,866 … · b = 172\n• Dit geeft b = 64 (cm)\nof\n• QQ′ = (bsin(30°) =) 0,5b (met Q′ de loodrechte projectie van Q op lijnstuk PR)\n• Hieruit volgt Q′R = 0,5b/tan(28°) = 0,940 … · b\n• PQ′ = (bcos(30°) =) 0,866 … · b\n• Er geldt 0,940 … · b + 2 · 0,866 … · b = 172\n• Dit geeft b = 64 (cm)\nof\n• QQ′ = PQ′ · tan(30°) en QQ′ = Q′R · tan(28°) (met Q′ de loodrechte projectie van Q op lijnstuk PR)\n• Hieruit volgt Q′R = PQ′ · 1,085 …\n• Q′R = 172 − 2 · PQ′, dus 172 − 2 · PQ′ = PQ′ · 1,085 …\n• Hieruit volgt PQ′ = 55,738 …\n• PQ = 55,738…/cos(30°), dus b = 64 (cm)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In driehoek PQR geldt: b/sin(28°) = PR/sin(122°)"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt PR = 1,806 … · b"
+          },
+          {
+            "points": 1,
+            "description": "RS′ = (bcos(30°) =) 0,866 … · b (met S′ de loodrechte projectie van S op de lijn door P en R)"
+          },
+          {
+            "points": 1,
+            "description": "Er geldt 1,806 … · b + 0,866 … · b = 172"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft b = 64 (cm)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-opbrengst-van-zonnepanelen-antw4.png"
+        ]
+      },
+      {
+        "title": "Opbrengst van zonnepanelen",
+        "question_number": 5,
+        "answer_text": "• De gegevens invullen geeft het stelsel { 1,0 = pcos(9q) + sin(18q) ; 2,9 = pcos(18q) + sin(36q) }\n• Hieruit volgt het stelsel { p = (1,0 − sin(18q))/cos(9q) ; p = (2,9 − sin(36q))/cos(18q) }\n• Beschrijven hoe de vergelijking (1,0 − sin(18q))/cos(9q) = (2,9 − sin(36q))/cos(18q) kan worden opgelost\n• Dit geeft q = 0,231 en p = −3,804",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De gegevens invullen geeft het stelsel { 1,0 = pcos(9q) + sin(18q) ; 2,9 = pcos(18q) + sin(36q) }"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt het stelsel { p = (1,0 − sin(18q))/cos(9q) ; p = (2,9 − sin(36q))/cos(18q) }"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de vergelijking (1,0 − sin(18q))/cos(9q) = (2,9 − sin(36q))/cos(18q) kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft q = 0,231 en p = −3,804"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-opbrengst-van-zonnepanelen-antw5.png"
+        ]
+      },
+      {
+        "title": "Opbrengst van zonnepanelen",
+        "question_number": 6,
+        "answer_text": "• Er geldt ∫₁₁^(t₂) −4,8cos(0,23t) dt = 18\n• Een primitieve van −4,8cos(0,23t) is −(4,8/0,23) · sin(0,23t)\n• Grenzen invullen geeft de vergelijking −20,86 … · (sin(0,23t₂) − sin(2,53)) = 18\n• Dit geeft t₂ = 14,930 …\n• Het opladen duurt 236 (min) (of 3 uur en 56 minuten)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er geldt ∫₁₁^(t₂) −4,8cos(0,23t) dt = 18"
+          },
+          {
+            "points": 1,
+            "description": "Een primitieve van −4,8cos(0,23t) is −(4,8/0,23) · sin(0,23t)"
+          },
+          {
+            "points": 1,
+            "description": "Grenzen invullen geeft de vergelijking −20,86 … · (sin(0,23t₂) − sin(2,53)) = 18"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft t₂ = 14,930 …"
+          },
+          {
+            "points": 1,
+            "description": "Het opladen duurt 236 (min) (of 3 uur en 56 minuten)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-opbrengst-van-zonnepanelen-antw6.png"
+        ]
+      },
+      {
+        "title": "Vierkant en driehoek",
+        "question_number": 7,
+        "answer_text": "• De coördinaten van P zijn (p, ln(3p)) en de coördinaten van R zijn (3p, ln(9p))\n• Er moet gelden 2p = ln(9p) − ln(3p)\n• Dus 2p = ln(3)\n• Hieruit volgt (p = ½ln(3) dus) x_P = 0,55 en y_P = 0,50",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De coördinaten van P zijn (p, ln(3p)) en de coördinaten van R zijn (3p, ln(9p))"
+          },
+          {
+            "points": 1,
+            "description": "Er moet gelden 2p = ln(9p) − ln(3p)"
+          },
+          {
+            "points": 1,
+            "description": "Dus 2p = ln(3)"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt (p = ½ln(3) dus) x_P = 0,55 en y_P = 0,50"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-vierkant-en-driehoek-antw7.png"
+        ]
+      },
+      {
+        "title": "Vierkant en driehoek",
+        "question_number": 8,
+        "answer_text": "• ln(3x) = a geeft x_B = ⅓eᵃ\n• f′(x) = 1/x\n• De richtingscoëfficiënt van de raaklijn is f′(⅓eᵃ) = 3/eᵃ\n• Een exacte toelichting waaruit volgt dat y_C = a − 1 (dus AC = 1)\nof\n• f′(x) = 1/x\n• De richtingscoëfficiënt van de raaklijn is 1/AB\n• De richtingscoëfficiënt van de raaklijn is ook AC/AB\n• Dit geeft AC/AB = 1/AB (dus AC = 1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "ln(3x) = a geeft x_B = ⅓eᵃ"
+          },
+          {
+            "points": 1,
+            "description": "f′(x) = 1/x"
+          },
+          {
+            "points": 1,
+            "description": "De richtingscoëfficiënt van de raaklijn is f′(⅓eᵃ) = 3/eᵃ"
+          },
+          {
+            "points": 1,
+            "description": "Een exacte toelichting waaruit volgt dat y_C = a − 1 (dus AC = 1)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-vierkant-en-driehoek-antw8.png"
+        ]
+      },
+      {
+        "title": "Vierkant en driehoek",
+        "question_number": 9,
+        "answer_text": "• Gebruik van de stelling van Pythagoras in driehoek ACD geeft AD = √(1 − L²)\n• (Omdat L > 0 geldt) Opp(ACD) = ½ · L · √(1 − L²)\n• Opp(ACD) = ½ · √(L²) · √(1 − L²) = ½√(L² − L⁴)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Gebruik van de stelling van Pythagoras in driehoek ACD geeft AD = √(1 − L²)"
+          },
+          {
+            "points": 1,
+            "description": "(Omdat L > 0 geldt) Opp(ACD) = ½ · L · √(1 − L²)"
+          },
+          {
+            "points": 1,
+            "description": "Opp(ACD) = ½ · √(L²) · √(1 − L²) = ½√(L² − L⁴)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-vierkant-en-driehoek-antw9.png"
+        ]
+      },
+      {
+        "title": "Vierkant en driehoek",
+        "question_number": 10,
+        "answer_text": "• d(L² − L⁴)/dL = 2L − 4L³\n• Opp′(ACD) = (2L − 4L³)/(4√(L² − L⁴))\n• Opp(ACD) is maximaal als 2L − 4L³ = 0\n• De oppervlakte van driehoek ACD is maximaal voor L² = ½\n• De maximale oppervlakte is ¼\nof\n• Opp(ACD) is maximaal als L² − L⁴ maximaal is\n• d(L² − L⁴)/dL = 2L − 4L³\n• Opp(ACD) is maximaal als 2L − 4L³ = 0\n• De oppervlakte van driehoek ACD is maximaal voor L² = ½\n• De maximale oppervlakte is ¼",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "d(L² − L⁴)/dL = 2L − 4L³"
+          },
+          {
+            "points": 1,
+            "description": "Opp′(ACD) = (2L − 4L³)/(4√(L² − L⁴))"
+          },
+          {
+            "points": 1,
+            "description": "Opp(ACD) is maximaal als 2L − 4L³ = 0"
+          },
+          {
+            "points": 1,
+            "description": "De oppervlakte van driehoek ACD is maximaal voor L² = ½"
+          },
+          {
+            "points": 1,
+            "description": "De maximale oppervlakte is ¼"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-vierkant-en-driehoek-antw10.png"
+        ]
+      },
+      {
+        "title": "Twee lijnstukken met eindpunt P",
+        "question_number": 11,
+        "answer_text": "• Uit AP = BP en q = 0 volgt √((p − 5)² + (0 − 4)²) = √((p − 8)² + (0 − 5)²)\n• Dit geeft p² − 10p + 41 = p² − 16p + 89\n• Een exacte berekening waaruit volgt dat p = 8\nof\n• Het inzicht dat (de x-coördinaat van) het snijpunt van de middelloodlijn van AB met de x-as moet worden bepaald\n• Een vectorvoorstelling van de middelloodlijn van AB is (x, y) = (6½, 4½) + t(1, −3) (of: een vergelijking van de middelloodlijn van AB is y = −3x + 24)\n• Een exacte berekening waaruit volgt dat x_P = 8",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Uit AP = BP en q = 0 volgt √((p − 5)² + (0 − 4)²) = √((p − 8)² + (0 − 5)²)"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft p² − 10p + 41 = p² − 16p + 89"
+          },
+          {
+            "points": 1,
+            "description": "Een exacte berekening waaruit volgt dat p = 8"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-twee-lijnstukken-met-eindpunt-p-antw11.png"
+        ]
+      },
+      {
+        "title": "Twee lijnstukken met eindpunt P",
+        "question_number": 12,
+        "answer_text": "• AP⃗ = (p − 5, q − 4)\n• BP⃗ = (p − 8, q − 5)\n• AC⃗ = (4 − q, p − 5) en BD⃗ = (q − 5, 8 − p)\n• OC⃗ = OA⃗ + AC⃗ = (5, 4) + (4 − q, p − 5)\n• OD⃗ = OB⃗ + BD⃗ = (8, 5) + (q − 5, 8 − p)\n• OM⃗ = ½ · (OC⃗ + OD⃗) = (6, 6) (dus de coördinaten van het midden M zijn onafhankelijk van de positie van punt P)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "AP⃗ = (p − 5, q − 4)"
+          },
+          {
+            "points": 1,
+            "description": "BP⃗ = (p − 8, q − 5)"
+          },
+          {
+            "points": 1,
+            "description": "AC⃗ = (4 − q, p − 5) en BD⃗ = (q − 5, 8 − p)"
+          },
+          {
+            "points": 1,
+            "description": "OC⃗ = OA⃗ + AC⃗ = (5, 4) + (4 − q, p − 5)"
+          },
+          {
+            "points": 1,
+            "description": "OD⃗ = OB⃗ + BD⃗ = (8, 5) + (q − 5, 8 − p)"
+          },
+          {
+            "points": 1,
+            "description": "OM⃗ = ½ · (OC⃗ + OD⃗) = (6, 6) (dus de coördinaten van het midden M zijn onafhankelijk van de positie van punt P)"
+          }
+        ],
+        "grading_note": "Als in het zesde antwoordelement een vector OM⃗ wordt berekend waarbij in één of beide kentallen p en/of q voorkomt, mag voor dit antwoordelement geen scorepunt worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-twee-lijnstukken-met-eindpunt-p-antw12.png"
+        ]
+      },
+      {
+        "title": "Wortel en sinus",
+        "question_number": 13,
+        "answer_text": "• Voor de x-coördinaten van de gemeenschappelijke punten geldt (√x = √(x + sin(x)), dus) sin(x) = 0\n• Voor de x-coördinaten van de gemeenschappelijke punten geldt x = k · π (met k ≥ 0, k geheel)\n• f′(x) = 1/(2√x)\n• d(x + sin(x))/dx = 1 + cos(x)\n• g′(x) = (1 + cos(x))/(2√(x + sin(x)))\n• Voor k = 2, 4, 6, … geldt g′(k · π) = (1 + 1)/(2√(k · π + 0)) = 1/√(k · π)\n• f′(k · π) = 1/(2√(k · π)), dus voor k = 2, 4, 6, … geldt g′(k · π) = 2 · f′(k · π) (dus dan is de helling van de grafiek van g twee keer zo groot als de helling van de grafiek van f)\nof\n• Voor de x-coördinaten van de gemeenschappelijke punten geldt (√x = √(x + sin(x)), dus) sin(x) = 0\n• Voor de x-coördinaten van S₂, S₄, S₆, … geldt x = k · 2π (met k ≥ 1, k geheel)\n• f′(x) = 1/(2√x)\n• d(x + sin(x))/dx = 1 + cos(x)\n• g′(x) = (1 + cos(x))/(2√(x + sin(x)))\n• Voor x = k · 2π geldt g′(x) = (1 + 1)/(2√(x + 0)) = 1/√x\n• Dus voor x = k · 2π geldt g′(x) = 2 · f′(x) (dus dan is de helling van de grafiek van g twee keer zo groot als de helling van de grafiek van f)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor de x-coördinaten van de gemeenschappelijke punten geldt (√x = √(x + sin(x)), dus) sin(x) = 0"
+          },
+          {
+            "points": 1,
+            "description": "Voor de x-coördinaten van de gemeenschappelijke punten geldt x = k · π (met k ≥ 0, k geheel)"
+          },
+          {
+            "points": 1,
+            "description": "f′(x) = 1/(2√x)"
+          },
+          {
+            "points": 1,
+            "description": "d(x + sin(x))/dx = 1 + cos(x)"
+          },
+          {
+            "points": 1,
+            "description": "g′(x) = (1 + cos(x))/(2√(x + sin(x)))"
+          },
+          {
+            "points": 1,
+            "description": "Voor k = 2, 4, 6, … geldt g′(k · π) = (1 + 1)/(2√(k · π + 0)) = 1/√(k · π)"
+          },
+          {
+            "points": 1,
+            "description": "f′(k · π) = 1/(2√(k · π)), dus voor k = 2, 4, 6, … geldt g′(k · π) = 2 · f′(k · π) (dus dan is de helling van de grafiek van g twee keer zo groot als de helling van de grafiek van f)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-wortel-en-sinus-antw13.png"
+        ]
+      },
+      {
+        "title": "Drie keer over de lijn",
+        "question_number": 14,
+        "answer_text": "• Voor 0 ≤ x < √a geldt f_a(x) = ax − x³ + 3x\n• f_a′(x) = a − 3x² + 3\n• Een exacte berekening waarbij uit f_a′(x) = 0 volgt dat de x-coördinaat van de top √(⅓a + 1) is\n• y_top = f_a(√(⅓a + 1)) = a√(⅓a + 1) − (√(⅓a + 1))³ + 3√(⅓a + 1)\n• y_top = a√(⅓a + 1) − (⅓a + 1)√(⅓a + 1) + 3√(⅓a + 1) = (⅔a + 2)√(⅓a + 1) (= 2(⅓a + 1)√(⅓a + 1))",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor 0 ≤ x < √a geldt f_a(x) = ax − x³ + 3x"
+          },
+          {
+            "points": 1,
+            "description": "f_a′(x) = a − 3x² + 3"
+          },
+          {
+            "points": 1,
+            "description": "Een exacte berekening waarbij uit f_a′(x) = 0 volgt dat de x-coördinaat van de top √(⅓a + 1) is"
+          },
+          {
+            "points": 1,
+            "description": "y_top = f_a(√(⅓a + 1)) = a√(⅓a + 1) − (√(⅓a + 1))³ + 3√(⅓a + 1)"
+          },
+          {
+            "points": 1,
+            "description": "y_top = a√(⅓a + 1) − (⅓a + 1)√(⅓a + 1) + 3√(⅓a + 1) = (⅔a + 2)√(⅓a + 1) (= 2(⅓a + 1)√(⅓a + 1))"
+          }
+        ],
+        "grading_note": "Als wordt gewerkt met f_a(x) = −ax + x³ + 3x, dan mogen voor deze vraag maximaal 3 scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-drie-keer-over-de-lijn-antw14.png"
+        ]
+      },
+      {
+        "title": "Drie keer over de lijn",
+        "question_number": 15,
+        "answer_text": "• f_a(√a) = 3√a\n• Uit 3√a = 16 volgt a = 256/9\n• 2(⅓a + 1)√(⅓a + 1) = 2(⅓a + 1)^(3/2)\n• Een exacte berekening waarbij uit 2(⅓a + 1)^(3/2) = 16 volgt a = 9\n• Voor 9 < a < 256/9 (of: als a in het interval ⟨9, 256/9⟩ ligt,) (hebben de grafiek van f_a en lijn l drie snijpunten)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "f_a(√a) = 3√a"
+          },
+          {
+            "points": 1,
+            "description": "Uit 3√a = 16 volgt a = 256/9"
+          },
+          {
+            "points": 1,
+            "description": "2(⅓a + 1)√(⅓a + 1) = 2(⅓a + 1)^(3/2)"
+          },
+          {
+            "points": 1,
+            "description": "Een exacte berekening waarbij uit 2(⅓a + 1)^(3/2) = 16 volgt a = 9"
+          },
+          {
+            "points": 1,
+            "description": "Voor 9 < a < 256/9 (of: als a in het interval ⟨9, 256/9⟩ ligt,) (hebben de grafiek van f_a en lijn l drie snijpunten)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-drie-keer-over-de-lijn-antw15.png"
+        ]
+      },
+      {
+        "title": "Vlakdeel en rakende cirkel",
+        "question_number": 16,
+        "answer_text": "• x_E = 8,99 …\n• De inhoud kan worden berekend met π · ∫₀^(8,99…) (1½x + 4)² dx − π · ∫₀^(8,99…) (10eˣ/(eˣ + 1) − x − 1)² dx\n• De inhoud is 3212",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "x_E = 8,99 …"
+          },
+          {
+            "points": 1,
+            "description": "De inhoud kan worden berekend met π · ∫₀^(8,99…) (1½x + 4)² dx − π · ∫₀^(8,99…) (10eˣ/(eˣ + 1) − x − 1)² dx"
+          },
+          {
+            "points": 1,
+            "description": "De inhoud is 3212"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-vlakdeel-en-rakende-cirkel-antw16.png"
+        ]
+      },
+      {
+        "title": "Vlakdeel en rakende cirkel",
+        "question_number": 17,
+        "answer_text": "• lim_(x→∞) 10eˣ/(eˣ + 1) = lim_(x→∞) 10/(1 + 1/eˣ) = 10/(1 + 0) = 10\n• lim_(x→−∞) 10eˣ/(eˣ + 1) = (10 · 0)/(0 + 1) = 0\n• En exacte toelichting waaruit de vergelijkingen y = −x − 1 en y = −x + 9 volgen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "lim_(x→∞) 10eˣ/(eˣ + 1) = lim_(x→∞) 10/(1 + 1/eˣ) = 10/(1 + 0) = 10"
+          },
+          {
+            "points": 1,
+            "description": "lim_(x→−∞) 10eˣ/(eˣ + 1) = (10 · 0)/(0 + 1) = 0"
+          },
+          {
+            "points": 1,
+            "description": "En exacte toelichting waaruit de vergelijkingen y = −x − 1 en y = −x + 9 volgen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-vlakdeel-en-rakende-cirkel-antw17.png"
+        ]
+      },
+      {
+        "title": "Vlakdeel en rakende cirkel",
+        "question_number": 18,
+        "answer_text": "• De lijn met vergelijking y = x snijdt de scheve asymptoten in de punten (−½, −½) en (4½, 4½)\n• Een exacte toelichting waaruit volgt dat de afstand tussen de scheve asymptoten √50 is\n• De straal van de cirkel is ½√50, dus y_M = −½√50 (of een gelijkwaardige uitdrukking)\n• M ligt op de lijn met vergelijking y = −x + 4, dus x_M = 4 + ½√50 (of een gelijkwaardige uitdrukking)\nof\n• De verticale afstand tussen de scheve asymptoten is 10\n• Een exacte toelichting waaruit volgt dat de afstand tussen de scheve asymptoten 10/√2 is\n• De straal van de cirkel is 5/√2, dus y_M = −5/√2 (of een gelijkwaardige uitdrukking)\n• M ligt op de lijn met vergelijking y = −x + 4, dus x_M = 4 + 5/√2 (of een gelijkwaardige uitdrukking)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De lijn met vergelijking y = x snijdt de scheve asymptoten in de punten (−½, −½) en (4½, 4½)"
+          },
+          {
+            "points": 1,
+            "description": "Een exacte toelichting waaruit volgt dat de afstand tussen de scheve asymptoten √50 is"
+          },
+          {
+            "points": 1,
+            "description": "De straal van de cirkel is ½√50, dus y_M = −½√50 (of een gelijkwaardige uitdrukking)"
+          },
+          {
+            "points": 1,
+            "description": "M ligt op de lijn met vergelijking y = −x + 4, dus x_M = 4 + ½√50 (of een gelijkwaardige uitdrukking)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-ii-vlakdeel-en-rakende-cirkel-antw18.png"
+        ]
+      }
+    ]
+  }
+}
