@@ -1,0 +1,503 @@
+{
+  "payload": {
+    "subject_name": "Wiskunde B",
+    "level": "VWO",
+    "source": "VWO Wiskunde B 2025-I",
+    "answers": [
+      {
+        "title": "Vierdegraadsfunctie",
+        "question_number": 1,
+        "answer_text": "• f′(x) = 4x³ − 60x\n• f″(x) = 12x² − 60\n• f″(x) = 0 als x² = 5\n• Dus de y-coördinaat van de buigpunten is (5² − 30 · 5 =) −125",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "f′(x) = 4x³ − 60x"
+          },
+          {
+            "points": 1,
+            "description": "f″(x) = 12x² − 60"
+          },
+          {
+            "points": 1,
+            "description": "f″(x) = 0 als x² = 5"
+          },
+          {
+            "points": 1,
+            "description": "Dus de y-coördinaat van de buigpunten is (5² − 30 · 5 =) −125"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-vierdegraadsfunctie-antw1.png"
+        ]
+      },
+      {
+        "title": "Vierdegraadsfunctie",
+        "question_number": 2,
+        "answer_text": "• De vergelijking x⁴ − 30x² + 125 = 0 moet worden opgelost\n• Een exacte berekening waaruit volgt dat x² = 5 of x² = 25\n• x_A = −5 (, x_B = −√5, x_C = √5) en x_D = 5\n• De gevraagde lengte is 10",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De vergelijking x⁴ − 30x² + 125 = 0 moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Een exacte berekening waaruit volgt dat x² = 5 of x² = 25"
+          },
+          {
+            "points": 1,
+            "description": "x_A = −5 (, x_B = −√5, x_C = √5) en x_D = 5"
+          },
+          {
+            "points": 1,
+            "description": "De gevraagde lengte is 10"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-vierdegraadsfunctie-antw2.png"
+        ]
+      },
+      {
+        "title": "Druppel",
+        "question_number": 3,
+        "answer_text": "• x′(t) = cos(t) · (cos(t) − 1) + sin(t) · −sin(t)\n• Dit herleiden tot cos(2t) − cos(t)\n• cos(2t) − cos(t) = 0 geeft 2t = t + k · 2π of 2t = −t + k · 2π\n• Dit geeft t = 0, t = ⅔π, t = 4/3·π en t = 2π\n• De coördinaten zijn (0,1), (−¾√3, −½) en (¾√3, −½)\nof\n• x(t) = sin(t) · cos(t) − sin(t) = 0,5sin(2t) − sin(t)\n• x′(t) = cos(2t) − cos(t)\n• cos(2t) − cos(t) = 0 geeft 2t = t + k · 2π of 2t = −t + k · 2π\n• Dit geeft t = 0, t = ⅔π, t = 4/3·π en t = 2π\n• De coördinaten zijn (0,1), (−¾√3, −½) en (¾√3, −½)\nof\n• x′(t) = cos(t) · (cos(t) − 1) + sin(t) · −sin(t)\n• Dit herleiden tot 2cos²(t) − cos(t) − 1\n• 2cos²(t) − cos(t) − 1 = 0 geeft (met behulp van substitutie) cos(t) = 1 of cos(t) = −½\n• Dit geeft t = 0, t = ⅔π, t = 4/3·π en t = 2π\n• De coördinaten zijn (0,1), (−¾√3, −½) en (¾√3, −½)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "x′(t) = cos(t) · (cos(t) − 1) + sin(t) · −sin(t)"
+          },
+          {
+            "points": 1,
+            "description": "Dit herleiden tot cos(2t) − cos(t)"
+          },
+          {
+            "points": 1,
+            "description": "cos(2t) − cos(t) = 0 geeft 2t = t + k · 2π of 2t = −t + k · 2π"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft t = 0, t = ⅔π, t = 4/3·π en t = 2π"
+          },
+          {
+            "points": 1,
+            "description": "De coördinaten zijn (0,1), (−¾√3, −½) en (¾√3, −½)"
+          }
+        ],
+        "grading_note": "Voor het eerste antwoordelement van het eerste antwoordalternatief, het tweede antwoordelement van het tweede antwoordalternatief en het eerste antwoordelement van het derde antwoordalternatief uitsluitend 0 of 2 scorepunten toekennen, tenzij de enige fout een rekenfout betreft (zie vakspecifieke regel 1). In dat geval mag 1 scorepunt worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-druppel-antw3.png"
+        ]
+      },
+      {
+        "title": "Druppel",
+        "question_number": 4,
+        "answer_text": "• x² = sin²(t) · (cos(t) − 1)²\n• x² = (1 − cos²(t)) · (cos(t) − 1)²\n• x² = (1 − y²) · (y − 1)²\n• x² = −y⁴ + 2y³ − 2y + 1 (en dus geldt dit voor alle punten van K)\nof\n• (Voor iedere waarde van t moet gelden:) sin²(t) · (cos(t) − 1)² = −cos⁴(t) + 2cos³(t) − 2cos(t) + 1\n• (1 − cos²(t)) · (cos(t) − 1)² = −cos⁴(t) + 2cos³(t) − 2cos(t) + 1\n• (1 − cos²(t)) · (cos²(t) − 2cos(t) + 1) = −cos⁴(t) + 2cos³(t) − 2cos(t) + 1\n• −cos⁴(t) + 2cos³(t) − 2cos(t) + 1 = −cos⁴(t) + 2cos³(t) − 2cos(t) + 1 (en dus geldt x² = −y⁴ + 2y³ − 2y + 1 voor alle punten van K)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "x² = sin²(t) · (cos(t) − 1)²"
+          },
+          {
+            "points": 1,
+            "description": "x² = (1 − cos²(t)) · (cos(t) − 1)²"
+          },
+          {
+            "points": 1,
+            "description": "x² = (1 − y²) · (y − 1)²"
+          },
+          {
+            "points": 1,
+            "description": "x² = −y⁴ + 2y³ − 2y + 1 (en dus geldt dit voor alle punten van K)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-druppel-antw4.png"
+        ]
+      },
+      {
+        "title": "Druppel",
+        "question_number": 5,
+        "answer_text": "• Het bereik van y is [−1,1]\n• I = π · ∫₋₁¹ x² dy = π · ∫₋₁¹ (−y⁴ + 2y³ − 2y + 1) dy\n• Een primitieve van −y⁴ + 2y³ − 2y + 1 is −⅕y⁵ + ½y⁴ − y² + y\n• I = 1⅗π",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het bereik van y is [−1,1]"
+          },
+          {
+            "points": 1,
+            "description": "I = π · ∫₋₁¹ x² dy = π · ∫₋₁¹ (−y⁴ + 2y³ − 2y + 1) dy"
+          },
+          {
+            "points": 1,
+            "description": "Een primitieve van −y⁴ + 2y³ − 2y + 1 is −⅕y⁵ + ½y⁴ − y² + y"
+          },
+          {
+            "points": 1,
+            "description": "I = 1⅗π"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-druppel-antw5.png"
+        ]
+      },
+      {
+        "title": "Cirkels in een cirkel",
+        "question_number": 6,
+        "answer_text": "• MP = 3 − r\n• (De stelling van Pythagoras in driehoek MSP geeft) MS = √((3 − r)² − r²)\n• Herleiden tot MS = √(9 − 6r)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "MP = 3 − r"
+          },
+          {
+            "points": 1,
+            "description": "(De stelling van Pythagoras in driehoek MSP geeft) MS = √((3 − r)² − r²)"
+          },
+          {
+            "points": 1,
+            "description": "Herleiden tot MS = √(9 − 6r)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-cirkels-in-een-cirkel-antw6.png"
+        ]
+      },
+      {
+        "title": "Cirkels in een cirkel",
+        "question_number": 7,
+        "answer_text": "• NP = r + 2\n• NS = √(9 − 6r) + 1\n• (De stelling van Pythagoras in driehoek NSP geeft) r² + (√(9 − 6r) + 1)² = (r + 2)²\n• Herleiden tot √(9 − 6r) = 5r − 3\n• Hieruit volgt 25r² − 24r = 0\n• De oplossing r = 24/25 (r = 0 voldoet niet)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "NP = r + 2"
+          },
+          {
+            "points": 1,
+            "description": "NS = √(9 − 6r) + 1"
+          },
+          {
+            "points": 1,
+            "description": "(De stelling van Pythagoras in driehoek NSP geeft) r² + (√(9 − 6r) + 1)² = (r + 2)²"
+          },
+          {
+            "points": 1,
+            "description": "Herleiden tot √(9 − 6r) = 5r − 3"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt 25r² − 24r = 0"
+          },
+          {
+            "points": 1,
+            "description": "De oplossing r = 24/25 (r = 0 voldoet niet)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-cirkels-in-een-cirkel-antw7.png"
+        ]
+      },
+      {
+        "title": "Een wortelfunctie en haar inverse",
+        "question_number": 8,
+        "answer_text": "• Voor punten op de grafiek van f geldt: y = √(½x² − 1), dus voor de inverse geldt (door spiegeling in de lijn met vergelijking y = x) het verband x = √(½y² − 1)\n• Dit geeft x² + 1 = ½y²\n• Herleiden tot y = √(2x² + 2) (y = −√(2x² + 2) voldoet niet) (en dus zijn f en g elkaars inverse)\nof\n• Voor punten op de grafiek van geldt: y = √(2x² + 2), dus voor de inverse geldt (door spiegeling in de lijn met vergelijking y = x) het verband x = √(2y² + 2)\n• Dit geeft x² − 2 = 2y²\n• Herleiden tot y = √(½x² − 1) (y = −√(½x² − 1) voldoet niet) (en dus zijn f en g elkaars inverse)\nof\n• Er moet gelden g(f(x)) = x (of f(g(x)) = x)\n• g(f(x)) = √(2(½x² − 1) + 2)\n• Herleiden tot √(x²) = x (√(x²) = −x voldoet niet) (en dus zijn f en g elkaars inverse)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor punten op de grafiek van f geldt: y = √(½x² − 1), dus voor de inverse geldt (door spiegeling in de lijn met vergelijking y = x) het verband x = √(½y² − 1)"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft x² + 1 = ½y²"
+          },
+          {
+            "points": 1,
+            "description": "Herleiden tot y = √(2x² + 2) (y = −√(2x² + 2) voldoet niet) (en dus zijn f en g elkaars inverse)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-een-wortelfunctie-en-haar-inverse-antw8.png"
+        ]
+      },
+      {
+        "title": "Een wortelfunctie en haar inverse",
+        "question_number": 9,
+        "answer_text": "• dPQ/da = 3√2 − 4 · 1/(2√(a² − 1)) · 2a\n• PQ is minimaal als 4a/√(a² − 1) = 3√2\n• Herleiden tot 16a² = 18(a² − 1)\n• Het antwoord a = 3 (a = −3 voldoet niet)\nof\n• f′(x) = 1/(2√(½x² − 1)) · x\n• PQ is minimaal als f′(x) = 1\n• 1/(2√(½x² − 1)) · x = 1 herleiden tot x² = 4(½x² − 1)\n• Hieruit volgt x = 2 (= −2 voldoet niet), dus P(2,1). Omdat P op de lijn met vergelijking y = −x + a ligt, volgt a = 3\nof\n• g′(x) = 1/(2√(2x² + 2)) · 4x\n• PQ is minimaal als g′(x) = 1\n• 1/(2√(2x² + 2)) · 4x = 1 herleiden tot 4x² = 2x² + 2\n• Hieruit volgt x = 1 (= −1 voldoet niet), dus Q(1,2). Omdat Q op de lijn met vergelijking y = −x + a ligt, volgt a = 3",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "dPQ/da = 3√2 − 4 · 1/(2√(a² − 1)) · 2a"
+          },
+          {
+            "points": 1,
+            "description": "PQ is minimaal als 4a/√(a² − 1) = 3√2"
+          },
+          {
+            "points": 1,
+            "description": "Herleiden tot 16a² = 18(a² − 1)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord a = 3 (a = −3 voldoet niet)"
+          }
+        ],
+        "grading_note": "Voor het eerste antwoordelement uitsluitend 0 of 2 scorepunten toekennen, tenzij de enige fout een rekenfout betreft (zie vakspecifieke regel 1). In dat geval mag 1 scorepunt worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-een-wortelfunctie-en-haar-inverse-antw9.png"
+        ]
+      },
+      {
+        "title": "Een wortelfunctie en haar inverse",
+        "question_number": 10,
+        "answer_text": "• De grafiek van f snijdt de x-as voor x = 1,41 … (of x = √2)\n• Lijn k snijdt de grafiek van g in het punt (7,10)\n• De oppervlakte is gelijk aan ∫₀^(1,41…) g(x) dx + ∫_(1,41…)^7 (g(x) − f(x)) dx + ∫₇¹⁰ (−x + 17 − f(x)) dx\n• Beschrijven hoe deze oppervlakte berekend kan worden\n• De gevraagde oppervlakte is 29,24\nof\n• De grafiek van f snijdt de x-as voor x = 1,41 … (of x = √2)\n• Lijn k snijdt de grafiek van g in het punt (7,10)\n• De oppervlakte is gelijk aan een vierkant van 10 bij 10 waarvan drie stukken worden afgehaald, of wel 10² − ½ · 3² − 2 · ∫_(1,41…)^10 f(x) dx\n• Beschrijven hoe deze oppervlakte berekend kan worden\n• De gevraagde oppervlakte is 29,24\nof\n• De grafiek van f snijdt de x-as voor x = 1,41 … (of x = √2)\n• Lijn k snijdt de grafiek van g in het punt (7,10)\n• De oppervlakte is gelijk aan ∫₀⁷ g(x) dx + ∫₇¹⁰ (−x + 17) dx − ∫_(1,41…)^10 f(x) dx\n• Beschrijven hoe deze oppervlakte berekend kan worden\n• De gevraagde oppervlakte is 29,24\nof\n• Lijn k snijdt de grafiek van g in het punt (7,10)\n• Beschrijven hoe ∫₀⁷ (g(x) − x) dx berekend kan worden\n• ∫₀⁷ (g(x) − x) dx = 12,369 …\n• Het snijpunt van lijn k met de lijn met vergelijking y = x is (8,5; 8,5)\n• De oppervlakte van de driehoek ingesloten door de lijn met vergelijking y = x, de lijn met vergelijking x = 7 en lijn k is ½ · 3 · 1,5 = 2,25\n• De gevraagde oppervlakte is (2 · (12,369 … + 2,25) =) 29,24",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De grafiek van f snijdt de x-as voor x = 1,41 … (of x = √2)"
+          },
+          {
+            "points": 1,
+            "description": "Lijn k snijdt de grafiek van g in het punt (7,10)"
+          },
+          {
+            "points": 2,
+            "description": "De oppervlakte is gelijk aan ∫₀^(1,41…) g(x) dx + ∫_(1,41…)^7 (g(x) − f(x)) dx + ∫₇¹⁰ (−x + 17 − f(x)) dx"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze oppervlakte berekend kan worden"
+          },
+          {
+            "points": 1,
+            "description": "De gevraagde oppervlakte is 29,24"
+          }
+        ],
+        "grading_note": "– Bij het eerste en derde antwoordalternatief mag voor het derde antwoordelement 1 scorepunt worden toegekend als twee van de drie vlakdelen juist zijn.\n– Bij het tweede antwoordalternatief mogen voor het derde antwoordelement geen scorepunten worden toegekend als alleen 10² − ½ · 3² genoemd is.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-een-wortelfunctie-en-haar-inverse-antw10.png"
+        ]
+      },
+      {
+        "title": "Op en neer",
+        "question_number": 11,
+        "answer_text": "• In het laagste punt geldt Z_blokje = 50 dus Z_veer = 200\n• In het hoogste punt geldt Z_blokje = 250 dus Z_veer = 300\n• Een toelichting waaruit blijkt dat de evenwichtsstand 250 is en de amplitude 50\nof\n• Het inzicht dat het gemiddelde van 350 en Z_blokje de formule voor Z_veer geeft\n• Dus Z_veer = ½ · (350 + 150 − 100cos(4t))\n• Een toelichting waaruit blijkt dat de evenwichtsstand 250 is en de amplitude 50",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In het laagste punt geldt Z_blokje = 50 dus Z_veer = 200"
+          },
+          {
+            "points": 1,
+            "description": "In het hoogste punt geldt Z_blokje = 250 dus Z_veer = 300"
+          },
+          {
+            "points": 1,
+            "description": "Een toelichting waaruit blijkt dat de evenwichtsstand 250 is en de amplitude 50"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-op-en-neer-antw11.png"
+        ]
+      },
+      {
+        "title": "Op en neer",
+        "question_number": 12,
+        "answer_text": "• (v is de afgeleide van Z_blokje dus) v(t) = 400sin(4t)\n• Hieruit volgt 4t = 0,69 … of 4t = 2,45 …\n• De gevraagde hoogtes zijn 150 − 77 = 73 (cm) en 150 + 77 = 227 (cm)\nof\n• Beschrijven hoe de vergelijking d/dt(150 − 100cos(4t)) = 255 opgelost kan worden\n• Hieruit volgt t = 0,17 … of t = 0,61 …\n• De gevraagde hoogtes zijn 150 − 77 = 73 (cm) en 150 + 77 = 227 (cm)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(v is de afgeleide van Z_blokje dus) v(t) = 400sin(4t)"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt 4t = 0,69 … of 4t = 2,45 …"
+          },
+          {
+            "points": 1,
+            "description": "De gevraagde hoogtes zijn 150 − 77 = 73 (cm) en 150 + 77 = 227 (cm)"
+          }
+        ],
+        "grading_note": "Als de kandidaat slechts één van de gevraagde hoogtes berekent, voor deze vraag maximaal 2 scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-op-en-neer-antw12.png"
+        ]
+      },
+      {
+        "title": "Op en neer",
+        "question_number": 13,
+        "answer_text": "• Het aandeel van Z_blokje is 1000/1600 en het aandeel van Z_veer is 600/1600 (of gelijkwaardige uitdrukkingen)\n• Dus Z_total(t) = 1000/1600 · (150 − 100cos(4t)) + 600/1600 · (250 − 50cos(4t))\n• Dit herleiden tot Z_total(t) = 187,5 − 81,25cos(4t)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het aandeel van Z_blokje is 1000/1600 en het aandeel van Z_veer is 600/1600 (of gelijkwaardige uitdrukkingen)"
+          },
+          {
+            "points": 1,
+            "description": "Dus Z_total(t) = 1000/1600 · (150 − 100cos(4t)) + 600/1600 · (250 − 50cos(4t))"
+          },
+          {
+            "points": 1,
+            "description": "Dit herleiden tot Z_total(t) = 187,5 − 81,25cos(4t)"
+          }
+        ],
+        "grading_note": "Als de kandidaat geen gebruik maakt van de getallen 600 en 1000, voor deze vraag maximaal 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-op-en-neer-antw13.png"
+        ]
+      },
+      {
+        "title": "Een raaklijn met twee cirkels",
+        "question_number": 14,
+        "answer_text": "• Een vectorvoorstelling van de lijn door P, loodrecht op k is (x, y) = (p, 3p + 32) + s(1, 1)\n• Voor het snijpunt met lijn k geldt { p + s = t ; 3p + 32 + s = 20 − t }\n• Dit geeft s = −2p − 6 (of t = −p − 6) dus x = −p − 6\n• y = 3p + 32 − 2p − 6 = p + 26 (en dus zijn de coördinaten van P′ juist)\nof\n• Een vergelijking van lijn k is y = −x + 20\n• Een vergelijking van de lijn door P, loodrecht op k is y = x + 2p + 32\n• Uit x + 2p + 32 = −x + 20 volgt x = −p − 6\n• y = −(−p − 6) + 20 = p + 26 (en dus zijn de coördinaten van P′ juist)\nof\n• De richtingscoëfficiënt van lijn k is −1 (en P′ ligt op k)\n• (Omdat PP′ loodrecht staat op k, moet gelden:) de richtingscoëfficiënt van PP′ is gelijk aan 1\n• Dus (3p + 32 − (p + 26)) / (p − (−p − 6)) = 1\n• Hieruit volgt 2p + 6 = 2p + 6 (ofwel dat de coördinaten van P′ juist zijn)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een vectorvoorstelling van de lijn door P, loodrecht op k is (x, y) = (p, 3p + 32) + s(1, 1)"
+          },
+          {
+            "points": 1,
+            "description": "Voor het snijpunt met lijn k geldt { p + s = t ; 3p + 32 + s = 20 − t }"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft s = −2p − 6 (of t = −p − 6) dus x = −p − 6"
+          },
+          {
+            "points": 1,
+            "description": "y = 3p + 32 − 2p − 6 = p + 26 (en dus zijn de coördinaten van P′ juist)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-een-raaklijn-met-twee-cirkels-antw14.png"
+        ]
+      },
+      {
+        "title": "Een raaklijn met twee cirkels",
+        "question_number": 15,
+        "answer_text": "• PP′ = √((−p − 6 − p)² + (p + 26 − (3p + 32))²) = √(8p² + 48p + 72)\n• PB = √((−18 − p)² + (−2 − (3p + 32))²) = √(10p² + 240p + 1480)\n• PP′ = PB herleiden tot p² + 96p + 704 = 0 (of een vergelijkbare kwadratische uitdrukking in p)\n• Dit geeft p = −8 en p = −88\n• De gevraagde coördinaten zijn (−8,8) en (−88,−232)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "PP′ = √((−p − 6 − p)² + (p + 26 − (3p + 32))²) = √(8p² + 48p + 72)"
+          },
+          {
+            "points": 1,
+            "description": "PB = √((−18 − p)² + (−2 − (3p + 32))²) = √(10p² + 240p + 1480)"
+          },
+          {
+            "points": 1,
+            "description": "PP′ = PB herleiden tot p² + 96p + 704 = 0 (of een vergelijkbare kwadratische uitdrukking in p)"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft p = −8 en p = −88"
+          },
+          {
+            "points": 1,
+            "description": "De gevraagde coördinaten zijn (−8,8) en (−88,−232)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-een-raaklijn-met-twee-cirkels-antw15.png"
+        ]
+      },
+      {
+        "title": "Logaritmische functies",
+        "question_number": 16,
+        "answer_text": "• De afstand van A tot O is √(a² + ln²(a + 1)) en de afstand van B tot O is √(a² + ln²(a))\n• De vergelijking √(a² + ln²(a)) − √(a² + ln²(a + 1)) = 2 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• De gevraagde waarde van a is 0,12",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De afstand van A tot O is √(a² + ln²(a + 1)) en de afstand van B tot O is √(a² + ln²(a))"
+          },
+          {
+            "points": 1,
+            "description": "De vergelijking √(a² + ln²(a)) − √(a² + ln²(a + 1)) = 2 moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "De gevraagde waarde van a is 0,12"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-logaritmische-functies-antw16.png"
+        ]
+      },
+      {
+        "title": "Logaritmische functies",
+        "question_number": 17,
+        "answer_text": "• Afstand AB is ln(a + 1) − ln(pa)\n• ln(a + 1) − ln(pa) = ln((a + 1)/(pa))\n• ((a + 1)/(pa) = (1 + 1/a)/p dus) lim_(a→∞) ((1 + 1/a)/p) = 1/p\n• ln(1/p) = 1 geeft p = 1/e\nof\n• Afstand AB is ln(a + 1) − ln(pa)\n• ln(a + 1) − ln(pa) = ln(a + 1) − ln(p) − ln(a) = ln((a + 1)/a) − ln(p)\n• ((a + 1)/a = 1 + 1/a dus) lim_(a→∞) ((a + 1)/a) = 1\n• −ln(p) = 1 (ofwel ln(p) = −1) geeft p = 1/e",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Afstand AB is ln(a + 1) − ln(pa)"
+          },
+          {
+            "points": 1,
+            "description": "ln(a + 1) − ln(pa) = ln((a + 1)/(pa))"
+          },
+          {
+            "points": 1,
+            "description": "((a + 1)/(pa) = (1 + 1/a)/p dus) lim_(a→∞) ((1 + 1/a)/p) = 1/p"
+          },
+          {
+            "points": 1,
+            "description": "ln(1/p) = 1 geeft p = 1/e"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-logaritmische-functies-antw17.png"
+        ]
+      },
+      {
+        "title": "Logaritmische functies",
+        "question_number": 18,
+        "answer_text": "• h_q′(x) = 1/(2x) (voor x < 0)\n• Voor punten op de grafiek van f met een negatieve x-coördinaat geldt y = −ln(x + 1)\n• Voor deze punten geldt dy/dx = −1/(x + 1)\n• 1/(2x) = −1/(x + 1) geeft x = −⅓\n• Er moet gelden ½ln(⅓) + q = −ln(⅔)\n• Dit geeft q = −ln(⅔) − ½ln(⅓), dus de gevraagde waarde van q is 0,95",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "h_q′(x) = 1/(2x) (voor x < 0)"
+          },
+          {
+            "points": 1,
+            "description": "Voor punten op de grafiek van f met een negatieve x-coördinaat geldt y = −ln(x + 1)"
+          },
+          {
+            "points": 1,
+            "description": "Voor deze punten geldt dy/dx = −1/(x + 1)"
+          },
+          {
+            "points": 1,
+            "description": "1/(2x) = −1/(x + 1) geeft x = −⅓"
+          },
+          {
+            "points": 1,
+            "description": "Er moet gelden ½ln(⅓) + q = −ln(⅔)"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft q = −ln(⅔) − ½ln(⅓), dus de gevraagde waarde van q is 0,95"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-b-vwo-2025-i-logaritmische-functies-antw18.png"
+        ]
+      }
+    ]
+  }
+}
