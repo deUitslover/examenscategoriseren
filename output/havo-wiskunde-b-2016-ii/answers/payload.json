@@ -1,0 +1,501 @@
+{
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde B 2016-II",
+  "answers": [
+    {
+      "title": "Drie snijpunten",
+      "question_number": 1,
+      "answer_text": "• Beschrijven hoe de vergelijking ∛(x³ + 3x² + 2x) = 0 opgelost kan worden\n• De x-coördinaten van A en B zijn respectievelijk x = −2 en x = −1\n• Dus AB en BO zijn even lang",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Beschrijven hoe de vergelijking ∛(x³ + 3x² + 2x) = 0 opgelost kan worden"
+        },
+        {
+          "points": 1,
+          "description": "De x-coördinaten van A en B zijn respectievelijk x = −2 en x = −1"
+        },
+        {
+          "points": 1,
+          "description": "Dus AB en BO zijn even lang"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-drie-snijpunten-antw1.png"
+      ]
+    },
+    {
+      "title": "Drie snijpunten",
+      "question_number": 2,
+      "answer_text": "• l moet tussen de toppen van de grafiek van f liggen\n• Beschrijven hoe de y-coördinaten van deze toppen gevonden kunnen worden\n• y ≈ −0,727 en y ≈ 0,727 (of nauwkeuriger)\n• De gevraagde waarden van p zijn −0,727 ≤ p ≤ 0,727 (of −0,727 < p < 0,727) (of p ligt tussen −0,727 en 0,727)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "l moet tussen de toppen van de grafiek van f liggen"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe de y-coördinaten van deze toppen gevonden kunnen worden"
+        },
+        {
+          "points": 1,
+          "description": "y ≈ −0,727 en y ≈ 0,727 (of nauwkeuriger)"
+        },
+        {
+          "points": 1,
+          "description": "De gevraagde waarden van p zijn −0,727 ≤ p ≤ 0,727 (of −0,727 < p < 0,727) (of p ligt tussen −0,727 en 0,727)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-drie-snijpunten-antw2.png"
+      ]
+    },
+    {
+      "title": "Afdakje",
+      "question_number": 3,
+      "answer_text": "• Voor de straal r van de cirkel geldt r² = (505/2)² + (r − (316 − 262))²\n• Beschrijven hoe deze vergelijking algebraïsch opgelost kan worden\n• De straal van de cirkel is (afgerond op hele cm gelijk aan) 617 (cm)",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "Voor de straal r van de cirkel geldt r² = (505/2)² + (r − (316 − 262))²"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze vergelijking algebraïsch opgelost kan worden"
+        },
+        {
+          "points": 1,
+          "description": "De straal van de cirkel is (afgerond op hele cm gelijk aan) 617 (cm)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-afdakje-antw3.png"
+      ]
+    },
+    {
+      "title": "Afdakje",
+      "question_number": 4,
+      "answer_text": "• De y-coördinaat van het middelpunt M is 617 + (262 − 142) (= 737)\n• De straal van het raam is 60 (cm)\n• De afstand tussen O en M is √((−92)² + 737²) (≈ 743) (cm)\n• De afstand tussen afdakje en raam is 743 − 60 − 617 = 66 (cm)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De y-coördinaat van het middelpunt M is 617 + (262 − 142) (= 737)"
+        },
+        {
+          "points": 1,
+          "description": "De straal van het raam is 60 (cm)"
+        },
+        {
+          "points": 1,
+          "description": "De afstand tussen O en M is √((−92)² + 737²) (≈ 743) (cm)"
+        },
+        {
+          "points": 1,
+          "description": "De afstand tussen afdakje en raam is 743 − 60 − 617 = 66 (cm)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-afdakje-antw4.png"
+      ]
+    },
+    {
+      "title": "Dicht bij elkaar",
+      "question_number": 5,
+      "answer_text": "• De vergelijking (x² − x + 4)/x − (x − 1) = 1/100 moet worden opgelost\n• Dit geeft (x² − x + 4 − x(x − 1))/x = 1/100\n• Hieruit volgt 4/x = 1/100\n• (x = 400, dus de gevraagde waarden van x zijn) x > 400\nof\n• De vergelijking (x² − x + 4)/x − (x − 1) = 1/100 moet worden opgelost\n• Dit geeft (x² − x + 4)/x = x − 99/100\n• Hieruit volgt x² − x + 4 = x² − 99/100·x\n• Dit geeft −1/100·x = −4 (en dit geeft x = 400, dus de gevraagde waarden van x zijn) x > 400\nof\n• De vergelijking (x² − x + 4)/x − (x − 1) = 1/100 moet worden opgelost\n• Dit geeft x − 1 + 4/x − (x − 1) = 1/100\n• Hieruit volgt 4/x = 1/100\n• (x = 400, dus de gevraagde waarden van x zijn) x > 400",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De vergelijking (x² − x + 4)/x − (x − 1) = 1/100 moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft (x² − x + 4 − x(x − 1))/x = 1/100"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt 4/x = 1/100"
+        },
+        {
+          "points": 1,
+          "description": "(x = 400, dus de gevraagde waarden van x zijn) x > 400"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-dicht-bij-elkaar-antw5.png"
+      ]
+    },
+    {
+      "title": "Dicht bij elkaar",
+      "question_number": 6,
+      "answer_text": "• De vergelijking (x² − x + 4)/x = x − 1 moet worden opgelost\n• Hieruit volgt x² − x + 4 = x(x − 1)\n• Verder uitwerken geeft 4 = 0\n• Dit is een tegenspraak (dus de grafieken van f en g snijden elkaar niet)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De vergelijking (x² − x + 4)/x = x − 1 moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt x² − x + 4 = x(x − 1)"
+        },
+        {
+          "points": 1,
+          "description": "Verder uitwerken geeft 4 = 0"
+        },
+        {
+          "points": 1,
+          "description": "Dit is een tegenspraak (dus de grafieken van f en g snijden elkaar niet)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-dicht-bij-elkaar-antw6.png"
+      ]
+    },
+    {
+      "title": "Dicht bij elkaar",
+      "question_number": 7,
+      "answer_text": "• f(x) = x − 1 + 4x⁻¹\n• f′(x) = 1 − 4x⁻² (= 1 − 4/x²)\n• f′(x) = 3/4 geeft 1 − 4x⁻² = 3/4 (of 1 − 4/x² = 3/4)\n• Hieruit volgt x⁻² = 1/16 (of 4/x² = 1/4)\n• (Dit geeft x² = 16, dus) (de x-coördinaat van R is) x = 4 en (de y-coördinaat van R is) y (= f(4)) = 4 (dus de coördinaten van R zijn (4,4))\n• (l heeft een vergelijking van de vorm y = 3/4·x + b,) invullen van de coördinaten van R in y = 3/4·x + b geeft b = 1 (dus de y-coördinaat van S is 1)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "f(x) = x − 1 + 4x⁻¹"
+        },
+        {
+          "points": 1,
+          "description": "f′(x) = 1 − 4x⁻² (= 1 − 4/x²)"
+        },
+        {
+          "points": 1,
+          "description": "f′(x) = 3/4 geeft 1 − 4x⁻² = 3/4 (of 1 − 4/x² = 3/4)"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt x⁻² = 1/16 (of 4/x² = 1/4)"
+        },
+        {
+          "points": 1,
+          "description": "(Dit geeft x² = 16, dus) (de x-coördinaat van R is) x = 4 en (de y-coördinaat van R is) y (= f(4)) = 4 (dus de coördinaten van R zijn (4,4))"
+        },
+        {
+          "points": 1,
+          "description": "(l heeft een vergelijking van de vorm y = 3/4·x + b,) invullen van de coördinaten van R in y = 3/4·x + b geeft b = 1 (dus de y-coördinaat van S is 1)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-dicht-bij-elkaar-antw7.png"
+      ]
+    },
+    {
+      "title": "Dicht bij elkaar",
+      "question_number": 8,
+      "answer_text": "• De coördinaten van P zijn (2, 3a)\n• Dus moet gelden 2² + (3a)² = 5²\n• Hieruit volgt a² = 21/9\n• Dus mogelijke waarden van a zijn −1/3·√21 en 1/3·√21 (of vergelijkbare vormen)\nof\n• OP = 5, dus (voor de y-coördinaat van P moet gelden) 2² + y² = 5²\n• Hieruit volgt y² = 21\n• Dit geeft y = −√21 of y = √21\n• (de y-coördinaat van T is 3 dus voor a geldt a = y/3,) dus mogelijke waarden van a zijn −√21/3 en √21/3 (of vergelijkbare vormen)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De coördinaten van P zijn (2, 3a)"
+        },
+        {
+          "points": 1,
+          "description": "Dus moet gelden 2² + (3a)² = 5²"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt a² = 21/9"
+        },
+        {
+          "points": 1,
+          "description": "Dus mogelijke waarden van a zijn −1/3·√21 en 1/3·√21 (of vergelijkbare vormen)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-dicht-bij-elkaar-antw8.png"
+      ]
+    },
+    {
+      "title": "Energieverbruik",
+      "question_number": 9,
+      "answer_text": "• Aangeven hoe log(E) op de verticale as afgelezen kan worden\n• log(E) ≈ 19,6\n• E ≈ 10¹⁹˒⁶ (of beschrijven hoe hieruit E gevonden kan worden)\n• (E ≈ 3,98 · 10¹⁹, dus het gevraagde energieverbruik is) 40 (exajoule)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Aangeven hoe log(E) op de verticale as afgelezen kan worden"
+        },
+        {
+          "points": 1,
+          "description": "log(E) ≈ 19,6"
+        },
+        {
+          "points": 1,
+          "description": "E ≈ 10¹⁹˒⁶ (of beschrijven hoe hieruit E gevonden kan worden)"
+        },
+        {
+          "points": 1,
+          "description": "(E ≈ 3,98 · 10¹⁹, dus het gevraagde energieverbruik is) 40 (exajoule)"
+        }
+      ],
+      "grading_note": "Voor log(E) is een afleesmarge van 0,1 toegestaan",
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-energieverbruik-antw9.png"
+      ]
+    },
+    {
+      "title": "Energieverbruik",
+      "question_number": 10,
+      "answer_text": "• De vergelijking log(3,0 · 10²⁰) = 0,0125t + 15,8 moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• t ≈ 374,2, dus in het jaar 2025",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De vergelijking log(3,0 · 10²⁰) = 0,0125t + 15,8 moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+        },
+        {
+          "points": 1,
+          "description": "t ≈ 374,2, dus in het jaar 2025"
+        }
+      ],
+      "grading_note": "Het antwoord 2024 ook goed rekenen",
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-energieverbruik-antw10.png"
+      ]
+    },
+    {
+      "title": "Energieverbruik",
+      "question_number": 11,
+      "answer_text": "• De vergelijking 1,2 · 10¹³ · 10ᵗ = 1,7 · 10¹⁷ moet worden opgelost (met t de tijd in honderden jaren)\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• t ≈ 4,2 (of nauwkeuriger)\n• Dus over (ruim) 4 eeuwen\nof\n• (Voor de groeifactor g per jaar geldt) g¹⁰⁰ = 10, dus g = 10^(1/100)\n• De vergelijking 1,2 · 10¹³ · (10^(1/100))ᵗ = 1,7 · 10¹⁷ moet worden opgelost (met t de tijd in jaren)\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• t ≈ 415 (of nauwkeuriger), dus over (ruim) 4 eeuwen\nof\n• De vergelijking 1,2 · 10¹³ · 10ᵗ = 1,7 · 10¹⁷ moet worden opgelost (met t de tijd in honderden jaren)\n• Beschrijven hoe deze vergelijking met een tabel onderzocht kan worden\n• 1,2 · 10¹³ · 10⁴ < 1,7 · 10¹⁷ < 1,2 · 10¹³ · 10⁵\n• Dus over (ruim) 4 eeuwen",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De vergelijking 1,2 · 10¹³ · 10ᵗ = 1,7 · 10¹⁷ moet worden opgelost (met t de tijd in honderden jaren)"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+        },
+        {
+          "points": 1,
+          "description": "t ≈ 4,2 (of nauwkeuriger)"
+        },
+        {
+          "points": 1,
+          "description": "Dus over (ruim) 4 eeuwen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-energieverbruik-antw11.png"
+      ]
+    },
+    {
+      "title": "Sinusoïden",
+      "question_number": 12,
+      "answer_text": "• Uit 2cos(1/2·x − 1/8·π) = 0 volgt cos(1/2·x − 1/8·π) = 0\n• Hieruit volgt 1/2·x − 1/8·π = 1/2·π + k · π (voor gehele k)\n• Op het gegeven domein levert dit x = 5/4·π",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit 2cos(1/2·x − 1/8·π) = 0 volgt cos(1/2·x − 1/8·π) = 0"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt 1/2·x − 1/8·π = 1/2·π + k · π (voor gehele k)"
+        },
+        {
+          "points": 1,
+          "description": "Op het gegeven domein levert dit x = 5/4·π"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-sinusoiden-antw12.png"
+      ]
+    },
+    {
+      "title": "Sinusoïden",
+      "question_number": 13,
+      "answer_text": "• De richtingscoëfficiënt van k is (−2 − 2)/(9/4·π − 1/4·π) = −2/π (dus k heeft een vergelijking van de vorm y = −2/π·x + b)\n• Invullen van de coördinaten van (1/4·π, 2) (of van (9/4·π, −2)) in y = −2/π·x + b geeft b = 5/2 (dus een vergelijking voor k is inderdaad y = −2/π·x + 5/2)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De richtingscoëfficiënt van k is (−2 − 2)/(9/4·π − 1/4·π) = −2/π (dus k heeft een vergelijking van de vorm y = −2/π·x + b)"
+        },
+        {
+          "points": 1,
+          "description": "Invullen van de coördinaten van (1/4·π, 2) (of van (9/4·π, −2)) in y = −2/π·x + b geeft b = 5/2 (dus een vergelijking voor k is inderdaad y = −2/π·x + 5/2)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-sinusoiden-antw13.png"
+      ]
+    },
+    {
+      "title": "Sinusoïden",
+      "question_number": 14,
+      "answer_text": "• Er moet gelden: sin(x − 1/4·π) = 1 en sin(x − 1/4·π) = −1\n• Hieruit volgt x − 1/4·π = 1/2·π + k · 2π (voor gehele k) en x − 1/4·π = 3/2·π + k · 2π (voor gehele k)\n• Op het gegeven domein levert dit x = 3/4·π of x = 7/4·π\n• Dus de toppen van de grafiek van g zijn (3/4·π, 1) en (7/4·π, −1)\n• −2/π · 3/4·π + 5/2 = 1 en −2/π · 7/4·π + 5/2 = −1 (dus de toppen van de grafiek van g liggen op k)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Er moet gelden: sin(x − 1/4·π) = 1 en sin(x − 1/4·π) = −1"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt x − 1/4·π = 1/2·π + k · 2π (voor gehele k) en x − 1/4·π = 3/2·π + k · 2π (voor gehele k)"
+        },
+        {
+          "points": 1,
+          "description": "Op het gegeven domein levert dit x = 3/4·π of x = 7/4·π"
+        },
+        {
+          "points": 1,
+          "description": "Dus de toppen van de grafiek van g zijn (3/4·π, 1) en (7/4·π, −1)"
+        },
+        {
+          "points": 1,
+          "description": "−2/π · 3/4·π + 5/2 = 1 en −2/π · 7/4·π + 5/2 = −1 (dus de toppen van de grafiek van g liggen op k)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-sinusoiden-antw14.png"
+      ]
+    },
+    {
+      "title": "Het midden en de top",
+      "question_number": 15,
+      "answer_text": "• (Voor de x-coördinaten van A en B geldt) x² − 5x + 5 = 0\n• Beschrijven hoe deze vergelijking exact opgelost kan worden\n• Hieruit volgt x_A = (5 − √5)/2 en x_B = (5 + √5)/2\n• Dus x_M = ((5 − √5)/2 + (5 + √5)/2)/2 = 2½",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(Voor de x-coördinaten van A en B geldt) x² − 5x + 5 = 0"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze vergelijking exact opgelost kan worden"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt x_A = (5 − √5)/2 en x_B = (5 + √5)/2"
+        },
+        {
+          "points": 1,
+          "description": "Dus x_M = ((5 − √5)/2 + (5 + √5)/2)/2 = 2½"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-het-midden-en-de-top-antw15.png"
+      ]
+    },
+    {
+      "title": "Het midden en de top",
+      "question_number": 16,
+      "answer_text": "• f(x) = x³ − 5x² + 5x + x² − 5x + 5 = x³ − 4x² + 5\n• f′(x) = 3x² − 8x\n• (Uit f′(x) = 0 volgt) x(3x − 8) = 0\n• (x = 0 of) x = 8/3 (dus de x-coördinaat van C is 8/3)\n• Het gevraagde verschil is 8/3 − 2½ = 1/6",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "f(x) = x³ − 5x² + 5x + x² − 5x + 5 = x³ − 4x² + 5"
+        },
+        {
+          "points": 1,
+          "description": "f′(x) = 3x² − 8x"
+        },
+        {
+          "points": 1,
+          "description": "(Uit f′(x) = 0 volgt) x(3x − 8) = 0"
+        },
+        {
+          "points": 1,
+          "description": "(x = 0 of) x = 8/3 (dus de x-coördinaat van C is 8/3)"
+        },
+        {
+          "points": 1,
+          "description": "Het gevraagde verschil is 8/3 − 2½ = 1/6"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-het-midden-en-de-top-antw16.png"
+      ]
+    },
+    {
+      "title": "Monte Etna",
+      "question_number": 17,
+      "answer_text": "• (∠ABT =) 180° − 7,4° = 172,6° en (∠ATB =) 180° − 172,6° − 5,3° = 2,1°\n• (Uit de sinusregel volgt) BT/sin(5,3°) = 10/sin(2,1°)\n• Hieruit volgt BT ≈ 25,21 (of nauwkeuriger) (km)\n• Er geldt sin(7,4°) = h/25,21\n• (h ≈ 3,25 (of nauwkeuriger) (km), dus) de gevraagde hoogte is 3250 m",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(∠ABT =) 180° − 7,4° = 172,6° en (∠ATB =) 180° − 172,6° − 5,3° = 2,1°"
+        },
+        {
+          "points": 1,
+          "description": "(Uit de sinusregel volgt) BT/sin(5,3°) = 10/sin(2,1°)"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt BT ≈ 25,21 (of nauwkeuriger) (km)"
+        },
+        {
+          "points": 1,
+          "description": "Er geldt sin(7,4°) = h/25,21"
+        },
+        {
+          "points": 1,
+          "description": "(h ≈ 3,25 (of nauwkeuriger) (km), dus) de gevraagde hoogte is 3250 m"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-monte-etna-antw17.png"
+      ]
+    },
+    {
+      "title": "Twee parabolen",
+      "question_number": 18,
+      "answer_text": "• Uit x² − 6x = 0 volgt x(x − 6) = 0\n• Hieruit volgt (x = 0 of) x − 6 = 0 (dus voor de x-coördinaat van A geldt x = 6)\n• De x-coördinaat van T is ((6 − 0)/2 = (   of (−−6)/(2·1) = )) 3 (of f′(x) = 0 geeft x = 3) ⚠️ CONTROLEREN: tussenstap in het correctievoorschrift is onvolledig/verminkt weergegeven (\"( of\")\n• De y-coördinaat van T is (f(3) =) −9 (dus T(3, −9))\n• g heeft een functievoorschrift van de vorm g(x) = a(x − 6)²\n• (T ligt op de grafiek van g dus geldt) a(3 − 6)² = −9 dus a = −9/9 = −1\n• Dus (een functievoorschrift voor g is) g(x) = −(x − 6)² (of g(x) = −(x² − 12x + 36)) (of g(x) = −x² + 12x − 36)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit x² − 6x = 0 volgt x(x − 6) = 0"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt (x = 0 of) x − 6 = 0 (dus voor de x-coördinaat van A geldt x = 6)"
+        },
+        {
+          "points": 1,
+          "description": "De x-coördinaat van T is ((6 − 0)/2 = (   of (−−6)/(2·1) = )) 3 (of f′(x) = 0 geeft x = 3) ⚠️ CONTROLEREN: tussenstap in het correctievoorschrift is onvolledig/verminkt weergegeven (\"( of\")"
+        },
+        {
+          "points": 1,
+          "description": "De y-coördinaat van T is (f(3) =) −9 (dus T(3, −9))"
+        },
+        {
+          "points": 1,
+          "description": "g heeft een functievoorschrift van de vorm g(x) = a(x − 6)²"
+        },
+        {
+          "points": 1,
+          "description": "(T ligt op de grafiek van g dus geldt) a(3 − 6)² = −9 dus a = −9/9 = −1"
+        },
+        {
+          "points": 1,
+          "description": "Dus (een functievoorschrift voor g is) g(x) = −(x − 6)² (of g(x) = −(x² − 12x + 36)) (of g(x) = −x² + 12x − 36)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-ii-twee-parabolen-antw18.png"
+      ]
+    }
+  ]
+}
