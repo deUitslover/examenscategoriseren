@@ -1,0 +1,501 @@
+{
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde B 2016-I",
+  "answers": [
+    {
+      "title": "De rechte van Euler",
+      "question_number": 1,
+      "answer_text": "• De straal r van c is √((0 − 1/2)² + (4 − 1/2)²)\n• Hieruit volgt r = √(25/2) (of r² = 25/2) (of een gelijkwaardige uitdrukking)\n• Een vergelijking van c is (x − 1/2)² + (y − 1/2)² = 25/2\nof\n• Een vergelijking van c is (x − 1/2)² + (y − 1/2)² = r²\n• Invullen van de coördinaten van A geeft 1/4 + 49/4 = r²\n• Dus een vergelijking van c is (x − 1/2)² + (y − 1/2)² = 25/2",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De straal r van c is √((0 − 1/2)² + (4 − 1/2)²)"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt r = √(25/2) (of r² = 25/2) (of een gelijkwaardige uitdrukking)"
+        },
+        {
+          "points": 1,
+          "description": "Een vergelijking van c is (x − 1/2)² + (y − 1/2)² = 25/2"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-de-rechte-van-euler-antw1.png"
+      ]
+    },
+    {
+      "title": "De rechte van Euler",
+      "question_number": 2,
+      "answer_text": "• De coördinaten van P zijn (((−3+0)/2, (0+4)/2) =) (−3/2, 2)\n• l heeft richtingscoëfficiënt ((0−2)/(4−−3/2) =) −4/11 (dus l heeft een vergelijking van de vorm y = −4/11·x + b)\n• Invullen van de coördinaten van C(4,0) in y = −4/11·x + b geeft b = 16/11 (dus een vergelijking van l is y = −4/11·x + 16/11)\n• Uit −4/11·x + 16/11 = 2/5·x + 6/5 volgt x = 1/3 (dus de x-coördinaat van S is 1/3)\n• Dit geeft y = 2/5 · 1/3 + 6/5 = 4/3 (dus de y-coördinaat van S is 4/3)\nof\n• De coördinaten van P zijn (((−3+0)/2, (0+4)/2) =) (−3/2, 2)\n• l heeft richtingscoëfficiënt ((0−2)/(4−−3/2) =) −4/11 (dus l heeft een vergelijking van de vorm y = −4/11·x + b)\n• Invullen van de coördinaten van C(4,0) in y = −4/11·x + b geeft b = 16/11 (dus een vergelijking van l is y = −4/11·x + 16/11)\n• −4/11 · 1/3 + 16/11 = −4/33 + 48/33 = 44/33 = 4/3 (dus S ligt op l)\n• 2/5 · 1/3 + 6/5 = 2/15 + 18/15 = 20/15 = 4/3 (dus S ligt op k)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De coördinaten van P zijn (((−3+0)/2, (0+4)/2) =) (−3/2, 2)"
+        },
+        {
+          "points": 1,
+          "description": "l heeft richtingscoëfficiënt ((0−2)/(4−−3/2) =) −4/11 (dus l heeft een vergelijking van de vorm y = −4/11·x + b)"
+        },
+        {
+          "points": 1,
+          "description": "Invullen van de coördinaten van C(4,0) in y = −4/11·x + b geeft b = 16/11 (dus een vergelijking van l is y = −4/11·x + 16/11)"
+        },
+        {
+          "points": 1,
+          "description": "Uit −4/11·x + 16/11 = 2/5·x + 6/5 volgt x = 1/3 (dus de x-coördinaat van S is 1/3)"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft y = 2/5 · 1/3 + 6/5 = 4/3 (dus de y-coördinaat van S is 4/3)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-de-rechte-van-euler-antw2.png"
+      ]
+    },
+    {
+      "title": "De rechte van Euler",
+      "question_number": 3,
+      "answer_text": "• De lijn door A en B heeft richtingscoëfficiënt 4/3\n• De richtingscoëfficiënt van n is (−1/(4/3) =) −3/4 (dus n heeft een vergelijking van de vorm y = −3/4·x + b)\n• Invullen van de coördinaten van C(4,0) in y = −3/4·x + b geeft b = 3\n• Dus de coördinaten van T zijn (0,3)\n• Een vergelijking van de lijn door twee van de drie punten M, S en T is y = −5x + 3\n• Het controleren dat het derde punt op deze lijn ligt (dus M, S en T liggen op één lijn)\nof\n• De lijn door A en B heeft richtingscoëfficiënt 4/3\n• De richtingscoëfficiënt van n is (−1/(4/3) =) −3/4 (dus n heeft een vergelijking van de vorm y = −3/4·x + b)\n• Invullen van de coördinaten van C(4,0) in y = −3/4·x + b geeft b = 3\n• Dus de coördinaten van T zijn (0,3)\n• De richtingscoëfficiënt van de lijn door twee van de drie punten M, S en T is −5\n• De richtingscoëfficiënt van de lijn door twee, maar niet dezelfde twee, van de punten M, S en T is −5\n• De richtingscoëfficiënten van deze twee lijnen zijn gelijk en deze twee lijnen hebben een punt gemeenschappelijk, dus deze lijnen vallen samen (dus M, S en T liggen op één lijn)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De lijn door A en B heeft richtingscoëfficiënt 4/3"
+        },
+        {
+          "points": 1,
+          "description": "De richtingscoëfficiënt van n is (−1/(4/3) =) −3/4 (dus n heeft een vergelijking van de vorm y = −3/4·x + b)"
+        },
+        {
+          "points": 1,
+          "description": "Invullen van de coördinaten van C(4,0) in y = −3/4·x + b geeft b = 3"
+        },
+        {
+          "points": 1,
+          "description": "Dus de coördinaten van T zijn (0,3)"
+        },
+        {
+          "points": 2,
+          "description": "Een vergelijking van de lijn door twee van de drie punten M, S en T is y = −5x + 3"
+        },
+        {
+          "points": 1,
+          "description": "Het controleren dat het derde punt op deze lijn ligt (dus M, S en T liggen op één lijn)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-de-rechte-van-euler-antw3.png"
+      ]
+    },
+    {
+      "title": "Een wortelfunctie",
+      "question_number": 4,
+      "answer_text": "• De vergelijking √(−3x + 6) = −7/4·x + 7/2 moet worden opgelost\n• Dit geeft −3x + 6 = 49/16·x² − 98/8·x + 49/4\n• Dit herleiden tot 49x² − 148x + 100 = 0 (of bijvoorbeeld 49/16·x² − 37/4·x + 25/4 = 0)\n• Beschrijven hoe deze vergelijking exact opgelost kan worden\n• x = 2 of x = 50/49 (dus de gevraagde x-coördinaten zijn 2 en 50/49)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De vergelijking √(−3x + 6) = −7/4·x + 7/2 moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft −3x + 6 = 49/16·x² − 98/8·x + 49/4"
+        },
+        {
+          "points": 1,
+          "description": "Dit herleiden tot 49x² − 148x + 100 = 0 (of bijvoorbeeld 49/16·x² − 37/4·x + 25/4 = 0)"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze vergelijking exact opgelost kan worden"
+        },
+        {
+          "points": 1,
+          "description": "x = 2 of x = 50/49 (dus de gevraagde x-coördinaten zijn 2 en 50/49)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-een-wortelfunctie-antw4.png"
+      ]
+    },
+    {
+      "title": "Een wortelfunctie",
+      "question_number": 5,
+      "answer_text": "• De afstand tussen A en B is maximaal als v(p) = √(−3p + 6) − (−7/4·p + 7/2) maximaal is\n• v′(p) = −3/(2√(−3p + 6)) + 7/4 (of een gelijkwaardige vorm)\n• (Als v(p) maximaal is dan is v′(p) = 0, dus) de vergelijking −3/(2√(−3p + 6)) + 7/4 = 0 moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• p ≈ 1,8 (of nauwkeuriger) (of p = 86/49) (dus de afstand is maximaal voor p ≈ 1,8 (of nauwkeuriger) (of p = 86/49))\nof\n• De afstand tussen A en B is maximaal als f′(x) gelijk is aan de helling van de lijn y = −7/4·x + 7/2\n• f′(x) = −3/(2√(−3x + 6)) (of een gelijkwaardige vorm)\n• De vergelijking −3/(2√(−3x + 6)) = −7/4 moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• p ≈ 1,8 (of nauwkeuriger) (of p = 86/49) (dus de afstand is maximaal voor p ≈ 1,8 (of nauwkeuriger) (of p = 86/49))",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De afstand tussen A en B is maximaal als v(p) = √(−3p + 6) − (−7/4·p + 7/2) maximaal is"
+        },
+        {
+          "points": 2,
+          "description": "v′(p) = −3/(2√(−3p + 6)) + 7/4 (of een gelijkwaardige vorm)"
+        },
+        {
+          "points": 1,
+          "description": "(Als v(p) maximaal is dan is v′(p) = 0, dus) de vergelijking −3/(2√(−3p + 6)) + 7/4 = 0 moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+        },
+        {
+          "points": 1,
+          "description": "p ≈ 1,8 (of nauwkeuriger) (of p = 86/49) (dus de afstand is maximaal voor p ≈ 1,8 (of nauwkeuriger) (of p = 86/49))"
+        }
+      ],
+      "grading_note": "Als een kandidaat bij het differentiëren de kettingregel niet of niet correct heeft toegepast, voor deze vraag maximaal 4 scorepunten toekennen.",
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-een-wortelfunctie-antw5.png"
+      ]
+    },
+    {
+      "title": "Schijngestalten van de maan",
+      "question_number": 6,
+      "answer_text": "• De periode van P is 2π/0,212769 (dagen)\n• Dit is (ongeveer) 29,5305 (of nauwkeuriger) (dagen)\n• Het antwoord 42524 minuten (of 29 dagen, 12 uur en 44 minuten)\nof\n• Beschrijven hoe met behulp van de GR twee maxima (of twee minima, of een maximum en een minimum) kunnen worden gevonden\n• Hieruit volgt de periode 29,5305 (of nauwkeuriger) (dagen)\n• Het antwoord 42524 minuten (of 29 dagen, 12 uur en 44 minuten)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De periode van P is 2π/0,212769 (dagen)"
+        },
+        {
+          "points": 1,
+          "description": "Dit is (ongeveer) 29,5305 (of nauwkeuriger) (dagen)"
+        },
+        {
+          "points": 1,
+          "description": "Het antwoord 42524 minuten (of 29 dagen, 12 uur en 44 minuten)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-schijngestalten-van-de-maan-antw6.png"
+      ]
+    },
+    {
+      "title": "Schijngestalten van de maan",
+      "question_number": 7,
+      "answer_text": "• Er wordt gevraagd naar de kleinste (niet-negatieve) waarde van t waarvoor P = 0\n• Beschrijven hoe deze waarde van t gevonden kan worden\n• t ≈ 27,05 (of nauwkeuriger) dus op 28 januari (2017)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Er wordt gevraagd naar de kleinste (niet-negatieve) waarde van t waarvoor P = 0"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze waarde van t gevonden kan worden"
+        },
+        {
+          "points": 1,
+          "description": "t ≈ 27,05 (of nauwkeuriger) dus op 28 januari (2017)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-schijngestalten-van-de-maan-antw7.png"
+      ]
+    },
+    {
+      "title": "Schijngestalten van de maan",
+      "question_number": 8,
+      "answer_text": "• 22 februari (van 0:00 uur tot 24:00 uur) ligt tussen t = 52 en t = 53\n• Dan is P ≈ 22 (of nauwkeuriger) respectievelijk P ≈ 14 (of nauwkeuriger)\n• Dus blijkt (bijvoorbeeld uit de grafiek) dat P (tussen t = 52 en t = 53) afneemt\n• Dus tussen laatste kwartier en nieuwe maan",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "22 februari (van 0:00 uur tot 24:00 uur) ligt tussen t = 52 en t = 53"
+        },
+        {
+          "points": 1,
+          "description": "Dan is P ≈ 22 (of nauwkeuriger) respectievelijk P ≈ 14 (of nauwkeuriger)"
+        },
+        {
+          "points": 1,
+          "description": "Dus blijkt (bijvoorbeeld uit de grafiek) dat P (tussen t = 52 en t = 53) afneemt"
+        },
+        {
+          "points": 1,
+          "description": "Dus tussen laatste kwartier en nieuwe maan"
+        }
+      ],
+      "grading_note": "Als de kandidaat rekent met t = 53 en t = 54, voor deze vraag maximaal 3 scorepunten toekennen.",
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-schijngestalten-van-de-maan-antw8.png"
+      ]
+    },
+    {
+      "title": "Gebroken functie en raaklijn",
+      "question_number": 9,
+      "answer_text": "• f(x) = 12(x − 3)⁻¹ + 4\n• f′(x) = −12(x − 3)⁻² (of f′(x) = −12/(x − 3)²)\n• Dus f′(0)(= −12(0 − 3)²) = −4/3 (dus de richtingscoëfficiënt van l is inderdaad −4/3)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "f(x) = 12(x − 3)⁻¹ + 4"
+        },
+        {
+          "points": 1,
+          "description": "f′(x) = −12(x − 3)⁻² (of f′(x) = −12/(x − 3)²)"
+        },
+        {
+          "points": 1,
+          "description": "Dus f′(0)(= −12(0 − 3)²) = −4/3 (dus de richtingscoëfficiënt van l is inderdaad −4/3)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-gebroken-functie-en-raaklijn-antw9.png"
+      ]
+    },
+    {
+      "title": "Gebroken functie en raaklijn",
+      "question_number": 10,
+      "answer_text": "• De richtingscoëfficiënt van k is (−1/(−4/3) =) 3/4\n• Dus een vergelijking van k is y = 3/4·x\n• Uit 3/4·x = 12/(x − 3) + 4 volgt (3/4·x − 4)(x − 3) = 12\n• Dit geeft 3/4·x² − 25/4·x = 0\n• x = 25/3 (want x ≠ 0)\n• Dit geeft y = (3/4 · 25/3 =) 25/4 (dus de coördinaten van het gevraagde punt zijn (25/3, 25/4))",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De richtingscoëfficiënt van k is (−1/(−4/3) =) 3/4"
+        },
+        {
+          "points": 1,
+          "description": "Dus een vergelijking van k is y = 3/4·x"
+        },
+        {
+          "points": 1,
+          "description": "Uit 3/4·x = 12/(x − 3) + 4 volgt (3/4·x − 4)(x − 3) = 12"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft 3/4·x² − 25/4·x = 0"
+        },
+        {
+          "points": 1,
+          "description": "x = 25/3 (want x ≠ 0)"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft y = (3/4 · 25/3 =) 25/4 (dus de coördinaten van het gevraagde punt zijn (25/3, 25/4))"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-gebroken-functie-en-raaklijn-antw10.png"
+      ]
+    },
+    {
+      "title": "Klok",
+      "question_number": 11,
+      "answer_text": "• De hoek die de grote wijzer maakt met de verticale as is (5/60 · 360° =) 30°\n• De kleine wijzer heeft 25/60 deel van de hoek tussen de 2 en de 3 afgelegd\n• De hoek die de kleine wijzer met de verticale as maakt is 10/60 · 360° + 25/60 · 30° = 72,5°\n• Dus de hoek die beide wijzers met elkaar maken is 180° − 30° − 72,5° = 77,5°\n• AB² = 12,5² + 8,5² − 2 · 12,5 · 8,5 · cos(77,5°)\n• AB² ≈ 182,5\n• De afstand tussen A en B is 135 mm (of 13,5 cm)\nof\n• De hoek die de grote wijzer maakt met de horizontale as is (10/60 · 360° =) 60°\n• De kleine wijzer heeft 25/60 deel van de hoek tussen de 2 en de 3 afgelegd (en moet dus nog 35/60 deel)\n• De hoek die de kleine wijzer met de horizontale as maakt is 35/60 · 30° = 17,5°\n• Dus de hoek die beide wijzers met elkaar maken is 60° + 17,5° = 77,5°\n• AB² = 12,5² + 8,5² − 2 · 12,5 · 8,5 · cos(77,5°)\n• AB² ≈ 182,5\n• De afstand tussen A en B is 135 mm (of 13,5 cm)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De hoek die de grote wijzer maakt met de verticale as is (5/60 · 360° =) 30°"
+        },
+        {
+          "points": 1,
+          "description": "De kleine wijzer heeft 25/60 deel van de hoek tussen de 2 en de 3 afgelegd"
+        },
+        {
+          "points": 1,
+          "description": "De hoek die de kleine wijzer met de verticale as maakt is 10/60 · 360° + 25/60 · 30° = 72,5°"
+        },
+        {
+          "points": 1,
+          "description": "Dus de hoek die beide wijzers met elkaar maken is 180° − 30° − 72,5° = 77,5°"
+        },
+        {
+          "points": 1,
+          "description": "AB² = 12,5² + 8,5² − 2 · 12,5 · 8,5 · cos(77,5°)"
+        },
+        {
+          "points": 1,
+          "description": "AB² ≈ 182,5"
+        },
+        {
+          "points": 1,
+          "description": "De afstand tussen A en B is 135 mm (of 13,5 cm)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-klok-antw11.png"
+      ]
+    },
+    {
+      "title": "Karpers",
+      "question_number": 12,
+      "answer_text": "• log(0,8) ≈ −0,1\n• Aflezen uit de figuur geeft log(G) ≈ −2,3\n• Beschrijven hoe hieruit G berekend kan worden\n• G ≈ 0,005 (dus het gevraagde gewicht is 5 mg)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "log(0,8) ≈ −0,1"
+        },
+        {
+          "points": 1,
+          "description": "Aflezen uit de figuur geeft log(G) ≈ −2,3"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe hieruit G berekend kan worden"
+        },
+        {
+          "points": 1,
+          "description": "G ≈ 0,005 (dus het gevraagde gewicht is 5 mg)"
+        }
+      ],
+      "grading_note": "Als de kandidaat een waarde van log(G) afleest tussen −2,4 en −2,2, deze grenzen inbegrepen, en hiermee correct doorrekent, hiervoor geen scorepunten in mindering brengen.",
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-karpers-antw12.png"
+      ]
+    },
+    {
+      "title": "Karpers",
+      "question_number": 13,
+      "answer_text": "• De vergelijking 0,014 · 1,9ᵇ = 0,25 moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• De gevraagde waarde van b is 4,49",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De vergelijking 0,014 · 1,9ᵇ = 0,25 moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+        },
+        {
+          "points": 1,
+          "description": "De gevraagde waarde van b is 4,49"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-karpers-antw13.png"
+      ]
+    },
+    {
+      "title": "Karpers",
+      "question_number": 14,
+      "answer_text": "• Uit G = 0,014 · L⁴˒⁵ volgt log(G) = log(0,014 · L⁴˒⁵)\n• Hieruit volgt log(G) = log(0,014) + log(L⁴˒⁵)\n• Dus log(G) = log(0,014) + 4,5 · log(L)\n• Dit geeft (in één decimaal nauwkeurig) log(G) = −1,9 + 4,5 · log(L) (dus p = −1,9 en q = 4,5)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit G = 0,014 · L⁴˒⁵ volgt log(G) = log(0,014 · L⁴˒⁵)"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt log(G) = log(0,014) + log(L⁴˒⁵)"
+        },
+        {
+          "points": 1,
+          "description": "Dus log(G) = log(0,014) + 4,5 · log(L)"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft (in één decimaal nauwkeurig) log(G) = −1,9 + 4,5 · log(L) (dus p = −1,9 en q = 4,5)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-karpers-antw14.png"
+      ]
+    },
+    {
+      "title": "Karpers",
+      "question_number": 15,
+      "answer_text": "• (Een karper van 94 cm is) 94/10 (= 9,4) keer zo lang (als een karper van 10 cm)\n• (Omdat G evenredig is met L³˒¹³ is een karper van 94 cm) (9,4)³˒¹³ keer zo zwaar (als een karper van 10 cm)\n• (Afgerond op honderdtallen is dit) dus 1100 keer zo zwaar\nof\n• (Voor volwassen karpers kan het verband tussen L en G worden beschreven met een formule van de vorm G = a · L³˒¹³, dan geldt) L = 10 geeft G ≈ 1349 · a en L = 94 geeft G ≈ 1499306 · a (of nauwkeuriger)\n• (Een karper van 94 cm is) (1499306 · a)/(1349 · a) = 1499306/1349 keer zo zwaar (als een karper van 10 cm)\n• (Afgerond op honderdtallen is dit) dus 1100 keer zo zwaar",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(Een karper van 94 cm is) 94/10 (= 9,4) keer zo lang (als een karper van 10 cm)"
+        },
+        {
+          "points": 1,
+          "description": "(Omdat G evenredig is met L³˒¹³ is een karper van 94 cm) (9,4)³˒¹³ keer zo zwaar (als een karper van 10 cm)"
+        },
+        {
+          "points": 1,
+          "description": "(Afgerond op honderdtallen is dit) dus 1100 keer zo zwaar"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-karpers-antw15.png"
+      ]
+    },
+    {
+      "title": "Exponentiële functie",
+      "question_number": 16,
+      "answer_text": "• Uit 3ˣ⁻¹ − 2 = 241 volgt 3ˣ⁻¹ = 243\n• Hieruit volgt x − 1 = (³log(243) =) 5\n• Dus x = 6",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit 3ˣ⁻¹ − 2 = 241 volgt 3ˣ⁻¹ = 243"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt x − 1 = (³log(243) =) 5"
+        },
+        {
+          "points": 1,
+          "description": "Dus x = 6"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-exponentiele-functie-antw16.png"
+      ]
+    },
+    {
+      "title": "Exponentiële functie",
+      "question_number": 17,
+      "answer_text": "• h(x) = 1/3 · (3ˣ − 6) = 1/3 · 3ˣ − 2\n• Hieruit volgt h(x) = 3⁻¹ · 3ˣ − 2\n• Dus h(x) = 3ˣ⁻¹ − 2 (en dat is hetzelfde functievoorschrift als voor f)",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "h(x) = 1/3 · (3ˣ − 6) = 1/3 · 3ˣ − 2"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt h(x) = 3⁻¹ · 3ˣ − 2"
+        },
+        {
+          "points": 1,
+          "description": "Dus h(x) = 3ˣ⁻¹ − 2 (en dat is hetzelfde functievoorschrift als voor f)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-exponentiele-functie-antw17.png"
+      ]
+    },
+    {
+      "title": "Exponentiële functie",
+      "question_number": 18,
+      "answer_text": "• Bij vermenigvuldiging ten opzichte van de y-as met factor a is het punt (−20,81) verkregen vanuit het punt van de grafiek van g met y-coördinaat 81\n• Dus de vergelijking g(x) = 3ˣ = 81 moet worden opgelost (om de x-coördinaat van dat punt te vinden)\n• Hieruit volgt x = 4\n• Dus a = −20/4 = −5\nof\n• (Bij vermenigvuldiging ten opzichte van de y-as met factor 1/a wordt het punt (−20,81) afgebeeld op het punt) (1/a · −20, 81)\n• (Dit punt ligt op de grafiek van g, dus) 3^(1/a · −20) = 81 (= 3⁴)\n• Hieruit volgt (1/a · −20 = 4, dus) −20/a = 4\n• Dus a = −5\nof\n• (Door vermenigvuldiging ten opzichte van de y-as met factor a wordt de formule voor k) k(x) = 3^(x/a)\n• (Punt (−20,81) ligt op de grafiek van k, dus) 81 = 3^(−20/a)\n• Hieruit volgt −20/a = 4\n• Dus a = −5",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Bij vermenigvuldiging ten opzichte van de y-as met factor a is het punt (−20,81) verkregen vanuit het punt van de grafiek van g met y-coördinaat 81"
+        },
+        {
+          "points": 1,
+          "description": "Dus de vergelijking g(x) = 3ˣ = 81 moet worden opgelost (om de x-coördinaat van dat punt te vinden)"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt x = 4"
+        },
+        {
+          "points": 1,
+          "description": "Dus a = −20/4 = −5"
+        }
+      ],
+      "grading_note": "Als gerekend is met het omgekeerde van de juiste factor, voor deze vraag maximaal 2 scorepunten toekennen.",
+      "answer_image_urls": [
+        "wiskunde-b-havo-2016-i-exponentiele-functie-antw18.png"
+      ]
+    }
+  ]
+}
