@@ -1,0 +1,66 @@
+{
+  "source": "HAVO Wiskunde B 2017-II",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Afstand tussen twee raaklijnen",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Over een cirkel gespannen",
+      "question_numbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Zonnepanelen",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "De toppen van de grafiek van een gebroken functie",
+      "question_numbers": [
+        9
+      ]
+    },
+    {
+      "title": "Sinus en wortel",
+      "question_numbers": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Tegels stapelen",
+      "question_numbers": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Pluto",
+      "question_numbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Rakende cirkels",
+      "question_numbers": [
+        18,
+        19
+      ]
+    }
+  ]
+}
