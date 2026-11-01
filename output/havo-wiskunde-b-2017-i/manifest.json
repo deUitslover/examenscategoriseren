@@ -1,0 +1,60 @@
+{
+  "source": "HAVO Wiskunde B 2017-I",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Cirkel en lijn",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Experimenteren met bacteriën",
+      "question_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Twee functies met een wortel",
+      "question_numbers": [
+        6
+      ]
+    },
+    {
+      "title": "Speerwerpen",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Gebroken functies",
+      "question_numbers": [
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Kookpunt van water",
+      "question_numbers": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Derdemachtswortel",
+      "question_numbers": [
+        17,
+        18
+      ]
+    }
+  ]
+}
