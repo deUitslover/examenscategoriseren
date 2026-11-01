@@ -1,0 +1,65 @@
+{
+  "source": "HAVO Wiskunde B 2016-II",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Drie snijpunten",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Afdakje",
+      "question_numbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Dicht bij elkaar",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Energieverbruik",
+      "question_numbers": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Sinusoïden",
+      "question_numbers": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Het midden en de top",
+      "question_numbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Monte Etna",
+      "question_numbers": [
+        17
+      ]
+    },
+    {
+      "title": "Twee parabolen",
+      "question_numbers": [
+        18
+      ]
+    }
+  ]
+}

@@ -23,7 +23,8 @@ the draft) to the real vraagnummer (VWO-WISB-24-I-O.pdf prints "3" for vraag
 vraag PNG is renamed to ...-vraag<real>.png.
 Subdomain names are validated against SUBDOMAINS below (HAVO Biologie
 list) or, with SUBJECT = "Wiskunde B" in the annotation file, against
-WISKUNDE_B_SUBDOMAINS (VWO Wiskunde B list); the domain is derived from it.
+WISKUNDE_B_SUBDOMAINS (VWO Wiskunde B list) / HAVO_WISKUNDE_B_SUBDOMAINS
+(with LEVEL = "HAVO"); the domain is derived from it.
 For Wiskunde B every text also goes through unicode_math.clean_math
 (Cambria Math italic letters -> plain letters, invisible operators out).
 
@@ -66,6 +67,18 @@ WISKUNDE_B_SUBDOMAINS = {
     "Vectoren en inproduct": _M,
 }
 
+# HAVO Wiskunde B list (LEVEL = "HAVO" with SUBJECT = "Wiskunde B")
+_HF = "Functies, grafieken en vergelijkingen"
+_HM = "Meetkundige berekeningen"
+_HA = "Toegepaste analyse"
+HAVO_WISKUNDE_B_SUBDOMAINS = {
+    "Standaardfuncties": _HF, "Vergelijkingen en ongelijkheden": _HF,
+    "Evenredigheidsverbanden": _HF, "Periodieke functies": _HF,
+    "Afstanden en hoeken in concrete situaties": _HM, "Algebraïsche methoden": _HM,
+    "Veranderingen": _HA, "Afgeleide functies": _HA,
+    "Bepaling afgeleide functies": _HA, "Toepassing afgeleide functies": _HA,
+}
+
 # Plain-ASCII chemical notation that shows up in ExamenCentraal text
 # extraction (the PDF sets the digits as smaller glyphs, get_text() loses
 # that). Extend when a new formula appears; always eyeball the PDF first.
@@ -105,7 +118,10 @@ def main():
     source, level = ann["SOURCE"], ann.get("LEVEL", "HAVO")
     subject = ann.get("SUBJECT", "Biologie")
     math = subject.startswith("Wiskunde")
-    subdomains = WISKUNDE_B_SUBDOMAINS if subject == "Wiskunde B" else SUBDOMAINS
+    if subject == "Wiskunde B":
+        subdomains = HAVO_WISKUNDE_B_SUBDOMAINS if level == "HAVO" else WISKUNDE_B_SUBDOMAINS
+    else:
+        subdomains = SUBDOMAINS
     exs, ctxs, qs, manifest = [], [], [], []
     problems = []
     for ex in draft["exercises"]:
