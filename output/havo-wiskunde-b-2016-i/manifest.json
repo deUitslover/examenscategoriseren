@@ -1,0 +1,60 @@
+{
+  "source": "HAVO Wiskunde B 2016-I",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "De rechte van Euler",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Een wortelfunctie",
+      "question_numbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Schijngestalten van de maan",
+      "question_numbers": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Gebroken functie en raaklijn",
+      "question_numbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Klok",
+      "question_numbers": [
+        11
+      ]
+    },
+    {
+      "title": "Karpers",
+      "question_numbers": [
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Exponentiële functie",
+      "question_numbers": [
+        16,
+        17,
+        18
+      ]
+    }
+  ]
+}
