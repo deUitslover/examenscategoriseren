@@ -1,0 +1,497 @@
+{
+ "subject_name": "Wiskunde B",
+ "level": "HAVO",
+ "source": "HAVO Wiskunde B 2018-II",
+ "answers": [
+  {
+   "title": "Piano",
+   "question_number": 1,
+   "answer_text": "• (Voor de groeifactor g geldt) g⁴⁸ = 440/27,5 (= 16)\n• g = (440/27,5)^(1/48)\n• g = 1,05946…\n• Het gevraagde percentage is 5,95(%)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(Voor de groeifactor g geldt) g⁴⁸ = 440/27,5 (= 16)"
+    },
+    {
+     "points": 1,
+     "description": "g = (440/27,5)^(1/48)"
+    },
+    {
+     "points": 1,
+     "description": "g = 1,05946…"
+    },
+    {
+     "points": 1,
+     "description": "Het gevraagde percentage is 5,95(%)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-piano-antw1.png"
+   ]
+  },
+  {
+   "title": "Piano",
+   "question_number": 2,
+   "answer_text": "• De vergelijkingen 440 · 2^(1/12·(m−69)) = 20 en 440 · 2^(1/12·(m−69)) = 20000 moeten worden opgelost\n• Beschrijven hoe deze vergelijkingen kunnen worden opgelost\n• Dit geeft respectievelijk m = 15,4… en m = 135,0……\n• Het laagste MIDI-nummer is dus 16, het hoogste 135\n• Het antwoord: 120 (toetsen)\nof\n• De vergelijkingen 440 · 2^(1/12·(m−69)) = 20 en 440 · 2^(1/12·(m−69)) = 20000 moeten worden opgelost\n• m = 15 geeft f = 19,…; m = 16 geeft 20,…\n• m = 135 geeft f = 19912,…; m = 136 geeft 21096,…\n• Het laagste MIDI-nummer is dus 16, het hoogste 135\n• Het antwoord: 120 (toetsen)\nof\n• Uit f = 440 · 2^(1/12·(m−69)) volgt 2^(1/2·(m−69)) = f/440; dit geeft 1/12·(m − 69) = ²log(f/440)\n• Hieruit volgt m = 12 · ²log(f/440) + 69 (of een gelijkwaardige uitdrukking)\n• f = 20 en f = 20000 invullen geeft respectievelijk m = 15,4… en m = 135,0…\n• Het laagste MIDI-nummer is dus 16, het hoogste 135\n• Het antwoord: 120 (toetsen)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijkingen 440 · 2^(1/12·(m−69)) = 20 en 440 · 2^(1/12·(m−69)) = 20000 moeten worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijkingen kunnen worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft respectievelijk m = 15,4… en m = 135,0……"
+    },
+    {
+     "points": 1,
+     "description": "Het laagste MIDI-nummer is dus 16, het hoogste 135"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 120 (toetsen)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-piano-antw2.png"
+   ]
+  },
+  {
+   "title": "Twee paren punten op een cirkel",
+   "question_number": 3,
+   "answer_text": "• Lijn l heeft een vergelijking van de vorm y = −x + b en gaat door het punt (4,4), dus y = −x + 8\n• y = −x + 8 snijden met x² + y² − 10x + 16y = 56 geeft x² + (−x + 8)² − 10x + 16(−x + 8) = 56\n• Deze vergelijking herleiden tot 2x² − 42x + 136 = 0\n• Herleiden tot (x − 4)(x − 17) = 0\n• De x-coördinaat van B is 17 (want x = 4 hoort bij A) en de y-coördinaat is −9 (dus B(17, −9))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Lijn l heeft een vergelijking van de vorm y = −x + b en gaat door het punt (4,4), dus y = −x + 8"
+    },
+    {
+     "points": 1,
+     "description": "y = −x + 8 snijden met x² + y² − 10x + 16y = 56 geeft x² + (−x + 8)² − 10x + 16(−x + 8) = 56"
+    },
+    {
+     "points": 1,
+     "description": "Deze vergelijking herleiden tot 2x² − 42x + 136 = 0"
+    },
+    {
+     "points": 1,
+     "description": "Herleiden tot (x − 4)(x − 17) = 0"
+    },
+    {
+     "points": 1,
+     "description": "De x-coördinaat van B is 17 (want x = 4 hoort bij A) en de y-coördinaat is −9 (dus B(17, −9))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-twee-paren-punten-op-een-cirkel-antw3.png"
+   ]
+  },
+  {
+   "title": "Twee paren punten op een cirkel",
+   "question_number": 4,
+   "answer_text": "• Uit x² + y² − 10x + 16y = 56 volgt (x − 5)² − 25 + (y + 8)² − 64 = 56\n• (Hieruit volgt (x − 5)² + (y + 8)² = 145 en dus) M(5, −8)\n• De helling van CM is (0 − −8)/(−4 − 5) = −8/9 (= −0,888…)\n• De tangens van de hellingshoek van CM is −8/9, dus de hellingshoek van CM is −41,63…° (dus ∠DCM = 41,63…°)\n• ∠CDM = (∠DCM =) 41,63…°\n• Dus ∠CMD = 180 − 2 · 41,63… ≈ 96,7(°)\nof\n• Uit x² + y² − 10x + 16y = 56 volgt (x − 5)² − 25 + (y + 8)² − 64 = 56\n• (Hieruit volgt (x − 5)² + (y + 8)² = 145 en dus) M(5, −8)\n• De helling van CM is (0 − −8)/(−4 − 5) = −8/9 (= −0,888…)\n• De helling van DM is (0 − −8)/(14 − 5) = 8/9 (= 0,888…)\n• De tangens van de hellingshoek van CM is −8/9, dus de hellingshoek van CM is −41,63…° (dus ∠DCM = 41,63…°); de tangens van de hellingshoek van DM is 8/9, dus de hellingshoek van DM is 41,63…° (dus ∠CDM = 41,63…°)\n• Dus ∠CMD = 180 − 2 · 41,63… ≈ 96,7(°)\nof\n• Vanwege symmetrie geldt x_M = (−4 + 14)/2 = 5\n• x = 5 invullen in de vergelijking van c geeft y² + 16y − 81 = 0; het gemiddelde van de oplossingen geeft y_M, dus y_M = −16/2 = −8\n• De helling van CM is (0 − −8)/(−4 − 5) = −8/9 (= −0,888…)\n• De tangens van de hellingshoek van CM is −8/9, dus de hellingshoek van CM is −41,63…° (dus ∠DCM = 41,63…°)\n• ∠CDM = (∠DCM =) 41,63…°\n• Dus ∠CMD = 180 − 2 · 41,63… ≈ 96,7(°)\nof\n• Uit x² + y² − 10x + 16y = 56 volgt (x − 5)² − 25 + (y + 8)² − 64 = 56\n• Hieruit volgt (x − 5)² + (y + 8)² = 145 en dus CM = √145 (= 12,04…)\n• CD = 14 − −4 = 18\n• Als N het midden van CD is, dan (∠MNC = 90°, dus) sin(∠CMN) = 9/√145\n• Hieruit volgt ∠CMN = 48,36…°\n• Dus ∠CMD = 2 · 48,36… ≈ 96,7(°)\nof\n• Uit x² + y² − 10x + 16y = 56 volgt (x − 5)² − 25 + (y + 8)² − 64 = 56\n• Hieruit volgt (x − 5)² + (y + 8)² = 145 en dus CM = DM = √145 (= 12,04…)\n• CD = 14 − −4 = 18\n• 18² = (√145)² + (√145)² − 2 · √145 · √145 · cos(∠CMD)\n• Hieruit volgt cos(∠CMD) = −17/145\n• Dus ∠CMD ≈ 96,7(°)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Uit x² + y² − 10x + 16y = 56 volgt (x − 5)² − 25 + (y + 8)² − 64 = 56"
+    },
+    {
+     "points": 1,
+     "description": "(Hieruit volgt (x − 5)² + (y + 8)² = 145 en dus) M(5, −8)"
+    },
+    {
+     "points": 1,
+     "description": "De helling van CM is (0 − −8)/(−4 − 5) = −8/9 (= −0,888…)"
+    },
+    {
+     "points": 1,
+     "description": "De tangens van de hellingshoek van CM is −8/9, dus de hellingshoek van CM is −41,63…° (dus ∠DCM = 41,63…°)"
+    },
+    {
+     "points": 1,
+     "description": "∠CDM = (∠DCM =) 41,63…°"
+    },
+    {
+     "points": 1,
+     "description": "Dus ∠CMD = 180 − 2 · 41,63… ≈ 96,7(°)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-twee-paren-punten-op-een-cirkel-antw4.png"
+   ]
+  },
+  {
+   "title": "Logaritme van een kwadratische functie",
+   "question_number": 5,
+   "answer_text": "• (Voor de verticale asymptoot zou moeten gelden) x² − 3x + 3 = 0\n• De discriminant van deze vergelijking is gelijk aan (−3)² − 4 · 1 · 3 = −3\n• Dit is kleiner dan nul, dus de vergelijking heeft geen oplossingen (en dus heeft de grafiek van f geen verticale asymptoot)\nof\n• De grafiek van y = x² − 3x + 3 is een dalparabool\n• x_top = −(−3)/(2·1) = 3/2 (of 2x − 3 = 0 geeft x_top = 3/2)\n• y_top = (3/2)² − 3 · 3/2 + 3 = 3/4; dit is groter dan nul, dus x² − 3x + 3 kan niet nul zijn (en dus heeft de grafiek van f geen verticale asymptoot)\nof\n• (Voor de verticale asymptoot zou moeten gelden) x² − 3x + 3 = 0\n• x² − 3x + 3 = (x − 1½)² + 3/4\n• Dit is (voor elke waarde van x) positief, dus de vergelijking heeft geen oplossingen (en dus heeft de grafiek van f geen verticale asymptoot)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(Voor de verticale asymptoot zou moeten gelden) x² − 3x + 3 = 0"
+    },
+    {
+     "points": 1,
+     "description": "De discriminant van deze vergelijking is gelijk aan (−3)² − 4 · 1 · 3 = −3"
+    },
+    {
+     "points": 1,
+     "description": "Dit is kleiner dan nul, dus de vergelijking heeft geen oplossingen (en dus heeft de grafiek van f geen verticale asymptoot)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-logaritme-van-een-kwadratische-functie-antw5.png"
+   ]
+  },
+  {
+   "title": "Logaritme van een kwadratische functie",
+   "question_number": 6,
+   "answer_text": "• De vergelijking ²log(x² − 3x + 3) = 0 moet worden opgelost\n• Dit geeft x² − 3x + 3 = 1\n• Herleiden tot (x − 2)(x − 1) = 0\n• Dit geeft x = 2 of x = 1\n• (De grafiek van g gaat door (4,0)), dus a = (4 − 2 =) 2 of a = (4 − 1 =) 3\nof\n• Een functievoorschrift van g is g(x) = ²log((x − a)² − 3(x − a) + 3)\n• (De grafiek van g gaat door (4,0)), dus er moet gelden ²log((4 − a)² − 3(4 − a) + 3) = 0\n• (4 − a)² − 3(4 − a) + 3 = 1\n• Herleiden tot a² − 5a + 6 = 0, dus (a − 2)(a − 3) = 0\n• Dus a = 2 of a = 3",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking ²log(x² − 3x + 3) = 0 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft x² − 3x + 3 = 1"
+    },
+    {
+     "points": 1,
+     "description": "Herleiden tot (x − 2)(x − 1) = 0"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft x = 2 of x = 1"
+    },
+    {
+     "points": 1,
+     "description": "(De grafiek van g gaat door (4,0)), dus a = (4 − 2 =) 2 of a = (4 − 1 =) 3"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-logaritme-van-een-kwadratische-functie-antw6.png"
+   ]
+  },
+  {
+   "title": "Trapezium",
+   "question_number": 7,
+   "answer_text": "• Volgens de sinusregel geldt in △ABC: 6/sin(∠ACB) = 5/sin(55°)\n• Hieruit volgt sin(∠ACB) = 0,982…\n• ∠ACB = 100,585…° (∠ACB = 79,414…° voldoet niet)\n• Dus ∠BAC = 180 − 55 − 100,585… ≈ 24,415°\nof\n• Volgens de cosinusregel geldt in △ABC: 5² = 6² + BC² − 2 · 6 · BC · cos(55°)\n• BC² − 12cos(55°) · BC + 11 = 0 geeft BC = (12cos(55°) ± √((−12cos(55°))² − 4·1·11))/2 (dus BC = 2,522… (4,359… voldoet niet))\n• Volgens de cosinusregel geldt in △ABC: 2,522…² = 6² + 5² − 2 · 6 · 5 · cos(∠BAC)\n• Hieruit volgt cos(∠BAC) = 0,910…, dus ∠BAC ≈ 24,415°\nof\n• Volgens de cosinusregel geldt in △ABC: 5² = 6² + BC² − 2 · 6 · BC · cos(55°)\n• BC² − 12cos(55°) · BC + 11 = 0 geeft BC = (12cos(55°) ± √((−12cos(55°))² − 4·1·11))/2 (dus BC = 2,522… (4,359… voldoet niet))\n• Volgens de sinusregel geldt in △ABC: 2,522…/sin(∠BAC) = 5/sin(55°)\n• Hieruit volgt sin(∠BAC) = 0,413…, dus ∠BAC ≈ 24,415° (∠BAC = 155,585…° voldoet niet)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Volgens de sinusregel geldt in △ABC: 6/sin(∠ACB) = 5/sin(55°)"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt sin(∠ACB) = 0,982…"
+    },
+    {
+     "points": 1,
+     "description": "∠ACB = 100,585…° (∠ACB = 79,414…° voldoet niet)"
+    },
+    {
+     "points": 1,
+     "description": "Dus ∠BAC = 180 − 55 − 100,585… ≈ 24,415°"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-trapezium-antw7.png"
+   ]
+  },
+  {
+   "title": "Trapezium",
+   "question_number": 8,
+   "answer_text": "• Er geldt sin(24,4…°) = h/5; hieruit volgt h = 2,0…\n• Als D′ de loodrechte projectie van D op AB is, dan geldt AD′ = √(3² − 2,0…²) = 2,1…\n• Als C′ de loodrechte projectie van C op AB is, dan geldt tan(55°) = 2,0…/BC′; hieruit volgt BC′ = 1,4…\n• Dus CD = 6 − 2,1… − 1,4… = 2,3…\n• De oppervlakte van het trapezium is 2,0… · (6 + 2,3…)/2 ≈ 8,7\nof\n• Er geldt sin(24,4…°) = h/5; hieruit volgt h = 2,0…\n• ∠ACD en ∠BAC zijn Z-hoeken, dus ∠ACD = ∠BAC = 24,4…\n• Volgens de cosinusregel geldt in △ACD: 3² = CD² + 5² − 2 · CD · 5 · cos(24,4…°)\n• Hieruit volgt (bijvoorbeeld met de GR) CD = 2,3… (6,7… voldoet niet)\n• De oppervlakte van het trapezium is 2,0… · (6 + 2,3…)/2 ≈ 8,7\nof\n• Er geldt sin(24,4…°) = h/5; hieruit volgt h = 2,0…\n• Als D′ de loodrechte projectie van D op AB is, dan geldt sin(∠DAD′) = 2,0…/3; hieruit volgt ∠DAD′ = 43,5…° (∠DAD′ = 136,4…° voldoet niet)\n• Dus ∠DAC = 43,5… − 24,4… = 19,1…°\n• Volgens de cosinusregel geldt in △ACD: CD² = 3² + 5² − 2 · 3 · 5 · cos(19,1…°) = 5,6…, dus CD = 2,3…\n• De oppervlakte van het trapezium is 2,0… · (6 + 2,3…)/2 ≈ 8,7\nof\n• Een berekening waaruit volgt dat BC = 2,5…; dan geldt sin(55°) = h/2,5…; hieruit volgt h = 2,0…\n• Als D′ de loodrechte projectie van D op AB is, dan geldt AD′ = √(3² − 2,0…²) = 2,1…\n• Als C′ de loodrechte projectie van C op AB is, dan geldt BC′ = √(2,5…² − 2,0…²) = 1,4…\n• Dus CD = 6 − 2,1… − 1,4… = 2,3…\n• De oppervlakte van het trapezium is 2,0… · (6 + 2,3…)/2 ≈ 8,7",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er geldt sin(24,4…°) = h/5; hieruit volgt h = 2,0…"
+    },
+    {
+     "points": 1,
+     "description": "Als D′ de loodrechte projectie van D op AB is, dan geldt AD′ = √(3² − 2,0…²) = 2,1…"
+    },
+    {
+     "points": 1,
+     "description": "Als C′ de loodrechte projectie van C op AB is, dan geldt tan(55°) = 2,0…/BC′; hieruit volgt BC′ = 1,4…"
+    },
+    {
+     "points": 1,
+     "description": "Dus CD = 6 − 2,1… − 1,4… = 2,3…"
+    },
+    {
+     "points": 1,
+     "description": "De oppervlakte van het trapezium is 2,0… · (6 + 2,3…)/2 ≈ 8,7"
+    }
+   ],
+   "grading_note": "– Als de lengte van BC bij de vorige vraag berekend is, dan mag het resultaat van die berekening bij deze vraag gebruikt worden.\n– Als uitgegaan wordt van ∠BAC = 24,41°, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-trapezium-antw8.png"
+   ]
+  },
+  {
+   "title": "Productiviteit",
+   "question_number": 9,
+   "answer_text": "• Beschrijven hoe het maximum van P met de GR kan worden gevonden\n• Dit geeft (de ideale temperatuur) T = 21,65… (°C)\n• P(19,65…) = 99,2… (%) en P(23,65…) = 99,3… (%)\n• De conclusie: de productiviteit neemt het meest af bij twee graden daling ten opzichte van de ideale temperatuur\nof\n• P′ = 0,01869T² − 1,16548T + 16,47524\n• P′ = 0 geeft (op het gegeven domein) (de ideale temperatuur) T = 21,65… (°C)\n• P(19,65…) = 99,2… (%) en P(23,65…) = 99,3… (%)\n• De conclusie: de productiviteit neemt het meest af bij twee graden daling ten opzichte van de ideale temperatuur",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Beschrijven hoe het maximum van P met de GR kan worden gevonden"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft (de ideale temperatuur) T = 21,65… (°C)"
+    },
+    {
+     "points": 1,
+     "description": "P(19,65…) = 99,2… (%) en P(23,65…) = 99,3… (%)"
+    },
+    {
+     "points": 1,
+     "description": "De conclusie: de productiviteit neemt het meest af bij twee graden daling ten opzichte van de ideale temperatuur"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-productiviteit-antw9.png"
+   ]
+  },
+  {
+   "title": "Productiviteit",
+   "question_number": 10,
+   "answer_text": "• P(30) = 91,234… en P(35) = 83,121…\n• a = (83,121… − 91,234…)/(35 − 30) = −1,622…, dus a ≈ −1,623\n• Invullen van T = 30 en P = 91,234… (of T = 35 en P = 83,121…) in P = −1,622… · T + b geeft b ≈ 139,9",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "P(30) = 91,234… en P(35) = 83,121…"
+    },
+    {
+     "points": 1,
+     "description": "a = (83,121… − 91,234…)/(35 − 30) = −1,622…, dus a ≈ −1,623"
+    },
+    {
+     "points": 1,
+     "description": "Invullen van T = 30 en P = 91,234… (of T = 35 en P = 83,121…) in P = −1,622… · T + b geeft b ≈ 139,9"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-productiviteit-antw10.png"
+   ]
+  },
+  {
+   "title": "Sinus",
+   "question_number": 11,
+   "answer_text": "• Uit de vergelijking 3sin(πx) = 3/2 volgt sin(πx) = 1/2\n• πx = 1/6·π of πx = 5/6·π (of: πx = 1/6·π + k · 2π of πx = 5/6·π + k · 2π)\n• De x-coördinaat van P is x = 1/6 en de x-coördinaat van Q is x = 5/6",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Uit de vergelijking 3sin(πx) = 3/2 volgt sin(πx) = 1/2"
+    },
+    {
+     "points": 1,
+     "description": "πx = 1/6·π of πx = 5/6·π (of: πx = 1/6·π + k · 2π of πx = 5/6·π + k · 2π)"
+    },
+    {
+     "points": 1,
+     "description": "De x-coördinaat van P is x = 1/6 en de x-coördinaat van Q is x = 5/6"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-sinus-antw11.png"
+   ]
+  },
+  {
+   "title": "Sinus",
+   "question_number": 12,
+   "answer_text": "• De periode van f is (2π/π =) 2 (en de grafiek van f gaat door de evenwichtstand omhoog in O)\n• Hieruit volgt x_A = 1\n• De amplitude van f is 3 (en x_T = (1 + 0)/2), dus de coördinaten van T zijn (1/2, 3)\n• Invullen van x = 1 en y = 0 in g(x) = ax³ + bx geeft a + b = 0; invullen van x = 1/2 en y = 3 geeft 1/8·a + 1/2·b = 3\nof\n• Voor x_A geldt 3sin(πx) = 0 dus sin(πx) = 0\n• Hieruit volgt x_A (= π/π) = 1\n• Uit de vergelijking 3sin(πx) = 3 volgt sin(πx) = 1 en dit geeft x (= (1/2·π)/π) = 1/2, dus de coördinaten van T zijn (1/2, 3)\n• Invullen van x = 1 en y = 0 in g(x) = ax³ + bx geeft a + b = 0; invullen van x = 1/2 en y = 3 geeft 1/8·a + 1/2·b = 3",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De periode van f is (2π/π =) 2 (en de grafiek van f gaat door de evenwichtstand omhoog in O)"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt x_A = 1"
+    },
+    {
+     "points": 1,
+     "description": "De amplitude van f is 3 (en x_T = (1 + 0)/2), dus de coördinaten van T zijn (1/2, 3)"
+    },
+    {
+     "points": 1,
+     "description": "Invullen van x = 1 en y = 0 in g(x) = ax³ + bx geeft a + b = 0; invullen van x = 1/2 en y = 3 geeft 1/8·a + 1/2·b = 3"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-sinus-antw12.png"
+   ]
+  },
+  {
+   "title": "Sinus",
+   "question_number": 13,
+   "answer_text": "• Uit 1/8·a + 1/2·b = 3 volgt a + 4b = 24, dus (a + 4b) − (a + b) = 24\n• Dus 3b = 24, dus b = 8\n• Hieruit volgt a = −8 (en b = 8)\nof\n• Uit a + b = 0 volgt a = −b, dus −1/8·b + 1/2·b = 3\n• Dus 3/8·b = 3, dus b = 8\n• Hieruit volgt a = −8 (en b = 8)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Uit 1/8·a + 1/2·b = 3 volgt a + 4b = 24, dus (a + 4b) − (a + b) = 24"
+    },
+    {
+     "points": 1,
+     "description": "Dus 3b = 24, dus b = 8"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt a = −8 (en b = 8)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-sinus-antw13.png"
+   ]
+  },
+  {
+   "title": "Gebroken functies",
+   "question_number": 14,
+   "answer_text": "• De vergelijking x + 1/x = x/4 + 4/x moet worden opgelost\n• Hieruit volgt 3/4·x = 3/x (of bijvoorbeeld x/4 = 1/x)\n• Dit geeft x² = 4\n• Dit geeft (met domein ⟨0, →⟩) x = 2",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking x + 1/x = x/4 + 4/x moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt 3/4·x = 3/x (of bijvoorbeeld x/4 = 1/x)"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft x² = 4"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft (met domein ⟨0, →⟩) x = 2"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-gebroken-functies-antw14.png"
+   ]
+  },
+  {
+   "title": "Gebroken functies",
+   "question_number": 15,
+   "answer_text": "• (h(x) = 1/a·x + ax⁻¹, dus) h′(x) = 1/a − ax⁻² (of een vergelijkbare vorm)\n• h′(x) = 1/a − a/x²\n• h′(x) = x²/(ax²) − a²/(ax²) = (x² − a²)/(ax²)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(h(x) = 1/a·x + ax⁻¹, dus) h′(x) = 1/a − ax⁻² (of een vergelijkbare vorm)"
+    },
+    {
+     "points": 1,
+     "description": "h′(x) = 1/a − a/x²"
+    },
+    {
+     "points": 1,
+     "description": "h′(x) = x²/(ax²) − a²/(ax²) = (x² − a²)/(ax²)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-gebroken-functies-antw15.png"
+   ]
+  },
+  {
+   "title": "Gebroken functies",
+   "question_number": 16,
+   "answer_text": "• Uit h′(x) = 0 volgt x² − a² = 0\n• Hieruit volgt x² = a², dus (met a > 0 en domein ⟨0, →⟩) x = a\n• (De y-coördinaat van de top van de grafiek van h is) h(a) = a/a + a/a\n• Dit is gelijk aan (1 + 1 =) 2 (dus is voor elke waarde van a, met a > 0, de y-coördinaat van de top van de grafiek van h gelijk aan 2)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Uit h′(x) = 0 volgt x² − a² = 0"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt x² = a², dus (met a > 0 en domein ⟨0, →⟩) x = a"
+    },
+    {
+     "points": 1,
+     "description": "(De y-coördinaat van de top van de grafiek van h is) h(a) = a/a + a/a"
+    },
+    {
+     "points": 1,
+     "description": "Dit is gelijk aan (1 + 1 =) 2 (dus is voor elke waarde van a, met a > 0, de y-coördinaat van de top van de grafiek van h gelijk aan 2)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-gebroken-functies-antw16.png"
+   ]
+  },
+  {
+   "title": "Macht en lijnen",
+   "question_number": 17,
+   "answer_text": "• Uit 3/(16x⁴) = 1/32 volgt x⁴ = 6\n• Dit geeft x = −∜6 of x = ∜6\n• De afstand tussen de twee punten is 2∜6",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Uit 3/(16x⁴) = 1/32 volgt x⁴ = 6"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft x = −∜6 of x = ∜6"
+    },
+    {
+     "points": 1,
+     "description": "De afstand tussen de twee punten is 2∜6"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-macht-en-lijnen-antw17.png"
+   ]
+  },
+  {
+   "title": "Macht en lijnen",
+   "question_number": 18,
+   "answer_text": "• f(x) = 3/16·x⁻⁴\n• f′(x) = −12/16·x⁻⁵ (of een gelijkwaardige uitdrukking)\n• f′(1) = −3/4\n• Dus l heeft een vergelijking van de vorm y = −3/4·x + b\n• Invullen van de coördinaten van A in y = −3/4·x + b geeft b = 15/16, dus de y-coördinaat van B is 15/16 (of B(0, 15/16))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "f(x) = 3/16·x⁻⁴"
+    },
+    {
+     "points": 1,
+     "description": "f′(x) = −12/16·x⁻⁵ (of een gelijkwaardige uitdrukking)"
+    },
+    {
+     "points": 1,
+     "description": "f′(1) = −3/4"
+    },
+    {
+     "points": 1,
+     "description": "Dus l heeft een vergelijking van de vorm y = −3/4·x + b"
+    },
+    {
+     "points": 1,
+     "description": "Invullen van de coördinaten van A in y = −3/4·x + b geeft b = 15/16, dus de y-coördinaat van B is 15/16 (of B(0, 15/16))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2018-ii-macht-en-lijnen-antw18.png"
+   ]
+  }
+ ]
+}
