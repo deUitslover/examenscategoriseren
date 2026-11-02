@@ -1,0 +1,65 @@
+{
+  "source": "HAVO Wiskunde B 2019-I",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Formule van Wilson",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Ingeklemd",
+      "question_numbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Twee exponentiële functies",
+      "question_numbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "In of uit",
+      "question_numbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Grafiek van een derdegraadsfunctie en een lijn",
+      "question_numbers": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Sinusoïden",
+      "question_numbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Schaal van Richter",
+      "question_numbers": [
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Loodrecht en raken",
+      "question_numbers": [
+        18
+      ]
+    }
+  ]
+}
