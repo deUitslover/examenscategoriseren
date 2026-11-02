@@ -1,0 +1,512 @@
+{
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde B 2017-II",
+  "answers": [
+    {
+      "title": "Afstand tussen twee raaklijnen",
+      "question_number": 1,
+      "answer_text": "• Uit 1/2·x³ − 4x = 0 volgt (x = 0 of) 1/2·x² − 4 = 0\n• Hieruit volgt x² = 8 dus (de x-coördinaten van M en N zijn) x = −√8 (= −2√2) en x = √8 (= 2√2)\n• De afstand tussen M en N is 2√8 (= 4√2)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit 1/2·x³ − 4x = 0 volgt (x = 0 of) 1/2·x² − 4 = 0"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt x² = 8 dus (de x-coördinaten van M en N zijn) x = −√8 (= −2√2) en x = √8 (= 2√2)"
+        },
+        {
+          "points": 1,
+          "description": "De afstand tussen M en N is 2√8 (= 4√2)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-afstand-tussen-twee-raaklijnen-antw1.png"
+      ]
+    },
+    {
+      "title": "Afstand tussen twee raaklijnen",
+      "question_number": 2,
+      "answer_text": "• f′(x) = 3/2·x² − 4\n• De richtingscoëfficiënt van k is f′(−2) = 2\n• Voor lijn k (met vergelijking y = 2x + b) geldt (2 · −2 + b = 4, dus) y = 2x + 8\n• (Zij m de lijn loodrecht op k door O, dan is een vergelijking voor m) y = −1/2·x\n• (Voor het snijpunt van k en m geldt) −1/2·x = 2x + 8\n• Hieruit volgt x = −16/5 en y (= −1/2 · −16/5) = 8/5\n• De afstand tussen k en l is 2 · √((16/5)² + (8/5)²) dus de gevraagde afstand is 7,16",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "f′(x) = 3/2·x² − 4"
+        },
+        {
+          "points": 1,
+          "description": "De richtingscoëfficiënt van k is f′(−2) = 2"
+        },
+        {
+          "points": 1,
+          "description": "Voor lijn k (met vergelijking y = 2x + b) geldt (2 · −2 + b = 4, dus) y = 2x + 8"
+        },
+        {
+          "points": 1,
+          "description": "(Zij m de lijn loodrecht op k door O, dan is een vergelijking voor m) y = −1/2·x"
+        },
+        {
+          "points": 1,
+          "description": "(Voor het snijpunt van k en m geldt) −1/2·x = 2x + 8"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt x = −16/5 en y (= −1/2 · −16/5) = 8/5"
+        },
+        {
+          "points": 1,
+          "description": "De afstand tussen k en l is 2 · √((16/5)² + (8/5)²) dus de gevraagde afstand is 7,16"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-afstand-tussen-twee-raaklijnen-antw2.png"
+      ]
+    },
+    {
+      "title": "Over een cirkel gespannen",
+      "question_number": 3,
+      "answer_text": "• De richtingscoëfficiënt van MD is ((8 − 5)/(4 − 0) =) 3/4\n• (Omdat voor lijn l moet gelden rc_l · 3/4 = −1, geldt) rc_l = −4/3 (dus l heeft een vergelijking van de vorm y = −4/3·x + b)\n• Invullen van de coördinaten van D(4,8) in y = −4/3·x + b geeft b = 40/3 (dus een vergelijking van l is y = −4/3·x + 40/3)\n• Uit −4/3·x + 40/3 = 0 volgt x = 10 (dus de coördinaten van B zijn (10,0))\nof\n• De richtingscoëfficiënt van MD is ((8 − 5)/(4 − 0) =) 3/4\n• (Omdat voor lijn l moet gelden rc_l · 3/4 = −1, geldt) rc_l = −4/3\n• Vanuit D(4,8) naar de x-as is 8 omlaag, dus met richtingscoëfficiënt −4/3 (= −8/6) is dat 6 naar rechts\n• Dan volgt x = (4 + 6 =) 10 (dus de coördinaten van B zijn (10,0))\nof\n• De richtingscoëfficiënt van MD is ((8 − 5)/(4 − 0) =) 3/4\n• De richtingscoëfficiënt van de lijn door D en (10,0) is ((8 − 0)/(4 − 10) =) −4/3\n• 3/4 · −4/3 = −1, dus de lijn door D en (10,0) staat loodrecht op MD\n• Hieruit volgt dat de lijn door D en (10,0) samenvalt met l, dus l snijdt de x-as in B(10,0)\nof\n• De driehoeken MED, MDS en BOS (met S het snijpunt van k en l en E de projectie van D op de y-as) zijn gelijkvormig\n• SM = 5/3 · 5 = 25/3 (en SD = 5/3 · 4 = 20/3)\n• OS = 5 + 25/3 = 40/3\n• OB = (40/3)/(20/3) · 5 = 10 (of OB = 3/4 · 40/3 = 10) (dus de coördinaten van B zijn (10,0))",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De richtingscoëfficiënt van MD is ((8 − 5)/(4 − 0) =) 3/4"
+        },
+        {
+          "points": 1,
+          "description": "(Omdat voor lijn l moet gelden rc_l · 3/4 = −1, geldt) rc_l = −4/3 (dus l heeft een vergelijking van de vorm y = −4/3·x + b)"
+        },
+        {
+          "points": 1,
+          "description": "Invullen van de coördinaten van D(4,8) in y = −4/3·x + b geeft b = 40/3 (dus een vergelijking van l is y = −4/3·x + 40/3)"
+        },
+        {
+          "points": 1,
+          "description": "Uit −4/3·x + 40/3 = 0 volgt x = 10 (dus de coördinaten van B zijn (10,0))"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-over-een-cirkel-gespannen-antw3.png"
+      ]
+    },
+    {
+      "title": "Over een cirkel gespannen",
+      "question_number": 4,
+      "answer_text": "• De lengte van de lijnstukken AC en BD is √((4 − 10)² + (8 − 0)²) = 10\n• Er geldt tan(1/2·∠CMD) = 4/3\n• Hieruit volgt (1/2·∠CMD ≈ 53,1°, dus) ∠CMD ≈ 106°\n• De lengte van boog CD is 106/360 · 2π · 5 ≈ 9,3\n• Dus de lengte van het touwtje is (9,3 + 2 · 10 =) 29,3\nof\n• De lengte van de lijnstukken AC en BD is √((4 − 10)² + (8 − 0)²) = 10\n• De tangens van de hellingshoek van MD is 3/4, dus de hellingshoek van MD is 36,9°\n• Hieruit volgt ∠CMD (= 2 · (90° − 36,9°)) ≈ 106°\n• De lengte van boog CD is 106/360 · 2π · 5 ≈ 9,3\n• Dus de lengte van het touwtje is (9,3 + 2 · 10 =) 29,3",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De lengte van de lijnstukken AC en BD is √((4 − 10)² + (8 − 0)²) = 10"
+        },
+        {
+          "points": 1,
+          "description": "Er geldt tan(1/2·∠CMD) = 4/3"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt (1/2·∠CMD ≈ 53,1°, dus) ∠CMD ≈ 106°"
+        },
+        {
+          "points": 1,
+          "description": "De lengte van boog CD is 106/360 · 2π · 5 ≈ 9,3"
+        },
+        {
+          "points": 1,
+          "description": "Dus de lengte van het touwtje is (9,3 + 2 · 10 =) 29,3"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-over-een-cirkel-gespannen-antw4.png"
+      ]
+    },
+    {
+      "title": "Zonnepanelen",
+      "question_number": 5,
+      "answer_text": "• De groeifactoren 1,02; 1,01; 1,07; 1,14; 1,26; 1,03; 1,03; 1,05; 1,08 en 1,06\n• De groeifactor in 10 jaar is 1,02 · 1,01 · 1,07 · 1,14 · 1,26 · 1,03 · 1,03 · 1,05 · 1,08 · 1,06 (≈ 2,02)\n• Dit is (ongeveer) 2 (en dus is de prijs (ongeveer) verdubbeld)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De groeifactoren 1,02; 1,01; 1,07; 1,14; 1,26; 1,03; 1,03; 1,05; 1,08 en 1,06"
+        },
+        {
+          "points": 1,
+          "description": "De groeifactor in 10 jaar is 1,02 · 1,01 · 1,07 · 1,14 · 1,26 · 1,03 · 1,03 · 1,05 · 1,08 · 1,06 (≈ 2,02)"
+        },
+        {
+          "points": 1,
+          "description": "Dit is (ongeveer) 2 (en dus is de prijs (ongeveer) verdubbeld)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-zonnepanelen-antw5.png"
+      ]
+    },
+    {
+      "title": "Zonnepanelen",
+      "question_number": 6,
+      "answer_text": "• Voor de gezochte groeifactor geldt g¹⁰ = 2\n• De groeifactor per jaar is ¹⁰√2\n• Dit is 1,072\n• Dus een groeipercentage van 7,2% per jaar",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Voor de gezochte groeifactor geldt g¹⁰ = 2"
+        },
+        {
+          "points": 1,
+          "description": "De groeifactor per jaar is ¹⁰√2"
+        },
+        {
+          "points": 1,
+          "description": "Dit is 1,072"
+        },
+        {
+          "points": 1,
+          "description": "Dus een groeipercentage van 7,2% per jaar"
+        }
+      ],
+      "grading_note": "Als een kandidaat verder rekent met het (niet afgeronde) resultaat van het vorige onderdeel en hiermee op een groeipercentage van 7,3% per jaar komt, hiervoor geen scorepunten in mindering brengen",
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-zonnepanelen-antw6.png"
+      ]
+    },
+    {
+      "title": "Zonnepanelen",
+      "question_number": 7,
+      "answer_text": "• Invullen van de gegevens geeft 13000 = (19,9 · 2250)/7 · ((1 + 7/100)ᵗ − 1)\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• (t ≈ 16,4 dus na) 17 (jaar)\nof\n• Beschrijven hoe met behulp van de GR een tabel kan worden gemaakt bij de formule B = (19,9 · 2250)/7 · ((1 + 7/100)ᵗ − 1)\n• t = 16 geeft B = 12487 (of nauwkeuriger) en t = 17 geeft B = 13809 (of nauwkeuriger), dus (na) 17 (jaar)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Invullen van de gegevens geeft 13000 = (19,9 · 2250)/7 · ((1 + 7/100)ᵗ − 1)"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+        },
+        {
+          "points": 1,
+          "description": "(t ≈ 16,4 dus na) 17 (jaar)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-zonnepanelen-antw7.png"
+      ]
+    },
+    {
+      "title": "Zonnepanelen",
+      "question_number": 8,
+      "answer_text": "• De waarden 275, 850, 2575, 525, 1850, −975\n• De waarden berekenen voor de elektriciteitsproductie in de maanden januari tot en met juni 2012: 795, 1645, 4220, 4745, 6595 en 5620\n• Dit geeft in totaal 23620 (kWh), dus de gevraagde hoeveelheid is (45000 − 5000 − 23620 = 16380 en dat geeft) 16400 (kWh)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De waarden 275, 850, 2575, 525, 1850, −975"
+        },
+        {
+          "points": 1,
+          "description": "De waarden berekenen voor de elektriciteitsproductie in de maanden januari tot en met juni 2012: 795, 1645, 4220, 4745, 6595 en 5620"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft in totaal 23620 (kWh), dus de gevraagde hoeveelheid is (45000 − 5000 − 23620 = 16380 en dat geeft) 16400 (kWh)"
+        }
+      ],
+      "grading_note": "Voor elk van de uit het toenamediagram af te lezen waarden is een maximale afwijking van 50 (kWh) toegestaan.\nAls alleen de waarden juist uit het toenamediagram zijn afgelezen (en de verdere berekening niet in orde is), voor deze vraag maximaal 1 scorepunt toekennen.",
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-zonnepanelen-antw8.png"
+      ]
+    },
+    {
+      "title": "De toppen van de grafiek van een gebroken functie",
+      "question_number": 9,
+      "answer_text": "• f(x) = (2x² + 18)/(3x) = 2/3·x + 6x⁻¹\n• f′(x) = 2/3 − 6x⁻²\n• 2/3 − 6x⁻² = 0 geeft 2x² = 18\n• Dit geeft x = −3 of x = 3\n• De coördinaten van A en B zijn (−3, −4) en (3,4)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "f(x) = (2x² + 18)/(3x) = 2/3·x + 6x⁻¹"
+        },
+        {
+          "points": 1,
+          "description": "f′(x) = 2/3 − 6x⁻²"
+        },
+        {
+          "points": 1,
+          "description": "2/3 − 6x⁻² = 0 geeft 2x² = 18"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft x = −3 of x = 3"
+        },
+        {
+          "points": 1,
+          "description": "De coördinaten van A en B zijn (−3, −4) en (3,4)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-de-toppen-van-de-grafiek-van-een-gebroken-functie-antw9.png"
+      ]
+    },
+    {
+      "title": "Sinus en wortel",
+      "question_number": 10,
+      "answer_text": "• Uit 1 − 2sin(πx) = 0 volgt sin(πx) = 1/2\n• Dit geeft πx = 1/6·π (+ k · 2π) en πx = 5/6·π (+ k · 2π)\n• (Op het gegeven domein geeft dit de nulpunten) x = 1/6 en x = 5/6",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit 1 − 2sin(πx) = 0 volgt sin(πx) = 1/2"
+        },
+        {
+          "points": 2,
+          "description": "Dit geeft πx = 1/6·π (+ k · 2π) en πx = 5/6·π (+ k · 2π)"
+        },
+        {
+          "points": 1,
+          "description": "(Op het gegeven domein geeft dit de nulpunten) x = 1/6 en x = 5/6"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-sinus-en-wortel-antw10.png"
+      ]
+    },
+    {
+      "title": "Sinus en wortel",
+      "question_number": 11,
+      "answer_text": "• De periode van f is 2 (en er is geen horizontale verschuiving), dus de x-coördinaten van de toppen zijn x = 1/2 en x = 3/2\n• P heeft y-coördinaat (1 − 2 =) −1 en g(1/2) = (−1 + √(16 · 1/2 − 8) =) −1 (dus P ligt op de grafiek van g)\n• Q heeft y-coördinaat (1 + 2 =) 3 en g(3/2) = (−1 + √(16 · 3/2 − 8) =) 3 (dus Q ligt op de grafiek van g)\nof\n• De toppen van de (standaard)grafiek van y = sin(x) hebben x-coördinaten 1/2·π en 3/2·π\n• Dus de x-coördinaten van de toppen van de grafiek van y = sin(πx) zijn x = 1/2 en x = 3/2\n• P heeft y-coördinaat (1 − 2 =) −1 en g(1/2) = (−1 + √(16 · 1/2 − 8) =) −1 (dus P ligt op de grafiek van g)\n• Q heeft y-coördinaat (1 + 2 =) 3 en g(3/2) = (−1 + √(16 · 3/2 − 8) =) 3 (dus Q ligt op de grafiek van g)",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "De periode van f is 2 (en er is geen horizontale verschuiving), dus de x-coördinaten van de toppen zijn x = 1/2 en x = 3/2"
+        },
+        {
+          "points": 1,
+          "description": "P heeft y-coördinaat (1 − 2 =) −1 en g(1/2) = (−1 + √(16 · 1/2 − 8) =) −1 (dus P ligt op de grafiek van g)"
+        },
+        {
+          "points": 1,
+          "description": "Q heeft y-coördinaat (1 + 2 =) 3 en g(3/2) = (−1 + √(16 · 3/2 − 8) =) 3 (dus Q ligt op de grafiek van g)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-sinus-en-wortel-antw11.png"
+      ]
+    },
+    {
+      "title": "Sinus en wortel",
+      "question_number": 12,
+      "answer_text": "• Uit −1 + √(16x − 8) = 0 volgt 16x − 8 = 1\n• (Dus de x-coördinaat van het snijpunt met de x-as is) x = 9/16\n• g′(x) = 8/√(16x − 8) (of een gelijkwaardige uitdrukking)\n• De gevraagde helling is g′(9/16) = (8/√(16 · 9/16 − 8) =) 8",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit −1 + √(16x − 8) = 0 volgt 16x − 8 = 1"
+        },
+        {
+          "points": 1,
+          "description": "(Dus de x-coördinaat van het snijpunt met de x-as is) x = 9/16"
+        },
+        {
+          "points": 2,
+          "description": "g′(x) = 8/√(16x − 8) (of een gelijkwaardige uitdrukking)"
+        },
+        {
+          "points": 1,
+          "description": "De gevraagde helling is g′(9/16) = (8/√(16 · 9/16 − 8) =) 8"
+        }
+      ],
+      "grading_note": "Als de kandidaat de kettingregel niet of niet juist heeft gebruikt, voor deze vraag maximaal 3 scorepunten toekennen.",
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-sinus-en-wortel-antw12.png"
+      ]
+    },
+    {
+      "title": "Tegels stapelen",
+      "question_number": 13,
+      "answer_text": "• Bij 4 tegels is de maximale overhang 1/2 + 1/4 + 1/6 = 11/12 (of 0,92)\n• Bij 5 tegels is de maximale overhang 1/2 + 1/4 + 1/6 + 1/8 = 25/24 (of 1,04) (dus bij 5 tegels)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Bij 4 tegels is de maximale overhang 1/2 + 1/4 + 1/6 = 11/12 (of 0,92)"
+        },
+        {
+          "points": 2,
+          "description": "Bij 5 tegels is de maximale overhang 1/2 + 1/4 + 1/6 + 1/8 = 25/24 (of 1,04) (dus bij 5 tegels)"
+        }
+      ],
+      "grading_note": "Als de kandidaat bij het eerste respectievelijk tweede bolletje over 3 respectievelijk 4 tegels spreekt, maar verder wel de juiste berekeningen laat zien, hiervoor 1 scorepunt in mindering brengen.",
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-tegels-stapelen-antw13.png"
+      ]
+    },
+    {
+      "title": "Tegels stapelen",
+      "question_number": 14,
+      "answer_text": "• De vergelijking 34,54 · log(n − 1) + 8,658 + 15/(2(n − 1)) + 5/(4(n − 1)²) = 100 moet worden opgelost\n• Beschrijven hoe deze vergelijking (met de GR) kan worden opgelost\n• (De oplossing van de vergelijking is ongeveer 441,6 dus minstens) 442 tegels\n• De hoogte van de stapel is minstens (442 · 3 =) 1326 (cm)\nof\n• Beschrijven hoe met behulp van de GR bijvoorbeeld een tabel gemaakt kan worden bij formule (1)\n• M(441) ≈ 99,98 en M(442) ≈ 100,01\n• (Dus minstens) 442 tegels\n• De hoogte van de stapel is minstens (442 · 3 =) 1326 (cm)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De vergelijking 34,54 · log(n − 1) + 8,658 + 15/(2(n − 1)) + 5/(4(n − 1)²) = 100 moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze vergelijking (met de GR) kan worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "(De oplossing van de vergelijking is ongeveer 441,6 dus minstens) 442 tegels"
+        },
+        {
+          "points": 1,
+          "description": "De hoogte van de stapel is minstens (442 · 3 =) 1326 (cm)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-tegels-stapelen-antw14.png"
+      ]
+    },
+    {
+      "title": "Tegels stapelen",
+      "question_number": 15,
+      "answer_text": "• Het verschil tussen formule (1) en (2) is 15/(2(n − 1)) + 5/(4(n − 1)²)\n• De vergelijking 15/(2(n − 1)) + 5/(4(n − 1)²) = 0,1 moet worden opgelost\n• Beschrijven hoe deze vergelijking (met de GR) kan worden opgelost\n• (De oplossing van de vergelijking is ongeveer 76,2 dus) n = 77\nof\n• Beschrijven hoe (met de GR) het verschil tussen formule (1) en (2) berekend kan worden\n• Voor n = 76 is het verschil 0,1002\n• Voor n = 77 is het verschil 0,099 (, dus de gevraagde waarde van n is n = 77)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Het verschil tussen formule (1) en (2) is 15/(2(n − 1)) + 5/(4(n − 1)²)"
+        },
+        {
+          "points": 1,
+          "description": "De vergelijking 15/(2(n − 1)) + 5/(4(n − 1)²) = 0,1 moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze vergelijking (met de GR) kan worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "(De oplossing van de vergelijking is ongeveer 76,2 dus) n = 77"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-tegels-stapelen-antw15.png"
+      ]
+    },
+    {
+      "title": "Pluto",
+      "question_number": 16,
+      "answer_text": "• De vergelijking 0 = √(1500 − 15/16·(x − 10)²) moet worden opgelost\n• Hieruit volgt 1500 = 15/16·(x − 10)²\n• Hieruit volgt (x − 10)² = 1600 (of x² − 20x − 1500 = 0)\n• Dan volgt x − 10 = 40 of x − 10 = −40 (of (x − 50)(x + 30) = 0)\n• Dus x = 50 of x = −30 (en dus is in het perihelium de afstand 30 AE en in het aphelium 50 AE)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De vergelijking 0 = √(1500 − 15/16·(x − 10)²) moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt 1500 = 15/16·(x − 10)²"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt (x − 10)² = 1600 (of x² − 20x − 1500 = 0)"
+        },
+        {
+          "points": 1,
+          "description": "Dan volgt x − 10 = 40 of x − 10 = −40 (of (x − 50)(x + 30) = 0)"
+        },
+        {
+          "points": 1,
+          "description": "Dus x = 50 of x = −30 (en dus is in het perihelium de afstand 30 AE en in het aphelium 50 AE)"
+        }
+      ],
+      "grading_note": "Als alleen is gecontroleerd dat (−30,0) en (50,0) aan de formule voldoen, voor deze vraag geen scorepunten toekennen.",
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-pluto-antw16.png"
+      ]
+    },
+    {
+      "title": "Pluto",
+      "question_number": 17,
+      "answer_text": "• (r is maximaal als geldt) cos(α) = −1\n• Dan geldt r = 37,5/(1 − 0,25) = 37,5/0,75 = 50\n• (r is minimaal als geldt) cos(α) = 1\n• Dan geldt r = 37,5/(1 + 0,25) = 37,5/1,25 = 30\nof\n• (r is maximaal als geldt) α = π (of 180°)\n• Dan geldt r = 37,5/(1 + 0,25 · cos(π)) = 37,5/0,75 = 50\n• (r is minimaal als geldt) α = 0\n• Dan geldt r = 37,5/(1 + 0,25 · cos(0)) = 37,5/1,25 = 30\nof\n• Uit de vergelijking 30 = 37,5/(1 + 0,25 · cos(α)) volgt cos(α) = 1\n• cos(α) is hier maximaal, dus r is dan minimaal\n• Uit de vergelijking 50 = 37,5/(1 + 0,25 · cos(α)) volgt cos(α) = −1\n• cos(α) is hier minimaal, dus r is dan maximaal",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(r is maximaal als geldt) cos(α) = −1"
+        },
+        {
+          "points": 1,
+          "description": "Dan geldt r = 37,5/(1 − 0,25) = 37,5/0,75 = 50"
+        },
+        {
+          "points": 1,
+          "description": "(r is minimaal als geldt) cos(α) = 1"
+        },
+        {
+          "points": 1,
+          "description": "Dan geldt r = 37,5/(1 + 0,25) = 37,5/1,25 = 30"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-pluto-antw17.png"
+      ]
+    },
+    {
+      "title": "Rakende cirkels",
+      "question_number": 18,
+      "answer_text": "• De coördinaten van R zijn (−4,5) en die van T zijn (p, 0)\n• De afstand tussen R en T is √((p − −4)² + (0 − 5)²)\n• Dit herleiden tot √(p² + 8p + 41)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De coördinaten van R zijn (−4,5) en die van T zijn (p, 0)"
+        },
+        {
+          "points": 1,
+          "description": "De afstand tussen R en T is √((p − −4)² + (0 − 5)²)"
+        },
+        {
+          "points": 1,
+          "description": "Dit herleiden tot √(p² + 8p + 41)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-rakende-cirkels-antw18.png"
+      ]
+    },
+    {
+      "title": "Rakende cirkels",
+      "question_number": 19,
+      "answer_text": "• De straal van c is 7 en die van d is 4\n• De afstand tussen c en T is √(p² + 8p + 41) − 7 en de afstand tussen d en T is √(p² − 28p + 260) − 4\n• (Deze afstanden zijn beide gelijk aan de straal van e en dus gelijk aan elkaar, dus) √(p² + 8p + 41) − 7 = √(p² − 28p + 260) − 4\n• Beschrijven hoe de vergelijking √(p² + 8p + 41) − 7 = √(p² − 28p + 260) − 4 (met de GR) opgelost kan worden\n• Dit geeft p = 8 (en dus T(8,0)) en de straal van e is 6",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De straal van c is 7 en die van d is 4"
+        },
+        {
+          "points": 1,
+          "description": "De afstand tussen c en T is √(p² + 8p + 41) − 7 en de afstand tussen d en T is √(p² − 28p + 260) − 4"
+        },
+        {
+          "points": 1,
+          "description": "(Deze afstanden zijn beide gelijk aan de straal van e en dus gelijk aan elkaar, dus) √(p² + 8p + 41) − 7 = √(p² − 28p + 260) − 4"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe de vergelijking √(p² + 8p + 41) − 7 = √(p² − 28p + 260) − 4 (met de GR) opgelost kan worden"
+        },
+        {
+          "points": 1,
+          "description": "Dit geeft p = 8 (en dus T(8,0)) en de straal van e is 6"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-ii-rakende-cirkels-antw19.png"
+      ]
+    }
+  ]
+}

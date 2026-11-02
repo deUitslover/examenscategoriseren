@@ -1,0 +1,505 @@
+{
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde B 2017-I",
+  "answers": [
+    {
+      "title": "Cirkel en lijn",
+      "question_number": 1,
+      "answer_text": "• De vergelijking x² + (−4/3·x + 5)² = 9\n• Hieruit volgt 25/9·x² − 40/3·x + 16 = 0 (of 25x² − 120x + 144 = 0)\n• De discriminant van deze vergelijking is D = (−40/3)² − 4 · 25/9 · 16 = 0 (of D = (−120)² − 4 · 25 · 144 = 0)\n• D = 0 (dus de vergelijking x² + (−4/3·x + 5)² = 9 heeft één oplossing,) dus l raakt aan c\nof\n• Een vergelijking van de loodlijn door O op l is y = 3/4·x\n• 3/4·x = −4/3·x + 5 geeft x = 12/5\n• Dus het snijpunt is (12/5, 9/5)\n• (12/5)² + (9/5)² = 9, dus (het snijpunt ligt op de cirkel en dus) l raakt aan c",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De vergelijking x² + (−4/3·x + 5)² = 9"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt 25/9·x² − 40/3·x + 16 = 0 (of 25x² − 120x + 144 = 0)"
+        },
+        {
+          "points": 1,
+          "description": "De discriminant van deze vergelijking is D = (−40/3)² − 4 · 25/9 · 16 = 0 (of D = (−120)² − 4 · 25 · 144 = 0)"
+        },
+        {
+          "points": 1,
+          "description": "D = 0 (dus de vergelijking x² + (−4/3·x + 5)² = 9 heeft één oplossing,) dus l raakt aan c"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-cirkel-en-lijn-antw1.png"
+      ]
+    },
+    {
+      "title": "Cirkel en lijn",
+      "question_number": 2,
+      "answer_text": "• De richtingscoëfficiënt van l is −4/3\n• Voor de y-coördinaat van punt A geldt 0² + y² = 9 dus y_A = −3\n• Voor de x-coördinaat van punt B geldt 0 = −4/3·x + 5 dus x_B = 15/4\n• De richtingscoëfficiënt van k is 3/(15/4) = 4/5\n• rc_k · rc_l = 4/5 · −4/3 = −16/15\n• (rc_k · rc_l ≠ −1, dus) k en l snijden elkaar niet loodrecht\nof\n• snijdt de y-as in C(0,5)\n• Voor de y-coördinaat van punt A geldt 0² + y² = 9 dus y_A = −3\n• Voor de x-coördinaat van punt B geldt 0 = −4/3·x + 5 dus x_B = 15/4\n• AC² = 8² = 64\n• AB² + BC² = (3² + (15/4)²) + ((15/4)² + 5²) = 62⅛\n• (AB² + BC² ≠ AC² dus) k en l snijden elkaar niet loodrecht\nof\n• Voor de y-coördinaat van punt A geldt 0² + y² = 9 dus y_A = −3\n• Voor de x-coördinaat van punt B geldt 0 = −4/3·x + 5 dus x_B = 15/4\n• Een vergelijking van de loodlijn door A op l is y = 3/4·x − 3\n• Het snijpunt van deze lijn met de x-as is (4,0)\n• (dit snijpunt is niet punt B dus) k en l snijden elkaar niet loodrecht",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De richtingscoëfficiënt van l is −4/3"
+        },
+        {
+          "points": 1,
+          "description": "Voor de y-coördinaat van punt A geldt 0² + y² = 9 dus y_A = −3"
+        },
+        {
+          "points": 1,
+          "description": "Voor de x-coördinaat van punt B geldt 0 = −4/3·x + 5 dus x_B = 15/4"
+        },
+        {
+          "points": 1,
+          "description": "De richtingscoëfficiënt van k is 3/(15/4) = 4/5"
+        },
+        {
+          "points": 1,
+          "description": "rc_k · rc_l = 4/5 · −4/3 = −16/15"
+        },
+        {
+          "points": 1,
+          "description": "(rc_k · rc_l ≠ −1, dus) k en l snijden elkaar niet loodrecht"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-cirkel-en-lijn-antw2.png"
+      ]
+    },
+    {
+      "title": "Experimenteren met bacteriën",
+      "question_number": 3,
+      "answer_text": "• Bij t = 0 hoort N = 10¹ (= 10) en bij t = 8 hoort N = 10⁷\n• De groeifactor per acht uur is 10⁷/10 (= 10⁶)\n• De groeifactor per minuut is (10⁷/10)^(1/(8·60))\n• De groeifactor per minuut is (ongeveer) 1,029, dit komt overeen met een toename per minuut van 2,9 (%)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Bij t = 0 hoort N = 10¹ (= 10) en bij t = 8 hoort N = 10⁷"
+        },
+        {
+          "points": 1,
+          "description": "De groeifactor per acht uur is 10⁷/10 (= 10⁶)"
+        },
+        {
+          "points": 1,
+          "description": "De groeifactor per minuut is (10⁷/10)^(1/(8·60))"
+        },
+        {
+          "points": 1,
+          "description": "De groeifactor per minuut is (ongeveer) 1,029, dit komt overeen met een toename per minuut van 2,9 (%)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-experimenteren-met-bacterien-antw3.png"
+      ]
+    },
+    {
+      "title": "Experimenteren met bacteriën",
+      "question_number": 4,
+      "answer_text": "• De vergelijking 1,03ᵗ = 2 moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• (t ≈ 23,4 dus) het gevraagde antwoord is 23 (min)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De vergelijking 1,03ᵗ = 2 moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+        },
+        {
+          "points": 1,
+          "description": "(t ≈ 23,4 dus) het gevraagde antwoord is 23 (min)"
+        }
+      ],
+      "grading_note": "Het antwoord 24 (min) ook goed rekenen.\nAls een kandidaat met een eerder gevonden waarde voor de groeifactor rekent, hiervoor geen scorepunten in mindering brengen.",
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-experimenteren-met-bacterien-antw4.png"
+      ]
+    },
+    {
+      "title": "Experimenteren met bacteriën",
+      "question_number": 5,
+      "answer_text": "• De vergelijking 84 = 100 · 10⁻ᴰ moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• D ≈ 0,0757\n• Aflezen bij D ≈ 0,0757 in de figuur geeft (in miljoenen nauwkeurig) 1,6 · 10⁷ bacteriën (of 16 miljoen bacteriën)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De vergelijking 84 = 100 · 10⁻ᴰ moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+        },
+        {
+          "points": 1,
+          "description": "D ≈ 0,0757"
+        },
+        {
+          "points": 1,
+          "description": "Aflezen bij D ≈ 0,0757 in de figuur geeft (in miljoenen nauwkeurig) 1,6 · 10⁷ bacteriën (of 16 miljoen bacteriën)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-experimenteren-met-bacterien-antw5.png"
+      ]
+    },
+    {
+      "title": "Twee functies met een wortel",
+      "question_number": 6,
+      "answer_text": "• Uit √x + 1/x = 3√x − 3/x volgt 4/x = 2√x\n• (Beide kanten kwadrateren geeft) 16/x² = 4x\n• Hieruit volgt 4x³ = 16, dus (voor de x-coördinaat van S geldt) x³ = 4 (of x = ∛4)\n• f′(x) = 1/(2√x) − 1/x²\n• Uit f′(x) = 0 volgt 1/(2√x) = 1/x²\n• Hieruit volgt 2√x = x², dus 4x = x⁴\n• Dus (voor de x-coördinaat van de top geldt) x³ = 4 (of x = ∛4) (en dat geldt ook voor de x-coördinaat van S, dus S is een top van de grafiek van f)\nof\n• Uit √x + 1/x = 3√x − 3/x volgt 4/x = 2√x\n• Hieruit volgt 2x√x = 4\n• Hieruit volgt x√x = 2 dus (voor de x-coördinaat van S geldt) x = ∛4\n• f′(x) = 1/(2√x) − 1/x²\n• f′(∛4) = 1/(2√(∛4)) − 1/(∛4)²\n• Dit is te schrijven als f′(∛4) = 1/(4^(1/2) · (4^(1/3))^(1/2)) − 1/(4^(1/3))²\n• Dus f′(∛4) = 1/(4^(1/2) · 4^(1/6)) − 1/4^(2/3) = 1/4^(1⅙) − 1/4^(2/3) = 1/4^(2/3) − 1/4^(2/3) = 0 (dus in punt S geldt f′(x) = 0, dus S is een top van de grafiek van f)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit √x + 1/x = 3√x − 3/x volgt 4/x = 2√x"
+        },
+        {
+          "points": 1,
+          "description": "(Beide kanten kwadrateren geeft) 16/x² = 4x"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt 4x³ = 16, dus (voor de x-coördinaat van S geldt) x³ = 4 (of x = ∛4)"
+        },
+        {
+          "points": 2,
+          "description": "f′(x) = 1/(2√x) − 1/x²"
+        },
+        {
+          "points": 1,
+          "description": "Uit f′(x) = 0 volgt 1/(2√x) = 1/x²"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt 2√x = x², dus 4x = x⁴"
+        },
+        {
+          "points": 1,
+          "description": "Dus (voor de x-coördinaat van de top geldt) x³ = 4 (of x = ∛4) (en dat geldt ook voor de x-coördinaat van S, dus S is een top van de grafiek van f)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-twee-functies-met-een-wortel-antw6.png"
+      ]
+    },
+    {
+      "title": "Speerwerpen",
+      "question_number": 7,
+      "answer_text": "• De vergelijking 0,707 · 25 · t − 4,91 · t² = 0 moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• (t = 0 of) t ≈ 3,6 (seconden)\n• (t ≈ 3,6 en b = 25 invullen in formule (2) geeft) 64 (meter)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "De vergelijking 0,707 · 25 · t − 4,91 · t² = 0 moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+        },
+        {
+          "points": 1,
+          "description": "(t = 0 of) t ≈ 3,6 (seconden)"
+        },
+        {
+          "points": 1,
+          "description": "(t ≈ 3,6 en b = 25 invullen in formule (2) geeft) 64 (meter)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-speerwerpen-antw7.png"
+      ]
+    },
+    {
+      "title": "Speerwerpen",
+      "question_number": 8,
+      "answer_text": "• Substitutie van formule (3) in formule (1) geeft h = 0,707 · b · d/(0,707 · b) − 4,91 · (d/(0,707 · b))²\n• h = d − 4,91 · (d/(0,707 · b))²\n• h = d − 4,91 · d²/(0,707² · b²)\n• 4,91 · 1/0,707² ≈ 9,8 dus geldt (bij benadering) h = d − 9,8·d²/b² (= d − 9,8/b² · d²)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Substitutie van formule (3) in formule (1) geeft h = 0,707 · b · d/(0,707 · b) − 4,91 · (d/(0,707 · b))²"
+        },
+        {
+          "points": 1,
+          "description": "h = d − 4,91 · (d/(0,707 · b))²"
+        },
+        {
+          "points": 1,
+          "description": "h = d − 4,91 · d²/(0,707² · b²)"
+        },
+        {
+          "points": 1,
+          "description": "4,91 · 1/0,707² ≈ 9,8 dus geldt (bij benadering) h = d − 9,8·d²/b² (= d − 9,8/b² · d²)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-speerwerpen-antw8.png"
+      ]
+    },
+    {
+      "title": "Speerwerpen",
+      "question_number": 9,
+      "answer_text": "• h = d − 9,8/31,1² · d² (≈ d − 0,01013d²)\n• dh/dd = 1 − 2 · 9,8/31,1² · d (≈ 1 − 0,02026d)\n• Uit 1 − 2 · 9,8/31,1² · d = 0 volgt d ≈ 49\n• (invullen in formule (4) geeft 24,7 dus) de gevraagde hoogte is 25 (m)\nof\n• h = d − 9,8/31,1² · d² (≈ d − 0,01013d²)\n• d_top = −1/(2 · −0,01013) ≈ 49\n• (invullen in formule (4) geeft 24,7 dus) de gevraagde hoogte is 25 (m)\nof\n• h = d − 9,8/31,1² · d² (≈ d − 0,01013d²)\n• h = 0 geeft d = 0 of d ≈ 98,7\n• De top ligt dus bij d = (0 + 98,7)/2 ≈ 49\n• (invullen in formule (4) geeft 24,7 dus) de gevraagde hoogte is 25 (m)\nof\n• h = 0,707 · 31,1 · t − 4,91 · t²\n• dh/dt = 0 geeft 0,707 · 31,1 − 2 · 4,91 · t = 0\n• Dit geeft t ≈ 2,2\n• (invullen in formule (1) geeft 24,6 dus) de gevraagde hoogte is 25 (m)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "h = d − 9,8/31,1² · d² (≈ d − 0,01013d²)"
+        },
+        {
+          "points": 1,
+          "description": "dh/dd = 1 − 2 · 9,8/31,1² · d (≈ 1 − 0,02026d)"
+        },
+        {
+          "points": 1,
+          "description": "Uit 1 − 2 · 9,8/31,1² · d = 0 volgt d ≈ 49"
+        },
+        {
+          "points": 1,
+          "description": "(invullen in formule (4) geeft 24,7 dus) de gevraagde hoogte is 25 (m)"
+        }
+      ],
+      "grading_note": "Als gerekend is met een nauwkeuriger waarde dan 9,8 hiervoor geen scorepunten in mindering brengen.",
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-speerwerpen-antw9.png"
+      ]
+    },
+    {
+      "title": "Speerwerpen",
+      "question_number": 10,
+      "answer_text": "• Er geldt: (werkelijk geworpen afstand)² = 8² + 92,58² − 2 · 8 · 92,58 · cos(28,65°)\n• Hieruit volgt dat de werkelijk geworpen afstand gelijk is aan 85,65 (m)\n• Het gevraagde verschil is 107 centimeter (of 1,07 meter)",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "Er geldt: (werkelijk geworpen afstand)² = 8² + 92,58² − 2 · 8 · 92,58 · cos(28,65°)"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt dat de werkelijk geworpen afstand gelijk is aan 85,65 (m)"
+        },
+        {
+          "points": 1,
+          "description": "Het gevraagde verschil is 107 centimeter (of 1,07 meter)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-speerwerpen-antw10.png"
+      ]
+    },
+    {
+      "title": "Gebroken functies",
+      "question_number": 11,
+      "answer_text": "• f′(x) = −2(2x + 3)⁻²\n• f′(0) = (−2(2 · 0 + 3)⁻² =) −2/9\n• f(0) = 1/3 (dus een vergelijking voor l is y = −2/9·x + 1/3)",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "f′(x) = −2(2x + 3)⁻²"
+        },
+        {
+          "points": 1,
+          "description": "f′(0) = (−2(2 · 0 + 3)⁻² =) −2/9"
+        },
+        {
+          "points": 1,
+          "description": "f(0) = 1/3 (dus een vergelijking voor l is y = −2/9·x + 1/3)"
+        }
+      ],
+      "grading_note": "Als de kettingregel niet of onjuist gebruikt is, voor deze vraag maximaal 2 scorepunten toekennen.",
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-gebroken-functies-antw11.png"
+      ]
+    },
+    {
+      "title": "Gebroken functies",
+      "question_number": 12,
+      "answer_text": "• Een vergelijking van de lijn vanuit O loodrecht op l is y = 9/2·x\n• Er geldt −2/9·x + 1/3 = 9/2·x\n• Hieruit volgt x = 6/85\n• 9/2 · 6/85 = 27/85 (of −2/9 · 6/85 + 1/3 = 27/85) (dus de coördinaten van het snijpunt van l met y = 9/2·x zijn (6/85, 27/85))\n• De afstand van l tot de oorsprong wordt gegeven door √((6/85)² + (27/85)²)\n• De afstand van l tot de oorsprong is 3/85·√85 (of een gelijkwaardige uitdrukking)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Een vergelijking van de lijn vanuit O loodrecht op l is y = 9/2·x"
+        },
+        {
+          "points": 1,
+          "description": "Er geldt −2/9·x + 1/3 = 9/2·x"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt x = 6/85"
+        },
+        {
+          "points": 1,
+          "description": "9/2 · 6/85 = 27/85 (of −2/9 · 6/85 + 1/3 = 27/85) (dus de coördinaten van het snijpunt van l met y = 9/2·x zijn (6/85, 27/85))"
+        },
+        {
+          "points": 1,
+          "description": "De afstand van l tot de oorsprong wordt gegeven door √((6/85)² + (27/85)²)"
+        },
+        {
+          "points": 1,
+          "description": "De afstand van l tot de oorsprong is 3/85·√85 (of een gelijkwaardige uitdrukking)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-gebroken-functies-antw12.png"
+      ]
+    },
+    {
+      "title": "Gebroken functies",
+      "question_number": 13,
+      "answer_text": "• Er geldt 1/(2sin(x) + 3) = 1/4\n• Hieruit volgt (2sin(x) + 3 = 4 dus) sin(x) = 1/2\n• De oplossingen van deze vergelijking zijn x = 1/6·π + k · 2π of x = 5/6·π + k · 2π (of: op het gegeven interval zijn de oplossingen x = −1⅚π, x = −1⅙π, x = ⅙π en x = ⅚π)\n• (De x-coördinaten van B en E zijn) x_B = −1⅚π en x_E = ⅚π\n• De gevraagde afstand is (⅚π − −1⅚π =) 2⅔π\nof\n• Er geldt 1/(2sin(x) + 3) = 1/4\n• Hieruit volgt (2sin(x) + 3 = 4 dus) sin(x) = 1/2\n• Dus x_D = ⅙π en x_E = ⅚π\n• Dan volgt DE = ⅔π\n• Dus de gevraagde afstand BE is (⅔π + 2π =) 2⅔π",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Er geldt 1/(2sin(x) + 3) = 1/4"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt (2sin(x) + 3 = 4 dus) sin(x) = 1/2"
+        },
+        {
+          "points": 1,
+          "description": "De oplossingen van deze vergelijking zijn x = 1/6·π + k · 2π of x = 5/6·π + k · 2π (of: op het gegeven interval zijn de oplossingen x = −1⅚π, x = −1⅙π, x = ⅙π en x = ⅚π)"
+        },
+        {
+          "points": 1,
+          "description": "(De x-coördinaten van B en E zijn) x_B = −1⅚π en x_E = ⅚π"
+        },
+        {
+          "points": 1,
+          "description": "De gevraagde afstand is (⅚π − −1⅚π =) 2⅔π"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-gebroken-functies-antw13.png"
+      ]
+    },
+    {
+      "title": "Kookpunt van water",
+      "question_number": 14,
+      "answer_text": "• log(0,31) ≈ −0,51\n• Aangeven hoe in de figuur vanaf −0,51 op de verticale as de gevraagde temperatuur op de horizontale as kan worden afgelezen\n• De gevraagde temperatuur is 69 (°C)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "log(0,31) ≈ −0,51"
+        },
+        {
+          "points": 1,
+          "description": "Aangeven hoe in de figuur vanaf −0,51 op de verticale as de gevraagde temperatuur op de horizontale as kan worden afgelezen"
+        },
+        {
+          "points": 1,
+          "description": "De gevraagde temperatuur is 69 (°C)"
+        }
+      ],
+      "grading_note": "Als voor de temperatuur 68 of 70 (°C) is afgelezen, hiervoor geen scorepunten in mindering brengen.",
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-kookpunt-van-water-antw14.png"
+      ]
+    },
+    {
+      "title": "Kookpunt van water",
+      "question_number": 15,
+      "answer_text": "• (T = 130 geeft) log(p) ≈ 0,419\n• Beschrijven hoe hieruit de waarde van p gevonden kan worden\n• De gevraagde druk is 2,6 (bar)",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(T = 130 geeft) log(p) ≈ 0,419"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe hieruit de waarde van p gevonden kan worden"
+        },
+        {
+          "points": 1,
+          "description": "De gevraagde druk is 2,6 (bar)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-kookpunt-van-water-antw15.png"
+      ]
+    },
+    {
+      "title": "Kookpunt van water",
+      "question_number": 16,
+      "answer_text": "• Uit log(p) = 5,68 − 2120/(273 + T) volgt 2120/(273 + T) = 5,68 − log(p)\n• Hieruit volgt 273 + T = 2120/(5,68 − log(p))\n• Dus T = 2120/(5,68 − log(p)) − 273",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Uit log(p) = 5,68 − 2120/(273 + T) volgt 2120/(273 + T) = 5,68 − log(p)"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt 273 + T = 2120/(5,68 − log(p))"
+        },
+        {
+          "points": 1,
+          "description": "Dus T = 2120/(5,68 − log(p)) − 273"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-kookpunt-van-water-antw16.png"
+      ]
+    },
+    {
+      "title": "Derdemachtswortel",
+      "question_number": 17,
+      "answer_text": "• f(0) = (∛(−27) =) −3 (dus de coördinaten van A zijn (0, −3))\n• Uit ∛(9x − 27) = 0 volgt 9x − 27 = 0\n• Hieruit volgt x = 3 (dus de coördinaten van B zijn (3,0))\n• De richtingscoëfficiënt van k is dus (0 − −3)/(3 − 0) = 1",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "f(0) = (∛(−27) =) −3 (dus de coördinaten van A zijn (0, −3))"
+        },
+        {
+          "points": 1,
+          "description": "Uit ∛(9x − 27) = 0 volgt 9x − 27 = 0"
+        },
+        {
+          "points": 1,
+          "description": "Hieruit volgt x = 3 (dus de coördinaten van B zijn (3,0))"
+        },
+        {
+          "points": 1,
+          "description": "De richtingscoëfficiënt van k is dus (0 − −3)/(3 − 0) = 1"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-derdemachtswortel-antw17.png"
+      ]
+    },
+    {
+      "title": "Derdemachtswortel",
+      "question_number": 18,
+      "answer_text": "• (f is te schrijven als) f(x) = (9x − 27)^(1/3)\n• f′(x) = 3 · (9x − 27)^(−2/3) (of een vergelijkbare vorm)\n• De vergelijking 3 · (9x − 27)^(−2/3) = 1 moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• De gevraagde x-coördinaten zijn x_P = 2,42 en x_Q = 3,58",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "(f is te schrijven als) f(x) = (9x − 27)^(1/3)"
+        },
+        {
+          "points": 2,
+          "description": "f′(x) = 3 · (9x − 27)^(−2/3) (of een vergelijkbare vorm)"
+        },
+        {
+          "points": 1,
+          "description": "De vergelijking 3 · (9x − 27)^(−2/3) = 1 moet worden opgelost"
+        },
+        {
+          "points": 1,
+          "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+        },
+        {
+          "points": 1,
+          "description": "De gevraagde x-coördinaten zijn x_P = 2,42 en x_Q = 3,58"
+        }
+      ],
+      "grading_note": "Als de x-coördinaten van P en Q verwisseld zijn, hiervoor geen scorepunten in mindering brengen.\nAls de kettingregel niet of onjuist gebruikt is, voor deze vraag maximaal 4 scorepunten toekennen.",
+      "answer_image_urls": [
+        "wiskunde-b-havo-2017-i-derdemachtswortel-antw18.png"
+      ]
+    }
+  ]
+}
