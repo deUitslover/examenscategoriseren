@@ -1,0 +1,65 @@
+{
+  "source": "HAVO Wiskunde B 2018-I",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Macht van 2",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Afstand 5",
+      "question_numbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Hardlopen",
+      "question_numbers": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "De helling",
+      "question_numbers": [
+        9
+      ]
+    },
+    {
+      "title": "Horizonafstand",
+      "question_numbers": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Raaklijnen door de oorsprong",
+      "question_numbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Hoogwerker",
+      "question_numbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "title": "(Co)sinus",
+      "question_numbers": [
+        17,
+        18
+      ]
+    }
+  ]
+}
