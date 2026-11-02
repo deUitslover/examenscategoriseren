@@ -174,7 +174,12 @@ def main():
             continue
         seen.add(sig)
         if title_bar_y(page) is not None:
-            opgaven.append({"title": opgave_title(page), "items": []})
+            title = opgave_title(page)
+            # an uitwerkbijlage page with its own grey title bar
+            # ("Uitwerkbijlage", HAVO-WISB-18-II-O.pdf p.6 and p.10) is not
+            # a new opgave: its blocks belong to the opgave before it
+            if not (opgaven and title.strip().lower() == "uitwerkbijlage"):
+                opgaven.append({"title": title, "items": []})
         if not opgaven:
             continue
         plan = list(enumerate(plan_page(page, hashes)))

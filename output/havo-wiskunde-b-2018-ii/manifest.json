@@ -1,0 +1,65 @@
+{
+  "source": "HAVO Wiskunde B 2018-II",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Piano",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Twee paren punten op een cirkel",
+      "question_numbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Logaritme van een kwadratische functie",
+      "question_numbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Trapezium",
+      "question_numbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Productiviteit",
+      "question_numbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Sinus",
+      "question_numbers": [
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Gebroken functies",
+      "question_numbers": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Macht en lijnen",
+      "question_numbers": [
+        17,
+        18
+      ]
+    }
+  ]
+}
