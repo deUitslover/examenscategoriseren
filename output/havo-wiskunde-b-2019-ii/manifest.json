@@ -1,0 +1,63 @@
+{
+  "source": "HAVO Wiskunde B 2019-II",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Een logaritmische en een exponentiële functie",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Hoe lang is DE?",
+      "question_numbers": [
+        3
+      ]
+    },
+    {
+      "title": "Viscositeit",
+      "question_numbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Twee toppen en twee evenwijdige lijnen",
+      "question_numbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "NK Tegenwindfietsen",
+      "question_numbers": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Een cirkel en functies met een wortel",
+      "question_numbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Sinusoïde en lijn",
+      "question_numbers": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Viaduc de Garabit",
+      "question_numbers": [
+        16
+      ]
+    }
+  ]
+}
