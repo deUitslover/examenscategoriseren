@@ -1,0 +1,64 @@
+{
+  "source": "HAVO Wiskunde B 2021-III",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Transistors en opslagcapaciteit",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Hetzelfde snijpunt met de y-as",
+      "question_numbers": [
+        4
+      ]
+    },
+    {
+      "title": "Twee transformaties",
+      "question_numbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Bouwkraan",
+      "question_numbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Prooidieren en roofdieren",
+      "question_numbers": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Raaklijn aan cirkel",
+      "question_numbers": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Logaritmen en snijpunten",
+      "question_numbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Maximale richtingscoëfficiënt",
+      "question_numbers": [
+        17
+      ]
+    }
+  ]
+}

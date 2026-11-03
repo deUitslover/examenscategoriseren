@@ -1,0 +1,58 @@
+{
+  "source": "HAVO Wiskunde B 2022-I",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Raaklijn aan cirkel",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Versturen van data",
+      "question_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Wortelfunctie en transformatie",
+      "question_numbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Windmolens",
+      "question_numbers": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Hyperbool",
+      "question_numbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Parabolen en sinusoïde",
+      "question_numbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Fiets",
+      "question_numbers": [
+        15,
+        16
+      ]
+    }
+  ]
+}
