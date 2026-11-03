@@ -1,0 +1,509 @@
+{
+ "subject_name": "Wiskunde B",
+ "level": "HAVO",
+ "source": "HAVO Wiskunde B 2019-I",
+ "answers": [
+  {
+   "title": "Formule van Wilson",
+   "question_number": 1,
+   "answer_text": "• Uitgaande van gelijke temperatuur en diepte wordt het verschil in snelheid dus bepaald door het verschil in zoutgehalte\n• Er geldt: Δv = 1,391(337 − 35) − 1,391(12 − 35)\n• Het gevraagde verschil is 452 (m/s)\nof\n• Formules voor de geluidssnelheden in de Dode Zee en Kaspische Zee zijn: v_Dode Zee = 1449,2 + 4,623T − 0,0546T² + 1,391(337 − 35) + D/60 = 1869,282 + 4,623T − 0,0546T² + D/60 en v_Kaspische Zee = 1449,2 + 4,623T − 0,0546T² + 1,391(12 − 35) + D/60 = 1417,207 + 4,623T − 0,0546T² + D/60\n• Een formule voor het verschil is 1869,282 + 4,623T − 0,0546T² + D/60 − (1417,207 + 4,623T − 0,0546T² + D/60)\n• Het gevraagde verschil is 452 (m/s)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Uitgaande van gelijke temperatuur en diepte wordt het verschil in snelheid dus bepaald door het verschil in zoutgehalte"
+    },
+    {
+     "points": 1,
+     "description": "Er geldt: Δv = 1,391(337 − 35) − 1,391(12 − 35)"
+    },
+    {
+     "points": 1,
+     "description": "Het gevraagde verschil is 452 (m/s)"
+    }
+   ],
+   "grading_note": "Als een kandidaat gebruik maakt van een getallenvoorbeeld, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-formule-van-wilson-antw1.png"
+   ]
+  },
+  {
+   "title": "Formule van Wilson",
+   "question_number": 2,
+   "answer_text": "• dv/dT = 4,623 − 0,1092T\n• Beschrijven hoe de vergelijking 4,623 − 0,1092T = 0 opgelost kan worden\n• De gevraagde temperatuur is 42,3 (°C)\nof\n• Met Z en D constant geldt er een kwadratisch verband: v = −0,0546T² + 4,623T + 1449,2 + 1,391(Z − 35) + D/60 (of v = −0,0546T² + 4,623T + getal)\n• Het maximum van v ligt bij T = −4,623/(2 · −0,0546)\n• De gevraagde temperatuur is 42,3 (°C)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "dv/dT = 4,623 − 0,1092T"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe de vergelijking 4,623 − 0,1092T = 0 opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "De gevraagde temperatuur is 42,3 (°C)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-formule-van-wilson-antw2.png"
+   ]
+  },
+  {
+   "title": "Formule van Wilson",
+   "question_number": 3,
+   "answer_text": "• De geluidssnelheid is 1449,2 + 4,623 · 10 − 0,0546 · 10² + 1,391(35 − 35) + 20/60 = 1490,… (m/s)\n• De door het geluid afgelegde afstand is 1490,… · 12,45 = 18554,… (m)\n• De gevraagde afstand is (18554,…/2 ≈) 9300 (m)\nof\n• De geluidssnelheid is 1449,2 + 4,623 · 10 − 0,0546 · 10² + 1,391(35 − 35) + 20/60 = 1490,… (m/s)\n• De voor het geluid benodigde tijd om het object te bereiken is 6,225 s\n• De gevraagde afstand is (1490,… · 6,225 ≈) 9300 (m)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De geluidssnelheid is 1449,2 + 4,623 · 10 − 0,0546 · 10² + 1,391(35 − 35) + 20/60 = 1490,… (m/s)"
+    },
+    {
+     "points": 1,
+     "description": "De door het geluid afgelegde afstand is 1490,… · 12,45 = 18554,… (m)"
+    },
+    {
+     "points": 1,
+     "description": "De gevraagde afstand is (18554,…/2 ≈) 9300 (m)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-formule-van-wilson-antw3.png"
+   ]
+  },
+  {
+   "title": "Ingeklemd",
+   "question_number": 4,
+   "answer_text": "• f′(x) = 3/(2√x)\n• f′(4) = (3/(2√4) =) ¾ (dus de richtingscoëfficiënt van l is ¾)\n• (¾ · 4 = 3 dus) A ligt op l\n• A ligt (ook) op de grafiek van f dus lijn l raakt de grafiek van f in A",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "f′(x) = 3/(2√x)"
+    },
+    {
+     "points": 1,
+     "description": "f′(4) = (3/(2√4) =) ¾ (dus de richtingscoëfficiënt van l is ¾)"
+    },
+    {
+     "points": 1,
+     "description": "(¾ · 4 = 3 dus) A ligt op l"
+    },
+    {
+     "points": 1,
+     "description": "A ligt (ook) op de grafiek van f dus lijn l raakt de grafiek van f in A"
+    }
+   ],
+   "grading_note": "Als een kandidaat aantoont dat lijn l en de grafiek van f maar één snijpunt hebben en hieruit het gevraagde concludeert, voor deze vraag maximaal 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-ingeklemd-antw4.png"
+   ]
+  },
+  {
+   "title": "Ingeklemd",
+   "question_number": 5,
+   "answer_text": "• (Uit rc_AM · ¾ = −1 volgt) rc_AM = −4/3 (dus de lijn door A en M heeft vergelijking y = −4/3·x + b)\n• Hieruit volgt −4/3 · 4 + b = 3 dus b = 25/3\n• Dus y_M = (−4/3 · 5 + 25/3 =) 5/3\n• De straal van c is gelijk aan √((5 − 4)² + (5/3 − 3)²)\n• De straal van c is 5/3 en dat is gelijk aan y_M (dus c raakt de x-as)\nof\n• (Uit rc_AM · ¾ = −1 volgt) rc_AM = −4/3\n• rc_AM = (y_M − y_A)/(x_M − x_A) = (y_M − 3)/(5 − 4)\n• Dus (y_M − 3)/(5 − 4) = −4/3 (of y_M − 3 = −4/3) dus y_M = (3 − 4/3 =) 5/3\n• De straal van c is gelijk aan √((5 − 4)² + (5/3 − 3)²)\n• De straal van c is 5/3 en dat is gelijk aan y_M (dus c raakt de x-as)\nof\n• (Uit rc_AM · ¾ = −1 volgt) rc_AM = −4/3\n• x_M = x_A + 1, dus y_M = y_A + rc_AM\n• Dus y_M = (3 + −4/3 =) 5/3\n• De straal van c is gelijk aan √((5 − 4)² + (5/3 − 3)²)\n• De straal van c is 5/3 en dat is gelijk aan y_M (dus c raakt de x-as)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(Uit rc_AM · ¾ = −1 volgt) rc_AM = −4/3 (dus de lijn door A en M heeft vergelijking y = −4/3·x + b)"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt −4/3 · 4 + b = 3 dus b = 25/3"
+    },
+    {
+     "points": 1,
+     "description": "Dus y_M = (−4/3 · 5 + 25/3 =) 5/3"
+    },
+    {
+     "points": 1,
+     "description": "De straal van c is gelijk aan √((5 − 4)² + (5/3 − 3)²)"
+    },
+    {
+     "points": 1,
+     "description": "De straal van c is 5/3 en dat is gelijk aan y_M (dus c raakt de x-as)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-ingeklemd-antw5.png"
+   ]
+  },
+  {
+   "title": "Twee exponentiële functies",
+   "question_number": 6,
+   "answer_text": "• De vergelijking 2^(½x+3) = 4ˣ kan geschreven worden als 2^(½x+3) = 2²ˣ\n• Hieruit volgt ½x + 3 = 2x\n• Dit geeft x = 2\n• De bijbehorende y-coördinaat is y = 16",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 2^(½x+3) = 4ˣ kan geschreven worden als 2^(½x+3) = 2²ˣ"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt ½x + 3 = 2x"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft x = 2"
+    },
+    {
+     "points": 1,
+     "description": "De bijbehorende y-coördinaat is y = 16"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-twee-exponentiele-functies-antw6.png"
+   ]
+  },
+  {
+   "title": "Twee exponentiële functies",
+   "question_number": 7,
+   "answer_text": "• y = 2^(½x+3) kan geschreven worden als ²log(y) = ½x + 3\n• Dit geeft ²log(y) − 3 = ½x\n• x = 2 · ²log(y) − 6 (of een gelijkwaardige uitdrukking)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "y = 2^(½x+3) kan geschreven worden als ²log(y) = ½x + 3"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft ²log(y) − 3 = ½x"
+    },
+    {
+     "points": 1,
+     "description": "x = 2 · ²log(y) − 6 (of een gelijkwaardige uitdrukking)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-twee-exponentiele-functies-antw7.png"
+   ]
+  },
+  {
+   "title": "In of uit",
+   "question_number": 8,
+   "answer_text": "• (Het punt (0; 0,91) is het snijpunt met de y-as, dus) q = 0,91\n• ((Bijvoorbeeld) het punt (5,03; 1,07) ligt op de grafiek, dit geeft) de vergelijking 1,07 = p · 5,03² + 0,91\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• De gevraagde waarde van p is 0,006",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(Het punt (0; 0,91) is het snijpunt met de y-as, dus) q = 0,91"
+    },
+    {
+     "points": 1,
+     "description": "((Bijvoorbeeld) het punt (5,03; 1,07) ligt op de grafiek, dit geeft) de vergelijking 1,07 = p · 5,03² + 0,91"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "De gevraagde waarde van p is 0,006"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-in-of-uit-antw8.png"
+   ]
+  },
+  {
+   "title": "In of uit",
+   "question_number": 9,
+   "answer_text": "• ∠ATB = 180 − 45,4 − 44,2 = 90,4 (°)\n• Gebruik van de sinusregel geeft AT/sin(44,2°) = 10,97/sin(90,4°) (of gebruik cosinusregel)\n• Hieruit volgt AT = 7,648…\n• De afstand van T tot AB is 7,648… · sin(45,4°)\n• Dit is 5,44…\n• 5,44… (m) is minder dan (11,89 − 6,40 =) 5,49 (m) (de afstand van PR tot de achterlijn), dus de bal is niet in rechthoek PQDR op de grond gekomen\nof\n• ∠ATB = 180 − 45,4 − 44,2 = 90,4 (°)\n• Gebruik van de sinusregel geeft AT/sin(44,2°) = 10,97/sin(90,4°) (of gebruik cosinusregel)\n• Hieruit volgt AT = 7,648…\n• De afstand van T tot AB is 7,648… · sin(45,4°)\n• Dit is 5,44… (m)\n• 5,44… (m) is minder dan (11,89 − 6,40 =) 5,49 (m) (de afstand van PR tot de achterlijn), dus de bal is niet in rechthoek PQDR op de grond gekomen\nof\n• Noem de projectie van T op AB T′. Dan is tan(45,4°) = TT′/AT′ ofwel TT′ = AT′ · tan(45,4°)\n• Verder is tan(44,2°) = TT′/(10,97 − AT′) ofwel TT′ = (10,97 − AT′) · tan(44,2°)\n• Dan volgt (10,97 − AT′) · tan(44,2°) = AT′ · tan(45,4°)\n• AT′ (= 10,97 · tan(44,2°)/(tan(45,4°) + tan(44,2°))) = 5,37…\n• TT′ = AT′ · tan(45,4°) = 5,44…\n• 5,44… (m) is minder dan (11,89 − 6,40 =) 5,49 (m) (de afstand van PR tot de achterlijn), dus de bal is niet in rechthoek PQDR op de grond gekomen\nof\n• In een assenstelsel met A als oorsprong heeft de lijn door A en T de vergelijking y = tan(45,4°)x\n• De lijn door B en T heeft de vergelijking y = −tan(44,2°)(x − 10,97) (in ditzelfde assenstelsel)\n• De vergelijking tan(45,4°)x = −tan(44,2°)(x − 10,97) moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• x = 5,37… en dan is y = 5,44…\n• 5,44… (m) is minder dan (11,89 − 6,40 =) 5,49 (m) (de afstand van PR tot de achterlijn), dus de bal is niet in rechthoek PQDR op de grond gekomen",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "∠ATB = 180 − 45,4 − 44,2 = 90,4 (°)"
+    },
+    {
+     "points": 1,
+     "description": "Gebruik van de sinusregel geeft AT/sin(44,2°) = 10,97/sin(90,4°) (of gebruik cosinusregel)"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt AT = 7,648…"
+    },
+    {
+     "points": 1,
+     "description": "De afstand van T tot AB is 7,648… · sin(45,4°)"
+    },
+    {
+     "points": 1,
+     "description": "Dit is 5,44…"
+    },
+    {
+     "points": 1,
+     "description": "5,44… (m) is minder dan (11,89 − 6,40 =) 5,49 (m) (de afstand van PR tot de achterlijn), dus de bal is niet in rechthoek PQDR op de grond gekomen"
+    }
+   ],
+   "grading_note": "Als alleen de afstand van de bal tot de linker- of rechterrand van het speelveld is berekend en daarmee wordt geconcludeerd dat de bal wel in rechthoek PQDR op de grond is gekomen, voor deze vraag maximaal 4 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-in-of-uit-antw9.png"
+   ]
+  },
+  {
+   "title": "Grafiek van een derdegraadsfunctie en een lijn",
+   "question_number": 10,
+   "answer_text": "• De transformaties kunnen zijn: de translatie 'twee naar rechts' en de vermenigvuldiging ten opzichte van de y-as met 2\n• De volgorde waarin deze transformaties moeten worden toegepast, is: eerst de translatie en daarna de vermenigvuldiging\nof\n• (½x − 2)³ is te herschrijven tot (½(x − 4))³\n• Dus de transformaties kunnen zijn: de vermenigvuldiging ten opzichte van de y-as met 2 en de translatie 'vier naar rechts'\n• De volgorde waarin deze transformaties moeten worden toegepast, is: eerst de vermenigvuldiging en daarna de translatie\nof\n• (½x − 2)³ is te herschrijven tot (½(x − 4))³\n• (½(x − 4))³ = ⅛(x − 4)³\n• Dus de transformaties kunnen zijn: eerst de translatie 'vier naar rechts' en dan de vermenigvuldiging ten opzichte van de x-as met ⅛ (of andersom)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "De transformaties kunnen zijn: de translatie 'twee naar rechts' en de vermenigvuldiging ten opzichte van de y-as met 2"
+    },
+    {
+     "points": 1,
+     "description": "De volgorde waarin deze transformaties moeten worden toegepast, is: eerst de translatie en daarna de vermenigvuldiging"
+    }
+   ],
+   "grading_note": "Voor het eerste antwoordelement van het eerste alternatief uitsluitend 0 of 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-grafiek-van-een-derdegraadsfunctie-en-een-lijn-antw10.png"
+   ]
+  },
+  {
+   "title": "Grafiek van een derdegraadsfunctie en een lijn",
+   "question_number": 11,
+   "answer_text": "• Uit (½x − 2)³ = 0 volgt ½x − 2 = 0\n• Hieruit volgt x = 4 (dus de x-coördinaat van A is 4)\n• f′(x) = 3/2 · (½x − 2)² (of een vergelijkbare uitdrukking)\n• f′(4) = (3/2 · (½ · 4 − 2)² =) 0 (dus de grafiek van f heeft een horizontale raaklijn in A)\nof\n• Uit (½x − 2)³ = 0 volgt ½x − 2 = 0\n• Hieruit volgt x = 4 (dus de x-coördinaat van A is 4)\n• f(x) = ⅛x³ − 3/2·x² + 6x − 8\n• f′(x) = ⅜x² − 3x + 6\n• f′(4) = (⅜ · 4² − 3 · 4 + 6 =) 0 (dus de grafiek van f heeft een horizontale raaklijn in A)\nof\n• De grafiek van g (snijdt en) raakt de x-as in (0,0)\n• De grafiek van f ontstaat uit de grafiek van g zoals (door de kandidaat op juiste wijze) beschreven in het antwoord van vraag 10\n• Hieruit volgt dat de grafiek van f de x-as snijdt in het punt (4,0) (dus de x-coördinaat van A is 4)\n• De in het antwoord van vraag 10 genoemde transformaties behouden beiden de eigenschap van raken aan de x-as, dus de grafiek van f raakt de x-as in A (dus de grafiek van f heeft een horizontale raaklijn in A)\nof\n• f′(x) = 3/2 · (½x − 2)² (of een vergelijkbare uitdrukking)\n• Uit 3/2 · (½x − 2)² = 0 volgt ½x − 2 = 0\n• Hieruit volgt x = 4\n• f(4) = (½ · 4 − 2)³ = 0 (dus de x-coördinaat van A is 4 dus de grafiek van f heeft een horizontale raaklijn in A)\nof\n• Uit (½x − 2)³ = 0 volgt ½x − 2 = 0\n• Hieruit volgt x = 4 (dus de x-coördinaat van A is 4)\n• f′(x) = 3/2 · (½x − 2)² (of een vergelijkbare uitdrukking)\n• Uit 3/2 · (½x − 2)² = 0 volgt ½x − 2 = 0 en wederom x = 4 (dus de grafiek van f heeft een horizontale raaklijn in A)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Uit (½x − 2)³ = 0 volgt ½x − 2 = 0"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt x = 4 (dus de x-coördinaat van A is 4)"
+    },
+    {
+     "points": 2,
+     "description": "f′(x) = 3/2 · (½x − 2)² (of een vergelijkbare uitdrukking)"
+    },
+    {
+     "points": 1,
+     "description": "f′(4) = (3/2 · (½ · 4 − 2)² =) 0 (dus de grafiek van f heeft een horizontale raaklijn in A)"
+    }
+   ],
+   "grading_note": "Voor het derde antwoordelement van het eerste alternatief, het vierde antwoordelement van het derde alternatief, het eerste antwoordelement van het vierde alternatief en het derde antwoordelement van het vijfde alternatief elk uitsluitend 0 of 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-grafiek-van-een-derdegraadsfunctie-en-een-lijn-antw11.png"
+   ]
+  },
+  {
+   "title": "Grafiek van een derdegraadsfunctie en een lijn",
+   "question_number": 12,
+   "answer_text": "• Beschrijven hoe de vergelijking (½x − 2)³ = ½x − 2 opgelost kan worden\n• De coördinaten van P en Q zijn (2, −1) en (6, 1)\n• De gevraagde lengte is (√((6 − 2)² + (1 − 1)²) ≈) 4,47 ⚠️ CONTROLEREN: het correctievoorschrift toont letterlijk (1 − 1)²; voor P(2, −1) en Q(6, 1) zou dit (1 − −1)² moeten zijn (vermoedelijk ontbrekend minteken in de PDF)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Beschrijven hoe de vergelijking (½x − 2)³ = ½x − 2 opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "De coördinaten van P en Q zijn (2, −1) en (6, 1)"
+    },
+    {
+     "points": 1,
+     "description": "De gevraagde lengte is (√((6 − 2)² + (1 − 1)²) ≈) 4,47 ⚠️ CONTROLEREN: het correctievoorschrift toont letterlijk (1 − 1)²; voor P(2, −1) en Q(6, 1) zou dit (1 − −1)² moeten zijn (vermoedelijk ontbrekend minteken in de PDF)"
+    }
+   ],
+   "grading_note": "Als een kandidaat de afstand AP of AQ berekent en vervolgens (zonder expliciete verwijzing naar symmetrie) deze verdubbelt en aldus de afstand PQ berekent, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-grafiek-van-een-derdegraadsfunctie-en-een-lijn-antw12.png"
+   ]
+  },
+  {
+   "title": "Sinusoïden",
+   "question_number": 13,
+   "answer_text": "• Beschrijven hoe de vergelijking 1 + 2cos(2x + ⅓π) = 0 opgelost kan worden\n• Dit geeft voor x de oplossing ⅙π (of 0,5…) (of één andere oplossing)\n• En de (andere) oplossingen ½π, 1⅙π en 1½π (of 1,5…, 3,6… en 4,7…)\n• Dus PS = 1½π − ⅙π en QR = 1⅙π − ½π (of PS = 4,7… − 0,5… = 4,1… en QR = 3,6… − 1,5… = 2,0…)\n• Dus de gevraagde waarde van a is (1⅓π / ⅔π = (of of 4,1…/2,0… =)) 2",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Beschrijven hoe de vergelijking 1 + 2cos(2x + ⅓π) = 0 opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft voor x de oplossing ⅙π (of 0,5…) (of één andere oplossing)"
+    },
+    {
+     "points": 1,
+     "description": "En de (andere) oplossingen ½π, 1⅙π en 1½π (of 1,5…, 3,6… en 4,7…)"
+    },
+    {
+     "points": 1,
+     "description": "Dus PS = 1½π − ⅙π en QR = 1⅙π − ½π (of PS = 4,7… − 0,5… = 4,1… en QR = 3,6… − 1,5… = 2,0…)"
+    },
+    {
+     "points": 1,
+     "description": "Dus de gevraagde waarde van a is (1⅓π / ⅔π = (of of 4,1…/2,0… =)) 2"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-sinusoiden-antw13.png"
+   ]
+  },
+  {
+   "title": "Sinusoïden",
+   "question_number": 14,
+   "answer_text": "• r = 2\n• Beschrijven hoe de coördinaten van een hoogste en laagste punt van de grafiek van g bepaald kunnen worden\n• De y-coördinaat van een hoogste punt van de grafiek van g is 2,4175… en van een laagste punt is −4,4175… dus p = (2,4175… + −4,4175…)/2 = −1\n• En q = (2,4175… − −1, dit is afgerond op drie decimalen) 3,418\n• (Een x-coördinaat van een hoogste punt van de grafiek van g is (bijvoorbeeld) 0,6369…, dus) een mogelijke waarde van s is 0,637",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "r = 2"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe de coördinaten van een hoogste en laagste punt van de grafiek van g bepaald kunnen worden"
+    },
+    {
+     "points": 1,
+     "description": "De y-coördinaat van een hoogste punt van de grafiek van g is 2,4175… en van een laagste punt is −4,4175… dus p = (2,4175… + −4,4175…)/2 = −1"
+    },
+    {
+     "points": 1,
+     "description": "En q = (2,4175… − −1, dit is afgerond op drie decimalen) 3,418"
+    },
+    {
+     "points": 1,
+     "description": "(Een x-coördinaat van een hoogste punt van de grafiek van g is (bijvoorbeeld) 0,6369…, dus) een mogelijke waarde van s is 0,637"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-sinusoiden-antw14.png"
+   ]
+  },
+  {
+   "title": "Schaal van Richter",
+   "question_number": 15,
+   "answer_text": "• Een punt tekenen bij 100 (km) op de as 'afstand'\n• Punten tekenen bij 0,1 en 1 (mm) op de as 'amplitude'\n• Het punt op de as 'afstand' verbinden met de punten op de as 'amplitude'\n• De conclusie dat de snijpunten met de as 'kracht' 1 verschillen",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Een punt tekenen bij 100 (km) op de as 'afstand'"
+    },
+    {
+     "points": 1,
+     "description": "Punten tekenen bij 0,1 en 1 (mm) op de as 'amplitude'"
+    },
+    {
+     "points": 1,
+     "description": "Het punt op de as 'afstand' verbinden met de punten op de as 'amplitude'"
+    },
+    {
+     "points": 1,
+     "description": "De conclusie dat de snijpunten met de as 'kracht' 1 verschillen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-schaal-van-richter-antw15.png"
+   ]
+  },
+  {
+   "title": "Schaal van Richter",
+   "question_number": 16,
+   "answer_text": "• Uit formule (2) volgt 7,85 = log(1000) + 3 · log(D) − 3,38\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• D = 553,77…\n• De oppervlakte van het rampgebied is π · (553,77…)² (km²)\n• De gevraagde oppervlakte is 963000 (km²)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Uit formule (2) volgt 7,85 = log(1000) + 3 · log(D) − 3,38"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "D = 553,77…"
+    },
+    {
+     "points": 1,
+     "description": "De oppervlakte van het rampgebied is π · (553,77…)² (km²)"
+    },
+    {
+     "points": 1,
+     "description": "De gevraagde oppervlakte is 963000 (km²)"
+    }
+   ],
+   "grading_note": "Als een kandidaat bij de berekening gebruikmaakt van K = 7,9 (met als antwoord 1040 000), hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-schaal-van-richter-antw16.png"
+   ]
+  },
+  {
+   "title": "Schaal van Richter",
+   "question_number": 17,
+   "answer_text": "• K = log(A) + log(D¹,⁶) − 0,15\n• K = log(A · D¹,⁶) − 0,15\n• K = log(A · D¹,⁶) − log(10⁰,¹⁵)\n• K = log(A · D¹,⁶ / 10⁰,¹⁵) (of K = log(10⁻⁰,¹⁵ · A · D¹,⁶))\n• De gevraagde waarde van p is 0,7 en de gevraagde waarde van q is 1,6 (of K = log(0,7 · A · D¹,⁶))\nof\n• K = log(p · A · D^q) = log(p) + log(A) + log(D^q)\n• K = log(p) + log(A) + q · log(D)\n• K = log(A) + 1,6 · log(D) − 0,15, dus q = 1,6 en log(p) = −0,15\n• Hieruit volgt p = 10⁻⁰,¹⁵\n• De gevraagde waarde van p is 0,7 (of K = log(0,7 · A · D¹,⁶))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "K = log(A) + log(D¹,⁶) − 0,15"
+    },
+    {
+     "points": 1,
+     "description": "K = log(A · D¹,⁶) − 0,15"
+    },
+    {
+     "points": 1,
+     "description": "K = log(A · D¹,⁶) − log(10⁰,¹⁵)"
+    },
+    {
+     "points": 1,
+     "description": "K = log(A · D¹,⁶ / 10⁰,¹⁵) (of K = log(10⁻⁰,¹⁵ · A · D¹,⁶))"
+    },
+    {
+     "points": 1,
+     "description": "De gevraagde waarde van p is 0,7 en de gevraagde waarde van q is 1,6 (of K = log(0,7 · A · D¹,⁶))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-schaal-van-richter-antw17.png"
+   ]
+  },
+  {
+   "title": "Loodrecht en raken",
+   "question_number": 18,
+   "answer_text": "• AM heeft richtingscoëfficiënt −1/½ = −2 (dus de lijn door A en M heeft vergelijking y = −2x + b)\n• Invullen van de coördinaten van M(−1,3) in y = −2x + b geeft b = 1\n• l snijden met y = −2x + 1 geeft x_A = 1\n• y_A = −2 · 1 + 1 = −1\n• De straal r van c is dus √((−1 − 1)² + (3 − −1)²) = √20\n• (MA ⊥ l en MB ⊥ k dus MACB is een vierkant,) dus AC = BC = √20\n• De omtrek van c is 2π · √20\n• Dus de gevraagde omtrek van vlak V is (2 · √20 + ¼ · 2π√20 ≈) 15,97",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "AM heeft richtingscoëfficiënt −1/½ = −2 (dus de lijn door A en M heeft vergelijking y = −2x + b)"
+    },
+    {
+     "points": 1,
+     "description": "Invullen van de coördinaten van M(−1,3) in y = −2x + b geeft b = 1"
+    },
+    {
+     "points": 1,
+     "description": "l snijden met y = −2x + 1 geeft x_A = 1"
+    },
+    {
+     "points": 1,
+     "description": "y_A = −2 · 1 + 1 = −1"
+    },
+    {
+     "points": 1,
+     "description": "De straal r van c is dus √((−1 − 1)² + (3 − −1)²) = √20"
+    },
+    {
+     "points": 1,
+     "description": "(MA ⊥ l en MB ⊥ k dus MACB is een vierkant,) dus AC = BC = √20"
+    },
+    {
+     "points": 1,
+     "description": "De omtrek van c is 2π · √20"
+    },
+    {
+     "points": 1,
+     "description": "Dus de gevraagde omtrek van vlak V is (2 · √20 + ¼ · 2π√20 ≈) 15,97"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-i-loodrecht-en-raken-antw18.png"
+   ]
+  }
+ ]
+}

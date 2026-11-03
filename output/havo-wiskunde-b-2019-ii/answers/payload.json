@@ -1,0 +1,491 @@
+{
+ "subject_name": "Wiskunde B",
+ "level": "HAVO",
+ "source": "HAVO Wiskunde B 2019-II",
+ "answers": [
+  {
+   "title": "Een logaritmische en een exponentiële functie",
+   "question_number": 1,
+   "answer_text": "• Voor A geldt 4ˣ⁺¹ − 3 = 13, dus 4ˣ⁺¹ = 16\n• Hieruit volgt x + 1 = 2, dus (de x-coördinaat van A is) x = 1\n• Voor B geldt ²log(4(x + 1½)) + 8 = 13, dus ²log(4(x + 1½)) = 5\n• Hieruit volgt 4(x + 1½) = 32\n• Dus (de x-coördinaat van B is) x = 6½\n• De lengte van lijnstuk AB is dus (6½ − 1 =) 5½",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor A geldt 4ˣ⁺¹ − 3 = 13, dus 4ˣ⁺¹ = 16"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt x + 1 = 2, dus (de x-coördinaat van A is) x = 1"
+    },
+    {
+     "points": 1,
+     "description": "Voor B geldt ²log(4(x + 1½)) + 8 = 13, dus ²log(4(x + 1½)) = 5"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt 4(x + 1½) = 32"
+    },
+    {
+     "points": 1,
+     "description": "Dus (de x-coördinaat van B is) x = 6½"
+    },
+    {
+     "points": 1,
+     "description": "De lengte van lijnstuk AB is dus (6½ − 1 =) 5½"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-ii-een-logaritmische-en-een-exponentiele-functie-antw1.png"
+   ]
+  },
+  {
+   "title": "Een logaritmische en een exponentiële functie",
+   "question_number": 2,
+   "answer_text": "• g(x) = ²log(4) + ²log(x + 1½) + 8\n• g(x) = ²log(x + 1½) + 10\n• (De horizontale translatie is dus) 1½ naar links, (de verticale translatie is) 10 omhoog\nof\n• 4(x + 1½) = 0 geeft x = −1½, dus de verticale asymptoot ligt bij x = −1½\n• Bijvoorbeeld het punt (1,0) 1½ naar links verschuiven geeft (−½, 0) en g(−½) = 10\n• (De horizontale translatie is dus) 1½ naar links, (de verticale translatie is) 10 omhoog",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "g(x) = ²log(4) + ²log(x + 1½) + 8"
+    },
+    {
+     "points": 1,
+     "description": "g(x) = ²log(x + 1½) + 10"
+    },
+    {
+     "points": 1,
+     "description": "(De horizontale translatie is dus) 1½ naar links, (de verticale translatie is) 10 omhoog"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-ii-een-logaritmische-en-een-exponentiele-functie-antw2.png"
+   ]
+  },
+  {
+   "title": "Hoe lang is DE?",
+   "question_number": 3,
+   "answer_text": "• Er geldt 8² = 5² + 11² − 2 · 5 · 11 · cos(∠A)\n• Hieruit volgt cos(∠A) = (8² − 5² − 11²)/(−2 · 5 · 11) (= 0,745…) (dus ∠A = 41,801…°)\n• Er geldt cos(∠A) = AD/5\n• Hieruit volgt AD = 5 · 0,745… = 3,727…\n• Driehoek ADE is gelijkvormig met driehoek ABC (wegens F-hoeken)\n• DE = 3,727…/11 · 8 ≈ 2,71\nof\n• Stel AD = x, dan geldt CD² = 5² − x²\n• Ook geldt CD² = 8² − (11 − x)²\n• Er geldt dus 5² − x² = 8² − (11 − x)², dus 25 − x² = 64 − (121 − 22x + x²)\n• Hieruit volgt 82 = 22x, dus (AD =) x = 41/11\n• Driehoek ADE is gelijkvormig met driehoek ABC (wegens F-hoeken)\n• DE = (41/11)/11 · 8 ≈ 2,71\nof\n• (Uit de cosinusregel volgt) 5² = 11² + 8² − 2 · 11 · 8 · cos(∠B), dit geeft cos(∠B) = (5² − 11² − 8²)/(−2 · 11 · 8), waaruit volgt ∠B = 24,619…°\n• CD = 8 · sin(∠B) = 3,332…\n• AD = √(5² − CD²) = 3,727…\n• sin(∠A) = DC/AC = 0,666… geeft ∠A = 41,801…°\n• ∠ADE = ∠B (wegens F-hoeken); ∠AED = 180 − 41,801… − 24,619… = 113,578…\n• (Uit de sinusregel volgt) DE/sin(∠A) = AD/sin(∠AED) en dit geeft DE ≈ 2,71",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er geldt 8² = 5² + 11² − 2 · 5 · 11 · cos(∠A)"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt cos(∠A) = (8² − 5² − 11²)/(−2 · 5 · 11) (= 0,745…) (dus ∠A = 41,801…°)"
+    },
+    {
+     "points": 1,
+     "description": "Er geldt cos(∠A) = AD/5"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt AD = 5 · 0,745… = 3,727…"
+    },
+    {
+     "points": 1,
+     "description": "Driehoek ADE is gelijkvormig met driehoek ABC (wegens F-hoeken)"
+    },
+    {
+     "points": 1,
+     "description": "DE = 3,727…/11 · 8 ≈ 2,71"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-ii-hoe-lang-is-de-antw3.png"
+   ]
+  },
+  {
+   "title": "Viscositeit",
+   "question_number": 4,
+   "answer_text": "• C = 0,17 invullen geeft V = 2,286…\n• De vergelijking 2 · 2,286… = (1 + 0,5C)/(1 − C)⁴ moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• C ≈ 0,29 (C ≈ 1,80 voldoet niet)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "C = 0,17 invullen geeft V = 2,286…"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking 2 · 2,286… = (1 + 0,5C)/(1 − C)⁴ moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "C ≈ 0,29 (C ≈ 1,80 voldoet niet)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-ii-viscositeit-antw4.png"
+   ]
+  },
+  {
+   "title": "Viscositeit",
+   "question_number": 5,
+   "answer_text": "• Het differentiequotiënt op het interval [0; 0,001] is ΔV/ΔC = (V(0,001) − V(0))/0,001\n• Dit is gelijk aan 4,5…\n• (V(0) = 1, dus) V_lin = 4,5C + 1 (of a = 4,5 en b = 1)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het differentiequotiënt op het interval [0; 0,001] is ΔV/ΔC = (V(0,001) − V(0))/0,001"
+    },
+    {
+     "points": 1,
+     "description": "Dit is gelijk aan 4,5…"
+    },
+    {
+     "points": 1,
+     "description": "(V(0) = 1, dus) V_lin = 4,5C + 1 (of a = 4,5 en b = 1)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-ii-viscositeit-antw5.png"
+   ]
+  },
+  {
+   "title": "Twee toppen en twee evenwijdige lijnen",
+   "question_number": 6,
+   "answer_text": "• f′(x) = −6(2x − 3)² + 6x − 6\n• f′(x) = −6(4x² − 12x + 9) + 6x − 6\n• f′(x) = −24x² + 72x − 54 + 6x − 6 = −24x² + 78x − 60\nof\n• (2x − 3)² = 4x² − 12x + 9\n• (2x − 3)³ = (4x² − 12x + 9) · (2x − 3) = 8x³ − 24x² + 18x − 12x² + 36x − 27\n• De rest van de herleiding tot f(x) = −8x³ + 39x² − 60x + 31\n• Dit geeft f′(x) = −24x² + 78x − 60",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "f′(x) = −6(2x − 3)² + 6x − 6"
+    },
+    {
+     "points": 1,
+     "description": "f′(x) = −6(4x² − 12x + 9) + 6x − 6"
+    },
+    {
+     "points": 1,
+     "description": "f′(x) = −24x² + 72x − 54 + 6x − 6 = −24x² + 78x − 60"
+    }
+   ],
+   "grading_note": "Als een kandidaat bij het differentiëren in het eerste antwoordalternatief de kettingregel niet of niet correct heeft toegepast, voor deze vraag maximaal 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-ii-twee-toppen-en-twee-evenwijdige-lijnen-antw6.png"
+   ]
+  },
+  {
+   "title": "Twee toppen en twee evenwijdige lijnen",
+   "question_number": 7,
+   "answer_text": "• f′(x) = 0 geeft x = (−78 ± √(78² − 4 · −24 · −60))/(2 · −24)\n• Dus x = 1¼ of x = 2\n• Hieruit volgt A(1¼, 1 5/16) en B(2, 3)\n• Dus de richtingscoëfficiënt van k is (3 − 1 5/16)/(2 − 1¼) = 2¼\n• k en l hebben dus een vergelijking van de vorm y = 2¼x + b\n• Invullen van de coördinaten van B geeft voor k: 3 = 2¼ · 2 + b, dus b = −1½; invullen van de coördinaten van P geeft voor l: 2 = 2¼ · 1 + b, dus b = −¼\n• De (vergrotings)factor is dus (OM/ON =) 1½/¼ = 6, dus z = 6 (of: een exacte berekening waaruit volgt dat x_K = 6/9 en x_L = 1/9, dus z = √((6/9)² + (1½)²) / √((1/9)² + (¼)²) = 6",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "f′(x) = 0 geeft x = (−78 ± √(78² − 4 · −24 · −60))/(2 · −24)"
+    },
+    {
+     "points": 1,
+     "description": "Dus x = 1¼ of x = 2"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt A(1¼, 1 5/16) en B(2, 3)"
+    },
+    {
+     "points": 1,
+     "description": "Dus de richtingscoëfficiënt van k is (3 − 1 5/16)/(2 − 1¼) = 2¼"
+    },
+    {
+     "points": 1,
+     "description": "k en l hebben dus een vergelijking van de vorm y = 2¼x + b"
+    },
+    {
+     "points": 1,
+     "description": "Invullen van de coördinaten van B geeft voor k: 3 = 2¼ · 2 + b, dus b = −1½; invullen van de coördinaten van P geeft voor l: 2 = 2¼ · 1 + b, dus b = −¼"
+    },
+    {
+     "points": 1,
+     "description": "De (vergrotings)factor is dus (OM/ON =) 1½/¼ = 6, dus z = 6 (of: een exacte berekening waaruit volgt dat x_K = 6/9 en x_L = 1/9, dus z = √((6/9)² + (1½)²) / √((1/9)² + (¼)²) = 6"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-ii-twee-toppen-en-twee-evenwijdige-lijnen-antw7.png"
+   ]
+  },
+  {
+   "title": "NK Tegenwindfietsen",
+   "question_number": 8,
+   "answer_text": "• Sweeres tijd in 2016 was 22,5/60 = 0,375 uur\n• Zijn snelheid was 8,5/0,375 = 22,66… (km/uur)\n• Het vermogen dat hij leverde was ⚠️ CONTROLEREN: het correctievoorschrift kent zowel aan deze regel als aan de volgende regel (P = …) 1 punt toe, waardoor de deelpunten optellen tot 6 terwijl de maximumscore 5 is; vermoedelijk vormen deze twee regels samen één deelpunt\n• P = 0,00386 · 22,66… · (22,66… + 80)² = 922,… (W)\n• Het vermogen dat hij moet leveren is P = 0,00386 · 22,66… · (22,66… + 80 · 1,05)² = 995,… (W)\n• (995,… − 922,…)/922,… = 0,079…, dus 8(%)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Sweeres tijd in 2016 was 22,5/60 = 0,375 uur"
+    },
+    {
+     "points": 1,
+     "description": "Zijn snelheid was 8,5/0,375 = 22,66… (km/uur)"
+    },
+    {
+     "points": 1,
+     "description": "Het vermogen dat hij leverde was ⚠️ CONTROLEREN: het correctievoorschrift kent zowel aan deze regel als aan de volgende regel (P = …) 1 punt toe, waardoor de deelpunten optellen tot 6 terwijl de maximumscore 5 is; vermoedelijk vormen deze twee regels samen één deelpunt"
+    },
+    {
+     "points": 1,
+     "description": "P = 0,00386 · 22,66… · (22,66… + 80)² = 922,… (W)"
+    },
+    {
+     "points": 1,
+     "description": "Het vermogen dat hij moet leveren is P = 0,00386 · 22,66… · (22,66… + 80 · 1,05)² = 995,… (W)"
+    },
+    {
+     "points": 1,
+     "description": "(995,… − 922,…)/922,… = 0,079…, dus 8(%)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-ii-nk-tegenwindfietsen-antw8.png"
+   ]
+  },
+  {
+   "title": "NK Tegenwindfietsen",
+   "question_number": 9,
+   "answer_text": "• De vergelijking 210 = 0,0273 · 72 · 5,9 · v moet worden opgelost\n• v = 18,10… (km/uur)\n• Hij doet er dus 1,2/18,10… = 0,06… (uur) over\n• Dat komt overeen met 0,06… · 60 ≈ 4 (minuten)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 210 = 0,0273 · 72 · 5,9 · v moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "v = 18,10… (km/uur)"
+    },
+    {
+     "points": 1,
+     "description": "Hij doet er dus 1,2/18,10… = 0,06… (uur) over"
+    },
+    {
+     "points": 1,
+     "description": "Dat komt overeen met 0,06… · 60 ≈ 4 (minuten)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-ii-nk-tegenwindfietsen-antw9.png"
+   ]
+  },
+  {
+   "title": "NK Tegenwindfietsen",
+   "question_number": 10,
+   "answer_text": "• De vergelijking 0,0273 · 78 · 8,4 · 19 = 0,00386 · v · (v + 70)² moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft een snelheid van 12,8 (km/uur)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 0,0273 · 78 · 8,4 · 19 = 0,00386 · v · (v + 70)² moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft een snelheid van 12,8 (km/uur)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-ii-nk-tegenwindfietsen-antw10.png"
+   ]
+  },
+  {
+   "title": "Een cirkel en functies met een wortel",
+   "question_number": 11,
+   "answer_text": "• f′(x) = 2/√x (of een gelijkwaardige uitdrukking)\n• f′(4) = 1 (dus l heeft een vergelijking van de vorm y = x + b)\n• (A(4,9) ligt op l, dus) 4 + b = 9, dus b = 5, dus y = x + 5 is een vergelijking van l\n• y = x + 5 invullen in de vergelijking van c geeft (x + 2)² + (x + 6)² = 8\n• Herleiden tot 2x² + 16x + 32 = 0 (of x² + 8x + 16 = 0)\n• De discriminant van deze vergelijking is 16² − 4 · 2 · 32 = 0 (of: het oplossen van deze vergelijking geeft als enige oplossing x = −4), dus l en c raken elkaar\nof\n• f′(x) = 2/√x (of een gelijkwaardige uitdrukking)\n• f′(4) = 1 (dus l heeft een vergelijking van de vorm y = x + b)\n• (A(4,9) ligt op l, dus) 4 + b = 9, dus b = 5, dus y = x + 5 is een vergelijking van l\n• Een lijn loodrecht op l heeft richtingscoëfficiënt (−1/1 =) −1; de coördinaten van het middelpunt M zijn (−2, −1); een vergelijking van de lijn door M, loodrecht op l heeft dus vergelijking y = −x − 3\n• Voor het snijpunt Z van l en m geldt x + 5 = −x − 3; dit geeft x = −4 en y = 1\n• (−4 + 2)² + (1 + 1)² = 8, dus Z ligt op c, dus l en c raken elkaar",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "f′(x) = 2/√x (of een gelijkwaardige uitdrukking)"
+    },
+    {
+     "points": 1,
+     "description": "f′(4) = 1 (dus l heeft een vergelijking van de vorm y = x + b)"
+    },
+    {
+     "points": 1,
+     "description": "(A(4,9) ligt op l, dus) 4 + b = 9, dus b = 5, dus y = x + 5 is een vergelijking van l"
+    },
+    {
+     "points": 1,
+     "description": "y = x + 5 invullen in de vergelijking van c geeft (x + 2)² + (x + 6)² = 8"
+    },
+    {
+     "points": 1,
+     "description": "Herleiden tot 2x² + 16x + 32 = 0 (of x² + 8x + 16 = 0)"
+    },
+    {
+     "points": 1,
+     "description": "De discriminant van deze vergelijking is 16² − 4 · 2 · 32 = 0 (of: het oplossen van deze vergelijking geeft als enige oplossing x = −4), dus l en c raken elkaar"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-ii-een-cirkel-en-functies-met-een-wortel-antw11.png"
+   ]
+  },
+  {
+   "title": "Een cirkel en functies met een wortel",
+   "question_number": 12,
+   "answer_text": "• Voor punt S geldt (0 + 2)² + (y + 1)² = 8\n• (y + 1)² = 4, dus y + 1 = −2 of y + 1 = 2\n• (Dus voor S geldt) y = −3 (y = 1 voldoet niet), dus q = −3\n• (A(4,9) ligt op de grafiek van g, dus geldt) p√4 − 3 = 9\n• Dit geeft p = 6",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor punt S geldt (0 + 2)² + (y + 1)² = 8"
+    },
+    {
+     "points": 1,
+     "description": "(y + 1)² = 4, dus y + 1 = −2 of y + 1 = 2"
+    },
+    {
+     "points": 1,
+     "description": "(Dus voor S geldt) y = −3 (y = 1 voldoet niet), dus q = −3"
+    },
+    {
+     "points": 1,
+     "description": "(A(4,9) ligt op de grafiek van g, dus geldt) p√4 − 3 = 9"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft p = 6"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-ii-een-cirkel-en-functies-met-een-wortel-antw12.png"
+   ]
+  },
+  {
+   "title": "Sinusoïde en lijn",
+   "question_number": 13,
+   "answer_text": "• −1 + sin(2x − ⅙π) = −½ geeft sin(2x − ⅙π) = ½\n• Voor een deel van de oplossingen geldt 2x − ⅙π = ⅙π + k · 2π\n• Hieruit volgt 2x = ⅓π + k · 2π, dus x = ⅙π + k · π\n• Voor het andere deel van de oplossingen geldt 2x − ⅙π = ⅚π + k · 2π\n• Hieruit volgt 2x = π + k · 2π, dus x = ½π + k · π\n• De gevraagde waarden van x zijn x = ⅙π, x = ½π, x = 1⅙π en x = 1½π\nof\n• −1 + sin(2x − ⅙π) = −½ geeft sin(2x − ⅙π) = ½\n• Een oplossing is 2x − ⅙π = ⅙π, dus 2x = ⅓π, dus x = ⅙π\n• Een redenering of berekening waaruit volgt dat de lijn met vergelijking x = ⅓π een symmetrieas van de grafiek van f is\n• Een andere oplossing is dus x = ⅓π + ⅓π − ⅙π = ½π\n• De periode van f is 2π/2 = π\n• De twee overige oplossingen zijn dus x = 1⅙π en x = 1½π",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "−1 + sin(2x − ⅙π) = −½ geeft sin(2x − ⅙π) = ½"
+    },
+    {
+     "points": 1,
+     "description": "Voor een deel van de oplossingen geldt 2x − ⅙π = ⅙π + k · 2π"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt 2x = ⅓π + k · 2π, dus x = ⅙π + k · π"
+    },
+    {
+     "points": 1,
+     "description": "Voor het andere deel van de oplossingen geldt 2x − ⅙π = ⅚π + k · 2π"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt 2x = π + k · 2π, dus x = ½π + k · π"
+    },
+    {
+     "points": 1,
+     "description": "De gevraagde waarden van x zijn x = ⅙π, x = ½π, x = 1⅙π en x = 1½π"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-ii-sinusoide-en-lijn-antw13.png"
+   ]
+  },
+  {
+   "title": "Sinusoïde en lijn",
+   "question_number": 14,
+   "answer_text": "• Beschrijven hoe de vergelijking −1 + sin(2x − ⅙π) = 0 opgelost kan worden\n• De x-coördinaat van A is 1,047… (, dus A(1,047…; 0))\n• Lijn l heeft richtingscoëfficiënt tan(75°) = 3,732…\n• Uit 0 = 3,732… · 1,047… + b volgt b = −3,908… (, dus B(0; −3,908…))\n• De afstand tussen A en B is √(1,047…² + 3,908…²) ≈ 4,05\nof\n• Beschrijven hoe met de GR de x-coördinaat van top A gevonden kan worden\n• De x-coördinaat van A is 1,047… (dus OA = 1,047…)\n• ∠OAB = 75° (wegens overstaande hoeken)\n• cos(75°) = OA/AB\n• Dus AB (= OA/cos(75°)) ≈ 4,05",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Beschrijven hoe de vergelijking −1 + sin(2x − ⅙π) = 0 opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "De x-coördinaat van A is 1,047… (, dus A(1,047…; 0))"
+    },
+    {
+     "points": 1,
+     "description": "Lijn l heeft richtingscoëfficiënt tan(75°) = 3,732…"
+    },
+    {
+     "points": 1,
+     "description": "Uit 0 = 3,732… · 1,047… + b volgt b = −3,908… (, dus B(0; −3,908…))"
+    },
+    {
+     "points": 1,
+     "description": "De afstand tussen A en B is √(1,047…² + 3,908…²) ≈ 4,05"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-ii-sinusoide-en-lijn-antw14.png"
+   ]
+  },
+  {
+   "title": "Sinusoïde en lijn",
+   "question_number": 15,
+   "answer_text": "• b = 2 · 3 = 6 (of: de periode van f is 2π/2 = π, dus de periode van g is ⅓π, dus b = 2π/(⅓π) = 6)\n• De amplitude van de grafiek van f is 1, dus de amplitude van de grafiek van g is ¼\n• Het minimum van g is gelijk aan f(0) = −1½\n• Dus d = (−1½ + ¼ =) −1¼\n• Een toelichting waaruit volgt a = −¼",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "b = 2 · 3 = 6 (of: de periode van f is 2π/2 = π, dus de periode van g is ⅓π, dus b = 2π/(⅓π) = 6)"
+    },
+    {
+     "points": 1,
+     "description": "De amplitude van de grafiek van f is 1, dus de amplitude van de grafiek van g is ¼"
+    },
+    {
+     "points": 1,
+     "description": "Het minimum van g is gelijk aan f(0) = −1½"
+    },
+    {
+     "points": 1,
+     "description": "Dus d = (−1½ + ¼ =) −1¼"
+    },
+    {
+     "points": 1,
+     "description": "Een toelichting waaruit volgt a = −¼"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-ii-sinusoide-en-lijn-antw15.png"
+   ]
+  },
+  {
+   "title": "Viaduc de Garabit",
+   "question_number": 16,
+   "answer_text": "• De top van de parabool is (82,5; 51,858)\n• Dus de formule van de parabool is van de vorm y = a(x − 82,5)² + 51,858\n• (0,0) invullen geeft a(0 − 82,5)² + 51,858 = 0\n• Hieruit volgt a = −51,858/82,5²\n• Het herleiden van y = −51,858/82,5² · (x − 82,5)² + 51,858 tot y = −0,0076x² + 1,2572x (dus a ≈ −0,0076 en b ≈ 1,2572)\nof\n• De top van de parabool is (82,5; 51,858)\n• (82,5; 51,858) en (165,0) invullen in y = ax² + bx geeft het stelsel { 51,858 = 82,5² · a + 82,5 · b ; 0 = 165² · a + 165 · b }\n• Hieruit volgt { 103,716 = 2 · (82,5)² · a + 165 · b ; 0 = 165² · a + 165 · b }\n• Hieruit volgt −13612,5 · a = 103,716\n• Dus a ≈ −0,0076 en b ≈ 1,2572\nof\n• (165,0) invullen in y = ax² + bx geeft 0 = 165²a + 165b\n• Dit geeft b = −165a (dus y = ax² − 165ax)\n• De top van de parabool is (82,5; 51,858)\n• (82,5; 51,858) invullen in y = ax² − 165ax geeft 51,858 = a · 82,5² − 165 · a · 82,5 (ofwel 51,858 = −a · 6806,25)\n• Dus a ≈ −0,0076 en b ≈ 1,2572\nof\n• De parabool heeft nulpunten bij 0 en 165, dus de formule van de parabool is van de vorm y = ax(x − 165)\n• De top van de parabool is (82,5; 51,858)\n• (82,5; 51,858) invullen geeft 51,858 = a · 82,5 · (82,5 − 165)\n• Hieruit volgt a = −51,858/82,5²\n• y = −51,858/82,5² · x(x − 165) = −0,0076x² + 1,2572x (dus a ≈ −0,0076 en b ≈ 1,2572)\nof\n• De x-coördinaat van de top is 82,5; y′ = 2ax + b\n• Voor de top geldt y′ = 0, dus 2a · 82,5 + b = 0, dus b = −165a (dus y = ax² − 165ax)\n• De top van de parabool is (82,5; 51,858)\n• (82,5; 51,858) invullen in y = ax² − 165ax geeft 51,858 = a · 82,5² − 165 · a · 82,5 (ofwel 51,858 = −a · 6806,25)\n• Dus a ≈ −0,0076 en b ≈ 1,2572",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De top van de parabool is (82,5; 51,858)"
+    },
+    {
+     "points": 1,
+     "description": "Dus de formule van de parabool is van de vorm y = a(x − 82,5)² + 51,858"
+    },
+    {
+     "points": 1,
+     "description": "(0,0) invullen geeft a(0 − 82,5)² + 51,858 = 0"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt a = −51,858/82,5²"
+    },
+    {
+     "points": 1,
+     "description": "Het herleiden van y = −51,858/82,5² · (x − 82,5)² + 51,858 tot y = −0,0076x² + 1,2572x (dus a ≈ −0,0076 en b ≈ 1,2572)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2019-ii-viaduc-de-garabit-antw16.png"
+   ]
+  }
+ ]
+}
