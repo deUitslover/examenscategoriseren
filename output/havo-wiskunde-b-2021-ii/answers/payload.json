@@ -1,0 +1,535 @@
+{
+ "subject_name": "Wiskunde B",
+ "level": "HAVO",
+ "source": "HAVO Wiskunde B 2021-II",
+ "answers": [
+  {
+   "title": "Rakende grafieken",
+   "question_number": 1,
+   "answer_text": "• f(0) = −1 (dus B(0, −1))\n• f(x) = 0 geeft 1/√(3x + 1) − 2 = 0 en dus √(3x + 1) = ½\n• Dit geeft x = −¼ (dus A(−¼, 0))\n• AB = √((¼)² + 1²) = ¼√17 (of een gelijkwaardige uitdrukking)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "f(0) = −1 (dus B(0, −1))"
+    },
+    {
+     "points": 1,
+     "description": "f(x) = 0 geeft 1/√(3x + 1) − 2 = 0 en dus √(3x + 1) = ½"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft x = −¼ (dus A(−¼, 0))"
+    },
+    {
+     "points": 1,
+     "description": "AB = √((¼)² + 1²) = ¼√17 (of een gelijkwaardige uitdrukking)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-rakende-grafieken-antw1.png"
+   ]
+  },
+  {
+   "title": "Rakende grafieken",
+   "question_number": 2,
+   "answer_text": "• f(0,81) = −1,46…\n• −1,46… = −2 · (0,81)² + 3 · 0,81 + p\n• (Dit geeft p = −2,57… dus) het eindantwoord: −2,6",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "f(0,81) = −1,46…"
+    },
+    {
+     "points": 1,
+     "description": "−1,46… = −2 · (0,81)² + 3 · 0,81 + p"
+    },
+    {
+     "points": 1,
+     "description": "(Dit geeft p = −2,57… dus) het eindantwoord: −2,6"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-rakende-grafieken-antw2.png"
+   ]
+  },
+  {
+   "title": "Rakende grafieken",
+   "question_number": 3,
+   "answer_text": "• f′(x) = −3/(2(3x + 1)√(3x + 1)) (of een gelijkwaardige uitdrukking)\n• g′(x) = −4x + 3\n• f′(x) = g′(x) (dus −4x + 3 = −3/(2(3x + 1)√(3x + 1)))\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Dit levert x_C = 0,809",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "f′(x) = −3/(2(3x + 1)√(3x + 1)) (of een gelijkwaardige uitdrukking)"
+    },
+    {
+     "points": 1,
+     "description": "g′(x) = −4x + 3"
+    },
+    {
+     "points": 1,
+     "description": "f′(x) = g′(x) (dus −4x + 3 = −3/(2(3x + 1)√(3x + 1)))"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "Dit levert x_C = 0,809"
+    }
+   ],
+   "grading_note": "Voor het tweede antwoordelement mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-rakende-grafieken-antw3.png"
+   ]
+  },
+  {
+   "title": "Stedelijke gebieden",
+   "question_number": 4,
+   "answer_text": "• Er geldt (log(N) =) log(1000000) = 6\n• Uit de grafiek aflezen: log(W) = 3,6\n• Het eindantwoord: (W = 10³˙⁶ = 3981,0… dus) 4000 (mijl)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er geldt (log(N) =) log(1000000) = 6"
+    },
+    {
+     "points": 1,
+     "description": "Uit de grafiek aflezen: log(W) = 3,6"
+    },
+    {
+     "points": 1,
+     "description": "Het eindantwoord: (W = 10³˙⁶ = 3981,0… dus) 4000 (mijl)"
+    }
+   ],
+   "grading_note": "Bij het aflezen van log(W) is een marge van 0,1 toegestaan..",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-stedelijke-gebieden-antw4.png"
+   ]
+  },
+  {
+   "title": "Stedelijke gebieden",
+   "question_number": 5,
+   "answer_text": "• Er geldt log(650) = a · log(100000) + b en log(31000) = a · log(10000000) + b\n• Bijvoorbeeld b = log(650) − a · log(100000) en b = log(31000) − a · log(10000000)\n• De vergelijking log(650) − a · log(100000) = log(31000) − a · log(10000000) moet worden opgelost\n• Dit geeft a = 0,84 en dan is b = −1,38\nof\n• a = Δlog(W)/Δlog(N)\n• a = (log(31000) − log(650))/(log(10000000) − log(100000))\n• Dan is (bijvoorbeeld) b = log(650) − (log(31000) − log(650))/(log(10000000) − log(100000)) · log(100000)\n• Dit geeft a = 0,84 en b = −1,38\nof\n• Er geldt { log(650) = a · log(100000) + b ; log(31000) = a · log(10000000) + b }\n• Beschrijven hoe dit stelsel kan worden opgelost\n• Hieruit volgt a = 0,84 en b = −1,38",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er geldt log(650) = a · log(100000) + b en log(31000) = a · log(10000000) + b"
+    },
+    {
+     "points": 1,
+     "description": "Bijvoorbeeld b = log(650) − a · log(100000) en b = log(31000) − a · log(10000000)"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking log(650) − a · log(100000) = log(31000) − a · log(10000000) moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft a = 0,84 en dan is b = −1,38"
+    }
+   ],
+   "grading_note": "In het derde antwoordalternatief mogen voor het tweede antwoordelement 0, 1 of 2 scorepunten worden toegekend.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-stedelijke-gebieden-antw5.png"
+   ]
+  },
+  {
+   "title": "Stedelijke gebieden",
+   "question_number": 6,
+   "answer_text": "• Als N twee keer zo groot is, is W 2^(5/6) keer zo groot\n• 2^(5/6) = 1,781…\n• Dus (de lengte van het wegennet van gebied B is) (ongeveer) 78% (groter) (dan de lengte van het wegennet van gebied A)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Als N twee keer zo groot is, is W 2^(5/6) keer zo groot"
+    },
+    {
+     "points": 1,
+     "description": "2^(5/6) = 1,781…"
+    },
+    {
+     "points": 1,
+     "description": "Dus (de lengte van het wegennet van gebied B is) (ongeveer) 78% (groter) (dan de lengte van het wegennet van gebied A)"
+    }
+   ],
+   "grading_note": "Als een kandidaat met behulp van een getallenvoorbeeld rekent, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-stedelijke-gebieden-antw6.png"
+   ]
+  },
+  {
+   "title": "Stedelijke gebieden",
+   "question_number": 7,
+   "answer_text": "• D = N/(0,043 · N^(5/6))\n• Dit is te schrijven als D = 1/0,043 · N^(1/6) (= 23,2… · N^(1/6))\n• dD/dN = 1/6 · 1/0,043 · N^(−5/6) (= 3,87… · N^(−5/6))\n• dD/dN is altijd groter dan 0 (of de grafiek van dD/dN ligt altijd boven de N-as) (dus de grafiek van D is stijgend)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "D = N/(0,043 · N^(5/6))"
+    },
+    {
+     "points": 1,
+     "description": "Dit is te schrijven als D = 1/0,043 · N^(1/6) (= 23,2… · N^(1/6))"
+    },
+    {
+     "points": 1,
+     "description": "dD/dN = 1/6 · 1/0,043 · N^(−5/6) (= 3,87… · N^(−5/6))"
+    },
+    {
+     "points": 1,
+     "description": "dD/dN is altijd groter dan 0 (of de grafiek van dD/dN ligt altijd boven de N-as) (dus de grafiek van D is stijgend)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-stedelijke-gebieden-antw7.png"
+   ]
+  },
+  {
+   "title": "Rechthoek om cirkels",
+   "question_number": 8,
+   "answer_text": "• (De y-coördinaat van M₁ is 3 en de straal van c₁ is 3, dus) y_C = y_D = 6\n• (De straal van c₂ is 2, dus) de y-coördinaat van M₂ is y_C − 2 = 4\n• M₁M₂ = (3 + 2 =) 5\n• Voor de x-coördinaat van M₂ geldt 5² = x² + 1²\n• Hieruit volgt x = √24 (= 2√6) (en de coördinaten van M₂ zijn dus (2√6, 4))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(De y-coördinaat van M₁ is 3 en de straal van c₁ is 3, dus) y_C = y_D = 6"
+    },
+    {
+     "points": 1,
+     "description": "(De straal van c₂ is 2, dus) de y-coördinaat van M₂ is y_C − 2 = 4"
+    },
+    {
+     "points": 1,
+     "description": "M₁M₂ = (3 + 2 =) 5"
+    },
+    {
+     "points": 1,
+     "description": "Voor de x-coördinaat van M₂ geldt 5² = x² + 1²"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt x = √24 (= 2√6) (en de coördinaten van M₂ zijn dus (2√6, 4))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-rechthoek-om-cirkels-antw8.png"
+   ]
+  },
+  {
+   "title": "Rechthoek om cirkels",
+   "question_number": 9,
+   "answer_text": "• sin(α) = M₂N/M₂M₃\n• r + M₂N = 2, dus M₂N = 2 − r\n• M₂M₃ = 2 + r (dus sin(α) = (2 − r)/(r + 2))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "sin(α) = M₂N/M₂M₃"
+    },
+    {
+     "points": 1,
+     "description": "r + M₂N = 2, dus M₂N = 2 − r"
+    },
+    {
+     "points": 1,
+     "description": "M₂M₃ = 2 + r (dus sin(α) = (2 − r)/(r + 2))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-rechthoek-om-cirkels-antw9.png"
+   ]
+  },
+  {
+   "title": "Exoten en rodelijstsoorten",
+   "question_number": 10,
+   "answer_text": "• De groeifactor over de periode 1910-1950 is 46/22\n• Dus de groeifactor per 10 jaar is (46/22)^(1/4)\n• (46/22)^(1/4) = 1,2024…\n• Het gevraagde percentage is 20,2(%)\nof\n• De vergelijking 22 · g⁴ = 46 moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Hieruit volgt g = 1,2024…\n• Het gevraagde percentage is 20,2(%)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De groeifactor over de periode 1910-1950 is 46/22"
+    },
+    {
+     "points": 1,
+     "description": "Dus de groeifactor per 10 jaar is (46/22)^(1/4)"
+    },
+    {
+     "points": 1,
+     "description": "(46/22)^(1/4) = 1,2024…"
+    },
+    {
+     "points": 1,
+     "description": "Het gevraagde percentage is 20,2(%)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-exoten-en-rodelijstsoorten-antw10.png"
+   ]
+  },
+  {
+   "title": "Exoten en rodelijstsoorten",
+   "question_number": 11,
+   "answer_text": "• De vergelijking 1,20ᵗ = 2 (met t in tientallen jaren) moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Hieruit volgt t = 3,80…\n• Het aantal exoten is voor het eerst verdubbeld na 39 jaar\nof\n• Voor de groeifactor per jaar g geldt g = (1,20)^(1/10) waaruit volgt dat g = 1,018…\n• De vergelijking 1,018…ᵗ = 2 (met t in jaren) moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Hieruit volgt t = 38,0… dus het aantal exoten is voor het eerst verdubbeld na 39 jaar",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 1,20ᵗ = 2 (met t in tientallen jaren) moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt t = 3,80…"
+    },
+    {
+     "points": 1,
+     "description": "Het aantal exoten is voor het eerst verdubbeld na 39 jaar"
+    }
+   ],
+   "grading_note": "– Het eindantwoord 38 jaar ook goed rekenen.\n– Als een kandidaat met een nauwkeuriger waarde van de groeifactor per tien jaar werkt, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-exoten-en-rodelijstsoorten-antw11.png"
+   ]
+  },
+  {
+   "title": "Exoten en rodelijstsoorten",
+   "question_number": 12,
+   "answer_text": "• Aflezen van het percentage voor 2004 geeft 89%\n• Dit geeft voor 1997 het aantal van 780 rodelijstsoorten\n• Hieruit volgt in het lineaire verband een afname van ((0,11 · 780)/7 =) 12,25… soorten per jaar\n• Dit geeft voor 2020 het aantal van (780 − 23 · 12,25… = 498,0… dus) 498 rodelijstsoorten\n• Het gevraagde verschil is 551 − 498 = 53\nof\n• Aflezen van het percentage voor 2004 geeft 89%\n• Dit geeft voor 1997 het aantal van 780 rodelijstsoorten\n• 11% daling in 7 jaar geeft (11 · 23/7 =) 36,14…% daling in 23 jaar\n• Dit geeft voor 2020 het aantal van (0,6385… · 780 = 498,0… dus) 498 rodelijstsoorten\n• Het gevraagde verschil is 551 − 498 = 53\nof\n• Aflezen van het percentage voor 2004 geeft 89%\n• Dit geeft voor 1997 het aantal van 780 rodelijstsoorten\n• Hieruit volgt in het lineaire verband een afname van ((780 − 694)/7 =) 12,28… soorten per jaar\n• Dit geeft voor 2020 het aantal van (780 − 23 · 12,28… = 497,4… dus) 497 rodelijstsoorten\n• Het gevraagde verschil is 551 − 497 = 54\nof\n• Aflezen van het percentage in (bijvoorbeeld) 2014 geeft (7,2/10 · 100% =) 72%\n• Hieruit volgt in het lineaire verband een afname van ((100 − 72)/17 =) 1,64…% per jaar\n• Dit geeft voor 2004 en 2020 een percentage van (100 − 7 · 1,64… =) 88,47… respectievelijk (72 − 6 · 1,64… =) 62,11…\n• Dit geeft voor 2020 het aantal van (62,11…/88,47… · 694 = 487,2… dus) 487 rodelijstsoorten\n• Het gevraagde verschil is 551 − 487 = 64",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Aflezen van het percentage voor 2004 geeft 89%"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft voor 1997 het aantal van 780 rodelijstsoorten"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt in het lineaire verband een afname van ((0,11 · 780)/7 =) 12,25… soorten per jaar"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft voor 2020 het aantal van (780 − 23 · 12,25… = 498,0… dus) 498 rodelijstsoorten"
+    },
+    {
+     "points": 1,
+     "description": "Het gevraagde verschil is 551 − 498 = 53"
+    }
+   ],
+   "grading_note": "Bij het aflezen van de percentages is een marge van 2 procentpunten toegestaa",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-exoten-en-rodelijstsoorten-antw12.png"
+   ]
+  },
+  {
+   "title": "Drie snijpunten",
+   "question_number": 13,
+   "answer_text": "• De x-coördinaat van het 'beginpunt' is ⅔π\n• De periode van f is 2π\n• Het eerste minimum is een kwart periode eerder dus de x-coördinaat van P is ⅔π − ½π = ⅙π\n• De bijbehorende y-coördinaat is (−1 − 2 =) −3\nof\n• Uit −1 + 2sin(x − ⅔π) = −3 volgt sin(x − ⅔π) = −1\n• x − ⅔π = 1½π + k · 2π\n• x = 2⅙π + k · 2π dus de x-coördinaat van P is ⅙π\n• De bijbehorende y-coördinaat is (−1 − 2 =) −3\nof\n• De coördinaten van een top van y = sin(x) zijn (−½π, −1)\n• Verschuiving van ⅔π naar rechts levert de coördinaten (⅙π, −1) (van een top van y = sin(x − ⅔π))\n• Vermenigvuldiging ten opzichte van de x-as met factor 2 levert de coördinaten (⅙π, −2) (van een top van y = 2sin(x − ⅔π))\n• Verschuiving van 1 naar beneden levert de coördinaten (⅙π, −3) van P, (top van y = −1 + 2sin(x − ⅔π))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De x-coördinaat van het 'beginpunt' is ⅔π"
+    },
+    {
+     "points": 1,
+     "description": "De periode van f is 2π"
+    },
+    {
+     "points": 1,
+     "description": "Het eerste minimum is een kwart periode eerder dus de x-coördinaat van P is ⅔π − ½π = ⅙π"
+    },
+    {
+     "points": 1,
+     "description": "De bijbehorende y-coördinaat is (−1 − 2 =) −3"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-drie-snijpunten-antw13.png"
+   ]
+  },
+  {
+   "title": "Drie snijpunten",
+   "question_number": 14,
+   "answer_text": "• Uit −1 + 2sin(x − ⅔π) = 0 volgt sin(x − ⅔π) = ½\n• Dit geeft x − ⅔π = ⅙π + k · 2π of x − ⅔π = ⅚π + k · 2π\n• Hieruit volgt x = ⅚π + k · 2π of x = 9/6π + k · 2π\n• De x-coördinaten van A, B en C zijn achtereenvolgens ⅚π, 9/6π en 2⅚π\n• De gevraagde factor is a = (2⅚π − 9/6π)/(9/6π − ⅚π) = 2\nof\n• Uit −1 + 2sin(x − ⅔π) = 0 volgt sin(x − ⅔π) = ½\n• Dit geeft voor de x-coördinaat van A: x − ⅔π = ⅙π dus x = ⅚π\n• Voor de x-coördinaat van de top tussen A en B geldt: x = x_P + π = ⅙π + π dus de x-coördinaat van B is 1⅙π + 2/6π = 1½π\n• De periode van f is 2π dus de x-coördinaat van C is 2⅚π\n• De gevraagde factor is a = (2⅚π − 1½π)/(9/6π − ⅚π) = 2",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Uit −1 + 2sin(x − ⅔π) = 0 volgt sin(x − ⅔π) = ½"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft x − ⅔π = ⅙π + k · 2π of x − ⅔π = ⅚π + k · 2π"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt x = ⅚π + k · 2π of x = 9/6π + k · 2π"
+    },
+    {
+     "points": 1,
+     "description": "De x-coördinaten van A, B en C zijn achtereenvolgens ⅚π, 9/6π en 2⅚π"
+    },
+    {
+     "points": 1,
+     "description": "De gevraagde factor is a = (2⅚π − 9/6π)/(9/6π − ⅚π) = 2"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-drie-snijpunten-antw14.png"
+   ]
+  },
+  {
+   "title": "Functie met log",
+   "question_number": 15,
+   "answer_text": "• Een verticale asymptoot treedt op als 2x² + 3x = 0\n• x(2x + 3) = 0\n• (x = 0 of x = −3/2 dus) de x-coördinaat van S is −3/2 (= −1½)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Een verticale asymptoot treedt op als 2x² + 3x = 0"
+    },
+    {
+     "points": 1,
+     "description": "x(2x + 3) = 0"
+    },
+    {
+     "points": 1,
+     "description": "(x = 0 of x = −3/2 dus) de x-coördinaat van S is −3/2 (= −1½)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-functie-met-log-antw15.png"
+   ]
+  },
+  {
+   "title": "Functie met log",
+   "question_number": 16,
+   "answer_text": "• Uit ⁴log(2/(2x² + 3x)) = 0 volgt 2/(2x² + 3x) = 1\n• Hieruit volgt 2x² + 3x = 2 dus 2x² + 3x − 2 = 0\n• Dit geeft (2x − 1)(x + 2) = 0 (of het gebruik van de abc-formule)\n• x = ½ of x = −2\n• Het eindantwoord: A(−2,0) en B(½,0)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Uit ⁴log(2/(2x² + 3x)) = 0 volgt 2/(2x² + 3x) = 1"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt 2x² + 3x = 2 dus 2x² + 3x − 2 = 0"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft (2x − 1)(x + 2) = 0 (of het gebruik van de abc-formule)"
+    },
+    {
+     "points": 1,
+     "description": "x = ½ of x = −2"
+    },
+    {
+     "points": 1,
+     "description": "Het eindantwoord: A(−2,0) en B(½,0)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-functie-met-log-antw16.png"
+   ]
+  },
+  {
+   "title": "Functie met log",
+   "question_number": 17,
+   "answer_text": "• ⁴log(2/(2x² + 3x)) is te schrijven als ⁴log(2) − ⁴log(2x² + 3x) (of ½ − ⁴log(2x² + 3x))\n• Dit is te schrijven als ⁴log(4^(½)) − ⁴log(x(2x + 3))\n• Dit is te schrijven als ½ − (⁴log(x) + ⁴log(2x + 3)) en dit is te schrijven als ½ − ⁴log(x) − ⁴log(2x + 3) (dus f(x) = ½ − ⁴log(x) − ⁴log(2x + 3))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "⁴log(2/(2x² + 3x)) is te schrijven als ⁴log(2) − ⁴log(2x² + 3x) (of ½ − ⁴log(2x² + 3x))"
+    },
+    {
+     "points": 1,
+     "description": "Dit is te schrijven als ⁴log(4^(½)) − ⁴log(x(2x + 3))"
+    },
+    {
+     "points": 1,
+     "description": "Dit is te schrijven als ½ − (⁴log(x) + ⁴log(2x + 3)) en dit is te schrijven als ½ − ⁴log(x) − ⁴log(2x + 3) (dus f(x) = ½ − ⁴log(x) − ⁴log(2x + 3))"
+    }
+   ],
+   "grading_note": "Als een kandidaat uitgaat van de tweede gegeven formule en daarmee de juistheid van de eerste formule aantoont, dit ook goed rekenen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-functie-met-log-antw17.png"
+   ]
+  },
+  {
+   "title": "In de schijnwerper",
+   "question_number": 18,
+   "answer_text": "• tan(25°) = r/300 met r de straal van de cirkelvormige lichtvlek\n• r = 139,89…\n• Het eindantwoord: (π · (139,89…)² = 61480,5… dus) 61481 (cm²)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "tan(25°) = r/300 met r de straal van de cirkelvormige lichtvlek"
+    },
+    {
+     "points": 1,
+     "description": "r = 139,89…"
+    },
+    {
+     "points": 1,
+     "description": "Het eindantwoord: (π · (139,89…)² = 61480,5… dus) 61481 (cm²)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-in-de-schijnwerper-antw18.png"
+   ]
+  },
+  {
+   "title": "In de schijnwerper",
+   "question_number": 19,
+   "answer_text": "• ∠VSQ = 50° + α en dus (∠PQS =) 180° − 90° − (50° + α) = 40° − α\n• Gebruik van de sinusregel (in driehoek PSQ) geeft SP/sin(40° − α) = 500/sin(50°)\n• Dit geeft SP = 500/sin(50°) · sin(40° − α) (≈ 653 · sin(40° − α))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "∠VSQ = 50° + α en dus (∠PQS =) 180° − 90° − (50° + α) = 40° − α"
+    },
+    {
+     "points": 1,
+     "description": "Gebruik van de sinusregel (in driehoek PSQ) geeft SP/sin(40° − α) = 500/sin(50°)"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft SP = 500/sin(50°) · sin(40° − α) (≈ 653 · sin(40° − α))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-in-de-schijnwerper-antw19.png"
+   ]
+  },
+  {
+   "title": "In de schijnwerper",
+   "question_number": 20,
+   "answer_text": "• De vergelijking 300/cos(α) = 653 · sin(40° − α) moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• α = 11,9…\n• Het eindantwoord: (11,9…° + 25° = 36,9…° dus) 37°",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 300/cos(α) = 653 · sin(40° − α) moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "α = 11,9…"
+    },
+    {
+     "points": 1,
+     "description": "Het eindantwoord: (11,9…° + 25° = 36,9…° dus) 37°"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-ii-in-de-schijnwerper-antw20.png"
+   ]
+  }
+ ]
+}

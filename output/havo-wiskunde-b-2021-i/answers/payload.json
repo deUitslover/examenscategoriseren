@@ -1,0 +1,494 @@
+{
+ "subject_name": "Wiskunde B",
+ "level": "HAVO",
+ "source": "HAVO Wiskunde B 2021-I",
+ "answers": [
+  {
+   "title": "Gebroken functie en wortelfunctie",
+   "question_number": 1,
+   "answer_text": "• f(x) = 1 + 3(4x − 3)⁻¹\n• De afgeleide van de term 3(4x − 3)⁻¹ is −3(4x − 3)⁻² · 4\n• f′(x) = −3(4x − 3)⁻² · 4, dus de helling is f′(0) = −4/3",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "f(x) = 1 + 3(4x − 3)⁻¹"
+    },
+    {
+     "points": 2,
+     "description": "De afgeleide van de term 3(4x − 3)⁻¹ is −3(4x − 3)⁻² · 4"
+    },
+    {
+     "points": 1,
+     "description": "f′(x) = −3(4x − 3)⁻² · 4, dus de helling is f′(0) = −4/3"
+    }
+   ],
+   "grading_note": "Voor het tweede antwoordelement mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-gebroken-functie-en-wortelfunctie-antw1.png"
+   ]
+  },
+  {
+   "title": "Gebroken functie en wortelfunctie",
+   "question_number": 2,
+   "answer_text": "• Uit 4x/(4x − 3) = √x volgt 16x²/(4x − 3)² = x\n• Hieruit volgt x(4x − 3)² = 16x²\n• Dit geeft (4x − 3)² = 16x (of x = 0, maar dat geeft punt O)\n• Herleiding tot 16x² − 40x + 9 = 0\n• De abc-formule geeft x = (40 ± √((−40)² − 4 · 16 · 9))/(2 · 16)\n• Dus x = ¼ of x = 2¼; de x-coördinaat van B is 2¼ (x = ¼ voldoet niet)\nof\n• 4x/(4x − 3) = √x geeft (4x − 3)√x = 4x\n• 4x − 3 = 4√x (of x = 0, maar dat geeft punt O)\n• Hieruit volgt (4x − 3)² = 16x\n• Herleiding tot 16x² − 40x + 9 = 0\n• De abc-formule geeft x = (40 ± √((−40)² − 4 · 16 · 9))/(2 · 16)\n• Dus x = ¼ of x = 2¼; de x-coördinaat van B is 2¼ (x = ¼ voldoet niet)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Uit 4x/(4x − 3) = √x volgt 16x²/(4x − 3)² = x"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt x(4x − 3)² = 16x²"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft (4x − 3)² = 16x (of x = 0, maar dat geeft punt O)"
+    },
+    {
+     "points": 1,
+     "description": "Herleiding tot 16x² − 40x + 9 = 0"
+    },
+    {
+     "points": 1,
+     "description": "De abc-formule geeft x = (40 ± √((−40)² − 4 · 16 · 9))/(2 · 16)"
+    },
+    {
+     "points": 1,
+     "description": "Dus x = ¼ of x = 2¼; de x-coördinaat van B is 2¼ (x = ¼ voldoet niet)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-gebroken-functie-en-wortelfunctie-antw2.png"
+   ]
+  },
+  {
+   "title": "Gebroken functie en wortelfunctie",
+   "question_number": 3,
+   "answer_text": "• (Voor grote waarden van x geldt 3/(4x − 3) ≈ 0, dus) de horizontale asymptoot heeft vergelijking y = 1 (en dit is de y-coördinaat van S)\n• (4x − 3 = 0 voor x = ¾, dus) de verticale asymptoot heeft vergelijking x = ¾\n• R heeft y-coördinaat g(¾) = √(3/4)\n• De afstand is dus 1 − √(3/4) (of een gelijkwaardige vorm)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(Voor grote waarden van x geldt 3/(4x − 3) ≈ 0, dus) de horizontale asymptoot heeft vergelijking y = 1 (en dit is de y-coördinaat van S)"
+    },
+    {
+     "points": 1,
+     "description": "(4x − 3 = 0 voor x = ¾, dus) de verticale asymptoot heeft vergelijking x = ¾"
+    },
+    {
+     "points": 1,
+     "description": "R heeft y-coördinaat g(¾) = √(3/4)"
+    },
+    {
+     "points": 1,
+     "description": "De afstand is dus 1 − √(3/4) (of een gelijkwaardige vorm)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-gebroken-functie-en-wortelfunctie-antw3.png"
+   ]
+  },
+  {
+   "title": "Twee cirkels en twee lijnen",
+   "question_number": 4,
+   "answer_text": "• (y = ½x + 4½ invullen in x² − 4x + y² − 6y = −8 geeft voor de snijpunten van c₁ en k) x² − 4x + (½x + 4½)² − 6(½x + 4½) = −8\n• 1¼x² − 2½x + 1¼ = 0 (of een gelijkwaardige vergelijking van de vorm ax² + bx + c = 0)\n• D = (−2½) − 4 · 1¼ · 1¼ = 0, dus k raakt cirkel c₁\nof\n• (y = ½x + 4½ invullen in x² − 4x + y² − 6y = −8 geeft voor de snijpunten van c₁ en k) x² − 4x + (½x + 4½)² − 6(½x + 4½) = −8\n• 1¼x² − 2½x + 1¼ = 0 (of een gelijkwaardige vergelijking van de vorm ax² + bx + c = 0)\n• Exact oplossen geeft (één oplossing, namelijk) x = 1, dus k raakt cirkel c₁",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(y = ½x + 4½ invullen in x² − 4x + y² − 6y = −8 geeft voor de snijpunten van c₁ en k) x² − 4x + (½x + 4½)² − 6(½x + 4½) = −8"
+    },
+    {
+     "points": 1,
+     "description": "1¼x² − 2½x + 1¼ = 0 (of een gelijkwaardige vergelijking van de vorm ax² + bx + c = 0)"
+    },
+    {
+     "points": 1,
+     "description": "D = (−2½) − 4 · 1¼ · 1¼ = 0, dus k raakt cirkel c₁"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-twee-cirkels-en-twee-lijnen-antw4.png"
+   ]
+  },
+  {
+   "title": "Twee cirkels en twee lijnen",
+   "question_number": 5,
+   "answer_text": "• Uit x² − 4x + y² − 6y = −8 volgt (x − 2)² − 4 + (y − 3)² − 9 = −8\n• De coördinaten van M zijn (2,3)\n• (rcₖ · rcₗ = −1, dus) rcₗ = −2\n• Hieruit volgt y_S = 7\n• Voor de straal r van c₂ geldt r² = 2² + (3 − 7)² = 20\n• Een vergelijking van c₂ is x² + (y − 7)² = 20\nof\n• Uit x² − 4x + y² − 6y = −8 volgt (x − 2)² − 4 + (y − 3)² − 9 = −8\n• De coördinaten van M zijn (2,3)\n• Een exacte berekening waaruit volgt dat de coördinaten van T(1,5) zijn, waarbij T het raakpunt van k en c₁ is, dus de richtingscoëfficiënt van l is (3 − 5)/(2 − 1) = −2\n• Hieruit volgt y_S = 7\n• Een vergelijking van c₂ is van de vorm x² + (y − 7)² = r²; invullen van de coördinaten van M geeft 2² + (3 − 7)² = r²\n• Een vergelijking van c₂ is x² + (y − 7)² = 20",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Uit x² − 4x + y² − 6y = −8 volgt (x − 2)² − 4 + (y − 3)² − 9 = −8"
+    },
+    {
+     "points": 1,
+     "description": "De coördinaten van M zijn (2,3)"
+    },
+    {
+     "points": 1,
+     "description": "(rcₖ · rcₗ = −1, dus) rcₗ = −2"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt y_S = 7"
+    },
+    {
+     "points": 1,
+     "description": "Voor de straal r van c₂ geldt r² = 2² + (3 − 7)² = 20"
+    },
+    {
+     "points": 1,
+     "description": "Een vergelijking van c₂ is x² + (y − 7)² = 20"
+    }
+   ],
+   "grading_note": "Als in de beantwoording van deze vraag gebruikgemaakt wordt van foutieve tussenantwoorden in vraag 4, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-twee-cirkels-en-twee-lijnen-antw5.png"
+   ]
+  },
+  {
+   "title": "Oppervlakte onder een grafiek",
+   "question_number": 6,
+   "answer_text": "• De x-coördinaat van de top is −1/(2 · ¼) = −2\n• f(−2) = ¼ · (−2)² + −2 + 1 = 0 (dus de top van de parabool ligt op de x-as)\nof\n• f′(x) = ½x + 1; uit f′(x) = 0 volgt dat de x-coördinaat van de top −2 is\n• f(−2) = ¼ · (−2)² + −2 + 1 = 0 (dus de top van de parabool ligt op de x-as)\nof\n• De discriminant D van de vergelijking ¼x² + x + 1 = 0 moet nul zijn\n• D = 1² − 4 · ¼ · 1 = 0 (dus de top van de parabool ligt op de x-as)\nof\n• f(x) = ¼(x² + 4x + 4) = ¼(x + 2)²\n• Dus de coördinaten van de top zijn (−2,0) (dus de top van de parabool ligt op de x-as)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De x-coördinaat van de top is −1/(2 · ¼) = −2"
+    },
+    {
+     "points": 1,
+     "description": "f(−2) = ¼ · (−2)² + −2 + 1 = 0 (dus de top van de parabool ligt op de x-as)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-oppervlakte-onder-een-grafiek-antw6.png"
+   ]
+  },
+  {
+   "title": "Oppervlakte onder een grafiek",
+   "question_number": 7,
+   "answer_text": "• ⅔(½p + 1)³ − ⅔ = 42 geeft ⅔(½p + 1)³ = 42⅔\n• (½p + 1)³ = 64\n• ½p + 1 = 4\n• p = 6",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "⅔(½p + 1)³ − ⅔ = 42 geeft ⅔(½p + 1)³ = 42⅔"
+    },
+    {
+     "points": 1,
+     "description": "(½p + 1)³ = 64"
+    },
+    {
+     "points": 1,
+     "description": "½p + 1 = 4"
+    },
+    {
+     "points": 1,
+     "description": "p = 6"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-oppervlakte-onder-een-grafiek-antw7.png"
+   ]
+  },
+  {
+   "title": "Oppervlakte onder een grafiek",
+   "question_number": 8,
+   "answer_text": "• f′(x) = ½x + 1\n• f′(½) = ½ · ½ + 1 = 1¼\n• Uit 1¼ · ½ + b = 1 9/16 volgt b = 15/16 (dus y = 1¼x + 15/16 is inderdaad een vergelijking van l)\nof\n• f′(x) = ½x + 1\n• f′(½) = ½ · ½ + 1 = 1¼\n• y = 1¼ · ½ + 15/16 = 1 9/16 (en dit is de y-coördinaat van R, dus y = 1¼x + 15/16 is inderdaad een vergelijking van l)\nof\n• De vergelijking ¼x² + x + 1 = 1¼x + 15/16 moet één oplossing hebben, namelijk x = ½\n• De discriminant D van de vergelijking ¼x² − ¼x + 1/16 = 0 is D = (−¼)² − 4 · ¼ · 1/16 = 0 (lijn l is dus een raaklijn)\n• y = 1¼ · ½ + 15/16 = 1 9/16 (dus R ligt op lijn l, dus l is de raaklijn in R, dus y = 1¼x + 15/16 is inderdaad een vergelijking van l)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "f′(x) = ½x + 1"
+    },
+    {
+     "points": 1,
+     "description": "f′(½) = ½ · ½ + 1 = 1¼"
+    },
+    {
+     "points": 1,
+     "description": "Uit 1¼ · ½ + b = 1 9/16 volgt b = 15/16 (dus y = 1¼x + 15/16 is inderdaad een vergelijking van l)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-oppervlakte-onder-een-grafiek-antw8.png"
+   ]
+  },
+  {
+   "title": "Oppervlakte onder een grafiek",
+   "question_number": 9,
+   "answer_text": "• De oppervlakte van het gebied in figuur 1 is (⅔ · (½ · 1 + 1)³ − ⅔ =) 1 7/12 (of 1,5833…)\n• De oppervlakte van vierhoek OSMK is gelijk aan de som van de oppervlakte van rechthoek OSLK en de oppervlakte van driehoek KLM (met L de loodrechte projectie van K op m)\n• De y-coördinaat van K is 15/16, de y-coördinaat van M is (15/16 + 1¼ =) 2 3/16 (of 2,1875)\n• De oppervlakte van driehoek KLM is (2 3/16 − 15/16) · 1 · ½ = ⅝ (of 0,625), de oppervlakte van rechthoek OSLK is (1 · 15/16 =) 15/16 (of 0,9375)\n• (⅝ + 15/16 − 1 7/12)/(1 7/12) · 100 (= −1,31…), dus de afwijking is (−)1,3(%)\nof\n• De oppervlakte van het gebied in figuur 1 is (⅔ · (½ · 1 + 1)³ − ⅔ =) 1 7/12 (of 1,5833…)\n• Toelichting op de berekening van de oppervlakte van vierhoek OSMK, bijvoorbeeld door de basis met de gemiddelde hoogte te vermenigvuldigen\n• De oppervlakte van vierhoek OSMK is gelijk aan 1 9/16 · 1\n• (1 · 1 9/16 − 1 7/12)/(1 7/12) · 100 (= −1,31…), dus de afwijking is (−)1,3(%)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De oppervlakte van het gebied in figuur 1 is (⅔ · (½ · 1 + 1)³ − ⅔ =) 1 7/12 (of 1,5833…)"
+    },
+    {
+     "points": 1,
+     "description": "De oppervlakte van vierhoek OSMK is gelijk aan de som van de oppervlakte van rechthoek OSLK en de oppervlakte van driehoek KLM (met L de loodrechte projectie van K op m)"
+    },
+    {
+     "points": 1,
+     "description": "De y-coördinaat van K is 15/16, de y-coördinaat van M is (15/16 + 1¼ =) 2 3/16 (of 2,1875)"
+    },
+    {
+     "points": 1,
+     "description": "De oppervlakte van driehoek KLM is (2 3/16 − 15/16) · 1 · ½ = ⅝ (of 0,625), de oppervlakte van rechthoek OSLK is (1 · 15/16 =) 15/16 (of 0,9375)"
+    },
+    {
+     "points": 1,
+     "description": "(⅝ + 15/16 − 1 7/12)/(1 7/12) · 100 (= −1,31…), dus de afwijking is (−)1,3(%)"
+    }
+   ],
+   "grading_note": "Voor het tweede antwoordelement van het tweede antwoordalternatief mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-oppervlakte-onder-een-grafiek-antw9.png"
+   ]
+  },
+  {
+   "title": "Roeien",
+   "question_number": 10,
+   "answer_text": "• De cosinusregel in driehoek H₁K₁V geeft H₁V² = 48² + 42² − 2 · 48 · 42 · cos(60°)\n• (H₁V² = 2052, dus) H₁V = √2052 (cm) (of een gelijkwaardige vorm)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De cosinusregel in driehoek H₁K₁V geeft H₁V² = 48² + 42² − 2 · 48 · 42 · cos(60°)"
+    },
+    {
+     "points": 1,
+     "description": "(H₁V² = 2052, dus) H₁V = √2052 (cm) (of een gelijkwaardige vorm)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-roeien-antw10.png"
+   ]
+  },
+  {
+   "title": "Roeien",
+   "question_number": 11,
+   "answer_text": "• A₁V = √(45,3² − 15²) = 42,74…\n• H₃V = √((45 + 42,74…)² + 15²) = 89,01…\n• De cosinusregel in driehoek H₃K₃V geeft 89,01…² = 48² + 42² − 2 · 48 · 42 · cos ∠H₃K₃V\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• (Hieruit volgt ∠H₃K₃V = 163,0…(°)) dus het eindantwoord is 163(°)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "A₁V = √(45,3² − 15²) = 42,74…"
+    },
+    {
+     "points": 1,
+     "description": "H₃V = √((45 + 42,74…)² + 15²) = 89,01…"
+    },
+    {
+     "points": 1,
+     "description": "De cosinusregel in driehoek H₃K₃V geeft 89,01…² = 48² + 42² − 2 · 48 · 42 · cos ∠H₃K₃V"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "(Hieruit volgt ∠H₃K₃V = 163,0…(°)) dus het eindantwoord is 163(°)"
+    }
+   ],
+   "grading_note": "Als een kandidaat gerekend heeft met de waarde √2052 voor H₁V, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-roeien-antw11.png"
+   ]
+  },
+  {
+   "title": "Een sinusoïde en nog een sinusoïde",
+   "question_number": 12,
+   "answer_text": "• De periode van f is 2π/(¼π) = 8\n• Dus x_A = (8/2 =) 4\n• x_B = 8 + ¼ · 8 = 10\n• y_B = 3 (want de evenwichtsstand is 0 en de amplitude is 3)\n• tan(α) = 3/(10 − 4) (= ½)\n• (Hieruit volgt α = 26,5…(°)) dus het eindantwoord is 27(°)\nof\n• Voor x_A geldt 3sin(¼πx) = 0, waaruit volgt ¼πx = 0 + k · π (of ¼πx = π)\n• Voor x_B geldt 3sin(¼πx) = 3, waaruit volgt ¼πx = ½π + k · 2π (of ¼πx = 2½π)\n• Dit geeft x_A = 4 en x_B = 10\n• y_B = 3 (want de evenwichtsstand is 0 en de amplitude is 3)\n• tan(α) = 3/(10 − 4) (= ½)\n• (Hieruit volgt α = 26,5…(°)) dus het eindantwoord is 27(°)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De periode van f is 2π/(¼π) = 8"
+    },
+    {
+     "points": 1,
+     "description": "Dus x_A = (8/2 =) 4"
+    },
+    {
+     "points": 1,
+     "description": "x_B = 8 + ¼ · 8 = 10"
+    },
+    {
+     "points": 1,
+     "description": "y_B = 3 (want de evenwichtsstand is 0 en de amplitude is 3)"
+    },
+    {
+     "points": 1,
+     "description": "tan(α) = 3/(10 − 4) (= ½)"
+    },
+    {
+     "points": 1,
+     "description": "(Hieruit volgt α = 26,5…(°)) dus het eindantwoord is 27(°)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-een-sinusoide-en-nog-een-sinusoide-antw12.png"
+   ]
+  },
+  {
+   "title": "Een sinusoïde en nog een sinusoïde",
+   "question_number": 13,
+   "answer_text": "• De evenwichtsstand is (1½ + −1)/2 = ¼, dus d = ¼\n• De amplitude is 1½ − ¼ = 1¼, dus a = 1¼\n• 3sin(¼πx) = 1½ geeft sin(¼πx) = ½\n• Hieruit volgt ¼πx = ⅙π + k · 2π of ¼πx = ⅚π + k · 2π\n• Dit geeft x_K = ⅔ en x_L = 11⅓\n• (K is de eerste top rechts van de y-as, dus) c = ⅔\n• De periode is 11⅓ − ⅔ = 10⅔, dus b = 2π/(10⅔) = (3/16)π",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De evenwichtsstand is (1½ + −1)/2 = ¼, dus d = ¼"
+    },
+    {
+     "points": 1,
+     "description": "De amplitude is 1½ − ¼ = 1¼, dus a = 1¼"
+    },
+    {
+     "points": 1,
+     "description": "3sin(¼πx) = 1½ geeft sin(¼πx) = ½"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt ¼πx = ⅙π + k · 2π of ¼πx = ⅚π + k · 2π"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft x_K = ⅔ en x_L = 11⅓"
+    },
+    {
+     "points": 1,
+     "description": "(K is de eerste top rechts van de y-as, dus) c = ⅔"
+    },
+    {
+     "points": 1,
+     "description": "De periode is 11⅓ − ⅔ = 10⅔, dus b = 2π/(10⅔) = (3/16)π"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-een-sinusoide-en-nog-een-sinusoide-antw13.png"
+   ]
+  },
+  {
+   "title": "Driehoek met maximale oppervlakte",
+   "question_number": 14,
+   "answer_text": "• f′(x) = 1½x^(−½) − 2 (of een gelijkwaardige vorm)\n• 1½x^(−½) − 2 = 0 geeft 1½x^(−½) = 2\n• Dit geeft x^(−½) = 4/3, dus x = (4/3)⁻² = 9/16\n• Dus y = 2⅛ (dus T(9/16, 2⅛))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "f′(x) = 1½x^(−½) − 2 (of een gelijkwaardige vorm)"
+    },
+    {
+     "points": 1,
+     "description": "1½x^(−½) − 2 = 0 geeft 1½x^(−½) = 2"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft x^(−½) = 4/3, dus x = (4/3)⁻² = 9/16"
+    },
+    {
+     "points": 1,
+     "description": "Dus y = 2⅛ (dus T(9/16, 2⅛))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-driehoek-met-maximale-oppervlakte-antw14.png"
+   ]
+  },
+  {
+   "title": "Driehoek met maximale oppervlakte",
+   "question_number": 15,
+   "answer_text": "• AP = f(x)\n• De oppervlakte van driehoek OAP is ½ · x · f(x)\n• Beschrijven hoe hiervan het maximum gevonden kan worden\n• Het eindantwoord is 1,285",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "AP = f(x)"
+    },
+    {
+     "points": 1,
+     "description": "De oppervlakte van driehoek OAP is ½ · x · f(x)"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe hiervan het maximum gevonden kan worden"
+    },
+    {
+     "points": 1,
+     "description": "Het eindantwoord is 1,285"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-driehoek-met-maximale-oppervlakte-antw15.png"
+   ]
+  },
+  {
+   "title": "De invloed van leeftijd op hardloopprestaties",
+   "question_number": 16,
+   "answer_text": "• De groeifactor per jaar is 0,992\n• Volgens model 1 is zijn gemiddelde snelheid na 12 jaar gelijk aan 19,5 · 0,992¹² (= 17,70…) (km/uur)\n• Dat geeft een tijd van 21,0975/17,70… (= 1,19…) (uur)\n• Dit is gelijk aan 1,19… · 60 · 60 = 4289,0… (seconden)\n• Zijn werkelijke tijd was 60 · 60 + 10 · 60 + 4 = 4204 (seconden), dus hij was (4289 − 4204 =) 85 (seconden) sneller dan model 1 voorspelt",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De groeifactor per jaar is 0,992"
+    },
+    {
+     "points": 1,
+     "description": "Volgens model 1 is zijn gemiddelde snelheid na 12 jaar gelijk aan 19,5 · 0,992¹² (= 17,70…) (km/uur)"
+    },
+    {
+     "points": 1,
+     "description": "Dat geeft een tijd van 21,0975/17,70… (= 1,19…) (uur)"
+    },
+    {
+     "points": 1,
+     "description": "Dit is gelijk aan 1,19… · 60 · 60 = 4289,0… (seconden)"
+    },
+    {
+     "points": 1,
+     "description": "Zijn werkelijke tijd was 60 · 60 + 10 · 60 + 4 = 4204 (seconden), dus hij was (4289 − 4204 =) 85 (seconden) sneller dan model 1 voorspelt"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-de-invloed-van-leeftijd-op-hardloopprestaties-antw16.png"
+   ]
+  },
+  {
+   "title": "De invloed van leeftijd op hardloopprestaties",
+   "question_number": 17,
+   "answer_text": "• De groeifactor per 13 jaar is gelijk aan 0,9039/0,9920 (= 0,9111…)\n• De groeifactor per jaar is gelijk aan 0,9111…^(1/13) (= 0,9928…)\n• Het correctiegetal voor 47-jarigen is 0,9920 · 0,9928…¹¹ = 0,9169… (of 0,9039/0,9928…² = 0,9169…)\n• Het omrekenen van de tijd van Laros naar een tijd die hoort bij een 30-jarige met een gelijkwaardige prestatie: 4279 · 0,9169… = 3923,… (s)\n• Het omrekenen van de tijd van Meijwes naar een tijd die hoort bij een 30-jarige met een gelijkwaardige prestatie: 4130 · 0,9920 = 4096,… (s)\n• (Een tijd van 3923,… seconden is beter dan een tijd van 4096,… seconden, dus) Laros heeft de beste prestatie geleverd\nof\n• De groeifactor per 13 jaar is gelijk aan 0,9039/0,9920 (= 0,9111…)\n• De groeifactor per jaar is gelijk aan 0,9111…^(1/13) (= 0,9928…)\n• Het inzicht dat de tijd van een 47-jarige omgerekend kan worden naar een tijd die hoort bij een 36-jarige met een gelijkwaardige prestatie\n• Het correctiegetal hiervoor is 0,9928…¹¹ (= 0,9243…)\n• Het omrekenen van de tijd van Laros naar een tijd die hoort bij een 36-jarige met een gelijkwaardige prestatie: 4279 · 0,9243… = 3955,… (s)\n• (Een tijd van 3955,… seconden is beter dan een tijd van 4130 seconden, dus) Laros heeft de beste prestatie geleverd",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De groeifactor per 13 jaar is gelijk aan 0,9039/0,9920 (= 0,9111…)"
+    },
+    {
+     "points": 1,
+     "description": "De groeifactor per jaar is gelijk aan 0,9111…^(1/13) (= 0,9928…)"
+    },
+    {
+     "points": 1,
+     "description": "Het correctiegetal voor 47-jarigen is 0,9920 · 0,9928…¹¹ = 0,9169… (of 0,9039/0,9928…² = 0,9169…)"
+    },
+    {
+     "points": 1,
+     "description": "Het omrekenen van de tijd van Laros naar een tijd die hoort bij een 30-jarige met een gelijkwaardige prestatie: 4279 · 0,9169… = 3923,… (s)"
+    },
+    {
+     "points": 1,
+     "description": "Het omrekenen van de tijd van Meijwes naar een tijd die hoort bij een 30-jarige met een gelijkwaardige prestatie: 4130 · 0,9920 = 4096,… (s)"
+    },
+    {
+     "points": 1,
+     "description": "(Een tijd van 3923,… seconden is beter dan een tijd van 4096,… seconden, dus) Laros heeft de beste prestatie geleverd"
+    }
+   ],
+   "grading_note": "Als correctiegetallen in de berekening worden afgerond op vier decimalen en daarmee verder wordt gerekend, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-i-de-invloed-van-leeftijd-op-hardloopprestaties-antw17.png"
+   ]
+  }
+ ]
+}
