@@ -1,0 +1,59 @@
+{
+  "source": "HAVO Wiskunde B 2021-I",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Gebroken functie en wortelfunctie",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Twee cirkels en twee lijnen",
+      "question_numbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Oppervlakte onder een grafiek",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Roeien",
+      "question_numbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Een sinusoïde en nog een sinusoïde",
+      "question_numbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Driehoek met maximale oppervlakte",
+      "question_numbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "title": "De invloed van leeftijd op hardloopprestaties",
+      "question_numbers": [
+        16,
+        17
+      ]
+    }
+  ]
+}

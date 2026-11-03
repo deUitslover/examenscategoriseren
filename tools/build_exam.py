@@ -322,6 +322,9 @@ def main():
         for it in op["items"]:
             page = doc[it["page"]]
             pix = render_item(page, it, windows, hashes, render_page=rdoc[it["page"]])
+            if pix.width <= 0 or pix.height <= 0:
+                sys.exit(f"empty render for plan item {it['key']} ({it['kind']} y={it['y0']:.1f}-{it['y1']:.1f}): "
+                         "check --merge/--drop/--trim specs for this item")
             text = fix_symbol_font(item_text(page, it))
             if it["kind"] == "vraag" and "attach_to" not in it:
                 vraag_pix[it["num"]] = [pix]
