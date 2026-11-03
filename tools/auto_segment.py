@@ -62,9 +62,18 @@ def header_line_y(page, max_y=100.0):
     2019-I" + logo, top of every page in the 2019+ layout), or None.
     Nothing above it may end up in a crop.
     """
+    lines = None
     for d in page.get_drawings():
         r = d["rect"]
         if r.width > 300 and r.height < 1.5 and r.y0 < max_y:
+            # the top edge of an "uitwerkbijlage" kader right under a vraag
+            # at the top of the page is no running header: the header has
+            # at most one text line above it (HAVO-WISB-21-I-O.pdf p.10,
+            # vraag 11 rendered empty)
+            if lines is None:
+                lines = text_lines(page)
+            if sum(1 for l in lines if l[3] <= r.y0 + 0.5) > 1:
+                continue
             return r.y1
     return None
 

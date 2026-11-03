@@ -1,0 +1,62 @@
+{
+  "source": "HAVO Wiskunde B 2021-II",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Rakende grafieken",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Stedelijke gebieden",
+      "question_numbers": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Rechthoek om cirkels",
+      "question_numbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Exoten en rodelijstsoorten",
+      "question_numbers": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Drie snijpunten",
+      "question_numbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Functie met log",
+      "question_numbers": [
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "In de schijnwerper",
+      "question_numbers": [
+        18,
+        19,
+        20
+      ]
+    }
+  ]
+}
