@@ -1,0 +1,53 @@
+{
+  "source": "HAVO Wiskunde A 2023-I",
+  "subject_name": "Wiskunde A",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Huisartsenzorg",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Mobiel dataverbruik",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Bewegen jongeren genoeg?",
+      "question_numbers": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Formules in de F1",
+      "question_numbers": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Wel het huis, maar niet de grond",
+      "question_numbers": [
+        21
+      ]
+    }
+  ]
+}
