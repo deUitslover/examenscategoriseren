@@ -101,6 +101,13 @@ def _vnum(page, v):
     for l in rows:
         if re.fullmatch(r"\d{1,2}", l[4].strip()):
             return int(l[4])
+    # "4p" on its own line and "17  Bereken a exact." as one line
+    # (HAVO-WISB-22-III-O.pdf p.11 vraag 17): number glued to the body text
+    if any(re.fullmatch(r"\d+\s*p", l[4].strip()) for l in rows):
+        for l in rows:
+            m = re.match(r"^\s*(\d{1,2})\s+\S", l[4])
+            if m:
+                return int(m.group(1))
     return None
 
 

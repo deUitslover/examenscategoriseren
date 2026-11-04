@@ -1,0 +1,65 @@
+{
+  "source": "HAVO Wiskunde B 2022-III",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Zuigflesje",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Hyperbool met cirkels",
+      "question_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Het rendement van warmtemotoren",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Cosinus en lijnen",
+      "question_numbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Wortelfunctie",
+      "question_numbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Brug",
+      "question_numbers": [
+        14
+      ]
+    },
+    {
+      "title": "Ingeschreven cirkel",
+      "question_numbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Exponentiële functie",
+      "question_numbers": [
+        17,
+        18
+      ]
+    }
+  ]
+}
