@@ -1,0 +1,536 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde A 2021-III",
+  "answers": [
+   {
+    "title": "Portieprijs",
+    "question_number": 1,
+    "answer_text": "• De vuilprijs is 55/4 (= 13,75) (€/kg) (1 punt)\n• De schoonprijs is 13,75 · 2,6 (= 35,75) (€/kg) (1 punt)\n• 35,75 · 0,2 = 7,15, dus de portieprijs is (€) 7,15 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vuilprijs is 55/4 (= 13,75) (€/kg)"
+     },
+     {
+      "points": 1,
+      "description": "De schoonprijs is 13,75 · 2,6 (= 35,75) (€/kg)"
+     },
+     {
+      "points": 1,
+      "description": "35,75 · 0,2 = 7,15, dus de portieprijs is (€) 7,15"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-portieprijs-antw1.png"
+    ]
+   },
+   {
+    "title": "Portieprijs",
+    "question_number": 2,
+    "answer_text": "• De (maximale) schoonprijs is 5 · 1000/250 (= 20,00) (€/kg) (1 punt)\n• De (maximale) vuilprijs is 20/1,6 (= 12,50) (€/kg) (1 punt)\n• Sven wil voor de hele vis (maximaal) 12,50 · 6 = 75 (€) betalen (1 punt)\n\nof\n\n• Van de 6 (kg) houdt hij 1/1,6 deel schoongemaakte zalm over, ofwel 3,75 (kg) (1 punt)\n• Dat zijn 3,75/0,25 (= 15) porties (1 punt)\n• Sven wil voor de hele vis (maximaal) 15 · 5 = 75 (€) betalen (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De (maximale) schoonprijs is 5 · 1000/250 (= 20,00) (€/kg)"
+     },
+     {
+      "points": 1,
+      "description": "De (maximale) vuilprijs is 20/1,6 (= 12,50) (€/kg)"
+     },
+     {
+      "points": 1,
+      "description": "Sven wil voor de hele vis (maximaal) 12,50 · 6 = 75 (€) betalen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-portieprijs-antw2.png"
+    ]
+   },
+   {
+    "title": "Portieprijs",
+    "question_number": 3,
+    "answer_text": "• De gast betaalt per gram tong (23,00 − 2,00)/300 (= 0,07) (€) (1 punt)\n• De tong kost het restaurant per gram 46,00/1000 (= 0,046) (€) en de tonijn kost het restaurant per gram 27,60/1000 (= 0,0276) (€) (1 punt)\n• De verdiensten per gram tong zijn 0,07 − 0,046 (= 0,024) (€) (1 punt)\n• De gast moet per gram tonijn (minstens) 0,0276 + 0,024 = 0,0516 (€) betalen (1 punt)\n• Sven moet de tonijn voor (minstens) (0,0516 · 250 + 2,00 = 14,90, dus) (€) 14,90 op de menukaart zetten (2 punten)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De gast betaalt per gram tong (23,00 − 2,00)/300 (= 0,07) (€)"
+     },
+     {
+      "points": 1,
+      "description": "De tong kost het restaurant per gram 46,00/1000 (= 0,046) (€) en de tonijn kost het restaurant per gram 27,60/1000 (= 0,0276) (€)"
+     },
+     {
+      "points": 1,
+      "description": "De verdiensten per gram tong zijn 0,07 − 0,046 (= 0,024) (€)"
+     },
+     {
+      "points": 1,
+      "description": "De gast moet per gram tonijn (minstens) 0,0276 + 0,024 = 0,0516 (€) betalen"
+     },
+     {
+      "points": 2,
+      "description": "Sven moet de tonijn voor (minstens) (0,0516 · 250 + 2,00 = 14,90, dus) (€) 14,90 op de menukaart zetten"
+     }
+    ],
+    "grading_note": "Voor het vijfde antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-portieprijs-antw3.png"
+    ]
+   },
+   {
+    "title": "Portieprijs",
+    "question_number": 4,
+    "answer_text": "• Als V twee keer zo groot wordt, dan wordt ook S twee keer zo groot (1 punt)\n• Als S twee keer zo groot wordt, dan wordt ook P twee keer zo groot (1 punt)\n• Dus: P wordt twee keer zo groot als V twee keer zo groot wordt (1 punt)\n\nof\n\n• Er is een (recht) evenredig verband tussen S en V (1 punt)\n• Er is ook een (recht) evenredig verband tussen P en S (1 punt)\n• Dus: als V twee keer zo groot wordt, wordt S ook twee keer zo groot en dus wordt P ook twee keer zo groot (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als V twee keer zo groot wordt, dan wordt ook S twee keer zo groot"
+     },
+     {
+      "points": 1,
+      "description": "Als S twee keer zo groot wordt, dan wordt ook P twee keer zo groot"
+     },
+     {
+      "points": 1,
+      "description": "Dus: P wordt twee keer zo groot als V twee keer zo groot wordt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-portieprijs-antw4.png"
+    ]
+   },
+   {
+    "title": "Portieprijs",
+    "question_number": 5,
+    "answer_text": "• A = (1000 · G)/(2,6 · 150) (1 punt)\n• A = 2,56… · G (1 punt)\n• G = 0,39 · A (1 punt)\n\nof\n\n• A = (1000 · G)/(2,6 · 150) (1 punt)\n• A · 2,6 · 150 = 1000 · G (1 punt)\n• G = 0,39 · A (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "A = (1000 · G)/(2,6 · 150)"
+     },
+     {
+      "points": 1,
+      "description": "A = 2,56… · G"
+     },
+     {
+      "points": 1,
+      "description": "G = 0,39 · A"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-portieprijs-antw5.png"
+    ]
+   },
+   {
+    "title": "Extreem hoogwater",
+    "question_number": 6,
+    "answer_text": "• Aflezen: f = 500 (1 punt)\n• (dit is 500 keer per 10000 jaar, dus) het antwoord: 5 (keer per 100 jaar) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Aflezen: f = 500"
+     },
+     {
+      "points": 1,
+      "description": "(dit is 500 keer per 10000 jaar, dus) het antwoord: 5 (keer per 100 jaar)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-extreem-hoogwater-antw6.png"
+    ]
+   },
+   {
+    "title": "Extreem hoogwater",
+    "question_number": 7,
+    "answer_text": "• De groeifactor per 2 meter is 1/600 (= 0,0016…) (1 punt)\n• De groeifactor per meter is (1/600)¹ᐟ² (1 punt)\n• Het antwoord: 0,0408 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De groeifactor per 2 meter is 1/600 (= 0,0016…)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per meter is (1/600)¹ᐟ²"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 0,0408"
+     }
+    ],
+    "grading_note": "– Als gerekend wordt met (1 − 600)¹ᐟ² of (600 − 1)¹ᐟ², voor deze vraag maximaal 1 scorepunt toekennen.\n– Als gerekend wordt met 1/600 : 2, voor deze vraag maximaal 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-extreem-hoogwater-antw7.png"
+    ]
+   },
+   {
+    "title": "Extreem hoogwater",
+    "question_number": 8,
+    "answer_text": "• De vergelijking 0,041ᵂ = 1/2 moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• De oplossing is W = 0,21… (1 punt)\n• Het antwoord: 0,2 (m) (1 punt)\n\nof\n\n• Bijvoorbeeld, op basis van het punt (3, 600) moet de vergelijking 8,8 · 10⁶ · 0,041ᵂ = 300 worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• De oplossing is W = 3,22… (1 punt)\n• 3,22 − 3 = 0,22…, dus het antwoord is 0,2 (m) (1 punt)\n\nof\n\n• Het kiezen van twee punten op de lijn van Hoek van Holland waarvan de overschrijdingsfrequenties een factor 2 verschillen (1 punt)\n• Bijvoorbeeld, bij f = 600 is W = 3,00 en bij f = 300 is W = 3,2 (2 punten)\n• 3,2 − 3,00 = 0,2, dus het antwoord is 0,2 (m) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 0,041ᵂ = 1/2 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing is W = 0,21…"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 0,2 (m)"
+     }
+    ],
+    "grading_note": "– Er mag zijn doorgerekend met de in de vorige vraag berekende nietafgeronde waarde van de groeifactor.\n– Bij het aflezen van de waarden van W is de toegestane afleesmarge 0,05 m.\n– Voor het tweede antwoordelement van het derde antwoordalternatief mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-extreem-hoogwater-antw8.png"
+    ]
+   },
+   {
+    "title": "Extreem hoogwater",
+    "question_number": 9,
+    "answer_text": "• De verticale afstand tussen de grafieken van HvH en VL moet gelijk zijn aan één macht van 10 (1 punt)\n• In de figuur op de uitwerkbijlage de bijbehorende afstand van 2 cm aangeven (1 punt)\n• Het antwoord: 4,6 (of 4,5 of 4,7) (m) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De verticale afstand tussen de grafieken van HvH en VL moet gelijk zijn aan één macht van 10"
+     },
+     {
+      "points": 1,
+      "description": "In de figuur op de uitwerkbijlage de bijbehorende afstand van 2 cm aangeven"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 4,6 (of 4,5 of 4,7) (m)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-extreem-hoogwater-antw9.png"
+    ]
+   },
+   {
+    "title": "Schooltevredenheidsonderzoeken",
+    "question_number": 10,
+    "answer_text": "• De breedte van het 95%-betrouwbaarheidsinterval voor het populatiegemiddelde is 4 · S/√674 (of de halve breedte is 2 · S/√674) (1 punt)\n• De vergelijking 4 · S/√674 (= 7,35 − 7,13) = 0,22 (of 2 · S/√674 = 0,11) moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Het antwoord: (S =) 1,428 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De breedte van het 95%-betrouwbaarheidsinterval voor het populatiegemiddelde is 4 · S/√674 (of de halve breedte is 2 · S/√674)"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking 4 · S/√674 (= 7,35 − 7,13) = 0,22 (of 2 · S/√674 = 0,11) moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (S =) 1,428"
+     }
+    ],
+    "grading_note": "Voor een berekening uitgaande van (bijvoorbeeld) 4 · S = 0,22 maximaal 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-schooltevredenheidsonderzoeken-antw10.png"
+    ]
+   },
+   {
+    "title": "Schooltevredenheidsonderzoeken",
+    "question_number": 11,
+    "answer_text": "Voorbeeld van een juist antwoord:\n• Tevredenheid in 2018 kleiner dan in 2017 (of bewering leerlingenraad): de schoolscores op alle onderwerpen zijn in 2018 lager dan in 2017 (1 punt)\n• Tevredenheid in 2018 groter dan in 2017 (of bewering schoolleiding): de ranking van de school is op alle onderwerpen in 2018 beter dan in 2017 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Tevredenheid in 2018 kleiner dan in 2017 (of bewering leerlingenraad): de schoolscores op alle onderwerpen zijn in 2018 lager dan in 2017"
+     },
+     {
+      "points": 1,
+      "description": "Tevredenheid in 2018 groter dan in 2017 (of bewering schoolleiding): de ranking van de school is op alle onderwerpen in 2018 beter dan in 2017"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-schooltevredenheidsonderzoeken-antw11.png"
+    ]
+   },
+   {
+    "title": "Schooltevredenheidsonderzoeken",
+    "question_number": 12,
+    "answer_text": "Voorbeeld van een juist antwoord:\n• Bij de mediaan hoort een ranking van 133 (1 punt)\n• Bij een normale verdeling zou een schoolscore die lager is dan het gemiddelde een ranking van meer dan 133 moeten opleveren (1 punt)\n• De schoolscore (7,68) van Het Gelder ligt onder het gemiddelde (van 7,75), maar heeft juist een ranking van minder dan 133 (namelijk 105) (, dus de schoolscore kan niet normaal verdeeld zijn) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij de mediaan hoort een ranking van 133"
+     },
+     {
+      "points": 1,
+      "description": "Bij een normale verdeling zou een schoolscore die lager is dan het gemiddelde een ranking van meer dan 133 moeten opleveren"
+     },
+     {
+      "points": 1,
+      "description": "De schoolscore (7,68) van Het Gelder ligt onder het gemiddelde (van 7,75), maar heeft juist een ranking van minder dan 133 (namelijk 105) (, dus de schoolscore kan niet normaal verdeeld zijn)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-schooltevredenheidsonderzoeken-antw12.png"
+    ]
+   },
+   {
+    "title": "Schooltevredenheidsonderzoeken",
+    "question_number": 13,
+    "answer_text": "• phi = (569 · 81 − 105 · 369)/√(674 · 938 · 186 · 450) (1 punt)\n• phi = 0,03… (1 punt)\n• (0,03… < 0,2, dus) het verschil is gering (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "phi = (569 · 81 − 105 · 369)/√(674 · 938 · 186 · 450)"
+     },
+     {
+      "points": 1,
+      "description": "phi = 0,03…"
+     },
+     {
+      "points": 1,
+      "description": "(0,03… < 0,2, dus) het verschil is gering"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-schooltevredenheidsonderzoeken-antw13.png"
+    ]
+   },
+   {
+    "title": "Schooltevredenheidsonderzoeken",
+    "question_number": 14,
+    "answer_text": "• De cumulatieve frequentietabel opstellen met daarin de cumulatieve percentageverschillen (2 punten)\n\n| | leerlingen (%) | ouders (%) | Vcp |\n|---|---|---|---|\n| zeer oneens | 1 | 2 | 1 |\n| oneens | 2 | 5 | 3 |\n| zowel eens als oneens | 9 | 17 | 8 |\n| eens | 58 | 62 | 4 |\n| zeer eens | 100 | 100 | 0 |\n\n• Om een max Vcp van meer dan 20(%) te krijgen moet het percentage bij 'zowel eens als oneens' meer dan 12(%) toenemen (1 punt)\n• 0,12 · 500 = 60 (1 punt)\n• Het antwoord: (minimaal) 61 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De cumulatieve frequentietabel opstellen met daarin de cumulatieve percentageverschillen"
+     },
+     {
+      "points": 1,
+      "description": "Om een max Vcp van meer dan 20(%) te krijgen moet het percentage bij 'zowel eens als oneens' meer dan 12(%) toenemen"
+     },
+     {
+      "points": 1,
+      "description": "0,12 · 500 = 60"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (minimaal) 61"
+     }
+    ],
+    "grading_note": "– Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.\n– Als niet met een cumulatieve frequentietabel wordt gewerkt, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-schooltevredenheidsonderzoeken-antw14.png"
+    ]
+   },
+   {
+    "title": "Museumcijfers",
+    "question_number": 15,
+    "answer_text": "• In Groningen wonen 5,83721 keer 100000 inwoners (1 punt)\n• De museumdichtheid van Groningen is 17/5,83721 = 2,9… (1 punt)\n• (De museumdichtheid van heel Nederland is 2,47, dus) de museumdichtheid van Groningen is hoger dan die van heel Nederland (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In Groningen wonen 5,83721 keer 100000 inwoners"
+     },
+     {
+      "points": 1,
+      "description": "De museumdichtheid van Groningen is 17/5,83721 = 2,9…"
+     },
+     {
+      "points": 1,
+      "description": "(De museumdichtheid van heel Nederland is 2,47, dus) de museumdichtheid van Groningen is hoger dan die van heel Nederland"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-museumcijfers-antw15.png"
+    ]
+   },
+   {
+    "title": "Museumcijfers",
+    "question_number": 16,
+    "answer_text": "• Voor een museumdichtheid van minstens 2,47 moeten er minstens 4,04068 · 2,47 = 9,98… musea zijn (1 punt)\n• (Het aantal musea is een geheel getal, dus) het aantal musea moet minstens 10 zijn (1 punt)\n• Het antwoord: (minstens) (10 − 4 =) 6 (musea) (1 punt)\n\nof\n\n• Het maken van een tabel van A/4,04068 (met A het aantal musea) (1 punt)\n• A = 9 geeft 2,22… (voldoet niet), A = 10 geeft 2,47… (voldoet wel) (1 punt)\n• Het antwoord: (minstens) (10 − 4 =) 6 (musea) (1 punt)\n\nof\n\n• Beschrijven hoe de oplossing A = 9,98… van de vergelijking A/4,04068 = 2,47 gevonden kan worden (met A het aantal musea) (1 punt)\n• (Het aantal musea A is een geheel getal, dus) A moet minstens 10 zijn (1 punt)\n• Het antwoord: (minstens) (10 − 4 =) 6 (musea) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor een museumdichtheid van minstens 2,47 moeten er minstens 4,04068 · 2,47 = 9,98… musea zijn"
+     },
+     {
+      "points": 1,
+      "description": "(Het aantal musea is een geheel getal, dus) het aantal musea moet minstens 10 zijn"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (minstens) (10 − 4 =) 6 (musea)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-museumcijfers-antw16.png"
+    ]
+   },
+   {
+    "title": "Museumcijfers",
+    "question_number": 17,
+    "answer_text": "• De toename per 5 jaar is 1299650 − 805594 (= 494056) (1 punt)\n• De toename per jaar is dus 494056/5 (= 98811,2 of 98811) (1 punt)\n• Er moeten na 1 januari 2016 meer dan 2000000 − 1299650 (= 700350) Museumkaarthouders bijkomen (1 punt)\n• Dit duurt 700350/98811,2 = 7,08… (jaar), dus het antwoord is 2023 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De toename per 5 jaar is 1299650 − 805594 (= 494056)"
+     },
+     {
+      "points": 1,
+      "description": "De toename per jaar is dus 494056/5 (= 98811,2 of 98811)"
+     },
+     {
+      "points": 1,
+      "description": "Er moeten na 1 januari 2016 meer dan 2000000 − 1299650 (= 700350) Museumkaarthouders bijkomen"
+     },
+     {
+      "points": 1,
+      "description": "Dit duurt 700350/98811,2 = 7,08… (jaar), dus het antwoord is 2023"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-museumcijfers-antw17.png"
+    ]
+   },
+   {
+    "title": "Museumcijfers",
+    "question_number": 18,
+    "answer_text": "• Totaal aantal museumbezoeken in 2016 is 8,5/0,26 (= 32,6…) (miljoen) (1 punt)\n• Totaal aantal museumbezoeken in 2011 is 4,2/0,20 (= 21) (miljoen) (1 punt)\n• (32,6… − 21)/21 · 100 (= 55,6… (%)) (1 punt)\n• Het antwoord: 56(%) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Totaal aantal museumbezoeken in 2016 is 8,5/0,26 (= 32,6…) (miljoen)"
+     },
+     {
+      "points": 1,
+      "description": "Totaal aantal museumbezoeken in 2011 is 4,2/0,20 (= 21) (miljoen)"
+     },
+     {
+      "points": 1,
+      "description": "(32,6… − 21)/21 · 100 (= 55,6… (%))"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 56(%)"
+     }
+    ],
+    "grading_note": "Als is vermenigvuldigd met 0,74 respectievelijk 0,80, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-museumcijfers-antw18.png"
+    ]
+   },
+   {
+    "title": "Museumcijfers",
+    "question_number": 19,
+    "answer_text": "Een redenering als:\n• Een schets van een lineaire afname bij manier 1 (1 punt)\n• Een schets van een exponentiële afname bij manier 2 (1 punt)\n• Met hetzelfde begin- en eindpunt ligt de grafiek van het lineair dalend verloop altijd boven het exponentieel dalend verloop (1 punt)\n• Het antwoord: manier 1 (1 punt)\n\nof\n\n• Bij manier 1 gaat het om een lineaire afname (1 punt)\n• Bij manier 2 gaat het om een exponentiële afname (1 punt)\n• Uitgaande van hetzelfde begin- en eindpunt zal de grafiek van een lineair dalend verloop altijd boven een exponentieel dalend verloop liggen (1 punt)\n• Het antwoord: manier 1 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een schets van een lineaire afname bij manier 1"
+     },
+     {
+      "points": 1,
+      "description": "Een schets van een exponentiële afname bij manier 2"
+     },
+     {
+      "points": 1,
+      "description": "Met hetzelfde begin- en eindpunt ligt de grafiek van het lineair dalend verloop altijd boven het exponentieel dalend verloop"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: manier 1"
+     }
+    ],
+    "grading_note": "Als in de eerste twee antwoordelementen van beide antwoordalternatieven niet duidelijk is vermeld dat het om afname gaat, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-museumcijfers-antw19.png"
+    ]
+   },
+   {
+    "title": "Museumcijfers",
+    "question_number": 20,
+    "answer_text": "• De vergelijking S = 0,25 · (S + E) (of een gelijkwaardige vergelijking) moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• De oplossing is t = 18,6… (1 punt)\n• Het antwoord: 2035 (1 punt)\n\nof\n\n• Bij t = 18 geldt S = 423,9… en E = 1236 (in totaal 1659,9… (mln euro)) (1 punt)\n• Bij t = 18 is het percentage inkomsten uit subsidies 423,9…/1659,9… · 100 = 25,5… (%) (1 punt)\n• Bij t = 19 geldt S = 419,6… en E = 1276 (in totaal 1695,6… (mln euro)) (1 punt)\n• Bij t = 19 is het percentage inkomsten uit subsidies 419,6…/1695,6… · 100 = 24,7… (%), dus het antwoord is 2035 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking S = 0,25 · (S + E) (of een gelijkwaardige vergelijking) moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing is t = 18,6…"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 2035"
+     }
+    ],
+    "grading_note": "Als in het eerste antwoordalternatief niet met de juiste vergelijking wordt gerekend, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-museumcijfers-antw20.png"
+    ]
+   },
+   {
+    "title": "Harderwijk-Roosendaal",
+    "question_number": 21,
+    "answer_text": "• E hoort zeker bij rit 2, want dit is de enige rit waarvan in de tabel zichtbaar is dat het aantal nog te rijden km is toegenomen ergens tijdens de rit (1 punt)\n• A hoort dan zeker bij rit 3, want dit is de enige rit waarvan in de tabel zichtbaar is dat er twee verschillende tijdstippen zijn met hetzelfde aantal nog te rijden km (1 punt)\n• Bij een gemiddelde snelheid van 90 km/uur duurt de rit 144/90 = 1,6 uur = 1 uur en 36 minuten (1 punt)\n• D hoort dus zeker bij rit 1, want dit is de enige rit die 1 uur en 36 minuten duurt (1 punt)\n• Bij rit 5 worden de eerste 72 km in 49 minuten afgelegd en de tweede 72 km in 44 minuten (1 punt)\n• C hoort dus bij rit 5 (1 punt)\n• B blijft over, dus B hoort bij rit 4 (1 punt)\n\nof\n\n• E hoort zeker bij rit 2, want dit is de enige rit waarvan in de tabel zichtbaar is dat het aantal nog te rijden km is toegenomen ergens tijdens de rit (1 punt)\n• A hoort dan zeker bij rit 3, want dit is de enige rit waarvan in de tabel zichtbaar is dat er twee verschillende tijdstippen zijn met hetzelfde aantal nog te rijden km (1 punt)\n• De eerste 72 km worden bij rit 1, 4 en 5 in respectievelijk 46, 47 en 49 minuten afgelegd, terwijl de tweede 72 km in respectievelijk 50, 47 en 44 minuten worden afgelegd (1 punt)\n• C hoort dus bij rit 5 (1 punt)\n• Bij een gemiddelde snelheid van 90 km/uur duurt de rit 144/90 = 1,6 uur = 1 uur en 36 minuten (1 punt)\n• D hoort dus zeker bij rit 1, want dit is de enige rit die 1 uur en 36 minuten duurt (1 punt)\n• B blijft over, dus B hoort bij rit 4 (1 punt)\n\nof\n\n• E hoort zeker bij rit 2, want dit is de enige rit waarvan in de tabel zichtbaar is dat het aantal nog te rijden km is toegenomen ergens tijdens de rit (1 punt)\n• A hoort dan zeker bij rit 3, want dit is de enige rit waarvan in de tabel zichtbaar is dat er twee verschillende tijdstippen zijn met hetzelfde aantal nog te rijden km (1 punt)\n• De eerste 72 km worden bij rit 1, 4 en 5 in respectievelijk 46, 47 en 49 minuten afgelegd, terwijl de tweede 72 km in respectievelijk 50, 47 en 44 minuten worden afgelegd (1 punt)\n• C hoort dus bij rit 5 (1 punt)\n• De gemiddelde snelheid gedurende de eerste 9 minuten van rit 4 is (144 − 124)/(9/60) = 133,3… km/uur (of: in de eerste 9 minuten van rit 4 is 20 km afgelegd. Er is dus harder gereden dan 120 km/uur want dit komt overeen met 20 km in 10 minuten) (1 punt)\n• B hoort dus bij rit 4 (1 punt)\n• D blijft over, dus D hoort bij rit 1 (1 punt)\n\nof\n\n• E hoort zeker bij rit 2, want dit is de enige rit waarvan in de tabel zichtbaar is dat het aantal nog te rijden km is toegenomen ergens tijdens de rit (1 punt)\n• A hoort dan zeker bij rit 3, want dit is de enige rit waarvan in de tabel zichtbaar is dat er twee verschillende tijdstippen zijn met hetzelfde aantal nog te rijden km (1 punt)\n• Bij een gemiddelde snelheid van 90 km/uur duurt de rit 144/90 = 1,6 uur = 1 uur en 36 minuten (1 punt)\n• D hoort dus zeker bij rit 1, want dit is de enige rit die 1 uur en 36 minuten duurt (1 punt)\n• De gemiddelde snelheid gedurende de eerste 9 minuten van rit 4 is (144 − 124)/(9/60) = 133,3… km/uur (of: in de eerste 9 minuten van rit 4 is 20 km afgelegd. Er is dus harder gereden dan 120 km/uur want dit komt overeen met 20 km in 10 minuten) (1 punt)\n• B hoort dus bij rit 4 (1 punt)\n• C blijft over, dus C hoort bij rit 5 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "E hoort zeker bij rit 2, want dit is de enige rit waarvan in de tabel zichtbaar is dat het aantal nog te rijden km is toegenomen ergens tijdens de rit"
+     },
+     {
+      "points": 1,
+      "description": "A hoort dan zeker bij rit 3, want dit is de enige rit waarvan in de tabel zichtbaar is dat er twee verschillende tijdstippen zijn met hetzelfde aantal nog te rijden km"
+     },
+     {
+      "points": 1,
+      "description": "Bij een gemiddelde snelheid van 90 km/uur duurt de rit 144/90 = 1,6 uur = 1 uur en 36 minuten"
+     },
+     {
+      "points": 1,
+      "description": "D hoort dus zeker bij rit 1, want dit is de enige rit die 1 uur en 36 minuten duurt"
+     },
+     {
+      "points": 1,
+      "description": "Bij rit 5 worden de eerste 72 km in 49 minuten afgelegd en de tweede 72 km in 44 minuten"
+     },
+     {
+      "points": 1,
+      "description": "C hoort dus bij rit 5"
+     },
+     {
+      "points": 1,
+      "description": "B blijft over, dus B hoort bij rit 4"
+     }
+    ],
+    "grading_note": "– Als rit 3 aan A is gekoppeld voordat rit 2 aan E is gekoppeld, hiervoor 1 scorepunt in mindering brengen.\n– Bij de koppelingen van de zinnen B, C en D aan een rit moeten de eerste 2 koppelingen worden toegelicht. Dus zonder deze toelichtingen mogen de laatste 5 scorepunten niet worden toegekend.\n– Alleen bij de overblijvende zin is geen toelichting vereist.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-iii-harderwijk-roosendaal-antw21.png"
+    ]
+   }
+  ]
+ }
+}
