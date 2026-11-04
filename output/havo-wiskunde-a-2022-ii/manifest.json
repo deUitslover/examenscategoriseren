@@ -1,0 +1,58 @@
+{
+  "source": "HAVO Wiskunde A 2022-II",
+  "subject_name": "Wiskunde A",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Parachutespringen",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Spoedeisende ritten van ambulances",
+      "question_numbers": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "B-papier in een enveloppe",
+      "question_numbers": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Recordtijden van schaatssters",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Slanke vleugels",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Woningtekort",
+      "question_numbers": [
+        21
+      ]
+    }
+  ]
+}
