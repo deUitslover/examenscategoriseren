@@ -1,0 +1,540 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde A 2022-II",
+  "answers": [
+   {
+    "title": "Parachutespringen",
+    "question_number": 1,
+    "answer_text": "• (4000 − 1500 =) 2500 meter afgelegd (in 50 seconden) (1 punt)\n• Dit is 50 meter per seconde (1 punt)\n• De gemiddelde snelheid is (50 · 3,6 =) 180 (km/uur) (1 punt)\n\nof\n\n• (4000 − 1500 =) 2500 meter (= 2,5 km) afgelegd (in 50 seconden) (1 punt)\n• 50 seconden is 50/3600 (= 0,013…) uur (1 punt)\n• De gemiddelde snelheid is 2,5/0,013… = 180 (km/uur) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(4000 − 1500 =) 2500 meter afgelegd (in 50 seconden)"
+     },
+     {
+      "points": 1,
+      "description": "Dit is 50 meter per seconde"
+     },
+     {
+      "points": 1,
+      "description": "De gemiddelde snelheid is (50 · 3,6 =) 180 (km/uur)"
+     }
+    ],
+    "grading_note": "Voor het antwoord – 180 (km/uur) geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-parachutespringen-antw1.png"
+    ]
+   },
+   {
+    "title": "Parachutespringen",
+    "question_number": 2,
+    "answer_text": "• De vergelijking 1500 = 4000 − 4,9 · t² moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Dit geeft t = 22,5… (1 punt)\n• Het antwoord: (50 − 22,5… =) 27 (seconden) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 1500 = 4000 − 4,9 · t² moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft t = 22,5…"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (50 − 22,5… =) 27 (seconden)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-parachutespringen-antw2.png"
+    ]
+   },
+   {
+    "title": "Parachutespringen",
+    "question_number": 3,
+    "answer_text": "• Aflezen bijvoorbeeld: als W = 20, dan v = 6,6; als W = 40 dan v = 4,7 (1 punt)\n• De verhoudingen 4,7:6,6 en 20:40 zijn niet gelijk (of 20 · 6,6 = 132 is niet gelijk aan 40 · 4,7 = 188) (1 punt)\n• Dus v is niet omgekeerd evenredig met W (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Aflezen bijvoorbeeld: als W = 20, dan v = 6,6; als W = 40 dan v = 4,7"
+     },
+     {
+      "points": 1,
+      "description": "De verhoudingen 4,7:6,6 en 20:40 zijn niet gelijk (of 20 · 6,6 = 132 is niet gelijk aan 40 · 4,7 = 188)"
+     },
+     {
+      "points": 1,
+      "description": "Dus v is niet omgekeerd evenredig met W"
+     }
+    ],
+    "grading_note": "Voor W = 10, W = 20, W = 30, W = 40 of W = 50 moet de waarde van v binnen het interval [9,3; 9, 5], [6,5; 6,7], [5,3;5,5], [4,6; 4,8] respectievelijk [4,1; 4,3] liggen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-parachutespringen-antw3.png"
+    ]
+   },
+   {
+    "title": "Parachutespringen",
+    "question_number": 4,
+    "answer_text": "• v = 3,13 · √(79/45) = 4,14… (m/s) (1 punt)\n• Het laatste gedeelte van Tina's sprong duurt 1300/4,14… (= 313,46…) (s) (1 punt)\n• Haar totale sprong duurt (313,46… + 34 =) 347 (s) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "v = 3,13 · √(79/45) = 4,14… (m/s)"
+     },
+     {
+      "points": 1,
+      "description": "Het laatste gedeelte van Tina's sprong duurt 1300/4,14… (= 313,46…) (s)"
+     },
+     {
+      "points": 1,
+      "description": "Haar totale sprong duurt (313,46… + 34 =) 347 (s)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-parachutespringen-antw4.png"
+    ]
+   },
+   {
+    "title": "Parachutespringen",
+    "question_number": 5,
+    "answer_text": "• v = 3,13 · √(m/40) (1 punt)\n• v = 3,13 · √m/√40 (of v = 3,13 · √m/6,3…) (1 punt)\n• (v = 3,13/6,3… · √m, dus) v = 0,49 · √m (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "v = 3,13 · √(m/40)"
+     },
+     {
+      "points": 1,
+      "description": "v = 3,13 · √m/√40 (of v = 3,13 · √m/6,3…)"
+     },
+     {
+      "points": 1,
+      "description": "(v = 3,13/6,3… · √m, dus) v = 0,49 · √m"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-parachutespringen-antw5.png"
+    ]
+   },
+   {
+    "title": "Spoedeisende ritten van ambulances",
+    "question_number": 6,
+    "answer_text": "Juist ingevulde tabel:\n| | kwantitatief: discreet | kwantitatief: continu | kwalitatief: nominaal | kwalitatief: ordinaal |\n| regio | | | X | |\n| mate van urgentie (van een melding bij de meldkamer) | | | | X |\n| aantal ambulanceritten (per jaar per regio) | X | | | |\n| responstijd (van een ambulancerit) | | X | | |",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "regio: kwalitatief, nominaal"
+     },
+     {
+      "points": 1,
+      "description": "mate van urgentie (van een melding bij de meldkamer): kwalitatief, ordinaal"
+     },
+     {
+      "points": 1,
+      "description": "aantal ambulanceritten (per jaar per regio): kwantitatief, discreet"
+     },
+     {
+      "points": 1,
+      "description": "responstijd (van een ambulancerit): kwantitatief, continu"
+     }
+    ],
+    "grading_note": "Voor elke variabele geldt: 1 scorepunt toekennen als één keuze is gemaakt en deze keuze juist is.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-spoedeisende-ritten-van-ambulances-antw6.png"
+    ]
+   },
+   {
+    "title": "Spoedeisende ritten van ambulances",
+    "question_number": 7,
+    "answer_text": "• De linker polygoon hoort bij de A1-ritten omdat die over het algemeen een kortere responstijd hebben (1 punt)\n• Het eerste en derde kwartiel aflezen: 7 respectievelijk 11,5 (1 punt)\n• De interkwartielafstand is 4,5 (minuten) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De linker polygoon hoort bij de A1-ritten omdat die over het algemeen een kortere responstijd hebben"
+     },
+     {
+      "points": 1,
+      "description": "Het eerste en derde kwartiel aflezen: 7 respectievelijk 11,5"
+     },
+     {
+      "points": 1,
+      "description": "De interkwartielafstand is 4,5 (minuten)"
+     }
+    ],
+    "grading_note": "De kwartielen mogen afgelezen worden met een marge van 0,5 minuten.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-spoedeisende-ritten-van-ambulances-antw7.png"
+    ]
+   },
+   {
+    "title": "Spoedeisende ritten van ambulances",
+    "question_number": 8,
+    "answer_text": "• Aflezen van de coördinaten van een punt op het genoemde gedeelte van de grafiek, bijvoorbeeld (20,80) (1 punt)\n• De vergelijking 80 = 100/(1 + 27 · a²⁰) moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• a ≈ 0,8 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Aflezen van de coördinaten van een punt op het genoemde gedeelte van de grafiek, bijvoorbeeld (20,80)"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking 80 = 100/(1 + 27 · a²⁰) moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "a ≈ 0,8"
+     }
+    ],
+    "grading_note": "Het cumulatieve percentage mag worden afgelezen met een marge van 1 procent.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-spoedeisende-ritten-van-ambulances-antw8.png"
+    ]
+   },
+   {
+    "title": "B-papier in een enveloppe",
+    "question_number": 9,
+    "answer_text": "• De breedte is 1000 : 2⁵ (of 1000 · (1/2)⁵) (1 punt)\n• De hoogte is 1414 : 2⁵ (of 1414 · (1/2)⁵) (1 punt)\n• Het antwoord: 31 (mm) bij 44 (mm) (of: 44 (mm) bij 31 (mm)) (1 punt)\n\nof\n\n• Een tabel: (2 punten)\n  | B0 | 1000 | 1414 |\n  | B1 | 1000 | 707 |\n  | B2 | 500 | 707 |\n  | B3 | 500 | 353,… |\n  | B4 | 250 | 353,… |\n  | B5 | 250 | 176,… |\n  | B6 | 125 | 176,… |\n  | B7 | 125 | 88,… |\n  | B8 | 62,… | 88,… |\n  | B9 | 62,… | 44,… |\n  | B10 | 31,… | 44,… |\n• Het antwoord: 31 (mm) bij 44 (mm) (of: 44 (mm) bij 31 (mm)) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De breedte is 1000 : 2⁵ (of 1000 · (1/2)⁵)"
+     },
+     {
+      "points": 1,
+      "description": "De hoogte is 1414 : 2⁵ (of 1414 · (1/2)⁵)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 31 (mm) bij 44 (mm) (of: 44 (mm) bij 31 (mm))"
+     }
+    ],
+    "grading_note": "– Als in het eerste antwoordalternatief beide keren gedeeld wordt door 2¹⁰ of in het tweede antwoordalternatief bij elke stap beide waarden gehalveerd worden, voor deze vraag maximaal 1 scorepunt toekennen.\n– Zowel voor het antwoord 'breedte is 31 (mm) en hoogte is 44 (mm)' als voor 'breedte is 44 (mm) en hoogte is 31 (mm)' geen scorepunten in mindering brengen.\n– Voor het eerste antwoordelement van het tweede alternatief mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-b-papier-in-een-enveloppe-antw9.png"
+    ]
+   },
+   {
+    "title": "B-papier in een enveloppe",
+    "question_number": 10,
+    "answer_text": "• De oppervlakte van de enveloppe is 262 · 371 = 97202 (mm²) (1 punt)\n• (97202 − 88375)/88375 · 100(%) (= 9,98…%) (1 punt)\n• Het antwoord: 10(%) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De oppervlakte van de enveloppe is 262 · 371 = 97202 (mm²)"
+     },
+     {
+      "points": 1,
+      "description": "(97202 − 88375)/88375 · 100(%) (= 9,98…%)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 10(%)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-b-papier-in-een-enveloppe-antw10.png"
+    ]
+   },
+   {
+    "title": "B-papier in een enveloppe",
+    "question_number": 11,
+    "answer_text": "• Als n groter wordt, wordt −½n kleiner (1 punt)\n• 2⁻¹ᐟ²ⁿ wordt kleiner (1 punt)\n• (1484$\\cdot$2 2⁻¹ᐟ²ⁿ wordt kleiner, dus) de hoogte van de enveloppe wordt kleiner (als het formaatnummer groter wordt) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als n groter wordt, wordt −½n kleiner"
+     },
+     {
+      "points": 1,
+      "description": "2⁻¹ᐟ²ⁿ wordt kleiner"
+     },
+     {
+      "points": 1,
+      "description": "(1484$\\cdot$2 2⁻¹ᐟ²ⁿ wordt kleiner, dus) de hoogte van de enveloppe wordt kleiner (als het formaatnummer groter wordt)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-b-papier-in-een-enveloppe-antw11.png"
+    ]
+   },
+   {
+    "title": "B-papier in een enveloppe",
+    "question_number": 12,
+    "answer_text": "• De vergelijking 1048 · 2⁻¹ᐟ²ⁿ = 100 moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Het antwoord: (vanaf formaatnummer) 7 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 1048 · 2⁻¹ᐟ²ⁿ = 100 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (vanaf formaatnummer) 7"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-b-papier-in-een-enveloppe-antw12.png"
+    ]
+   },
+   {
+    "title": "Recordtijden van schaatssters",
+    "question_number": 13,
+    "answer_text": "• Rechts van de verticale lijn die hoort bij 45,0 seconden liggen 4 punten (1 punt)\n• 4 van de 86 is minder dan 10% (dus meer dan 90% is sneller), dus uitspraak a is juist (1 punt)\n• Voor uitspraak b moet gekeken worden naar de punten boven en onder de horizontale lijn die hoort bij 81,5 seconden (of: de 43e en 44e stip van onder naar boven of van boven naar onder moet worden bepaald) (1 punt)\n• Er liggen (veel) minder punten onder die horizontale lijn dan erboven, dus uitspraak b is onjuist (of: de 43e en 44e stip liggen boven 81,5 seconden, dus uitspraak b is onjuist) (1 punt)\n• Bijvoorbeeld in de figuur de drie linkse en de drie onderste punten aangeven (1 punt)\n• Dit zijn niet dezelfde punten, dus uitspraak c is onjuist (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Rechts van de verticale lijn die hoort bij 45,0 seconden liggen 4 punten"
+     },
+     {
+      "points": 1,
+      "description": "4 van de 86 is minder dan 10% (dus meer dan 90% is sneller), dus uitspraak a is juist"
+     },
+     {
+      "points": 1,
+      "description": "Voor uitspraak b moet gekeken worden naar de punten boven en onder de horizontale lijn die hoort bij 81,5 seconden (of: de 43e en 44e stip van onder naar boven of van boven naar onder moet worden bepaald)"
+     },
+     {
+      "points": 1,
+      "description": "Er liggen (veel) minder punten onder die horizontale lijn dan erboven, dus uitspraak b is onjuist (of: de 43e en 44e stip liggen boven 81,5 seconden, dus uitspraak b is onjuist)"
+     },
+     {
+      "points": 1,
+      "description": "Bijvoorbeeld in de figuur de drie linkse en de drie onderste punten aangeven"
+     },
+     {
+      "points": 1,
+      "description": "Dit zijn niet dezelfde punten, dus uitspraak c is onjuist"
+     }
+    ],
+    "grading_note": "Als de kandidaat de drie rechtse en de drie bovenste punten aangeeft en hiermee concludeert dat uitspraak c onjuist is, dan voor deze vraag maximaal 5 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-recordtijden-van-schaatssters-antw13.png"
+    ]
+   },
+   {
+    "title": "Recordtijden van schaatssters",
+    "question_number": 14,
+    "answer_text": "• Bij een groot verschil overlappen de boxen elkaar niet (1 punt)\n• De tweetallen 1500 en 5000; 3000 en 10000; 5000 en 10000 (; 1500 en 10 000) (2 punten)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij een groot verschil overlappen de boxen elkaar niet"
+     },
+     {
+      "points": 2,
+      "description": "De tweetallen 1500 en 5000; 3000 en 10000; 5000 en 10000 (; 1500 en 10 000)"
+     }
+    ],
+    "grading_note": "– Bij het tweede antwoordelement voor elk ontbrekend of foutief tweetal een scorepunt in mindering brengen.\n– Zonder toelichting voor deze vraag maximaal 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-recordtijden-van-schaatssters-antw14.png"
+    ]
+   },
+   {
+    "title": "Recordtijden van schaatssters",
+    "question_number": 15,
+    "answer_text": "• Uit figuur 1 blijkt dat de snelste tijd op de 500 meter 37,5 seconden is; dit is minder dan 39,23 seconden, dus de recordtijd van Sáblíková is op deze afstand niet de beste (1 punt)\n• Sáblíková heeft op de 1500 meter een omgerekende tijd van ((60 + 53,44) : 3 =) 37,8… seconden (1 punt)\n• Uit figuur 2 blijkt dat de snelste omgerekende tijd op de 1500 meter 37,3 seconden is; dit is minder dan 37,8… seconden, dus de recordtijd van Sáblíková is op deze afstand niet de beste (1 punt)\n\nof\n\n• Uit figuur 1 blijkt dat de snelste tijd op de 500 meter 37,5 seconden is; dit is minder dan 39,23 seconden, dus de recordtijd van Sáblíková is op deze afstand niet de beste (1 punt)\n• Uit figuur 2 blijkt dat de snelste omgerekende tijd op de 1500 meter 37,3 seconden is; de snelste tijd is dus (3 · 37,3 =) 111,9… seconden, dus 1:52 (1 punt)\n• Dat is minder dan 1:53,44, dus de recordtijd van Sáblíková is op deze afstand niet de beste (1 punt)\n\nof\n\n• In figuur 1 de snelste tijd op de 500 meter aangeven; dit is minder dan 39,23 seconden, dus de recordtijd van Sáblíková is op deze afstand niet de beste (1 punt)\n• Sáblíková heeft op de 1500 meter een omgerekende tijd van ((60 + 53,44) : 3 =) 37,8… seconden (1 punt)\n• In figuur 2 de snelste omgerekende tijd op de 1500 meter aangeven; dit is minder dan 37,8… seconden, dus de recordtijd van Sáblíková is op deze afstand niet de beste (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit figuur 1 blijkt dat de snelste tijd op de 500 meter 37,5 seconden is; dit is minder dan 39,23 seconden, dus de recordtijd van Sáblíková is op deze afstand niet de beste"
+     },
+     {
+      "points": 1,
+      "description": "Sáblíková heeft op de 1500 meter een omgerekende tijd van ((60 + 53,44) : 3 =) 37,8… seconden"
+     },
+     {
+      "points": 1,
+      "description": "Uit figuur 2 blijkt dat de snelste omgerekende tijd op de 1500 meter 37,3 seconden is; dit is minder dan 37,8… seconden, dus de recordtijd van Sáblíková is op deze afstand niet de beste"
+     }
+    ],
+    "grading_note": "– Als de kandidaat gewerkt heeft volgens het eerste of tweede antwoordalternatief, dan mag de waarde van de snelste tijd op de 500 meter worden afgelezen met een marge van 0,1 seconde.\n– Als de kandidaat gewerkt heeft volgens het eerste of tweede antwoordalternatief, dan mag de waarde van de snelste omgerekende tijd op de 1500 meter worden afgelezen met een marge van 0,2 seconden.\n– Als de kandidaat de relevante gegevens niet in de gebruikte figuren heeft aangegeven, maar wel de bijbehorende waarden heeft opgeschreven, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-recordtijden-van-schaatssters-antw15.png"
+    ]
+   },
+   {
+    "title": "Recordtijden van schaatssters",
+    "question_number": 16,
+    "answer_text": "• De omgerekende tijd op de 5000 meter is ((8 · 60 + 6,64) : 10 =) 48,… seconden en die op de 10000 meter is ((16 · 60 + 54,71) : 20 =) 50,… seconden (1 punt)\n• (In figuur 2 is af te lezen:) Farestveit behoort op de 5000 meter tot de langzaamste 25% (of: haar tijd op de 5000 meter is groter dan Q3) (1 punt)\n• (In figuur 2 is af te lezen:) Farestveit behoort op de 10000 meter tot de middelste 50% (of: haar tijd op de 10000 meter is kleiner dan Q3) (en dat is beter dan haar prestatie op de 5000 meter) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De omgerekende tijd op de 5000 meter is ((8 · 60 + 6,64) : 10 =) 48,… seconden en die op de 10000 meter is ((16 · 60 + 54,71) : 20 =) 50,… seconden"
+     },
+     {
+      "points": 1,
+      "description": "(In figuur 2 is af te lezen:) Farestveit behoort op de 5000 meter tot de langzaamste 25% (of: haar tijd op de 5000 meter is groter dan Q3)"
+     },
+     {
+      "points": 1,
+      "description": "(In figuur 2 is af te lezen:) Farestveit behoort op de 10000 meter tot de middelste 50% (of: haar tijd op de 10000 meter is kleiner dan Q3) (en dat is beter dan haar prestatie op de 5000 meter)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-recordtijden-van-schaatssters-antw16.png"
+    ]
+   },
+   {
+    "title": "Slanke vleugels",
+    "question_number": 17,
+    "answer_text": "• 33,5 = 21/b (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Dit geeft b = 0,62…, dus de vleugeloppervlakte is (21 · 0,62… =) 13 (m²) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "33,5 = 21/b"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft b = 0,62…, dus de vleugeloppervlakte is (21 · 0,62… =) 13 (m²)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-slanke-vleugels-antw17.png"
+    ]
+   },
+   {
+    "title": "Slanke vleugels",
+    "question_number": 18,
+    "answer_text": "• Invullen in formule 1 geeft 5,6 = w/b, dus b = w/5,6 (1 punt)\n• Invullen in formule 3 geeft b = 15,1/w, dus er moet gelden w/5,6 = 15,1/w (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Hieruit volgt w = 9,195…, dus de spanwijdte is 9,2 (m) (of 92 dm) (1 punt)\n\nof\n\n• S = w/(A/w) (= w²/A) (1 punt)\n• De vergelijking 5,6 = w/(15,1/w) moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Hieruit volgt w = 9,195…, dus de spanwijdte is 9,2 (m) (of 92 dm) (1 punt)\n\nof\n\n• w = S · b = 5,6 · b en w = A/b = 15,1/b (1 punt)\n• De vergelijking 5,6 · b = 15,1/b moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• b = 1,642…, dus de spanwijdte is (5,6 · 1,642… =) 9,2 (m) (of 92 dm) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Invullen in formule 1 geeft 5,6 = w/b, dus b = w/5,6"
+     },
+     {
+      "points": 1,
+      "description": "Invullen in formule 3 geeft b = 15,1/w, dus er moet gelden w/5,6 = 15,1/w"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt w = 9,195…, dus de spanwijdte is 9,2 (m) (of 92 dm)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-slanke-vleugels-antw18.png"
+    ]
+   },
+   {
+    "title": "Slanke vleugels",
+    "question_number": 19,
+    "answer_text": "• De vleugeloppervlakte zou dan 770 (m²) zijn (1 punt)\n• Bij een slankheid van 9 is het brandstofverbruik dan 205000 (kg) (1 punt)\n• De besparing is dus (212500 − 205000 =) 7500 (kg) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vleugeloppervlakte zou dan 770 (m²) zijn"
+     },
+     {
+      "points": 1,
+      "description": "Bij een slankheid van 9 is het brandstofverbruik dan 205000 (kg)"
+     },
+     {
+      "points": 1,
+      "description": "De besparing is dus (212500 − 205000 =) 7500 (kg)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-slanke-vleugels-antw19.png"
+    ]
+   },
+   {
+    "title": "Slanke vleugels",
+    "question_number": 20,
+    "answer_text": "• Twee punten uit de grafiek aflezen op de lijn A = 760, bijvoorbeeld (6,242500) en (7,220000) (1 punt)\n• De richtingscoëfficiënt is (220000 − 242500)/(7 − 6) (= −22500) (1 punt)\n• −22500 · 7 + b = 220000 (1 punt)\n• b = 377500, dus V = −22500S + 377500 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Twee punten uit de grafiek aflezen op de lijn A = 760, bijvoorbeeld (6,242500) en (7,220000)"
+     },
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt is (220000 − 242500)/(7 − 6) (= −22500)"
+     },
+     {
+      "points": 1,
+      "description": "−22500 · 7 + b = 220000"
+     },
+     {
+      "points": 1,
+      "description": "b = 377500, dus V = −22500S + 377500"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-slanke-vleugels-antw20.png"
+    ]
+   },
+   {
+    "title": "Woningtekort",
+    "question_number": 21,
+    "answer_text": "• De groeifactor per vijf jaar van de woningbehoefte is 8511000/8334000 (= 1,02…) (1 punt)\n• De groeifactor per jaar van de woningbehoefte is 1,02…¹ᐟ⁵ = 1,0042… (1 punt)\n• De woningbehoefte in 2040 zal dan 8511000 · 1,0042…¹⁰ (= 8876357,…) zijn (1 punt)\n• De vergelijking (8876357,… − V)/V = 0,01 (waarbij V de woningvoorraad in 2040 is) moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Dit geeft V = 8788472,… (1 punt)\n• Tussen 2030 en 2040 moet de woningvoorraad met 8788472,… − 8335000 (= 453472,…) toenemen (1 punt)\n• 453472,…/10 = 45347,2…, dus 45000 (woningen per jaar) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De groeifactor per vijf jaar van de woningbehoefte is 8511000/8334000 (= 1,02…)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per jaar van de woningbehoefte is 1,02…¹ᐟ⁵ = 1,0042…"
+     },
+     {
+      "points": 1,
+      "description": "De woningbehoefte in 2040 zal dan 8511000 · 1,0042…¹⁰ (= 8876357,…) zijn"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking (8876357,… − V)/V = 0,01 (waarbij V de woningvoorraad in 2040 is) moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft V = 8788472,…"
+     },
+     {
+      "points": 1,
+      "description": "Tussen 2030 en 2040 moet de woningvoorraad met 8788472,… − 8335000 (= 453472,…) toenemen"
+     },
+     {
+      "points": 1,
+      "description": "453472,…/10 = 45347,2…, dus 45000 (woningen per jaar)"
+     }
+    ],
+    "grading_note": "– Wanneer de woningbehoefte en de woningvoorraad in de tussenstappen worden afgerond, hiervoor geen scorepunten in mindering brengen.\n– Als gerekend wordt met (8511000 − 8334000)², dan voor deze vraag maximaal 6 scorepunten toekennen.\n– Als gerekend wordt met (8511000/8334000) · 2, dan voor deze vraag maximaal 6 scorepunten toekennen",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-ii-woningtekort-antw21.png"
+    ]
+   }
+  ]
+ }
+}
