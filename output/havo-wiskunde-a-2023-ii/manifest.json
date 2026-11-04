@@ -1,0 +1,60 @@
+{
+  "source": "HAVO Wiskunde A 2023-II",
+  "subject_name": "Wiskunde A",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Minder rokers",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Voedselconsumptie",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Aantal stemmen per liedje",
+      "question_numbers": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Geregistreerde misdrijven",
+      "question_numbers": [
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "De 100 meter",
+      "question_numbers": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "title": "Testresultaten en afhakers",
+      "question_numbers": [
+        23
+      ]
+    }
+  ]
+}
