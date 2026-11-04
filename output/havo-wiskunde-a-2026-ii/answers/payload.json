@@ -1,0 +1,536 @@
+{
+  "payload": {
+    "subject_name": "Wiskunde A",
+    "level": "HAVO",
+    "source": "HAVO Wiskunde A 2026-II",
+    "answers": [
+      {
+        "title": "Plasticafval",
+        "question_number": 1,
+        "answer_text": "• Aflezen dat in 20057% en in 201912% werd gerecycled (1 punt)\n• In 2005 werd 0,07 · 12,26 (= 0,8582) en in 2019 werd 0,12 · 15,26 (= 1,8312) (miljoen ton) gerecycled (1 punt)\n• Het antwoord: 0,97 (miljoen ton) (1 punt)\n\n⚠️ CONTROLEREN: in het CV staan jaartal en percentage aaneengeschreven ('20057%' en '201912%'); bedoeld is vermoedelijk 'in 2005 7%' en 'in 2019 12%'.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Aflezen dat in 20057% en in 201912% werd gerecycled"
+          },
+          {
+            "points": 1,
+            "description": "In 2005 werd 0,07 · 12,26 (= 0,8582) en in 2019 werd 0,12 · 15,26 (= 1,8312) (miljoen ton) gerecycled"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 0,97 (miljoen ton)"
+          }
+        ],
+        "grading_note": "De percentages in het eerste antwoordelement mogen worden afgelezen met een marge van 1 procentpunt.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-plasticafval-antw1.png"
+        ]
+      },
+      {
+        "title": "Plasticafval",
+        "question_number": 2,
+        "answer_text": "• In 14 jaar tijd is de afname 18 (procentpunten) (1 punt)\n• Per jaar is de afname dan 18/14 (= 1,28 …) (procentpunten) (1 punt)\n• In 2011 geldt 62 − 6 · 1,28 … (= 54,2 … %) (1 punt)\n• Het antwoord: 54(%) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In 14 jaar tijd is de afname 18 (procentpunten)"
+          },
+          {
+            "points": 1,
+            "description": "Per jaar is de afname dan 18/14 (= 1,28 …) (procentpunten)"
+          },
+          {
+            "points": 1,
+            "description": "In 2011 geldt 62 − 6 · 1,28 … (= 54,2 … %)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 54(%)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-plasticafval-antw2.png"
+        ]
+      },
+      {
+        "title": "Plasticafval",
+        "question_number": 3,
+        "answer_text": "Methode 1:\n• De groeifactor per 15 jaar is 2,32 (1 punt)\n• De groeifactor per jaar is 2,32¹ᐟ¹⁵ (1 punt)\n• Dit is 1,0577 … (1 punt)\n• Het antwoord: 5,8(%) (1 punt)\n\nof (methode 2):\n\n• De groeifactor per 15 jaar is 2,32 (1 punt)\n• Beschrijven hoe de vergelijking g¹⁵ = 2,32 kan worden opgelost, met g de groeifactor per jaar (1 punt)\n• De oplossing: g = 1,0577... (1 punt)\n• Het antwoord: 5,8(%) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De groeifactor per 15 jaar is 2,32"
+          },
+          {
+            "points": 1,
+            "description": "De groeifactor per jaar is 2,32¹ᐟ¹⁵"
+          },
+          {
+            "points": 1,
+            "description": "Dit is 1,0577 …"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 5,8(%)"
+          }
+        ],
+        "grading_note": "– Als gerekend wordt met 132/15, voor deze vraag geen scorepunten toekennen.\n– Als gerekend wordt met 2,32/15, voor deze vraag maximaal 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-plasticafval-antw3.png"
+        ]
+      },
+      {
+        "title": "Plasticafval",
+        "question_number": 4,
+        "answer_text": "Methode 1:\n• Als de percentages gelijk zijn geldt 0,42 · t + 13,17 = −0,47 · t + 55,73 (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• (De oplossing is 47,8 ... dus) het antwoord: 48 (jaar) (1 punt)\n\nof (methode 2):\n\n• Bij t = 47 geldt P_b = 32,91 en P_s = 33,64 (1 punt)\n• Bij t = 48 geldt P_b = 33,33 en P_s = 33,17 (1 punt)\n• Het antwoord: 48 (jaar) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als de percentages gelijk zijn geldt 0,42 · t + 13,17 = −0,47 · t + 55,73"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "(De oplossing is 47,8 ... dus) het antwoord: 48 (jaar)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-plasticafval-antw4.png"
+        ]
+      },
+      {
+        "title": "Plasticafval",
+        "question_number": 5,
+        "answer_text": "Methode 1:\n• 100 = P_b + P_s + P_nv + P_r (1 punt)\n• 100 = 0,42 · t + 13,17 − 0,47 · t + 55,73 − 0,24 · t + 25,95 + P_r (1 punt)\n• 100 = 94,85 − 0,29 · t + P_r (1 punt)\n• P_r = 0,29 · t + 5,15 (dus op de puntjes moeten staan 0,29 en 5,15) (1 punt)\n\nof (methode 2):\n\n• P_r = 100 − P_b − P_s − P_nv (1 punt)\n• Bij t = 0 geldt P_r = 5,15 dus P_r = ⋯ · t + 5,15 (op de tweede puntjes moet dus 5,15 staan) (1 punt)\n• Bij t = 1 geldt P_r = 5,44 dus 5,44 = ⋯ · 1 + 5,15 (1 punt)\n• Op de eerste puntjes moet dan 0,29 staan (dus P_r = 0,29 · t + 5,15) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "100 = P_b + P_s + P_nv + P_r"
+          },
+          {
+            "points": 1,
+            "description": "100 = 0,42 · t + 13,17 − 0,47 · t + 55,73 − 0,24 · t + 25,95 + P_r"
+          },
+          {
+            "points": 1,
+            "description": "100 = 94,85 − 0,29 · t + P_r"
+          },
+          {
+            "points": 1,
+            "description": "P_r = 0,29 · t + 5,15 (dus op de puntjes moeten staan 0,29 en 5,15)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-plasticafval-antw5.png"
+        ]
+      },
+      {
+        "title": "Huisartsen",
+        "question_number": 6,
+        "answer_text": "Methode 1:\n• Bij een verdubbeling geldt 1983 · 1,0576ᵗ = 2 · 1983 (of een gelijkwaardige vergelijking) (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• (De oplossing is 12,3 ... dus) het antwoord: 13 (jaar) (1 punt)\n\nof (methode 2):\n\n• (Bij het zoeken naar een waarde t waarbij H_W = 2 · 1983 = 3966 volgt dat) bij t = 12 geldt H_W = 3883,1 ... (1 punt)\n• Bij t = 13 geldt H_W = 4106,7 ... (1 punt)\n• Het antwoord: 13 (jaar) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij een verdubbeling geldt 1983 · 1,0576ᵗ = 2 · 1983 (of een gelijkwaardige vergelijking)"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "(De oplossing is 12,3 ... dus) het antwoord: 13 (jaar)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-huisartsen-antw6.png"
+        ]
+      },
+      {
+        "title": "Huisartsen",
+        "question_number": 7,
+        "answer_text": "• Het totaal aantal huisartsen op 1 januari 2006 is 11622/1,2 (= 9685) (1 punt)\n• In 9 jaar kwamen er 11622-9685(=1937) huisartsen bij (1 punt)\n• Per jaar kwamen er 1937/9 = 215,22 ... huisartsen bij, dus het antwoord: 215,2 (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het totaal aantal huisartsen op 1 januari 2006 is 11622/1,2 (= 9685)"
+          },
+          {
+            "points": 1,
+            "description": "In 9 jaar kwamen er 11622-9685(=1937) huisartsen bij"
+          },
+          {
+            "points": 1,
+            "description": "Per jaar kwamen er 1937/9 = 215,22 ... huisartsen bij, dus het antwoord: 215,2"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-huisartsen-antw7.png"
+        ]
+      },
+      {
+        "title": "Huisartsen",
+        "question_number": 8,
+        "answer_text": "• Er moet gelden (1983 · 1,0576ᵗ)/(215 · t + 11622) = 1/2 (of een gelijkwaardige vergelijking) (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• De oplossing: t = 26,2 ... (1 punt)\n• Het antwoord: (op 1 januari) 2042 (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er moet gelden (1983 · 1,0576ᵗ)/(215 · t + 11622) = 1/2 (of een gelijkwaardige vergelijking)"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "De oplossing: t = 26,2 ..."
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: (op 1 januari) 2042"
+          }
+        ],
+        "grading_note": "Als gerekend is met een nauwkeurigere waarde dan 215, hiervoor geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-huisartsen-antw8.png"
+        ]
+      },
+      {
+        "title": "Huisartsen",
+        "question_number": 9,
+        "answer_text": "• De cumulatieve percentages in het eerste studiejaar (1 punt)\n• De cumulatieve percentages in het zesde studiejaar (1 punt)\n• De V_cp-waarden (1 punt)\n\nTabel uit het CV (antwoord | cumulatief percentage in eerste studiejaar | cumulatief percentage in zesde studiejaar | V_cp):\nnee | 12 | 3 | 9\nwaarschijnlijk niet | 36 | 22 | 14\nmisschien | 50 | 37 | 13\nwaarschijnlijk wel | 88 | 81 | 7\nja | (100) | (100) | (0)\n\n• max V_cp is 14 ; (max V_cp ≤ 20, dus) het verschil is gering (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De cumulatieve percentages in het eerste studiejaar"
+          },
+          {
+            "points": 1,
+            "description": "De cumulatieve percentages in het zesde studiejaar"
+          },
+          {
+            "points": 1,
+            "description": "De V_cp-waarden"
+          },
+          {
+            "points": 1,
+            "description": "max V_cp is 14 ; (max V_cp ≤ 20, dus) het verschil is gering"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-huisartsen-antw9.png"
+        ]
+      },
+      {
+        "title": "Huisartsen",
+        "question_number": 10,
+        "answer_text": "• Het gebruik van proporties (1 punt)\n• Er geldt 4 · √(0,19(1 − 0,19)/n) = 0,2409 − 0,1391 (of een gelijkwaardige vergelijking) (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• (De oplossing is 237,6 ... dus) het antwoord: 238 (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het gebruik van proporties"
+          },
+          {
+            "points": 1,
+            "description": "Er geldt 4 · √(0,19(1 − 0,19)/n) = 0,2409 − 0,1391 (of een gelijkwaardige vergelijking)"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "(De oplossing is 237,6 ... dus) het antwoord: 238"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-huisartsen-antw10.png"
+        ]
+      },
+      {
+        "title": "Spanwijdte en lichaamslengte",
+        "question_number": 11,
+        "answer_text": "• Er geldt 1,071 = S_Rico/1,96 en 1,079 = S_Badr/1,98 (1 punt)\n• Hieruit volgt S_Rico = 2,099 ... (m) en S_Badr = 2,136 ... (m) (1 punt)\n• (2,136 ... − 2,099 ... = 0,037 ... m dus) het antwoord: 4 (cm) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er geldt 1,071 = S_Rico/1,96 en 1,079 = S_Badr/1,98"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt S_Rico = 2,099 ... (m) en S_Badr = 2,136 ... (m)"
+          },
+          {
+            "points": 1,
+            "description": "(2,136 ... − 2,099 ... = 0,037 ... m dus) het antwoord: 4 (cm)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-spanwijdte-en-lichaamslengte-antw11.png"
+        ]
+      },
+      {
+        "title": "Spanwijdte en lichaamslengte",
+        "question_number": 12,
+        "answer_text": "Methode 1:\n• Er moet gelden dat S/L_A kleiner is dan S/L_B (1 punt)\n• Dan moet L_A groter zijn dan L_B, dus vechter A heeft de grootste lichaamslengte (1 punt)\n\nof (methode 2):\n\n• Het kiezen van waarden voor S, V_A en V_B met V_A < V_B (1 punt)\n• Het berekenen van L_A en (de lagere waarde) L_B, dus vechter A heeft de grootste lichaamslengte (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er moet gelden dat S/L_A kleiner is dan S/L_B"
+          },
+          {
+            "points": 1,
+            "description": "Dan moet L_A groter zijn dan L_B, dus vechter A heeft de grootste lichaamslengte"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-spanwijdte-en-lichaamslengte-antw12.png"
+        ]
+      },
+      {
+        "title": "Spanwijdte en lichaamslengte",
+        "question_number": 13,
+        "answer_text": "• Er geldt 1,01445 = (L + 0,025)/L (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• (De oplossing is 1,730 ... dus) het antwoord: 1,73 (m) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er geldt 1,01445 = (L + 0,025)/L"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "(De oplossing is 1,730 ... dus) het antwoord: 1,73 (m)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-spanwijdte-en-lichaamslengte-antw13.png"
+        ]
+      },
+      {
+        "title": "Spanwijdte en lichaamslengte",
+        "question_number": 14,
+        "answer_text": "• E = (1,029 − 1,010)/(½(0,028 + 0,021)) (1 punt)\n• E = 0,77 ... (1 punt)\n• (0,4 < E ≤ 0,8, dus) het verschil is middelmatig (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "E = (1,029 − 1,010)/(½(0,028 + 0,021))"
+          },
+          {
+            "points": 1,
+            "description": "E = 0,77 ..."
+          },
+          {
+            "points": 1,
+            "description": "(0,4 < E ≤ 0,8, dus) het verschil is middelmatig"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-spanwijdte-en-lichaamslengte-antw14.png"
+        ]
+      },
+      {
+        "title": "Spanwijdte en lichaamslengte",
+        "question_number": 15,
+        "answer_text": "• Uitspraak I is onjuist, want in de klasse 'middengewicht' en/of de klasse 'licht-zwaargewicht' behoort de kampioen tot de 25% vechters met de laagste waarde van V (1 punt)\n• Uitspraak II is juist, want bij alle vier de gewichtsklassen ligt de mediaan van de verhouding V boven de 1,025 (1 punt)\n• Uitspraak III is juist, want voor elk tweetal gewichtsklassen geldt dat de boxen elkaar overlappen en dat de medianen in de box van de andere boxplot liggen (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Uitspraak I is onjuist, want in de klasse 'middengewicht' en/of de klasse 'licht-zwaargewicht' behoort de kampioen tot de 25% vechters met de laagste waarde van V"
+          },
+          {
+            "points": 1,
+            "description": "Uitspraak II is juist, want bij alle vier de gewichtsklassen ligt de mediaan van de verhouding V boven de 1,025"
+          },
+          {
+            "points": 1,
+            "description": "Uitspraak III is juist, want voor elk tweetal gewichtsklassen geldt dat de boxen elkaar overlappen en dat de medianen in de box van de andere boxplot liggen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-spanwijdte-en-lichaamslengte-antw15.png"
+        ]
+      },
+      {
+        "title": "Levensduur van apparaten",
+        "question_number": 16,
+        "answer_text": "• Het inzicht dat bij 75% moet worden afgelezen (1 punt)\n• Een passende toelichting, bijvoorbeeld: t = 8,7 bij type A en t = 7,4 bij type B of: het gevraagde antwoord is de horizontale afstand tussen de grafieken (1 punt)\n• Het antwoord: 1,3 (jaar) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het inzicht dat bij 75% moet worden afgelezen"
+          },
+          {
+            "points": 1,
+            "description": "Een passende toelichting, bijvoorbeeld: t = 8,7 bij type A en t = 7,4 bij type B of: het gevraagde antwoord is de horizontale afstand tussen de grafieken"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 1,3 (jaar)"
+          }
+        ],
+        "grading_note": "– Als op een andere hoogte dan 75% wordt afgelezen, voor deze vraag maximaal 1 scorepunt toekennen.\n– De gebruiksjaren mogen worden afgelezen met een marge van 0,1 jaar.\n– Het verschil in jaren mag worden gegeven met een marge van 0,2 jaar.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-levensduur-van-apparaten-antw16.png"
+        ]
+      },
+      {
+        "title": "Levensduur van apparaten",
+        "question_number": 17,
+        "answer_text": "• P = 100 · (1 − 0,368^((t/4)²)) (1 punt)\n• P = 100 − 100 · 0,368^((t/4)²) (1 punt)\n• P = 100 − 100 · 0,368^(t²/4²) (1 punt)\n• P = 100 − 100 · 0,368^((1/16) · t²) (= 100 − 100 · 0,368^(0,0625 · t²)) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "P = 100 · (1 − 0,368^((t/4)²))"
+          },
+          {
+            "points": 1,
+            "description": "P = 100 − 100 · 0,368^((t/4)²)"
+          },
+          {
+            "points": 1,
+            "description": "P = 100 − 100 · 0,368^(t²/4²)"
+          },
+          {
+            "points": 1,
+            "description": "P = 100 − 100 · 0,368^((1/16) · t²) (= 100 − 100 · 0,368^(0,0625 · t²))"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-levensduur-van-apparaten-antw17.png"
+        ]
+      },
+      {
+        "title": "Levensduur van apparaten",
+        "question_number": 18,
+        "answer_text": "• t = 2 geeft P = 22,1 ... (%) (1 punt)\n• t = 3 geeft P = 43,0 ... (%) (1 punt)\n• Het antwoord: 21(%) (1 punt)\n\n⚠️ CONTROLEREN: de Opmerking noemt 't = 4 en t = 4' (letterlijk uit het CV overgenomen); mogelijk een typfout in het CV.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "t = 2 geeft P = 22,1 ... (%)"
+          },
+          {
+            "points": 1,
+            "description": "t = 3 geeft P = 43,0 ... (%)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 21(%)"
+          }
+        ],
+        "grading_note": "Als gerekend is met t = 4 en t = 4, voor deze vraag maximaal 2 scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-levensduur-van-apparaten-antw18.png"
+        ]
+      },
+      {
+        "title": "Levensduur van apparaten",
+        "question_number": 19,
+        "answer_text": "• Als t heel groot wordt, dan wordt 0,0625 · t² heel groot (1 punt)\n• Dan wordt 0,368^(0,0625 · t²) ongeveer 0 (want de groeifactor is kleiner dan 1) (1 punt)\n• Dus P wordt ongeveer 100 − 100 · 0 = 100 (dus alle broodroosters gaan kapot) (1 punt)\n\n⚠️ CONTROLEREN: in het CV staat bij het tweede antwoordelement '· t²' niet in de exponent (0,368^0,0625 · t²); hier weergegeven als 0,368^(0,0625 · t²), conform de formule elders in het CV.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als t heel groot wordt, dan wordt 0,0625 · t² heel groot"
+          },
+          {
+            "points": 1,
+            "description": "Dan wordt 0,368^(0,0625 · t²) ongeveer 0 (want de groeifactor is kleiner dan 1)"
+          },
+          {
+            "points": 1,
+            "description": "Dus P wordt ongeveer 100 − 100 · 0 = 100 (dus alle broodroosters gaan kapot)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-levensduur-van-apparaten-antw19.png"
+        ]
+      },
+      {
+        "title": "Levensduur van apparaten",
+        "question_number": 20,
+        "answer_text": "• P = 736/920 · 100 (= 80) (1 punt)\n• Er geldt 100 · (1 − 0,368^((6/s)³)) = 80 (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Het antwoord: 5,1 (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "P = 736/920 · 100 (= 80)"
+          },
+          {
+            "points": 1,
+            "description": "Er geldt 100 · (1 − 0,368^((6/s)³)) = 80"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 5,1"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-levensduur-van-apparaten-antw20.png"
+        ]
+      },
+      {
+        "title": "Eitje koken op vakantie",
+        "question_number": 21,
+        "answer_text": "Methode 1:\n• Op zeeniveau (is de luchtdruk 1000 mbar en) kookt water bij 100 (°C) (1 punt)\n• Op zeeniveau is de opwarmtijd (100 − 10)/14,5 (= 6,20 ...) (min) (1 punt)\n• Op 2000 m (is de luchtdruk 800 mbar en) kookt water bij 94 (°C) (1 punt)\n• Op 2000 m is de opwarmtijd (94 − 10)/14,5 (= 5,79 ...) (min) (1 punt)\n• Op 2000 m is de opwarmtijd dus 6,20 ... − 5,79 ... (= 0,41 ...) (min) korter (1 punt)\n• Op 2000 m is de bereidingstijd 2 − 0,41 ... (= 1,58 ...) (min) langer dan op zeeniveau (1 punt)\n• (60 · 1,58 ... = 95,1 ... dus) het verschil in bereidingstijd is 95 (s) (1 punt)\n\nof (methode 2):\n\n• Op zeeniveau (is de luchtdruk 1000 mbar en) kookt water bij 100 (°C) (1 punt)\n• Op zeeniveau is de opwarmtijd (100 − 10)/14,5 (= 6,20 ...) (min) (1 punt)\n• Op 2000 m (is de luchtdruk 800 mbar en) kookt water bij 94 (°C) (1 punt)\n• Op 2000 m is de opwarmtijd (94 − 10)/14,5 (= 5,79 ...) (min) (1 punt)\n• Op zeeniveau is de opwarmtijd 6,20 ... · 60 (= 372,41 ...) (s), op 2000 m is de opwarmtijd 5,79 ... · 60 (= 347,58 ...) (s) (1 punt)\n• Op 2000 m is de bereidingstijd 347,58 ... + 120 + de kooktijd van het ei op zeeniveau (s), (467,58… + de kooktijd van het ei op zeeniveau) (s) (1 punt)\n• (467,58 ... − 372,41 ... = 95,1 ... dus) de bereidingstijd op 2000 m is 95 (s) langer dan op zeeniveau (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Op zeeniveau (is de luchtdruk 1000 mbar en) kookt water bij 100 (°C)"
+          },
+          {
+            "points": 1,
+            "description": "Op zeeniveau is de opwarmtijd (100 − 10)/14,5 (= 6,20 ...) (min)"
+          },
+          {
+            "points": 1,
+            "description": "Op 2000 m (is de luchtdruk 800 mbar en) kookt water bij 94 (°C)"
+          },
+          {
+            "points": 1,
+            "description": "Op 2000 m is de opwarmtijd (94 − 10)/14,5 (= 5,79 ...) (min)"
+          },
+          {
+            "points": 1,
+            "description": "Op 2000 m is de opwarmtijd dus 6,20 ... − 5,79 ... (= 0,41 ...) (min) korter"
+          },
+          {
+            "points": 1,
+            "description": "Op 2000 m is de bereidingstijd 2 − 0,41 ... (= 1,58 ...) (min) langer dan op zeeniveau"
+          },
+          {
+            "points": 1,
+            "description": "(60 · 1,58 ... = 95,1 ... dus) het verschil in bereidingstijd is 95 (s)"
+          }
+        ],
+        "grading_note": "De kooktemperaturen van water op zeeniveau en op 2000 m boven zeeniveau mogen worden afgelezen met een marge van 1 °C.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-ii-eitje-koken-op-vakantie-antw21.png"
+        ]
+      }
+    ]
+  }
+}
