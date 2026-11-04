@@ -1,0 +1,70 @@
+{
+  "source": "HAVO Wiskunde B 2022-II",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Logaritme en parabool",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Gooilandkaart",
+      "question_numbers": [
+        4
+      ]
+    },
+    {
+      "title": "Wortel en cirkel",
+      "question_numbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Sinusoïden en somfunctie",
+      "question_numbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Luchtvervuiling",
+      "question_numbers": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Minimale omtrek",
+      "question_numbers": [
+        12
+      ]
+    },
+    {
+      "title": "Een raaklijn en een evenwijdige lijn door O",
+      "question_numbers": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Daglengte",
+      "question_numbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Vierkant en halve cirkel",
+      "question_numbers": [
+        18
+      ]
+    }
+  ]
+}
