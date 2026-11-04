@@ -1,0 +1,524 @@
+{
+  "payload": {
+    "subject_name": "Wiskunde A",
+    "level": "HAVO",
+    "source": "HAVO Wiskunde A 2023-I",
+    "answers": [
+      {
+        "title": "Huisartsenzorg",
+        "question_number": 1,
+        "answer_text": "• Het gemiddelde aantal consulten per persoon was in 2020 1,1 · 4,5 (= 4,95) (1 punt)\n• De gemiddelde uitgaven aan huisartsenzorg per persoon waren U = 60 + 10 · 4,5 (= 105) in 2018 en U = 60 + 10 · 4,95 (= 109,50) in 2020 (1 punt)\n• (109,50 − 105)/105 · 100 (%) (1 punt)\n• Het antwoord: 4(%) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het gemiddelde aantal consulten per persoon was in 2020 1,1 · 4,5 (= 4,95)"
+          },
+          {
+            "points": 1,
+            "description": "De gemiddelde uitgaven aan huisartsenzorg per persoon waren U = 60 + 10 · 4,5 (= 105) in 2018 en U = 60 + 10 · 4,95 (= 109,50) in 2020"
+          },
+          {
+            "points": 1,
+            "description": "(109,50 − 105)/105 · 100 (%)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 4(%)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-huisartsenzorg-antw1.png"
+        ]
+      },
+      {
+        "title": "Huisartsenzorg",
+        "question_number": 2,
+        "answer_text": "• De vergelijking 1,75 + 0,05 · l = 4,5 moet worden opgelost (1 punt)\n• Beschrijven hoe de oplossing l = 55 kan worden gevonden (1 punt)\n• Bij leeftijden (van 5 jaar) tot en met 54 jaar (is het aantal huisartsconsulten lager dan 4,5) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De vergelijking 1,75 + 0,05 · l = 4,5 moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de oplossing l = 55 kan worden gevonden"
+          },
+          {
+            "points": 1,
+            "description": "Bij leeftijden (van 5 jaar) tot en met 54 jaar (is het aantal huisartsconsulten lager dan 4,5)"
+          }
+        ],
+        "grading_note": "Voor een antwoord als ‘55 jaar en jonger’ 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-huisartsenzorg-antw2.png"
+        ]
+      },
+      {
+        "title": "Huisartsenzorg",
+        "question_number": 3,
+        "answer_text": "• Formule 2 invullen in formule 1: U = 60 + 10 · (1,75 + 0,05 · l) (1 punt)\n• Herleiden tot U = 60 + 17,5 + 0,5 · l (1 punt)\n• Het antwoord: U = 0,5 · l + 77,5 (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Formule 2 invullen in formule 1: U = 60 + 10 · (1,75 + 0,05 · l)"
+          },
+          {
+            "points": 1,
+            "description": "Herleiden tot U = 60 + 17,5 + 0,5 · l"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: U = 0,5 · l + 77,5"
+          }
+        ],
+        "grading_note": "Als de kandidaat bij het eerste antwoordelement geen haakjes heeft genoteerd en tot het antwoord U = 0,05 · l + 77,5 komt, voor deze vraag maximaal 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-huisartsenzorg-antw3.png"
+        ]
+      },
+      {
+        "title": "Huisartsenzorg",
+        "question_number": 4,
+        "answer_text": "• Per jaar komen er (9 − 5)/(80 − 65) (= 0,26...) huisartsconsulten bij (1 punt)\n• Voor personen van 92 jaar is het aantal huisartsconsulten 9 + (92 − 80) · 0,26... (= 12,2) (1 punt)\n• Het antwoord: 12 (huisartsconsulten per jaar) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Per jaar komen er (9 − 5)/(80 − 65) (= 0,26...) huisartsconsulten bij"
+          },
+          {
+            "points": 1,
+            "description": "Voor personen van 92 jaar is het aantal huisartsconsulten 9 + (92 − 80) · 0,26... (= 12,2)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 12 (huisartsconsulten per jaar)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-huisartsenzorg-antw4.png"
+        ]
+      },
+      {
+        "title": "Mobiel dataverbruik",
+        "question_number": 5,
+        "answer_text": "• De groeifactor van 2013 tot 2017 is 11,5 (1 punt)\n• Het mobiele dataverbruik in 2013 was 325/11,5 (= 28,2 …) (miljoen GB) (1 punt)\n• Het antwoord: 28 (miljoen GB) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De groeifactor van 2013 tot 2017 is 11,5"
+          },
+          {
+            "points": 1,
+            "description": "Het mobiele dataverbruik in 2013 was 325/11,5 (= 28,2 …) (miljoen GB)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 28 (miljoen GB)"
+          }
+        ],
+        "grading_note": "Als gerekend wordt met een groeifactor van 10,5, voor deze vraag maximaal 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-mobiel-dataverbruik-antw5.png"
+        ]
+      },
+      {
+        "title": "Mobiel dataverbruik",
+        "question_number": 6,
+        "answer_text": "• De groeifactor per 4 jaar is 12/1,6 (1 punt)\n• De groeifactor per jaar is (12/1,6)¹ᐟ⁴ (1 punt)\n• Dat is 1,654 … (1 punt)\n• Het antwoord: 65(%) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De groeifactor per 4 jaar is 12/1,6"
+          },
+          {
+            "points": 1,
+            "description": "De groeifactor per jaar is (12/1,6)¹ᐟ⁴"
+          },
+          {
+            "points": 1,
+            "description": "Dat is 1,654 …"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 65(%)"
+          }
+        ],
+        "grading_note": "– Als gerekend wordt met (12 − 1,6)¹ᐟ⁴, voor deze vraag maximaal 2 scorepunten toekennen.\n– Als gerekend wordt met 12/1,6 : 4, voor deze vraag maximaal 2 scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-mobiel-dataverbruik-antw6.png"
+        ]
+      },
+      {
+        "title": "Mobiel dataverbruik",
+        "question_number": 7,
+        "answer_text": "Voor vraag 7 moeten altijd 4 scorepunten worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor vraag 7 moeten altijd 4 scorepunten worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-mobiel-dataverbruik-antw7.png"
+        ]
+      },
+      {
+        "title": "Mobiel dataverbruik",
+        "question_number": 8,
+        "answer_text": "• De formule is van de vorm V = c/P, voor een zeker getal c (of een gelijkwaardige vorm) (1 punt)\n• Aflezen van een punt, bijvoorbeeld (2,10) (1 punt)\n• (Invullen in de formule geeft c = 20, dus) V = 20/P (of een gelijkwaardige formule) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De formule is van de vorm V = c/P, voor een zeker getal c (of een gelijkwaardige vorm)"
+          },
+          {
+            "points": 1,
+            "description": "Aflezen van een punt, bijvoorbeeld (2,10)"
+          },
+          {
+            "points": 1,
+            "description": "(Invullen in de formule geeft c = 20, dus) V = 20/P (of een gelijkwaardige formule)"
+          }
+        ],
+        "grading_note": "Bij het tweede antwoordelement mag de waarde van P worden afgelezen met een marge van 0,3 eurocent per GB en de waarde van V met een marge van 0,3 GB.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-mobiel-dataverbruik-antw8.png"
+        ]
+      },
+      {
+        "title": "Mobiel dataverbruik",
+        "question_number": 9,
+        "answer_text": "• De toename per jaar is 0,487 (GB per simkaart per maand) in Zuid-Korea en 0,314 in Japan (1 punt)\n• In Zuid-Korea is in 2031 het mobiele dataverbruik 9,99 (GB per simkaart per maand) (1 punt)\n• In 2032 is het mobiele dataverbruik daar 10,477 (GB per simkaart per maand) (1 punt)\n• In Japan is in 2040 het mobiele dataverbruik 9,795 (GB per simkaart per maand) (1 punt)\n• In 2041 is het mobiele dataverbruik daar 10,109 (GB per simkaart per maand), dus het antwoord is (2041 – 2032 =) 9 (jaar) (1 punt)\n\nof\n\n• De toename per jaar is 0,487 (GB per simkaart per maand) in ZuidKorea en 0,314 in Japan (1 punt)\n• Het duurt (10 − 2,198)/0,487 jaar in Zuid-Korea en (10 − 1,945)/0,314 jaar in Japan (1 punt)\n• Dat is in Zuid-Korea 16,02… jaar na 2015 (dus in 2032) (1 punt)\n• Dat is in Japan 25,65… jaar na 2015 (dus in 2041) (1 punt)\n• Het antwoord: 9 (jaar) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De toename per jaar is 0,487 (GB per simkaart per maand) in Zuid-Korea en 0,314 in Japan"
+          },
+          {
+            "points": 1,
+            "description": "In Zuid-Korea is in 2031 het mobiele dataverbruik 9,99 (GB per simkaart per maand)"
+          },
+          {
+            "points": 1,
+            "description": "In 2032 is het mobiele dataverbruik daar 10,477 (GB per simkaart per maand)"
+          },
+          {
+            "points": 1,
+            "description": "In Japan is in 2040 het mobiele dataverbruik 9,795 (GB per simkaart per maand)"
+          },
+          {
+            "points": 1,
+            "description": "In 2041 is het mobiele dataverbruik daar 10,109 (GB per simkaart per maand), dus het antwoord is (2041 – 2032 =) 9 (jaar)"
+          }
+        ],
+        "grading_note": "Als een kandidaat ervan uit is gegaan dat het gemiddelde mobiele dataverbruik per simkaart van maand tot maand kan verschillen en daardoor op een andere wijze afrondt en uitkomt op een verschil van 10 jaar, hiervoor geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-mobiel-dataverbruik-antw9.png"
+        ]
+      },
+      {
+        "title": "Bewegen jongeren genoeg?",
+        "question_number": 10,
+        "answer_text": "Voorbeeld van een juist antwoord:\nBij deze steekproeftrekking heeft een leerling op een school met minder klassen per leerjaar een grotere kans om in de steekproef terecht te komen dan een leerling op een school met meer klassen per leerjaar (dus de steekproef is niet aselect). (2 punten)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Bij deze steekproeftrekking heeft een leerling op een school met minder klassen per leerjaar een grotere kans om in de steekproef terecht te komen dan een leerling op een school met meer klassen per leerjaar (dus de steekproef is niet aselect)"
+          }
+        ],
+        "grading_note": "Als alleen opgemerkt wordt dat de steekproef aselect is als iedere leerling dezelfde kans heeft om in de steekproef terecht te komen, voor deze vraag 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-bewegen-jongeren-genoeg-antw10.png"
+        ]
+      },
+      {
+        "title": "Bewegen jongeren genoeg?",
+        "question_number": 11,
+        "answer_text": "• Geslacht is geen ordinale variabele, want er is geen sprake van een logische ordening (1 punt)\n• Schoolniveau is wel een ordinale variabele, want er is sprake van een logische ordening (1 punt)\n• Gezinswelvaart is wel een ordinale variabele, want er is sprake van een logische ordening (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Geslacht is geen ordinale variabele, want er is geen sprake van een logische ordening"
+          },
+          {
+            "points": 1,
+            "description": "Schoolniveau is wel een ordinale variabele, want er is sprake van een logische ordening"
+          },
+          {
+            "points": 1,
+            "description": "Gezinswelvaart is wel een ordinale variabele, want er is sprake van een logische ordening"
+          }
+        ],
+        "grading_note": "Als bij een antwoordelement de toelichting ontbreekt of onjuist is, voor dit antwoordelement geen scorepunt toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-bewegen-jongeren-genoeg-antw11.png"
+        ]
+      },
+      {
+        "title": "Bewegen jongeren genoeg?",
+        "question_number": 12,
+        "answer_text": "• Voor de meisjes: 0,764 ± 2 · √(0,764 · (1 − 0,764)/2736) (1 punt)\n• Dit geeft [0,74...; 0,78...] (1 punt)\n• Voor de jongens: 0,842 ± 2 · √(0,842 · (1 − 0,842)/2835) (1 punt)\n• Dit geeft [0,82...; 0,85...] (1 punt)\n• (0,78... is kleiner dan 0,82... dus) de intervallen overlappen elkaar niet (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor de meisjes: 0,764 ± 2 · √(0,764 · (1 − 0,764)/2736)"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft [0,74...; 0,78...]"
+          },
+          {
+            "points": 1,
+            "description": "Voor de jongens: 0,842 ± 2 · √(0,842 · (1 − 0,842)/2835)"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft [0,82...; 0,85...]"
+          },
+          {
+            "points": 1,
+            "description": "(0,78... is kleiner dan 0,82... dus) de intervallen overlappen elkaar niet"
+          }
+        ],
+        "grading_note": "Als alleen de bovengrens van het betrouwbaarheidsinterval voor de meisjes berekend wordt en de ondergrens van het betrouwbaarheidsinterval voor de jongens, hiervoor geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-bewegen-jongeren-genoeg-antw12.png"
+        ]
+      },
+      {
+        "title": "Bewegen jongeren genoeg?",
+        "question_number": 13,
+        "answer_text": "• Een correcte kruistabel (2 punten)\n            havo     vwo      (totaal)\nwel lid     1188     981      (2169)\ngeen lid    424      233      (657)\n(totaal)    (1612)   (1214)   (2826)\n• phi = (1188 · 233 − 981 · 424)/√((1188 + 981)(1188 + 424)(981 + 233)(424 + 233)) (1 punt)\n• phi = −0,08...; (dit ligt tussen −0,2 en 0,2) dus het verschil is gering (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een correcte kruistabel"
+          },
+          {
+            "points": 1,
+            "description": "phi = (1188 · 233 − 981 · 424)/√((1188 + 981)(1188 + 424)(981 + 233)(424 + 233))"
+          },
+          {
+            "points": 1,
+            "description": "phi = −0,08...; (dit ligt tussen −0,2 en 0,2) dus het verschil is gering"
+          }
+        ],
+        "grading_note": "Voor het eerste antwoordelement voor elke fout 1 scorepunt in mindering brengen met een maximum van 2 scorepunten.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-bewegen-jongeren-genoeg-antw13.png"
+        ]
+      },
+      {
+        "title": "Bewegen jongeren genoeg?",
+        "question_number": 14,
+        "answer_text": "• E = (4,6 − 3,8)/(½(S + S)) (= 0,8/S) (1 punt)\n• 0,8/S = 0,4 geeft S = 2 (1 punt)\n• 0,8/S = 0,8 geeft S = 1 (1 punt)\n• Het antwoord: S moet groter dan of gelijk aan 1 zijn en kleiner dan 2 (of: 1 ≤ S < 2) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "E = (4,6 − 3,8)/(½(S + S)) (= 0,8/S)"
+          },
+          {
+            "points": 1,
+            "description": "0,8/S = 0,4 geeft S = 2"
+          },
+          {
+            "points": 1,
+            "description": "0,8/S = 0,8 geeft S = 1"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: S moet groter dan of gelijk aan 1 zijn en kleiner dan 2 (of: 1 ≤ S < 2)"
+          }
+        ],
+        "grading_note": "Voor antwoorden als 1 ≤ S ≤ 2, 1 < S < 2, 1 < S ≤ 2 en ‘tussen 1 en 2’ geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-bewegen-jongeren-genoeg-antw14.png"
+        ]
+      },
+      {
+        "title": "Formules in de F1",
+        "question_number": 15,
+        "answer_text": "• De vergelijking 80 = 4,026 · v²/(7644 + 0,1929 · v²)⁰ʼ⁸ moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• (De oplossing van de vergelijking is v = 218,7 ..., dus) het antwoord is 218 (km per uur) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De vergelijking 80 = 4,026 · v²/(7644 + 0,1929 · v²)⁰ʼ⁸ moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "(De oplossing van de vergelijking is v = 218,7 ..., dus) het antwoord is 218 (km per uur)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-formules-in-de-f1-antw15.png"
+        ]
+      },
+      {
+        "title": "Formules in de F1",
+        "question_number": 16,
+        "answer_text": "[Figuur: grafiek van v (km/u) tegen r (m) met het gebied boven de grafiek gearceerd — zie afbeelding]\n\nEen voorbeeld van een juiste toelichting:\n• De coureur vliegt uit de bocht als de snelheid groter is dan de maximale bochtensnelheid, die snelheden liggen boven de grafiek (1 punt)\n• Het juiste gebied aangeven (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De coureur vliegt uit de bocht als de snelheid groter is dan de maximale bochtensnelheid, die snelheden liggen boven de grafiek"
+          },
+          {
+            "points": 1,
+            "description": "Het juiste gebied aangeven"
+          }
+        ],
+        "grading_note": "Als er geen juiste toelichting is gegeven, voor deze vraag geen scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-formules-in-de-f1-antw16.png"
+        ]
+      },
+      {
+        "title": "Formules in de F1",
+        "question_number": 17,
+        "answer_text": "• T = (0,5 · 0,1 · 60²)/(n + 1) + n · 20 (1 punt)\n• T = 180/(n + 1) + 20n (1 punt)\n• T = (180 + 20n(n + 1))/(n + 1) (1 punt)\n• T = (180 + 20n² + 20n)/(n + 1) (dus T = (20n² + 20n + 180)/(n + 1)) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "T = (0,5 · 0,1 · 60²)/(n + 1) + n · 20"
+          },
+          {
+            "points": 1,
+            "description": "T = 180/(n + 1) + 20n"
+          },
+          {
+            "points": 1,
+            "description": "T = (180 + 20n(n + 1))/(n + 1)"
+          },
+          {
+            "points": 1,
+            "description": "T = (180 + 20n² + 20n)/(n + 1) (dus T = (20n² + 20n + 180)/(n + 1))"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-formules-in-de-f1-antw17.png"
+        ]
+      },
+      {
+        "title": "Formules in de F1",
+        "question_number": 18,
+        "answer_text": "• Er moet gezocht worden naar de waarde van n waarvoor T minimaal is (1 punt)\n• Bij n = 1 is T = 110, bij n = 2 is T = 100 en bij n = 3 is T = 105 (1 punt)\n• Het antwoord: 2 (pitstops) (1 punt)\n\nof\n\n• Er moet gezocht worden naar de waarde van n waarvoor T minimaal is (1 punt)\n• Beschrijven hoe dit minimum kan worden gevonden (1 punt)\n• Het antwoord: 2 (pitstops) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er moet gezocht worden naar de waarde van n waarvoor T minimaal is"
+          },
+          {
+            "points": 1,
+            "description": "Bij n = 1 is T = 110, bij n = 2 is T = 100 en bij n = 3 is T = 105"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 2 (pitstops)"
+          }
+        ],
+        "grading_note": "Als in het eerste antwoordalternatief bij het tweede antwoordelement alleen n = 2 met T = 100 wordt genoemd, voor deze vraag maximaal 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-formules-in-de-f1-antw18.png"
+        ]
+      },
+      {
+        "title": "Formules in de F1",
+        "question_number": 19,
+        "answer_text": "• De vergelijking −1 + 45√(3/(20P)) = 3 moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• De oplossing: P = 18,98... (1 punt)\n• Het antwoord: 5,8 (seconden)(korter per pitstop) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De vergelijking −1 + 45√(3/(20P)) = 3 moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "De oplossing: P = 18,98..."
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 5,8 (seconden)(korter per pitstop)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-formules-in-de-f1-antw19.png"
+        ]
+      },
+      {
+        "title": "Formules in de F1",
+        "question_number": 20,
+        "answer_text": "• Als P kleiner wordt, dan wordt 3/(20P) groter (1 punt)\n• Als 3/(20P) groter wordt, dan wordt √(3/(20P)) ook groter (1 punt)\n• Dus wordt ook −1 + 45√(3/(20P)) groter (dus N neemt toe) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als P kleiner wordt, dan wordt 3/(20P) groter"
+          },
+          {
+            "points": 1,
+            "description": "Als 3/(20P) groter wordt, dan wordt √(3/(20P)) ook groter"
+          },
+          {
+            "points": 1,
+            "description": "Dus wordt ook −1 + 45√(3/(20P)) groter (dus N neemt toe)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-formules-in-de-f1-antw20.png"
+        ]
+      },
+      {
+        "title": "Wel het huis, maar niet de grond",
+        "question_number": 21,
+        "answer_text": "• De waarde van de grond is bij aankoop 0,35 · 240 000 (= 84 000) (euro) (1 punt)\n• Bij duo-koop is de maandelijkse huurprijs voor de grond (0,015 · 84 000)/12 (= 105) (euro) (1 punt)\n• Bij duo-koop zijn de totale maandelijkse kosten 505 + 105 (= 610) (euro) (1 punt)\n• Het verschil tussen de totale kosten voor hypotheek (en grondhuur) bij normale koop en bij duo-koop is 30 · 12 · (774 − 610) (= 59 040) (euro) (1 punt)\n• De waarde van de grond is na 30 jaar 84 000 · 1,02³⁰ (= 152 154) (euro) (1 punt)\n• Duo-koop is 152 154 − 59 040 = 93114 (euro) duurder (1 punt)\n• Het antwoord: ze kopen het huis wel (1 punt)\n\nof\n\n• De totale hypotheekkosten zijn bij gewone koop 30 · 12 · 774 (= 278 640) (euro) en bij duo-koop 30 · 12 · 505 (= 181800) (euro) (1 punt)\n• De waarde van de grond is bij aankoop 0,35 · 240 000 (= 84 000) (euro) (1 punt)\n• De jaarlijkse huurprijs van de grond is 0,015 · 84 000 (= 1260) (euro) (1 punt)\n• De totale kosten voor de huur van de grond bij duo-koop zijn 30 · 1260 (= 37 800) (euro) (1 punt)\n• De waarde van de grond is na 30 jaar 84 000 · 1,02³⁰ (= 152 154) (euro) (1 punt)\n• Het verschil tussen de kosten bij duo-koop en bij gewone koop is 181800 + 37 800 + 152154 − 278 640 = 93114 (euro) (1 punt)\n• Het antwoord: ze kopen het huis wel (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De waarde van de grond is bij aankoop 0,35 · 240 000 (= 84 000) (euro)"
+          },
+          {
+            "points": 1,
+            "description": "Bij duo-koop is de maandelijkse huurprijs voor de grond (0,015 · 84 000)/12 (= 105) (euro)"
+          },
+          {
+            "points": 1,
+            "description": "Bij duo-koop zijn de totale maandelijkse kosten 505 + 105 (= 610) (euro)"
+          },
+          {
+            "points": 1,
+            "description": "Het verschil tussen de totale kosten voor hypotheek (en grondhuur) bij normale koop en bij duo-koop is 30 · 12 · (774 − 610) (= 59 040) (euro)"
+          },
+          {
+            "points": 1,
+            "description": "De waarde van de grond is na 30 jaar 84 000 · 1,02³⁰ (= 152 154) (euro)"
+          },
+          {
+            "points": 1,
+            "description": "Duo-koop is 152 154 − 59 040 = 93114 (euro) duurder"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: ze kopen het huis wel"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-i-wel-het-huis-maar-niet-de-grond-antw21.png"
+        ]
+      }
+    ]
+  }
+}
