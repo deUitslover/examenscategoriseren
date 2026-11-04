@@ -1,0 +1,568 @@
+{
+ "subject_name": "Wiskunde A",
+ "level": "HAVO",
+ "source": "HAVO Wiskunde A 2019-I",
+ "answers": [
+  {
+   "title": "Stil asfalt",
+   "question_number": 1,
+   "answer_text": "• Voor d = 80 is I = (10⁰˒¹·⁸⁰⁻⁹ =) 0,1 (1 punt)\n• Voor d = 74 is I = (10⁰˒¹·⁷⁴⁻⁹ =) 0,025… (1 punt)\n• De procentuele verandering is (0,025… − 0,1)/0,1 · 100(%) (1 punt)\n• Het antwoord: 75(%) (1 punt)\n\nof\n\n• Voor d = 80 is I = (10⁰˒¹·⁸⁰⁻⁹ =) 0,1 (1 punt)\n• Voor d = 74 is I = (10⁰˒¹·⁷⁴⁻⁹ =) 0,025… (1 punt)\n• 0,025… is 25% van 0,1 (1 punt)\n• Het antwoord: 75(%) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor d = 80 is I = (10⁰˒¹·⁸⁰⁻⁹ =) 0,1"
+    },
+    {
+     "points": 1,
+     "description": "Voor d = 74 is I = (10⁰˒¹·⁷⁴⁻⁹ =) 0,025…"
+    },
+    {
+     "points": 1,
+     "description": "De procentuele verandering is (0,025… − 0,1)/0,1 · 100(%)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 75(%)"
+    }
+   ],
+   "grading_note": "Voor het antwoord −75(%) geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-stil-asfalt-antw1.png"
+   ]
+  },
+  {
+   "title": "Stil asfalt",
+   "question_number": 2,
+   "answer_text": "• a = (77,0 − 73,7)/84 (1 punt)\n• Het antwoord: a = 0,039 (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "a = (77,0 − 73,7)/84"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: a = 0,039"
+    }
+   ],
+   "grading_note": "Als a is gevonden door de vergelijking 77 = a · 84 + 73,7 op te lossen, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-stil-asfalt-antw2.png"
+   ]
+  },
+  {
+   "title": "Stil asfalt",
+   "question_number": 3,
+   "answer_text": "• De vergelijking 10⁰˒¹⁽⁰˒⁰⁴ᵗ ⁺ ⁷³˒⁷⁾ ⁻ ⁹ = 0,058 moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Het antwoord: 98 (maanden) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 10⁰˒¹⁽⁰˒⁰⁴ᵗ ⁺ ⁷³˒⁷⁾ ⁻ ⁹ = 0,058 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 98 (maanden)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-stil-asfalt-antw3.png"
+   ]
+  },
+  {
+   "title": "Homeopathische middelen",
+   "question_number": 4,
+   "answer_text": "• Voor de C-reeks gelden verdunningen van 1:100 (1 punt)\n• Er is 100 · 100 · 100 · 100 · 100 · 100 keer verdund (1 punt)\n• Het antwoord: het (1/)1 000000000000e (of (1/)10¹²e) deel (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor de C-reeks gelden verdunningen van 1:100"
+    },
+    {
+     "points": 1,
+     "description": "Er is 100 · 100 · 100 · 100 · 100 · 100 keer verdund"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: het (1/)1 000000000000e (of (1/)10¹²e) deel"
+    }
+   ],
+   "grading_note": "Als gerekend wordt met 100 · 6, voor deze vraag maximaal 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-homeopathische-middelen-antw4.png"
+   ]
+  },
+  {
+   "title": "Homeopathische middelen",
+   "question_number": 5,
+   "answer_text": "• De groeifactor is (1 − 99,998/100 =) 0,00002 (1 punt)\n• 0,00002 = 2/100000 (= 1/50000) (1 punt)\n• Dit is (een verdunning van) 1 : 50000 (, dus op de puntjes moet staan 50000) (1 punt)\n\nof\n\n• Na elke verdunning is er (100 − 99,998 =) 0,002(%) oertinctuur over (1 punt)\n• Dit is (een verdunning van) 1 : 100/0,002 (1 punt)\n• Dit is gelijk aan 1 : 50000 (, dus op de puntjes moet staan 50000) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De groeifactor is (1 − 99,998/100 =) 0,00002"
+    },
+    {
+     "points": 1,
+     "description": "0,00002 = 2/100000 (= 1/50000)"
+    },
+    {
+     "points": 1,
+     "description": "Dit is (een verdunning van) 1 : 50000 (, dus op de puntjes moet staan 50000)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-homeopathische-middelen-antw5.png"
+   ]
+  },
+  {
+   "title": "Homeopathische middelen",
+   "question_number": 6,
+   "answer_text": "• 100 = 10² en 1/10 = 10⁻¹ (1 punt)\n• P = 10² · (10⁻¹)ⁿ (of (10⁻¹)ⁿ = 10⁻ⁿ) (1 punt)\n• P = 10² · 10⁻ⁿ, dus P = 10²⁻ⁿ (1 punt)\n\nof\n\n• 100 = 10² en (1/10)ⁿ = 1ⁿ/10ⁿ (1 punt)\n• P = 10² · 1/10ⁿ (1 punt)\n• P = 10²/10ⁿ, dus P = 10²⁻ⁿ (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "100 = 10² en 1/10 = 10⁻¹"
+    },
+    {
+     "points": 1,
+     "description": "P = 10² · (10⁻¹)ⁿ (of (10⁻¹)ⁿ = 10⁻ⁿ)"
+    },
+    {
+     "points": 1,
+     "description": "P = 10² · 10⁻ⁿ, dus P = 10²⁻ⁿ"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-homeopathische-middelen-antw6.png"
+   ]
+  },
+  {
+   "title": "Homeopathische middelen",
+   "question_number": 7,
+   "answer_text": "• D12 geeft een verhouding van 1 : 10¹² (1 punt)\n• 2,5 miljoen liter is 2,5 · 10⁶ · 1000 = 2,5 · 10⁹ ml (1 punt)\n• De genoemde verhouding is 0,05 : (20 · 2,5 · 10⁹) (1 punt)\n• Dat komt overeen met een verhouding van 1 : 10¹² (dus de bewering klopt) (1 punt)\n\nof\n\n• D12 geeft een verhouding van 1 : 10¹² (1 punt)\n• 0,05 ml is 0,05/1000 = 0,000051 (1 punt)\n• Het aantal waterdruppels in 20 olympische zwembaden is gelijk aan (20 · 2,5 · 10⁶)/0,00005 (1 punt)\n• Dat is gelijk aan 10¹² en dus is de verhouding (van het volume van één waterdruppel tot het volume van 20 olympische zwembaden) gelijk aan 1 : 10¹² (dus de bewering klopt) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "D12 geeft een verhouding van 1 : 10¹²"
+    },
+    {
+     "points": 1,
+     "description": "2,5 miljoen liter is 2,5 · 10⁶ · 1000 = 2,5 · 10⁹ ml"
+    },
+    {
+     "points": 1,
+     "description": "De genoemde verhouding is 0,05 : (20 · 2,5 · 10⁹)"
+    },
+    {
+     "points": 1,
+     "description": "Dat komt overeen met een verhouding van 1 : 10¹² (dus de bewering klopt)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-homeopathische-middelen-antw7.png"
+   ]
+  },
+  {
+   "title": "Examenanalyse",
+   "question_number": 8,
+   "answer_text": "• Bij een normale verdeling heeft 2,5% van de kandidaten een score die meer dan tweemaal de standaardafwijking lager ligt dan het gemiddelde (1 punt)\n• 2,5% van 950 = 23,75 (of 23 of 24) (1 punt)\n• De scores moeten lager zijn dan 22,5 − 2 · 6,9 = 8,7 (1 punt)\n• Aflezen uit de tabel of figuur 1: er zijn 24 kandidaten met een score lager dan 8,7 (dus evenveel als je bij de normale verdeling zou verwachten) (1 punt)\n\nof\n\n• De scores moeten lager zijn dan 22,5 − 2 · 6,9 = 8,7 (1 punt)\n• Aflezen uit de tabel of figuur 1: er zijn 24 kandidaten met een score lager dan 8,7 (1 punt)\n• 24/950 · 100(%) = 2,5…(%) (1 punt)\n• Dit is evenveel als je bij de normale verdeling zou verwachten (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Bij een normale verdeling heeft 2,5% van de kandidaten een score die meer dan tweemaal de standaardafwijking lager ligt dan het gemiddelde"
+    },
+    {
+     "points": 1,
+     "description": "2,5% van 950 = 23,75 (of 23 of 24)"
+    },
+    {
+     "points": 1,
+     "description": "De scores moeten lager zijn dan 22,5 − 2 · 6,9 = 8,7"
+    },
+    {
+     "points": 1,
+     "description": "Aflezen uit de tabel of figuur 1: er zijn 24 kandidaten met een score lager dan 8,7 (dus evenveel als je bij de normale verdeling zou verwachten)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-examenanalyse-antw8.png"
+   ]
+  },
+  {
+   "title": "Examenanalyse",
+   "question_number": 9,
+   "answer_text": "Voorbeeld van een juist antwoord:\n\n• Uit figuur 2 blijkt dat de modus 39 (scorepunten) is (1 punt)\n• In de tabel is de mediaan te vinden waar de cumulatieve frequentie (voor het eerst minstens) de helft van 45813 (of: 22 907) is (1 punt)\n• Dit is het geval bij 36 (scorepunten) (1 punt)\n• Dus het verschil is 3 (scorepunten) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Uit figuur 2 blijkt dat de modus 39 (scorepunten) is"
+    },
+    {
+     "points": 1,
+     "description": "In de tabel is de mediaan te vinden waar de cumulatieve frequentie (voor het eerst minstens) de helft van 45813 (of: 22 907) is"
+    },
+    {
+     "points": 1,
+     "description": "Dit is het geval bij 36 (scorepunten)"
+    },
+    {
+     "points": 1,
+     "description": "Dus het verschil is 3 (scorepunten)"
+    }
+   ],
+   "grading_note": "Voor de berekening van de modus en de mediaan mag ook van alleen de tabel of alleen figuur 2 gebruikgemaakt worden.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-examenanalyse-antw9.png"
+   ]
+  },
+  {
+   "title": "Examenanalyse",
+   "question_number": 10,
+   "answer_text": "• 5530 kandidaten haalden een cijfer lager dan 5,5 (1 punt)\n• Het percentage kandidaten met een onvoldoende was 5530/45813 · 100(%) (1 punt)\n• Dit is 12,…(%) (dus iets meer dan de helft van 22,8(%)) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "5530 kandidaten haalden een cijfer lager dan 5,5"
+    },
+    {
+     "points": 1,
+     "description": "Het percentage kandidaten met een onvoldoende was 5530/45813 · 100(%)"
+    },
+    {
+     "points": 1,
+     "description": "Dit is 12,…(%) (dus iets meer dan de helft van 22,8(%))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-examenanalyse-antw10.png"
+   ]
+  },
+  {
+   "title": "Examenanalyse",
+   "question_number": 11,
+   "answer_text": "• Hier moet de formule p ± 2 · √(p(1 − p)/n) worden gebruikt (1 punt)\n• Dit geeft 217/950 ± 2 · √((217/950 · (1 − 217/950))/950) (= 0,2284 ± 0,0272…) (1 punt)\n• Het antwoord: [20,1; 25,6] (%) (1 punt)\n\nof\n\n• Hier moet de formule p ± 2 · √(p(1 − p)/n) worden gebruikt (1 punt)\n• Dit geeft 0,228 ± 2 · √(0,228 · (1 − 0,228)/950) (= 0,228 ± 0,0272…) (1 punt)\n• Het antwoord: [20,1; 25,6] (%) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Hier moet de formule p ± 2 · √(p(1 − p)/n) worden gebruikt"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft 217/950 ± 2 · √((217/950 · (1 − 217/950))/950) (= 0,2284 ± 0,0272…)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: [20,1; 25,6] (%)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-examenanalyse-antw11.png"
+   ]
+  },
+  {
+   "title": "Examenanalyse",
+   "question_number": 12,
+   "answer_text": "Voorbeeld van een juist antwoord:\n\n• Een puntenwolk (of spreidingsdiagram) (1 punt)\n• Hiervoor zijn (de resultaten van) de kandidaten nodig die in beide groepen zitten (1 punt)\n• Per kandidaat zijn de scores van beide vakken nodig (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Een puntenwolk (of spreidingsdiagram)"
+    },
+    {
+     "points": 1,
+     "description": "Hiervoor zijn (de resultaten van) de kandidaten nodig die in beide groepen zitten"
+    },
+    {
+     "points": 1,
+     "description": "Per kandidaat zijn de scores van beide vakken nodig"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-examenanalyse-antw12.png"
+   ]
+  },
+  {
+   "title": "File voorkomen",
+   "question_number": 13,
+   "answer_text": "• Het invullen van v = 93 in de formule (1 punt)\n• Dit geeft A = 59,… (meter) (1 punt)\n• (De afstand tussen de twee auto's is maar 50 meter, dus) hij houdt niet minimaal de veilige afstand aan (1 punt)\n\nof\n\n• Het oplossen van de vergelijking 50 = v · (v/188 + 0,14) (1 punt)\n• Dit geeft v = 84,6… (km per uur) (1 punt)\n• De auto's rijden harder en bij een hogere snelheid hoort een hogere veilige afstand, dus hij houdt niet minimaal de veilige afstand aan (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het invullen van v = 93 in de formule"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft A = 59,… (meter)"
+    },
+    {
+     "points": 1,
+     "description": "(De afstand tussen de twee auto's is maar 50 meter, dus) hij houdt niet minimaal de veilige afstand aan"
+    }
+   ],
+   "grading_note": "Als in het tweede antwoordalternatief de waarde van v is afgerond op 85 (km per uur), hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-file-voorkomen-antw13.png"
+   ]
+  },
+  {
+   "title": "File voorkomen",
+   "question_number": 14,
+   "answer_text": "• Als v groter wordt, wordt v/188 ook groter (1 punt)\n• Dan wordt v/188 + 0,14 ook groter (1 punt)\n• (De factor v in de formule van A wordt groter en) dus wordt v · (v/188 + 0,14) ook groter (dus de veilige afstand wordt groter als de snelheid toeneemt) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Als v groter wordt, wordt v/188 ook groter"
+    },
+    {
+     "points": 1,
+     "description": "Dan wordt v/188 + 0,14 ook groter"
+    },
+    {
+     "points": 1,
+     "description": "(De factor v in de formule van A wordt groter en) dus wordt v · (v/188 + 0,14) ook groter (dus de veilige afstand wordt groter als de snelheid toeneemt)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-file-voorkomen-antw14.png"
+   ]
+  },
+  {
+   "title": "File voorkomen",
+   "question_number": 15,
+   "answer_text": "• W = A + 4,50 (1 punt)\n• A = v²/188 + 0,14v (1 punt)\n• Dus W = 0,01v² + 0,14v + 4,50 (of W = 0,01v² + 0,14v + 4,5) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "W = A + 4,50"
+    },
+    {
+     "points": 1,
+     "description": "A = v²/188 + 0,14v"
+    },
+    {
+     "points": 1,
+     "description": "Dus W = 0,01v² + 0,14v + 4,50 (of W = 0,01v² + 0,14v + 4,5)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-file-voorkomen-antw15.png"
+   ]
+  },
+  {
+   "title": "File voorkomen",
+   "question_number": 16,
+   "answer_text": "• Bepaald moet worden voor welke waarde van v bij C een maximum optreedt (1 punt)\n• Beschrijven hoe deze waarde van v bepaald kan worden (1 punt)\n• Het antwoord: 36 (km per uur) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Bepaald moet worden voor welke waarde van v bij C een maximum optreedt"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze waarde van v bepaald kan worden"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 36 (km per uur)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-file-voorkomen-antw16.png"
+   ]
+  },
+  {
+   "title": "File voorkomen",
+   "question_number": 17,
+   "answer_text": "• De vergelijking 1000v/(4,5 + 0,09v + 0,0035v²) = 2500 moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Dit geeft (v = 18,… of) v = 70,… (1 punt)\n• Het antwoord: 70 (km per uur) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 1000v/(4,5 + 0,09v + 0,0035v²) = 2500 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft (v = 18,… of) v = 70,…"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 70 (km per uur)"
+    }
+   ],
+   "grading_note": "Als de kandidaat alleen v = 18,… als oplossing in het derde antwoordelement geeft, maximaal 2 scorepunten voor deze vraag toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-file-voorkomen-antw17.png"
+   ]
+  },
+  {
+   "title": "File voorkomen",
+   "question_number": 18,
+   "answer_text": "• C = (1000 · 130/(4,5 + 0,09 · 130 + 0,0035 · 130²) =) 1725,… (auto's per uur) (1 punt)\n• Dit komt overeen met 1725,…/12 = 143,… auto's per 5 minuten (1 punt)\n• Binnen het tijdsinterval 7.15-7.20 (uur) moesten de automobilisten voor het eerst een lagere snelheid gaan aanhouden (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "C = (1000 · 130/(4,5 + 0,09 · 130 + 0,0035 · 130²) =) 1725,… (auto's per uur)"
+    },
+    {
+     "points": 1,
+     "description": "Dit komt overeen met 1725,…/12 = 143,… auto's per 5 minuten"
+    },
+    {
+     "points": 1,
+     "description": "Binnen het tijdsinterval 7.15-7.20 (uur) moesten de automobilisten voor het eerst een lagere snelheid gaan aanhouden"
+    }
+   ],
+   "grading_note": "Als de kandidaat als antwoord het tijdsinterval geeft waarvoor de cumulatieve frequentie voor het eerst 1725,… is, voor deze vraag maximaal 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-file-voorkomen-antw18.png"
+   ]
+  },
+  {
+   "title": "Pasteurisatie",
+   "question_number": 19,
+   "answer_text": "• Als 90% afsterft, blijft 10% van de bacteriën in leven (1 punt)\n• Aflezen van het tijdsverschil bij twee geschikte waarden, bijvoorbeeld bij 300 miljoen en 30 miljoen (1 punt)\n• Het antwoord: 1 (minuut) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Als 90% afsterft, blijft 10% van de bacteriën in leven"
+    },
+    {
+     "points": 1,
+     "description": "Aflezen van het tijdsverschil bij twee geschikte waarden, bijvoorbeeld bij 300 miljoen en 30 miljoen"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 1 (minuut)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-pasteurisatie-antw19.png"
+   ]
+  },
+  {
+   "title": "Pasteurisatie",
+   "question_number": 20,
+   "answer_text": "Voorbeeld van een juiste grafiek: (zie de afbeelding voor de getekende grafiek van de verhittingstijd (minuten) tegen de diameter (mm))\n\n• Bij de diameters 40, 60, 80, 100, 120 en 140 horen de verhittingstijden 53, 88, 133, 183, 240 en 305 (minuten) (2 punten)\n• Bij beide assen de juiste variabele of de juiste eenheid of beide noteren (1 punt)\n• Het tekenen van de grafiek (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "Bij de diameters 40, 60, 80, 100, 120 en 140 horen de verhittingstijden 53, 88, 133, 183, 240 en 305 (minuten)"
+    },
+    {
+     "points": 1,
+     "description": "Bij beide assen de juiste variabele of de juiste eenheid of beide noteren"
+    },
+    {
+     "points": 1,
+     "description": "Het tekenen van de grafiek"
+    }
+   ],
+   "grading_note": "− De verhittingstijden mogen worden afgelezen met een marge van 5 minuten.\n− Als de afgelezen verhittingstijden niet zijn opgeschreven, maar wel juist zijn getekend, hiervoor geen scorepunten in mindering brengen.\n− Als de diameter verticaal en de verhittingstijd horizontaal uitgezet is, hiervoor geen scorepunten in mindering brengen.\n− De grafiek mag ook uitsluitend vanaf diameter 40 tot en met diameter 140 zijn getekend.\n− Als de grafiek is doorgetrokken naar (0, 0), hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-pasteurisatie-antw20.png"
+   ]
+  },
+  {
+   "title": "Pasteurisatie",
+   "question_number": 21,
+   "answer_text": "• 4,5 cm = 45 mm (1 punt)\n• V = 0,7 · 45 + 0,0089 · 45² (1 punt)\n• Het antwoord: 50 (minuten) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "4,5 cm = 45 mm"
+    },
+    {
+     "points": 1,
+     "description": "V = 0,7 · 45 + 0,0089 · 45²"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 50 (minuten)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-pasteurisatie-antw21.png"
+   ]
+  },
+  {
+   "title": "Pasteurisatie",
+   "question_number": 22,
+   "answer_text": "• 2,5 uur is 150 minuten (1 punt)\n• De vergelijking 0,7d + 0,0089d² = 150 moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Het antwoord: (maximaal) 96 (mm) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "2,5 uur is 150 minuten"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking 0,7d + 0,0089d² = 150 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: (maximaal) 96 (mm)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-pasteurisatie-antw22.png"
+   ]
+  },
+  {
+   "title": "Autodiefstal",
+   "question_number": 23,
+   "answer_text": "Voorbeelden van een juist antwoord:\n\n• Aflezen: het aantal gestolen personenauto's in 2005 is 13750 (1 punt)\n• De toename per jaar van het aantal personenauto's is (7930000 − 6550000)/12 = 115000 (1 punt)\n• De (gemiddelde) jaarlijkse toename van het aantal gestolen personenauto's is 0,0015 · 115000 = 172,5 (1 punt)\n• Aflezen: het aantal gestolen personenauto's in 2013 is 12000 (1 punt)\n• Het duurt nog (13750 − 12000)/172,5 = 10,1… (jaar) (1 punt)\n• Het antwoord: 2024 (1 punt)\n\nof\n\n• Aflezen: het aantal gestolen personenauto's in 2005 is 13750 (1 punt)\n• De toename per jaar van het aantal personenauto's is (7930000 − 6550000)/12 = 115000 (1 punt)\n• Een formule voor het aantal personenauto's A is: A = 6550000 + 115000t (met t = 0 in 2001) (1 punt)\n• De vergelijking 0,0015 · (6550000 + 115000t) = 13750 moet worden opgelost (1 punt)\n• Dit geeft t = 22,7… (1 punt)\n• Het antwoord: 2024 (1 punt)\n\nof\n\n• Aflezen: het aantal gestolen personenauto's in 2005 is 13750 (1 punt)\n• (Berekend moet worden in welk jaar het totaal aantal personenauto's gelijk is aan) 13750/0,0015 = 9170000 (personenauto's) (of nauwkeuriger) (1 punt)\n• De toename per jaar van het aantal personenauto's is (7930000 − 6550000)/12 = 115000 (1 punt)\n• De toename van het aantal personenauto's moet gelijk zijn aan 9170000 − 7930000 = 1240000 (1 punt)\n• Die stijging duurt nog 1240000/115000 = 10,7… (jaar) (of nauwkeuriger) (1 punt)\n• Het antwoord: 2024 (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Aflezen: het aantal gestolen personenauto's in 2005 is 13750"
+    },
+    {
+     "points": 1,
+     "description": "De toename per jaar van het aantal personenauto's is (7930000 − 6550000)/12 = 115000"
+    },
+    {
+     "points": 1,
+     "description": "De (gemiddelde) jaarlijkse toename van het aantal gestolen personenauto's is 0,0015 · 115000 = 172,5"
+    },
+    {
+     "points": 1,
+     "description": "Aflezen: het aantal gestolen personenauto's in 2013 is 12000"
+    },
+    {
+     "points": 1,
+     "description": "Het duurt nog (13750 − 12000)/172,5 = 10,1… (jaar)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 2024"
+    }
+   ],
+   "grading_note": "− Het aantal gestolen auto's mag worden afgelezen met een marge van 250.\n− Om de toename per jaar te berekenen mogen ook andere waarden uit de tabel gekozen zijn.\n− In het eerste antwoordalternatief mag de jaarlijkse toename van het aantal gestolen auto's op een geheel getal afgerond worden.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-i-autodiefstal-antw23.png"
+   ]
+  }
+ ]
+}
