@@ -1,0 +1,476 @@
+{
+ "subject_name": "Wiskunde A",
+ "level": "HAVO",
+ "source": "HAVO Wiskunde A 2019-II",
+ "answers": [
+  {
+   "title": "Kieviten",
+   "question_number": 1,
+   "answer_text": "• De groeifactor per jaar is 0,97 (1 punt)\n• De groeifactor per 20 jaar is 0,97²⁰ (1 punt)\n• De groeifactor per 20 jaar is 0,543… (1 punt)\n• Het antwoord: 46(%) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De groeifactor per jaar is 0,97"
+    },
+    {
+     "points": 1,
+     "description": "De groeifactor per 20 jaar is 0,97²⁰"
+    },
+    {
+     "points": 1,
+     "description": "De groeifactor per 20 jaar is 0,543…"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 46(%)"
+    }
+   ],
+   "grading_note": "Als gerekend wordt met 0,97 · 20, voor deze vraag 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-kieviten-antw1.png"
+   ]
+  },
+  {
+   "title": "Kieviten",
+   "question_number": 2,
+   "answer_text": "• De vergelijking 0,95ᵗ = 0,5 (t in jaren, t = 0 in 2010) moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• De oplossing: t = 13,5… (jaar) (1 punt)\n• Het antwoord: in 2024 (1 punt)\n\nof\n\n• De vergelijking 0,95ᵗ = 0,5 (t in jaren, t = 0 in 2010) moet worden opgelost (1 punt)\n• 0,95¹³ = 0,51… (1 punt)\n• 0,95¹⁴ = 0,48… (1 punt)\n• Het antwoord: in 2024 (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 0,95ᵗ = 0,5 (t in jaren, t = 0 in 2010) moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "De oplossing: t = 13,5… (jaar)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: in 2024"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-kieviten-antw2.png"
+   ]
+  },
+  {
+   "title": "Kieviten",
+   "question_number": 3,
+   "answer_text": "• In dat jaar (1992) is het aantal kieviten 130000 (1 punt)\n• De trendlijn geeft aan 80000 (1 punt)\n• De afwijking is (130000 − 80000)/80000 · 100(%) (1 punt)\n• Het antwoord: 63(%) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "In dat jaar (1992) is het aantal kieviten 130000"
+    },
+    {
+     "points": 1,
+     "description": "De trendlijn geeft aan 80000"
+    },
+    {
+     "points": 1,
+     "description": "De afwijking is (130000 − 80000)/80000 · 100(%)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 63(%)"
+    }
+   ],
+   "grading_note": "Bij het aflezen is een marge van 2000 kieviten toegestaan.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-kieviten-antw3.png"
+   ]
+  },
+  {
+   "title": "Kieviten",
+   "question_number": 4,
+   "answer_text": "• De aantallen aflezen, in 2000: 80000 en in 2015: 69000 (kieviten) (1 punt)\n• De afname per jaar is (80000 − 69000)/15 = 733,… (kieviten) (1 punt)\n• In 2021 zijn er dus 69000 − 6 · 733,… (kieviten) (1 punt)\n• Het antwoord: 65000 (kieviten) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De aantallen aflezen, in 2000: 80000 en in 2015: 69000 (kieviten)"
+    },
+    {
+     "points": 1,
+     "description": "De afname per jaar is (80000 − 69000)/15 = 733,… (kieviten)"
+    },
+    {
+     "points": 1,
+     "description": "In 2021 zijn er dus 69000 − 6 · 733,… (kieviten)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 65000 (kieviten)"
+    }
+   ],
+   "grading_note": "Bij het aflezen is een marge van 2000 kieviten toegestaan.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-kieviten-antw4.png"
+   ]
+  },
+  {
+   "title": "Slaaponderzoek bij de San",
+   "question_number": 5,
+   "answer_text": "Het juiste punt in het spreidingsdiagram aangeven (zie het omcirkelde punt in het spreidingsdiagram in de afbeelding).",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "Het juiste punt in het spreidingsdiagram aangeven"
+    }
+   ],
+   "grading_note": "Als in plaats van het correcte punt het punt meteen rechts van het juiste punt is gemarkeerd, voor deze vraag 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-slaaponderzoek-bij-de-san-antw5.png"
+   ]
+  },
+  {
+   "title": "Slaaponderzoek bij de San",
+   "question_number": 6,
+   "answer_text": "• De spreidingsbreedte van Tᵢₙ is (24 + 1,5) − 20,9 = 4,6 (uur) (1 punt)\n• De spreidingsbreedte van Tᵤᵢₜ is 7,8 − 4,9 = 2,9 (uur) (1 punt)\n• 4,6/2,9 = 1,58…, dus het antwoord is 1,6 (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De spreidingsbreedte van Tᵢₙ is (24 + 1,5) − 20,9 = 4,6 (uur)"
+    },
+    {
+     "points": 1,
+     "description": "De spreidingsbreedte van Tᵤᵢₜ is 7,8 − 4,9 = 2,9 (uur)"
+    },
+    {
+     "points": 1,
+     "description": "4,6/2,9 = 1,58…, dus het antwoord is 1,6"
+    }
+   ],
+   "grading_note": "− De tijdstippen mogen afgelezen worden met een marge van 0,1 uur.\n− De beide spreidingsbreedtes mogen ook uitsluitend met behulp van opmeten zijn bepaald.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-slaaponderzoek-bij-de-san-antw6.png"
+   ]
+  },
+  {
+   "title": "Slaaponderzoek bij de San",
+   "question_number": 7,
+   "answer_text": "Een voorbeeld van een juist antwoord:\n• Conclusie I: de punten liggen niet op of rond een schuine lijn (of kromme) (dus is er geen verband tussen Tᵢₙ en Tᵤᵢₜ) (2 punten)\n• Conclusie II: voor een normale verdeling zouden er in het midden meer punten moeten liggen dan aan de randen en dat is niet zo (dus Tᵢₙ is niet normaal verdeeld) (2 punten)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "Conclusie I: de punten liggen niet op of rond een schuine lijn (of kromme) (dus is er geen verband tussen Tᵢₙ en Tᵤᵢₜ)"
+    },
+    {
+     "points": 2,
+     "description": "Conclusie II: voor een normale verdeling zouden er in het midden meer punten moeten liggen dan aan de randen en dat is niet zo (dus Tᵢₙ is niet normaal verdeeld)"
+    }
+   ],
+   "grading_note": "Voor beide antwoordelementen mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-slaaponderzoek-bij-de-san-antw7.png"
+   ]
+  },
+  {
+   "title": "Slaaponderzoek bij de San",
+   "question_number": 8,
+   "answer_text": "• Als hij om 21 uur naar bed zou gaan mag hij pas vanaf 6 uur opstaan, als hij om 22 uur naar bed zou gaan mag hij pas vanaf 7 uur opstaan (1 punt)\n• Het tekenen van de lijn door (21, 6) en (22, 7) (1 punt)\n• Het inzicht dat het aantal punten boven of op de lijn geteld moet worden (1 punt)\n• Het antwoord: 3 (nachten) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Als hij om 21 uur naar bed zou gaan mag hij pas vanaf 6 uur opstaan, als hij om 22 uur naar bed zou gaan mag hij pas vanaf 7 uur opstaan"
+    },
+    {
+     "points": 1,
+     "description": "Het tekenen van de lijn door (21, 6) en (22, 7)"
+    },
+    {
+     "points": 1,
+     "description": "Het inzicht dat het aantal punten boven of op de lijn geteld moet worden"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 3 (nachten)"
+    }
+   ],
+   "grading_note": "− Voor het antwoord 11 (of 10) (nachten), doordat het aantal punten boven of op de lijn door (21, 5) en (22, 6) is geteld, maximaal 3 scorepunten toekennen.\n− Als door middel van het berekenen van de slaaptijd bij een aantal verschillende punten tot het antwoord 3 (nachten) is gekomen, zonder dat dit voor alle punten is berekend of zonder een sluitend argument waarom het juiste antwoord 3 is, voor deze vraag maximaal 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-slaaponderzoek-bij-de-san-antw8.png"
+   ]
+  },
+  {
+   "title": "Slaaponderzoek bij de San",
+   "question_number": 9,
+   "answer_text": "Een voorbeeld van een juiste uitleg:\n• Bij I: de boxen overlappen elkaar niet, dus je kunt inderdaad op grond van figuur 3 concluderen dat het verschil groot is (2 punten)\n• Bij II: gemiddeldes kun je niet aflezen in een boxplot, dus je kunt deze conclusie niet trekken op grond van figuur 3 (2 punten)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "Bij I: de boxen overlappen elkaar niet, dus je kunt inderdaad op grond van figuur 3 concluderen dat het verschil groot is"
+    },
+    {
+     "points": 2,
+     "description": "Bij II: gemiddeldes kun je niet aflezen in een boxplot, dus je kunt deze conclusie niet trekken op grond van figuur 3"
+    }
+   ],
+   "grading_note": "− De argumentatie en de conclusie moeten met elkaar in overeenstemming zijn.\n− Voor beide antwoordelementen mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-slaaponderzoek-bij-de-san-antw9.png"
+   ]
+  },
+  {
+   "title": "Bandbreedte",
+   "question_number": 10,
+   "answer_text": "• Aflezen op hoogte B = 300: 500 Mbit duurt 1,7 (seconden) (1 punt)\n• Aflezen op hoogte B = 300: 1000 Mbit duurt 3,3 (seconden) (1 punt)\n• Het antwoord: (3,3 − 1,7 =) 1,6 (seconden) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Aflezen op hoogte B = 300: 500 Mbit duurt 1,7 (seconden)"
+    },
+    {
+     "points": 1,
+     "description": "Aflezen op hoogte B = 300: 1000 Mbit duurt 3,3 (seconden)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: (3,3 − 1,7 =) 1,6 (seconden)"
+    }
+   ],
+   "grading_note": "− Bij het aflezen van de verwerkingstijden is een marge van 0,1 seconde toegestaan.\n− Het verschil in verwerkingstijd bij B = 300 mag ook uitsluitend met behulp van opmeten zijn bepaald.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-bandbreedte-antw10.png"
+   ]
+  },
+  {
+   "title": "Bandbreedte",
+   "question_number": 11,
+   "answer_text": "• De formule is van de vorm B = constante/T (1 punt)\n• Het invullen van een punt op de grafiek, bijvoorbeeld 500 = constante/2 (1 punt)\n• Het antwoord: B = 1000/T (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De formule is van de vorm B = constante/T"
+    },
+    {
+     "points": 1,
+     "description": "Het invullen van een punt op de grafiek, bijvoorbeeld 500 = constante/2"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: B = 1000/T"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-bandbreedte-antw11.png"
+   ]
+  },
+  {
+   "title": "Bandbreedte",
+   "question_number": 12,
+   "answer_text": "• Doorsneegebruikers: 900 (Mbit/dag) in maand 4 van jaar 2017 (1 punt)\n• Achterblijvers: 900 (Mbit/dag) in maand 8 van jaar 2019 (1 punt)\n• Het antwoord: 2 jaar en 4 maanden (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Doorsneegebruikers: 900 (Mbit/dag) in maand 4 van jaar 2017"
+    },
+    {
+     "points": 1,
+     "description": "Achterblijvers: 900 (Mbit/dag) in maand 8 van jaar 2019"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 2 jaar en 4 maanden"
+    }
+   ],
+   "grading_note": "Bij het aflezen is een marge van 1 maand toegestaan.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-bandbreedte-antw12.png"
+   ]
+  },
+  {
+   "title": "Bandbreedte",
+   "question_number": 13,
+   "answer_text": "• Het aflezen van twee punten per grafiek (1 punt)\n• Het berekenen van de jaarlijkse groeifactor voor de achterblijvers (1 punt)\n• Het berekenen van de jaarlijkse groeifactor voor de vernieuwers (1 punt)\n• De constatering dat deze (bij benadering) hetzelfde zijn (1 punt)\n• De conclusie dat (daarmee ook de jaarlijkse groeipercentages gelijk zijn en) de lezer dus ongelijk heeft (1 punt)\n\nof\n\n• Het aflezen van twee punten per grafiek over een interval van gelijke breedte (1 punt)\n• Het berekenen van de groeifactor voor de achterblijvers over dit interval (1 punt)\n• Het berekenen van de groeifactor voor de vernieuwers over dit interval (1 punt)\n• De constatering dat deze (bij benadering) hetzelfde zijn (1 punt)\n• De conclusie dat daarmee ook de jaarlijkse groeipercentages gelijk zijn en de lezer dus ongelijk heeft (1 punt)\n\nof\n\n• In de figuur lopen de lijnen van de achterblijvers en de vernieuwers evenwijdig (2 punten)\n• Bij evenwijdige lijnen op enkellogaritmisch papier is er sprake van gelijke (jaarlijkse) groeifactoren (of groeipercentages) (2 punten)\n• De conclusie: de lezer heeft ongelijk (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het aflezen van twee punten per grafiek"
+    },
+    {
+     "points": 1,
+     "description": "Het berekenen van de jaarlijkse groeifactor voor de achterblijvers"
+    },
+    {
+     "points": 1,
+     "description": "Het berekenen van de jaarlijkse groeifactor voor de vernieuwers"
+    },
+    {
+     "points": 1,
+     "description": "De constatering dat deze (bij benadering) hetzelfde zijn"
+    },
+    {
+     "points": 1,
+     "description": "De conclusie dat (daarmee ook de jaarlijkse groeipercentages gelijk zijn en) de lezer dus ongelijk heeft"
+    }
+   ],
+   "grading_note": "In het derde antwoordalternatief mogen voor het eerste en tweede antwoordelement elk uitsluitend 0 of 2 scorepunten worden toegekend.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-bandbreedte-antw13.png"
+   ]
+  },
+  {
+   "title": "Nierfunctie",
+   "question_number": 14,
+   "answer_text": "• Thomas: GFR = ((140 − 45) · 78)/(0,81 · 95) (= 96,29…) (1 punt)\n• Julia: GFR = 0,85 · ((140 − 45) · 69)/(0,81 · 95) (= 72,40…) (1 punt)\n• Het antwoord: (96,29… − 72,40… =) 24 (ml per minuut) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Thomas: GFR = ((140 − 45) · 78)/(0,81 · 95) (= 96,29…)"
+    },
+    {
+     "points": 1,
+     "description": "Julia: GFR = 0,85 · ((140 − 45) · 69)/(0,81 · 95) (= 72,40…)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: (96,29… − 72,40… =) 24 (ml per minuut)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-nierfunctie-antw14.png"
+   ]
+  },
+  {
+   "title": "Nierfunctie",
+   "question_number": 15,
+   "answer_text": "• L wordt groter, (dus de teller van de breuk wordt kleiner,) dus hierdoor zou de GFR kleiner worden (1 punt)\n• De GFR wordt groter, dus dit betekent dat K kleiner wordt (1 punt)\n• Bij een kleinere hoeveelheid kreatinine hoort een betere nierfunctie (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "L wordt groter, (dus de teller van de breuk wordt kleiner,) dus hierdoor zou de GFR kleiner worden"
+    },
+    {
+     "points": 1,
+     "description": "De GFR wordt groter, dus dit betekent dat K kleiner wordt"
+    },
+    {
+     "points": 1,
+     "description": "Bij een kleinere hoeveelheid kreatinine hoort een betere nierfunctie"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-nierfunctie-antw15.png"
+   ]
+  },
+  {
+   "title": "Nierfunctie",
+   "question_number": 16,
+   "answer_text": "• GFR = ((140 − 40) · 80)/(0,81 · K) (1 punt)\n• GFR = 8000/0,81 · 1/K (1 punt)\n• GFR = 9877 · K⁻¹ (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "GFR = ((140 − 40) · 80)/(0,81 · K)"
+    },
+    {
+     "points": 1,
+     "description": "GFR = 8000/0,81 · 1/K"
+    },
+    {
+     "points": 1,
+     "description": "GFR = 9877 · K⁻¹"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-nierfunctie-antw16.png"
+   ]
+  },
+  {
+   "title": "Nierfunctie",
+   "question_number": 17,
+   "answer_text": "• Voor Klaas geldt: GFR = 32788 · 95⁻¹˒¹⁵⁴ · 33⁻⁰˒²⁰³ (= 84,17…) (1 punt)\n• De vergelijking ((140 − 33) · G)/(0,81 · 95) = 84,17… moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Het antwoord: 61 (kg) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor Klaas geldt: GFR = 32788 · 95⁻¹˒¹⁵⁴ · 33⁻⁰˒²⁰³ (= 84,17…)"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking ((140 − 33) · G)/(0,81 · 95) = 84,17… moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 61 (kg)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-nierfunctie-antw17.png"
+   ]
+  },
+  {
+   "title": "Nierfunctie",
+   "question_number": 18,
+   "answer_text": "• De vergelijking 24329 · K⁻¹˒¹⁵⁴ · 56⁻⁰˒²⁰³ = 60 moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• De oplossing is K = 89,6… (1 punt)\n• Het antwoord: (maximaal) 89 (micromol per liter) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 24329 · K⁻¹˒¹⁵⁴ · 56⁻⁰˒²⁰³ = 60 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "De oplossing is K = 89,6…"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: (maximaal) 89 (micromol per liter)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-nierfunctie-antw18.png"
+   ]
+  },
+  {
+   "title": "Elektrisch rijden",
+   "question_number": 19,
+   "answer_text": "Voor benzine of diesel:\n• In 2020 zijn er 7725 + (7725 − 7482) = 7968 (× 1000 personenauto's) (1 punt)\n\nVoor lpg (gas):\n• In 2020 zijn er 165 − (203 − 165) = 127 (× 1000 personenauto's) (1 punt)\n\nVoor elektrisch en hybride gezamenlijk:\n• De groeifactor per 4 jaar is 211/70 (= 3,01…) (1 punt)\n• In 2020 zijn er 211 · 3,01… = 636,… (× 1000 personenauto's) (1 punt)\n\nDe conclusie:\n• Het gezamenlijk aandeel elektrische en hybride personenauto's in 2020 is dan 636,…/(7968 + 127 + 636,…) · 100 = 7,2…(%) (1 punt)\n• Het gezamenlijk aandeel elektrische en hybride personenauto's in 2020 zal dus ten minste 5,2% zijn (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor benzine of diesel: in 2020 zijn er 7725 + (7725 − 7482) = 7968 (× 1000 personenauto's)"
+    },
+    {
+     "points": 1,
+     "description": "Voor lpg (gas): in 2020 zijn er 165 − (203 − 165) = 127 (× 1000 personenauto's)"
+    },
+    {
+     "points": 1,
+     "description": "Voor elektrisch en hybride gezamenlijk: de groeifactor per 4 jaar is 211/70 (= 3,01…)"
+    },
+    {
+     "points": 1,
+     "description": "In 2020 zijn er 211 · 3,01… = 636,… (× 1000 personenauto's)"
+    },
+    {
+     "points": 1,
+     "description": "Het gezamenlijk aandeel elektrische en hybride personenauto's in 2020 is dan 636,…/(7968 + 127 + 636,…) · 100 = 7,2…(%)"
+    },
+    {
+     "points": 1,
+     "description": "Het gezamenlijk aandeel elektrische en hybride personenauto's in 2020 zal dus ten minste 5,2% zijn"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2019-ii-elektrisch-rijden-antw19.png"
+   ]
+  }
+ ]
+}
