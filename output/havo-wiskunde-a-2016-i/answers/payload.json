@@ -1,0 +1,565 @@
+{
+ "subject_name": "Wiskunde A",
+ "level": "HAVO",
+ "source": "HAVO Wiskunde A 2016-I",
+ "answers": [
+  {
+   "title": "Vertrouwen",
+   "question_number": 1,
+   "answer_text": "• Aflezen: 6 landen\n• 6/16 · 100%\n• Het antwoord: 38(%) (of nauwkeuriger)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Aflezen: 6 landen"
+    },
+    {
+     "points": 1,
+     "description": "6/16 · 100%"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 38(%) (of nauwkeuriger)"
+    }
+   ],
+   "grading_note": "Als gerekend wordt met 17 landen, voor deze vraag maximaal 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-vertrouwen-antw1.png"
+   ]
+  },
+  {
+   "title": "Vertrouwen",
+   "question_number": 2,
+   "answer_text": "Oostenrijk, Duitsland, Denemarken, Finland, Nederland, Noorwegen, Zweden en Verenigd Koninkrijk.",
+   "scoring_steps": [
+    {
+     "points": 3,
+     "description": "Oostenrijk, Duitsland, Denemarken, Finland, Nederland, Noorwegen, Zweden en Verenigd Koninkrijk"
+    }
+   ],
+   "grading_note": "− Bij elk foutief of ontbrekend land 1 scorepunt in mindering brengen.\n− Wanneer afkortingen van de landen worden opgeschreven in plaats van de volledige landsnamen, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-vertrouwen-antw2.png"
+   ]
+  },
+  {
+   "title": "Vertrouwen",
+   "question_number": 3,
+   "answer_text": "• De steekproefproportie is 4292/7400 = 0,58\n• Het 95%-betrouwbaarheidsinterval is 0,58 ± 2 · √(0,58(1 − 0,58)/7400)\n• Het 95%-betrouwbaarheidsinterval voor het percentage is dus [56,9; 59,1] (of nauwkeuriger)\n• Dit interval ligt binnen het interval [56,6; 59,4], dus uitspraak 1 is juist",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De steekproefproportie is 4292/7400 = 0,58"
+    },
+    {
+     "points": 1,
+     "description": "Het 95%-betrouwbaarheidsinterval is 0,58 ± 2 · √(0,58(1 − 0,58)/7400)"
+    },
+    {
+     "points": 1,
+     "description": "Het 95%-betrouwbaarheidsinterval voor het percentage is dus [56,9; 59,1] (of nauwkeuriger)"
+    },
+    {
+     "points": 1,
+     "description": "Dit interval ligt binnen het interval [56,6; 59,4], dus uitspraak 1 is juist"
+    }
+   ],
+   "grading_note": "− Als de uitleg in het laatste antwoordelement ontbreekt, dan voor deze vraag maximaal 3 scorepunten toekennen.\n− Als de berekende grenzen van het 95%-betrouwbaarheidsinterval afgerond zijn op gehele getallen, en dit interval vergeleken wordt met [56,6 ; 59,4], dan voor deze vraag maximaal 3 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-vertrouwen-antw3.png"
+   ]
+  },
+  {
+   "title": "Duiken",
+   "question_number": 4,
+   "answer_text": "• De vergelijking 1 + d/10 = 5 moet worden opgelost\n• Beschrijven hoe deze vergelijking wordt opgelost\n• Het antwoord: (maximaal) 40 (meter) (diep)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 1 + d/10 = 5 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking wordt opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: (maximaal) 40 (meter) (diep)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-duiken-antw4.png"
+   ]
+  },
+  {
+   "title": "Duiken",
+   "question_number": 5,
+   "answer_text": "• p = 1 + 19/10 = 2,9 (bar)\n• Nodig is: L = 20 · 2,9 · 45 = 2610 (barliter)\n• In de duikfles zit 12 · 200 = 2400 (barliter)\n• (2400 < 2610, dus) nee (Jan kan deze duik niet maken)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "p = 1 + 19/10 = 2,9 (bar)"
+    },
+    {
+     "points": 1,
+     "description": "Nodig is: L = 20 · 2,9 · 45 = 2610 (barliter)"
+    },
+    {
+     "points": 1,
+     "description": "In de duikfles zit 12 · 200 = 2400 (barliter)"
+    },
+    {
+     "points": 1,
+     "description": "(2400 < 2610, dus) nee (Jan kan deze duik niet maken)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-duiken-antw5.png"
+   ]
+  },
+  {
+   "title": "Duiken",
+   "question_number": 6,
+   "answer_text": "• Een tabel met minstens vijf combinaties van d en T, zoals:\n  d = 5 | p = 1,5 | 20 · 1,5 · T = 2400 geeft T = 80\n  d = 10 | p = 2 | 20 · 2 · T = 2400 geeft T = 60\n  d = 15 | p = 2,5 | 20 · 2,5 · T = 2400 geeft T = 48\n  d = 20 | p = 3 | 20 · 3 · T = 2400 geeft T = 40\n  d = 25 | p = 3,5 | 20 · 3,5 · T = 2400 geeft T ≈ 34\n• Het tekenen van minstens vijf punten in de figuur\n• Het vloeiend verbinden van de getekende punten\nof\n• Het opstellen van de formule T = 2400 / (20(1 + d/10))\n• Het berekenen van minstens vijf waarden van T met de formule\n• Het tekenen van deze punten in de figuur\n• Het vloeiend verbinden van de getekende punten\n(In het correctievoorschrift staat hierbij een figuur met de grafiek van de duiktijd T (minuten) tegen de diepte d (meter), van d = 5 tot d = 25.)",
+   "scoring_steps": [
+    {
+     "points": 3,
+     "description": "Een tabel met minstens vijf combinaties van d en T"
+    },
+    {
+     "points": 1,
+     "description": "Het tekenen van minstens vijf punten in de figuur"
+    },
+    {
+     "points": 1,
+     "description": "Het vloeiend verbinden van de getekende punten"
+    }
+   ],
+   "grading_note": "− Als in de eerste oplossingsmethode minder dan vijf, maar wel minimaal één berekening is gegeven, hiervoor geen scorepunten in mindering brengen.\n− Als wel de juiste waarden van T gegeven zijn, maar geen berekening gegeven is, dan voor deze vraag maximaal 4 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-duiken-antw6.png"
+   ]
+  },
+  {
+   "title": "Links naar Wikipedia-artikelen",
+   "question_number": 7,
+   "answer_text": "• 0,43 · 1212195 (= 521244)\n• Het percentage is 521244/2575308 · 100\n• Het antwoord: 20(%) (of nauwkeuriger)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "0,43 · 1212195 (= 521244)"
+    },
+    {
+     "points": 1,
+     "description": "Het percentage is 521244/2575308 · 100"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 20(%) (of nauwkeuriger)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-links-naar-wikipedia-artikelen-antw7.png"
+   ]
+  },
+  {
+   "title": "Links naar Wikipedia-artikelen",
+   "question_number": 8,
+   "answer_text": "• De modus is 1 (want dat aantal binnenkomende links heeft de hoogste frequentie)\n• Het gemiddelde is groter dan de mediaan, want de verdeling is scheef naar rechts\n• De mediaan is groter dan de modus, want er zijn 133515 + 465915 = 599430 artikelen met hoogstens 2 binnenkomende links (en dat is minder dan de helft van het totaal) (of: de mediaan is groter dan de modus, want aflezen uit figuur 1 geeft ongeveer 130000 + 250000 = 380000 artikelen met hoogstens 1 binnenkomende link (en dat is minder dan de helft van het totaal))\n• Het antwoord: modus - mediaan - gemiddelde",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De modus is 1 (want dat aantal binnenkomende links heeft de hoogste frequentie)"
+    },
+    {
+     "points": 1,
+     "description": "Het gemiddelde is groter dan de mediaan, want de verdeling is scheef naar rechts"
+    },
+    {
+     "points": 1,
+     "description": "De mediaan is groter dan de modus, want er zijn 133515 + 465915 = 599430 artikelen met hoogstens 2 binnenkomende links (en dat is minder dan de helft van het totaal) (of: de mediaan is groter dan de modus, want aflezen uit figuur 1 geeft ongeveer 130000 + 250000 = 380000 artikelen met hoogstens 1 binnenkomende link (en dat is minder dan de helft van het totaal))"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: modus - mediaan - gemiddelde"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-links-naar-wikipedia-artikelen-antw8.png"
+   ]
+  },
+  {
+   "title": "Links naar Wikipedia-artikelen",
+   "question_number": 9,
+   "answer_text": "• Het eerste kwartiel is bij ongeveer 0,25 · 2575308 = 643827 artikelen\n• Er zijn 133515 + 465915 = 599430 artikelen met hoogstens 2 binnenkomende links\n• Om op het eerste kwartiel te komen moeten daar ongeveer 44000 artikelen bij; dat kan zeker met de artikelen met 3 binnenkomende links (want daarvan zijn er meer dan 44000)\n• Een artikel met 3 binnenkomende links krijgt 1½ ster, dus Q₁ = 1,5 (en dat is juist aangegeven)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het eerste kwartiel is bij ongeveer 0,25 · 2575308 = 643827 artikelen"
+    },
+    {
+     "points": 1,
+     "description": "Er zijn 133515 + 465915 = 599430 artikelen met hoogstens 2 binnenkomende links"
+    },
+    {
+     "points": 1,
+     "description": "Om op het eerste kwartiel te komen moeten daar ongeveer 44000 artikelen bij; dat kan zeker met de artikelen met 3 binnenkomende links (want daarvan zijn er meer dan 44000)"
+    },
+    {
+     "points": 1,
+     "description": "Een artikel met 3 binnenkomende links krijgt 1½ ster, dus Q₁ = 1,5 (en dat is juist aangegeven)"
+    }
+   ],
+   "grading_note": "Het aantal artikelen met hoogstens 2 binnenkomende links mag worden afgelezen uit figuur 1. Het afgelezen aantal moet tussen 580 000 en 620 000 liggen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-links-naar-wikipedia-artikelen-antw9.png"
+   ]
+  },
+  {
+   "title": "Links naar Wikipedia-artikelen",
+   "question_number": 10,
+   "answer_text": "Juiste voorbeelden bij de boxplot zijn:\n− Uit de boxplot (in combinatie met tabel 2) kun je gemakkelijker afleiden dat ongeveer 25% van de artikelen 30 of meer binnenkomende links heeft.\n− Uit de boxplot (in combinatie met tabel 2) kun je gemakkelijker afleiden dat (minstens) de helft van de artikelen 9 of meer.\n\nJuiste voorbeelden bij de boxplot zijn: ⚠️ CONTROLEREN: zo staat het letterlijk in het correctievoorschrift; gezien de voorbeelden en de opmerking is hier vermoedelijk 'bij het staafdiagram' bedoeld\n− In het staafdiagram kun je bij elk aantal binnenkomende links van 0 t/m 49 de frequentie aflezen.\n− In het staafdiagram kun je zien dat de modus van het aantal binnenkomende links 1 is.\n− In het staafdiagram kun je zien dat de frequenties vanaf 2 binnenkomende links telkens lager worden.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Een juist voorbeeld bij de boxplot"
+    },
+    {
+     "points": 2,
+     "description": "Juiste voorbeelden bij het staafdiagram (1 scorepunt per juist voorbeeld)"
+    }
+   ],
+   "grading_note": "Aan elk juist voorbeeld bij het staafdiagram 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-links-naar-wikipedia-artikelen-antw10.png"
+   ]
+  },
+  {
+   "title": "Start to Run",
+   "question_number": 11,
+   "answer_text": "• (In de tekening is te zien dat) de training is: 15 minuten hardlopen, 2 minuten wandelen, 15 minuten hardlopen en 2 minuten wandelen\n• (15 · 140 = 2100 en 2 · 50 = 100, dus) de grafiek gaat door de punten (15,2100) en (17,2200)\n• De grafiek gaat door de punten (32,4300) en (34,4400)\n• (0,0) en de opeenvolgende punten zijn verbonden door lijnstukken",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(In de tekening is te zien dat) de training is: 15 minuten hardlopen, 2 minuten wandelen, 15 minuten hardlopen en 2 minuten wandelen"
+    },
+    {
+     "points": 1,
+     "description": "(15 · 140 = 2100 en 2 · 50 = 100, dus) de grafiek gaat door de punten (15,2100) en (17,2200)"
+    },
+    {
+     "points": 1,
+     "description": "De grafiek gaat door de punten (32,4300) en (34,4400)"
+    },
+    {
+     "points": 1,
+     "description": "(0,0) en de opeenvolgende punten zijn verbonden door lijnstukken"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-start-to-run-antw11.png"
+   ]
+  },
+  {
+   "title": "Start to Run",
+   "question_number": 12,
+   "answer_text": "• Elke minuut hardlopen wordt 9/60 = 0,15 km afgelegd (dus het aantal km hardlopen is 0,15 · H)\n• Elke minuut wandelen wordt 0,15/2,5 = 0,06 km afgelegd (of (9/2,5)/60 = 0,06) (of 0,06 · 2,5 = 0,15) (dus het aantal km wandelen is 0,06 · W)\n• De totale afgelegde afstand is de som van het aantal km hardlopen en het aantal km wandelen (dus A = 0,15 · H + 0,06 · W)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Elke minuut hardlopen wordt 9/60 = 0,15 km afgelegd (dus het aantal km hardlopen is 0,15 · H)"
+    },
+    {
+     "points": 1,
+     "description": "Elke minuut wandelen wordt 0,15/2,5 = 0,06 km afgelegd (of (9/2,5)/60 = 0,06) (of 0,06 · 2,5 = 0,15) (dus het aantal km wandelen is 0,06 · W)"
+    },
+    {
+     "points": 1,
+     "description": "De totale afgelegde afstand is de som van het aantal km hardlopen en het aantal km wandelen (dus A = 0,15 · H + 0,06 · W)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-start-to-run-antw12.png"
+   ]
+  },
+  {
+   "title": "Start to Run",
+   "question_number": 13,
+   "answer_text": "• Op de eerste trainingsdag van week 1 geldt H = 9 en W = 9, dus A = 0,15 · 9 + 0,06 · 9 = 1,89\n• Op de laatste trainingsdag van week 10 geldt A = 0,15 · 30 (+ 0,06 · 0) = 4,5 (of A = 9 : 2 = 4,5)\n• Het antwoord: (4,5 − 1,89) · 1000 = 2610 (meter)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Op de eerste trainingsdag van week 1 geldt H = 9 en W = 9, dus A = 0,15 · 9 + 0,06 · 9 = 1,89"
+    },
+    {
+     "points": 1,
+     "description": "Op de laatste trainingsdag van week 10 geldt A = 0,15 · 30 (+ 0,06 · 0) = 4,5 (of A = 9 : 2 = 4,5)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: (4,5 − 1,89) · 1000 = 2610 (meter)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-start-to-run-antw13.png"
+   ]
+  },
+  {
+   "title": "Start to Run",
+   "question_number": 14,
+   "answer_text": "• A = 0,15 · H + 0,06 · (60 − H)\n• A = 0,15 · H + 3,6 − 0,06 · H\n• Het antwoord: A = 0,09 · H + 3,6",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "A = 0,15 · H + 0,06 · (60 − H)"
+    },
+    {
+     "points": 1,
+     "description": "A = 0,15 · H + 3,6 − 0,06 · H"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: A = 0,09 · H + 3,6"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-start-to-run-antw14.png"
+   ]
+  },
+  {
+   "title": "Opslag van radioactief afval",
+   "question_number": 15,
+   "answer_text": "• De groeifactor per 30 jaar is 0,5\n• De groeifactor per jaar is 0,5^(1/30)\n• De groeifactor per jaar is 0,98 (of nauwkeuriger)\n• Het antwoord: 2(%) (of nauwkeuriger)\nof\n• Voor de groeifactor g per jaar geldt: (100 · g³⁰ = 50, dus) g³⁰ = 0,5\n• Beschrijven hoe deze vergelijking met de GR opgelost kan worden\n• De groeifactor per jaar is 0,98 (of nauwkeuriger)\n• Het antwoord: 2(%) (of nauwkeuriger)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De groeifactor per 30 jaar is 0,5"
+    },
+    {
+     "points": 1,
+     "description": "De groeifactor per jaar is 0,5^(1/30)"
+    },
+    {
+     "points": 1,
+     "description": "De groeifactor per jaar is 0,98 (of nauwkeuriger)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 2(%) (of nauwkeuriger)"
+    }
+   ],
+   "grading_note": "Voor het antwoord −2(%) geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-opslag-van-radioactief-afval-antw15.png"
+   ]
+  },
+  {
+   "title": "Opslag van radioactief afval",
+   "question_number": 16,
+   "answer_text": "• Tienmaal halveren geeft als groeifactor 0,5¹⁰\n• De groeifactor per 300 jaar is ongeveer 9,8 · 10⁻⁴ of 0,001\n• Het antwoord: 0,1(%) (of nauwkeuriger)\nof\n• De beginstraling die 100% is, moet tienmaal gehalveerd worden\n• De berekening 100 · 0,5¹⁰\n• Het antwoord: 0,1(%) (of nauwkeuriger)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Tienmaal halveren geeft als groeifactor 0,5¹⁰"
+    },
+    {
+     "points": 1,
+     "description": "De groeifactor per 300 jaar is ongeveer 9,8 · 10⁻⁴ of 0,001"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 0,1(%) (of nauwkeuriger)"
+    }
+   ],
+   "grading_note": "Als gerekend wordt met de bij vraag 15 berekende groeifactor per jaar, dan hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-opslag-van-radioactief-afval-antw16.png"
+   ]
+  },
+  {
+   "title": "Opslag van radioactief afval",
+   "question_number": 17,
+   "answer_text": "• D = 1 − 2,058^(−0,1d)\n• D = 1 − (2,058^(−0,1))ᵈ\n• D = 1 − 0,93ᵈ, dus het antwoord: g = 0,93\nof\n• d = 1 invullen in de gegeven formule geeft D = 1 − 1/2,058^(0,1) ≈ 0,07\n• d = 1 invullen in D = 1 − gᵈ geeft 0,07 = 1 − g\n• Het antwoord: g = 0,93",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "D = 1 − 2,058^(−0,1d)"
+    },
+    {
+     "points": 1,
+     "description": "D = 1 − (2,058^(−0,1))ᵈ"
+    },
+    {
+     "points": 1,
+     "description": "D = 1 − 0,93ᵈ, dus het antwoord: g = 0,93"
+    }
+   ],
+   "grading_note": "Wanneer als antwoord alleen g = 1/2,058^(0,1) ≈ 0,93 wordt gegeven, dan voor deze vraag 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-opslag-van-radioactief-afval-antw17.png"
+   ]
+  },
+  {
+   "title": "Opslag van radioactief afval",
+   "question_number": 18,
+   "answer_text": "• Van de straling die door het staal wordt doorgelaten moet 5/8 deel door het beton worden doorgelaten\n• Dat is 62,5%\n• De vergelijking 100/1,021ᵈ = 62,5 moet worden opgelost\n• Beschrijven hoe deze vergelijking met de GR kan worden opgelost\n• Het antwoord: 23 (cm)\nof\n• 0,08 · 100/1,021ᵈ is het percentage van de straling dat door het staal en het beton samen wordt doorgelaten\n• De vergelijking 0,08 · 100/1,021ᵈ = 5 moet worden opgelost\n• Beschrijven hoe deze vergelijking met de GR kan worden opgelost\n• Het antwoord: 23 (cm)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Van de straling die door het staal wordt doorgelaten moet 5/8 deel door het beton worden doorgelaten"
+    },
+    {
+     "points": 1,
+     "description": "Dat is 62,5%"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking 100/1,021ᵈ = 62,5 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking met de GR kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 23 (cm)"
+    }
+   ],
+   "grading_note": "Als in de eerste oplossingsmethode 100/1,021ᵈ = 0,625 of in de tweede oplossingsmethode 8 · 100/1,021ᵈ = 5 wordt opgelost, voor deze vraag maximaal 4 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-opslag-van-radioactief-afval-antw18.png"
+   ]
+  },
+  {
+   "title": "Door de Westerscheldetunnel",
+   "question_number": 19,
+   "answer_text": "• Er zijn 200 2 = 400 passages ⚠️ CONTROLEREN: in het correctievoorschrift staat letterlijk '200 2 = 400'; vermoedelijk ontbreekt het vermenigvuldigingsteken (200 · 2 = 400)\n• Bij het standaardtarief kost het 400 · 5 = 2000 (euro)\n• Met de t-tag kost het 150 · 3,80 + 250 · 3,05 = 1332,50 (euro)\n• Het antwoord: 667,50 (euro) (of 668 (euro))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er zijn 200 2 = 400 passages ⚠️ CONTROLEREN: in het correctievoorschrift staat letterlijk '200 2 = 400'; vermoedelijk ontbreekt het vermenigvuldigingsteken (200 · 2 = 400)"
+    },
+    {
+     "points": 1,
+     "description": "Bij het standaardtarief kost het 400 · 5 = 2000 (euro)"
+    },
+    {
+     "points": 1,
+     "description": "Met de t-tag kost het 150 · 3,80 + 250 · 3,05 = 1332,50 (euro)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 667,50 (euro) (of 668 (euro))"
+    }
+   ],
+   "grading_note": "Als gerekend wordt met 200 passages in plaats van 400, dan voor deze vraag maximaal 3 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-door-de-westerscheldetunnel-antw19.png"
+   ]
+  },
+  {
+   "title": "Door de Westerscheldetunnel",
+   "question_number": 20,
+   "answer_text": "• Voor het eerste gedeelte geldt de formule K = 3,8 · p\n• Voor het tweede gedeelte geldt K = 3,05 · p + b\n• Berekenen van de coördinaten van het punt (150,570)\n• Dit geeft de vergelijking 3,05 · 150 + b = 570\n• Voor het tweede gedeelte geldt de formule K = 3,05 · p + 112,5",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor het eerste gedeelte geldt de formule K = 3,8 · p"
+    },
+    {
+     "points": 1,
+     "description": "Voor het tweede gedeelte geldt K = 3,05 · p + b"
+    },
+    {
+     "points": 1,
+     "description": "Berekenen van de coördinaten van het punt (150,570)"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft de vergelijking 3,05 · 150 + b = 570"
+    },
+    {
+     "points": 1,
+     "description": "Voor het tweede gedeelte geldt de formule K = 3,05 · p + 112,5"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-door-de-westerscheldetunnel-antw20.png"
+   ]
+  },
+  {
+   "title": "Door de Westerscheldetunnel",
+   "question_number": 21,
+   "answer_text": "• K_zonder btw = (11,15 · p + 412,5)/1,21\n• a = 9,21\n• b = 340,91\nof\n• Zowel de variabele als de vaste kosten moeten gedeeld worden door 1,21\n• a = 11,15 : 1,21 = 9,21\n• b = 412,5 : 1,21 = 340,91\nof\n• K_zonder btw = (11,15 · p + 412,5)/1,21\n• K_zonder btw = 9,21 · p + 340,91",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "K_zonder btw = (11,15 · p + 412,5)/1,21"
+    },
+    {
+     "points": 1,
+     "description": "a = 9,21"
+    },
+    {
+     "points": 1,
+     "description": "b = 340,91"
+    }
+   ],
+   "grading_note": "Als niet gedeeld wordt door 1,21 (maar vermenigvuldigd wordt met 0,79), dan voor deze vraag maximaal 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-door-de-westerscheldetunnel-antw21.png"
+   ]
+  },
+  {
+   "title": "Vrouwenvoetbal",
+   "question_number": 22,
+   "answer_text": "• Bij de senioren is de toename per jaar (53000 − 35000)/12\n• Voor het aantal senioren geldt de formule Vₛ = 35000 + 1500t (met t in jaren na 1 juli 2002)\n• Bij de jeugd is de toename per jaar (85000 − 33000)/12\n• Voor het aantal jeugdspeelsters geldt de formule Vⱼ = 33000 + 4333t (met t in jaren na 1 juli 2002)\n• De vergelijking Vₛ/(Vₛ + Vⱼ) · 100 = 35 (of een gelijkwaardige vergelijking) moet worden opgelost\n• Beschrijven hoe deze vergelijking wordt opgelost\n• Dit geeft t ≈ 20,7\n• Het antwoord: (2002 + 21 =) 2023\nof\n• Bij de senioren is de toename per jaar (53000 − 35000)/12\n• Het aantal senioren is op 1 juli 2002 gelijk aan 35000, en neemt jaarlijks met 1500 toe\n• Bij de jeugd is de toename per jaar (85000 − 33000)/12\n• Het aantal jeugdspeelsters is op 1 juli 2002 gelijk aan 33000, en neemt jaarlijks met 4333 toe\n• Het systematisch berekenen van percentages senioren\n• Op 1 juli 2022 (of: 20 jaar na 1 juli 2002) is het percentage senioren (ongeveer) 35,2(%)\n• Op 1 juli 2023 (of: 21 jaar na 1 juli 2002) is het percentage senioren (ongeveer) 34,9(%)\n• Het antwoord: (2002 + 21 =) 2023",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Bij de senioren is de toename per jaar (53000 − 35000)/12"
+    },
+    {
+     "points": 1,
+     "description": "Voor het aantal senioren geldt de formule Vₛ = 35000 + 1500t (met t in jaren na 1 juli 2002)"
+    },
+    {
+     "points": 1,
+     "description": "Bij de jeugd is de toename per jaar (85000 − 33000)/12"
+    },
+    {
+     "points": 1,
+     "description": "Voor het aantal jeugdspeelsters geldt de formule Vⱼ = 33000 + 4333t (met t in jaren na 1 juli 2002)"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking Vₛ/(Vₛ + Vⱼ) · 100 = 35 (of een gelijkwaardige vergelijking) moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking wordt opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft t ≈ 20,7"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: (2002 + 21 =) 2023"
+    }
+   ],
+   "grading_note": "Voor het aflezen van de vier aantallen geldt een toegestane marge van 1000.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-i-vrouwenvoetbal-antw22.png"
+   ]
+  }
+ ]
+}
