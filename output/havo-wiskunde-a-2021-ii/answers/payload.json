@@ -1,0 +1,543 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde A 2021-II",
+  "answers": [
+   {
+    "title": "Lichaamslengte",
+    "question_number": 1,
+    "answer_text": "• De grafiek gaat door bijvoorbeeld (3, 98) en (10, 143) (1 punt)\n• De richtingscoëfficiënt is (143 − 98)/(10 − 3) (= 6,42…) (1 punt)\n• Het startgetal is 98 − 3 · 6,42… (= 78,71…) (1 punt)\n• L = 6,4t + 78,7 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De grafiek gaat door bijvoorbeeld (3, 98) en (10, 143)"
+     },
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt is (143 − 98)/(10 − 3) (= 6,42…)"
+     },
+     {
+      "points": 1,
+      "description": "Het startgetal is 98 − 3 · 6,42… (= 78,71…)"
+     },
+     {
+      "points": 1,
+      "description": "L = 6,4t + 78,7"
+     }
+    ],
+    "grading_note": "Het scorepunt van het eerste antwoordelement alleen toekennen als de afgelezen lichaamslengten hoogstens 2 cm afwijken van de lichaamslengte in de figuur én de bijbehorende richtingscoëfficiënt in het interval [5,1; 7,7] ligt.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-lichaamslengte-antw1.png"
+    ]
+   },
+   {
+    "title": "Lichaamslengte",
+    "question_number": 2,
+    "answer_text": "• t = 19 invullen geeft een lengte van 183,4… (centimeter) (1 punt)\n• Het invullen van een voldoende grote waarde van t geeft (afgerond) een waarde van 184,9 (centimeter) (2 punten)\n• Een jongen groeit dus nog 1,5 (centimeter) (1 punt)\n\nof\n\n• t = 19 invullen geeft een lengte van 183,4… (centimeter) (1 punt)\n• Voor grote waarden van t nadert 0,57ᵗ tot 0 (1 punt)\n• Voor de rest van de redenering waaruit volgt dat Lⱼ tot 184,9 (centimeter) nadert (1 punt)\n• Een jongen groeit dus nog 1,5 (centimeter) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "t = 19 invullen geeft een lengte van 183,4… (centimeter)"
+     },
+     {
+      "points": 2,
+      "description": "Het invullen van een voldoende grote waarde van t geeft (afgerond) een waarde van 184,9 (centimeter)"
+     },
+     {
+      "points": 1,
+      "description": "Een jongen groeit dus nog 1,5 (centimeter)"
+     }
+    ],
+    "grading_note": "Voor het eerste antwoordalternatief geldt: als een waarde van t wordt ingevuld die een lengte geeft van (afgerond) 184,8 (centimeter), hiervoor geen scorepunten in mindering brengen; als een waarde van t wordt ingevuld die een lengte geeft in het interval van (afgerond) 184,1 tot en met 184,7 (centimeter) voor deze vraag maximaal 3 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-lichaamslengte-antw2.png"
+    ]
+   },
+   {
+    "title": "Lichaamslengte",
+    "question_number": 3,
+    "answer_text": "• Het verschil in lengte is Lₘ − Lⱼ (1 punt)\n• Beschrijven hoe het maximum van Lₘ − Lⱼ kan worden berekend (1 punt)\n• Het maximale lengteverschil is 2,5 (centimeter) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het verschil in lengte is Lₘ − Lⱼ"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe het maximum van Lₘ − Lⱼ kan worden berekend"
+     },
+     {
+      "points": 1,
+      "description": "Het maximale lengteverschil is 2,5 (centimeter)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-lichaamslengte-antw3.png"
+    ]
+   },
+   {
+    "title": "Veiligheidsmonitor",
+    "question_number": 4,
+    "answer_text": "• (Het steekproefpercentage is 26% dus) de steekproefproportie is 0,26 (1 punt)\n• Invullen in de formule voor het 95%-betrouwbaarheidsinterval: 0,26 ± 2 · √(0,26 · (1 − 0,26)/111000) (1 punt)\n• Het antwoord: [0,257; 0,263] (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Het steekproefpercentage is 26% dus) de steekproefproportie is 0,26"
+     },
+     {
+      "points": 1,
+      "description": "Invullen in de formule voor het 95%-betrouwbaarheidsinterval: 0,26 ± 2 · √(0,26 · (1 − 0,26)/111000)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: [0,257; 0,263]"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-veiligheidsmonitor-antw4.png"
+    ]
+   },
+   {
+    "title": "Veiligheidsmonitor",
+    "question_number": 5,
+    "answer_text": "• De marge moet kleiner zijn dan 0,05 (1 punt)\n• n = 55500 (1 punt)\n• Beschrijven hoe de vergelijking 2 · S/√55500 = 0,05 kan worden opgelost (1 punt)\n• De oplossing is S = 5,88… (1 punt)\n• De standaardafwijking is dus hoogstens 5,8 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De marge moet kleiner zijn dan 0,05"
+     },
+     {
+      "points": 1,
+      "description": "n = 55500"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 2 · S/√55500 = 0,05 kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing is S = 5,88…"
+     },
+     {
+      "points": 1,
+      "description": "De standaardafwijking is dus hoogstens 5,8"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-veiligheidsmonitor-antw5.png"
+    ]
+   },
+   {
+    "title": "Veiligheidsmonitor",
+    "question_number": 6,
+    "answer_text": "Een voorbeeld van een juist antwoord: Dit wordt veroorzaakt doordat de drie groepen niet even groot zijn.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Dit wordt veroorzaakt doordat de drie groepen niet even groot zijn"
+     }
+    ],
+    "grading_note": "Voor deze vraag mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-veiligheidsmonitor-antw6.png"
+    ]
+   },
+   {
+    "title": "Veiligheidsmonitor",
+    "question_number": 7,
+    "answer_text": "• Een kruistabel (1 punt)\n\n| | wel sociale overlast | geen sociale overlast |\n| zeer sterk stedelijk | 4590 | 20632 |\n| niet stedelijk | 1052 | 18430 |\n\n• phi = (4590 · 18430 − 20632 · 1052)/√(25222 · 5642 · 39062 · 19482) (1 punt)\n• phi = 0,19…; (dit ligt tussen −0,2 en 0,2) dus het verschil is gering (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een kruistabel"
+     },
+     {
+      "points": 1,
+      "description": "phi = (4590 · 18430 − 20632 · 1052)/√(25222 · 5642 · 39062 · 19482)"
+     },
+     {
+      "points": 1,
+      "description": "phi = 0,19…; (dit ligt tussen −0,2 en 0,2) dus het verschil is gering"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-veiligheidsmonitor-antw7.png"
+    ]
+   },
+   {
+    "title": "Verdubbelingstijd van geld",
+    "question_number": 8,
+    "answer_text": "• De vergelijking 1,015ᵗ = 2 moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Het antwoord: 46,56 (jaar) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 1,015ᵗ = 2 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 46,56 (jaar)"
+     }
+    ],
+    "grading_note": "Er mag ook gewerkt worden met een concreet beginbedrag.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-verdubbelingstijd-van-geld-antw8.png"
+    ]
+   },
+   {
+    "title": "Verdubbelingstijd van geld",
+    "question_number": 9,
+    "answer_text": "• Bij een toename van het rendement van 2,5% naar 3,0% hoort een afname van de verdubbelingstijd van 28,07 − 23,45 (= 4,62) (jaar) (1 punt)\n• Dat is 4,62/5 (= 0,924) (jaar) per 0,1% verhoging van het rendement (1 punt)\n• Bij een toename van 2,5% naar 2,9% hoort dus een afname van de verdubbelingstijd van 4 · 0,924 (= 3,696) (jaar) (1 punt)\n• 28,07 − 3,696 = 24,374, dus de gevraagde verdubbelingstijd is 24,37 (jaar) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij een toename van het rendement van 2,5% naar 3,0% hoort een afname van de verdubbelingstijd van 28,07 − 23,45 (= 4,62) (jaar)"
+     },
+     {
+      "points": 1,
+      "description": "Dat is 4,62/5 (= 0,924) (jaar) per 0,1% verhoging van het rendement"
+     },
+     {
+      "points": 1,
+      "description": "Bij een toename van 2,5% naar 2,9% hoort dus een afname van de verdubbelingstijd van 4 · 0,924 (= 3,696) (jaar)"
+     },
+     {
+      "points": 1,
+      "description": "28,07 − 3,696 = 24,374, dus de gevraagde verdubbelingstijd is 24,37 (jaar)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-verdubbelingstijd-van-geld-antw9.png"
+    ]
+   },
+   {
+    "title": "Verdubbelingstijd van geld",
+    "question_number": 10,
+    "answer_text": "• Een schets van een afnemend dalende grafiek passend bij de tabel (1 punt)\n• Een schets van de lijn tussen twee opeenvolgende punten van die grafiek (1 punt)\n• Dus: een lineaire benadering van de verdubbelingstijd is hoger dan de precieze verdubbelingstijd (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een schets van een afnemend dalende grafiek passend bij de tabel"
+     },
+     {
+      "points": 1,
+      "description": "Een schets van de lijn tussen twee opeenvolgende punten van die grafiek"
+     },
+     {
+      "points": 1,
+      "description": "Dus: een lineaire benadering van de verdubbelingstijd is hoger dan de precieze verdubbelingstijd"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-verdubbelingstijd-van-geld-antw10.png"
+    ]
+   },
+   {
+    "title": "Verdubbelingstijd van geld",
+    "question_number": 11,
+    "answer_text": "• Uit de tabel blijkt bijvoorbeeld 2 · 35 = 70 en 5 · 14,21 = 71,05 (1 punt)\n• P · V is niet constant (dus is er niet precies sprake van een omgekeerd evenredig verband) (1 punt)\n\nof\n\nVerdubbeling van P = 2 geeft P = 4, maar halvering van 35 geeft niet 17,67 (dus is er niet precies sprake van een omgekeerd evenredig verband). (2 punten)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit de tabel blijkt bijvoorbeeld 2 · 35 = 70 en 5 · 14,21 = 71,05"
+     },
+     {
+      "points": 1,
+      "description": "P · V is niet constant (dus is er niet precies sprake van een omgekeerd evenredig verband)"
+     }
+    ],
+    "grading_note": "Voor het tweede antwoordalternatief mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-verdubbelingstijd-van-geld-antw11.png"
+    ]
+   },
+   {
+    "title": "Verdubbelingstijd van geld",
+    "question_number": 12,
+    "answer_text": "• De verdubbelingstijd is volgens de vuistregel 69/3,0 (= 23 jaar) (1 punt)\n• Het verschil met de verdubbelingstijd V uit de tabel is 23,45 − 23 (= 0,45) (jaar) (1 punt)\n• Het antwoord: 12 · 0,45 = 5,4, dus 5 (maanden) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De verdubbelingstijd is volgens de vuistregel 69/3,0 (= 23 jaar)"
+     },
+     {
+      "points": 1,
+      "description": "Het verschil met de verdubbelingstijd V uit de tabel is 23,45 − 23 (= 0,45) (jaar)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 12 · 0,45 = 5,4, dus 5 (maanden)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-verdubbelingstijd-van-geld-antw12.png"
+    ]
+   },
+   {
+    "title": "Verdubbelingstijd van geld",
+    "question_number": 13,
+    "answer_text": "De gevraagde vuistregel is: Deel (het getal) 69 door de verdubbelingstijd (in jaren). (De uitkomst is het rendement dat nodig is om in de gegeven verdubbelingstijd het vermogen te verdubbelen.)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De gevraagde vuistregel is: Deel (het getal) 69 door de verdubbelingstijd (in jaren)"
+     }
+    ],
+    "grading_note": "Voor deze vraag mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-verdubbelingstijd-van-geld-antw13.png"
+    ]
+   },
+   {
+    "title": "Online dating met wiskunde",
+    "question_number": 14,
+    "answer_text": "• Bij een mogelijke partner van 32 jaar: A = 10^(1 − 0,02 · 3²) (= 6,60…) (1 punt)\n• Bij een mogelijke partner van 37 jaar: A = 10^(1 − 0,02 · 2²) (= 8,31…) (1 punt)\n• Het verschil in aantrekkingskracht is (8,31… − 6,60… =) 1,7 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij een mogelijke partner van 32 jaar: A = 10^(1 − 0,02 · 3²) (= 6,60…)"
+     },
+     {
+      "points": 1,
+      "description": "Bij een mogelijke partner van 37 jaar: A = 10^(1 − 0,02 · 2²) (= 8,31…)"
+     },
+     {
+      "points": 1,
+      "description": "Het verschil in aantrekkingskracht is (8,31… − 6,60… =) 1,7"
+     }
+    ],
+    "grading_note": "Als de kandidaat L = −3 of L = −2 invult, leidend tot het antwoord 1,7, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-online-dating-met-wiskunde-antw14.png"
+    ]
+   },
+   {
+    "title": "Online dating met wiskunde",
+    "question_number": 15,
+    "answer_text": "• Als L groter wordt, dan wordt L² ook groter (1 punt)\n• 1 − 0,03 · L² wordt dus kleiner (1 punt)\n• Dus wordt 10^(1 − 0,03 · L²) (en dus de aantrekkingskracht op het onderwerp 'leeftijd') ook kleiner (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als L groter wordt, dan wordt L² ook groter"
+     },
+     {
+      "points": 1,
+      "description": "1 − 0,03 · L² wordt dus kleiner"
+     },
+     {
+      "points": 1,
+      "description": "Dus wordt 10^(1 − 0,03 · L²) (en dus de aantrekkingskracht op het onderwerp 'leeftijd') ook kleiner"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-online-dating-met-wiskunde-antw15.png"
+    ]
+   },
+   {
+    "title": "Online dating met wiskunde",
+    "question_number": 16,
+    "answer_text": "• Bijvoorbeeld: voor L = 0, L = 1, L = 2 geldt respectievelijk A = 10, A = 9,33…, A = 7,58… (1 punt)\n• De eerste groeifactor is 0,93… en de tweede groeifactor is 0,81… (1 punt)\n• Deze zijn niet gelijk aan elkaar, dus er is geen exponentieel verband tussen L en A (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bijvoorbeeld: voor L = 0, L = 1, L = 2 geldt respectievelijk A = 10, A = 9,33…, A = 7,58…"
+     },
+     {
+      "points": 1,
+      "description": "De eerste groeifactor is 0,93… en de tweede groeifactor is 0,81…"
+     },
+     {
+      "points": 1,
+      "description": "Deze zijn niet gelijk aan elkaar, dus er is geen exponentieel verband tussen L en A"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-online-dating-met-wiskunde-antw16.png"
+    ]
+   },
+   {
+    "title": "Online dating met wiskunde",
+    "question_number": 17,
+    "answer_text": "• Neem bijvoorbeeld A₃ = 0 (1 punt)\n• Bij formule 4 is E = (A₁ · A₂ · A₃ · A₄ · A₅ · A₆ · A₇ · A₈ · A₉ · A₁₀)¹ᐟ¹⁰ = 0¹ᐟ¹⁰ = 0 (dus is Bianca geen geschikte partner) (1 punt)\n• Het antwoord: formule 4 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Neem bijvoorbeeld A₃ = 0"
+     },
+     {
+      "points": 1,
+      "description": "Bij formule 4 is E = (A₁ · A₂ · A₃ · A₄ · A₅ · A₆ · A₇ · A₈ · A₉ · A₁₀)¹ᐟ¹⁰ = 0¹ᐟ¹⁰ = 0 (dus is Bianca geen geschikte partner)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: formule 4"
+     }
+    ],
+    "grading_note": "Het is niet nodig te controleren dat formule 3 een waarde van E oplevert die groter is dan 0.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-online-dating-met-wiskunde-antw17.png"
+    ]
+   },
+   {
+    "title": "Online dating met wiskunde",
+    "question_number": 18,
+    "answer_text": "• Voor Lizette is E = 3 (1 punt)\n• Voor Sarah is E = 5 (1 punt)\n• De standaardafwijking van de aantrekkingskrachten van Sarah is 0 en dit is kleiner dan 4 (of: de spreiding van de aantrekkingskrachten van Sarah is kleiner dan die van Lizette) (dus is degene met de kleinste standaardafwijking in het geheel de aantrekkelijkste voor Harry) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor Lizette is E = 3"
+     },
+     {
+      "points": 1,
+      "description": "Voor Sarah is E = 5"
+     },
+     {
+      "points": 1,
+      "description": "De standaardafwijking van de aantrekkingskrachten van Sarah is 0 en dit is kleiner dan 4 (of: de spreiding van de aantrekkingskrachten van Sarah is kleiner dan die van Lizette) (dus is degene met de kleinste standaardafwijking in het geheel de aantrekkelijkste voor Harry)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-online-dating-met-wiskunde-antw18.png"
+    ]
+   },
+   {
+    "title": "Bevolkingsgroei",
+    "question_number": 19,
+    "answer_text": "• De groeifactor over de periode 1965−2018 is 2,4/5,0 (= 0,48) (1 punt)\n• De groeifactor per jaar is (2,4/5,0)¹ᐟ⁵³ (= 0,9862…) (1 punt)\n• Het gemiddelde aantal kinderen in 2035 is 2,4 · 0,9862…¹⁷ (= 1,89…) (1 punt)\n• Het antwoord: 1,9 (kinderen) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De groeifactor over de periode 1965−2018 is 2,4/5,0 (= 0,48)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per jaar is (2,4/5,0)¹ᐟ⁵³ (= 0,9862…)"
+     },
+     {
+      "points": 1,
+      "description": "Het gemiddelde aantal kinderen in 2035 is 2,4 · 0,9862…¹⁷ (= 1,89…)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 1,9 (kinderen)"
+     }
+    ],
+    "grading_note": "– Als gerekend wordt met (2,4 − 5,0)¹ᐟ⁵³, voor deze vraag maximaal 2 scorepunten toekennen.\n– Als gerekend wordt met 2,4/5,0 : 53, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-bevolkingsgroei-antw19.png"
+    ]
+   },
+   {
+    "title": "Bevolkingsgroei",
+    "question_number": 20,
+    "answer_text": "• Uit figuur 1: 7,8 (miljard mensen) en uit figuur 2: 140 (miljoen geboorten) (1 punt)\n• Berekend moet worden 140000000/7800000000 (= 0,0179…) (1 punt)\n• 0,0179… · 1000 = 17,9…, dus het antwoord is 18 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit figuur 1: 7,8 (miljard mensen) en uit figuur 2: 140 (miljoen geboorten)"
+     },
+     {
+      "points": 1,
+      "description": "Berekend moet worden 140000000/7800000000 (= 0,0179…)"
+     },
+     {
+      "points": 1,
+      "description": "0,0179… · 1000 = 17,9…, dus het antwoord is 18"
+     }
+    ],
+    "grading_note": "De wereldbevolking mag worden afgelezen met een marge van 0,1 miljard mensen, het aantal geboorten met een marge van 1 miljoen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-bevolkingsgroei-antw20.png"
+    ]
+   },
+   {
+    "title": "Bevolkingsgroei",
+    "question_number": 21,
+    "answer_text": "• Het opstellen van een lineair verband voor het geboortecijfer: G = −0,06t + 14 (met t het aantal jaren na 2060) (1 punt)\n• Het opstellen van een lineair verband voor het sterftecijfer: S = 0,04t + 9,8 (met t het aantal jaren na 2060) (1 punt)\n• Beschrijven hoe de vergelijking −0,06t + 14 = 0,04t + 9,8 kan worden opgelost (1 punt)\n• Dit geeft t = 42 (1 punt)\n• Het antwoord: (in het jaar) 2102 (1 punt)\n\nof\n\n• De bevolkingsgroei stopt als het verschil tussen het geboortecijfer en het sterftecijfer gelijk is aan 0 (1 punt)\n• Het verschil is in de laatste 20 jaar gedaald van 14,0 − 9,8 = 4,2 tot 12,8 − 10,6 = 2,2 (1 punt)\n• Dus per jaar is het verschil gedaald met (4,2 − 2,2)/20 = 0,1 (1 punt)\n• Het duurt dus nog 2,2/0,1 = 22 jaar (vanaf 2080) (1 punt)\n• Het antwoord: (in het jaar) 2102 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het opstellen van een lineair verband voor het geboortecijfer: G = −0,06t + 14 (met t het aantal jaren na 2060)"
+     },
+     {
+      "points": 1,
+      "description": "Het opstellen van een lineair verband voor het sterftecijfer: S = 0,04t + 9,8 (met t het aantal jaren na 2060)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking −0,06t + 14 = 0,04t + 9,8 kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft t = 42"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (in het jaar) 2102"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-bevolkingsgroei-antw21.png"
+    ]
+   },
+   {
+    "title": "Regenpijpen: dunne of dikke?",
+    "question_number": 22,
+    "answer_text": "• Links is de hoeveelheid af te voeren regen 1,8 · 4 · 25 · 0,6 = 108 (1/min); rechts is dat 1,8 · 11,5 · 25 · 1 = 517,5 (1/min) (1 punt)\n\nDe berekeningen voor een van de twee typen pijpen, bijvoorbeeld de dunne:\n• C (= 0,02 · 70²) = 98 (1/min) (1 punt)\n• Op grond van de capaciteit per pijp zijn 2 pijpen voor links en 6 pijpen voor rechts nodig (1 punt)\n• Op grond van de lengte van de dakgoot zijn 3 pijpen voor links en 3 pijpen voor rechts nodig (1 punt)\n• Er moeten dus 3 pijpen voor links en 6 pijpen voor rechts worden gekocht (1 punt)\n• De benodigde lengte is 3 · 5 + 6 · 3 = 33 (m), dus de kosten zijn 33 · 9 = 297 (euro) (1 punt)\n\n• De berekeningen voor het andere type pijp, in dit geval de dikke (2 punten)\n  – C (= 0,02 · 100²) = 200 (1/min)\n  – Op grond van de capaciteit per pijp zijn 1 pijp voor links en 3 pijpen voor rechts nodig.\n  – Op grond van de lengte van de dakgoot zijn 2 pijpen voor links en 2 pijpen voor rechts nodig.\n  – Er moeten dus 2 pijpen voor links en 3 pijpen voor rechts worden gekocht.\n  – De benodigde lengte is 2 · 5 + 3 · 3 = 19 (m).\n  – De kosten zijn 19 · 13 = 247 (euro).\n\n• Pietersma moet dus het dikke type kiezen (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Links is de hoeveelheid af te voeren regen 1,8 · 4 · 25 · 0,6 = 108 (1/min); rechts is dat 1,8 · 11,5 · 25 · 1 = 517,5 (1/min)"
+     },
+     {
+      "points": 1,
+      "description": "C (= 0,02 · 70²) = 98 (1/min)"
+     },
+     {
+      "points": 1,
+      "description": "Op grond van de capaciteit per pijp zijn 2 pijpen voor links en 6 pijpen voor rechts nodig"
+     },
+     {
+      "points": 1,
+      "description": "Op grond van de lengte van de dakgoot zijn 3 pijpen voor links en 3 pijpen voor rechts nodig"
+     },
+     {
+      "points": 1,
+      "description": "Er moeten dus 3 pijpen voor links en 6 pijpen voor rechts worden gekocht"
+     },
+     {
+      "points": 1,
+      "description": "De benodigde lengte is 3 · 5 + 6 · 3 = 33 (m), dus de kosten zijn 33 · 9 = 297 (euro)"
+     },
+     {
+      "points": 2,
+      "description": "De berekeningen voor het andere type pijp, in dit geval de dikke"
+     },
+     {
+      "points": 1,
+      "description": "Pietersma moet dus het dikke type kiezen"
+     }
+    ],
+    "grading_note": "– De berekening van het type pijp waarbij de minste fouten zijn gemaakt, moet worden beoordeeld volgens de antwoordelementen 2 tot en met 6.\n– Bij het zevende antwoordelement voor elke fout 1 scorepunt in mindering brengen, tot een maximum van 2 scorepunten.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-ii-regenpijpen-dunne-of-dikke-antw22.png"
+    ]
+   }
+  ]
+ }
+}
