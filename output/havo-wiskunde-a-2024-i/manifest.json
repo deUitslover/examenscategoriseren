@@ -1,0 +1,54 @@
+{
+  "source": "HAVO Wiskunde A 2024-I",
+  "subject_name": "Wiskunde A",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "‘Ff me telefoon opladen’",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Leerkrachten basisonderwijs",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Hart-lopen",
+      "question_numbers": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Heel Holland Bakt",
+      "question_numbers": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Over koetjes en kalfjes",
+      "question_numbers": [
+        22
+      ]
+    }
+  ]
+}
