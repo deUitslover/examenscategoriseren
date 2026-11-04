@@ -1,0 +1,577 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde A 2021-I",
+  "answers": [
+   {
+    "title": "Visus",
+    "question_number": 1,
+    "answer_text": "• Klaas heeft S = 20/100 (= 0,2) (1 punt)\n• Lidy heeft S = 20/25 (= 0,8) (1 punt)\n• Het antwoord: 0,8/0,2 = 4, dus 4 (keer zo dichtbij) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Klaas heeft S = 20/100 (= 0,2)"
+     },
+     {
+      "points": 1,
+      "description": "Lidy heeft S = 20/25 (= 0,8)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 0,8/0,2 = 4, dus 4 (keer zo dichtbij)"
+     }
+    ],
+    "grading_note": "Voor het antwoord 100/25 = 4 zonder toelichting, maximaal 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-visus-antw1.png"
+    ]
+   },
+   {
+    "title": "Visus",
+    "question_number": 2,
+    "answer_text": "• De vergelijkingen 0,05 = 10⁻ᴹ en 0,3 = 10⁻ᴹ moeten worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijkingen kunnen worden opgelost (1 punt)\n• De antwoorden: M = 1,3 en M = 0,5 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijkingen 0,05 = 10⁻ᴹ en 0,3 = 10⁻ᴹ moeten worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijkingen kunnen worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De antwoorden: M = 1,3 en M = 0,5"
+     }
+    ],
+    "grading_note": "Als slechts voor één van de twee waarden van S de bijbehorende waarde van M is gevonden, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-visus-antw2.png"
+    ]
+   },
+   {
+    "title": "Visus",
+    "question_number": 3,
+    "answer_text": "• S = 10⁽⁷⁵⁻⁸⁵⁾ᐟ⁵⁰ (1 punt)\n• Dit geeft S = 0,6… (1 punt)\n• Het antwoord: (0,6… ≥ 0,5, dus) ja (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "S = 10⁽⁷⁵⁻⁸⁵⁾ᐟ⁵⁰"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft S = 0,6…"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (0,6… ≥ 0,5, dus) ja"
+     }
+    ],
+    "grading_note": "Als het antwoord is gevonden door het oplossen van de vergelijking 10⁽ᴱ⁻⁸⁵⁾ᐟ⁵⁰ = 0,5, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-visus-antw3.png"
+    ]
+   },
+   {
+    "title": "Visus",
+    "question_number": 4,
+    "answer_text": "• Als M groter wordt, (wordt −M kleiner, dus) wordt S kleiner (1 punt)\n• Als S kleiner wordt, wordt (E − 85)/50 kleiner (1 punt)\n• Dan (wordt E − 85 kleiner, dus) wordt E kleiner (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als M groter wordt, (wordt −M kleiner, dus) wordt S kleiner"
+     },
+     {
+      "points": 1,
+      "description": "Als S kleiner wordt, wordt (E − 85)/50 kleiner"
+     },
+     {
+      "points": 1,
+      "description": "Dan (wordt E − 85 kleiner, dus) wordt E kleiner"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-visus-antw4.png"
+    ]
+   },
+   {
+    "title": "Visus",
+    "question_number": 5,
+    "answer_text": "• −50 · M = E − 85 (2 punten)\n• E = −50 · M + 85 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "−50 · M = E − 85"
+     },
+     {
+      "points": 1,
+      "description": "E = −50 · M + 85"
+     }
+    ],
+    "grading_note": "Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-visus-antw5.png"
+    ]
+   },
+   {
+    "title": "Klarinet",
+    "question_number": 6,
+    "answer_text": "• De groeifactor per 12 tonen is (880/440 =) 2 (1 punt)\n• De groeifactor per toon is 2¹ᐟ¹² (= 1,059…) (1 punt)\n• De frequentie van de D-toon is 440 · (2¹ᐟ¹²)⁵ (1 punt)\n• Het antwoord: 587,3 (Hz) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De groeifactor per 12 tonen is (880/440 =) 2"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per toon is 2¹ᐟ¹² (= 1,059…)"
+     },
+     {
+      "points": 1,
+      "description": "De frequentie van de D-toon is 440 · (2¹ᐟ¹²)⁵"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 587,3 (Hz)"
+     }
+    ],
+    "grading_note": "– Als gerekend wordt met (880 − 440)¹ᐟ¹², voor deze vraag maximaal 2 scorepunten toekennen.\n– Als gerekend wordt met 880/440 : 12, voor deze vraag maximaal 2 scorepunten toekennen.\n– Als gerekend wordt met 587/440, voor deze vraag geen scorepunten toekennen",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-klarinet-antw6.png"
+    ]
+   },
+   {
+    "title": "Klarinet",
+    "question_number": 7,
+    "answer_text": "• In de figuur aflezen dat de laagste frequentie tussen 100 en 200 Hz en de hoogste frequentie tussen 1000 en 2000 Hz ligt (1 punt)\n• De laagste frequentie (D-toon) is 587/2², afgerond 147 (Hz) (1 punt)\n• De hoogste frequentie (A-toon) is 880 · 2 = 1760 (Hz) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In de figuur aflezen dat de laagste frequentie tussen 100 en 200 Hz en de hoogste frequentie tussen 1000 en 2000 Hz ligt"
+     },
+     {
+      "points": 1,
+      "description": "De laagste frequentie (D-toon) is 587/2², afgerond 147 (Hz)"
+     },
+     {
+      "points": 1,
+      "description": "De hoogste frequentie (A-toon) is 880 · 2 = 1760 (Hz)"
+     }
+    ],
+    "grading_note": "Als gerekend is met de in de vorige vraag berekende frequentie van de D-toon, hiervoor geen scorepunten in mindering brengen",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-klarinet-antw7.png"
+    ]
+   },
+   {
+    "title": "Klarinet",
+    "question_number": 8,
+    "answer_text": "• De vergelijking 339 = 20√(273 + T) moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• De oplossing is T = 14,3025 (1 punt)\n• Het antwoord: (31 − 14,3025 = 16,6975, dus) 17 (°C) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 339 = 20√(273 + T) moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing is T = 14,3025"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (31 − 14,3025 = 16,6975, dus) 17 (°C)"
+     }
+    ],
+    "grading_note": "Als gerekend is met de temperatuur 31,5025 (°C) die volgens de formule hoort bij v = 349, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-klarinet-antw8.png"
+    ]
+   },
+   {
+    "title": "Klarinet",
+    "question_number": 9,
+    "answer_text": "• Beschrijven hoe de vergelijking 349/(4L) = 440 moet worden opgelost (1 punt)\n• De oplossing is L = 0,198… (of 4L = 0,793…) (m) (1 punt)\n• De frequentie bij 20 °C is 342/(4 · 0,198…) en dit is afgerond 431 (Hz) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 349/(4L) = 440 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing is L = 0,198… (of 4L = 0,793…) (m)"
+     },
+     {
+      "points": 1,
+      "description": "De frequentie bij 20 °C is 342/(4 · 0,198…) en dit is afgerond 431 (Hz)"
+     }
+    ],
+    "grading_note": "Als gerekend is met uit de formule berekende nauwkeuriger waarden van de geluidssnelheid, leidend tot het eindantwoord 432 (Hz), hiervoor geen scorepunten in mindering brengen",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-klarinet-antw9.png"
+    ]
+   },
+   {
+    "title": "De voorsteekpas",
+    "question_number": 10,
+    "answer_text": "• S = (4 · 60)/80 = 3 (1 punt)\n• W = (0,98 · 3)/(2 · (1 − 0,98)) (1 punt)\n• Het antwoord: 73,5 (of 74) (minuten) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "S = (4 · 60)/80 = 3"
+     },
+     {
+      "points": 1,
+      "description": "W = (0,98 · 3)/(2 · (1 − 0,98))"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 73,5 (of 74) (minuten)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-de-voorsteekpas-antw10.png"
+    ]
+   },
+   {
+    "title": "De voorsteekpas",
+    "question_number": 11,
+    "answer_text": "• S = 6, r = 0,95 en a = 0,10 invullen in de formules van W_p en W_z (1 punt)\n• W_p = 3,1… (1 punt)\n• W_z = 62,9… (1 punt)\n• Het antwoord: (het verschil is) 60 (minuten) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "S = 6, r = 0,95 en a = 0,10 invullen in de formules van W_p en W_z"
+     },
+     {
+      "points": 1,
+      "description": "W_p = 3,1…"
+     },
+     {
+      "points": 1,
+      "description": "W_z = 62,9…"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (het verschil is) 60 (minuten)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-de-voorsteekpas-antw11.png"
+    ]
+   },
+   {
+    "title": "De voorsteekpas",
+    "question_number": 12,
+    "answer_text": "• De vergelijking (0,95 · 6)/(2 · (1 − 0,95) · (1 − 0,95a)) = 80 moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• De oplossing is a = 0,3026… (1 punt)\n• Het antwoord: (maximaal) 30,2(%) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking (0,95 · 6)/(2 · (1 − 0,95) · (1 − 0,95a)) = 80 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing is a = 0,3026…"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (maximaal) 30,2(%)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-de-voorsteekpas-antw12.png"
+    ]
+   },
+   {
+    "title": "De voorsteekpas",
+    "question_number": 13,
+    "answer_text": "• W_z = (0,95 · 6)/(2 · (1 − 0,95) · (1 − 0,95a)) (1 punt)\n• Dit geeft W_z = 5,7/(0,10 · (1 − 0,95a)) (1 punt)\n• Het antwoord: W_z = 5,7/(0,10 − 0,095a) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "W_z = (0,95 · 6)/(2 · (1 − 0,95) · (1 − 0,95a))"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft W_z = 5,7/(0,10 · (1 − 0,95a))"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: W_z = 5,7/(0,10 − 0,095a)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-de-voorsteekpas-antw13.png"
+    ]
+   },
+   {
+    "title": "Nibud Scholierenonderzoek",
+    "question_number": 14,
+    "answer_text": "• De steekproefproportie is 1530/3260 = 0,469… (1 punt)\n• De grenzen van het 95%-betrouwbaarheidsinterval voor de populatieproportie zijn 0,469… ± 2 · √(0,469…(1 − 0,469…)/3260) (1 punt)\n• Het antwoord: [0,45; 0,49] (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De steekproefproportie is 1530/3260 = 0,469…"
+     },
+     {
+      "points": 1,
+      "description": "De grenzen van het 95%-betrouwbaarheidsinterval voor de populatieproportie zijn 0,469… ± 2 · √(0,469…(1 − 0,469…)/3260)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: [0,45; 0,49]"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-nibud-scholierenonderzoek-antw14.png"
+    ]
+   },
+   {
+    "title": "Nibud Scholierenonderzoek",
+    "question_number": 15,
+    "answer_text": "Een volledig en correct antwoord bevat twee van de drie onderstaande manieren met bijbehorende benodigde extra informatie.\n\nManier 1\n• Met behulp van de effectgrootte, dan heb je voor beide groepen de standaardafwijking nodig (2 punten)\n\nManier 2\n• Met behulp van een vergelijking van boxplots, dan heb je voor beide groepen het eerste, tweede en derde kwartiel nodig (2 punten)\n\nManier 3\n• Met behulp van het maximale cumulatieve percentageverschil, dan heb je voor beide groepen een (relatieve) (cumulatieve) frequentietabel (of polygoon) nodig (2 punten)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Eerste juiste manier (manier 1, 2 of 3) met bijbehorende benodigde extra informatie"
+     },
+     {
+      "points": 2,
+      "description": "Tweede juiste manier (manier 1, 2 of 3) met bijbehorende benodigde extra informatie"
+     }
+    ],
+    "grading_note": "Voor elk van de manieren mag uitsluitend 0 of 2 scorepunten worden toegekend, met een maximum van in totaal 4 scorepunten.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-nibud-scholierenonderzoek-antw15.png"
+    ]
+   },
+   {
+    "title": "Nibud Scholierenonderzoek",
+    "question_number": 16,
+    "answer_text": "• Bij figuur A en figuur C is het gemiddelde gelijk aan de mediaan (omdat de verdelingen symmetrisch zijn), dus die vallen af (1 punt)\n• Het antwoord: B (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij figuur A en figuur C is het gemiddelde gelijk aan de mediaan (omdat de verdelingen symmetrisch zijn), dus die vallen af"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: B"
+     }
+    ],
+    "grading_note": "Als alleen het antwoord B is gegeven zonder toelichting of met een onjuiste toelichting, voor deze vraag geen scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-nibud-scholierenonderzoek-antw16.png"
+    ]
+   },
+   {
+    "title": "Nibud Scholierenonderzoek",
+    "question_number": 17,
+    "answer_text": "Voorbeeld van een juist antwoord:\nAls men had gekozen voor 17- en 18-jarigen, dan had men geen of heel weinig leerlingen uit havo/vwo klas 3 in de steekproef zitten (en dan zijn de inkomens tussen alle onderwijsniveaus niet of niet goed in kaart te brengen). (2 punten)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Als men had gekozen voor 17- en 18-jarigen, dan had men geen of heel weinig leerlingen uit havo/vwo klas 3 in de steekproef zitten (en dan zijn de inkomens tussen alle onderwijsniveaus niet of niet goed in kaart te brengen)"
+     }
+    ],
+    "grading_note": "Voor deze vraag mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-nibud-scholierenonderzoek-antw17.png"
+    ]
+   },
+   {
+    "title": "Nibud Scholierenonderzoek",
+    "question_number": 18,
+    "answer_text": "Voorbeelden van een juist antwoord:\n• De cumulatieve relatieve frequentietabel opstellen (2 punten)\nCumulatieve relatieve frequentietabel (%):\n                 jongens  meisjes\nnooit / zelden      16        8\nmeestal niet        81       69\nmeestal wel        100       98\nvaak / altijd      100      100\n• De cumulatieve percentageverschillen zijn achtereenvolgens 8, 12, 2 en 0 (1 punt)\n• Max V_cp is dus 12 (1 punt)\n• (Dit is kleiner dan 20 dus) het verschil is gering (1 punt)\n\nof\n\n• Een kruistabel van de absolute aantallen maken door de eerste twee en de laatste twee rijen samen te nemen geeft (486 414 / 114 186) (2 punten)\n• phi = (486 · 186 − 414 · 114)/√(900 · 600 · 600 · 300) = 0,1… (2 punten)\n• (Dit is kleiner dan 0,2 dus) het verschil is gering (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De cumulatieve relatieve frequentietabel opstellen"
+     },
+     {
+      "points": 1,
+      "description": "De cumulatieve percentageverschillen zijn achtereenvolgens 8, 12, 2 en 0"
+     },
+     {
+      "points": 1,
+      "description": "Max V_cp is dus 12"
+     },
+     {
+      "points": 1,
+      "description": "(Dit is kleiner dan 20 dus) het verschil is gering"
+     }
+    ],
+    "grading_note": "– Voor het eerste antwoordelement van het eerste alternatief en het eerste en tweede antwoordelement van het tweede alternatief mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.\n– Als in de kruistabel percentages worden gebruikt in plaats van absolute aantallen, hiervoor geen scorepunten in mindering brengen",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-nibud-scholierenonderzoek-antw18.png"
+    ]
+   },
+   {
+    "title": "Postzegels",
+    "question_number": 19,
+    "answer_text": "• De groeifactor per 4 jaar is 64/44 (= 1,45…) (1 punt)\n• De groeifactor per jaar is (64/44)¹ᐟ⁴ (1 punt)\n• Dit is 1,0982… (1 punt)\n• Het antwoord: 9,8(%) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De groeifactor per 4 jaar is 64/44 (= 1,45…)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per jaar is (64/44)¹ᐟ⁴"
+     },
+     {
+      "points": 1,
+      "description": "Dit is 1,0982…"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 9,8(%)"
+     }
+    ],
+    "grading_note": "– Als gerekend wordt met (64 − 44)¹ᐟ⁴, voor deze vraag maximaal 2 scorepunten toekennen.\n– Als gerekend wordt met 64/44 : 4, voor deze vraag maximaal. ⚠️ CONTROLEREN: deze zin is in het correctievoorschrift afgebroken (het aantal scorepunten ontbreekt).",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-postzegels-antw19.png"
+    ]
+   },
+   {
+    "title": "Postzegels",
+    "question_number": 20,
+    "answer_text": "• Het aantal brieven/kaarten aflezen: 4,1 (mld) in 2010 en 2,2 (mld) in 2016 (1 punt)\n• Van 2010 tot 2016 is de afname (4,1 − 2,2)/6 (= 0,316…) (mld) per jaar (1 punt)\n• Van 2016 tot 2020 is de afname 0,316… · 4 (= 1,266…) (mld) (1 punt)\n• 2,2 − 1,266… = 0,93…, dus het antwoord is 0,9 (mld) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het aantal brieven/kaarten aflezen: 4,1 (mld) in 2010 en 2,2 (mld) in 2016"
+     },
+     {
+      "points": 1,
+      "description": "Van 2010 tot 2016 is de afname (4,1 − 2,2)/6 (= 0,316…) (mld) per jaar"
+     },
+     {
+      "points": 1,
+      "description": "Van 2016 tot 2020 is de afname 0,316… · 4 (= 1,266…) (mld)"
+     },
+     {
+      "points": 1,
+      "description": "2,2 − 1,266… = 0,93…, dus het antwoord is 0,9 (mld)"
+     }
+    ],
+    "grading_note": "Bij het aflezen van het aantal brieven/kaarten is een marge van 0,05 (mld) toegestaan.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-postzegels-antw20.png"
+    ]
+   },
+   {
+    "title": "Postzegels",
+    "question_number": 21,
+    "answer_text": "• Als op alle brieven/kaarten 1 postzegel zou zitten, dan zou de opbrengst 2401 · 0,69 = 1656,69 (mln euro) zijn (1 punt)\n• De opbrengst is echter hoger (namelijk 1961 (mln euro)), dus moeten er brieven/kaarten met meer dan 1 postzegel zijn geweest (1 punt)\n\nof\n\n• Als op alle brieven/kaarten 1 postzegel zou zitten, dan zouden er 1961/0,69 = 2842,… (mln) brieven/kaarten beplakt zijn (1 punt)\n• Het aantal brieven/kaarten is echter kleiner (namelijk 2401 (mln)), dus moeten er brieven/kaarten met meer dan 1 postzegel zijn geweest (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als op alle brieven/kaarten 1 postzegel zou zitten, dan zou de opbrengst 2401 · 0,69 = 1656,69 (mln euro) zijn"
+     },
+     {
+      "points": 1,
+      "description": "De opbrengst is echter hoger (namelijk 1961 (mln euro)), dus moeten er brieven/kaarten met meer dan 1 postzegel zijn geweest"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-postzegels-antw21.png"
+    ]
+   },
+   {
+    "title": "Postzegels",
+    "question_number": 22,
+    "answer_text": "• 1947,44 = 0,88 · 2213 (1 punt)\n• 1,46 = 2 · 0,73 en 2,19 = 3 · 0,73 (1 punt)\n• 265,56 = 0,12 · 2213 (of 265,56 = 2213 − 1947,44) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "1947,44 = 0,88 · 2213"
+     },
+     {
+      "points": 1,
+      "description": "1,46 = 2 · 0,73 en 2,19 = 3 · 0,73"
+     },
+     {
+      "points": 1,
+      "description": "265,56 = 0,12 · 2213 (of 265,56 = 2213 − 1947,44)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-postzegels-antw22.png"
+    ]
+   },
+   {
+    "title": "Postzegels",
+    "question_number": 23,
+    "answer_text": "• Beschrijven hoe de vergelijking 0,73 · 1947,44 + 1,46 · x + 2,19 · (265,56 − x) = 1877 kan worden opgelost (1 punt)\n• De oplossing is x = 172,8… (1 punt)\n• 172,8…/2213 · 100 = 7,8…, dus het antwoord is 8(%) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 0,73 · 1947,44 + 1,46 · x + 2,19 · (265,56 − x) = 1877 kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing is x = 172,8…"
+     },
+     {
+      "points": 1,
+      "description": "172,8…/2213 · 100 = 7,8…, dus het antwoord is 8(%)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-postzegels-antw23.png"
+    ]
+   },
+   {
+    "title": "Fijnstofemissie",
+    "question_number": 24,
+    "answer_text": "• In 1990 was de totale fijnstofemissie (in miljoenen grammen) 103200 · 0,08 + 16800 · 0,58 (= 18000) (1 punt)\n• In 2014 was het aantal gereden kilometers (in miljoenen) door het personenvervoer 103200 · 2 (= 206400) en door het goederenvervoer 16800 · 3 (= 50400) (1 punt)\n• In 2014 was de fijnstofemissie per kilometer personenvervoer (in miljoenen grammen) 0,08 − 0,003 · 24 (= 0,008) (1 punt)\n• In 2014 was de fijnstofemissie per kilometer goederenvervoer (in miljoenen grammen) 0,58 · 0,91²⁴ (= 0,06031…) (1 punt)\n• In 2014 was de totale fijnstofemissie (in miljoenen grammen) 206400 · 0,008 + 50400 · 0,06031… (= 4691,…) (1 punt)\n• De procentuele afname in de periode 1990-2014 is dan (18000 − 4691,…)/18000 · 100, dus het antwoord is 74(%) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In 1990 was de totale fijnstofemissie (in miljoenen grammen) 103200 · 0,08 + 16800 · 0,58 (= 18000)"
+     },
+     {
+      "points": 1,
+      "description": "In 2014 was het aantal gereden kilometers (in miljoenen) door het personenvervoer 103200 · 2 (= 206400) en door het goederenvervoer 16800 · 3 (= 50400)"
+     },
+     {
+      "points": 1,
+      "description": "In 2014 was de fijnstofemissie per kilometer personenvervoer (in miljoenen grammen) 0,08 − 0,003 · 24 (= 0,008)"
+     },
+     {
+      "points": 1,
+      "description": "In 2014 was de fijnstofemissie per kilometer goederenvervoer (in miljoenen grammen) 0,58 · 0,91²⁴ (= 0,06031…)"
+     },
+     {
+      "points": 1,
+      "description": "In 2014 was de totale fijnstofemissie (in miljoenen grammen) 206400 · 0,008 + 50400 · 0,06031… (= 4691,…)"
+     },
+     {
+      "points": 1,
+      "description": "De procentuele afname in de periode 1990-2014 is dan (18000 − 4691,…)/18000 · 100, dus het antwoord is 74(%)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2021-i-fijnstofemissie-antw24.png"
+    ]
+   }
+  ]
+ }
+}
