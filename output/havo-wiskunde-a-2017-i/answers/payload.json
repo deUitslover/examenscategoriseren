@@ -1,0 +1,557 @@
+{
+ "subject_name": "Wiskunde A",
+ "level": "HAVO",
+ "source": "HAVO Wiskunde A 2017-I",
+ "answers": [
+  {
+   "title": "Akkerranden",
+   "question_number": 1,
+   "answer_text": "• Het subsidiebedrag is 2500 · 0,63 = 1575 (euro)\n• De kosten zijn 250 + 475 + 150 = 875 (euro per hectare)\n• De oppervlakte van de bloemenrand is 3,5 · 2500 = 8750 (m²)\n• De kosten van de bloemenrand zijn 8750/10000 · 875 ≈ 766 (euro) (dus het subsidiebedrag is hoger)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het subsidiebedrag is 2500 · 0,63 = 1575 (euro)"
+    },
+    {
+     "points": 1,
+     "description": "De kosten zijn 250 + 475 + 150 = 875 (euro per hectare)"
+    },
+    {
+     "points": 1,
+     "description": "De oppervlakte van de bloemenrand is 3,5 · 2500 = 8750 (m²)"
+    },
+    {
+     "points": 1,
+     "description": "De kosten van de bloemenrand zijn 8750/10000 · 875 ≈ 766 (euro) (dus het subsidiebedrag is hoger)"
+    }
+   ],
+   "grading_note": "− Als gerekend is met een oppervlakte van 2500 m², voor deze vraag maximaal 3 scorepunten toekennen.\n− Als de kosten voor het zaaizaad en het zaaien zowel bij het subsidiebedrag als bij de kosten zijn meegerekend, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-akkerranden-antw1.png"
+   ]
+  },
+  {
+   "title": "Akkerranden",
+   "question_number": 2,
+   "answer_text": "• In de formule moet worden ingevuld S = 0,53 en D = 500\n• Dit geeft W = 14,045\n• De nettowinst is 14,045 · 21 = 294,95 (of 295) (euro)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "In de formule moet worden ingevuld S = 0,53 en D = 500"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft W = 14,045"
+    },
+    {
+     "points": 1,
+     "description": "De nettowinst is 14,045 · 21 = 294,95 (of 295) (euro)"
+    }
+   ],
+   "grading_note": "Als W tussentijds is afgerond op 14,05 (euro) hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-akkerranden-antw2.png"
+   ]
+  },
+  {
+   "title": "Akkerranden",
+   "question_number": 3,
+   "answer_text": "• De vergelijking 100 · S − 0,035 · 1025 − 21,455 = 0 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft S = 0,573 (of nauwkeuriger)\n• Het antwoord: (minimaal) 58 (cent) (of €0,58) (per strekkende meter)\n\nof\n\n• S = 0,53 en D = 1025 invullen in de formule geeft W = −4,33\n• Bij een verhoging van €0,04 subsidie per strekkende meter zal er nog verlies zijn, want dit is €4,00 per 100 meter\n• Bij een verhoging van €0,05 subsidie per strekkende meter zal er geen verlies meer zijn, want dit is €5,00 per 100 meter\n• Het antwoord: (minimaal) 58 (cent) (of €0,58) (per strekkende meter)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 100 · S − 0,035 · 1025 − 21,455 = 0 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft S = 0,573 (of nauwkeuriger)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: (minimaal) 58 (cent) (of €0,58) (per strekkende meter)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-akkerranden-antw3.png"
+   ]
+  },
+  {
+   "title": "Akkerranden",
+   "question_number": 4,
+   "answer_text": "• Er geldt 100 · S − 0,035 · D − 21,455 = 0\n• Dit geeft 100 · S = 0,035 · D + 21,455\n• Daaruit volgt S = 0,00035 · D + 0,21455 (dus a = 0,00035 en b = 0,21455)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er geldt 100 · S − 0,035 · D − 21,455 = 0"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft 100 · S = 0,035 · D + 21,455"
+    },
+    {
+     "points": 1,
+     "description": "Daaruit volgt S = 0,00035 · D + 0,21455 (dus a = 0,00035 en b = 0,21455)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-akkerranden-antw4.png"
+   ]
+  },
+  {
+   "title": "Onderzoek naar rekenvaardigheid",
+   "question_number": 5,
+   "answer_text": "Conclusie 1\n• De gemiddelde score van de 16- tot 24-jarigen in Nederland is hoger dan 285, terwijl dat van de hele populatie ongeveer 280 is\n• (Dit betekent dat de groep 16- tot 24-jarigen gemiddeld hoger gescoord heeft dan de 25- tot 65-jarigen,) dus de conclusie is juist\n\nConclusie 2\n• De gemiddelde score van de 16- tot 24-jarigen in Zweden is hoogstens gelijk aan de gemiddelde score van Oostenrijk en die is lager dan 280\n• (De gemiddelde score van de hele populatie is 280, dus de groep 16- tot 24-jarigen heeft gemiddeld lager gescoord dan de 25- tot 65-jarigen,) dus de conclusie is juist",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Conclusie 1: De gemiddelde score van de 16- tot 24-jarigen in Nederland is hoger dan 285, terwijl dat van de hele populatie ongeveer 280 is"
+    },
+    {
+     "points": 1,
+     "description": "Conclusie 1: (Dit betekent dat de groep 16- tot 24-jarigen gemiddeld hoger gescoord heeft dan de 25- tot 65-jarigen,) dus de conclusie is juist"
+    },
+    {
+     "points": 1,
+     "description": "Conclusie 2: De gemiddelde score van de 16- tot 24-jarigen in Zweden is hoogstens gelijk aan de gemiddelde score van Oostenrijk en die is lager dan 280"
+    },
+    {
+     "points": 1,
+     "description": "Conclusie 2: (De gemiddelde score van de hele populatie is 280, dus de groep 16- tot 24-jarigen heeft gemiddeld lager gescoord dan de 25- tot 65-jarigen,) dus de conclusie is juist"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-onderzoek-naar-rekenvaardigheid-antw5.png"
+   ]
+  },
+  {
+   "title": "Onderzoek naar rekenvaardigheid",
+   "question_number": 6,
+   "answer_text": "Een juiste redenering, bijvoorbeeld gebaseerd op:\n− de symmetrie van de normale verdeling, waarbij een getallenvoorbeeld is vermeld, of\n− een vergelijking van mediaan en gemiddelde, waarbij de waarden van mediaan en gemiddelde zijn vermeld.",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "Een juiste redenering, bijvoorbeeld gebaseerd op de symmetrie van de normale verdeling (met getallenvoorbeeld) of op een vergelijking van mediaan en gemiddelde (met de waarden van mediaan en gemiddelde)"
+    }
+   ],
+   "grading_note": "Voor deze vraag uitsluitend 0 of 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-onderzoek-naar-rekenvaardigheid-antw6.png"
+   ]
+  },
+  {
+   "title": "Onderzoek naar rekenvaardigheid",
+   "question_number": 7,
+   "answer_text": "Voorbeelden van een juist antwoord:\n• Dit kan met effectgrootte of met boxplots\n• E = (265,5 − 245,8) / (½ · (55,5 + 51,3)) = 0,37 (of nauwkeuriger)\n• Het verschil is gering\n• De box van Canada ligt tussen 230,8 en 303,9; de mediaan van Spanje is 250,3 en deze ligt daarbinnen\n• De box van Spanje ligt tussen 216,3 en 280,9; de mediaan van Canada is 269,8 en deze ligt daarbinnen\n• De conclusie: het verschil is gering\n\nof\n\n• Dit kan met effectgrootte of met boxplots (1 punt)\n• E = (265,5 − 245,8) / (½ · (55,5 + 51,3)) = 0,37 (of nauwkeuriger) (1 punt)\n• Het verschil is gering (1 punt)\n[schets van de boxplots van Spanje en Canada op een as van 220 tot 300, zie afbeelding]\n• Een schets van (de boxen van) de boxplots van Canada en Spanje (2 punten)\n• (De boxen overlappen en de mediaan van elke boxplot ligt binnen de box van de andere boxplot, dus) het verschil is gering (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Dit kan met effectgrootte of met boxplots"
+    },
+    {
+     "points": 1,
+     "description": "E = (265,5 − 245,8) / (½ · (55,5 + 51,3)) = 0,37 (of nauwkeuriger)"
+    },
+    {
+     "points": 1,
+     "description": "Het verschil is gering"
+    },
+    {
+     "points": 1,
+     "description": "De box van Canada ligt tussen 230,8 en 303,9; de mediaan van Spanje is 250,3 en deze ligt daarbinnen"
+    },
+    {
+     "points": 1,
+     "description": "De box van Spanje ligt tussen 216,3 en 280,9; de mediaan van Canada is 269,8 en deze ligt daarbinnen"
+    },
+    {
+     "points": 1,
+     "description": "De conclusie: het verschil is gering"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-onderzoek-naar-rekenvaardigheid-antw7.png"
+   ]
+  },
+  {
+   "title": "Onderzoek naar rekenvaardigheid",
+   "question_number": 8,
+   "answer_text": "Voorbeelden van een juist antwoord:\n• De standaardafwijking: die van Australië is groter dan die van Spanje; dus de spreiding van Australië is groter dan die van Spanje\n• De interkwartielafstand (IQR): dat is in de tabel het verschil tussen het 75e percentiel en het 25e percentiel\n• Voor Australië geldt IQR = 70,7 en voor Spanje geldt IQR = 64,6; dus de spreiding van Australië is groter dan die van Spanje",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De standaardafwijking: die van Australië is groter dan die van Spanje; dus de spreiding van Australië is groter dan die van Spanje"
+    },
+    {
+     "points": 1,
+     "description": "De interkwartielafstand (IQR): dat is in de tabel het verschil tussen het 75e percentiel en het 25e percentiel"
+    },
+    {
+     "points": 1,
+     "description": "Voor Australië geldt IQR = 70,7 en voor Spanje geldt IQR = 64,6; dus de spreiding van Australië is groter dan die van Spanje"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-onderzoek-naar-rekenvaardigheid-antw8.png"
+   ]
+  },
+  {
+   "title": "Onderzoek naar rekenvaardigheid",
+   "question_number": 9,
+   "answer_text": "Voorbeelden van een juist antwoord:\n• Het verschil tussen de hoogste en de laagste waarde is voor Nederland groter dan voor Japan\n• In Japan is de spreiding kleiner dan in Nederland",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "Het verschil tussen de hoogste en de laagste waarde is voor Nederland groter dan voor Japan"
+    },
+    {
+     "points": 1,
+     "description": "In Japan is de spreiding kleiner dan in Nederland"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-onderzoek-naar-rekenvaardigheid-antw9.png"
+   ]
+  },
+  {
+   "title": "Great Barrier Reef",
+   "question_number": 10,
+   "answer_text": "• De hoeveelheid koraal in 2012 was 0,138 · 345000 = 47610 (km²)\n• De procentuele afname is (97000 − 47610)/97000 · 100(%)\n• Het antwoord: 50,9(%)\n\nof\n\n• Het percentage koraal in 1985 was 97000/345000 · 100 = 28,1(%) (of nauwkeuriger)\n• De procentuele afname is (28,1 − 13,8)/28,1 · 100(%)\n• Het antwoord: 50,9(%)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De hoeveelheid koraal in 2012 was 0,138 · 345000 = 47610 (km²)"
+    },
+    {
+     "points": 1,
+     "description": "De procentuele afname is (97000 − 47610)/97000 · 100(%)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 50,9(%)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-great-barrier-reef-antw10.png"
+   ]
+  },
+  {
+   "title": "Great Barrier Reef",
+   "question_number": 11,
+   "answer_text": "• De groeifactor per 10 jaar is 0,5\n• De groeifactor per jaar is 0,5⁽¹ᐟ¹⁰⁾\n• De groeifactor per jaar is 0,93 (of nauwkeuriger)\n• De afname is 7(%)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De groeifactor per 10 jaar is 0,5"
+    },
+    {
+     "points": 1,
+     "description": "De groeifactor per jaar is 0,5⁽¹ᐟ¹⁰⁾"
+    },
+    {
+     "points": 1,
+     "description": "De groeifactor per jaar is 0,93 (of nauwkeuriger)"
+    },
+    {
+     "points": 1,
+     "description": "De afname is 7(%)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-great-barrier-reef-antw11.png"
+   ]
+  },
+  {
+   "title": "Great Barrier Reef",
+   "question_number": 12,
+   "answer_text": "• De groeifactor per jaar is 1,0089\n• De vergelijking 1,0089ᵗ = 1,5 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Het antwoord: 46 (jaar)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De groeifactor per jaar is 1,0089"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking 1,0089ᵗ = 1,5 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 46 (jaar)"
+    }
+   ],
+   "grading_note": "Als een kandidaat het antwoord nauwkeuriger heeft gegeven, hiervoor geen scorepunten in mindering brengen, mits naar boven afgerond.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-great-barrier-reef-antw12.png"
+   ]
+  },
+  {
+   "title": "Studieschuld",
+   "question_number": 13,
+   "answer_text": "• De groeifactor per jaar is 1,0139\n• De groeifactor per maand is 1,0139⁽¹ᐟ¹²⁾\n• Dit is 1,00115 (of nauwkeuriger)\n• Het antwoord: 0,115(%)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De groeifactor per jaar is 1,0139"
+    },
+    {
+     "points": 1,
+     "description": "De groeifactor per maand is 1,0139⁽¹ᐟ¹²⁾"
+    },
+    {
+     "points": 1,
+     "description": "Dit is 1,00115 (of nauwkeuriger)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 0,115(%)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-studieschuld-antw13.png"
+   ]
+  },
+  {
+   "title": "Studieschuld",
+   "question_number": 14,
+   "answer_text": "• De vergelijking −231299,46 + 231565,69 · 1,001151ᵗ = 5000 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft t = 18 (of nauwkeuriger)\n• Het antwoord: in maart 2014",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking −231299,46 + 231565,69 · 1,001151ᵗ = 5000 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft t = 18 (of nauwkeuriger)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: in maart 2014"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-studieschuld-antw14.png"
+   ]
+  },
+  {
+   "title": "Studieschuld",
+   "question_number": 15,
+   "answer_text": "Voorbeeld van een juist antwoord:\n• Na (11 · 12 =) 132 maanden moet er nog een restschuld zijn, maar na (12 · 12 =) 144 maanden moet de restschuld gelijk aan 0 zijn\n• De studieschuld van Maaike was 6000 (euro)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Na (11 · 12 =) 132 maanden moet er nog een restschuld zijn, maar na (12 · 12 =) 144 maanden moet de restschuld gelijk aan 0 zijn"
+    },
+    {
+     "points": 1,
+     "description": "De studieschuld van Maaike was 6000 (euro)"
+    }
+   ],
+   "grading_note": "Als het eindantwoord een bedrag tussen 5500 en 6000 (euro) is, hiervoor geen scorepunten in mindering brengen.\n\nAls het eindantwoord een bedrag tussen 6000 en 6100 (euro) is, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-studieschuld-antw15.png"
+   ]
+  },
+  {
+   "title": "Studieschuld",
+   "question_number": 16,
+   "answer_text": "• Bij een toename van de studieschuld van 6000 naar 6500 hoort een toename van de restschuld na 60 maanden van 4097 − 3561 = 536 (euro)\n• Dit is 536/5 = 107,20 (euro) per 100 euro extra studieschuld\n• Bij een toename van de studieschuld van 6000 naar 6200 hoort dus een toename van de restschuld van 2 · 107,20 = 214,40 (euro)\n• Het antwoord: 3561 + 214,40 = 3775,40 (of 3775) (euro)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Bij een toename van de studieschuld van 6000 naar 6500 hoort een toename van de restschuld na 60 maanden van 4097 − 3561 = 536 (euro)"
+    },
+    {
+     "points": 1,
+     "description": "Dit is 536/5 = 107,20 (euro) per 100 euro extra studieschuld"
+    },
+    {
+     "points": 1,
+     "description": "Bij een toename van de studieschuld van 6000 naar 6200 hoort dus een toename van de restschuld van 2 · 107,20 = 214,40 (euro)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 3561 + 214,40 = 3775,40 (of 3775) (euro)"
+    }
+   ],
+   "grading_note": "Voor een antwoord gebaseerd op de berekening 6200 − 60 · 45,41 geen scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-studieschuld-antw16.png"
+   ]
+  },
+  {
+   "title": "Papierformaten",
+   "question_number": 17,
+   "answer_text": "• De oppervlakte moet vanaf A0 11 keer worden gehalveerd\n• De oppervlakte is 1000000 · (½)¹¹\n• Het antwoord: 488 (mm²)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De oppervlakte moet vanaf A0 11 keer worden gehalveerd"
+    },
+    {
+     "points": 1,
+     "description": "De oppervlakte is 1000000 · (½)¹¹"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 488 (mm²)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-papierformaten-antw17.png"
+   ]
+  },
+  {
+   "title": "Papierformaten",
+   "question_number": 18,
+   "answer_text": "• De vergelijking √2 · b · b = 15625 moet worden opgelost\n• Beschrijven hoe je hieruit vindt dat breedte b = 105,1 (mm) (of nauwkeuriger)\n• De hoogte is √2 · 105,1 (of 15625/105,1)\n• Het antwoord: de hoogte is 149 (mm) en de breedte is 105 (mm)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking √2 · b · b = 15625 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe je hieruit vindt dat breedte b = 105,1 (mm) (of nauwkeuriger)"
+    },
+    {
+     "points": 1,
+     "description": "De hoogte is √2 · 105,1 (of 15625/105,1)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: de hoogte is 149 (mm) en de breedte is 105 (mm)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-papierformaten-antw18.png"
+   ]
+  },
+  {
+   "title": "Papierformaten",
+   "question_number": 19,
+   "answer_text": "Voorbeeld van een juist antwoord:\n• Alle opeenvolgende quotiënten berekenen: 84/119 ≈ 0,7, 59/84 ≈ 0,7, 42/59 ≈ 0,7, 30/42 ≈ 0,7\n• De quotiënten zijn nagenoeg gelijk aan elkaar(, dus er is bij benadering een exponentieel verband tussen de hoogte h en het formaatnummer n)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "Alle opeenvolgende quotiënten berekenen: 84/119 ≈ 0,7, 59/84 ≈ 0,7, 42/59 ≈ 0,7, 30/42 ≈ 0,7"
+    },
+    {
+     "points": 1,
+     "description": "De quotiënten zijn nagenoeg gelijk aan elkaar(, dus er is bij benadering een exponentieel verband tussen de hoogte h en het formaatnummer n)"
+    }
+   ],
+   "grading_note": "Voor elk vergeten of foutief quotiënt 1 scorepunt in mindering brengen tot een maximum van 2 scorepunten.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-papierformaten-antw19.png"
+   ]
+  },
+  {
+   "title": "Papierformaten",
+   "question_number": 20,
+   "answer_text": "• De breedte wordt telkens met (93 − 21)/4 = 18 (cm) vermeerderd\n• De breedte van Z6-papier is (93 + 18 =) 111 (cm)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De breedte wordt telkens met (93 − 21)/4 = 18 (cm) vermeerderd"
+    },
+    {
+     "points": 1,
+     "description": "De breedte van Z6-papier is (93 + 18 =) 111 (cm)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-papierformaten-antw20.png"
+   ]
+  },
+  {
+   "title": "Papierformaten",
+   "question_number": 21,
+   "answer_text": "• De oppervlakte van Z1-papier is 30 · 21 = 630 (cm²) en de oppervlakte van Z5-papier is 30 · 93 = 2790 (cm²)\n• a = (2790 − 630)/4 = 540\n• 540 · 1 + b = 630\n• b = 90\n\nof\n\n• De breedte wordt telkens met (93 − 21)/4 = 18 (cm) vermeerderd, dus breedte = 18n + c\n• Bij n = 1 geldt breedte = 21, dat geeft breedte = 18n + 3\n• O = 30 · (18n + 3)\n• Dat geeft O = 540 · n + 90 (dus a = 540 en b = 90)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De oppervlakte van Z1-papier is 30 · 21 = 630 (cm²) en de oppervlakte van Z5-papier is 30 · 93 = 2790 (cm²)"
+    },
+    {
+     "points": 1,
+     "description": "a = (2790 − 630)/4 = 540"
+    },
+    {
+     "points": 1,
+     "description": "540 · 1 + b = 630"
+    },
+    {
+     "points": 1,
+     "description": "b = 90"
+    }
+   ],
+   "grading_note": "− Voor de oppervlakte van Z1-papier mag ook 625 (cm²) worden genomen.\n− Als in het tweede antwoordalternatief in het eerste antwoordelement is doorgerekend met een in de vorige vraag berekend getal, hiervoor geen scorepunt in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-papierformaten-antw21.png"
+   ]
+  },
+  {
+   "title": "Bioscoopbezoek",
+   "question_number": 22,
+   "answer_text": "• De provincie met de meeste bioscopen per inwoner is de provincie waar het aantal inwoners per bioscoop het laagst is\n• Dit is de provincie Groningen\n• Het gemiddeld aantal bioscoopbezoeken per inwoner van Groningen is gelijk aan het totaal aantal bioscoopbezoeken in Groningen gedeeld door het totaal aantal inwoners van Groningen\n• Aflezen voor Groningen: het aantal bioscopen is 11\n• Aflezen voor Groningen: het aantal inwoners per bioscoop is 50000 (met een marge van 1000)\n• Het totaal aantal inwoners van Groningen is (ongeveer) (50000 × 11 =) 550000\n• Het aantal bezoeken per inwoner is dan ongeveer 1180 000 : 550 000 ≈ 2,1 dus Kees heeft gelijk",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De provincie met de meeste bioscopen per inwoner is de provincie waar het aantal inwoners per bioscoop het laagst is"
+    },
+    {
+     "points": 1,
+     "description": "Dit is de provincie Groningen"
+    },
+    {
+     "points": 1,
+     "description": "Het gemiddeld aantal bioscoopbezoeken per inwoner van Groningen is gelijk aan het totaal aantal bioscoopbezoeken in Groningen gedeeld door het totaal aantal inwoners van Groningen"
+    },
+    {
+     "points": 1,
+     "description": "Aflezen voor Groningen: het aantal bioscopen is 11"
+    },
+    {
+     "points": 1,
+     "description": "Aflezen voor Groningen: het aantal inwoners per bioscoop is 50000 (met een marge van 1000)"
+    },
+    {
+     "points": 1,
+     "description": "Het totaal aantal inwoners van Groningen is (ongeveer) (50000 × 11 =) 550000"
+    },
+    {
+     "points": 1,
+     "description": "Het aantal bezoeken per inwoner is dan ongeveer 1180 000 : 550 000 ≈ 2,1 dus Kees heeft gelijk"
+    }
+   ],
+   "grading_note": "Als de berekeningen zijn gemaakt voor een andere provincie dan Groningen, voor deze vraag maximaal 5 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-i-bioscoopbezoek-antw22.png"
+   ]
+  }
+ ]
+}
