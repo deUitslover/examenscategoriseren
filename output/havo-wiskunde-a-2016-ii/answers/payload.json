@@ -1,0 +1,554 @@
+{
+ "subject_name": "Wiskunde A",
+ "level": "HAVO",
+ "source": "HAVO Wiskunde A 2016-II",
+ "answers": [
+  {
+   "title": "BMI, hoger dan je denkt",
+   "question_number": 1,
+   "answer_text": "• In 19 jaar is de gemiddelde lengte met 3,1 (cm) toegenomen\n• In 50 jaar neemt de gemiddelde lengte toe met 3,1/19 · 50 (≈ 8,2) (cm)\n• Het antwoord: 180,4 + 8,2 = 188,6 (cm) (of nauwkeuriger)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "In 19 jaar is de gemiddelde lengte met 3,1 (cm) toegenomen"
+    },
+    {
+     "points": 1,
+     "description": "In 50 jaar neemt de gemiddelde lengte toe met 3,1/19 · 50 (≈ 8,2) (cm)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 180,4 + 8,2 = 188,6 (cm) (of nauwkeuriger)"
+    }
+   ],
+   "grading_note": "− Als er is doorgerekend met 3,1/19 = 0,16, leidend tot het antwoord 188,4 (cm), hiervoor geen scorepunten in mindering brengen.\n− Het eindantwoord mag worden afgerond op een geheel getal.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-bmi-hoger-dan-je-denkt-antw1.png"
+   ]
+  },
+  {
+   "title": "BMI, hoger dan je denkt",
+   "question_number": 2,
+   "answer_text": "• Het aflezen van de punten (0; 165,9) en (19; 167,7)\n• a = (167,7 − 165,9)/19 (≈ 0,1)\n• l = 0,1 · t + 165,9 (of nauwkeuriger)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het aflezen van de punten (0; 165,9) en (19; 167,7)"
+    },
+    {
+     "points": 2,
+     "description": "a = (167,7 − 165,9)/19 (≈ 0,1)"
+    },
+    {
+     "points": 1,
+     "description": "l = 0,1 · t + 165,9 (of nauwkeuriger)"
+    }
+   ],
+   "grading_note": "− Bij het aflezen is een marge van 0,1 cm toegestaan.\n− Voor de berekening van a uitsluitend 0 of 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-bmi-hoger-dan-je-denkt-antw2.png"
+   ]
+  },
+  {
+   "title": "BMI, hoger dan je denkt",
+   "question_number": 3,
+   "answer_text": "• Hier moet de effectgrootte worden bepaald\n• E = 0,9 / (½ · (6,0 + 6,2)) ≈ 0,1 (of nauwkeuriger)\n• De conclusie: (dit is kleiner dan 0,4 dus) het verschil is gering",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Hier moet de effectgrootte worden bepaald"
+    },
+    {
+     "points": 1,
+     "description": "E = 0,9 / (½ · (6,0 + 6,2)) ≈ 0,1 (of nauwkeuriger)"
+    },
+    {
+     "points": 1,
+     "description": "De conclusie: (dit is kleiner dan 0,4 dus) het verschil is gering"
+    }
+   ],
+   "grading_note": "Als de effectgrootte fout is berekend, maar de conclusie wel in overeenstemming is met de vuistregel voor de effectgrootte, voor deze vraag maximaal 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-bmi-hoger-dan-je-denkt-antw3.png"
+   ]
+  },
+  {
+   "title": "BMI, hoger dan je denkt",
+   "question_number": 4,
+   "answer_text": "• Met eigen schattingen wordt G kleiner (dus de teller wordt kleiner) en daarmee wordt de BMI kleiner (dus is er bij minder mensen sprake van overgewicht)\n• L wordt groter (dus L² wordt ook groter)\n• Er wordt door een groter getal gedeeld en daarmee wordt de BMI kleiner (dus is er bij minder mensen sprake van overgewicht)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Met eigen schattingen wordt G kleiner (dus de teller wordt kleiner) en daarmee wordt de BMI kleiner (dus is er bij minder mensen sprake van overgewicht)"
+    },
+    {
+     "points": 1,
+     "description": "L wordt groter (dus L² wordt ook groter)"
+    },
+    {
+     "points": 1,
+     "description": "Er wordt door een groter getal gedeeld en daarmee wordt de BMI kleiner (dus is er bij minder mensen sprake van overgewicht)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-bmi-hoger-dan-je-denkt-antw4.png"
+   ]
+  },
+  {
+   "title": "Zorginfecties",
+   "question_number": 5,
+   "answer_text": "• p = 1286/32664 (≈ 0,039) en n = 32664\n• Het 95%-betrouwbaarheidsinterval voor de populatieproportie is 0,039 ± 2 · √(0,039(1 − 0,039)/32664)\n• Het 95%-betrouwbaarheidsinterval voor de populatieproportie is 0,039 ± 0,002\n• Het antwoord: 3,9 ± 0,2(%) of [3,7; 4,2] (%)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "p = 1286/32664 (≈ 0,039) en n = 32664"
+    },
+    {
+     "points": 1,
+     "description": "Het 95%-betrouwbaarheidsinterval voor de populatieproportie is 0,039 ± 2 · √(0,039(1 − 0,039)/32664)"
+    },
+    {
+     "points": 1,
+     "description": "Het 95%-betrouwbaarheidsinterval voor de populatieproportie is 0,039 ± 0,002"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 3,9 ± 0,2(%) of [3,7; 4,2] (%)"
+    }
+   ],
+   "grading_note": "Voor het antwoord [3,7; 4,1] (%) geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-zorginfecties-antw5.png"
+   ]
+  },
+  {
+   "title": "Zorginfecties",
+   "question_number": 6,
+   "answer_text": "• De aantallen 95 299, 4694, 32664 en 1286 op de juiste plaatsen in de tabel invullen\n• Aan de hand van de ingevulde aantallen de tabel verder compleet en correct invullen\n\nIngevulde tabel (geopereerd: wel / niet / totaal):\nzorginfectie opgelopen wel: 1286 / 3408 / 4694\nzorginfectie opgelopen niet: 31378 / 59227 / 90605\ntotaal: 32664 / 62635 / 95299\n\n• Het gebruik van de formule van phi\n• phi = (1286 · 59227 − 3408 · 31378) / √(4694 · 32664 · 62635 · 90605) ≈ −0,03\n• De conclusie: (dit ligt tussen −0,2 en 0,2 dus) het verschil is gering",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De aantallen 95 299, 4694, 32664 en 1286 op de juiste plaatsen in de tabel invullen"
+    },
+    {
+     "points": 2,
+     "description": "Aan de hand van de ingevulde aantallen de tabel verder compleet en correct invullen"
+    },
+    {
+     "points": 1,
+     "description": "Het gebruik van de formule van phi"
+    },
+    {
+     "points": 1,
+     "description": "phi = (1286 · 59227 − 3408 · 31378) / √(4694 · 32664 · 62635 · 90605) ≈ −0,03"
+    },
+    {
+     "points": 1,
+     "description": "De conclusie: (dit ligt tussen −0,2 en 0,2 dus) het verschil is gering"
+    }
+   ],
+   "grading_note": "− Als slechts één variabele wordt genoemd die verder correct wordt beschreven, voor deze vraag maximaal 3 scorepunten toekennen.\n− Als bij het tweede antwoordelement uitleg ontbreekt of onjuist is, voor deze vraag maximaal 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-zorginfecties-antw6.png"
+   ]
+  },
+  {
+   "title": "Zorginfecties",
+   "question_number": 7,
+   "answer_text": "• De variabelen zijn: 'zorginfectie opgelopen' en 'geopereerd'\n• Beide variabelen zijn kwalitatief, want deze variabelen zijn niet in een getal uitgedrukt",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "De variabelen zijn: 'zorginfectie opgelopen' en 'geopereerd'"
+    },
+    {
+     "points": 2,
+     "description": "Beide variabelen zijn kwalitatief, want deze variabelen zijn niet in een getal uitgedrukt"
+    }
+   ],
+   "grading_note": "− Als slechts één variabele wordt genoemd die verder correct wordt beschreven, voor deze vraag maximaal 3 scorepunten toekennen.\n− Als bij het tweede antwoordelement uitleg ontbreekt of onjuist is, voor deze vraag maximaal 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-zorginfecties-antw7.png"
+   ]
+  },
+  {
+   "title": "Zorginfecties",
+   "question_number": 8,
+   "answer_text": "• Aflezen: 7,8(%) in 2007 en 3,8(%) in 2012\n• In 2007 is het aantal patiënten met een zorginfectie 0,078 · 1 800 000 = 140 400 en in 2012 is dat aantal 0,038 · 2 000 000 = 76 000\n• In 2012 zijn de kosten per dag 1140 · 1,03⁵ ≈ 1322 (euro)\n• De kosten in 2007 zijn 140 400 · 4 · 1140 ≈ 640,2 miljoen (euro) en in 2012 zijn de kosten 76 000 · 4 · 1322 ≈ 401,8 miljoen (euro)\n• Het antwoord: 238 miljoen (of 238 000 000) (euro)\n\nof\n\n• Aflezen: 7,8(%) in 2007, dus het aantal patiënten met een zorginfectie in 2007 is 0,078 · 1 800 000 = 140 400\n• Aflezen: 3,8(%) in 2012, dus het aantal patiënten met een zorginfectie in 2012 is 0,038 · 2 000 000 = 76 000\n• In 2012 zijn de kosten per dag 1140 · 1,03⁵ ≈ 1322 (euro)\n• De kosten in 2007 zijn 140 400 · 4 · 1140 ≈ 640,2 miljoen (euro) en in 2012 zijn de kosten 76 000 · 4 · 1322 ≈ 401,8 miljoen (euro)\n• Het antwoord: 238 miljoen (of 238 000 000) (euro)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Aflezen: 7,8(%) in 2007 en 3,8(%) in 2012"
+    },
+    {
+     "points": 1,
+     "description": "In 2007 is het aantal patiënten met een zorginfectie 0,078 · 1 800 000 = 140 400 en in 2012 is dat aantal 0,038 · 2 000 000 = 76 000"
+    },
+    {
+     "points": 1,
+     "description": "In 2012 zijn de kosten per dag 1140 · 1,03⁵ ≈ 1322 (euro)"
+    },
+    {
+     "points": 1,
+     "description": "De kosten in 2007 zijn 140 400 · 4 · 1140 ≈ 640,2 miljoen (euro) en in 2012 zijn de kosten 76 000 · 4 · 1322 ≈ 401,8 miljoen (euro)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 238 miljoen (of 238 000 000) (euro)"
+    }
+   ],
+   "grading_note": "Bij het aflezen is een marge van 0,1% toegestaan.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-zorginfecties-antw8.png"
+   ]
+  },
+  {
+   "title": "Random close packing",
+   "question_number": 9,
+   "answer_text": "• I_knikker = 0,5236 · 1,3³ ≈ 1,15 (cm³)\n• Het aantal knikkers is (0,64 · 800)/1,15\n• Het antwoord: 445 (knikkers)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "I_knikker = 0,5236 · 1,3³ ≈ 1,15 (cm³)"
+    },
+    {
+     "points": 1,
+     "description": "Het aantal knikkers is (0,64 · 800)/1,15"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 445 (knikkers)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-random-close-packing-antw9.png"
+   ]
+  },
+  {
+   "title": "Random close packing",
+   "question_number": 10,
+   "answer_text": "• 64% van de inhoud van de pot is 0,64 · I_pot\n• K = (0,64 · I_pot)/I_knikker\n• K = (0,64 · I_pot)/(0,5236 · d³)\n• K = 0,64/0,5236 · I_pot/d³ (of: 0,64/0,5236 ≈ 1,222) dus K = 1,222 · I_pot/d³",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "64% van de inhoud van de pot is 0,64 · I_pot"
+    },
+    {
+     "points": 1,
+     "description": "K = (0,64 · I_pot)/I_knikker"
+    },
+    {
+     "points": 1,
+     "description": "K = (0,64 · I_pot)/(0,5236 · d³)"
+    },
+    {
+     "points": 1,
+     "description": "K = 0,64/0,5236 · I_pot/d³ (of: 0,64/0,5236 ≈ 1,222) dus K = 1,222 · I_pot/d³"
+    }
+   ],
+   "grading_note": "Als uitsluitend met een getallenvoorbeeld is gewerkt, voor deze vraag geen scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-random-close-packing-antw10.png"
+   ]
+  },
+  {
+   "title": "Random close packing",
+   "question_number": 11,
+   "answer_text": "• Volgens de vuistregels wijkt 63,6 tweemaal de standaardafwijking af van 64,0\n• (64,0 − 63,6)/2\n• Het antwoord: 0,2\n\nof\n\n• Volgens de vuistregels wijkt 64,4 tweemaal de standaardafwijking af van 64,0\n• (64,4 − 64,0)/2\n• Het antwoord: 0,2",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Volgens de vuistregels wijkt 63,6 tweemaal de standaardafwijking af van 64,0"
+    },
+    {
+     "points": 1,
+     "description": "(64,0 − 63,6)/2"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 0,2"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-random-close-packing-antw11.png"
+   ]
+  },
+  {
+   "title": "Random close packing",
+   "question_number": 12,
+   "answer_text": "• Het 95%-betrouwbaarheidsinterval van p is [63,6; 64,4]\n• p = 63,6 geeft K = 0,0191 · 63,6 · 1050/0,95³ en p = 64,4 geeft K = 0,0191 · 64,4 · 1050/0,95³\n• Het antwoord: 1488 tot en met 1506 (knikkers) of [1488, 1506] (knikkers)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het 95%-betrouwbaarheidsinterval van p is [63,6; 64,4]"
+    },
+    {
+     "points": 1,
+     "description": "p = 63,6 geeft K = 0,0191 · 63,6 · 1050/0,95³ en p = 64,4 geeft K = 0,0191 · 64,4 · 1050/0,95³"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 1488 tot en met 1506 (knikkers) of [1488, 1506] (knikkers)"
+    }
+   ],
+   "grading_note": "Voor antwoorden waarbij niet duidelijk is of de waarden 1488 en 1506 tot het betrouwbaarheidsinterval horen (zoals ‘tussen 1488 en 1506 knikkers’), 1 scorepunt in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-random-close-packing-antw12.png"
+   ]
+  },
+  {
+   "title": "Random close packing",
+   "question_number": 13,
+   "answer_text": "• De diameter moet 1,5 cm zijn (want voor het maximale aantal knikkers moet de diameter zo klein mogelijk zijn)\n• Het percentage gevulde ruimte moet 65 zijn (want zo groot mogelijk)\n• (Het maximale aantal knikkers is 0,0191 · 65 · 1000/1,5³, dus) het antwoord is: 367 (of 368)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De diameter moet 1,5 cm zijn (want voor het maximale aantal knikkers moet de diameter zo klein mogelijk zijn)"
+    },
+    {
+     "points": 1,
+     "description": "Het percentage gevulde ruimte moet 65 zijn (want zo groot mogelijk)"
+    },
+    {
+     "points": 1,
+     "description": "(Het maximale aantal knikkers is 0,0191 · 65 · 1000/1,5³, dus) het antwoord is: 367 (of 368)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-random-close-packing-antw13.png"
+   ]
+  },
+  {
+   "title": "Asbest",
+   "question_number": 14,
+   "answer_text": "• In de formule wordt C_blauw gedeeld door een kleiner getal dan C_wit\n• De bijdrage van de concentratie blauwe vezels aan de waarde van F, bij gelijke concentraties, is daarom groter dan die van de witte\n• Het antwoord: blauw asbest",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "In de formule wordt C_blauw gedeeld door een kleiner getal dan C_wit"
+    },
+    {
+     "points": 1,
+     "description": "De bijdrage van de concentratie blauwe vezels aan de waarde van F, bij gelijke concentraties, is daarom groter dan die van de witte"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: blauw asbest"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-asbest-antw14.png"
+   ]
+  },
+  {
+   "title": "Asbest",
+   "question_number": 15,
+   "answer_text": "• De vergelijking C_wit/2000 + 75/300 = 1 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• De oplossing van de vergelijking is 1500\n• Het antwoord: C_wit > 1500 (of C_wit ≥ 1501)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking C_wit/2000 + 75/300 = 1 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "De oplossing van de vergelijking is 1500"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: C_wit > 1500 (of C_wit ≥ 1501)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-asbest-antw15.png"
+   ]
+  },
+  {
+   "title": "Asbest",
+   "question_number": 16,
+   "answer_text": "• 1 = C_wit/2000 + C_blauw/300\n• C_blauw = 0 geeft C_wit = 2000 en C_wit = 0 geeft C_blauw = 300\n• p · 2000 + q · 0 = 6000 geeft p = 3\n• p · 0 + q · 300 = 6000 geeft q = 20\n\nof\n\n• 1 = C_wit/2000 + C_blauw/300\n• 6000 = 6000 · (C_wit/2000 + C_blauw/300)\n• 6000 · (C_wit/2000 + C_blauw/300) = 6000 · C_wit/2000 + 6000 · C_blauw/300\n• Het eerste getal is 6000/2000 = 3, het tweede getal is 6000/300 = 20",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "1 = C_wit/2000 + C_blauw/300"
+    },
+    {
+     "points": 1,
+     "description": "C_blauw = 0 geeft C_wit = 2000 en C_wit = 0 geeft C_blauw = 300"
+    },
+    {
+     "points": 1,
+     "description": "p · 2000 + q · 0 = 6000 geeft p = 3"
+    },
+    {
+     "points": 1,
+     "description": "p · 0 + q · 300 = 6000 geeft q = 20"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-asbest-antw16.png"
+   ]
+  },
+  {
+   "title": "Asbest",
+   "question_number": 17,
+   "answer_text": "• De lijnen met C_wit/2000 + C_blauw/300 = 0,3 en C_wit/2000 + C_blauw/300 = 1 moeten worden getekend\n• Een schaalverdeling waarbij de drie gebieden goed te onderscheiden zijn\n• De lijn behorende bij F = 0,3\n• De lijn behorende bij F = 1\n• Het aangeven van de juiste gebieden\n\n(Zie de afbeelding voor de bijbehorende grafiek met C_wit (aantal vezels per m³ lucht) horizontaal en C_blauw (aantal vezels per m³ lucht) verticaal: de lijn F = 0,3 van (0; 90) naar (600; 0) en de lijn F = 1 van (0; 300) naar (2000; 0), met de gebieden 'zeer klein risico', 'klein risico' en 'groot risico'.)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De lijnen met C_wit/2000 + C_blauw/300 = 0,3 en C_wit/2000 + C_blauw/300 = 1 moeten worden getekend"
+    },
+    {
+     "points": 1,
+     "description": "Een schaalverdeling waarbij de drie gebieden goed te onderscheiden zijn"
+    },
+    {
+     "points": 1,
+     "description": "De lijn behorende bij F = 0,3"
+    },
+    {
+     "points": 1,
+     "description": "De lijn behorende bij F = 1"
+    },
+    {
+     "points": 1,
+     "description": "Het aangeven van de juiste gebieden"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-asbest-antw17.png"
+   ]
+  },
+  {
+   "title": "Thermosflessen",
+   "question_number": 18,
+   "answer_text": "• Na 6 uur is de temperatuur 72,5 (°C)\n• In de eerste 6 uur is de afname 4,2 + 4,1 + 4,0 + 3,9 + 3,8 + 3,7 (°C)\n• De begintemperatuur is 72,5 + 4,2 + 4,1 + 4,0 + 3,9 + 3,8 + 3,7 = 96,2 (°C)\n\nof\n\n• Na 8 uur is de temperatuur 65,4 (°C)\n• In de eerste 8 uur is de afname 4,2 + 4,1 + 4,0 + 3,9 + 3,8 + 3,7 + 3,6 + 3,5 (°C)\n• De begintemperatuur is 65,4 + 4,2 + 4,1 + 4,0 + 3,9 + 3,8 + 3,7 + 3,6 + 3,5 = 96,2 (°C)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Na 6 uur is de temperatuur 72,5 (°C)"
+    },
+    {
+     "points": 1,
+     "description": "In de eerste 6 uur is de afname 4,2 + 4,1 + 4,0 + 3,9 + 3,8 + 3,7 (°C)"
+    },
+    {
+     "points": 1,
+     "description": "De begintemperatuur is 72,5 + 4,2 + 4,1 + 4,0 + 3,9 + 3,8 + 3,7 = 96,2 (°C)"
+    }
+   ],
+   "grading_note": "Indien gerekend wordt met de temperatuur na 12 uur, leidend tot het antwoord 96,0 (°C), hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-thermosflessen-antw18.png"
+   ]
+  },
+  {
+   "title": "Thermosflessen",
+   "question_number": 19,
+   "answer_text": "• De groeifactor per zes uur is 77,1/85,8\n• De groeifactor per uur is (77,1/85,8)^(1/6)\n• De groeifactor is 0,9823 (of nauwkeuriger)\n• Het antwoord: 1,77(%)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De groeifactor per zes uur is 77,1/85,8"
+    },
+    {
+     "points": 1,
+     "description": "De groeifactor per uur is (77,1/85,8)^(1/6)"
+    },
+    {
+     "points": 1,
+     "description": "De groeifactor is 0,9823 (of nauwkeuriger)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 1,77(%)"
+    }
+   ],
+   "grading_note": "Als met de gegevens na 6 en 8 uur of na 8 en 12 uur gerekend is, met als antwoord 1,76(%) respectievelijk 1,77(%), hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-thermosflessen-antw19.png"
+   ]
+  },
+  {
+   "title": "Thermosflessen",
+   "question_number": 20,
+   "answer_text": "• Voor de temperatuur T geldt T = 77,1 · 0,982ᵗ, met t de tijd in uren vanaf het moment dat de thermosfles 12 uur in de testomgeving staat\n• De vergelijking 77,1 · 0,982ᵗ = 65 moet worden opgelost\n• Beschrijven hoe deze vergelijking met de GR kan worden opgelost\n• De oplossing is t ≈ 9,4\n• Het antwoord: 21 uur",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor de temperatuur T geldt T = 77,1 · 0,982ᵗ, met t de tijd in uren vanaf het moment dat de thermosfles 12 uur in de testomgeving staat"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking 77,1 · 0,982ᵗ = 65 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking met de GR kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "De oplossing is t ≈ 9,4"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 21 uur"
+    }
+   ],
+   "grading_note": "Als correct gerekend wordt met een nauwkeuriger waarde voor de groeifactor, of als een ander startmoment dan 12 uur wordt gebruikt, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-thermosflessen-antw20.png"
+   ]
+  },
+  {
+   "title": "QR-code",
+   "question_number": 21,
+   "answer_text": "• Het aantal hokjes op de onderste rij van de QR-code neemt per versienummer toe met (177 − 21)/(40 − 1)\n• Dit is een toename van 4 hokjes per versienummer\n• Het aantal hokjes op de onderste rij van versienummer 25 is 21 + 24 · 4 = 117\n• De totale ruimte is (4 + 117 + 4)² = 15625 hokjes\n• De witte rand bestaat uit 15625 − 117² = 1936 hokjes\n• Het gevraagde percentage is 1936/15625 · 100(%)\n• Het antwoord: 12(%) (of nauwkeuriger)\n\nof\n\n• Tellen in figuur 2 van het aantal hokjes op de onderste rij van de QR-code geeft 25\n• (Het aantal hokjes op de onderste rij van versienummer 1 is 21,) dus de toename is 4 hokjes per versienummer\n• Er geldt h = 4v + 17, dus het aantal hokjes op de onderste rij van versienummer 25 is 117\n• De totale ruimte is (4 + 117 + 4)² = 15625 hokjes\n• De QR-code neemt 117²/15625 · 100(%) van de totale ruimte in beslag\n• Dat is ongeveer 88(%)\n• Het antwoord: (100 − 88 =) 12(%) (of nauwkeuriger)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het aantal hokjes op de onderste rij van de QR-code neemt per versienummer toe met (177 − 21)/(40 − 1)"
+    },
+    {
+     "points": 1,
+     "description": "Dit is een toename van 4 hokjes per versienummer"
+    },
+    {
+     "points": 1,
+     "description": "Het aantal hokjes op de onderste rij van versienummer 25 is 21 + 24 · 4 = 117"
+    },
+    {
+     "points": 1,
+     "description": "De totale ruimte is (4 + 117 + 4)² = 15625 hokjes"
+    },
+    {
+     "points": 1,
+     "description": "De witte rand bestaat uit 15625 − 117² = 1936 hokjes"
+    },
+    {
+     "points": 1,
+     "description": "Het gevraagde percentage is 1936/15625 · 100(%)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 12(%) (of nauwkeuriger)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2016-ii-qr-code-antw21.png"
+   ]
+  }
+ ]
+}
