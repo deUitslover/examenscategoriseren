@@ -1,0 +1,54 @@
+{
+  "source": "HAVO Wiskunde A 2025-I",
+  "subject_name": "Wiskunde A",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "CO₂ en andere broeikasgassen",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Grut van grutto’s",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Mantelzorgers",
+      "question_numbers": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Hoe zwaar is een bergbeklimming met de fiets?",
+      "question_numbers": [
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Zorg om zorguitgaven",
+      "question_numbers": [
+        22
+      ]
+    }
+  ]
+}
