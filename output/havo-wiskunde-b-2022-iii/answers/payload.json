@@ -1,0 +1,523 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde B 2022-III",
+  "answers": [
+   {
+    "title": "Zuigflesje",
+    "question_number": 1,
+    "answer_text": "• d(x) = 0,04x² − 0,56x + 6\n• d′(x) = 0,08x − 0,56\n• Beschrijven hoe de vergelijking d′(x) = 0 algebraïsch opgelost kan worden\n• (Dus de verticale afstand d is het kleinst voor) x = 7\nof\n• d(x) = 0,04x² − 0,56x + 6\n• De gevraagde waarde van x is −(−0,56)/(2 · 0,04)\n• (Dus de verticale afstand d is het kleinst voor) x = 7",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "d(x) = 0,04x² − 0,56x + 6"
+     },
+     {
+      "points": 1,
+      "description": "d′(x) = 0,08x − 0,56"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking d′(x) = 0 algebraïsch opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "(Dus de verticale afstand d is het kleinst voor) x = 7"
+     }
+    ],
+    "grading_note": "In het tweede antwoordalternatief voor het tweede antwoordelement uitsluitend 0 of 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-zuigflesje-antw1.png"
+    ]
+   },
+   {
+    "title": "Zuigflesje",
+    "question_number": 2,
+    "answer_text": "• Er geldt h(x) = (f(x) + g(x))/2\n• Ingevuld wordt dit h(x) = (−0,02x³ + 0,36x² − 1,56x + 6,88)/2\n• Dit geeft h(x) = −0,01x³ + 0,18x² − 0,78x + 3,44",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt h(x) = (f(x) + g(x))/2"
+     },
+     {
+      "points": 1,
+      "description": "Ingevuld wordt dit h(x) = (−0,02x³ + 0,36x² − 1,56x + 6,88)/2"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft h(x) = −0,01x³ + 0,18x² − 0,78x + 3,44"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-zuigflesje-antw2.png"
+    ]
+   },
+   {
+    "title": "Hyperbool met cirkels",
+    "question_number": 3,
+    "answer_text": "• f′(x) = 12/(2x − 3)² (of een gelijkwaardige uitdrukking)\n• f′(3) = 4/3\n• f′(0) = 4/3",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "f′(x) = 12/(2x − 3)² (of een gelijkwaardige uitdrukking)"
+     },
+     {
+      "points": 1,
+      "description": "f′(3) = 4/3"
+     },
+     {
+      "points": 1,
+      "description": "f′(0) = 4/3"
+     }
+    ],
+    "grading_note": "Voor het eerste antwoordelement uitsluitend 0 of 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-hyperbool-met-cirkels-antw3.png"
+    ]
+   },
+   {
+    "title": "Hyperbool met cirkels",
+    "question_number": 4,
+    "answer_text": "• (rc_n · 4/3 = −1 met n de lijn door A loodrecht op m dus) rc_n = −4/3 (dus n heeft een vergelijking van de vorm y = −¾x + b ⚠️ CONTROLEREN: in het correctievoorschrift staat letterlijk eerst rc_n = −4/3 en daarna y = −¾x + b\n• Invullen van de coördinaten van A(3, 0) in y = −¾x + b geeft b = 9/4 (dus een vergelijking van n is y = −¾x + 9/4)\n• Een vergelijking van m is y = 4/3·x + 4\n• Uit 4/3·x + 4 = −¾x + 9/4) volgt x = −21/25\n• x = −21/25 invullen in y = −¾x + 9/4 (of in y = 4/3·x + 4) geeft y = 72/25\n• Het midden tussen A(3, 0) en −21/25, 72/25 is ((3 + −21/25)/2, (0 + 72/25)/2) (en dit is inderdaad M₁)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(rc_n · 4/3 = −1 met n de lijn door A loodrecht op m dus) rc_n = −4/3 (dus n heeft een vergelijking van de vorm y = −¾x + b ⚠️ CONTROLEREN: in het correctievoorschrift staat letterlijk eerst rc_n = −4/3 en daarna y = −¾x + b"
+     },
+     {
+      "points": 1,
+      "description": "Invullen van de coördinaten van A(3, 0) in y = −¾x + b geeft b = 9/4 (dus een vergelijking van n is y = −¾x + 9/4)"
+     },
+     {
+      "points": 1,
+      "description": "Een vergelijking van m is y = 4/3·x + 4"
+     },
+     {
+      "points": 1,
+      "description": "Uit 4/3·x + 4 = −¾x + 9/4) volgt x = −21/25"
+     },
+     {
+      "points": 1,
+      "description": "x = −21/25 invullen in y = −¾x + 9/4 (of in y = 4/3·x + 4) geeft y = 72/25"
+     },
+     {
+      "points": 1,
+      "description": "Het midden tussen A(3, 0) en −21/25, 72/25 is ((3 + −21/25)/2, (0 + 72/25)/2) (en dit is inderdaad M₁)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-hyperbool-met-cirkels-antw4.png"
+    ]
+   },
+   {
+    "title": "Hyperbool met cirkels",
+    "question_number": 5,
+    "answer_text": "• x² + y² − 3x − 4y = 0 geeft (x − 3/2)² − 9/4 + (y − 2)² − 4 = 0 (dus c₂ heeft een vergelijking van de vorm (x − 3/2)² + (y − 2)² = r²\n• De coördinaten van het middelpunt van c₂ zijn dus (3/2, 2)\n• 4/3 · 3/2 = 2 (dus het middelpunt van c₂ ligt op k)\n⚠️ CONTROLEREN: het correctievoorschrift vermeldt 'maximumscore 6', maar somt slechts drie deelpunten van elk 1 scorepunt op (totaal 3)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "x² + y² − 3x − 4y = 0 geeft (x − 3/2)² − 9/4 + (y − 2)² − 4 = 0 (dus c₂ heeft een vergelijking van de vorm (x − 3/2)² + (y − 2)² = r²"
+     },
+     {
+      "points": 1,
+      "description": "De coördinaten van het middelpunt van c₂ zijn dus (3/2, 2)"
+     },
+     {
+      "points": 1,
+      "description": "4/3 · 3/2 = 2 (dus het middelpunt van c₂ ligt op k)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-hyperbool-met-cirkels-antw5.png"
+    ]
+   },
+   {
+    "title": "Het rendement van warmtemotoren",
+    "question_number": 6,
+    "answer_text": "• Als R groter wordt, wordt 100 − R kleiner ⚠️ CONTROLEREN: in het correctievoorschrift staat letterlijk '100 = R'\n• Omdat de teller groter wordt en de noemer kleiner, wordt de breuk R/(100 − R) groter\n• (Het grondtal van de logaritme is groter dan 1) dus log(R/(100 − R)) neemt toe (dus K neemt toe)\n⚠️ CONTROLEREN: in het correctievoorschrift staat na dit antwoord 'of', maar er volgt geen alternatief antwoord",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als R groter wordt, wordt 100 − R kleiner ⚠️ CONTROLEREN: in het correctievoorschrift staat letterlijk '100 = R'"
+     },
+     {
+      "points": 1,
+      "description": "Omdat de teller groter wordt en de noemer kleiner, wordt de breuk R/(100 − R) groter"
+     },
+     {
+      "points": 1,
+      "description": "(Het grondtal van de logaritme is groter dan 1) dus log(R/(100 − R)) neemt toe (dus K neemt toe)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-het-rendement-van-warmtemotoren-antw6.png"
+    ]
+   },
+   {
+    "title": "Het rendement van warmtemotoren",
+    "question_number": 7,
+    "answer_text": "• In de figuur bij de stip Charles Parsons op de verticale as −0,5 aflezen\n• De vergelijking −0,5 = log(R/(100 − R)) moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Het rendement van de warmtemotor van Charles Parsons is 24 (%)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In de figuur bij de stip Charles Parsons op de verticale as −0,5 aflezen"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking −0,5 = log(R/(100 − R)) moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "Het rendement van de warmtemotor van Charles Parsons is 24 (%)"
+     }
+    ],
+    "grading_note": "Als een kandidaat voor K een andere waarde heeft afgelezen tussen −0,55 en −0,45, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-het-rendement-van-warmtemotoren-antw7.png"
+    ]
+   },
+   {
+    "title": "Het rendement van warmtemotoren",
+    "question_number": 8,
+    "answer_text": "• Als R = 70 dan is K = log(70/(100 − 70))\n• Beschrijven hoe de vergelijking log(70/(100 − 70)) = 0,00667t − 2 opgelost kan worden\n• t = 355,01...\n• Dus in het jaar 2056 zal voor het eerst een rendement van 70% behaald worden",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als R = 70 dan is K = log(70/(100 − 70))"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking log(70/(100 − 70)) = 0,00667t − 2 opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "t = 355,01..."
+     },
+     {
+      "points": 1,
+      "description": "Dus in het jaar 2056 zal voor het eerst een rendement van 70% behaald worden"
+     }
+    ],
+    "grading_note": "Het antwoord 2055 ook goed rekenen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-het-rendement-van-warmtemotoren-antw8.png"
+    ]
+   },
+   {
+    "title": "Het rendement van warmtemotoren",
+    "question_number": 9,
+    "answer_text": "• (Formules (1) en (2) combineren geeft) log(R/(100 − R)) = 0,00667t − 2\n• Hieruit volgt (R/(100 − R)) = 10^(0,00667t − 2)\n• Dit geeft R = (100 − R) · 10^(0,00667t − 2)\n• Dus R(1 + 10^(0,00667t − 2))R = 100 · 10^(0,00667t − 2) ⚠️ CONTROLEREN: in het correctievoorschrift staat letterlijk een extra R na het haakje\n• Hieruit volgt R = 100 · 10^(0,00667t − 2)/(1 + 10^(0,00667t − 2)) (of een gelijkwaardige uitdrukking)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Formules (1) en (2) combineren geeft) log(R/(100 − R)) = 0,00667t − 2"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt (R/(100 − R)) = 10^(0,00667t − 2)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft R = (100 − R) · 10^(0,00667t − 2)"
+     },
+     {
+      "points": 1,
+      "description": "Dus R(1 + 10^(0,00667t − 2))R = 100 · 10^(0,00667t − 2) ⚠️ CONTROLEREN: in het correctievoorschrift staat letterlijk een extra R na het haakje"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt R = 100 · 10^(0,00667t − 2)/(1 + 10^(0,00667t − 2)) (of een gelijkwaardige uitdrukking)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-het-rendement-van-warmtemotoren-antw9.png"
+    ]
+   },
+   {
+    "title": "Cosinus en lijnen",
+    "question_number": 10,
+    "answer_text": "• De vergelijking 2cos(3x) = √3 moet worden opgelost\n• Dit geeft (3x) = ½√3 waaruit volgt 3x = ⅙π (+k · 2π) (of 3x = −⅙π (+k · 2π))\n• Dus voor de x-coördinaat van A geldt x = π/18\n• De richtingscoëfficiënt van k is √3/(π/18) = 18√3/π",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 2cos(3x) = √3 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft (3x) = ½√3 waaruit volgt 3x = ⅙π (+k · 2π) (of 3x = −⅙π (+k · 2π))"
+     },
+     {
+      "points": 1,
+      "description": "Dus voor de x-coördinaat van A geldt x = π/18"
+     },
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt van k is √3/(π/18) = 18√3/π"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-cosinus-en-lijnen-antw10.png"
+    ]
+   },
+   {
+    "title": "Cosinus en lijnen",
+    "question_number": 11,
+    "answer_text": "• De tangens van de hoek die k maakt met de x-as is 18√3/π\n• De hoek die k maakt met de x-as is 84,24...°\n• (De periode van f is ⅔π dus) de x-coördinaat van T is ⅔π\n• (De amplitude van de grafiek van f is 2 dus) de y-coördinaat van T is 2\n• De richtingscoëfficiënt van l is 2/(⅔π)\n• De hoek die l maakt met de x-as is 43,67...°\n• Dan is de gevraagde hoek (84,24...° − 43,67...° = 40,56...°, dit is afgerond op hele graden) 41°",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De tangens van de hoek die k maakt met de x-as is 18√3/π"
+     },
+     {
+      "points": 1,
+      "description": "De hoek die k maakt met de x-as is 84,24...°"
+     },
+     {
+      "points": 1,
+      "description": "(De periode van f is ⅔π dus) de x-coördinaat van T is ⅔π"
+     },
+     {
+      "points": 1,
+      "description": "(De amplitude van de grafiek van f is 2 dus) de y-coördinaat van T is 2"
+     },
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt van l is 2/(⅔π)"
+     },
+     {
+      "points": 1,
+      "description": "De hoek die l maakt met de x-as is 43,67...°"
+     },
+     {
+      "points": 1,
+      "description": "Dan is de gevraagde hoek (84,24...° − 43,67...° = 40,56...°, dit is afgerond op hele graden) 41°"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-cosinus-en-lijnen-antw11.png"
+    ]
+   },
+   {
+    "title": "Wortelfunctie",
+    "question_number": 12,
+    "answer_text": "• De coördinaten van M zijn (½, 1)\n• Er geldt g(x) = a · f(x) = a√x\n• a√(½) = 1\n• Hieruit volgt a = √2 (of een gelijkwaardige uitdrukking), dus de y-coördinaat van N is (√2 · 1 =) √2 (of een gelijkwaardige uitdrukking)\nof\n• De coördinaten van M zijn (½, 1)\n• Er geldt g(x) = f(a · x) = √(a · x)\n• a = √(1/½) (= 2)\n• Dus de y-coördinaat van N is (√2 · 1 =) √2 (of een gelijkwaardige uitdrukking)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De coördinaten van M zijn (½, 1)"
+     },
+     {
+      "points": 1,
+      "description": "Er geldt g(x) = a · f(x) = a√x"
+     },
+     {
+      "points": 1,
+      "description": "a√(½) = 1"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt a = √2 (of een gelijkwaardige uitdrukking), dus de y-coördinaat van N is (√2 · 1 =) √2 (of een gelijkwaardige uitdrukking)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-wortelfunctie-antw12.png"
+    ]
+   },
+   {
+    "title": "Wortelfunctie",
+    "question_number": 13,
+    "answer_text": "• OA = √(1² + 1²) = √2\n• AB = (√((x_B − x_A)² + (y_B − y_A)²) =) √((b − 1)² + (√b − 1)²)\n• Beschrijven hoe de vergelijking √((b − 1)² + (√b − 1)²) = √2 opgelost kan worden\n• Het gevraagde antwoord is 2,31",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "OA = √(1² + 1²) = √2"
+     },
+     {
+      "points": 1,
+      "description": "AB = (√((x_B − x_A)² + (y_B − y_A)²) =) √((b − 1)² + (√b − 1)²)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking √((b − 1)² + (√b − 1)²) = √2 opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "Het gevraagde antwoord is 2,31"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-wortelfunctie-antw13.png"
+    ]
+   },
+   {
+    "title": "Brug",
+    "question_number": 14,
+    "answer_text": "• P en Q invullen in de formule geeft het stelsel { 0 = 1,4 + b + c/1,4 ; 0 = 12,0 + b + c/12,0 }\n• Hieruit volgt 1,4 + c/1,4 = 12,0 + c/12,0\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Dit geeft c = 16,8\n• Hieruit volgt b = −13,4\n• Het punt T(4,1; 2,4) invullen in y = a(x − 13,4 + 16,8/x) geeft 2,4 = a(4,1 − 13,4 + 16,8/4,1)\n• (Hieruit volgt a = −0,46...) dus de gevraagde waarde van a is −0,5\nof\n• dy/dx = a − ac/x²\n• dy/dx = 0 geeft x = √c\n• (Omdat het hoogste punt T is, volgt √c = 4,1 dus c = 16,81, dus) de gevraagde waarde van c is 16,8\n• P invullen in de formule geeft a(1,4 + b + 16,81/1,4) = 0\n• (b = −13,40...) dus de gevraagde waarde van b is −13,4\n• Het punt T(4,1; 2,4) invullen geeft 2,4 = a(4,1 − 13,40... + 16,81/4,1)\n• (Hieruit volgt a = −0,46...) dus de gevraagde waarde van a is −0,5\nof\n• dy/dx = a − ac/x²\n• dy/dx = 0 geeft x = √c\n• (Omdat het hoogste punt T is, volgt √c = 4,1 dus c = 16,81, dus) de gevraagde waarde van c is 16,8\n• Q invullen in de formule geeft a(12,0 + b + 16,81/12,0) = 0\n• (b = −13,40...) dus de gevraagde waarde van b is −13,4\n• Het punt T(4,1; 2,4) invullen geeft 2,4 = a(4,1 − 13,40... + 16,81/4,1)\n• (Hieruit volgt a = −0,46...) dus de gevraagde waarde van a is −0,5",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "P en Q invullen in de formule geeft het stelsel { 0 = 1,4 + b + c/1,4 ; 0 = 12,0 + b + c/12,0 }"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt 1,4 + c/1,4 = 12,0 + c/12,0"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft c = 16,8"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt b = −13,4"
+     },
+     {
+      "points": 1,
+      "description": "Het punt T(4,1; 2,4) invullen in y = a(x − 13,4 + 16,8/x) geeft 2,4 = a(4,1 − 13,4 + 16,8/4,1)"
+     },
+     {
+      "points": 1,
+      "description": "(Hieruit volgt a = −0,46...) dus de gevraagde waarde van a is −0,5"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-brug-antw14.png"
+    ]
+   },
+   {
+    "title": "Ingeschreven cirkel",
+    "question_number": 15,
+    "answer_text": "• Er geldt G = ½ · AB · r + ½ · BC · r + ½ · AC · r\n• P = AB + BC + AC\n• G = ½ · (AB + BC + AC) · r (dus G = ½ · P · r)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt G = ½ · AB · r + ½ · BC · r + ½ · AC · r"
+     },
+     {
+      "points": 1,
+      "description": "P = AB + BC + AC"
+     },
+     {
+      "points": 1,
+      "description": "G = ½ · (AB + BC + AC) · r (dus G = ½ · P · r)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-ingeschreven-cirkel-antw15.png"
+    ]
+   },
+   {
+    "title": "Ingeschreven cirkel",
+    "question_number": 16,
+    "answer_text": "• Er geldt 13² = 14² + 15² − 2 · 14 · 15 · cos(∠A)\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Dit geeft ∠A = 53,13...°\n• De oppervlakte van driehoek ABC is ½ · 14 · sin(∠A) · 15\n• Dit geeft G = 84 (of G ≈ 84)\n• Hieruit volgt r = 2G/P = (2·84)/(13 + 14 + 15) = 4",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt 13² = 14² + 15² − 2 · 14 · 15 · cos(∠A)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft ∠A = 53,13...°"
+     },
+     {
+      "points": 1,
+      "description": "De oppervlakte van driehoek ABC is ½ · 14 · sin(∠A) · 15"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft G = 84 (of G ≈ 84)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt r = 2G/P = (2·84)/(13 + 14 + 15) = 4"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-ingeschreven-cirkel-antw16.png"
+    ]
+   },
+   {
+    "title": "Exponentiële functie",
+    "question_number": 17,
+    "answer_text": "• f(a) = 16 geeft 1/9 · (3^(−½a) + 27) = 16\n• Hieruit volgt 3^(−½a) = 117\n• Dit geeft −½a = ³log(117)\n• Dus a = −2 · ³log(117) (of een gelijkwaardige uitkomst)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f(a) = 16 geeft 1/9 · (3^(−½a) + 27) = 16"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt 3^(−½a) = 117"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft −½a = ³log(117)"
+     },
+     {
+      "points": 1,
+      "description": "Dus a = −2 · ³log(117) (of een gelijkwaardige uitkomst)"
+     }
+    ],
+    "grading_note": "Als een kandidaat rekent met f(a) = 4, voor deze vraag ten hoogste 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-exponentiele-functie-antw17.png"
+    ]
+   },
+   {
+    "title": "Exponentiële functie",
+    "question_number": 18,
+    "answer_text": "• f(x) = (1/9 · (3^(−½x) + 27) =) 1/9 · 3^(−½x) + 3\n• Dus f(x) = 3⁻² · 3^(−½x) + 3\n• Dit geeft f(x) = 3^(−½x − 2) + 3\n• Hieruit volgt f(x) = (3^(−½))^(x + 4) + 3\n• Dit geeft f(x) = (1/3^(½))^(x + 4) + 3 = (1/√3)^(x + 4) + 3\nof\n• (1/√3)^(x + 4) + 3 = (1/3^(½))^(x + 4) + 3\n• (1/3^(½))^(x + 4) + 3 = (3^(−½))^(x + 4) + 3\n• (3^(−½))^(x + 4) + 3 = 3^(−½x − 2) + 3\n• 3^(−½x − 2) + 3 = 3⁻² · 3^(−½x) + 3\n• 3⁻² · 3^(−½x) + 3 = 1/9 · 3^(−½x) + 3 = 1/9 · (3^(−½x) + 27)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f(x) = (1/9 · (3^(−½x) + 27) =) 1/9 · 3^(−½x) + 3"
+     },
+     {
+      "points": 1,
+      "description": "Dus f(x) = 3⁻² · 3^(−½x) + 3"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft f(x) = 3^(−½x − 2) + 3"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt f(x) = (3^(−½))^(x + 4) + 3"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft f(x) = (1/3^(½))^(x + 4) + 3 = (1/√3)^(x + 4) + 3"
+     }
+    ],
+    "grading_note": "Als zowel 1/9 · (3^(−½x) + 27) als (1/√3)^(x + 4) + 3 herschreven worden, waarbij de kandidaat twee keer op dezelfde uitdrukking uitkomt, bijvoorbeeld 3^(−½x − 2) + 3, hiervoor uiteraard geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-iii-exponentiele-functie-antw18.png"
+    ]
+   }
+  ]
+ }
+}
