@@ -1,0 +1,64 @@
+{
+  "source": "HAVO Wiskunde A 2016-I",
+  "subject_name": "Wiskunde A",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Vertrouwen",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Duiken",
+      "question_numbers": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Links naar Wikipedia-artikelen",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Start to Run",
+      "question_numbers": [
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Opslag van radioactief afval",
+      "question_numbers": [
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "title": "Door de Westerscheldetunnel",
+      "question_numbers": [
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Vrouwenvoetbal",
+      "question_numbers": [
+        22
+      ]
+    }
+  ]
+}
