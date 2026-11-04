@@ -1,0 +1,521 @@
+{
+  "payload": {
+    "subject_name": "Wiskunde A",
+    "level": "HAVO",
+    "source": "HAVO Wiskunde A 2026-I",
+    "answers": [
+      {
+        "title": "Steeds minder bos",
+        "question_number": 1,
+        "answer_text": "• In de perioden 1990-2000, 2000-2010 en 2010-2020 is er respectievelijk 78,4; 51,7 en 47,4 (miljoen hectare) bos verdwenen (1 punt)\n• In de gehele periode 1990-2020 is er in totaal 177,5 (miljoen hectare) bos verdwenen (1 punt)\n• In 2020 is er dan (4240 − 177,5 = 4062,5 dus) 4063 (miljoen hectare) bos (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In de perioden 1990-2000, 2000-2010 en 2010-2020 is er respectievelijk 78,4; 51,7 en 47,4 (miljoen hectare) bos verdwenen"
+          },
+          {
+            "points": 1,
+            "description": "In de gehele periode 1990-2020 is er in totaal 177,5 (miljoen hectare) bos verdwenen"
+          },
+          {
+            "points": 1,
+            "description": "In 2020 is er dan (4240 − 177,5 = 4062,5 dus) 4063 (miljoen hectare) bos"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-steeds-minder-bos-antw1.png"
+        ]
+      },
+      {
+        "title": "Steeds minder bos",
+        "question_number": 2,
+        "answer_text": "• In de perioden 1990-2000, 2000-2010 en 2010-2020 zijn de jaarlijkse groeifactoren respectievelijk 0,9981; 0,9987 en 0,9988 (1 punt)\n• Over de gehele periode van 1990-2020 is de groeifactor dus 0,9981¹⁰ · 0,9987¹⁰ · 0,9988¹⁰ (= 0,9569 …) (1 punt)\n• In 2020 is er dan (4240 · 0,9569 … = 4057,3 … dus) 4057 (miljoen hectare) bos (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In de perioden 1990-2000, 2000-2010 en 2010-2020 zijn de jaarlijkse groeifactoren respectievelijk 0,9981; 0,9987 en 0,9988"
+          },
+          {
+            "points": 1,
+            "description": "Over de gehele periode van 1990-2020 is de groeifactor dus 0,9981¹⁰ · 0,9987¹⁰ · 0,9988¹⁰ (= 0,9569 …)"
+          },
+          {
+            "points": 1,
+            "description": "In 2020 is er dan (4240 · 0,9569 … = 4057,3 … dus) 4057 (miljoen hectare) bos"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-steeds-minder-bos-antw2.png"
+        ]
+      },
+      {
+        "title": "Steeds minder bos",
+        "question_number": 3,
+        "answer_text": "• De groeifactor per 15 jaar is 1,03 (1 punt)\n• De groeifactor per jaar is 1,03^(1/15) (1 punt)\n• Dit is 1,00197 ... (1 punt)\n• Het antwoord: 0,2(%) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De groeifactor per 15 jaar is 1,03"
+          },
+          {
+            "points": 1,
+            "description": "De groeifactor per jaar is 1,03^(1/15)"
+          },
+          {
+            "points": 1,
+            "description": "Dit is 1,00197 ..."
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 0,2(%)"
+          }
+        ],
+        "grading_note": "Als gerekend wordt met 1,03:15, voor deze vraag maximaal 2 scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-steeds-minder-bos-antw3.png"
+        ]
+      },
+      {
+        "title": "Steeds minder bos",
+        "question_number": 4,
+        "answer_text": "• De coördinaten van de twee punten (1,75) en (8,60) (1 punt)\n• Het eerste getal is ((60 − 75)/(8 − 1) = −2,14 … dus) −2,1 (1 punt)\n• Het tweede getal is (75 − −2,14 … · 1 = 77,14 … dus) 77,1 (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De coördinaten van de twee punten (1,75) en (8,60)"
+          },
+          {
+            "points": 1,
+            "description": "Het eerste getal is ((60 − 75)/(8 − 1) = −2,14 … dus) −2,1"
+          },
+          {
+            "points": 1,
+            "description": "Het tweede getal is (75 − −2,14 … · 1 = 77,14 … dus) 77,1"
+          }
+        ],
+        "grading_note": "De waarde bij 2004 mag afgelezen worden met een marge van 1.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-steeds-minder-bos-antw4.png"
+        ]
+      },
+      {
+        "title": "Fitnesscentra",
+        "question_number": 5,
+        "answer_text": "• De toename per 4 jaar is 2200 − 1970 (= 230) (1 punt)\n• De toename per jaar is dus 230/4 (= 57,5) (1 punt)\n• Er moeten na 1 januari 2019 meer dan (3000 − 2200 =) 800 fitnesscentra bij komen (1 punt)\n• Dit duurt 800/57,5 = 13,91 … (jaar), dus (op 1 januari) 2033 (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De toename per 4 jaar is 2200 − 1970 (= 230)"
+          },
+          {
+            "points": 1,
+            "description": "De toename per jaar is dus 230/4 (= 57,5)"
+          },
+          {
+            "points": 1,
+            "description": "Er moeten na 1 januari 2019 meer dan (3000 − 2200 =) 800 fitnesscentra bij komen"
+          },
+          {
+            "points": 1,
+            "description": "Dit duurt 800/57,5 = 13,91 … (jaar), dus (op 1 januari) 2033"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-fitnesscentra-antw5.png"
+        ]
+      },
+      {
+        "title": "Fitnesscentra",
+        "question_number": 6,
+        "answer_text": "• Bij fitnesscentra met 0 tot 3 werknemers en bij fitnesscentra met 5 tot 10 werknemers is het aantal klanten gedaald; die hebben geen toename van het aantal klanten (1 punt)\n• Bij fitnesscentra met 3 tot 5 werknemers is de procentuele toename van het aantal klanten (226 − 214)/214 · 100 = 5, … (%) (1 punt)\n• Bij fitnesscentra met 10 of meer werknemers is dit (1720 − 1241)/1241 · 100 = 38, … (%), dus de bewering is juist (1 punt)\n\nof\n\nEen antwoord als:\n• Bij fitnesscentra met 0 tot 3 werknemers en bij fitnesscentra met 5 tot 10 werknemers is het aantal klanten gedaald; die hebben geen toename van het aantal klanten (1 punt)\n• Bij fitnesscentra met 3 tot 5 werknemers: van 214 naar 226 is een toename van 12 en dat is minder dan 10% (van 214) (1 punt)\n• Bij fitnesscentra met 10 of meer werknemers: van 1241 naar 1720 is een toename van bijna 500 en dat is meer dan 10% (van 1241), dus de bewering is juist (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij fitnesscentra met 0 tot 3 werknemers en bij fitnesscentra met 5 tot 10 werknemers is het aantal klanten gedaald; die hebben geen toename van het aantal klanten"
+          },
+          {
+            "points": 1,
+            "description": "Bij fitnesscentra met 3 tot 5 werknemers is de procentuele toename van het aantal klanten (226 − 214)/214 · 100 = 5, … (%)"
+          },
+          {
+            "points": 1,
+            "description": "Bij fitnesscentra met 10 of meer werknemers is dit (1720 − 1241)/1241 · 100 = 38, … (%), dus de bewering is juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-fitnesscentra-antw6.png"
+        ]
+      },
+      {
+        "title": "Fitnesscentra",
+        "question_number": 7,
+        "answer_text": "• Formule 1 kan voldoen aan eis 1 door voor b de waarde 2,586 te kiezen (1 punt)\n• Formule 1 kan voldoen aan eis 2 indien g groter is dan 1 (1 punt)\n• Formule 1 kan niet voldoen aan eis 3, want om N te laten toenemen moet g groter zijn dan 1, maar dan groeit N bij een formule van deze vorm ook onbeperkt door (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Formule 1 kan voldoen aan eis 1 door voor b de waarde 2,586 te kiezen"
+          },
+          {
+            "points": 1,
+            "description": "Formule 1 kan voldoen aan eis 2 indien g groter is dan 1"
+          },
+          {
+            "points": 1,
+            "description": "Formule 1 kan niet voldoen aan eis 3, want om N te laten toenemen moet g groter zijn dan 1, maar dan groeit N bij een formule van deze vorm ook onbeperkt door"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-fitnesscentra-antw7.png"
+        ]
+      },
+      {
+        "title": "Fitnesscentra",
+        "question_number": 8,
+        "answer_text": "• t = 0 invullen in formule 2 geeft afgerond N = 2,586 (dus formule 2 voldoet aan eis 1) (1 punt)\n• In formule 2 wordt de noemer steeds kleiner als t toeneemt (omdat 0,92ᵗ afneemt) (1 punt)\n• Dan neemt N steeds toe (omdat er een constant getal gedeeld wordt door een steeds kleiner wordend getal, dus formule 2 voldoet aan eis 2) (1 punt)\n• (Voor grote waarden van t nadert 0,92ᵗ naar 0, dus) op den duur bereikt het aantal klanten volgens formule 2 net niet de waarde 3/(1 + 0,16 · 0) (= 3, dus formule 2 voldoet aan eis 3) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "t = 0 invullen in formule 2 geeft afgerond N = 2,586 (dus formule 2 voldoet aan eis 1)"
+          },
+          {
+            "points": 1,
+            "description": "In formule 2 wordt de noemer steeds kleiner als t toeneemt (omdat 0,92ᵗ afneemt)"
+          },
+          {
+            "points": 1,
+            "description": "Dan neemt N steeds toe (omdat er een constant getal gedeeld wordt door een steeds kleiner wordend getal, dus formule 2 voldoet aan eis 2)"
+          },
+          {
+            "points": 1,
+            "description": "(Voor grote waarden van t nadert 0,92ᵗ naar 0, dus) op den duur bereikt het aantal klanten volgens formule 2 net niet de waarde 3/(1 + 0,16 · 0) (= 3, dus formule 2 voldoet aan eis 3)"
+          }
+        ],
+        "grading_note": "Als in plaats van het tweede en derde antwoordelement een schets met toelichting gebruikt wordt, voor deze vraag geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-fitnesscentra-antw8.png"
+        ]
+      },
+      {
+        "title": "Fitnesscentra",
+        "question_number": 9,
+        "answer_text": "• 5% minder dan de waarde van 3 (miljoen) is 0,95 · 3 (= 2,85) (miljoen) (1 punt)\n• De vergelijking 3/(1 + 0,16 · 0,92ᵗ) = 2,85 moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• De oplossing t = 13,3 … (1 punt)\n• Het antwoord: (13,3 … jaar na 1 januari 2019, dus in) 2032 (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "5% minder dan de waarde van 3 (miljoen) is 0,95 · 3 (= 2,85) (miljoen)"
+          },
+          {
+            "points": 1,
+            "description": "De vergelijking 3/(1 + 0,16 · 0,92ᵗ) = 2,85 moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "De oplossing t = 13,3 …"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: (13,3 … jaar na 1 januari 2019, dus in) 2032"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-fitnesscentra-antw9.png"
+        ]
+      },
+      {
+        "title": "Examenresultaten",
+        "question_number": 10,
+        "answer_text": "Een antwoord waaruit het inzicht blijkt dat het in de tabel om de populatie gaat en niet om een steekproef (en dat daarom de percentages exact zijn)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een antwoord waaruit het inzicht blijkt dat het in de tabel om de populatie gaat en niet om een steekproef (en dat daarom de percentages exact zijn)"
+          }
+        ],
+        "grading_note": "Voor deze vraag mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-examenresultaten-antw10.png"
+        ]
+      },
+      {
+        "title": "Examenresultaten",
+        "question_number": 11,
+        "answer_text": "• In 2019 zijn 10184 kandidaten met het profiel NT geslaagd en 5045 kandidaten met het profiel CM (1 punt)\n• Een correcte kruistabel, bijvoorbeeld (1 punt)\n\n|  | geslaagd | niet geslaagd | (totaal) |\n| profiel NT | 10184 | 958 | (11142) |\n| profiel CM | 5045 | 681 | (5726) |\n| (totaal) | (15229) | (1639) | (16868) |\n\n• phi = (10184 · 681 − 958 · 5045) / √((10184 + 958)(10184 + 5045)(958 + 681)(5045 + 681)) (1 punt)\n• phi = 0,052 …; (dit ligt tussen −0,2 en 0,2, dus) het verschil is gering (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In 2019 zijn 10184 kandidaten met het profiel NT geslaagd en 5045 kandidaten met het profiel CM"
+          },
+          {
+            "points": 1,
+            "description": "Een correcte kruistabel, bijvoorbeeld"
+          },
+          {
+            "points": 1,
+            "description": "phi = (10184 · 681 − 958 · 5045) / √((10184 + 958)(10184 + 5045)(958 + 681)(5045 + 681))"
+          },
+          {
+            "points": 1,
+            "description": "phi = 0,052 …; (dit ligt tussen −0,2 en 0,2, dus) het verschil is gering"
+          }
+        ],
+        "grading_note": "Als in het derde antwoordelement uitsluitend gerekend wordt met slaagpercentages, voor deze vraag maximaal 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-examenresultaten-antw11.png"
+        ]
+      },
+      {
+        "title": "Examenresultaten",
+        "question_number": 12,
+        "answer_text": "Voorbeeld van een juist antwoord:\nDe vorm van de verdeling van de SE-cijfers in 2020 is niet symmetrisch (dus kan deze verdeling niet normaal verdeeld zijn)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Voorbeeld van een juist antwoord:\nDe vorm van de verdeling van de SE-cijfers in 2020 is niet symmetrisch (dus kan deze verdeling niet normaal verdeeld zijn)"
+          }
+        ],
+        "grading_note": "Voor deze vraag mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-examenresultaten-antw12.png"
+        ]
+      },
+      {
+        "title": "Examenresultaten",
+        "question_number": 13,
+        "answer_text": "• In 2020 komen de lagere cijfers (tussen de 4,8 en 5,7) minder vaak voor dan in 2019; daarentegen komen de iets hogere cijfers (tussen de 5,7 en 6,4) vaker voor dan in 2019. De andere cijfers komen vrijwel even vaak voor. Daarom zal het gemiddelde in 2020 hoger zijn dan in 2019 (1 punt)\n• De verdeling van 2020 is smaller dan de verdeling van 2019. Daarom zal de standaardafwijking in 2020 kleiner zijn dan in 2019 (1 punt)\n• Mogelijkheid II is dus de juiste (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In 2020 komen de lagere cijfers (tussen de 4,8 en 5,7) minder vaak voor dan in 2019; daarentegen komen de iets hogere cijfers (tussen de 5,7 en 6,4) vaker voor dan in 2019. De andere cijfers komen vrijwel even vaak voor. Daarom zal het gemiddelde in 2020 hoger zijn dan in 2019"
+          },
+          {
+            "points": 1,
+            "description": "De verdeling van 2020 is smaller dan de verdeling van 2019. Daarom zal de standaardafwijking in 2020 kleiner zijn dan in 2019"
+          },
+          {
+            "points": 1,
+            "description": "Mogelijkheid II is dus de juiste"
+          }
+        ],
+        "grading_note": "– Als mogelijkheid II is gekozen zonder goede argumenten, voor deze vraag geen scorepunten toekennen.\n– Als mogelijkheid II is gekozen op basis van één goed argument, voor deze vraag 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-examenresultaten-antw13.png"
+        ]
+      },
+      {
+        "title": "Examenresultaten",
+        "question_number": 14,
+        "answer_text": "• 34% heeft een SE-cijfer tussen 5,7 en 6,2 (vuistregels normale verdeling) (1 punt)\n• 34% + 13,5% heeft een SE-cijfer tussen 6,2 en 7,2 (vuistregels normale verdeling) (1 punt)\n• 34 + 34 + 13,5 = 81,5(%) heeft een SE-cijfer tussen 5,7 en 7,2 (1 punt)\n\nof\n\n• 16% heeft een SE-cijfer lager dan 5,7 (vuistregels normale verdeling) (1 punt)\n• 2,5% heeft een SE-cijfer hoger dan 7,2 (vuistregels normale verdeling) (1 punt)\n• 100 − 16 − 2,5 = 81,5(%) heeft een SE-cijfer tussen 5,7 en 7,2 (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "34% heeft een SE-cijfer tussen 5,7 en 6,2 (vuistregels normale verdeling)"
+          },
+          {
+            "points": 1,
+            "description": "34% + 13,5% heeft een SE-cijfer tussen 6,2 en 7,2 (vuistregels normale verdeling)"
+          },
+          {
+            "points": 1,
+            "description": "34 + 34 + 13,5 = 81,5(%) heeft een SE-cijfer tussen 5,7 en 7,2"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-examenresultaten-antw14.png"
+        ]
+      },
+      {
+        "title": "Palingen",
+        "question_number": 15,
+        "answer_text": "• De waarden voor 1960 en 1992 op de lijn aflezen: 100 respectievelijk 10 (1 punt)\n• De groeifactor per 32 jaar is 10/100 (1 punt)\n• De groeifactor per jaar is (10/100)^(1/32) (1 punt)\n• Dit is 0,9305 … (1 punt)\n• Het antwoord: 6,9(%) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De waarden voor 1960 en 1992 op de lijn aflezen: 100 respectievelijk 10"
+          },
+          {
+            "points": 1,
+            "description": "De groeifactor per 32 jaar is 10/100"
+          },
+          {
+            "points": 1,
+            "description": "De groeifactor per jaar is (10/100)^(1/32)"
+          },
+          {
+            "points": 1,
+            "description": "Dit is 0,9305 …"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 6,9(%)"
+          }
+        ],
+        "grading_note": "– Als gerekend wordt met 10/100 : 32, voor deze vraag maximaal 3 scorepunten toekennen.\n– Als gerekend wordt met (10 − 100)^(1/32), voor deze vraag maximaal 3 scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-palingen-antw15.png"
+        ]
+      },
+      {
+        "title": "Palingen",
+        "question_number": 16,
+        "answer_text": "• De vergelijking 148 = 0,0008 · L^3,2049 moet worden opgelost (1 punt)\n• Beschrijven hoe de oplossing L = 44,00 … gevonden wordt (1 punt)\n• Dit geeft de vergelijking 44,00 … = 7,3 + 3 · t (1 punt)\n• De oplossing van deze vergelijking is t = 12,23 … (jaar) (1 punt)\n• De palingen brengen 147 maanden (of 12 jaar en 3 maanden) in Nederland door (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De vergelijking 148 = 0,0008 · L^3,2049 moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de oplossing L = 44,00 … gevonden wordt"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft de vergelijking 44,00 … = 7,3 + 3 · t"
+          },
+          {
+            "points": 1,
+            "description": "De oplossing van deze vergelijking is t = 12,23 … (jaar)"
+          },
+          {
+            "points": 1,
+            "description": "De palingen brengen 147 maanden (of 12 jaar en 3 maanden) in Nederland door"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-palingen-antw16.png"
+        ]
+      },
+      {
+        "title": "Palingen",
+        "question_number": 17,
+        "answer_text": "• De lengte neemt met een factor 1,5 toe (1 punt)\n• L³ neemt met een factor 1,5³ (= 3,375) toe (1 punt)\n• (Om C gelijk te houden) moet G (ook) met een factor 3,375 toenemen (1 punt)\n• Het antwoord: 237,5(%) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De lengte neemt met een factor 1,5 toe"
+          },
+          {
+            "points": 1,
+            "description": "L³ neemt met een factor 1,5³ (= 3,375) toe"
+          },
+          {
+            "points": 1,
+            "description": "(Om C gelijk te houden) moet G (ook) met een factor 3,375 toenemen"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 237,5(%)"
+          }
+        ],
+        "grading_note": "Als met een getallenvoorbeeld is gewerkt, voor deze vraag geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-palingen-antw17.png"
+        ]
+      },
+      {
+        "title": "Palingen",
+        "question_number": 18,
+        "answer_text": "• C = (100 · 0,0008 · L^3,2049) / L³ (1 punt)\n• Het inzicht dat L^3,2049 / L³ = L^(3,2049 − 3) (1 punt)\n• Het antwoord: 0,2049 (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "C = (100 · 0,0008 · L^3,2049) / L³"
+          },
+          {
+            "points": 1,
+            "description": "Het inzicht dat L^3,2049 / L³ = L^(3,2049 − 3)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 0,2049"
+          }
+        ],
+        "grading_note": "Als met een getallenvoorbeeld wordt gerekend, voor deze vraag geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-palingen-antw18.png"
+        ]
+      },
+      {
+        "title": "Palingen",
+        "question_number": 19,
+        "answer_text": "• De vergelijking 0,08 · L^0,2 = 0,191 moet worden opgelost (1 punt)\n• Beschrijven hoe de oplossing L = 77,5 … (cm) gevonden kan worden (1 punt)\n• v = 0,5 · 77,5 … (= 38,7 … cm/s) (1 punt)\n• De reis (over 6000 km = 600000000 cm) duurt 600000000/38,7 … (= 15469074,9 …) (seconden) (1 punt)\n• Het antwoord: (15469074,9 … / (60 · 60 · 24) = 179,0 … =) 179 (dagen) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De vergelijking 0,08 · L^0,2 = 0,191 moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de oplossing L = 77,5 … (cm) gevonden kan worden"
+          },
+          {
+            "points": 1,
+            "description": "v = 0,5 · 77,5 … (= 38,7 … cm/s)"
+          },
+          {
+            "points": 1,
+            "description": "De reis (over 6000 km = 600000000 cm) duurt 600000000/38,7 … (= 15469074,9 …) (seconden)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: (15469074,9 … / (60 · 60 · 24) = 179,0 … =) 179 (dagen)"
+          }
+        ],
+        "grading_note": "Als in plaats van 0,2 met een nauwkeurigere waarde wordt gerekend, leidend tot een daarbij passend antwoord, voor deze vraag geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-palingen-antw19.png"
+        ]
+      },
+      {
+        "title": "2,6 miljard T-rexen?",
+        "question_number": 20,
+        "answer_text": "• Twee miljoen vierkante kilometer is 2000 keer duizend vierkante kilometer (1 punt)\n• Gemiddeld genomen leefden er per duizend km² steeds 10 T-rexen, dus in totaal steeds 2000 keer 10 is 20000 T-rexen (1 punt)\n• Het aantal 'tijdsperioden' is (2,5 miljoen)/L, met L de gemiddelde leeftijd (1 punt)\n• Het aantal T-rexen is (2,5 · 10⁶)/L · 20000 (1 punt)\n• De vergelijking (2,5 · 10⁶)/L · 20000 = 2 · 10⁹ moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (bij een leeftijd van 25 jaar 2 miljard T-rexen; bij een leeftijd van 26 jaar 1,92 … miljard T-rexen) (1 punt)\n• Het antwoord: 6 (jaar) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Twee miljoen vierkante kilometer is 2000 keer duizend vierkante kilometer"
+          },
+          {
+            "points": 1,
+            "description": "Gemiddeld genomen leefden er per duizend km² steeds 10 T-rexen, dus in totaal steeds 2000 keer 10 is 20000 T-rexen"
+          },
+          {
+            "points": 1,
+            "description": "Het aantal 'tijdsperioden' is (2,5 miljoen)/L, met L de gemiddelde leeftijd"
+          },
+          {
+            "points": 1,
+            "description": "Het aantal T-rexen is (2,5 · 10⁶)/L · 20000"
+          },
+          {
+            "points": 1,
+            "description": "De vergelijking (2,5 · 10⁶)/L · 20000 = 2 · 10⁹ moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost (bij een leeftijd van 25 jaar 2 miljard T-rexen; bij een leeftijd van 26 jaar 1,92 … miljard T-rexen)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 6 (jaar)"
+          }
+        ],
+        "grading_note": "Indien alleen is nagerekend dat (2,5 · 10⁶)/19 · 20000 ≈ 2,6 miljard T-rexen, hiervoor maximaal 3 scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2026-i-2-6-miljard-t-rexen-antw20.png"
+        ]
+      }
+    ]
+  }
+}
