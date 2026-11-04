@@ -1,0 +1,507 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde B 2022-II",
+  "answers": [
+   {
+    "title": "Logaritme en parabool",
+    "question_number": 1,
+    "answer_text": "• 3 + ²log(x + 4) = 0 geeft ²log(x + 4) = −3\n• Hieruit volgt x + 4 = 2⁻³ (of x + 4 = ⅛)\n• De x-coördinaat van A is dus x = −3⅛",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "3 + ²log(x + 4) = 0 geeft ²log(x + 4) = −3"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt x + 4 = 2⁻³ (of x + 4 = ⅛)"
+     },
+     {
+      "points": 1,
+      "description": "De x-coördinaat van A is dus x = −3⅛"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-logaritme-en-parabool-antw1.png"
+    ]
+   },
+   {
+    "title": "Logaritme en parabool",
+    "question_number": 2,
+    "answer_text": "• y = 3 + ²log(x + 4) herschrijven als: y = ²log(2³) + ²log(x + 4) (of y = ²log(8) + ²log(x + 4)\n• Dit is gelijk aan y = ²log(8(x + 4)), dus) y = ²log(8x + 32) (dus a = 8 en b = 32)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "y = 3 + ²log(x + 4) herschrijven als: y = ²log(2³) + ²log(x + 4) (of y = ²log(8) + ²log(x + 4)"
+     },
+     {
+      "points": 1,
+      "description": "Dit is gelijk aan y = ²log(8(x + 4)), dus) y = ²log(8x + 32) (dus a = 8 en b = 32)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-logaritme-en-parabool-antw2.png"
+    ]
+   },
+   {
+    "title": "Logaritme en parabool",
+    "question_number": 3,
+    "answer_text": "• De verticale asymptoot heeft vergelijking x = −4\n• Dus T(−4, 0)\n• Dus een functievoorschrift van g is van de vorm g(x) = a(x + 4)²\n• f(0) = 5, dus g(0) = 5\n• Dit geeft a = 5/16 (dus g(x) = 5/16·(x + 4)²)\nof\n• f(0) = 5, dus g(0) = 5\n• De verticale asymptoot heeft vergelijking x = −4\n• Dus T(−4, 0)\n• Een functievoorschrift van g is van de vorm g(x) = ax² + bx + 5; er moet bovendien gelden −b/(2a) = −4, en g(−4) = 0, duas 16a − 4b + 5 = 0\n• Uit een exacte berekening volgt dan a = 5/16 en b = 2½ (dus g(x) = 5/16·x² + 2½x + 5",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De verticale asymptoot heeft vergelijking x = −4"
+     },
+     {
+      "points": 1,
+      "description": "Dus T(−4, 0)"
+     },
+     {
+      "points": 1,
+      "description": "Dus een functievoorschrift van g is van de vorm g(x) = a(x + 4)²"
+     },
+     {
+      "points": 1,
+      "description": "f(0) = 5, dus g(0) = 5"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft a = 5/16 (dus g(x) = 5/16·(x + 4)²)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-logaritme-en-parabool-antw3.png"
+    ]
+   },
+   {
+    "title": "Gooilandkaart",
+    "question_number": 4,
+    "answer_text": "• De hoek tussen Naarden-Laren en Naarden-Hilversum is 180° − 90,9° − 49,3° = 39,8°\n• De afstand NH van Naarden tot Hilversum is te berekenen met de sinusregel: NH/sin(90,9°) = 5060/sin(39,8°)\n• Hieruit volgt NH = 7903,9... (m)\n• De hoek tussen Naarden-Huizen en Naarden-Hilversum is 47,7° + 39,8° = 87,5°\n• De afstand ZH van Huizen tot Hilversum is te berekenen met de cosinusregel: ZH² = 4810² + 7903,9...² − 2·4810·7903,9...·cos(87,5°)\n• De gevraagde afstand is 9070 (m)\n⚠️ CONTROLEREN: het correctievoorschrift vermeldt 'maximumscore 3', maar somt zes deelpunten van elk 1 scorepunt op (totaal 6)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De hoek tussen Naarden-Laren en Naarden-Hilversum is 180° − 90,9° − 49,3° = 39,8°"
+     },
+     {
+      "points": 1,
+      "description": "De afstand NH van Naarden tot Hilversum is te berekenen met de sinusregel: NH/sin(90,9°) = 5060/sin(39,8°)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt NH = 7903,9... (m)"
+     },
+     {
+      "points": 1,
+      "description": "De hoek tussen Naarden-Huizen en Naarden-Hilversum is 47,7° + 39,8° = 87,5°"
+     },
+     {
+      "points": 1,
+      "description": "De afstand ZH van Huizen tot Hilversum is te berekenen met de cosinusregel: ZH² = 4810² + 7903,9...² − 2·4810·7903,9...·cos(87,5°)"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde afstand is 9070 (m)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-gooilandkaart-antw4.png"
+    ]
+   },
+   {
+    "title": "Wortel en cirkel",
+    "question_number": 5,
+    "answer_text": "• (Horizontale) translatie ‘4 naar links’ (of een horizontale translatie van −4)\n• Vermenigvuldiging (ten opzichte van de y-as) met ⅓\n• De volgorde waarin deze transformaties moeten worden toegepast, is: eerst de translatie, daarna de vermenigvuldiging\nof\n• Er geldt f(x) = √(3(x + 4/3)); vermenigvuldiging (ten opzichte van de y-as) met ⅓\n• (Horizontale) translatie ‘4/3 naar links’ (of een horizontale translatie van −4/3)\n• De volgorde waarin deze transformaties moeten worden toegepast, is: eerst de vermenigvuldiging, daarna de translatie",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Horizontale) translatie ‘4 naar links’ (of een horizontale translatie van −4)"
+     },
+     {
+      "points": 1,
+      "description": "Vermenigvuldiging (ten opzichte van de y-as) met ⅓"
+     },
+     {
+      "points": 1,
+      "description": "De volgorde waarin deze transformaties moeten worden toegepast, is: eerst de translatie, daarna de vermenigvuldiging"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-wortel-en-cirkel-antw5.png"
+    ]
+   },
+   {
+    "title": "Wortel en cirkel",
+    "question_number": 6,
+    "answer_text": "• f′(x) = 3/(2√(3x + 4)) (of een gelijkwaardige uitdrukking)\n• rc_k =) f′(0) = ¾\n• (Omdat l loodrecht op k staat, geldt:) rc_l = −4/3\n• (Een vergelijking voor l is y = −4/3·x + 2, dus) uit −4/3·x + 2 = 0 volgt x = 1½ (, dus M(1½, 0))\n• De straal van c is √((1½)² + 2²) = 2½\n• (Omdat M op de x-as ligt, zijn de gevraagde coördinaten:) x_P = (1½ − 2½ =) −1 en x_Q = (1½ + 2½ =) 4",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "f′(x) = 3/(2√(3x + 4)) (of een gelijkwaardige uitdrukking)"
+     },
+     {
+      "points": 1,
+      "description": "rc_k =) f′(0) = ¾"
+     },
+     {
+      "points": 1,
+      "description": "(Omdat l loodrecht op k staat, geldt:) rc_l = −4/3"
+     },
+     {
+      "points": 1,
+      "description": "(Een vergelijking voor l is y = −4/3·x + 2, dus) uit −4/3·x + 2 = 0 volgt x = 1½ (, dus M(1½, 0))"
+     },
+     {
+      "points": 1,
+      "description": "De straal van c is √((1½)² + 2²) = 2½"
+     },
+     {
+      "points": 1,
+      "description": "(Omdat M op de x-as ligt, zijn de gevraagde coördinaten:) x_P = (1½ − 2½ =) −1 en x_Q = (1½ + 2½ =) 4"
+     }
+    ],
+    "grading_note": "Voor het eerste antwoordelement mogen uitsluitend 0 of 2 scorepunten worden toegekend",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-wortel-en-cirkel-antw6.png"
+    ]
+   },
+   {
+    "title": "Sinusoïden en somfunctie",
+    "question_number": 7,
+    "answer_text": "• De periode van f en g is (2π/2 =) π\n• Het maximum van f vindt plaats na een kwart periode, dus bij x = ¼π; dit geeft f(¼π) = 4 (of bijbehorende y-waarde: 1 + 3 = 4)\n• Het minimum van g vindt plaats na een halve periode, dus bij x = ½π; dit geeft g(¼π) = −2 (of bijbehorende y-waarde: 1 − 3 = −2)\n• De lengte van PR is dan √((¼π − ½π)² + (4 − −2)²) (= 6,051...) dus het eindantwoord is: 6,05\nof\n• Voor de maxima van f geldt: sin(2x) = 1 en voor de minima van g geldt: cos(2x) = −1\n• Voor P geldt: x = ¼π en y = 4\n• Voor R geldt: x = ½π en y = −2\n• De lengte van PR is dan √((¼π − ½π)² + (4 − −2)²) (= 6,051...) dus het eindantwoord is: 6,05\nof\n• Voor y = sin(x) en y = cos(x) geldt voor de eerste toppen rechts van de y-as: Δx = ½π\n• Door de vermenigvuldiging ten opzichte van de y-as met ½ van y = sin(x) en y = cos(x) geldt hier dat Δx = ¼π\n• Voor de maxima van f geldt: y = 4 en voor de minima van g geldt: y = −2 dus Δy = 6\n• De lengte van PR is dan √((¼π)² + 6²) (= 6,051...) dus het eindantwoord is: 6,05",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De periode van f en g is (2π/2 =) π"
+     },
+     {
+      "points": 1,
+      "description": "Het maximum van f vindt plaats na een kwart periode, dus bij x = ¼π; dit geeft f(¼π) = 4 (of bijbehorende y-waarde: 1 + 3 = 4)"
+     },
+     {
+      "points": 1,
+      "description": "Het minimum van g vindt plaats na een halve periode, dus bij x = ½π; dit geeft g(¼π) = −2 (of bijbehorende y-waarde: 1 − 3 = −2)"
+     },
+     {
+      "points": 1,
+      "description": "De lengte van PR is dan √((¼π − ½π)² + (4 − −2)²) (= 6,051...) dus het eindantwoord is: 6,05"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-sinusoiden-en-somfunctie-antw7.png"
+    ]
+   },
+   {
+    "title": "Sinusoïden en somfunctie",
+    "question_number": 8,
+    "answer_text": "• Beschrijven hoe de coördinaten van twee opeenvolgende toppen van de grafiek van h bepaald kunnen worden\n• Dit geeft bijvoorbeeld (0,392...; 6,242...) en (1,963...; −2,242...)\n• q = (6,242... − −2,242...)/2 (= 4,242...) dus de gevraagde waarde van q is 4,24\n• (Een maximum wordt bereikt voor x = 0,392... , dus) de gevraagde waarde van s is 0,39\n• p = (6,242... + −2,242...)/2, dus de gevraagde waarde van p is 2,00 (of p = 2)\n• De periode is 2·(1,963... − 0,392...) = 3,141...\n• (Dit geeft r = 2π/3,141... dus de gevraagde waarde van r is 2,00 (of r = 2)\nof\n• Beschrijven hoe de coördinaten van twee opeenvolgende toppen van de grafiek van h bepaald kunnen worden\n• Dit geeft bijvoorbeeld (0,392...; 6,242...) en (1,963...; −2,242...)\n• q = (6,242... − −2,242...)/2 (= 4,242...) dus de gevraagde waarde van q is 4,24\n• (Een maximum wordt bereikt voor x = 0,392... , dus) de gevraagde waarde van s is 0,39\n• De evenwichtsstand van h is de som van de evenwichtsstanden van f en g (of p = 1 + 1), dus p = 2\n• Omdat f en g dezelfde periode hebben, zal ook h deze periode hebben\n• r = 2",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de coördinaten van twee opeenvolgende toppen van de grafiek van h bepaald kunnen worden"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft bijvoorbeeld (0,392...; 6,242...) en (1,963...; −2,242...)"
+     },
+     {
+      "points": 1,
+      "description": "q = (6,242... − −2,242...)/2 (= 4,242...) dus de gevraagde waarde van q is 4,24"
+     },
+     {
+      "points": 1,
+      "description": "(Een maximum wordt bereikt voor x = 0,392... , dus) de gevraagde waarde van s is 0,39"
+     },
+     {
+      "points": 1,
+      "description": "p = (6,242... + −2,242...)/2, dus de gevraagde waarde van p is 2,00 (of p = 2)"
+     },
+     {
+      "points": 1,
+      "description": "De periode is 2·(1,963... − 0,392...) = 3,141..."
+     },
+     {
+      "points": 1,
+      "description": "(Dit geeft r = 2π/3,141... dus de gevraagde waarde van r is 2,00 (of r = 2)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-sinusoiden-en-somfunctie-antw8.png"
+    ]
+   },
+   {
+    "title": "Luchtvervuiling",
+    "question_number": 9,
+    "answer_text": "• De waarde 0,20 ppm ligt in de categorie ‘erg ongezond’ of: de coördinaten (0,125; 200) en (0,375; 300) zijn nodig\n• De richtingscoëfficiënt is (300 − 200)/(0,375 − 0,125) (= 400)\n• (Dus geldt AQI = 400C + b; 300 = 400·0,375 + b, waaruit volgt) AQI = 400C + 150\n• De gevraagde AQI is dan (400·0,2 + 150 =) 230\nof\n• De waarde 0,20 ppm ligt in de categorie ‘erg ongezond’ of: de coördinaten (0,125; 200) en (0,375; 300) zijn nodig\n• De richtingscoëfficiënt is (300 − 200)/(0,375 − 0,125) (= 400)\n• 0,2 − 0,125 = 0,075\n• De gevraagde AQI is dan (200 + 0,075·400 =) 230",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De waarde 0,20 ppm ligt in de categorie ‘erg ongezond’ of: de coördinaten (0,125; 200) en (0,375; 300) zijn nodig"
+     },
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt is (300 − 200)/(0,375 − 0,125) (= 400)"
+     },
+     {
+      "points": 1,
+      "description": "(Dus geldt AQI = 400C + b; 300 = 400·0,375 + b, waaruit volgt) AQI = 400C + 150"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde AQI is dan (400·0,2 + 150 =) 230"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-luchtvervuiling-antw9.png"
+    ]
+   },
+   {
+    "title": "Luchtvervuiling",
+    "question_number": 10,
+    "answer_text": "• De vergelijking 0,0612 = (584,976·C_ppm)/(273,15 + 20) moet opgelost worden\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• De gevraagde concentratie in ppm is 0,03...\n• Deze waarde valt in de categorie ‘goed’",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 0,0612 = (584,976·C_ppm)/(273,15 + 20) moet opgelost worden"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde concentratie in ppm is 0,03..."
+     },
+     {
+      "points": 1,
+      "description": "Deze waarde valt in de categorie ‘goed’"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-luchtvervuiling-antw10.png"
+    ]
+   },
+   {
+    "title": "Luchtvervuiling",
+    "question_number": 11,
+    "answer_text": "• De noemer van de breuk is dan 298,15\n• C_mg/m³ = (584,976·C_ppm)/298,15 = 1,962...·C_ppm\n• C_ppm uitgedrukt in C_mg/m³ geeft: (C_ppm = 0,509...·C_mg/m³, dus) de evenredigheidsconstante is 0,51",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De noemer van de breuk is dan 298,15"
+     },
+     {
+      "points": 1,
+      "description": "C_mg/m³ = (584,976·C_ppm)/298,15 = 1,962...·C_ppm"
+     },
+     {
+      "points": 1,
+      "description": "C_ppm uitgedrukt in C_mg/m³ geeft: (C_ppm = 0,509...·C_mg/m³, dus) de evenredigheidsconstante is 0,51"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-luchtvervuiling-antw11.png"
+    ]
+   },
+   {
+    "title": "Minimale omtrek",
+    "question_number": 12,
+    "answer_text": "• Voor de omtrek M van de rechthoek horend bij P(x, y) geldt: M = 2x + 2f(x)\n• Deze formule kan herschreven worden tot M = 2x + 6x⁻³\n• dM/dx = 2 − 18·x⁻⁴\n• dM/dx = 0 levert 18/x⁴ = 2\n• Dit geeft x = ⁴√9 (of een gelijkwaardige vorm) (x = −⁴√9 voldoet niet)\n• y = 3/(⁴√9)³ (of een gelijkwaardige vorm) (dus P(√3, ⅓√3))",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor de omtrek M van de rechthoek horend bij P(x, y) geldt: M = 2x + 2f(x)"
+     },
+     {
+      "points": 1,
+      "description": "Deze formule kan herschreven worden tot M = 2x + 6x⁻³"
+     },
+     {
+      "points": 1,
+      "description": "dM/dx = 2 − 18·x⁻⁴"
+     },
+     {
+      "points": 1,
+      "description": "dM/dx = 0 levert 18/x⁴ = 2"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x = ⁴√9 (of een gelijkwaardige vorm) (x = −⁴√9 voldoet niet)"
+     },
+     {
+      "points": 1,
+      "description": "y = 3/(⁴√9)³ (of een gelijkwaardige vorm) (dus P(√3, ⅓√3))"
+     }
+    ],
+    "grading_note": "Voor het toekennen van het eerste scorepunt is een opmerking als ‘de omtrek is 2 keer de breedte plus 2 keer de hoogte’ niet voldoende.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-minimale-omtrek-antw12.png"
+    ]
+   },
+   {
+    "title": "Een raaklijn en een evenwijdige lijn door O",
+    "question_number": 13,
+    "answer_text": "• Voor de x-coördinaat van A geldt −2 + √(8 + x) = 0; hieruit volgt √(8 + x) = 2\n• Dit geeft x = −4\n• f′(x) = 1/(2√(8 + x)) (of een gelijkwaardige uitdrukking)\n• f′(−4) = ¼\n• (k gaat door A(−4, 0) dus) voor k geldt: ¼ · −4 + b = 0 en dit geeft b = 1 (dus een vergelijking van k is y = ¼x + 1)\nof\n• De vergelijking −2 + √(8 + x) = ¼x + 1 moet één oplossing hebben\n• Kwadrateren van √(8 + x) = ¼x + 3 geeft 8 + x = (¼x + 3)²\n• 8 + x = 1/16·x² + 1½x + 9, dus 1/16·x² + ½x + 1 = 0 (dus x² + 8x + 16 = 0)\n• (x + 4)² = 0 geeft x = −4 (dus één oplossing) (of het gebruik van de discriminant D = (½)² − 4 · 1/16 · 1 = 0) (dus de lijn met vergelijking y = ¼x + 1 is een raaklijn aan de grafiek van f)\n• f(−4) = 0 (of (−4, 0) ligt op lijn k) (dus de lijn met vergelijking y = ¼x + 1 is lijn k)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor de x-coördinaat van A geldt −2 + √(8 + x) = 0; hieruit volgt √(8 + x) = 2"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x = −4"
+     },
+     {
+      "points": 1,
+      "description": "f′(x) = 1/(2√(8 + x)) (of een gelijkwaardige uitdrukking)"
+     },
+     {
+      "points": 1,
+      "description": "f′(−4) = ¼"
+     },
+     {
+      "points": 1,
+      "description": "(k gaat door A(−4, 0) dus) voor k geldt: ¼ · −4 + b = 0 en dit geeft b = 1 (dus een vergelijking van k is y = ¼x + 1)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-een-raaklijn-en-een-evenwijdige-lijn-door-o-antw13.png"
+    ]
+   },
+   {
+    "title": "Een raaklijn en een evenwijdige lijn door O",
+    "question_number": 14,
+    "answer_text": "• (Uit 8 + x = 0 volgt) de x-coördinaat van B is x = −8\n• De y-coördinaat van B is y = (f(−8) =) −2\n• De richtingscoëfficiënt van l is −2/−8 = ¼ (dus k en l zijn evenwijdig)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Uit 8 + x = 0 volgt) de x-coördinaat van B is x = −8"
+     },
+     {
+      "points": 1,
+      "description": "De y-coördinaat van B is y = (f(−8) =) −2"
+     },
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt van l is −2/−8 = ¼ (dus k en l zijn evenwijdig)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-een-raaklijn-en-een-evenwijdige-lijn-door-o-antw14.png"
+    ]
+   },
+   {
+    "title": "Een raaklijn en een evenwijdige lijn door O",
+    "question_number": 15,
+    "answer_text": "• De richtingscoëfficiënt van de lijn m loodrecht op k en l door O is (−1/¼ =) −4 (dus een vergelijking van m is y = −4x)\n• Voor het snijpunt van k en m geldt: −4x = ¼x + 1\n• Dit geeft x = −4/17 en y = 16/17\n• De afstand tussen k en l is √((−4/17)² + (16/17)²) = √(16/17) (of een gelijkwaardige vorm)\nof\n• De richtingscoëfficiënt van de lijn m loodrecht op k en l door A is (−1/¼ =) −4 (dus een vergelijking van m is y = −4x − 16)\n• Voor het snijpunt van l en m geldt: −4x − 16 = ¼x\n• Dit geeft x = −64/17 en y = −16/17\n• De afstand tussen k en l is √((−64/17 − −4)² + (−16/17 − 0)²) = √(16/17) (of een gelijkwaardige vorm)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt van de lijn m loodrecht op k en l door O is (−1/¼ =) −4 (dus een vergelijking van m is y = −4x)"
+     },
+     {
+      "points": 1,
+      "description": "Voor het snijpunt van k en m geldt: −4x = ¼x + 1"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x = −4/17 en y = 16/17"
+     },
+     {
+      "points": 1,
+      "description": "De afstand tussen k en l is √((−4/17)² + (16/17)²) = √(16/17) (of een gelijkwaardige vorm)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-een-raaklijn-en-een-evenwijdige-lijn-door-o-antw15.png"
+    ]
+   },
+   {
+    "title": "Daglengte",
+    "question_number": 16,
+    "answer_text": "• a = 2π/365, dus de gevraagde waarde van a is 0,017\n• De grafiek snijdt de lijn met vergelijking L = 12 bij T = 77 (of 168 − ¼ · 365 = 76,75), dus de gevraagde waarde van b is 77\nof\n• a = 2π/365, dus de gevraagde waarde van a is 0,017\n• Vanwege t = 168 op de langste dag moet gelden: 2π/365·(168 − b) = ½π; (beschrijven hoe deze vergelijking opgelost kan worden;) de gevraagde waarde van b is 77",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a = 2π/365, dus de gevraagde waarde van a is 0,017"
+     },
+     {
+      "points": 1,
+      "description": "De grafiek snijdt de lijn met vergelijking L = 12 bij T = 77 (of 168 − ¼ · 365 = 76,75), dus de gevraagde waarde van b is 77"
+     }
+    ],
+    "grading_note": "Als een kandidaat bij het eerste antwoordalternatief bij het aflezen in het tweede antwoordelement een andere waarde in het interval [75,80] vermeldt, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-daglengte-antw16.png"
+    ]
+   },
+   {
+    "title": "Daglengte",
+    "question_number": 17,
+    "answer_text": "• Het tekenen van een raaklijn in (de buurt van) het snijpunt met de lijn L = 12\n• Het bepalen van de helling 0,07 (uur per dag) van deze raaklijn\n• De maximale helling is dus 4 (minuten per dag)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het tekenen van een raaklijn in (de buurt van) het snijpunt met de lijn L = 12"
+     },
+     {
+      "points": 1,
+      "description": "Het bepalen van de helling 0,07 (uur per dag) van deze raaklijn"
+     },
+     {
+      "points": 1,
+      "description": "De maximale helling is dus 4 (minuten per dag)"
+     }
+    ],
+    "grading_note": "− Bij het tekenen van de raaklijn dient de t-coördinaat van het raakpunt in het interval [65,90] te liggen.\n− Als een kandidaat als gevolg van afwijkende aflezingen tot een andere waarde van de helling in het interval [0,06; 0,08] komt, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-daglengte-antw17.png"
+    ]
+   },
+   {
+    "title": "Vierkant en halve cirkel",
+    "question_number": 18,
+    "answer_text": "• Een vergelijking van de halve cirkel is x² + (y − 3)² = 9 (met y ≥ 3)\n• Een vergelijking van de lijn door middelpunt M loodrecht op PQ is y = x + 3\n• De vergelijking x² + (x + 3 − 3)² = 9 moet opgelost worden\n• Hieruit volgt x = √(4½) (of een gelijkwaardige vorm)\n• De bijbehorende y-coördinaat is y = 3 + √(4½) (of een gelijkwaardige vorm) (, dus K(√(4½), 3 + √(4½)))\nof\n• K′ is de loodrechte projectie van K op AB\n• Driehoek MK′K is een gelijkbenige driehoek omdat MK evenwijdig is met OB; driehoek MK′K is ook een rechthoekige driehoek\n• MK = 3\n• MK′ = KK′ = 3/√2 (omdat driehoek MK′K een 1 − 1 − √2 -driehoek is)\n• Dus x_K = 3/√2 (of een gelijkwaardige vorm) en y_K = 3 + 3/√2 (of een gelijkwaardige vorm)\nof\n• Een vergelijking van de halve cirkel is x² + (y − 3)² = 9 (met y ≥ 3)\n• Een vergelijking van de lijn door P en Q is y = −x + b\n• De vergelijking x² + (−x + b − 3)² = 9 heeft één oplossing; D = 0 geeft b = 3 + 3√2\n• Hieruit volgt x = (3/2)√2 (of een gelijkwaardige vorm)\n• De bijbehorende y-coördinaat is y = 3 + (3/2)√2 (of een gelijkwaardige vorm)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een vergelijking van de halve cirkel is x² + (y − 3)² = 9 (met y ≥ 3)"
+     },
+     {
+      "points": 1,
+      "description": "Een vergelijking van de lijn door middelpunt M loodrecht op PQ is y = x + 3"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking x² + (x + 3 − 3)² = 9 moet opgelost worden"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt x = √(4½) (of een gelijkwaardige vorm)"
+     },
+     {
+      "points": 1,
+      "description": "De bijbehorende y-coördinaat is y = 3 + √(4½) (of een gelijkwaardige vorm) (, dus K(√(4½), 3 + √(4½)))"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2022-ii-vierkant-en-halve-cirkel-antw18.png"
+    ]
+   }
+  ]
+ }
+}
