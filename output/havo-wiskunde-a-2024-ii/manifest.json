@@ -1,0 +1,53 @@
+{
+  "source": "HAVO Wiskunde A 2024-II",
+  "subject_name": "Wiskunde A",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Appels met peren vergelijken",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Vangen-hervangen",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Hygiëne op school",
+      "question_numbers": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Printabonnement",
+      "question_numbers": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "65-plussers",
+      "question_numbers": [
+        21
+      ]
+    }
+  ]
+}
