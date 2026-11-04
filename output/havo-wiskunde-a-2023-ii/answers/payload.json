@@ -1,0 +1,566 @@
+{
+  "payload": {
+    "subject_name": "Wiskunde A",
+    "level": "HAVO",
+    "source": "HAVO Wiskunde A 2023-II",
+    "answers": [
+      {
+        "title": "Minder rokers",
+        "question_number": 1,
+        "answer_text": "• Aflezen van het percentage van de mannen respectievelijk vrouwen dat rookt: 30 en 22,5 (1 punt)\n• Het aantal mannelijke en het aantal vrouwelijke rokers is (0,3 · 6 618 000 =) 1985 400 respectievelijk (0,225 · 6 853 000 =) 1541925 (1 punt)\n• Het totaal aantal rokers is (1985 400 + 1541925 =) 3527325 (1 punt)\n• Het percentage rokers dat man is, is 1985400/3527325 · 100 (= 56,2 …) en dat is in hele procenten 56(%) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Aflezen van het percentage van de mannen respectievelijk vrouwen dat rookt: 30 en 22,5"
+          },
+          {
+            "points": 1,
+            "description": "Het aantal mannelijke en het aantal vrouwelijke rokers is (0,3 · 6 618 000 =) 1985 400 respectievelijk (0,225 · 6 853 000 =) 1541925"
+          },
+          {
+            "points": 1,
+            "description": "Het totaal aantal rokers is (1985 400 + 1541925 =) 3527325"
+          },
+          {
+            "points": 1,
+            "description": "Het percentage rokers dat man is, is 1985400/3527325 · 100 (= 56,2 …) en dat is in hele procenten 56(%)"
+          }
+        ],
+        "grading_note": "– De percentages mogen met een marge van 0,5 worden afgelezen.\n– Als de kandidaat alleen het percentage van de mannen dat rookt afleest en daarmee het aantal mannen dat rookt berekent, voor deze vraag maximaal 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-minder-rokers-antw1.png"
+        ]
+      },
+      {
+        "title": "Minder rokers",
+        "question_number": 2,
+        "answer_text": "• De vergelijking −0,61t + 25,93 = 12,965 moet worden opgelost (1 punt)\n• Beschrijven hoe het oplossen van deze vergelijking leidt tot t = 21,25... (1 punt)\n• Het percentage is gehalveerd (21,25… jaar na 1 juli 2018, dus) in (de tweede helft van) 2039, dus de bewering is juist (1 punt)\n\nof\n\n• 1 januari 2040 komt overeen met t = 21,5 (1 punt)\n• Op 1 januari 2040 is Pₘ = (−0,61 · 21,5 + 25,93 =) 12,815 (1 punt)\n• Bij halvering zou Pₘ = 12,965 zijn (dus Pₘ is lager voor 2040), dus de bewering is juist (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De vergelijking −0,61t + 25,93 = 12,965 moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe het oplossen van deze vergelijking leidt tot t = 21,25..."
+          },
+          {
+            "points": 1,
+            "description": "Het percentage is gehalveerd (21,25… jaar na 1 juli 2018, dus) in (de tweede helft van) 2039, dus de bewering is juist"
+          }
+        ],
+        "grading_note": "Als de kandidaat rekent met de helft van de afgelezen waarde 25,5 en antwoordt dat de bewering niet juist is, voor deze vraag geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-minder-rokers-antw2.png"
+        ]
+      },
+      {
+        "title": "Minder rokers",
+        "question_number": 3,
+        "answer_text": "• Aflezen van de percentages 29 en 26 in 1995 respectievelijk 2004\n• De richtingscoëfficiënt van de lijn is (26 − 29)/(2004 − 1995) = −0,3333 … en dat is in drie decimalen −0,333\n• Het startgetal in de formule (ofwel het percentage op 1 juli 1990) is 29 − −0,333 … · 5 = 30,6666 … en dat is in drie decimalen 30,667",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Aflezen van de percentages 29 en 26 in 1995 respectievelijk 2004"
+          },
+          {
+            "points": 1,
+            "description": "De richtingscoëfficiënt van de lijn is (26 − 29)/(2004 − 1995) = −0,3333 … en dat is in drie decimalen −0,333"
+          },
+          {
+            "points": 1,
+            "description": "Het startgetal in de formule (ofwel het percentage op 1 juli 1990) is 29 − −0,333 … · 5 = 30,6666 … en dat is in drie decimalen 30,667"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-minder-rokers-antw3.png"
+        ]
+      },
+      {
+        "title": "Minder rokers",
+        "question_number": 4,
+        "answer_text": "• Het maken van een tabel bij formule 1 (1 punt)\n• Het maken van een tabel bij formule 2 (1 punt)\n• Het inzicht dat in de eerste tabel t = 0 bij 1 juli 2018 hoort en in de tweede tabel bij 1 juli 1990 (2 punten)\n• Beschrijven hoe het antwoord 2034 gevonden wordt (1 punt)\n\nof\n\n• Het inzicht dat formule 1 of 2 aangepast moet worden (2 punten)\n• Bijvoorbeeld: de vergelijking Pᵥ = −0,33t + 30,67 − 0,33 · 28 (= −0,33t + 21,43) geldt vanaf 1 juli 2018, dus de vergelijking −0,33t + 21,43 = −0,61t + 25,93 moet worden opgelost (1 punt)\n• Beschrijven hoe het oplossen van deze vergelijking leidt tot t = 16,07... (1 punt)\n• Het antwoord: (2018,5 + 16,07... =) 2034 (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het maken van een tabel bij formule 1"
+          },
+          {
+            "points": 1,
+            "description": "Het maken van een tabel bij formule 2"
+          },
+          {
+            "points": 2,
+            "description": "Het inzicht dat in de eerste tabel t = 0 bij 1 juli 2018 hoort en in de tweede tabel bij 1 juli 1990"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe het antwoord 2034 gevonden wordt"
+          }
+        ],
+        "grading_note": "– Voor het derde antwoordelement van het eerste alternatief en het eerste antwoordelement van het tweede alternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.\n– Als gerekend wordt met de in de vorige vraag van deze opgave berekende waarden, geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-minder-rokers-antw4.png"
+        ]
+      },
+      {
+        "title": "Voedselconsumptie",
+        "question_number": 5,
+        "answer_text": "Voorbeelden van een juist antwoord:\nAls je alleen gegevens verzamelt in de zomer dan zul je een vertekend beeld (een overschatting) krijgen van de hoeveelheid verse groenten die door het hele jaar heen gegeten wordt.\n\nof\n\nAls je alleen gegevens verzamelt in het weekend dan zul je een vertekend beeld (een overschatting) krijgen van de hoeveelheid friet die door het hele jaar heen gegeten wordt. (2 punten)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Als je alleen gegevens verzamelt in de zomer dan zul je een vertekend beeld (een overschatting) krijgen van de hoeveelheid verse groenten die door het hele jaar heen gegeten wordt"
+          }
+        ],
+        "grading_note": "Voor het antwoord mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-voedselconsumptie-antw5.png"
+        ]
+      },
+      {
+        "title": "Voedselconsumptie",
+        "question_number": 6,
+        "answer_text": "• Aflezen voor dranken (zonder zuivel): 1300 en 550\n• Aflezen voor het totaal: 2000 en 1050\n• Som van de dranken (zonder zuivel) is (1300 + 550 =) 1850 en de som voor het totaal is (2000 + 1050 =) 3050\n• Het antwoord (1850/3050 · 100 = 60,6 …, dus in hele procenten): 61(%)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Aflezen voor dranken (zonder zuivel): 1300 en 550"
+          },
+          {
+            "points": 1,
+            "description": "Aflezen voor het totaal: 2000 en 1050"
+          },
+          {
+            "points": 1,
+            "description": "Som van de dranken (zonder zuivel) is (1300 + 550 =) 1850 en de som voor het totaal is (2000 + 1050 =) 3050"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord (1850/3050 · 100 = 60,6 …, dus in hele procenten): 61(%)"
+          }
+        ],
+        "grading_note": "De voedselconsumptie mag telkens worden afgelezen met een marge van 25 gram per dag.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-voedselconsumptie-antw6.png"
+        ]
+      },
+      {
+        "title": "Voedselconsumptie",
+        "question_number": 7,
+        "answer_text": "• De breedte van het 95%-betrouwbaarheidsinterval is 4 · S/√n (1 punt)\n• De vergelijking 4 · S/√2237 = 25 moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Het antwoord: 296 (gram) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De breedte van het 95%-betrouwbaarheidsinterval is 4 · S/√n"
+          },
+          {
+            "points": 1,
+            "description": "De vergelijking 4 · S/√2237 = 25 moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 296 (gram)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-voedselconsumptie-antw7.png"
+        ]
+      },
+      {
+        "title": "Voedselconsumptie",
+        "question_number": 8,
+        "answer_text": "(Vanwege een vuistregel en de symmetrie van de normale verdeling zit 97,5% onder het gemiddelde plus 2 keer de standaardafwijking, dus) het bedoelde percentage is 97,5 (2 punten)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "(Vanwege een vuistregel en de symmetrie van de normale verdeling zit 97,5% onder het gemiddelde plus 2 keer de standaardafwijking, dus) het bedoelde percentage is 97,5"
+          }
+        ],
+        "grading_note": "Als de kandidaat wel de vuistregel van de normale verdeling gebruikt die zegt dat 95% van de waarnemingen zich bevindt tussen het gemiddelde plus of min twee keer de standaardafwijking en komt tot een foutief percentage (van bijvoorbeeld 2,5), voor deze vraag 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-voedselconsumptie-antw8.png"
+        ]
+      },
+      {
+        "title": "Aantal stemmen per liedje",
+        "question_number": 9,
+        "answer_text": "• N = 1 invullen in de formule van S\n• Dit geeft S = E/(1 + (E · 0)/(2000 · L)) = (E/(1 + 0) = E/1 =) E\n\n(dus het geschatte aantal stemmen op het liedje dat op positie 1 staat, komt overeen met het werkelijke aantal stemmen op dit liedje)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "N = 1 invullen in de formule van S"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft S = E/(1 + (E · 0)/(2000 · L)) = (E/(1 + 0) = E/1 =) E"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-aantal-stemmen-per-liedje-antw9.png"
+        ]
+      },
+      {
+        "title": "Aantal stemmen per liedje",
+        "question_number": 10,
+        "answer_text": "• (N is minstens 1 en E is positief, dus) als N groter wordt, wordt E(N − 1) groter\n• (L is positief en constant, dus) als E(N − 1) groter wordt (wordt E(N − 1)/(2000 · L) groter, want de teller van de breuk wordt groter en de noemer blijft gelijk en) wordt 1 + E(N − 1)/(2000 · L) ook groter (want bij de groter wordende breuk wordt alleen de constante 1 opgeteld)\n• S is een breuk waarvan (de teller constant blijft en) de noemer groter wordt, dus de uitkomst van S wordt lager",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(N is minstens 1 en E is positief, dus) als N groter wordt, wordt E(N − 1) groter"
+          },
+          {
+            "points": 1,
+            "description": "(L is positief en constant, dus) als E(N − 1) groter wordt (wordt E(N − 1)/(2000 · L) groter, want de teller van de breuk wordt groter en de noemer blijft gelijk en) wordt 1 + E(N − 1)/(2000 · L) ook groter (want bij de groter wordende breuk wordt alleen de constante 1 opgeteld)"
+          },
+          {
+            "points": 1,
+            "description": "S is een breuk waarvan (de teller constant blijft en) de noemer groter wordt, dus de uitkomst van S wordt lager"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-aantal-stemmen-per-liedje-antw10.png"
+        ]
+      },
+      {
+        "title": "Aantal stemmen per liedje",
+        "question_number": 11,
+        "answer_text": "• S = 10000/(1 + 10000(N − 1)/(2000 · 150))\n• Dit geeft S = 10000/(1 + (N − 1)/30)\n• Dit geeft S = (30 · 10000)/(30 + 30 · (N − 1)/30)\n• Dit geeft S = 300000/(N + 29)\n\nOf\n\nS = 10000/(1 + 10000(N − 1)/(2000 · 150))\n• Dit geeft S = 10000/(1 + (10000N − 10000)/300000)\n• Dit geeft S = (10000 · 300000)/(300000 + 10000N − 10000)\n• Dit geeft S = 300000/(30 + N − 1) (dus) S = 300000/(N + 29)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "S = 10000/(1 + 10000(N − 1)/(2000 · 150))"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft S = 10000/(1 + (N − 1)/30)"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft S = (30 · 10000)/(30 + 30 · (N − 1)/30)"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft S = 300000/(N + 29)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-aantal-stemmen-per-liedje-antw11.png"
+        ]
+      },
+      {
+        "title": "Aantal stemmen per liedje",
+        "question_number": 12,
+        "answer_text": "• Voor de liedjes zouden er volgens de formule op de posities 2 en 3 respectievelijk 9677 en 9375 stemmen uitgebracht zijn (1 punt)\n• Dit levert (inclusief 10 000 op positie 1) in totaal 29 052 stemmen (1 punt)\n• 29052/1500000 · 100(%) ≈ 2(%) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor de liedjes zouden er volgens de formule op de posities 2 en 3 respectievelijk 9677 en 9375 stemmen uitgebracht zijn"
+          },
+          {
+            "points": 1,
+            "description": "Dit levert (inclusief 10 000 op positie 1) in totaal 29 052 stemmen"
+          },
+          {
+            "points": 1,
+            "description": "29052/1500000 · 100(%) ≈ 2(%)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-aantal-stemmen-per-liedje-antw12.png"
+        ]
+      },
+      {
+        "title": "Aantal stemmen per liedje",
+        "question_number": 13,
+        "answer_text": "• Zichtbaar op zoek gaan naar waarden van N waarvoor de formule afgerond 200 oplevert (1 punt)\n• Beschrijven hoe de geschikte waarden van N gevonden kunnen worden (bijvoorbeeld met de tabelfunctie van de GR) (1 punt)\n• Het antwoord: (van N = 1468 tot en met N = 1474) 7 (liedjes) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Zichtbaar op zoek gaan naar waarden van N waarvoor de formule afgerond 200 oplevert"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de geschikte waarden van N gevonden kunnen worden (bijvoorbeeld met de tabelfunctie van de GR)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: (van N = 1468 tot en met N = 1474) 7 (liedjes)"
+          }
+        ],
+        "grading_note": "– Bij het oplossen van de vergelijking 300000/(N + 29) = 200 leidend tot N = 1471 en het antwoord 1 liedje, voor deze vraag maximaal 1 scorepunt toekennen.\n– Bij de antwoorden 2, 3, 4, 5 of 6 liedjes, voor deze vraag maximaal 2 scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-aantal-stemmen-per-liedje-antw13.png"
+        ]
+      },
+      {
+        "title": "Geregistreerde misdrijven",
+        "question_number": 14,
+        "answer_text": "• De groeifactor per 25 jaar is 81/13 (= 6,23 …)\n• De groeifactor per jaar is (81/13)¹ᐟ²⁵\n• Dit is 1,0759 …\n• Het antwoord: 7,6 (%)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De groeifactor per 25 jaar is 81/13 (= 6,23 …)"
+          },
+          {
+            "points": 1,
+            "description": "De groeifactor per jaar is (81/13)¹ᐟ²⁵"
+          },
+          {
+            "points": 1,
+            "description": "Dit is 1,0759 …"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 7,6 (%)"
+          }
+        ],
+        "grading_note": "– Als gerekend wordt met (81 − 13)¹ᐟ²⁵, voor deze vraag maximaal 2 scorepunten toekennen.\n– Als gerekend wordt met (81/13) : 25, voor deze vraag maximaal 2 scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-geregistreerde-misdrijven-antw14.png"
+        ]
+      },
+      {
+        "title": "Geregistreerde misdrijven",
+        "question_number": 15,
+        "answer_text": "• In 2002 was het totaal aantal geregistreerde misdrijven per 1000 inwoners (ongeveer 93) hoger dan in 1985 (ongeveer 81) (1 punt)\n• Het aantal vermogensmisdrijven per 1000 inwoners in 2002 is vrijwel gelijk aan het aantal in 1985 (1 punt)\n• Het percentage vermogensmisdrijven in 2002 was dus lager dan in 1985 (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In 2002 was het totaal aantal geregistreerde misdrijven per 1000 inwoners (ongeveer 93) hoger dan in 1985 (ongeveer 81)"
+          },
+          {
+            "points": 1,
+            "description": "Het aantal vermogensmisdrijven per 1000 inwoners in 2002 is vrijwel gelijk aan het aantal in 1985"
+          },
+          {
+            "points": 1,
+            "description": "Het percentage vermogensmisdrijven in 2002 was dus lager dan in 1985"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-geregistreerde-misdrijven-antw15.png"
+        ]
+      },
+      {
+        "title": "Geregistreerde misdrijven",
+        "question_number": 16,
+        "answer_text": "• De ondergrens van het 95%-betrouwbaarheidsinterval voor de populatieproportie in 1998 is 0,0215 − 2 · √(0,0215 · (1 − 0,0215)/3437) (1 punt)\n• Deze ondergrens is 0,0165… (of 1,65…) (1 punt)\n• (0,0158 (of 1,58) is kleiner dan deze ondergrens, dus) het steekproefpercentage uit 2004 ligt niet in het 95%-betrouwbaarheidsinterval van het populatiepercentage in 1998 (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De ondergrens van het 95%-betrouwbaarheidsinterval voor de populatieproportie in 1998 is 0,0215 − 2 · √(0,0215 · (1 − 0,0215)/3437)"
+          },
+          {
+            "points": 1,
+            "description": "Deze ondergrens is 0,0165… (of 1,65…)"
+          },
+          {
+            "points": 1,
+            "description": "(0,0158 (of 1,58) is kleiner dan deze ondergrens, dus) het steekproefpercentage uit 2004 ligt niet in het 95%-betrouwbaarheidsinterval van het populatiepercentage in 1998"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-geregistreerde-misdrijven-antw16.png"
+        ]
+      },
+      {
+        "title": "Geregistreerde misdrijven",
+        "question_number": 17,
+        "answer_text": "• Opstellen van een relevante kruistabel als (2 punten)\n                1998     2004     totaal\nwel inbraak     74       23       (97)\ngeen inbraak    3363     1433     (4796)\ntotaal          (3437)   (1456)\n• phi = (74 · 1433 − 23 · 3363)/√(97 · 3437 · 1456 · 4796) (1 punt)\n• phi = 0,018... (en dit ligt tussen -0,2 en 0,2), dus het verschil is gering (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Opstellen van een relevante kruistabel als"
+          },
+          {
+            "points": 1,
+            "description": "phi = (74 · 1433 − 23 · 3363)/√(97 · 3437 · 1456 · 4796)"
+          },
+          {
+            "points": 1,
+            "description": "phi = 0,018... (en dit ligt tussen -0,2 en 0,2), dus het verschil is gering"
+          }
+        ],
+        "grading_note": "Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-geregistreerde-misdrijven-antw17.png"
+        ]
+      },
+      {
+        "title": "De 100 meter",
+        "question_number": 18,
+        "answer_text": "• De atleet legt op zijn topsnelheid in (9,9 − 4,0 =) 5,9 seconden (100 − 31 =) 69 meter af (1 punt)\n• De topsnelheid is 69/5,9 (m/s) (1 punt)\n• Dit is (11,694…(m/s), dus) in twee decimalen 11,69 (m/s) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De atleet legt op zijn topsnelheid in (9,9 − 4,0 =) 5,9 seconden (100 − 31 =) 69 meter af"
+          },
+          {
+            "points": 1,
+            "description": "De topsnelheid is 69/5,9 (m/s)"
+          },
+          {
+            "points": 1,
+            "description": "Dit is (11,694…(m/s), dus) in twee decimalen 11,69 (m/s)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-de-100-meter-antw18.png"
+        ]
+      },
+      {
+        "title": "De 100 meter",
+        "question_number": 19,
+        "answer_text": "• De afstand A wordt steeds verdubbeld (10/5 = 20/10 = 2) (1 punt)\n• De tijdseenheden waarin dat gebeurt zijn 0,7 en 1,1 (seconden) (1 punt)\n• (Deze zijn niet gelijk, dus) er is geen sprake van exponentiële groei (1 punt)\n\nof\n\n• De groeifactor per seconde van t = 1,2 naar t = 1,9 is (10/5)¹ᐟ⁰ʼ⁷ = 2,691... (1 punt)\n• De groeifactor per seconde van t = 1,9 naar t = 3,0 is (20/10)¹ᐟ¹ʼ¹ = 1,877... (1 punt)\n• (Deze zijn niet gelijk, dus) er is geen sprake van exponentiële groei (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De afstand A wordt steeds verdubbeld (10/5 = 20/10 = 2)"
+          },
+          {
+            "points": 1,
+            "description": "De tijdseenheden waarin dat gebeurt zijn 0,7 en 1,1 (seconden)"
+          },
+          {
+            "points": 1,
+            "description": "(Deze zijn niet gelijk, dus) er is geen sprake van exponentiële groei"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-de-100-meter-antw19.png"
+        ]
+      },
+      {
+        "title": "De 100 meter",
+        "question_number": 20,
+        "answer_text": "• Voor de eerste 25 meter moet de vergelijking 25 = 3,8 · t¹ʼ⁵ worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• t is dan 3,511… (seconden) (1 punt)\n• De laatste 25 meter duurt 25/11,7 = 2,136... (seconden) (1 punt)\n• Het antwoord: 1,4 (seconden) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor de eerste 25 meter moet de vergelijking 25 = 3,8 · t¹ʼ⁵ worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "t is dan 3,511… (seconden)"
+          },
+          {
+            "points": 1,
+            "description": "De laatste 25 meter duurt 25/11,7 = 2,136... (seconden)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 1,4 (seconden)"
+          }
+        ],
+        "grading_note": "Als in plaats van 11,7 gerekend wordt met de in de eerste vraag van deze opgave berekende waarde, geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-de-100-meter-antw20.png"
+        ]
+      },
+      {
+        "title": "De 100 meter",
+        "question_number": 21,
+        "answer_text": "• Uitgaan van de topsnelheid van 11,7 (m/s) na 4 seconden (1 punt)\n• Beschrijven hoe de vergelijking 11,7 = k · √4 kan worden opgelost (1 punt)\n• k = 5,85 (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Uitgaan van de topsnelheid van 11,7 (m/s) na 4 seconden"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de vergelijking 11,7 = k · √4 kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "k = 5,85"
+          }
+        ],
+        "grading_note": "Als in plaats van 11,7 gerekend wordt met de in de eerste vraag van deze opgave berekende waarde, geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-de-100-meter-antw21.png"
+        ]
+      },
+      {
+        "title": "De 100 meter",
+        "question_number": 22,
+        "answer_text": "Voorbeeld van een juist antwoord:\n• In fase I (is er sprake van een formule van de vorm v = k · √t, dus) is de grafiek afnemend stijgend (dus het is grafiek a of d) (1 punt)\n• In fase II (is de snelheid constant, dus) is de grafiek een horizontale lijn (dus het is grafiek c of d) (1 punt)\n• Het antwoord: grafiek d (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In fase I (is er sprake van een formule van de vorm v = k · √t, dus) is de grafiek afnemend stijgend (dus het is grafiek a of d)"
+          },
+          {
+            "points": 1,
+            "description": "In fase II (is de snelheid constant, dus) is de grafiek een horizontale lijn (dus het is grafiek c of d)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: grafiek d"
+          }
+        ],
+        "grading_note": "– Als grafiek d is gekozen zonder goede argumenten, geen scorepunten toekennen voor deze vraag.\n– Als grafiek d is gekozen op basis van één goed argument, 1 scorepunt toekennen voor deze vraag.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-de-100-meter-antw22.png"
+        ]
+      },
+      {
+        "title": "Testresultaten en afhakers",
+        "question_number": 23,
+        "answer_text": "• P_exclusief = G/240 · 100\n• (240 patiënten die volhouden is 80% van alle patiënten aan het begin van het onderzoek, dus) het totaal aantal patiënten aan het begin van het onderzoek is 240/0,8 = 300\n• P_inclusief = G/300 · 100\n• De vergelijking G/240 · 100 − G/300 · 100 = 16 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• De oplossing: G = 192\n• Het aantal patiënten dat de behandeling volhoudt, maar niet geneest, is (240 − 192 =) 48",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "P_exclusief = G/240 · 100"
+          },
+          {
+            "points": 1,
+            "description": "(240 patiënten die volhouden is 80% van alle patiënten aan het begin van het onderzoek, dus) het totaal aantal patiënten aan het begin van het onderzoek is 240/0,8 = 300"
+          },
+          {
+            "points": 1,
+            "description": "P_inclusief = G/300 · 100"
+          },
+          {
+            "points": 1,
+            "description": "De vergelijking G/240 · 100 − G/300 · 100 = 16 moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "De oplossing: G = 192"
+          },
+          {
+            "points": 1,
+            "description": "Het aantal patiënten dat de behandeling volhoudt, maar niet geneest, is (240 − 192 =) 48"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2023-ii-testresultaten-en-afhakers-antw23.png"
+        ]
+      }
+    ]
+  }
+}
