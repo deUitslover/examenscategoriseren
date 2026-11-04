@@ -1,0 +1,65 @@
+{
+  "source": "HAVO Wiskunde B 2023-I",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Parabool en grafiek van een wortelfunctie",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Twee cirkels en twee lijnen",
+      "question_numbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Ademhaling",
+      "question_numbers": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Transition",
+      "question_numbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Halve hoek",
+      "question_numbers": [
+        10
+      ]
+    },
+    {
+      "title": "Twee functies",
+      "question_numbers": [
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Tienkamp",
+      "question_numbers": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Cosinusbreuk",
+      "question_numbers": [
+        17,
+        18
+      ]
+    }
+  ]
+}

@@ -1,0 +1,858 @@
+{
+ "exercises": [
+  {
+   "id": "6b53bed4-b795-4ffe-a5ad-48eeffb0f7a7",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Zwangerschap",
+   "source": "HAVO Wiskunde B 2023-II"
+  },
+  {
+   "id": "a709ce04-b7d2-497c-9241-f6bfa14312a4",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Cirkel tussen lijnen",
+   "source": "HAVO Wiskunde B 2023-II"
+  },
+  {
+   "id": "45290ca1-0db4-47d1-9c66-2c137c77f37f",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Raaklijn en driehoeken",
+   "source": "HAVO Wiskunde B 2023-II"
+  },
+  {
+   "id": "0cfe98ed-2dbd-4d03-b3a7-7fc23b2abb92",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Een translatie en snijpunten met de x-as",
+   "source": "HAVO Wiskunde B 2023-II"
+  },
+  {
+   "id": "fb0d5f45-a3ec-4a7d-a74b-5985f8dfec41",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Shovel",
+   "source": "HAVO Wiskunde B 2023-II"
+  },
+  {
+   "id": "f0b0f838-1b21-4068-85b4-540777d4897e",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Sinusoïde en parabool",
+   "source": "HAVO Wiskunde B 2023-II"
+  },
+  {
+   "id": "68035372-f6f1-40eb-9ef7-cdc896f886fa",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Afstand tussen lijnen en punt",
+   "source": "HAVO Wiskunde B 2023-II"
+  },
+  {
+   "id": "d0fadece-930c-40d9-9ca4-30c4139009a0",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Dalen, stijgen en stijgen",
+   "source": "HAVO Wiskunde B 2023-II"
+  }
+ ],
+ "context_blocks": [
+  {
+   "id": "09994688-2cdd-46d7-b103-f2fe1497c1f7",
+   "exercise_id": "6b53bed4-b795-4ffe-a5ad-48eeffb0f7a7",
+   "label": "zwangerschapsecho; foto 1; d = 8,052 · √(1,037a) + 23,73 (d in dagen, a in mm), bruikbaar van 8,5 tot 13 weken",
+   "image_url": "wiskunde-b-havo-2023-ii-zwangerschap-context1.png",
+   "text_content": "Een zwangerschapsecho is een afbeelding van een ongeboren baby. Zie foto 1. Een echo wordt onder andere gebruikt om vast te stellen hoe lang een vrouw al zwanger is.\nfoto 1\nOp de echo kan de afstand a van de bovenkant van het hoofdje tot de onderkant van de billen worden gemeten. Met behulp van de volgende formule kan dan de zwangerschapsduur d worden geschat:\nd = 8,052 · √(1,037a) + 23,73\nDe zwangerschapsduur d is in dagen en de gemeten afstand a in mm. Deze formule is alleen bruikbaar bij een zwangerschapsduur van ongeveer 8,5 tot ongeveer 13 weken.",
+   "block_type": "inline"
+  },
+  {
+   "id": "9317d8e4-b729-42bd-a9e6-2fb75ae8f95c",
+   "exercise_id": "6b53bed4-b795-4ffe-a5ad-48eeffb0f7a7",
+   "label": "gemeten a = 55 mm",
+   "image_url": "wiskunde-b-havo-2023-ii-zwangerschap-context2.png",
+   "text_content": "Bij een vrouw wordt een echo gemaakt. Daarbij wordt gemeten a = 55 mm.",
+   "block_type": "inline"
+  },
+  {
+   "id": "50f15b19-d6b9-49dd-b365-2ee44c8c4d5c",
+   "exercise_id": "6b53bed4-b795-4ffe-a5ad-48eeffb0f7a7",
+   "label": "herschreven formule a = p · (q · d − r)²; afgerond p = 0,96, q = 0,12, r = 2,95",
+   "image_url": "wiskunde-b-havo-2023-ii-zwangerschap-context3.png",
+   "text_content": "Als bekend is hoelang een vrouw zwanger is, kan omgekeerd berekend worden wat de afstand a bij de ongeboren baby is. Hiervoor kan de formule worden herschreven door a in d uit te drukken. Dit geeft een formule van de vorm:\na = p · (q · d − r)²\nMogelijke waarden van p, q en r, afgerond op twee decimalen, zijn: p = 0,96, q = 0,12 en r = 2,95.",
+   "block_type": "inline"
+  },
+  {
+   "id": "b1fef466-2292-4ef5-b160-1ac1af92bbb3",
+   "exercise_id": "6b53bed4-b795-4ffe-a5ad-48eeffb0f7a7",
+   "label": "a = 0,96 · (0,12d − 2,95)² bij 8,5 tot 13 weken",
+   "image_url": "wiskunde-b-havo-2023-ii-zwangerschap-context4.png",
+   "text_content": "Bij een zwangerschapsduur van 8,5 tot 13 weken is de afstand bij de ongeboren baby te bepalen volgens de formule a = 0,96 · (0,12d − 2,95)².",
+   "block_type": "inline"
+  },
+  {
+   "id": "ce9ad22a-a70a-49e5-adbd-377b47c5ed66",
+   "exercise_id": "6b53bed4-b795-4ffe-a5ad-48eeffb0f7a7",
+   "label": "vanaf 13 weken: schatting met de hoofdomtrek; foto 2",
+   "image_url": "wiskunde-b-havo-2023-ii-zwangerschap-context5.png",
+   "text_content": "Vanaf 13 weken zwangerschap kan gebruik worden gemaakt van een andere formule voor een schatting van de zwangerschapsduur. Hierbij wordt de hoofdomtrek gebruikt. Op foto 2 is een dwarsdoorsnede te zien van het hoofd.\nfoto 2",
+   "block_type": "inline"
+  },
+  {
+   "id": "6fe4bd59-515c-4f95-a8f7-84845eabc054",
+   "exercise_id": "6b53bed4-b795-4ffe-a5ad-48eeffb0f7a7",
+   "label": "w = 3,12958 · 1,00244ʰ · h^0,2794 (w in weken, h hoofdomtrek in mm)",
+   "image_url": "wiskunde-b-havo-2023-ii-zwangerschap-context6.png",
+   "text_content": "De formule voor de zwangerschapsduur vanaf 13 weken wordt gegeven door:\nw = 3,12958 · 1,00244ʰ · h^0,2794\nHierin is w de zwangerschapsduur in weken en h de hoofdomtrek in mm.",
+   "block_type": "inline"
+  },
+  {
+   "id": "1dec6786-c6fa-4cbf-b12c-cd829cd39165",
+   "exercise_id": "a709ce04-b7d2-497c-9241-f6bfa14312a4",
+   "label": "lijn l: y = ½x, lijn m: y = −½x; cirkel c met middelpunt M(√5, 0) en straal 1; l raakt c; figuur 1",
+   "image_url": "wiskunde-b-havo-2023-ii-cirkel-tussen-lijnen-context1.png",
+   "text_content": "De lijn l is gegeven door de vergelijking y = ½x en de lijn m door de vergelijking y = −½x. Verder is gegeven de cirkel c met middelpunt M(√5, 0) en straal 1.\nLijn l raakt cirkel c. Zie figuur 1.\nfiguur 1",
+   "block_type": "inline"
+  },
+  {
+   "id": "168a2583-6929-4b65-9af2-88b2de42803a",
+   "exercise_id": "a709ce04-b7d2-497c-9241-f6bfa14312a4",
+   "label": "verticale lijn n raakt c rechts; A = n ∩ m, B = n ∩ l; driehoek OAB met ingeschreven cirkel c",
+   "image_url": "wiskunde-b-havo-2023-ii-cirkel-tussen-lijnen-context2.png",
+   "text_content": "De verticale lijn n raakt cirkel c aan de rechterkant. Lijn n snijdt lijn m in punt A en lijn l in punt B. Samen met de oorsprong O vormen de punten A en B de driehoek OAB. Cirkel c past precies in deze driehoek. Zie figuur 2.",
+   "block_type": "inline"
+  },
+  {
+   "id": "b4f77721-c98a-4c21-9d74-9a228755b691",
+   "exercise_id": "a709ce04-b7d2-497c-9241-f6bfa14312a4",
+   "label": "figuur 2",
+   "image_url": "wiskunde-b-havo-2023-ii-cirkel-tussen-lijnen-context3.png",
+   "text_content": "figuur 2",
+   "block_type": "inline"
+  },
+  {
+   "id": "92820ce6-8514-4195-bff0-728bf3e2db13",
+   "exercise_id": "45290ca1-0db4-47d1-9c66-2c137c77f37f",
+   "label": "f(x) = 16 − x²; P op grafiek van f; raaklijn in P snijdt positieve x-as in A en y-as in B; figuur 1",
+   "image_url": "wiskunde-b-havo-2023-ii-raaklijn-en-driehoeken-context1.png",
+   "text_content": "De functie f wordt gegeven door f(x) = 16 − x². Het punt P ligt op de grafiek van f. De raaklijn aan de grafiek van f in P snijdt de positieve x-as in het punt A en de y-as in het punt B. Zie figuur 1.\nfiguur 1",
+   "block_type": "inline"
+  },
+  {
+   "id": "eacf3dbc-8a16-4cd6-a3cd-4cf61edf3982",
+   "exercise_id": "45290ca1-0db4-47d1-9c66-2c137c77f37f",
+   "label": "P zo gekozen dat OB = 3 · OA",
+   "image_url": "wiskunde-b-havo-2023-ii-raaklijn-en-driehoeken-context2.png",
+   "text_content": "Punt P is zo gekozen dat geldt: OB = 3 · OA.",
+   "block_type": "inline"
+  },
+  {
+   "id": "18182846-96b6-43ad-9b81-c6dfe29f6f74",
+   "exercise_id": "45290ca1-0db4-47d1-9c66-2c137c77f37f",
+   "label": "C en D snijpunten van f met positieve x-as en y-as; Q(q, f(q)) tussen C en D; driehoeken OCQ en OQD met oppervlakte 2(16 − q²) en 8q; gelijke oppervlaktes; figuur",
+   "image_url": "wiskunde-b-havo-2023-ii-raaklijn-en-driehoeken-context3.png",
+   "text_content": "De grafiek van f snijdt de positieve x-as in het punt C en de y-as in het punt D. Het punt Q ligt op de grafiek van f tussen de punten C en D en heeft x-coördinaat q.\nIn figuur 2 zijn de grafiek van f en de grijze driehoeken OCQ en OQD weergegeven.\nDe oppervlakte van de beide driehoeken kan worden uitgedrukt in q. De oppervlakte van driehoek OCQ is 2(16 − q²).\nDe oppervlakte van driehoek OQD uitgedrukt in q is gelijk aan 8q. Punt Q is zo gekozen dat geldt: de twee driehoeken hebben gelijke oppervlaktes.",
+   "block_type": "inline"
+  },
+  {
+   "id": "d831c5ed-6acb-484c-80c1-96c677d12b7c",
+   "exercise_id": "0cfe98ed-2dbd-4d03-b3a7-7fc23b2abb92",
+   "label": "f(x) = x³ + 6x² − 36x − 88; P en Q toppen; middelste snijpunt met x-as M(−2, 0)",
+   "image_url": "wiskunde-b-havo-2023-ii-een-translatie-en-snijpunten-met-de-x-as-context1.png",
+   "text_content": "De functie f wordt gegeven door f(x) = x³ + 6x² − 36x − 88.\nDe punten P en Q zijn de toppen van de grafiek van f. Het middelste snijpunt van de grafiek van f met de x-as is het punt M(−2, 0).",
+   "block_type": "inline"
+  },
+  {
+   "id": "3c80c430-385f-4776-9879-6d0a02cb447e",
+   "exercise_id": "0cfe98ed-2dbd-4d03-b3a7-7fc23b2abb92",
+   "label": "figuur 1",
+   "image_url": "wiskunde-b-havo-2023-ii-een-translatie-en-snijpunten-met-de-x-as-context2.png",
+   "text_content": "figuur 1",
+   "block_type": "inline"
+  },
+  {
+   "id": "16219fce-5f17-418a-8fbd-bb11b0519fc7",
+   "exercise_id": "0cfe98ed-2dbd-4d03-b3a7-7fc23b2abb92",
+   "label": "M ligt midden tussen P en Q",
+   "image_url": "wiskunde-b-havo-2023-ii-een-translatie-en-snijpunten-met-de-x-as-context3.png",
+   "text_content": "Punt M ligt midden tussen P en Q.",
+   "block_type": "inline"
+  },
+  {
+   "id": "f3ba17f8-0f6f-442b-ac84-e132df793615",
+   "exercise_id": "0cfe98ed-2dbd-4d03-b3a7-7fc23b2abb92",
+   "label": "g ontstaat door de grafiek van f twee naar rechts te verschuiven; g(x) = x³ − 48x",
+   "image_url": "wiskunde-b-havo-2023-ii-een-translatie-en-snijpunten-met-de-x-as-context4.png",
+   "text_content": "Door de grafiek van f twee naar rechts te verschuiven ontstaat de grafiek van de functie g. Een formule voor g is g(x) = x³ − 48x.",
+   "block_type": "inline"
+  },
+  {
+   "id": "faf2f24f-335f-4179-bf7b-e7572dbd7189",
+   "exercise_id": "0cfe98ed-2dbd-4d03-b3a7-7fc23b2abb92",
+   "label": "figuur 2: grafieken van f en g",
+   "image_url": "wiskunde-b-havo-2023-ii-een-translatie-en-snijpunten-met-de-x-as-context5.png",
+   "text_content": "In figuur 2 zijn de grafieken van f en g weergegeven.\nfiguur 2",
+   "block_type": "inline"
+  },
+  {
+   "id": "fe62649b-8cb5-45d0-816b-d7cd5e2de1ff",
+   "exercise_id": "0cfe98ed-2dbd-4d03-b3a7-7fc23b2abb92",
+   "label": "middelste snijpunt van g met x-as in O; A en B overige snijpunten van f met x-as, te berekenen met g",
+   "image_url": "wiskunde-b-havo-2023-ii-een-translatie-en-snijpunten-met-de-x-as-context6.png",
+   "text_content": "Het middelste snijpunt van de grafiek van g met de x-as ligt in de oorsprong. De grafiek van f heeft behalve punt M nog twee snijpunten met de x-as: het punt A en het punt B. De coördinaten van die snijpunten zijn met de functie f moeilijk te berekenen. Met behulp van de functie g zijn de coördinaten van deze snijpunten wel te berekenen.",
+   "block_type": "inline"
+  },
+  {
+   "id": "71d65804-522a-4cda-8ec1-1ab8fd71b9d8",
+   "exercise_id": "fb0d5f45-a3ec-4a7d-a74b-5985f8dfec41",
+   "label": "shovel: bak met zand wordt gekanteld",
+   "image_url": "wiskunde-b-havo-2023-ii-shovel-context1.png",
+   "text_content": "Een shovel is een machine om zand mee te verplaatsen. In de bak van een shovel zit zand. Om het zand te storten, wordt de bak gekanteld.",
+   "block_type": "inline"
+  },
+  {
+   "id": "dad5f2f6-9879-4505-9835-48204aa23f4c",
+   "exercise_id": "fb0d5f45-a3ec-4a7d-a74b-5985f8dfec41",
+   "label": "beginsituatie: AB = 1,50 m, ED = 1,80 m, BD = 0,25 m; A 0,30 m rechts van en 0,25 m boven E; ∠AED = 39,8°; figuur 1",
+   "image_url": "wiskunde-b-havo-2023-ii-shovel-context2.png",
+   "text_content": "In figuur 1 staat de beginsituatie. In deze beginsituatie zijn de bovenrand van de bak en de armen AB en ED horizontaal. Punt B ligt loodrecht boven punt D.\nVerder geldt in de beginsituatie: − AB = 1,50 m, ED = 1,80 m en BD = 0,25 m; − A bevindt zich 0,30 m rechts van E en 0,25 m boven E; − ∠AED = 39,8°.\nfiguur 1 beginsituatie",
+   "block_type": "inline"
+  },
+  {
+   "id": "53f6844e-a05e-4b1b-992e-cd6371275dcd",
+   "exercise_id": "fb0d5f45-a3ec-4a7d-a74b-5985f8dfec41",
+   "label": "gekantelde situatie: B, D, E vast, AB 10 cm langer, AE gelijk; figuur 2",
+   "image_url": "wiskunde-b-havo-2023-ii-shovel-context3.png",
+   "text_content": "In figuur 2 staat de situatie als de bak enigszins gekanteld is. Bij het kantelen blijven de punten B, D en E op hun plek. Door de buis bij A uit te schuiven, wordt AB 10 centimeter langer gemaakt. De afstand AE verandert niet. Hierdoor draait punt A om punt E heen. Arm AB loopt dan niet meer horizontaal en ∠AED wordt groter.\nfiguur 2 enigszins gekanteld",
+   "block_type": "inline"
+  },
+  {
+   "id": "5b965180-80c7-4eef-8169-a369f2ad1a98",
+   "exercise_id": "fb0d5f45-a3ec-4a7d-a74b-5985f8dfec41",
+   "label": "op de uitwerkbijlage staat figuur 2 met vierhoek AEDB",
+   "image_url": "wiskunde-b-havo-2023-ii-shovel-context4.png",
+   "text_content": "Op de uitwerkbijlage is figuur 2 met de vierhoek AEDB weergegeven.",
+   "block_type": "inline"
+  },
+  {
+   "id": "add88f6d-d657-46e1-b3bc-05fe469ed820",
+   "exercise_id": "fb0d5f45-a3ec-4a7d-a74b-5985f8dfec41",
+   "label": "uitwerkbijlage vraag 13: figuur 2 met vierhoek AEDB",
+   "image_url": "wiskunde-b-havo-2023-ii-shovel-context5.png",
+   "text_content": "13\n(uitwerkbijlage: figuur 2 met de vierhoek AEDB)",
+   "block_type": "uitwerkbijlage"
+  },
+  {
+   "id": "8e9317b1-3f91-4079-9813-89a571e8c441",
+   "exercise_id": "f0b0f838-1b21-4068-85b4-540777d4897e",
+   "label": "f(x) = 3 + 3sin(½πx); A met x-coördinaat ⅓, B met dezelfde y-coördinaat, T top van f",
+   "image_url": "wiskunde-b-havo-2023-ii-sinusoide-en-parabool-context1.png",
+   "text_content": "De functie f wordt gegeven door f(x) = 3 + 3sin(½πx). In de figuur is een deel van de grafiek van f weergegeven. De grafiek van deze functie gaan we in twee delen benaderen, namelijk met een deel van een parabool en met een lijnstuk.\nHet punt A met x-coördinaat ⅓ ligt op de grafiek van f. Het punt B met dezelfde y-coördinaat als A ligt ook op de grafiek van f. Het punt T is de top van de grafiek van f. Zie de figuur.",
+   "block_type": "inline"
+  },
+  {
+   "id": "5a524dfe-8f72-4d05-a298-7b4bfe1f058e",
+   "exercise_id": "f0b0f838-1b21-4068-85b4-540777d4897e",
+   "label": "figuur; parabool door A, T en B: y = −3⅜x² + 6¾x + 2⅝",
+   "image_url": "wiskunde-b-havo-2023-ii-sinusoide-en-parabool-context2.png",
+   "text_content": "figuur\nHet deel van de sinusoïde tussen de punten A en B is te benaderen door de parabool die door de punten A, T en B gaat.\nEen vergelijking van deze parabool is y = −3⅜x² + 6¾x + 2⅝.",
+   "block_type": "inline"
+  },
+  {
+   "id": "b031b7f7-7e78-45e3-b2ad-6830c00af77b",
+   "exercise_id": "f0b0f838-1b21-4068-85b4-540777d4897e",
+   "label": "S snijpunt van f met y-as; lijnstuk SA: y = 4½x + 3",
+   "image_url": "wiskunde-b-havo-2023-ii-sinusoide-en-parabool-context3.png",
+   "text_content": "De grafiek van f snijdt de y-as in het punt S. Het deel van de sinusoïde tussen de punten S en A is te benaderen door een lijnstuk met vergelijking y = 4½x + 3. Dit lijnstuk gaat door de punten S en A.",
+   "block_type": "inline"
+  },
+  {
+   "id": "a0d64d59-a5e7-4031-aad2-4e072ef7acb9",
+   "exercise_id": "f0b0f838-1b21-4068-85b4-540777d4897e",
+   "label": "goede benadering: geen knik in A, helling lijnstuk SA gelijk aan helling parabool",
+   "image_url": "wiskunde-b-havo-2023-ii-sinusoide-en-parabool-context4.png",
+   "text_content": "De benadering van de sinusoïde tussen de punten S en B bestaat nu uit twee delen: het lijnstuk SA en het deel van de parabool door A, T en B. Als er in punt A geen knik is, noemen we dit een goede benadering. Dat houdt in dat in A de helling van het lijnstuk SA gelijk is aan de helling van de parabool.",
+   "block_type": "inline"
+  },
+  {
+   "id": "492344c3-04dc-4fb3-8528-108c617a729a",
+   "exercise_id": "68035372-f6f1-40eb-9ef7-cdc896f886fa",
+   "label": "lijn l: y = ½x; k ontstaat door l één omhoog te schuiven; P onder l op afstand 3 van l; figuur",
+   "image_url": "wiskunde-b-havo-2023-ii-afstand-tussen-lijnen-en-punt-context1.png",
+   "text_content": "De lijn l wordt gegeven door de vergelijking y = ½x. De lijn k ontstaat door l één recht omhoog te schuiven. Het punt P bevindt zich onder l.\nDe afstand tussen l en P is 3. Zie de figuur.\nfiguur",
+   "block_type": "inline"
+  },
+  {
+   "id": "0009854d-9a66-4a49-b3a4-9ca67ae0f69c",
+   "exercise_id": "d0fadece-930c-40d9-9ca4-30c4139009a0",
+   "label": "f(x) = 3 · 1,12ˣ + 5sin(2π(x + ¼)) = g(x) + h(x) met g(x) = 3 · 1,12ˣ en h(x) = 5sin(2π(x + ¼))",
+   "image_url": "wiskunde-b-havo-2023-ii-dalen-stijgen-en-stijgen-context1.png",
+   "text_content": "De functie f wordt gegeven door f(x) = 3 · 1,12ˣ + 5sin(2π(x + ¼)).\nDe functie f is de som van de exponentiële functie g, gegeven door g(x) = 3 · 1,12ˣ, en de periodieke functie h, gegeven door h(x) = 5sin(2π(x + ¼)).",
+   "block_type": "inline"
+  },
+  {
+   "id": "dabb4346-dfa6-4464-8ed8-e369db7001eb",
+   "exercise_id": "d0fadece-930c-40d9-9ca4-30c4139009a0",
+   "label": "figuur 1: grafieken van f en h met punten A en B",
+   "image_url": "wiskunde-b-havo-2023-ii-dalen-stijgen-en-stijgen-context2.png",
+   "text_content": "In figuur 1 zijn voor x ≥ 0 de grafieken van f en h weergegeven met daarop de punten A en B.\nfiguur 1",
+   "block_type": "inline"
+  },
+  {
+   "id": "d3840988-7413-4621-b25a-5064a437daa5",
+   "exercise_id": "d0fadece-930c-40d9-9ca4-30c4139009a0",
+   "label": "A 14e minimum van f (x ≈ 13,492), B 14e minimum van h; lijken dezelfde x-coördinaat te hebben",
+   "image_url": "wiskunde-b-havo-2023-ii-dalen-stijgen-en-stijgen-context3.png",
+   "text_content": "De functie h heeft maxima en minima. Hierdoor heeft de functie f ook maxima en minima.\nGeteld vanaf de y-as wordt in punt A het 14e minimum van f bereikt en in punt B het 14e minimum van h.\nDe x-coördinaat van A is afgerond op drie decimalen 13,492.\nHet lijkt alsof de x-coördinaten van A en B gelijk zijn.",
+   "block_type": "inline"
+  },
+  {
+   "id": "f9392f6f-e080-413f-8578-38646779b088",
+   "exercise_id": "d0fadece-930c-40d9-9ca4-30c4139009a0",
+   "label": "horizontale lijn y = f(0) snijdt de grafiek van f meerdere keren; figuur 2",
+   "image_url": "wiskunde-b-havo-2023-ii-dalen-stijgen-en-stijgen-context4.png",
+   "text_content": "Het snijpunt van de grafiek van f met de y-as is (0, f(0)) en dus is de vergelijking van de horizontale lijn door dit punt y = f(0). Voor x > 0 zal de grafiek van f de lijn met vergelijking y = f(0) op meerdere plaatsen snijden. Zie figuur 2.\nfiguur 2",
+   "block_type": "inline"
+  },
+  {
+   "id": "87370159-f18b-471f-8c28-9aabe93f22b1",
+   "exercise_id": "d0fadece-930c-40d9-9ca4-30c4139009a0",
+   "label": "laatste snijpunt ligt links van A",
+   "image_url": "wiskunde-b-havo-2023-ii-dalen-stijgen-en-stijgen-context5.png",
+   "text_content": "Vanaf een bepaalde waarde van x snijden de grafiek van f en de lijn elkaar niet meer. Het snijpunt met de grootste x-coördinaat bevindt zich links van punt A.",
+   "block_type": "inline"
+  },
+  {
+   "id": "ac7ed5c6-915d-4a38-9bca-4341700227d6",
+   "exercise_id": "d0fadece-930c-40d9-9ca4-30c4139009a0",
+   "label": "laatste twee dalingen in [38, 40]; P punt met sterkste daling op het laatste dalende stuk; figuur 3",
+   "image_url": "wiskunde-b-havo-2023-ii-dalen-stijgen-en-stijgen-context6.png",
+   "text_content": "figuur 3\nIn eerste instantie is de grafiek van f afwisselend dalend en stijgend. Vanaf een bepaalde waarde van x is de grafiek van f alleen nog maar stijgend. De laatste twee dalingen vinden in het interval [38, 40] plaats.\nTijdens elke daling van hoogste naar laagste punt is er een punt op de grafiek van f waar de grafiek het sterkst daalt. In zo’n punt is de helling op dat dalende stuk dus minimaal.\nOp het laatste dalende stuk is dat in het punt P. Zie figuur 3.",
+   "block_type": "inline"
+  }
+ ],
+ "questions": [
+  {
+   "id": "e83dad68-fa6c-4f78-863d-a37cf63d8e5a",
+   "exercise_id": "6b53bed4-b795-4ffe-a5ad-48eeffb0f7a7",
+   "question_number": 1,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    }
+   ],
+   "keywords": [
+    "wortelfunctie",
+    "formule invullen",
+    "eenheden omrekenen",
+    "afronden"
+   ],
+   "question_summary": "Een waarde invullen in een wortelformule en het resultaat omrekenen naar een andere eenheid.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-zwangerschap-vraag1.png",
+   "question_text": "2p 1 Bereken de geschatte zwangerschapsduur van deze vrouw. Geef je antwoord in hele weken.",
+   "context_block_ids": [
+    "09994688-2cdd-46d7-b103-f2fe1497c1f7",
+    "9317d8e4-b729-42bd-a9e6-2fb75ae8f95c"
+   ]
+  },
+  {
+   "id": "2caec14a-4aee-4e54-950c-e92947e8ab91",
+   "exercise_id": "6b53bed4-b795-4ffe-a5ad-48eeffb0f7a7",
+   "question_number": 2,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    }
+   ],
+   "keywords": [
+    "formule herleiden",
+    "variabele vrijmaken",
+    "wortel",
+    "kwadraat",
+    "afronden"
+   ],
+   "question_summary": "Een wortelformule herleiden tot een kwadratische vorm en de bijbehorende constanten berekenen.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-zwangerschap-vraag2.png",
+   "question_text": "3p 2 Bereken deze waarden van p, q en r in drie decimalen.",
+   "context_block_ids": [
+    "09994688-2cdd-46d7-b103-f2fe1497c1f7",
+    "50f15b19-d6b9-49dd-b365-2ee44c8c4d5c"
+   ]
+  },
+  {
+   "id": "dbd865a9-a790-4a57-829d-db186414ea28",
+   "exercise_id": "6b53bed4-b795-4ffe-a5ad-48eeffb0f7a7",
+   "question_number": 3,
+   "topics": [
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Bepaling afgeleide functies"
+    },
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Afgeleide functies"
+    }
+   ],
+   "keywords": [
+    "afgeleide",
+    "kettingregel",
+    "toenemend stijgend",
+    "tweede afgeleide",
+    "aantonen"
+   ],
+   "question_summary": "Met de afgeleide aantonen dat een functie op een interval toenemend stijgend is.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-zwangerschap-vraag3.png",
+   "question_text": "3p 3 Toon met behulp van de afgeleide aan dat de afstand toenemend stijgend is.",
+   "context_block_ids": [
+    "b1fef466-2292-4ef5-b160-1ac1af92bbb3"
+   ]
+  },
+  {
+   "id": "ee0dd523-6bae-42a7-9292-194175a27d43",
+   "exercise_id": "6b53bed4-b795-4ffe-a5ad-48eeffb0f7a7",
+   "question_number": 4,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    }
+   ],
+   "keywords": [
+    "exponentiële functie",
+    "machtsfunctie",
+    "vergelijking numeriek oplossen",
+    "grafische rekenmachine",
+    "afronden"
+   ],
+   "question_summary": "Een vergelijking met een product van een exponentiële en een machtsfunctie numeriek oplossen.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-zwangerschap-vraag4.png",
+   "question_text": "3p 4 Bereken de hoofdomtrek in mm die hoort bij een zwangerschap van 14 weken. Geef je eindantwoord als een geheel getal.",
+   "context_block_ids": [
+    "ce9ad22a-a70a-49e5-adbd-377b47c5ed66",
+    "6fe4bd59-515c-4f95-a8f7-84845eabc054"
+   ]
+  },
+  {
+   "id": "55bfedd0-7eb5-4a1c-80b4-b9ec4423d695",
+   "exercise_id": "a709ce04-b7d2-497c-9241-f6bfa14312a4",
+   "question_number": 5,
+   "topics": [
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Algebraïsche methoden"
+    }
+   ],
+   "keywords": [
+    "raaklijn aan cirkel",
+    "afstand punt tot lijn",
+    "cirkelvergelijking",
+    "discriminant",
+    "bewijzen"
+   ],
+   "question_summary": "Algebraïsch bewijzen dat een lijn een cirkel raakt.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-cirkel-tussen-lijnen-vraag5.png",
+   "question_text": "5p 5 Bewijs dat lijn l cirkel c raakt.",
+   "context_block_ids": [
+    "1dec6786-c6fa-4cbf-b12c-cd829cd39165"
+   ]
+  },
+  {
+   "id": "16edb2f1-0683-4683-af92-24052fa4d520",
+   "exercise_id": "a709ce04-b7d2-497c-9241-f6bfa14312a4",
+   "question_number": 6,
+   "topics": [
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Algebraïsche methoden"
+    }
+   ],
+   "keywords": [
+    "oppervlakte driehoek",
+    "oppervlakte cirkel",
+    "snijpunt van lijnen",
+    "exact berekenen",
+    "vergelijken"
+   ],
+   "question_summary": "De oppervlakte van een driehoek uit snijpunten van lijnen algebraïsch berekenen en vergelijken met die van een cirkel.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-cirkel-tussen-lijnen-vraag6.png",
+   "question_text": "5p 6 Onderzoek op algebraïsche wijze of de oppervlakte van driehoek OAB meer dan twee keer zo groot is als de oppervlakte van cirkel c.",
+   "context_block_ids": [
+    "1dec6786-c6fa-4cbf-b12c-cd829cd39165",
+    "168a2583-6929-4b65-9af2-88b2de42803a",
+    "b4f77721-c98a-4c21-9d74-9a228755b691"
+   ]
+  },
+  {
+   "id": "845b9e34-e512-4c6d-be5d-25f89f2a61a6",
+   "exercise_id": "45290ca1-0db4-47d1-9c66-2c137c77f37f",
+   "question_number": 7,
+   "topics": [
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Toepassing afgeleide functies"
+    },
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Bepaling afgeleide functies"
+    }
+   ],
+   "keywords": [
+    "raaklijn",
+    "afgeleide",
+    "richtingscoëfficiënt",
+    "parabool",
+    "exact berekenen"
+   ],
+   "question_summary": "Met de richtingscoëfficiënt van een raaklijn exact het raakpunt aan een parabool bepalen.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-raaklijn-en-driehoeken-vraag7.png",
+   "question_text": "3p 7 Bereken exact de x-coördinaat van P.",
+   "context_block_ids": [
+    "92820ce6-8514-4195-bff0-728bf3e2db13",
+    "eacf3dbc-8a16-4cd6-a3cd-4cf61edf3982"
+   ]
+  },
+  {
+   "id": "c0e2a422-2cd6-4391-a6d9-0da812f201e7",
+   "exercise_id": "45290ca1-0db4-47d1-9c66-2c137c77f37f",
+   "question_number": 8,
+   "topics": [
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Algebraïsche methoden"
+    }
+   ],
+   "keywords": [
+    "oppervlakte driehoek",
+    "basis en hoogte",
+    "coördinaten",
+    "aantonen"
+   ],
+   "question_summary": "Met basis en hoogte de oppervlakte van een driehoek uitdrukken in een parameter.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-raaklijn-en-driehoeken-vraag8.png",
+   "question_text": "2p 8 Toon aan dat die oppervlakte 2(16 − q²) is.",
+   "context_block_ids": [
+    "92820ce6-8514-4195-bff0-728bf3e2db13",
+    "18182846-96b6-43ad-9b81-c6dfe29f6f74"
+   ]
+  },
+  {
+   "id": "7e6e8055-2db7-4a2c-a82b-fd09dc6c9c3f",
+   "exercise_id": "45290ca1-0db4-47d1-9c66-2c137c77f37f",
+   "question_number": 9,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    },
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Algebraïsche methoden"
+    }
+   ],
+   "keywords": [
+    "kwadratische vergelijking",
+    "oppervlakte driehoek",
+    "abc-formule",
+    "exact berekenen"
+   ],
+   "question_summary": "Een kwadratische vergelijking exact oplossen om twee gelijke oppervlaktes te bepalen.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-raaklijn-en-driehoeken-vraag9.png",
+   "question_text": "4p 9 Bereken exact de oppervlakte van één zo’n driehoek.",
+   "context_block_ids": [
+    "92820ce6-8514-4195-bff0-728bf3e2db13",
+    "18182846-96b6-43ad-9b81-c6dfe29f6f74"
+   ]
+  },
+  {
+   "id": "00bc6171-7177-495a-b8f3-7add19f6c11b",
+   "exercise_id": "0cfe98ed-2dbd-4d03-b3a7-7fc23b2abb92",
+   "question_number": 10,
+   "topics": [
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Toepassing afgeleide functies"
+    },
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Bepaling afgeleide functies"
+    }
+   ],
+   "keywords": [
+    "afgeleide",
+    "toppen",
+    "afgeleide gelijk aan nul",
+    "midden van lijnstuk",
+    "bewijzen"
+   ],
+   "question_summary": "Met de afgeleide de toppen van een derdegraadsfunctie bepalen en bewijzen dat een punt midden tussen de toppen ligt.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-een-translatie-en-snijpunten-met-de-x-as-vraag10.png",
+   "question_text": "5p 10 Bewijs dit.",
+   "context_block_ids": [
+    "d831c5ed-6acb-484c-80c1-96c677d12b7c",
+    "3c80c430-385f-4776-9879-6d0a02cb447e",
+    "16219fce-5f17-418a-8fbd-bb11b0519fc7"
+   ]
+  },
+  {
+   "id": "3dc4677e-b3b5-4396-b8e2-3ee5cb5656d3",
+   "exercise_id": "0cfe98ed-2dbd-4d03-b3a7-7fc23b2abb92",
+   "question_number": 11,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    }
+   ],
+   "keywords": [
+    "translatie",
+    "transformaties",
+    "haakjes uitwerken",
+    "derdegraadsfunctie",
+    "bewijzen"
+   ],
+   "question_summary": "Met een translatie het functievoorschrift van een verschoven grafiek opstellen en herleiden.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-een-translatie-en-snijpunten-met-de-x-as-vraag11.png",
+   "question_text": "4p 11 Bewijs dat dit een formule is voor g.",
+   "context_block_ids": [
+    "d831c5ed-6acb-484c-80c1-96c677d12b7c",
+    "f3ba17f8-0f6f-442b-ac84-e132df793615"
+   ]
+  },
+  {
+   "id": "5f3616ae-92f7-4090-94a5-3e0e321c9082",
+   "exercise_id": "0cfe98ed-2dbd-4d03-b3a7-7fc23b2abb92",
+   "question_number": 12,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    }
+   ],
+   "keywords": [
+    "derdegraadsvergelijking",
+    "ontbinden in factoren",
+    "translatie",
+    "nulpunten",
+    "exact berekenen"
+   ],
+   "question_summary": "Via een verschoven functie de nulpunten van een derdegraadsfunctie exact berekenen.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-een-translatie-en-snijpunten-met-de-x-as-vraag12.png",
+   "question_text": "4p 12 Bereken exact de x-coördinaten van A en B.",
+   "context_block_ids": [
+    "d831c5ed-6acb-484c-80c1-96c677d12b7c",
+    "f3ba17f8-0f6f-442b-ac84-e132df793615",
+    "faf2f24f-335f-4179-bf7b-e7572dbd7189",
+    "fe62649b-8cb5-45d0-816b-d7cd5e2de1ff"
+   ]
+  },
+  {
+   "id": "850aeb23-fb0f-4f64-8853-c4f9b0c0719e",
+   "exercise_id": "fb0d5f45-a3ec-4a7d-a74b-5985f8dfec41",
+   "question_number": 13,
+   "topics": [
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Afstanden en hoeken in concrete situaties"
+    }
+   ],
+   "keywords": [
+    "cosinusregel",
+    "stelling van Pythagoras",
+    "tangens",
+    "hoek berekenen",
+    "vierhoek",
+    "afronden"
+   ],
+   "question_summary": "In een vierhoek met de stelling van Pythagoras, de cosinusregel en goniometrische verhoudingen een draaiingshoek berekenen.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-shovel-vraag13.png",
+   "question_text": "7p 13 Bereken hoeveel graden de bak in figuur 2 gekanteld is ten opzichte van de beginsituatie. Geef je eindantwoord in hele graden.",
+   "context_block_ids": [
+    "71d65804-522a-4cda-8ec1-1ab8fd71b9d8",
+    "dad5f2f6-9879-4505-9835-48204aa23f4c",
+    "53f6844e-a05e-4b1b-992e-cd6371275dcd",
+    "5b965180-80c7-4eef-8169-a369f2ad1a98",
+    "add88f6d-d657-46e1-b3bc-05fe469ed820"
+   ]
+  },
+  {
+   "id": "040cd920-5e46-4d72-9285-317ecffac8ce",
+   "exercise_id": "f0b0f838-1b21-4068-85b4-540777d4897e",
+   "question_number": 14,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Periodieke functies"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    }
+   ],
+   "keywords": [
+    "sinusoïde",
+    "top",
+    "symmetrie",
+    "parabool",
+    "exacte waarden",
+    "bewijzen"
+   ],
+   "question_summary": "De coördinaten van punten op een sinusoïde exact bepalen en bewijzen dat een parabool door die punten gaat.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-sinusoide-en-parabool-vraag14.png",
+   "question_text": "7p 14 Bewijs dit.",
+   "context_block_ids": [
+    "8e9317b1-3f91-4079-9813-89a571e8c441",
+    "5a524dfe-8f72-4d05-a298-7b4bfe1f058e"
+   ]
+  },
+  {
+   "id": "6db44e64-aaf9-40ac-8609-34058636f955",
+   "exercise_id": "f0b0f838-1b21-4068-85b4-540777d4897e",
+   "question_number": 15,
+   "topics": [
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Toepassing afgeleide functies"
+    },
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Bepaling afgeleide functies"
+    }
+   ],
+   "keywords": [
+    "afgeleide",
+    "helling",
+    "richtingscoëfficiënt",
+    "knik",
+    "exact berekenen"
+   ],
+   "question_summary": "Met de afgeleide van een parabool de helling in een punt exact vergelijken met de richtingscoëfficiënt van een lijnstuk.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-sinusoide-en-parabool-vraag15.png",
+   "question_text": "4p 15 Onderzoek op exacte wijze of er wel of geen knik is in het punt A.",
+   "context_block_ids": [
+    "8e9317b1-3f91-4079-9813-89a571e8c441",
+    "5a524dfe-8f72-4d05-a298-7b4bfe1f058e",
+    "b031b7f7-7e78-45e3-b2ad-6830c00af77b",
+    "a0d64d59-a5e7-4031-aad2-4e072ef7acb9"
+   ]
+  },
+  {
+   "id": "647a2666-2a2c-4e81-ac65-95349d7b6e56",
+   "exercise_id": "68035372-f6f1-40eb-9ef7-cdc896f886fa",
+   "question_number": 16,
+   "topics": [
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Algebraïsche methoden"
+    }
+   ],
+   "keywords": [
+    "afstand tussen evenwijdige lijnen",
+    "afstand punt tot lijn",
+    "loodlijn",
+    "stelling van Pythagoras",
+    "afronden"
+   ],
+   "question_summary": "Algebraïsch de afstand tussen twee evenwijdige lijnen bepalen en daarmee de afstand van een punt tot een lijn berekenen.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-afstand-tussen-lijnen-en-punt-vraag16.png",
+   "question_text": "6p 16 Bereken algebraïsch de afstand tussen k en P. Geef je eindantwoord in twee decimalen.",
+   "context_block_ids": [
+    "492344c3-04dc-4fb3-8528-108c617a729a"
+   ]
+  },
+  {
+   "id": "b11cfbab-edc2-4578-8eb4-3e6796baaf0b",
+   "exercise_id": "d0fadece-930c-40d9-9ca4-30c4139009a0",
+   "question_number": 17,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Periodieke functies"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    }
+   ],
+   "keywords": [
+    "sinusoïde",
+    "minimum",
+    "periode",
+    "goniometrische vergelijking",
+    "onderzoeken"
+   ],
+   "question_summary": "Met de periode en de minima van een sinusfunctie algebraïsch de x-coördinaat van een minimum bepalen en vergelijken.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-dalen-stijgen-en-stijgen-vraag17.png",
+   "question_text": "5p 17 Onderzoek op algebraïsche wijze of dit zo is.",
+   "context_block_ids": [
+    "0009854d-9a66-4a49-b3a4-9ca67ae0f69c",
+    "dabb4346-dfa6-4464-8ed8-e369db7001eb",
+    "d3840988-7413-4621-b25a-5064a437daa5"
+   ]
+  },
+  {
+   "id": "10ad0a1e-2e9f-4399-9751-710082bfe6d9",
+   "exercise_id": "d0fadece-930c-40d9-9ca4-30c4139009a0",
+   "question_number": 18,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    }
+   ],
+   "keywords": [
+    "vergelijking numeriek oplossen",
+    "snijpunt van grafieken",
+    "grafische rekenmachine",
+    "afronden"
+   ],
+   "question_summary": "Het laatste snijpunt van een grafiek met een horizontale lijn numeriek bepalen.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-dalen-stijgen-en-stijgen-vraag18.png",
+   "question_text": "3p 18 Bereken de x-coördinaat van dit snijpunt. Geef je antwoord in twee decimalen.",
+   "context_block_ids": [
+    "0009854d-9a66-4a49-b3a4-9ca67ae0f69c",
+    "f9392f6f-e080-413f-8578-38646779b088",
+    "87370159-f18b-471f-8c28-9aabe93f22b1"
+   ]
+  },
+  {
+   "id": "3c297889-66f7-4d39-a9fc-b06e26f4304d",
+   "exercise_id": "d0fadece-930c-40d9-9ca4-30c4139009a0",
+   "question_number": 19,
+   "topics": [
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Afgeleide functies"
+    }
+   ],
+   "keywords": [
+    "helling",
+    "afgeleide",
+    "minimale helling",
+    "buigpunt",
+    "grafische rekenmachine",
+    "afronden"
+   ],
+   "question_summary": "Met de afgeleide het punt met de sterkste daling op een interval numeriek bepalen en de werkwijze toelichten.",
+   "question_image_url": "wiskunde-b-havo-2023-ii-dalen-stijgen-en-stijgen-vraag19.png",
+   "question_text": "3p 19 Bereken de x-coördinaat van P. Licht je werkwijze toe. Geef je antwoord in één decimaal.",
+   "context_block_ids": [
+    "0009854d-9a66-4a49-b3a4-9ca67ae0f69c",
+    "ac7ed5c6-915d-4a38-9bca-4341700227d6"
+   ]
+  }
+ ]
+}

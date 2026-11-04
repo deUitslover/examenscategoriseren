@@ -1,0 +1,66 @@
+{
+  "source": "HAVO Wiskunde B 2023-II",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Zwangerschap",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Cirkel tussen lijnen",
+      "question_numbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Raaklijn en driehoeken",
+      "question_numbers": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Een translatie en snijpunten met de x-as",
+      "question_numbers": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Shovel",
+      "question_numbers": [
+        13
+      ]
+    },
+    {
+      "title": "Sinusoïde en parabool",
+      "question_numbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Afstand tussen lijnen en punt",
+      "question_numbers": [
+        16
+      ]
+    },
+    {
+      "title": "Dalen, stijgen en stijgen",
+      "question_numbers": [
+        17,
+        18,
+        19
+      ]
+    }
+  ]
+}

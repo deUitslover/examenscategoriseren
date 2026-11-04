@@ -1,0 +1,860 @@
+{
+ "exercises": [
+  {
+   "id": "ae85bcd8-c19f-45a2-b6dc-2e5a9aedd338",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Parabool en grafiek van een wortelfunctie",
+   "source": "HAVO Wiskunde B 2023-I"
+  },
+  {
+   "id": "4ce0b9fa-34d5-41d1-abdc-9b33b421e832",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Twee cirkels en twee lijnen",
+   "source": "HAVO Wiskunde B 2023-I"
+  },
+  {
+   "id": "c2239f07-19ab-45f3-bbfb-f2ccab736a27",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Ademhaling",
+   "source": "HAVO Wiskunde B 2023-I"
+  },
+  {
+   "id": "65e5c0dd-8690-4be6-a7b6-d0544d88db2e",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Transition",
+   "source": "HAVO Wiskunde B 2023-I"
+  },
+  {
+   "id": "4467b998-4b41-4b77-b9da-25ed621b778b",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Halve hoek",
+   "source": "HAVO Wiskunde B 2023-I"
+  },
+  {
+   "id": "296df86f-ec64-43c1-9893-aaa7a743095e",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Twee functies",
+   "source": "HAVO Wiskunde B 2023-I"
+  },
+  {
+   "id": "0bdd6cde-b036-4644-9df7-121b1e6ca847",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Tienkamp",
+   "source": "HAVO Wiskunde B 2023-I"
+  },
+  {
+   "id": "257b22d1-c475-4d26-917f-099aa22f3e35",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Cosinusbreuk",
+   "source": "HAVO Wiskunde B 2023-I"
+  }
+ ],
+ "context_blocks": [
+  {
+   "id": "3d24bab4-0889-44b9-a725-30a70b7136a0",
+   "exercise_id": "ae85bcd8-c19f-45a2-b6dc-2e5a9aedd338",
+   "label": "f(x) = 2√(3x − 5)",
+   "image_url": "wiskunde-b-havo-2023-i-parabool-en-grafiek-van-een-wortelfunctie-context1.png",
+   "text_content": "De functie f wordt gegeven door f(x) = 2√(3x − 5).",
+   "block_type": "inline"
+  },
+  {
+   "id": "b6e76b4a-8426-44f6-9cba-0dcbd09c33e5",
+   "exercise_id": "ae85bcd8-c19f-45a2-b6dc-2e5a9aedd338",
+   "label": "g(x) = a(x − p)² + q (parabool); A op grafiek van f met f′(x) = ¾; A is top van g",
+   "image_url": "wiskunde-b-havo-2023-i-parabool-en-grafiek-van-een-wortelfunctie-context2.png",
+   "text_content": "De functie g wordt gegeven door:\ng(x) = a(x − p)² + q\nHierin zijn a, p en q constanten.\nDe grafiek van g is een parabool.\nHet punt A ligt op de grafiek van f en in dit punt A geldt f′(x) = ¾.\nDaarnaast is punt A ook de top van de grafiek van g.",
+   "block_type": "inline"
+  },
+  {
+   "id": "3f3bd807-ba14-4ff7-aa56-6432499dc97f",
+   "exercise_id": "ae85bcd8-c19f-45a2-b6dc-2e5a9aedd338",
+   "label": "B op beide grafieken met x-coördinaat 10; figuur",
+   "image_url": "wiskunde-b-havo-2023-i-parabool-en-grafiek-van-een-wortelfunctie-context3.png",
+   "text_content": "Het punt B ligt op beide grafieken en heeft x-coördinaat 10. Zie de figuur.\nfiguur",
+   "block_type": "inline"
+  },
+  {
+   "id": "f51b8363-0586-423d-ae15-519ba6d8601c",
+   "exercise_id": "4ce0b9fa-34d5-41d1-abdc-9b33b421e832",
+   "label": "cirkel c: (x + 6)² + (y − 1)² = 49 met middelpunt M; lijn l: y = 2x; snijpunten A en B; figuur 1",
+   "image_url": "wiskunde-b-havo-2023-i-twee-cirkels-en-twee-lijnen-context1.png",
+   "text_content": "De cirkel c met middelpunt M is gegeven door (x + 6)² + (y − 1)² = 49.\nOok is gegeven de lijn l met vergelijking y = 2x.\nDe cirkel en de lijn snijden elkaar in de punten A en B. Punt A ligt onder de x-as, punt B ligt boven de x-as. Zie figuur 1.\nfiguur 1",
+   "block_type": "inline"
+  },
+  {
+   "id": "4365e915-4fd3-4a88-a93c-decb671a2c4c",
+   "exercise_id": "4ce0b9fa-34d5-41d1-abdc-9b33b421e832",
+   "label": "m horizontale raaklijn aan onderkant van c; C snijpunt van m en l; N op m op afstand 8 rechts van C; cirkel d met middelpunt N en straal 3; figuur 2",
+   "image_url": "wiskunde-b-havo-2023-i-twee-cirkels-en-twee-lijnen-context2.png",
+   "text_content": "De lijn m is de horizontale raaklijn aan de onderkant van c. Het punt C is het snijpunt van m en l. Het punt N ligt op m op een afstand 8 rechts van C. De cirkel d heeft N als middelpunt en straal 3. Zie figuur 2.\nfiguur 2",
+   "block_type": "inline"
+  },
+  {
+   "id": "b059cc05-2b49-4a37-8945-692810c6bc97",
+   "exercise_id": "c2239f07-19ab-45f3-bbfb-f2ccab736a27",
+   "label": "longvolume V (mL) als functie van de tijd t (s) in rust; figuur 1",
+   "image_url": "wiskunde-b-havo-2023-i-ademhaling-context1.png",
+   "text_content": "In deze opgave bekijken we het longvolume. Dit is de hoeveelheid lucht in de longen van de mens. In figuur 1 is voor een bepaalde persoon in rust weergegeven hoe dit longvolume V afhangt van de tijd. Hierbij is V in mL en t de tijd in seconden.\nfiguur 1",
+   "block_type": "inline"
+  },
+  {
+   "id": "ea0bf0bc-abda-4d60-90c0-32da2b4cdd5e",
+   "exercise_id": "c2239f07-19ab-45f3-bbfb-f2ccab736a27",
+   "label": "formule van de vorm V = p + q · cos(rt)",
+   "image_url": "wiskunde-b-havo-2023-i-ademhaling-context2.png",
+   "text_content": "Deze grafiek is te beschrijven met een formule van de volgende vorm:\nV = p + q · cos(rt)",
+   "block_type": "inline"
+  },
+  {
+   "id": "6f90f23c-76c1-43a5-b049-09e41a1136f3",
+   "exercise_id": "c2239f07-19ab-45f3-bbfb-f2ccab736a27",
+   "label": "bij inspanning sneller ademen en meer lucht per keer",
+   "image_url": "wiskunde-b-havo-2023-i-ademhaling-context3.png",
+   "text_content": "Als een persoon zich inspant, zal hij sneller gaan ademen. Ook ademt hij elke keer méér lucht in dan wanneer hij in rust is.",
+   "block_type": "inline"
+  },
+  {
+   "id": "0759b9b8-d6c5-48b8-8888-2700ce389e9e",
+   "exercise_id": "c2239f07-19ab-45f3-bbfb-f2ccab736a27",
+   "label": "bij inspanning: V = 2500 + 1200 · sin(4,19(t − 0,37)); figuur 2",
+   "image_url": "wiskunde-b-havo-2023-i-ademhaling-context4.png",
+   "text_content": "Voor iemand die zich inspant, geldt:\nV = 2500 + 1200 · sin(4,19(t − 0,37))\nHierin is V het longvolume in mL en t de tijd in seconden.\nIn figuur 2 is een schets van de bijbehorende grafiek te zien.\nfiguur 2",
+   "block_type": "inline"
+  },
+  {
+   "id": "88baef0b-bea4-46c3-aeb2-e465b28b266e",
+   "exercise_id": "c2239f07-19ab-45f3-bbfb-f2ccab736a27",
+   "label": "ingeademde hoeveelheid lucht = verschil tussen maximum en minimum van V; bijna 100 liter per minuut",
+   "image_url": "wiskunde-b-havo-2023-i-ademhaling-context5.png",
+   "text_content": "De hoeveelheid lucht die deze persoon elke keer inademt, is gelijk aan het verschil tussen het maximum en het minimum van V. Gedurende één minuut ademt deze persoon meerdere keren in. In totaal ademt hij dan bijna 100 liter lucht in.",
+   "block_type": "inline"
+  },
+  {
+   "id": "84baa155-0b15-4145-b94e-6579dba95b64",
+   "exercise_id": "c2239f07-19ab-45f3-bbfb-f2ccab736a27",
+   "label": "spirometrietest; foto; grafiek van Benny op de uitwerkbijlage (volume in liters tegen tijd in seconden)",
+   "image_url": "wiskunde-b-havo-2023-i-ademhaling-context6.png",
+   "text_content": "Een test om na te gaan hoe goed iemands longen werken is de zogeheten spirometrietest. De persoon moet tijdens deze test krachtig in een apparaat blazen. Zie de foto.\nfoto\nBenny moet zo’n test ondergaan. Het resultaat is te zien in de grafiek op de uitwerkbijlage. Op de verticale as staat het volume uitgeademde lucht in liters en op de horizontale as de tijd in seconden.",
+   "block_type": "inline"
+  },
+  {
+   "id": "22afc5f0-1bbe-420e-a3f8-5e7d212d6c37",
+   "exercise_id": "c2239f07-19ab-45f3-bbfb-f2ccab736a27",
+   "label": "PEF: maximale snelheid van uitblazen in liters per minuut",
+   "image_url": "wiskunde-b-havo-2023-i-ademhaling-context7.png",
+   "text_content": "Er is een moment waarop de snelheid waarmee de persoon uitblaast, maximaal is. Deze maximale snelheid, in liters per minuut, wordt de PEF (peak expiratory flow) genoemd.",
+   "block_type": "inline"
+  },
+  {
+   "id": "f1620ac7-3172-40ae-b91a-d51ce57f4f11",
+   "exercise_id": "c2239f07-19ab-45f3-bbfb-f2ccab736a27",
+   "label": "uitwerkbijlage vraag 7: grafiek uitgeademd volume (L) tegen tijd (s)",
+   "image_url": "wiskunde-b-havo-2023-i-ademhaling-context8.png",
+   "text_content": "7\n(uitwerkbijlage: grafiek met volume (L) en tijd (s))",
+   "block_type": "uitwerkbijlage"
+  },
+  {
+   "id": "8ede2614-702a-46f2-b816-979716fce7db",
+   "exercise_id": "65e5c0dd-8690-4be6-a7b6-d0544d88db2e",
+   "label": "kunstwerk Transition: gekromde buis, gedeeltelijk ingegraven",
+   "image_url": "wiskunde-b-havo-2023-i-transition-context1.png",
+   "text_content": "Transition is een kunstwerk dat langs de autoweg N34 bij Eext in Drenthe staat. Het is een gekromde buis die gedeeltelijk ingegraven is in de grond. Zie de foto.",
+   "block_type": "inline"
+  },
+  {
+   "id": "86bd8603-a8dc-43d6-af12-afb95b77f49f",
+   "exercise_id": "65e5c0dd-8690-4be6-a7b6-d0544d88db2e",
+   "label": "foto; model: cirkel met middelpunt M en straal r, doorgang boven AB, basis b, C midden van AB, hoogte h = CD, CM = h − r",
+   "image_url": "wiskunde-b-havo-2023-i-transition-context2.png",
+   "text_content": "foto\nIn de figuur is een model weergegeven van een van de uiteindes van de buis: een cirkel met middelpunt M en straal r. Punt D is het hoogste punt van de buis. De doorgang van de buis is het deel van de cirkel boven lijnstuk AB. De basis van de doorgang is lijnstuk AB. De lengte van de basis is b. Punt C is het midden van AB. De afstand tussen C en D is de hoogte h van de doorgang. Lijnstuk CD staat loodrecht op AB. Er geldt dus CM = h − r . De figuur staat ook op de uitwerkbijlage.",
+   "block_type": "inline"
+  },
+  {
+   "id": "dbc697da-d9fc-459d-b141-f37ecbfc06db",
+   "exercise_id": "65e5c0dd-8690-4be6-a7b6-d0544d88db2e",
+   "label": "figuur; formule 1: r = (¼b² + h²) / (2h), h ≥ r",
+   "image_url": "wiskunde-b-havo-2023-i-transition-context3.png",
+   "text_content": "figuur\nEr is een formule waarmee je de straal r kunt berekenen bij de gegeven basis en hoogte, namelijk:\nr = (¼b² + h²) / (2h) (formule 1)\nHierin is r de straal, b de lengte van de basis AB en h de hoogte CD.\nEr geldt h ≥ r.",
+   "block_type": "inline"
+  },
+  {
+   "id": "c2ae0a0d-5234-488e-8a8b-7bf6e877c0f5",
+   "exercise_id": "65e5c0dd-8690-4be6-a7b6-d0544d88db2e",
+   "label": "bewijs met driehoek ACM",
+   "image_url": "wiskunde-b-havo-2023-i-transition-context4.png",
+   "text_content": "Met behulp van driehoek ACM kun je bewijzen dat formule 1 juist is.",
+   "block_type": "inline"
+  },
+  {
+   "id": "afc6f057-e29d-4114-af32-53c5840af9d6",
+   "exercise_id": "65e5c0dd-8690-4be6-a7b6-d0544d88db2e",
+   "label": "r = 1,63 m; formule 2: b = p · √(q · h − h²) met constanten p en q",
+   "image_url": "wiskunde-b-havo-2023-i-transition-context5.png",
+   "text_content": "In het kunstwerk Transition is de straal r gelijk aan 1,63 m.\nVoor het ingraven van de buis was het handig om te weten hoe lang de basis b moest zijn. Deze lengte hangt af van de gewenste hoogte h.\nJe kunt formule 1 herleiden tot een formule waarin b wordt uitgedrukt in h.\nVoor r = 1,63 is formule 1 te schrijven in de volgende vorm:\nb = p · √(q · h − h²) (formule 2)\nHierin zijn p en q constanten.",
+   "block_type": "inline"
+  },
+  {
+   "id": "8af1e15f-009f-42e9-9d88-dc9d9e4bb04b",
+   "exercise_id": "65e5c0dd-8690-4be6-a7b6-d0544d88db2e",
+   "label": "uitwerkbijlage vraag 8: figuur van het model",
+   "image_url": "wiskunde-b-havo-2023-i-transition-context6.png",
+   "text_content": "8\n(uitwerkbijlage: figuur van het model)",
+   "block_type": "uitwerkbijlage"
+  },
+  {
+   "id": "d8f69595-5598-4c17-9ff6-3acd6729e751",
+   "exercise_id": "4467b998-4b41-4b77-b9da-25ed621b778b",
+   "label": "driehoeken ABC en BCQ met AB = 10, BC = 12, BQ = CQ = 7, ∠BAC = α, ∠BQC = 2α; figuur",
+   "image_url": "wiskunde-b-havo-2023-i-halve-hoek-context1.png",
+   "text_content": "Gegeven zijn de driehoeken ABC en BCQ met AB = 10, BC = 12, BQ = CQ = 7 en ∠BAC = α. Bovendien is gegeven ∠BQC = 2α.\nZie de figuur\nfiguur",
+   "block_type": "inline"
+  },
+  {
+   "id": "aec303ad-197a-4581-a0ed-199bcaba4f78",
+   "exercise_id": "296df86f-ec64-43c1-9893-aaa7a743095e",
+   "label": "f(x) = 2 · 2ˣ⁻³ − 4",
+   "image_url": "wiskunde-b-havo-2023-i-twee-functies-context1.png",
+   "text_content": "De functie f wordt gegeven door f(x) = 2 · 2ˣ⁻³ − 4.",
+   "block_type": "inline"
+  },
+  {
+   "id": "1ac60d06-2c41-4904-b52f-402f752c71c3",
+   "exercise_id": "296df86f-ec64-43c1-9893-aaa7a743095e",
+   "label": "grafiek van f ontstaat uit y = 2ˣ met alleen translaties",
+   "image_url": "wiskunde-b-havo-2023-i-twee-functies-context2.png",
+   "text_content": "Het is mogelijk de grafiek van f door middel van transformaties te laten ontstaan uit de grafiek die hoort bij de formule y = 2ˣ. Dit kan op verschillende manieren. Er is een manier die alleen gebruikmaakt van translaties, dus zonder vermenigvuldigingen ten opzichte van x-as of y-as.",
+   "block_type": "inline"
+  },
+  {
+   "id": "ca22eb25-6aa4-4b13-bbc5-bcea008cb2ef",
+   "exercise_id": "296df86f-ec64-43c1-9893-aaa7a743095e",
+   "label": "punt op de grafiek van f met y-coördinaat 10",
+   "image_url": "wiskunde-b-havo-2023-i-twee-functies-context3.png",
+   "text_content": "Op de grafiek van f ligt een punt met y-coördinaat 10.",
+   "block_type": "inline"
+  },
+  {
+   "id": "653ba667-34b3-420a-beb5-0783654d5521",
+   "exercise_id": "296df86f-ec64-43c1-9893-aaa7a743095e",
+   "label": "g(x) = −2ˣ⁻³ + 2; S snijpunt van de grafieken van f en g",
+   "image_url": "wiskunde-b-havo-2023-i-twee-functies-context4.png",
+   "text_content": "De functie g wordt gegeven door g(x) = −2ˣ⁻³ + 2.\nHet punt S is het snijpunt van de grafieken van f en g.",
+   "block_type": "inline"
+  },
+  {
+   "id": "03d6b971-2fd8-4787-abd4-a3c3de348fe4",
+   "exercise_id": "0bdd6cde-b036-4644-9df7-121b1e6ca847",
+   "label": "tienkamp: hoogspringen en 1500 m hardlopen; foto",
+   "image_url": "wiskunde-b-havo-2023-i-tienkamp-context1.png",
+   "text_content": "De tienkamp is een sportwedstrijd waarbij atleten gedurende twee dagen tien atletiekonderdelen moeten afleggen. Twee onderdelen van de tienkamp zijn hoogspringen en 1500 m hardlopen.",
+   "block_type": "inline"
+  },
+  {
+   "id": "28c37893-9569-4b57-b4d7-d9936c483db7",
+   "exercise_id": "0bdd6cde-b036-4644-9df7-121b1e6ca847",
+   "label": "resultaten worden met formules omgezet in punten en opgeteld",
+   "image_url": "wiskunde-b-havo-2023-i-tienkamp-context2.png",
+   "text_content": "Met formules worden de resultaten van de onderdelen omgezet in punten. Vervolgens worden alle punten die de atleet op de onderdelen heeft behaald, opgeteld. De atleet met de meeste punten wint de tienkamp.",
+   "block_type": "inline"
+  },
+  {
+   "id": "92c66c06-ecce-40ad-8da7-767f86985382",
+   "exercise_id": "0bdd6cde-b036-4644-9df7-121b1e6ca847",
+   "label": "hoogspringen: 0 punten bij 75 cm of lager; 220 cm geeft 1000 punten",
+   "image_url": "wiskunde-b-havo-2023-i-tienkamp-context3.png",
+   "text_content": "Per onderdeel is ooit bepaald wat de ondergrens is om punten te scoren. Bij het hoogspringen was die ondergrens een hoogte van 75 cm. Daarom krijgt de atleet 0 punten als hij 75 cm of lager springt. Bij sprongen met een hoogte boven 75 cm behaalt de atleet wél punten. Bij een sprong met een hoogte van 220 cm krijgt hij 1000 punten.",
+   "block_type": "inline"
+  },
+  {
+   "id": "5220f22d-f8b4-447d-9e34-e145de1feeeb",
+   "exercise_id": "0bdd6cde-b036-4644-9df7-121b1e6ca847",
+   "label": "tot 1920 lineaire formule P = a · (H − b), H ≥ 75",
+   "image_url": "wiskunde-b-havo-2023-i-tienkamp-context4.png",
+   "text_content": "Bij het hoogspringen gebruikte men tot het jaar 1920 voor sprongen vanaf 75 cm een lineaire formule van de volgende vorm:\nP = a · (H − b)\nHierin is P het aantal punten en H de gesprongen hoogte in centimeters (H ≥ 75) en zijn a en b constanten.",
+   "block_type": "inline"
+  },
+  {
+   "id": "3f9891dc-0bb7-4319-9f3d-19d153dc8eed",
+   "exercise_id": "0bdd6cde-b036-4644-9df7-121b1e6ca847",
+   "label": "lineaire formule niet eerlijk; nieuwe formule moet bij hogere sprongen meer extra punten per cm geven",
+   "image_url": "wiskunde-b-havo-2023-i-tienkamp-context5.png",
+   "text_content": "Een lineaire formule werd niet eerlijk gevonden, omdat bijvoorbeeld een verbetering van 75 cm naar 76 cm makkelijker te behalen is dan een verbetering van 160 cm naar 161 cm, terwijl dat toch evenveel extra punten oplevert. Daarom wilde men een andere formule, waarbij een verbetering van bijvoorbeeld 1 cm, méér extra punten oplevert naarmate er hoger wordt gesprongen.",
+   "block_type": "inline"
+  },
+  {
+   "id": "a8d48288-5e06-4658-9e26-fc6587148852",
+   "exercise_id": "0bdd6cde-b036-4644-9df7-121b1e6ca847",
+   "label": "huidige formule hoogspringen: P = 0,8465 · (H − 75)^1,42, H ≥ 75",
+   "image_url": "wiskunde-b-havo-2023-i-tienkamp-context6.png",
+   "text_content": "De formule die tegenwoordig voor het hoogspringen gehanteerd wordt, is\nP = 0,8465 · (H − 75)^1,42\nHierin is P weer het aantal punten en H de gesprongen hoogte in centimeters (H ≥ 75).",
+   "block_type": "inline"
+  },
+  {
+   "id": "21345f04-ebdf-41e6-bbca-d100648a7321",
+   "exercise_id": "0bdd6cde-b036-4644-9df7-121b1e6ca847",
+   "label": "extra punten per cm hoger springen worden steeds groter",
+   "image_url": "wiskunde-b-havo-2023-i-tienkamp-context7.png",
+   "text_content": "Het aantal punten dat je extra verdient door 1 cm hoger te springen, wordt steeds groter.",
+   "block_type": "inline"
+  },
+  {
+   "id": "6406d919-2a56-44e8-a074-f51622fd37a5",
+   "exercise_id": "0bdd6cde-b036-4644-9df7-121b1e6ca847",
+   "label": "punten worden naar beneden afgerond op een geheel getal",
+   "image_url": "wiskunde-b-havo-2023-i-tienkamp-context8.png",
+   "text_content": "De punten die bij de tienkamp-onderdelen worden behaald, worden eerst met de bijbehorende formule berekend en daarna naar beneden afgerond op een geheel getal. Dus als de uitkomst van de formule bijvoorbeeld 982,73 is, dan krijgt de atleet 982 punten.",
+   "block_type": "inline"
+  },
+  {
+   "id": "d1aff9c4-1283-460c-a4cd-e99668c3669b",
+   "exercise_id": "0bdd6cde-b036-4644-9df7-121b1e6ca847",
+   "label": "1500 m hardlopen: Q = 0,03768 · (480 − t)^1,85, t in seconden (honderdsten nauwkeurig)",
+   "image_url": "wiskunde-b-havo-2023-i-tienkamp-context9.png",
+   "text_content": "Bij het onderdeel 1500 m hardlopen wordt de volgende formule gebruikt:\nQ = 0,03768 · (480 − t)^1,85\nHierin is Q het aantal punten en t de gelopen tijd in seconden. Deze tijd wordt altijd gemeten in honderdsten van seconden nauwkeurig.",
+   "block_type": "inline"
+  },
+  {
+   "id": "7de0e86b-1b74-4b82-a63d-fec55b4c50e1",
+   "exercise_id": "0bdd6cde-b036-4644-9df7-121b1e6ca847",
+   "label": "beste hoogsprong tot 1 juli 2019: 228 cm",
+   "image_url": "wiskunde-b-havo-2023-i-tienkamp-context10.png",
+   "text_content": "Op 1 juli 2019 was tot dan toe de beste prestatie bij het onderdeel hoogspringen een sprong met hoogte 228 cm. Er worden verschillende tijden gelopen op de 1500 m hardlopen waarmee je méér punten behaalt dan met een sprong van 228 cm hoog.",
+   "block_type": "inline"
+  },
+  {
+   "id": "dfc7b627-a47c-4c00-be43-03356541d134",
+   "exercise_id": "257b22d1-c475-4d26-917f-099aa22f3e35",
+   "label": "f(x) = 1 / (4cos(2(x − ⅓π))) voor 0 ≤ x ≤ π",
+   "image_url": "wiskunde-b-havo-2023-i-cosinusbreuk-context1.png",
+   "text_content": "Voor 0 ≤ x ≤ π wordt de functie f gegeven door:\nf(x) = 1 / (4cos(2(x − ⅓π)))",
+   "block_type": "inline"
+  },
+  {
+   "id": "581c4a98-ba08-40f4-823d-41d1557f8ef9",
+   "exercise_id": "257b22d1-c475-4d26-917f-099aa22f3e35",
+   "label": "figuur 1: grafiek van f met twee verticale asymptoten",
+   "image_url": "wiskunde-b-havo-2023-i-cosinusbreuk-context2.png",
+   "text_content": "In figuur 1 is de grafiek van f weergegeven.\nfiguur 1\nDe grafiek van f heeft twee verticale asymptoten.",
+   "block_type": "inline"
+  },
+  {
+   "id": "599888cf-b83c-4326-a405-dc964a12ac45",
+   "exercise_id": "257b22d1-c475-4d26-917f-099aa22f3e35",
+   "label": "twee punten met y-coördinaat ⅔, P de rechter; l raaklijn in P; figuur 2",
+   "image_url": "wiskunde-b-havo-2023-i-cosinusbreuk-context3.png",
+   "text_content": "Op de grafiek van f liggen twee punten met y-coördinaat ⅔. Het rechter punt is P. Lijn l is de raaklijn aan de grafiek van f in P. Zie figuur 2.\nDe richtingscoëfficiënt van l kan met de grafische rekenmachine worden benaderd.\nfiguur 2",
+   "block_type": "inline"
+  }
+ ],
+ "questions": [
+  {
+   "id": "d56a966e-e9cf-49dd-a3c0-da8d0682c32e",
+   "exercise_id": "ae85bcd8-c19f-45a2-b6dc-2e5a9aedd338",
+   "question_number": 1,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    }
+   ],
+   "keywords": [
+    "domein",
+    "wortelfunctie",
+    "ongelijkheid",
+    "exact berekenen"
+   ],
+   "question_summary": "Het domein van een wortelfunctie exact bepalen door een ongelijkheid op te lossen.",
+   "question_image_url": "wiskunde-b-havo-2023-i-parabool-en-grafiek-van-een-wortelfunctie-vraag1.png",
+   "question_text": "3p 1 Bereken op exacte wijze het domein van f.",
+   "context_block_ids": [
+    "3d24bab4-0889-44b9-a725-30a70b7136a0"
+   ]
+  },
+  {
+   "id": "2c42a23c-2f79-4227-af2f-774a24591afb",
+   "exercise_id": "ae85bcd8-c19f-45a2-b6dc-2e5a9aedd338",
+   "question_number": 2,
+   "topics": [
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Bepaling afgeleide functies"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    }
+   ],
+   "keywords": [
+    "kettingregel",
+    "afgeleide",
+    "wortelfunctie",
+    "top van een parabool",
+    "parameters bepalen",
+    "exact berekenen"
+   ],
+   "question_summary": "Met de afgeleide van een wortelfunctie een punt bepalen en daarmee de parameters van een parabool in topvorm exact berekenen.",
+   "question_image_url": "wiskunde-b-havo-2023-i-parabool-en-grafiek-van-een-wortelfunctie-vraag2.png",
+   "question_text": "8p 2 Bereken exact de waarden van a, p en q.",
+   "context_block_ids": [
+    "3d24bab4-0889-44b9-a725-30a70b7136a0",
+    "b6e76b4a-8426-44f6-9cba-0dcbd09c33e5",
+    "3f3bd807-ba14-4ff7-aa56-6432499dc97f"
+   ]
+  },
+  {
+   "id": "1e1c6b93-f9da-4b61-9af7-d0df344bbb27",
+   "exercise_id": "4ce0b9fa-34d5-41d1-abdc-9b33b421e832",
+   "question_number": 3,
+   "topics": [
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Algebraïsche methoden"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    }
+   ],
+   "keywords": [
+    "snijpunt cirkel en lijn",
+    "cirkelvergelijking",
+    "kwadratische vergelijking",
+    "abc-formule",
+    "afronden"
+   ],
+   "question_summary": "Algebraïsch de snijpunten van een cirkel en een lijn berekenen.",
+   "question_image_url": "wiskunde-b-havo-2023-i-twee-cirkels-en-twee-lijnen-vraag3.png",
+   "question_text": "4p 3 Bereken algebraïsch de x-coördinaat van B. Geef je eindantwoord in twee decimalen.",
+   "context_block_ids": [
+    "f51b8363-0586-423d-ae15-519ba6d8601c"
+   ]
+  },
+  {
+   "id": "8d3f90b7-456f-4834-9afa-53fc7127f9e8",
+   "exercise_id": "4ce0b9fa-34d5-41d1-abdc-9b33b421e832",
+   "question_number": 4,
+   "topics": [
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Algebraïsche methoden"
+    }
+   ],
+   "keywords": [
+    "afstand tussen cirkels",
+    "middelpunt en straal",
+    "afstand tussen punten",
+    "raaklijn aan cirkel",
+    "exact berekenen"
+   ],
+   "question_summary": "De afstand tussen twee cirkels exact berekenen via de afstand tussen hun middelpunten en de stralen.",
+   "question_image_url": "wiskunde-b-havo-2023-i-twee-cirkels-en-twee-lijnen-vraag4.png",
+   "question_text": "6p 4 Bereken exact de afstand tussen de twee cirkels.",
+   "context_block_ids": [
+    "f51b8363-0586-423d-ae15-519ba6d8601c",
+    "4365e915-4fd3-4a88-a93c-decb671a2c4c"
+   ]
+  },
+  {
+   "id": "ccd7ace9-260f-4a99-8b46-21c52b490f97",
+   "exercise_id": "c2239f07-19ab-45f3-bbfb-f2ccab736a27",
+   "question_number": 5,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Periodieke functies"
+    }
+   ],
+   "keywords": [
+    "sinusoïde",
+    "evenwichtsstand",
+    "amplitude",
+    "periode",
+    "grafiek aflezen",
+    "cosinusfunctie"
+   ],
+   "question_summary": "Uit een grafiek de evenwichtsstand, amplitude en periode aflezen en de parameters van een cosinusformule bepalen.",
+   "question_image_url": "wiskunde-b-havo-2023-i-ademhaling-vraag5.png",
+   "question_text": "4p 5 Bereken de waarden van p, q en r. Geef niet-gehele waarden in je eindantwoord in twee decimalen.",
+   "context_block_ids": [
+    "b059cc05-2b49-4a37-8945-692810c6bc97",
+    "ea0bf0bc-abda-4d60-90c0-32da2b4cdd5e"
+   ]
+  },
+  {
+   "id": "e7c67dc8-14bd-478b-93f7-fb6c8dbffa46",
+   "exercise_id": "c2239f07-19ab-45f3-bbfb-f2ccab736a27",
+   "question_number": 6,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Periodieke functies"
+    }
+   ],
+   "keywords": [
+    "sinusoïde",
+    "amplitude",
+    "periode",
+    "maximum en minimum",
+    "afronden"
+   ],
+   "question_summary": "Met de amplitude en de periode van een sinusformule een totale hoeveelheid per minuut berekenen.",
+   "question_image_url": "wiskunde-b-havo-2023-i-ademhaling-vraag6.png",
+   "question_text": "4p 6 Bereken hoeveel liter lucht deze persoon per minuut inademt. Geef je eindantwoord als geheel getal.",
+   "context_block_ids": [
+    "6f90f23c-76c1-43a5-b049-09e41a1136f3",
+    "0759b9b8-d6c5-48b8-8888-2700ce389e9e",
+    "88baef0b-bea4-46c3-aeb2-e465b28b266e"
+   ]
+  },
+  {
+   "id": "b3208952-1a1f-4000-b105-4a45e7613531",
+   "exercise_id": "c2239f07-19ab-45f3-bbfb-f2ccab736a27",
+   "question_number": 7,
+   "topics": [
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Afgeleide functies"
+    },
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Veranderingen"
+    }
+   ],
+   "keywords": [
+    "raaklijn",
+    "helling",
+    "steilheid",
+    "grafiek aflezen",
+    "eenheden omrekenen"
+   ],
+   "question_summary": "Met een raaklijn aan een grafiek de maximale helling grafisch bepalen en omrekenen naar een andere eenheid.",
+   "question_image_url": "wiskunde-b-havo-2023-i-ademhaling-vraag7.png",
+   "question_text": "4p 7 Bepaal met behulp van de figuur op de uitwerkbijlage de PEF van Benny in liters per minuut. Geef je eindantwoord als geheel getal.",
+   "context_block_ids": [
+    "84baa155-0b15-4145-b94e-6579dba95b64",
+    "22afc5f0-1bbe-420e-a3f8-5e7d212d6c37",
+    "f1620ac7-3172-40ae-b91a-d51ce57f4f11"
+   ]
+  },
+  {
+   "id": "588a3572-4afb-49e1-b9f9-3c8b92361987",
+   "exercise_id": "65e5c0dd-8690-4be6-a7b6-d0544d88db2e",
+   "question_number": 8,
+   "topics": [
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Afstanden en hoeken in concrete situaties"
+    },
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Algebraïsche methoden"
+    }
+   ],
+   "keywords": [
+    "stelling van Pythagoras",
+    "rechthoekige driehoek",
+    "formule herleiden",
+    "bewijzen"
+   ],
+   "question_summary": "Met de stelling van Pythagoras in een rechthoekige driehoek een formule voor de straal van een cirkel bewijzen.",
+   "question_image_url": "wiskunde-b-havo-2023-i-transition-vraag8.png",
+   "question_text": "4p 8 Bewijs dat formule 1 juist is. Je kunt hierbij de figuur op de uitwerkbijlage gebruiken.",
+   "context_block_ids": [
+    "8ede2614-702a-46f2-b816-979716fce7db",
+    "86bd8603-a8dc-43d6-af12-afb95b77f49f",
+    "dbc697da-d9fc-459d-b141-f37ecbfc06db",
+    "c2ae0a0d-5234-488e-8a8b-7bf6e877c0f5",
+    "8af1e15f-009f-42e9-9d88-dc9d9e4bb04b"
+   ]
+  },
+  {
+   "id": "5fb399ac-80f7-454e-b4dc-84562ff6af3f",
+   "exercise_id": "65e5c0dd-8690-4be6-a7b6-d0544d88db2e",
+   "question_number": 9,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    }
+   ],
+   "keywords": [
+    "formule herleiden",
+    "variabele vrijmaken",
+    "wortel",
+    "kwadraat"
+   ],
+   "question_summary": "Een formule herleiden zodat een variabele wordt uitgedrukt in een andere en in een gegeven vorm staat.",
+   "question_image_url": "wiskunde-b-havo-2023-i-transition-vraag9.png",
+   "question_text": "3p 9 Herleid formule 1 tot de vorm van formule 2.",
+   "context_block_ids": [
+    "dbc697da-d9fc-459d-b141-f37ecbfc06db",
+    "afc6f057-e29d-4114-af32-53c5840af9d6"
+   ]
+  },
+  {
+   "id": "4afbd2b6-63f1-4d75-afb7-5cc561679c00",
+   "exercise_id": "4467b998-4b41-4b77-b9da-25ed621b778b",
+   "question_number": 10,
+   "topics": [
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Afstanden en hoeken in concrete situaties"
+    }
+   ],
+   "keywords": [
+    "cosinusregel",
+    "hoek berekenen",
+    "zijde berekenen",
+    "kwadratische vergelijking",
+    "afronden"
+   ],
+   "question_summary": "Met de cosinusregel eerst een hoek en daarna een zijde van een driehoek berekenen.",
+   "question_image_url": "wiskunde-b-havo-2023-i-halve-hoek-vraag10.png",
+   "question_text": "6p 10 Bereken AC. Geef je eindantwoord in twee decimalen.",
+   "context_block_ids": [
+    "d8f69595-5598-4c17-9ff6-3acd6729e751"
+   ]
+  },
+  {
+   "id": "490d4a52-bf0e-4db9-b0fe-75be6e7de220",
+   "exercise_id": "296df86f-ec64-43c1-9893-aaa7a743095e",
+   "question_number": 11,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    }
+   ],
+   "keywords": [
+    "translatie",
+    "transformaties",
+    "exponentiële functie",
+    "rekenregels machten",
+    "bewijzen"
+   ],
+   "question_summary": "Met de rekenregels voor machten aantonen dat een exponentiële grafiek alleen door translaties uit y = 2ˣ ontstaat.",
+   "question_image_url": "wiskunde-b-havo-2023-i-twee-functies-vraag11.png",
+   "question_text": "3p 11 Bewijs dat er zo’n manier is. In je antwoord moeten de translaties worden genoemd.",
+   "context_block_ids": [
+    "aec303ad-197a-4581-a0ed-199bcaba4f78",
+    "1ac60d06-2c41-4904-b52f-402f752c71c3"
+   ]
+  },
+  {
+   "id": "86108d6c-ac2d-49fc-bf85-b1805c302ed4",
+   "exercise_id": "296df86f-ec64-43c1-9893-aaa7a743095e",
+   "question_number": 12,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    }
+   ],
+   "keywords": [
+    "exponentiële vergelijking",
+    "logaritme",
+    "rekenregels machten",
+    "exact berekenen"
+   ],
+   "question_summary": "Een exponentiële vergelijking exact oplossen.",
+   "question_image_url": "wiskunde-b-havo-2023-i-twee-functies-vraag12.png",
+   "question_text": "4p 12 Bereken exact de x-coördinaat van dit punt.",
+   "context_block_ids": [
+    "aec303ad-197a-4581-a0ed-199bcaba4f78",
+    "ca22eb25-6aa4-4b13-bbc5-bcea008cb2ef"
+   ]
+  },
+  {
+   "id": "248162fb-ab4c-412f-9a2d-b61032f7705d",
+   "exercise_id": "296df86f-ec64-43c1-9893-aaa7a743095e",
+   "question_number": 13,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    }
+   ],
+   "keywords": [
+    "snijpunt van grafieken",
+    "exponentiële vergelijking",
+    "exact berekenen",
+    "coördinaten"
+   ],
+   "question_summary": "Exact het snijpunt van twee exponentiële grafieken berekenen.",
+   "question_image_url": "wiskunde-b-havo-2023-i-twee-functies-vraag13.png",
+   "question_text": "4p 13 Bereken exact de coördinaten van S.",
+   "context_block_ids": [
+    "aec303ad-197a-4581-a0ed-199bcaba4f78",
+    "653ba667-34b3-420a-beb5-0783654d5521"
+   ]
+  },
+  {
+   "id": "02de5c9a-226c-4a12-a8eb-5c780e26937d",
+   "exercise_id": "0bdd6cde-b036-4644-9df7-121b1e6ca847",
+   "question_number": 14,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    }
+   ],
+   "keywords": [
+    "lineaire formule",
+    "stelsel vergelijkingen",
+    "parameters bepalen",
+    "afronden"
+   ],
+   "question_summary": "De parameters van een lineaire formule berekenen uit twee gegeven punten.",
+   "question_image_url": "wiskunde-b-havo-2023-i-tienkamp-vraag14.png",
+   "question_text": "4p 14 Bereken de waarden van a en b. Geef niet-gehele waarden in je eindantwoord in één decimaal.",
+   "context_block_ids": [
+    "03d6b971-2fd8-4787-abd4-a3c3de348fe4",
+    "28c37893-9569-4b57-b4d7-d9936c483db7",
+    "92c66c06-ecce-40ad-8da7-767f86985382",
+    "5220f22d-f8b4-447d-9e34-e145de1feeeb"
+   ]
+  },
+  {
+   "id": "0c025697-8cf3-4f59-8e8d-c77d8a91b24f",
+   "exercise_id": "0bdd6cde-b036-4644-9df7-121b1e6ca847",
+   "question_number": 15,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    },
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Veranderingen"
+    }
+   ],
+   "keywords": [
+    "machtsfunctie",
+    "exponent groter dan 1",
+    "toenemend stijgend",
+    "redeneren"
+   ],
+   "question_summary": "Met de exponent van een machtsfunctie beredeneren dat de functie toenemend stijgend is.",
+   "question_image_url": "wiskunde-b-havo-2023-i-tienkamp-vraag15.png",
+   "question_text": "2p 15 Leg dit uit met behulp van de formule, zonder getallen in te vullen of een schets/tekening te maken.",
+   "context_block_ids": [
+    "3f9891dc-0bb7-4319-9f3d-19d153dc8eed",
+    "a8d48288-5e06-4658-9e26-fc6587148852",
+    "21345f04-ebdf-41e6-bbca-d100648a7321"
+   ]
+  },
+  {
+   "id": "ea828703-beb5-4f93-9f68-566c032ff420",
+   "exercise_id": "0bdd6cde-b036-4644-9df7-121b1e6ca847",
+   "question_number": 16,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    }
+   ],
+   "keywords": [
+    "machtsfunctie",
+    "ongelijkheid",
+    "vergelijking oplossen",
+    "afronden",
+    "eenheden omrekenen"
+   ],
+   "question_summary": "Met twee machtsformules een ongelijkheid opstellen en oplossen en het antwoord in minuten en seconden geven.",
+   "question_image_url": "wiskunde-b-havo-2023-i-tienkamp-vraag16.png",
+   "question_text": "5p 16 Bereken de langzaamste tijd waarmee je méér punten behaalt dan met een sprong van 228 cm hoog. Geef je eindantwoord in minuten en seconden, met het aantal seconden in twee decimalen.",
+   "context_block_ids": [
+    "a8d48288-5e06-4658-9e26-fc6587148852",
+    "6406d919-2a56-44e8-a074-f51622fd37a5",
+    "d1aff9c4-1283-460c-a4cd-e99668c3669b",
+    "7de0e86b-1b74-4b82-a63d-fec55b4c50e1"
+   ]
+  },
+  {
+   "id": "105312ca-4ee6-4151-aaf7-7678d03db4e6",
+   "exercise_id": "257b22d1-c475-4d26-917f-099aa22f3e35",
+   "question_number": 17,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Periodieke functies"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    }
+   ],
+   "keywords": [
+    "verticale asymptoot",
+    "goniometrische vergelijking",
+    "cosinus gelijk aan nul",
+    "exact berekenen"
+   ],
+   "question_summary": "Verticale asymptoten van een gebroken goniometrische functie exact bepalen door een goniometrische vergelijking op te lossen.",
+   "question_image_url": "wiskunde-b-havo-2023-i-cosinusbreuk-vraag17.png",
+   "question_text": "4p 17 Stel op exacte wijze voor beide asymptoten een vergelijking op.",
+   "context_block_ids": [
+    "dfc7b627-a47c-4c00-be43-03356541d134",
+    "581c4a98-ba08-40f4-823d-41d1557f8ef9"
+   ]
+  },
+  {
+   "id": "a69b9c44-2d1c-4624-8165-1f099a625095",
+   "exercise_id": "257b22d1-c475-4d26-917f-099aa22f3e35",
+   "question_number": 18,
+   "topics": [
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Afgeleide functies"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    }
+   ],
+   "keywords": [
+    "richtingscoëfficiënt",
+    "raaklijn",
+    "differentiaalquotiënt",
+    "grafische rekenmachine",
+    "afronden"
+   ],
+   "question_summary": "Een punt met een gegeven functiewaarde bepalen en daar de richtingscoëfficiënt van de raaklijn numeriek benaderen.",
+   "question_image_url": "wiskunde-b-havo-2023-i-cosinusbreuk-vraag18.png",
+   "question_text": "3p 18 Bereken de richtingscoëfficiënt van l. Geef je eindantwoord in één decimaal.",
+   "context_block_ids": [
+    "dfc7b627-a47c-4c00-be43-03356541d134",
+    "599888cf-b83c-4326-a405-dc964a12ac45"
+   ]
+  }
+ ]
+}
