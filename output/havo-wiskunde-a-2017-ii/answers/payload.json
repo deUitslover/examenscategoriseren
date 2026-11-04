@@ -1,0 +1,561 @@
+{
+ "subject_name": "Wiskunde A",
+ "level": "HAVO",
+ "source": "HAVO Wiskunde A 2017-II",
+ "answers": [
+  {
+   "title": "Personenauto’s in Nederland",
+   "question_number": 1,
+   "answer_text": "• De aantallen aflezen: in 2000 6,3 (miljoen) en in 2011 7,7 (miljoen)\n• (7,7 − 6,3)/6,3 · 100(%)\n• Het antwoord: 22(%) (of nauwkeuriger)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De aantallen aflezen: in 2000 6,3 (miljoen) en in 2011 7,7 (miljoen)"
+    },
+    {
+     "points": 1,
+     "description": "(7,7 − 6,3)/6,3 · 100(%)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 22(%) (of nauwkeuriger)"
+    }
+   ],
+   "grading_note": "− Bij het aflezen is een marge van 0,05 (miljoen) toegestaan.\n− Als van de juiste grafiek, maar van de verkeerde as is afgelezen, voor deze vraag maximaal 1 scorepunt toekennen.\n− Als van de juiste as, maar van de verkeerde grafiek is afgelezen, voor deze vraag maximaal 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-personenautos-in-nederland-antw1.png"
+   ]
+  },
+  {
+   "title": "Personenauto’s in Nederland",
+   "question_number": 2,
+   "answer_text": "• Aflezen: in 2000: 400 en in 2011: 460\n• De toename per jaar is 60/11\n• Dit geeft 460 + 60/11 × 9\n• Het antwoord: 509 (auto's per 1000 inwoners) (of nauwkeuriger)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Aflezen: in 2000: 400 en in 2011: 460"
+    },
+    {
+     "points": 1,
+     "description": "De toename per jaar is 60/11"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft 460 + 60/11 × 9"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 509 (auto's per 1000 inwoners) (of nauwkeuriger)"
+    }
+   ],
+   "grading_note": "− Bij het aflezen is een marge van 5 toegestaan.\n− Als zowel bij deze als bij de vorige vraag van de verkeerde as of van de verkeerde grafiek is afgelezen, hiervoor bij deze vraag geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-personenautos-in-nederland-antw2.png"
+   ]
+  },
+  {
+   "title": "Personenauto’s in Nederland",
+   "question_number": 3,
+   "answer_text": "• De groeifactor per jaar is 2600/2100\n• Het aantal in 2018 is 2100 · (2600/2100)⁷\n• Het antwoord: 9400 (gedeelde auto's)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De groeifactor per jaar is 2600/2100"
+    },
+    {
+     "points": 1,
+     "description": "Het aantal in 2018 is 2100 · (2600/2100)⁷"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 9400 (gedeelde auto's)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-personenautos-in-nederland-antw3.png"
+   ]
+  },
+  {
+   "title": "Personenauto’s in Nederland",
+   "question_number": 4,
+   "answer_text": "• Aantal inwoners 1990: 5118429/0,344 (≈ 14879200)\n• Aantal inwoners 2010: 7622353/0,460 (≈ 16570300)\n• Het antwoord: 1691000 (inwoners)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Aantal inwoners 1990: 5118429/0,344 (≈ 14879200)"
+    },
+    {
+     "points": 1,
+     "description": "Aantal inwoners 2010: 7622353/0,460 (≈ 16570300)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 1691000 (inwoners)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-personenautos-in-nederland-antw4.png"
+   ]
+  },
+  {
+   "title": "Lichaamsoppervlakte",
+   "question_number": 5,
+   "answer_text": "• Aflezen: bij L = 180 en M = 65 is S = 1,83 (m²)\n• Aflezen: bij L = 180 en M = 85 is S = 2,04 (m²)\n• Het antwoord: 0,2 (m²) (of nauwkeuriger)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Aflezen: bij L = 180 en M = 65 is S = 1,83 (m²)"
+    },
+    {
+     "points": 1,
+     "description": "Aflezen: bij L = 180 en M = 85 is S = 2,04 (m²)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 0,2 (m²) (of nauwkeuriger)"
+    }
+   ],
+   "grading_note": "Bij het aflezen van S is een marge van 0,02 toegestaan.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-lichaamsoppervlakte-antw5.png"
+   ]
+  },
+  {
+   "title": "Lichaamsoppervlakte",
+   "question_number": 6,
+   "answer_text": "• Het juist tekenen van (minstens) 5 afgelezen punten (M, S)\n• Het tekenen van een vloeiende kromme door de getekende punten",
+   "scoring_steps": [
+    {
+     "points": 3,
+     "description": "Het juist tekenen van (minstens) 5 afgelezen punten (M, S)"
+    },
+    {
+     "points": 1,
+     "description": "Het tekenen van een vloeiende kromme door de getekende punten"
+    }
+   ],
+   "grading_note": "− Bij het aflezen van M en S zijn marges van 1 respectievelijk 0,02 toegestaan.\n− Voor elk ontbrekend of foutief punt 1 scorepunt in mindering brengen tot een maximum van 3 scorepunten.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-lichaamsoppervlakte-antw6.png"
+   ]
+  },
+  {
+   "title": "Lichaamsoppervlakte",
+   "question_number": 7,
+   "answer_text": "Een voorbeeld van een juiste uitleg:\n• Stijgend: op de lijn L = 180 van de figuur stijgen de waarden van S als M toeneemt\n• Stijging is afnemend: in de figuur liggen de snijpunten van de getekende grafieken met de lijn L = 180 voor grotere waarden van M steeds verder uit elkaar",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Stijgend: op de lijn L = 180 van de figuur stijgen de waarden van S als M toeneemt"
+    },
+    {
+     "points": 2,
+     "description": "Stijging is afnemend: in de figuur liggen de snijpunten van de getekende grafieken met de lijn L = 180 voor grotere waarden van M steeds verder uit elkaar"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-lichaamsoppervlakte-antw7.png"
+   ]
+  },
+  {
+   "title": "Lichaamsoppervlakte",
+   "question_number": 8,
+   "answer_text": "• Voor vrouwen geldt gemiddeld S (= 0,007184 · 167,5^(0,725) · 70^(0,425)) = 1,79\n• Voor mannen geldt gemiddeld S (= 0,007184 · 180,9^(0,725) · 84^(0,425)) = 2,0461\n• 2,046/1,79 ≈ 1,14\n• Het antwoord: 14(%) (of nauwkeuriger)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor vrouwen geldt gemiddeld S (= 0,007184 · 167,5^(0,725) · 70^(0,425)) = 1,79"
+    },
+    {
+     "points": 1,
+     "description": "Voor mannen geldt gemiddeld S (= 0,007184 · 180,9^(0,725) · 84^(0,425)) = 2,0461"
+    },
+    {
+     "points": 1,
+     "description": "2,046/1,79 ≈ 1,14"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 14(%) (of nauwkeuriger)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-lichaamsoppervlakte-antw8.png"
+   ]
+  },
+  {
+   "title": "Lichaamsoppervlakte",
+   "question_number": 9,
+   "answer_text": "• Het gewicht 89 kg moet gebruikt worden om de minimale lengte te berekenen\n• De vergelijking 1,9 = 0,007184 · L^(0,725) · 89^(0,425) moet worden opgelost\n• Beschrijven hoe deze vergelijking wordt opgelost\n• Het antwoord: 158 (cm)\n\nof\n\n• De vergelijkingen 1,9 = 0,007184 · L^(0,725) · 72^(0,425) en 1,9 = 0,007184 · L^(0,725) · 89^(0,425) moeten worden opgelost\n• Beschrijven hoe deze vergelijkingen worden opgelost\n• De eerste vergelijking geeft 179 (of nauwkeuriger), de tweede 158 (of nauwkeuriger)\n• Het antwoord: 158 (cm)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het gewicht 89 kg moet gebruikt worden om de minimale lengte te berekenen"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking 1,9 = 0,007184 · L^(0,725) · 89^(0,425) moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking wordt opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 158 (cm)"
+    }
+   ],
+   "grading_note": "Als uitsluitend de vergelijking met L = 72 wordt beschouwd, voor deze vraag maximaal 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-lichaamsoppervlakte-antw9.png"
+   ]
+  },
+  {
+   "title": "Lichaamsoppervlakte",
+   "question_number": 10,
+   "answer_text": "• S = 0,007184 · (100 · l)^(0,725) · M^(0,425)\n• S = 0,007184 · 100^(0,725) · l^(0,725) · M^(0,425)\n• S = 0,202 · l^(0,725) · M^(0,425) (dus a = 0,202 en b = 0,725)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "S = 0,007184 · (100 · l)^(0,725) · M^(0,425)"
+    },
+    {
+     "points": 1,
+     "description": "S = 0,007184 · 100^(0,725) · l^(0,725) · M^(0,425)"
+    },
+    {
+     "points": 1,
+     "description": "S = 0,202 · l^(0,725) · M^(0,425) (dus a = 0,202 en b = 0,725)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-lichaamsoppervlakte-antw10.png"
+   ]
+  },
+  {
+   "title": "Uitvaltijd",
+   "question_number": 11,
+   "answer_text": "• Er zijn 16 diensten\n• Zonder rekening te houden met de kortere A-diensten: 16 · 8 = 128 (uur)\n• Het antwoord: 128 − 3 − 1 = 124 (uur)\n\nof\n\n• Zonder rekening te houden met de kortere A-dienst op maandag: op maandag tot en met vrijdag 5 · 24 = 120 (uur)\n• Zonder rekening te houden met de kortere A-dienst op zaterdag: in totaal 120 + 8 = 128 (uur)\n• Het antwoord: 128 − 3 − 1 = 124 (uur)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er zijn 16 diensten"
+    },
+    {
+     "points": 1,
+     "description": "Zonder rekening te houden met de kortere A-diensten: 16 · 8 = 128 (uur)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 128 − 3 − 1 = 124 (uur)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-uitvaltijd-antw11.png"
+   ]
+  },
+  {
+   "title": "Uitvaltijd",
+   "question_number": 12,
+   "answer_text": "Een aanpak als:\n• De polygoon moet lopen van ongeveer 33 tot 41 (minuten), dus I valt af\n• Polygoon III eindigt lager dan polygoon II; bij de dagdienst A zijn minder waarnemingen gedaan dan bij de dagdienst B\n• Antwoord: polygoon II\n\nof\n\n• De polygoon moet ongeveer lopen van 33 tot 41 (minuten), dus I valt af\n• Bij de B-dagdienst zijn er minder bolletjes links van 35 (minuten) dan bij de A-dagdienst, dus de polygoon behorend bij de B-dagdienst moet bij 35 (minuten) lager liggen dan de polygoon behorend bij de A-dagdienst\n• Antwoord: polygoon II",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De polygoon moet lopen van ongeveer 33 tot 41 (minuten), dus I valt af"
+    },
+    {
+     "points": 1,
+     "description": "Polygoon III eindigt lager dan polygoon II; bij de dagdienst A zijn minder waarnemingen gedaan dan bij de dagdienst B"
+    },
+    {
+     "points": 1,
+     "description": "Antwoord: polygoon II"
+    }
+   ],
+   "grading_note": "Voor een antwoord zonder uitleg geen scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-uitvaltijd-antw12.png"
+   ]
+  },
+  {
+   "title": "Uitvaltijd",
+   "question_number": 13,
+   "answer_text": "Een antwoord als:\n• 36,6 (of het eerste kwartiel van dagdienst B) ligt tussen 36,1 en 37,5 (of eerste en derde kwartiel van dagdienst A), dus de boxen overlappen\n• 37,3 (of de mediaan van dagdienst B) ligt tussen 36,1 en 37,5 (of eerste en derde kwartiel van dagdienst A), dus de mediaan van de boxplot van dagdienst B ligt binnen de box van dagdienst A\n• 36,7 (of de mediaan van dagdienst A) ligt tussen 36,6 en 37,9 (of eerste en derde kwartiel van dagdienst B), dus de mediaan van de boxplot van dagdienst A ligt binnen de box van dagdienst B\n• Het verschil is gering\n\nof\n\n• Een schets van (de boxen van) de boxplots van dagdienst A en dagdienst B\n• (De boxen overlappen en de mediaan van elke boxplot ligt binnen de box van de andere boxplot, dus) het verschil is gering",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "36,6 (of het eerste kwartiel van dagdienst B) ligt tussen 36,1 en 37,5 (of eerste en derde kwartiel van dagdienst A), dus de boxen overlappen"
+    },
+    {
+     "points": 1,
+     "description": "37,3 (of de mediaan van dagdienst B) ligt tussen 36,1 en 37,5 (of eerste en derde kwartiel van dagdienst A), dus de mediaan van de boxplot van dagdienst B ligt binnen de box van dagdienst A"
+    },
+    {
+     "points": 1,
+     "description": "36,7 (of de mediaan van dagdienst A) ligt tussen 36,6 en 37,9 (of eerste en derde kwartiel van dagdienst B), dus de mediaan van de boxplot van dagdienst A ligt binnen de box van dagdienst B"
+    },
+    {
+     "points": 1,
+     "description": "Het verschil is gering"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-uitvaltijd-antw13.png"
+   ]
+  },
+  {
+   "title": "Uitvaltijd",
+   "question_number": 14,
+   "answer_text": "• De interkwartielafstand is 37,9 − 36,6 = 1,3\n• De ene grens is 36,6 − 1,5 · 1,3 = 34,65\n• De andere grens is 37,9 + 1,5 · 1,3 = 39,85\n• Aflezen: 2 (waarnemingen)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De interkwartielafstand is 37,9 − 36,6 = 1,3"
+    },
+    {
+     "points": 1,
+     "description": "De ene grens is 36,6 − 1,5 · 1,3 = 34,65"
+    },
+    {
+     "points": 1,
+     "description": "De andere grens is 37,9 + 1,5 · 1,3 = 39,85"
+    },
+    {
+     "points": 1,
+     "description": "Aflezen: 2 (waarnemingen)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-uitvaltijd-antw14.png"
+   ]
+  },
+  {
+   "title": "Uitvaltijd",
+   "question_number": 15,
+   "answer_text": "• Hier moet de effectgrootte worden bepaald\n• E (= (37,29 − 29,39) / (½ · (1,04 + 1,04))) = 8 (of nauwkeuriger)\n• De conclusie: (dit is groter dan 0,8, dus) het verschil is groot",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Hier moet de effectgrootte worden bepaald"
+    },
+    {
+     "points": 1,
+     "description": "E (= (37,29 − 29,39) / (½ · (1,04 + 1,04))) = 8 (of nauwkeuriger)"
+    },
+    {
+     "points": 1,
+     "description": "De conclusie: (dit is groter dan 0,8, dus) het verschil is groot"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-uitvaltijd-antw15.png"
+   ]
+  },
+  {
+   "title": "Uitvaltijd",
+   "question_number": 16,
+   "answer_text": "• Een A-dienst levert 36,75 − 29,39 = 7,36 (minuten) tijdwinst op en een B-dienst 37,29 − 29,39 = 7,9 (minuten)\n• Dat is per werkweek 4 · 7,36 + 5 · 7,9 = 68,94 (minuten)\n• Het aantal uur per jaar is 68,94 : 60 · 51\n• Het antwoord: 59 (uur) (of nauwkeuriger)\n\nof\n\n• Een A-dienst levert 36,75 · 4 · 51 − 29,39 · 4 · 51 = 1501,44 (minuten) tijdwinst per jaar op\n• Voor een B-dienst is dat 37,29 · 5 · 51 − 29,39 · 5 · 51 = 2014,5 (minuten)\n• Samen is dat (1501,44 + 2014,5)/60 uur per jaar\n• Het antwoord: 59 (uur) (of nauwkeuriger)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Een A-dienst levert 36,75 − 29,39 = 7,36 (minuten) tijdwinst op en een B-dienst 37,29 − 29,39 = 7,9 (minuten)"
+    },
+    {
+     "points": 1,
+     "description": "Dat is per werkweek 4 · 7,36 + 5 · 7,9 = 68,94 (minuten)"
+    },
+    {
+     "points": 1,
+     "description": "Het aantal uur per jaar is 68,94 : 60 · 51"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 59 (uur) (of nauwkeuriger)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-uitvaltijd-antw16.png"
+   ]
+  },
+  {
+   "title": "Atmosfeer",
+   "question_number": 17,
+   "answer_text": "• Het gaat om kleinste afstand op de horizontale as\n• Het antwoord: de stratosfeer",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het gaat om kleinste afstand op de horizontale as"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: de stratosfeer"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-atmosfeer-antw17.png"
+   ]
+  },
+  {
+   "title": "Atmosfeer",
+   "question_number": 18,
+   "answer_text": "• 2,8 · h = T + 134,1\n• h = T/2,8 + 134,1/2,8\n• h = 0,36 · T + 47,89",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "2,8 · h = T + 134,1"
+    },
+    {
+     "points": 1,
+     "description": "h = T/2,8 + 134,1/2,8"
+    },
+    {
+     "points": 1,
+     "description": "h = 0,36 · T + 47,89"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-atmosfeer-antw18.png"
+   ]
+  },
+  {
+   "title": "Atmosfeer",
+   "question_number": 19,
+   "answer_text": "• Aflezen van twee punten, bijvoorbeeld (−2,5; 51) en (−58,5; 71)\n• a = (71 − 51)/(−58,5 − −2,5) = −0,4 (voor een formule van de vorm h = a · T + b)\n• (Invullen in h = a · T + b geeft) 51 = −0,4 · −2,5 + b\n• 51 = 1 + b geeft b = 50 dus h = −0,4 · T + 50 (of nauwkeuriger waarden voor a en b)\n\nof\n\n• Doortrekken van de grafiek naar de lijn met T = 0\n• Dit geeft b = 50 (voor een formule van de vorm h = a · T + b)\n• Aflezen van een punt, bijvoorbeeld (−58,5; 71)\n• (Invullen in h = a · T + b geeft) 71 = a · −58,5 + 50\n• Dit geeft a = −0,4",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Aflezen van twee punten, bijvoorbeeld (−2,5; 51) en (−58,5; 71)"
+    },
+    {
+     "points": 2,
+     "description": "a = (71 − 51)/(−58,5 − −2,5) = −0,4 (voor een formule van de vorm h = a · T + b)"
+    },
+    {
+     "points": 1,
+     "description": "(Invullen in h = a · T + b geeft) 51 = −0,4 · −2,5 + b"
+    },
+    {
+     "points": 1,
+     "description": "51 = 1 + b geeft b = 50 dus h = −0,4 · T + 50 (of nauwkeuriger waarden voor a en b)"
+    }
+   ],
+   "grading_note": "Bij het aflezen van de coördinaten van T en h is een marge van 1 °C respectievelijk 1 km toegestaan.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-atmosfeer-antw19.png"
+   ]
+  },
+  {
+   "title": "Atmosfeer",
+   "question_number": 20,
+   "answer_text": "• De groeifactor per 85 km is 0,0037/1013\n• De groeifactor per km is (0,0037/1013)^(1/85)\n• De groeifactor is ongeveer 0,863\n• Het antwoord: een afname van 13,7(%) (per km)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De groeifactor per 85 km is 0,0037/1013"
+    },
+    {
+     "points": 1,
+     "description": "De groeifactor per km is (0,0037/1013)^(1/85)"
+    },
+    {
+     "points": 1,
+     "description": "De groeifactor is ongeveer 0,863"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: een afname van 13,7(%) (per km)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-atmosfeer-antw20.png"
+   ]
+  },
+  {
+   "title": "Atmosfeer",
+   "question_number": 21,
+   "answer_text": "• Een formule voor de luchtdruk is L = 1013 · 0,86ʰ (met L in hPa en h in km)\n• De vergelijking 1013 · 0,86ʰ = 4,5 moet worden opgelost\n• Beschrijven hoe deze vergelijking wordt opgelost\n• h ≈ 35,9\n• De temperatuur kan worden berekend met de formule T = 2,8 · h − 134,1 (met h = 35,9) of afgelezen worden uit de figuur (bij h = 35,9)\n• Het antwoord: −34 (°C)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Een formule voor de luchtdruk is L = 1013 · 0,86ʰ (met L in hPa en h in km)"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking 1013 · 0,86ʰ = 4,5 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking wordt opgelost"
+    },
+    {
+     "points": 1,
+     "description": "h ≈ 35,9"
+    },
+    {
+     "points": 1,
+     "description": "De temperatuur kan worden berekend met de formule T = 2,8 · h − 134,1 (met h = 35,9) of afgelezen worden uit de figuur (bij h = 35,9)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: −34 (°C)"
+    }
+   ],
+   "grading_note": "− Als gerekend wordt met een nauwkeuriger waarde dan 0,86, berekend in de voorgaande vraag, hiervoor geen scorepunten in mindering brengen.\n− Als de temperatuur uit de figuur wordt afgelezen, dan is een marge van 1 °C toegestaan",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-atmosfeer-antw21.png"
+   ]
+  },
+  {
+   "title": "Zonnepanelen",
+   "question_number": 22,
+   "answer_text": "• 4620/210 = 22, dus er zijn 22 panelen nodig\n• De energieprijs in 2018 is 0,223 (euro per kWh)\n• De energieprijzen in de jaren daarna zijn: 0,226; 0,229; 0,232; 0,235; 0,238; 0,241; 0,244; 0,247; 0,25 (euro per kWh)\n• De kosten zijn dan per jaar 0,223 · 4620 (euro) tot en met 0,25 · 4620 (euro)\n• Opgeteld is dat 10926 (euro) (of nauwkeuriger)\n• De kosten van de zonnepanelen zijn 10200 (euro)\n• De slogan klopt voor de situatie van de familie Jaspers\n\nof\n\n• 4620/210 = 22, dus er zijn 22 panelen nodig\n• De energieprijs in 2018 is 0,223 (euro per kWh)\n• De energieprijzen in de jaren daarna zijn: 0,226; 0,229; 0,232; 0,235; 0,238; 0,241; 0,244; 0,247; 0,25 (euro per kWh)\n• Het optellen van deze energieprijzen geeft 2,365 (euro per kWh)\n• Vermenigvuldigen met 4620 geeft 10926 (euro) (of nauwkeuriger)\n• De kosten van de zonnepanelen zijn 10200 (euro)\n• De slogan klopt voor de situatie van de familie Jaspers",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "4620/210 = 22, dus er zijn 22 panelen nodig"
+    },
+    {
+     "points": 1,
+     "description": "De energieprijs in 2018 is 0,223 (euro per kWh)"
+    },
+    {
+     "points": 1,
+     "description": "De energieprijzen in de jaren daarna zijn: 0,226; 0,229; 0,232; 0,235; 0,238; 0,241; 0,244; 0,247; 0,25 (euro per kWh)"
+    },
+    {
+     "points": 1,
+     "description": "De kosten zijn dan per jaar 0,223 · 4620 (euro) tot en met 0,25 · 4620 (euro)"
+    },
+    {
+     "points": 1,
+     "description": "Opgeteld is dat 10926 (euro) (of nauwkeuriger)"
+    },
+    {
+     "points": 1,
+     "description": "De kosten van de zonnepanelen zijn 10200 (euro)"
+    },
+    {
+     "points": 1,
+     "description": "De slogan klopt voor de situatie van de familie Jaspers"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2017-ii-zonnepanelen-antw22.png"
+   ]
+  }
+ ]
+}
