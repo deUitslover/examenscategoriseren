@@ -1,0 +1,475 @@
+{
+ "subject_name": "Wiskunde B",
+ "level": "HAVO",
+ "source": "HAVO Wiskunde B 2022-I",
+ "answers": [
+  {
+   "title": "Raaklijn aan cirkel",
+   "question_number": 1,
+   "answer_text": "• y = 2x + 2 substitueren in x² + y² = 6x + 6y − 13 geeft x² + (2x + 2)² = 6x + 6(2x + 2) − 13\n• Hieruit volgt 5x² − 10x + 5 = 0 (of x² − 2x + 1 = 0)\n• (Uit x² − 2x + 1 = 0 volgt) (x − 1)² = 0 (of het gebruik van de abc-formule)\n• Dus x = 1 en y = 4 (dus A(1, 4))\nof\n• (Uit kwadraat afsplitsen volgt) het middelpunt van de cirkel is M(3, 3)\n• De lijn door M loodrecht op l heeft vergelijking y = −½x + 9/2\n• Beschrijven hoe de vergelijking 2x + 2 = −½x + 9/2 exact opgelost kan worden\n• Hieruit volgt A(1, 4)\nof\n• (Uit kwadraat afsplitsen volgt) het middelpunt van de cirkel is M(3, 3)\n• A(a, 2a + 2) geeft rc_AM = (3 − (2a + 2))/(3 − a) en dit moet gelijk zijn aan −½\n• Beschrijven hoe de vergelijking (1 − 2a)/(3 − a) = −½ exact opgelost kan worden\n• Hieruit volgt (a = 1 dus) A(1, 4)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "y = 2x + 2 substitueren in x² + y² = 6x + 6y − 13 geeft x² + (2x + 2)² = 6x + 6(2x + 2) − 13"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt 5x² − 10x + 5 = 0 (of x² − 2x + 1 = 0)"
+    },
+    {
+     "points": 1,
+     "description": "(Uit x² − 2x + 1 = 0 volgt) (x − 1)² = 0 (of het gebruik van de abc-formule)"
+    },
+    {
+     "points": 1,
+     "description": "Dus x = 1 en y = 4 (dus A(1, 4))"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2022-i-raaklijn-aan-cirkel-antw1.png"
+   ]
+  },
+  {
+   "title": "Raaklijn aan cirkel",
+   "question_number": 2,
+   "answer_text": "• De coördinaten van T zijn A(0, 2)\n• De coördinaten van S zijn A(−1, 0)\n• (De coördinaten van het middelpunt van d zijn) ((0 + −1)/2, (2 + 0)/2) =) (−½, 1)\n• De straal van d is ½ · √((0 − −)² + (2 − 0)²) = ½√5 ⚠️ CONTROLEREN: in het correctievoorschrift ontbreekt hier een getal, er staat letterlijk '(0 − −)²'\n• De afstand OM is ½√((0 − −)² + (2 − 0)²) = ½√5 en dit is gelijk aan de straal (van d, dus d gaat door O) ⚠️ CONTROLEREN: in het correctievoorschrift ontbreekt hier een getal, er staat letterlijk '(0 − −)²'\nof\n• De coördinaten van T zijn A(0, 2)\n• De coördinaten van S zijn A(−1, 0)\n• (De coördinaten van het middelpunt van d zijn) ((0 + −1)/2, (2 + 0)/2) =) (−½, 1)\n• De straal van d is ½ · √((0 − −)² + (2 − 0)²) = ½√5 ⚠️ CONTROLEREN: in het correctievoorschrift ontbreekt hier een getal, er staat letterlijk '(0 − −)²'\n• Een vergelijking voor d is (x + ½)² + (y − 1)² = 1¼ en het punt O(0, 0) voldoet aan deze vergelijking want (0 + ½)² + (0 − 1)² = 1¼ (dus d gaat door O)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De coördinaten van T zijn A(0, 2)"
+    },
+    {
+     "points": 1,
+     "description": "De coördinaten van S zijn A(−1, 0)"
+    },
+    {
+     "points": 1,
+     "description": "(De coördinaten van het middelpunt van d zijn) ((0 + −1)/2, (2 + 0)/2) =) (−½, 1)"
+    },
+    {
+     "points": 1,
+     "description": "De straal van d is ½ · √((0 − −)² + (2 − 0)²) = ½√5 ⚠️ CONTROLEREN: in het correctievoorschrift ontbreekt hier een getal, er staat letterlijk '(0 − −)²'"
+    },
+    {
+     "points": 1,
+     "description": "De afstand OM is ½√((0 − −)² + (2 − 0)²) = ½√5 en dit is gelijk aan de straal (van d, dus d gaat door O) ⚠️ CONTROLEREN: in het correctievoorschrift ontbreekt hier een getal, er staat letterlijk '(0 − −)²'"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2022-i-raaklijn-aan-cirkel-antw2.png"
+   ]
+  },
+  {
+   "title": "Versturen van data",
+   "question_number": 3,
+   "answer_text": "• De vergelijking 10 · ¹⁰log(R) = 40 moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Dit geeft R = 10 000\n• Dit geeft C = 20 · 10⁶ · ²log(1 + 10 000)\n• Het gevraagde eindantwoord is 266 miljoen (bps) (of nauwkeuriger)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 10 · ¹⁰log(R) = 40 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft R = 10 000"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft C = 20 · 10⁶ · ²log(1 + 10 000)"
+    },
+    {
+     "points": 1,
+     "description": "Het gevraagde eindantwoord is 266 miljoen (bps) (of nauwkeuriger)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2022-i-versturen-van-data-antw3.png"
+   ]
+  },
+  {
+   "title": "Versturen van data",
+   "question_number": 4,
+   "answer_text": "• De vergelijking 1,44 · 1000 · R − 1000 · ²log(1 + R) = 0,01 · 1000 · ²log(1 + R) (of 1,44 · 1000 · R = 1,01 · 1000 · ²log(1 + R)) moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• (Tot aan) R = 0,024",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 1,44 · 1000 · R − 1000 · ²log(1 + R) = 0,01 · 1000 · ²log(1 + R) (of 1,44 · 1000 · R = 1,01 · 1000 · ²log(1 + R)) moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "(Tot aan) R = 0,024"
+    }
+   ],
+   "grading_note": "– Als een kandidaat de vergelijking 1,44 · 1000 · R = 0,01 · 1000 · ²log(1 + R) oplost, ten hoogste 1 scorepunt voor deze vraag toekennen.\n– Voor het antwoord 0,023 geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2022-i-versturen-van-data-antw4.png"
+   ]
+  },
+  {
+   "title": "Versturen van data",
+   "question_number": 5,
+   "answer_text": "• (Uit S = 10 · log(R) volgt) log(R) = 0,1S\n• Dit geeft R = 10^(0,1S)\n• (R = 10^(0,1S) invullen in C = B · ²log(R) geeft) C = B · ²log(10^(0,1S))\n• C = B · S · ²log(10^(0,1)) (of C = B · 0,1S · ²log(10)) en dit geeft C = 0,332 · B · S\nof\n• (Uit C = B · ²log(R) volgt) C = B · log(R)/log(2)\n• (Uit S = 10 · log(R) volgt) log(R) = 0,1S\n• (log(R) = 0,1S invullen in C = B · log(R)/log(2) geeft) C = B · 0,1S/log(2)\n• C = 0,1/log(2) · B · S en dit geeft C = 0,332 · B · S\nof\n• (Uit S = 10 · log(R) volgt) log(R) = 0,1S\n• Dit geeft R = 10^(0,1S)\n• (Uit C = B · log(R)/log(2) volgt) log(R) = log(2) · C/B en dus R = 10^(log(2) · C/B)\n• Dit geeft 10^(0,1S) = 10^(log(2) · C/B) (dus 0,1S = log(2) · C/B en vervolgens C = 0,1 · B · S/log(2) = 0,332 · B · S",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(Uit S = 10 · log(R) volgt) log(R) = 0,1S"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft R = 10^(0,1S)"
+    },
+    {
+     "points": 1,
+     "description": "(R = 10^(0,1S) invullen in C = B · ²log(R) geeft) C = B · ²log(10^(0,1S))"
+    },
+    {
+     "points": 1,
+     "description": "C = B · S · ²log(10^(0,1)) (of C = B · 0,1S · ²log(10)) en dit geeft C = 0,332 · B · S"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2022-i-versturen-van-data-antw5.png"
+   ]
+  },
+  {
+   "title": "Wortelfunctie en transformatie",
+   "question_number": 6,
+   "answer_text": "• f(0) = −8 + 2√(3 · 0 + 9) = −2 (dus A(0, −2))\n• f′(0) = 2/(2√(3x + 9)) · 3\n• f′(0) = 1\n• l heeft vergelijking y = x − 2\n• l snijdt de x-as in (2, 0) (dus B(2, 0) en dus OA = OB)\nof\n• f′(x) = 2/(2√(3x + 9)) · 3\n• f′(0) = 1\n• (Dus l heeft helling 1, dus) l maakt een hoek van 45° met de x-as\n• l maakt ook een hoek van 45° met de y-as\n• Driehoek OAB is een gelijkbenige driehoek (dus OA = OB)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "f(0) = −8 + 2√(3 · 0 + 9) = −2 (dus A(0, −2))"
+    },
+    {
+     "points": 2,
+     "description": "f′(0) = 2/(2√(3x + 9)) · 3"
+    },
+    {
+     "points": 1,
+     "description": "f′(0) = 1"
+    },
+    {
+     "points": 1,
+     "description": "l heeft vergelijking y = x − 2"
+    },
+    {
+     "points": 1,
+     "description": "l snijdt de x-as in (2, 0) (dus B(2, 0) en dus OA = OB)"
+    }
+   ],
+   "grading_note": "Voor het tweede antwoordelement van het eerste alternatief en voor het eerste antwoordelement van het tweede alternatief uitsluitend 0 of 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2022-i-wortelfunctie-en-transformatie-antw6.png"
+   ]
+  },
+  {
+   "title": "Wortelfunctie en transformatie",
+   "question_number": 7,
+   "answer_text": "• 3x + 9 = 0 geeft x_M = −3\n• (Uit f(x) = 0 volgt) √(3x + 9) = 4\n• Hieruit volgt 3x + 9 = 16\n• Dit geeft x_C = 2⅓ (en deze voldoet)\n• Er geldt √((y_M)² + (5⅓)²) = 6⅔ (dus (y_M)² + (5⅓)² = (6⅔)²)\n• Hieruit volgt y_M = −4 (y_M = 4 voldoet niet)\n• a = −4/f(−3) = −4/−8 = ½\nof\n• 3x + 9 = 0 geeft x_M = −3\n• (Uit f(x) = 0 volgt) √(3x + 9) = 4\n• Hieruit volgt 3x + 9 = 16\n• Dit geeft x_C = 2⅓ (en deze voldoet)\n• M heeft coördinaten (−3, −8a) dus er geldt √((−8a)² + (5½)²) = 6⅔ (dus (−8a)² + (5½)² = (6⅔)²)\n• Hieruit volgt 64a² = 16\n• a = ½ (a = −½ voldoet niet)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "3x + 9 = 0 geeft x_M = −3"
+    },
+    {
+     "points": 1,
+     "description": "(Uit f(x) = 0 volgt) √(3x + 9) = 4"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt 3x + 9 = 16"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft x_C = 2⅓ (en deze voldoet)"
+    },
+    {
+     "points": 1,
+     "description": "Er geldt √((y_M)² + (5⅓)²) = 6⅔ (dus (y_M)² + (5⅓)² = (6⅔)²)"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt y_M = −4 (y_M = 4 voldoet niet)"
+    },
+    {
+     "points": 1,
+     "description": "a = −4/f(−3) = −4/−8 = ½"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2022-i-wortelfunctie-en-transformatie-antw7.png"
+   ]
+  },
+  {
+   "title": "Windmolens",
+   "question_number": 8,
+   "answer_text": "• De vergelijking ½ · 5116 · 10³ · (1 − (w/10)³ − (w/10)² + (w/10)) = 1,21 · 10⁶ moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• De snelheid van de wind achter de molen is 6,5 (m/s)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking ½ · 5116 · 10³ · (1 − (w/10)³ − (w/10)² + (w/10)) = 1,21 · 10⁶ moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "De snelheid van de wind achter de molen is 6,5 (m/s)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2022-i-windmolens-antw8.png"
+   ]
+  },
+  {
+   "title": "Windmolens",
+   "question_number": 9,
+   "answer_text": "• d(1 − p³ − p² + p)/dp = −3p² − 2p + 1\n• Het invullen van p = ⅓ in d(1 − p³ − p² + p)/dp geeft −3(⅓)² − 2(⅓) + 1\n• Dit geeft −3(1/9) − ⅔ + 1 = 0 (dus bij p = ⅓ heeft de grafiek een horizontale raaklijn)\n• (Bijvoorbeeld) een schets waaruit blijkt dat p = ⅓ inderdaad een maximum oplevert\nof\n• d(1 − p³ − p² + p)/dp = −3p² − 2p + 1\n• Beschrijven hoe de vergelijking −3p² − 2p + 1 = 0 opgelost kan worden\n• p = ⅓ (p = −1 voldoet niet)\n• (Bijvoorbeeld) een schets waaruit blijkt dat p = ⅓ inderdaad een maximum oplevert",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "d(1 − p³ − p² + p)/dp = −3p² − 2p + 1"
+    },
+    {
+     "points": 1,
+     "description": "Het invullen van p = ⅓ in d(1 − p³ − p² + p)/dp geeft −3(⅓)² − 2(⅓) + 1"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft −3(1/9) − ⅔ + 1 = 0 (dus bij p = ⅓ heeft de grafiek een horizontale raaklijn)"
+    },
+    {
+     "points": 1,
+     "description": "(Bijvoorbeeld) een schets waaruit blijkt dat p = ⅓ inderdaad een maximum oplevert"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2022-i-windmolens-antw9.png"
+   ]
+  },
+  {
+   "title": "Windmolens",
+   "question_number": 10,
+   "answer_text": "• E_max = (¼ · c · v³ · (1 − (⅓)³ − (⅓)² + ⅓) =) 8/27 · c · v³\n• E_max/E_wind · 100% = (8/27 · c · v³)/(½ · c · v³) · 100% = (8/27)/(½) · 100%\n• Het maximale percentage is 59(%)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "E_max = (¼ · c · v³ · (1 − (⅓)³ − (⅓)² + ⅓) =) 8/27 · c · v³"
+    },
+    {
+     "points": 1,
+     "description": "E_max/E_wind · 100% = (8/27 · c · v³)/(½ · c · v³) · 100% = (8/27)/(½) · 100%"
+    },
+    {
+     "points": 1,
+     "description": "Het maximale percentage is 59(%)"
+    }
+   ],
+   "grading_note": "Als een getallenvoorbeeld wordt gebruikt waarmee het gevraagde percentage wordt berekend, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2022-i-windmolens-antw10.png"
+   ]
+  },
+  {
+   "title": "Hyperbool",
+   "question_number": 11,
+   "answer_text": "• f′(x) = −2(2x − 1)⁻²\n• De vergelijking −2(2x − 1)⁻² = −2 moet worden opgelost\n• Hieruit volgt (2x − 1)² = 1\n• Dit geeft 2x − 1 = 1 (of 2x − 1 = −1)\n• Hieruit volgt x = 1 (x = 0 voldoet niet)\n• Een vergelijking voor l is y = −2x + b\n• l gaat door (1, 1) dus b = 3 (het snijpunt van l met de y-as is dus (0, 3))\nof\n• Een vergelijking voor l is y = −2x + b\n• De vergelijking 1/(2x − 1) = −2x + b moet precies één oplossing hebben\n• Dus (−2x + b)(2x + b) = 1 moet precies één oplossing hebben\n• Dus −4x² + (2 + 2b)x + (−b − 1) = 0 moet precies één oplossing hebben\n• D = (2 + 2b)² − 4 · −4 · (−b − 1) = 0\n• Hieruit volgt 4b² − 8b − 12 = 0\n• Dit geeft b² − 2b − 3 = 0 dus (b − 3)(b + 1) = 0\n• Dus b = 3 (b = −1 voldoet niet) (het snijpunt van l met de y-as is dus (0, 3))",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "f′(x) = −2(2x − 1)⁻²"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking −2(2x − 1)⁻² = −2 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt (2x − 1)² = 1"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft 2x − 1 = 1 (of 2x − 1 = −1)"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt x = 1 (x = 0 voldoet niet)"
+    },
+    {
+     "points": 1,
+     "description": "Een vergelijking voor l is y = −2x + b"
+    },
+    {
+     "points": 1,
+     "description": "l gaat door (1, 1) dus b = 3 (het snijpunt van l met de y-as is dus (0, 3))"
+    }
+   ],
+   "grading_note": "Voor het eerste antwoordelement van het eerste alternatief uitsluitend 0 of 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2022-i-hyperbool-antw11.png"
+   ]
+  },
+  {
+   "title": "Hyperbool",
+   "question_number": 12,
+   "answer_text": "• AB = 1/(2a − 1)\n• OA = √((a)² + (1/(2a − 1))²)\n• Beschrijven hoe het minimum van OA gevonden kan worden\n• De minimale lengte is 1,4",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "AB = 1/(2a − 1)"
+    },
+    {
+     "points": 1,
+     "description": "OA = √((a)² + (1/(2a − 1))²)"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe het minimum van OA gevonden kan worden"
+    },
+    {
+     "points": 1,
+     "description": "De minimale lengte is 1,4"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2022-i-hyperbool-antw12.png"
+   ]
+  },
+  {
+   "title": "Parabolen en sinusoïde",
+   "question_number": 13,
+   "answer_text": "• Er moet gelden f(1) = 0\n• f(1) = a · 1² − a = 0 (dus het klopt)\nof\n• Er moet gelden ax² − a = 0 en dit geeft a(x² − 1) = 0\n• x² − 1 = 0 en dit geeft x = 1 (of x = −1) (dus het klopt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er moet gelden f(1) = 0"
+    },
+    {
+     "points": 1,
+     "description": "f(1) = a · 1² − a = 0 (dus het klopt)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2022-i-parabolen-en-sinusoide-antw13.png"
+   ]
+  },
+  {
+   "title": "Parabolen en sinusoïde",
+   "question_number": 14,
+   "answer_text": "• De vergelijking sin(2πx) = 1 moet worden opgelost\n• 2πx = ½π (+ 2kπ)\n• (x = ¼ + k dus) de x-coördinaat van T is 1¼\n• Er moet gelden a · (1¼)² − a = 1\n• a = 16/9\nof\n• De periode van g is (2π/2π =) 1\n• De x-coördinaat van T is 1¼\n• De y-coördinaat van T is (sin(2π · 1¼) =) 1\n• Er moet gelden a · (1¼)² − a = 1\n• a = 16/9",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking sin(2πx) = 1 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "2πx = ½π (+ 2kπ)"
+    },
+    {
+     "points": 1,
+     "description": "(x = ¼ + k dus) de x-coördinaat van T is 1¼"
+    },
+    {
+     "points": 1,
+     "description": "Er moet gelden a · (1¼)² − a = 1"
+    },
+    {
+     "points": 1,
+     "description": "a = 16/9"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2022-i-parabolen-en-sinusoide-antw14.png"
+   ]
+  },
+  {
+   "title": "Fiets",
+   "question_number": 15,
+   "answer_text": "• Er geldt BF² = 542² + 425² − 2 · 542 · 425 · cos(58°)\n• Hieruit volgt: BF = 479,… (mm)\n• Er geldt 479,…/sin(58°) = 542,…/sin(∠ABF)\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• ∠ABF = 73,3… (°)\n• Het gevraagde verschil is 73,3… − 71 = 2 (°)\nof\n• Er geldt sin(58°) = FF′/542 met F′ de projectie van F op AB\n• Hieruit volgt: FF′ = 459,64… (mm)\n• Er geldt tan(58°) = 459,64…/AF′ en hieruit volgt AF′ = 287,21… (mm)\n• Dus BF′ = 425 − 287,21… = 137,78… (mm)\n• Uit tan(∠ABF) = 459,64…/137,78… volgt ∠ABF = 73,3… (°)\n• Het gevraagde verschil is 73,3… − 71 = 2 (°)\nof\n• Er geldt BF² = 542² + 425² − 2 · 542 · 425 · cos(58°)\n• Hieruit volgt: BF = 479,… (mm)\n• Er geldt 542² = 425² + 479,…² − 2 · 425 · 479,… · cos(∠ABF)\n• cos(∠ABF) = 0,287…\n• ∠ABF = 73,3… (°)\n• Het gevraagde verschil is 73,3… − 71 = 2 (°)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er geldt BF² = 542² + 425² − 2 · 542 · 425 · cos(58°)"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt: BF = 479,… (mm)"
+    },
+    {
+     "points": 1,
+     "description": "Er geldt 479,…/sin(58°) = 542,…/sin(∠ABF)"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "∠ABF = 73,3… (°)"
+    },
+    {
+     "points": 1,
+     "description": "Het gevraagde verschil is 73,3… − 71 = 2 (°)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2022-i-fiets-antw15.png"
+   ]
+  },
+  {
+   "title": "Fiets",
+   "question_number": 16,
+   "answer_text": "• Er geldt a · 75ⁿ = 166 en a · 97ⁿ = 180\n• Dit is te schrijven als a = 166/75ⁿ en a = 180/97ⁿ\n• De vergelijking 166/75ⁿ = 180/97ⁿ moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Hieruit volgt n = 0,314… en a = 166/75^(0,314…) =) 42,6… (of a = 180/97^(0,314…) =) 42,6…)\n• De gevraagde cranklengte is (L = 42,6… · 86^(0,314…) =) 173 (mm)\nof\n• Er geldt a · 75ⁿ = 166 en a · 97ⁿ = 180\n• (a · 75ⁿ)/(a · 97ⁿ) = 166/180\n• Dit geeft (75/97)ⁿ = 166/180\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Hieruit volgt n = 0,314… en a = 166/75^(0,314…) =) 42,6… (of a = 180/97^(0,314…) =) 42,6…)\n• De gevraagde cranklengte is (L = 42,6… · 86^(0,314…) =) 173 (mm)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Er geldt a · 75ⁿ = 166 en a · 97ⁿ = 180"
+    },
+    {
+     "points": 1,
+     "description": "Dit is te schrijven als a = 166/75ⁿ en a = 180/97ⁿ"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking 166/75ⁿ = 180/97ⁿ moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt n = 0,314… en a = 166/75^(0,314…) =) 42,6… (of a = 180/97^(0,314…) =) 42,6…)"
+    },
+    {
+     "points": 1,
+     "description": "De gevraagde cranklengte is (L = 42,6… · 86^(0,314…) =) 173 (mm)"
+    }
+   ],
+   "grading_note": "In het derde antwoordelement van het eerste antwoordalternatief een vergelijking worden opgelost. Sommige grafische rekenmachines geven bij het oplossen van deze vergelijking een onjuiste waarde van n, met een bijbehorende waarde van a die bij benadering gelijk is aan 0 (zoals 1,88 · 10⁻⁴⁹⁸). Indien de kandidaat in het vijfde antwoordelement deze gevonden waarden van n en a als antwoord geeft, hiervoor geen scorepunten in mindering brengen. Als vervolgens met deze gevonden waarden op juiste wijze wordt doorgerekend, ook hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2022-i-fiets-antw16.png"
+   ]
+  }
+ ]
+}
