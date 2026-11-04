@@ -1,0 +1,548 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde A 2022-I",
+  "answers": [
+   {
+    "title": "De psychrometer",
+    "question_number": 1,
+    "answer_text": "• Het verschil in temperatuur is 5 (°C) (1 punt)\n• Aflezen bij luchttemperatuur 22 (°C) en verschiltemperatuur 5 (°C) (1 punt)\n• Het antwoord: 59 (%) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het verschil in temperatuur is 5 (°C)"
+     },
+     {
+      "points": 1,
+      "description": "Aflezen bij luchttemperatuur 22 (°C) en verschiltemperatuur 5 (°C)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 59 (%)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-de-psychrometer-antw1.png"
+    ]
+   },
+   {
+    "title": "De psychrometer",
+    "question_number": 2,
+    "answer_text": "• Aflezen bij luchtvochtigheid 60% en luchttemperatuur 31,5 °C geeft een temperatuurverschil van 6 (°C) (of aangeven op de uitwerkbijlage) (1 punt)\n• Aflezen bij luchtvochtigheid 60% en luchttemperatuur 15 °C geeft een temperatuurverschil van 4 (°C) (of aangeven op de uitwerkbijlage) (1 punt)\n• De bijbehorende natte temperaturen zijn 25,5 (°C) en 11 (°C) (1 punt)\n• De natte temperatuur daalde 14,5 (°C) (1 punt)\n\nof\n\n• Aflezen bij luchtvochtigheid 60% en luchttemperatuur 31,5 °C geeft een temperatuurverschil van 6 (°C) (of aangeven op de uitwerkbijlage) (1 punt)\n• Aflezen bij luchtvochtigheid 60% en luchttemperatuur 15 °C geeft een temperatuurverschil van 4 (°C) (of aangeven op de uitwerkbijlage) (1 punt)\n• De luchttemperatuur daalde 16,5 (°C) en het temperatuurverschil daalde 2 (°C) (1 punt)\n• De natte temperatuur daalde 14,5 (°C) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Aflezen bij luchtvochtigheid 60% en luchttemperatuur 31,5 °C geeft een temperatuurverschil van 6 (°C) (of aangeven op de uitwerkbijlage)"
+     },
+     {
+      "points": 1,
+      "description": "Aflezen bij luchtvochtigheid 60% en luchttemperatuur 15 °C geeft een temperatuurverschil van 4 (°C) (of aangeven op de uitwerkbijlage)"
+     },
+     {
+      "points": 1,
+      "description": "De bijbehorende natte temperaturen zijn 25,5 (°C) en 11 (°C)"
+     },
+     {
+      "points": 1,
+      "description": "De natte temperatuur daalde 14,5 (°C)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-de-psychrometer-antw2.png"
+    ]
+   },
+   {
+    "title": "De psychrometer",
+    "question_number": 3,
+    "answer_text": "• Het aflezen van de luchtvochtigheid in de tabel geeft 66 (%) (1 punt)\n• Het berekenen met de formule: L = 100 − 330/(18 + 11) · 3 (%) (1 punt)\n• L = 65,862… (%) (1 punt)\n• Het verschil is 0,14 (%) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het aflezen van de luchtvochtigheid in de tabel geeft 66 (%)"
+     },
+     {
+      "points": 1,
+      "description": "Het berekenen met de formule: L = 100 − 330/(18 + 11) · 3 (%)"
+     },
+     {
+      "points": 1,
+      "description": "L = 65,862… (%)"
+     },
+     {
+      "points": 1,
+      "description": "Het verschil is 0,14 (%)"
+     }
+    ],
+    "grading_note": "Als de luchtvochtigheid van 66% niet met de tabel wordt gevonden, maar met de figuur op de uitwerkbijlage, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-de-psychrometer-antw3.png"
+    ]
+   },
+   {
+    "title": "De psychrometer",
+    "question_number": 4,
+    "answer_text": "• Als Tₙₐₜ kleiner wordt, dan wordt 27 − Tₙₐₜ groter (1 punt)\n• Dan wordt 330/45 · (27 − Tₙₐₜ) groter (1 punt)\n• Dus wordt 100 − 330/45 · (27 − Tₙₐₜ) (= L) kleiner (1 punt)\n\nof\n\n• Uit formule 2 volgt dat het verband tussen Tₙₐₜ en L lineair is (1 punt)\n• De richtingscoëfficiënt is 330/45 en dit is positief (1 punt)\n• (De grafiek van L is dus een stijgende lijn, dus) als Tₙₐₜ kleiner wordt, dan wordt L kleiner (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als Tₙₐₜ kleiner wordt, dan wordt 27 − Tₙₐₜ groter"
+     },
+     {
+      "points": 1,
+      "description": "Dan wordt 330/45 · (27 − Tₙₐₜ) groter"
+     },
+     {
+      "points": 1,
+      "description": "Dus wordt 100 − 330/45 · (27 − Tₙₐₜ) (= L) kleiner"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-de-psychrometer-antw4.png"
+    ]
+   },
+   {
+    "title": "CO₂-concentratie in de atmosfeer",
+    "question_number": 5,
+    "answer_text": "• Aflezen: het jaargemiddelde is 355 (ppm) (1 punt)\n• Aflezen: het maandgemiddelde van september zit 2,8 (ppm) onder het jaargemiddelde (1 punt)\n• Het antwoord: 352,2 (ppm) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Aflezen: het jaargemiddelde is 355 (ppm)"
+     },
+     {
+      "points": 1,
+      "description": "Aflezen: het maandgemiddelde van september zit 2,8 (ppm) onder het jaargemiddelde"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 352,2 (ppm)"
+     }
+    ],
+    "grading_note": "Het jaargemiddelde en de afwijking daarvan mogen worden afgelezen met een marge van 2 respectievelijk 0,1 ppm.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-co2-concentratie-in-de-atmosfeer-antw5.png"
+    ]
+   },
+   {
+    "title": "CO₂-concentratie in de atmosfeer",
+    "question_number": 6,
+    "answer_text": "• Aflezen: in 1970 is het jaargemiddelde 325 (ppm) en in 1995 is dat 360 (ppm) (1 punt)\n• De groeifactor per jaar is 1,003 (1 punt)\n• Keeling voorspelt een concentratie van 325 · 1,003²⁵ (= 350,2…) (ppm) (1 punt)\n• De afwijking is (350,2… − 360)/360 · 100 (= −2,7… (%)) (of (360 − 350,2…)/360 · 100 (= 2,7… (%))) (1 punt)\n• Het antwoord: (−)3 (%) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Aflezen: in 1970 is het jaargemiddelde 325 (ppm) en in 1995 is dat 360 (ppm)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per jaar is 1,003"
+     },
+     {
+      "points": 1,
+      "description": "Keeling voorspelt een concentratie van 325 · 1,003²⁵ (= 350,2…) (ppm)"
+     },
+     {
+      "points": 1,
+      "description": "De afwijking is (350,2… − 360)/360 · 100 (= −2,7… (%)) (of (360 − 350,2…)/360 · 100 (= 2,7… (%)))"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (−)3 (%)"
+     }
+    ],
+    "grading_note": "– De jaargemiddelden mogen worden afgelezen met een marge van 2 ppm.\n– Als (360 − 350,2…)/350,2… · 100 berekend is, voor deze vraag maximaal 3 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-co2-concentratie-in-de-atmosfeer-antw6.png"
+    ]
+   },
+   {
+    "title": "CO₂-concentratie in de atmosfeer",
+    "question_number": 7,
+    "answer_text": "• De groeifactor per 15 jaar is 400,8/369,5 (= 1,084…) (1 punt)\n• De groeifactor per jaar is (400,8/369,5)¹ᐟ¹⁵ (= 1,00543…) (1 punt)\n• Beschrijven hoe de vergelijking 369,5 · 1,00543…ᵗ = 500 kan worden opgelost (met t het aantal jaar na 2000) (1 punt)\n• Dit geeft t = 55,7… (of: voor t = 55 is het kleiner dan 500, voor t = 56 is het groter dan 500) (1 punt)\n• Het antwoord: in 2056 (1 punt)\n\nof\n\n• De groeifactor per 15 jaar is 400,8/369,5 (= 1,084…) (1 punt)\n• Beschrijven hoe de vergelijking 369,5 · 1,084…ᵗ = 500 kan worden opgelost (met t het aantal perioden van 15 jaar na 2000) (1 punt)\n• Dit geeft t = 3,7… (1 punt)\n• 3,7… · 15 = 55,7… (1 punt)\n• Het antwoord: in 2056 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De groeifactor per 15 jaar is 400,8/369,5 (= 1,084…)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per jaar is (400,8/369,5)¹ᐟ¹⁵ (= 1,00543…)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 369,5 · 1,00543…ᵗ = 500 kan worden opgelost (met t het aantal jaar na 2000)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft t = 55,7… (of: voor t = 55 is het kleiner dan 500, voor t = 56 is het groter dan 500)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: in 2056"
+     }
+    ],
+    "grading_note": "– Bij het tweede antwoordalternatief moeten in zowel het eerste als in het tweede antwoordelement alle drie de waarden gegeven zijn.\n– Als in het derde antwoordalternatief in het eerste antwoordelement gerekend wordt met t = 345 − ½ · 365 = 162,5 resulterend in eindantwoord 18 (dagen later), hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-co2-concentratie-in-de-atmosfeer-antw7.png"
+    ]
+   },
+   {
+    "title": "CO₂-concentratie in de atmosfeer",
+    "question_number": 8,
+    "answer_text": "• De toename per 15 jaar is 400,8 − 369,5 (= 31,3 (ppm)) (1 punt)\n• De toename per jaar is 31,3/15 (= 2,08…) (1 punt)\n• (500 − 369,5)/2,08… = 62,5… (1 punt)\n• Het antwoord: in 2063 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De toename per 15 jaar is 400,8 − 369,5 (= 31,3 (ppm))"
+     },
+     {
+      "points": 1,
+      "description": "De toename per jaar is 31,3/15 (= 2,08…)"
+     },
+     {
+      "points": 1,
+      "description": "(500 − 369,5)/2,08… = 62,5…"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: in 2063"
+     }
+    ],
+    "grading_note": "– De jaargemiddelden mogen ook worden afgelezen met een marge van 2 ppm.\n– Als zowel in deze als in de vorige vraag het jaartal wordt bepaald door naar beneden af te ronden, hiervoor alleen bij de vorige vraag 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-co2-concentratie-in-de-atmosfeer-antw8.png"
+    ]
+   },
+   {
+    "title": "CO₂-concentratie in de atmosfeer",
+    "question_number": 9,
+    "answer_text": "• Bij een lineair verband hoort een constant dalende grafiek; bij een exponentieel verband hoort een afnemend dalende grafiek (1 punt)\n  Bij het exponentiële verband daalt de grafiek dus in het begin sterker dan bij het lineaire verband (1 punt)\n• Het exponentiële verband bereikt dus eerder de waarde van 375 ppm (1 punt)\n\nof\n\n• Een schets van een dalende lijn en een afnemend dalende grafiek met hetzelfde beginpunt en eindpunt (1 punt)\n• Het aangeven van twee punten op deze grafieken op dezelfde hoogte (1 punt)\n• Het exponentiële verband bereikt dus eerder de waarde van 375 ppm (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij een lineair verband hoort een constant dalende grafiek; bij een exponentieel verband hoort een afnemend dalende grafiek"
+     },
+     {
+      "points": 1,
+      "description": "Bij het exponentiële verband daalt de grafiek dus in het begin sterker dan bij het lineaire verband"
+     },
+     {
+      "points": 1,
+      "description": "Het exponentiële verband bereikt dus eerder de waarde van 375 ppm"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-co2-concentratie-in-de-atmosfeer-antw9.png"
+    ]
+   },
+   {
+    "title": "Snelheidsovertredingen",
+    "question_number": 10,
+    "answer_text": "Een voorbeeld van een juist antwoord:\n• De steekproef is waarschijnlijk niet representatief, omdat er alleen op dinsdagochtend is gemeten (, waardoor je geen afspiegeling van het verkeer hebt dat wekelijks over deze weg rijdt) (1 punt)\n• Er zou op meerdere dagen per week gemeten moeten worden (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De steekproef is waarschijnlijk niet representatief, omdat er alleen op dinsdagochtend is gemeten (, waardoor je geen afspiegeling van het verkeer hebt dat wekelijks over deze weg rijdt)"
+     },
+     {
+      "points": 1,
+      "description": "Er zou op meerdere dagen per week gemeten moeten worden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-snelheidsovertredingen-antw10.png"
+    ]
+   },
+   {
+    "title": "Snelheidsovertredingen",
+    "question_number": 11,
+    "answer_text": "• De modale klasse is 41-45 (km/uur) (1 punt)\n• (De snelheidslimiet) 30 (km/uur) ligt niet in de modale klasse (1 punt)\n\nof\n\n• In de klasse waar (de snelheidslimiet) 30 (km/uur) in ligt, zitten 7 voertuigen (1 punt)\n• Er zijn klassen met meer dan 7 voertuigen, dus de snelheidslimiet ligt niet in de modale klasse (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De modale klasse is 41-45 (km/uur)"
+     },
+     {
+      "points": 1,
+      "description": "(De snelheidslimiet) 30 (km/uur) ligt niet in de modale klasse"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-snelheidsovertredingen-antw11.png"
+    ]
+   },
+   {
+    "title": "Snelheidsovertredingen",
+    "question_number": 12,
+    "answer_text": "• p (of de steekproefproportie van het aantal automobilisten dat te hard rijdt) is (100 − 2 − 7)/100 = 0,91 (1 punt)\n• n (of de steekproefomvang) is 100 (1 punt)\n• Het 95%-betrouwbaarheidsinterval van de populatieproportie is 0,91 ± 2 · √(0,91(1 − 0,91)/100) (1 punt)\n• Het antwoord: [85; 97] (%) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "p (of de steekproefproportie van het aantal automobilisten dat te hard rijdt) is (100 − 2 − 7)/100 = 0,91"
+     },
+     {
+      "points": 1,
+      "description": "n (of de steekproefomvang) is 100"
+     },
+     {
+      "points": 1,
+      "description": "Het 95%-betrouwbaarheidsinterval van de populatieproportie is 0,91 ± 2 · √(0,91(1 − 0,91)/100)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: [85; 97] (%)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-snelheidsovertredingen-antw12.png"
+    ]
+   },
+   {
+    "title": "Snelheidsovertredingen",
+    "question_number": 13,
+    "answer_text": "Een voorbeeld van een juist antwoord:\n• Een boxplot is niet geschikt: 66% rijdt langzamer dan de snelheidslimiet en dat percentage zie je in een boxplot niet terug (1 punt)\n• Een spreidingsdiagram is niet geschikt, omdat het hier niet gaat om een verband tussen twee variabelen (1 punt)\n• Een cumulatieve relatieve frequentiepolygoon is geschikt, omdat hierin valt af te lezen welk percentage langzamer reed, dus ook voor de snelheidslimiet (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een boxplot is niet geschikt: 66% rijdt langzamer dan de snelheidslimiet en dat percentage zie je in een boxplot niet terug"
+     },
+     {
+      "points": 1,
+      "description": "Een spreidingsdiagram is niet geschikt, omdat het hier niet gaat om een verband tussen twee variabelen"
+     },
+     {
+      "points": 1,
+      "description": "Een cumulatieve relatieve frequentiepolygoon is geschikt, omdat hierin valt af te lezen welk percentage langzamer reed, dus ook voor de snelheidslimiet"
+     }
+    ],
+    "grading_note": "Elk scorepunt mag alleen worden toegekend als een juiste toelichting is gegeven.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-snelheidsovertredingen-antw13.png"
+    ]
+   },
+   {
+    "title": "Snelheidsovertredingen",
+    "question_number": 14,
+    "answer_text": "• In de situatie zonder matrixborden hielden 58 auto's zich niet aan de snelheidslimiet, in de situatie met matrixborden hielden 30 auto's zich niet aan de snelheidslimiet (1 punt)\n• Een correcte kruistabel, bijvoorbeeld (1 punt)\n  Kruistabel:\n  | | hield zich aan de snelheidslimiet | hield zich niet aan de snelheidslimiet | (totaal) |\n  | situatie zonder matrixborden | 111 | 58 | (169) |\n  | situatie met matrixborden | 183 | 30 | (213) |\n  | (totaal) | (294) | (88) | (382) |\n• phi = (111 · 30 − 183 · 58)/√((111 + 58)(111 + 183)(58 + 30)(183 + 30)) (1 punt)\n• phi = −0,23…; (dit ligt tussen −0,2 en −0,4) dus het verschil is middelmatig (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In de situatie zonder matrixborden hielden 58 auto's zich niet aan de snelheidslimiet, in de situatie met matrixborden hielden 30 auto's zich niet aan de snelheidslimiet"
+     },
+     {
+      "points": 1,
+      "description": "Een correcte kruistabel, bijvoorbeeld"
+     },
+     {
+      "points": 1,
+      "description": "phi = (111 · 30 − 183 · 58)/√((111 + 58)(111 + 183)(58 + 30)(183 + 30))"
+     },
+     {
+      "points": 1,
+      "description": "phi = −0,23…; (dit ligt tussen −0,2 en −0,4) dus het verschil is middelmatig"
+     }
+    ],
+    "grading_note": "– Als bij de berekening van phi voor a, b, c en d de getallen 111, 169, 183 en 213 worden gebruikt, voor deze vraag maximaal 2 scorepunten toekennen.\n– Als bij het beantwoorden van deze vraag de verschilmaat max Vcp en de bijbehorende vuistregel van het formuleblad wordt gebruikt, hiervoor geen scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-snelheidsovertredingen-antw14.png"
+    ]
+   },
+   {
+    "title": "Motorblokken bestellen",
+    "question_number": 15,
+    "answer_text": "• Het aantal bestellingen is 27000/q (1 punt)\n• Per bestelling zijn de kosten B (euro), dus in totaal zijn de bestelkosten gelijk aan 27000/q · B (euro) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het aantal bestellingen is 27000/q"
+     },
+     {
+      "points": 1,
+      "description": "Per bestelling zijn de kosten B (euro), dus in totaal zijn de bestelkosten gelijk aan 27000/q · B (euro)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-motorblokken-bestellen-antw15.png"
+    ]
+   },
+   {
+    "title": "Motorblokken bestellen",
+    "question_number": 16,
+    "answer_text": "• Bij 10 keer bestellen is de bestelhoeveelheid (27000/10 =) 2700 (motorblokken) (1 punt)\n• Bij 10 keer bestellen zijn de totale kosten TK = 54000000 + 27000/2700 · 1800 + 60 · 2700 = 54180000 (euro) (1 punt)\n• Bij 1 keer bestellen zijn de totale kosten TK = 54000000 + 27000/27000 · 1800 + 60 · 27000 = 55621800 (euro) (1 punt)\n• Het verschil is 55621800 − 54180000 = 1441800 (euro) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij 10 keer bestellen is de bestelhoeveelheid (27000/10 =) 2700 (motorblokken)"
+     },
+     {
+      "points": 1,
+      "description": "Bij 10 keer bestellen zijn de totale kosten TK = 54000000 + 27000/2700 · 1800 + 60 · 2700 = 54180000 (euro)"
+     },
+     {
+      "points": 1,
+      "description": "Bij 1 keer bestellen zijn de totale kosten TK = 54000000 + 27000/27000 · 1800 + 60 · 27000 = 55621800 (euro)"
+     },
+     {
+      "points": 1,
+      "description": "Het verschil is 55621800 − 54180000 = 1441800 (euro)"
+     }
+    ],
+    "grading_note": "Als in de formule voor TK in het tweede en derde antwoordelement respectievelijk 10 en 1 is ingevuld voor q, voor deze vraag maximaal 2 scorepunten toekennen",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-motorblokken-bestellen-antw16.png"
+    ]
+   },
+   {
+    "title": "Motorblokken bestellen",
+    "question_number": 17,
+    "answer_text": "• De vergelijking 27000/q · 1800 = 60q moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Dit geeft q = 900 (1 punt)\n• Het aantal bestellingen is 27000/900, dus 30 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 27000/q · 1800 = 60q moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft q = 900"
+     },
+     {
+      "points": 1,
+      "description": "Het aantal bestellingen is 27000/900, dus 30"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-motorblokken-bestellen-antw17.png"
+    ]
+   },
+   {
+    "title": "Motorblokken bestellen",
+    "question_number": 18,
+    "answer_text": "• 27000 · B = 60q² (1 punt)\n• q² = 450B (1 punt)\n• q = √(450B) geeft q = 21,21… · √B (of q = √450 · √B) (1 punt)\n• (Afgerond geeft dit) het antwoord: q = 21√B (of a = 21) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "27000 · B = 60q²"
+     },
+     {
+      "points": 1,
+      "description": "q² = 450B"
+     },
+     {
+      "points": 1,
+      "description": "q = √(450B) geeft q = 21,21… · √B (of q = √450 · √B)"
+     },
+     {
+      "points": 1,
+      "description": "(Afgerond geeft dit) het antwoord: q = 21√B (of a = 21)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-motorblokken-bestellen-antw18.png"
+    ]
+   },
+   {
+    "title": "Sprinten met rugwind",
+    "question_number": 19,
+    "answer_text": "• Powell loopt met een snelheid van 100/9,74 (= 10,266…) (m/s) (1 punt)\n• Hij loopt nog 9,74 − 9,58 (= 0,16) (s) (1 punt)\n• Powell had nog 0,16 · 10,266… = 1,64 (m) te gaan (1 punt)\n\nof\n\n• Powell loopt met een snelheid van 100/9,74 (= 10,266…) (m/s) (1 punt)\n• Toen Bolt finishte had Powell 9,58 · 10,266… (= 98,357…) (m) afgelegd (1 punt)\n• Powell had nog 100 − 98,357… = 1,64 (m) te gaan (1 punt)\n\nof\n\n• De snelheid van Powell was 9,58/9,74 (= 0,98357…) keer zo groot als die van Bolt (1 punt)\n• Powell had 0,98357… · 100 (= 98,357…) (m) afgelegd op het moment dat Bolt finishte (1 punt)\n• Powell had nog 100 − 98,357… = 1,64 (m) te gaan (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Powell loopt met een snelheid van 100/9,74 (= 10,266…) (m/s)"
+     },
+     {
+      "points": 1,
+      "description": "Hij loopt nog 9,74 − 9,58 (= 0,16) (s)"
+     },
+     {
+      "points": 1,
+      "description": "Powell had nog 0,16 · 10,266… = 1,64 (m) te gaan"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-sprinten-met-rugwind-antw19.png"
+    ]
+   },
+   {
+    "title": "Sprinten met rugwind",
+    "question_number": 20,
+    "answer_text": "• Z = 1,03 · 9,58 − 0,03 · 9,58 · (1 − (0,9 · 9,58)/100)² (1 punt)\n• Z = 9,62… (1 punt)\n• 9,62… = 1,03M − 0,03M · (1 − (2,0 · M)/100)² (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• (Dit geeft M = 9,528…, dus) het antwoord: M = 9,53 (s) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Z = 1,03 · 9,58 − 0,03 · 9,58 · (1 − (0,9 · 9,58)/100)²"
+     },
+     {
+      "points": 1,
+      "description": "Z = 9,62…"
+     },
+     {
+      "points": 1,
+      "description": "9,62… = 1,03M − 0,03M · (1 − (2,0 · M)/100)²"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "(Dit geeft M = 9,528…, dus) het antwoord: M = 9,53 (s)"
+     }
+    ],
+    "grading_note": "– Als de getallen 0,9 en 2,0 in bovenstaande berekening zijn verwisseld, voor deze vraag maximaal 4 scorepunten toekennen.\n– Als de vergelijking 9,58 = 1,03M − 0,03M · (1 − (2,0 · M)/100)² wordt opgelost, voor deze vraag maximaal 2 scorepunten toekennen.\n– Als het antwoord met 1,03 · 9,58 − 0,03 · 9,58 · (1 − (2,0 · 9,58)/100)² berekend wordt, voor deze vraag geen scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-sprinten-met-rugwind-antw20.png"
+    ]
+   },
+   {
+    "title": "AOW-uitkering",
+    "question_number": 21,
+    "answer_text": "• In 2012 is het aantal AOW-gerechtigden 16,7 · 0,162 (= 2,70…) (miljoen) (1 punt)\n• In 2012 is het totaalbedrag aan AOW-uitkeringen 10980 · 2,70… (= 29705,…) (miljoen) (1 punt)\n• Bij een groei van 0,44% (per jaar) hoort een groeifactor van 1,0044 (per jaar) (1 punt)\n• Totale bevolking 2023: 16,7 · 1,0044¹¹ (= 17,52…) (miljoen) (1 punt)\n• In 2023 is het aantal AOW-gerechtigden 17,52… · 0,177 (= 3,10…) (miljoen) (1 punt)\n• 29705,… (miljoen) delen door 3,10… (miljoen) geeft een AOW-uitkering in 2023 van 9575,70 (of 9576) (euro) per persoon (1 punt)\n\nof\n\n• In 2012 is het aantal AOW-gerechtigden 16,7 · 0,162 (= 2,70…) (miljoen) (1 punt)\n• In 2012 is het totaalbedrag aan AOW-uitkeringen 10980 · 2,70… (= 29705,…) (miljoen) (1 punt)\n• Bij een groei van 0,44% (per jaar) hoort een groeifactor van 1,0044 (per jaar) (1 punt)\n• Totale bevolking 2023: 16,7 · 1,0044¹¹ (= 17,52…) (miljoen) (1 punt)\n• In 2023 is het aantal AOW-gerechtigden 17,52… · 0,177 (= 3,10…) (miljoen) (1 punt)\n• Bij een AOW-uitkering van 10980 (euro) is het totaalbedrag aan AOW-uitkeringen 10980 · 3,10… = 34061,… (miljoen); dat zou een toename van 34061,… − 29705,… = 4356,… (miljoen) betekenen; dus moet de AOW-uitkering 4356,… : 3,10… = 1404,30 (euro) lager worden; dus de AOW-uitkering per persoon in 2023 moet 10980 − 1404,30 = 9575,70 (of 9576) (euro) zijn (1 punt)\n\nof\n\n• In 2012 is het aantal AOW-gerechtigden 16,7 · 0,162 (= 2,70…) (miljoen) (1 punt)\n• Bij een groei van 0,44% (per jaar) hoort een groeifactor van 1,0044 (per jaar) (1 punt)\n• Totale bevolking 2023: 16,7 · 1,0044¹¹ (= 17,52…) (miljoen) (1 punt)\n• In 2023 is het aantal AOW-gerechtigden 17,52… · 0,177 (= 3,10…) (miljoen) (1 punt)\n• Het aantal AOW-gerechtigden in 2023 is 3,10…/2,70… (= 1,14…) keer zo groot als in 2012 (1 punt)\n• De AOW-uitkering per persoon in 2023 moet 1,14… keer zo klein zijn als in 2012, dus 10980/1,14… = 9575,70 (of 9576) (euro) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In 2012 is het aantal AOW-gerechtigden 16,7 · 0,162 (= 2,70…) (miljoen)"
+     },
+     {
+      "points": 1,
+      "description": "In 2012 is het totaalbedrag aan AOW-uitkeringen 10980 · 2,70… (= 29705,…) (miljoen)"
+     },
+     {
+      "points": 1,
+      "description": "Bij een groei van 0,44% (per jaar) hoort een groeifactor van 1,0044 (per jaar)"
+     },
+     {
+      "points": 1,
+      "description": "Totale bevolking 2023: 16,7 · 1,0044¹¹ (= 17,52…) (miljoen)"
+     },
+     {
+      "points": 1,
+      "description": "In 2023 is het aantal AOW-gerechtigden 17,52… · 0,177 (= 3,10…) (miljoen)"
+     },
+     {
+      "points": 1,
+      "description": "29705,… (miljoen) delen door 3,10… (miljoen) geeft een AOW-uitkering in 2023 van 9575,70 (of 9576) (euro) per persoon"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2022-i-aow-uitkering-antw21.png"
+    ]
+   }
+  ]
+ }
+}
