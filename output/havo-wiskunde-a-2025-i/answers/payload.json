@@ -1,0 +1,567 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde A 2025-I",
+  "answers": [
+   {
+    "title": "CO₂ en andere broeikasgassen",
+    "question_number": 1,
+    "answer_text": "• Doelstelling is (15,1/2 =) 7,55 (ton per inwoner per jaar) in 2030 (1 punt)\n• Per jaar is de uitstoot gedaald met ((15,1 − 11,6)/(2017 − 1990) =) 3,5/27 (= 0,129…) (ton per inwoner per jaar) (1 punt)\n• Van 2017 tot 2030 is de afname 13 · 0,129… (= 1,685…) (ton per inwoner per jaar) (1 punt)\n• In 2030 is de uitstoot 11,6 − 1,685… (= 9,91…) (ton per inwoner per jaar) en dat is meer dan 7,55, dus de doelstelling wordt niet gehaald (1 punt)\nof\n• Doelstelling is (15,1/2 =) 7,55 (ton per inwoner per jaar) in 2030 (1 punt)\n• Er is per jaar een afname nodig van minimaal ((15,1 − 7,55)/(2030 − 1990) =) 7,55/40 (= 0,188…) (ton per inwoner per jaar) (1 punt)\n• Per jaar is de uitstoot gedaald met ((15,1 − 11,6)/(2017 − 1990) =) 3,5/27 (= 0,129…) (ton per inwoner per jaar) (1 punt)\n• 0,129… is minder dan 0,188…, dus de doelstelling wordt niet gehaald (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Doelstelling is (15,1/2 =) 7,55 (ton per inwoner per jaar) in 2030"
+     },
+     {
+      "points": 1,
+      "description": "Per jaar is de uitstoot gedaald met ((15,1 − 11,6)/(2017 − 1990) =) 3,5/27 (= 0,129…) (ton per inwoner per jaar)"
+     },
+     {
+      "points": 1,
+      "description": "Van 2017 tot 2030 is de afname 13 · 0,129… (= 1,685…) (ton per inwoner per jaar)"
+     },
+     {
+      "points": 1,
+      "description": "In 2030 is de uitstoot 11,6 − 1,685… (= 9,91…) (ton per inwoner per jaar) en dat is meer dan 7,55, dus de doelstelling wordt niet gehaald"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-co2-en-andere-broeikasgassen-antw1.png"
+    ]
+   },
+   {
+    "title": "CO₂ en andere broeikasgassen",
+    "question_number": 2,
+    "answer_text": "• CO₂-uitstoot in 1900 en 1980 aflezen: 2,5 (miljard ton) respectievelijk 18 (miljard ton) (1 punt)\n• De groeifactor per 80 jaar is 18/2,5 (= 7,2) (1 punt)\n• De groeifactor per jaar is (18/2,5)^(1/80) (1 punt)\n• Dit is 1,0249… (1 punt)\n• Het antwoord: 2,5(%) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "CO₂-uitstoot in 1900 en 1980 aflezen: 2,5 (miljard ton) respectievelijk 18 (miljard ton)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per 80 jaar is 18/2,5 (= 7,2)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per jaar is (18/2,5)^(1/80)"
+     },
+     {
+      "points": 1,
+      "description": "Dit is 1,0249…"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 2,5(%)"
+     }
+    ],
+    "grading_note": "− De CO2-uitstoot in 1900 en 1980 mag afgelezen worden met een marge van 1 (miljard ton).\n− Als gerekend wordt met (18 − 2,5)^(1/80), voor deze vraag maximaal 3 scorepunten toekennen.\n− Als gerekend wordt met (18/2,5) : 80, voor deze vraag maximaal 3 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-co2-en-andere-broeikasgassen-antw2.png"
+    ]
+   },
+   {
+    "title": "CO₂ en andere broeikasgassen",
+    "question_number": 3,
+    "answer_text": "• Aflezen 10,9 (miljard ton) CO₂-uitstoot en 2,6 (miljard ton) overige uitstoot (1 punt)\n• Dat geeft 13,5 (miljard ton) totale uitstoot aan broeikasgassen (1 punt)\n• De gemiddelde uitstoot van alle broeikasgassen per inwoner in 2017 is (13,5/1,386 =) 9,7… (ton) (1 punt)\n• De ranglijst: Verenigde Staten, Rusland, Japan, China, Europese Unie, India (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Aflezen 10,9 (miljard ton) CO₂-uitstoot en 2,6 (miljard ton) overige uitstoot"
+     },
+     {
+      "points": 1,
+      "description": "Dat geeft 13,5 (miljard ton) totale uitstoot aan broeikasgassen"
+     },
+     {
+      "points": 1,
+      "description": "De gemiddelde uitstoot van alle broeikasgassen per inwoner in 2017 is (13,5/1,386 =) 9,7… (ton)"
+     },
+     {
+      "points": 1,
+      "description": "De ranglijst: Verenigde Staten, Rusland, Japan, China, Europese Unie, India"
+     }
+    ],
+    "grading_note": "− De CO2-uitstoot en de overige uitstoot mogen afgelezen worden met een marge van 0,2 (miljard ton) respectievelijk 0,05 (miljard ton).\n− In het laatste antwoordelement mag de ranglijst ook in omgekeerde volgorde gegeven worden.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-co2-en-andere-broeikasgassen-antw3.png"
+    ]
+   },
+   {
+    "title": "CO₂ en andere broeikasgassen",
+    "question_number": 4,
+    "answer_text": "• In 2017 is de waarde 3,6/1,34 (= 2,686…) (1 punt)\n• De vergelijking (3,6 · 1,02ᵗ)/(1,34 + 0,01 · t) = (2 · 2,686… =) 5,373… moet worden opgelost (1 punt)\n• (3,6 · 1,02⁵¹)/(1,34 + 0,01 · 51) = 5,34… (1 punt)\n• (3,6 · 1,02⁵²)/(1,34 + 0,01 · 52) = 5,41… (1 punt)\n• Voor het eerst in het jaar (2017 + 52 =) 2069 (1 punt)\nof\n• In 2017 is de waarde 3,6/1,34 (= 2,686…) (1 punt)\n• De vergelijking (3,6 · 1,02ᵗ)/(1,34 + 0,01 · t) = (2 · 2,686… =) 5,373… moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• De oplossing t = 51,3… (dus 52 jaar) (1 punt)\n• Voor het eerst in het jaar (2017 + 52 =) 2069 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In 2017 is de waarde 3,6/1,34 (= 2,686…)"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking (3,6 · 1,02ᵗ)/(1,34 + 0,01 · t) = (2 · 2,686… =) 5,373… moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "(3,6 · 1,02⁵¹)/(1,34 + 0,01 · 51) = 5,34…"
+     },
+     {
+      "points": 1,
+      "description": "(3,6 · 1,02⁵²)/(1,34 + 0,01 · 52) = 5,41…"
+     },
+     {
+      "points": 1,
+      "description": "Voor het eerst in het jaar (2017 + 52 =) 2069"
+     }
+    ],
+    "grading_note": "Het aantal inwoners in 2017 (1,339 miljard) en de gemiddelde uitstoot van alle broeikasgassen per inwoner in 2017 (2,7 ton) mogen ook uit de tabel worden afgelezen",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-co2-en-andere-broeikasgassen-antw4.png"
+    ]
+   },
+   {
+    "title": "CO₂ en andere broeikasgassen",
+    "question_number": 5,
+    "answer_text": "• De teller en noemer van de breuk groeien beide exponentieel (1 punt)\n• De teller groeit langzamer dan de noemer (1 punt)\n• Hierdoor wordt (de waarde van) de breuk (U/BNP) steeds kleiner (dus er is sprake van een dalende trend) (1 punt)\nof\n• De groeifactor in de formule voor het BNP is groter dan de groeifactor in de formule voor de U (1 punt)\n• Het BNP wordt dus sneller groter dan de U (1 punt)\n• Hierdoor wordt (de waarde van) de breuk (U/BNP) steeds kleiner (dus er is sprake van een dalende trend) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De teller en noemer van de breuk groeien beide exponentieel"
+     },
+     {
+      "points": 1,
+      "description": "De teller groeit langzamer dan de noemer"
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor wordt (de waarde van) de breuk (U/BNP) steeds kleiner (dus er is sprake van een dalende trend)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-co2-en-andere-broeikasgassen-antw5.png"
+    ]
+   },
+   {
+    "title": "Grut van grutto’s",
+    "question_number": 6,
+    "answer_text": "• De groeifactor (per dag) is 0,98 (1 punt)\n• 0,98²⁴ (= 0,615…) (1 punt)\n• ((1 − 0,615…) · 100 =) 38(%) (van de nesten gaat verloren) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De groeifactor (per dag) is 0,98"
+     },
+     {
+      "points": 1,
+      "description": "0,98²⁴ (= 0,615…)"
+     },
+     {
+      "points": 1,
+      "description": "((1 − 0,615…) · 100 =) 38(%) (van de nesten gaat verloren)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-grut-van-gruttos-antw6.png"
+    ]
+   },
+   {
+    "title": "Grut van grutto’s",
+    "question_number": 7,
+    "answer_text": "• Voor d = 0 geldt G = 273/(1,08 + 12,5 · 0,8⁰) (= 20,…) (1 punt)\n• Voor d = 24 geldt G = 273/(1,08 + 12,5 · 0,8²⁴) (= 239,…) (1 punt)\n• Het kuiken is (239,…/20,… = 11,9…, dus) 12 keer zo zwaar (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor d = 0 geldt G = 273/(1,08 + 12,5 · 0,8⁰) (= 20,…)"
+     },
+     {
+      "points": 1,
+      "description": "Voor d = 24 geldt G = 273/(1,08 + 12,5 · 0,8²⁴) (= 239,…)"
+     },
+     {
+      "points": 1,
+      "description": "Het kuiken is (239,…/20,… = 11,9…, dus) 12 keer zo zwaar"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-grut-van-gruttos-antw7.png"
+    ]
+   },
+   {
+    "title": "Grut van grutto’s",
+    "question_number": 8,
+    "answer_text": "• Beschrijven hoe de waarde van G kan worden berekend, waarvoor T maximaal is (1 punt)\n• Dit geeft G = 127,… (1 punt)\n• De vergelijking 127,… = 273/(1,08 + 12,5 · 0,8ᵈ) moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Het antwoord: d = 11 (1 punt)\nof\n• Het inzicht om de formule voor G te substitueren in die van T (2 punten)\n• T = 3000 − 0,6 · (273/(1,08 + 12,5 · 0,8ᵈ))² + 152,9 · (273/(1,08 + 12,5 · 0,8ᵈ)) (1 punt)\n• Beschrijven hoe de waarde van d kan worden berekend, waarvoor T maximaal is (1 punt)\n• Het antwoord: d = 11 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de waarde van G kan worden berekend, waarvoor T maximaal is"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft G = 127,…"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking 127,… = 273/(1,08 + 12,5 · 0,8ᵈ) moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: d = 11"
+     }
+    ],
+    "grading_note": "Voor het eerste antwoordelement in het tweede alternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-grut-van-gruttos-antw8.png"
+    ]
+   },
+   {
+    "title": "Grut van grutto’s",
+    "question_number": 9,
+    "answer_text": "• Voor grote waarden van d zal 0,74^(d − 14,69) naderen naar 0 (1 punt)\n• Dan nadert 2,15/(1 + 0,74^(d − 14,69)) naar 2,15/1 (1 punt)\n• De (grens)waarde is (1,309 + 2,15 =) 3,459 (mg droge stof) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor grote waarden van d zal 0,74^(d − 14,69) naderen naar 0"
+     },
+     {
+      "points": 1,
+      "description": "Dan nadert 2,15/(1 + 0,74^(d − 14,69)) naar 2,15/1"
+     },
+     {
+      "points": 1,
+      "description": "De (grens)waarde is (1,309 + 2,15 =) 3,459 (mg droge stof)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-grut-van-gruttos-antw9.png"
+    ]
+   },
+   {
+    "title": "Grut van grutto’s",
+    "question_number": 10,
+    "answer_text": "• Conclusie I kun je wel trekken, met een juiste uitleg (2 punten)\nVoorbeeld van een juiste uitleg bij conclusie I:\nDe boxen overlappen elkaar niet, dus er is een groot verschil (in grondwaterstand in graslanden met een afnemend aantal grutto’s en in graslanden met een stabiel aantal grutto’s).\n• Conclusie II kun je niet trekken, met een juiste uitleg (2 punten)\nVoorbeeld van een juiste uitleg bij conclusie II:\nDe mediaan ligt niet in het midden van de box, dus de verdeling (van de grondwaterstand van graslanden met een afnemend aantal grutto’s) is niet symmetrisch. Dan kan deze verdeling geen normale verdeling zijn.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Conclusie I kun je wel trekken, met een juiste uitleg"
+     },
+     {
+      "points": 2,
+      "description": "Conclusie II kun je niet trekken, met een juiste uitleg"
+     }
+    ],
+    "grading_note": "Voor elk antwoordelement mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-grut-van-gruttos-antw10.png"
+    ]
+   },
+   {
+    "title": "Grut van grutto’s",
+    "question_number": 11,
+    "answer_text": "• Volgens het onderzoeksinstituut is de groeifactor 0,5 per 13 jaar (1 punt)\n• Dat is 0,5^(1/13) = 0,948… per jaar (1 punt)\n• Volgens Vogelbescherming Nederland is de groeifactor 1/3 per 29 jaar (1 punt)\n• Dat is (1/3)^(1/29) = 0,962… per jaar (1 punt)\n• De groeifactor per jaar is volgens Vogelbescherming Nederland (0,962…) groter dan volgens het onderzoeksinstituut (0,948…). In 2019 zijn er volgens Vogelbescherming Nederland meer grutto's (1 punt)\nof\n• Volgens het onderzoeksinstituut is de groeifactor 0,5 per 13 jaar (1 punt)\n• Dat is 0,5^(1/13) (= 0,948…) per jaar (1 punt)\n• Volgens het onderzoeksinstituut is de groeifactor (0,948…)²⁹ = 0,213… per 29 jaar (1 punt)\n• Volgens Vogelbescherming Nederland is de groeifactor 1/3 (= 0,333…) per 29 jaar (1 punt)\n• De groeifactor per 29 jaar is volgens Vogelbescherming Nederland (1/3) groter dan volgens het onderzoeksinstituut (0,213…), dus in 2019 zijn er volgens Vogelbescherming Nederland meer grutto's (1 punt)\nof\n• Volgens het onderzoeksinstituut is de groeifactor 0,5 per 13 jaar (1 punt)\n• Dat is 0,5² = 0,25 per 26 jaar (1 punt)\n• Volgens het onderzoeksinstituut is de groeifactor kleiner dan 0,25 per 29 jaar (1 punt)\n• Volgens Vogelbescherming Nederland is de groeifactor 1/3 (= 0,333…) per 29 jaar (1 punt)\n• De groeifactor per 29 jaar is volgens Vogelbescherming Nederland (1/3) groter dan volgens het onderzoeksinstituut (kleiner dan 0,25), dus in 2019 zijn er volgens Vogelbescherming Nederland meer grutto's (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Volgens het onderzoeksinstituut is de groeifactor 0,5 per 13 jaar"
+     },
+     {
+      "points": 1,
+      "description": "Dat is 0,5^(1/13) = 0,948… per jaar"
+     },
+     {
+      "points": 1,
+      "description": "Volgens Vogelbescherming Nederland is de groeifactor 1/3 per 29 jaar"
+     },
+     {
+      "points": 1,
+      "description": "Dat is (1/3)^(1/29) = 0,962… per jaar"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per jaar is volgens Vogelbescherming Nederland (0,962…) groter dan volgens het onderzoeksinstituut (0,948…). In 2019 zijn er volgens Vogelbescherming Nederland meer grutto's"
+     }
+    ],
+    "grading_note": "− Als bij het eerste of tweede alternatief gerekend wordt met 0,5:13, voor deze vraag maximaal 3 scorepunten toekennen.\n− Als bij het eerste alternatief gerekend wordt met 1/3 : 29, voor deze vraag maximaal 3 scorepunten toekennen.\n− Als bij het eerste alternatief gerekend wordt met 0,5:13 en 1/3 : 29, voor deze vraag maximaal 1 scorepunt toekennen",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-grut-van-gruttos-antw11.png"
+    ]
+   },
+   {
+    "title": "Mantelzorgers",
+    "question_number": 12,
+    "answer_text": "• Het percentage 50-74-jarige mantelzorgers is (88 − 28 =) 60 (%) (1 punt)\n• Het 95%-betrouwbaarheidsinterval voor de populatieproportie is [0,6 − 2 · √(0,6 · (1 − 0,6)/2749); 0,6 + 2 · √(0,6 · (1 − 0,6)/2749)] (1 punt)\n• Het antwoord: [58,1; 61,9] (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het percentage 50-74-jarige mantelzorgers is (88 − 28 =) 60 (%)"
+     },
+     {
+      "points": 1,
+      "description": "Het 95%-betrouwbaarheidsinterval voor de populatieproportie is [0,6 − 2 · √(0,6 · (1 − 0,6)/2749); 0,6 + 2 · √(0,6 · (1 − 0,6)/2749)]"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: [58,1; 61,9]"
+     }
+    ],
+    "grading_note": "De percentages bij de leeftijdsgroep 50-74 jaar mogen afgelezen worden met een marge van 1.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-mantelzorgers-antw12.png"
+    ]
+   },
+   {
+    "title": "Mantelzorgers",
+    "question_number": 13,
+    "answer_text": "• Groei jongere ouderen met 25% leidt tot de factor 1,25 (1 punt)\n• OOSR₂₀₁₅ = (1,25 · aantal jongere ouderen₁₉₇₅)/(2,5 · aantal oudere ouderen₁₉₇₅) = 0,5 · OOSR₁₉₇₅ (1 punt)\n• De OOSR is met 50% afgenomen (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Groei jongere ouderen met 25% leidt tot de factor 1,25"
+     },
+     {
+      "points": 1,
+      "description": "OOSR₂₀₁₅ = (1,25 · aantal jongere ouderen₁₉₇₅)/(2,5 · aantal oudere ouderen₁₉₇₅) = 0,5 · OOSR₁₉₇₅"
+     },
+     {
+      "points": 1,
+      "description": "De OOSR is met 50% afgenomen"
+     }
+    ],
+    "grading_note": "Het antwoord mag ook gevonden worden met behulp van een getallenvoorbeeld.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-mantelzorgers-antw13.png"
+    ]
+   },
+   {
+    "title": "Mantelzorgers",
+    "question_number": 14,
+    "answer_text": "• Bevolkingsdiagram I heeft minder oudere ouderen dan bevolkingsdiagram II (1 punt)\n• Bevolkingsdiagram I heeft meer jongere ouderen dan bevolkingsdiagram II (1 punt)\n• Hoe kleiner het aantal oudere ouderen ten opzichte van het aantal jongere ouderen, hoe hoger de OOSR (1 punt)\n• Dus bevolkingsdiagram I hoort bij gemeente A (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bevolkingsdiagram I heeft minder oudere ouderen dan bevolkingsdiagram II"
+     },
+     {
+      "points": 1,
+      "description": "Bevolkingsdiagram I heeft meer jongere ouderen dan bevolkingsdiagram II"
+     },
+     {
+      "points": 1,
+      "description": "Hoe kleiner het aantal oudere ouderen ten opzichte van het aantal jongere ouderen, hoe hoger de OOSR"
+     },
+     {
+      "points": 1,
+      "description": "Dus bevolkingsdiagram I hoort bij gemeente A"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-mantelzorgers-antw14.png"
+    ]
+   },
+   {
+    "title": "Mantelzorgers",
+    "question_number": 15,
+    "answer_text": "Bij vraag 15 moeten altijd 3 scorepunten worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord. Toelichting: In de tekst boven de vraag ontbreekt de zin: ‘We nemen aan dat het in beide jaren om hetzelfde aantal gemeenten gaat.’ Deze informatie is nodig om de vraag te kunnen beantwoorden.\n• In 2015 heeft 50% van die gemeenten een OOSR van minder dan 16 (1 punt)\n• In 2020 heeft 75% van die gemeenten een OOSR van minder dan 16 (1 punt)\n• (Het gaat in beide jaren om hetzelfde aantal gemeenten en 75% − 50% = 25%, dus) de bewering is juist (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In 2015 heeft 50% van die gemeenten een OOSR van minder dan 16"
+     },
+     {
+      "points": 1,
+      "description": "In 2020 heeft 75% van die gemeenten een OOSR van minder dan 16"
+     },
+     {
+      "points": 1,
+      "description": "(Het gaat in beide jaren om hetzelfde aantal gemeenten en 75% − 50% = 25%, dus) de bewering is juist"
+     }
+    ],
+    "grading_note": "De redenering mag ook gegeven worden met behulp van een getallenvoorbeeld.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-mantelzorgers-antw15.png"
+    ]
+   },
+   {
+    "title": "Mantelzorgers",
+    "question_number": 16,
+    "answer_text": "• De variabelen in het onderzoek zijn '(mate van) tevredenheid' en 'soort deelnemer' (bewoner of mantelzorger) (1 punt)\n• '(Mate van) tevredenheid' is logisch te ordenen (en kwalitatief), dus ordinaal (1 punt)\n• 'Soort deelnemer' is niet logisch te ordenen, dus nominaal (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De variabelen in het onderzoek zijn '(mate van) tevredenheid' en 'soort deelnemer' (bewoner of mantelzorger)"
+     },
+     {
+      "points": 1,
+      "description": "'(Mate van) tevredenheid' is logisch te ordenen (en kwalitatief), dus ordinaal"
+     },
+     {
+      "points": 1,
+      "description": "'Soort deelnemer' is niet logisch te ordenen, dus nominaal"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-mantelzorgers-antw16.png"
+    ]
+   },
+   {
+    "title": "Mantelzorgers",
+    "question_number": 17,
+    "answer_text": "• De percentages aflezen (1 punt)\n• De cumulatieve frequentietabel opstellen (2 punten)\nCumulatieve frequentietabel:\nmate van tevredenheid | bewoners: percentage | bewoners: cumulatief percentage | mantelzorgers: percentage | mantelzorgers: cumulatief percentage | Vcp\nslecht | 0 | 0 | 1 | 1 | 1\nonvoldoende | 3 | 3 | 1 | 2 | 1\nvoldoende | 19 | 22 | 27 | 29 | 7\ngoed | 35 | 57 | 56 | 85 | 28\nuitstekend | (43) | (100) | (15) | (100) | (0)\n• maxVcp = 28; (20 < maxVcp ≤ 40, dus) het verschil is middelmatig (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De percentages aflezen"
+     },
+     {
+      "points": 2,
+      "description": "De cumulatieve frequentietabel opstellen"
+     },
+     {
+      "points": 1,
+      "description": "maxVcp = 28; (20 < maxVcp ≤ 40, dus) het verschil is middelmatig"
+     }
+    ],
+    "grading_note": "− De percentages mogen afgelezen worden met een marge van 0,5.\n− Voor het tweede antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.\n− Als er geen cumulatieve percentages zijn berekend, voor deze vraag maximaal 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-mantelzorgers-antw17.png"
+    ]
+   },
+   {
+    "title": "Hoe zwaar is een bergbeklimming met de fiets?",
+    "question_number": 18,
+    "answer_text": "• h = 143 en w = 2,83 (1 punt)\n• De zwaarte-index van de beklimming van de Vaalserberg is 143²/(10000 · 2,83) (= 0,722…) (1 punt)\n• Het antwoord: (12,1/0,722… = 16,7…, dus de zwaarte-index van de beklimming van de Mont Ventoux is) 17 (keer zo groot als die van de beklimming van de Vaalserberg) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "h = 143 en w = 2,83"
+     },
+     {
+      "points": 1,
+      "description": "De zwaarte-index van de beklimming van de Vaalserberg is 143²/(10000 · 2,83) (= 0,722…)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (12,1/0,722… = 16,7…, dus de zwaarte-index van de beklimming van de Mont Ventoux is) 17 (keer zo groot als die van de beklimming van de Vaalserberg)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-hoe-zwaar-is-een-bergbeklimming-met-de-fiets-antw18.png"
+    ]
+   },
+   {
+    "title": "Hoe zwaar is een bergbeklimming met de fiets?",
+    "question_number": 19,
+    "answer_text": "• h = 1860 − 799 (= 1061) (1 punt)\n• De vergelijking 1061²/(10000 · w) = 9,2 moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Het antwoord: 12 (km) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "h = 1860 − 799 (= 1061)"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking 1061²/(10000 · w) = 9,2 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 12 (km)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-hoe-zwaar-is-een-bergbeklimming-met-de-fiets-antw19.png"
+    ]
+   },
+   {
+    "title": "Hoe zwaar is een bergbeklimming met de fiets?",
+    "question_number": 20,
+    "answer_text": "• h² = 10000 · w · I (1 punt)\n• h = (√(10000 · w · I) =) √10000 · √(w · I) (= 100 · √(w · I)) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "h² = 10000 · w · I"
+     },
+     {
+      "points": 1,
+      "description": "h = (√(10000 · w · I) =) √10000 · √(w · I) (= 100 · √(w · I))"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-hoe-zwaar-is-een-bergbeklimming-met-de-fiets-antw20.png"
+    ]
+   },
+   {
+    "title": "Hoe zwaar is een bergbeklimming met de fiets?",
+    "question_number": 21,
+    "answer_text": "• Het tekenen van de grafiek die hoort bij I = 9,2 (1 punt)\n• Het tekenen van de grafiek die hoort bij I = 12,1 (1 punt)\n• Het aangeven van het gebied tussen deze twee grafieken (1 punt)\n(Figuur: grafiek met h (m) verticaal van 0 tot 800 en w (km) horizontaal van 0 tot 4, met de twee grafieken en het gearceerde gebied ertussen — zie afbeelding.)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het tekenen van de grafiek die hoort bij I = 9,2"
+     },
+     {
+      "points": 1,
+      "description": "Het tekenen van de grafiek die hoort bij I = 12,1"
+     },
+     {
+      "points": 1,
+      "description": "Het aangeven van het gebied tussen deze twee grafieken"
+     }
+    ],
+    "grading_note": "Bij het tekenen van de grafieken is verticaal een marge van 2 mm toegestaan.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-hoe-zwaar-is-een-bergbeklimming-met-de-fiets-antw21.png"
+    ]
+   },
+   {
+    "title": "Zorg om zorguitgaven",
+    "question_number": 22,
+    "answer_text": "• Het aantal verzekerden met een verwijzing is 0,3 · 17 (= 5,1) miljoen (1 punt)\n• Voor deze verzekerden worden de gemiddelde zorguitgaven aan huisartsen 510000000/5100000 = 100 (euro) per verzekerde hoger (1 punt)\n• Dit leidt tot (100/10 =) 10 keer een verlaging met 0,5% van de gemiddelde zorguitgaven aan specialisten per verzekerde met verwijzing (1 punt)\n• De gemiddelde zorguitgaven aan specialisten per verzekerde met verwijzing worden 0,995¹⁰ · 3500 (= 3328,8…) (euro) (1 punt)\n• De daling van de gemiddelde zorguitgaven aan specialisten per verzekerde met verwijzing is 3500 − 3328,8… = 171,11 (euro) (1 punt)\n• Deze daling (171,11 euro) is hoger dan de stijging (100 euro) (en de gemiddelde zorguitgaven van verzekerden zonder verwijzing blijven gelijk), dus de totale zorguitgaven zouden dan lager zijn (dan 19,637 miljard euro) (1 punt)\nof\n• Zorguitgaven aan huisartsen voor verzekerden met verwijzing waren 250 · 0,3 · 17 = 1275 (miljoen euro) en worden 1275 + 510 = 1785 (miljoen euro) (1 punt)\n• Dit is 1785/1275 = 1,4 keer zoveel, dus de gemiddelde zorguitgaven aan huisartsen worden 0,4 · 250 = 100 (euro) hoger per verzekerde met verwijzing (1 punt)\n• Dit leidt tot (100/10 =) 10 keer een verlaging met 0,5% van de gemiddelde zorguitgaven aan specialisten per verzekerde met verwijzing (1 punt)\n• De gemiddelde zorguitgaven aan specialisten per verzekerde met verwijzing worden 0,995¹⁰ · 3500 (= 3328,8…) (euro) (1 punt)\n• De totale zorguitgaven worden 43 · 0,7 · 17 + (350 + 3328,8…) · 0,3 · 17 = 19274,… miljoen (euro) (1 punt)\n• De totale zorguitgaven zouden dan lager zijn (want 19274 miljoen euro is minder dan 19,637 miljard euro) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het aantal verzekerden met een verwijzing is 0,3 · 17 (= 5,1) miljoen"
+     },
+     {
+      "points": 1,
+      "description": "Voor deze verzekerden worden de gemiddelde zorguitgaven aan huisartsen 510000000/5100000 = 100 (euro) per verzekerde hoger"
+     },
+     {
+      "points": 1,
+      "description": "Dit leidt tot (100/10 =) 10 keer een verlaging met 0,5% van de gemiddelde zorguitgaven aan specialisten per verzekerde met verwijzing"
+     },
+     {
+      "points": 1,
+      "description": "De gemiddelde zorguitgaven aan specialisten per verzekerde met verwijzing worden 0,995¹⁰ · 3500 (= 3328,8…) (euro)"
+     },
+     {
+      "points": 1,
+      "description": "De daling van de gemiddelde zorguitgaven aan specialisten per verzekerde met verwijzing is 3500 − 3328,8… = 171,11 (euro)"
+     },
+     {
+      "points": 1,
+      "description": "Deze daling (171,11 euro) is hoger dan de stijging (100 euro) (en de gemiddelde zorguitgaven van verzekerden zonder verwijzing blijven gelijk), dus de totale zorguitgaven zouden dan lager zijn (dan 19,637 miljard euro)"
+     }
+    ],
+    "grading_note": "Als niet met groeifactor 0,995 gerekend wordt, voor deze vraag maximaal 4 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-i-zorg-om-zorguitgaven-antw22.png"
+    ]
+   }
+  ]
+ }
+}
