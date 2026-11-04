@@ -1,0 +1,551 @@
+{
+  "payload": {
+    "subject_name": "Wiskunde A",
+    "level": "HAVO",
+    "source": "HAVO Wiskunde A 2024-I",
+    "answers": [
+      {
+        "title": "‘Ff me telefoon opladen’",
+        "question_number": 1,
+        "answer_text": "• Het inzicht dat het lineaire deel van de grafiek op de uitwerkbijlage naar rechts verlengd moet worden (1 punt)\n• Het aangeven dat er wordt afgelezen op hoogte 100(%) (1 punt)\n• Het antwoord: 50 (minuten) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het inzicht dat het lineaire deel van de grafiek op de uitwerkbijlage naar rechts verlengd moet worden"
+          },
+          {
+            "points": 1,
+            "description": "Het aangeven dat er wordt afgelezen op hoogte 100(%)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 50 (minuten)"
+          }
+        ],
+        "grading_note": "Als gevolg van tekenafwijkingen kan de afgelezen waarde redelijk variëren. Bij correctie dient daarmee rekening gehouden te worden.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-ff-me-telefoon-opladen-antw1.png"
+        ]
+      },
+      {
+        "title": "‘Ff me telefoon opladen’",
+        "question_number": 2,
+        "answer_text": "• Bij Sasha was de tijd bij batterijpercentage 10% gelijk aan 4 (minuten) en bij 90% gelijk aan 44 (minuten) (1 punt)\n• De batterij van Sasha gaat in (44 − 4 =) 40 minuten van 10% naar 90% (1 punt)\n• De batterij van Djimon zou in 57,5 minuten van 0% naar 90% gaan (1 punt)\n• De batterij van Djimon was (40 minuten eerder dan 57,5 minuten) 35% vol (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij Sasha was de tijd bij batterijpercentage 10% gelijk aan 4 (minuten) en bij 90% gelijk aan 44 (minuten)"
+          },
+          {
+            "points": 1,
+            "description": "De batterij van Sasha gaat in (44 − 4 =) 40 minuten van 10% naar 90%"
+          },
+          {
+            "points": 1,
+            "description": "De batterij van Djimon zou in 57,5 minuten van 0% naar 90% gaan"
+          },
+          {
+            "points": 1,
+            "description": "De batterij van Djimon was (40 minuten eerder dan 57,5 minuten) 35% vol"
+          }
+        ],
+        "grading_note": "– De tijden in het eerste en derde antwoordelement mogen afgelezen worden met een marge van 2 minuten.\n– Het percentage in het vierde antwoordelement mag afgelezen worden met een marge van 2 procent.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-ff-me-telefoon-opladen-antw2.png"
+        ]
+      },
+      {
+        "title": "‘Ff me telefoon opladen’",
+        "question_number": 3,
+        "answer_text": "• Bijvoorbeeld: in de eerste 30 minuten neemt het batterijpercentage van de PRO 5 met 60% toe en dat van de PRO 6 met 70% (1 punt)\n• Dan is voor de PRO 5 het getal c kleiner dan voor de PRO 6 (namelijk c = 60/30 = 2 respectievelijk c = 70/30 = 2,3 …) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bijvoorbeeld: in de eerste 30 minuten neemt het batterijpercentage van de PRO 5 met 60% toe en dat van de PRO 6 met 70%"
+          },
+          {
+            "points": 1,
+            "description": "Dan is voor de PRO 5 het getal c kleiner dan voor de PRO 6 (namelijk c = 60/30 = 2 respectievelijk c = 70/30 = 2,3 …)"
+          }
+        ],
+        "grading_note": "– De percentages in het eerste antwoordelement mogen afgelezen worden met een marge van 2 procent.\n– Als een juiste toelichting ontbreekt, voor deze vraag geen scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-ff-me-telefoon-opladen-antw3.png"
+        ]
+      },
+      {
+        "title": "‘Ff me telefoon opladen’",
+        "question_number": 4,
+        "answer_text": "• Het vermogen na 20 minuten is 14 (W), na 85 minuten 1 (W) (1 punt)\n• De groeifactor per 65 minuten is 1/14 (= 0,071 …) (1 punt)\n• De groeifactor per minuut is (1/14)¹ᐟ⁶⁵ (1 punt)\n• De groeifactor per minuut is 0,960 … (1 punt)\n• Het antwoord: 4 (%) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het vermogen na 20 minuten is 14 (W), na 85 minuten 1 (W)"
+          },
+          {
+            "points": 1,
+            "description": "De groeifactor per 65 minuten is 1/14 (= 0,071 …)"
+          },
+          {
+            "points": 1,
+            "description": "De groeifactor per minuut is (1/14)¹ᐟ⁶⁵"
+          },
+          {
+            "points": 1,
+            "description": "De groeifactor per minuut is 0,960 …"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 4 (%)"
+          }
+        ],
+        "grading_note": "– Het vermogen mag afgelezen worden met een marge van 0,3 watt.\n– Als gerekend wordt met (1 − 14)¹ᐟ⁶⁵, maximaal 3 scorepunten toekennen.\n– Als gerekend wordt met 1/14 : 65, maximaal 3 scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-ff-me-telefoon-opladen-antw4.png"
+        ]
+      },
+      {
+        "title": "‘Ff me telefoon opladen’",
+        "question_number": 5,
+        "answer_text": "Een toelichting in de vorm van een tabel, schets of redenering, waaruit blijkt dat de grafiek van het geleverde vermogen bij de PRO 6 (op elk moment) onder die van de PRO 5 ligt",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een toelichting in de vorm van een tabel, schets of redenering, waaruit blijkt dat de grafiek van het geleverde vermogen bij de PRO 6 (op elk moment) onder die van de PRO 5 ligt"
+          }
+        ],
+        "grading_note": "Voor een niet volledig juist antwoord mag 1 scorepunt worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-ff-me-telefoon-opladen-antw5.png"
+        ]
+      },
+      {
+        "title": "Leerkrachten basisonderwijs",
+        "question_number": 6,
+        "answer_text": "• 26 (euro) komt overeen met 86% (1 punt)\n• Het gevraagde bruto uurloon is 26/0,86 (= 30,23 …) (euro) (1 punt)\n• Het antwoord: 30 (euro) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "26 (euro) komt overeen met 86%"
+          },
+          {
+            "points": 1,
+            "description": "Het gevraagde bruto uurloon is 26/0,86 (= 30,23 …) (euro)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 30 (euro)"
+          }
+        ],
+        "grading_note": "Als vermenigvuldigd wordt met 1,14, voor deze vraag geen scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-leerkrachten-basisonderwijs-antw6.png"
+        ]
+      },
+      {
+        "title": "Leerkrachten basisonderwijs",
+        "question_number": 7,
+        "answer_text": "Voorbeeld van een juist antwoord:\n• De variabelen zijn kwalitatief omdat de mogelijke waarden geen getallen zijn (1 punt)\n• De variabelen zijn ordinaal omdat de mogelijke waarden een logische volgorde hebben (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De variabelen zijn kwalitatief omdat de mogelijke waarden geen getallen zijn"
+          },
+          {
+            "points": 1,
+            "description": "De variabelen zijn ordinaal omdat de mogelijke waarden een logische volgorde hebben"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-leerkrachten-basisonderwijs-antw7.png"
+        ]
+      },
+      {
+        "title": "Leerkrachten basisonderwijs",
+        "question_number": 8,
+        "answer_text": "• De vergelijking 2 · √(0,6 · (1 − 0,6)/n) = 0,02 (of een gelijkwaardige vergelijking) moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Het antwoord: 2400 (mannen) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De vergelijking 2 · √(0,6 · (1 − 0,6)/n) = 0,02 (of een gelijkwaardige vergelijking) moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 2400 (mannen)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-leerkrachten-basisonderwijs-antw8.png"
+        ]
+      },
+      {
+        "title": "Leerkrachten basisonderwijs",
+        "question_number": 9,
+        "answer_text": "• Het aflezen van de percentages\n\n| | percentage voltijd 2003 | percentage voltijd 2017 |\n| mannen | 75 | 60 |\n| vrouwen | 30 | 25 |\n (1 punt)\n• Het geven van aantallen mannen en vrouwen in 2003 (bijvoorbeeld 100 en 100) en het daarbij berekenen van het percentage voltijders in 2003 (bij dit voorbeeld 52,5) (1 punt)\n• Het geven van aantallen mannen en vrouwen in 2017 (bijvoorbeeld 200 en 40) en het daarbij berekenen van het percentage voltijders in 2017 (bij dit voorbeeld 54,1…) (1 punt)\n• Het, eventueel na extra pogingen, geven van een geschikt getallenvoorbeeld (met toelichting) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het aflezen van de percentages\n\n| | percentage voltijd 2003 | percentage voltijd 2017 |\n| mannen | 75 | 60 |\n| vrouwen | 30 | 25 |\n"
+          },
+          {
+            "points": 1,
+            "description": "Het geven van aantallen mannen en vrouwen in 2003 (bijvoorbeeld 100 en 100) en het daarbij berekenen van het percentage voltijders in 2003 (bij dit voorbeeld 52,5)"
+          },
+          {
+            "points": 1,
+            "description": "Het geven van aantallen mannen en vrouwen in 2017 (bijvoorbeeld 200 en 40) en het daarbij berekenen van het percentage voltijders in 2017 (bij dit voorbeeld 54,1…)"
+          },
+          {
+            "points": 1,
+            "description": "Het, eventueel na extra pogingen, geven van een geschikt getallenvoorbeeld (met toelichting)"
+          }
+        ],
+        "grading_note": "De percentages mogen afgelezen worden met een marge van 1.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-leerkrachten-basisonderwijs-antw9.png"
+        ]
+      },
+      {
+        "title": "Leerkrachten basisonderwijs",
+        "question_number": 10,
+        "answer_text": "• E = (31,2 − 27,2)/(0,5 · (8,3 + 7,6)) (1 punt)\n• E = 0,5... (1 punt)\n• Deze waarde voldoet aan de voorwaarde voor de categorie ‘middelmatig’ (dus de conclusie is juist) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "E = (31,2 − 27,2)/(0,5 · (8,3 + 7,6))"
+          },
+          {
+            "points": 1,
+            "description": "E = 0,5..."
+          },
+          {
+            "points": 1,
+            "description": "Deze waarde voldoet aan de voorwaarde voor de categorie ‘middelmatig’ (dus de conclusie is juist)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-leerkrachten-basisonderwijs-antw10.png"
+        ]
+      },
+      {
+        "title": "Hart-lopen",
+        "question_number": 11,
+        "answer_text": "• M = 205,8 − 0,685 · 48 (= 172,92) (slagen per min) (1 punt)\n• 0,6 · 172,92 = 103,752 en 0,7 · 172,92 = 121,044 (1 punt)\n• Het antwoord: 104 tot en met 121 (slagen per min) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "M = 205,8 − 0,685 · 48 (= 172,92) (slagen per min)"
+          },
+          {
+            "points": 1,
+            "description": "0,6 · 172,92 = 103,752 en 0,7 · 172,92 = 121,044"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 104 tot en met 121 (slagen per min)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-hart-lopen-antw11.png"
+        ]
+      },
+      {
+        "title": "Hart-lopen",
+        "question_number": 12,
+        "answer_text": "• De vergelijking 220 − L − (205,8 − 0,685L) = 5 moet worden opgelost (1 punt)\n• De vergelijking 205,8 − 0,685L − (220 − L) = 5 moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijkingen kunnen worden opgelost (1 punt)\n• De oplossingen zijn L = 29,2... en L = 60,9... (1 punt)\n• Het antwoord: bij leeftijden (van 18) tot en met 29 jaar en bij leeftijden van 61 jaar en hoger (1 punt)\n\nof\n\n• Een correcte tabel\n\n| L | M_ongetraind | M_getraind | M_ongetraind − M_getraind |\n| … | … | … | … |\n| 29 | 191 | 185,935 | 5,065 |\n| 30 | 190 | 185,25 | 4,75 |\n| … | … | … | … |\n| 60 | 160 | 164,7 | −4,7 |\n| 61 | 159 | 164,015 | −5,015 |\n| … | … | … | … |\n (4 punten)\n• Het antwoord: bij leeftijden (van 18) tot en met 29 jaar en bij leeftijden van 61 jaar en hoger (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De vergelijking 220 − L − (205,8 − 0,685L) = 5 moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "De vergelijking 205,8 − 0,685L − (220 − L) = 5 moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijkingen kunnen worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "De oplossingen zijn L = 29,2... en L = 60,9..."
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: bij leeftijden (van 18) tot en met 29 jaar en bij leeftijden van 61 jaar en hoger"
+          }
+        ],
+        "grading_note": "– Als in het eerste antwoordalternatief slechts één vergelijking is opgelost, voor deze vraag maximaal 3 scorepunten toekennen.\n– Voor het eerste antwoordelement van het tweede antwoordalternatief mogen voor een niet volledige tabel 1, 2 of 3 scorepunten worden toegekend.\n– Als in het tweede antwoordalternatief slechts het bovenste of slechts het onderste tabelgedeelte goed is berekend, voor deze vraag maximaal 3 scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-hart-lopen-antw12.png"
+        ]
+      },
+      {
+        "title": "Hart-lopen",
+        "question_number": 13,
+        "answer_text": "• Als M groter is, dan is Z = 15 · M/R groter (1 punt)\n• Als Z groter is, dan is v = Z/3,74 groter (1 punt)\n• Als de gemiddelde snelheid groter is, wordt er een snellere tijd gelopen (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als M groter is, dan is Z = 15 · M/R groter"
+          },
+          {
+            "points": 1,
+            "description": "Als Z groter is, dan is v = Z/3,74 groter"
+          },
+          {
+            "points": 1,
+            "description": "Als de gemiddelde snelheid groter is, wordt er een snellere tijd gelopen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-hart-lopen-antw13.png"
+        ]
+      },
+      {
+        "title": "Hart-lopen",
+        "question_number": 14,
+        "answer_text": "• Z = 15 · 190/60 (= 47,5) (ml/min per kg) (1 punt)\n• v = 47,5/3,74 (= 12,7 …) (km/uur) (1 punt)\n• De tijd op de marathon is 42,195/12,7… (= 3,32 …) (uur) (1 punt)\n• Het antwoord: 199 (min) (of 3 uur en 19 min) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Z = 15 · 190/60 (= 47,5) (ml/min per kg)"
+          },
+          {
+            "points": 1,
+            "description": "v = 47,5/3,74 (= 12,7 …) (km/uur)"
+          },
+          {
+            "points": 1,
+            "description": "De tijd op de marathon is 42,195/12,7… (= 3,32 …) (uur)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 199 (min) (of 3 uur en 19 min)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-hart-lopen-antw14.png"
+        ]
+      },
+      {
+        "title": "Hart-lopen",
+        "question_number": 15,
+        "answer_text": "• v = 15 · (205,8 − 0,685L)/(3,74R) (1 punt)\n• v = (3087 − 10,275L)/(3,74R) (1 punt)\n• (3087/3,74 = 825,40 … en 10,275/3,74 = 2,74 …, dus) v = (825,4 − 2,7L)/R (1 punt)\n\nof\n\n• v = 15M/(3,74R) = 4,01… · M/R (1 punt)\n• v = 4,01… · (205,8 − 0,685L)/R (1 punt)\n• (4,01 … · 205,8 = 825,40 … en 4,01 … · 0,685 = 2,74 …, dus) v = (825,4 − 2,7L)/R (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "v = 15 · (205,8 − 0,685L)/(3,74R)"
+          },
+          {
+            "points": 1,
+            "description": "v = (3087 − 10,275L)/(3,74R)"
+          },
+          {
+            "points": 1,
+            "description": "(3087/3,74 = 825,40 … en 10,275/3,74 = 2,74 …, dus) v = (825,4 − 2,7L)/R"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-hart-lopen-antw15.png"
+        ]
+      },
+      {
+        "title": "Heel Holland Bakt",
+        "question_number": 16,
+        "answer_text": "• De proporties mannen en vrouwen zijn 74/410 = 0,180 … respectievelijk 79/611 = 0,129 … (1 punt)\n• De bovengrens bij de vrouwen is 0,129 … + 2 · √(0,129… · (1 − 0,129…)/611) = 0,156 … (1 punt)\n• De ondergrens bij de mannen is 0,180 … − 2 · √(0,180… · (1 − 0,180…)/410) = 0,142 … (1 punt)\n• Dus de 95%-betrouwbaarheidsintervallen overlappen elkaar (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De proporties mannen en vrouwen zijn 74/410 = 0,180 … respectievelijk 79/611 = 0,129 …"
+          },
+          {
+            "points": 1,
+            "description": "De bovengrens bij de vrouwen is 0,129 … + 2 · √(0,129… · (1 − 0,129…)/611) = 0,156 …"
+          },
+          {
+            "points": 1,
+            "description": "De ondergrens bij de mannen is 0,180 … − 2 · √(0,180… · (1 − 0,180…)/410) = 0,142 …"
+          },
+          {
+            "points": 1,
+            "description": "Dus de 95%-betrouwbaarheidsintervallen overlappen elkaar"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-heel-holland-bakt-antw16.png"
+        ]
+      },
+      {
+        "title": "Heel Holland Bakt",
+        "question_number": 17,
+        "answer_text": "• In de steekproef waren 336 mannen en 532 vrouwen het oneens met de stelling (1 punt)\n• Een kruistabel met absolute aantallen\n\n| | eens | oneens | |\n| mannen | 74 | 336 | (410) |\n| vrouwen | 79 | 532 | (611) |\n| | (153) | (868) | |\n (1 punt)\n• phi = (74 · 532 − 336 · 79)/√((74 + 336)(74 + 79)(336 + 532)(79 + 532)) (1 punt)\n• phi = 0,07 …; (−0,2 ≤ phi ≤ 0,2, dus) het verschil is gering (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In de steekproef waren 336 mannen en 532 vrouwen het oneens met de stelling"
+          },
+          {
+            "points": 1,
+            "description": "Een kruistabel met absolute aantallen\n\n| | eens | oneens | |\n| mannen | 74 | 336 | (410) |\n| vrouwen | 79 | 532 | (611) |\n| | (153) | (868) | |\n"
+          },
+          {
+            "points": 1,
+            "description": "phi = (74 · 532 − 336 · 79)/√((74 + 336)(74 + 79)(336 + 532)(79 + 532))"
+          },
+          {
+            "points": 1,
+            "description": "phi = 0,07 …; (−0,2 ≤ phi ≤ 0,2, dus) het verschil is gering"
+          }
+        ],
+        "grading_note": "Als bij de berekening van phi voor a, b, c en d de getallen 74, 410, 79 en 611 worden gebruikt, voor deze vraag maximaal 2 scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-heel-holland-bakt-antw17.png"
+        ]
+      },
+      {
+        "title": "Heel Holland Bakt",
+        "question_number": 18,
+        "answer_text": "• Als F toeneemt, neemt 1/F af (want 1 wordt gedeeld door een groter wordend getal) (1 punt)\n• Dan neemt 1 − 1/F toe (want er wordt een kleiner wordend getal van 1 afgetrokken) (1 punt)\n• 100 · (1 − 1/F) neemt ook toe, dus wordt er een groter percentage uv A-straling geblokkeerd en neemt de bescherming toe (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als F toeneemt, neemt 1/F af (want 1 wordt gedeeld door een groter wordend getal)"
+          },
+          {
+            "points": 1,
+            "description": "Dan neemt 1 − 1/F toe (want er wordt een kleiner wordend getal van 1 afgetrokken)"
+          },
+          {
+            "points": 1,
+            "description": "100 · (1 − 1/F) neemt ook toe, dus wordt er een groter percentage uv A-straling geblokkeerd en neemt de bescherming toe"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-heel-holland-bakt-antw18.png"
+        ]
+      },
+      {
+        "title": "Heel Holland Bakt",
+        "question_number": 19,
+        "answer_text": "• De vergelijking 98 = 100 · (1 − 1/F) moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Het antwoord: (vanaf factor) 50 (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De vergelijking 98 = 100 · (1 − 1/F) moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: (vanaf factor) 50"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-heel-holland-bakt-antw19.png"
+        ]
+      },
+      {
+        "title": "Heel Holland Bakt",
+        "question_number": 20,
+        "answer_text": "• P/100 = 1 − 1/F (1 punt)\n• 1/F = 1 − P/100 (1 punt)\n• F = 1/(1 − P/100) (of een gelijkwaardige uitdrukking) (1 punt)\n\nof\n\n• P = 100 − 100/F (1 punt)\n• 100/F = 100 − P (1 punt)\n• F = 100/(100 − P) (of een gelijkwaardige uitdrukking) (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "P/100 = 1 − 1/F"
+          },
+          {
+            "points": 1,
+            "description": "1/F = 1 − P/100"
+          },
+          {
+            "points": 1,
+            "description": "F = 1/(1 − P/100) (of een gelijkwaardige uitdrukking)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-heel-holland-bakt-antw20.png"
+        ]
+      },
+      {
+        "title": "Heel Holland Bakt",
+        "question_number": 21,
+        "answer_text": "• 100 · (1 − 1/30) = 96,6 … (1 punt)\n• 100 · (1 − 1/15) = 93,3 … (1 punt)\n• Het antwoord: niet twee keer zo groot (want 96,6…/93,3… = 1,0357 …) (1 punt)\n\nof\n\n• 100 · (1 − 1/15) = 93,3 … (1 punt)\n• Het percentage bij factor 30 zou dan 2 · 93,3... moeten zijn (1 punt)\n• Het antwoord: niet twee keer zo groot, want 2 · 93,3 … % is meer dan 100% (1 punt)\n\nof\n\n• Aflezen dat het percentage bij factor 15 ruim hoger is dan 50% (1 punt)\n• Het percentage bij factor 30 zou dan hoger dan tweemaal 50% zijn (1 punt)\n• Het antwoord: niet twee keer zo groot, want het percentage kan niet hoger zijn dan 100% (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "100 · (1 − 1/30) = 96,6 …"
+          },
+          {
+            "points": 1,
+            "description": "100 · (1 − 1/15) = 93,3 …"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: niet twee keer zo groot (want 96,6…/93,3… = 1,0357 …)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-heel-holland-bakt-antw21.png"
+        ]
+      },
+      {
+        "title": "Over koetjes en kalfjes",
+        "question_number": 22,
+        "answer_text": "• De groeifactor van het aantal volwassen melkkoeien in de periode 2005-2016 was 1,0375¹¹ (1 punt)\n• Het aantal volwassen melkkoeien in 2005 was 99/1,0375¹¹ = 66 (1 punt)\n• Het aantal GVE dat hoort bij jongvee in 2005 respectievelijk 2016 was 84 − 66 = 18 en 126 − 99 = 27 (1 punt)\n• Dat is een stijging van 9 GVE wat betreft het jongvee (1 punt)\n• De vergelijking 0,25x + 0,5x = 9, waarbij x het aantal kalveren (of pinken) is, moet worden opgelost (1 punt)\n• Beschrijven hoe de oplossing x = 12 kan worden berekend (1 punt)\n• (Er zijn evenveel kalveren als pinken, dus) de stijging is 24 stuks jongvee (1 punt)\n\nof\n\n• De groeifactor van het aantal volwassen melkkoeien in de periode 2005-2016 was 1,0375¹¹ (1 punt)\n• Het aantal volwassen melkkoeien in 2005 was 99/1,0375¹¹ = 66 (1 punt)\n• Het aantal GVE dat hoort bij jongvee in 2005 respectievelijk 2016 was 84 − 66 = 18 en 126 − 99 = 27 (1 punt)\n• De 18 GVE jongvee in 2005 komen overeen met 24 kalveren en 24 pinken (1 punt)\n• De 27 GVE jongvee in 2016 komen overeen met 36 kalveren en 36 pinken (1 punt)\n• Het aantal stuks jongvee in 2005 respectievelijk 2016 was 48 en 72 (1 punt)\n• De stijging is 24 stuks jongvee (1 punt)\n\nof\n\n• De groeifactor van het aantal volwassen melkkoeien in de periode 2005-2016 was 1,0375¹¹ (1 punt)\n• Het aantal volwassen melkkoeien in 2005 was 99/1,0375¹¹ = 66 (1 punt)\n• Het aantal GVE dat hoort bij jongvee in 2005 respectievelijk 2016 was 84 − 66 = 18 en 126 − 99 = 27 (1 punt)\n• De vergelijking 0,75x = 18, waarbij x het aantal koppels van één kalf en één pink in 2005 is, levert x = 24 (1 punt)\n• De vergelijking 0,75x = 27, waarbij x het aantal koppels van één kalf en één pink in 2016 is, levert x = 36 (1 punt)\n• Dit is een toename van 12 koppels van één kalf en één pink (1 punt)\n• De stijging is 24 stuks jongvee (1 punt)\n\nof\n\n• De groeifactor van het aantal volwassen melkkoeien in de periode 2005-2016 was 1,0375¹¹ (1 punt)\n• Het aantal volwassen melkkoeien in 2005 was 99/1,0375¹¹ = 66 (1 punt)\n• Het aantal GVE dat hoort bij jongvee in 2005 respectievelijk 2016 was 84 − 66 = 18 en 126 − 99 = 27 (1 punt)\n• De vergelijking 0,25x + 0,5x = 18, waarbij x het aantal kalveren (of pinken) in 2005 is, moet worden opgelost (1 punt)\n• Beschrijven hoe de oplossing x = 24 kan worden berekend (1 punt)\n• Het aantal GVE van het jongvee is 27/18 (= 1,5) keer zo groot geworden (1 punt)\n• (Er zijn 12 kalveren en 12 pinken bij gekomen, dus) de stijging is 24 stuks jongvee (1 punt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De groeifactor van het aantal volwassen melkkoeien in de periode 2005-2016 was 1,0375¹¹"
+          },
+          {
+            "points": 1,
+            "description": "Het aantal volwassen melkkoeien in 2005 was 99/1,0375¹¹ = 66"
+          },
+          {
+            "points": 1,
+            "description": "Het aantal GVE dat hoort bij jongvee in 2005 respectievelijk 2016 was 84 − 66 = 18 en 126 − 99 = 27"
+          },
+          {
+            "points": 1,
+            "description": "Dat is een stijging van 9 GVE wat betreft het jongvee"
+          },
+          {
+            "points": 1,
+            "description": "De vergelijking 0,25x + 0,5x = 9, waarbij x het aantal kalveren (of pinken) is, moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de oplossing x = 12 kan worden berekend"
+          },
+          {
+            "points": 1,
+            "description": "(Er zijn evenveel kalveren als pinken, dus) de stijging is 24 stuks jongvee"
+          }
+        ],
+        "grading_note": "Het aantal kalveren (of pinken) dat in het vijfde en zesde antwoordelement van het eerste antwoordalternatief wordt berekend, mag ook door gericht proberen worden gevonden.",
+        "answer_image_urls": [
+          "wiskunde-a-havo-2024-i-over-koetjes-en-kalfjes-antw22.png"
+        ]
+      }
+    ]
+  }
+}
