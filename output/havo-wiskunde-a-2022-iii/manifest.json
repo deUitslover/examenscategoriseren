@@ -1,0 +1,59 @@
+{
+  "source": "HAVO Wiskunde A 2022-III",
+  "subject_name": "Wiskunde A",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Wereldbevolking",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Hoe koud voelt het aan?",
+      "question_numbers": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Kajak",
+      "question_numbers": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Onderwijs in vroeger tijden",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Waterdiepte meten",
+      "question_numbers": [
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Glas",
+      "question_numbers": [
+        22
+      ]
+    }
+  ]
+}
