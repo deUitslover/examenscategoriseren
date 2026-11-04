@@ -1,0 +1,526 @@
+{
+ "subject_name": "Wiskunde A",
+ "level": "HAVO",
+ "source": "HAVO Wiskunde A 2018-I",
+ "answers": [
+  {
+   "title": "Brandgevaar",
+   "question_number": 1,
+   "answer_text": "• V is minimaal 0 en maximaal 100 (1 punt)\n• De minimale waarde is I_A = 0/20 + (27 − 24)/10 = 0,3 (1 punt)\n• De maximale waarde is I_A = 100/20 + (27 − 24)/10 = 5,3 (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "V is minimaal 0 en maximaal 100"
+    },
+    {
+     "points": 1,
+     "description": "De minimale waarde is I_A = 0/20 + (27 − 24)/10 = 0,3"
+    },
+    {
+     "points": 1,
+     "description": "De maximale waarde is I_A = 100/20 + (27 − 24)/10 = 5,3"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-brandgevaar-antw1.png"
+   ]
+  },
+  {
+   "title": "Brandgevaar",
+   "question_number": 2,
+   "answer_text": "• De vergelijking I_A = 2 (of de ongelijkheid I_A < 2) moet worden opgelost (1 punt)\n• Dit is de vergelijking 35/20 + (27 − T)/10 = 2 (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• De oplossing is T = 24,5 (1 punt)\n• Het antwoord: temperaturen hoger dan 24,5 (°C) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking I_A = 2 (of de ongelijkheid I_A < 2) moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit is de vergelijking 35/20 + (27 − T)/10 = 2"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "De oplossing is T = 24,5"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: temperaturen hoger dan 24,5 (°C)"
+    }
+   ],
+   "grading_note": "− Voor het antwoord 'temperaturen vanaf 24,5 (°C)' 1 scorepunt in mindering brengen.\n− Voor het antwoord 'temperaturen hoger dan of gelijk aan 25 (°C)' geen scorepunten in mindering brengen.\n− Voor het vermelden van een bovengrens T = 44,5 (°C) (bij I_A = 0) geen scorepunten in mindering brengen.\n− Als is gerekend met I_A = 1,9 (of I_A = 1,99), hiervoor 1 scorepunt in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-brandgevaar-antw2.png"
+   ]
+  },
+  {
+   "title": "Brandgevaar",
+   "question_number": 3,
+   "answer_text": "• Als T constant is, verandert (27 − T)/10 niet (1 punt)\n• Als V afneemt, (neemt V/20 af en dus) neemt I_A af (1 punt)\n• Als I_A afneemt, neemt het risico op bosbrand toe (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Als T constant is, verandert (27 − T)/10 niet"
+    },
+    {
+     "points": 1,
+     "description": "Als V afneemt, (neemt V/20 af en dus) neemt I_A af"
+    },
+    {
+     "points": 1,
+     "description": "Als I_A afneemt, neemt het risico op bosbrand toe"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-brandgevaar-antw3.png"
+   ]
+  },
+  {
+   "title": "Brandgevaar",
+   "question_number": 4,
+   "answer_text": "• I_C = (216 − 2,84 · 43 + 1,12T) · 0,97⁴³ (1 punt)\n• I_C = (93,88 + 1,12T) · 0,97⁴³ (1 punt)\n• I_C = 0,30T + 25,34 (of I_C = 25,34 + 0,30T) (2 punten)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "I_C = (216 − 2,84 · 43 + 1,12T) · 0,97⁴³"
+    },
+    {
+     "points": 1,
+     "description": "I_C = (93,88 + 1,12T) · 0,97⁴³"
+    },
+    {
+     "points": 2,
+     "description": "I_C = 0,30T + 25,34 (of I_C = 25,34 + 0,30T)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-brandgevaar-antw4.png"
+   ]
+  },
+  {
+   "title": "Brandgevaar",
+   "question_number": 5,
+   "answer_text": "• Bij V = 35 geldt I_A = 1,95 (1 punt)\n• Dus het risico is volgens de Angström Index zeer groot (1 punt)\n• Bij V = 35 geldt I_C = 49,7… (1 punt)\n• Dus het risico is volgens de Chandler Burning Index zeer klein (1 punt)\n• De conclusie: het is mogelijk (1 punt)\n\nof\n\n• Er moet volgens de Angström Index gelden 0,05V + 0,2 < 2 (1 punt)\n• Met een berekening laten zien dat dan geldt V < 36 (1 punt)\n• Bij V = 35 geldt I_C = 49,7… (1 punt)\n• Dus het risico is volgens de Chandler Burning Index zeer klein (1 punt)\n• De conclusie: het is mogelijk (1 punt)\n\nof\n\n• Er moet volgens de Angström Index gelden 0,05V + 0,2 < 2 (1 punt)\n• Met een berekening laten zien dat dan geldt V < 36 (1 punt)\n• Er moet volgens de Chandler Burning Index gelden (244 − 2,84V) · 0,97ⱽ < 50 (1 punt)\n• Met een berekening laten zien dat dan geldt V > 34,9… (1 punt)\n• De conclusie: het is mogelijk (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Bij V = 35 geldt I_A = 1,95"
+    },
+    {
+     "points": 1,
+     "description": "Dus het risico is volgens de Angström Index zeer groot"
+    },
+    {
+     "points": 1,
+     "description": "Bij V = 35 geldt I_C = 49,7…"
+    },
+    {
+     "points": 1,
+     "description": "Dus het risico is volgens de Chandler Burning Index zeer klein"
+    },
+    {
+     "points": 1,
+     "description": "De conclusie: het is mogelijk"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-brandgevaar-antw5.png"
+   ]
+  },
+  {
+   "title": "Referentiewaarden",
+   "question_number": 6,
+   "answer_text": "• Ongeveer 95% van de waarnemingen bij een normale verdeling ligt tussen μ − 2σ en μ + 2σ (1 punt)\n• Bij 95% van de gezonde vrouwen ligt het aantal rode bloedcellen tussen 4,0 en 5,3 (biljoen per liter) (1 punt)\n• Hieruit volgt: 4 keer de standaardafwijking is (5,3 − 4,0 =) 1,3 (biljoen per liter), dus het antwoord: (1,3/4 =) 0,3 (biljoen per liter) (1 punt)\n\nof\n\n• Ongeveer 95% van de waarnemingen bij een normale verdeling ligt tussen μ − 2σ en μ + 2σ (1 punt)\n• Het gemiddelde is ((5,3 + 4,0)/2 =) 4,65 (biljoen per liter) (1 punt)\n• Hieruit volgt: 2 keer de standaardafwijking is (4,65 − 4,0 =) 0,65 (biljoen per liter), dus het antwoord: (0,65/2 =) 0,3 (biljoen per liter) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Ongeveer 95% van de waarnemingen bij een normale verdeling ligt tussen μ − 2σ en μ + 2σ"
+    },
+    {
+     "points": 1,
+     "description": "Bij 95% van de gezonde vrouwen ligt het aantal rode bloedcellen tussen 4,0 en 5,3 (biljoen per liter)"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt: 4 keer de standaardafwijking is (5,3 − 4,0 =) 1,3 (biljoen per liter), dus het antwoord: (1,3/4 =) 0,3 (biljoen per liter)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-referentiewaarden-antw6.png"
+   ]
+  },
+  {
+   "title": "Referentiewaarden",
+   "question_number": 7,
+   "answer_text": "• Hier moet de effectgrootte worden bepaald (1 punt)\n• Het gemiddelde bij gezonde mannen is 9,8 en het gemiddelde bij gezonde vrouwen is 8,8 (1 punt)\n• E = (9,8 − 8,8)/(0,5(0,6 + 0,6)) = 1,6… (1 punt)\n• De conclusie: (dit is groter dan 0,8 dus) het verschil is groot (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Hier moet de effectgrootte worden bepaald"
+    },
+    {
+     "points": 1,
+     "description": "Het gemiddelde bij gezonde mannen is 9,8 en het gemiddelde bij gezonde vrouwen is 8,8"
+    },
+    {
+     "points": 1,
+     "description": "E = (9,8 − 8,8)/(0,5(0,6 + 0,6)) = 1,6…"
+    },
+    {
+     "points": 1,
+     "description": "De conclusie: (dit is groter dan 0,8 dus) het verschil is groot"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-referentiewaarden-antw7.png"
+   ]
+  },
+  {
+   "title": "De aardbeving van l’Aquila",
+   "question_number": 8,
+   "answer_text": "• Het verschil in kracht is (6,3 − 3,3 =) 3 (1 punt)\n• Er komt (ongeveer) 30³ keer zoveel energie vrij (1 punt)\n• Het antwoord: (ongeveer) 27000 (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het verschil in kracht is (6,3 − 3,3 =) 3"
+    },
+    {
+     "points": 1,
+     "description": "Er komt (ongeveer) 30³ keer zoveel energie vrij"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: (ongeveer) 27000"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-de-aardbeving-van-laquila-antw8.png"
+   ]
+  },
+  {
+   "title": "De aardbeving van l’Aquila",
+   "question_number": 9,
+   "answer_text": "• Voor de nachtelijke beving geldt E = 0,06 · 32⁶˒³ (= 1,8… · 10⁸) (1 punt)\n• 9% hiervan is 0,09 · 0,06 · 32⁶˒³ (= 1,6… · 10⁷) (1 punt)\n• De vergelijking 0,06 · 32ᴿ = 0,09 · 0,06 · 32⁶˒³ moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• Het antwoord: 5,6 (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor de nachtelijke beving geldt E = 0,06 · 32⁶˒³ (= 1,8… · 10⁸)"
+    },
+    {
+     "points": 1,
+     "description": "9% hiervan is 0,09 · 0,06 · 32⁶˒³ (= 1,6… · 10⁷)"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking 0,06 · 32ᴿ = 0,09 · 0,06 · 32⁶˒³ moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 5,6"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-de-aardbeving-van-laquila-antw9.png"
+   ]
+  },
+  {
+   "title": "De aardbeving van l’Aquila",
+   "question_number": 10,
+   "answer_text": "• Het tekenen van twee punten, bijvoorbeeld (1; 1,92) en (8; 6,6 · 10¹⁰) (2 punten)\n• Het tekenen van een rechte lijn door deze punten (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "Het tekenen van twee punten, bijvoorbeeld (1; 1,92) en (8; 6,6 · 10¹⁰)"
+    },
+    {
+     "points": 1,
+     "description": "Het tekenen van een rechte lijn door deze punten"
+    }
+   ],
+   "grading_note": "Bij één foutief getekend punt 1 scorepunt in mindering brengen; als beide punten fout zijn, voor deze vraag geen scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-de-aardbeving-van-laquila-antw10.png"
+   ]
+  },
+  {
+   "title": "BMR",
+   "question_number": 11,
+   "answer_text": "• BMR = 10 · 77 − 5 · 25 + 6,25 · 188 + 5 (1 punt)\n• Het antwoord: 1825 (kcal) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "BMR = 10 · 77 − 5 · 25 + 6,25 · 188 + 5"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 1825 (kcal)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-bmr-antw11.png"
+   ]
+  },
+  {
+   "title": "BMR",
+   "question_number": 12,
+   "answer_text": "• Zijn BMR neemt met 10 · 5 = 50 (kcal) af vanwege het gewicht (1 punt)\n• Zijn BMR neemt met (5 · 1 =) 5 (kcal) af vanwege de leeftijd (1 punt)\n• Het antwoord: (50 + 5 =) 55 (kcal) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Zijn BMR neemt met 10 · 5 = 50 (kcal) af vanwege het gewicht"
+    },
+    {
+     "points": 1,
+     "description": "Zijn BMR neemt met (5 · 1 =) 5 (kcal) af vanwege de leeftijd"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: (50 + 5 =) 55 (kcal)"
+    }
+   ],
+   "grading_note": "Als voor G en J uitsluitend getallenvoorbeelden gekozen zijn, voor deze vraag geen scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-bmr-antw12.png"
+   ]
+  },
+  {
+   "title": "BMR",
+   "question_number": 13,
+   "answer_text": "• 10 · G − 5 · 30 + 6,25 · L + 5 = 2000 (1 punt)\n• 10 · G = −6,25 · L + 2145 (1 punt)\n• Het antwoord: G = −0,6 · L + 214,5 (dus a = −0,6 en b = 214,5) (1 punt)\n\nof\n\n• Het kiezen van twee getallenparen (L, G), bijvoorbeeld (160; 114,5) en (200; 89,5) (1 punt)\n• a = (89,5 − 114,5)/(200 − 160) (= −0,625), dus het antwoord: a = −0,6 (1 punt)\n• b = 114,5 + 0,625 · 160 = 214,5 (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "10 · G − 5 · 30 + 6,25 · L + 5 = 2000"
+    },
+    {
+     "points": 1,
+     "description": "10 · G = −6,25 · L + 2145"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: G = −0,6 · L + 214,5 (dus a = −0,6 en b = 214,5)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-bmr-antw13.png"
+   ]
+  },
+  {
+   "title": "BMR",
+   "question_number": 14,
+   "answer_text": "(Zie de afbeelding voor de getekende grafiek bij BMR = 1800.)\n\n• Voor minimaal twee waarden van L de bijbehorende waarden van G berekenen (of andersom), waarbij geldt 10 · G − 5 · 30 + 6,25 · L + 5 = 1800 (2 punten)\n• De grafiek (1 punt)\n\nof\n\n• Als de BMR 200 hoger is, moet gelden dat de waarde van G 20 kg meer is bij dezelfde waarde van L, want 10 · 20 = 200 (1 punt)\n• De grafiek ligt 20 (kg) hoger dan de grafiek die hoort bij BMR = 1600 (1 punt)\n• De grafiek (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "Voor minimaal twee waarden van L de bijbehorende waarden van G berekenen (of andersom), waarbij geldt 10 · G − 5 · 30 + 6,25 · L + 5 = 1800"
+    },
+    {
+     "points": 1,
+     "description": "De grafiek"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-bmr-antw14.png"
+   ]
+  },
+  {
+   "title": "BMR",
+   "question_number": 15,
+   "answer_text": "Voorbeeld van een juiste uitwerking:\n\n• Uit W = 2,2 · G volgt W/2,2 = G (1 punt)\n• Uit H = 0,033 · L volgt H/0,033 = L (1 punt)\n• BMR = 10 · W/2,2 − 5 · Y + 6,25 · H/0,033 + 5 (1 punt)\n• Het antwoord: 10/2,2 = 4,5 en 6,25/0,033 = 189,4 (of BMR = 4,5 · W − 5 · Y + 189,4 · H + 5) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Uit W = 2,2 · G volgt W/2,2 = G"
+    },
+    {
+     "points": 1,
+     "description": "Uit H = 0,033 · L volgt H/0,033 = L"
+    },
+    {
+     "points": 1,
+     "description": "BMR = 10 · W/2,2 − 5 · Y + 6,25 · H/0,033 + 5"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: 10/2,2 = 4,5 en 6,25/0,033 = 189,4 (of BMR = 4,5 · W − 5 · Y + 189,4 · H + 5)"
+    }
+   ],
+   "grading_note": "Als gerekend wordt met G = 2,2 · W en L = 0,033 · H, voor deze vraag maximaal 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-bmr-antw15.png"
+   ]
+  },
+  {
+   "title": "Lunchen",
+   "question_number": 16,
+   "answer_text": "• 100 − 5,6 = 94,4(%) (1 punt)\n• 7318/94,4 · 100 = 7752,1… (, dus 7752 (kassabonnetjes)) (1 punt)\n• Het antwoord: (2 · 7752 =) 15504 (dollar) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "100 − 5,6 = 94,4(%)"
+    },
+    {
+     "points": 1,
+     "description": "7318/94,4 · 100 = 7752,1… (, dus 7752 (kassabonnetjes))"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: (2 · 7752 =) 15504 (dollar)"
+    }
+   ],
+   "grading_note": "Als het aantal kassabonnetjes is berekend met 105,6/100 · 7318, voor deze vraag maximaal 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-lunchen-antw16.png"
+   ]
+  },
+  {
+   "title": "Lunchen",
+   "question_number": 17,
+   "answer_text": "• Het cumulatieve percentage bij 1000 kcal is ongeveer 58(%) (1 punt)\n• Ongeveer (100 − 58 =) 42% van de klanten bestelt meer dan 1000 kcal (1 punt)\n• Het antwoord: tex-mex (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het cumulatieve percentage bij 1000 kcal is ongeveer 58(%)"
+    },
+    {
+     "points": 1,
+     "description": "Ongeveer (100 − 58 =) 42% van de klanten bestelt meer dan 1000 kcal"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: tex-mex"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-lunchen-antw17.png"
+   ]
+  },
+  {
+   "title": "Lunchen",
+   "question_number": 18,
+   "answer_text": "• Het 95%-betrouwbaarheidsinterval is 857 ± 2 · 336/√3857 (1 punt)\n• De ondergrens van het 95%-betrouwbaarheidsinterval is 846,… (kcal) (1 punt)\n• Het antwoord: nee (, de aanbevolen hoeveelheid van 750 kcal ligt er niet in) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het 95%-betrouwbaarheidsinterval is 857 ± 2 · 336/√3857"
+    },
+    {
+     "points": 1,
+     "description": "De ondergrens van het 95%-betrouwbaarheidsinterval is 846,… (kcal)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: nee (, de aanbevolen hoeveelheid van 750 kcal ligt er niet in)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-lunchen-antw18.png"
+   ]
+  },
+  {
+   "title": "Lunchen",
+   "question_number": 19,
+   "answer_text": "Voorbeelden van juiste aspecten:\n− Het onderzoek is alleen gehouden onder volwassenen die in hun lunchpauze ergens gaan lunchen (terwijl er ook volwassenen zullen zijn die hun eigen lunch meenemen of helemaal niet lunchen).\n− Het onderzoek is alleen gehouden onder volwassenen in New York City.\n− Het onderzoek is alleen gehouden in lunchzaken die op hun website calorie-informatie hadden staan.\n\n• per juist aspect (eerste juiste aspect) (1 punt)\n• per juist aspect (tweede juiste aspect) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "per juist aspect (eerste juiste aspect)"
+    },
+    {
+     "points": 1,
+     "description": "per juist aspect (tweede juiste aspect)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-lunchen-antw19.png"
+   ]
+  },
+  {
+   "title": "Lunchen",
+   "question_number": 20,
+   "answer_text": "Voorbeelden van een juist antwoord:\n\n• (De stelling is een bewering over de omvang van het verschil tussen twee groepen op een kwantitatieve variabele, dus) de effectgrootte kan gebruikt worden (1 punt)\n• Het berekenen van de effectgrootte: E = ((766 − 713)/(0,5 · (301 + 584)) =) 0,1… (1 punt)\n• Het verschil is gering (1 punt)\n• De stelling wordt dus niet ondersteund door de gegevens in tabel 2 (1 punt)\n\nof\n\n• Bij de laatste kolom van tabel 2 een kruistabel maken, bijvoorbeeld (99 469 / 285 952) (1 punt)\n• phi = −0,06… (1 punt)\n• Het verschil is gering (1 punt)\n• De stelling wordt dus niet ondersteund door de gegevens in tabel 2 (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(De stelling is een bewering over de omvang van het verschil tussen twee groepen op een kwantitatieve variabele, dus) de effectgrootte kan gebruikt worden"
+    },
+    {
+     "points": 1,
+     "description": "Het berekenen van de effectgrootte: E = ((766 − 713)/(0,5 · (301 + 584)) =) 0,1…"
+    },
+    {
+     "points": 1,
+     "description": "Het verschil is gering"
+    },
+    {
+     "points": 1,
+     "description": "De stelling wordt dus niet ondersteund door de gegevens in tabel 2"
+    }
+   ],
+   "grading_note": "Als in de kruistabel percentages worden gebruikt in plaats van absolute aantallen, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-lunchen-antw20.png"
+   ]
+  },
+  {
+   "title": "Voetafdruk",
+   "question_number": 21,
+   "answer_text": "• Voor de gemiddelde voetafdruk per persoon geldt de eerste jaren V = 2,85 − 0,11 · t (met t het aantal jaren na 2010) (1 punt)\n• Voor de wereldbevolking (in miljarden) geldt W = 6,9 · 1,007ᵗ (1 punt)\n• Een tabel maken van V en V · W (1 punt)\n• Voor t = 14 is V nog niet 1,20 en is V · W voor het eerst kleiner dan 10 (2 punten)\n• Een tabel maken van 1,20 · W (1 punt)\n• Voor t = 27 is 1,20 · W voor het laatst kleiner dan 10 (of: voor t = 28 is 1,20 · W voor het eerst groter dan 10) (1 punt)\n• Het antwoord: van 2024 tot en met 2037 (is de totale voetafdruk minder dan 10 miljard mha) (1 punt)\n\nof\n\n• Voor de gemiddelde voetafdruk per persoon geldt de eerste jaren V = 2,85 − 0,11 · t (met t het aantal jaren na 2010) (1 punt)\n• Deze formule geldt tot en met t = (2,85 − 1,20)/0,11 = 15 (dus tot en met 2025) (1 punt)\n• Voor de wereldbevolking (in miljarden) geldt W = 6,9 · 1,007ᵗ (1 punt)\n• De vergelijking (2,85 − 0,11 · t) · 6,9 · 1,007ᵗ = 10 moet worden opgelost (1 punt)\n• Dit geeft t = 13,9… (1 punt)\n• Voor t > 15 moet de vergelijking 1,20 · 6,9 · 1,007ᵗ = 10 worden opgelost (1 punt)\n• Dit geeft t = 27,0… (1 punt)\n• Het antwoord: van 2024 tot en met 2037 (is de totale voetafdruk minder dan 10 miljard mha) (1 punt)\n\nof\n\n• Voor de wereldbevolking (in miljarden) geldt W = 6,9 · 1,007ᵗ (met t het aantal jaren na 2010) (1 punt)\n• Een tabel maken van de gemiddelde voetafdruk per persoon V, tot minimaal t = 28 (2 punten)\n• Een tabel maken van V · W, tot minimaal t = 28 (2 punten)\n• Voor t = 14 is V · W voor het eerst kleiner dan 10 (1 punt)\n• Voor t = 27 is V · W voor het laatst kleiner dan 10 (of: voor t = 28 is V · W voor het eerst groter dan 10) (1 punt)\n• Het antwoord: van 2024 tot en met 2037 (is de totale voetafdruk minder dan 10 miljard mha) (1 punt)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor de gemiddelde voetafdruk per persoon geldt de eerste jaren V = 2,85 − 0,11 · t (met t het aantal jaren na 2010)"
+    },
+    {
+     "points": 1,
+     "description": "Voor de wereldbevolking (in miljarden) geldt W = 6,9 · 1,007ᵗ"
+    },
+    {
+     "points": 1,
+     "description": "Een tabel maken van V en V · W"
+    },
+    {
+     "points": 2,
+     "description": "Voor t = 14 is V nog niet 1,20 en is V · W voor het eerst kleiner dan 10"
+    },
+    {
+     "points": 1,
+     "description": "Een tabel maken van 1,20 · W"
+    },
+    {
+     "points": 1,
+     "description": "Voor t = 27 is 1,20 · W voor het laatst kleiner dan 10 (of: voor t = 28 is 1,20 · W voor het eerst groter dan 10)"
+    },
+    {
+     "points": 1,
+     "description": "Het antwoord: van 2024 tot en met 2037 (is de totale voetafdruk minder dan 10 miljard mha)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-a-havo-2018-i-voetafdruk-antw21.png"
+   ]
+  }
+ ]
+}
