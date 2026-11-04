@@ -1,0 +1,539 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde A 2025-II",
+  "answers": [
+   {
+    "title": "Uitverkoop",
+    "question_number": 1,
+    "answer_text": "• Famke krijgt (0,5 · 80 =) 40 euro korting (1 punt)\n• Haar kortingspercentage is 40/(100 + 80) · 100 (1 punt)\n• Het antwoord: 22 (%) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Famke krijgt (0,5 · 80 =) 40 euro korting"
+     },
+     {
+      "points": 1,
+      "description": "Haar kortingspercentage is 40/(100 + 80) · 100"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 22 (%)"
+     }
+    ],
+    "grading_note": "– Voor het antwoord -22 (%) geen scorepunten in mindering brengen.\n– Als in het tweede antwoordelement gedeeld wordt door 140 in plaats van 180, voor deze vraag maximaal 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-uitverkoop-antw1.png"
+    ]
+   },
+   {
+    "title": "Uitverkoop",
+    "question_number": 2,
+    "answer_text": "• Korting bij kortingsactie I: 0,2 · 100 + 0,2 · 40 = 28 (euro) (1 punt)\n• Korting bij kortingsactie II: 0,5 · 40 = 20 (euro) (1 punt)\n• Het antwoord: kortingsactie I (1 punt)\n\nof\n\n• Korting bij kortingsactie I: 20 (%) (1 punt)\n• Korting bij kortingsactie II: (0,5 · 40)/(100 + 40) · 100(%) = 14,… (%) (1 punt)\n• Het antwoord: kortingsactie I (1 punt)\n\nof\n\n• Kosten bij kortingsactie I: 0,8 · 100 + 0,8 · 40 = 112 (euro) (1 punt)\n• Kosten bij kortingsactie II: 100 + 0,5 · 40 = 120 (euro) (1 punt)\n• Het antwoord: kortingsactie I (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Korting bij kortingsactie I: 0,2 · 100 + 0,2 · 40 = 28 (euro)"
+     },
+     {
+      "points": 1,
+      "description": "Korting bij kortingsactie II: 0,5 · 40 = 20 (euro)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: kortingsactie I"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-uitverkoop-antw2.png"
+    ]
+   },
+   {
+    "title": "Uitverkoop",
+    "question_number": 3,
+    "answer_text": "• Bij een punt in gebied A, bijvoorbeeld (40,100), vaststellen dat kortingsactie I de meeste korting oplevert, dus gebied A is het niet (1 punt)\n• Gebied C is het ook niet, want daar zouden dan de goedkoopste schoenen duurder zijn dan de duurste en dat kan niet (1 punt)\n• Dus het moet gebied B zijn (1 punt)\n\nof\n\n• Bij een punt in gebied B, bijvoorbeeld (80,100), de korting bij kortingsactie II vaststellen, bij dit voorbeeld 40 (euro) (1 punt)\n• Bij hetzelfde punt de korting bij kortingsactie I berekenen, bij dit voorbeeld 0,2 · 80 + 0,2 · 100 = 36 (euro) (1 punt)\n• Dus het is gebied B (1 punt)\n\nof\n\n• Bij een punt in gebied B, bijvoorbeeld (80,100), de korting bij kortingsactie II vaststellen, bij dit voorbeeld 22 (%) (1 punt)\n• De korting bij kortingsactie I is 20 (%) (1 punt)\n• Dus het is gebied B (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij een punt in gebied A, bijvoorbeeld (40,100), vaststellen dat kortingsactie I de meeste korting oplevert, dus gebied A is het niet"
+     },
+     {
+      "points": 1,
+      "description": "Gebied C is het ook niet, want daar zouden dan de goedkoopste schoenen duurder zijn dan de duurste en dat kan niet"
+     },
+     {
+      "points": 1,
+      "description": "Dus het moet gebied B zijn"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-uitverkoop-antw3.png"
+    ]
+   },
+   {
+    "title": "Uitverkoop",
+    "question_number": 4,
+    "answer_text": "• De vergelijking 0,3 · 75 + 0,3 · f · 75 = 0,75 · 75 moet worden opgelost (1 punt)\n• Beschrijven hoe de vergelijking kan worden opgelost (1 punt)\n• Het antwoord: 1,5 keer (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 0,3 · 75 + 0,3 · f · 75 = 0,75 · 75 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 1,5 keer"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-uitverkoop-antw4.png"
+    ]
+   },
+   {
+    "title": "Uitverkoop",
+    "question_number": 5,
+    "answer_text": "• B = G + f · G − (0,3 · G + 0,3 · f · G) (1 punt)\n• B = G + f · G − 0,3 · G − 0,3 · f · G (= 0,7 · G + 0,7 · f · G) (1 punt)\n\nof\n\n• En korting van 30% betekent dat er 70% betaald moet worden, dus vermenigvuldigen met 0,7 (1 punt)\n• In de formule voor kortingsactie I kunnen we (op twee plaatsen) 0,3 vervangen door 0,7 om de formule voor B op te stellen (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "B = G + f · G − (0,3 · G + 0,3 · f · G)"
+     },
+     {
+      "points": 1,
+      "description": "B = G + f · G − 0,3 · G − 0,3 · f · G (= 0,7 · G + 0,7 · f · G)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-uitverkoop-antw5.png"
+    ]
+   },
+   {
+    "title": "Vlindertellingen",
+    "question_number": 6,
+    "answer_text": "• De toename per 25 jaar is 394-69 (= 325) (1 punt)\n• De toename per jaar is 325/25 (= 13) (1 punt)\n• Het aantal vaste routes in 2002 is (13 · 13 + 69 =) 238 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De toename per 25 jaar is 394-69 (= 325)"
+     },
+     {
+      "points": 1,
+      "description": "De toename per jaar is 325/25 (= 13)"
+     },
+     {
+      "points": 1,
+      "description": "Het aantal vaste routes in 2002 is (13 · 13 + 69 =) 238"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-vlindertellingen-antw6.png"
+    ]
+   },
+   {
+    "title": "Vlindertellingen",
+    "question_number": 7,
+    "answer_text": "• De mediaan is de 13e (middelste) waarneming (1 punt)\n• Er liggen 12 waarnemingen onder het gemiddelde, de andere liggen erboven (1 punt)\n• De mediaan (680 in het jaar 2000) is dus groter dan het gemiddelde over de hele periode 1990-2014 (660) (1 punt)\n\nof\n\n• De mediaan is de 13e (middelste) waarneming (1 punt)\n• De waarnemingen rangschikken van klein naar groot, met het jaar 2000 als mediaan (2008, 2012, 2004, 2010, 1998, 2007, 2011, 2001, 1993, 1991, 1990, 2005, 2000, 1994, 2006, 1997, 2014, 1999, 2009, 2002, 1996, 2013, 2003, 1992, 1995) (1 punt)\n• De mediaan (680 in het jaar 2000) is dus groter dan het gemiddelde over de hele periode 1990-2014 (660) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De mediaan is de 13e (middelste) waarneming"
+     },
+     {
+      "points": 1,
+      "description": "Er liggen 12 waarnemingen onder het gemiddelde, de andere liggen erboven"
+     },
+     {
+      "points": 1,
+      "description": "De mediaan (680 in het jaar 2000) is dus groter dan het gemiddelde over de hele periode 1990-2014 (660)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-vlindertellingen-antw7.png"
+    ]
+   },
+   {
+    "title": "Vlindertellingen",
+    "question_number": 8,
+    "answer_text": "• Stelling I: Eikenpage; de grafiek van 2020 (boven hoogte 0) is smaller dan die van 1990-2019 (1 punt)\n• Stelling II: Bruin zandoogje; de grafiek van 2020 is bij deze vlindersoort breder en hoger dan die bij de andere twee vlindersoorten (1 punt)\n• Stelling III: Veldparelmoervlinder (of: Bruin zandoogje); de grafiek van 2020 ligt in het voorjaar (of: tot half mei) boven die van 1990-2019 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Stelling I: Eikenpage; de grafiek van 2020 (boven hoogte 0) is smaller dan die van 1990-2019"
+     },
+     {
+      "points": 1,
+      "description": "Stelling II: Bruin zandoogje; de grafiek van 2020 is bij deze vlindersoort breder en hoger dan die bij de andere twee vlindersoorten"
+     },
+     {
+      "points": 1,
+      "description": "Stelling III: Veldparelmoervlinder (of: Bruin zandoogje); de grafiek van 2020 ligt in het voorjaar (of: tot half mei) boven die van 1990-2019"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-vlindertellingen-antw8.png"
+    ]
+   },
+   {
+    "title": "Vlindertellingen",
+    "question_number": 9,
+    "answer_text": "• Het aflezen van twee punten, bijvoorbeeld (1992,10000) en (2006,1000) (1 punt)\n• De groeifactor per 14 jaar is 1000 : 10000 (= 0,1) (1 punt)\n• De groeifactor per jaar is 0,1^(1/14) (= 0,8483…) (1 punt)\n• Het afnamepercentage is (100 − 84,83… = 15,165…, dus) 15,2(%) (per jaar) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het aflezen van twee punten, bijvoorbeeld (1992,10000) en (2006,1000)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per 14 jaar is 1000 : 10000 (= 0,1)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per jaar is 0,1^(1/14) (= 0,8483…)"
+     },
+     {
+      "points": 1,
+      "description": "Het afnamepercentage is (100 − 84,83… = 15,165…, dus) 15,2(%) (per jaar)"
+     }
+    ],
+    "grading_note": "– De afgelezen aantallen moeten passen bij de logaritmische schaalverdeling.\n– Als gerekend wordt met (1000 − 10000)^(1/14), voor deze vraag maximaal 2 scorepunten toekennen.\n– Als gerekend wordt met 1000/10000 : 14, voor deze vraag maximaal 2 scorepunten toekennen.\n– Voor het antwoord -15,2 (%) geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-vlindertellingen-antw9.png"
+    ]
+   },
+   {
+    "title": "Vlindertellingen",
+    "question_number": 10,
+    "answer_text": "• De cumulatieve percentages horend bij de vlinders (1 punt)\n• De cumulatieve percentages horend bij de libellen (1 punt)\n• De Vcp-waarden (1 punt)\n\nTabel:\nmate van bedreiging | vlinders: percentage | vlinders: cumulatief percentage | libellen: percentage | libellen: cumulatief percentage | Vcp\nzeer ernstig bedreigd | (20) | 20 | (8) | 8 | 12\nernstig bedreigd | (16) | 36 | (6) | 14 | 22\nbedreigd | (13) | 49 | (9) | 23 | 26\nlicht bedreigd | (9) | 58 | (9) | 32 | 26\nzeer licht bedreigd | (4) | 62 | (3) | 35 | 27\nniet bedreigd | (38) | (100) | (65) | (100) | (0)\n• max Vcp = 27; (20 < max Vcp ≤ 40, dus) het verschil is middelmatig (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De cumulatieve percentages horend bij de vlinders"
+     },
+     {
+      "points": 1,
+      "description": "De cumulatieve percentages horend bij de libellen"
+     },
+     {
+      "points": 1,
+      "description": "De Vcp-waarden"
+     },
+     {
+      "points": 1,
+      "description": "max Vcp = 27; (20 < max Vcp ≤ 40, dus) het verschil is middelmatig"
+     }
+    ],
+    "grading_note": "De percentages mogen afgelezen worden met een marge van 1.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-vlindertellingen-antw10.png"
+    ]
+   },
+   {
+    "title": "Extreme armoede",
+    "question_number": 11,
+    "answer_text": "• De ambitie is een afname na 2015 van meer dan 7 (1 punt)\n• Deze afname wordt bereikt in 2023 (1 punt)\n• Dus de ambitie zal gehaald worden (1 punt)\n\nof\n\n• 2030 is 15 jaar later dan 2015 (1 punt)\n• Volgens de aanname is het percentage na 10 jaar al 0 (1 punt)\n• Dus de ambitie zal gehaald worden (1 punt)\n\nof\n\n• In de periode 2015-2030 neemt het percentage met 15 af (1 punt)\n• In 2030 zou het percentage (10 − 15 =) -5 zijn (1 punt)\n• Dus de ambitie zal gehaald worden (want −5 < 3) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De ambitie is een afname na 2015 van meer dan 7"
+     },
+     {
+      "points": 1,
+      "description": "Deze afname wordt bereikt in 2023"
+     },
+     {
+      "points": 1,
+      "description": "Dus de ambitie zal gehaald worden"
+     }
+    ],
+    "grading_note": "Als er wordt gerekend met de (berekende) afname van 1,036 per jaar, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-extreme-armoede-antw11.png"
+    ]
+   },
+   {
+    "title": "Extreme armoede",
+    "question_number": 12,
+    "answer_text": "• De omvang van de wereldbevolking was in 1990 gelijk aan 1,895/0,359 (= 5,278…) (miljard) (1 punt)\n• De omvang van de wereldbevolking was in 2015 gelijk aan 0,736/0,100 (= 7,36) (miljard) (1 punt)\n• De groeifactor over de gehele periode is 7,36/5,278… (1 punt)\n• De groeifactor per jaar is (7,36/5,278…)^(1/25) (= 1,0133…) (1 punt)\n• De conclusie: 5,278… is afgerond (de beginwaarde) 5,28 in de formule en (de groeifactor) 1,0133… is afgerond 1,013 (dus de formule volgt uit de aanname en de gegevens) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De omvang van de wereldbevolking was in 1990 gelijk aan 1,895/0,359 (= 5,278…) (miljard)"
+     },
+     {
+      "points": 1,
+      "description": "De omvang van de wereldbevolking was in 2015 gelijk aan 0,736/0,100 (= 7,36) (miljard)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor over de gehele periode is 7,36/5,278…"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per jaar is (7,36/5,278…)^(1/25) (= 1,0133…)"
+     },
+     {
+      "points": 1,
+      "description": "De conclusie: 5,278… is afgerond (de beginwaarde) 5,28 in de formule en (de groeifactor) 1,0133… is afgerond 1,013 (dus de formule volgt uit de aanname en de gegevens)"
+     }
+    ],
+    "grading_note": "– Als gerekend wordt met (7,36 − 5,278…)^(1/25), voor deze vraag maximaal 3 scorepunten toekennen.\n– Als gerekend wordt met 7,36/5,278… : 25, voor deze vraag maximaal 3 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-extreme-armoede-antw12.png"
+    ]
+   },
+   {
+    "title": "Extreme armoede",
+    "question_number": 13,
+    "answer_text": "(N =) 5 (US$ per persoon per dag)\n\n(2 punten)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "(N =) 5 (US$ per persoon per dag)"
+     }
+    ],
+    "grading_note": "Voor deze vraag mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-extreme-armoede-antw13.png"
+    ]
+   },
+   {
+    "title": "Extreme armoede",
+    "question_number": 14,
+    "answer_text": "• De vergelijking 1,00 + 0,5 · W − 0,88 · W^0,83 = 1 moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• De oplossing is W = 27,80… (1 punt)\n• Het antwoord: (tot en met een welvaartsscore van) 27,8 (US$ per persoon per dag) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 1,00 + 0,5 · W − 0,88 · W^0,83 = 1 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing is W = 27,80…"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (tot en met een welvaartsscore van) 27,8 (US$ per persoon per dag)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-extreme-armoede-antw14.png"
+    ]
+   },
+   {
+    "title": "Extreme armoede",
+    "question_number": 15,
+    "answer_text": "• De vergelijking (35,9 − 1,04 · t) · 0,0528 · 1,013ᵗ = 0 moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost met als oplossing t = 34,519… (1 punt)\n• Dus 35 jaar (na 1990 leven er volgens de formule van Aᵢ geen mensen meer in extreme armoede) (1 punt)\n• Aₙ = (44,2 − 0,51 · 35) · 0,0528 · 1,013³⁵ (= 2,186…) (1 punt)\n• (Er leven dan volgens de formule van Aₙ nog wel) 2 (miljard mensen in extreme armoede) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking (35,9 − 1,04 · t) · 0,0528 · 1,013ᵗ = 0 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost met als oplossing t = 34,519…"
+     },
+     {
+      "points": 1,
+      "description": "Dus 35 jaar (na 1990 leven er volgens de formule van Aᵢ geen mensen meer in extreme armoede)"
+     },
+     {
+      "points": 1,
+      "description": "Aₙ = (44,2 − 0,51 · 35) · 0,0528 · 1,013³⁵ (= 2,186…)"
+     },
+     {
+      "points": 1,
+      "description": "(Er leven dan volgens de formule van Aₙ nog wel) 2 (miljard mensen in extreme armoede)"
+     }
+    ],
+    "grading_note": "Aₙ mag ook berekend worden met een nauwkeuriger waarde dan 35.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-extreme-armoede-antw15.png"
+    ]
+   },
+   {
+    "title": "Eurobankbiljetten",
+    "question_number": 16,
+    "answer_text": "Voorbeelden van een juist antwoord:\n– Nee, de steekproef is niet aselect, omdat alleen mensen met een telefoonnummer mee konden doen aan de steekproef\n– Nee, de steekproef is niet aselect, omdat alleen mensen die in februari telefonisch bereikbaar waren mee konden doen aan de steekproef\n\n(2 punten)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juist antwoord:\n– Nee, de steekproef is niet aselect, omdat alleen mensen met een telefoonnummer mee konden doen aan de steekproef\n– Nee, de steekproef is niet aselect, omdat alleen mensen die in februari telefonisch bereikbaar waren mee konden doen aan de steekproef"
+     }
+    ],
+    "grading_note": "Voor deze vraag mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-eurobankbiljetten-antw16.png"
+    ]
+   },
+   {
+    "title": "Eurobankbiljetten",
+    "question_number": 17,
+    "answer_text": "Het geslacht, het wel of niet beroepsmatig omgaan met bankbiljetten en de provincie waarin men woont zijn nominale variabelen\n\n(2 punten)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Het geslacht, het wel of niet beroepsmatig omgaan met bankbiljetten en de provincie waarin men woont zijn nominale variabelen"
+     }
+    ],
+    "grading_note": "Voor ieder foutief of vergeten kenmerk 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-eurobankbiljetten-antw17.png"
+    ]
+   },
+   {
+    "title": "Eurobankbiljetten",
+    "question_number": 18,
+    "answer_text": "• (11 + 35 =) 46(%) vindt de bankbiljetten erg mooi of tamelijk mooi (1 punt)\n• 46/95 · 100(%) = 48,4(%) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(11 + 35 =) 46(%) vindt de bankbiljetten erg mooi of tamelijk mooi"
+     },
+     {
+      "points": 1,
+      "description": "46/95 · 100(%) = 48,4(%)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-eurobankbiljetten-antw18.png"
+    ]
+   },
+   {
+    "title": "Eurobankbiljetten",
+    "question_number": 19,
+    "answer_text": "• Aantal 'erg mooi': 0,11 · 1003; aantal 'tamelijk mooi': 0,35 · 1003; aantal 'niet mooi, niet lelijk': 0,44 · 1003; totaal aantal deelnemers: 1003; aantal 'geen waardering gegeven': 0,05 · 1003 (2 punten)\n• Pmooi = (110 + 351 + 0,5 · 441)/(1003 − 50) · 100 (= 681,5/953 · 100 = 71,51…) (%) (1 punt)\n• Het verschil is (71,51… − 65 = 6,51…, dus) 7 (%) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Aantal 'erg mooi': 0,11 · 1003; aantal 'tamelijk mooi': 0,35 · 1003; aantal 'niet mooi, niet lelijk': 0,44 · 1003; totaal aantal deelnemers: 1003; aantal 'geen waardering gegeven': 0,05 · 1003"
+     },
+     {
+      "points": 1,
+      "description": "Pmooi = (110 + 351 + 0,5 · 441)/(1003 − 50) · 100 (= 681,5/953 · 100 = 71,51…) (%)"
+     },
+     {
+      "points": 1,
+      "description": "Het verschil is (71,51… − 65 = 6,51…, dus) 7 (%)"
+     }
+    ],
+    "grading_note": "Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-eurobankbiljetten-antw19.png"
+    ]
+   },
+   {
+    "title": "Eurobankbiljetten",
+    "question_number": 20,
+    "answer_text": "• Aantal 'geen waardering gegeven' wordt kleiner, dus de noemer (van de breuk in de formule voor Pmooi) wordt groter (1 punt)\n• De teller (van de breuk in de formule voor Pmooi) blijft gelijk (1 punt)\n• De breuk in de formule voor Pmooi wordt kleiner (dus het percentage 'mooi' neemt af) (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Aantal 'geen waardering gegeven' wordt kleiner, dus de noemer (van de breuk in de formule voor Pmooi) wordt groter"
+     },
+     {
+      "points": 1,
+      "description": "De teller (van de breuk in de formule voor Pmooi) blijft gelijk"
+     },
+     {
+      "points": 1,
+      "description": "De breuk in de formule voor Pmooi wordt kleiner (dus het percentage 'mooi' neemt af)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-eurobankbiljetten-antw20.png"
+    ]
+   },
+   {
+    "title": "Eurobankbiljetten",
+    "question_number": 21,
+    "answer_text": "• Het aantal deelnemers in groep A en B is 0,171 · 1003 (= 172) respectievelijk 0,829 · 1003 (= 831) (1 punt)\n• Het aantal deelnemers met de verwachting over vijf jaar minder contant te betalen in groep A en B is 0,5 · 172 (= 86) respectievelijk 0,61 · 831 (= 507) (1 punt)\n• Een correcte kruistabel, bijvoorbeeld (1 punt)\n\nKruistabel:\n | minder contant | niet minder contant | (totaal)\ngroep A | 86 | 86 | (172)\ngroep B | 507 | 324 | (831)\n(totaal) | (593) | (410) | (1003)\n• phi = (86 · 324 − 86 · 507)/√((86 + 86)(86 + 507)(86 + 324)(507 + 324)) (1 punt)\n• phi = −0,08…; (−0,2 ≤ phi ≤ 0,2, dus) het verschil is gering (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het aantal deelnemers in groep A en B is 0,171 · 1003 (= 172) respectievelijk 0,829 · 1003 (= 831)"
+     },
+     {
+      "points": 1,
+      "description": "Het aantal deelnemers met de verwachting over vijf jaar minder contant te betalen in groep A en B is 0,5 · 172 (= 86) respectievelijk 0,61 · 831 (= 507)"
+     },
+     {
+      "points": 1,
+      "description": "Een correcte kruistabel, bijvoorbeeld"
+     },
+     {
+      "points": 1,
+      "description": "phi = (86 · 324 − 86 · 507)/√((86 + 86)(86 + 507)(86 + 324)(507 + 324))"
+     },
+     {
+      "points": 1,
+      "description": "phi = −0,08…; (−0,2 ≤ phi ≤ 0,2, dus) het verschil is gering"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-eurobankbiljetten-antw21.png"
+    ]
+   },
+   {
+    "title": "Topinkomens",
+    "question_number": 22,
+    "answer_text": "• Het aantal topinkomens in 2011 is (360000 − 120000 =) 240000 (1 punt)\n• Het aantal vrouwen en het aantal mannen met een topinkomen in 2011 is respectievelijk (1/8 · 240000 =) 30000 en (7/8 · 240000 =) 210000 (1 punt)\n• Het aantal vrouwen en het aantal mannen met een topinkomen in 2017 is respectievelijk (1/6 · 360000 =) 60000 en (5/6 · 360000 =) 300000 (1 punt)\n• De groeifactor per jaar bij de vrouwen is (60000/30000)^(1/6) (= 1,1224…) (1 punt)\n• De groeifactor per jaar bij de mannen is (300000/210000)^(1/6) (= 1,0612…) (1 punt)\n• De vergelijking (300000 · 1,0612…ˣ)/(60000 · 1,1224…ˣ) = 3 moet worden opgelost (1 punt)\n• Beschrijven hoe deze vergelijking kan worden opgelost (1 punt)\n• De oplossing is x = 9,1…, dus in 2027 (1 punt)\n\nof\n\n• Het aantal topinkomens in 2011 is (360000 − 120000 =) 240 000 (1 punt)\n• Het aantal vrouwen en het aantal mannen met een topinkomen in 2011 is respectievelijk (1/8 · 240000 =) 30000 en (7/8 · 240000 =) 210000 (1 punt)\n• Het aantal vrouwen en het aantal mannen met een topinkomen in 2017 is respectievelijk (1/6 · 360000 =) 60000 en (5/6 · 360000 =) 300000 (1 punt)\n• De groeifactor per jaar bij de vrouwen is (60000/30000)^(1/6) (= 1,1224…) (1 punt)\n• De groeifactor per jaar bij de mannen is (300000/210000)^(1/6) (= 1,0612…) (1 punt)\n• Het maken van een tabel van 300000 · 1,0612…ˣ en 60000 · 1,1224…ˣ (1 punt)\n• x = 9 geeft respectievelijk 512241 en 169 706, zodat 512241/169706 = 3,018… (1 punt)\n• x = 10 geeft respectievelijk 543615 en 190 488, zodat 543615/190488 = 2,853…; dus in 2027 (1 punt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het aantal topinkomens in 2011 is (360000 − 120000 =) 240000"
+     },
+     {
+      "points": 1,
+      "description": "Het aantal vrouwen en het aantal mannen met een topinkomen in 2011 is respectievelijk (1/8 · 240000 =) 30000 en (7/8 · 240000 =) 210000"
+     },
+     {
+      "points": 1,
+      "description": "Het aantal vrouwen en het aantal mannen met een topinkomen in 2017 is respectievelijk (1/6 · 360000 =) 60000 en (5/6 · 360000 =) 300000"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per jaar bij de vrouwen is (60000/30000)^(1/6) (= 1,1224…)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per jaar bij de mannen is (300000/210000)^(1/6) (= 1,0612…)"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking (300000 · 1,0612…ˣ)/(60000 · 1,1224…ˣ) = 3 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing is x = 9,1…, dus in 2027"
+     }
+    ],
+    "grading_note": "Voor beide antwoordalternatieven geldt: als in het tweede antwoordelement is gerekend met 1/7 respectievelijk 6/7 en in het derde antwoordelement met 1/5 respectievelijk 4/5, voor deze vraag maximaal 7 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-havo-2025-ii-topinkomens-antw22.png"
+    ]
+   }
+  ]
+ }
+}
