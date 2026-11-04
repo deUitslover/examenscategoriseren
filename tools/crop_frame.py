@@ -81,7 +81,8 @@ ZOOM = 4
 # marker must stand on its own (followed by whitespace or end of line):
 # "\b" also matched "18p-tetrasomie" (opgave title/context text starting
 # with a chromosome arm on HAVO-BIO-21-I-O.pdf), which then became a vraag.
-POINTS_RE = re.compile(r"^\s*\d+\s*p(?=\s|$)")
+# "2𝑝" (Cambria Math italic p, HAVO-WISB-23-II-O.pdf vraag 8) counts as a points marker too
+POINTS_RE = re.compile(r"^\s*\d+\s*[p\U0001D45D](?=\s|$)")
 
 # Generous indent allowed when first collecting a vraag's own marker ROW
 # (see find_vraag_lines): wide enough for a sub-bullet's indented text

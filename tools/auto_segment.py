@@ -83,7 +83,7 @@ def footer_limit(page, hashes):
     return (page.rect.height - 90.0) if top is None else top - 4.0
 
 
-_NUM_RE = re.compile(r"^\s*\d+\s*p\s+(\d{1,2})\b")
+_NUM_RE = re.compile(r"^\s*\d+\s*[p\U0001D45D]\s+(\d{1,2})\b")
 
 
 def _vnum(page, v):
@@ -103,7 +103,7 @@ def _vnum(page, v):
             return int(l[4])
     # "4p" on its own line and "17  Bereken a exact." as one line
     # (HAVO-WISB-22-III-O.pdf p.11 vraag 17): number glued to the body text
-    if any(re.fullmatch(r"\d+\s*p", l[4].strip()) for l in rows):
+    if any(re.fullmatch(r"\d+\s*[p\U0001D45D]", l[4].strip()) for l in rows):
         for l in rows:
             m = re.match(r"^\s*(\d{1,2})\s+\S", l[4])
             if m:
