@@ -1,0 +1,502 @@
+{
+ "subject_name": "Wiskunde B",
+ "level": "HAVO",
+ "source": "HAVO Wiskunde B 2021-III",
+ "answers": [
+  {
+   "title": "Transistors en opslagcapaciteit",
+   "question_number": 1,
+   "answer_text": "• De groeifactor per vijf jaar is (6,9/1 =) 6,9\n• De groeifactor per jaar is 6,9^(1/5) (= 1,47…)\n• In 2021 zal het aantal transistors 1,47…⁸ ≈ 22 (miljard) zijn",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De groeifactor per vijf jaar is (6,9/1 =) 6,9"
+    },
+    {
+     "points": 1,
+     "description": "De groeifactor per jaar is 6,9^(1/5) (= 1,47…)"
+    },
+    {
+     "points": 1,
+     "description": "In 2021 zal het aantal transistors 1,47…⁸ ≈ 22 (miljard) zijn"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-transistors-en-opslagcapaciteit-antw1.png"
+   ]
+  },
+  {
+   "title": "Transistors en opslagcapaciteit",
+   "question_number": 2,
+   "answer_text": "• De groeifactor per jaar is 0,68\n• De vergelijking 222 · 0,68ᵗ = 0,001 (met t in jaren vanaf 1 januari 1992) moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft t = 31,9…, dus (is de prijs voor het eerst minder dan 0,001 dollar in het jaar) 2023\nof\n• De groeifactor per jaar is 0,68\n• De vergelijking 222 · 0,68ᵗ = 0,001 (met t in jaren vanaf 1 januari 1992) moet worden opgelost\n• m = 31 geeft 0,0014… en m = 32 geeft 0,0009… (dus de oplossing van de vergelijking is groter dan 31, maar kleiner dan 32)\n• Dus (is de prijs voor het eerst minder dan 0,001 dollar in het jaar) 2023",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De groeifactor per jaar is 0,68"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking 222 · 0,68ᵗ = 0,001 (met t in jaren vanaf 1 januari 1992) moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft t = 31,9…, dus (is de prijs voor het eerst minder dan 0,001 dollar in het jaar) 2023"
+    }
+   ],
+   "grading_note": "Voor het eindantwoord 2024 geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-transistors-en-opslagcapaciteit-antw2.png"
+   ]
+  },
+  {
+   "title": "Transistors en opslagcapaciteit",
+   "question_number": 3,
+   "answer_text": "• Aflezen van log(p) geeft 0 in 2004 en −1,6 in 2013\n• De prijs per GB was dus (10⁰ =) 1 (dollar) in 2004 en 10^(−1,6) = 0,025… (dollar) in 2013\n• De prijs van de harde schijf uit 2004 was dus 250 (dollar); de prijs van de harde schijf uit 2013 was dus 2 · 1000 · 0,025… = 50,23… (dollar)\n• De harde schijf uit 2013 is dus ((250 − 50,23…)/250 · 100(%) ≈) 80(%) goedkoper",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Aflezen van log(p) geeft 0 in 2004 en −1,6 in 2013"
+    },
+    {
+     "points": 1,
+     "description": "De prijs per GB was dus (10⁰ =) 1 (dollar) in 2004 en 10^(−1,6) = 0,025… (dollar) in 2013"
+    },
+    {
+     "points": 1,
+     "description": "De prijs van de harde schijf uit 2004 was dus 250 (dollar); de prijs van de harde schijf uit 2013 was dus 2 · 1000 · 0,025… = 50,23… (dollar)"
+    },
+    {
+     "points": 1,
+     "description": "De harde schijf uit 2013 is dus ((250 − 50,23…)/250 · 100(%) ≈) 80(%) goedkoper"
+    }
+   ],
+   "grading_note": "Bij het aflezen van log(p) in 2013 is een marge van 0,1 toegestaan.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-transistors-en-opslagcapaciteit-antw3.png"
+   ]
+  },
+  {
+   "title": "Hetzelfde snijpunt met de y-as",
+   "question_number": 4,
+   "answer_text": "• De y-coördinaat van T is (g(0) =) 6\n• g(x) = x³ − 2x² − 5x + 6\n• x³ − x² − 7x − 29 = x³ − 2x² − 5x + 6 geeft x² − 2x − 35 = 0\n• (x + 5)(x − 7) = 0, dus x = −5 of x = 7\n• Invullen geeft respectievelijk y = −144 en y = 216\n• De richtingscoëfficiënt van de lijn door A en B is (216 − −144)/(7 − −5) = 30\n• Voor de lijn door A en B geldt dus y = 30x + b; invullen van bijvoorbeeld (7, 216) geeft b = 6, dus de y-coördinaat van S is 6 (dus S en T hebben dezelfde y-coördinaat)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De y-coördinaat van T is (g(0) =) 6"
+    },
+    {
+     "points": 1,
+     "description": "g(x) = x³ − 2x² − 5x + 6"
+    },
+    {
+     "points": 1,
+     "description": "x³ − x² − 7x − 29 = x³ − 2x² − 5x + 6 geeft x² − 2x − 35 = 0"
+    },
+    {
+     "points": 1,
+     "description": "(x + 5)(x − 7) = 0, dus x = −5 of x = 7"
+    },
+    {
+     "points": 1,
+     "description": "Invullen geeft respectievelijk y = −144 en y = 216"
+    },
+    {
+     "points": 1,
+     "description": "De richtingscoëfficiënt van de lijn door A en B is (216 − −144)/(7 − −5) = 30"
+    },
+    {
+     "points": 1,
+     "description": "Voor de lijn door A en B geldt dus y = 30x + b; invullen van bijvoorbeeld (7, 216) geeft b = 6, dus de y-coördinaat van S is 6 (dus S en T hebben dezelfde y-coördinaat)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-hetzelfde-snijpunt-met-de-y-as-antw4.png"
+   ]
+  },
+  {
+   "title": "Twee transformaties",
+   "question_number": 5,
+   "answer_text": "• f′(x) = 3(3x − 4)^(−½) (of een gelijkwaardige uitdrukking)\n• De vergelijking 3(3x − 4)^(−½) = ¾ moet worden opgelost\n• Hieruit volgt 4 = (3x − 4)^(½)\n• 3x − 4 = 16\n• Dus x = 20/3\n• f(20/3) = 8 en het punt op l met x-coördinaat 20/3 heeft y-coördinaat ¾ · 20/3 = 5\n• c = (8 − 5 =) 3",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "f′(x) = 3(3x − 4)^(−½) (of een gelijkwaardige uitdrukking)"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking 3(3x − 4)^(−½) = ¾ moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt 4 = (3x − 4)^(½)"
+    },
+    {
+     "points": 1,
+     "description": "3x − 4 = 16"
+    },
+    {
+     "points": 1,
+     "description": "Dus x = 20/3"
+    },
+    {
+     "points": 1,
+     "description": "f(20/3) = 8 en het punt op l met x-coördinaat 20/3 heeft y-coördinaat ¾ · 20/3 = 5"
+    },
+    {
+     "points": 1,
+     "description": "c = (8 − 5 =) 3"
+    }
+   ],
+   "grading_note": "Voor het eerste antwoordelement mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-twee-transformaties-antw5.png"
+   ]
+  },
+  {
+   "title": "Twee transformaties",
+   "question_number": 6,
+   "answer_text": "• Na vermenigvuldiging ten opzichte van de x-as van lijn l met factor p ontstaat een lijn met vergelijking y = p · ¾x\n• De vergelijking 2√(3x − 4) = p · ¾x moet één oplossing hebben\n• (2√(3x − 4))² = 9/16 p²x²\n• 9/16 p²x² − 12x + 16 = 0\n• D = 0 geeft 144 − 36p² = 0\n• Hieruit volgt p² = 4, dus p = 2 (p = −2 voldoet niet)\nof\n• De vergelijking 2√(3x − 4) = ax moet één oplossing hebben\n• (2√(3x − 4))² = a²x²\n• a²x² − 12x + 16 = 0\n• D = 0 geeft 144 − 64a² = 0\n• Hieruit volgt a² = 144/64, dus a = 3/2 (a = −3/2 voldoet niet)\n• p = (3/2)/(3/4) = 2",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Na vermenigvuldiging ten opzichte van de x-as van lijn l met factor p ontstaat een lijn met vergelijking y = p · ¾x"
+    },
+    {
+     "points": 1,
+     "description": "De vergelijking 2√(3x − 4) = p · ¾x moet één oplossing hebben"
+    },
+    {
+     "points": 1,
+     "description": "(2√(3x − 4))² = 9/16 p²x²"
+    },
+    {
+     "points": 1,
+     "description": "9/16 p²x² − 12x + 16 = 0"
+    },
+    {
+     "points": 1,
+     "description": "D = 0 geeft 144 − 36p² = 0"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt p² = 4, dus p = 2 (p = −2 voldoet niet)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-twee-transformaties-antw6.png"
+   ]
+  },
+  {
+   "title": "Bouwkraan",
+   "question_number": 7,
+   "answer_text": "• De cosinusregel in △PQR geeft 12² = 5,5² + 9² − 2 · 5,5 · 9 · cos(∠PRQ)\n• Beschrijven hoe deze vergelijking algebraïsch kan worden opgelost\n• Dit geeft ∠PRQ = 109,31… (°)\n• Dus ∠SRQ = 180 − 109,31… = 70,68… (°), dus ∠SRQ ≈ 70,7 (°)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De cosinusregel in △PQR geeft 12² = 5,5² + 9² − 2 · 5,5 · 9 · cos(∠PRQ)"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking algebraïsch kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft ∠PRQ = 109,31… (°)"
+    },
+    {
+     "points": 1,
+     "description": "Dus ∠SRQ = 180 − 109,31… = 70,68… (°), dus ∠SRQ ≈ 70,7 (°)"
+    }
+   ],
+   "grading_note": "Voor het eerste antwoordelement mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-bouwkraan-antw7.png"
+   ]
+  },
+  {
+   "title": "Bouwkraan",
+   "question_number": 8,
+   "answer_text": "• Vóór de verplaatsing geldt RS = 9 · cos(70,68…°) (= 2,97…)\n• Na de verplaatsing geldt RS = 5,47… en PS = 5,47… + 5,5 = 10,97…\n• QS = √(9² − 5,47…²) = 7,14…\n• PQ = √(10,97…² + 7,14…²) ≈ 13,1 (m)\nof\n• Vóór de verplaatsing geldt RS = cos(70,68…°) · 9 (= 2,97…)\n• Na de verplaatsing geldt RS = 5,47… en cos(∠SRQ) = 5,47…/9 = 0,60…\n• Hieruit volgt ∠SRQ = 52,51… (°), dus ∠PRQ = 180 − 52,51… = 127,48… (°)\n• De cosinusregel in △PQR geeft PQ² = 5,5² + 9² − 2 · 5,5 · 9 · cos(127,48…°), waaruit volgt dat PQ ≈ 13,1 (m)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Vóór de verplaatsing geldt RS = 9 · cos(70,68…°) (= 2,97…)"
+    },
+    {
+     "points": 1,
+     "description": "Na de verplaatsing geldt RS = 5,47… en PS = 5,47… + 5,5 = 10,97…"
+    },
+    {
+     "points": 1,
+     "description": "QS = √(9² − 5,47…²) = 7,14…"
+    },
+    {
+     "points": 1,
+     "description": "PQ = √(10,97…² + 7,14…²) ≈ 13,1 (m)"
+    }
+   ],
+   "grading_note": "Als de kandidaat bij de vorige vraag een eindantwoord had anders dan 70,7°, en daarmee in deze vraag rekent, dan bij deze vraag geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-bouwkraan-antw8.png"
+   ]
+  },
+  {
+   "title": "Prooidieren en roofdieren",
+   "question_number": 9,
+   "answer_text": "• Het minimum is 1000 en het maximum is 5000, dus de evenwichtsstand is 3000 en de amplitude is 2000 (dus r(t) = 3000 + 2000 sin(b(t − c)))\n• De periode is 10, dus b = 2π/10 (= ⅕π)\n• Een beginpunt van de grafiek ligt bij t = 1, dus c = 1\n• Het functievoorschrift is dan r(t) = 3000 + 2000 sin(⅕π(t − 1)) (of bijvoorbeeld r(t) = 3000 + 2000 cos(⅕π(t − 3,5)))",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het minimum is 1000 en het maximum is 5000, dus de evenwichtsstand is 3000 en de amplitude is 2000 (dus r(t) = 3000 + 2000 sin(b(t − c)))"
+    },
+    {
+     "points": 1,
+     "description": "De periode is 10, dus b = 2π/10 (= ⅕π)"
+    },
+    {
+     "points": 1,
+     "description": "Een beginpunt van de grafiek ligt bij t = 1, dus c = 1"
+    },
+    {
+     "points": 1,
+     "description": "Het functievoorschrift is dan r(t) = 3000 + 2000 sin(⅕π(t − 1)) (of bijvoorbeeld r(t) = 3000 + 2000 cos(⅕π(t − 3,5)))"
+    }
+   ],
+   "grading_note": "Wanneer de kandidaat een functievoorschrift opstelt passend bij de grafiek van de prooidieren, voor deze vraag maximaal 3 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-prooidieren-en-roofdieren-antw9.png"
+   ]
+  },
+  {
+   "title": "Prooidieren en roofdieren",
+   "question_number": 10,
+   "answer_text": "• Het invoeren van de hellingfunctie van p op de GR\n• Beschrijven hoe het maximum van deze functie kan worden berekend\n• De maximale groeisnelheid is (afgerond) 2700 (prooidieren per jaar)\nof\n• Uit het functievoorschrift van p volgt dat de maximale groeisnelheid wordt bereikt op t = 3 (want daar stijgt de grafiek door de evenwichtsstand)\n• Deze groeisnelheid wordt benaderd door (p(3,001) − p(3))/0,001 (of beschrijven hoe de richtingscoëfficiënt van de raaklijn aan de grafiek voor t = 3 met de GR gevonden kan worden)\n• Dit is (afgerond) 2700 (prooidieren per jaar)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het invoeren van de hellingfunctie van p op de GR"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe het maximum van deze functie kan worden berekend"
+    },
+    {
+     "points": 1,
+     "description": "De maximale groeisnelheid is (afgerond) 2700 (prooidieren per jaar)"
+    }
+   ],
+   "grading_note": "– Als een differentiequotiënt wordt gebruikt, en hierbij een interval wordt gehanteerd met Δt > 0,001 leidend tot het antwoord 2700, dan geen scorepunten in mindering brengen.\n– Wanneer de kandidaat het functievoorschrift van r in plaats van dat van p gebruikt, voor deze vraag maximaal 2 scorepunten toekennen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-prooidieren-en-roofdieren-antw10.png"
+   ]
+  },
+  {
+   "title": "Prooidieren en roofdieren",
+   "question_number": 11,
+   "answer_text": "• De vergelijking 4800 + 3400 · sin(¼π(t − 3)) = 4300 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft bijvoorbeeld t = 2,81… en t = 7,18…\n• r(2,81…) ≈ 1200 en r(7,18…) ≈ 3800 (dus dit zijn de getallen die op de puntjes moeten staan)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking 4800 + 3400 · sin(¼π(t − 3)) = 4300 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft bijvoorbeeld t = 2,81… en t = 7,18…"
+    },
+    {
+     "points": 1,
+     "description": "r(2,81…) ≈ 1200 en r(7,18…) ≈ 3800 (dus dit zijn de getallen die op de puntjes moeten staan)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-prooidieren-en-roofdieren-antw11.png"
+   ]
+  },
+  {
+   "title": "Raaklijn aan cirkel",
+   "question_number": 12,
+   "answer_text": "• De richtingscoëfficiënt van de lijn door O en P is 4/3\n• De raaklijn aan c in P heeft dus richtingscoëfficiënt −¾\n• P(−3, −4) ligt op de lijn met vergelijking y = −¾x + b; hieruit volgt b = −6¼ (dus is y = −¾x − 6¼ inderdaad een vergelijking van l)\nof\n• Omdat −4 = −¾ · −3 − 6¼, ligt P op de lijn met vergelijking y = −¾x − 6¼\n• Voor gemeenschappelijke punten van c en de lijn met vergelijking y = −¾x − 6¼ geldt x² + (−¾x − 6¼)² = 25; herleiden tot 1 9/16 x² + 9⅜x + 14 1/16 = 0\n• De bijbehorende discriminant is (9⅜)² − 4 · 1 9/16 · 14 1/16 = 0 (dus de lijn met vergelijking y = −¾x − 6¼ heeft één punt gemeenschappelijk met c, dus is y = −¾x − 6¼ inderdaad een vergelijking van l)\nof\n• Omdat −4 = −¾ · −3 − 6¼, ligt P op de lijn met vergelijking y = −¾x − 6¼\n• De richtingscoëfficiënt van de lijn door O en P is 4/3\n• Omdat 4/3 · −¾ = −1, staat OP loodrecht op de lijn met vergelijking y = −¾x − 6¼ (dus is y = −¾x − 6¼ inderdaad een vergelijking van l)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De richtingscoëfficiënt van de lijn door O en P is 4/3"
+    },
+    {
+     "points": 1,
+     "description": "De raaklijn aan c in P heeft dus richtingscoëfficiënt −¾"
+    },
+    {
+     "points": 1,
+     "description": "P(−3, −4) ligt op de lijn met vergelijking y = −¾x + b; hieruit volgt b = −6¼ (dus is y = −¾x − 6¼ inderdaad een vergelijking van l)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-raaklijn-aan-cirkel-antw12.png"
+   ]
+  },
+  {
+   "title": "Raaklijn aan cirkel",
+   "question_number": 13,
+   "answer_text": "• Voor de x-coördinaat van S geldt −¾x − 6¼ = 0; dit geeft x = −8⅓\n• x_A = −5 en x_B = 5\n• AS = −5 − −8⅓ = 3⅓ en BS = 8⅓ + 5 = 13⅓\n• PS² = (−8⅓ − −3)² + (0 − −4)² = 44 4/9 (of met Pythagoras in △OPS: PS² = (8⅓)² − 5² = 44 4/9)\n• AS · BS = 3⅓ · 13⅓ = 44 4/9 (dus AS · BS = PS²)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Voor de x-coördinaat van S geldt −¾x − 6¼ = 0; dit geeft x = −8⅓"
+    },
+    {
+     "points": 1,
+     "description": "x_A = −5 en x_B = 5"
+    },
+    {
+     "points": 1,
+     "description": "AS = −5 − −8⅓ = 3⅓ en BS = 8⅓ + 5 = 13⅓"
+    },
+    {
+     "points": 1,
+     "description": "PS² = (−8⅓ − −3)² + (0 − −4)² = 44 4/9 (of met Pythagoras in △OPS: PS² = (8⅓)² − 5² = 44 4/9)"
+    },
+    {
+     "points": 1,
+     "description": "AS · BS = 3⅓ · 13⅓ = 44 4/9 (dus AS · BS = PS²)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-raaklijn-aan-cirkel-antw13.png"
+   ]
+  },
+  {
+   "title": "Raaklijn aan cirkel",
+   "question_number": 14,
+   "answer_text": "• AS = 7 en BS = 3, dus PS² = (7 · 3 =) 21\n• Lijn m staat loodrecht op PM, dus MS² = 21 + 3²\n• Dus MS = √30\n• Dus de afstand tussen punt S en cirkel d is √30 − 3\nof\n• AS = 7 en BS = 3, dus PS² = (7 · 3 =) 21\n• Als F en G snijpunten van de lijn door M en S met d zijn (met F het dichtst bij S), dan geldt: als FS = x, dan GS = 6 + x (en x is de gevraagde afstand)\n• (Er moet gelden FS · GS = PS²,) dus de vergelijking x(6 + x) = 21 moet worden opgelost\n• Exact oplossen geeft x = (−6 + √120)/2 (of een gelijkwaardige uitdrukking) (x = (−6 − √120)/2 voldoet niet)\nof\n• Als C het midden van lijnstuk AB is, dan geldt ∠ACM = 90° (omdat △AMB gelijkbenig is)\n• Pythagoras in △ACM geeft MC = √(3² − 2²) = √5\n• (CS = ½ · 4 + 3 = 5, dus) Pythagoras in △MCS geeft MS = √(5² + √5²) = √30\n• Dus de afstand tussen punt S en cirkel d is √30 − 3",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "AS = 7 en BS = 3, dus PS² = (7 · 3 =) 21"
+    },
+    {
+     "points": 1,
+     "description": "Lijn m staat loodrecht op PM, dus MS² = 21 + 3²"
+    },
+    {
+     "points": 1,
+     "description": "Dus MS = √30"
+    },
+    {
+     "points": 1,
+     "description": "Dus de afstand tussen punt S en cirkel d is √30 − 3"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-raaklijn-aan-cirkel-antw14.png"
+   ]
+  },
+  {
+   "title": "Logaritmen en snijpunten",
+   "question_number": 15,
+   "answer_text": "• De verticale asymptoten kunnen worden gevonden door de vergelijkingen 2x − 4 = 0 en 6 − x = 0 op te lossen\n• Dit geeft x = 2 en x = 6 voor de asymptoot van de grafiek van f respectievelijk g\n• Voor de x-coördinaat van S geldt (log(2x − 4) = log(6 − x), dus) 2x − 4 = 6 − x\n• Dit geeft x = 10/3\n• De afstanden van S tot de asymptoten van f en g zijn respectievelijk 10/3 − 2 = 4/3 en 6 − 10/3 = 8/3, dus het antwoord: (8/3 : 4/3 =) 2 (keer zo groot)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De verticale asymptoten kunnen worden gevonden door de vergelijkingen 2x − 4 = 0 en 6 − x = 0 op te lossen"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft x = 2 en x = 6 voor de asymptoot van de grafiek van f respectievelijk g"
+    },
+    {
+     "points": 1,
+     "description": "Voor de x-coördinaat van S geldt (log(2x − 4) = log(6 − x), dus) 2x − 4 = 6 − x"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft x = 10/3"
+    },
+    {
+     "points": 1,
+     "description": "De afstanden van S tot de asymptoten van f en g zijn respectievelijk 10/3 − 2 = 4/3 en 6 − 10/3 = 8/3, dus het antwoord: (8/3 : 4/3 =) 2 (keer zo groot)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-logaritmen-en-snijpunten-antw15.png"
+   ]
+  },
+  {
+   "title": "Logaritmen en snijpunten",
+   "question_number": 16,
+   "answer_text": "• De vergelijking log(2a − 4) − log(6 − a) = 1 moet worden opgelost\n• Hieruit volgt log((2a − 4)/(6 − a)) = 1\n• Dit geeft (2a − 4)/(6 − a) = 10\n• Hieruit volgt 2a − 4 = 10(6 − a), dus 2a − 4 = 60 − 10a\n• Dit geeft a = 16/3",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De vergelijking log(2a − 4) − log(6 − a) = 1 moet worden opgelost"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt log((2a − 4)/(6 − a)) = 1"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft (2a − 4)/(6 − a) = 10"
+    },
+    {
+     "points": 1,
+     "description": "Hieruit volgt 2a − 4 = 10(6 − a), dus 2a − 4 = 60 − 10a"
+    },
+    {
+     "points": 1,
+     "description": "Dit geeft a = 16/3"
+    }
+   ],
+   "grading_note": "Als wordt gewerkt met x in plaats van met a, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-logaritmen-en-snijpunten-antw16.png"
+   ]
+  },
+  {
+   "title": "Maximale richtingscoëfficiënt",
+   "question_number": 17,
+   "answer_text": "• a = ((3 − 1/p² − p)/p =) 3/p − 1/p³ − 1\n• a = 3p⁻¹ − p⁻³ − 1\n• a′ = −3p⁻² + 3p⁻⁴\n• a′ = 0 geeft −3p² + 3 = 0\n• 3p² = 3, dus p = 1 (p = −1 voldoet niet)",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "a = ((3 − 1/p² − p)/p =) 3/p − 1/p³ − 1"
+    },
+    {
+     "points": 1,
+     "description": "a = 3p⁻¹ − p⁻³ − 1"
+    },
+    {
+     "points": 1,
+     "description": "a′ = −3p⁻² + 3p⁻⁴"
+    },
+    {
+     "points": 1,
+     "description": "a′ = 0 geeft −3p² + 3 = 0"
+    },
+    {
+     "points": 1,
+     "description": "3p² = 3, dus p = 1 (p = −1 voldoet niet)"
+    }
+   ],
+   "grading_note": "Als wordt gewerkt met x in plaats van met p, hiervoor geen scorepunten in mindering brengen.",
+   "answer_image_urls": [
+    "wiskunde-b-havo-2021-iii-maximale-richtingscoefficient-antw17.png"
+   ]
+  }
+ ]
+}
