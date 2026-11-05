@@ -1,0 +1,728 @@
+{
+ "exercises": [
+  {
+   "id": "8fc22844-be63-4188-91b2-680fab45d07e",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Een parabool",
+   "source": "HAVO Wiskunde B 2025-I"
+  },
+  {
+   "id": "19daacbc-cbfd-4124-b594-7a62cd0debc0",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Watertemperatuur",
+   "source": "HAVO Wiskunde B 2025-I"
+  },
+  {
+   "id": "0a27bf40-9a41-4939-be1b-856f96f13a2e",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Drie punten op een grafiek",
+   "source": "HAVO Wiskunde B 2025-I"
+  },
+  {
+   "id": "896f3b92-47f7-4a51-9472-3d24c7a3f2ea",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Een cirkel met rakende en snijdende lijnen",
+   "source": "HAVO Wiskunde B 2025-I"
+  },
+  {
+   "id": "bc05186e-4792-4052-8ff9-1d815cb20649",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "De veldleeuwerik",
+   "source": "HAVO Wiskunde B 2025-I"
+  },
+  {
+   "id": "eb4d9fbd-6a5d-422a-a04a-8044174891af",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Dezelfde y-coördinaat",
+   "source": "HAVO Wiskunde B 2025-I"
+  },
+  {
+   "id": "4673679c-e607-43e1-94ec-91a82f446276",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Driehoeken",
+   "source": "HAVO Wiskunde B 2025-I"
+  },
+  {
+   "id": "7a091cf3-3c2e-4ddb-872f-4adc7807d4f7",
+   "subject_name": "Wiskunde B",
+   "level": "HAVO",
+   "title": "Waterleiding",
+   "source": "HAVO Wiskunde B 2025-I"
+  }
+ ],
+ "context_blocks": [
+  {
+   "id": "47f9167a-981b-4808-bd73-1d700bf7a7dd",
+   "exercise_id": "8fc22844-be63-4188-91b2-680fab45d07e",
+   "label": "f(x) = 2x² + 3x − 4; lijn l: y = 2x − 1 snijdt f in A en B; figuur 1",
+   "image_url": "wiskunde-b-havo-2025-i-een-parabool-context1.png",
+   "text_content": "De functie f wordt gegeven door f(x) = 2x² + 3x − 4. De lijn l met vergelijking y = 2x − 1 snijdt de grafiek van f in de punten A en B. Zie figuur 1.\nfiguur 1",
+   "block_type": "inline"
+  },
+  {
+   "id": "5de523b4-a09e-4a5e-893a-dcdf5387c2d3",
+   "exercise_id": "8fc22844-be63-4188-91b2-680fab45d07e",
+   "label": "P op f; raaklijn k in P staat loodrecht op l",
+   "image_url": "wiskunde-b-havo-2025-i-een-parabool-context2.png",
+   "text_content": "Het punt P ligt op de grafiek van f. De raaklijn k aan de grafiek van f in het punt P staat loodrecht op lijn l.",
+   "block_type": "inline"
+  },
+  {
+   "id": "a32611ec-3465-4c7c-829a-b44eb7087ecb",
+   "exercise_id": "8fc22844-be63-4188-91b2-680fab45d07e",
+   "label": "g ontstaat uit f door vermenigvuldiging met −1 t.o.v. x-as en daarna t.o.v. y-as",
+   "image_url": "wiskunde-b-havo-2025-i-een-parabool-context3.png",
+   "text_content": "De grafiek van f wordt eerst vermenigvuldigd met −1 ten opzichte van de x-as en daarna vermenigvuldigd met −1 ten opzichte van de y-as.\nZo ontstaat de grafiek van de functie g.",
+   "block_type": "inline"
+  },
+  {
+   "id": "cf51f590-9b35-4dd7-aa8e-6de57b08b65a",
+   "exercise_id": "8fc22844-be63-4188-91b2-680fab45d07e",
+   "label": "C en D op f met dezelfde y-coördinaat, CD = 2½; T top van f; figuur 2",
+   "image_url": "wiskunde-b-havo-2025-i-een-parabool-context4.png",
+   "text_content": "Op de grafiek van f liggen twee punten C en D met dezelfde y-coördinaat. De afstand tussen C en D is 2½. Zie figuur 2.\nfiguur 2\nHet punt T is de top van de grafiek van f.",
+   "block_type": "inline"
+  },
+  {
+   "id": "41d9b263-a0a5-40f9-938b-402fd8dc0a9f",
+   "exercise_id": "19daacbc-cbfd-4124-b594-7a62cd0debc0",
+   "label": "watertemperatuur bij Alicante door het jaar heen, sinusoïde; figuur",
+   "image_url": "wiskunde-b-havo-2025-i-watertemperatuur-context1.png",
+   "text_content": "De temperatuur van het zeewater vlak bij het strand ‘Playa de San Juan’ bij het Spaanse Alicante varieert door het jaar heen. Zie de figuur.\nOm deze figuur te kunnen maken, is ruim twintig jaar¹⁾ lang op dezelfde plek dagelijks de watertemperatuur gemeten. Daarna is van elke dag in het jaar de gemiddelde watertemperatuur berekend. Dit geeft 365 punten in een assenstelsel. Door deze punten kan bij benadering een sinusoïde worden getekend. Deze sinusoïde staat in de figuur.\nfiguur",
+   "block_type": "inline"
+  },
+  {
+   "id": "a4bd3dc4-fbda-4c94-bbd3-ef9e144ca292",
+   "exercise_id": "19daacbc-cbfd-4124-b594-7a62cd0debc0",
+   "label": "formule 1: W = d + a·sin(b(t − c)); minimum 14 °C op t = 43, maximum 26 °C op t = 226",
+   "image_url": "wiskunde-b-havo-2025-i-watertemperatuur-context2.png",
+   "text_content": "Bij de sinusoïde past een formule van de volgende vorm:\nW = d + a·sin(b(t − c)) (formule 1)\nHierin is W de watertemperatuur in °C en t het dagnummer, met t = 0 op 1 januari.\nDe minimale watertemperatuur is 14 °C en deze wordt op 13 februari bereikt (t = 43). De maximale watertemperatuur is 26 °C en deze wordt op 15 augustus (t = 226) bereikt.",
+   "block_type": "inline"
+  },
+  {
+   "id": "0fc354fd-c9a4-4b57-9d12-e41f432fe5e0",
+   "exercise_id": "19daacbc-cbfd-4124-b594-7a62cd0debc0",
+   "label": "noot 1: elk jaar heeft 365 dagen",
+   "image_url": "wiskunde-b-havo-2025-i-watertemperatuur-context3.png",
+   "text_content": "noot 1 We gaan er in deze opgave van uit dat elk jaar 365 dagen heeft.",
+   "block_type": "inline"
+  },
+  {
+   "id": "750aef02-40fe-44a4-843b-2eaffeb4e707",
+   "exercise_id": "19daacbc-cbfd-4124-b594-7a62cd0debc0",
+   "label": "formule 2: Z = 12 + 6·sin(0,0172(t − 150)) voor Bergen aan Zee; wetsuit verplicht onder 16 °C",
+   "image_url": "wiskunde-b-havo-2025-i-watertemperatuur-context4.png",
+   "text_content": "Iemand beschrijft de temperatuur van het zeewater in het Nederlandse Bergen aan Zee met de volgende formule:\nZ = 12 + 6·sin(0,0172(t − 150)) (formule 2)\nHierin is Z de watertemperatuur in °C en t het dagnummer, met t = 0 op 1 januari.\nBij het zwemonderdeel van een triatlon zijn deelnemers verplicht een wetsuit te dragen als de watertemperatuur lager dan 16 °C is.\nStel dat in Bergen aan Zee een triatlon wordt georganiseerd. Je kunt dan berekenen wat volgens de formule de eerste dag van het jaar is waarop deelnemers aan deze triatlon bij het zwemonderdeel géén wetsuit meer hoeven te dragen.",
+   "block_type": "inline"
+  },
+  {
+   "id": "d414e357-08ec-420e-be2f-baac50efdf43",
+   "exercise_id": "0a27bf40-9a41-4939-be1b-856f96f13a2e",
+   "label": "f(x) = 1/√(6x − 2); horizontale asymptoot y = 0",
+   "image_url": "wiskunde-b-havo-2025-i-drie-punten-op-een-grafiek-context1.png",
+   "text_content": "De functie f wordt gegeven door:\nf(x) = 1/√(6x − 2)\nDe grafiek van f heeft een horizontale asymptoot met vergelijking y = 0.\nDit kun je beredeneren met behulp van het functievoorschrift van f.",
+   "block_type": "inline"
+  },
+  {
+   "id": "c4945f17-3366-4d0c-969f-525397fe155b",
+   "exercise_id": "0a27bf40-9a41-4939-be1b-856f96f13a2e",
+   "label": "P op f met y-coördinaat 2; figuur 1",
+   "image_url": "wiskunde-b-havo-2025-i-drie-punten-op-een-grafiek-context2.png",
+   "text_content": "Het punt P ligt op de grafiek van f. De y-coördinaat van P is 2. Zie figuur 1.\nfiguur 1",
+   "block_type": "inline"
+  },
+  {
+   "id": "f6be6153-ebae-4e98-859a-5dea2c31287d",
+   "exercise_id": "0a27bf40-9a41-4939-be1b-856f96f13a2e",
+   "label": "Q(½, 1) op f; raaklijn l in Q snijdt x-as in A en y-as in B; figuur 2",
+   "image_url": "wiskunde-b-havo-2025-i-drie-punten-op-een-grafiek-context3.png",
+   "text_content": "Het punt Q(½, 1) ligt op de grafiek van f. De lijn l is de raaklijn aan de grafiek van f in Q. Lijn l snijdt de x-as in het punt A en de y-as in het punt B. Zie figuur 2.\nfiguur 2",
+   "block_type": "inline"
+  },
+  {
+   "id": "9badee29-ae74-471e-947e-82d7f330d19f",
+   "exercise_id": "0a27bf40-9a41-4939-be1b-856f96f13a2e",
+   "label": "R op f met y-coördinaat gelijk aan kwadraat van x-coördinaat",
+   "image_url": "wiskunde-b-havo-2025-i-drie-punten-op-een-grafiek-context4.png",
+   "text_content": "Op de grafiek van f ligt één punt R waarvoor geldt dat de y-coördinaat gelijk is aan het kwadraat van de x-coördinaat.",
+   "block_type": "inline"
+  },
+  {
+   "id": "f5168c28-4195-4793-9a11-9a60edff17f7",
+   "exercise_id": "896f3b92-47f7-4a51-9472-3d24c7a3f2ea",
+   "label": "cirkel c: (x − 4)² + (y − 4)² = 16; lijn j verticaal door middelpunt; k: y = −⅔x + 8; S snijpunt k en j; l: y = 8; m door O en S snijdt l in Q (x = 6); figuur 1",
+   "image_url": "wiskunde-b-havo-2025-i-een-cirkel-met-rakende-en-snijdende-lijnen-context1.png",
+   "text_content": "De cirkel c heeft vergelijking (x − 4)² + (y − 4)² = 16.\nDe lijn j is de verticale lijn door het middelpunt van c.\nDe lijn k heeft vergelijking y = −⅔x + 8.\nHet punt S is het snijpunt van lijn k en lijn j.\nDe lijn l heeft vergelijking y = 8.\nDe lijn m gaat door O en S en snijdt lijn l in het punt Q.\nZie figuur 1.\nfiguur 1\nDe x-coördinaat van Q is 6.",
+   "block_type": "inline"
+  },
+  {
+   "id": "af8e246d-37e0-40c8-92fc-cc264c0bafb8",
+   "exercise_id": "896f3b92-47f7-4a51-9472-3d24c7a3f2ea",
+   "label": "P(12, 0) snijpunt van k met x-as; lijn n door P en Q; figuur 2",
+   "image_url": "wiskunde-b-havo-2025-i-een-cirkel-met-rakende-en-snijdende-lijnen-context2.png",
+   "text_content": "Het punt P(12, 0) is het snijpunt van k met de x-as.\nDe lijn n is de lijn door P en Q.\nZie figuur 2.\nfiguur 2",
+   "block_type": "inline"
+  },
+  {
+   "id": "ee90be0a-5af6-4f78-8448-50466cc622be",
+   "exercise_id": "bc05186e-4792-4052-8ff9-1d815cb20649",
+   "label": "percentage veldleeuweriken t.o.v. 1990, periode 1990-2014; foto en figuur",
+   "image_url": "wiskunde-b-havo-2025-i-de-veldleeuwerik-context1.png",
+   "text_content": "Het aantal veldleeuweriken in Nederland wordt jaarlijks bijgehouden. In de figuur is voor elk jaar in de periode 1990-2014 met een stip het percentage veldleeuweriken aangeven als percentage van het aantal in 1990.\nBij 1990 is dus een stip op hoogte 100 getekend. In deze figuur is bijvoorbeeld af te lezen dat in 2005 het aantal veldleeuweriken 40% van het aantal veldleeuweriken in 1990 bedroeg.\nfiguur",
+   "block_type": "inline"
+  },
+  {
+   "id": "68ab261b-1e0c-4dee-93f0-4f33caf8dfec",
+   "exercise_id": "bc05186e-4792-4052-8ff9-1d815cb20649",
+   "label": "exponentieel model met jaarlijkse afname van 5%; bewering: in 2040 minder dan 4% over",
+   "image_url": "wiskunde-b-havo-2025-i-de-veldleeuwerik-context2.png",
+   "text_content": "Het verloop van het percentage veldleeuweriken kan met een exponentieel verband worden benaderd. In de figuur is de grafiek bij dit exponentiële verband getekend. Hierbij wordt uitgegaan van een jaarlijkse afname van het percentage veldleeuweriken met 5%.\nEen vogelbeschermer beweert dat volgens dit model in het jaar 2040 minder dan 4% over zal zijn van het aantal veldleeuweriken in 1990.",
+   "block_type": "inline"
+  },
+  {
+   "id": "4d986b2c-2965-4290-aa69-e9a2b46a3854",
+   "exercise_id": "bc05186e-4792-4052-8ff9-1d815cb20649",
+   "label": "kwadratisch verband P = at² + bt + 100 door (10; 58,66) en (20; 36,52)",
+   "image_url": "wiskunde-b-havo-2025-i-de-veldleeuwerik-context3.png",
+   "text_content": "De metingen voor de periode 1990-2014 kunnen ook worden benaderd met een kwadratisch verband waarvan de grafiek door het punt (0, 100) gaat. Een formule bij dit verband is dus van de vorm P = at² + bt + 100. Hierin is P het percentage veldleeuweriken ten opzichte van 1990 en t het aantal jaren na 1990.\nAndere punten op de grafiek van dit kwadratisch verband zijn (10; 58,66) en (20; 36,52). Je kunt hieruit afleiden dat a = 0,10 en b = −5,09. Deze twee waarden zijn afgerond, en kunnen nauwkeuriger worden berekend.",
+   "block_type": "inline"
+  },
+  {
+   "id": "cd5125df-9302-46d7-bf9d-9f9fec8c46c1",
+   "exercise_id": "eb4d9fbd-6a5d-422a-a04a-8044174891af",
+   "label": "f(x) = 8 − 2^(3x² − 6x); S snijpunt met y-as; A ander punt met dezelfde y-coördinaat; figuur",
+   "image_url": "wiskunde-b-havo-2025-i-dezelfde-y-coordinaat-context1.png",
+   "text_content": "De functie f wordt gegeven door f(x) = 8 − 2^(3x² − 6x).\nHet punt S is het snijpunt van de grafiek van f met de y-as.\nHet punt A is een ander punt op de grafiek van f en heeft dezelfde y-coördinaat als S. Zie de figuur.\nfiguur",
+   "block_type": "inline"
+  },
+  {
+   "id": "2bc82337-cb37-4362-9180-9b5d5b6f20cd",
+   "exercise_id": "4673679c-e607-43e1-94ec-91a82f446276",
+   "label": "driehoek ABC met ∠C = 25° en BC = 7; D op BC met BD = 1 en ∠CAD = 90°; figuur",
+   "image_url": "wiskunde-b-havo-2025-i-driehoeken-context1.png",
+   "text_content": "Gegeven is de driehoek ABC met ∠C = 25° en BC = 7. Het punt D ligt op zijde BC zó dat BD = 1 en ∠CAD = 90°. Zie de figuur.\nfiguur",
+   "block_type": "inline"
+  },
+  {
+   "id": "261a2120-918e-4b0c-963f-f1cc6e55ef61",
+   "exercise_id": "7a091cf3-3c2e-4ddb-872f-4adc7807d4f7",
+   "label": "materiaalsterkte van een waterleiding neemt af; S₅₀ is de materiaalsterkte na 50 jaar; foto",
+   "image_url": "wiskunde-b-havo-2025-i-waterleiding-context1.png",
+   "text_content": "Een waterleiding is van een bepaald materiaal gemaakt. De sterkte van dit materiaal, de materiaalsterkte, neemt door de druk van het water in de waterleiding in de loop van de tijd af. Bij het ontwerp van een waterleiding rekent men daarom met de materiaalsterkte die een leiding na 50 jaar gebruik nog heeft. Deze materiaalsterkte wordt aangegeven met S₅₀.",
+   "block_type": "inline"
+  },
+  {
+   "id": "93a2f267-1a4f-4cc3-a409-3cd745129b26",
+   "exercise_id": "7a091cf3-3c2e-4ddb-872f-4adc7807d4f7",
+   "label": "Sₜ = ⁰˒⁴²⁷log(t) + 12,9 met t ≥ 1; eerste onderhoudsinspectie bij materiaalsterkte 20% hoger dan S₅₀",
+   "image_url": "wiskunde-b-havo-2025-i-waterleiding-context2.png",
+   "text_content": "Voor de materiaalsterkte van een bepaalde kunststof waterleiding geldt de volgende formule:\nSₜ = ⁰˒⁴²⁷log(t) + 12,9 met t ≥ 1 (logaritme met grondtal 0,427)\nHierin is: − t het aantal jaar dat de leiding in gebruik is; − Sₜ de materiaalsterkte na t jaar gebruik in N/mm².\nDe eerste onderhoudsinspectie vindt plaats zodra de materiaalsterkte is afgenomen tot een waarde die 20% hoger ligt dan S₅₀.",
+   "block_type": "inline"
+  },
+  {
+   "id": "0469cd1f-08ca-4130-a769-61990c1ea068",
+   "exercise_id": "7a091cf3-3c2e-4ddb-872f-4adc7807d4f7",
+   "label": "dwarsdoorsnede waterleiding met buitendiameter, binnendiameter en wanddikte; figuur; w = P·D/(14 + P)",
+   "image_url": "wiskunde-b-havo-2025-i-waterleiding-context3.png",
+   "text_content": "De wand van een waterleiding moet dik genoeg zijn om tegen de maximale waterdruk in de waterleiding bestand te zijn.\nIn de figuur is een dwarsdoorsnede van een cilindervormige waterleiding weergegeven, waarin aangegeven is wat met buitendiameter, binnendiameter en wanddikte bedoeld wordt.\nfiguur\nDe minimale wanddikte van een bepaalde cilindervormige waterleiding kan berekend worden met de volgende formule:\nw = (P · D)/(14 + P)\nHierin is: − w de minimale wanddikte in mm; − D de buitendiameter in mm; − P de maximale waterdruk in N/mm².",
+   "block_type": "inline"
+  },
+  {
+   "id": "b539e279-9619-43e1-a7a8-c4e856bbb3f0",
+   "exercise_id": "7a091cf3-3c2e-4ddb-872f-4adc7807d4f7",
+   "label": "ontwerpeisen: maximale waterdruk 1,75 N/mm², binnendiameter 312,9 mm",
+   "image_url": "wiskunde-b-havo-2025-i-waterleiding-context4.png",
+   "text_content": "Voor deze waterleiding gelden bij een nieuwbouwproject de volgende ontwerpeisen: − De maximale waterdruk is 1,75 N/mm². − De binnendiameter is 312,9 mm.",
+   "block_type": "inline"
+  }
+ ],
+ "questions": [
+  {
+   "id": "4715c4fd-e85d-4554-8091-7f92f1513e0b",
+   "exercise_id": "8fc22844-be63-4188-91b2-680fab45d07e",
+   "question_number": 1,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    },
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Algebraïsche methoden"
+    }
+   ],
+   "keywords": [
+    "kwadratische vergelijking",
+    "snijpunten lijn en parabool",
+    "coördinaten",
+    "exact berekenen"
+   ],
+   "question_summary": "De snijpunten van een lijn en een parabool exact berekenen.",
+   "question_image_url": "wiskunde-b-havo-2025-i-een-parabool-vraag1.png",
+   "question_text": "4p 1 Bereken exact de coördinaten van A en B.",
+   "context_block_ids": [
+    "47f9167a-981b-4808-bd73-1d700bf7a7dd"
+   ]
+  },
+  {
+   "id": "21f3dc50-a8a3-4ab1-bc39-4082a2b27e41",
+   "exercise_id": "8fc22844-be63-4188-91b2-680fab45d07e",
+   "question_number": 2,
+   "topics": [
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Toepassing afgeleide functies"
+    },
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Bepaling afgeleide functies"
+    }
+   ],
+   "keywords": [
+    "raaklijn",
+    "afgeleide",
+    "loodrecht",
+    "richtingscoëfficiënt",
+    "exact berekenen"
+   ],
+   "question_summary": "Met de afgeleide het punt bepalen waar de raaklijn loodrecht staat op een gegeven lijn.",
+   "question_image_url": "wiskunde-b-havo-2025-i-een-parabool-vraag2.png",
+   "question_text": "3p 2 Bereken exact de x-coördinaat van P.",
+   "context_block_ids": [
+    "47f9167a-981b-4808-bd73-1d700bf7a7dd",
+    "5de523b4-a09e-4a5e-893a-dcdf5387c2d3"
+   ]
+  },
+  {
+   "id": "3d22da94-75bf-421d-a153-ec0ab8bc7625",
+   "exercise_id": "8fc22844-be63-4188-91b2-680fab45d07e",
+   "question_number": 3,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    }
+   ],
+   "keywords": [
+    "transformaties",
+    "vermenigvuldigen ten opzichte van de x-as",
+    "vermenigvuldigen ten opzichte van de y-as",
+    "functievoorschrift",
+    "exact berekenen"
+   ],
+   "question_summary": "Het functievoorschrift na twee vermenigvuldigingen opstellen en onderzoeken of een punt op de nieuwe grafiek ligt.",
+   "question_image_url": "wiskunde-b-havo-2025-i-een-parabool-vraag3.png",
+   "question_text": "3p 3 Onderzoek op exacte wijze of het punt (−¼, 3) op de grafiek van g ligt.",
+   "context_block_ids": [
+    "47f9167a-981b-4808-bd73-1d700bf7a7dd",
+    "a32611ec-3465-4c7c-829a-b44eb7087ecb"
+   ]
+  },
+  {
+   "id": "c46b6f20-5cd1-4639-9cbc-5012c4afd7f5",
+   "exercise_id": "8fc22844-be63-4188-91b2-680fab45d07e",
+   "question_number": 4,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    },
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Algebraïsche methoden"
+    }
+   ],
+   "keywords": [
+    "parabool",
+    "symmetrieas",
+    "top van parabool",
+    "afstand",
+    "exact berekenen"
+   ],
+   "question_summary": "Met de symmetrie van een parabool punten op gegeven afstand bepalen en de afstand van de top tot een lijnstuk exact berekenen.",
+   "question_image_url": "wiskunde-b-havo-2025-i-een-parabool-vraag4.png",
+   "question_text": "5p 4 Bereken exact de afstand van T tot lijnstuk CD.",
+   "context_block_ids": [
+    "47f9167a-981b-4808-bd73-1d700bf7a7dd",
+    "cf51f590-9b35-4dd7-aa8e-6de57b08b65a"
+   ]
+  },
+  {
+   "id": "c21329a0-b0e1-4c4e-bf22-e30cc79a23f1",
+   "exercise_id": "19daacbc-cbfd-4124-b594-7a62cd0debc0",
+   "question_number": 5,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Periodieke functies"
+    }
+   ],
+   "keywords": [
+    "sinusoïde",
+    "evenwichtsstand",
+    "amplitude",
+    "periode",
+    "horizontale verschuiving",
+    "formule opstellen"
+   ],
+   "question_summary": "Uit gegeven minimum en maximum de evenwichtsstand, amplitude, periode en horizontale verschuiving van een sinusoïde bepalen.",
+   "question_image_url": "wiskunde-b-havo-2025-i-watertemperatuur-vraag5.png",
+   "question_text": "4p 5 Bereken mogelijke waarden van a, b, c en d. Geef a, c en d als gehele getallen en b in vijf decimalen.",
+   "context_block_ids": [
+    "41d9b263-a0a5-40f9-938b-402fd8dc0a9f",
+    "a4bd3dc4-fbda-4c94-bbd3-ef9e144ca292",
+    "0fc354fd-c9a4-4b57-9d12-e41f432fe5e0"
+   ]
+  },
+  {
+   "id": "8d772cb8-bebf-4557-93dc-e3aa5d5b5e11",
+   "exercise_id": "19daacbc-cbfd-4124-b594-7a62cd0debc0",
+   "question_number": 6,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Periodieke functies"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    }
+   ],
+   "keywords": [
+    "goniometrische vergelijking",
+    "sinusfunctie",
+    "ongelijkheid",
+    "grafische rekenmachine",
+    "interpreteren in context"
+   ],
+   "question_summary": "Een goniometrische vergelijking oplossen om te bepalen vanaf welke dag een sinusfunctie boven een grenswaarde komt.",
+   "question_image_url": "wiskunde-b-havo-2025-i-watertemperatuur-vraag6.png",
+   "question_text": "4p 6 Bereken met formule 2 het dagnummer van die dag.",
+   "context_block_ids": [
+    "750aef02-40fe-44a4-843b-2eaffeb4e707"
+   ]
+  },
+  {
+   "id": "361a5e5f-82b2-4001-806c-ef9f5c3df479",
+   "exercise_id": "0a27bf40-9a41-4939-be1b-856f96f13a2e",
+   "question_number": 7,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    }
+   ],
+   "keywords": [
+    "horizontale asymptoot",
+    "wortelfunctie",
+    "gebroken functie",
+    "limietgedrag",
+    "redeneren"
+   ],
+   "question_summary": "Met het functievoorschrift beredeneren dat een gebroken wortelfunctie een horizontale asymptoot heeft.",
+   "question_image_url": "wiskunde-b-havo-2025-i-drie-punten-op-een-grafiek-vraag7.png",
+   "question_text": "2p 7 Geef deze beredenering. Het geven van een getallenvoorbeeld of een verwijzing naar een grafiek is niet voldoende.",
+   "context_block_ids": [
+    "d414e357-08ec-420e-be2f-baac50efdf43"
+   ]
+  },
+  {
+   "id": "89adf00d-417b-41f8-abe7-bca43519ebd0",
+   "exercise_id": "0a27bf40-9a41-4939-be1b-856f96f13a2e",
+   "question_number": 8,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    }
+   ],
+   "keywords": [
+    "wortelvergelijking",
+    "gebroken vergelijking",
+    "exact berekenen",
+    "x-coördinaat"
+   ],
+   "question_summary": "Een vergelijking met een gebroken wortelfunctie exact oplossen.",
+   "question_image_url": "wiskunde-b-havo-2025-i-drie-punten-op-een-grafiek-vraag8.png",
+   "question_text": "3p 8 Bereken exact de x-coördinaat van P.",
+   "context_block_ids": [
+    "d414e357-08ec-420e-be2f-baac50efdf43",
+    "c4945f17-3366-4d0c-969f-525397fe155b"
+   ]
+  },
+  {
+   "id": "a759c8a6-658c-4b9b-90b2-e9e6a32ba0d4",
+   "exercise_id": "0a27bf40-9a41-4939-be1b-856f96f13a2e",
+   "question_number": 9,
+   "topics": [
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Toepassing afgeleide functies"
+    },
+    {
+     "domain": "Toegepaste analyse",
+     "subdomain": "Bepaling afgeleide functies"
+    },
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Algebraïsche methoden"
+    }
+   ],
+   "keywords": [
+    "raaklijn",
+    "afgeleide",
+    "kettingregel",
+    "snijpunten met de assen",
+    "oppervlakte driehoek",
+    "exact berekenen"
+   ],
+   "question_summary": "Met de kettingregel de raaklijn opstellen, de snijpunten met de assen bepalen en exact de oppervlakte van een driehoek berekenen.",
+   "question_image_url": "wiskunde-b-havo-2025-i-drie-punten-op-een-grafiek-vraag9.png",
+   "question_text": "7p 9 Bereken exact de oppervlakte van driehoek OAB.",
+   "context_block_ids": [
+    "d414e357-08ec-420e-be2f-baac50efdf43",
+    "f6be6153-ebae-4e98-859a-5dea2c31287d"
+   ]
+  },
+  {
+   "id": "1d2a31ff-4778-4082-ae8d-95d37e63468f",
+   "exercise_id": "0a27bf40-9a41-4939-be1b-856f96f13a2e",
+   "question_number": 10,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    }
+   ],
+   "keywords": [
+    "vergelijking numeriek oplossen",
+    "grafische rekenmachine",
+    "snijpunt",
+    "afronden"
+   ],
+   "question_summary": "Een vergelijking met een wortelfunctie numeriek oplossen om een punt op de grafiek te bepalen.",
+   "question_image_url": "wiskunde-b-havo-2025-i-drie-punten-op-een-grafiek-vraag10.png",
+   "question_text": "3p 10 Bereken de x-coördinaat van R. Geef je eindantwoord in twee decimalen.",
+   "context_block_ids": [
+    "d414e357-08ec-420e-be2f-baac50efdf43",
+    "9badee29-ae74-471e-947e-82d7f330d19f"
+   ]
+  },
+  {
+   "id": "35c8d980-0ba6-4463-9c16-44f35750a337",
+   "exercise_id": "896f3b92-47f7-4a51-9472-3d24c7a3f2ea",
+   "question_number": 11,
+   "topics": [
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Algebraïsche methoden"
+    }
+   ],
+   "keywords": [
+    "snijpunt van lijnen",
+    "vergelijking van een lijn",
+    "middelpunt cirkel",
+    "bewijzen"
+   ],
+   "question_summary": "Met lijnvergelijkingen snijpunten bepalen en bewijzen dat een snijpunt een gegeven x-coördinaat heeft.",
+   "question_image_url": "wiskunde-b-havo-2025-i-een-cirkel-met-rakende-en-snijdende-lijnen-vraag11.png",
+   "question_text": "5p 11 Bewijs dat de x-coördinaat van Q inderdaad gelijk is aan 6.",
+   "context_block_ids": [
+    "f5168c28-4195-4793-9a11-9a60edff17f7"
+   ]
+  },
+  {
+   "id": "55c3045a-f5c8-4e37-b41a-dbb0c877ed9a",
+   "exercise_id": "896f3b92-47f7-4a51-9472-3d24c7a3f2ea",
+   "question_number": 12,
+   "topics": [
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Algebraïsche methoden"
+    }
+   ],
+   "keywords": [
+    "raaklijn aan cirkel",
+    "afstand punt tot lijn",
+    "cirkelvergelijking",
+    "vergelijking van een lijn",
+    "bewijzen"
+   ],
+   "question_summary": "Een lijnvergelijking opstellen en bewijzen dat de lijn een cirkel raakt.",
+   "question_image_url": "wiskunde-b-havo-2025-i-een-cirkel-met-rakende-en-snijdende-lijnen-vraag12.png",
+   "question_text": "5p 12 Bewijs dat lijn n cirkel c raakt.",
+   "context_block_ids": [
+    "f5168c28-4195-4793-9a11-9a60edff17f7",
+    "af8e246d-37e0-40c8-92fc-cc264c0bafb8"
+   ]
+  },
+  {
+   "id": "06274316-880c-4f27-8b8b-d1ac8172dc7e",
+   "exercise_id": "bc05186e-4792-4052-8ff9-1d815cb20649",
+   "question_number": 13,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    }
+   ],
+   "keywords": [
+    "exponentiële afname",
+    "groeifactor",
+    "procentuele afname",
+    "beginwaarde",
+    "onderzoeken"
+   ],
+   "question_summary": "Met een exponentieel model met gegeven procentuele afname onderzoeken of een bewering over een toekomstige waarde klopt.",
+   "question_image_url": "wiskunde-b-havo-2025-i-de-veldleeuwerik-vraag13.png",
+   "question_text": "3p 13 Onderzoek of de uitspraak van de vogelbeschermer juist is.",
+   "context_block_ids": [
+    "ee90be0a-5af6-4f78-8448-50466cc622be",
+    "68ab261b-1e0c-4dee-93f0-4f33caf8dfec"
+   ]
+  },
+  {
+   "id": "e90aa938-bcb8-4dc8-9b64-87b119e77cd8",
+   "exercise_id": "bc05186e-4792-4052-8ff9-1d815cb20649",
+   "question_number": 14,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    }
+   ],
+   "keywords": [
+    "stelsel van vergelijkingen",
+    "kwadratisch verband",
+    "parameters berekenen",
+    "algebraïsch oplossen",
+    "afronden"
+   ],
+   "question_summary": "Uit twee punten op een kwadratische grafiek met een stelsel van twee lineaire vergelijkingen de parameters algebraïsch berekenen.",
+   "question_image_url": "wiskunde-b-havo-2025-i-de-veldleeuwerik-vraag14.png",
+   "question_text": "4p 14 Bereken algebraïsch de waarden van a en b in drie decimalen.",
+   "context_block_ids": [
+    "ee90be0a-5af6-4f78-8448-50466cc622be",
+    "4d986b2c-2965-4290-aa69-e9a2b46a3854"
+   ]
+  },
+  {
+   "id": "4f311464-e98a-49dd-951b-12dda2da4eb6",
+   "exercise_id": "eb4d9fbd-6a5d-422a-a04a-8044174891af",
+   "question_number": 15,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    }
+   ],
+   "keywords": [
+    "exponentiële vergelijking",
+    "exponentiële functie",
+    "kwadratische vergelijking",
+    "snijpunt met de y-as",
+    "exact berekenen"
+   ],
+   "question_summary": "Een exponentiële vergelijking herleiden tot een kwadratische vergelijking en exact oplossen.",
+   "question_image_url": "wiskunde-b-havo-2025-i-dezelfde-y-coordinaat-vraag15.png",
+   "question_text": "4p 15 Bereken exact de x-coördinaat van A.",
+   "context_block_ids": [
+    "cd5125df-9302-46d7-bf9d-9f9fec8c46c1"
+   ]
+  },
+  {
+   "id": "9bd848f8-01ad-4c7e-89b1-ee0178ea3f2f",
+   "exercise_id": "4673679c-e607-43e1-94ec-91a82f446276",
+   "question_number": 16,
+   "topics": [
+    {
+     "domain": "Meetkundige berekeningen",
+     "subdomain": "Afstanden en hoeken in concrete situaties"
+    }
+   ],
+   "keywords": [
+    "cosinusregel",
+    "sinusregel",
+    "goniometrische verhoudingen",
+    "rechthoekige driehoek",
+    "hoek berekenen",
+    "afronden"
+   ],
+   "question_summary": "Met goniometrische verhoudingen en de cosinus- of sinusregel een hoek in een driehoek berekenen.",
+   "question_image_url": "wiskunde-b-havo-2025-i-driehoeken-vraag16.png",
+   "question_text": "6p 16 Bereken ∠BAD in graden. Geef je eindantwoord als een geheel getal.",
+   "context_block_ids": [
+    "2bc82337-cb37-4362-9180-9b5d5b6f20cd"
+   ]
+  },
+  {
+   "id": "d6da45c8-068d-4b38-a66c-9e44152d6aa9",
+   "exercise_id": "7a091cf3-3c2e-4ddb-872f-4adc7807d4f7",
+   "question_number": 17,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Standaardfuncties"
+    },
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    }
+   ],
+   "keywords": [
+    "logaritmische functie",
+    "logaritmische vergelijking",
+    "grondtal",
+    "algebraïsch oplossen",
+    "procentuele toename",
+    "afronden"
+   ],
+   "question_summary": "Een logaritmische vergelijking met een grondtal kleiner dan 1 algebraïsch oplossen in een context.",
+   "question_image_url": "wiskunde-b-havo-2025-i-waterleiding-vraag17.png",
+   "question_text": "4p 17 Bereken algebraïsch na hoeveel jaar gebruik de eerste onderhoudsinspectie plaatsvindt. Geef je eindantwoord in één decimaal.",
+   "context_block_ids": [
+    "261a2120-918e-4b0c-963f-f1cc6e55ef61",
+    "93a2f267-1a4f-4cc3-a409-3cd745129b26"
+   ]
+  },
+  {
+   "id": "bc6e1c2c-b4f8-423c-8427-f08f169908b0",
+   "exercise_id": "7a091cf3-3c2e-4ddb-872f-4adc7807d4f7",
+   "question_number": 18,
+   "topics": [
+    {
+     "domain": "Functies, grafieken en vergelijkingen",
+     "subdomain": "Vergelijkingen en ongelijkheden"
+    }
+   ],
+   "keywords": [
+    "formule herleiden",
+    "variabele vrijmaken",
+    "vergelijking oplossen",
+    "afronden"
+   ],
+   "question_summary": "Een formule met twee onbekenden herleiden en een vergelijking oplossen om een minimale dikte te berekenen.",
+   "question_image_url": "wiskunde-b-havo-2025-i-waterleiding-vraag18.png",
+   "question_text": "4p 18 Bereken in dit geval de minimale wanddikte w van de waterleiding in hele millimeters.",
+   "context_block_ids": [
+    "0469cd1f-08ca-4130-a769-61990c1ea068",
+    "b539e279-9619-43e1-a7a8-c4e856bbb3f0"
+   ]
+  }
+ ]
+}

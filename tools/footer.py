@@ -45,7 +45,40 @@ def footer_hashes(doc, min_pages_fraction=0.5):
             occurrences[h].add(page_index)
 
     threshold = max(2, int(len(doc) * min_pages_fraction))
-    return {h for h, pages in occurrences.items() if len(pages) >= threshold}
+    found = {h for h, pages in occurrences.items() if len(pages) >= threshold}
+    # Second pass: a footer element can come in two VARIANTS that each sit on
+    # fewer than `threshold` pages (HAVO-WISB-25-I-O.pdf: the QR code is one
+    # image on 8 pages and a different image on the other 6, so the second
+    # variant stayed in the crops). Any recurring image (>= 2 pages) in the
+    # bottom of the page whose bbox matches a known footer bbox is footer too.
+    boxes = []
+    for page in doc:
+        for img in page.get_images(full=True):
+            try:
+                data = doc.extract_image(img[0])["image"]
+            except Exception:
+                continue
+            if hashlib.md5(data).hexdigest() in found:
+                try:
+                    b = page.get_image_bbox(img)
+                except Exception:
+                    continue
+                if b.y0 > page.rect.height / 2:
+                    boxes.append(tuple(b))
+    if boxes:
+        for page in doc:
+            for img in page.get_images(full=True):
+                try:
+                    data = doc.extract_image(img[0])["image"]
+                    b = page.get_image_bbox(img)
+                except Exception:
+                    continue
+                h = hashlib.md5(data).hexdigest()
+                if h in found or len(occurrences[h]) < 2 or b.y0 <= page.rect.height / 2:
+                    continue
+                if any(all(abs(a - c) < 2 for a, c in zip(tuple(b), k)) for k in boxes):
+                    found.add(h)
+    return found
 
 
 def footer_top_y(page, hashes, doc=None):

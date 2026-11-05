@@ -1,0 +1,65 @@
+{
+  "source": "HAVO Wiskunde B 2025-I",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Een parabool",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Watertemperatuur",
+      "question_numbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Drie punten op een grafiek",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Een cirkel met rakende en snijdende lijnen",
+      "question_numbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "title": "De veldleeuwerik",
+      "question_numbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Dezelfde y-coördinaat",
+      "question_numbers": [
+        15
+      ]
+    },
+    {
+      "title": "Driehoeken",
+      "question_numbers": [
+        16
+      ]
+    },
+    {
+      "title": "Waterleiding",
+      "question_numbers": [
+        17,
+        18
+      ]
+    }
+  ]
+}
