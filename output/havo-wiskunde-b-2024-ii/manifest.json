@@ -1,0 +1,58 @@
+{
+  "source": "HAVO Wiskunde B 2024-II",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Wortelgrafiek en parabool",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Zonsopkomst en zonsondergang",
+      "question_numbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Door het snijpunt",
+      "question_numbers": [
+        6
+      ]
+    },
+    {
+      "title": "Borstcrawl",
+      "question_numbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Twee logaritmische functies",
+      "question_numbers": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Rondom exponentiële grafieken",
+      "question_numbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Vuurtorens",
+      "question_numbers": [
+        15,
+        16
+      ]
+    }
+  ]
+}
