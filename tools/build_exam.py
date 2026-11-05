@@ -24,7 +24,9 @@ Usage:
                  break, e.g. HAVO-BIO-22-I-O.pdf "prooi voor deze plant
                  zijn." on page 8): it is rendered and stacked under that
                  block's image, and its text appended.
---extend p:i=pt  grow plan item i on page p downward by pt points: the
+--extend p:i=pt  grow plan item i on page p downward by pt points (a negative
+                 pt shrinks a ctx item from below and wipes what it drops,
+                 e.g. an "Uitwerkbijlage" kop right under a figure): the
                  ruime witruimte ONDER the in te vullen element of an
                  uitwerkbijlage block (mark it block_type 'uitwerkbijlage'
                  via "block_types" in the annotation file). On a vraag item
@@ -260,7 +262,14 @@ def main():
             ext = extend.get((page.number, i), 0.0)
             old_y1 = it["y1"]
             it["y1"] += ext
-            if ext and it["kind"] == "ctx":
+            if ext < 0 and it["kind"] == "ctx":
+                # negative extend: shrink the block from below. Members that
+                # now end below y1 are dropped, so the bottom pad wipes them
+                # instead of showing a sliver (HAVO-WISB-24-II-O.pdf p.15:
+                # "Uitwerkbijlage" kop right under the figure of vraag 15,
+                # --extend 14:0=-15.3)
+                it["members"] = [m for m in it["members"] if m[3] <= it["y1"] + 0.5]
+            elif ext and it["kind"] == "ctx":
                 # text lines in the extension become members, so the vraag
                 # wipe of a neighbouring vraag never paints them white
                 it["members"] = it["members"] + [tuple(l[:4]) for l in text_lines(page)

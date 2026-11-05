@@ -1,0 +1,66 @@
+{
+  "source": "HAVO Wiskunde B 2024-I",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Door de top",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Bloeddruk",
+      "question_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Een parabool en een cirkel",
+      "question_numbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Parkje in Lyon",
+      "question_numbers": [
+        8
+      ]
+    },
+    {
+      "title": "Dicht bij elkaar",
+      "question_numbers": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Bierbrouwen",
+      "question_numbers": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Exponentiële functies",
+      "question_numbers": [
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Vierdegraadsfunctie",
+      "question_numbers": [
+        18,
+        19
+      ]
+    }
+  ]
+}
