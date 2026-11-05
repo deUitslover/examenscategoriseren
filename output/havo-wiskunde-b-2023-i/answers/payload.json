@@ -1,0 +1,503 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde B 2023-I",
+  "answers": [
+   {
+    "title": "Parabool en grafiek van een wortelfunctie",
+    "question_number": 1,
+    "answer_text": "• De vergelijking 3x − 5 = 0 moet worden opgelost\n• Dit geeft x = 5/3\n• (Voor x ≥ 5/3 is 3x − 5 ≥ 0, dus het domein van f is) x ≥ 5/3\nof\n• De ongelijkheid 3x − 5 ≥ 0 moet worden opgelost\n• 3x ≥ 5\n• Dus x ≥ 5/3 (dus dit is het domein van f)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 3x − 5 = 0 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x = 5/3"
+     },
+     {
+      "points": 1,
+      "description": "(Voor x ≥ 5/3 is 3x − 5 ≥ 0, dus het domein van f is) x ≥ 5/3"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-parabool-en-grafiek-van-een-wortelfunctie-antw1.png"
+    ]
+   },
+   {
+    "title": "Parabool en grafiek van een wortelfunctie",
+    "question_number": 2,
+    "answer_text": "• f′(x) = 2/(2·√(3x − 5)) · 3 (= 3/√(3x − 5))\n• f′(x) = 3/4 geeft √(3x − 5) = 4\n• 3x − 5 = 16, dus x = 7\n• De y-coördinaat van A is f(7) = 8, dus g(x) = a(x − 7)² + 8\n• f(10) = 10, dus de y-coördinaat van B is 10\n• (B ligt op de grafiek van g, dus) de vergelijking 10 = a(10 − 7)² + 8 moet worden opgelost.\n• Dit geeft a = 2/9 (en p = 7 en q = 8)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "f′(x) = 2/(2·√(3x − 5)) · 3 (= 3/√(3x − 5))"
+     },
+     {
+      "points": 1,
+      "description": "f′(x) = 3/4 geeft √(3x − 5) = 4"
+     },
+     {
+      "points": 1,
+      "description": "3x − 5 = 16, dus x = 7"
+     },
+     {
+      "points": 1,
+      "description": "De y-coördinaat van A is f(7) = 8, dus g(x) = a(x − 7)² + 8"
+     },
+     {
+      "points": 1,
+      "description": "f(10) = 10, dus de y-coördinaat van B is 10"
+     },
+     {
+      "points": 1,
+      "description": "(B ligt op de grafiek van g, dus) de vergelijking 10 = a(10 − 7)² + 8 moet worden opgelost."
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft a = 2/9 (en p = 7 en q = 8)"
+     }
+    ],
+    "grading_note": "Als in het eerste antwoordelement de kettingregel is gebruikt, maar niet correct, mag voor dit antwoordelement hoogstens 1 scorepunt worden toegekend op basis van vakspecifieke regel 1.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-parabool-en-grafiek-van-een-wortelfunctie-antw2.png"
+    ]
+   },
+   {
+    "title": "Twee cirkels en twee lijnen",
+    "question_number": 3,
+    "answer_text": "• Voor de x-coördinaat van B geldt (x + 6)² + (2x − 1)² = 49\n• Herleiden tot 5x² + 8x − 12 = 0\n• De discriminant van deze vergelijking is 8² − 4 · 5 · −12 = 304\n• Voor de x-coördinaat van B geldt x = (−8 + √304)/10 (= 0,943…), dus de gevraagde x-coördinaat is 0,94",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor de x-coördinaat van B geldt (x + 6)² + (2x − 1)² = 49"
+     },
+     {
+      "points": 1,
+      "description": "Herleiden tot 5x² + 8x − 12 = 0"
+     },
+     {
+      "points": 1,
+      "description": "De discriminant van deze vergelijking is 8² − 4 · 5 · −12 = 304"
+     },
+     {
+      "points": 1,
+      "description": "Voor de x-coördinaat van B geldt x = (−8 + √304)/10 (= 0,943…), dus de gevraagde x-coördinaat is 0,94"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-twee-cirkels-en-twee-lijnen-antw3.png"
+    ]
+   },
+   {
+    "title": "Twee cirkels en twee lijnen",
+    "question_number": 4,
+    "answer_text": "• De coördinaten van M zijn (−6, 1) en de straal van c is 7\n• De vergelijking van m is (y = 1 − 7, dus) y = −6\n• Voor de x-coördinaat van C geldt 2x = −6, dus x_C = −3\n• Dus x_N = (−3 + 8 =) 5 (en y_N = −6)\n• MN = √((−6 − 5)² + 7²) = √170\n• De afstand tussen de cirkels is dus √170 − 3 − 7 = √170 − 10",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De coördinaten van M zijn (−6, 1) en de straal van c is 7"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking van m is (y = 1 − 7, dus) y = −6"
+     },
+     {
+      "points": 1,
+      "description": "Voor de x-coördinaat van C geldt 2x = −6, dus x_C = −3"
+     },
+     {
+      "points": 1,
+      "description": "Dus x_N = (−3 + 8 =) 5 (en y_N = −6)"
+     },
+     {
+      "points": 1,
+      "description": "MN = √((−6 − 5)² + 7²) = √170"
+     },
+     {
+      "points": 1,
+      "description": "De afstand tussen de cirkels is dus √170 − 3 − 7 = √170 − 10"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-twee-cirkels-en-twee-lijnen-antw4.png"
+    ]
+   },
+   {
+    "title": "Ademhaling",
+    "question_number": 5,
+    "answer_text": "• p = ((2700 + 2200)/2 =) 2450 (mL)\n• q = (2700 − 2450 =) 250 (mL)\n• De periode is 5\n• r = 2π/5 (= 1,256…), dus de waarde van r is 1,26",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "p = ((2700 + 2200)/2 =) 2450 (mL)"
+     },
+     {
+      "points": 1,
+      "description": "q = (2700 − 2450 =) 250 (mL)"
+     },
+     {
+      "points": 1,
+      "description": "De periode is 5"
+     },
+     {
+      "points": 1,
+      "description": "r = 2π/5 (= 1,256…), dus de waarde van r is 1,26"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-ademhaling-antw5.png"
+    ]
+   },
+   {
+    "title": "Ademhaling",
+    "question_number": 6,
+    "answer_text": "• Het volume van de ingeademde lucht (per periode) is ((2 · 1200)/1000 =) 2,4 (L)\n• De periode is 2π/4,19 (= 1,49…) (s)\n• De persoon ademt 60/1,49… = 40,01… keer per minuut (in en uit)\n• 40,01… · 2,4 (= 96,0…), dus deze persoon ademt 96 (L) lucht (per minuut) in",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het volume van de ingeademde lucht (per periode) is ((2 · 1200)/1000 =) 2,4 (L)"
+     },
+     {
+      "points": 1,
+      "description": "De periode is 2π/4,19 (= 1,49…) (s)"
+     },
+     {
+      "points": 1,
+      "description": "De persoon ademt 60/1,49… = 40,01… keer per minuut (in en uit)"
+     },
+     {
+      "points": 1,
+      "description": "40,01… · 2,4 (= 96,0…), dus deze persoon ademt 96 (L) lucht (per minuut) in"
+     }
+    ],
+    "grading_note": "Als de kandidaat rekent met 40 keer per minuut, dan hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-ademhaling-antw6.png"
+    ]
+   },
+   {
+    "title": "Ademhaling",
+    "question_number": 7,
+    "answer_text": "• Op tijdstip 0,21 (s) (met een marge van 0,04) is de snelheid maximaal\n• Het juist tekenen van de raaklijn aan de grafiek in het punt horend bij dit tijdstip\n• Een juiste berekening van de richtingscoëfficiënt Δvolume/Δtijd op basis van twee punten op de raaklijn\n• Een juiste vermenigvuldiging met 60 (en dat is de PEF van Benny) en het eindantwoord in gehelen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Op tijdstip 0,21 (s) (met een marge van 0,04) is de snelheid maximaal"
+     },
+     {
+      "points": 1,
+      "description": "Het juist tekenen van de raaklijn aan de grafiek in het punt horend bij dit tijdstip"
+     },
+     {
+      "points": 1,
+      "description": "Een juiste berekening van de richtingscoëfficiënt Δvolume/Δtijd op basis van twee punten op de raaklijn"
+     },
+     {
+      "points": 1,
+      "description": "Een juiste vermenigvuldiging met 60 (en dat is de PEF van Benny) en het eindantwoord in gehelen"
+     }
+    ],
+    "grading_note": "Als uit de tekening blijkt dat de kandidaat het punt op de grafiek heeft gekozen horend bij een tijdstip binnen de gegeven marge, mag het scorepunt van het eerste antwoordelement ook worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-ademhaling-antw7.png"
+    ]
+   },
+   {
+    "title": "Transition",
+    "question_number": 8,
+    "answer_text": "• Er geldt (½b)² + (h − r)² = r²\n• Hieruit volgt ¼b² + h² − 2hr + r² = r²\n• Dit geeft ¼b² + h² = 2hr\n• Hieruit volgt r = (¼b² + h²)/(2h) (dus formule 1 is juist)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt (½b)² + (h − r)² = r²"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt ¼b² + h² − 2hr + r² = r²"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft ¼b² + h² = 2hr"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt r = (¼b² + h²)/(2h) (dus formule 1 is juist)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-transition-antw8.png"
+    ]
+   },
+   {
+    "title": "Transition",
+    "question_number": 9,
+    "answer_text": "• (1,63 = (¼b² + h²)/(2h), dus) 2h · 1,63 = ¼b² + h²\n• b² = 13,04h − 4h², dus b = √(13,04h − 4h²)\n• Hieruit volgt b = 2√(3,26h − h²) (dus p = 2 en q = 3,26)\nof\n• (1,63 = (¼b² + h²)/(2h), dus) 2h · 1,63 = ¼b² + h²\n• b² = 4 · (2h · 1,63 − h²), dus b = √(4 · (2h · 1,63 − h²))\n• Hieruit volgt b = 2√(3,26h − h²) (dus p = 2 en q = 3,26)\nof\n• (r = (¼b² + h²)/(2h), dus) 2hr = ¼b² + h²\n• b² = 8hr − 4h², dus b = √(8hr − 4h²)\n• Hieruit volgt b = 2√(2rh − h²), dus b = 2√(3,26h − h²) (dus p = 2 en q = 3,26)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(1,63 = (¼b² + h²)/(2h), dus) 2h · 1,63 = ¼b² + h²"
+     },
+     {
+      "points": 1,
+      "description": "b² = 13,04h − 4h², dus b = √(13,04h − 4h²)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt b = 2√(3,26h − h²) (dus p = 2 en q = 3,26)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-transition-antw9.png"
+    ]
+   },
+   {
+    "title": "Halve hoek",
+    "question_number": 10,
+    "answer_text": "• De cosinusregel in driehoek BCQ geeft 12² = 7² + 7² − 2 · 7 · 7 · cos(2α)\n• Hieruit volgt cos(2α) = −0,46…\n• Dit geeft 2α = 117,99…°, dus α = ∠BAC = 58,99…°\n• De cosinusregel in driehoek ABC geeft 12² = 10² + AC² − 2 · 10 · AC · cos(58,99…°)\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• (Dit geeft AC = 13,549…, dus) het eindantwoord is 13,55\nof\n• De cosinusregel in driehoek BCQ geeft 12² = 7² + 7² − 2 · 7 · 7 · cos(2α)\n• Hieruit volgt cos(2α) = −0,46…\n• Dit geeft 2α = 117,99…°, dus α = ∠BAC = 58,99…°\n• De sinusregel in driehoek ABC geeft 12/sin(58,99…) = 10/sin(∠BCA); dit geeft ∠BCA = 45,58…°\n• ∠ABC = 180 − 58,99… − 45,58… = 75,41…°\n• De sinusregel in driehoek ABC geeft 12/sin(58,99…°) = AC/sin(75,41…°) (of gebruikmaken van de cosinusregel in driehoek ABC); (dit geeft AC = 13,549…, dus) het eindantwoord is 13,55\nof\n• De cosinusregel in driehoek BCQ geeft 12² = 7² + 7² − 2 · 7 · 7 · cos(2α)\n• Hieruit volgt cos(2α) = −0,46…\n• Dit geeft 2α = 117,99…°, dus α = ∠BAC = 58,99…°\n• In driehoek ABD, waarin D de loodrechte projectie van B op zijde AC is, geldt sin(58,99…°) = BD/10; dit geeft BD = 8,57…\n• De stelling van Pythagoras geeft CD = √(12² − 8,57…²) en AD = √(10² − 8,57…)\n• AC = CD + AD = 8,39… + 5,15… (= 13,549…), dus het eindantwoord is 13,55\nof\n• Het inzicht dat driehoek BMQ een rechthoekige driehoek is met zijden BM = 6 en BQ = 7, waarbij M het midden is van zijde BC\n• Dus geldt sin(∠BQM) = 6/7\n• Dit geeft ∠BQM = 58,99…°, dus ook ∠BAC = 58,99…°\n• De cosinusregel in driehoek ABC geeft 12² = 10² + AC² − 2 · 10 · AC · cos(58,99…°)\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• (Dit geeft AC = 13,549…, dus) het eindantwoord is 13,55\nof\n• (Omdat driehoek BCQ gelijkbenig is, volgt:) als M het midden van lijnstuk BC is, dan geldt ∠BMQ = 90° en ∠BQM = ½ · ∠BQC = α = ∠BAC\n• Hieruit volgt dat driehoek BMQ gelijkvormig is met driehoek BDA met vergrotingsfactor 10/7, waarbij D de loodrechte projectie van B op zijde AC is\n• BM = 6, dus met de stelling van Pythagoras volgt hieruit dat QM = √(7² − 6²) = √13\n• AD = 10/7 · √13 (= 5,15…) en BD = 10/7 · 6 (= 8,57…)\n• CD = √(12² − 8,57…²) = 8,39…\n• AC = CD + AD = 8,39… + 5,15… (= 13,549…), dus het eindantwoord is 13,55",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De cosinusregel in driehoek BCQ geeft 12² = 7² + 7² − 2 · 7 · 7 · cos(2α)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt cos(2α) = −0,46…"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft 2α = 117,99…°, dus α = ∠BAC = 58,99…°"
+     },
+     {
+      "points": 1,
+      "description": "De cosinusregel in driehoek ABC geeft 12² = 10² + AC² − 2 · 10 · AC · cos(58,99…°)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "(Dit geeft AC = 13,549…, dus) het eindantwoord is 13,55"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-halve-hoek-antw10.png"
+    ]
+   },
+   {
+    "title": "Twee functies",
+    "question_number": 11,
+    "answer_text": "• f(x) = 2¹ · 2ˣ⁻³ − 4 = 2ˣ⁻² − 4\n• Translatie 2 naar rechts\n• Translatie 4 omlaag\nof\n• Een translatie 3 naar rechts en een translatie 4 omlaag geeft y = 2ˣ⁻³ − 4\n• Vervolgens een translatie 1 naar links geeft y = 2ˣ⁻³⁺¹ − 4\n• Dit is gelijk aan y = 2 · 2ˣ⁻³ − 4 = f(x) (dus translatie 3 naar rechts, translatie 4 omlaag en translatie 1 naar links)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f(x) = 2¹ · 2ˣ⁻³ − 4 = 2ˣ⁻² − 4"
+     },
+     {
+      "points": 1,
+      "description": "Translatie 2 naar rechts"
+     },
+     {
+      "points": 1,
+      "description": "Translatie 4 omlaag"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-twee-functies-antw11.png"
+    ]
+   },
+   {
+    "title": "Twee functies",
+    "question_number": 12,
+    "answer_text": "• Uit 2 · 2ˣ⁻³ − 4 = 10 volgt 2 · 2ˣ⁻³ = 14\n• Dus 2ˣ⁻³ = 7\n• Hieruit volgt x − 3 = ²log(7)\n• Dus x = ²log(7) + 3\nof\n• Uit 2 · 2ˣ⁻³ − 4 = 10 volgt 2 · 2ˣ⁻³ = 14\n• Dus 2ˣ⁻² = 14\n• Hieruit volgt x − 2 = ²log(14)\n• Dus x = ²log(14) + 2\nof\n• Uit 2 · 2ˣ⁻³ − 4 = 10 volgt 2 · 2ˣ⁻³ = 14\n• Dit geeft 2 · 2ˣ · 2⁻³ = 14, dus ¼ · 2ˣ = 14\n• Hieruit volgt 2ˣ = 56\n• Dus x = ²log(56)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit 2 · 2ˣ⁻³ − 4 = 10 volgt 2 · 2ˣ⁻³ = 14"
+     },
+     {
+      "points": 1,
+      "description": "Dus 2ˣ⁻³ = 7"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt x − 3 = ²log(7)"
+     },
+     {
+      "points": 1,
+      "description": "Dus x = ²log(7) + 3"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-twee-functies-antw12.png"
+    ]
+   },
+   {
+    "title": "Twee functies",
+    "question_number": 13,
+    "answer_text": "• Uit 2 · 2ˣ⁻³ − 4 = −2ˣ⁻³ + 2 volgt 2 · 2ˣ⁻³ + 2ˣ⁻³ = 6\n• Dit geeft 3 · 2ˣ⁻³ = 6, dus 2ˣ⁻³ = 2\n• Hieruit volgt x − 3 = 1, dus x = 4\n• y = f(4) = 0 (, dus S(4, 0))\nof\n• Uit 2 · 2ˣ⁻³ − 4 = −2ˣ⁻³ + 2 volgt 2 · 2ˣ⁻³ + 2ˣ⁻³ = 6\n• Dus 2ˣ(2 · 2⁻³ + 2⁻³) = 6\n• Hieruit volgt 2ˣ = 6/(2 · 2⁻³ + 2⁻³) = 16, dus x = 4\n• y = f(4) = 0 (, dus S(4, 0))\nof\n• Uit 2ˣ⁻² − 4 = −2ˣ⁻³ + 2 volgt ¼ · 2ˣ + ⅛ · 2ˣ = 6\n• Dus ⅜ · 2ˣ = 6\n• Hieruit volgt 2ˣ = 16, dus x = 4\n• y = f(4) = 0 (, dus S(4, 0))",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit 2 · 2ˣ⁻³ − 4 = −2ˣ⁻³ + 2 volgt 2 · 2ˣ⁻³ + 2ˣ⁻³ = 6"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft 3 · 2ˣ⁻³ = 6, dus 2ˣ⁻³ = 2"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt x − 3 = 1, dus x = 4"
+     },
+     {
+      "points": 1,
+      "description": "y = f(4) = 0 (, dus S(4, 0))"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-twee-functies-antw13.png"
+    ]
+   },
+   {
+    "title": "Tienkamp",
+    "question_number": 14,
+    "answer_text": "• H = 75 en P = 0 invullen geeft 0 = a · (75 − b)\n• Dit geeft b = 75 (a = 0 voldoet niet)\n• H = 220 en P = 1000 invullen geeft a · (220 − 75) = 1000, dus 145a = 1000\n• (a = 1000/145, dus) de gevraagde waarde van a is 6,9\nof\n• ΔP = 1000 en ΔH = 220 − 75 = 145\n• a = ΔP/ΔH = 6,89…\n• H = 75 en P = 0 invullen geeft 0 = 6,89… · (75 − b)\n• b = 75 en de gevraagde waarde van a is 6,9",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "H = 75 en P = 0 invullen geeft 0 = a · (75 − b)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft b = 75 (a = 0 voldoet niet)"
+     },
+     {
+      "points": 1,
+      "description": "H = 220 en P = 1000 invullen geeft a · (220 − 75) = 1000, dus 145a = 1000"
+     },
+     {
+      "points": 1,
+      "description": "(a = 1000/145, dus) de gevraagde waarde van a is 6,9"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-tienkamp-antw14.png"
+    ]
+   },
+   {
+    "title": "Tienkamp",
+    "question_number": 15,
+    "answer_text": "• De exponent in de formule van P is groter dan 1\n• P is dus een toenemend stijgende functie (dus het aantal punten dat je extra verdient door 1 cm hoger te springen, wordt steeds groter)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De exponent in de formule van P is groter dan 1"
+     },
+     {
+      "points": 1,
+      "description": "P is dus een toenemend stijgende functie (dus het aantal punten dat je extra verdient door 1 cm hoger te springen, wordt steeds groter)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-tienkamp-antw15.png"
+    ]
+   },
+   {
+    "title": "Tienkamp",
+    "question_number": 16,
+    "answer_text": "• 0,8465 · (228 − 75)¹,⁴² = 1071,…, dus 1071 punten\n• De vergelijking 0,03768 · (480 − t)¹,⁸⁵ = 1072 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft t = 224,369… (s)\n• De gevraagde tijd is 3 minuten en 44,36 seconden\nof\n• 0,8465 · (228 − 75)¹,⁴² = 1071,…, dus 1071 punten\n• De vergelijking 0,03768 · (480 − t)¹,⁸⁵ = 1072 moet worden opgelost\n• Als t = 224,36, dan P = 1072,…\n• Als t = 224,37, dan P = 1071,…\n• De gevraagde tijd is 3 minuten en 44,36 seconden",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "0,8465 · (228 − 75)¹,⁴² = 1071,…, dus 1071 punten"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking 0,03768 · (480 − t)¹,⁸⁵ = 1072 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft t = 224,369… (s)"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde tijd is 3 minuten en 44,36 seconden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-tienkamp-antw16.png"
+    ]
+   },
+   {
+    "title": "Cosinusbreuk",
+    "question_number": 17,
+    "answer_text": "• (Verticale asymptoot als) 4cos(2(x − ⅓π)) = 0\n• Dus geldt 2(x − ⅓π) = ½π + k · π\n• Dus x = 7/12 π + k · ½π\n• De gevraagde vergelijkingen zijn x = 1/12 π en x = 7/12 π\nof\n• (Verticale asymptoot als) 4cos(2(x − ⅓π)) = 0\n• 2(x − ⅓π) = ½π\n• Dus x = 7/12 π (en dit is de vergelijking van een van de asymptoten)\n• Een redenering op basis van periodiciteit waaruit volgt x = 1/12 π (en dat is de vergelijking van de andere asymptoot)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Verticale asymptoot als) 4cos(2(x − ⅓π)) = 0"
+     },
+     {
+      "points": 1,
+      "description": "Dus geldt 2(x − ⅓π) = ½π + k · π"
+     },
+     {
+      "points": 1,
+      "description": "Dus x = 7/12 π + k · ½π"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde vergelijkingen zijn x = 1/12 π en x = 7/12 π"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-cosinusbreuk-antw17.png"
+    ]
+   },
+   {
+    "title": "Cosinusbreuk",
+    "question_number": 18,
+    "answer_text": "• Het gebruiken van de vergelijking f(x) = ⅔ (dus x = 1,64…)\n• Beschrijven hoe de helling in P berekend kan worden, bijvoorbeeld met de numeriek benaderde hellingfunctie of met een differentiequotiënt met Δx ≤ 0,001\n• De gevraagde richtingscoëfficiënt is 3,3",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het gebruiken van de vergelijking f(x) = ⅔ (dus x = 1,64…)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de helling in P berekend kan worden, bijvoorbeeld met de numeriek benaderde hellingfunctie of met een differentiequotiënt met Δx ≤ 0,001"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde richtingscoëfficiënt is 3,3"
+     }
+    ],
+    "grading_note": "Als een ander eindantwoord is gevonden door juist gebruik van een differentiequotiënt met Δx ≤ 0,05, dan mag het scorepunt van het derde antwoordelement ook worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-i-cosinusbreuk-antw18.png"
+    ]
+   }
+  ]
+ }
+}
