@@ -1,0 +1,54 @@
+{
+  "source": "HAVO Wiskunde A 2017-II",
+  "subject_name": "Wiskunde A",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Personenauto’s in Nederland",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Lichaamsoppervlakte",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Uitvaltijd",
+      "question_numbers": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Atmosfeer",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Zonnepanelen",
+      "question_numbers": [
+        22
+      ]
+    }
+  ]
+}
