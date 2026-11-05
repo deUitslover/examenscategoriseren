@@ -1,0 +1,58 @@
+{
+  "source": "HAVO Wiskunde B 2025-II",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Raken aan de x-as",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Sloeproeien",
+      "question_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Een exponentiële functie",
+      "question_numbers": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Een wortelfunctie",
+      "question_numbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Zonnepanelen",
+      "question_numbers": [
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Twee driehoeken",
+      "question_numbers": [
+        14
+      ]
+    },
+    {
+      "title": "Punten op een cirkelboog",
+      "question_numbers": [
+        15,
+        16
+      ]
+    }
+  ]
+}
