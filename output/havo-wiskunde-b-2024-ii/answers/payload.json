@@ -1,0 +1,469 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde B 2024-II",
+  "answers": [
+   {
+    "title": "Wortelgrafiek en parabool",
+    "question_number": 1,
+    "answer_text": "• Voor het randpunt van de grafiek van f geldt (2x + 6 = 0, dus) x = −3\n• Een exacte berekening waaruit volgt: voor de top van de grafiek van g geldt x = −3\n• Zowel de y-coördinaat van het randpunt van de grafiek van f als de y-coördinaat van de top van de grafiek van g is 0\n• Conclusie: de top van de grafiek van g is hetzelfde punt als het randpunt van de grafiek van f",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor het randpunt van de grafiek van f geldt (2x + 6 = 0, dus) x = −3"
+     },
+     {
+      "points": 1,
+      "description": "Een exacte berekening waaruit volgt: voor de top van de grafiek van g geldt x = −3"
+     },
+     {
+      "points": 1,
+      "description": "Zowel de y-coördinaat van het randpunt van de grafiek van f als de y-coördinaat van de top van de grafiek van g is 0"
+     },
+     {
+      "points": 1,
+      "description": "Conclusie: de top van de grafiek van g is hetzelfde punt als het randpunt van de grafiek van f"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-ii-wortelgrafiek-en-parabool-antw1.png"
+    ]
+   },
+   {
+    "title": "Wortelgrafiek en parabool",
+    "question_number": 2,
+    "answer_text": "• √(2x + 6) = 4 geeft 2x + 6 = 16\n• Dus x_C = 5\n• Een exacte berekening met als resultaat de oplossingen van de vergelijking x² + 6x + 9 = 4\n• Dit geeft x_B = −1\n• De afstand BC is 6",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "√(2x + 6) = 4 geeft 2x + 6 = 16"
+     },
+     {
+      "points": 1,
+      "description": "Dus x_C = 5"
+     },
+     {
+      "points": 1,
+      "description": "Een exacte berekening met als resultaat de oplossingen van de vergelijking x² + 6x + 9 = 4"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x_B = −1"
+     },
+     {
+      "points": 1,
+      "description": "De afstand BC is 6"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-ii-wortelgrafiek-en-parabool-antw2.png"
+    ]
+   },
+   {
+    "title": "Wortelgrafiek en parabool",
+    "question_number": 3,
+    "answer_text": "• f′(x) = 1/(2√(2x + 6)) · 2\n• f′(15) = 1/6\n• (De vergelijking van m kan worden herleid tot y = −6x − 27, dus) de richtingscoëfficiënt van m is −6\n• rc_l · rc_m = 1/6 · −6 = −1 (dus l en m staan loodrecht op elkaar)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "f′(x) = 1/(2√(2x + 6)) · 2"
+     },
+     {
+      "points": 1,
+      "description": "f′(15) = 1/6"
+     },
+     {
+      "points": 1,
+      "description": "(De vergelijking van m kan worden herleid tot y = −6x − 27, dus) de richtingscoëfficiënt van m is −6"
+     },
+     {
+      "points": 1,
+      "description": "rc_l · rc_m = 1/6 · −6 = −1 (dus l en m staan loodrecht op elkaar)"
+     }
+    ],
+    "grading_note": "Als in het eerste antwoordelement de kettingregel is gebruikt, maar niet correct, mag voor dit antwoordelement hoogstens 1 scorepunt worden toegekend op basis van vakspecifieke regel 1.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-ii-wortelgrafiek-en-parabool-antw3.png"
+    ]
+   },
+   {
+    "title": "Zonsopkomst en zonsondergang",
+    "question_number": 4,
+    "answer_text": "• De evenwichtsstand van de grafiek volgens de zomertijd is (8,00 + 5,62)/2 = 6,81\n• Dus p = (6,81 − 1 =) 5,81\n• q = 8,00 − 6,81 = 1,19 (of 6,81 − 5,62 = 1,19)\n• (Een mogelijke waarde voor) r is 341 − ¾ · 365 = 67,25",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De evenwichtsstand van de grafiek volgens de zomertijd is (8,00 + 5,62)/2 = 6,81"
+     },
+     {
+      "points": 1,
+      "description": "Dus p = (6,81 − 1 =) 5,81"
+     },
+     {
+      "points": 1,
+      "description": "q = 8,00 − 6,81 = 1,19 (of 6,81 − 5,62 = 1,19)"
+     },
+     {
+      "points": 1,
+      "description": "(Een mogelijke waarde voor) r is 341 − ¾ · 365 = 67,25"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-ii-zonsopkomst-en-zonsondergang-antw4.png"
+    ]
+   },
+   {
+    "title": "Zonsopkomst en zonsondergang",
+    "question_number": 5,
+    "answer_text": "• Het maximum van de verschilfunctie N(t) − P(t) met gehele t-waarden moet worden bepaald\n• Beschrijven hoe dit maximum bij een gehele t-waarde met behulp van de GR kan worden bepaald\n• Dit geeft: het maximum (voor t = 172) is 16,7749…\n• Dit komt overeen met 16 uur en 46 minuten",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het maximum van de verschilfunctie N(t) − P(t) met gehele t-waarden moet worden bepaald"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe dit maximum bij een gehele t-waarde met behulp van de GR kan worden bepaald"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft: het maximum (voor t = 172) is 16,7749…"
+     },
+     {
+      "points": 1,
+      "description": "Dit komt overeen met 16 uur en 46 minuten"
+     }
+    ],
+    "grading_note": "– Als is gerekend met het verschil van het maximum 22,11 van N en het minimum 5,30 van P, dan mogen voor deze vraag maximaal 2 scorepunten worden toegekend.\n– Als niet is gerekend met gehele t-waarden, dan mogen voor deze vraag maximaal 3 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-ii-zonsopkomst-en-zonsondergang-antw5.png"
+    ]
+   },
+   {
+    "title": "Door het snijpunt",
+    "question_number": 6,
+    "answer_text": "• De x-coördinaat van het midden van A en O is −3\n• De y-coördinaat van P is f(−3) = 11¼\n• f(x) = ¼x(x − 2)(x + 6) = ¼x³ + x² − 3x\n• f′(x) = ¾x² + 2x − 3\n• De richtingscoëfficiënt van de raaklijn aan de grafiek van f in P is f′(−3) = −2¼\n• Een exacte berekening met als resultaat een vergelijking van de raaklijn door P: y = −2¼x + 4½\n• y = −2¼x + 4½ = 0 geeft x = 2 (dus de raaklijn gaat door B)\nof\n• De x-coördinaat van het midden van A en O is −3\n• De y-coördinaat van P is f(−3) = 11¼\n• f(x) = ¼x(x − 2)(x + 6) = ¼x³ + x² − 3x\n• f′(x) = ¾x² + 2x − 3\n• De richtingscoëfficiënt van de raaklijn aan de grafiek van f in P is f′(−3) = −2¼\n• De richtingscoëfficiënt van de lijn door P en B is (0 − 11¼)/(2 − −3) = −2¼\n• Omdat beide richtingscoëfficiënten gelijk zijn, gaat de raaklijn door B",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De x-coördinaat van het midden van A en O is −3"
+     },
+     {
+      "points": 1,
+      "description": "De y-coördinaat van P is f(−3) = 11¼"
+     },
+     {
+      "points": 1,
+      "description": "f(x) = ¼x(x − 2)(x + 6) = ¼x³ + x² − 3x"
+     },
+     {
+      "points": 1,
+      "description": "f′(x) = ¾x² + 2x − 3"
+     },
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt van de raaklijn aan de grafiek van f in P is f′(−3) = −2¼"
+     },
+     {
+      "points": 1,
+      "description": "Een exacte berekening met als resultaat een vergelijking van de raaklijn door P: y = −2¼x + 4½"
+     },
+     {
+      "points": 1,
+      "description": "y = −2¼x + 4½ = 0 geeft x = 2 (dus de raaklijn gaat door B)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-ii-door-het-snijpunt-antw6.png"
+    ]
+   },
+   {
+    "title": "Borstcrawl",
+    "question_number": 7,
+    "answer_text": "• Voor de snelheid van Ian geldt 105 = 500 · 0,2 · 0,35 · v²\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft v = 1,732… (m/s)\n• De zwemtijd van Ian is 100/1,732… = 57,735… (seconden)\n• De snelheid van Samy moet 100/(57,735… − 0,5) = 1,747… (m/s) worden\n• De gevraagde handkracht is 500 · 0,21 · 0,33 · 1,747…² (= 105,7…), dus 106 (N)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor de snelheid van Ian geldt 105 = 500 · 0,2 · 0,35 · v²"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft v = 1,732… (m/s)"
+     },
+     {
+      "points": 1,
+      "description": "De zwemtijd van Ian is 100/1,732… = 57,735… (seconden)"
+     },
+     {
+      "points": 1,
+      "description": "De snelheid van Samy moet 100/(57,735… − 0,5) = 1,747… (m/s) worden"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde handkracht is 500 · 0,21 · 0,33 · 1,747…² (= 105,7…), dus 106 (N)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-ii-borstcrawl-antw7.png"
+    ]
+   },
+   {
+    "title": "Borstcrawl",
+    "question_number": 8,
+    "answer_text": "• Een voorbeeld van een goed antwoord is: bij de bovenste lijn geeft een bepaalde handkracht een hogere snelheid dan bij de onderste lijn, dus de bovenste lijn hoort bij de zwemmer met de betere techniek\n• Aflezen van een punt op de bovenste lijn, bijvoorbeeld (60; 1,8)\n• De waarde van C van de zwemmer met de betere techniek is 60/(500 · 0,2 · 1,8) = 0,33\nof\n• Een voorbeeld van een goed antwoord is: bij de bovenste lijn geeft een bepaalde handkracht een hogere snelheid dan bij de onderste lijn, dus de bovenste lijn hoort bij de zwemmer met de betere techniek\n• Bepalen van de richtingscoëfficiënt van de bovenste lijn geeft 0,03\n• (De richtingscoëfficiënt van de lijn is Δv²/ΔF = 1/(100C), dus) de waarde van C van de zwemmer met de betere techniek is 1/(100 · 0,03) = 0,33",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een goed antwoord is: bij de bovenste lijn geeft een bepaalde handkracht een hogere snelheid dan bij de onderste lijn, dus de bovenste lijn hoort bij de zwemmer met de betere techniek"
+     },
+     {
+      "points": 1,
+      "description": "Aflezen van een punt op de bovenste lijn, bijvoorbeeld (60; 1,8)"
+     },
+     {
+      "points": 1,
+      "description": "De waarde van C van de zwemmer met de betere techniek is 60/(500 · 0,2 · 1,8) = 0,33"
+     }
+    ],
+    "grading_note": "Als met het afgelezen punt (of de afgelezen punten) op de doorgetrokken grafiek correct wordt gerekend met als eindantwoord 0,32 of 0,34, dan mogen het tweede en derde scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-ii-borstcrawl-antw8.png"
+    ]
+   },
+   {
+    "title": "Twee logaritmische functies",
+    "question_number": 9,
+    "answer_text": "• Uit log(x) = 2 − log(x + 10) volgt log(x(x + 10)) = 2 (of log(x) = log(10²) − log(x + 10) = log(100/(x + 10)))\n• Dit geeft x(x + 10) = 100\n• Hieruit volgt x² + 10x − 100 = 0\n• De discriminant van deze vergelijking is D = 10² − 4 · 1 · −100 = 500\n• Dit geeft x = −5 + ½√500 (x = −5 − ½√500 voldoet niet) (dus de x-coördinaat van punt A is gelijk aan −5 + ½√500)\n• Het eindantwoord 0 < x < −5 + ½√500",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit log(x) = 2 − log(x + 10) volgt log(x(x + 10)) = 2 (of log(x) = log(10²) − log(x + 10) = log(100/(x + 10)))"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x(x + 10) = 100"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt x² + 10x − 100 = 0"
+     },
+     {
+      "points": 1,
+      "description": "De discriminant van deze vergelijking is D = 10² − 4 · 1 · −100 = 500"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x = −5 + ½√500 (x = −5 − ½√500 voldoet niet) (dus de x-coördinaat van punt A is gelijk aan −5 + ½√500)"
+     },
+     {
+      "points": 1,
+      "description": "Het eindantwoord 0 < x < −5 + ½√500"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-ii-twee-logaritmische-functies-antw9.png"
+    ]
+   },
+   {
+    "title": "Twee logaritmische functies",
+    "question_number": 10,
+    "answer_text": "• De verschuiving 10 naar links\n• De vermenigvuldiging ten opzichte van de x-as met −1 (of de spiegeling in de x-as) en de verschuiving 2 naar boven\n• Een volgorde van deze drie transformaties waarbij de vermenigvuldiging voor de verticale verschuiving wordt toegepast\nof\n• De verschuiving 10 naar links\n• De verschuiving 2 naar beneden en de vermenigvuldiging ten opzichte van de x-as met −1 (of de spiegeling in de x-as)\n• Een volgorde van deze drie transformaties waarbij de vermenigvuldiging na de verticale verschuiving wordt toegepast",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De verschuiving 10 naar links"
+     },
+     {
+      "points": 2,
+      "description": "De vermenigvuldiging ten opzichte van de x-as met −1 (of de spiegeling in de x-as) en de verschuiving 2 naar boven"
+     },
+     {
+      "points": 1,
+      "description": "Een volgorde van deze drie transformaties waarbij de vermenigvuldiging voor de verticale verschuiving wordt toegepast"
+     }
+    ],
+    "grading_note": "Voor het tweede antwoordelement van beide antwoordalternatieven mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-ii-twee-logaritmische-functies-antw10.png"
+    ]
+   },
+   {
+    "title": "Twee logaritmische functies",
+    "question_number": 11,
+    "answer_text": "• 2 − log(0 + 10) = 1 (dus B(0, 1))\n• Een toelichting waaruit volgt dat x = 90 de oplossing is van 2 − log(x + 10) = 0 (dus C(90, 0))\n• De richtingscoëfficiënt van l is ((0 − 1)/(90 − 0) =) −1/90\n• Een vergelijking van l is y = −1/90 x + 1\n• Beschrijven hoe de vergelijking log(x) = −1/90 x + 1 kan worden opgelost\n• De coördinaten van D zijn x = 8,12 en y = 0,91",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "2 − log(0 + 10) = 1 (dus B(0, 1))"
+     },
+     {
+      "points": 1,
+      "description": "Een toelichting waaruit volgt dat x = 90 de oplossing is van 2 − log(x + 10) = 0 (dus C(90, 0))"
+     },
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt van l is ((0 − 1)/(90 − 0) =) −1/90"
+     },
+     {
+      "points": 1,
+      "description": "Een vergelijking van l is y = −1/90 x + 1"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking log(x) = −1/90 x + 1 kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De coördinaten van D zijn x = 8,12 en y = 0,91"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-ii-twee-logaritmische-functies-antw11.png"
+    ]
+   },
+   {
+    "title": "Twee logaritmische functies",
+    "question_number": 12,
+    "answer_text": "• Beschrijven hoe met de GR de helling in een punt op de grafiek van f kan worden benaderd\n• De hellingen van twee punten op de grafiek van f waarvan de ene x-coördinaat 7 keer zo groot is als de andere x-coördinaat, bijvoorbeeld de helling in het punt met x-coördinaat 1 is 0,434… en de helling in het punt met x-coördinaat 7 is 0,062…\n• Delen van de kleinste helling door de grootste helling geeft het antwoord 0,14\nof\n• Beschrijven hoe op de GR de afgeleide functie kan worden ingevoerd\n• In deze afgeleide moet met de helling bij x en bij 7x worden gewerkt\n• Het antwoord is f′(7x)/f′(x) = 0,14",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe met de GR de helling in een punt op de grafiek van f kan worden benaderd"
+     },
+     {
+      "points": 1,
+      "description": "De hellingen van twee punten op de grafiek van f waarvan de ene x-coördinaat 7 keer zo groot is als de andere x-coördinaat, bijvoorbeeld de helling in het punt met x-coördinaat 1 is 0,434… en de helling in het punt met x-coördinaat 7 is 0,062…"
+     },
+     {
+      "points": 1,
+      "description": "Delen van de kleinste helling door de grootste helling geeft het antwoord 0,14"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-ii-twee-logaritmische-functies-antw12.png"
+    ]
+   },
+   {
+    "title": "Rondom exponentiële grafieken",
+    "question_number": 13,
+    "answer_text": "• 2ˣ = (√2)^(x² − x) herleiden tot (2ˣ = (2^½)^(x² − x), dus) 2ˣ = 2^(½x² − ½x)\n• Dit geeft x = ½x² − ½x, dus ½x² − 1½x = 0\n• Hieruit volgt ½x(x − 3) = 0, dus x = 0 of x = 3 (en dus zijn A en B de enige snijpunten)\nof\n• 2ˣ = (√2)^(x² − x) herleiden tot (2ˣ = (2^½)^(x² − x), dus) 2ˣ = 2^(½x² − ½x)\n• Dit geeft x = ½x² − ½x, dus een kwadratische vergelijking\n• Een kwadratische vergelijking heeft maximaal twee oplossingen, dus de twee gegeven oplossingen zijn de enige oplossingen (en dus zijn A en B de enige snijpunten)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "2ˣ = (√2)^(x² − x) herleiden tot (2ˣ = (2^½)^(x² − x), dus) 2ˣ = 2^(½x² − ½x)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x = ½x² − ½x, dus ½x² − 1½x = 0"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt ½x(x − 3) = 0, dus x = 0 of x = 3 (en dus zijn A en B de enige snijpunten)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-ii-rondom-exponentiele-grafieken-antw13.png"
+    ]
+   },
+   {
+    "title": "Rondom exponentiële grafieken",
+    "question_number": 14,
+    "answer_text": "• Het middelpunt van c₁ is (((0 + 3)/2, (1 + 8)/2) =) (1½, 4½)\n• Een exacte berekening waaruit volgt dat de straal van c₁ ½√58 (of √(58/4)) is\n• Het inzicht dat, als de oppervlakte van c₁ 3 keer zo groot wordt, de straal van c₁ √3 keer zo groot wordt (of een berekening met als resultaat dat de oppervlakte van c₂ gelijk is aan 43½π)\n• De straal van c₂ is √3 · ½√58 = √(43½) (of het kwadraat van de straal van c₂ is 43½)\n• Een vergelijking van c₂ is (x − 1½)² + (x − 4½)² = 43½ (⚠️ CONTROLEREN: het correctievoorschrift schrijft tweemaal x; bedoeld is vermoedelijk (x − 1½)² + (y − 4½)² = 43½)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het middelpunt van c₁ is (((0 + 3)/2, (1 + 8)/2) =) (1½, 4½)"
+     },
+     {
+      "points": 1,
+      "description": "Een exacte berekening waaruit volgt dat de straal van c₁ ½√58 (of √(58/4)) is"
+     },
+     {
+      "points": 1,
+      "description": "Het inzicht dat, als de oppervlakte van c₁ 3 keer zo groot wordt, de straal van c₁ √3 keer zo groot wordt (of een berekening met als resultaat dat de oppervlakte van c₂ gelijk is aan 43½π)"
+     },
+     {
+      "points": 1,
+      "description": "De straal van c₂ is √3 · ½√58 = √(43½) (of het kwadraat van de straal van c₂ is 43½)"
+     },
+     {
+      "points": 1,
+      "description": "Een vergelijking van c₂ is (x − 1½)² + (x − 4½)² = 43½ (⚠️ CONTROLEREN: het correctievoorschrift schrijft tweemaal x; bedoeld is vermoedelijk (x − 1½)² + (y − 4½)² = 43½)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-ii-rondom-exponentiele-grafieken-antw14.png"
+    ]
+   },
+   {
+    "title": "Vuurtorens",
+    "question_number": 15,
+    "answer_text": "• Het inzicht dat met de rechthoekige driehoek OPP′ kan worden gewerkt, waarbij P het punt is waar de lijn van de vaarroute de cirkel snijdt en P′ de loodrechte projectie is van P op de kustlijn\n• In deze driehoek is OP = 11 en PP′ = 9\n• De stelling van Pythagoras geeft OP′ = √(11² − 9²) = √40 (= 6,3…)\n• Het schip moet nog 20 − 6,3… = 13,6… (km) varen, dus het eindantwoord is 14 (km)\nof\n• De keuze van een geschikt assenstelsel, bijvoorbeeld met O als oorsprong en de kust als horizontale as\n• Een vergelijking van de cirkel is dan x² + y² = 11²\n• Het inzicht dat de x-coördinaat van een snijpunt van de lijn met vergelijking y = (−)9 en de cirkel met vergelijking x² + y² = 11² moet worden berekend\n• Dit geeft x² = 40 en dus x = (−)√40 (= (−)6,3…)\n• Het schip moet nog 20 − 6,3… = 13,6… (km) varen, dus het eindantwoord is 14 (km)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Het inzicht dat met de rechthoekige driehoek OPP′ kan worden gewerkt, waarbij P het punt is waar de lijn van de vaarroute de cirkel snijdt en P′ de loodrechte projectie is van P op de kustlijn"
+     },
+     {
+      "points": 1,
+      "description": "In deze driehoek is OP = 11 en PP′ = 9"
+     },
+     {
+      "points": 1,
+      "description": "De stelling van Pythagoras geeft OP′ = √(11² − 9²) = √40 (= 6,3…)"
+     },
+     {
+      "points": 1,
+      "description": "Het schip moet nog 20 − 6,3… = 13,6… (km) varen, dus het eindantwoord is 14 (km)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-ii-vuurtorens-antw15.png"
+    ]
+   },
+   {
+    "title": "Vuurtorens",
+    "question_number": 16,
+    "answer_text": "• Er geldt ∠BAT = (180° − 90° − 52° =) 38° (of ∠ABT = (180° − 90° − 65° =) 25°)\n• De sinusregel in driehoek ATB geeft: 14/sin(52° + 65°) = BT/sin(38°) (of: 14/sin(52° + 65°) = AT/sin(25°))\n• Hieruit volgt BT = 9,67… (of: AT = 6,64…)\n• d(T, kustlijn) = 9,67… · cos(65°), dus de gevraagde afstand is 4,1 (km) (of: d(T, kustlijn) = 6,64… · cos(52°), dus de gevraagde afstand is 4,1 (km))\nof\n• Met T′ de loodrechte projectie van T op de kustlijn geldt tan(52°) = AT′/TT′ geeft AT′ = TT′ · tan(52°) en tan(65°) = BT′/TT′ geeft BT′ = TT′ · tan(65°)\n• (AB = AT′ + BT′ = 14 geeft TT′ · tan(52°) + TT′ · tan(65°) = 14\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• De gevraagde afstand TT′ is 4,1 (km)\nof\n• Indien in figuur 2 een assenstelsel wordt aangebracht met A als oorsprong en de kust als horizontale as, dan is y = −tan(38°) · x een vergelijking van de lijn door A en T\n• Een vergelijking van de lijn door B en T is dan y = tan(25°) · (x − 14), dus voor de x-coördinaat van T geldt −tan(38°) · x = tan(25°) · (x − 14)\n• Beschrijven hoe de y-coördinaat van T kan worden gevonden\n• (De y-coördinaat van T is −4,1, dus) de gevraagde afstand is 4,1 (km)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt ∠BAT = (180° − 90° − 52° =) 38° (of ∠ABT = (180° − 90° − 65° =) 25°)"
+     },
+     {
+      "points": 1,
+      "description": "De sinusregel in driehoek ATB geeft: 14/sin(52° + 65°) = BT/sin(38°) (of: 14/sin(52° + 65°) = AT/sin(25°))"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt BT = 9,67… (of: AT = 6,64…)"
+     },
+     {
+      "points": 1,
+      "description": "d(T, kustlijn) = 9,67… · cos(65°), dus de gevraagde afstand is 4,1 (km) (of: d(T, kustlijn) = 6,64… · cos(52°), dus de gevraagde afstand is 4,1 (km))"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-ii-vuurtorens-antw16.png"
+    ]
+   }
+  ]
+ }
+}
