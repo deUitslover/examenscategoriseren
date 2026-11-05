@@ -1,0 +1,522 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde B 2024-I",
+  "answers": [
+   {
+    "title": "Door de top",
+    "question_number": 1,
+    "answer_text": "• De afgeleide van 2(⅓x − 1)³ is 3 · ⅓ · 2(⅓x − 1)²\n• f′(x) = 2(⅓x − 1)² − ½\n• (⅓x − 1)² = ⅑x² − ⅔x + 1\n• f′(x) = 2/9 x² − 4/3 x + 2 − ½ = 2/9 x² − 4/3 x + 1½",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De afgeleide van 2(⅓x − 1)³ is 3 · ⅓ · 2(⅓x − 1)²"
+     },
+     {
+      "points": 1,
+      "description": "f′(x) = 2(⅓x − 1)² − ½"
+     },
+     {
+      "points": 1,
+      "description": "(⅓x − 1)² = ⅑x² − ⅔x + 1"
+     },
+     {
+      "points": 1,
+      "description": "f′(x) = 2/9 x² − 4/3 x + 2 − ½ = 2/9 x² − 4/3 x + 1½"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-door-de-top-antw1.png"
+    ]
+   },
+   {
+    "title": "Door de top",
+    "question_number": 2,
+    "answer_text": "• De vergelijking f′(x) = 2/9 x² − 4/3 x + 1½ = 0 moet opgelost worden\n• Beschrijven hoe deze vergelijking exact opgelost kan worden\n• Hieruit volgt x_A = 1½ (x = 4½ hoort bij de rechter top)\n• y_A = f(1½) = 2\n• Er moet dus gelden (1½)² − 3/10 · 1½ + c = 2\n• Dit geeft c = 1/5",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking f′(x) = 2/9 x² − 4/3 x + 1½ = 0 moet opgelost worden"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking exact opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt x_A = 1½ (x = 4½ hoort bij de rechter top)"
+     },
+     {
+      "points": 1,
+      "description": "y_A = f(1½) = 2"
+     },
+     {
+      "points": 1,
+      "description": "Er moet dus gelden (1½)² − 3/10 · 1½ + c = 2"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft c = 1/5"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-door-de-top-antw2.png"
+    ]
+   },
+   {
+    "title": "Bloeddruk",
+    "question_number": 3,
+    "answer_text": "• a = ((120 + 60)/2 =) 90\n• b = (120 − 90 =) 30\n• d = 1\n• De periode is 1,1 (seconde)\n• (2π/1,1 = 5,71… dus) c = 5,7",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a = ((120 + 60)/2 =) 90"
+     },
+     {
+      "points": 1,
+      "description": "b = (120 − 90 =) 30"
+     },
+     {
+      "points": 1,
+      "description": "d = 1"
+     },
+     {
+      "points": 1,
+      "description": "De periode is 1,1 (seconde)"
+     },
+     {
+      "points": 1,
+      "description": "(2π/1,1 = 5,71… dus) c = 5,7"
+     }
+    ],
+    "grading_note": "Bij het aflezen van de periode is een marge van 0,05 toegestaan.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-bloeddruk-antw3.png"
+    ]
+   },
+   {
+    "title": "Bloeddruk",
+    "question_number": 4,
+    "answer_text": "• P_gem = P_min + 0,33(P_max − P_min) = P_min + 0,33P_max − 0,33P_min = 0,67P_min + 0,33P_max\n• De gevraagde factor is 2",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "P_gem = P_min + 0,33(P_max − P_min) = P_min + 0,33P_max − 0,33P_min = 0,67P_min + 0,33P_max"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde factor is 2"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-bloeddruk-antw4.png"
+    ]
+   },
+   {
+    "title": "Bloeddruk",
+    "question_number": 5,
+    "answer_text": "• De vergelijking 100 = 80 + (0,33 + 0,0012 · H)(120 − 80) moet opgelost worden.\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• H = 142",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 100 = 80 + (0,33 + 0,0012 · H)(120 − 80) moet opgelost worden."
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "H = 142"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-bloeddruk-antw5.png"
+    ]
+   },
+   {
+    "title": "Een parabool en een cirkel",
+    "question_number": 6,
+    "answer_text": "• f′(x) = 8/9 x − 16/9\n• f′(0) = −16/9\n• tan(α) = −16/9 geeft α = −60,6…(°) (dus de hoek van de raaklijn in D met de x-as is 60,6…°)\n• De scherpe hoek die de raaklijn met de y-as maakt, is 90 − 60,6… = 29,3…(°) (en daarmee kleiner dan 30°)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f′(x) = 8/9 x − 16/9"
+     },
+     {
+      "points": 1,
+      "description": "f′(0) = −16/9"
+     },
+     {
+      "points": 1,
+      "description": "tan(α) = −16/9 geeft α = −60,6…(°) (dus de hoek van de raaklijn in D met de x-as is 60,6…°)"
+     },
+     {
+      "points": 1,
+      "description": "De scherpe hoek die de raaklijn met de y-as maakt, is 90 − 60,6… = 29,3…(°) (en daarmee kleiner dan 30°)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-een-parabool-en-een-cirkel-antw6.png"
+    ]
+   },
+   {
+    "title": "Een parabool en een cirkel",
+    "question_number": 7,
+    "answer_text": "• Beschrijven hoe de vergelijking 4/9 x² − 16/9 x − 20/9 = 0 exact opgelost kan worden\n• Dit geeft x_A = −1 en x_B = 5\n• Een exacte toelichting waaruit volgt x_T = 2\n• y_T = −4\n• Een vergelijking voor c is (x − 2)² + (y + 4)² = constante\n• De constante is (5 − 2)² + (0 − −4)² = 25 (of (−1 − 2)² + (0 − −4)² = 25)\n• (x = 0 invullen geeft) (0 − 2)² + (y + 4)² = 25\n• Dit geeft y = −4 − √21 of y = −4 + √21\nof\n• Beschrijven hoe de vergelijking 4/9 x² − 16/9 x − 20/9 = 0 exact opgelost kan worden\n• Dit geeft x_A = −1 en x_B = 5\n• Een exacte toelichting waaruit volgt x_T = 2\n• y_T = −4\n• De straal van c is √((5 − 2)² + (0 − −4)²) = 5 (of √((−1 − 2)² + (0 − −4)²) = 5)\n• In driehoek UTT′, waarbij T′ de loodrechte projectie van T op de y-as is en U een snijpunt van c met de y-as, geldt TT′ = 2 en TU = 5\n• De stelling van Pythagoras toepassen in driehoek UTT′ geeft UT′ = √21\n• Dit geeft (vanwege symmetrie) y = −4 − √21 of y = −4 + √21",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 4/9 x² − 16/9 x − 20/9 = 0 exact opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x_A = −1 en x_B = 5"
+     },
+     {
+      "points": 1,
+      "description": "Een exacte toelichting waaruit volgt x_T = 2"
+     },
+     {
+      "points": 1,
+      "description": "y_T = −4"
+     },
+     {
+      "points": 1,
+      "description": "Een vergelijking voor c is (x − 2)² + (y + 4)² = constante"
+     },
+     {
+      "points": 1,
+      "description": "De constante is (5 − 2)² + (0 − −4)² = 25 (of (−1 − 2)² + (0 − −4)² = 25)"
+     },
+     {
+      "points": 1,
+      "description": "(x = 0 invullen geeft) (0 − 2)² + (y + 4)² = 25"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft y = −4 − √21 of y = −4 + √21"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-een-parabool-en-een-cirkel-antw7.png"
+    ]
+   },
+   {
+    "title": "Parkje in Lyon",
+    "question_number": 8,
+    "answer_text": "• Volgens de cosinusregel geldt 101² = 145² + 92² − 2 · 145 · 92 · cos(∠A)\n• Beschrijven hoe deze vergelijking algebraïsch opgelost kan worden\n• Hieruit volgt ∠A = 43,7…(°)\n• Er geldt sin(43,7…°) = h/92, met h de afstand vanuit B op AC\n• Hieruit volgt h (= 92 · sin(43,7…°)) = 63,5… (m)\n• De gevraagde oppervlakte is (½ · 145 · 63,5… = 4608,3… dus) 4608 (m²)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Volgens de cosinusregel geldt 101² = 145² + 92² − 2 · 145 · 92 · cos(∠A)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking algebraïsch opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt ∠A = 43,7…(°)"
+     },
+     {
+      "points": 1,
+      "description": "Er geldt sin(43,7…°) = h/92, met h de afstand vanuit B op AC"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt h (= 92 · sin(43,7…°)) = 63,5… (m)"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde oppervlakte is (½ · 145 · 63,5… = 4608,3… dus) 4608 (m²)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-parkje-in-lyon-antw8.png"
+    ]
+   },
+   {
+    "title": "Dicht bij elkaar",
+    "question_number": 9,
+    "answer_text": "• Beschrijven hoe de coördinaten van S gevonden kunnen worden\n• De x-coördinaat van S is 0,5… (of de y-coördinaat van S is 1,38…)\n• Beschrijven hoe het minimum van f gevonden kan worden\n• De x-coördinaat van de top van de grafiek van f is 0,6… en dat is niet gelijk aan de x-coördinaat van S (of de y-coördinaat van de top van de grafiek van f is 1,37… en dat is niet gelijk aan de y-coördinaat van S)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de coördinaten van S gevonden kunnen worden"
+     },
+     {
+      "points": 1,
+      "description": "De x-coördinaat van S is 0,5… (of de y-coördinaat van S is 1,38…)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe het minimum van f gevonden kan worden"
+     },
+     {
+      "points": 1,
+      "description": "De x-coördinaat van de top van de grafiek van f is 0,6… en dat is niet gelijk aan de x-coördinaat van S (of de y-coördinaat van de top van de grafiek van f is 1,37… en dat is niet gelijk aan de y-coördinaat van S)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-dicht-bij-elkaar-antw9.png"
+    ]
+   },
+   {
+    "title": "Dicht bij elkaar",
+    "question_number": 10,
+    "answer_text": "• Voor grote waarden van x nadert √(1/x) (of 1/x) tot 0\n• Dus zal √(x + √(1/x)) naderen tot √x (dus liggen de grafieken van f en h dicht bij elkaar)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor grote waarden van x nadert √(1/x) (of 1/x) tot 0"
+     },
+     {
+      "points": 1,
+      "description": "Dus zal √(x + √(1/x)) naderen tot √x (dus liggen de grafieken van f en h dicht bij elkaar)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-dicht-bij-elkaar-antw10.png"
+    ]
+   },
+   {
+    "title": "Dicht bij elkaar",
+    "question_number": 11,
+    "answer_text": "• De vergelijking f(x) − h(x) = 0,01 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• (x = 49,9646…, dus) x ≥ 49,965 (of x > 49,964)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking f(x) − h(x) = 0,01 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "(x = 49,9646…, dus) x ≥ 49,965 (of x > 49,964)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-dicht-bij-elkaar-antw11.png"
+    ]
+   },
+   {
+    "title": "Bierbrouwen",
+    "question_number": 12,
+    "answer_text": "• (De groeifactor per 40 minuten is) 24,2/4,5 (= 5,377…)\n• (De groeifactor per minuut is dan) (24,2/4,5)^(1/40)\n• Dus de groeifactor per minuut is (1,042953…, dus) 1,04295\nof\n• De vergelijking 4,5 · g⁴⁰ = 24,2 moet opgelost worden\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• (g = 1,042953…, dus) de groeifactor per minuut is 1,04295",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(De groeifactor per 40 minuten is) 24,2/4,5 (= 5,377…)"
+     },
+     {
+      "points": 1,
+      "description": "(De groeifactor per minuut is dan) (24,2/4,5)^(1/40)"
+     },
+     {
+      "points": 1,
+      "description": "Dus de groeifactor per minuut is (1,042953…, dus) 1,04295"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-bierbrouwen-antw12.png"
+    ]
+   },
+   {
+    "title": "Bierbrouwen",
+    "question_number": 13,
+    "answer_text": "• Beschrijven hoe de vergelijking 4,5 · 1,043ᵗ = 13,5 opgelost kan worden\n• Dit geeft t = 26,0…\n• Dus na 26,0… + 5 = 31,0… (minuten) is de eerste 13,5% omgezet\n• De tweede 13,5% duurt dan (60 − 31,0… =) 28,9… (minuten), dus het verschil is 2 (minuten)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 4,5 · 1,043ᵗ = 13,5 opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft t = 26,0…"
+     },
+     {
+      "points": 1,
+      "description": "Dus na 26,0… + 5 = 31,0… (minuten) is de eerste 13,5% omgezet"
+     },
+     {
+      "points": 1,
+      "description": "De tweede 13,5% duurt dan (60 − 31,0… =) 28,9… (minuten), dus het verschil is 2 (minuten)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-bierbrouwen-antw13.png"
+    ]
+   },
+   {
+    "title": "Bierbrouwen",
+    "question_number": 14,
+    "answer_text": "• P = 4,5 · 1,043²⁵ (= 12,8…)\n• Dit geeft 30 = (4 · 12,8… · 100)/(5 · V)\n• V = (4 · 12,8… · 100)/(5 · 30)\n• Dit geeft V = 34 (liter)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "P = 4,5 · 1,043²⁵ (= 12,8…)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft 30 = (4 · 12,8… · 100)/(5 · V)"
+     },
+     {
+      "points": 1,
+      "description": "V = (4 · 12,8… · 100)/(5 · 30)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft V = 34 (liter)"
+     }
+    ],
+    "grading_note": "Als de kandidaat zowel bij vraag 14 als bij vraag 13 geen rekening heeft gehouden met het gegeven dat t = 0 het moment betreft dat het bier 5 minuten heeft gekookt, hiervoor bij vraag 14 geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-bierbrouwen-antw14.png"
+    ]
+   },
+   {
+    "title": "Exponentiële functies",
+    "question_number": 15,
+    "answer_text": "• 2ˣ⁺³ = 2³⁺²√ˣ geeft x = 2√x 1 (⚠️ CONTROLEREN: losse \"1\" achter de formule staat zo in het correctievoorschrift)\n• Dus x² = 4x 1 (⚠️ CONTROLEREN: losse \"1\" achter de formule staat zo in het correctievoorschrift)\n• (Dit geeft x = 0 of x = 4 dus) de x-coördinaat van B is 4\nof\n• 2ˣ⁺³ = 2³⁺²√ˣ geeft x = 2√x\n• (Uit √x · √x = 2√x volgt √x = 0 of) √x = 2\n• (Dit geeft x = 0 of x = 4 dus) de x-coördinaat van B is 4",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "2ˣ⁺³ = 2³⁺²√ˣ geeft x = 2√x 1 (⚠️ CONTROLEREN: losse \"1\" achter de formule staat zo in het correctievoorschrift)"
+     },
+     {
+      "points": 1,
+      "description": "Dus x² = 4x 1 (⚠️ CONTROLEREN: losse \"1\" achter de formule staat zo in het correctievoorschrift)"
+     },
+     {
+      "points": 1,
+      "description": "(Dit geeft x = 0 of x = 4 dus) de x-coördinaat van B is 4"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-exponentiele-functies-antw15.png"
+    ]
+   },
+   {
+    "title": "Exponentiële functies",
+    "question_number": 16,
+    "answer_text": "• h(x) = −1/5 · 2ˣ⁺³\n• y_A = 8\n• k(x) = −1/5 · 2ˣ⁺³ + 8 (of een gelijkwaardige uitdrukking)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "h(x) = −1/5 · 2ˣ⁺³"
+     },
+     {
+      "points": 1,
+      "description": "y_A = 8"
+     },
+     {
+      "points": 1,
+      "description": "k(x) = −1/5 · 2ˣ⁺³ + 8 (of een gelijkwaardige uitdrukking)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-exponentiele-functies-antw16.png"
+    ]
+   },
+   {
+    "title": "Exponentiële functies",
+    "question_number": 17,
+    "answer_text": "• −3 + ²log(40) = ²log(2⁻³) + ²log(40)\n• ²log(2⁻³) + ²log(40) = ²log(2⁻³ · 40) = ²log(5) (dus p = 5)\nof\n• −3 + ²log(40) = −3 + ²log(8 · 5) = −3 + ²log(8) + ²log(5)\n• −3 + ²log(8) + ²log(5) = −3 + 3 + ²log(5) = ²log(5) (dus p = 5)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "−3 + ²log(40) = ²log(2⁻³) + ²log(40)"
+     },
+     {
+      "points": 1,
+      "description": "²log(2⁻³) + ²log(40) = ²log(2⁻³ · 40) = ²log(5) (dus p = 5)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-exponentiele-functies-antw17.png"
+    ]
+   },
+   {
+    "title": "Vierdegraadsfunctie",
+    "question_number": 18,
+    "answer_text": "• f′(x) = 4x³ − 6x\n• Uit f′(x) = 0 volgt x(4x² − 6) = 0\n• Dit geeft x² = 3/2 (of x = 0) (dus x = −√(3/2) of x = √(3/2))\n• Het minimum van f is (3/2)² − 3 · 3/2 + 2 = −¼ (of bijvoorbeeld f(√(3/2)) = −¼)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f′(x) = 4x³ − 6x"
+     },
+     {
+      "points": 1,
+      "description": "Uit f′(x) = 0 volgt x(4x² − 6) = 0"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x² = 3/2 (of x = 0) (dus x = −√(3/2) of x = √(3/2))"
+     },
+     {
+      "points": 1,
+      "description": "Het minimum van f is (3/2)² − 3 · 3/2 + 2 = −¼ (of bijvoorbeeld f(√(3/2)) = −¼)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-vierdegraadsfunctie-antw18.png"
+    ]
+   },
+   {
+    "title": "Vierdegraadsfunctie",
+    "question_number": 19,
+    "answer_text": "• (Uit f(x) = 0 volgt) x² = 2 of x² = 1\n• De x-coördinaat van A is x = −√2 (of −1,414…) en de x-coördinaat van C is x = 1\n• De y-coördinaat van T is f(0) = 2\n• (In driehoek OTA is OA = √2 en OT = 2, dus) tan(∠OTA) = √2/2 (of 0,707…) en (in driehoek OCT is OC = 1 en OT = 2, dus) tan(∠OTC) = ½\n• Dit geeft ∠OTA = 35,26…(°) en ∠OTC = 26,56…(°)\n• De gevraagde hoek is (35,26… + 26,56… =) 61,8(°)\nof\n• (Uit f(x) = 0 volgt) x² = 2 of x² = 1\n• De x-coördinaat van A is x = −√2 (of −1,414…) en de x-coördinaat van C is x = 1\n• De y-coördinaat van T is f(0) = 2\n• De richtingscoëfficiënt van de lijn door A en T is 2/√2 = √2 (of 1,414…) en de richtingscoëfficiënt van de lijn door C en T is −2/1 = −2\n• (tan(α) = √2 dus) de hoek die de lijn door A en T met de x-as maakt is 54,73…(°) en (tan(β) = −2 dus) de hoek die de lijn door C en T met de x-as maakt is (−)63,43…(°)\n• De gevraagde hoek is (180 − 54,73… − 63,43… =) 61,8(°)\nof\n• (Uit f(x) = 0 volgt) x² = 2 of x² = 1\n• De x-coördinaat van A is x = −√2 (of −1,414…) en de x-coördinaat van C is x = 1\n• De y-coördinaat van T is f(0) = 2\n• AC (= 1 − −√2) = 1 + √2 (of 2,414…), AT (= √(2² + (√2)²)) = √6 (of 2,449…) en CT (= √(2² + 1²)) = √5 (of 2,236…)\n• (Het gebruik van de cosinusregel geeft) (1 + √2)² = 5 + 6 − 2√5 · √6 · cos(∠ATC) (of 2,414…² = 5 + 6 − 2 · 2,236… · 2,449… · cos(∠ATC))\n• Dit geeft cos(∠ATC) = ((1 + √2)² − 11)/(−2√5 · √6) (of cos(∠ATC) = (2,414…² − 11)/(−2 · 2,236… · 2,449…) = 0,472…), dus de gevraagde hoek is 61,8(°)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Uit f(x) = 0 volgt) x² = 2 of x² = 1"
+     },
+     {
+      "points": 1,
+      "description": "De x-coördinaat van A is x = −√2 (of −1,414…) en de x-coördinaat van C is x = 1"
+     },
+     {
+      "points": 1,
+      "description": "De y-coördinaat van T is f(0) = 2"
+     },
+     {
+      "points": 1,
+      "description": "(In driehoek OTA is OA = √2 en OT = 2, dus) tan(∠OTA) = √2/2 (of 0,707…) en (in driehoek OCT is OC = 1 en OT = 2, dus) tan(∠OTC) = ½"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft ∠OTA = 35,26…(°) en ∠OTC = 26,56…(°)"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde hoek is (35,26… + 26,56… =) 61,8(°)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2024-i-vierdegraadsfunctie-antw19.png"
+    ]
+   }
+  ]
+ }
+}
