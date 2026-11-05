@@ -1,0 +1,526 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde B 2023-II",
+  "answers": [
+   {
+    "title": "Zwangerschap",
+    "question_number": 1,
+    "answer_text": "• d(55) = 8,052 · √(1,037 · 55) + 23,73 = 84,53…\n• (84,53…/7, dus) de vrouw is naar schatting 12 weken zwanger",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "d(55) = 8,052 · √(1,037 · 55) + 23,73 = 84,53…"
+     },
+     {
+      "points": 1,
+      "description": "(84,53…/7, dus) de vrouw is naar schatting 12 weken zwanger"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-zwangerschap-antw1.png"
+    ]
+   },
+   {
+    "title": "Zwangerschap",
+    "question_number": 2,
+    "answer_text": "• d = 8,052 · √(1,037a) + 23,73 geeft (d − 23,73)/8,052 = √(1,037a)\n• Hieruit volgt a = 1/1,037 · ((d − 23,73)/8,052)²\n• Dus p = (1/1,037 =) 0,964, q = (1/8,052 =) 0,124 en r = (23,73/8,052 =) 2,947",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "d = 8,052 · √(1,037a) + 23,73 geeft (d − 23,73)/8,052 = √(1,037a)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt a = 1/1,037 · ((d − 23,73)/8,052)²"
+     },
+     {
+      "points": 1,
+      "description": "Dus p = (1/1,037 =) 0,964, q = (1/8,052 =) 0,124 en r = (23,73/8,052 =) 2,947"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-zwangerschap-antw2.png"
+    ]
+   },
+   {
+    "title": "Zwangerschap",
+    "question_number": 3,
+    "answer_text": "• a′ = 0,96 · 2 · (0,12d − 2,95) · 0,12 (= 0,03d − 0,68)\n• De grafiek van a′ is (op het gegeven domein) een stijgende lijn boven de x-as en daarom is de afstand toenemend stijgend",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "a′ = 0,96 · 2 · (0,12d − 2,95) · 0,12 (= 0,03d − 0,68)"
+     },
+     {
+      "points": 1,
+      "description": "De grafiek van a′ is (op het gegeven domein) een stijgende lijn boven de x-as en daarom is de afstand toenemend stijgend"
+     }
+    ],
+    "grading_note": "- Als in het eerste antwoordelement de kettingregel is gebruikt, maar niet correct, mag voor dit antwoordelement hoogstens 1 scorepunt worden toegekend op basis van vakspecifieke regel 1.\n- Als gerekend is met nauwkeuriger waarden van p, q en r, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-zwangerschap-antw3.png"
+    ]
+   },
+   {
+    "title": "Zwangerschap",
+    "question_number": 4,
+    "answer_text": "• 14 = 3,12958 · 1,00244ʰ · h⁰,²⁷⁹⁴\n• Beschrijven hoe deze vergelijking met de GR kan worden opgelost\n• (Bij 14 weken zwangerschap hoort h = 93,9…, dus) de hoofdomtrek is 94 (mm)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "14 = 3,12958 · 1,00244ʰ · h⁰,²⁷⁹⁴"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking met de GR kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "(Bij 14 weken zwangerschap hoort h = 93,9…, dus) de hoofdomtrek is 94 (mm)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-zwangerschap-antw4.png"
+    ]
+   },
+   {
+    "title": "Cirkel tussen lijnen",
+    "question_number": 5,
+    "answer_text": "• Een cirkelvergelijking van c is (x − √5)² + y² = 1\n• y = ½x hierin invullen geeft (x − √5)² + (½x)² = 1\n• Herschrijven tot 5/4 x² − 2√5 · x + 4 = 0 (of een vergelijkbare vorm)\n• De discriminant van deze vergelijking is D = (−2√5)² − 4 · 5/4 · 4\n• D = 0 (dus de vergelijking heeft één oplossing, dus l raakt c)\nof\n• De lijn door M loodrecht op l heeft vergelijking y = −2x + b\n• M hierin invullen geeft 0 = −2 · √5 + b, dus b = 2√5 (dus y = −2x + 2√5)\n• Voor de x-coördinaat van het snijpunt van l en de loodlijn op l door M geldt ½x = −2x + 2√5 en dit geeft x = 4/5 √5\n• Dus het snijpunt is (4/5 √5, 2/5 √5)\n• (4/5 √5 − √5)² + (2/5 √5)² = 1 (dus het snijpunt ligt op c, dus l raakt c)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een cirkelvergelijking van c is (x − √5)² + y² = 1"
+     },
+     {
+      "points": 1,
+      "description": "y = ½x hierin invullen geeft (x − √5)² + (½x)² = 1"
+     },
+     {
+      "points": 1,
+      "description": "Herschrijven tot 5/4 x² − 2√5 · x + 4 = 0 (of een vergelijkbare vorm)"
+     },
+     {
+      "points": 1,
+      "description": "De discriminant van deze vergelijking is D = (−2√5)² − 4 · 5/4 · 4"
+     },
+     {
+      "points": 1,
+      "description": "D = 0 (dus de vergelijking heeft één oplossing, dus l raakt c)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-cirkel-tussen-lijnen-antw5.png"
+    ]
+   },
+   {
+    "title": "Cirkel tussen lijnen",
+    "question_number": 6,
+    "answer_text": "• De oppervlakte van cirkel c is (π · 1² =) π\n• Een vergelijking van lijn n is x = √5 + 1 (= 3,23…)\n• y_B = (½ · 3,23… =) 1,61…\n• De oppervlakte van driehoek OAB is 2 · ½ · 3,23… · 1,61… = 5,23…\n• 2 · π (= 6,28…) > 5,23… (dus de oppervlakte van driehoek OAB is niet meer dan twee keer zo groot als de oppervlakte van cirkel c)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De oppervlakte van cirkel c is (π · 1² =) π"
+     },
+     {
+      "points": 1,
+      "description": "Een vergelijking van lijn n is x = √5 + 1 (= 3,23…)"
+     },
+     {
+      "points": 1,
+      "description": "y_B = (½ · 3,23… =) 1,61…"
+     },
+     {
+      "points": 1,
+      "description": "De oppervlakte van driehoek OAB is 2 · ½ · 3,23… · 1,61… = 5,23…"
+     },
+     {
+      "points": 1,
+      "description": "2 · π (= 6,28…) > 5,23… (dus de oppervlakte van driehoek OAB is niet meer dan twee keer zo groot als de oppervlakte van cirkel c)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-cirkel-tussen-lijnen-antw6.png"
+    ]
+   },
+   {
+    "title": "Raaklijn en driehoeken",
+    "question_number": 7,
+    "answer_text": "• De helling van de raaklijn is −3\n• f′(x) = −2x\n• Voor de x-coördinaat van P geldt −2x = −3, dus x = 3/2\nof\n• Een vergelijking van de raaklijn is y = −3x + b\n• (In punt P geldt −3x + b = 16 − x², dus) x² − 3x + b − 16 = 0\n• Voor de x-coördinaat van P geldt D = 0, dus x = 3/2",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De helling van de raaklijn is −3"
+     },
+     {
+      "points": 1,
+      "description": "f′(x) = −2x"
+     },
+     {
+      "points": 1,
+      "description": "Voor de x-coördinaat van P geldt −2x = −3, dus x = 3/2"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-raaklijn-en-driehoeken-antw7.png"
+    ]
+   },
+   {
+    "title": "Raaklijn en driehoeken",
+    "question_number": 8,
+    "answer_text": "• De grafiek van f snijdt de x-as in punt C bij x = 4\n• Voor de oppervlakte van de driehoek geldt ½ · 4 · (16 − q²) (= 2(16 − q²))",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De grafiek van f snijdt de x-as in punt C bij x = 4"
+     },
+     {
+      "points": 1,
+      "description": "Voor de oppervlakte van de driehoek geldt ½ · 4 · (16 − q²) (= 2(16 − q²))"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-raaklijn-en-driehoeken-antw8.png"
+    ]
+   },
+   {
+    "title": "Raaklijn en driehoeken",
+    "question_number": 9,
+    "answer_text": "• De driehoeken hebben gelijke oppervlaktes, dus 2(16 − q²) = 8q\n• Herleiden op 0 geeft (bijvoorbeeld) q² + 4q − 16 = 0\n• Dit geeft q = ((−4 + √(4² − 4 · 1 · −16))/2 =) (−4 + √80)/2 (q = (−4 − √80)/2 voldoet niet)\n• De gevraagde oppervlakte is −16 + 4√80",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De driehoeken hebben gelijke oppervlaktes, dus 2(16 − q²) = 8q"
+     },
+     {
+      "points": 1,
+      "description": "Herleiden op 0 geeft (bijvoorbeeld) q² + 4q − 16 = 0"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft q = ((−4 + √(4² − 4 · 1 · −16))/2 =) (−4 + √80)/2 (q = (−4 − √80)/2 voldoet niet)"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde oppervlakte is −16 + 4√80"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-raaklijn-en-driehoeken-antw9.png"
+    ]
+   },
+   {
+    "title": "Een translatie en snijpunten met de x-as",
+    "question_number": 10,
+    "answer_text": "• f′(x) = 3x² + 12x − 36\n• f′(x) = 0 geeft (x + 6)(x − 2) = 0 (of gebruik abc-formule)\n• Dit geeft (respectievelijk voor de x-coördinaten van P en Q) x = −6 en x = 2\n• (De y-coördinaten van P en Q zijn respectievelijk) y = (f(−6) =) 128 en y = (f(2) =) −128\n• Het punt midden tussen P en Q is het punt ((−6 + 2)/2, (128 + −128)/2) = (−2, 0) (dat is punt M, dus punt M ligt midden tussen P en Q)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f′(x) = 3x² + 12x − 36"
+     },
+     {
+      "points": 1,
+      "description": "f′(x) = 0 geeft (x + 6)(x − 2) = 0 (of gebruik abc-formule)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft (respectievelijk voor de x-coördinaten van P en Q) x = −6 en x = 2"
+     },
+     {
+      "points": 1,
+      "description": "(De y-coördinaten van P en Q zijn respectievelijk) y = (f(−6) =) 128 en y = (f(2) =) −128"
+     },
+     {
+      "points": 1,
+      "description": "Het punt midden tussen P en Q is het punt ((−6 + 2)/2, (128 + −128)/2) = (−2, 0) (dat is punt M, dus punt M ligt midden tussen P en Q)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-een-translatie-en-snijpunten-met-de-x-as-antw10.png"
+    ]
+   },
+   {
+    "title": "Een translatie en snijpunten met de x-as",
+    "question_number": 11,
+    "answer_text": "• g(x) = f(x − 2)\n• g(x) = (x − 2)³ + 6(x − 2)² − 36(x − 2) − 88\n• g(x) = (x − 2)(x² − 4x + 4) + 6(x² − 4x + 4) − 36(x − 2) − 88\n• De verdere herleiding tot g(x) = x³ − 48x\nof\n• f(x) = g(x + 2)\n• f(x) = (x + 2)³ − 48(x + 2)\n• f(x) = (x + 2)(x² + 4x + 4) − 48(x + 2)\n• De verdere herleiding tot f(x) = x³ + 6x² − 36x − 88",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "g(x) = f(x − 2)"
+     },
+     {
+      "points": 1,
+      "description": "g(x) = (x − 2)³ + 6(x − 2)² − 36(x − 2) − 88"
+     },
+     {
+      "points": 1,
+      "description": "g(x) = (x − 2)(x² − 4x + 4) + 6(x² − 4x + 4) − 36(x − 2) − 88"
+     },
+     {
+      "points": 1,
+      "description": "De verdere herleiding tot g(x) = x³ − 48x"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-een-translatie-en-snijpunten-met-de-x-as-antw11.png"
+    ]
+   },
+   {
+    "title": "Een translatie en snijpunten met de x-as",
+    "question_number": 12,
+    "answer_text": "• x³ − 48x = 0\n• Hieruit volgt (x = 0 of) x² − 48 = 0\n• x² − 48 = 0 geeft x = √48 en x = −√48\n• (De x-coördinaten van A en B zijn) x = −2 − √48 en x = −2 + √48",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "x³ − 48x = 0"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt (x = 0 of) x² − 48 = 0"
+     },
+     {
+      "points": 1,
+      "description": "x² − 48 = 0 geeft x = √48 en x = −√48"
+     },
+     {
+      "points": 1,
+      "description": "(De x-coördinaten van A en B zijn) x = −2 − √48 en x = −2 + √48"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-een-translatie-en-snijpunten-met-de-x-as-antw12.png"
+    ]
+   },
+   {
+    "title": "Shovel",
+    "question_number": 13,
+    "answer_text": "• AE = √(0,30² + 0,25²) = 0,39… (of AE = 0,25/sin(39,8°) = 0,39… of AE = 0,30/cos(39,8°) = 0,39…)\n• BE = √(1,80² + 0,25²) = 1,81…\n• De cosinusregel in driehoek ABE in de eindsituatie geeft 1,60² = 0,39…² + 1,81…² − 2 · 0,39… · 1,81… · cos(∠AEB)\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Hieruit volgt ∠AEB = 50,9… (°)\n• tan(∠BED) = 0,25/1,8, dus ∠BED = 7,9… (°)\n• (50,9… + 7,9… − 39,8 = 19,0…, dus) de bak is 19 (°) gekanteld\nof\n• Neem PE = x, met P de loodrechte projectie van A op de horizontale lijn door D, dan geldt in de rechthoekige driehoek AEP x² + AP² = 0,30² + 0,25² (= 0,1525)\n• In de rechthoekige driehoek AQB, met Q de loodrechte projectie van A op de horizontale lijn door B, zijn de lengten van de rechthoekszijden 1,80 − x en AP − 0,25 = √(0,1525 − x²) − 0,25\n• Er moet gelden (√(0,1525 − x²) − 0,25)² + (1,80 − x)² = 1,60²\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Dit geeft x = 0,20…\n• cos(∠AEP) = 0,20…/√0,1525, dus ∠AEP = 58,8… (°)\n• (58,8… − 39,8 = 19,0…, dus) de bak is 19 (°) gekanteld",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "AE = √(0,30² + 0,25²) = 0,39… (of AE = 0,25/sin(39,8°) = 0,39… of AE = 0,30/cos(39,8°) = 0,39…)"
+     },
+     {
+      "points": 1,
+      "description": "BE = √(1,80² + 0,25²) = 1,81…"
+     },
+     {
+      "points": 1,
+      "description": "De cosinusregel in driehoek ABE in de eindsituatie geeft 1,60² = 0,39…² + 1,81…² − 2 · 0,39… · 1,81… · cos(∠AEB)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt ∠AEB = 50,9… (°)"
+     },
+     {
+      "points": 1,
+      "description": "tan(∠BED) = 0,25/1,8, dus ∠BED = 7,9… (°)"
+     },
+     {
+      "points": 1,
+      "description": "(50,9… + 7,9… − 39,8 = 19,0…, dus) de bak is 19 (°) gekanteld"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-shovel-antw13.png"
+    ]
+   },
+   {
+    "title": "Sinusoïde en parabool",
+    "question_number": 14,
+    "answer_text": "• f(⅓) = 4½\n• Uit 3 + 3sin(½πx) = 4½ volgt sin(½πx) = ½\n• Hieruit volgt (½πx = ⅙π (+ k · 2π) of) ½πx = 5/6 π (+ k · 2π)\n• Dit geeft (x_A = ⅓ en) x_B = 1⅔\n• x_T = ((⅓ + 1⅔)/2 =) 1 en y_T = 6\n• Het in de vergelijking y = −3⅜x² + 6¾x + 2⅝ invullen van x = 1 geeft y = 6\n• Het in de vergelijking y = −3⅜x² + 6¾x + 2⅝ invullen van x = ⅓ (of x = 1⅔) geeft y = 4½\nof\n• f(⅓) = 4½\n• Uit 3 + 3sin(½πx) = 4½ volgt sin(½πx) = ½\n• Hieruit volgt (½πx = ⅙π (+ k · 2π) of) ½πx = 5/6 π (+ k · 2π)\n• Dit geeft (x_A = ⅓ en) x_B = 1⅔\n• x_T = ((⅓ + 1⅔)/2 =) 1 en y_T = 6\n• Een vergelijking van de parabool is y = a(x − 1)² + 6. De parabool gaat door A, dus er geldt 4½ = a(⅓ − 1)² + 6 en dus a = (−1½/(⅓ − 1)² =) −3⅜ (of een vergelijkbare berekening waarbij de parabool door (1⅔, 4½) gaat)\n• Dus y = −3⅜(x − 1)² + 6 = −3⅜(x² − 2x + 1) + 6 = −3⅜x² + 6¾x + 2⅝\nof\n• f(⅓) = 4½\n• De periode van de grafiek van f is 2π/(½π) = 4\n• De top ligt op een kwart van de periode\n• (Er is geen horizontale verschuiving ten opzichte van de grafiek van y = sin(x), dus) x_T = (¼ · 4 =)\n• Voor de y-coördinaat van de top geldt (vanwege evenwichtsstand 3 en amplitude 3) y_T = 6\n• Het in de vergelijking y = −3⅜x² + 6¾x + 2⅝ invullen van x = 1 geeft y = 6\n• Het in de vergelijking y = −3⅜x² + 6¾x + 2⅝ invullen van x = ⅓ geeft y = 4½\nof\n• f(⅓) = 4½\n• De periode van de grafiek van f is 2π/(½π) = 4\n• De top ligt op een kwart van de periode\n• (Er is geen horizontale verschuiving ten opzichte van de grafiek van y = sin(x), dus) x_T = (¼ · 4 =)\n• Voor de y-coördinaat van de top geldt (vanwege evenwichtsstand 3 en amplitude 3) y_T = 6\n• Een vergelijking van de parabool is y = a(x − 1)² + 6. De parabool gaat door A, dus er geldt 4½ = a(⅓ − 1)² + 6 en dus a = (−1½/(⅓ − 1)² =) −3⅜\n• Dus y = −3⅜(x − 1)² + 6 = −3⅜(x² − 2x + 1) + 6 = −3⅜x² + 6¾x + 2⅝\nof\n• f(⅓) = 4½\n• Voor de y-coördinaat van de top geldt (vanwege evenwichtsstand 3 en amplitude 3) y_T = 6\n• Uit 3 + 3sin(½πx) = 6 volgt sin(½πx) = 1\n• Hieruit volgt ½πx = ½π (+ k · 2π)\n• Hieruit volgt x = 1 (dus x_T = 1 en y_T = 6)\n• Het in de vergelijking y = −3⅜x² + 6¾x + 2⅝ invullen van x = 1 geeft y = 6\n• Het in de vergelijking y = −3⅜x² + 6¾x + 2⅝ invullen van x = ⅓ geeft y = 4½\nof\n• f(⅓) = 4½\n• Voor de y-coördinaat van de top geldt (vanwege evenwichtsstand 3 en amplitude 3) y_T = 6\n• Uit 3 + 3sin(½πx) = 6 volgt sin(½πx) = 1\n• Hieruit volgt ½πx = ½π (+ k · 2π)\n• Hieruit volgt x = 1 (dus x_T = 1 en y_T = 6)\n• Een vergelijking van de parabool is y = a(x − 1)² + 6. De parabool gaat door A, dus er geldt 4½ = a(⅓ − 1)² + 6 en dus a = (−1½/(⅓ − 1)² =) −3⅜\n• Dus y = −3⅜(x − 1)² + 6 = −3⅜(x² − 2x + 1) + 6 = −3⅜x² + 6¾x + 2⅝\n⚠️ CONTROLEREN: in het correctievoorschrift staat in het eerste antwoordelement van de eerste methode achter 'f(⅓) = 4½' een losse '1'; in de tweede, derde en volgende methoden ontbreekt in 'x_T = (¼ · 4 =)' de uitkomst — letterlijk overgenomen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f(⅓) = 4½"
+     },
+     {
+      "points": 1,
+      "description": "Uit 3 + 3sin(½πx) = 4½ volgt sin(½πx) = ½"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt (½πx = ⅙π (+ k · 2π) of) ½πx = 5/6 π (+ k · 2π)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft (x_A = ⅓ en) x_B = 1⅔"
+     },
+     {
+      "points": 1,
+      "description": "x_T = ((⅓ + 1⅔)/2 =) 1 en y_T = 6"
+     },
+     {
+      "points": 1,
+      "description": "Het in de vergelijking y = −3⅜x² + 6¾x + 2⅝ invullen van x = 1 geeft y = 6"
+     },
+     {
+      "points": 1,
+      "description": "Het in de vergelijking y = −3⅜x² + 6¾x + 2⅝ invullen van x = ⅓ (of x = 1⅔) geeft y = 4½"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-sinusoide-en-parabool-antw14.png"
+    ]
+   },
+   {
+    "title": "Sinusoïde en parabool",
+    "question_number": 15,
+    "answer_text": "• De helling van lijnstuk AS is 4½\n• De afgeleide van de formule van de parabool is dy/dx = −6¾x + 6¾\n• De helling van de parabool in het punt A is −6¾ · ⅓ + 6¾ = 4½\n• (De hellingen zijn gelijk, dus) er is geen knik",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De helling van lijnstuk AS is 4½"
+     },
+     {
+      "points": 1,
+      "description": "De afgeleide van de formule van de parabool is dy/dx = −6¾x + 6¾"
+     },
+     {
+      "points": 1,
+      "description": "De helling van de parabool in het punt A is −6¾ · ⅓ + 6¾ = 4½"
+     },
+     {
+      "points": 1,
+      "description": "(De hellingen zijn gelijk, dus) er is geen knik"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-sinusoide-en-parabool-antw15.png"
+    ]
+   },
+   {
+    "title": "Afstand tussen lijnen en punt",
+    "question_number": 16,
+    "answer_text": "• De lijn door O loodrecht op l heeft vergelijking y = −2x\n• Voor de x-coördinaat van het snijpunt van deze lijn met lijn k geldt −2x = ½x + 1\n• Dit geeft x = −2/5\n• De bijbehorende y-coördinat is y = 4/5\n• De afstand tussen k en l is √((−2/5)² + (4/5)²) = 2/5 √5 (of 0,894…)\n• De gevraagde afstand is (3 + 0,894… =) 3,89\nof\n• Gebruik van de rechthoekige driehoek ABC met A en B op l en C op k zodanig dat BC ⊥ AB en AC = 1\n• Voor de hellingshoek α van lijn l geldt tan(α) = ½ (dus α = 26,565… (°))\n• Dus ∠BAC = 90 − α = 63,434… (°)\n• Er geldt sin(63,434…°) = BC/1\n• Hieruit volgt BC = 0,894…\n• De gevraagde afstand is (3 + 0,894… =) 3,89",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De lijn door O loodrecht op l heeft vergelijking y = −2x"
+     },
+     {
+      "points": 1,
+      "description": "Voor de x-coördinaat van het snijpunt van deze lijn met lijn k geldt −2x = ½x + 1"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x = −2/5"
+     },
+     {
+      "points": 1,
+      "description": "De bijbehorende y-coördinat is y = 4/5"
+     },
+     {
+      "points": 1,
+      "description": "De afstand tussen k en l is √((−2/5)² + (4/5)²) = 2/5 √5 (of 0,894…)"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde afstand is (3 + 0,894… =) 3,89"
+     }
+    ],
+    "grading_note": "Als een kandidaat d(k, l) niet of onjuist heeft berekend, maar wel het inzicht toont dat d(P, k) gelijk is aan d(k, l) + 3, mag het laatste scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-afstand-tussen-lijnen-en-punt-antw16.png"
+    ]
+   },
+   {
+    "title": "Dalen, stijgen en stijgen",
+    "question_number": 17,
+    "answer_text": "• Er geldt (5sin(2π(x + ¼)) = −5, dus) sin(2π(x + ¼)) = −1\n• Dit geeft 2π(x + ¼) = 1½π + k · 2π\n• Dus x = ½ + k · 1\n• De x-coördinaat van B is 13½ (of de x-coördinaat van B zal dus altijd op ,5 eindigen)\n• Conclusie: de x-coördinaten van A en B zijn verschillend\nof\n• De periode van h is (2π/2π =) 1\n• Bij x = −¼ gaat de grafiek van h door de evenwichtsstand\n• Het uitrekenen van een x-coördinaat horende bij een minimum van h (bijvoorbeeld bij het eerste minimum −¼ + ¾ · 1 = ½)\n• De x-coördinaat van B is 13½ (of de x-coördinaat van B zal dus altijd op ,5 eindigen)\n• Conclusie: de x-coördinaten van A en B zijn verschillend",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt (5sin(2π(x + ¼)) = −5, dus) sin(2π(x + ¼)) = −1"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft 2π(x + ¼) = 1½π + k · 2π"
+     },
+     {
+      "points": 1,
+      "description": "Dus x = ½ + k · 1"
+     },
+     {
+      "points": 1,
+      "description": "De x-coördinaat van B is 13½ (of de x-coördinaat van B zal dus altijd op ,5 eindigen)"
+     },
+     {
+      "points": 1,
+      "description": "Conclusie: de x-coördinaten van A en B zijn verschillend"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-dalen-stijgen-en-stijgen-antw17.png"
+    ]
+   },
+   {
+    "title": "Dalen, stijgen en stijgen",
+    "question_number": 18,
+    "answer_text": "• De vergelijking f(x) = f(0) (of f(x) = 8) moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• De gevraagde x-coördinaat is 12,57",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking f(x) = f(0) (of f(x) = 8) moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde x-coördinaat is 12,57"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-dalen-stijgen-en-stijgen-antw18.png"
+    ]
+   },
+   {
+    "title": "Dalen, stijgen en stijgen",
+    "question_number": 19,
+    "answer_text": "• Een toelichting hoe met de GR de grafiek van de afgeleide van f kan worden geplot\n• Beschrijven hoe met de GR de x-coördinaat van P kan worden gevonden\n• De x-coördinaat van P is 39,2",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een toelichting hoe met de GR de grafiek van de afgeleide van f kan worden geplot"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe met de GR de x-coördinaat van P kan worden gevonden"
+     },
+     {
+      "points": 1,
+      "description": "De x-coördinaat van P is 39,2"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2023-ii-dalen-stijgen-en-stijgen-antw19.png"
+    ]
+   }
+  ]
+ }
+}
