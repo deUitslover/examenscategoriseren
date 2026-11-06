@@ -1,0 +1,495 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde B 2025-I",
+  "answers": [
+   {
+    "title": "Een parabool",
+    "question_number": 1,
+    "answer_text": "• 2x² + 3x − 4 = 2x − 1 geeft 2x² + x − 3 = 0\n• Beschrijven hoe deze vergelijking exact kan worden opgelost\n• Hieruit volgt (voor de x-coördinaten van de snijpunten) x = −1½ en x = 1\n• De bijbehorende y-coördinaten zijn y = −4 en y = 1 (dus A(−1½, −4) en B(1, 1))",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "2x² + 3x − 4 = 2x − 1 geeft 2x² + x − 3 = 0"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking exact kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt (voor de x-coördinaten van de snijpunten) x = −1½ en x = 1"
+     },
+     {
+      "points": 1,
+      "description": "De bijbehorende y-coördinaten zijn y = −4 en y = 1 (dus A(−1½, −4) en B(1, 1))"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-een-parabool-antw1.png"
+    ]
+   },
+   {
+    "title": "Een parabool",
+    "question_number": 2,
+    "answer_text": "• f′(x) = 4x + 3\n• (De richtingscoëfficiënt van l is 2, dus de richtingscoëfficiënt van k is −½, dus) voor x_P geldt f′(x) = −½ (dus de vergelijking 4x + 3 = −½ moet worden opgelost)\n• Dit geeft x_P = −7/8",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f′(x) = 4x + 3"
+     },
+     {
+      "points": 1,
+      "description": "(De richtingscoëfficiënt van l is 2, dus de richtingscoëfficiënt van k is −½, dus) voor x_P geldt f′(x) = −½ (dus de vergelijking 4x + 3 = −½ moet worden opgelost)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x_P = −7/8"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-een-parabool-antw2.png"
+    ]
+   },
+   {
+    "title": "Een parabool",
+    "question_number": 3,
+    "answer_text": "• Vermenigvuldigen ten opzichte van de x-as met −1 geeft de grafiek van y = −(2x² + 3x − 4) (of een gelijkwaardige vorm)\n• Daarna vermenigvuldigen ten opzichte van de y-as met −1 geeft de grafiek van g(x) = −(2 · (−x)² + 3 · −x − 4) (of een gelijkwaardige vorm)\n• g(−¼) = 3⅛, dus het punt (−¼, 3) ligt niet op de grafiek van g\nof\n• (Terug)vermenigvuldigen van het punt (−¼, 3) ten opzichte van de y-as met −1 geeft een punt met x-coördinaat ¼\n• (Terug)vermenigvuldigen van het punt (−¼, 3) (of (¼, 3)) ten opzichte van de x-as met −1 geeft een punt met y-coördinaat −3\n• f(¼) = −3⅛, dus het punt (−¼, 3) ligt niet op de grafiek van g",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Vermenigvuldigen ten opzichte van de x-as met −1 geeft de grafiek van y = −(2x² + 3x − 4) (of een gelijkwaardige vorm)"
+     },
+     {
+      "points": 1,
+      "description": "Daarna vermenigvuldigen ten opzichte van de y-as met −1 geeft de grafiek van g(x) = −(2 · (−x)² + 3 · −x − 4) (of een gelijkwaardige vorm)"
+     },
+     {
+      "points": 1,
+      "description": "g(−¼) = 3⅛, dus het punt (−¼, 3) ligt niet op de grafiek van g"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-een-parabool-antw3.png"
+    ]
+   },
+   {
+    "title": "Een parabool",
+    "question_number": 4,
+    "answer_text": "• Een exacte berekening waaruit volgt dat x_T = −¾\n• y_T = f(−¾) = −5⅛\n• (Op basis van symmetrie geldt) x_D = −¾ + (2½)/2 = ½ (of x_C = −¾ − (2½)/2 = −2)\n• Dus y_D = f(½) = −2 (of y_C = f(−2) = −2)\n• De gevraagde afstand is dus (−2 − −5⅛ =) 3⅛\nof\n• Voor x_C geldt 2x² + 3x − 4 = 2(x + 2½)² + 3(x + 2½) − 4; het rechterlid herleiden tot 2x² + 13x + 16; het oplossen van de vergelijking 2x² + 3x − 4 = 2x² + 13x + 16 geeft x_C = −2\n• Dus y_C = f(−2) = −2\n• x_T = −2 + ½ · 2½ = −¾\n• y_T = f(−¾) = −5⅛\n• De gevraagde afstand is dus (−2 − −5⅛ =) 3⅛",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een exacte berekening waaruit volgt dat x_T = −¾"
+     },
+     {
+      "points": 1,
+      "description": "y_T = f(−¾) = −5⅛"
+     },
+     {
+      "points": 1,
+      "description": "(Op basis van symmetrie geldt) x_D = −¾ + (2½)/2 = ½ (of x_C = −¾ − (2½)/2 = −2)"
+     },
+     {
+      "points": 1,
+      "description": "Dus y_D = f(½) = −2 (of y_C = f(−2) = −2)"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde afstand is dus (−2 − −5⅛ =) 3⅛"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-een-parabool-antw4.png"
+    ]
+   },
+   {
+    "title": "Watertemperatuur",
+    "question_number": 5,
+    "answer_text": "• d = ((26 + 14)/2 =) 20\n• a = (26 − 20 =) 6\n• ((226 + 43)/2 =) 134,5 dus c = 135 (of: 43 + 0,25 · 365 = 134,25, dus c = 134)\n• b = 2π/365 (= 0,017214…), dus de gevraagde waarde van b is 0,01721",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "d = ((26 + 14)/2 =) 20"
+     },
+     {
+      "points": 1,
+      "description": "a = (26 − 20 =) 6"
+     },
+     {
+      "points": 1,
+      "description": "((226 + 43)/2 =) 134,5 dus c = 135 (of: 43 + 0,25 · 365 = 134,25, dus c = 134)"
+     },
+     {
+      "points": 1,
+      "description": "b = 2π/365 (= 0,017214…), dus de gevraagde waarde van b is 0,01721"
+     }
+    ],
+    "grading_note": "Wanneer de waarde van b wordt berekend op basis van een periode gelijk aan 2 · (226 − 43) = 366, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-watertemperatuur-antw5.png"
+    ]
+   },
+   {
+    "title": "Watertemperatuur",
+    "question_number": 6,
+    "answer_text": "• De vergelijking 12 + 6sin(0,0172(t − 150)) = 16 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft t = 192,4… (t = 290,2… hoort niet bij de eerste dag)\n• Het eindantwoord: (dagnummer) 193\nof\n• De vergelijking 12 + 6sin(0,0172(t − 150)) = 16 moet worden opgelost\n• Beschrijven hoe een tabel van Z gemaakt kan worden\n• Voor t = 192 geldt Z = 15,9… en voor t = 193 geldt Z = 16,0…\n• Het eindantwoord: (dagnummer) 193",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 12 + 6sin(0,0172(t − 150)) = 16 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft t = 192,4… (t = 290,2… hoort niet bij de eerste dag)"
+     },
+     {
+      "points": 1,
+      "description": "Het eindantwoord: (dagnummer) 193"
+     }
+    ],
+    "grading_note": "Als een kandidaat het dagnummer 192 als eindantwoord geeft, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-watertemperatuur-antw6.png"
+    ]
+   },
+   {
+    "title": "Drie punten op een grafiek",
+    "question_number": 7,
+    "answer_text": "Voorbeeld van een juist antwoord:\n• Als de waarde van x heel groot wordt, dan wordt de waarde van √(6x − 2) ook heel groot\n• Dan wordt 1/√(6x − 2) bijna 0 (dus is inderdaad de lijn met vergelijking y = 0 de horizontale asymptoot van de grafiek van f)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als de waarde van x heel groot wordt, dan wordt de waarde van √(6x − 2) ook heel groot"
+     },
+     {
+      "points": 1,
+      "description": "Dan wordt 1/√(6x − 2) bijna 0 (dus is inderdaad de lijn met vergelijking y = 0 de horizontale asymptoot van de grafiek van f)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-drie-punten-op-een-grafiek-antw7.png"
+    ]
+   },
+   {
+    "title": "Drie punten op een grafiek",
+    "question_number": 8,
+    "answer_text": "• Uit 1/√(6x − 2) = 2 volgt 2√(6x − 2) = 1 (of 1/(6x − 2) = 4)\n• Dus 4(6x − 2) = 1 (of een gelijkwaardige lineaire vergelijking)\n• Hieruit volgt x_P = 3/8",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit 1/√(6x − 2) = 2 volgt 2√(6x − 2) = 1 (of 1/(6x − 2) = 4)"
+     },
+     {
+      "points": 1,
+      "description": "Dus 4(6x − 2) = 1 (of een gelijkwaardige lineaire vergelijking)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt x_P = 3/8"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-drie-punten-op-een-grafiek-antw8.png"
+    ]
+   },
+   {
+    "title": "Drie punten op een grafiek",
+    "question_number": 9,
+    "answer_text": "• f(x) = (6x − 2)^(−½)\n• f′(x) = −½(6x − 2)^(−1½) · 6 (= −3(6x − 2)^(−1½))\n• f′(½) = −3\n• Lijn l heeft vergelijking y = −3x + b en gaat door Q(½, 1), dus b = 2½\n• Uit −3x + 2½ = 0 volgt x_A = 5/6\n• De oppervlakte van driehoek OAB is dus ½ · 5/6 · 2½ = 25/24",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f(x) = (6x − 2)^(−½)"
+     },
+     {
+      "points": 2,
+      "description": "f′(x) = −½(6x − 2)^(−1½) · 6 (= −3(6x − 2)^(−1½))"
+     },
+     {
+      "points": 1,
+      "description": "f′(½) = −3"
+     },
+     {
+      "points": 1,
+      "description": "Lijn l heeft vergelijking y = −3x + b en gaat door Q(½, 1), dus b = 2½"
+     },
+     {
+      "points": 1,
+      "description": "Uit −3x + 2½ = 0 volgt x_A = 5/6"
+     },
+     {
+      "points": 1,
+      "description": "De oppervlakte van driehoek OAB is dus ½ · 5/6 · 2½ = 25/24"
+     }
+    ],
+    "grading_note": "Voor het tweede antwoordelement mogen uitsluitend 0 of 2 scorepunten worden toegekend, tenzij de enige fout een rekenfout betreft (zie vakspecifieke regel 1). In dat geval mag 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-drie-punten-op-een-grafiek-antw9.png"
+    ]
+   },
+   {
+    "title": "Drie punten op een grafiek",
+    "question_number": 10,
+    "answer_text": "• De vergelijking f(x) = x² moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft (x = 0,781…, dus) de gevraagde waarde x_R = 0,78",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking f(x) = x² moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft (x = 0,781…, dus) de gevraagde waarde x_R = 0,78"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-drie-punten-op-een-grafiek-antw10.png"
+    ]
+   },
+   {
+    "title": "Een cirkel met rakende en snijdende lijnen",
+    "question_number": 11,
+    "answer_text": "• Een vergelijking van j is x = 4\n• y_S = (−⅔ · 4 + 8 =) 16/3\n• De richtingscoëfficiënt van m is dus gelijk aan ((16/3)/4 =) 4/3 (dus een vergelijking van m is y = 4/3 x)\n• Voor Q geldt 4/3 x = 8\n• Een exacte berekening waaruit volgt x_Q = 6\nof\n• Een vergelijking van j is x = 4\n• y_S = (−⅔ · 4 + 8 =) 16/3\n• RS = 16/3 met R het snijpunt van j en de x-as; ST = (8 − 16/3 =) 8/3 met T het snijpunt van j en l\n• Driehoek SQT is gelijkvormig met driehoek SOR met factor (8/3 : 16/3 =) ½\n• QT = 4 · ½ = 2, waaruit volgt dat x_Q = (4 + 2) = 6\nof\n• Stel de coördinaten van punt Q zijn (6, 8), dan is y = 8/6 x de vergelijking van de lijn door O en Q\n• Voor het snijpunt van deze lijn met lijn k geldt dan 8/6 x = −⅔x + 8\n• De x-coördinaat van het snijpunt is 4\n• Een vergelijking van j is x = 4\n• Het gevonden snijpunt ligt inderdaad op j (dus geldt Q(6, 8))",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een vergelijking van j is x = 4"
+     },
+     {
+      "points": 1,
+      "description": "y_S = (−⅔ · 4 + 8 =) 16/3"
+     },
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt van m is dus gelijk aan ((16/3)/4 =) 4/3 (dus een vergelijking van m is y = 4/3 x)"
+     },
+     {
+      "points": 1,
+      "description": "Voor Q geldt 4/3 x = 8"
+     },
+     {
+      "points": 1,
+      "description": "Een exacte berekening waaruit volgt x_Q = 6"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-een-cirkel-met-rakende-en-snijdende-lijnen-antw11.png"
+    ]
+   },
+   {
+    "title": "Een cirkel met rakende en snijdende lijnen",
+    "question_number": 12,
+    "answer_text": "• De richtingscoëfficiënt van n is gelijk aan ((0 − 8)/(12 − 6) =) −4/3\n• Lijn n heeft vergelijking y = −4/3 x + b en gaat door P(12, 0), dus b = 16\n• (Substitutie van y = −4/3 x + 16 in de vergelijking van c geeft) (x − 4)² + (−4/3 x + 16 − 4)² = 16\n• De herleiding tot een vergelijking van de vorm ax² + bx + c = 0, zoals 25/9 x² − 40x + 144 = 0\n• D = (−40)² − 4 · 25/9 · 144 = 0 (dus c en n hebben één punt gemeenschappelijk, dus lijn n raakt cirkel c)\nof\n• De richtingscoëfficiënt van n is gelijk aan ((0 − 8)/(12 − 6) =) −4/3\n• Lijn n heeft vergelijking y = −4/3 x + b en gaat door P(12, 0), dus b = 16\n• Een berekening waaruit volgt dat y = ¾x + 1 een vergelijking is van de lijn loodrecht op n door het middelpunt (4, 4) van c\n• Een berekening van het snijpunt van deze lijn met lijn n geeft x = 36/5 en y = 32/5\n• (36/5 − 4)² + (32/5 − 4)² = 16 (dus het snijpunt ligt op c, dus lijn n raakt cirkel c)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt van n is gelijk aan ((0 − 8)/(12 − 6) =) −4/3"
+     },
+     {
+      "points": 1,
+      "description": "Lijn n heeft vergelijking y = −4/3 x + b en gaat door P(12, 0), dus b = 16"
+     },
+     {
+      "points": 1,
+      "description": "(Substitutie van y = −4/3 x + 16 in de vergelijking van c geeft) (x − 4)² + (−4/3 x + 16 − 4)² = 16"
+     },
+     {
+      "points": 1,
+      "description": "De herleiding tot een vergelijking van de vorm ax² + bx + c = 0, zoals 25/9 x² − 40x + 144 = 0"
+     },
+     {
+      "points": 1,
+      "description": "D = (−40)² − 4 · 25/9 · 144 = 0 (dus c en n hebben één punt gemeenschappelijk, dus lijn n raakt cirkel c)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-een-cirkel-met-rakende-en-snijdende-lijnen-antw12.png"
+    ]
+   },
+   {
+    "title": "De veldleeuwerik",
+    "question_number": 13,
+    "answer_text": "• De groeifactor per jaar is volgens het model 0,95\n• De groeifactor per 50 jaar is dan 0,95⁵⁰ = 0,076… (of: na 50 jaar is er 100 · 0,95⁵⁰ = 7,6…% over)\n• 0,076… is groter dan 0,04 (of: 7,6…% is groter dan 4%), dus de uitspraak van de vogelbeschermer is niet juist\nof\n• De groeifactor per 50 jaar is volgens de vogelbeschermer (kleiner dan) 0,04\n• De groeifactor per jaar is dan (kleiner dan) 0,04^(1/50) = 0,937… (dus jaarlijks is de afname groter dan 6,2…%)\n• (Een groeifactor per jaar kleiner dan) 0,937… is ongelijk aan 0,95 (of (een afname groter dan) 6,2% is ongelijk aan 5%), dus de uitspraak van de vogelbeschermer is niet juist\nof\n• De vergelijking 0,95ᵗ = 0,04 (met t in jaren vanaf 1990) moet worden opgelost\n• Dit geeft t = 62,…\n• Dit is groter dan 50, dus de uitspraak van de vogelbeschermer is niet juist",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De groeifactor per jaar is volgens het model 0,95"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per 50 jaar is dan 0,95⁵⁰ = 0,076… (of: na 50 jaar is er 100 · 0,95⁵⁰ = 7,6…% over)"
+     },
+     {
+      "points": 1,
+      "description": "0,076… is groter dan 0,04 (of: 7,6…% is groter dan 4%), dus de uitspraak van de vogelbeschermer is niet juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-de-veldleeuwerik-antw13.png"
+    ]
+   },
+   {
+    "title": "De veldleeuwerik",
+    "question_number": 14,
+    "answer_text": "• Er geldt 58,66 = a · 10² + b · 10 + 100 en 36,52 = a · 20² + b · 20 + 100\n• Beschrijven hoe dit stelsel van twee vergelijkingen algebraïsch kan worden opgelost\n• Hieruit volgt a = 0,096\n• Dit geeft b = −5,094",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt 58,66 = a · 10² + b · 10 + 100 en 36,52 = a · 20² + b · 20 + 100"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe dit stelsel van twee vergelijkingen algebraïsch kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt a = 0,096"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft b = −5,094"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-de-veldleeuwerik-antw14.png"
+    ]
+   },
+   {
+    "title": "Dezelfde y-coördinaat",
+    "question_number": 15,
+    "answer_text": "• y_S = f(0) = 7\n• 8 − 2^(3x² − 6x) = 7 geeft 2^(3x² − 6x) = 1\n• (2⁰ = 1, dus) 3x² − 6x = 0\n• Een exacte berekening waaruit volgt x_A = 2\nof\n• Voor de x-coördinaat van A moet 3x² − 6x dezelfde uitkomst hebben als voor x = 0\n• De uitkomst van 3x² − 6x voor x = 0 is gelijk aan 0\n• Dus de vergelijking 3x² − 6x = 0 moet worden opgelost\n• Een exacte berekening waaruit volgt x_A = 2",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "y_S = f(0) = 7"
+     },
+     {
+      "points": 1,
+      "description": "8 − 2^(3x² − 6x) = 7 geeft 2^(3x² − 6x) = 1"
+     },
+     {
+      "points": 1,
+      "description": "(2⁰ = 1, dus) 3x² − 6x = 0"
+     },
+     {
+      "points": 1,
+      "description": "Een exacte berekening waaruit volgt x_A = 2"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-dezelfde-y-coordinaat-antw15.png"
+    ]
+   },
+   {
+    "title": "Driehoeken",
+    "question_number": 16,
+    "answer_text": "• Uit cos(25°) = AC/6 volgt AC = 5,43…\n• De cosinusregel in driehoek ABC geeft AB = √((5,43…)² + 7² − 2 · 5,43… · 7 · cos(25°)) = 3,09…\n• De sinusregel in driehoek ABC geeft 7/sin(∠BAC) = 3,09…/sin(25°)\n• Hieruit volgt sin(∠BAC) = 0,95…\n• ∠BAC = 107,03…(°) (72,96…° voldoet niet)\n• Dus ∠BAD = 107,03… − 90 (= 17,03…°), dus afgerond ∠BAD = 17(°)\nof\n• Uit cos(25°) = AC/6 volgt AC = 5,43…\n• De cosinusregel in driehoek ABC geeft AB = √((5,43…)² + 7² − 2 · 5,43… · 7 · cos(25°)) = 3,09…\n• sin(25°) = AD/6 dus AD = 2,53…\n• De vergelijking 1² = (2,53…)² + (3,09…)² − 2 · 2,53… · 3,09… · cos(∠BAD) moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft cos(∠BAD) = 0,95… en afgerond ∠BAD = 17(°)\nof\n• ∠CDA = 180 − 25 − 90 = 65(°), dus ∠BDA = 180 − 65 = 115(°)\n• sin(25°) = AD/6 dus AD = 2,53…\n• De cosinusregel in driehoek BDA geeft AB = √(1² + (2,53…)² − 2 · 1 · 2,53… · cos(115°)) = 3,09…\n• De sinusregel in driehoek BDA geeft 1/sin(∠BAD) = 3,09…/sin(115°)\n• Hieruit volgt sin ∠BAD = 0,29…\n• Dit geeft afgerond ∠BAD = 17(°)\nof\n• Uit cos(25°) = AC/6 volgt AC = 5,43…\n• ∠CDA = 180 − 25 − 90 = 65(°), dus ∠BDA = 180 − 65 = 115(°)\n• ∠ABD = 180 − 115 − α = 65(°) − α (met ∠BAD = α)\n• De sinusregel in driehoek ABC geeft 5,43…/sin(65° − α) = 7/sin(90° + α)\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft (α = 17,03…°, dus) afgerond ∠BAD = 17(°)\nof\n• Uit cos(25°) = AC/6 volgt AC = 5,43…\n• De cosinusregel in driehoek ABC geeft AB = √((5,43…)² + 7² − 2 · 5,43… · 7 · cos(25°)) = 3,09…\n• De sinusregel in driehoek ABC geeft 7/sin(∠BAC) = 3,09…/sin(25°)\n• ∠BAC = ∠BAD + 90°\n• Beschrijven hoe de vergelijking 7/sin(x + 90°) = 3,09…/sin(25°) (met ∠BAD = x) kan worden opgelost\n• Dit geeft (x = 17,03…°, dus) afgerond ∠BAD = 17(°)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit cos(25°) = AC/6 volgt AC = 5,43…"
+     },
+     {
+      "points": 1,
+      "description": "De cosinusregel in driehoek ABC geeft AB = √((5,43…)² + 7² − 2 · 5,43… · 7 · cos(25°)) = 3,09…"
+     },
+     {
+      "points": 1,
+      "description": "De sinusregel in driehoek ABC geeft 7/sin(∠BAC) = 3,09…/sin(25°)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt sin(∠BAC) = 0,95…"
+     },
+     {
+      "points": 1,
+      "description": "∠BAC = 107,03…(°) (72,96…° voldoet niet)"
+     },
+     {
+      "points": 1,
+      "description": "Dus ∠BAD = 107,03… − 90 (= 17,03…°), dus afgerond ∠BAD = 17(°)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-driehoeken-antw16.png"
+    ]
+   },
+   {
+    "title": "Waterleiding",
+    "question_number": 17,
+    "answer_text": "• S₅₀ = ⁰'⁴²⁷log(50) + 12,9 = 8,30…\n• De vergelijking ⁰'⁴²⁷log(t) + 12,9 = 1,2 · 8,30… (= 9,96…) moet worden opgelost\n• ⁰'⁴²⁷log(t) = −2,93…\n• t = 0,427^(−2,93…) = 12,16…, dus het eindantwoord is: (na) 12,2 (jaar)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "S₅₀ = ⁰'⁴²⁷log(50) + 12,9 = 8,30…"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking ⁰'⁴²⁷log(t) + 12,9 = 1,2 · 8,30… (= 9,96…) moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "⁰'⁴²⁷log(t) = −2,93…"
+     },
+     {
+      "points": 1,
+      "description": "t = 0,427^(−2,93…) = 12,16…, dus het eindantwoord is: (na) 12,2 (jaar)"
+     }
+    ],
+    "grading_note": "Als de berekende waarde voor t wordt afgerond naar 12,1, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-waterleiding-antw17.png"
+    ]
+   },
+   {
+    "title": "Waterleiding",
+    "question_number": 18,
+    "answer_text": "• D = 312,9 + 2w\n• Invullen geeft w = 1,75 · (312,9 + 2w)/(14 + 1,75)\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• (Dit geeft w = 44,7 dus) de gevraagde wanddikte is 45 (mm)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "D = 312,9 + 2w"
+     },
+     {
+      "points": 1,
+      "description": "Invullen geeft w = 1,75 · (312,9 + 2w)/(14 + 1,75)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "(Dit geeft w = 44,7 dus) de gevraagde wanddikte is 45 (mm)"
+     }
+    ],
+    "grading_note": "Als de berekende waarde voor w wordt afgerond naar beneden, hiervoor 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-i-waterleiding-antw18.png"
+    ]
+   }
+  ]
+ }
+}

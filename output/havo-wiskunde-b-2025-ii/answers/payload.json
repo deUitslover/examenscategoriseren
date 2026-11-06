@@ -1,0 +1,481 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde B 2025-II",
+  "answers": [
+   {
+    "title": "Raken aan de x-as",
+    "question_number": 1,
+    "answer_text": "• f′(x) = 3x² − 18x + 24\n• In de toppen geldt 3x² − 18x + 24 = 0 (of x² − 6x + 8 = 0)\n• Beschrijven hoe deze vergelijking exact kan worden opgelost\n• Dit geeft x = 2 of x = 4\n• De y-coördinat van de rechter top is f(4) = 0 (dus de rechter top ligt op de x-as)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "f′(x) = 3x² − 18x + 24"
+     },
+     {
+      "points": 1,
+      "description": "In de toppen geldt 3x² − 18x + 24 = 0 (of x² − 6x + 8 = 0)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking exact kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x = 2 of x = 4"
+     },
+     {
+      "points": 1,
+      "description": "De y-coördinat van de rechter top is f(4) = 0 (dus de rechter top ligt op de x-as)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-ii-raken-aan-de-x-as-antw1.png"
+    ]
+   },
+   {
+    "title": "Raken aan de x-as",
+    "question_number": 2,
+    "answer_text": "• In punt S geldt 3x + 9x − 41 = 11 (of 9x − 41 = −3x + 11)\n• Hieruit volgt x_S = 13/3\n• y_S = (9 · 13/3 − 41 =) −2\n• (c raakt de x-as dus) de straal van c is 2\n• Een vergelijking van c is (x − 13/3)² + (y + 2)² = 4",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In punt S geldt 3x + 9x − 41 = 11 (of 9x − 41 = −3x + 11)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt x_S = 13/3"
+     },
+     {
+      "points": 1,
+      "description": "y_S = (9 · 13/3 − 41 =) −2"
+     },
+     {
+      "points": 1,
+      "description": "(c raakt de x-as dus) de straal van c is 2"
+     },
+     {
+      "points": 1,
+      "description": "Een vergelijking van c is (x − 13/3)² + (y + 2)² = 4"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-ii-raken-aan-de-x-as-antw2.png"
+    ]
+   },
+   {
+    "title": "Sloeproeien",
+    "question_number": 3,
+    "answer_text": "• 1 uur, 53 minuten en 58 seconden komt overeen met 6838 seconden\n• Voor sloep 2 geldt v = 17300/6838 (= 2,52…) (m/s)\n• Invullen geeft W = 23,04/(1 − 0,08 · (2,52…)²) (= 47,21…)\n• Voor sloep 2 geldt dan P = (1/10 · 47,21… · (2,52…)³ =) 76,4… (watt); (dit is meer dan 73,1 watt en) dus heeft sloep 2 de wedstrijd gewonnen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "1 uur, 53 minuten en 58 seconden komt overeen met 6838 seconden"
+     },
+     {
+      "points": 1,
+      "description": "Voor sloep 2 geldt v = 17300/6838 (= 2,52…) (m/s)"
+     },
+     {
+      "points": 1,
+      "description": "Invullen geeft W = 23,04/(1 − 0,08 · (2,52…)²) (= 47,21…)"
+     },
+     {
+      "points": 1,
+      "description": "Voor sloep 2 geldt dan P = (1/10 · 47,21… · (2,52…)³ =) 76,4… (watt); (dit is meer dan 73,1 watt en) dus heeft sloep 2 de wedstrijd gewonnen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-ii-sloeproeien-antw3.png"
+    ]
+   },
+   {
+    "title": "Sloeproeien",
+    "question_number": 4,
+    "answer_text": "• Er geldt 73,1 = 1/7 · 21,36/(1 − 0,05 · v²) · v³\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• (Dit geeft v = 2,533… dus) de gevraagde waarde van v is 2,53 (m/s)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt 73,1 = 1/7 · 21,36/(1 − 0,05 · v²) · v³"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "(Dit geeft v = 2,533… dus) de gevraagde waarde van v is 2,53 (m/s)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-ii-sloeproeien-antw4.png"
+    ]
+   },
+   {
+    "title": "Sloeproeien",
+    "question_number": 5,
+    "answer_text": "• (In deze situatie geldt:) als v groter wordt, dan wordt v² ook groter\n• Als v² groter wordt, dan wordt 1 − 0,05 · v² kleiner (maar blijft in de gegeven situatie wel groter dan nul)\n• Als 1 − 0,05 · v² kleiner wordt, dan wordt 21,36/(1 − 0,05 · v²) groter (en dus wordt de waarde van W groter)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(In deze situatie geldt:) als v groter wordt, dan wordt v² ook groter"
+     },
+     {
+      "points": 1,
+      "description": "Als v² groter wordt, dan wordt 1 − 0,05 · v² kleiner (maar blijft in de gegeven situatie wel groter dan nul)"
+     },
+     {
+      "points": 1,
+      "description": "Als 1 − 0,05 · v² kleiner wordt, dan wordt 21,36/(1 − 0,05 · v²) groter (en dus wordt de waarde van W groter)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-ii-sloeproeien-antw5.png"
+    ]
+   },
+   {
+    "title": "Een exponentiële functie",
+    "question_number": 6,
+    "answer_text": "• In punt A geldt (⅓)^(x − 2) = 4 en dit geeft x − 2 = ¹ᐟ³log(4)\n• Hieruit volgt x = ¹ᐟ³log(4) + 2 en dan x = ¹ᐟ³log(4) + ¹ᐟ³log((⅓)²)\n• Dit geeft x = ¹ᐟ³log(4 · 1/9) = ¹ᐟ³log(4/9) (dus p = ⅓ en q = 4/9)\nof\n• In punt A geldt (⅓)^(x − 2) = 4 en dan (⅓)ˣ · (⅓)⁻² = 4\n• Uit 9 · (⅓)ˣ = 4 volgt (⅓)ˣ = 4/9\n• Dit geeft x = ¹ᐟ³log(4/9) (dus p = ⅓ en q = 4/9)\nof\n• In punt A geldt (⅓)^(x − 2) = 4 en dan 3⁻ˣ · 3² = 4\n• Uit 9 · 3⁻ˣ = 4 volgt 3⁻ˣ = 4/9\n• Dit geeft x = −³log(4/9) = ³log(9/4) (dus p = 3 en q = 9/4)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In punt A geldt (⅓)^(x − 2) = 4 en dit geeft x − 2 = ¹ᐟ³log(4)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt x = ¹ᐟ³log(4) + 2 en dan x = ¹ᐟ³log(4) + ¹ᐟ³log((⅓)²)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x = ¹ᐟ³log(4 · 1/9) = ¹ᐟ³log(4/9) (dus p = ⅓ en q = 4/9)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-ii-een-exponentiele-functie-antw6.png"
+    ]
+   },
+   {
+    "title": "Een exponentiële functie",
+    "question_number": 7,
+    "answer_text": "• In punt B geldt (⅓)^(x − 2) = x\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft x = 1,58…\n• (1,58…)² = 2,50… dus de gevraagde waarde van de oppervlakte is 2,5",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In punt B geldt (⅓)^(x − 2) = x"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x = 1,58…"
+     },
+     {
+      "points": 1,
+      "description": "(1,58…)² = 2,50… dus de gevraagde waarde van de oppervlakte is 2,5"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-ii-een-exponentiele-functie-antw7.png"
+    ]
+   },
+   {
+    "title": "Een exponentiële functie",
+    "question_number": 8,
+    "answer_text": "• Na de verschuiving hoort bij de grafiek de vergelijking y = 3^(x + 2)\n• Na de vermenigvuldiging hoort bij de grafiek de vergelijking y = 3^(−x + 2)\n• y = 3^(−x + 2) = (3⁻¹)^(x − 2) = (⅓)^(x − 2) (en deze vergelijking hoort bij de grafiek van f)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Na de verschuiving hoort bij de grafiek de vergelijking y = 3^(x + 2)"
+     },
+     {
+      "points": 1,
+      "description": "Na de vermenigvuldiging hoort bij de grafiek de vergelijking y = 3^(−x + 2)"
+     },
+     {
+      "points": 1,
+      "description": "y = 3^(−x + 2) = (3⁻¹)^(x − 2) = (⅓)^(x − 2) (en deze vergelijking hoort bij de grafiek van f)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-ii-een-exponentiele-functie-antw8.png"
+    ]
+   },
+   {
+    "title": "Een wortelfunctie",
+    "question_number": 9,
+    "answer_text": "• Voor x_A geldt 32x + 576 = 0\n• Dit geeft x_A = −18\n• y_A = f(−18) = −16\n• AC = √(18² + 5,25²) = 18,75\n• y_B = f(0) = 8\n• BC = (y_B − y_C =) 8 − −10,75 = 18,75 (en dus geldt AC = BC)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor x_A geldt 32x + 576 = 0"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x_A = −18"
+     },
+     {
+      "points": 1,
+      "description": "y_A = f(−18) = −16"
+     },
+     {
+      "points": 1,
+      "description": "AC = √(18² + 5,25²) = 18,75"
+     },
+     {
+      "points": 1,
+      "description": "y_B = f(0) = 8"
+     },
+     {
+      "points": 1,
+      "description": "BC = (y_B − y_C =) 8 − −10,75 = 18,75 (en dus geldt AC = BC)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-ii-een-wortelfunctie-antw9.png"
+    ]
+   },
+   {
+    "title": "Een wortelfunctie",
+    "question_number": 10,
+    "answer_text": "• Voor x_D geldt −16 + √(32x + 576) = 0 en dus √(32x + 576) = 16\n• Uit 32x + 576 = 256 volgt dan x_D = −10\n• rc_l = −10,75/10\n• De afgeleide van 32x + 576 is 32\n• f′(x) = 32/(2√(32x + 576)) (of een gelijkwaardige uitdrukking)\n• rc_m = f′(−10) = 1\n• Voor de hoeken α en β die l en m met de x-as maken geldt tan(α) = −10,75/10 en tan(β) = 1\n• (Dit geeft α = −47,07…° en β = 45° en uit 180 − 47,07… − 45 volgt) de gevraagde hoek: 87,9(°)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor x_D geldt −16 + √(32x + 576) = 0 en dus √(32x + 576) = 16"
+     },
+     {
+      "points": 1,
+      "description": "Uit 32x + 576 = 256 volgt dan x_D = −10"
+     },
+     {
+      "points": 1,
+      "description": "rc_l = −10,75/10"
+     },
+     {
+      "points": 1,
+      "description": "De afgeleide van 32x + 576 is 32"
+     },
+     {
+      "points": 1,
+      "description": "f′(x) = 32/(2√(32x + 576)) (of een gelijkwaardige uitdrukking)"
+     },
+     {
+      "points": 1,
+      "description": "rc_m = f′(−10) = 1"
+     },
+     {
+      "points": 1,
+      "description": "Voor de hoeken α en β die l en m met de x-as maken geldt tan(α) = −10,75/10 en tan(β) = 1"
+     },
+     {
+      "points": 1,
+      "description": "(Dit geeft α = −47,07…° en β = 45° en uit 180 − 47,07… − 45 volgt) de gevraagde hoek: 87,9(°)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-ii-een-wortelfunctie-antw10.png"
+    ]
+   },
+   {
+    "title": "Zonnepanelen",
+    "question_number": 11,
+    "answer_text": "• Aflezen dat E maximaal 8100 is en minimaal 1100 is\n• s = (8100 + 1100)/2 = 4600\n• p = 8100 − 4600 = 3500\n• q = 2π/365, dus de gevraagde waarde van q is 0,0172\n• (De grafiek snijdt de lijn met vergelijking E = 4600 bij t = 81, dus) de gevraagde waarde van r is 81",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Aflezen dat E maximaal 8100 is en minimaal 1100 is"
+     },
+     {
+      "points": 1,
+      "description": "s = (8100 + 1100)/2 = 4600"
+     },
+     {
+      "points": 1,
+      "description": "p = 8100 − 4600 = 3500"
+     },
+     {
+      "points": 1,
+      "description": "q = 2π/365, dus de gevraagde waarde van q is 0,0172"
+     },
+     {
+      "points": 1,
+      "description": "(De grafiek snijdt de lijn met vergelijking E = 4600 bij t = 81, dus) de gevraagde waarde van r is 81"
+     }
+    ],
+    "grading_note": "– Wanneer voor het maximum een andere waarde in het interval [8050, 8200] en/of voor het minimum een andere waarde in het interval [1050, 1200] wordt afgelezen, hiervoor geen scorepunten in mindering brengen.\n– Wanneer voor de waarde van r een andere waarde in het interval [76, 86] wordt afgelezen, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-ii-zonnepanelen-antw11.png"
+    ]
+   },
+   {
+    "title": "Zonnepanelen",
+    "question_number": 12,
+    "answer_text": "• Aflezen dat bij h = 90 de tiltfactor 0,76 is\n• (1,11 − 0,76)/1,11 · 100(%)\n• Het gevraagde percentage is 31,5(%)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Aflezen dat bij h = 90 de tiltfactor 0,76 is"
+     },
+     {
+      "points": 1,
+      "description": "(1,11 − 0,76)/1,11 · 100(%)"
+     },
+     {
+      "points": 1,
+      "description": "Het gevraagde percentage is 31,5(%)"
+     }
+    ],
+    "grading_note": "Wanneer voor de tiltfactor een andere waarde in het interval [0,75; 0,77] wordt afgelezen, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-ii-zonnepanelen-antw12.png"
+    ]
+   },
+   {
+    "title": "Zonnepanelen",
+    "question_number": 13,
+    "answer_text": "• Er geldt T = a(h − 30)² + 1,11\n• (h − 30)² = h² − 60h + 900\n• T = a(h² − 60h + 900) + 1,11 geeft T = ah² − 60ah + 900a + 1,11\n• Bij h = 0 geldt T = 1 dus 900a + 1,11 = 1; hieruit volgt a = −0,11/900 = −0,00012… dus de gevraagde waarde van a is −0,0001\n• b = −60a = −60 · −0,00012… = 0,00733… dus de gevraagde waarde van b is 0,0073\nof\n• dT/dh = 2a · h + b\n• Uit 0 = 2a · 30 + b volgt (bijvoorbeeld) b = −60a\n• Invullen geeft 1,11 = a · 30² − 60a · 30 + 1\n• Hieruit volgt a = −0,11/900 = −0,00012… dus de gevraagde waarde van a is −0,0001\n• b = −60a = −60 · −0,00012… = 0,00733… dus de gevraagde waarde van b is 0,0073",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt T = a(h − 30)² + 1,11"
+     },
+     {
+      "points": 1,
+      "description": "(h − 30)² = h² − 60h + 900"
+     },
+     {
+      "points": 1,
+      "description": "T = a(h² − 60h + 900) + 1,11 geeft T = ah² − 60ah + 900a + 1,11"
+     },
+     {
+      "points": 1,
+      "description": "Bij h = 0 geldt T = 1 dus 900a + 1,11 = 1; hieruit volgt a = −0,11/900 = −0,00012… dus de gevraagde waarde van a is −0,0001"
+     },
+     {
+      "points": 1,
+      "description": "b = −60a = −60 · −0,00012… = 0,00733… dus de gevraagde waarde van b is 0,0073"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-ii-zonnepanelen-antw13.png"
+    ]
+   },
+   {
+    "title": "Twee driehoeken",
+    "question_number": 14,
+    "answer_text": "• De cosinusregel in driehoek CDE geeft 3² = 2² + 4² − 2 · 2 · 4 · cos(∠DCE)\n• Hieruit volgt cos(∠DCE) = −11/−16 (= 0,6875)\n• cos(∠DCE) = cos(∠ACB)\n• De cosinusregel in driehoek ABC geeft 6² = 5² + AC² − 2 · 5 · AC · 0,6875\n• Hieruit volgt AC² − 6,875 · AC − 11 = 0\n• Beschrijven hoe deze vergelijking algebraïsch kan worden opgelost\n• De gevraagde waarde van AC is 8,2\nof\n• De cosinusregel in driehoek CDE geeft 3² = 2² + 4² − 2 · 2 · 4 · cos(∠DCE)\n• Hieruit volgt cos(∠DCE) = −11/−16 (= 0,6875)\n• ∠DCE = 46,56…(°) en dus ook ∠ACB = 46,56…(°)\n• In driehoek ABC geldt sin(∠BAC)/5 = sin(46,56…°)/6\n• Uit sin(∠BAC) = 5 · sin(46,56…°)/6 volgt ∠BAC = 37,23…(°)\n• Beschrijven hoe de lengte van zijde AC algebraïsch kan worden berekend\n• De gevraagde waarde van AC is 8,2",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De cosinusregel in driehoek CDE geeft 3² = 2² + 4² − 2 · 2 · 4 · cos(∠DCE)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt cos(∠DCE) = −11/−16 (= 0,6875)"
+     },
+     {
+      "points": 1,
+      "description": "cos(∠DCE) = cos(∠ACB)"
+     },
+     {
+      "points": 1,
+      "description": "De cosinusregel in driehoek ABC geeft 6² = 5² + AC² − 2 · 5 · AC · 0,6875"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt AC² − 6,875 · AC − 11 = 0"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking algebraïsch kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde waarde van AC is 8,2"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-ii-twee-driehoeken-antw14.png"
+    ]
+   },
+   {
+    "title": "Punten op een cirkelboog",
+    "question_number": 15,
+    "answer_text": "• (rc_OA = √(a(4 − a))/a dus geldt) √(a(4 − a))/a = ½\n• Dit geeft 2 · √(a(4 − a)) = a en dan 4 · a(4 − a) = a²\n• Dit herleiden tot 5a² − 16a = 0\n• Beschrijven hoe deze vergelijking exact kan worden opgelost\n• Dit geeft a = 16/5 (a = 0 voldoet niet)\nof\n• (Een vergelijking van de lijn door O en A is y = ½x dus) in punt A geldt ½x = √(x(4 − x))\n• Dit geeft ¼x² = x(4 − x)\n• Dit herleiden tot 5/4 x² − 4x = 0\n• Beschrijven hoe deze vergelijking exact kan worden opgelost\n• Dit geeft x_A = 16/5 (x = 0 voldoet niet)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(rc_OA = √(a(4 − a))/a dus geldt) √(a(4 − a))/a = ½"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft 2 · √(a(4 − a)) = a en dan 4 · a(4 − a) = a²"
+     },
+     {
+      "points": 1,
+      "description": "Dit herleiden tot 5a² − 16a = 0"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking exact kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft a = 16/5 (a = 0 voldoet niet)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-ii-punten-op-een-cirkelboog-antw15.png"
+    ]
+   },
+   {
+    "title": "Punten op een cirkelboog",
+    "question_number": 16,
+    "answer_text": "• De oppervlakte van een cirkel met straal 2 is π · 2² (dus de oppervlakte van de halve cirkel is 2π)\n• Er geldt dus 2α − 2sin(α) = ½ · 2π (= π)\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft α = 2,309… (rad)\n• De gevraagde waarde van α is 132(°)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De oppervlakte van een cirkel met straal 2 is π · 2² (dus de oppervlakte van de halve cirkel is 2π)"
+     },
+     {
+      "points": 1,
+      "description": "Er geldt dus 2α − 2sin(α) = ½ · 2π (= π)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft α = 2,309… (rad)"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde waarde van α is 132(°)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2025-ii-punten-op-een-cirkelboog-antw16.png"
+    ]
+   }
+  ]
+ }
+}
