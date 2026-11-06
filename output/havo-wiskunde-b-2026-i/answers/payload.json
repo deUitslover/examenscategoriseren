@@ -1,0 +1,492 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "source": "HAVO Wiskunde B 2026-I",
+  "answers": [
+   {
+    "title": "Hoeken",
+    "question_number": 1,
+    "answer_text": "• (x² + y² − 10x − 6y = 135 kan geschreven worden in de vorm (x − 5)² + (y − 3)² = r², dus) de coördinaten van M zijn (5,3)\n• l heeft richtingscoëfficiënt 3/5\n• (rcₖ · rcₗ =) −2 · 3/5 ≠ −1 (of rcₖ ≠ −5/3)\n• Dus k en l snijden elkaar niet loodrecht\nof\n• rcₖ = −2, dus als l en k elkaar loodrecht snijden, dan zou rcₗ = 1/2 moeten zijn\n• (x² + y² − 10x − 6y = 135 kan geschreven worden in de vorm (x − 5)² + (y − 3)² = r², dus) de coördinaten van M zijn (5,3)\n• l heeft richtingscoëfficiënt 3/5\n• Dus k en l snijden elkaar niet loodrecht",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(x² + y² − 10x − 6y = 135 kan geschreven worden in de vorm (x − 5)² + (y − 3)² = r², dus) de coördinaten van M zijn (5,3)"
+     },
+     {
+      "points": 1,
+      "description": "l heeft richtingscoëfficiënt 3/5"
+     },
+     {
+      "points": 1,
+      "description": "(rcₖ · rcₗ =) −2 · 3/5 ≠ −1 (of rcₖ ≠ −5/3)"
+     },
+     {
+      "points": 1,
+      "description": "Dus k en l snijden elkaar niet loodrecht"
+     }
+    ],
+    "grading_note": "Als in het eerste antwoordelement van het eerste antwoordalternatief of in het tweede antwoordelement van het tweede antwoordalternatief een foutieve waarde van r is gegeven, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-hoeken-antw1.png"
+    ]
+   },
+   {
+    "title": "Hoeken",
+    "question_number": 2,
+    "answer_text": "• (Substitutie van y = −2x in de vergelijking van c geeft) x² + (−2x)² − 10x − 6 · −2x = 135\n• Dit geeft 5x² + 2x − 135 = 0\n• De discriminant D = 2704\n• x_P = (−2 − √2704)/10 = −5⅖ (x_P = 5 voldoet niet)\n• y_P = 10⅘\n• De richtingscoëfficiënt van de lijn door P en Q is (10⅘ − 15)/(−5⅖ − 0) (= 7/9) (of: in driehoek PP′Q, met P′ de loodrechte projectie van P op de y-as, is de tangens van de gevraagde hoek gelijk aan 4⅕/5⅖)\n• Een berekening waaruit volgt dat de gevraagde hoek gelijk is aan 38(°)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Substitutie van y = −2x in de vergelijking van c geeft) x² + (−2x)² − 10x − 6 · −2x = 135"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft 5x² + 2x − 135 = 0"
+     },
+     {
+      "points": 1,
+      "description": "De discriminant D = 2704"
+     },
+     {
+      "points": 1,
+      "description": "x_P = (−2 − √2704)/10 = −5⅖ (x_P = 5 voldoet niet)"
+     },
+     {
+      "points": 1,
+      "description": "y_P = 10⅘"
+     },
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt van de lijn door P en Q is (10⅘ − 15)/(−5⅖ − 0) (= 7/9) (of: in driehoek PP′Q, met P′ de loodrechte projectie van P op de y-as, is de tangens van de gevraagde hoek gelijk aan 4⅕/5⅖)"
+     },
+     {
+      "points": 1,
+      "description": "Een berekening waaruit volgt dat de gevraagde hoek gelijk is aan 38(°)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-hoeken-antw2.png"
+    ]
+   },
+   {
+    "title": "Exponentiële functies",
+    "question_number": 3,
+    "answer_text": "• De x-coördinaten van de snijpunten zijn oplossingen van de vergelijking 2^(3−x²) = (½)^(2−x²) die is te herleiden tot 2^(3−x²) = (2⁻¹)^(2−x²)\n• Dit geeft 2^(3−x²) = 2^(−2+x²) en dus 3 − x² = −2 + x²\n• Hieruit volgt x² = 2½\n• De y-coördinaat is 2^½ = √2 (of (½)^(−½) = 2^½ = √2)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De x-coördinaten van de snijpunten zijn oplossingen van de vergelijking 2^(3−x²) = (½)^(2−x²) die is te herleiden tot 2^(3−x²) = (2⁻¹)^(2−x²)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft 2^(3−x²) = 2^(−2+x²) en dus 3 − x² = −2 + x²"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt x² = 2½"
+     },
+     {
+      "points": 1,
+      "description": "De y-coördinaat is 2^½ = √2 (of (½)^(−½) = 2^½ = √2)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-exponentiele-functies-antw3.png"
+    ]
+   },
+   {
+    "title": "Exponentiële functies",
+    "question_number": 4,
+    "answer_text": "• y_T = h(0) = 8,25\n• Beschrijven hoe met de GR de grafiek van de afgeleide van h kan worden bepaald\n• Beschrijven hoe met de GR de x-coördinaat van een punt op de grafiek van h met helling 2 kan worden bepaald\n• x_A = −0,191…\n• Het hoogteverschil is 8,25 − h(−0,191…) = 0,194",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "y_T = h(0) = 8,25"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe met de GR de grafiek van de afgeleide van h kan worden bepaald"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe met de GR de x-coördinaat van een punt op de grafiek van h met helling 2 kan worden bepaald"
+     },
+     {
+      "points": 1,
+      "description": "x_A = −0,191…"
+     },
+     {
+      "points": 1,
+      "description": "Het hoogteverschil is 8,25 − h(−0,191…) = 0,194"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-exponentiele-functies-antw4.png"
+    ]
+   },
+   {
+    "title": "Hyperbool",
+    "question_number": 5,
+    "answer_text": "• 3/x = 3x⁻¹\n• f′(x) = −3x⁻² (= −3/x²)\n• f′(2) = −3/4\n• Een exacte toelichting waaruit volgt dat in de vergelijking y = −¾x + b de waarde van b gelijk is aan 5\nof\n• (Lijn k is niet horizontaal of verticaal, dus k is een raaklijn aan de hyperbool als geldt:) de vergelijking 3/x + 2 = −¾x + 5 moet precies één oplossing hebben\n• De vergelijking ¾x² − 3x + 3 = 0 moet precies één oplossing (ongelijk aan 0) hebben\n• De discriminant D = 0, dus k is een raaklijn aan de hyperbool\n• (Aantonen dat P op k ligt:) 3½ = −¾ · 2 + 5, dus k raakt de hyperbool in P",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "3/x = 3x⁻¹"
+     },
+     {
+      "points": 1,
+      "description": "f′(x) = −3x⁻² (= −3/x²)"
+     },
+     {
+      "points": 1,
+      "description": "f′(2) = −3/4"
+     },
+     {
+      "points": 1,
+      "description": "Een exacte toelichting waaruit volgt dat in de vergelijking y = −¾x + b de waarde van b gelijk is aan 5"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-hyperbool-antw5.png"
+    ]
+   },
+   {
+    "title": "Hyperbool",
+    "question_number": 6,
+    "answer_text": "• PQ = √(4² + 3²) = 5\n• y_A = −1 (dus A(0, −1))\n• Een vergelijking van de horizontale asymptoot is y = 2\n• x_B is oplossing van de vergelijking −¾x + 5 = 2 en dit geeft x = 4 (dus B(4,2))\n• AB = √(4² + 3²) = 5 (, dus AB en PQ zijn even lang)\nof\n• y_A = −1 (dus A(0, −1))\n• Een vergelijking van de horizontale asymptoot is y = 2\n• x_B is oplossing van de vergelijking −¾x + 5 = 2 en dit geeft x = 4 (dus B(4,2))\n• De richtingscoëfficiënt van de lijn door P en Q is (3½ − ½)/(2 − −2) = 3/4 en van de lijn door A en B (2 − −1)/(4 − 0) = 3/4\n• De raaklijnen zijn evenwijdig en de lijnen PQ en AB zijn evenwijdig, (of: vierhoek ABPQ is een parallellogram,) dus AB en PQ zijn even lang\nof\n• y_A = −1 (dus A(0, −1))\n• Een vergelijking van de horizontale asymptoot is y = 2\n• x_B is oplossing van de vergelijking −¾x + 5 = 2 en dit geeft x = 4 (dus B(4,2))\n• x_B − x_A = 4 − 0 = 4 en y_B − y_A = 2 − −1 = 3\n• x_P − x_Q = 2 − −2 = 4 = x_B − x_A en y_P − y_Q = 3½ − ½ = 3 = y_B − y_A, (dus √((x_B − x_A)² + (y_B − y_A)²) = √((x_P − x_Q)² + (y_P − y_Q)²)) dus AB en PQ zijn even lang\nof\n• y_A = −1 (dus A(0, −1))\n• Een vergelijking van de horizontale asymptoot is y = 2\n• x_B is oplossing van de vergelijking −¾x + 5 = 2 en dit geeft x = 4 (dus B(4,2))\n• x_A − x_Q = 0 − −2 = 2 en x_B − x_P = 4 − 2 = 2\n• De raaklijnen zijn evenwijdig, (dus omdat x_A − x_Q = x_B − x_P geldt ook y_A − y_Q = y_B − y_P, dus √((x_A − x_Q)² + (y_A − y_Q)²) = √((x_B − x_P)² + (y_B − y_P)²),) dus AQ = BP. Dan zijn AB en PQ ook evenwijdig, (of: vierhoek ABPQ is een parallellogram,) dus AB en PQ zijn even lang",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "PQ = √(4² + 3²) = 5"
+     },
+     {
+      "points": 1,
+      "description": "y_A = −1 (dus A(0, −1))"
+     },
+     {
+      "points": 1,
+      "description": "Een vergelijking van de horizontale asymptoot is y = 2"
+     },
+     {
+      "points": 1,
+      "description": "x_B is oplossing van de vergelijking −¾x + 5 = 2 en dit geeft x = 4 (dus B(4,2))"
+     },
+     {
+      "points": 1,
+      "description": "AB = √(4² + 3²) = 5 (, dus AB en PQ zijn even lang)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-hyperbool-antw6.png"
+    ]
+   },
+   {
+    "title": "Hyperbool",
+    "question_number": 7,
+    "answer_text": "• x_C is oplossing van de vergelijking 3/x + 2 = 1\n• Dit geeft x = −3\n• x_D is oplossing van de vergelijking 3/x + 2 = 0\n• Dit geeft x = −1½, dus de lengte van CD is 1½",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "x_C is oplossing van de vergelijking 3/x + 2 = 1"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x = −3"
+     },
+     {
+      "points": 1,
+      "description": "x_D is oplossing van de vergelijking 3/x + 2 = 0"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft x = −1½, dus de lengte van CD is 1½"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-hyperbool-antw7.png"
+    ]
+   },
+   {
+    "title": "Hyperbool",
+    "question_number": 8,
+    "answer_text": "• Een vergelijking van de 1½ naar links verschoven grafiek is y = ²log(2(x + 1½)) − ²log(x + 1½ − 1½)\n• Herleiden tot y = ²log((2x + 3)/x) (voor x > 0)\n• Teller en noemer van de breuk delen door x geeft y = ²log(2 + 3/x) (voor x > 0), dus de bewering is juist\nof\n• Als (het weergegeven deel van) de grafiek van y = ²log(3/x + 2) 1½ naar rechts wordt verschoven, dan is y = ²log(3/(x − 1½) + 2) een vergelijking van deze naar rechts verschoven grafiek\n• 3/(x − 1½) + 2 = 3/(x − 1½) + 2(x − 1½)/(x − 1½) = 2x/(x − 1½)\n• ²log(2x/(x − 1½)) = ²log(2x) − ²log(x − 1½) (voor x > 1½), dus de bewering is juist",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een vergelijking van de 1½ naar links verschoven grafiek is y = ²log(2(x + 1½)) − ²log(x + 1½ − 1½)"
+     },
+     {
+      "points": 1,
+      "description": "Herleiden tot y = ²log((2x + 3)/x) (voor x > 0)"
+     },
+     {
+      "points": 1,
+      "description": "Teller en noemer van de breuk delen door x geeft y = ²log(2 + 3/x) (voor x > 0), dus de bewering is juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-hyperbool-antw8.png"
+    ]
+   },
+   {
+    "title": "Temperatuur in de grond",
+    "question_number": 9,
+    "answer_text": "• (De evenwichtstemperatuur is 20 graden, dus) a = 20\n• (De amplitude is 13, dus) b = 13\n• (De periode is 24 uur, dus) 2π/24 = 0,26…, dus c = 0,3\n• (De grafiek gaat op t = 8 stijgend door de evenwichtsstand, dus) d = 8 (of een andere correcte waarde)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(De evenwichtstemperatuur is 20 graden, dus) a = 20"
+     },
+     {
+      "points": 1,
+      "description": "(De amplitude is 13, dus) b = 13"
+     },
+     {
+      "points": 1,
+      "description": "(De periode is 24 uur, dus) 2π/24 = 0,26…, dus c = 0,3"
+     },
+     {
+      "points": 1,
+      "description": "(De grafiek gaat op t = 8 stijgend door de evenwichtsstand, dus) d = 8 (of een andere correcte waarde)"
+     }
+    ],
+    "grading_note": "Als uitsluitend de waarden van a, b, c en d van een andere grafiek dan die op de grond is bepaald, voor deze vraag hoogstens 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-temperatuur-in-de-grond-antw9.png"
+    ]
+   },
+   {
+    "title": "Temperatuur in de grond",
+    "question_number": 10,
+    "answer_text": "• De groeifactor per 5 cm is 2,3/5,5 (= 0,418…)\n• De groeifactor per 1 cm is (2,3/5,5)^(1/5) (= 0,839…)\n• Dat is 16 (%) afname (per cm)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De groeifactor per 5 cm is 2,3/5,5 (= 0,418…)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per 1 cm is (2,3/5,5)^(1/5) (= 0,839…)"
+     },
+     {
+      "points": 1,
+      "description": "Dat is 16 (%) afname (per cm)"
+     }
+    ],
+    "grading_note": "Als gebruik is gemaakt van de in vraag 9 bepaalde amplitude op de grond, dan geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-temperatuur-in-de-grond-antw10.png"
+    ]
+   },
+   {
+    "title": "Temperatuur in de grond",
+    "question_number": 11,
+    "answer_text": "• Er geldt: 20 = 4√I\n• Hieruit volgt I = ((20/4)² =) 25\n• (Er moet gelden z = 0, dus) I moet 0 worden\n• Na 5 hele dagen (omdat 4 < 25/6 < 5) is de vorst uit de grond verdwenen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt: 20 = 4√I"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt I = ((20/4)² =) 25"
+     },
+     {
+      "points": 1,
+      "description": "(Er moet gelden z = 0, dus) I moet 0 worden"
+     },
+     {
+      "points": 1,
+      "description": "Na 5 hele dagen (omdat 4 < 25/6 < 5) is de vorst uit de grond verdwenen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-temperatuur-in-de-grond-antw11.png"
+    ]
+   },
+   {
+    "title": "Een wortelfunctie benaderen",
+    "question_number": 12,
+    "answer_text": "• De afgeleide van 4 − x is −1\n• f′(x) = −1/√(4 − x) (= −(4 − x)^(−½))\n• g′(x) = 3a · x² + 2b · x + c\n• Uit f′(0) = g′(0) volgt c = −1/√(4 − 0) = −½",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De afgeleide van 4 − x is −1"
+     },
+     {
+      "points": 1,
+      "description": "f′(x) = −1/√(4 − x) (= −(4 − x)^(−½))"
+     },
+     {
+      "points": 1,
+      "description": "g′(x) = 3a · x² + 2b · x + c"
+     },
+     {
+      "points": 1,
+      "description": "Uit f′(0) = g′(0) volgt c = −1/√(4 − 0) = −½"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-een-wortelfunctie-benaderen-antw12.png"
+    ]
+   },
+   {
+    "title": "Een wortelfunctie benaderen",
+    "question_number": 13,
+    "answer_text": "• De vergelijking −(1/256)x³ − (1/32)x² − ½x + 5 − (1 + 2√(4 − x)) = 0,05 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• De oplossingen x = −3,37 en x = 2,56",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking −(1/256)x³ − (1/32)x² − ½x + 5 − (1 + 2√(4 − x)) = 0,05 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De oplossingen x = −3,37 en x = 2,56"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-een-wortelfunctie-benaderen-antw13.png"
+    ]
+   },
+   {
+    "title": "Gelijkvormige driehoeken",
+    "question_number": 14,
+    "answer_text": "• (Driehoek ABS is gelijkvormig met driehoek CDS, dus) AB/5 = 11/4\n• Dan is AB = 13,75\n• (Driehoek AEF is gelijkvormig met driehoek ABS, dus) EF/11 = (13,75 − 2)/13,75\n• Hieruit volgt dat EF = 9,4\n• Gebruik van de cosinusregel in driehoek AEF geeft 11,75² = 9,4² + AF² − 2 · 9,4 · AF · cos(60°)\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Het antwoord AF = 13,2\nof\n• (Driehoek ABS is gelijkvormig met driehoek CDS, dus) AB/5 = 11/4\n• Dan is AB = 13,75\n• Gebruik van de cosinusregel in driehoek CDS geeft 5² = 4² + CS² − 2 · 4 · CS · cos(60°)\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Hieruit volgt dat CS = 5,60…\n• (Driehoek AEF is gelijkvormig met driehoek CDS, dus) AF/5,60… = (13,75 − 2)/5\n• Het antwoord AF = 13,2\nof\n• Gebruik van de cosinusregel in driehoek CDS geeft 5² = 4² + CS² − 2 · 4 · CS · cos(60°)\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Hieruit volgt dat CS = 5,60…\n• (Driehoek ABS is gelijkvormig met driehoek CDS, dus) AB/5 = AS/5,60… = 11/4\n• Dan is AS = 15,41… en AB = 13,75\n• (Driehoek ABS is gelijkvormig met driehoek AEF, dus) 15,41…/AF = 13,75/(13,75 − 2)\n• Het antwoord AF = 13,2\nof\n• Gebruik van de sinusregel in driehoek CDS geeft 5/sin(60°) = 4/sin(∠C)\n• Dan is ∠C = 43,85…° en ∠D = (180° − 60° − 43,85…° =) 76,14…°\n• Gebruik van de cosinusregel in driehoek CDS geeft CS² = 4² + 5² − 2 · 4 · 5 · cos(76,14…°), dus CS = 5,60… (of gebruik van de sinusregel in driehoek CDS geeft CS/sin(76,14…°) = 5/sin(60°) (of CS/sin(76,14…°) = 4/sin(43,85…°)), dus CS = 5,60…)\n• (Driehoek ABS is gelijkvormig met driehoek CDS, dus) AB/5 = AS/5,60… = 11/4\n• Dan is AS = 15,41… en AB = 13,75\n• (Driehoek ABS is gelijkvormig met driehoek AEF, dus) 15,41…/AF = 13,75/(13,75 − 2)\n• Het antwoord AF = 13,2",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Driehoek ABS is gelijkvormig met driehoek CDS, dus) AB/5 = 11/4"
+     },
+     {
+      "points": 1,
+      "description": "Dan is AB = 13,75"
+     },
+     {
+      "points": 1,
+      "description": "(Driehoek AEF is gelijkvormig met driehoek ABS, dus) EF/11 = (13,75 − 2)/13,75"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt dat EF = 9,4"
+     },
+     {
+      "points": 1,
+      "description": "Gebruik van de cosinusregel in driehoek AEF geeft 11,75² = 9,4² + AF² − 2 · 9,4 · AF · cos(60°)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord AF = 13,2"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-gelijkvormige-driehoeken-antw14.png"
+    ]
+   },
+   {
+    "title": "Komeetbanen",
+    "question_number": 15,
+    "answer_text": "• Er geldt g = 4k (of k = ¼g)\n• Invullen geeft e = (4k − k)/(4k + k) (of e = (g − ¼g)/(g + ¼g))\n• Teller en noemer delen door k (of g) geeft een constante waarde (e = 3/5), dus deze banen hebben allemaal dezelfde excentriciteit",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt g = 4k (of k = ¼g)"
+     },
+     {
+      "points": 1,
+      "description": "Invullen geeft e = (4k − k)/(4k + k) (of e = (g − ¼g)/(g + ¼g))"
+     },
+     {
+      "points": 1,
+      "description": "Teller en noemer delen door k (of g) geeft een constante waarde (e = 3/5), dus deze banen hebben allemaal dezelfde excentriciteit"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-komeetbanen-antw15.png"
+    ]
+   },
+   {
+    "title": "Komeetbanen",
+    "question_number": 16,
+    "answer_text": "• In de figuur op de uitwerkbijlage geldt g + k = 10\n• Ook geldt (g − k)/(g + k) = 0,553, dus g − k = 5,53\n• Beschrijven hoe het stelsel van vergelijkingen kan worden opgelost\n• Dit geeft g = 7,8 (of nauwkeuriger) (of k = 2,2 (of nauwkeuriger))\n• Het tekenen van de correcte plaats van de zon met een marge van 2 mm\nof\n• In de figuur op de uitwerkbijlage geldt g + k = 10\n• Ook geldt (g − k)/(g + k) = 0,553, dus g − k = 5,53\n• (Uit de symmetrie van de komeetbaan in de korte as volgt) k = (10 − (g − k))/2\n• Dit geeft k = 2,2 (of nauwkeuriger) (of g = 7,8 (of nauwkeuriger))\n• Het tekenen van de correcte plaats van de zon met een marge van 2 mm",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In de figuur op de uitwerkbijlage geldt g + k = 10"
+     },
+     {
+      "points": 1,
+      "description": "Ook geldt (g − k)/(g + k) = 0,553, dus g − k = 5,53"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe het stelsel van vergelijkingen kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft g = 7,8 (of nauwkeuriger) (of k = 2,2 (of nauwkeuriger))"
+     },
+     {
+      "points": 1,
+      "description": "Het tekenen van de correcte plaats van de zon met een marge van 2 mm"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-komeetbanen-antw16.png"
+    ]
+   },
+   {
+    "title": "Komeetbanen",
+    "question_number": 17,
+    "answer_text": "• Er geldt a³ = c · T² (, met c de evenredigheidsconstante)\n• Aflezen van de coördinaten van één punt op de lijn (bijvoorbeeld (190; 0,64)) (uitgezonderd (0,0))\n• Dit geeft c = 0,003368…\n• Voor 55P geldt a³ = 0,003368… · 33,2226² (= 3,7178…)\n• Dit geeft a = ∛(0,003368… · 33,2226²), dus het eindantwoord is 1,55\nof\n• Er geldt T² = c · a³ (, met c de evenredigheidsconstante)\n• Aflezen van de coördinaten van één punt op de lijn (bijvoorbeeld (190; 0,64)) (uitgezonderd (0,0))\n• Dit geeft c = 296,875\n• Voor 55P geldt 33,2226² = 296,875a³\n• Dit geeft a = ∛(33,2226²/296,875), dus het eindantwoord is 1,55\nof\n• Voor twee punten (T₁², a₁³) en (T₂², a₂³) op de lijn geldt a₁³/T₁² = a₂³/T₂²\n• Aflezen van de coördinaten van één punt op de lijn (bijvoorbeeld (190; 0,64)) (uitgezonderd (0,0))\n• Voor 55P geldt a³/33,2226² = 0,64/190\n• Dit geeft voor a het eindantwoord 1,55",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt a³ = c · T² (, met c de evenredigheidsconstante)"
+     },
+     {
+      "points": 1,
+      "description": "Aflezen van de coördinaten van één punt op de lijn (bijvoorbeeld (190; 0,64)) (uitgezonderd (0,0))"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft c = 0,003368…"
+     },
+     {
+      "points": 1,
+      "description": "Voor 55P geldt a³ = 0,003368… · 33,2226² (= 3,7178…)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft a = ∛(0,003368… · 33,2226²), dus het eindantwoord is 1,55"
+     }
+    ],
+    "grading_note": "– Als bij de drie antwoordalternatieven het aflezen leidt tot een eindantwoord voor a buiten het interval [1,54; 1,56], via een correcte berekening, dan 1 scorepunt in mindering brengen.\n– Voor het eerste antwoordelement van het derde antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-b-havo-2026-i-komeetbanen-antw17.png"
+    ]
+   }
+  ]
+ }
+}
