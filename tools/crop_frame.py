@@ -397,7 +397,9 @@ def wipe_all_except(page, y0, y1, window, keep_boxes, pad=2.0, gap=1.0):
     wx0, wx1 = window
     out = []
     for bx0, by0, bx1, by1 in content_boxes(page):
-        if by1 <= y0 or by0 >= y1:
+        # boxes up to 3pt outside the crop count too: their ink (stretched
+        # delimiters) can reach into the crop's pad strip
+        if by1 <= y0 - 3 or by0 >= y1 + 3:
             continue
         if bx1 <= wx0 or bx0 >= wx1:
             continue
@@ -408,7 +410,17 @@ def wipe_all_except(page, y0, y1, window, keep_boxes, pad=2.0, gap=1.0):
                 keep = True
                 break
         if not keep:
-            out.append((bx0 - pad, by0 - pad, bx1 + pad, by1 + pad))
+            top, bot = by0 - pad, by1 + pad
+            # Cambria Math stretched delimiters (the big "(" around ½ in
+            # "Q(−2, ½)") have ink well above their reported bbox; a line
+            # entirely below / above every keep box is therefore wiped
+            # right up to the keep box (HAVO-WISB-26-I-O.pdf p.3: the
+            # paren tops showed under vraag 5 "Bewijs dit.").
+            if keep_boxes and by0 >= max(k[3] for k in keep_boxes):
+                top = min(top, max(k[3] for k in keep_boxes) + 0.5)
+            if keep_boxes and by1 <= min(k[1] for k in keep_boxes):
+                bot = max(bot, min(k[1] for k in keep_boxes) - 0.5)
+            out.append((bx0 - pad, top, bx1 + pad, bot))
     return out
 
 

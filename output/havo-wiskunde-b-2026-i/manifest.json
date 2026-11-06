@@ -1,0 +1,59 @@
+{
+  "source": "HAVO Wiskunde B 2026-I",
+  "subject_name": "Wiskunde B",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Hoeken",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Exponentiële functies",
+      "question_numbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Hyperbool",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Temperatuur in de grond",
+      "question_numbers": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Een wortelfunctie benaderen",
+      "question_numbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Gelijkvormige driehoeken",
+      "question_numbers": [
+        14
+      ]
+    },
+    {
+      "title": "Komeetbanen",
+      "question_numbers": [
+        15,
+        16,
+        17
+      ]
+    }
+  ]
+}
