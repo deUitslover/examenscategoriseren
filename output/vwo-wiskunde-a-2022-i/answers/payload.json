@@ -1,0 +1,512 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "source": "VWO Wiskunde A 2022-I",
+  "answers": [
+   {
+    "title": "Blindsimultaandammen",
+    "question_number": 1,
+    "answer_text": "• Zijn score was 7 punten\n• Eén mogelijkheid is 3 keer winst, 1 keer remise en 1 keer verlies\n• Eén mogelijkheid is 2 keer winst, 3 keer remise (en 0 keer verlies)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Zijn score was 7 punten"
+     },
+     {
+      "points": 1,
+      "description": "Eén mogelijkheid is 3 keer winst, 1 keer remise en 1 keer verlies"
+     },
+     {
+      "points": 1,
+      "description": "Eén mogelijkheid is 2 keer winst, 3 keer remise (en 0 keer verlies)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-blindsimultaandammen-antw1.png"
+    ]
+   },
+   {
+    "title": "Blindsimultaandammen",
+    "question_number": 2,
+    "answer_text": "• Als een van de remisepartijen vervangen zou worden door een verloren partij dan zou zijn score 14 · 2 + 17 · 1 = 45 zijn\n• Dit levert 45/64 · 100(%) = 70,3... (%) dus de bewering is onjuist\nof\n• Om een 70%-score te halen, moeten er 45 punten behaald worden en in 14 gewonnen partijen worden al 28 punten behaald\n• De resterende (45 − 28 =) 17 punten moeten in (32 − 14 =) 18 partijen behaald worden\n• Dat kan met 17 keer remise en 1 verliespartij dus de bewering is onjuist",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Als een van de remisepartijen vervangen zou worden door een verloren partij dan zou zijn score 14 · 2 + 17 · 1 = 45 zijn"
+     },
+     {
+      "points": 1,
+      "description": "Dit levert 45/64 · 100(%) = 70,3... (%) dus de bewering is onjuist"
+     }
+    ],
+    "grading_note": "Bij het eerste antwoordalternatief mag voor het eerste antwoordelement voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-blindsimultaandammen-antw2.png"
+    ]
+   },
+   {
+    "title": "Blindsimultaandammen",
+    "question_number": 3,
+    "answer_text": "Een aanpak als:\n• Een vergelijking van de lijn is p = ⅔t + 10\n• De vergelijking ⅔t + 10 = 38 moet opgelost worden\n• De oplossing t = 42\n• Het antwoord: 2024",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een vergelijking van de lijn is p = ⅔t + 10"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking ⅔t + 10 = 38 moet opgelost worden"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing t = 42"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 2024"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-blindsimultaandammen-antw3.png"
+    ]
+   },
+   {
+    "title": "Blindsimultaandammen",
+    "question_number": 4,
+    "answer_text": "Een correct ingevuld diagram (zie afbeelding).",
+    "scoring_steps": [
+     {
+      "points": 4,
+      "description": "Een correct ingevuld diagram"
+     }
+    ],
+    "grading_note": "− Voor elk foutief getekend of niet-getekend punt 1 scorepunt in mindering brengen.\n− De relevante waarden van d mogen met een marge van 1 uur worden afgelezen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-blindsimultaandammen-antw4.png"
+    ]
+   },
+   {
+    "title": "Levensverwachting",
+    "question_number": 5,
+    "answer_text": "Een aanpak als:\n• Het schatten van de richtingscoëfficiënt van de grafiek door middel van het aflezen van twee punten\n• Die richtingscoëfficiënt is 0,15 (of, afhankelijk van de afgelezen punten, een ander getal in het interval [0,13; 0,17])\n• Volgens een lineair model zal de levensverwachting in 2099 81,04 + 86 · 0,15 = 93,94 (jaar) zijn\n• Een passende conclusie\nof\n• Het schatten van de richtingscoëfficiënt van de grafiek door middel van het aflezen van twee punten\n• Die richtingscoëfficiënt is 0,15 (of, afhankelijk van de afgelezen punten, een ander getal in het interval [0,13; 0,17])\n• De richtingscoëfficiënt volgens de schatting van 2013 tot 2099 is (90,78 − 81,04)/(2099 − 2013) ≈ 0,11\n• Een passende conclusie",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het schatten van de richtingscoëfficiënt van de grafiek door middel van het aflezen van twee punten"
+     },
+     {
+      "points": 1,
+      "description": "Die richtingscoëfficiënt is 0,15 (of, afhankelijk van de afgelezen punten, een ander getal in het interval [0,13; 0,17])"
+     },
+     {
+      "points": 1,
+      "description": "Volgens een lineair model zal de levensverwachting in 2099 81,04 + 86 · 0,15 = 93,94 (jaar) zijn"
+     },
+     {
+      "points": 1,
+      "description": "Een passende conclusie"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-levensverwachting-antw5.png"
+    ]
+   },
+   {
+    "title": "Levensverwachting",
+    "question_number": 6,
+    "answer_text": "Een aanpak als:\n• De werkelijke levensverwachting is 78,5 (jaar) en de levensverwachting volgens de trendlijn is 87,5 (jaar)\n• Dus de werkelijke levensverwachting is (87,5 − 78,5)/87,5 × 100(%) lager\n• Het antwoord: 10(%)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De werkelijke levensverwachting is 78,5 (jaar) en de levensverwachting volgens de trendlijn is 87,5 (jaar)"
+     },
+     {
+      "points": 1,
+      "description": "Dus de werkelijke levensverwachting is (87,5 − 78,5)/87,5 × 100(%) lager"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 10(%)"
+     }
+    ],
+    "grading_note": "De levensverwachtingen mogen met een marge van 1,5 jaar worden afgelezen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-levensverwachting-antw6.png"
+    ]
+   },
+   {
+    "title": "Levensverwachting",
+    "question_number": 7,
+    "answer_text": "• (log(L) = 0,084 · log(P) + 1,509 geeft) L = 10⁰˒⁰⁸⁴·ˡᵒᵍ⁽ᴾ⁾⁺¹˒⁵⁰⁹\n• L = 10⁰˒⁰⁸⁴·ˡᵒᵍ⁽ᴾ⁾ · 10¹˒⁵⁰⁹\n• L = 10ˡᵒᵍ⁽ᴾ⁰˒⁰⁸⁴⁾ · 10¹˒⁵⁰⁹ (of L = (10ˡᵒᵍ⁽ᴾ⁾)⁰˒⁰⁸⁴ · 10¹˒⁵⁰⁹)\n• Hieruit volgt: L = 32,28 · P⁰˒⁰⁸⁴\nof\n• (log(L) = 0,084 · log(P) + 1,509 geeft) log(L) = log(P⁰˒⁰⁸⁴) + 1,509\n• log(L) = log(P⁰˒⁰⁸⁴) + log(10¹˒⁵⁰⁹)\n• log(L) = log(P⁰˒⁰⁸⁴ · 10¹˒⁵⁰⁹)\n• Hieruit volgt: L = 32,28 · P⁰˒⁰⁸⁴",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(log(L) = 0,084 · log(P) + 1,509 geeft) L = 10⁰˒⁰⁸⁴·ˡᵒᵍ⁽ᴾ⁾⁺¹˒⁵⁰⁹"
+     },
+     {
+      "points": 1,
+      "description": "L = 10⁰˒⁰⁸⁴·ˡᵒᵍ⁽ᴾ⁾ · 10¹˒⁵⁰⁹"
+     },
+     {
+      "points": 1,
+      "description": "L = 10ˡᵒᵍ⁽ᴾ⁰˒⁰⁸⁴⁾ · 10¹˒⁵⁰⁹ (of L = (10ˡᵒᵍ⁽ᴾ⁾)⁰˒⁰⁸⁴ · 10¹˒⁵⁰⁹)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt: L = 32,28 · P⁰˒⁰⁸⁴"
+     }
+    ],
+    "grading_note": "Bij beide antwoordalternatieven: als het vierde antwoordelement vermeld is zonder voorafgegaan te worden door het tweede én het derde antwoordelement (of daarmee gelijkwaardige beweringen), geen scorepunt voor dit vierde antwoordelement toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-levensverwachting-antw7.png"
+    ]
+   },
+   {
+    "title": "Levensverwachting",
+    "question_number": 8,
+    "answer_text": "• L′ = 32,28 · 0,084 · P⁻⁰˒⁹¹⁶ (= 2,71... · P⁻⁰˒⁹¹⁶)\n• Als P toeneemt, dan wordt P⁻⁰˒⁹¹⁶ steeds kleiner\n• Dus L′ neemt af\n• Er is dus sprake van afnemende stijging\nof\n• L′ = 32,28 · 0,084 · P⁻⁰˒⁹¹⁶ (= 2,71... · P⁻⁰˒⁹¹⁶)\n• Een schets van de grafiek van L′\n• De grafiek van L′ is dalend\n• Er is dus sprake van afnemende stijging",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "L′ = 32,28 · 0,084 · P⁻⁰˒⁹¹⁶ (= 2,71... · P⁻⁰˒⁹¹⁶)"
+     },
+     {
+      "points": 1,
+      "description": "Als P toeneemt, dan wordt P⁻⁰˒⁹¹⁶ steeds kleiner"
+     },
+     {
+      "points": 1,
+      "description": "Dus L′ neemt af"
+     },
+     {
+      "points": 1,
+      "description": "Er is dus sprake van afnemende stijging"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-levensverwachting-antw8.png"
+    ]
+   },
+   {
+    "title": "Formule van Camp",
+    "question_number": 9,
+    "answer_text": "de aantallen 1, 2, 5, 10, 20, 25, 50 en 100",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "de aantallen 1, 2, 5, 10, 20, 25, 50 en 100"
+     }
+    ],
+    "grading_note": "− Bij minder dan 4 juiste aantallen bestellingen, geen scorepunten toekennen.\n− Bij 4 tot en met 7 juiste aantallen bestellingen, maximaal 1 scorepunt toekennen.\n− Voor elk verkeerd aantal bestellingen, 1 scorepunt in mindering brengen.\n− Het al dan niet vermelden van het aantal bestellingen 4 is niet relevant voor de beoordeling van de vraag.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-formule-van-camp-antw9.png"
+    ]
+   },
+   {
+    "title": "Formule van Camp",
+    "question_number": 10,
+    "answer_text": "• De ongelijkheid (1000 · 8)/n + 0,5 · n · 0,60 ≤ 110 of de vergelijking (1000 · 8)/n + 0,5 · n · 0,60 = 110 moet worden opgelost\n• Beschrijven hoe de (bijbehorende) vergelijking kan worden opgelost\n• De oplossing: (100 en) 266,...\n• Het aantal producten per bestelling is 250\n• Het antwoord: (het aantal bestellingen is minimaal 1000/250 =) 4",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De ongelijkheid (1000 · 8)/n + 0,5 · n · 0,60 ≤ 110 of de vergelijking (1000 · 8)/n + 0,5 · n · 0,60 = 110 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de (bijbehorende) vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing: (100 en) 266,..."
+     },
+     {
+      "points": 1,
+      "description": "Het aantal producten per bestelling is 250"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (het aantal bestellingen is minimaal 1000/250 =) 4"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-formule-van-camp-antw10.png"
+    ]
+   },
+   {
+    "title": "Formule van Camp",
+    "question_number": 11,
+    "answer_text": "• dK/dn = −(A · B)/n² + ½V (of een vergelijkbare uitdrukking)\n• Uit dK/dn = 0 volgt (A · B)/n² = ½V\n• Hieruit volgt n² = (2 · A · B)/V (dus n = √((2 · A · B)/V))",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "dK/dn = −(A · B)/n² + ½V (of een vergelijkbare uitdrukking)"
+     },
+     {
+      "points": 1,
+      "description": "Uit dK/dn = 0 volgt (A · B)/n² = ½V"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt n² = (2 · A · B)/V (dus n = √((2 · A · B)/V))"
+     }
+    ],
+    "grading_note": "Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-formule-van-camp-antw11.png"
+    ]
+   },
+   {
+    "title": "Formule van Camp",
+    "question_number": 12,
+    "answer_text": "• Invullen in (3): Kₘᵢₙ = c · √(1000 · 8 · 0,60) (= c · √4800 = 69,2... · c)\n• Invullen in (2): n = √((2 · 1000 · 8)/0,60) (= 163,2...)\n• Deze waarde van n invullen in (1) geeft K = (8 · 1000)/163,2... + ½ · 163,2... · 0,60 = 97,9...\n• Deze K gelijk stellen aan Kₘᵢₙ geeft 97,9... = 69,2... · c\n• Het antwoord: (c =) 1,41",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Invullen in (3): Kₘᵢₙ = c · √(1000 · 8 · 0,60) (= c · √4800 = 69,2... · c)"
+     },
+     {
+      "points": 1,
+      "description": "Invullen in (2): n = √((2 · 1000 · 8)/0,60) (= 163,2...)"
+     },
+     {
+      "points": 1,
+      "description": "Deze waarde van n invullen in (1) geeft K = (8 · 1000)/163,2... + ½ · 163,2... · 0,60 = 97,9..."
+     },
+     {
+      "points": 1,
+      "description": "Deze K gelijk stellen aan Kₘᵢₙ geeft 97,9... = 69,2... · c"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (c =) 1,41"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-formule-van-camp-antw12.png"
+    ]
+   },
+   {
+    "title": "Bloeddruk",
+    "question_number": 13,
+    "answer_text": "Een aanpak als:\n• De periode van de grafiek is 0,8 (seconde) (of een andere waarde uit het interval [0,75; 0,85])\n• Het antwoord: (60/0,8 =) 75 (slagen per minuut)\nof\n• Er zijn 5 hartslagen in 4 seconden (of een andere waarde uit het interval [3,7; 4,3])\n• Het antwoord: (60/4 · 5 =) 75 (slagen per minuut)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De periode van de grafiek is 0,8 (seconde) (of een andere waarde uit het interval [0,75; 0,85])"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (60/0,8 =) 75 (slagen per minuut)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-bloeddruk-antw13.png"
+    ]
+   },
+   {
+    "title": "Bloeddruk",
+    "question_number": 14,
+    "answer_text": "• De evenwichtsstand is (124 + 82)/2 = 103 (dus a = 103)\n• De amplitude is 124 − 103 = 21 (dus b = 21)\n• De periode is 60/66 seconde\n• c = 2⅕π (of c = 6,9...) dus P = 103 + 21sin(2⅕πt) (of P = 103 − 21sin(2⅕πt))",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De evenwichtsstand is (124 + 82)/2 = 103 (dus a = 103)"
+     },
+     {
+      "points": 1,
+      "description": "De amplitude is 124 − 103 = 21 (dus b = 21)"
+     },
+     {
+      "points": 1,
+      "description": "De periode is 60/66 seconde"
+     },
+     {
+      "points": 1,
+      "description": "c = 2⅕π (of c = 6,9...) dus P = 103 + 21sin(2⅕πt) (of P = 103 − 21sin(2⅕πt))"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-bloeddruk-antw14.png"
+    ]
+   },
+   {
+    "title": "Bloeddruk",
+    "question_number": 15,
+    "answer_text": "Een aanpak als:\n• Het verband is recht evenredig, dus de formule is van de vorm K = a · H\n• ⚠️ CONTROLEREN: in het correctievoorschrift staat bij dit element 1 scorepunt, maar de maximumscore is 3 en de opmerking spreekt van 0 of 2 scorepunten — 1 mmHg komt overeen met 101,325/760 (= 0,133...) kPa, dus een mogelijke formule: K = 0,13H\nof\n• Het verband is recht evenredig, dus de formule is van de vorm H = a · K\n• 1 kPa komt overeen met 760/101,325 (= 7,500...) mmHg, dus een mogelijke formule: H = 7,50K",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het verband is recht evenredig, dus de formule is van de vorm K = a · H"
+     },
+     {
+      "points": 2,
+      "description": "⚠️ CONTROLEREN: in het correctievoorschrift staat bij dit element 1 scorepunt, maar de maximumscore is 3 en de opmerking spreekt van 0 of 2 scorepunten — 1 mmHg komt overeen met 101,325/760 (= 0,133...) kPa, dus een mogelijke formule: K = 0,13H"
+     }
+    ],
+    "grading_note": "Voor het tweede antwoordelement van elk van beide antwoordalternatieven mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-bloeddruk-antw15.png"
+    ]
+   },
+   {
+    "title": "Bloeddruk",
+    "question_number": 16,
+    "answer_text": "• De formule voor de bloeddrukmeter is P = 170 − 10t (met P de druk in mmHg en t de tijd in seconden)\n• Het inzicht dat het eerste en het laatste snijpunt van de grafieken van P = 170 − 10t en P = 110 + 23sin(2πt) gevonden moeten worden\n• Beschrijven hoe de vergelijking 170 − 10t = 110 + 23sin(2πt) kan worden opgelost\n• Het eerste snijpunt geeft P = 128,5... en het laatste snijpunt geeft P = 91,4...\n• Het antwoord: bovendruk 129 (mmHg), onderdruk 91 (mmHg)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De formule voor de bloeddrukmeter is P = 170 − 10t (met P de druk in mmHg en t de tijd in seconden)"
+     },
+     {
+      "points": 1,
+      "description": "Het inzicht dat het eerste en het laatste snijpunt van de grafieken van P = 170 − 10t en P = 110 + 23sin(2πt) gevonden moeten worden"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 170 − 10t = 110 + 23sin(2πt) kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het eerste snijpunt geeft P = 128,5... en het laatste snijpunt geeft P = 91,4..."
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: bovendruk 129 (mmHg), onderdruk 91 (mmHg)"
+     }
+    ],
+    "grading_note": "− Als een kandidaat niet de snijpunten van de twee grafieken berekend heeft, maar maximum en minimum van de sinusfunctie bepaald heeft, maximaal 1 scorepunt voor deze vraag toekennen.\n− Als een kandidaat voor het laatste snijpunt de waarde P = 91,5 heeft afgelezen en hierdoor op een onderdruk van 92 (mmHG) komt, hiervoor geen scorepunten in mindering brengen",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-bloeddruk-antw16.png"
+    ]
+   },
+   {
+    "title": "Support",
+    "question_number": 17,
+    "answer_text": "• Op t = 2 is het percentage 51,8... en op t = 5 is het percentage 83,9...\n• De procentuele toename is (83,9... − 51,8...)/51,8... · 100(%) (= 61,8...(%))\n• Het antwoord: 62(%)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Op t = 2 is het percentage 51,8... en op t = 5 is het percentage 83,9..."
+     },
+     {
+      "points": 1,
+      "description": "De procentuele toename is (83,9... − 51,8...)/51,8... · 100(%) (= 61,8...(%))"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 62(%)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-support-antw17.png"
+    ]
+   },
+   {
+    "title": "Support",
+    "question_number": 18,
+    "answer_text": "• Beschrijven hoe de vergelijking 100 · (1 − 0,97¹²ᵗ) = 90 kan worden opgelost\n• t = 6,299... (jaar)\n• Het antwoord: (het duurt) 6 jaar en 4 maanden (of 76 (maanden))",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 100 · (1 − 0,97¹²ᵗ) = 90 kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "t = 6,299... (jaar)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (het duurt) 6 jaar en 4 maanden (of 76 (maanden))"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-support-antw18.png"
+    ]
+   },
+   {
+    "title": "Support",
+    "question_number": 19,
+    "answer_text": "• P = (100 · (1 − 0,97¹²ᵗ) =) 100 − 100 · 0,97¹²ᵗ\n• P′ = −100 · 0,97¹²ᵗ · 12 · ln(0,97)\n• k = (−100 · 12 · ln(0,97) ≈) 36,55\nof\n• dP/dt = 100 · d(1 − 0,97¹²ᵗ)/dt\n• P′ = −100 · 0,97¹²ᵗ · 12 · ln(0,97)\n• k = (−100 · 12 · ln(0,97) ≈) 36,55",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "P = (100 · (1 − 0,97¹²ᵗ) =) 100 − 100 · 0,97¹²ᵗ"
+     },
+     {
+      "points": 3,
+      "description": "P′ = −100 · 0,97¹²ᵗ · 12 · ln(0,97)"
+     },
+     {
+      "points": 1,
+      "description": "k = (−100 · 12 · ln(0,97) ≈) 36,55"
+     }
+    ],
+    "grading_note": "Elk van de factoren −100 · 0,97¹²ᵗ, 12 en ln(0,97) in het tweede scoreelement is, bij elk van beide antwoordalternatieven, voldoende voor 1 scorepunt.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-support-antw19.png"
+    ]
+   },
+   {
+    "title": "Support",
+    "question_number": 20,
+    "answer_text": "• De afgeleide van P is positief, dus P stijgt\n• Voor toenemende t daalt 0,97¹²ᵗ (dus P neemt steeds minder sterk toe)\nof\n• Een schets van de afgeleide van P\n• De grafiek van de afgeleide ligt overal boven de horizontale as dus P neemt toe\n• De grafiek van de afgeleide is dalend (dus P neemt steeds minder sterk toe)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De afgeleide van P is positief, dus P stijgt"
+     },
+     {
+      "points": 2,
+      "description": "Voor toenemende t daalt 0,97¹²ᵗ (dus P neemt steeds minder sterk toe)"
+     }
+    ],
+    "grading_note": "Bij het eerste antwoordalternatief mogen voor het tweede antwoordelement uitsluitend 0 of 2 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-support-antw20.png"
+    ]
+   },
+   {
+    "title": "Sjinkie",
+    "question_number": 21,
+    "answer_text": "Een aanpak als:\n• Het vinden van de 7 juiste classificaties (zonder de afstanden te benoemen) (zie onderstaand schema)\n\nmogelijkheid | afstand 1 | afstand 2 | afstand 3 | afstand 4\n1 | 1e(34) | 2e(21) | geen punten | geen punten\n2 | 1e(34) | 3e(13) | 4e(8) | geen punten\n3 | 1e(34) | 3e(13) | 5e(5) | 6e(3)\n4 | 1e(34) | 4e(8) | 4e(8) | 5e(5)\n5 | 2e(21) | 2e(21) | 3e(13) | geen punten\n6 | 2e(21) | 2e(21) | 4e(8) | 5e(5)\n7 | 2e(21) | 3e(13) | 3e(13) | 4e(8)\n• Het inzicht dat elke classificatie (zie bovenstaand schema) op verschillende manieren verdeeld kan worden over de vier afstanden\n• Bovenstaande mogelijkheden 2 en 3 kunnen elk op 4! = 24 manieren verdeeld worden over de vier afstanden\n• Bovenstaande mogelijkheden 1, 4, 5, 6 en 7 kunnen elk op 4 · 3 = 12 manieren verdeeld worden over de vier afstanden\n• In totaal 2 · 24 + 5 · 12 = 108 manieren",
+    "scoring_steps": [
+     {
+      "points": 4,
+      "description": "Het vinden van de 7 juiste classificaties (zonder de afstanden te benoemen) (zie onderstaand schema)"
+     },
+     {
+      "points": 1,
+      "description": "Het inzicht dat elke classificatie (zie bovenstaand schema) op verschillende manieren verdeeld kan worden over de vier afstanden"
+     },
+     {
+      "points": 1,
+      "description": "Bovenstaande mogelijkheden 2 en 3 kunnen elk op 4! = 24 manieren verdeeld worden over de vier afstanden"
+     },
+     {
+      "points": 1,
+      "description": "Bovenstaande mogelijkheden 1, 4, 5, 6 en 7 kunnen elk op 4 · 3 = 12 manieren verdeeld worden over de vier afstanden"
+     },
+     {
+      "points": 1,
+      "description": "In totaal 2 · 24 + 5 · 12 = 108 manieren"
+     }
+    ],
+    "grading_note": "Voor elke vergeten of verkeerde classificatie (zie eerste antwoordelement) 1 scorepunt in mindering brengen, met een maximum van 4 scorepunten.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-i-sjinkie-antw21.png"
+    ]
+   }
+  ]
+ }
+}
