@@ -106,8 +106,16 @@ def opgave_title(page):
     # and the italic "Tenzij anders vermeld ..." line on page 1 (2019 layout)
     # (VWO-WISB-25-I-O.pdf p.5: the bar overlaps the title's descenders by
     # ~2pt, "Een wortelfunctie en haar inverse" ends at bar + 2.1)
-    lines = [l for l in text_lines(page) if l[3] <= bar + 4 and l[1] < bar - 5 and l[1] > max(40, bar - 30)]
-    return " ".join(l[4] for l in sorted(lines, key=lambda l: (l[1], l[0]))).strip()
+    all_lines = text_lines(page)
+    lines = [l for l in all_lines if l[3] <= bar + 4 and l[1] < bar - 5 and l[1] > max(40, bar - 30)]
+    # a title whose words sit on the same row but in separate spans that
+    # start slightly higher than the 40pt cutoff ("Zwemtijden en" +
+    # "FINA-punten", VWO-WISA-23-I-O.pdf p.12): add every line that
+    # vertically overlaps an already selected title line
+    for l in all_lines:
+        if l not in lines and l[3] <= bar + 4 and any(min(l[3], s[3]) - max(l[1], s[1]) > 5 for s in lines):
+            lines.append(l)
+    return " ".join(l[4] for l in sorted(lines, key=lambda l: (round(l[3] / 8), l[0]))).strip()
 
 
 def main():
