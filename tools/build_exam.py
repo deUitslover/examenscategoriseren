@@ -77,6 +77,7 @@ import json
 import os
 import re
 import sys
+import unicodedata
 
 import fitz
 
@@ -90,8 +91,11 @@ from unicode_chem import fix_symbol_font  # noqa: E402
 
 def slugify(s):
     s = s.lower()
-    for a, b in (("ë", "e"), ("é", "e"), ("è", "e"), ("ï", "i"), ("ö", "o"), ("ü", "u"), ("’", ""), ("'", "")):
+    for a, b in (("’", ""), ("'", "")):
         s = s.replace(a, b)
+    # strip every diacritic, not just a fixed list: "Skûtsjesilen" became
+    # "sk-tsjesilen" before (VWO-WISA-22-II-O.pdf)
+    s = "".join(c for c in unicodedata.normalize("NFKD", s) if not unicodedata.combining(c))
     s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
     return s
 
@@ -297,7 +301,13 @@ def main():
                 # wrapped last word of MC option D that find_vraag_lines
                 # missed, HAVO-BIO-23-I-O.pdf vraag 23) is wiped white
                 m = it["members"][0]
-                box = (m[0], m[1], m[2], m[3] + ext)
+                # the extra lines may be wider than the keep box (after
+                # --widen the box ends at the widened line; the next line
+                # "zonder een schets ... IFKS" runs further right,
+                # VWO-WISA-22-II-O.pdf p.5 vraag 9): grow x1 to cover them
+                x1 = max([m[2]] + [l[2] for l in text_lines(page)
+                                   if l[1] >= m[3] - 0.5 and l[3] <= m[3] + ext + 0.5 and l[0] >= m[0] - 1])
+                box = (m[0], m[1], x1, m[3] + ext)
                 it["members"] = [box]
                 # a ctx item that holds those lines as members (vraag beside
                 # a figure: VWO-WISB-24-II-O.pdf p.4 vraag 7 "volgt: sin(2t)

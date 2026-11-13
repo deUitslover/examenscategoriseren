@@ -24,8 +24,9 @@ vraag PNG is renamed to ...-vraag<real>.png.
 Subdomain names are validated against SUBDOMAINS below (HAVO Biologie
 list) or, with SUBJECT = "Wiskunde B" in the annotation file, against
 WISKUNDE_B_SUBDOMAINS (VWO Wiskunde B list) / HAVO_WISKUNDE_B_SUBDOMAINS
-(with LEVEL = "HAVO"); the domain is derived from it.
-For Wiskunde B every text also goes through unicode_math.clean_math
+(with LEVEL = "HAVO"), or with SUBJECT = "Wiskunde A" against
+WISKUNDE_A_SUBDOMAINS (VWO Wiskunde A list); the domain is derived from it.
+For Wiskunde A/B every text also goes through unicode_math.clean_math
 (Cambria Math italic letters -> plain letters, invisible operators out).
 
 Usage: python3 tools/emit_sql.py output/<slug> annotations.py
@@ -79,6 +80,16 @@ HAVO_WISKUNDE_B_SUBDOMAINS = {
     "Bepaling afgeleide functies": _HA, "Toepassing afgeleide functies": _HA,
 }
 
+# VWO Wiskunde A list (SUBJECT = "Wiskunde A")
+_AT = "Algebra en tellen"
+_VB = "Verbanden"
+_VA = "Verandering"
+WISKUNDE_A_SUBDOMAINS = {
+    "Algebra": _AT, "Telproblemen": _AT,
+    "Standaardfuncties": _VB, "Functies, grafieken, vergelijkingen en ongelijkheden": _VB,
+    "Rijen": _VA, "Helling": _VA, "Afgeleide": _VA,
+}
+
 # Plain-ASCII chemical notation that shows up in ExamenCentraal text
 # extraction (the PDF sets the digits as smaller glyphs, get_text() loses
 # that). Extend when a new formula appears; always eyeball the PDF first.
@@ -118,7 +129,9 @@ def main():
     source, level = ann["SOURCE"], ann.get("LEVEL", "HAVO")
     subject = ann.get("SUBJECT", "Biologie")
     math = subject.startswith("Wiskunde")
-    if subject == "Wiskunde B":
+    if subject == "Wiskunde A":
+        subdomains = WISKUNDE_A_SUBDOMAINS
+    elif subject == "Wiskunde B":
         subdomains = HAVO_WISKUNDE_B_SUBDOMAINS if level == "HAVO" else WISKUNDE_B_SUBDOMAINS
     else:
         subdomains = SUBDOMAINS
