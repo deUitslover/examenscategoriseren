@@ -1,0 +1,59 @@
+{
+  "source": "VWO Wiskunde A 2022-II",
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Dauwpunt",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Skûtsjesilen",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Waalbrug",
+      "question_numbers": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Bonte vliegenvanger",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Afname van de kindersterfte in Mali",
+      "question_numbers": [
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Rondetijden",
+      "question_numbers": [
+        22
+      ]
+    }
+  ]
+}
