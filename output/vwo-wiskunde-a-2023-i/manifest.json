@@ -1,0 +1,59 @@
+{
+  "source": "VWO Wiskunde A 2023-I",
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Duiken",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Engelendeel",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Gewicht in beweging",
+      "question_numbers": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Vlinders in Nederland",
+      "question_numbers": [
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Zwemtijden en FINA-punten",
+      "question_numbers": [
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Baby’s in Nigeria",
+      "question_numbers": [
+        22
+      ]
+    }
+  ]
+}
