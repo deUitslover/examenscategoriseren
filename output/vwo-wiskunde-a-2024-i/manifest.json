@@ -1,0 +1,58 @@
+{
+  "source": "VWO Wiskunde A 2024-I",
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Horen",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Water bottle flip",
+      "question_numbers": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Meerlingen",
+      "question_numbers": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Veldleeuweriken",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Honkbalsalarissen",
+      "question_numbers": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Getij",
+      "question_numbers": [
+        21
+      ]
+    }
+  ]
+}

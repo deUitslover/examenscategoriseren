@@ -56,6 +56,10 @@ Usage:
                  puts the rest of the line in the ctx block beside it. The
                  keep box grows to cover those lines; the ctx items of the
                  page drop them as members and wipe that box instead.
+--newopgave p:i  plan item i on page p is the title of a new opgave whose
+                 grey bar title_bar_y misses (VWO-WISA-23-II-O.pdf p.4
+                 "Groeimodellen"): a new opgave starts there, the title
+                 item is not rendered.
 --split p:i=y    vraag item i on page p ends at y: its text lines below y
                  become a new ctx item right after the vraag. For a context
                  line that directly follows the vraag at the page bottom and
@@ -132,6 +136,7 @@ def main():
     ap.add_argument("--absorb", nargs="*", default=[])
     ap.add_argument("--widen", nargs="*", default=[])
     ap.add_argument("--split", nargs="*", default=[])
+    ap.add_argument("--newopgave", nargs="*", default=[])
     a = ap.parse_args()
 
     doc = fitz.open(a.pdf)
@@ -171,6 +176,7 @@ def main():
     for spec in a.split:
         k, y = spec.split("=")
         split[tuple(map(int, k.split(":")))] = float(y)
+    newop = {tuple(map(int, s.split(":"))) for s in a.newopgave}
     extend = {}
     for spec in a.extend:
         k, pt = spec.split("=")
@@ -269,6 +275,13 @@ def main():
                                             "y1": max(b[3] for b in below),
                                             "members": below}))
         for i, it in plan:
+            if (page.number, i) in newop:
+                # plan item i is the title of a new opgave that has no grey
+                # title bar detected by title_bar_y ("Groeimodellen",
+                # VWO-WISA-23-II-O.pdf p.4): start the opgave here, the
+                # title item itself is not rendered
+                opgaven.append({"title": " ".join(item_text(page, it).split()), "items": []})
+                continue
             if (page.number, i) in drop:
                 continue
             ext = extend.get((page.number, i), 0.0)
