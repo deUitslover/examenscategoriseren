@@ -1,0 +1,567 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "source": "VWO Wiskunde A 2022-III",
+  "answers": [
+   {
+    "title": "Temperatuurschalen",
+    "question_number": 1,
+    "answer_text": "Een aanpak als:\n• 32 °F komt overeen met 0 °C en 96 °F komt overeen met 37 °C\n• Bij een stijging van 64 °F hoort dus een stijging van 37 °C\n• 0 °F komt dus overeen met 0 − ½ · 37 °C\n• Het antwoord: −18,5 (°C)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "32 °F komt overeen met 0 °C en 96 °F komt overeen met 37 °C"
+     },
+     {
+      "points": 1,
+      "description": "Bij een stijging van 64 °F hoort dus een stijging van 37 °C"
+     },
+     {
+      "points": 1,
+      "description": "0 °F komt dus overeen met 0 − ½ · 37 °C"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: −18,5 (°C)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-temperatuurschalen-antw1.png"
+    ]
+   },
+   {
+    "title": "Temperatuurschalen",
+    "question_number": 2,
+    "answer_text": "• Er geldt dan C = F\n• Beschrijven hoe de vergelijking F = 5/9 · (F − 32) (of C = 5/9 · (C − 32)) kan worden opgelost\n• Het antwoord: bij −40 (°C of °F)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt dan C = F"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking F = 5/9 · (F − 32) (of C = 5/9 · (C − 32)) kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: bij −40 (°C of °F)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-temperatuurschalen-antw2.png"
+    ]
+   },
+   {
+    "title": "Temperatuurschalen",
+    "question_number": 3,
+    "answer_text": "• Er geldt: K = 5/9 · (F − 32) + 273,15\n• Daaruit volgt K = 5/9 · F − 5/9 · 32 + 273,15\n• Herleiden leidt tot K = 0,56 · F + 255,37 (dus a = 0,56 en b = 255,37)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt: K = 5/9 · (F − 32) + 273,15"
+     },
+     {
+      "points": 1,
+      "description": "Daaruit volgt K = 5/9 · F − 5/9 · 32 + 273,15"
+     },
+     {
+      "points": 1,
+      "description": "Herleiden leidt tot K = 0,56 · F + 255,37 (dus a = 0,56 en b = 255,37)"
+     }
+    ],
+    "grading_note": "Als een kandidaat deze vraag beantwoord heeft op basis van enkele concrete waarden, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-temperatuurschalen-antw3.png"
+    ]
+   },
+   {
+    "title": "Temperatuurschalen",
+    "question_number": 4,
+    "answer_text": "Een aanpak als:\n• De grafiek van Rankine is even steil als die van Fahrenheit, dus de richtingscoëfficiënt van beide grafieken is gelijk\n• Daaruit volgt p = 5/9 (≈ 0,56)\n• 0 °Ra (komt overeen met 0 K, dus 0 °Ra) komt overeen met −273,15 °C\n• Het antwoord: C = 0,56R − 273,15\nof\n• 0 °Ra komt overeen (met 0 K dus) met −273,15 °C\n• Aflezen: 490 °Ra (of een andere waarde in het interval [480, 500]) komt overeen met 0 °C\n• Dat levert p = 273,15/490 (≈ 0,56)\n• Het antwoord: C = 0,56R − 273,15",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De grafiek van Rankine is even steil als die van Fahrenheit, dus de richtingscoëfficiënt van beide grafieken is gelijk"
+     },
+     {
+      "points": 1,
+      "description": "Daaruit volgt p = 5/9 (≈ 0,56)"
+     },
+     {
+      "points": 1,
+      "description": "0 °Ra (komt overeen met 0 K, dus 0 °Ra) komt overeen met −273,15 °C"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: C = 0,56R − 273,15"
+     }
+    ],
+    "grading_note": "Bij het beantwoorden van deze vraag kan het gebruik van andere informatie uit de figuur of uit de tekst tot iets andere parameters leiden. Hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-temperatuurschalen-antw4.png"
+    ]
+   },
+   {
+    "title": "Zonkracht en beschermingsfactor",
+    "question_number": 5,
+    "answer_text": "• Zonder crème maximaal 100/5 = 20 minuten in de zon\n• Met crème factor 10 is dit 20 · 10 = 200 minuten\n• Met crème factor 15 is dit 20 · 15 = 300 minuten; (4 uur is 240 minuten,) dus (minimaal) factor 15\nof\n• Zonder crème maximaal 100/5 = 20 minuten in de zon\n• De benodigde factor is 240/20 = 12\n• Het antwoord: (minimaal) factor 15",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Zonder crème maximaal 100/5 = 20 minuten in de zon"
+     },
+     {
+      "points": 1,
+      "description": "Met crème factor 10 is dit 20 · 10 = 200 minuten"
+     },
+     {
+      "points": 1,
+      "description": "Met crème factor 15 is dit 20 · 15 = 300 minuten; (4 uur is 240 minuten,) dus (minimaal) factor 15"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-zonkracht-en-beschermingsfactor-antw5.png"
+    ]
+   },
+   {
+    "title": "Zonkracht en beschermingsfactor",
+    "question_number": 6,
+    "answer_text": "• a = 4/2 = 2\n• b = 4 − 2 = 2 (of b = 4/2 = 2)\n• De periode is 12 (uur) dus c = 2π/12 (≈ 0,5 (of nauwkeuriger))\n• (Voor t = 10,7 gaat de grafiek stijgend door de evenwichtsstand, dus) d = 10,7 (met een marge van 0,1) (of nauwkeuriger)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a = 4/2 = 2"
+     },
+     {
+      "points": 1,
+      "description": "b = 4 − 2 = 2 (of b = 4/2 = 2)"
+     },
+     {
+      "points": 1,
+      "description": "De periode is 12 (uur) dus c = 2π/12 (≈ 0,5 (of nauwkeuriger))"
+     },
+     {
+      "points": 1,
+      "description": "(Voor t = 10,7 gaat de grafiek stijgend door de evenwichtsstand, dus) d = 10,7 (met een marge van 0,1) (of nauwkeuriger)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-zonkracht-en-beschermingsfactor-antw6.png"
+    ]
+   },
+   {
+    "title": "Zonkracht en beschermingsfactor",
+    "question_number": 7,
+    "answer_text": "Een aanpak als:\n• Beschrijven hoe de vergelijking 2,65 + 2,65 sin(0,50(t − 10,7)) = 4 opgelost kan worden\n• t = 11,7... en t = 15,9...\n• Hieruit volgt dat de zonkracht op deze dag meer dan 4 uur lang 4 of hoger is\n• Zelfs bij een constante zonkracht van 4 mag Marieke maar maximaal 225 minuten, dus minder dan 4 uur, in de zon blijven (dus Marieke kan niet deze hele dag in de zon blijven)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 2,65 + 2,65 sin(0,50(t − 10,7)) = 4 opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "t = 11,7... en t = 15,9..."
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt dat de zonkracht op deze dag meer dan 4 uur lang 4 of hoger is"
+     },
+     {
+      "points": 1,
+      "description": "Zelfs bij een constante zonkracht van 4 mag Marieke maar maximaal 225 minuten, dus minder dan 4 uur, in de zon blijven (dus Marieke kan niet deze hele dag in de zon blijven)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-zonkracht-en-beschermingsfactor-antw7.png"
+    ]
+   },
+   {
+    "title": "Touwtjespringen",
+    "question_number": 8,
+    "answer_text": "• Het inzicht dat de maximale hoogte tweemaal de hoogte is waarop het touw wordt vastgehouden\n• Beschrijven hoe de vergelijking H(x) = 1,54/2 kan worden opgelost\n• x = 2,746...\n• Het antwoord: (2 · 2,746... ≈) 5,49 meter (of 549 (cm))",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het inzicht dat de maximale hoogte tweemaal de hoogte is waarop het touw wordt vastgehouden"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking H(x) = 1,54/2 kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "x = 2,746..."
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (2 · 2,746... ≈) 5,49 meter (of 549 (cm))"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-touwtjespringen-antw8.png"
+    ]
+   },
+   {
+    "title": "Touwtjespringen",
+    "question_number": 9,
+    "answer_text": "• De hoogte van het touw in de hoogste stand is 1,54 − H(x)\n• De vergelijking 1,54 − H(x) = 1,39 moet worden opgelost\n• Het oplossen van de vergelijking geeft (x = −1,24... of) x = 1,24...\n• Het antwoord: (2,75 − 1,24... ≈) 1,51 meter (of 151 (cm))\nof\n• (Wegens symmetrie:) 1,54 − 1,39 = 0,15\n• De vergelijking H(x) = 0,15 moet worden opgelost\n• Het oplossen van de vergelijking geeft (x = −1,24... of) x = 1,24...\n• Het antwoord: (2,75 − 1,24... ≈) 1,51 meter (of 151 (cm))",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De hoogte van het touw in de hoogste stand is 1,54 − H(x)"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking 1,54 − H(x) = 1,39 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het oplossen van de vergelijking geeft (x = −1,24... of) x = 1,24..."
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (2,75 − 1,24... ≈) 1,51 meter (of 151 (cm))"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-touwtjespringen-antw9.png"
+    ]
+   },
+   {
+    "title": "Touwtjespringen",
+    "question_number": 10,
+    "answer_text": "• De twee draaiers kunnen op (10 boven 2) manieren worden gekozen\n• De overige acht kinderen kunnen op (8 boven 4) manieren in twee teams worden verdeeld\n• Dit geeft: (10 boven 2) · (8 boven 4) = 3150 manieren\n• (Omdat verwisseling van team 1 en team 2 geen andere verdeling oplevert:) het antwoord: (3150/2) = 1575",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De twee draaiers kunnen op (10 boven 2) manieren worden gekozen"
+     },
+     {
+      "points": 1,
+      "description": "De overige acht kinderen kunnen op (8 boven 4) manieren in twee teams worden verdeeld"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft: (10 boven 2) · (8 boven 4) = 3150 manieren"
+     },
+     {
+      "points": 1,
+      "description": "(Omdat verwisseling van team 1 en team 2 geen andere verdeling oplevert:) het antwoord: (3150/2) = 1575"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-touwtjespringen-antw10.png"
+    ]
+   },
+   {
+    "title": "Touwtjespringen",
+    "question_number": 11,
+    "answer_text": "• Het verder invullen van het schema (zie hieronder)\naantal sprongen per kind | totale aantal sprongen per kind\nkind 1: 1, 2, 4, 6, (0), (0), (0) | 13\nkind 2: (0), 2, 4, 6, 3, (0), (0) | 15\nkind 3: (0), (0), 4, 6, 3, 3, (0) | 16\nkind 4: (0), (0), (0), 6, 3, 3, 3 | 15\n• Het antwoord: het derde kind maakt de meeste sprongen",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Het verder invullen van het schema (zie hieronder)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: het derde kind maakt de meeste sprongen"
+     }
+    ],
+    "grading_note": "Bij het eerste antwoordelement dient bij het invullen van het schema voor elke fout of niet vermeld aantal een scorepunt in mindering gebracht te worden.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-touwtjespringen-antw11.png"
+    ]
+   },
+   {
+    "title": "Hoe ver is de horizon?",
+    "question_number": 12,
+    "answer_text": "• AM = 6371 + x\n• AH² = AM² − HM² = (6371 + x)² − 6371²\n• AH² = 6371² + 2 · 6371 · x + x² − 6371²\n• De rest van de herleiding",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "AM = 6371 + x"
+     },
+     {
+      "points": 1,
+      "description": "AH² = AM² − HM² = (6371 + x)² − 6371²"
+     },
+     {
+      "points": 1,
+      "description": "AH² = 6371² + 2 · 6371 · x + x² − 6371²"
+     },
+     {
+      "points": 1,
+      "description": "De rest van de herleiding"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-hoe-ver-is-de-horizon-antw12.png"
+    ]
+   },
+   {
+    "title": "Hoe ver is de horizon?",
+    "question_number": 13,
+    "answer_text": "• 90 meter ooghoogte geeft x = 0,09 en 75 meter ooghoogte geeft x = 0,075\n• AH(0,09) = 33,8... (km) en AH(0,075) = 30,9... (km)\n• Het antwoord: 3 (km)\nof\n• 90 meter ooghoogte geeft x = 0,09 en 75 meter ooghoogte geeft x = 0,075\n• Beschrijven hoe AH(0,09) − AH(0,075) berekend kan worden\n• Het antwoord: 3 (km)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "90 meter ooghoogte geeft x = 0,09 en 75 meter ooghoogte geeft x = 0,075"
+     },
+     {
+      "points": 1,
+      "description": "AH(0,09) = 33,8... (km) en AH(0,075) = 30,9... (km)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 3 (km)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-hoe-ver-is-de-horizon-antw13.png"
+    ]
+   },
+   {
+    "title": "Hoe ver is de horizon?",
+    "question_number": 14,
+    "answer_text": "• Als x toeneemt, dan neemt ook 12742x + x² toe\n• Dan neemt ook de wortel uit 12742x + x² toe (en dus neemt AH ook toe)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als x toeneemt, dan neemt ook 12742x + x² toe"
+     },
+     {
+      "points": 1,
+      "description": "Dan neemt ook de wortel uit 12742x + x² toe (en dus neemt AH ook toe)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-hoe-ver-is-de-horizon-antw14.png"
+    ]
+   },
+   {
+    "title": "Hoe ver is de horizon?",
+    "question_number": 15,
+    "answer_text": "Een aanpak als:\n• dAH/dx = ½ · (12742x + x²)^(−½) · (12742 + 2x)\n• dAH/dx = (12742 + 2x) / (2√(12742x + x²))\n• 12742 + 2x is altijd positief (omdat in deze situatie alleen x ≥ 0 relevant is) en ook geldt dat 2√(12742x + x²) altijd positief is\n• Dus dAH/dx is altijd positief (dus het gestelde is waar)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "dAH/dx = ½ · (12742x + x²)^(−½) · (12742 + 2x)"
+     },
+     {
+      "points": 1,
+      "description": "dAH/dx = (12742 + 2x) / (2√(12742x + x²))"
+     },
+     {
+      "points": 1,
+      "description": "12742 + 2x is altijd positief (omdat in deze situatie alleen x ≥ 0 relevant is) en ook geldt dat 2√(12742x + x²) altijd positief is"
+     },
+     {
+      "points": 1,
+      "description": "Dus dAH/dx is altijd positief (dus het gestelde is waar)"
+     }
+    ],
+    "grading_note": "− Als de kettingregel niet gebruikt is bij deze vraag, ten hoogste 3 scorepunten toekennen.\n− Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-hoe-ver-is-de-horizon-antw15.png"
+    ]
+   },
+   {
+    "title": "Hoe ver is de horizon?",
+    "question_number": 16,
+    "answer_text": "Een aanpak als:\n• Het invullen van een voorbeeldwaarde voor x, zeg x = 1, en het dubbele daarvan (dus x = 2) in de formule voor AH\n• Constateren dat AH(2) ≠ 2 · AH(1) (dus tweemaal zo hoog staan, betekent niet tweemaal zo ver kijken) dus Henk heeft geen gelijk\nof\n• Als tweemaal zo hoog staan tot tweemaal zo ver kijken leidt, dan geldt: AH(2x) = 2 · AH(x)\n• √(12742 · 2x + (2x)²) = 2√(12742x + x²)\n• Oplossen hiervan leidt niet tot positieve oplossingen dus Henk heeft geen gelijk",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het invullen van een voorbeeldwaarde voor x, zeg x = 1, en het dubbele daarvan (dus x = 2) in de formule voor AH"
+     },
+     {
+      "points": 2,
+      "description": "Constateren dat AH(2) ≠ 2 · AH(1) (dus tweemaal zo hoog staan, betekent niet tweemaal zo ver kijken) dus Henk heeft geen gelijk"
+     }
+    ],
+    "grading_note": "Bij het eerste antwoordalternatief mogen bij het tweede antwoordelement uitsluitend 0 of 2 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-hoe-ver-is-de-horizon-antw16.png"
+    ]
+   },
+   {
+    "title": "Hypotheek",
+    "question_number": 17,
+    "answer_text": "• De groeifactor per jaar is 1,043\n• De groeifactor per maand is gelijk aan 1,043^(1/12)\n• Dat is gelijk aan 1,00351",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De groeifactor per jaar is 1,043"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per maand is gelijk aan 1,043^(1/12)"
+     },
+     {
+      "points": 1,
+      "description": "Dat is gelijk aan 1,00351"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-hypotheek-antw17.png"
+    ]
+   },
+   {
+    "title": "Hypotheek",
+    "question_number": 18,
+    "answer_text": "• 10 jaar is 120 maanden\n• Beschrijven hoe R₁₂₀ berekend kan worden\n• R₁₂₀ = 197900,...\n• Omdat (0,8 · 250000 =) 200000 > 197900,... (of: Omdat R₁₂₀ ongeveer 79% van de hypotheek is,) is de conclusie dat de adviseur gelijk heeft",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "10 jaar is 120 maanden"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe R₁₂₀ berekend kan worden"
+     },
+     {
+      "points": 1,
+      "description": "R₁₂₀ = 197900,..."
+     },
+     {
+      "points": 1,
+      "description": "Omdat (0,8 · 250000 =) 200000 > 197900,... (of: Omdat R₁₂₀ ongeveer 79% van de hypotheek is,) is de conclusie dat de adviseur gelijk heeft"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-hypotheek-antw18.png"
+    ]
+   },
+   {
+    "title": "Hypotheek",
+    "question_number": 19,
+    "answer_text": "• Er moet gelden F > 1225,10/2 (= 612,55)\n• Het opstellen van de vergelijking 345,24e^(0,0035n) = 612,55 of de ongelijkheid 345,24e^(0,0035n) > 612,55\n• Beschrijven hoe de vergelijking 345,24e^(0,0035n) = 612,55 opgelost kan worden\n• Het antwoord: na 164 maanden\nof\n• Er geldt I = 1225,10 − 345,24e^(0,0035n)\n• Het opstellen van de vergelijking 1225,10 − 345,24e^(0,0035n) = 345,24e^(0,0035n) of de ongelijkheid 1225,10 − 345,24e^(0,0035n) < 345,24e^(0,0035n)\n• Beschrijven hoe de vergelijking 1225,10 − 345,24e^(0,0035n) = 345,24e^(0,0035n) ⚠️ CONTROLEREN: in het correctievoorschrift ontbreekt hier het einde van de zin (vermoedelijk \"opgelost kan worden\")\n• Het antwoord: na 164 maanden",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er moet gelden F > 1225,10/2 (= 612,55)"
+     },
+     {
+      "points": 1,
+      "description": "Het opstellen van de vergelijking 345,24e^(0,0035n) = 612,55 of de ongelijkheid 345,24e^(0,0035n) > 612,55"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 345,24e^(0,0035n) = 612,55 opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: na 164 maanden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-hypotheek-antw19.png"
+    ]
+   },
+   {
+    "title": "Hypotheek",
+    "question_number": 20,
+    "answer_text": "• De restschuld na aflossing van €50000 is nog €148396\n• Het maandelijks te betalen bedrag wordt dan B = 148396 · (0,01 · 0,375) / (1 − (1 + 0,01 · 0,375)⁻²⁴⁰) = 938,83 (euro)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De restschuld na aflossing van €50000 is nog €148396"
+     },
+     {
+      "points": 1,
+      "description": "Het maandelijks te betalen bedrag wordt dan B = 148396 · (0,01 · 0,375) / (1 − (1 + 0,01 · 0,375)⁻²⁴⁰) = 938,83 (euro)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-hypotheek-antw20.png"
+    ]
+   },
+   {
+    "title": "Hypotheek",
+    "question_number": 21,
+    "answer_text": "Een aanpak als:\n• Mogelijkheid I: na 20 jaar op de lange-termijnspaarrekening is de 50000 (euro) toegenomen tot 50000 · 1,0295²⁰ ≈ 89432,84 (euro)\n• Mogelijkheid I: in die 20 jaar heeft hij voor zijn hypotheek 240 · 1225,10 = 294024 (euro) uitgegeven\n• Mogelijkheid II: als Casper ervoor kiest de 50000 (euro) wel als aflossing te gebruiken, dan betaalt hij voor zijn hypotheek nog 240 · 938,83 = 225319,20 (euro)\n• De besparing bij mogelijkheid II ten opzichte van mogelijkheid I op zijn aflossing is 294024,00 − 225319,20 = 68704,80 (euro)\n• Mogelijkheid I levert een groter spaarbedrag op en is dus het gunstigst\nof\n• Mogelijkheid I: na 20 jaar op de lange-termijnspaarrekening is de 50000 (euro) toegenomen tot 50000 · 1,0295²⁰ ≈ 89432,84 (euro)\n• Mogelijkheid II: maandelijks bespaart hij aan aflossing 1225,10 − 938,83 = 286,27 (euro) vergeleken met mogelijkheid I\n• Na 20 jaar is dat 240 · 286,27 = 68704,80 (euro)\n• Mogelijkheid I levert een groter spaarbedrag op en is dus het gunstigst\nof\n• Mogelijkheid I: na 20 jaar op de lange-termijnspaarrekening is de 50000 (euro) toegenomen tot 50000 · 1,0295²⁰ ≈ 89432,84 (euro)\n• De winst op sparen is dan: 50000 · 1,0295²⁰ − 50000 ≈ 39432,84 (euro)\n• Bij mogelijkheid I is betaald: 1225,10 · 240 − 39432,84 = 254591,16 (euro)\n• Bij mogelijkheid II is betaald: 50000 + 938,83 · 240 = 275319,20 (euro)\n• Mogelijkheid I is het gunstigst",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Mogelijkheid I: na 20 jaar op de lange-termijnspaarrekening is de 50000 (euro) toegenomen tot 50000 · 1,0295²⁰ ≈ 89432,84 (euro)"
+     },
+     {
+      "points": 1,
+      "description": "Mogelijkheid I: in die 20 jaar heeft hij voor zijn hypotheek 240 · 1225,10 = 294024 (euro) uitgegeven"
+     },
+     {
+      "points": 1,
+      "description": "Mogelijkheid II: als Casper ervoor kiest de 50000 (euro) wel als aflossing te gebruiken, dan betaalt hij voor zijn hypotheek nog 240 · 938,83 = 225319,20 (euro)"
+     },
+     {
+      "points": 1,
+      "description": "De besparing bij mogelijkheid II ten opzichte van mogelijkheid I op zijn aflossing is 294024,00 − 225319,20 = 68704,80 (euro)"
+     },
+     {
+      "points": 1,
+      "description": "Mogelijkheid I levert een groter spaarbedrag op en is dus het gunstigst"
+     }
+    ],
+    "grading_note": "Bij het tweede antwoordalternatief mag bij het tweede antwoordelement voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-hypotheek-antw21.png"
+    ]
+   },
+   {
+    "title": "Wijkertunnel",
+    "question_number": 22,
+    "answer_text": "Een aanpak als:\n• In de tweede infographic zie je dat de banken 185 miljoen (euro) geïnvesteerd hebben\n• Het aantal auto's neemt vanaf 1997 ongeveer lineair toe\n• In 2011, het 'gemiddelde' jaar van de periode 1997-2025, rijden er ongeveer 43 miljoen auto's door de tunnel\n• De opbrengst in 2011 is 22,8 miljoen (euro)\n• Voor de periode 1997-2025 is de opbrengst (29 · 22,8 ≈) 661 miljoen (euro)\n• De opbrengst in 1996 is ongeveer 8,0 miljoen, waardoor het totaal 669 miljoen (euro) wordt\n• De 'meeropbrengst' is dus 484 miljoen (euro)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In de tweede infographic zie je dat de banken 185 miljoen (euro) geïnvesteerd hebben"
+     },
+     {
+      "points": 1,
+      "description": "Het aantal auto's neemt vanaf 1997 ongeveer lineair toe"
+     },
+     {
+      "points": 1,
+      "description": "In 2011, het 'gemiddelde' jaar van de periode 1997-2025, rijden er ongeveer 43 miljoen auto's door de tunnel"
+     },
+     {
+      "points": 1,
+      "description": "De opbrengst in 2011 is 22,8 miljoen (euro)"
+     },
+     {
+      "points": 1,
+      "description": "Voor de periode 1997-2025 is de opbrengst (29 · 22,8 ≈) 661 miljoen (euro)"
+     },
+     {
+      "points": 1,
+      "description": "De opbrengst in 1996 is ongeveer 8,0 miljoen, waardoor het totaal 669 miljoen (euro) wordt"
+     },
+     {
+      "points": 1,
+      "description": "De 'meeropbrengst' is dus 484 miljoen (euro)"
+     }
+    ],
+    "grading_note": "Voor de bepaling van het totale aantal auto’s of van de totale opbrengst in de periode 1997-2025 kan ook gebruikgemaakt worden van de somrij van een rekenkundige rij.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2022-iii-wijkertunnel-antw22.png"
+    ]
+   }
+  ]
+ }
+}
