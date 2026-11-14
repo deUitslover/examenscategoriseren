@@ -1,0 +1,58 @@
+{
+  "source": "VWO Wiskunde A 2024-II",
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Duurzamer douchen",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Wonen in New York",
+      "question_numbers": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Daglengte",
+      "question_numbers": [
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Minder werken",
+      "question_numbers": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Krattenbrug",
+      "question_numbers": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Quoridor",
+      "question_numbers": [
+        21
+      ]
+    }
+  ]
+}
