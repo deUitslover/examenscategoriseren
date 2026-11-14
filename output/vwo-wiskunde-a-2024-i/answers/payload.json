@@ -1,0 +1,548 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "source": "VWO Wiskunde A 2024-I",
+  "answers": [
+   {
+    "title": "Horen",
+    "question_number": 1,
+    "answer_text": "• 200 (Hz)\n• 7000 (Hz)\n• 10 000 (Hz)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "200 (Hz)"
+     },
+     {
+      "points": 1,
+      "description": "7000 (Hz)"
+     },
+     {
+      "points": 1,
+      "description": "10 000 (Hz)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-horen-antw1.png"
+    ]
+   },
+   {
+    "title": "Horen",
+    "question_number": 2,
+    "answer_text": "• Er geldt: g³ = 0,5\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• De gevraagde groeifactor is 0,794",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt: g³ = 0,5"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde groeifactor is 0,794"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-horen-antw2.png"
+    ]
+   },
+   {
+    "title": "Horen",
+    "question_number": 3,
+    "answer_text": "• Invullen van D = 100 levert T = 8 · 0,79^(100 − 80) (⚠️ CONTROLEREN: de tekens '=', '·' en '−' in deze formule zijn in het correctievoorschrift als lege vakjes weergegeven; afgeleid uit het volgende antwoordelement)\n• T = 8 · 0,79²⁰ = 0,071... (uur)\n• De conclusie: (maximaal) 4 (minuten)\n\nOpmerking\nAls een kandidaat gerekend heeft met de in de vorige vraag berekende groeifactor in drie decimalen of met de groeifactor 0,5^(1/3) en correct heeft afgerond, hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Invullen van D = 100 levert T = 8 · 0,79^(100 − 80) (⚠️ CONTROLEREN: tekens in het CV als lege vakjes weergegeven)"
+     },
+     {
+      "points": 1,
+      "description": "T = 8 · 0,79²⁰ = 0,071... (uur)"
+     },
+     {
+      "points": 1,
+      "description": "De conclusie: (maximaal) 4 (minuten)"
+     }
+    ],
+    "grading_note": "Als een kandidaat gerekend heeft met de in de vorige vraag berekende groeifactor in drie decimalen of met de groeifactor 0,5^(1/3) en correct heeft afgerond, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-horen-antw3.png"
+    ]
+   },
+   {
+    "title": "Horen",
+    "question_number": 4,
+    "answer_text": "• De vergelijking 70 = 20 · log(p) − 26,02 moet worden opgelost\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• Het antwoord: 63 000 (μPa)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 70 = 20 · log(p) − 26,02 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 63 000 (μPa)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-horen-antw4.png"
+    ]
+   },
+   {
+    "title": "Horen",
+    "question_number": 5,
+    "answer_text": "• Bij dubbele geluidsdruk is D = 20 · log(2p) − 26,02\n• Dus D = 20 · log(2) + 20 · log(p) − 26,02\n• 20 log(2) ≈ 6 (dus de bewering is juist)\n\nOpmerkingen\n− Als een kandidaat zich bij de beantwoording van deze vraag uitsluitend baseert op een of meer uitgewerkte getallenvoorbeelden, hiervoor geen scorepunten toekennen.\n− Als een kandidaat in het tweede antwoordelement de factor 20 voor log(p) is vergeten, maximaal 1 scorepunt voor deze vraag toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij dubbele geluidsdruk is D = 20 · log(2p) − 26,02"
+     },
+     {
+      "points": 1,
+      "description": "Dus D = 20 · log(2) + 20 · log(p) − 26,02"
+     },
+     {
+      "points": 1,
+      "description": "20 log(2) ≈ 6 (dus de bewering is juist)"
+     }
+    ],
+    "grading_note": "− Als een kandidaat zich bij de beantwoording van deze vraag uitsluitend baseert op een of meer uitgewerkte getallenvoorbeelden, hiervoor geen scorepunten toekennen.\n− Als een kandidaat in het tweede antwoordelement de factor 20 voor log(p) is vergeten, maximaal 1 scorepunt voor deze vraag toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-horen-antw5.png"
+    ]
+   },
+   {
+    "title": "Water bottle flip",
+    "question_number": 6,
+    "answer_text": "• M = 330/17 (= 19,41...)\n• V = (√(1 + 19,41...) − 1)/19,41... (= 0,181...)\n• (0,181... · 330 =) 60 (gram)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "M = 330/17 (= 19,41...)"
+     },
+     {
+      "points": 1,
+      "description": "V = (√(1 + 19,41...) − 1)/19,41... (= 0,181...)"
+     },
+     {
+      "points": 1,
+      "description": "(0,181... · 330 =) 60 (gram)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-water-bottle-flip-antw6.png"
+    ]
+   },
+   {
+    "title": "Water bottle flip",
+    "question_number": 7,
+    "answer_text": "• V = (√(1 + 500/f) − 1) / (500/f)\n• Dan volgt G = 500 · (√(1 + 500/f) − 1) / (500/f) = (√(1 + 500/f) − 1) / (1/f)\n• Dus G = f · (√(1 + 500/f) − 1) = f√(1 + 500/f) − f\nof\n• V = (√(1 + 500/f) − 1) / (500/f)\n• V = (√(1 + 500/f) − 1) · f/500 en dan volgt G = 500 · (√(1 + 500/f) − 1) · f/500\n• Dus G = (√(1 + 500/f) − 1) · f = f√(1 + 500/f) − f",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "V = (√(1 + 500/f) − 1) / (500/f)"
+     },
+     {
+      "points": 1,
+      "description": "Dan volgt G = 500 · (√(1 + 500/f) − 1) / (500/f) = (√(1 + 500/f) − 1) / (1/f)"
+     },
+     {
+      "points": 1,
+      "description": "Dus G = f · (√(1 + 500/f) − 1) = f√(1 + 500/f) − f"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-water-bottle-flip-antw7.png"
+    ]
+   },
+   {
+    "title": "Water bottle flip",
+    "question_number": 8,
+    "answer_text": "• Beschrijven hoe dV/dM (met de GR) kan worden bepaald\n• Een getekende schets van dV/dM (voorbeeld van een schets: zie afbeelding)\n• De grafiek van dV/dM ligt geheel onder de horizontale as, dus de grafiek van V is dalend (voor alle waarden van M)\n• Dus (naarmate de grootte van de fles toeneemt, neemt M toe en dus) neemt de optimale vullingsgraad af",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe dV/dM (met de GR) kan worden bepaald"
+     },
+     {
+      "points": 1,
+      "description": "Een getekende schets van dV/dM"
+     },
+     {
+      "points": 1,
+      "description": "De grafiek van dV/dM ligt geheel onder de horizontale as, dus de grafiek van V is dalend (voor alle waarden van M)"
+     },
+     {
+      "points": 1,
+      "description": "Dus (naarmate de grootte van de fles toeneemt, neemt M toe en dus) neemt de optimale vullingsgraad af"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-water-bottle-flip-antw8.png"
+    ]
+   },
+   {
+    "title": "Meerlingen",
+    "question_number": 9,
+    "answer_text": "• Een eeneiige drieling bestaat uit drie genetisch identieke jongens of drie genetisch identieke meisjes, dus er zijn 2 samenstellingen voor een eeneiige drieling\n• Een twee-eiige drieling bestaat uit twee genetisch identieke jongens en één daarvan verschillende jongen of meisje, of bestaat uit twee genetisch identieke meisjes en één daarvan verschillende jongen of meisje, dus er zijn (2 · 2 =) 4 samenstellingen voor een twee-eiige drieling\n• Een drie-eiige drieling bestaat uit drie jongens, drie meisjes, twee jongens en een meisje of twee meisjes en een jongen, dus er zijn 4 samenstellingen voor een drie-eiige drieling\n• Het antwoord: (2 + 4 + 4 =) 10 (samenstellingen)\nof\n• Er zijn 3 samenstellingen met drie jongens, namelijk drie genetisch identieke jongens, twee genetisch identieke jongens en één daarvan verschillende jongen of drie onderling verschillende jongens\n• Er zijn 2 samenstellingen met twee jongens en één meisje, namelijk twee genetisch identieke jongens en een meisje of twee verschillende jongens en een meisje\n• Het aantal samenstellingen voor drie meisjes is gelijk aan het aantal samenstellingen voor drie jongens en het aantal samenstellingen voor twee meisjes en één jongen is gelijk aan het aantal samenstellingen voor twee jongens en één meisje\n• Het antwoord: 2 · (3 + 2) = 10 (samenstellingen)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er zijn 2 samenstellingen voor een eeneiige drieling"
+     },
+     {
+      "points": 1,
+      "description": "Er zijn (2 · 2 =) 4 samenstellingen voor een twee-eiige drieling"
+     },
+     {
+      "points": 1,
+      "description": "Er zijn 4 samenstellingen voor een drie-eiige drieling"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (2 + 4 + 4 =) 10 (samenstellingen)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-meerlingen-antw9.png"
+    ]
+   },
+   {
+    "title": "Meerlingen",
+    "question_number": 10,
+    "answer_text": "⚠️ CONTROLEREN: in het correctievoorschrift staat 'maximumscore 1', maar de scorepunten per antwoordelement tellen op tot 3.\n• In 1980 was het percentage drie(-plus)lingen 25/180517 · 100 (= 0,01384...)(%) en in 1991 was dat 124/196698 · 100 (= 0,06304...)(%)\n• De gevraagde toename is (0,06304... − 0,01384...)/0,01384... · 100(%)\n• Het antwoord: 355(%)\nof\n• Het aantal drie(-plus)lingen is 124/25 (= 4,96) keer zo groot en het aantal geboorten is 196698/180517 (= 1,089...) keer zo groot\n• De gevraagde toename is 4,96/1,089... · 100 − 100(%)\n• Het antwoord: 355(%)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In 1980 was het percentage drie(-plus)lingen 25/180517 · 100 (= 0,01384...)(%) en in 1991 was dat 124/196698 · 100 (= 0,06304...)(%)"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde toename is (0,06304... − 0,01384...)/0,01384... · 100(%)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 355(%)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-meerlingen-antw10.png"
+    ]
+   },
+   {
+    "title": "Meerlingen",
+    "question_number": 11,
+    "answer_text": "• (Het betreft een rij van de vorm) P(n) = 100/89 · (1/89)ⁿ⁻² (met n > 2)\n• Hieruit volgt P(n) = 100/89 · (1/89)⁻² · (1/89)ⁿ (met n > 2)\n• Dit geeft P(n) = 100/89 · 89² · (1/89)ⁿ = 8900 · (1/89)ⁿ (met n > 2)\nof\n• (Het betreft een rij van de vorm) P(n) = 100 · (1/89)ⁿ⁻¹ (met n > 2)\n• Hieruit volgt P(n) = 100 · (1/89)⁻¹ · (1/89)ⁿ (met n > 2)\n• Dit geeft P(n) = 100 · 89 · (1/89)ⁿ = 8900 · (1/89)ⁿ (met n > 2)\nof\n• In de formule P(n) = b · rⁿ is de groeifactor r = 1/89\n• Beschrijven hoe de vergelijking b · (1/89)² = 100/89 opgelost kan worden\n• (b = 8900 dus) P(n) = 8900 · (1/89)ⁿ (met n > 2)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Het betreft een rij van de vorm) P(n) = 100/89 · (1/89)ⁿ⁻² (met n > 2)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt P(n) = 100/89 · (1/89)⁻² · (1/89)ⁿ (met n > 2)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft P(n) = 100/89 · 89² · (1/89)ⁿ = 8900 · (1/89)ⁿ (met n > 2)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-meerlingen-antw11.png"
+    ]
+   },
+   {
+    "title": "Meerlingen",
+    "question_number": 12,
+    "answer_text": "• (Het inzicht dat de formule voor P(n) verandert in) P(n) = 1/80 · P(n − 1), met P(2) = 100/80\n• Het inzicht dat de som Σ_{k=2}^{9} P(k) berekend moet worden\n• Σ_{k=2}^{9} P(k) = 1,26...\n• Het antwoord: 98,7(%)\nof\n• Het berekenen van de som 1/80 + 1/80² + ⋯ + 1/80⁸ = 0,0126... (2 punten)\n• Dus 1,26...(%) is meerling\n• Het antwoord: 98,7(%)\n\nOpmerking\nVoor het tweede antwoordalternatief mag voor het eerste antwoordelement voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Het inzicht dat de formule voor P(n) verandert in) P(n) = 1/80 · P(n − 1), met P(2) = 100/80"
+     },
+     {
+      "points": 1,
+      "description": "Het inzicht dat de som Σ_{k=2}^{9} P(k) berekend moet worden"
+     },
+     {
+      "points": 1,
+      "description": "Σ_{k=2}^{9} P(k) = 1,26..."
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 98,7(%)"
+     }
+    ],
+    "grading_note": "Voor het tweede antwoordalternatief mag voor het eerste antwoordelement voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-meerlingen-antw12.png"
+    ]
+   },
+   {
+    "title": "Veldleeuweriken",
+    "question_number": 13,
+    "answer_text": "• (Het aantal hectare grasland in 1990 was) 150000/0,14 = 1071428,... (of 150/0,14 = 1071,4... duizend)\n• Het antwoord: 1071428,... − 150000 = 921428,..., dus 921000 (hectare) (of 1071,4... − 150 = 921,4..., dus 921 duizend (hectare))\nof\n• 150000 · 86/14 = 921428,..., dus 921000 (hectare) (of 150 · 86/14 = 921,4..., dus 921 duizend (hectare)) (2 punten)\n\nOpmerking\nVoor het tweede antwoordalternatief mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Het aantal hectare grasland in 1990 was) 150000/0,14 = 1071428,... (of 150/0,14 = 1071,4... duizend)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 1071428,... − 150000 = 921428,..., dus 921000 (hectare)"
+     }
+    ],
+    "grading_note": "Voor het tweede antwoordalternatief mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-veldleeuweriken-antw13.png"
+    ]
+   },
+   {
+    "title": "Veldleeuweriken",
+    "question_number": 14,
+    "answer_text": "• Het aflezen van de percentages (−)9,6(%) in de periode 1990–2000 (en (−)7,8(%) in de periode 2001–2005)\n• De groeifactoren 0,904 in de periode 1990–2000 en 0,922 in de periode 2001–2005\n• Over de periode 1990–2005 is de groeifactor 0,904¹¹ · 0,922⁵\n• Het antwoord: (0,904¹¹ · 0,922⁵ = 0,219..., dus) 78(%)\n\nOpmerking\nVoor het aflezen van de percentages mag een afleesmarge van 0,2% gehanteerd worden.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het aflezen van de percentages (−)9,6(%) in de periode 1990–2000 (en (−)7,8(%) in de periode 2001–2005)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactoren 0,904 in de periode 1990–2000 en 0,922 in de periode 2001–2005"
+     },
+     {
+      "points": 1,
+      "description": "Over de periode 1990–2005 is de groeifactor 0,904¹¹ · 0,922⁵"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (0,904¹¹ · 0,922⁵ = 0,219..., dus) 78(%)"
+     }
+    ],
+    "grading_note": "Voor het aflezen van de percentages mag een afleesmarge van 0,2% gehanteerd worden.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-veldleeuweriken-antw14.png"
+    ]
+   },
+   {
+    "title": "Veldleeuweriken",
+    "question_number": 15,
+    "answer_text": "• (Voor de factor r van de rij geldt) r¹⁵ = 0,4\n• Dit geeft r = 0,9407...\n• De recursieve formule is P(t) = 0,941 · P(t − 1)\n• De beginterm is P(0) = 100\nof\n• Per 15 jaar geldt een factor 0,4\n• De recursieve formule is P(T) = 0,4 · P(T − 1)\n• T is per 15 jaar (dus T = 0 in 1990 en T = 1 in 2005)\n• De beginterm P(0) = 100\n\nOpmerkingen\n− Als de kandidaat gebruikmaakt van de recursieve formule voor een rekenkundige rij, voor deze vraag maximaal 1 scorepunt toekennen.\n− Als de kandidaat alleen de directe formule opstelt, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Voor de factor r van de rij geldt) r¹⁵ = 0,4"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft r = 0,9407..."
+     },
+     {
+      "points": 1,
+      "description": "De recursieve formule is P(t) = 0,941 · P(t − 1)"
+     },
+     {
+      "points": 1,
+      "description": "De beginterm is P(0) = 100"
+     }
+    ],
+    "grading_note": "− Als de kandidaat gebruikmaakt van de recursieve formule voor een rekenkundige rij, voor deze vraag maximaal 1 scorepunt toekennen.\n− Als de kandidaat alleen de directe formule opstelt, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-veldleeuweriken-antw15.png"
+    ]
+   },
+   {
+    "title": "Veldleeuweriken",
+    "question_number": 16,
+    "answer_text": "• Voor grote waarden van T (is e^(−0,307·T) ongeveer gelijk aan 0, dus) is 1420 · e^(−0,307·T) ongeveer gelijk aan 0\n• Dan is 1 + 1420 · e^(−0,307·T) ongeveer gelijk aan 1\n• 22/(1 + 1420 · e^(−0,307·T)) is dan ongeveer gelijk aan 22\n• De gevraagde grenswaarde is (22 + 9 =) 31 (gram)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor grote waarden van T is 1420 · e^(−0,307·T) ongeveer gelijk aan 0"
+     },
+     {
+      "points": 1,
+      "description": "Dan is 1 + 1420 · e^(−0,307·T) ongeveer gelijk aan 1"
+     },
+     {
+      "points": 1,
+      "description": "22/(1 + 1420 · e^(−0,307·T)) is dan ongeveer gelijk aan 22"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde grenswaarde is (22 + 9 =) 31 (gram)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-veldleeuweriken-antw16.png"
+    ]
+   },
+   {
+    "title": "Veldleeuweriken",
+    "question_number": 17,
+    "answer_text": "• De afgeleide van 1420 · e^(−0,307·T) is 1420 · e^(−0,307·T) · −0,307\n• Dus wordt de afgeleide van G gegeven door dG/dT = (−22 · 1420 · e^(−0,307·T) · −0,307)/(1 + 1420 · e^(−0,307·T))² (of een gelijkwaardige uitdrukking)\n• Beschrijven hoe het maximum van dG/dT kan worden bepaald\n• Het antwoord: 1,7 (gram per mm)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De afgeleide van 1420 · e^(−0,307·T) is 1420 · e^(−0,307·T) · −0,307"
+     },
+     {
+      "points": 1,
+      "description": "dG/dT = (−22 · 1420 · e^(−0,307·T) · −0,307)/(1 + 1420 · e^(−0,307·T))² (of een gelijkwaardige uitdrukking)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe het maximum van dG/dT kan worden bepaald"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 1,7 (gram per mm)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-veldleeuweriken-antw17.png"
+    ]
+   },
+   {
+    "title": "Honkbalsalarissen",
+    "question_number": 18,
+    "answer_text": "• De groeifactor per 7 jaar is 2600/400 (= 6,5)\n• De groeifactor per jaar is dus 6,5^(1/7) (= 1,3065...)\n• De waarde bij t = 0 is 400/1,306...²¹ (= 1,4565...)\n• Een formule is dus S = 1,457 · 1,307ᵗ\nof\n• De groeifactor per 7 jaar is 2600/400 (= 6,5)\n• De groeifactor per jaar is dus 6,5^(1/7) (= 1,3065...)\n• De waarde bij t = 21 is 400\n• Een formule is dus S = 400 · 1,307^(t − 21)\n\nOpmerkingen\n− Als gerekend wordt met (2600 − 400)^(1/7), voor deze vraag maximaal 2 scorepunten toekennen.\n− Als gerekend wordt met 2600/400 : 7, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De groeifactor per 7 jaar is 2600/400 (= 6,5)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per jaar is dus 6,5^(1/7) (= 1,3065...)"
+     },
+     {
+      "points": 1,
+      "description": "De waarde bij t = 0 is 400/1,306...²¹ (= 1,4565...)"
+     },
+     {
+      "points": 1,
+      "description": "Een formule is dus S = 1,457 · 1,307ᵗ"
+     }
+    ],
+    "grading_note": "− Als gerekend wordt met (2600 − 400)^(1/7), voor deze vraag maximaal 2 scorepunten toekennen.\n− Als gerekend wordt met 2600/400 : 7, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-honkbalsalarissen-antw18.png"
+    ]
+   },
+   {
+    "title": "Honkbalsalarissen",
+    "question_number": 19,
+    "answer_text": "• Beschrijven hoe de grenswaarde van W gevonden kan worden\n• De grenswaarde is 5500\n• 4540/5500 = 0,8254...\n• Het antwoord: 17,5(%) (lager)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de grenswaarde van W gevonden kan worden"
+     },
+     {
+      "points": 1,
+      "description": "De grenswaarde is 5500"
+     },
+     {
+      "points": 1,
+      "description": "4540/5500 = 0,8254..."
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 17,5(%) (lager)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-honkbalsalarissen-antw19.png"
+    ]
+   },
+   {
+    "title": "Honkbalsalarissen",
+    "question_number": 20,
+    "answer_text": "• De gemiddelde WAR-waarde per wedstrijd voor 24-jarigen is 0,26\n• Het salaris per WAR-punt is dus 0,66/0,26 = 2,538... (miljoen dollar)\n• 2,538... · 0,76 = 1,929... dus het antwoord: 1,93 (miljoen dollar)\n\nOpmerking\nHet scorepunt voor het eerste antwoordelement kan alleen worden toegekend indien de afgelezen WAR-waarde ligt in het interval [0,25; 0,27].",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De gemiddelde WAR-waarde per wedstrijd voor 24-jarigen is 0,26"
+     },
+     {
+      "points": 1,
+      "description": "Het salaris per WAR-punt is dus 0,66/0,26 = 2,538... (miljoen dollar)"
+     },
+     {
+      "points": 1,
+      "description": "2,538... · 0,76 = 1,929... dus het antwoord: 1,93 (miljoen dollar)"
+     }
+    ],
+    "grading_note": "Het scorepunt voor het eerste antwoordelement kan alleen worden toegekend indien de afgelezen WAR-waarde ligt in het interval [0,25; 0,27].",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-honkbalsalarissen-antw20.png"
+    ]
+   },
+   {
+    "title": "Getij",
+    "question_number": 21,
+    "answer_text": "Een aanpak als:\n• De sinusfunctie is van de vorm W_sin(t) = a + b · sin(c(t − d)), met W_sin de waterstand t.o.v. NAP in cm en t de tijd in uren na laagwater\n• De amplitude van de sinusfunctie is (87 − −123)/2 = 105 cm, dus b = 105\n• (De periode van de sinusfunctie is 12 uur, dus) c = π/6 (of 0,523...)\n• (De evenwichtsstand is −18 cm t.o.v. NAP en bij t = 3 gaat de grafiek stijgend door de evenwichtsstand, dus) a = −18 en d = 3 (dus W_sin(t) = −18 + 105 · sin(0,523...(t − 3)))\n• Volgens de twaalfdelenregel stijgt het water het eerste uur na laagwater met (105/6 =) 17,5 (cm)\n• Voor de eerste periode van de twaalfdelenregel geldt de formule W_twaalfdelenregel(t) = −123 + 17,5t\n• Het inzicht dat het maximale verschil tussen W_sin(t) = −18 + 105 · sin(0,523...(t − 3)) en W_twaalfdelenregel(t) = −123 + 17,5t bepaald moet worden (op het interval [0, 1])\n• Beschrijven hoe dit maximale verschil gevonden kan worden\n• (Het maximale verschil is) 5,4 dus het antwoord is 54 (mm) (of 5,4 cm)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De sinusfunctie is van de vorm W_sin(t) = a + b · sin(c(t − d)), met W_sin de waterstand t.o.v. NAP in cm en t de tijd in uren na laagwater"
+     },
+     {
+      "points": 1,
+      "description": "De amplitude van de sinusfunctie is (87 − −123)/2 = 105 cm, dus b = 105"
+     },
+     {
+      "points": 1,
+      "description": "(De periode van de sinusfunctie is 12 uur, dus) c = π/6 (of 0,523...)"
+     },
+     {
+      "points": 1,
+      "description": "a = −18 en d = 3 (dus W_sin(t) = −18 + 105 · sin(0,523...(t − 3)))"
+     },
+     {
+      "points": 1,
+      "description": "Volgens de twaalfdelenregel stijgt het water het eerste uur na laagwater met (105/6 =) 17,5 (cm)"
+     },
+     {
+      "points": 1,
+      "description": "Voor de eerste periode van de twaalfdelenregel geldt de formule W_twaalfdelenregel(t) = −123 + 17,5t"
+     },
+     {
+      "points": 1,
+      "description": "Het inzicht dat het maximale verschil tussen W_sin(t) en W_twaalfdelenregel(t) bepaald moet worden (op het interval [0, 1])"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe dit maximale verschil gevonden kan worden"
+     },
+     {
+      "points": 1,
+      "description": "(Het maximale verschil is) 5,4 dus het antwoord is 54 (mm) (of 5,4 cm)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-i-getij-antw21.png"
+    ]
+   }
+  ]
+ }
+}
