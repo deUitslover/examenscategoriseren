@@ -1,0 +1,548 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "source": "VWO Wiskunde A 2018-I",
+  "answers": [
+   {
+    "title": "Windenergie",
+    "question_number": 1,
+    "answer_text": "• Het aflezen van twee punten, bijvoorbeeld (0,18) en (12,8)\n• De richtingscoëfficiënt is (8 − 18)/(12 − 0) = −0,83 ...\n• De formule k_z = −0,83 ... · t + 18\n• Beschrijven hoe de vergelijking −0,83 ... · t + 18 = −0,31 · t + 10,0 opgelost kan worden\n• De oplossing t = 15,2 ... dus (in het jaar) 2024\n\nOpmerkingen\n– Als in de formule van k_z als richtingscoëfficiënt −0,83 gebruikt wordt, hiervoor geen scorepunten in mindering brengen.\n– Als op basis van andere gekozen punten een andere richtingscoëfficiënt berekend wordt met een waarde in het interval [−0,86; −0,8] hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het aflezen van twee punten, bijvoorbeeld (0,18) en (12,8)"
+     },
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt is (8 − 18)/(12 − 0) = −0,83 ..."
+     },
+     {
+      "points": 1,
+      "description": "De formule k_z = −0,83 ... · t + 18"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking −0,83 ... · t + 18 = −0,31 · t + 10,0 opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing t = 15,2 ... dus (in het jaar) 2024"
+     }
+    ],
+    "grading_note": "– Als in de formule van k_z als richtingscoëfficiënt −0,83 gebruikt wordt, hiervoor geen scorepunten in mindering brengen.\n– Als op basis van andere gekozen punten een andere richtingscoëfficiënt berekend wordt met een waarde in het interval [−0,86; −0,8] hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-windenergie-antw1.png"
+    ]
+   },
+   {
+    "title": "Windenergie",
+    "question_number": 2,
+    "answer_text": "• Er moet gelden kₘ = 2 · kₗ\n• Dus 0,28 · t + 4,3 = 2(−0,31 · t + 10,0)\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• De oplossing t = 17,4 ... dus (in het jaar) 2026\nof\n• Het maken van een tabel met daarin minstens twee waarden van kₘ horend bij jaren na 2021\n• Het aan die tabel toevoegen van een kolom met minstens twee waarden van 2 · kₗ\n• Constateren dat op 1 januari 2026 de waarde van kₘ minder dan tweemaal zo groot was als de waarde van kₗ en dat op 1 januari 2027 de waarde van kₘ meer dan tweemaal zo groot was als de waarde van kₗ\n• Het antwoord: (in het jaar) 2026",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er moet gelden kₘ = 2 · kₗ"
+     },
+     {
+      "points": 1,
+      "description": "Dus 0,28 · t + 4,3 = 2(−0,31 · t + 10,0)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing t = 17,4 ... dus (in het jaar) 2026"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-windenergie-antw2.png"
+    ]
+   },
+   {
+    "title": "Windenergie",
+    "question_number": 3,
+    "answer_text": "• Er geldt: TK = (23,4 − (23,4/41) · j) · (2,8 · j + 44,4)\n• a = −1,6\n• b = 40,2\n• c = 1039,0\n\nOpmerkingen\n– Als alleen herleid wordt tot de formule TK = −1,6j² + 40,2j + 1039,0 en a, b en c niet expliciet vermeld worden, hiervoor geen scorepunten in mindering brengen.\n– Als de waarde van c vermeld wordt als 1039, hiervoor geen scorepunt in mindering brengen. Verder in totaal ten hoogste 1 scorepunt in mindering brengen bij het niet-afronden op één decimaal.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt: TK = (23,4 − (23,4/41) · j) · (2,8 · j + 44,4)"
+     },
+     {
+      "points": 1,
+      "description": "a = −1,6"
+     },
+     {
+      "points": 1,
+      "description": "b = 40,2"
+     },
+     {
+      "points": 1,
+      "description": "c = 1039,0"
+     }
+    ],
+    "grading_note": "– Als alleen herleid wordt tot de formule TK = −1,6j² + 40,2j + 1039,0 en a, b en c niet expliciet vermeld worden, hiervoor geen scorepunten in mindering brengen.\n– Als de waarde van c vermeld wordt als 1039, hiervoor geen scorepunt in mindering brengen. Verder in totaal ten hoogste 1 scorepunt in mindering brengen bij het niet-afronden op één decimaal.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-windenergie-antw3.png"
+    ]
+   },
+   {
+    "title": "Shannon-index",
+    "question_number": 4,
+    "answer_text": "• Voor bos A geldt H_A = −(0,7 ln(0,7) + 0,3 ln(0,3))\n• Voor bos B geldt H_B = −(0,9 ln(0,9) + 0,1 ln(0,1))\n• H_A = 0,6 (of nauwkeuriger) en H_B = 0,3 (of nauwkeuriger) dus de Shannon-index van bos A is het grootst",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor bos A geldt H_A = −(0,7 ln(0,7) + 0,3 ln(0,3))"
+     },
+     {
+      "points": 1,
+      "description": "Voor bos B geldt H_B = −(0,9 ln(0,9) + 0,1 ln(0,1))"
+     },
+     {
+      "points": 1,
+      "description": "H_A = 0,6 (of nauwkeuriger) en H_B = 0,3 (of nauwkeuriger) dus de Shannon-index van bos A is het grootst"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-shannon-index-antw4.png"
+    ]
+   },
+   {
+    "title": "Shannon-index",
+    "question_number": 5,
+    "answer_text": "• Het invoeren van de formule H = −(p ln(p) + (1 − p) ln(1 − p)) in de GR en het maken van een schets\n• Als het aandeel eiken steeds kleiner wordt, nadert p tot 0\n• De constatering (op grond van de schets) dat de Shannon-index dan ook tot 0 nadert\nof\n• Als het aandeel eiken steeds kleiner wordt, nadert p tot 0\n• Het berekenen van H-waarden horend bij ten minste drie geschikte waarden van p (alle kleiner dan of gelijk aan 0,5)\n• De constatering dat de Shannon-index dan ook tot 0 nadert",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het invoeren van de formule H = −(p ln(p) + (1 − p) ln(1 − p)) in de GR en het maken van een schets"
+     },
+     {
+      "points": 1,
+      "description": "Als het aandeel eiken steeds kleiner wordt, nadert p tot 0"
+     },
+     {
+      "points": 1,
+      "description": "De constatering (op grond van de schets) dat de Shannon-index dan ook tot 0 nadert"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-shannon-index-antw5.png"
+    ]
+   },
+   {
+    "title": "Shannon-index",
+    "question_number": 6,
+    "answer_text": "• dH/dp = 0 geeft −ln(p) + ln(1 − p) = 0\n• Beschrijven hoe deze vergelijking opgelost kan worden\n• H is maximaal voor p = 0,5\n• Dus 50% eiken en 50% beuken",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "dH/dp = 0 geeft −ln(p) + ln(1 − p) = 0"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "H is maximaal voor p = 0,5"
+     },
+     {
+      "points": 1,
+      "description": "Dus 50% eiken en 50% beuken"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-shannon-index-antw6.png"
+    ]
+   },
+   {
+    "title": "Bitcoins",
+    "question_number": 7,
+    "answer_text": "• Per dag zijn er 24 · 6 · 25 = 3600 bitcoins te verdienen\n• Het duurt dus nog 5800000/3600 (= 1611, ...) dagen\n• Het antwoord: (in het jaar) 2018\nof\n• Per jaar komen er 365 · 24 · 6 · 25 = 1,314 miljoen bitcoins bij\n• De vergelijking 12,2 + 1,314x = 18 moet worden opgelost\n• De oplossing x = 4,4 ..., dus (in het jaar) 2018\n\nOpmerking\nAls een kandidaat met een jaarlengte van 365,25 dagen rekent, hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Per dag zijn er 24 · 6 · 25 = 3600 bitcoins te verdienen"
+     },
+     {
+      "points": 1,
+      "description": "Het duurt dus nog 5800000/3600 (= 1611, ...) dagen"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (in het jaar) 2018"
+     }
+    ],
+    "grading_note": "Als een kandidaat met een jaarlengte van 365,25 dagen rekent, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-bitcoins-antw7.png"
+    ]
+   },
+   {
+    "title": "Bitcoins",
+    "question_number": 8,
+    "answer_text": "• Het aantal bitcoins per oplossing is 50 · 0,5ˣ (met x perioden van 4 jaar)\n• Beschrijven hoe de vergelijking 50 · 0,5ˣ = 1 opgelost kan worden\n• De oplossing: x = 5,6 ...\n• Dat is vanaf het jaar 2009 + 6 · 4 = 2033\nof\n• Het maken van een tabel met uitbetalingen per oplossing\n• Na 5 halveringen (gerekend vanaf de periode 2013-2017 is de uitbetaling per oplossing minder dan één bitcoin)\n• Dat is vanaf het jaar 2013 + 5 · 4 = 2033",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het aantal bitcoins per oplossing is 50 · 0,5ˣ (met x perioden van 4 jaar)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 50 · 0,5ˣ = 1 opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing: x = 5,6 ..."
+     },
+     {
+      "points": 1,
+      "description": "Dat is vanaf het jaar 2009 + 6 · 4 = 2033"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-bitcoins-antw8.png"
+    ]
+   },
+   {
+    "title": "Bitcoins",
+    "question_number": 9,
+    "answer_text": "• Voor grote waarden van t gaat 0,5⁰˒²⁵ᵗ naar 0\n• De formule gaat dus op den duur naar 21 − 21 · 0\n• De grenswaarde van het aantal bitcoins in omloop is dus 21 (miljoen)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor grote waarden van t gaat 0,5⁰˒²⁵ᵗ naar 0"
+     },
+     {
+      "points": 1,
+      "description": "De formule gaat dus op den duur naar 21 − 21 · 0"
+     },
+     {
+      "points": 1,
+      "description": "De grenswaarde van het aantal bitcoins in omloop is dus 21 (miljoen)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-bitcoins-antw9.png"
+    ]
+   },
+   {
+    "title": "Bitcoins",
+    "question_number": 10,
+    "answer_text": "• D′ = 0,533 · 3,65 · e⁰˒⁵³³ᵗ (= 1,9... · e⁰˒⁵³³ᵗ)\n• e⁰˒⁵³³ᵗ is positief, dus D′ is positief, dus de grafiek van D is stijgend\n• D′ neemt toe als t toeneemt (dus de grafiek van D is toenemend stijgend)\n\nOpmerking\nAls een kandidaat de kettingregel niet heeft toegepast, bij het eerste antwoordelement 0 scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "D′ = 0,533 · 3,65 · e⁰˒⁵³³ᵗ (= 1,9... · e⁰˒⁵³³ᵗ)"
+     },
+     {
+      "points": 1,
+      "description": "e⁰˒⁵³³ᵗ is positief, dus D′ is positief, dus de grafiek van D is stijgend"
+     },
+     {
+      "points": 1,
+      "description": "D′ neemt toe als t toeneemt (dus de grafiek van D is toenemend stijgend)"
+     }
+    ],
+    "grading_note": "Als een kandidaat de kettingregel niet heeft toegepast, bij het eerste antwoordelement 0 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-bitcoins-antw10.png"
+    ]
+   },
+   {
+    "title": "Bitcoins",
+    "question_number": 11,
+    "answer_text": "• e⁰˒⁵³³ᵗ = D/3,65\n• ln(e⁰˒⁵³³ᵗ) = ln(D/3,65)\n• 0,533t = ln(D/3,65)\n• t = ln(D/3,65)/0,533 (of een gelijkwaardige formule)\nof\n• ln(D) = ln(3,65 · e⁰˒⁵³³ᵗ)\n• ln(D) = ln(3,65) + ln(e⁰˒⁵³³ᵗ)\n• ln(D) = ln(3,65) + 0,533t\n• t = (ln(D) − ln(3,65))/0,533 (of een gelijkwaardige formule)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "e⁰˒⁵³³ᵗ = D/3,65"
+     },
+     {
+      "points": 1,
+      "description": "ln(e⁰˒⁵³³ᵗ) = ln(D/3,65)"
+     },
+     {
+      "points": 1,
+      "description": "0,533t = ln(D/3,65)"
+     },
+     {
+      "points": 1,
+      "description": "t = ln(D/3,65)/0,533 (of een gelijkwaardige formule)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-bitcoins-antw11.png"
+    ]
+   },
+   {
+    "title": "Jaarringen",
+    "question_number": 12,
+    "answer_text": "• De evenwichtsstand is (2,1 + 0,3)/2 = 1,2 (cm per jaar) dus a = 1,2\n• De amplitude is 2,1 − 1,2 = 0,9 (cm per jaar) dus b = 0,9\n• De periode is 1 jaar, dus c = 2π (of 6,3 (of nauwkeuriger))\n• Maximum voor t = 0,25 (dus voor t = 0 gaat de grafiek stijgend door de evenwichtsstand) dus d = 0",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De evenwichtsstand is (2,1 + 0,3)/2 = 1,2 (cm per jaar) dus a = 1,2"
+     },
+     {
+      "points": 1,
+      "description": "De amplitude is 2,1 − 1,2 = 0,9 (cm per jaar) dus b = 0,9"
+     },
+     {
+      "points": 1,
+      "description": "De periode is 1 jaar, dus c = 2π (of 6,3 (of nauwkeuriger))"
+     },
+     {
+      "points": 1,
+      "description": "Maximum voor t = 0,25 (dus voor t = 0 gaat de grafiek stijgend door de evenwichtsstand) dus d = 0"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-jaarringen-antw12.png"
+    ]
+   },
+   {
+    "title": "Jaarringen",
+    "question_number": 13,
+    "answer_text": "• Beschrijven hoe de vergelijking 1,2t + 0,14 + 0,14 sin(2π(t − 0,25)) = 5 opgelost kan worden\n• De oplossing t = 4,12 ...\n• Het antwoord: 50 maanden (of 4 jaar en 2 maanden)\n\nOpmerking\nVoor een antwoord als ‘in de 51e maand’ (of ‘in de 50e maand’) geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 1,2t + 0,14 + 0,14 sin(2π(t − 0,25)) = 5 opgelost kan worden"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing t = 4,12 ..."
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 50 maanden (of 4 jaar en 2 maanden)"
+     }
+    ],
+    "grading_note": "Voor een antwoord als ‘in de 51e maand’ (of ‘in de 50e maand’) geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-jaarringen-antw13.png"
+    ]
+   },
+   {
+    "title": "Jaarringen",
+    "question_number": 14,
+    "answer_text": "• Het verschil is gelijk aan T − D\n• Beschrijven hoe het maximum van T − D kan worden gevonden\n• Het antwoord: 0,14 (cm)\nof\n• Het maximale verschil is gelijk aan de amplitude van het sinusdeel van de gegeven formule\n• (Die amplitude is 0,14 dus) het maximale verschil is 0,14 (cm)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het verschil is gelijk aan T − D"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe het maximum van T − D kan worden gevonden"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 0,14 (cm)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-jaarringen-antw14.png"
+    ]
+   },
+   {
+    "title": "Jaarringen",
+    "question_number": 15,
+    "answer_text": "• In de eerste helft van het jaar groeit de diameter met 0,88 (cm)\n• In de tweede helft van het jaar groeit de diameter met 0,32 (cm)\n• Het antwoord: ((0,88/1,2) · 100% ≈) 73(%)\nof\n• Een half jaar na ontkiemen is de diameter 0,88 (cm)\n• Een jaar na ontkiemen is de diameter 1,2 (cm)\n• Het antwoord: ((0,88/1,2) · 100% ≈) 73(%)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In de eerste helft van het jaar groeit de diameter met 0,88 (cm)"
+     },
+     {
+      "points": 1,
+      "description": "In de tweede helft van het jaar groeit de diameter met 0,32 (cm)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: ((0,88/1,2) · 100% ≈) 73(%)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-jaarringen-antw15.png"
+    ]
+   },
+   {
+    "title": "Jaarringen",
+    "question_number": 16,
+    "answer_text": "• Het tekenen van een punt, anders dan A, op de grafiek waar de helling van D minimaal is\n• Beschrijven hoe met de GR de helling van D in, bijvoorbeeld, A bepaald kan worden\n• Het antwoord: 0,32 (cm/jaar)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het tekenen van een punt, anders dan A, op de grafiek waar de helling van D minimaal is"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe met de GR de helling van D in, bijvoorbeeld, A bepaald kan worden"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 0,32 (cm/jaar)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-jaarringen-antw16.png"
+    ]
+   },
+   {
+    "title": "Toren van achtvlakken",
+    "question_number": 17,
+    "answer_text": "• Voor de drie rode achtvlakken zijn er (9 boven 3) mogelijkheden\n• Voor de zes overige achtvlakken zijn er dan nog (6 boven 3) mogelijkheden\n• In totaal zijn er (9 boven 3) · (6 boven 3) mogelijkheden\n• Het antwoord: 1680\n\nOpmerkingen\n– Als een kandidaat deze vraag beantwoord heeft door uitsluitend 9! (of 9npr3 · 6npr3 · 3npr3) te berekenen, geen scorepunten voor deze vraag toekennen.\n– Als een kandidaat deze vraag beantwoord heeft door uitsluitend 3! · 3! · 3! te berekenen, ten hoogste 1 scorepunt voor deze vraag toekennen.\nof\n• Het aantal permutaties van negen achtvlakken is 9! en het aantal permutaties van de drie kleuren binnen deze situatie is 3! · 3! · 3!\n• In totaal zijn er dan 9!/(3! · 3! · 3!) mogelijkheden\n• Het antwoord: 1680\n\nOpmerking\nBij de eerste deelscore is 1 scorepunt onmogelijk, tenzij voldaan wordt aan de bovenvermelde tweede opmerking.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor de drie rode achtvlakken zijn er (9 boven 3) mogelijkheden"
+     },
+     {
+      "points": 1,
+      "description": "Voor de zes overige achtvlakken zijn er dan nog (6 boven 3) mogelijkheden"
+     },
+     {
+      "points": 1,
+      "description": "In totaal zijn er (9 boven 3) · (6 boven 3) mogelijkheden"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 1680"
+     }
+    ],
+    "grading_note": "– Als een kandidaat deze vraag beantwoord heeft door uitsluitend 9! (of 9npr3 · 6npr3 · 3npr3) te berekenen, geen scorepunten voor deze vraag toekennen.\n– Als een kandidaat deze vraag beantwoord heeft door uitsluitend 3! · 3! · 3! te berekenen, ten hoogste 1 scorepunt voor deze vraag toekennen.\n\nBij de eerste deelscore is 1 scorepunt onmogelijk, tenzij voldaan wordt aan de bovenvermelde tweede opmerking.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-toren-van-achtvlakken-antw17.png"
+    ]
+   },
+   {
+    "title": "Toren van achtvlakken",
+    "question_number": 18,
+    "answer_text": "• De vergrotingsfactor van het bovenste achtvlak ten opzichte van het onderste is 4/20\n• r = (4/20)¹ᐟ⁹\n• Het antwoord: 0,836",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergrotingsfactor van het bovenste achtvlak ten opzichte van het onderste is 4/20"
+     },
+     {
+      "points": 1,
+      "description": "r = (4/20)¹ᐟ⁹"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 0,836"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-toren-van-achtvlakken-antw18.png"
+    ]
+   },
+   {
+    "title": "Toren van achtvlakken",
+    "question_number": 19,
+    "answer_text": "• Er geldt: u₀ = 20\n• De lengte van de ribbe neemt in 9 gelijke stappen af van 20 (cm) tot 4 (cm)\n• De richtingscoëfficiënt van de lineaire formule (of het verschil tussen twee opeenvolgende waarden) is (4 − 20)/9 ≈ −1,78 (cm) (dus de formule is uₙ = 20 − 1,78n)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt: u₀ = 20"
+     },
+     {
+      "points": 1,
+      "description": "De lengte van de ribbe neemt in 9 gelijke stappen af van 20 (cm) tot 4 (cm)"
+     },
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt van de lineaire formule (of het verschil tussen twee opeenvolgende waarden) is (4 − 20)/9 ≈ −1,78 (cm) (dus de formule is uₙ = 20 − 1,78n)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-toren-van-achtvlakken-antw19.png"
+    ]
+   },
+   {
+    "title": "Toren van achtvlakken",
+    "question_number": 20,
+    "answer_text": "• De formule uₙ = 20 · 0,84ⁿ voor de meetkundige rij\n• Bovenstaande formule en de formule uₙ = 20 − 1,78n invoeren in de GR om tabellen of grafieken te maken\n• Het maximale verschil treedt op bij het achtvlak met n = 4 met een toelichting gebaseerd op de tabellen of grafieken\n• Dit maximale verschil is 29 (mm)\n\nOpmerkingen\n– Als een kandidaat twee tabellen maakt zonder de formules in de GR in te vullen, hiervoor geen scorepunten in mindering brengen.\n– Als een kandidaat doorgerekend heeft met nauwkeuriger waarden dan 0,84 en 1,78, hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De formule uₙ = 20 · 0,84ⁿ voor de meetkundige rij"
+     },
+     {
+      "points": 1,
+      "description": "Bovenstaande formule en de formule uₙ = 20 − 1,78n invoeren in de GR om tabellen of grafieken te maken"
+     },
+     {
+      "points": 1,
+      "description": "Het maximale verschil treedt op bij het achtvlak met n = 4 met een toelichting gebaseerd op de tabellen of grafieken"
+     },
+     {
+      "points": 1,
+      "description": "Dit maximale verschil is 29 (mm)"
+     }
+    ],
+    "grading_note": "– Als een kandidaat twee tabellen maakt zonder de formules in de GR in te vullen, hiervoor geen scorepunten in mindering brengen.\n– Als een kandidaat doorgerekend heeft met nauwkeuriger waarden dan 0,84 en 1,78, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-toren-van-achtvlakken-antw20.png"
+    ]
+   },
+   {
+    "title": "Sprinttrein",
+    "question_number": 21,
+    "answer_text": "Een aanpak als:\n• Het kiezen van ten minste twee geschikte renners om de arbeid te vergelijken\n• Het aflezen van de afstanden van de renners die worden vergeleken\n• Het aflezen van de bijbehorende snelheden\n• Het berekenen van de tijd bij de renners die worden vergeleken\n• Het aflezen van de bijbehorende vermogens\n• Het berekenen van de arbeid van de gekozen renners\n• Een conclusie die past bij de berekende arbeid van de renners die worden vergeleken\n\nOverzicht van de diverse mogelijke af te lezen gegevens, inclusief afleesmarges\nnr. renner | op kop gereden afstand in m | snelheid bij op kop rijden in km/u | vermogen tijdens op kop rijden in W\n1 | 750 − 850 | 48 − 50 | 480 − 570\n2 | 650 − 750 | 49 − 51 | 560 − 650\n3 | 500 | 50 − 55 | 640 − 730\n4 | 500 | 54 − 61 | 720 − 830\n5 | 280 − 320 | 60 − 65 | 820 − 1180\n6 | 180 − 220 | 64 − 69 | 1140 − 1800\n\nOpmerkingen\n– Bij de keuze van de renners dient er, om in aanmerking te komen voor het eerste scorepunt, een renner uit de nummers 1, 2 en 3 gekozen te worden en een andere uit de nummers 4, 5 en 6.\n– Bij het aflezen van de op kop gereden afstand, de snelheid en het vermogen mag iedere waarde uit het interval van de betreffende renner (zie bovenstaand overzicht) worden afgelezen, met dien verstande dat zowel snelheid als vermogen niet daalt gedurende de totale sprint.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het kiezen van ten minste twee geschikte renners om de arbeid te vergelijken"
+     },
+     {
+      "points": 1,
+      "description": "Het aflezen van de afstanden van de renners die worden vergeleken"
+     },
+     {
+      "points": 1,
+      "description": "Het aflezen van de bijbehorende snelheden"
+     },
+     {
+      "points": 1,
+      "description": "Het berekenen van de tijd bij de renners die worden vergeleken"
+     },
+     {
+      "points": 1,
+      "description": "Het aflezen van de bijbehorende vermogens"
+     },
+     {
+      "points": 1,
+      "description": "Het berekenen van de arbeid van de gekozen renners"
+     },
+     {
+      "points": 1,
+      "description": "Een conclusie die past bij de berekende arbeid van de renners die worden vergeleken"
+     }
+    ],
+    "grading_note": "– Bij de keuze van de renners dient er, om in aanmerking te komen voor het eerste scorepunt, een renner uit de nummers 1, 2 en 3 gekozen te worden en een andere uit de nummers 4, 5 en 6.\n– Bij het aflezen van de op kop gereden afstand, de snelheid en het vermogen mag iedere waarde uit het interval van de betreffende renner (zie bovenstaand overzicht) worden afgelezen, met dien verstande dat zowel snelheid als vermogen niet daalt gedurende de totale sprint.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-i-sprinttrein-antw21.png"
+    ]
+   }
+  ]
+ }
+}
