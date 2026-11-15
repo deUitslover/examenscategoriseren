@@ -1,0 +1,574 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "source": "VWO Wiskunde A 2025-I",
+  "answers": [
+   {
+    "title": "Energiebehoefte van vogels",
+    "question_number": 1,
+    "answer_text": "• De waarde volgens de stippellijn is 170 (kJ)\n• De werkelijke waarde is 230 (kJ)\n• Het antwoord: ((230 − 170)/170 · 100 = 35,2…, dus) 35(%)\n\nOpmerking\nBij het aflezen in de grafiek is zowel bij de waarde volgens de stippellijn als bij de werkelijke waarde een marge van 10 kJ toegestaan",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De waarde volgens de stippellijn is 170 (kJ)"
+     },
+     {
+      "points": 1,
+      "description": "De werkelijke waarde is 230 (kJ)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: ((230 − 170)/170 · 100 = 35,2…, dus) 35(%)"
+     }
+    ],
+    "grading_note": "Bij het aflezen in de grafiek is zowel bij de waarde volgens de stippellijn als bij de werkelijke waarde een marge van 10 kJ toegestaan",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-energiebehoefte-van-vogels-antw1.png"
+    ]
+   },
+   {
+    "title": "Energiebehoefte van vogels",
+    "question_number": 2,
+    "answer_text": "• De vergelijking 5,0 · G⁰˒⁷⁵ = 1000 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Het antwoord: (G =) 1170 (g)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 5,0 · G⁰˒⁷⁵ = 1000 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (G =) 1170 (g)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-energiebehoefte-van-vogels-antw2.png"
+    ]
+   },
+   {
+    "title": "Energiebehoefte van vogels",
+    "question_number": 3,
+    "answer_text": "• dE/dG = 5,0 · 0,75 · G⁻⁰˒²⁵ (= 3,75 · G⁻⁰˒²⁵)\n• Hieruit volgt dE/dG = 3,75/G⁰˒²⁵, dus als G toeneemt, neemt dE/dG af (dus dE/dG is dalend)\n• Dus E is afnemend stijgend",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "dE/dG = 5,0 · 0,75 · G⁻⁰˒²⁵ (= 3,75 · G⁻⁰˒²⁵)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt dE/dG = 3,75/G⁰˒²⁵, dus als G toeneemt, neemt dE/dG af (dus dE/dG is dalend)"
+     },
+     {
+      "points": 1,
+      "description": "Dus E is afnemend stijgend"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-energiebehoefte-van-vogels-antw3.png"
+    ]
+   },
+   {
+    "title": "Energiebehoefte van vogels",
+    "question_number": 4,
+    "answer_text": "• ln(E) = ln(5,0 · G⁰˒⁷⁵)\n• ln(E) = ln(5,0) + ln(G⁰˒⁷⁵)\n• ln(E) = ln(5,0) + 0,75 · ln(G)\n• ln(E) = 1,61 + 0,75 · ln(G) (dus a = 1,61 en b = 0,75)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "ln(E) = ln(5,0 · G⁰˒⁷⁵)"
+     },
+     {
+      "points": 1,
+      "description": "ln(E) = ln(5,0) + ln(G⁰˒⁷⁵)"
+     },
+     {
+      "points": 1,
+      "description": "ln(E) = ln(5,0) + 0,75 · ln(G)"
+     },
+     {
+      "points": 1,
+      "description": "ln(E) = 1,61 + 0,75 · ln(G) (dus a = 1,61 en b = 0,75)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-energiebehoefte-van-vogels-antw4.png"
+    ]
+   },
+   {
+    "title": "Energiebehoefte van vogels",
+    "question_number": 5,
+    "answer_text": "• M = 2,0 · G⁰˒⁷⁵\n• De coördinaten van een punt bijvoorbeeld (1000, 356)\n• De coördinaten van een tweede punt bijvoorbeeld (10000, 2000)\n• Het tekenen van de gevraagde lijn\nof\n• M = 2,0 · G⁰˒⁷⁵\n• De coördinaten van een punt bijvoorbeeld (10000, 2000)\n• De gevraagde lijn loopt evenwijdig aan de getekende lijn\n• Het tekenen van de gevraagde lijn\nof\n• Bij bijvoorbeeld G = 1000 is E = 889\n• (40% van 889 is 356 dus) het punt (1000, 356) ligt op de gevraagde lijn\n• De gevraagde lijn loopt evenwijdig aan de getekende lijn\n• Het tekenen van de gevraagde lijn\nof\n• Bij bijvoorbeeld G = 1000 is E = 889\n• (40% van 889 is 356 dus) het punt (1000, 356) ligt op de gevraagde lijn\n• Bij bijvoorbeeld G = 10000 is E = 5000 en M = 2000 dus het punt (10000, 2000) ligt op de gevraagde lijn\n• Het tekenen van de gevraagde lijn\nof\n• De coördinaten van een punt op de stippellijn aflezen, bijvoorbeeld (1000, 900)\n• (40% van 900 is 360 dus) het punt (1000, 360) ligt op de gevraagde lijn\n• Bijvoorbeeld aflezen dat het punt (10000, 5000) ook op de stippellijn ligt, dus het punt (10000, 2000) ligt op de gevraagde lijn\n• Het tekenen van de gevraagde lijn\n\nOpmerking\nBij het aflezen van de waarden in de grafiek is een marge van 5% toegestaan.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "M = 2,0 · G⁰˒⁷⁵"
+     },
+     {
+      "points": 1,
+      "description": "De coördinaten van een punt bijvoorbeeld (1000, 356)"
+     },
+     {
+      "points": 1,
+      "description": "De coördinaten van een tweede punt bijvoorbeeld (10000, 2000)"
+     },
+     {
+      "points": 1,
+      "description": "Het tekenen van de gevraagde lijn"
+     }
+    ],
+    "grading_note": "Bij het aflezen van de waarden in de grafiek is een marge van 5% toegestaan.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-energiebehoefte-van-vogels-antw5.png"
+    ]
+   },
+   {
+    "title": "Golven in de Nieuw-Zeelandse economie",
+    "question_number": 6,
+    "answer_text": "• De periodes van de voorraadcyclus en de prijzencyclus moeten met elkaar vergeleken worden\n• In 1 periode van de prijzencyclus passen 19 periodes van de voorraadcyclus, dus de cyclus met de langste periode is 19 keer zo lang\n\nOpmerking\nAls een kandidaat bij het tweede antwoordelement erop uitkomt dat in 1 periode van de prijzencyclus 20 periodes van de voorraadcyclus passen, met als conclusie dat de cyclus met de langste periode 20 keer zo lang is, hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De periodes van de voorraadcyclus en de prijzencyclus moeten met elkaar vergeleken worden"
+     },
+     {
+      "points": 1,
+      "description": "In 1 periode van de prijzencyclus passen 19 periodes van de voorraadcyclus, dus de cyclus met de langste periode is 19 keer zo lang"
+     }
+    ],
+    "grading_note": "Als een kandidaat bij het tweede antwoordelement erop uitkomt dat in 1 periode van de prijzencyclus 20 periodes van de voorraadcyclus passen, met als conclusie dat de cyclus met de langste periode 20 keer zo lang is, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-golven-in-de-nieuw-zeelandse-economie-antw6.png"
+    ]
+   },
+   {
+    "title": "Golven in de Nieuw-Zeelandse economie",
+    "question_number": 7,
+    "answer_text": "• (formule van de vorm V(t) = a + b·sin(c(t − d)), met) (a =) (1,8 + −0,2)/2 = 0,8 en (b =) 1,8 − 0,8 = 1\n• 2π/2,57 = 2,4448… (dus c = 2,445)\n• 8/12 − ¼ · 2,57 = 0,0241… (dus d = 0,024)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(formule van de vorm V(t) = a + b·sin(c(t − d)), met) (a =) (1,8 + −0,2)/2 = 0,8 en (b =) 1,8 − 0,8 = 1"
+     },
+     {
+      "points": 1,
+      "description": "2π/2,57 = 2,4448… (dus c = 2,445)"
+     },
+     {
+      "points": 1,
+      "description": "8/12 − ¼ · 2,57 = 0,0241… (dus d = 0,024)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-golven-in-de-nieuw-zeelandse-economie-antw7.png"
+    ]
+   },
+   {
+    "title": "Golven in de Nieuw-Zeelandse economie",
+    "question_number": 8,
+    "answer_text": "• V(75) = 1,69… (%)\n• De groeifactoren 0,9983 en 1,0169…\n• 0,9983 · 1,0169… = 1,0152…\n• Het antwoord: 1,5(%)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "V(75) = 1,69… (%)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactoren 0,9983 en 1,0169…"
+     },
+     {
+      "points": 1,
+      "description": "0,9983 · 1,0169… = 1,0152…"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 1,5(%)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-golven-in-de-nieuw-zeelandse-economie-antw8.png"
+    ]
+   },
+   {
+    "title": "Golven in de Nieuw-Zeelandse economie",
+    "question_number": 9,
+    "answer_text": "• Het patroon laat zich beschrijven door V + I + P (of 0,8 + sin(2,445(t − 0,024)) + 1,6 + 1,6sin(0,604(t − 2,933)) + sin(0,126(t + 5,083)))\n• Er is maximale krimp als V + I + P minimaal is\n• Beschrijven hoe het (juiste) minimum (tussen t = 77 en t = 87) gevonden kan worden\n• Het antwoord: (−)1,06 (procent per jaar)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het patroon laat zich beschrijven door V + I + P (of 0,8 + sin(2,445(t − 0,024)) + 1,6 + 1,6sin(0,604(t − 2,933)) + sin(0,126(t + 5,083)))"
+     },
+     {
+      "points": 1,
+      "description": "Er is maximale krimp als V + I + P minimaal is"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe het (juiste) minimum (tussen t = 77 en t = 87) gevonden kan worden"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (−)1,06 (procent per jaar)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-golven-in-de-nieuw-zeelandse-economie-antw9.png"
+    ]
+   },
+   {
+    "title": "De slimste mens",
+    "question_number": 10,
+    "answer_text": "• Er zijn 15 seizoenen met in totaal (500 − 30 − 5 =) 465 afleveringen geweest\n• 15 seizoenen met elk 30 afleveringen levert (15 · 30 =) 450 afleveringen\n• Het antwoord: ((465 − 450)/5 =) 3 (seizoenen met 35 afleveringen)\nof\n• Stel het aantal seizoenen met 35 afleveringen gelijk aan x, dan is het aantal seizoenen met 30 afleveringen (tot en met het 16ᵉ seizoen) gelijk aan 15 − x\n• De vergelijking 35x + 30(15 − x) + 5 = 470 moet worden opgelost\n• Het antwoord: 3 (seizoenen met 35 afleveringen)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er zijn 15 seizoenen met in totaal (500 − 30 − 5 =) 465 afleveringen geweest"
+     },
+     {
+      "points": 1,
+      "description": "15 seizoenen met elk 30 afleveringen levert (15 · 30 =) 450 afleveringen"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: ((465 − 450)/5 =) 3 (seizoenen met 35 afleveringen)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-de-slimste-mens-antw10.png"
+    ]
+   },
+   {
+    "title": "De slimste mens",
+    "question_number": 11,
+    "answer_text": "• Mogelijke verdelingen van de seconden na deze ronde zijn: 100/60/60, 90/70/60, 80/80/60 en 80/70/70\n• Voor de verdeling 100/60/60 zijn (3 boven 1) (=) 3 mogelijkheden. Voor de verdeling 80/80/60 zijn (3 boven 1) (=) 3 mogelijkheden. Voor de verdeling 80/70/70 zijn (3 boven 1) (=) 3 mogelijkheden\n• Voor de verdeling 90/70/60 zijn (3! =) 6 mogelijkheden\n• (In totaal zijn er) (3 + 3 + 3 + 6 =) 15 (verschillende standen mogelijk)\n\nOpmerking\nAls bij het eerste en het tweede antwoordelement een van de verdelingen 100/60/60, 80/80/60 of 80/70/70 ontbreekt, voor deze opgave maximaal 3 scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Mogelijke verdelingen van de seconden na deze ronde zijn: 100/60/60, 90/70/60, 80/80/60 en 80/70/70"
+     },
+     {
+      "points": 1,
+      "description": "Voor de verdeling 100/60/60 zijn (3 boven 1) (=) 3 mogelijkheden. Voor de verdeling 80/80/60 zijn (3 boven 1) (=) 3 mogelijkheden. Voor de verdeling 80/70/70 zijn (3 boven 1) (=) 3 mogelijkheden"
+     },
+     {
+      "points": 1,
+      "description": "Voor de verdeling 90/70/60 zijn (3! =) 6 mogelijkheden"
+     },
+     {
+      "points": 1,
+      "description": "(In totaal zijn er) (3 + 3 + 3 + 6 =) 15 (verschillende standen mogelijk)"
+     }
+    ],
+    "grading_note": "Als bij het eerste en het tweede antwoordelement een van de verdelingen 100/60/60, 80/80/60 of 80/70/70 ontbreekt, voor deze opgave maximaal 3 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-de-slimste-mens-antw11.png"
+    ]
+   },
+   {
+    "title": "De slimste mens",
+    "question_number": 12,
+    "answer_text": "• Het inzicht dat het aantal drietallen berekend kan worden met een combinatie van de vorm (n boven 3)\n• In ieder geval gegeven: ((6 boven 3) =) 20 en ((7 boven 3) =) 35\n• Het antwoord: 7 (bekende Nederlanders)\n\nOpmerking\nAls niet gewerkt is met combinaties, voor deze vraag maximaal één scorepunt toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het inzicht dat het aantal drietallen berekend kan worden met een combinatie van de vorm (n boven 3)"
+     },
+     {
+      "points": 1,
+      "description": "In ieder geval gegeven: ((6 boven 3) =) 20 en ((7 boven 3) =) 35"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 7 (bekende Nederlanders)"
+     }
+    ],
+    "grading_note": "Als niet gewerkt is met combinaties, voor deze vraag maximaal één scorepunt toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-de-slimste-mens-antw12.png"
+    ]
+   },
+   {
+    "title": "Bandenspanning en aquaplaning",
+    "question_number": 13,
+    "answer_text": "• Beschrijven hoe de vergelijking 223 = 63,5 · √P kan worden opgelost\n• Dat geeft P = 12,3… (bar)\n• Het antwoord: (minimaal) 12,4 (bar)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 223 = 63,5 · √P kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dat geeft P = 12,3… (bar)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (minimaal) 12,4 (bar)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-bandenspanning-en-aquaplaning-antw13.png"
+    ]
+   },
+   {
+    "title": "Bandenspanning en aquaplaning",
+    "question_number": 14,
+    "answer_text": "• De groeifactor per dag is 0,98\n• Voor de aanbevolen bandenspanning P geldt P = 104 · 0,98ᵗ en het inzicht dat P niet lager mag zijn dan 95\n• t = 4 geeft P = 95,9…\n• t = 5 geeft P = 94,0… dus (na) 4 (dagen)\nof\n• De groeifactor per dag is 0,98\n• Het inzicht dat de vergelijking 104 · 0,98ᵗ = 95 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Het antwoord: (dit geeft t = 4,4…, dus) (na) 4 (dagen)\n\nOpmerkingen\n– In het eerste antwoordalternatief moet het derde antwoordelement expliciet genoemd worden.\n– Als een kandidaat via een zelf gekozen getallenvoorbeeld op een vergelijking equivalent aan de vergelijking uit het tweede antwoordelement komt, hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De groeifactor per dag is 0,98"
+     },
+     {
+      "points": 1,
+      "description": "Voor de aanbevolen bandenspanning P geldt P = 104 · 0,98ᵗ en het inzicht dat P niet lager mag zijn dan 95"
+     },
+     {
+      "points": 1,
+      "description": "t = 4 geeft P = 95,9…"
+     },
+     {
+      "points": 1,
+      "description": "t = 5 geeft P = 94,0… dus (na) 4 (dagen)"
+     }
+    ],
+    "grading_note": "– In het eerste antwoordalternatief moet het derde antwoordelement expliciet genoemd worden.\n– Als een kandidaat via een zelf gekozen getallenvoorbeeld op een vergelijking equivalent aan de vergelijking uit het tweede antwoordelement komt, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-bandenspanning-en-aquaplaning-antw14.png"
+    ]
+   },
+   {
+    "title": "Bandenspanning en aquaplaning",
+    "question_number": 15,
+    "answer_text": "• (Voor een zwaar beladen auto is l naar verhouding groter ten opzichte van b dan bij een licht beladen auto dus) V is voor een zwaar beladen auto kleiner dan voor een licht beladen auto\n• Als V kleiner is, dan is √(P/V) (bij constante P) groter\n• Als √(P/V) groter is, dan is S_auto = 55,5 · √(P/V) ook groter, dus bij een zwaar beladen auto is de laagste snelheid waarbij aquaplaning kan optreden hoger dan bij een licht beladen auto)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Voor een zwaar beladen auto is l naar verhouding groter ten opzichte van b dan bij een licht beladen auto dus) V is voor een zwaar beladen auto kleiner dan voor een licht beladen auto"
+     },
+     {
+      "points": 1,
+      "description": "Als V kleiner is, dan is √(P/V) (bij constante P) groter"
+     },
+     {
+      "points": 1,
+      "description": "Als √(P/V) groter is, dan is S_auto = 55,5 · √(P/V) ook groter, dus bij een zwaar beladen auto is de laagste snelheid waarbij aquaplaning kan optreden hoger dan bij een licht beladen auto)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-bandenspanning-en-aquaplaning-antw15.png"
+    ]
+   },
+   {
+    "title": "Bandenspanning en aquaplaning",
+    "question_number": 16,
+    "answer_text": "• De richtingscoëfficiënt van de trendlijn is ((507 − 214)/(0,9 − 1,4) =) −586\n• (507 + 0,9 · 586 = 1034,4, dus) een formule voor het gewicht per band is G = −586V + 1034,4\n• Het gewicht per band mag maximaal (−586 · 1,05 + 1034,4 =) 419,1 (kg) zijn\n• Het antwoord: (4 · 419,1 − 1200 = 476,4, dus) 476 (kg)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt van de trendlijn is ((507 − 214)/(0,9 − 1,4) =) −586"
+     },
+     {
+      "points": 1,
+      "description": "(507 + 0,9 · 586 = 1034,4, dus) een formule voor het gewicht per band is G = −586V + 1034,4"
+     },
+     {
+      "points": 1,
+      "description": "Het gewicht per band mag maximaal (−586 · 1,05 + 1034,4 =) 419,1 (kg) zijn"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (4 · 419,1 − 1200 = 476,4, dus) 476 (kg)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-bandenspanning-en-aquaplaning-antw16.png"
+    ]
+   },
+   {
+    "title": "Myopie",
+    "question_number": 17,
+    "answer_text": "• Het aantal inwoners van Nederland zal in 2050 gelijk zijn aan 17,2 · 1,0036³² = 19,2… (miljoen)\n• 20% van 17,2 (miljoen) is 3,44 (miljoen) en 50% van 19,2… (miljoen) is 9,64… (miljoen)\n• ((9,64… − 3,44…)/32 · 1000000, dus) een toename van 194000 (per jaar)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het aantal inwoners van Nederland zal in 2050 gelijk zijn aan 17,2 · 1,0036³² = 19,2… (miljoen)"
+     },
+     {
+      "points": 1,
+      "description": "20% van 17,2 (miljoen) is 3,44 (miljoen) en 50% van 19,2… (miljoen) is 9,64… (miljoen)"
+     },
+     {
+      "points": 1,
+      "description": "((9,64… − 3,44…)/32 · 1000000, dus) een toename van 194000 (per jaar)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-myopie-antw17.png"
+    ]
+   },
+   {
+    "title": "Myopie",
+    "question_number": 18,
+    "answer_text": "• Volgens de grafiek is de aslengte bij jongens van 7 jaar en 3 maanden gelijk aan 21,8 + ((22,8 − 21,8)/5) · 2,25 = 22,25 (mm)\n• Volgens de formule is de aslengte bij jongens van 7 jaar en 3 maanden gelijk aan 22,36… (mm)\n• Het verschil is dus 0,1 (mm)\n\nOpmerking\nAls een kandidaat bij het eerste antwoordelement 22,25 heeft verkregen door de waarde af te lezen uit de grafiek, hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Volgens de grafiek is de aslengte bij jongens van 7 jaar en 3 maanden gelijk aan 21,8 + ((22,8 − 21,8)/5) · 2,25 = 22,25 (mm)"
+     },
+     {
+      "points": 1,
+      "description": "Volgens de formule is de aslengte bij jongens van 7 jaar en 3 maanden gelijk aan 22,36… (mm)"
+     },
+     {
+      "points": 1,
+      "description": "Het verschil is dus 0,1 (mm)"
+     }
+    ],
+    "grading_note": "Als een kandidaat bij het eerste antwoordelement 22,25 heeft verkregen door de waarde af te lezen uit de grafiek, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-myopie-antw18.png"
+    ]
+   },
+   {
+    "title": "Myopie",
+    "question_number": 19,
+    "answer_text": "• Het inzicht dat de toenamesnelheid van de aslengte gegeven wordt door de formule van de afgeleide\n• De afgeleiden zijn dJ/dt = 0,5646/(t − 4) en dM/dt = 0,7112/(t − 4)\n• Beschrijven hoe de vergelijkingen 0,5646/(t − 4) = 0,05 en 0,7112/(t − 4) = 0,05 kunnen worden opgelost\n• Dat geeft respectievelijk t = 15,292 en t = 18,224, dus 2,9 (jaar) eerder\nof\n• Het inzicht dat de toenamesnelheid van de aslengte gegeven wordt door de formule van de afgeleide\n• Beschrijven hoe met de GR de vergelijkingen dJ/dt = 0,05 en dM/dt = 0,05 kunnen worden opgelost\n• Dat geeft respectievelijk t = 15,292 en t = 18,224, dus 2,9 (jaar) eerder\n\nOpmerking\nVoor het tweede antwoordelement van het tweede antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het inzicht dat de toenamesnelheid van de aslengte gegeven wordt door de formule van de afgeleide"
+     },
+     {
+      "points": 1,
+      "description": "De afgeleiden zijn dJ/dt = 0,5646/(t − 4) en dM/dt = 0,7112/(t − 4)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijkingen 0,5646/(t − 4) = 0,05 en 0,7112/(t − 4) = 0,05 kunnen worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dat geeft respectievelijk t = 15,292 en t = 18,224, dus 2,9 (jaar) eerder"
+     }
+    ],
+    "grading_note": "Voor het tweede antwoordelement van het tweede antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-myopie-antw19.png"
+    ]
+   },
+   {
+    "title": "Myopie",
+    "question_number": 20,
+    "answer_text": "• (t = 6 en A = 23,4 geeft) de vergelijking p · ln(6 − 4) + q = 23,4\n• Hieruit volgt 0,6931… p + q = 23,4 en dit geeft q = 23,4 − 0,6931… p (dus na afronding op drie decimalen geldt dan q = 23,4 − 0,693p",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(t = 6 en A = 23,4 geeft) de vergelijking p · ln(6 − 4) + q = 23,4"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt 0,6931… p + q = 23,4 en dit geeft q = 23,4 − 0,6931… p (dus na afronding op drie decimalen geldt dan q = 23,4 − 0,693p"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-myopie-antw20.png"
+    ]
+   },
+   {
+    "title": "Myopie",
+    "question_number": 21,
+    "answer_text": "• De vergelijking 23,4 − 0,693p = 24,4 − 1,792p moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Het antwoord: p = 0,910 en q = 22,769",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 23,4 − 0,693p = 24,4 − 1,792p moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: p = 0,910 en q = 22,769"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-myopie-antw21.png"
+    ]
+   },
+   {
+    "title": "Myopie",
+    "question_number": 22,
+    "answer_text": "• De vergelijking 0,91 · ln(t − 4) + 22,77 = 26 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Het antwoord: (de oplossing van de vergelijking is t = 38,7…, dus) op 38-jarige leeftijd",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 0,91 · ln(t − 4) + 22,77 = 26 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (de oplossing van de vergelijking is t = 38,7…, dus) op 38-jarige leeftijd"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-myopie-antw22.png"
+    ]
+   },
+   {
+    "title": "Amnesty-monument",
+    "question_number": 23,
+    "answer_text": "• Het kunstwerk bestaat uit 25 buizen\n• Elke buis is (270 − 30)/24 = 10 (cm) langer dan de vorige\n• Beschrijven hoe de totale lengte van de buizen berekend kan worden (bijvoorbeeld 30 + 40 + ⋯ + 260 + 270 of Σ (k=0 tot 24) (30 + 10k))\n• Dit geeft 3750 (cm)\n• Elke centimeter buis is gevuld met 6030/30 = 201 (cm³) cement\n• De benodigde hoeveelheid cement is 201 · 3750 = 753750 (cm³), dus (ongeveer) 754 (liter)\nof\n• Het kunstwerk bestaat uit 25 buizen\n• Elke centimeter buis is gevuld met 6030/30 = 201 (cm³) cement\n• De langste buis bevat dus 201 · 270 = 54270 (cm³) cement\n• Elke buis bevat (54270 − 6030)/24 = 2010 (cm³) meer cement dan de vorige\n• Beschrijven hoe de totale hoeveelheid cement berekend kan worden (bijvoorbeeld 6030 + 8040 + ⋯ + 54270 of Σ (k=0 tot 24) (6030 + 2010k))\n• Dit geeft 753750 (cm³), dus (ongeveer) 754 (liter)\nof\n• Het kunstwerk bestaat uit 25 buizen\n• De gemiddelde hoogte van de buizen is (30 + 270)/2 = 150 (cm)\n• Voor 150 cm is (150/30 =) 5 keer zo veel cement nodig als voor 30 cm\n• Dit geeft 5 · 6030 = 30150 (cm³) cement\n• In totaal is er 25 · 30150 = 753750 (cm³) cement nodig, dus (ongeveer) 754 (liter)\nof\n• Het kunstwerk bestaat uit 25 buizen\n• Voor 270 cm is (270/30 =) 9 keer zo veel cement nodig als voor 30 cm\n• Dit geeft 9 · 6030 = 54270 (cm³) cement\n• Er is gemiddeld (6030 + 54270)/2 = 30150 (cm³) cement per buis nodig\n• In totaal is er 25 · 30150 = 753750 (cm³) cement nodig, dus (ongeveer) 754 (liter)\n\nOpmerking\nVoor het tweede antwoordelement van het derde antwoordalternatief en voor het vierde antwoordelement van het vierde antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het kunstwerk bestaat uit 25 buizen"
+     },
+     {
+      "points": 1,
+      "description": "Elke buis is (270 − 30)/24 = 10 (cm) langer dan de vorige"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de totale lengte van de buizen berekend kan worden (bijvoorbeeld 30 + 40 + ⋯ + 260 + 270 of Σ (k=0 tot 24) (30 + 10k))"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft 3750 (cm)"
+     },
+     {
+      "points": 1,
+      "description": "Elke centimeter buis is gevuld met 6030/30 = 201 (cm³) cement"
+     },
+     {
+      "points": 1,
+      "description": "De benodigde hoeveelheid cement is 201 · 3750 = 753750 (cm³), dus (ongeveer) 754 (liter)"
+     }
+    ],
+    "grading_note": "Voor het tweede antwoordelement van het derde antwoordalternatief en voor het vierde antwoordelement van het vierde antwoordalternatief mogen uitsluitend 0 of 2 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2025-i-amnesty-monument-antw23.png"
+    ]
+   }
+  ]
+ }
+}
