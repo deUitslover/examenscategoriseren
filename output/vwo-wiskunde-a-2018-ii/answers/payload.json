@@ -1,0 +1,563 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "source": "VWO Wiskunde A 2018-II",
+  "answers": [
+   {
+    "title": "Knab",
+    "question_number": 1,
+    "answer_text": "• Het werkelijke aantal in week 43 is 33750\n• Het berekende aantal op t = 42 is 31459 (of: het uit de grafiek afgelezen aantal is 31500)\n• Het gevraagde verschil is 2300\n\nOpmerking\nBij elke afgelezen waarde is een afleesmarge van 500 toegestaan.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het werkelijke aantal in week 43 is 33750"
+     },
+     {
+      "points": 1,
+      "description": "Het berekende aantal op t = 42 is 31459 (of: het uit de grafiek afgelezen aantal is 31500)"
+     },
+     {
+      "points": 1,
+      "description": "Het gevraagde verschil is 2300"
+     }
+    ],
+    "grading_note": "Bij elke afgelezen waarde is een afleesmarge van 500 toegestaan.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-knab-antw1.png"
+    ]
+   },
+   {
+    "title": "Knab",
+    "question_number": 2,
+    "answer_text": "• Beschrijven hoe de vergelijking e⁰˒⁰⁴⁶³ᐧᵗ = 10 kan worden opgelost\n• Dit geeft t = 49,7 ...\n• Het antwoord: 50 (weken)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking e⁰˒⁰⁴⁶³ᐧᵗ = 10 kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft t = 49,7 ..."
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 50 (weken)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-knab-antw2.png"
+    ]
+   },
+   {
+    "title": "Knab",
+    "question_number": 3,
+    "answer_text": "• Het tekenen van de raaklijn aan de grafiek bij weeknummer 31\n• Het aflezen van twee punten op de raaklijn, bijvoorbeeld (40, 25500) en (16, 5500)\n• De richtingscoëfficiënt van de raaklijn is (25500 − 5500)/(40 − 16) = 833, ...\n• De gevraagde benadering is 800 (klanten per week)\n\nOpmerkingen\n– Ten gevolge van tekenen en aflezen mag de gevraagde benadering maximaal 200 afwijken van de hierboven gegeven waarde.\n– Als bij de beantwoording van deze vraag geen gebruik is gemaakt van de grafiek in de figuur (op de uitwerkbijlage), voor deze vraag geen scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het tekenen van de raaklijn aan de grafiek bij weeknummer 31"
+     },
+     {
+      "points": 1,
+      "description": "Het aflezen van twee punten op de raaklijn, bijvoorbeeld (40, 25500) en (16, 5500)"
+     },
+     {
+      "points": 1,
+      "description": "De richtingscoëfficiënt van de raaklijn is (25500 − 5500)/(40 − 16) = 833, ..."
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde benadering is 800 (klanten per week)"
+     }
+    ],
+    "grading_note": "– Ten gevolge van tekenen en aflezen mag de gevraagde benadering maximaal 200 afwijken van de hierboven gegeven waarde.\n– Als bij de beantwoording van deze vraag geen gebruik is gemaakt van de grafiek in de figuur (op de uitwerkbijlage), voor deze vraag geen scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-knab-antw3.png"
+    ]
+   },
+   {
+    "title": "Knab",
+    "question_number": 4,
+    "answer_text": "• e⁰˒⁰⁴⁶³ᐧᵗ = (1/4500) · N (= 0,00022 ... · N)\n• 0,0463 · t = ln((1/4500) · N)\n• t = (1/0,0463) · ln((1/4500) · N) = 21,60 ... · ln(0,00022 ... · N) dus de gevraagde waarde van a is 21,60 en de gevraagde waarde van b is 0,00022",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "e⁰˒⁰⁴⁶³ᐧᵗ = (1/4500) · N (= 0,00022 ... · N)"
+     },
+     {
+      "points": 1,
+      "description": "0,0463 · t = ln((1/4500) · N)"
+     },
+     {
+      "points": 1,
+      "description": "t = (1/0,0463) · ln((1/4500) · N) = 21,60 ... · ln(0,00022 ... · N) dus de gevraagde waarde van a is 21,60 en de gevraagde waarde van b is 0,00022"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-knab-antw4.png"
+    ]
+   },
+   {
+    "title": "Blikstapelingen",
+    "question_number": 5,
+    "answer_text": "• Het tekenen van de twee mogelijkheden\n\n(zie de figuur in de afbeelding)\n\nOpmerking\nPer vergeten of foutieve mogelijkheid 1 scorepunt in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Het tekenen van de twee mogelijkheden"
+     }
+    ],
+    "grading_note": "Per vergeten of foutieve mogelijkheid 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-blikstapelingen-antw5.png"
+    ]
+   },
+   {
+    "title": "Blikstapelingen",
+    "question_number": 6,
+    "answer_text": "• Er is één mogelijke stapeling met 4 blikken op de onderste laag en 0 blikken op de tweede laag en drie mogelijke stapelingen met 4 blikken op de onderste laag en 1 blik op de tweede laag\n• Er zijn drie mogelijke stapelingen met 4 blikken op de onderste laag en 2 blikken op de tweede laag\n• Er zijn drie mogelijke stapelingen met 4 blikken op de onderste laag en 3 blikken op de tweede en/of derde laag\n• Er zijn twee mogelijke stapelingen met 4 blikken op de onderste laag, 3 blikken op de tweede laag en 1 blik op de derde laag; één mogelijke stapeling met 4 blikken op de onderste laag, 3 blikken op de tweede laag en 2 blikken op de derde laag; één mogelijke stapeling met 4 blikken op de onderste laag, 3 blikken op de tweede laag, 2 blikken op de derde laag en 1 blik op de vierde laag (dus in totaal 1 + 3 + 3 + 3 + 2 + 1 + 1 = 14 mogelijke stapelingen)\nof\n• Er is één mogelijke stapeling met 4 blikken op de onderste laag en 0 blikken op de tweede laag en drie mogelijke stapelingen met 4 blikken op de onderste laag en 1 blik op de tweede laag\n• Er zijn drie mogelijke stapelingen met 4 blikken op de onderste laag en 2 blikken op de tweede laag\n• Er zijn twee mogelijke stapelingen met 4 blikken op de onderste laag, 2 blikken op de tweede laag en 1 blik op de derde laag\n• Er zijn vijf mogelijke stapelingen met 4 blikken op de onderste laag, 3 blikken op de tweede laag en 0 of meer blikken op de derde en/of vierde laag (dus in totaal 1 + 3 + 3 + 2 + 5 = 14 mogelijke stapelingen)\nof\n• Het vermelden of tekenen van de stapeling met alleen 4 blikken op de onderste laag en het vermelden of tekenen van de drie mogelijke stapelingen met in totaal 5 blikken\n• Het vermelden of tekenen van de drie mogelijke stapelingen met in totaal 6 blikken\n• Het vermelden of tekenen van de drie mogelijke stapelingen met in totaal 7 blikken\n• Het vermelden of tekenen van de twee mogelijke stapelingen met in totaal 8 blikken, het vermelden of tekenen van de mogelijke stapeling met in totaal 9 blikken en het vermelden of tekenen van de mogelijke stapeling met in totaal 10 blikken (dus in totaal 1 + 3 + 3 + 3 + 2 + 1 + 1 = 14 mogelijke stapelingen)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er is één mogelijke stapeling met 4 blikken op de onderste laag en 0 blikken op de tweede laag en drie mogelijke stapelingen met 4 blikken op de onderste laag en 1 blik op de tweede laag"
+     },
+     {
+      "points": 1,
+      "description": "Er zijn drie mogelijke stapelingen met 4 blikken op de onderste laag en 2 blikken op de tweede laag"
+     },
+     {
+      "points": 1,
+      "description": "Er zijn drie mogelijke stapelingen met 4 blikken op de onderste laag en 3 blikken op de tweede en/of derde laag"
+     },
+     {
+      "points": 1,
+      "description": "Er zijn twee mogelijke stapelingen met 4 blikken op de onderste laag, 3 blikken op de tweede laag en 1 blik op de derde laag; één mogelijke stapeling met 4 blikken op de onderste laag, 3 blikken op de tweede laag en 2 blikken op de derde laag; één mogelijke stapeling met 4 blikken op de onderste laag, 3 blikken op de tweede laag, 2 blikken op de derde laag en 1 blik op de vierde laag (dus in totaal 1 + 3 + 3 + 3 + 2 + 1 + 1 = 14 mogelijke stapelingen)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-blikstapelingen-antw6.png"
+    ]
+   },
+   {
+    "title": "Blikstapelingen",
+    "question_number": 7,
+    "answer_text": "• Er geldt: C₅ = C₀ · C₄ + C₁ · C₃ + C₂ · C₂ + C₃ · C₁ + C₄ · C₀\n• C₅ = 1 · 14 + 1 · 5 + 2 · 2 + 5 · 1 + 14 · 1\n• Het antwoord: C₅ = 42",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er geldt: C₅ = C₀ · C₄ + C₁ · C₃ + C₂ · C₂ + C₃ · C₁ + C₄ · C₀"
+     },
+     {
+      "points": 1,
+      "description": "C₅ = 1 · 14 + 1 · 5 + 2 · 2 + 5 · 1 + 14 · 1"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: C₅ = 42"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-blikstapelingen-antw7.png"
+    ]
+   },
+   {
+    "title": "Blikstapelingen",
+    "question_number": 8,
+    "answer_text": "• De afgeleide van e¹˒³⁸⁶ᐧⁿ is 1,386 · e¹˒³⁸⁶ᐧⁿ\n• De afgeleide van n⁻¹˒⁵ is −1,5 · n⁻²˒⁵\n• Bₙ′ = 0,564(1,386 · e¹˒³⁸⁶ᐧⁿ · n⁻¹˒⁵ + e¹˒³⁸⁶ᐧⁿ · −1,5n⁻²˒⁵) (of een gelijkwaardige uitdrukking)\n• Dit herleiden tot Bₙ′ = 0,782 · e¹˒³⁸⁶ᐧⁿ · n⁻¹˒⁵ − 0,846 · e¹˒³⁸⁶ᐧⁿ · n⁻²˒⁵\n\nOpmerking\nAls de kandidaat de productregel niet of niet juist heeft toegepast, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De afgeleide van e¹˒³⁸⁶ᐧⁿ is 1,386 · e¹˒³⁸⁶ᐧⁿ"
+     },
+     {
+      "points": 1,
+      "description": "De afgeleide van n⁻¹˒⁵ is −1,5 · n⁻²˒⁵"
+     },
+     {
+      "points": 1,
+      "description": "Bₙ′ = 0,564(1,386 · e¹˒³⁸⁶ᐧⁿ · n⁻¹˒⁵ + e¹˒³⁸⁶ᐧⁿ · −1,5n⁻²˒⁵) (of een gelijkwaardige uitdrukking)"
+     },
+     {
+      "points": 1,
+      "description": "Dit herleiden tot Bₙ′ = 0,782 · e¹˒³⁸⁶ᐧⁿ · n⁻¹˒⁵ − 0,846 · e¹˒³⁸⁶ᐧⁿ · n⁻²˒⁵"
+     }
+    ],
+    "grading_note": "Als de kandidaat de productregel niet of niet juist heeft toegepast, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-blikstapelingen-antw8.png"
+    ]
+   },
+   {
+    "title": "Blikstapelingen",
+    "question_number": 9,
+    "answer_text": "• Beschrijven hoe de vergelijking 0,782 · e¹˒³⁸⁶ᐧⁿ · n⁻¹˒⁵ − 0,846 · e¹˒³⁸⁶ᐧⁿ · n⁻²˒⁵ = 500000 kan worden opgelost\n• Dit geeft n = 12, ...\n• Dus (vanaf) 13 (blikken)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 0,782 · e¹˒³⁸⁶ᐧⁿ · n⁻¹˒⁵ − 0,846 · e¹˒³⁸⁶ᐧⁿ · n⁻²˒⁵ = 500000 kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft n = 12, ..."
+     },
+     {
+      "points": 1,
+      "description": "Dus (vanaf) 13 (blikken)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-blikstapelingen-antw9.png"
+    ]
+   },
+   {
+    "title": "Kaarten schudden",
+    "question_number": 10,
+    "answer_text": "• Voor de eerste speler zijn (16 boven 4) mogelijkheden\n• Voor de overige spelers zijn dan nog (12 boven 4), (8 boven 4) (en (4 boven 4)) mogelijkheden\n• In totaal zijn er dus (16 boven 4) · (12 boven 4) · (8 boven 4) · (4 boven 4) = 63063000 mogelijkheden\n• Dus het antwoord is 2,1 · 10¹³ : 63063000 en dat is 330000 (keer zo groot)\nof\n• Iedere mogelijke volgorde van de kaarten die elke speler krijgt resulteert in dezelfde verdeling van kaarten\n• Voor elke speler bestaan er 4! van zulke volgordes\n• Er zijn dus voor iedere verdeling (4!)⁴ verschillende mogelijkheden\n• (4!)⁴ = 331776, dus het antwoord is 330000 (keer zo groot)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor de eerste speler zijn (16 boven 4) mogelijkheden"
+     },
+     {
+      "points": 1,
+      "description": "Voor de overige spelers zijn dan nog (12 boven 4), (8 boven 4) (en (4 boven 4)) mogelijkheden"
+     },
+     {
+      "points": 1,
+      "description": "In totaal zijn er dus (16 boven 4) · (12 boven 4) · (8 boven 4) · (4 boven 4) = 63063000 mogelijkheden"
+     },
+     {
+      "points": 1,
+      "description": "Dus het antwoord is 2,1 · 10¹³ : 63063000 en dat is 330000 (keer zo groot)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-kaarten-schudden-antw10.png"
+    ]
+   },
+   {
+    "title": "Kaarten schudden",
+    "question_number": 11,
+    "answer_text": "• A = 1,5 · ²log(108) = 10,1 ...\n• (Er moet dus) 11 keer (worden geschud)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "A = 1,5 · ²log(108) = 10,1 ..."
+     },
+     {
+      "points": 1,
+      "description": "(Er moet dus) 11 keer (worden geschud)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-kaarten-schudden-antw11.png"
+    ]
+   },
+   {
+    "title": "Kaarten schudden",
+    "question_number": 12,
+    "answer_text": "• De afgeleide van ²log(n) is 1/(n ln(2))\n• dA/dn = 1,5/(n ln(2)) (of een gelijkwaardige uitdrukking)\n• n is positief, dus is dA/dn positief en dus is A stijgend\n• n staat in de noemer, dus als n groter wordt neemt dA/dn af en dus is A afnemend stijgend",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De afgeleide van ²log(n) is 1/(n ln(2))"
+     },
+     {
+      "points": 1,
+      "description": "dA/dn = 1,5/(n ln(2)) (of een gelijkwaardige uitdrukking)"
+     },
+     {
+      "points": 1,
+      "description": "n is positief, dus is dA/dn positief en dus is A stijgend"
+     },
+     {
+      "points": 1,
+      "description": "n staat in de noemer, dus als n groter wordt neemt dA/dn af en dus is A afnemend stijgend"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-kaarten-schudden-antw12.png"
+    ]
+   },
+   {
+    "title": "Kaarten schudden",
+    "question_number": 13,
+    "answer_text": "• Als x het aantal kaarten in eerste instantie is, dan is het nieuwe aantal 4x\n• 1,5 · ²log(4x) = 1,5 · (²log(4) + ²log(x))\n• 1,5 · (²log(4) + ²log(x)) = 1,5 · (2 + ²log(x))\n• 1,5 · (2 + ²log(x)) = 3 + 1,5 · ²log(x) (en dat is inderdaad 3 meer dan bij x)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als x het aantal kaarten in eerste instantie is, dan is het nieuwe aantal 4x"
+     },
+     {
+      "points": 1,
+      "description": "1,5 · ²log(4x) = 1,5 · (²log(4) + ²log(x))"
+     },
+     {
+      "points": 1,
+      "description": "1,5 · (²log(4) + ²log(x)) = 1,5 · (2 + ²log(x))"
+     },
+     {
+      "points": 1,
+      "description": "1,5 · (2 + ²log(x)) = 3 + 1,5 · ²log(x) (en dat is inderdaad 3 meer dan bij x)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-kaarten-schudden-antw13.png"
+    ]
+   },
+   {
+    "title": "Zeepbellen",
+    "question_number": 14,
+    "answer_text": "• Invullen in de formule geeft 1/c = 1/2,5 − 1/4 (= 0,15)\n• Hieruit volgt c = 1/0,15 (= 6,66 ...) (of beschrijven hoe de vergelijking kan worden opgelost)\n• De gevraagde straal is 67 (mm) (of 6,7 cm)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Invullen in de formule geeft 1/c = 1/2,5 − 1/4 (= 0,15)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt c = 1/0,15 (= 6,66 ...) (of beschrijven hoe de vergelijking kan worden opgelost)"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde straal is 67 (mm) (of 6,7 cm)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-zeepbellen-antw14.png"
+    ]
+   },
+   {
+    "title": "Zeepbellen",
+    "question_number": 15,
+    "answer_text": "• De formule 1/c = 1/b − 1/3\n• Als b afneemt, neemt 1/b toe\n• (Dan neemt ook 1/b − 1/3 toe,) dus 1/c neemt toe\n• Als 1/c toeneemt, neemt c af",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De formule 1/c = 1/b − 1/3"
+     },
+     {
+      "points": 1,
+      "description": "Als b afneemt, neemt 1/b toe"
+     },
+     {
+      "points": 1,
+      "description": "(Dan neemt ook 1/b − 1/3 toe,) dus 1/c neemt toe"
+     },
+     {
+      "points": 1,
+      "description": "Als 1/c toeneemt, neemt c af"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-zeepbellen-antw15.png"
+    ]
+   },
+   {
+    "title": "Zeepbellen",
+    "question_number": 16,
+    "answer_text": "• 1/c = (1/b − 1/a =) a/(ab) − b/(ab)\n• 1/c = (a − b)/(ab)\n• Dit geeft c/1 = ab/(a − b) (of c(a − b) = ab), dus c = ab/(a − b)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "1/c = (1/b − 1/a =) a/(ab) − b/(ab)"
+     },
+     {
+      "points": 1,
+      "description": "1/c = (a − b)/(ab)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft c/1 = ab/(a − b) (of c(a − b) = ab), dus c = ab/(a − b)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-zeepbellen-antw16.png"
+    ]
+   },
+   {
+    "title": "Zeepbellen",
+    "question_number": 17,
+    "answer_text": "• dc/db = (3 · (3 − b) − 3b · −1)/(3 − b)²\n• dc/db = 9/(3 − b)²\n• In dc/db = 9/(3 − b)² is de teller positief en de noemer ook, dus de afgeleide is positief, dus c is stijgend\n• Dat betekent dat c afneemt als de straal van de kleinste zeepbel b kleiner wordt\nof\n• dc/db = (3 · (3 − b) − 3b · −1)/(3 − b)²\n• Een schets van de grafiek van de afgeleide\n• Een toelichting waaruit blijkt dat de afgeleide (voor elke relevante waarde van b) positief is en c dus stijgend is\n• Dat betekent dat c afneemt als de straal van de kleinste zeepbel b kleiner wordt",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "dc/db = (3 · (3 − b) − 3b · −1)/(3 − b)²"
+     },
+     {
+      "points": 1,
+      "description": "dc/db = 9/(3 − b)²"
+     },
+     {
+      "points": 1,
+      "description": "In dc/db = 9/(3 − b)² is de teller positief en de noemer ook, dus de afgeleide is positief, dus c is stijgend"
+     },
+     {
+      "points": 1,
+      "description": "Dat betekent dat c afneemt als de straal van de kleinste zeepbel b kleiner wordt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-zeepbellen-antw17.png"
+    ]
+   },
+   {
+    "title": "Schildpadden",
+    "question_number": 18,
+    "answer_text": "• 0,18 < G/15³ < 0,22\n• Beschrijven hoe deze ongelijkheid kan worden opgelost\n• Het antwoord: G moet liggen tussen 607 en 743 (of: vanaf 608 tot en met 742) (gram)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "0,18 < G/15³ < 0,22"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze ongelijkheid kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: G moet liggen tussen 607 en 743 (of: vanaf 608 tot en met 742) (gram)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-schildpadden-antw18.png"
+    ]
+   },
+   {
+    "title": "Schildpadden",
+    "question_number": 19,
+    "answer_text": "• De lengte wordt groter (dan bij een correcte meting)\n• (Het gewicht verandert niet, dus de teller in de formule voor R blijft gelijk en) de noemer wordt groter\n• Dus de schildpad krijgt een kleinere Jackson Ratio (dan hij in werkelijkheid heeft)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De lengte wordt groter (dan bij een correcte meting)"
+     },
+     {
+      "points": 1,
+      "description": "(Het gewicht verandert niet, dus de teller in de formule voor R blijft gelijk en) de noemer wordt groter"
+     },
+     {
+      "points": 1,
+      "description": "Dus de schildpad krijgt een kleinere Jackson Ratio (dan hij in werkelijkheid heeft)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-schildpadden-antw19.png"
+    ]
+   },
+   {
+    "title": "Schildpadden",
+    "question_number": 20,
+    "answer_text": "• G = W · 454 en L = l · 2,54\n• R = (W · 454)/(l · 2,54)³ herleiden tot R = (454/2,54³) · (W/l³) (of R = 454W/(2,54³l³))\n• De gevraagde waarde van c is 27,7\nof\n• Een oplossing met voorbeeldwaarden, zoals: G = 675 wordt W = 675/454 (= 1,48 ...) en L = 15 wordt l = 15/2,54 (= 5,90 ...)\n• 675/15³ = 0,20 geeft 0,20 = c · 1,48.../5,90...³\n• De gevraagde waarde van c is 27,7\nof\n• Als W = 1 en l = 1, dan geldt R = c\n• G = 454 en L = 2,54 geeft R = c = 454/2,54³\n• Het antwoord: 27,7\n\nOpmerking\nAls de kandidaat gerekend heeft met c = 2,54³/454 voor deze vraag geen scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "G = W · 454 en L = l · 2,54"
+     },
+     {
+      "points": 1,
+      "description": "R = (W · 454)/(l · 2,54)³ herleiden tot R = (454/2,54³) · (W/l³) (of R = 454W/(2,54³l³))"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde waarde van c is 27,7"
+     }
+    ],
+    "grading_note": "Als de kandidaat gerekend heeft met c = 2,54³/454 voor deze vraag geen scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-schildpadden-antw20.png"
+    ]
+   },
+   {
+    "title": "Schildpadden",
+    "question_number": 21,
+    "answer_text": "• Voor de ondergrens geldt G/L³ = 0,18\n• Voor de bovengrens geldt G/L³ = 0,22\n• Dit geeft G = 0,18L³ en G = 0,22L³ voor de onder- respectievelijk de bovengrens\n• Het tekenen van de grafiek die hoort bij de ondergrens in de figuur\n• Het tekenen van de grafiek die hoort bij de bovengrens in de figuur\n• Het arceren van het bedoelde gebied (zie de figuur hieronder)\nof\n• Voor de ondergrens geldt G/L³ = 0,18\n• Voor de bovengrens geldt G/L³ = 0,22\n• Het berekenen van minstens drie bij elkaar behorende waarden van G en L bij G/L³ = 0,18 waarvan minstens één voor een waarde van L ≥ 24\n• Het berekenen van minstens drie bij elkaar behorende waarden van G en L bij G/L³ = 0,22 waarvan minstens één voor een waarde van L ≥ 24\n• Het tekenen van de bijbehorende punten voor onder- en bovengrens in de figuur en deze verbinden met een vloeiende lijn\n• Het arceren van het bedoelde gebied (zie de figuur hieronder)\n\n(zie de figuur in de afbeelding)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor de ondergrens geldt G/L³ = 0,18"
+     },
+     {
+      "points": 1,
+      "description": "Voor de bovengrens geldt G/L³ = 0,22"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft G = 0,18L³ en G = 0,22L³ voor de onder- respectievelijk de bovengrens"
+     },
+     {
+      "points": 1,
+      "description": "Het tekenen van de grafiek die hoort bij de ondergrens in de figuur"
+     },
+     {
+      "points": 1,
+      "description": "Het tekenen van de grafiek die hoort bij de bovengrens in de figuur"
+     },
+     {
+      "points": 1,
+      "description": "Het arceren van het bedoelde gebied (zie de figuur hieronder)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-schildpadden-antw21.png"
+    ]
+   },
+   {
+    "title": "Grotere windmolens",
+    "question_number": 22,
+    "answer_text": "• Het totale vermogen van het windpark is 40 · 0,75 = 30 (MW) dus een nieuwe windmolen moet een vermogen van (minstens) 3 (MW) hebben\n• De formule P = 2,21 · 10⁻⁴ · 1,0068ʰ · D²\n• De formule P = 2,21 · 10⁻⁴ · 1,0068⁰˒⁹ᴰ · D²\n• De vergelijking 2,21 · 10⁻⁴ · 1,0068⁰˒⁹ᴰ · D² = 3\n• Oplossen van deze vergelijking geeft D = 88,8 ...\n• De minimale ashoogte is (0,9 · 88,8 ... =) 79,9 ... (meter)\n• (10 · 79,9 ... · 25000 = 19992347, ..., dus) de gevraagde investering is 20 miljoen (of 20000000) (euro)\nof\n• De formule P = 2,21 · 10⁻⁴ · 1,0068ʰ · D²\n• De formule P = 2,21 · 10⁻⁴ · 1,0068⁰˒⁹ᴰ · D²\n• Het aantal nieuwe windmolens is (40/10 =) 4 keer zo klein als het huidige aantal windmolens, dus een nieuwe windmolen moet (minstens) 4 keer zo veel vermogen hebben als het vermogen van een huidige windmolen\n• Dus 1,0068⁰˒⁹ᴰ · D² moet (minstens) 4 keer zo groot zijn als 1,0068⁴⁵ · 50² (= 3391,4 ...), dit geeft 1,0068⁰˒⁹ᴰ · D² = 4 · 3391,4 ...\n• Oplossen van deze vergelijking geeft D = 88,8 ...\n• De minimale ashoogte is (0,9 · 88,8 ... =) 79,9 ... (meter)\n• (10 · 79,9 ... · 25000 = 19987192, ..., dus) de gevraagde investering is 20 miljoen (of 20000000) (euro)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het totale vermogen van het windpark is 40 · 0,75 = 30 (MW) dus een nieuwe windmolen moet een vermogen van (minstens) 3 (MW) hebben"
+     },
+     {
+      "points": 1,
+      "description": "De formule P = 2,21 · 10⁻⁴ · 1,0068ʰ · D²"
+     },
+     {
+      "points": 1,
+      "description": "De formule P = 2,21 · 10⁻⁴ · 1,0068⁰˒⁹ᴰ · D²"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking 2,21 · 10⁻⁴ · 1,0068⁰˒⁹ᴰ · D² = 3"
+     },
+     {
+      "points": 1,
+      "description": "Oplossen van deze vergelijking geeft D = 88,8 ..."
+     },
+     {
+      "points": 1,
+      "description": "De minimale ashoogte is (0,9 · 88,8 ... =) 79,9 ... (meter)"
+     },
+     {
+      "points": 1,
+      "description": "(10 · 79,9 ... · 25000 = 19992347, ..., dus) de gevraagde investering is 20 miljoen (of 20000000) (euro)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2018-ii-grotere-windmolens-antw22.png"
+    ]
+   }
+  ]
+ }
+}
