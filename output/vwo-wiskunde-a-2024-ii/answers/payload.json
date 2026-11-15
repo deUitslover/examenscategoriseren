@@ -1,0 +1,544 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "source": "VWO Wiskunde A 2024-II",
+  "answers": [
+   {
+    "title": "Duurzamer douchen",
+    "question_number": 1,
+    "answer_text": "• Vóór het opvolgen van de tips was het waterverbruik voor het douchen 7,4 · 10 · 7 = 518 (liter per week)\n• Na het opvolgen van de tips is het waterverbruik voor het douchen en wassen bij de wastafel 5 · 7,2 · 5 + 2 · 3 = 186 (liter per week)\n• Het antwoord: ((186 − 518)/518 = −0,640…, dus) 64(%)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Vóór het opvolgen van de tips was het waterverbruik voor het douchen 7,4 · 10 · 7 = 518 (liter per week)"
+     },
+     {
+      "points": 1,
+      "description": "Na het opvolgen van de tips is het waterverbruik voor het douchen en wassen bij de wastafel 5 · 7,2 · 5 + 2 · 3 = 186 (liter per week)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: ((186 − 518)/518 = −0,640…, dus) 64(%)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-duurzamer-douchen-antw1.png"
+    ]
+   },
+   {
+    "title": "Duurzamer douchen",
+    "question_number": 2,
+    "answer_text": "• 3,2 · 10 + 4 · 60 (= 272)\n• De temperatuur van het douchewater is dan 272/7,2\n• Het antwoord: 37,8 (°C)\nof\n• De verhouding koud water : warm water is 3,2 : 4\n• De temperatuur van het douchewater is dan (3,2/7,2) · 10 + (4/7,2) · 60\n• Het antwoord: 37,8 (°C)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "3,2 · 10 + 4 · 60 (= 272)"
+     },
+     {
+      "points": 1,
+      "description": "De temperatuur van het douchewater is dan 272/7,2"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 37,8 (°C)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-duurzamer-douchen-antw2.png"
+    ]
+   },
+   {
+    "title": "Duurzamer douchen",
+    "question_number": 3,
+    "answer_text": "• Per douchebeurt zijn de kosten (K =) 5,75 + 2,92 · 5 (= 20,35) (cent)\n• De besparing per douchebeurt is dus 5,8 · 5 − 20,35 (= 8,65) (cent)\n• Na (650/0,0865 =) 7514,… douchebeurten is de douche-wtw terugverdiend\n• Het antwoord: (7514,…/(52 · 4 · 5) = 7,22…, dus na) 7,2 (jaar)\nof\n• Per douchebeurt zijn de kosten D = 5,75 + 2,92 · 5 (= 20,35) (cent)\n• Een jaar douchen met douche-wtw (voor het hele huishouden) kost 52 · 4 · 5 · 20,35 (= 21164) (cent)\n• Zonder douche-wtw zouden de kosten voor een jaar douchen (voor het hele huishouden) gelijk zijn aan 52 · 4 · 5 · 5 · 5,8 (= 30160) (cent)\n• Het antwoord: (650/(301,60 − 211,64) = 7,22…, dus na) 7,2 (jaar)\n\nOpmerking\nAls gewerkt is met 365/7 (of 365,25/7) weken hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Per douchebeurt zijn de kosten (K =) 5,75 + 2,92 · 5 (= 20,35) (cent)"
+     },
+     {
+      "points": 1,
+      "description": "De besparing per douchebeurt is dus 5,8 · 5 − 20,35 (= 8,65) (cent)"
+     },
+     {
+      "points": 1,
+      "description": "Na (650/0,0865 =) 7514,… douchebeurten is de douche-wtw terugverdiend"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (7514,…/(52 · 4 · 5) = 7,22…, dus na) 7,2 (jaar)"
+     }
+    ],
+    "grading_note": "Als gewerkt is met 365/7 (of 365,25/7) weken hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-duurzamer-douchen-antw3.png"
+    ]
+   },
+   {
+    "title": "Wonen in New York",
+    "question_number": 4,
+    "answer_text": "• Bij een reistijd van 25 minuten hoort een huurprijs van $2250 voor een 1-kamerappartement en een huurprijs van $3400 voor een 3-kamerappartement\n• 2250 · 1,25² = 3515,… (of 3400 : 1,25² = 2176)\n• Een passende conclusie\nof\n• Bij een reistijd van 25 minuten hoort een huurprijs van $2250 voor een 1-kamerappartement en een huurprijs van $3400 voor een 3-kamerappartement\n• 3400/2250 = 1,51… en 1,51…^(1/2) = 1,229… (dus de toename is 22,9…% per kamer)\n• Een passende conclusie\n\nOpmerkingen\n– De toegestane marge bij het aflezen van de huurprijzen is $ 100.\n– Als er niet exponentieel gerekend is maximaal 1 scorepunt aan deze vraag toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij een reistijd van 25 minuten hoort een huurprijs van $2250 voor een 1-kamerappartement en een huurprijs van $3400 voor een 3-kamerappartement"
+     },
+     {
+      "points": 1,
+      "description": "2250 · 1,25² = 3515,… (of 3400 : 1,25² = 2176)"
+     },
+     {
+      "points": 1,
+      "description": "Een passende conclusie"
+     }
+    ],
+    "grading_note": "– De toegestane marge bij het aflezen van de huurprijzen is $ 100.\n– Als er niet exponentieel gerekend is maximaal 1 scorepunt aan deze vraag toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-wonen-in-new-york-antw4.png"
+    ]
+   },
+   {
+    "title": "Wonen in New York",
+    "question_number": 5,
+    "answer_text": "• Het tekenen van een horizontale lijn door het punt op de trendlijn van de 1-kamerappartementen bij een reistijd van 15 (minuten)\n• Die horizontale lijn snijdt de trendlijn van de 3-kamerappartementen bij een reistijd van 33 (minuten)\n• Het antwoord: (33 − 15 =) 18 (minuten)\n\nOpmerking\nDe toegestane marge bij het bepalen van de reistijd voor het 3-kamerappartement is 2 minuten.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het tekenen van een horizontale lijn door het punt op de trendlijn van de 1-kamerappartementen bij een reistijd van 15 (minuten)"
+     },
+     {
+      "points": 1,
+      "description": "Die horizontale lijn snijdt de trendlijn van de 3-kamerappartementen bij een reistijd van 33 (minuten)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (33 − 15 =) 18 (minuten)"
+     }
+    ],
+    "grading_note": "De toegestane marge bij het bepalen van de reistijd voor het 3-kamerappartement is 2 minuten.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-wonen-in-new-york-antw5.png"
+    ]
+   },
+   {
+    "title": "Wonen in New York",
+    "question_number": 6,
+    "answer_text": "• De formule herschrijven tot H = 20367/r⁰˒⁵⁷¹\n• Als r kleiner wordt, wordt r⁰˒⁵⁷¹ kleiner\n• Als r kleiner wordt, wordt er in de formule door een kleiner getal gedeeld dus wordt H groter\nof\n• Door de negatieve exponent wordt r⁻⁰˒⁵⁷¹ groter als r kleiner wordt\n• Als r kleiner wordt, wordt er in de formule met een groter getal vermenigvuldigd dus wordt H groter\n\nOpmerking\nIn het tweede antwoordalternatief voor het eerste antwoordelement uitsluitend 0 of 2 scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De formule herschrijven tot H = 20367/r⁰˒⁵⁷¹"
+     },
+     {
+      "points": 1,
+      "description": "Als r kleiner wordt, wordt r⁰˒⁵⁷¹ kleiner"
+     },
+     {
+      "points": 1,
+      "description": "Als r kleiner wordt, wordt er in de formule door een kleiner getal gedeeld dus wordt H groter"
+     }
+    ],
+    "grading_note": "In het tweede antwoordalternatief voor het eerste antwoordelement uitsluitend 0 of 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-wonen-in-new-york-antw6.png"
+    ]
+   },
+   {
+    "title": "Wonen in New York",
+    "question_number": 7,
+    "answer_text": "• Een tabel met in ieder geval) P(14) = 2852,…, P(15) = 2775,… en P(16) = 2703,…\n• De verschillen (P(15) − P(14) = 2775,… − 2852,… =) −77,… en (P(16) − P(15) = 2703,… − 2775,… =) −72,…\n• Het antwoord: (maximaal) 14 (minuten)\nof\n• De vergelijking P(r + 1) − P(r) = −75 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Het antwoord: (dit geeft r = 14,3…, dus maximaal) 14 (minuten)\n\nOpmerkingen\nAls het antwoord (maximaal) 14 (minuten) met behulp van de afgeleide is gevonden, hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een tabel met in ieder geval) P(14) = 2852,…, P(15) = 2775,… en P(16) = 2703,…"
+     },
+     {
+      "points": 1,
+      "description": "De verschillen (P(15) − P(14) = 2775,… − 2852,… =) −77,… en (P(16) − P(15) = 2703,… − 2775,… =) −72,…"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (maximaal) 14 (minuten)"
+     }
+    ],
+    "grading_note": "Als het antwoord (maximaal) 14 (minuten) met behulp van de afgeleide is gevonden, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-wonen-in-new-york-antw7.png"
+    ]
+   },
+   {
+    "title": "Daglengte",
+    "question_number": 8,
+    "answer_text": "• (De evenwichtsstand is) a = (16,5 + 21)/2 = 18,75 en (de amplitude is) b = 18,75 − 16,5 = 2,25\n• c = 2π/365 = 0,01721… (dus na afronding geldt c = 0,0172)\n• d = 345 − ¾ · 365 = 71,25 (dus na afronding geldt d = 71)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(De evenwichtsstand is) a = (16,5 + 21)/2 = 18,75 en (de amplitude is) b = 18,75 − 16,5 = 2,25"
+     },
+     {
+      "points": 1,
+      "description": "c = 2π/365 = 0,01721… (dus na afronding geldt c = 0,0172)"
+     },
+     {
+      "points": 1,
+      "description": "d = 345 − ¾ · 365 = 71,25 (dus na afronding geldt d = 71)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-daglengte-antw8.png"
+    ]
+   },
+   {
+    "title": "Daglengte",
+    "question_number": 9,
+    "answer_text": "• T_op(91) = 6,5… (> 6,5), T_op(92) = 6,4… (< 6,5), T_op(269) = 6,4… (< 6,5) en T_op(270) = 6,5… (> 6,5)\n• Dus vanaf t = 92 tot en met t = 269 (vindt de zonsopkomst in De Bilt vóór 06:30 uur plaats,) dit zijn (269 − 91 =) 178 dagen\nof\n• Beschrijven hoe de vergelijking 6,58 + 2,25sin(0,0172(t − 272)) = 6,5 kan worden opgelost\n• Dit geeft t = 91,4… en t = 269,9…\n• Dus vanaf t = 92 tot en met t = 269 (vindt de zonsopkomst in De Bilt vóór 06:30 uur plaats,) dit zijn (269 − 91 =) 178 dagen\n\nOpmerkingen\nIn het eerste antwoordalternatief voor het eerste antwoordelement voor elke ontbrekende of verkeerde waarde 1 scorepunt in mindering brengen tot een maximum van 2 scorepunten.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "T_op(91) = 6,5… (> 6,5), T_op(92) = 6,4… (< 6,5), T_op(269) = 6,4… (< 6,5) en T_op(270) = 6,5… (> 6,5)"
+     },
+     {
+      "points": 1,
+      "description": "Dus vanaf t = 92 tot en met t = 269 (vindt de zonsopkomst in De Bilt vóór 06:30 uur plaats,) dit zijn (269 − 91 =) 178 dagen"
+     }
+    ],
+    "grading_note": "In het eerste antwoordalternatief voor het eerste antwoordelement voor elke ontbrekende of verkeerde waarde 1 scorepunt in mindering brengen tot een maximum van 2 scorepunten.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-daglengte-antw9.png"
+    ]
+   },
+   {
+    "title": "Daglengte",
+    "question_number": 10,
+    "answer_text": "• Beschrijven hoe de t-waarde van het maximum van T_onder en de t-waarde van het minimum van T_op gevonden kunnen worden\n• Dit geeft t = 162,3… en t = 180,67…\n• Het antwoord: (op t = 162 is T_onder maximaal en op t = 181 is T_op minimaal, dus) (181 − 162 =) 19 (dagen later)\nof\n• T_onder(161) = 20,9994…, T_onder(162) = 20,9999… en T_onder(163) = 20,9998…\n• T_op(180) = 4,3301…, T_op(181) = 4,3300… en T_op(182) = 4,3305…\n• Het antwoord: (op t = 162 is T_onder maximaal en op t = 181 is T_op minimaal, dus) (181 − 162 =) 19 (dagen later)\nof\n• Uit de formule voor T_onder volgt dat T_onder maximaal is voor t = 71 + ¼ · 365 = 162,25\n• Uit de formule voor T_op volgt dat T_op minimaal is voor t = 272 − ¼ · 365 = 180,75\n• Het antwoord: (op t = 162 is T_onder maximaal en op t = 181 is T_op minimaal, dus) (181 − 162 =) 19 (dagen later)\n\nOpmerkingen\n– Bij het tweede antwoordalternatief moeten in zowel het eerste als in het tweede antwoordelement alle drie de waarden gegeven zijn.\n– Als in het derde antwoordalternatief in het eerste antwoordelement gerekend wordt met t = 345 − ½ · 365 = 162,5 resulterend in eindantwoord 18 (dagen later), hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de t-waarde van het maximum van T_onder en de t-waarde van het minimum van T_op gevonden kunnen worden"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft t = 162,3… en t = 180,67…"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (op t = 162 is T_onder maximaal en op t = 181 is T_op minimaal, dus) (181 − 162 =) 19 (dagen later)"
+     }
+    ],
+    "grading_note": "– Bij het tweede antwoordalternatief moeten in zowel het eerste als in het tweede antwoordelement alle drie de waarden gegeven zijn.\n– Als in het derde antwoordalternatief in het eerste antwoordelement gerekend wordt met t = 345 − ½ · 365 = 162,5 resulterend in eindantwoord 18 (dagen later), hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-daglengte-antw10.png"
+    ]
+   },
+   {
+    "title": "Daglengte",
+    "question_number": 11,
+    "answer_text": "• Bij 21 maart hoort t = 79\n• De daglengte wordt gegeven door (L =) 18,75 + 2,25sin(0,0172(t − 71)) − (6,58 + 2,25sin(0,0172(t − 272)))\n• Het berekenen van de daglengtes (L(79) =) 12,080… en (L(80) =) 12,156… (uur)\n• Het antwoord: (op 21 maart is) de toename 12,156… − 12,080… = 0,076… (uren per dag) (en 0,076… · 60 = 4,58…, dus) 4,6 (minuten per dag)\nof\n• Bij 21 maart hoort t = 79\n• De daglengte wordt gegeven door (L =) 18,75 + 2,25sin(0,0172(t − 71)) − (6,58 + 2,25sin(0,0172(t − 272)))\n• Beschrijven hoe [dL/dt] bij t = 79 berekend kan worden\n• Het antwoord: (op 21 maart is) de toename 0,076… (uren per dag) (en 0,076… · 60 = 4,58…, dus) 4,6 (minuten per dag)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij 21 maart hoort t = 79"
+     },
+     {
+      "points": 1,
+      "description": "De daglengte wordt gegeven door (L =) 18,75 + 2,25sin(0,0172(t − 71)) − (6,58 + 2,25sin(0,0172(t − 272)))"
+     },
+     {
+      "points": 1,
+      "description": "Het berekenen van de daglengtes (L(79) =) 12,080… en (L(80) =) 12,156… (uur)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (op 21 maart is) de toename 12,156… − 12,080… = 0,076… (uren per dag) (en 0,076… · 60 = 4,58…, dus) 4,6 (minuten per dag)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-daglengte-antw11.png"
+    ]
+   },
+   {
+    "title": "Minder werken",
+    "question_number": 12,
+    "answer_text": "• De vergelijking e^(0,0315t) = 2 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft een verdubbelingstijd van 22 (jaar)\n• Het antwoord: het verschil is (47 − 22 =) 25 (jaar)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking e^(0,0315t) = 2 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft een verdubbelingstijd van 22 (jaar)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: het verschil is (47 − 22 =) 25 (jaar)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-minder-werken-antw12.png"
+    ]
+   },
+   {
+    "title": "Minder werken",
+    "question_number": 13,
+    "answer_text": "• Het invullen van twee waarden voor W_D waarbij de één anderhalf keer zo groot is als de ander, bijvoorbeeld W_D = 1000 en W_D = 1500\n• Dit geeft U_D(1000) = 3326,0… en U_D(1500) = 3111,3…\n• (3326,0 − 3111,3… = 214,6…, dus) 215 (uur minder)\nof\n• Het inzicht dat in de formule W_D vervangen moet worden door 1,5W_D\n• ln(1,5W_D) = ln(1,5) + ln(W_D)\n• −529,4 · ln(1,5) = −214,65…, dus 215 (uur minder)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het invullen van twee waarden voor W_D waarbij de één anderhalf keer zo groot is als de ander, bijvoorbeeld W_D = 1000 en W_D = 1500"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft U_D(1000) = 3326,0… en U_D(1500) = 3111,3…"
+     },
+     {
+      "points": 1,
+      "description": "(3326,0 − 3111,3… = 214,6…, dus) 215 (uur minder)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-minder-werken-antw13.png"
+    ]
+   },
+   {
+    "title": "Minder werken",
+    "question_number": 14,
+    "answer_text": "• De afgeleide dU_D/dW_D = −529,4/W_D\n• (dU_D/dW_D is negatief en) als W_D toeneemt, neemt dU_D/dW_D toe (of wordt dU_D/dW_D steeds minder negatief)\n• Dus U_D is afnemend dalend\n• (Volgens de bewering is U_D toenemend dalend, dus) de bewering is onjuist",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De afgeleide dU_D/dW_D = −529,4/W_D"
+     },
+     {
+      "points": 1,
+      "description": "(dU_D/dW_D is negatief en) als W_D toeneemt, neemt dU_D/dW_D toe (of wordt dU_D/dW_D steeds minder negatief)"
+     },
+     {
+      "points": 1,
+      "description": "Dus U_D is afnemend dalend"
+     },
+     {
+      "points": 1,
+      "description": "(Volgens de bewering is U_D toenemend dalend, dus) de bewering is onjuist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-minder-werken-antw14.png"
+    ]
+   },
+   {
+    "title": "Minder werken",
+    "question_number": 15,
+    "answer_text": "• Substitutie van W_D = 6742e^(0,0315t) geeft U_D = −529,4ln(6742e^(0,0315t)) + 6983\n• ln(6742e^(0,0315t)) = ln(6742) + ln(e^(0,0315t))\n• ln(e^(0,0315t)) = 0,0315t (en ln(6742) = 8,81…)\n• U_D = −529,4(0,0315t + 8,81…) + 6983\n• U_D = −16,676t + 2316",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Substitutie van W_D = 6742e^(0,0315t) geeft U_D = −529,4ln(6742e^(0,0315t)) + 6983"
+     },
+     {
+      "points": 1,
+      "description": "ln(6742e^(0,0315t)) = ln(6742) + ln(e^(0,0315t))"
+     },
+     {
+      "points": 1,
+      "description": "ln(e^(0,0315t)) = 0,0315t (en ln(6742) = 8,81…)"
+     },
+     {
+      "points": 1,
+      "description": "U_D = −529,4(0,0315t + 8,81…) + 6983"
+     },
+     {
+      "points": 1,
+      "description": "U_D = −16,676t + 2316"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-minder-werken-antw15.png"
+    ]
+   },
+   {
+    "title": "Minder werken",
+    "question_number": 16,
+    "answer_text": "• De (groei)factor per 40 jaar is 34497/11529 (= 2,99219…)\n• Dus de (groei)factor per jaar is 2,99219…^(1/40) (= 1,02777…)\n• De beginhoeveelheid is 11529/1,02777…¹⁰ (of 34497/1,02777…⁵⁰)\n• De gevraagde beginhoeveelheid en groeifactor zijn 8765,9 en 1,0278",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De (groei)factor per 40 jaar is 34497/11529 (= 2,99219…)"
+     },
+     {
+      "points": 1,
+      "description": "Dus de (groei)factor per jaar is 2,99219…^(1/40) (= 1,02777…)"
+     },
+     {
+      "points": 1,
+      "description": "De beginhoeveelheid is 11529/1,02777…¹⁰ (of 34497/1,02777…⁵⁰)"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde beginhoeveelheid en groeifactor zijn 8765,9 en 1,0278"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-minder-werken-antw16.png"
+    ]
+   },
+   {
+    "title": "Minder werken",
+    "question_number": 17,
+    "answer_text": "• dW_D/dt = 6742e^(0,0315t) · 0,0315\n• dW_N/dt = 8766 · 1,028ᵗ · ln(1,028)\n• t = 33 geeft dW_D/dt = 600,… en dW_N/dt = 602,…, t = 34 geeft dW_D/dt = 619,7… en dW_N/dt = 619,0…\n• Het antwoord: (dus vanaf) 1984\nof\n• dW_D/dt = 6742e^(0,0315t) · 0,0315\n• dW_N/dt = 8766 · 1,028ᵗ · ln(1,028)\n• Het oplossen van de vergelijking dW_D/dt = dW_N/dt\n• Het antwoord: (dit geeft t = 33,69…, dus vanaf) 1984\n\nOpmerkingen\nAls gewerkt is met (nauwkeurigere) waarden uit de vorige vraag, hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "dW_D/dt = 6742e^(0,0315t) · 0,0315"
+     },
+     {
+      "points": 1,
+      "description": "dW_N/dt = 8766 · 1,028ᵗ · ln(1,028)"
+     },
+     {
+      "points": 1,
+      "description": "t = 33 geeft dW_D/dt = 600,… en dW_N/dt = 602,…, t = 34 geeft dW_D/dt = 619,7… en dW_N/dt = 619,0…"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (dus vanaf) 1984"
+     }
+    ],
+    "grading_note": "Als gewerkt is met (nauwkeurigere) waarden uit de vorige vraag, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-minder-werken-antw17.png"
+    ]
+   },
+   {
+    "title": "Krattenbrug",
+    "question_number": 18,
+    "answer_text": "• Het inzicht dat A(n) − A(n − 1) met n een oneven nummer berekend moet worden\n• A(n) − A(n − 1) = 3,5n + 3,5 − (3,5(n − 1) + 3)\n• Dit geeft: A(n) − A(n − 1) = 4 (dus een laag met een oneven nummer heeft telkens 4 kratten meer dan de daarboven gelegen laag met een even nummer)\n\nOpmerking\nAls een kandidaat A(n) − A(n − 1) heeft berekend met n een even nummer en uitkomt op 3 kratten meer, maximaal 2 scorepunten voor deze vraag toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het inzicht dat A(n) − A(n − 1) met n een oneven nummer berekend moet worden"
+     },
+     {
+      "points": 1,
+      "description": "A(n) − A(n − 1) = 3,5n + 3,5 − (3,5(n − 1) + 3)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft: A(n) − A(n − 1) = 4 (dus een laag met een oneven nummer heeft telkens 4 kratten meer dan de daarboven gelegen laag met een even nummer)"
+     }
+    ],
+    "grading_note": "Als een kandidaat A(n) − A(n − 1) heeft berekend met n een even nummer en uitkomt op 3 kratten meer, maximaal 2 scorepunten voor deze vraag toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-krattenbrug-antw18.png"
+    ]
+   },
+   {
+    "title": "Krattenbrug",
+    "question_number": 19,
+    "answer_text": "• (Een tabel met) de aantallen 7, 10, 14, 17, 21, 24, 28, 31, 35, 38, 42 in laag 1, 2, …, 11\n• Het aantal kratten in laag 11 tot en met 29 is (19 · 42 =) 798\n• Het aantal kratten in de bovenste 10 lagen is (7 + 10 + 14 + 17 + 21 + 24 + 28 + 31 + 35 + 38 =) 225\n• Het antwoord: (4950 + 2 · (798 + 225) =) 6996 (kratten)\nof\n• A(11) = 42, dus het aantal kratten in laag 11 tot en met 29 is (19 · 42 =) 798\n• Het aantal kratten in de eerste 10 lagen is de som van Σ (n=1 tot 5) (3,5(2n − 1) + 3,5) en Σ (n=1 tot 5) (3,5(2n) + 3)\n• Dat geeft (105 + 120 =) 225 (kratten)\n• Het antwoord: (4950 + 2 · (798 + 225) =) 6996 (kratten)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Een tabel met) de aantallen 7, 10, 14, 17, 21, 24, 28, 31, 35, 38, 42 in laag 1, 2, …, 11"
+     },
+     {
+      "points": 1,
+      "description": "Het aantal kratten in laag 11 tot en met 29 is (19 · 42 =) 798"
+     },
+     {
+      "points": 1,
+      "description": "Het aantal kratten in de bovenste 10 lagen is (7 + 10 + 14 + 17 + 21 + 24 + 28 + 31 + 35 + 38 =) 225"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (4950 + 2 · (798 + 225) =) 6996 (kratten)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-krattenbrug-antw19.png"
+    ]
+   },
+   {
+    "title": "Krattenbrug",
+    "question_number": 20,
+    "answer_text": "• (Uitgaande van het snijpunt met de y-as (0; 5,3) volgt:) b = 5,3\n• (26,7/2 = 13,35, dus) het punt (13,35; 0) (of (−13,35; 0)) ligt op de boog\n• Invullen in y = a · x² + 5,3 geeft: a = −5,3/13,35² = −0,0297… (en dus y = −0,0297… · x² + 5,3)\n• 6 meter vanaf de waterkant geldt: x = (9/2 + 6 =) 10,5 (of x = −10,5)\n• Invullen van x = 10,5 (of x = −10,5) in de formule geeft y = 2,02… (> 1,90) (meter), dus deze persoon kan rechtop onder de brug doorlopen\nof\n• (Uitgaande van het snijpunt met de y-as (0; 5,3) volgt:) b = 5,3\n• (26,7/2 = 13,35, dus) het punt (13,35; 0) (of (−13,35; 0)) ligt op de boog\n• Invullen in y = a · x² + 5,3 geeft: a = −5,3/13,35² = −0,0297… (en dus y = −0,0297… · x² + 5,3)\n• 6 meter vanaf de waterkant geldt: x = (9/2 + 6 =) 10,5 (of x = −10,5)\n• Oplossen van de vergelijking −0,0297… x² + 5,3 = 1,90 geeft x = 10,6… (> 10,5) (of x = −10,6… (< −10,5)), dus deze persoon kan rechtop onder de brug doorlopen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Uitgaande van het snijpunt met de y-as (0; 5,3) volgt:) b = 5,3"
+     },
+     {
+      "points": 1,
+      "description": "(26,7/2 = 13,35, dus) het punt (13,35; 0) (of (−13,35; 0)) ligt op de boog"
+     },
+     {
+      "points": 1,
+      "description": "Invullen in y = a · x² + 5,3 geeft: a = −5,3/13,35² = −0,0297… (en dus y = −0,0297… · x² + 5,3)"
+     },
+     {
+      "points": 1,
+      "description": "6 meter vanaf de waterkant geldt: x = (9/2 + 6 =) 10,5 (of x = −10,5)"
+     },
+     {
+      "points": 1,
+      "description": "Invullen van x = 10,5 (of x = −10,5) in de formule geeft y = 2,02… (> 1,90) (meter), dus deze persoon kan rechtop onder de brug doorlopen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-krattenbrug-antw20.png"
+    ]
+   },
+   {
+    "title": "Quoridor",
+    "question_number": 21,
+    "answer_text": "• (De muurtjes kunnen horizontaal en verticaal neergezet worden. Er zijn 8 horizontale en 8 verticale gleuven.) Er zijn 16 gleuven waarin muurtjes neergezet kunnen worden\n• (Per gleuf kan een muurtje op 8 plaatsen neergezet worden.) Het eerste muurtje kan op (16 · 8 =) 128 plaatsen op het speelbord neergezet worden\n• De startspeler kan op 32 plaatsen een muurtje neerzetten waarvan een uiteinde aan de rand grenst (of de startspeler kan op 96 plaatsen een muurtje neerzetten dat niet met een uiteinde aan de rand grenst)\n• Als de startspeler het eerste muurtje neerzet zodanig dat een uiteinde van het muurtje aan de rand grenst, dan zijn er (128 − 3 =) 125 plaatsen voor het tweede muurtje; als de startspeler het eerste muurtje neerzet zodanig dat niet een uiteinde van het muurtje aan de rand grenst, dan zijn er (128 − 4 =) 124 plaatsen voor het tweede muurtje\n• De berekening 32 · 125 + 96 · 124\n• (Omdat niet te zien is welk muurtje als eerste neergezet is, moet er door 2 gedeeld worden, dus) het eindantwoord: ((32 · 125 + 96 · 124)/2 =) 7952 (manieren)\nof\n• (De muurtjes kunnen horizontaal en verticaal neergezet worden. Er zijn 8 horizontale en 8 verticale gleuven.) Er zijn 16 gleuven waarin muurtjes neergezet kunnen worden\n• (Per gleuf kan een muurtje op 8 plaatsen neergezet worden.) Het eerste muurtje kan op (16 · 8 =) 128 plaatsen op het speelbord neergezet worden\n• Als er geen beperkingen zijn voor het tweede muurtje, dan is het aantal manieren 128 · 128\n• De startspeler kan op 32 plaatsen een muurtje neerzetten waarvan een uiteinde aan de rand grenst (of de startspeler kan op 96 plaatsen een muurtje neerzetten dat niet met een uiteinde aan de rand grenst)\n• Het aantal beperkingen is 32 · 3 + 96 · 4\n• (Omdat niet te zien is welk muurtje als eerste neergezet is, moet er door 2 gedeeld worden, dus) het eindantwoord: ((128 · 128 − (32 · 3 + 96 · 4))/2 =) 7952 (manieren)\n\nOpmerking\nWanneer een kandidaat in het laatste antwoordelement niet door 2 deelt en daarmee uitkomt op het eindantwoord 15904 (manieren), hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(De muurtjes kunnen horizontaal en verticaal neergezet worden. Er zijn 8 horizontale en 8 verticale gleuven.) Er zijn 16 gleuven waarin muurtjes neergezet kunnen worden"
+     },
+     {
+      "points": 1,
+      "description": "(Per gleuf kan een muurtje op 8 plaatsen neergezet worden.) Het eerste muurtje kan op (16 · 8 =) 128 plaatsen op het speelbord neergezet worden"
+     },
+     {
+      "points": 1,
+      "description": "De startspeler kan op 32 plaatsen een muurtje neerzetten waarvan een uiteinde aan de rand grenst (of de startspeler kan op 96 plaatsen een muurtje neerzetten dat niet met een uiteinde aan de rand grenst)"
+     },
+     {
+      "points": 1,
+      "description": "Als de startspeler het eerste muurtje neerzet zodanig dat een uiteinde van het muurtje aan de rand grenst, dan zijn er (128 − 3 =) 125 plaatsen voor het tweede muurtje; als de startspeler het eerste muurtje neerzet zodanig dat niet een uiteinde van het muurtje aan de rand grenst, dan zijn er (128 − 4 =) 124 plaatsen voor het tweede muurtje"
+     },
+     {
+      "points": 1,
+      "description": "De berekening 32 · 125 + 96 · 124"
+     },
+     {
+      "points": 1,
+      "description": "(Omdat niet te zien is welk muurtje als eerste neergezet is, moet er door 2 gedeeld worden, dus) het eindantwoord: ((32 · 125 + 96 · 124)/2 =) 7952 (manieren)"
+     }
+    ],
+    "grading_note": "Wanneer een kandidaat in het laatste antwoordelement niet door 2 deelt en daarmee uitkomt op het eindantwoord 15904 (manieren), hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2024-ii-quoridor-antw21.png"
+    ]
+   }
+  ]
+ }
+}
