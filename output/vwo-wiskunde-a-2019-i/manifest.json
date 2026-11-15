@@ -1,0 +1,52 @@
+{
+  "source": "VWO Wiskunde A 2019-I",
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Goudplevieren",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Kentekens",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Verpakkingen",
+      "question_numbers": [
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Groningse aardbevingen",
+      "question_numbers": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "title": "Zandpad",
+      "question_numbers": [
+        20
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source": "VWO Wiskunde A 2019-II",
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Continu Vakantie Onderzoek",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Lengtegroei bij jongens",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Wetmatige beweging",
+      "question_numbers": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "De bankenformule",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Kantwerk",
+      "question_numbers": [
+        21
+      ]
+    }
+  ]
+}
