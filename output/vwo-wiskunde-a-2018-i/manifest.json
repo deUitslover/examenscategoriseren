@@ -1,0 +1,58 @@
+{
+  "source": "VWO Wiskunde A 2018-I",
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Windenergie",
+      "question_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Shannon-index",
+      "question_numbers": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Bitcoins",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Jaarringen",
+      "question_numbers": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Toren van achtvlakken",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Sprinttrein",
+      "question_numbers": [
+        21
+      ]
+    }
+  ]
+}
