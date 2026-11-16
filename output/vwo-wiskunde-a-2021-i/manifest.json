@@ -1,0 +1,58 @@
+{
+  "source": "VWO Wiskunde A 2021-I",
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Linkshandigen en ronde getallen",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Draaiend huis",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Mathematical Bridge",
+      "question_numbers": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "The International",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Huurprijzen in New York",
+      "question_numbers": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Inkomensongelijkheid",
+      "question_numbers": [
+        21
+      ]
+    }
+  ]
+}
