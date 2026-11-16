@@ -1,0 +1,568 @@
+{
+  "payload": {
+    "subject_name": "Wiskunde A",
+    "level": "VWO",
+    "source": "VWO Wiskunde A 2019-II",
+    "answers": [
+      {
+        "title": "Continu Vakantie Onderzoek",
+        "question_number": 1,
+        "answer_text": "• Het aantal personen dat op vakantie gaat, is 35,5/2,78 (= 12,76 ...) miljoen\n• De gehele CVO-populatie is 12,76.../0,807 miljoen\n• Het antwoord: 15824000",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het aantal personen dat op vakantie gaat, is 35,5/2,78 (= 12,76 ...) miljoen"
+          },
+          {
+            "points": 1,
+            "description": "De gehele CVO-populatie is 12,76.../0,807 miljoen"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 15824000"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-continu-vakantie-onderzoek-antw1.png"
+        ]
+      },
+      {
+        "title": "Continu Vakantie Onderzoek",
+        "question_number": 2,
+        "answer_text": "Een aanpak als:\n• Het aflezen van twee punten van de grafiek in de periode 1990-2001, bijvoorbeeld (1990, 11100) en (2001, 14400)\n• De gemiddelde toename per jaar is (14400 − 11100)/(2001 − 1990) (= 300)\n• (Uitgaande van, bijvoorbeeld, 11100 in 1990:) de bijbehorende waarde in 1985 is (11100 − 5 · 300 =) 9600\n• Het antwoord: (het aantal buitenlandse vakanties in 1985 is gelijk aan) 9600000 (of nauwkeuriger)\nof\n• Het aflezen van twee punten van de grafiek in de periode 1990-2001, bijvoorbeeld (1990, 11100) en (2001, 14400)\n• De richtingscoëfficiënt van de trendlijn is (14400 − 11100)/(2001 − 1990) (= 300)\n• (Met de formule van de trendlijn A = 300 · t + 11100 met A het aantal buitenlandvakanties in duizendtallen en t de tijd in jaren met t = 0 in het jaar 1990:) de waarde in 1985 is (300 · −5 + 11100 =) 9600\n• Het antwoord: (het aantal buitenlandse vakanties in 1985 is gelijk aan) 9600000 (of nauwkeuriger)\n\nOpmerkingen\n– Bij het aflezen is een marge van 100 (×1000) toegestaan.\n– Voor een aanpak gebaseerd op het verlengen van de grafiek, geen scorepunten toekennen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het aflezen van twee punten van de grafiek in de periode 1990-2001, bijvoorbeeld (1990, 11100) en (2001, 14400)"
+          },
+          {
+            "points": 1,
+            "description": "De gemiddelde toename per jaar is (14400 − 11100)/(2001 − 1990) (= 300)"
+          },
+          {
+            "points": 1,
+            "description": "(Uitgaande van, bijvoorbeeld, 11100 in 1990:) de bijbehorende waarde in 1985 is (11100 − 5 · 300 =) 9600"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: (het aantal buitenlandse vakanties in 1985 is gelijk aan) 9600000 (of nauwkeuriger)"
+          }
+        ],
+        "grading_note": "– Bij het aflezen is een marge van 100 (×1000) toegestaan.\n– Voor een aanpak gebaseerd op het verlengen van de grafiek, geen scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-continu-vakantie-onderzoek-antw2.png"
+        ]
+      },
+      {
+        "title": "Continu Vakantie Onderzoek",
+        "question_number": 3,
+        "answer_text": "• Het totaal aantal vakanties is in 2002 en 2016 gelijk\n• Het aantal buitenlandse vakanties is in 2016 groter dan in 2002\n• Het percentage buitenlandse vakanties is dus toegenomen\nof\n• Het aantal buitenlandse vakanties was in 2002 en 2016 respectievelijk 16750 en 17800 (duizend) en het totaal aantal vakanties was in beide jaren (ongeveer) 35500 (duizend)\n• Het aantal buitenlandse vakanties is (in de periode 2002-2016) gestegen en het totaal aantal vakanties niet\n• De conclusie: het percentage buitenlandse vakanties is (in de periode 2002-2016) toegenomen\nof\n• Het aantal buitenlandse vakanties was in 2002 en 2016 respectievelijk 16750 en 17800 (duizend) en het totaal aantal vakanties was in beide jaren (ongeveer) 35500 (duizend)\n• In 2002 was het aantal buitenlandse vakanties minder dan de helft van het totaal aantal vakanties en in 2016 was dat meer dan de helft\n• De conclusie: het percentage buitenlandse vakanties is (in de periode 2002-2016) toegenomen\nof\n• Het aantal buitenlandse vakanties was in 2002 en 2016 respectievelijk 16750 en 17800 (duizend) en het totaal aantal vakanties was in beide jaren (ongeveer) 35500 (duizend)\n• De percentages: 16750/35500 · 100 = 47,1 ...(%) en 17800/35500 · 100 = 50,1 ...(%)\n• De conclusie: het percentage buitenlandse vakanties is (in de periode 2002-2016) toegenomen\n\nOpmerking\nBij het aflezen is een marge van 500 (duizend) toegestaan.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het totaal aantal vakanties is in 2002 en 2016 gelijk"
+          },
+          {
+            "points": 1,
+            "description": "Het aantal buitenlandse vakanties is in 2016 groter dan in 2002"
+          },
+          {
+            "points": 1,
+            "description": "Het percentage buitenlandse vakanties is dus toegenomen"
+          }
+        ],
+        "grading_note": "Bij het aflezen is een marge van 500 (duizend) toegestaan.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-continu-vakantie-onderzoek-antw3.png"
+        ]
+      },
+      {
+        "title": "Continu Vakantie Onderzoek",
+        "question_number": 4,
+        "answer_text": "Een antwoord als:\n• Het aantal binnenlandse vakanties is gelijk aan T − B\n• T − B = −20,3t² + 951t + 24800 − (−10,1t² + 587t + 10200) (= −10,2t² + 364t + 14600)\n• Beschrijven hoe de t-waarde bij het maximum van T − B kan worden bepaald\n• Het antwoord: (t = 17,8 ..., dus in het jaar) 2008",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het aantal binnenlandse vakanties is gelijk aan T − B"
+          },
+          {
+            "points": 1,
+            "description": "T − B = −20,3t² + 951t + 24800 − (−10,1t² + 587t + 10200) (= −10,2t² + 364t + 14600)"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de t-waarde bij het maximum van T − B kan worden bepaald"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: (t = 17,8 ..., dus in het jaar) 2008"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-continu-vakantie-onderzoek-antw4.png"
+        ]
+      },
+      {
+        "title": "Continu Vakantie Onderzoek",
+        "question_number": 5,
+        "answer_text": "Een aanpak als:\n• Het aantal dagen per jaar dat een Nederlander gemiddeld op vakantie gaat, is gelijk aan A · L\n• A · L = (0,0136t + 2,43)(−0,024t + 9,3) (= −0,0003264t² + 0,06816t + 22,599)\n• Beschrijven hoe de vergelijking (0,0136t + 2,43)(−0,024t + 9,3) = 25 (of −0,0003264t² + 0,06816t + 22,599 = 25) kan worden opgelost\n• Het antwoord: (t = 44,8 ..., dus vanaf het jaar) 2035\n\nOpmerking\nAls een kandidaat gerekend heeft met 24,5 dagen vakantie per jaar, hiervoor geen scorepunten in mindering brengen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het aantal dagen per jaar dat een Nederlander gemiddeld op vakantie gaat, is gelijk aan A · L"
+          },
+          {
+            "points": 1,
+            "description": "A · L = (0,0136t + 2,43)(−0,024t + 9,3) (= −0,0003264t² + 0,06816t + 22,599)"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de vergelijking (0,0136t + 2,43)(−0,024t + 9,3) = 25 (of −0,0003264t² + 0,06816t + 22,599 = 25) kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: (t = 44,8 ..., dus vanaf het jaar) 2035"
+          }
+        ],
+        "grading_note": "Als een kandidaat gerekend heeft met 24,5 dagen vakantie per jaar, hiervoor geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-continu-vakantie-onderzoek-antw5.png"
+        ]
+      },
+      {
+        "title": "Lengtegroei bij jongens",
+        "question_number": 6,
+        "answer_text": "• De grenswaarde is 76,4 (cm)\n• De vergelijking 76,4 − 19,4 · 0,9704^w = 66,4 moet worden opgelost\n• Beschrijven hoe de vergelijking kan worden opgelost\n• Het antwoord: (w = 22,0 ..., dus: na) 22 (weken)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De grenswaarde is 76,4 (cm)"
+          },
+          {
+            "points": 1,
+            "description": "De vergelijking 76,4 − 19,4 · 0,9704^w = 66,4 moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de vergelijking kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: (w = 22,0 ..., dus: na) 22 (weken)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-lengtegroei-bij-jongens-antw6.png"
+        ]
+      },
+      {
+        "title": "Lengtegroei bij jongens",
+        "question_number": 7,
+        "answer_text": "• L₁′ = −19,4 · ln(0,9704) · 0,9704^w (= 0,582 ... · 0,9704^w)\n• L₁′(26) = 0,266 ...\n• Het antwoord: 0,27 (cm/week)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "L₁′ = −19,4 · ln(0,9704) · 0,9704^w (= 0,582 ... · 0,9704^w)"
+          },
+          {
+            "points": 1,
+            "description": "L₁′(26) = 0,266 ..."
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 0,27 (cm/week)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-lengtegroei-bij-jongens-antw7.png"
+        ]
+      },
+      {
+        "title": "Lengtegroei bij jongens",
+        "question_number": 8,
+        "answer_text": "• De afgeleide van e^(16,4 − 1,2t) is −1,2 · e^(16,4 − 1,2t)\n• L₃′ = 16,1 · −1 · −1,2 · e^(16,4 − 1,2t) · (1 + e^(16,4 − 1,2t))⁻² (of L₃′ = ((1 + e^(16,4 − 1,2t)) · 0 − 16,1 · −1,2 · e^(16,4 − 1,2t)) / (1 + e^(16,4 − 1,2t))²)\n• Dit herleiden tot: L₃′ = 19,32 · e^(16,4 − 1,2t) / (1 + e^(16,4 − 1,2t))²",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De afgeleide van e^(16,4 − 1,2t) is −1,2 · e^(16,4 − 1,2t)"
+          },
+          {
+            "points": 1,
+            "description": "L₃′ = 16,1 · −1 · −1,2 · e^(16,4 − 1,2t) · (1 + e^(16,4 − 1,2t))⁻² (of L₃′ = ((1 + e^(16,4 − 1,2t)) · 0 − 16,1 · −1,2 · e^(16,4 − 1,2t)) / (1 + e^(16,4 − 1,2t))²)"
+          },
+          {
+            "points": 1,
+            "description": "Dit herleiden tot: L₃′ = 19,32 · e^(16,4 − 1,2t) / (1 + e^(16,4 − 1,2t))²"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-lengtegroei-bij-jongens-antw8.png"
+        ]
+      },
+      {
+        "title": "Lengtegroei bij jongens",
+        "question_number": 9,
+        "answer_text": "• Het maximum van L₃′ moet worden berekend\n• Beschrijven hoe het maximum van L₃′ kan worden berekend\n• Het antwoord: 4,8 (cm/jaar)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het maximum van L₃′ moet worden berekend"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe het maximum van L₃′ kan worden berekend"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 4,8 (cm/jaar)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-lengtegroei-bij-jongens-antw9.png"
+        ]
+      },
+      {
+        "title": "Lengtegroei bij jongens",
+        "question_number": 10,
+        "answer_text": "• De variabele w in L₁ vertalen in de variabele t in jaren: w = 52t dus L₁(w) = L₁(52t) = 76,4 − 19,4 · 0,9704^(52t)\n• L₁ = 76,4 − 19,4 · (0,9704⁵²)^t ≈ 76,4 − 19,4 · 0,2096^t\n• Dus L₁ + L₂ (= (76,4 − 19,4 · 0,2096^t) + (−0,235t² + 9,5t − 4,7) = 76,4 − 4,7 − 19,4 · 0,2096^t − 0,235t² + 9,5t) = 71,7 − 19,4 · 0,2096^t − 0,235t² + 9,5t\n• L (= L₁ + L₂ + L₃) = −19,4 · 0,2096^t − 0,235t² + 9,5t + 71,7 + 16,1/(1 + e^(16,4 − 1,2t))",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De variabele w in L₁ vertalen in de variabele t in jaren: w = 52t dus L₁(w) = L₁(52t) = 76,4 − 19,4 · 0,9704^(52t)"
+          },
+          {
+            "points": 1,
+            "description": "L₁ = 76,4 − 19,4 · (0,9704⁵²)^t ≈ 76,4 − 19,4 · 0,2096^t"
+          },
+          {
+            "points": 1,
+            "description": "Dus L₁ + L₂ (= (76,4 − 19,4 · 0,2096^t) + (−0,235t² + 9,5t − 4,7) = 76,4 − 4,7 − 19,4 · 0,2096^t − 0,235t² + 9,5t) = 71,7 − 19,4 · 0,2096^t − 0,235t² + 9,5t"
+          },
+          {
+            "points": 1,
+            "description": "L (= L₁ + L₂ + L₃) = −19,4 · 0,2096^t − 0,235t² + 9,5t + 71,7 + 16,1/(1 + e^(16,4 − 1,2t))"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-lengtegroei-bij-jongens-antw10.png"
+        ]
+      },
+      {
+        "title": "Lengtegroei bij jongens",
+        "question_number": 11,
+        "answer_text": "Een aanpak als:\n• Het bepalen van de afwijking (−)0,26 (cm) en de lengte 76 (cm) op leeftijd 1 (jaar)\n• Het bepalen van de afwijking 0,42 (cm) en de lengte 162 (cm) op leeftijd 13 (jaar)\n• De berekening van de procentuele afwijkingen op deze momenten: 0,34... (%) respectievelijk 0,25... (%)\n• Het antwoord: (op een leeftijd van) 1 jaar (is die afwijking relatief het grootst)\n\nOpmerkingen\n– Voor de afgelezen afwijkingen mag 0,02 cm worden afgeweken; voor de afgelezen lengtes mag 2 cm worden afgeweken.\n– Voor het derde antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.\n– Als een kandidaat zijn redenering baseert op (minimaal) twee waarnemingen bij andere leeftijden dan 1 en 13 jaar, ten hoogste 3 scorepunten voor deze vraag toekennen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het bepalen van de afwijking (−)0,26 (cm) en de lengte 76 (cm) op leeftijd 1 (jaar)"
+          },
+          {
+            "points": 1,
+            "description": "Het bepalen van de afwijking 0,42 (cm) en de lengte 162 (cm) op leeftijd 13 (jaar)"
+          },
+          {
+            "points": 2,
+            "description": "De berekening van de procentuele afwijkingen op deze momenten: 0,34... (%) respectievelijk 0,25... (%)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: (op een leeftijd van) 1 jaar (is die afwijking relatief het grootst)"
+          }
+        ],
+        "grading_note": "– Voor de afgelezen afwijkingen mag 0,02 cm worden afgeweken; voor de afgelezen lengtes mag 2 cm worden afgeweken.\n– Voor het derde antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.\n– Als een kandidaat zijn redenering baseert op (minimaal) twee waarnemingen bij andere leeftijden dan 1 en 13 jaar, ten hoogste 3 scorepunten voor deze vraag toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-lengtegroei-bij-jongens-antw11.png"
+        ]
+      },
+      {
+        "title": "Wetmatige beweging",
+        "question_number": 12,
+        "answer_text": "• Een vorm van 1 vierkant kan op 1 manier geplaatst worden, een vorm van 9 vierkanten kan ook op 1 manier geplaatst worden en een vorm van 4 vierkanten kan op 4 manieren geplaatst worden\n• Een vorm van 2 vierkanten kan liggend (of staand) op 2 manieren geplaatst worden\n• Een vorm van 3 vierkanten kan liggend (of staand) op 1 manier geplaatst worden en een vorm van 6 vierkanten kan liggend (of staand) op 2 manieren geplaatst worden\n• Een vorm van 2, 3 of 6 vierkanten kan zowel liggend als staand geplaatst worden\n• Het gevraagde aantal verschillende vormen is 1 + 1 + 4 + 2 · 2 + 2 · 1 + 2 · 2 = 16\nof\n• Er is 1 vorm bestaande uit 1 vierkant en er is 1 vorm bestaande uit 9 vierkanten en er zijn 4 vormen bestaande uit 4 vierkanten\n• Er zijn 4 vormen bestaande uit 2 vierkanten\n• Er zijn 2 vormen bestaande uit 3 vierkanten\n• Er zijn 4 vormen bestaande uit 6 vierkanten\n• Het gevraagde aantal verschillende vormen is 1 + 1 + 4 + 4 + 2 + 4 = 16",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een vorm van 1 vierkant kan op 1 manier geplaatst worden, een vorm van 9 vierkanten kan ook op 1 manier geplaatst worden en een vorm van 4 vierkanten kan op 4 manieren geplaatst worden"
+          },
+          {
+            "points": 1,
+            "description": "Een vorm van 2 vierkanten kan liggend (of staand) op 2 manieren geplaatst worden"
+          },
+          {
+            "points": 1,
+            "description": "Een vorm van 3 vierkanten kan liggend (of staand) op 1 manier geplaatst worden en een vorm van 6 vierkanten kan liggend (of staand) op 2 manieren geplaatst worden"
+          },
+          {
+            "points": 1,
+            "description": "Een vorm van 2, 3 of 6 vierkanten kan zowel liggend als staand geplaatst worden"
+          },
+          {
+            "points": 1,
+            "description": "Het gevraagde aantal verschillende vormen is 1 + 1 + 4 + 2 · 2 + 2 · 1 + 2 · 2 = 16"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-wetmatige-beweging-antw12.png"
+        ]
+      },
+      {
+        "title": "Wetmatige beweging",
+        "question_number": 13,
+        "answer_text": "• Het aantal vormen in elk van de genoemde driehoekige delen is (625 − 4·12 − 1)/4 = 144\n• De oppervlaktes van de vormen op de diagonalen zijn 2 (cm²) en 6 (cm²), de oppervlaktes van de vormen in de driehoekige delen zijn 1, 3 en 9 (cm²)\n• De totale oppervlakte is 1 · 4 + 12 · (2 + 2 + 6 + 6) + 144 · (1 + 3 + 3 + 9) (cm²)\n• Het antwoord: 2500 (cm²)\n\nOpmerking\nAls uitsluitend en herkenbaar gewerkt is met de later in de opgave genoemde formules voor O(n), voor deze vraag geen scorepunten toekennen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het aantal vormen in elk van de genoemde driehoekige delen is (625 − 4·12 − 1)/4 = 144"
+          },
+          {
+            "points": 1,
+            "description": "De oppervlaktes van de vormen op de diagonalen zijn 2 (cm²) en 6 (cm²), de oppervlaktes van de vormen in de driehoekige delen zijn 1, 3 en 9 (cm²)"
+          },
+          {
+            "points": 1,
+            "description": "De totale oppervlakte is 1 · 4 + 12 · (2 + 2 + 6 + 6) + 144 · (1 + 3 + 3 + 9) (cm²)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 2500 (cm²)"
+          }
+        ],
+        "grading_note": "Als uitsluitend en herkenbaar gewerkt is met de later in de opgave genoemde formules voor O(n), voor deze vraag geen scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-wetmatige-beweging-antw13.png"
+        ]
+      },
+      {
+        "title": "Wetmatige beweging",
+        "question_number": 14,
+        "answer_text": "• De eerste vier dezelfde vormen kunnen op (24 boven 4) manieren geplaatst worden\n• De andere vormen op (20 boven 4), (16 boven 4), (12 boven 4), (8 boven 2), (6 boven 2) en (4 boven 2) manieren\n• Het totaal aantal manieren is (24 boven 4) · (20 boven 4) · (16 boven 4) · (12 boven 4) · (8 boven 2) · (6 boven 2) · (4 boven 2)\n• Het antwoord: 1 · 10¹⁷ (of nauwkeuriger)\nof\n• De 24 vormen kunnen op 24! manieren geplaatst worden (als de 24 vormen als allemaal van elkaar verschillend beschouwd worden)\n• Herhaald gebruik van dezelfde vormen leidt tot: 24! / ((4!)⁴ · (2!)⁴)\n• Het antwoord: 1 · 10¹⁷ (of nauwkeuriger)\n\nOpmerking\nVoor het tweede antwoordelement in het tweede antwoordalternatief mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De eerste vier dezelfde vormen kunnen op (24 boven 4) manieren geplaatst worden"
+          },
+          {
+            "points": 1,
+            "description": "De andere vormen op (20 boven 4), (16 boven 4), (12 boven 4), (8 boven 2), (6 boven 2) en (4 boven 2) manieren"
+          },
+          {
+            "points": 1,
+            "description": "Het totaal aantal manieren is (24 boven 4) · (20 boven 4) · (16 boven 4) · (12 boven 4) · (8 boven 2) · (6 boven 2) · (4 boven 2)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 1 · 10¹⁷ (of nauwkeuriger)"
+          }
+        ],
+        "grading_note": "Voor het tweede antwoordelement in het tweede antwoordalternatief mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-wetmatige-beweging-antw14.png"
+        ]
+      },
+      {
+        "title": "Wetmatige beweging",
+        "question_number": 15,
+        "answer_text": "Een aanpak als:\n• ½ · n · (1 + 2n − 1) = n²\n• Formule (1) kan als volgt herschreven worden: O(n) = 4 + 16n + 16n²\n• Formule (2) kan als volgt herschreven worden: O(n) = (4n + 2)² = 16n² + 16n + 4 (= 4 + 16n + 16n²)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "½ · n · (1 + 2n − 1) = n²"
+          },
+          {
+            "points": 1,
+            "description": "Formule (1) kan als volgt herschreven worden: O(n) = 4 + 16n + 16n²"
+          },
+          {
+            "points": 1,
+            "description": "Formule (2) kan als volgt herschreven worden: O(n) = (4n + 2)² = 16n² + 16n + 4 (= 4 + 16n + 16n²)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-wetmatige-beweging-antw15.png"
+        ]
+      },
+      {
+        "title": "Wetmatige beweging",
+        "question_number": 16,
+        "answer_text": "Een aanpak op basis van voorbeeldwaarden:\n• (1) = 4 + b ⚠️ CONTROLEREN: vermoedelijk O(1) = 4 + b; de letter O ontbreekt in het correctievoorschrift\n• O(1) = 36 dus b = 32\n• O(2) = O(1) + a · 1 + b = 36 + a + 32\n• O(2) = 100 dus a = 32\nof een aanpak als:\n• O(n + 1) = (4(n + 1) + 2)² = (4n + 6)² = 16n² + 48n + 36\n• O(n + 1) − O(n) = 16n² + 48n + 36 − (16n² + 16n + 4)\n• Dit geeft O(n + 1) − O(n) = 32n + 32\n• O(n + 1) = O(n) + 32n + 32 (dus a = 32 en b = 32)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(1) = 4 + b ⚠️ CONTROLEREN: vermoedelijk O(1) = 4 + b; de letter O ontbreekt in het correctievoorschrift"
+          },
+          {
+            "points": 1,
+            "description": "O(1) = 36 dus b = 32"
+          },
+          {
+            "points": 1,
+            "description": "O(2) = O(1) + a · 1 + b = 36 + a + 32"
+          },
+          {
+            "points": 1,
+            "description": "O(2) = 100 dus a = 32"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-wetmatige-beweging-antw16.png"
+        ]
+      },
+      {
+        "title": "De bankenformule",
+        "question_number": 17,
+        "answer_text": "• De schatting van de verdubbelingstijd (met de bankenformule): 70 (jaar)\n• Beschrijven hoe de vergelijking 72/p = 70 kan worden opgelost\n• Het antwoord: 1,03 (%)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De schatting van de verdubbelingstijd (met de bankenformule): 70 (jaar)"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de vergelijking 72/p = 70 kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 1,03 (%)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-de-bankenformule-antw17.png"
+        ]
+      },
+      {
+        "title": "De bankenformule",
+        "question_number": 18,
+        "answer_text": "• Het verschil tussen de twee schattingen is 72/p − 70/p\n• Beschrijven hoe de vergelijking 72/p − 70/p = 1/12 kan worden opgelost\n• Het antwoord: (vanaf een rentepercentage van) 24(%)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het verschil tussen de twee schattingen is 72/p − 70/p"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de vergelijking 72/p − 70/p = 1/12 kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: (vanaf een rentepercentage van) 24(%)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-de-bankenformule-antw18.png"
+        ]
+      },
+      {
+        "title": "De bankenformule",
+        "question_number": 19,
+        "answer_text": "• Schatting van de verdubbelingstijd (met de bankenformule): 70/1,1 = 63,63 ... (jaar)\n• Beschrijven hoe de vergelijking 1,011^t = 2 (of b · 1,011^t = 2 · b, met voor b een zelfgekozen getallenvoorbeeld) kan worden opgelost\n• De werkelijke verdubbelingstijd is 63,35... (jaar)\n• Het antwoord: (het verschil is 63,63 ... − 63,35 ... = 0,27 ... jaar, dus) 3 (maanden)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Schatting van de verdubbelingstijd (met de bankenformule): 70/1,1 = 63,63 ... (jaar)"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de vergelijking 1,011^t = 2 (of b · 1,011^t = 2 · b, met voor b een zelfgekozen getallenvoorbeeld) kan worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "De werkelijke verdubbelingstijd is 63,35... (jaar)"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: (het verschil is 63,63 ... − 63,35 ... = 0,27 ... jaar, dus) 3 (maanden)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-de-bankenformule-antw19.png"
+        ]
+      },
+      {
+        "title": "De bankenformule",
+        "question_number": 20,
+        "answer_text": "• (Uit ln((1 + 0,01p)^T) = ln(2) volgt) T · ln(1 + 0,01p) = ln(2)\n• (Uit ln(1 + 0,01p) = 0,01p volgt dan) T · 0,01p = ln(2)\n• Dit geeft T · p (= 100 · ln(2)) = 69,3 ... (dus c = 69,3 ...)\n• De nauwkeurigere waarde van c is lager (dan 70)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(Uit ln((1 + 0,01p)^T) = ln(2) volgt) T · ln(1 + 0,01p) = ln(2)"
+          },
+          {
+            "points": 1,
+            "description": "(Uit ln(1 + 0,01p) = 0,01p volgt dan) T · 0,01p = ln(2)"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft T · p (= 100 · ln(2)) = 69,3 ... (dus c = 69,3 ...)"
+          },
+          {
+            "points": 1,
+            "description": "De nauwkeurigere waarde van c is lager (dan 70)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-de-bankenformule-antw20.png"
+        ]
+      },
+      {
+        "title": "Kantwerk",
+        "question_number": 21,
+        "answer_text": "Een aanpak als:\n• De hoogte in cm van de golf is een sinusoïde van de vorm H(x) = a · sin(bx) + d met x de afstand in m en H de hoogte in cm\n• Een periode is 100 · 60/3200 = 1,875 (meter)\n• b = 2π/1,875 = 3,35 ...\n• a = (70 − 17)/2 = 26,5\n• d = 17 + 26,5 = 43,5\n• De plank van Annemarie zit midden boven een laagste punt\n• x_laagste punt = ¾ · 1,875 = 1,40625\n• De hoogte van de plank van Annemarie zit dan bij x = 1,40625 − 0,5 = 0,90625 (of x = 1,40625 + 0,5 = 1,90625)\n• De hoogte van de plank van Annemarie is H(0,90625) = 26,5 · sin(3,35 ... · 0,90625) + 43,5 = 46, ... cm. Dus Annemarie zit lager dan Floortje\nof\n• De hoogte in cm van de golf is een sinusoïde van de vorm H(x) = a · sin(bx) + d met x de afstand in m en H de hoogte in cm\n• Een periode is 100 · 60/3200 = 1,875 (meter)\n• b = 2π/1,875 = 3,35 ...\n• a = (70 − 17)/2 = 26,5\n• d = 17 + 26,5 = 43,5\n• De vergelijking 26,5 · sin(3,35 ... · x) + 43,5 = 50 moet worden opgelost\n• Dit geeft x = 0,8 ... en x = 1,9 ...\n• De lengte van de plank van Floortje is (1,9 ... − 0,8 ... =) 1,08 ... m\n• De plank van Floortje is langer dan die van Annemarie dus Annemarie zit lager dan Floortje",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De hoogte in cm van de golf is een sinusoïde van de vorm H(x) = a · sin(bx) + d met x de afstand in m en H de hoogte in cm"
+          },
+          {
+            "points": 1,
+            "description": "Een periode is 100 · 60/3200 = 1,875 (meter)"
+          },
+          {
+            "points": 1,
+            "description": "b = 2π/1,875 = 3,35 ..."
+          },
+          {
+            "points": 1,
+            "description": "a = (70 − 17)/2 = 26,5"
+          },
+          {
+            "points": 1,
+            "description": "d = 17 + 26,5 = 43,5"
+          },
+          {
+            "points": 1,
+            "description": "De plank van Annemarie zit midden boven een laagste punt"
+          },
+          {
+            "points": 1,
+            "description": "x_laagste punt = ¾ · 1,875 = 1,40625"
+          },
+          {
+            "points": 1,
+            "description": "De hoogte van de plank van Annemarie zit dan bij x = 1,40625 − 0,5 = 0,90625 (of x = 1,40625 + 0,5 = 1,90625)"
+          },
+          {
+            "points": 1,
+            "description": "De hoogte van de plank van Annemarie is H(0,90625) = 26,5 · sin(3,35 ... · 0,90625) + 43,5 = 46, ... cm. Dus Annemarie zit lager dan Floortje"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-ii-kantwerk-antw21.png"
+        ]
+      }
+    ]
+  }
+}

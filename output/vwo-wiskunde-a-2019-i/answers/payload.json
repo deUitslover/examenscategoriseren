@@ -1,0 +1,517 @@
+{
+  "payload": {
+    "subject_name": "Wiskunde A",
+    "level": "VWO",
+    "source": "VWO Wiskunde A 2019-I",
+    "answers": [
+      {
+        "title": "Goudplevieren",
+        "question_number": 1,
+        "answer_text": "• Aflezen van twee punten in de figuur: bijvoorbeeld (2005, 30000) en (2012, 27000)\n• Dit geeft een afname van 3000/7 per jaar\n• Een berekening als 27000 − (3000/7) · 8\n• Het antwoord: 24000 (goudplevieren)\n\nOpmerking\nBij het aflezen mag een marge van 1000 gehanteerd worden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Aflezen van twee punten in de figuur: bijvoorbeeld (2005, 30000) en (2012, 27000)"
+          },
+          {
+            "points": 1,
+            "description": "Dit geeft een afname van 3000/7 per jaar"
+          },
+          {
+            "points": 1,
+            "description": "Een berekening als 27000 − (3000/7) · 8"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 24000 (goudplevieren)"
+          }
+        ],
+        "grading_note": "Bij het aflezen mag een marge van 1000 gehanteerd worden.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-goudplevieren-antw1.png"
+        ]
+      },
+      {
+        "title": "Goudplevieren",
+        "question_number": 2,
+        "answer_text": "Een aanpak als:\n• Uit de bovenste grafiek 'lichaamsgewicht' blijkt dat de helling van de trendlijn voorjaar veel meer dan 2 keer zo groot is (zelfs ongeveer 4 keer zo groot) dan de helling van de trendlijn najaar dus stelling I is niet waar.\n• Uit de onderste grafiek 'hoeveelheid vet' blijkt dat de trendlijn voorjaar horizontaal loopt en dus niet toeneemt, (maar in het bovenste plaatje zie je dat het lichaamsgewicht wel toeneemt,) dus stelling II is waar.\n\nOpmerking\nVoor zowel het eerste als het tweede antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Uit de bovenste grafiek 'lichaamsgewicht' blijkt dat de helling van de trendlijn voorjaar veel meer dan 2 keer zo groot is (zelfs ongeveer 4 keer zo groot) dan de helling van de trendlijn najaar dus stelling I is niet waar."
+          },
+          {
+            "points": 2,
+            "description": "Uit de onderste grafiek 'hoeveelheid vet' blijkt dat de trendlijn voorjaar horizontaal loopt en dus niet toeneemt, (maar in het bovenste plaatje zie je dat het lichaamsgewicht wel toeneemt,) dus stelling II is waar."
+          }
+        ],
+        "grading_note": "Voor zowel het eerste als het tweede antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-goudplevieren-antw2.png"
+        ]
+      },
+      {
+        "title": "Goudplevieren",
+        "question_number": 3,
+        "answer_text": "• De richtingscoëfficiënt van de rechte die door de punten (0, 198) en (20, 244) gaat, is 2,3\n• Voor het lichaamsgewicht geldt, uitgaande van (0, 198) en (20, 244), G = 2,3 · t + 198 (met t is het aantal dagen na het begin van de gewichtstoename)\n• De hoeveelheid vet in het voorjaar blijft de hele tijd gelijk aan 16 (g)\n• De formule voor het vetpercentage is P_voorjaar = 16/(2,3·t + 198) · 100 = 1600/(2,3·t + 198)\n\nOpmerking\nVoor het vierde antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De richtingscoëfficiënt van de rechte die door de punten (0, 198) en (20, 244) gaat, is 2,3"
+          },
+          {
+            "points": 1,
+            "description": "Voor het lichaamsgewicht geldt, uitgaande van (0, 198) en (20, 244), G = 2,3 · t + 198 (met t is het aantal dagen na het begin van de gewichtstoename)"
+          },
+          {
+            "points": 1,
+            "description": "De hoeveelheid vet in het voorjaar blijft de hele tijd gelijk aan 16 (g)"
+          },
+          {
+            "points": 2,
+            "description": "De formule voor het vetpercentage is P_voorjaar = 16/(2,3·t + 198) · 100 = 1600/(2,3·t + 198)"
+          }
+        ],
+        "grading_note": "Voor het vierde antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-goudplevieren-antw3.png"
+        ]
+      },
+      {
+        "title": "Goudplevieren",
+        "question_number": 4,
+        "answer_text": "• In deze formule is de teller constant (en positief)\n• De noemer wordt steeds groter bij toenemende t\n• Dus de waarde van P wordt kleiner (dus het vetpercentage neemt af)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In deze formule is de teller constant (en positief)"
+          },
+          {
+            "points": 1,
+            "description": "De noemer wordt steeds groter bij toenemende t"
+          },
+          {
+            "points": 1,
+            "description": "Dus de waarde van P wordt kleiner (dus het vetpercentage neemt af)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-goudplevieren-antw4.png"
+        ]
+      },
+      {
+        "title": "Goudplevieren",
+        "question_number": 5,
+        "answer_text": "• dP_najaar/dt = (60·(207 + 0,6t) − (2300 + 60t)·0,6) / (207 + 0,6t)²\n• dP_najaar/dt = 11040 / (207 + 0,6t)²\n• Omdat teller en noemer van dP_najaar/dt altijd positief zijn, is dP_najaar/dt positief\n• Dus P_najaar stijgt\n• Omdat bij toenemende t de noemer van dP_najaar/dt groter wordt en de teller gelijk blijft, neemt dP_najaar/dt af\n• Dus P_najaar is afnemend stijgend\nof\n• dP_najaar/dt = (60·(207 + 0,6t) − (2300 + 60t)·0,6) / (207 + 0,6t)²\n• Een schets van de grafiek van dP_najaar/dt\n• De grafiek van dP_najaar/dt ligt overal boven de t-as\n• Dus P_najaar is stijgend\n• De grafiek van dP_najaar/dt is dalend\n• dP_najaar/dt = (60·(207 + 0,6t) − (2300 + 60t)·0,6) / (207 + 0,6t)² ⚠️ CONTROLEREN: dit laatste deelpunt van het tweede alternatief herhaalt in het correctievoorschrift letterlijk het eerste deelpunt",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "dP_najaar/dt = (60·(207 + 0,6t) − (2300 + 60t)·0,6) / (207 + 0,6t)²"
+          },
+          {
+            "points": 1,
+            "description": "dP_najaar/dt = 11040 / (207 + 0,6t)²"
+          },
+          {
+            "points": 1,
+            "description": "Omdat teller en noemer van dP_najaar/dt altijd positief zijn, is dP_najaar/dt positief"
+          },
+          {
+            "points": 1,
+            "description": "Dus P_najaar stijgt"
+          },
+          {
+            "points": 1,
+            "description": "Omdat bij toenemende t de noemer van dP_najaar/dt groter wordt en de teller gelijk blijft, neemt dP_najaar/dt af"
+          },
+          {
+            "points": 1,
+            "description": "Dus P_najaar is afnemend stijgend"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-goudplevieren-antw5.png"
+        ]
+      },
+      {
+        "title": "Kentekens",
+        "question_number": 6,
+        "answer_text": "• Het aantal verschillende kentekens is gelijk aan 10² · 26³ · 10\n• Het antwoord: 17,6 miljoen (of 17600000)\n\nOpmerking\nVoor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Het aantal verschillende kentekens is gelijk aan 10² · 26³ · 10"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 17,6 miljoen (of 17600000)"
+          }
+        ],
+        "grading_note": "Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-kentekens-antw6.png"
+        ]
+      },
+      {
+        "title": "Kentekens",
+        "question_number": 7,
+        "answer_text": "• Voor de eerste twee cijfers zijn 99 mogelijkheden\n• Voor de eerste letter zijn 12 mogelijkheden, voor de andere twee letters zijn 18 mogelijkheden.\n• Er zijn dus 12 · 18 · 18 − 82 = 3806 drielettercombinaties\n• In totaal zijn er dus 99 · 3806 · 10 = 3767940 mogelijkheden\n• Dat is, uitgaande van 18 miljoen, 20,9% van het totaal aantal mogelijkheden, dus de verslaggever heeft geen gelijk\n\nOpmerking\nAls een kandidaat bij de berekening van het percentage is uitgegaan van zijn antwoord bij de eraan voorafgaande vraag (of van 17 576 000), hiervoor geen scorepunten in mindering brengen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor de eerste twee cijfers zijn 99 mogelijkheden"
+          },
+          {
+            "points": 1,
+            "description": "Voor de eerste letter zijn 12 mogelijkheden, voor de andere twee letters zijn 18 mogelijkheden."
+          },
+          {
+            "points": 1,
+            "description": "Er zijn dus 12 · 18 · 18 − 82 = 3806 drielettercombinaties"
+          },
+          {
+            "points": 1,
+            "description": "In totaal zijn er dus 99 · 3806 · 10 = 3767940 mogelijkheden"
+          },
+          {
+            "points": 1,
+            "description": "Dat is, uitgaande van 18 miljoen, 20,9% van het totaal aantal mogelijkheden, dus de verslaggever heeft geen gelijk"
+          }
+        ],
+        "grading_note": "Als een kandidaat bij de berekening van het percentage is uitgegaan van zijn antwoord bij de eraan voorafgaande vraag (of van 17 576 000), hiervoor geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-kentekens-antw7.png"
+        ]
+      },
+      {
+        "title": "Kentekens",
+        "question_number": 8,
+        "answer_text": "• In mei 2013 zijn er volgens de figuur 30000 nieuwe auto's verkocht\n• Volgens het model zouden dat er 36500 zijn\n• Dat is ((36500 − 30000)/30000 · 100 ≈) 22(%)\n\nOpmerking\nBij het aflezen mag een marge van 1000 gehanteerd worden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In mei 2013 zijn er volgens de figuur 30000 nieuwe auto's verkocht"
+          },
+          {
+            "points": 1,
+            "description": "Volgens het model zouden dat er 36500 zijn"
+          },
+          {
+            "points": 1,
+            "description": "Dat is ((36500 − 30000)/30000 · 100 ≈) 22(%)"
+          }
+        ],
+        "grading_note": "Bij het aflezen mag een marge van 1000 gehanteerd worden.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-kentekens-antw8.png"
+        ]
+      },
+      {
+        "title": "Kentekens",
+        "question_number": 9,
+        "answer_text": "• Aₙ = Aₙ₋₁ − 375\n• A₀ = 37250\n\nOpmerking\nVoor het eerste antwoordelement mogen uitsluitend 0 of 2 twee scorepunten worden toegekend.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Aₙ = Aₙ₋₁ − 375"
+          },
+          {
+            "points": 1,
+            "description": "A₀ = 37250"
+          }
+        ],
+        "grading_note": "Voor het eerste antwoordelement mogen uitsluitend 0 of 2 twee scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-kentekens-antw9.png"
+        ]
+      },
+      {
+        "title": "Verpakkingen",
+        "question_number": 10,
+        "answer_text": "• De lengte van het grondvlak is 17 (cm)\n• De breedte van het grondvlak is 24 (cm)\n• De inhoud is 17 · 24 · 3 = 1224 (cm³)\n\nOpmerking\nAls een kandidaat gebruikmaakt van de formule die verderop in deze opgave gegeven wordt, voor deze vraag geen scorepunten toekennen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De lengte van het grondvlak is 17 (cm)"
+          },
+          {
+            "points": 1,
+            "description": "De breedte van het grondvlak is 24 (cm)"
+          },
+          {
+            "points": 1,
+            "description": "De inhoud is 17 · 24 · 3 = 1224 (cm³)"
+          }
+        ],
+        "grading_note": "Als een kandidaat gebruikmaakt van de formule die verderop in deze opgave gegeven wordt, voor deze vraag geen scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-verpakkingen-antw10.png"
+        ]
+      },
+      {
+        "title": "Verpakkingen",
+        "question_number": 11,
+        "answer_text": "• Voor de breedte geldt: b = 30 − 2h\n• Voor de lengte geldt: l = (40 − 2h)/2 (of l = 20 − h)\n• V = (30 − 2h) · (40 − 2h)/2 · h\n• Herleiden tot V = 2h³ − 70h² + 600h",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor de breedte geldt: b = 30 − 2h"
+          },
+          {
+            "points": 1,
+            "description": "Voor de lengte geldt: l = (40 − 2h)/2 (of l = 20 − h)"
+          },
+          {
+            "points": 1,
+            "description": "V = (30 − 2h) · (40 − 2h)/2 · h"
+          },
+          {
+            "points": 1,
+            "description": "Herleiden tot V = 2h³ − 70h² + 600h"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-verpakkingen-antw11.png"
+        ]
+      },
+      {
+        "title": "Verpakkingen",
+        "question_number": 12,
+        "answer_text": "• V′ = 6h² − 140h + 600\n• Beschrijven hoe de vergelijking V′ = 0 opgelost kan worden\n• Dat geeft: h = 5,7 (cm)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "V′ = 6h² − 140h + 600"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de vergelijking V′ = 0 opgelost kan worden"
+          },
+          {
+            "points": 1,
+            "description": "Dat geeft: h = 5,7 (cm)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-verpakkingen-antw12.png"
+        ]
+      },
+      {
+        "title": "Verpakkingen",
+        "question_number": 13,
+        "answer_text": "• Uit oppervlakte bol = 12,57r² volgt dat r² = A/12,57 = 0,08A\n• Hieruit volgt dat r = √(0,08A)\n• Dus: inhoud bol = 4,19r³ = 4,19(√(0,08A))³\n• E = V / (inhoud van bol met oppervlakte A) = V / (4,19(√(0,08A))³)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Uit oppervlakte bol = 12,57r² volgt dat r² = A/12,57 = 0,08A"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit volgt dat r = √(0,08A)"
+          },
+          {
+            "points": 1,
+            "description": "Dus: inhoud bol = 4,19r³ = 4,19(√(0,08A))³"
+          },
+          {
+            "points": 1,
+            "description": "E = V / (inhoud van bol met oppervlakte A) = V / (4,19(√(0,08A))³)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-verpakkingen-antw13.png"
+        ]
+      },
+      {
+        "title": "Groningse aardbevingen",
+        "question_number": 14,
+        "answer_text": "Een aanpak als:\n• De gaswinning stijgt met (ongeveer) (47 − 22)/22 × 100% ≈ 114%\n• Het aantal aardbevingen stijgt met (ongeveer) (31 − 3)/3 × 100% ≈ 933% dus bewering 1 is niet waar\n• Na 2000 daalt de gasproductie in 2003 maar het aantal aardbevingen stijgt in 2004 dus bewering 2 is niet waar\n• Het aantal aardbevingen in de periode 2005-2011 is gemiddeld per jaar met 2 (of nauwkeuriger) gestegen\n• Het aantal aardbevingen in de periode 1998-2004 is gemiddeld per jaar met 1 (of nauwkeuriger) gestegen dus bewering 3 is waar\n\nOpmerking\nAls bewering 3 geverifieerd wordt op basis van een toelichting met behulp van de helling van twee lijnstukjes in de figuur, hiervoor geen scorepunten in mindering brengen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De gaswinning stijgt met (ongeveer) (47 − 22)/22 × 100% ≈ 114%"
+          },
+          {
+            "points": 1,
+            "description": "Het aantal aardbevingen stijgt met (ongeveer) (31 − 3)/3 × 100% ≈ 933% dus bewering 1 is niet waar"
+          },
+          {
+            "points": 1,
+            "description": "Na 2000 daalt de gasproductie in 2003 maar het aantal aardbevingen stijgt in 2004 dus bewering 2 is niet waar"
+          },
+          {
+            "points": 1,
+            "description": "Het aantal aardbevingen in de periode 2005-2011 is gemiddeld per jaar met 2 (of nauwkeuriger) gestegen"
+          },
+          {
+            "points": 1,
+            "description": "Het aantal aardbevingen in de periode 1998-2004 is gemiddeld per jaar met 1 (of nauwkeuriger) gestegen dus bewering 3 is waar"
+          }
+        ],
+        "grading_note": "Als bewering 3 geverifieerd wordt op basis van een toelichting met behulp van de helling van twee lijnstukjes in de figuur, hiervoor geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-groningse-aardbevingen-antw14.png"
+        ]
+      },
+      {
+        "title": "Groningse aardbevingen",
+        "question_number": 15,
+        "answer_text": "• Het aantal aardbevingen van magnitude ≥ 2,0 is 66 (of een ander geheel getal in het interval [63, 69])\n• Het aantal aardbevingen van magnitude ≥ 2,5 is 22 (of een ander geheel getal in het interval [21, 24])\n• Het antwoord: 33(%)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het aantal aardbevingen van magnitude ≥ 2,0 is 66 (of een ander geheel getal in het interval [63, 69])"
+          },
+          {
+            "points": 1,
+            "description": "Het aantal aardbevingen van magnitude ≥ 2,5 is 22 (of een ander geheel getal in het interval [21, 24])"
+          },
+          {
+            "points": 1,
+            "description": "Het antwoord: 33(%)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-groningse-aardbevingen-antw15.png"
+        ]
+      },
+      {
+        "title": "Groningse aardbevingen",
+        "question_number": 16,
+        "answer_text": "• A′ = 12 · 0,013 · e^(0,013t) (= 0,156 · e^(0,013t))\n• (A′(117) = 0,71 ... dus) de waarde van de afgeleide voor t = 117 is afgerond 0,7\n• In januari 2004 neemt (volgens deze formule) het aantal aardbevingen met magnitude ≥ 1,5 per maand toe met 0,7\n\nOpmerkingen\n– Als januari 2004 niet genoemd wordt, dan ten hoogste 3 scorepunten voor deze vraag toekennen.\n– Voor het derde antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "A′ = 12 · 0,013 · e^(0,013t) (= 0,156 · e^(0,013t))"
+          },
+          {
+            "points": 1,
+            "description": "(A′(117) = 0,71 ... dus) de waarde van de afgeleide voor t = 117 is afgerond 0,7"
+          },
+          {
+            "points": 2,
+            "description": "In januari 2004 neemt (volgens deze formule) het aantal aardbevingen met magnitude ≥ 1,5 per maand toe met 0,7"
+          }
+        ],
+        "grading_note": "– Als januari 2004 niet genoemd wordt, dan ten hoogste 3 scorepunten voor deze vraag toekennen.\n– Voor het derde antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-groningse-aardbevingen-antw16.png"
+        ]
+      },
+      {
+        "title": "Groningse aardbevingen",
+        "question_number": 17,
+        "answer_text": "Een aanpak als:\n• Bij een verschuiving naar rechts moet t vervangen worden door t − 85\n• De formule is dus A₂,₀ = 12 · e^(0,013(t − 85)) (en dus is formule B de juiste)\nof\n• De grafiek van A₂,₀ moet door (85, 12) gaan\n• Met behulp van berekeningen verifiëren dat formule B de formule is waar (85, 12) aan voldoet\n\nOpmerkingen\n– Voor het eerste antwoordalternatief mogen voor het eerste antwoordelement uitsluitend 0 of 2 scorepunten worden toegekend.\n– Voor het tweede antwoordalternatief mogen voor het tweede antwoordelement uitsluitend 0 of 2 scorepunten worden toegekend.\n– Als een kandidaat met een correcte redenering tot de conclusie komt dat geen van de vier formules juist is, hiervoor alle scorepunten toekennen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Bij een verschuiving naar rechts moet t vervangen worden door t − 85"
+          },
+          {
+            "points": 1,
+            "description": "De formule is dus A₂,₀ = 12 · e^(0,013(t − 85)) (en dus is formule B de juiste)"
+          }
+        ],
+        "grading_note": "– Voor het eerste antwoordalternatief mogen voor het eerste antwoordelement uitsluitend 0 of 2 scorepunten worden toegekend.\n– Voor het tweede antwoordalternatief mogen voor het tweede antwoordelement uitsluitend 0 of 2 scorepunten worden toegekend.\n– Als een kandidaat met een correcte redenering tot de conclusie komt dat geen van de vier formules juist is, hiervoor alle scorepunten toekennen.",
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-groningse-aardbevingen-antw17.png"
+        ]
+      },
+      {
+        "title": "Groningse aardbevingen",
+        "question_number": 18,
+        "answer_text": "• Voor M = 1 geldt N = 10\n• Er geldt dus 10 = 10^(a − 1)\n• 1 = a − 1 dus a = 2\nof\n• Voor M = 0 geldt N = 100\n• Er geldt dus 100 = 10^(a − 0)\n• 2 = a − 0 dus a = 2\nof\n• a = 2 invullen leidt tot N = 10^(2 − M) ⚠️ CONTROLEREN: in het correctievoorschrift staat hier nog een losse \"1\" achter de formule\n• M = 1 hierin invullen leidt tot N (= 10^(2 − 1)) = 10\n• Dit komt overeen met het gegeven dat de grafiek door (1,0; 10) gaat",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor M = 1 geldt N = 10"
+          },
+          {
+            "points": 1,
+            "description": "Er geldt dus 10 = 10^(a − 1)"
+          },
+          {
+            "points": 1,
+            "description": "1 = a − 1 dus a = 2"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-groningse-aardbevingen-antw18.png"
+        ]
+      },
+      {
+        "title": "Groningse aardbevingen",
+        "question_number": 19,
+        "answer_text": "• log(N) = log(10^(2 − M))\n• log(N) = 2 − M\n• M = 2 − log(N) (dus p = 2 en q = −1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "log(N) = log(10^(2 − M))"
+          },
+          {
+            "points": 1,
+            "description": "log(N) = 2 − M"
+          },
+          {
+            "points": 1,
+            "description": "M = 2 − log(N) (dus p = 2 en q = −1)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-groningse-aardbevingen-antw19.png"
+        ]
+      },
+      {
+        "title": "Zandpad",
+        "question_number": 20,
+        "answer_text": "Een aanpak als:\n• De formule die bij de bovenste sinusoïde hoort, heeft de vorm S_bovenste = a + b·sin(c(x − d))\n• De sinusoïden hebben dezelfde amplitude, dus b = 50\n• De evenwichtslijn van de bovenste ligt op de hoogte van de top van de onderste dus a = 100 + 50 = 150\n• De sinusoïden hebben dezelfde periode, dus c = π/3\n• De hoogte (van het raakpunt) is 100 + 50·sin(π/3 · 1/2) = 125 (cm)\n• De vergelijking 150 + 50·sin(π/3 · (1/2 − d)) = 125 moet worden opgelost\n• Beschrijven hoe de vergelijking opgelost kan worden\n• Een mogelijke waarde van d: d = 1 (of 7 of 13 of ...) (dus S_bovenste = 150 + 50·sin(π/3 · (x − 1)) of ...)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De formule die bij de bovenste sinusoïde hoort, heeft de vorm S_bovenste = a + b·sin(c(x − d))"
+          },
+          {
+            "points": 1,
+            "description": "De sinusoïden hebben dezelfde amplitude, dus b = 50"
+          },
+          {
+            "points": 1,
+            "description": "De evenwichtslijn van de bovenste ligt op de hoogte van de top van de onderste dus a = 100 + 50 = 150"
+          },
+          {
+            "points": 1,
+            "description": "De sinusoïden hebben dezelfde periode, dus c = π/3"
+          },
+          {
+            "points": 1,
+            "description": "De hoogte (van het raakpunt) is 100 + 50·sin(π/3 · 1/2) = 125 (cm)"
+          },
+          {
+            "points": 1,
+            "description": "De vergelijking 150 + 50·sin(π/3 · (1/2 − d)) = 125 moet worden opgelost"
+          },
+          {
+            "points": 1,
+            "description": "Beschrijven hoe de vergelijking opgelost kan worden"
+          },
+          {
+            "points": 1,
+            "description": "Een mogelijke waarde van d: d = 1 (of 7 of 13 of ...) (dus S_bovenste = 150 + 50·sin(π/3 · (x − 1)) of ...)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "wiskunde-a-vwo-2019-i-zandpad-antw20.png"
+        ]
+      }
+    ]
+  }
+}
