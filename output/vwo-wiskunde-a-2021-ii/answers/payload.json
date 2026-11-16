@@ -1,0 +1,555 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "source": "VWO Wiskunde A 2021-II",
+  "answers": [
+   {
+    "title": "Kopgroep",
+    "question_number": 1,
+    "answer_text": "• De vluchters zijn nog 25/50 = 0,5 (uur) onderweg\n• Het peloton is nog 28/53 = 0,52… (uur) onderweg\n• Het peloton haalt de vluchters dus niet in\nof\n• De vluchters zijn nog 25/50 = 0,5 (uur) onderweg\n• Het peloton legt (in een half uur) 0,5 · 53 = 26,5 (km) af\n• (Dit is minder dan 28 km, dus) het peloton haalt de vluchters niet in",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vluchters zijn nog 25/50 = 0,5 (uur) onderweg"
+     },
+     {
+      "points": 1,
+      "description": "Het peloton is nog 28/53 = 0,52… (uur) onderweg"
+     },
+     {
+      "points": 1,
+      "description": "Het peloton haalt de vluchters dus niet in"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-kopgroep-antw1.png"
+    ]
+   },
+   {
+    "title": "Kopgroep",
+    "question_number": 2,
+    "answer_text": "• De vergelijking 80 = (6 · (10/60) · p²) / (3(p − 50) + √(6 · (10/60) · p · 2 + 9(p − 50)²)) moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Het antwoord: (p = 56,07… dus) 57 (km/uur)\n\nOpmerking\nvoor het eindantwoord 56 (km/uur) geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 80 = (6 · (10/60) · p²) / (3(p − 50) + √(6 · (10/60) · p · 2 + 9(p − 50)²)) moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (p = 56,07… dus) 57 (km/uur)"
+     }
+    ],
+    "grading_note": "voor het eindantwoord 56 (km/uur) geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-kopgroep-antw2.png"
+    ]
+   },
+   {
+    "title": "Kopgroep",
+    "question_number": 3,
+    "answer_text": "• dK/dp = (2 · 0,1 · p · (p − 50) − 0,1 · p² · 1) / (p − 50)²\n• (of dK/dp = 2 · 0,1 · p · (p − 50)⁻¹ + 0,1 · p² · −1(p − 50)⁻²)\n• dK/dp = (0,2 · p² − 0,2 · 50p − 0,1 · p²) / (p − 50)²\n• Dit herleiden tot dK/dp = (0,1 · p² − 10 · p) / (p − 50)² = (0,1 · p · (p − 100)) / (p − 50)²\n\nOpmerkingen\n− Als bij het differentiëren de product- of de quotiëntregel niet is gebruikt, mogen voor het eerste antwoordelement geen scorepunten worden toegekend.\n− Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "dK/dp = (2 · 0,1 · p · (p − 50) − 0,1 · p² · 1) / (p − 50)²"
+     },
+     {
+      "points": 1,
+      "description": "(of dK/dp = 2 · 0,1 · p · (p − 50)⁻¹ + 0,1 · p² · −1(p − 50)⁻²)"
+     },
+     {
+      "points": 1,
+      "description": "dK/dp = (0,2 · p² − 0,2 · 50p − 0,1 · p²) / (p − 50)²"
+     },
+     {
+      "points": 1,
+      "description": "Dit herleiden tot dK/dp = (0,1 · p² − 10 · p) / (p − 50)² = (0,1 · p · (p − 100)) / (p − 50)²"
+     }
+    ],
+    "grading_note": "− Als bij het differentiëren de product- of de quotiëntregel niet is gebruikt, mogen voor het eerste antwoordelement geen scorepunten worden toegekend.\n− Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-kopgroep-antw3.png"
+    ]
+   },
+   {
+    "title": "Kopgroep",
+    "question_number": 4,
+    "answer_text": "• Een schets van dK/dp (met p tussen 50 en 75)\n• De grafiek van dK/dp ligt voor p tussen 50 en 75 onder de p-as, dus K is voor p tussen 50 en 75 een dalende functie\n• De afstand K wordt dus steeds kleiner als p groter wordt",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een schets van dK/dp (met p tussen 50 en 75)"
+     },
+     {
+      "points": 1,
+      "description": "De grafiek van dK/dp ligt voor p tussen 50 en 75 onder de p-as, dus K is voor p tussen 50 en 75 een dalende functie"
+     },
+     {
+      "points": 1,
+      "description": "De afstand K wordt dus steeds kleiner als p groter wordt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-kopgroep-antw4.png"
+    ]
+   },
+   {
+    "title": "Dichtheidshoogte",
+    "question_number": 5,
+    "answer_text": "• bij vraag 5, moeten altijd 3 scorepunten worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.",
+    "scoring_steps": [
+     {
+      "points": 3,
+      "description": "bij vraag 5, moeten altijd 3 scorepunten worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-dichtheidshoogte-antw5.png"
+    ]
+   },
+   {
+    "title": "Dichtheidshoogte",
+    "question_number": 6,
+    "answer_text": "• Beschrijven hoe de vergelijking 15 − 0,0065h = −56,5 kan worden opgelost\n• De oplossing: h = 11000\n• L = (1013,25 · (1 − (0,0065 · 11000)/288,15)^5,2561 =) 226,3 (hPa)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 15 − 0,0065h = −56,5 kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing: h = 11000"
+     },
+     {
+      "points": 1,
+      "description": "L = (1013,25 · (1 − (0,0065 · 11000)/288,15)^5,2561 =) 226,3 (hPa)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-dichtheidshoogte-antw6.png"
+    ]
+   },
+   {
+    "title": "Dichtheidshoogte",
+    "question_number": 7,
+    "answer_text": "• L′ = 5,2561 · 1013,25 · (1 − 0,0065h/288,15)^4,2561 · −(0,0065/288,15) (of een gelijkwaardige uitdrukking)\n• Als h toeneemt, neemt (1 − 0,0065h/288,15) af\n• (L′ is steeds negatief en) als (1 − 0,0065h/288,15) afneemt, wordt L′ steeds minder negatief\n• L is dus afnemend dalend\n\nOpmerkingen\n− Als bij het differentiëren de kettingregel niet is gebruikt, mogen voor het eerste antwoordelement geen scorepunten worden toegekend.\n− Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "L′ = 5,2561 · 1013,25 · (1 − 0,0065h/288,15)^4,2561 · −(0,0065/288,15) (of een gelijkwaardige uitdrukking)"
+     },
+     {
+      "points": 1,
+      "description": "Als h toeneemt, neemt (1 − 0,0065h/288,15) af"
+     },
+     {
+      "points": 1,
+      "description": "(L′ is steeds negatief en) als (1 − 0,0065h/288,15) afneemt, wordt L′ steeds minder negatief"
+     },
+     {
+      "points": 1,
+      "description": "L is dus afnemend dalend"
+     }
+    ],
+    "grading_note": "− Als bij het differentiëren de kettingregel niet is gebruikt, mogen voor het eerste antwoordelement geen scorepunten worden toegekend.\n− Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-dichtheidshoogte-antw7.png"
+    ]
+   },
+   {
+    "title": "Dichtheidshoogte",
+    "question_number": 8,
+    "answer_text": "• Beschrijven hoe de vergelijking 1013,25 · (1 − 0,0065h/288,15)^5,2561 = 990 kan worden opgelost\n• De oplossing: h = 195,3…\n• Bij h_P = 195,3… hoort T_P = 15 − 0,0065 · 195,3… (= 13,7…)\n• D = 195,3… + 36,576 · (21,4 − 13,7…) = 475,8…, dus het antwoord is 476 (m)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 1013,25 · (1 − 0,0065h/288,15)^5,2561 = 990 kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing: h = 195,3…"
+     },
+     {
+      "points": 1,
+      "description": "Bij h_P = 195,3… hoort T_P = 15 − 0,0065 · 195,3… (= 13,7…)"
+     },
+     {
+      "points": 1,
+      "description": "D = 195,3… + 36,576 · (21,4 − 13,7…) = 475,8…, dus het antwoord is 476 (m)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-dichtheidshoogte-antw8.png"
+    ]
+   },
+   {
+    "title": "Dichtheidshoogte",
+    "question_number": 9,
+    "answer_text": "• T_P = 15 − 0,0065 · (8,23 · (1013,25 − M))\n• a = (−0,0065 · 8,23 · −1 =) 0,053\n• b = (15 − 0,0065 · 8,23 · 1013,25 =) −39,204",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "T_P = 15 − 0,0065 · (8,23 · (1013,25 − M))"
+     },
+     {
+      "points": 1,
+      "description": "a = (−0,0065 · 8,23 · −1 =) 0,053"
+     },
+     {
+      "points": 1,
+      "description": "b = (15 − 0,0065 · 8,23 · 1013,25 =) −39,204"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-dichtheidshoogte-antw9.png"
+    ]
+   },
+   {
+    "title": "Beweging",
+    "question_number": 10,
+    "answer_text": "• De evenwichtsstand is a = −5,70/2 = −2,85\n• De amplitude is b = 1,90/2 = 0,95 en de periode blijft gelijk, dus c = (π/22 =) 0,14\n• Uit c = π/22 volgt dat de periode 44 is\n• De grafiek gaat bij x = ¼ · 44 stijgend door de evenwichtsstand dus d = 11\nof\n• De evenwichtsstand is a = −5,70/2 = −2,85\n• De amplitude is 1,90/2 = 0,95 en de periode blijft gelijk, dus c = (π/22 =) 0,14\n• Wegens symmetrie: de grafiek gaat dalend door de evenwichtsstand bij x = 33\n• Dus b = −0,95 en d = 33",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De evenwichtsstand is a = −5,70/2 = −2,85"
+     },
+     {
+      "points": 1,
+      "description": "De amplitude is b = 1,90/2 = 0,95 en de periode blijft gelijk, dus c = (π/22 =) 0,14"
+     },
+     {
+      "points": 1,
+      "description": "Uit c = π/22 volgt dat de periode 44 is"
+     },
+     {
+      "points": 1,
+      "description": "De grafiek gaat bij x = ¼ · 44 stijgend door de evenwichtsstand dus d = 11"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-beweging-antw10.png"
+    ]
+   },
+   {
+    "title": "Beweging",
+    "question_number": 11,
+    "answer_text": "• Een formule die hoort bij de binnenrand van de linker balk in de figuur is y = 1,90 + 1,90 sin((π/22)(x − 33))\n• De werkelijke evenwichtsstand en amplitude zijn 1,90 · 80 = 152 mm, dit is 15,2 cm\n• Een x-coördinaat van het beginpunt wordt (33 · 80)/10 = 264 cm\n• De periode wordt (44 · 80)/10 = 352 cm, dit geeft c = 2π/352 (= π/176)\n• Een formule is y = 15,2 + 15,2 sin((π/176)(x − 264))\n\nOpmerkingen\n− Als het omrekenen van mm naar cm vergeten is, hiervoor in totaal 1 scorepunt in mindering brengen.\n− Als de waarde van c wordt gegeven als decimaal getal, hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een formule die hoort bij de binnenrand van de linker balk in de figuur is y = 1,90 + 1,90 sin((π/22)(x − 33))"
+     },
+     {
+      "points": 1,
+      "description": "De werkelijke evenwichtsstand en amplitude zijn 1,90 · 80 = 152 mm, dit is 15,2 cm"
+     },
+     {
+      "points": 1,
+      "description": "Een x-coördinaat van het beginpunt wordt (33 · 80)/10 = 264 cm"
+     },
+     {
+      "points": 1,
+      "description": "De periode wordt (44 · 80)/10 = 352 cm, dit geeft c = 2π/352 (= π/176)"
+     },
+     {
+      "points": 1,
+      "description": "Een formule is y = 15,2 + 15,2 sin((π/176)(x − 264))"
+     }
+    ],
+    "grading_note": "− Als het omrekenen van mm naar cm vergeten is, hiervoor in totaal 1 scorepunt in mindering brengen.\n− Als de waarde van c wordt gegeven als decimaal getal, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-beweging-antw11.png"
+    ]
+   },
+   {
+    "title": "Beweging",
+    "question_number": 12,
+    "answer_text": "• De vergelijking 45 = 38,0 + 23,5 sin(0,0172(t − 80)) moet worden opgelost\n• Oplossen van deze vergelijking geeft (t = 97,5… en) t = 245,0…\n• De tweede dag (bij t = 245,0…) is: 3 september",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 45 = 38,0 + 23,5 sin(0,0172(t − 80)) moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Oplossen van deze vergelijking geeft (t = 97,5… en) t = 245,0…"
+     },
+     {
+      "points": 1,
+      "description": "De tweede dag (bij t = 245,0…) is: 3 september"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-beweging-antw12.png"
+    ]
+   },
+   {
+    "title": "Kaartenhuis",
+    "question_number": 13,
+    "answer_text": "• Het aantal staande kaarten in de n-de laag is 2n\n• Het aantal liggende kaarten in de n-de laag is n − 1, dus K(n) = 2n + n − 1 = 3n − 1\nof\n• Het aantal liggende kaarten in de n-de laag is n − 1\n• Het aantal staande kaarten in de n-de laag is 2n, dus K(n) = 2n + n − 1 = 3n − 1",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het aantal staande kaarten in de n-de laag is 2n"
+     },
+     {
+      "points": 1,
+      "description": "Het aantal liggende kaarten in de n-de laag is n − 1, dus K(n) = 2n + n − 1 = 3n − 1"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-kaartenhuis-antw13.png"
+    ]
+   },
+   {
+    "title": "Kaartenhuis",
+    "question_number": 14,
+    "answer_text": "• T(n − 1) = (3/2)(n − 1)² + ½(n − 1)\n• Dit geeft T(n − 1) = (3/2)(n² − 2n + 1) + ½(n − 1)\n• Dus T(n − 1) = (3/2)n² − 2½n + 1\n• Hieruit volgt T(n) − T(n − 1) = (3/2)n² + ½n − ((3/2)n² − 2½n + 1) = 3n − 1 (= K(n))",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "T(n − 1) = (3/2)(n − 1)² + ½(n − 1)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft T(n − 1) = (3/2)(n² − 2n + 1) + ½(n − 1)"
+     },
+     {
+      "points": 1,
+      "description": "Dus T(n − 1) = (3/2)n² − 2½n + 1"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt T(n) − T(n − 1) = (3/2)n² + ½n − ((3/2)n² − 2½n + 1) = 3n − 1 (= K(n))"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-kaartenhuis-antw14.png"
+    ]
+   },
+   {
+    "title": "Kaartenhuis",
+    "question_number": 15,
+    "answer_text": "• K(n) = 54 geeft n = 18,3…, dus het aantal lagen is 18\n• Er geldt T(18) = 495\n• 495/54 = 9,1…, dus 10 pakjes speelkaarten",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "K(n) = 54 geeft n = 18,3…, dus het aantal lagen is 18"
+     },
+     {
+      "points": 1,
+      "description": "Er geldt T(18) = 495"
+     },
+     {
+      "points": 1,
+      "description": "495/54 = 9,1…, dus 10 pakjes speelkaarten"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-kaartenhuis-antw15.png"
+    ]
+   },
+   {
+    "title": "Kaartenhuis",
+    "question_number": 16,
+    "answer_text": "• T(2) = 7, T(10) = 155 en T(11) = 187\n• (3 · 54 = 162, dus) het eerste kaartenhuis heeft 10 lagen en er blijven (162 − 155 =) 7 kaarten over voor het tweede kaartenhuis\n• Daarmee kan precies een tweede kaartenhuis van 2 lagen worden gebouwd\nof\n• (3 · 54 = 162, dus) de vergelijking T(n) = 162 moet worden opgelost\n• Beschrijven hoe de oplossing n = 10,2… kan worden gevonden\n• Het eerste kaartenhuis heeft 10 lagen en er blijven (162 − 155 =) 7 kaarten over voor het tweede kaartenhuis\n• T(2) = 7, dus er kan precies een tweede kaartenhuis van 2 lagen worden gebouwd\n\nOpmerking\nVoor het eerste antwoordelement in het eerste antwoordalternatief mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "T(2) = 7, T(10) = 155 en T(11) = 187"
+     },
+     {
+      "points": 1,
+      "description": "(3 · 54 = 162, dus) het eerste kaartenhuis heeft 10 lagen en er blijven (162 − 155 =) 7 kaarten over voor het tweede kaartenhuis"
+     },
+     {
+      "points": 1,
+      "description": "Daarmee kan precies een tweede kaartenhuis van 2 lagen worden gebouwd"
+     }
+    ],
+    "grading_note": "Voor het eerste antwoordelement in het eerste antwoordalternatief mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-kaartenhuis-antw16.png"
+    ]
+   },
+   {
+    "title": "Kaartenhuis",
+    "question_number": 17,
+    "answer_text": "• (n + 1/6)² = (T + 1/24)/(3/2) (of (n + 0,166…)² = (T + 0,0416…)/1,5)\n• Dit geeft n + 1/6 = √((T + 1/24)/(3/2)) (of n + 0,166… = √((T + 0,0416…)/1,5))\n• Het antwoord: n = √(0,67T + 0,03) − 0,17",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(n + 1/6)² = (T + 1/24)/(3/2) (of (n + 0,166…)² = (T + 0,0416…)/1,5)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft n + 1/6 = √((T + 1/24)/(3/2)) (of n + 0,166… = √((T + 0,0416…)/1,5))"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: n = √(0,67T + 0,03) − 0,17"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-kaartenhuis-antw17.png"
+    ]
+   },
+   {
+    "title": "Bevolkingsgroei",
+    "question_number": 18,
+    "answer_text": "• r = 1000 · ln(7834/7383)/5 = 11,858…\n• De vergelijking 1000 · ln(W(10)/7383)/10 = 11,858… moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Het antwoord: 8313 (miljoen)\nof\n• Omdat r gelijk blijft, geldt 1000 · ln(7834/7383)/5 = 1000 · ln(W(10)/7834)/5\n• Dit geeft 7834/7383 = W(10)/7834\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Het antwoord: 8313 (miljoen)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "r = 1000 · ln(7834/7383)/5 = 11,858…"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking 1000 · ln(W(10)/7383)/10 = 11,858… moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 8313 (miljoen)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-bevolkingsgroei-antw18.png"
+    ]
+   },
+   {
+    "title": "Bevolkingsgroei",
+    "question_number": 19,
+    "answer_text": "• r = 1000 · ln(W(t)/W(0))/t geeft ln(W(t)/W(0)) = (r · t)/1000\n• Dit geeft W(t)/W(0) = e^((r · t)/1000)\n• Hieruit volgt W(t) = W(0) · e^((r · t)/1000) (en dit geeft W(t) = W(0) · e^(0,001 · r · t))",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "r = 1000 · ln(W(t)/W(0))/t geeft ln(W(t)/W(0)) = (r · t)/1000"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft W(t)/W(0) = e^((r · t)/1000)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt W(t) = W(0) · e^((r · t)/1000) (en dit geeft W(t) = W(0) · e^(0,001 · r · t))"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-bevolkingsgroei-antw19.png"
+    ]
+   },
+   {
+    "title": "Bevolkingsgroei",
+    "question_number": 20,
+    "answer_text": "• De formule van r₁ + r₂ als één breuk schrijven: r₁ + r₂ = 1000 · (ln(W(t)/W(0)) + ln(W(2t)/W(t)))/t\n• Dit herleiden tot 1000 · ln((W(t)/W(0)) · (W(2t)/W(t)))/t\n• Dit vereenvoudigen tot 1000 · ln(W(2t)/W(0))/t\n• Dus r₁ + r₂ = 1000 · ln(W(2t)/W(0))/t = 2 · 1000 · ln(W(2t)/W(0))/(2t) = 2r\nof\n• De formule van r₁ + r₂ als één breuk schrijven: r₁ + r₂ = 1000 · (ln(W(t)/W(0)) + ln(W(2t)/W(t)))/t\n• Dit herleiden tot 1000 · (ln(W(t)) − ln(W(0)) + ln(W(2t)) − ln(W(t)))/t\n• Dit vereenvoudigen tot 1000 · (ln(W(2t)) − ln(W(0)))/t\n• Dus r₁ + r₂ = 1000 · ln(W(2t)/W(0))/t = 2 · 1000 · ln(W(2t)/W(0))/(2t) = 2r",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De formule van r₁ + r₂ als één breuk schrijven: r₁ + r₂ = 1000 · (ln(W(t)/W(0)) + ln(W(2t)/W(t)))/t"
+     },
+     {
+      "points": 1,
+      "description": "Dit herleiden tot 1000 · ln((W(t)/W(0)) · (W(2t)/W(t)))/t"
+     },
+     {
+      "points": 1,
+      "description": "Dit vereenvoudigen tot 1000 · ln(W(2t)/W(0))/t"
+     },
+     {
+      "points": 1,
+      "description": "Dus r₁ + r₂ = 1000 · ln(W(2t)/W(0))/t = 2 · 1000 · ln(W(2t)/W(0))/(2t) = 2r"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-bevolkingsgroei-antw20.png"
+    ]
+   },
+   {
+    "title": "Bevolkingsgroei",
+    "question_number": 21,
+    "answer_text": "• De populatiegroei-ratio voor de periode 2020-2050 is (12,4 + 11,8 + 10,7 + 10,0 + 9,8 + 9,6)/6 = 10,716…\n• De factor e^(0,001 · 10,716… · 30)\n• e^(0,001 · 10,716… · 30) = 1,379…\n• Het antwoord: 38(%)\nof\n• De populatiegroei-ratio voor de periode 2020-2050 is (12,4 + 11,8 + 10,7 + 10,0 + 9,8 + 9,6)/6 = 10,716…\n• W(30) = 7834 · e^(0,001 · 10,716… · 30) (= 10804,6…)\n• 10804,6…/7834 = 1,379…\n• Het antwoord: 38(%)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De populatiegroei-ratio voor de periode 2020-2050 is (12,4 + 11,8 + 10,7 + 10,0 + 9,8 + 9,6)/6 = 10,716…"
+     },
+     {
+      "points": 1,
+      "description": "De factor e^(0,001 · 10,716… · 30)"
+     },
+     {
+      "points": 1,
+      "description": "e^(0,001 · 10,716… · 30) = 1,379…"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 38(%)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-bevolkingsgroei-antw21.png"
+    ]
+   },
+   {
+    "title": "Einduitslag van de Volvo Ocean Race",
+    "question_number": 22,
+    "answer_text": "• Het inzicht dat een team nog maximaal 8 punten voor de etappe kan halen en dat er 0 punten gehaald worden als het team niet finisht\n• Het inzicht dat team A vierde wordt in de einduitslag\n• In de top 3 zijn er (3! =) 6 mogelijkheden (omdat alle opties nog open liggen)\n• Het inzicht dat team T niet meer over team V heen kan en dat team S dat wel kan (als team S 8 punten voor de laatste etappe pakt en team V 0 punten, dan kan team S boven team V eindigen op basis van de havenraces, omdat er nog maximaal 14 punten voor de havenraces te verdienen zijn)\n• Er zijn voor de onderste drie teams 3 mogelijke volgordes (omdat team T achter team V eindigt)\n• In totaal zijn er dus (6 · 1 · 3 =) 18 mogelijkheden\nof\n• Het inzicht dat een team nog maximaal 8 punten voor de etappe kan halen en dat er 0 punten gehaald worden als het team niet finisht\n• Voor de eerste plaats zijn er nog 3 mogelijkheden, voor de tweede plaats zijn er nog 2 mogelijkheden\n• Daarna liggen de derde en vierde plaats vast\n• Als team V vijfde wordt, zijn er twee mogelijkheden voor de zesde plaats (en ligt de zevende plaats vast)\n• Als team S vijfde wordt, wordt team V zesde (en ligt ook de zevende plaats vast)\n• In totaal zijn er dus (3 · 2 · 1 · 1 · (1 · 2 · 1 + 1 · 1 · 1) =) 18 mogelijkheden",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het inzicht dat een team nog maximaal 8 punten voor de etappe kan halen en dat er 0 punten gehaald worden als het team niet finisht"
+     },
+     {
+      "points": 1,
+      "description": "Het inzicht dat team A vierde wordt in de einduitslag"
+     },
+     {
+      "points": 1,
+      "description": "In de top 3 zijn er (3! =) 6 mogelijkheden (omdat alle opties nog open liggen)"
+     },
+     {
+      "points": 1,
+      "description": "Het inzicht dat team T niet meer over team V heen kan en dat team S dat wel kan (als team S 8 punten voor de laatste etappe pakt en team V 0 punten, dan kan team S boven team V eindigen op basis van de havenraces, omdat er nog maximaal 14 punten voor de havenraces te verdienen zijn)"
+     },
+     {
+      "points": 1,
+      "description": "Er zijn voor de onderste drie teams 3 mogelijke volgordes (omdat team T achter team V eindigt)"
+     },
+     {
+      "points": 1,
+      "description": "In totaal zijn er dus (6 · 1 · 3 =) 18 mogelijkheden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-ii-einduitslag-van-de-volvo-ocean-race-antw22.png"
+    ]
+   }
+  ]
+ }
+}
