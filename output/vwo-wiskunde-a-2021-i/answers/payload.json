@@ -1,0 +1,544 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "source": "VWO Wiskunde A 2021-I",
+  "answers": [
+   {
+    "title": "Linkshandigen en ronde getallen",
+    "question_number": 1,
+    "answer_text": "• De termen 1000/n, 100/n en 500/n tellen niet mee in R(750)\n• R(750) = 10/750 + ½ · (50/750 + 5/750) + ¼ · (250/750 + 25/750)\n• R(750) = 0,14…\n• Dus 600 is het rondst",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De termen 1000/n, 100/n en 500/n tellen niet mee in R(750)"
+     },
+     {
+      "points": 1,
+      "description": "R(750) = 10/750 + ½ · (50/750 + 5/750) + ¼ · (250/750 + 25/750)"
+     },
+     {
+      "points": 1,
+      "description": "R(750) = 0,14…"
+     },
+     {
+      "points": 1,
+      "description": "Dus 600 is het rondst"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-linkshandigen-en-ronde-getallen-antw1.png"
+    ]
+   },
+   {
+    "title": "Linkshandigen en ronde getallen",
+    "question_number": 2,
+    "answer_text": "• Substitutie van n = 100p geeft R = 1/p + 1/(10p) + 1/(4p) + 1/(40p) + 1/(16p)\n• Herleiden tot R = 23/(16p)\n• Als p toeneemt (van 6 naar 9), dan wordt de noemer van 23/(16p) groter (en de teller blijft constant)\n• Als de noemer groter wordt, dan wordt R = 23/(16p) (en dus de rondheid) kleiner",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Substitutie van n = 100p geeft R = 1/p + 1/(10p) + 1/(4p) + 1/(40p) + 1/(16p)"
+     },
+     {
+      "points": 1,
+      "description": "Herleiden tot R = 23/(16p)"
+     },
+     {
+      "points": 1,
+      "description": "Als p toeneemt (van 6 naar 9), dan wordt de noemer van 23/(16p) groter (en de teller blijft constant)"
+     },
+     {
+      "points": 1,
+      "description": "Als de noemer groter wordt, dan wordt R = 23/(16p) (en dus de rondheid) kleiner"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-linkshandigen-en-ronde-getallen-antw2.png"
+    ]
+   },
+   {
+    "title": "Linkshandigen en ronde getallen",
+    "question_number": 3,
+    "answer_text": "• (Er zijn) 60 · 200 = 12000 (antwoorden gegeven)\n• (Er zijn) 0,013 · 12000 = 156 (antwoorden boven de 1000)\n• (Er zijn) 12000 − 3412 − 4329 − 156 = 4103 (antwoorden beneden de 20)\n• Dat is (4103/12000) · 100 dus 34,2(%) (antwoorden beneden de 20)\nof\n• (Er zijn) 60 · 200 = 12000 (antwoorden gegeven)\n• 3412 + 4329 = 7741 ofwel (7741/12000) · 100 dus 64,5(%) (van alle gegeven antwoorden zijn antwoorden van 20 tot en met 1000)\n• Er moet nog 1,3(%) worden afgehaald (antwoorden boven de 1000)\n• Dus 100 − 64,5 − 1,3 = 34,2(%) (antwoorden beneden de 20)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Er zijn) 60 · 200 = 12000 (antwoorden gegeven)"
+     },
+     {
+      "points": 1,
+      "description": "(Er zijn) 0,013 · 12000 = 156 (antwoorden boven de 1000)"
+     },
+     {
+      "points": 1,
+      "description": "(Er zijn) 12000 − 3412 − 4329 − 156 = 4103 (antwoorden beneden de 20)"
+     },
+     {
+      "points": 1,
+      "description": "Dat is (4103/12000) · 100 dus 34,2(%) (antwoorden beneden de 20)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-linkshandigen-en-ronde-getallen-antw3.png"
+    ]
+   },
+   {
+    "title": "Linkshandigen en ronde getallen",
+    "question_number": 4,
+    "answer_text": "• ((276/3412) · 100 =) 8,08…%\n• Aflezen dat het verschil tussen de percentages van links- en rechtshandigen 1,6% is\n• Het percentage voor de rechtshandigen is dus 6,5\n• 6,5% van 4329 dus 281 keer\n\nOpmerking\nBij deze vraag is een afleesmarge van 0,1% toegestaan.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "((276/3412) · 100 =) 8,08…%"
+     },
+     {
+      "points": 1,
+      "description": "Aflezen dat het verschil tussen de percentages van links- en rechtshandigen 1,6% is"
+     },
+     {
+      "points": 1,
+      "description": "Het percentage voor de rechtshandigen is dus 6,5"
+     },
+     {
+      "points": 1,
+      "description": "6,5% van 4329 dus 281 keer"
+     }
+    ],
+    "grading_note": "Bij deze vraag is een afleesmarge van 0,1% toegestaan.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-linkshandigen-en-ronde-getallen-antw4.png"
+    ]
+   },
+   {
+    "title": "Linkshandigen en ronde getallen",
+    "question_number": 5,
+    "answer_text": "Een antwoord als:\n• Uitspraak 1 volgt niet uit de figuur, omdat het voor grote getallen ook mogelijk is dat ze heel vaak als antwoord worden gegeven, maar daarbij even vaak door links- als door rechtshandigen.\n• Uitspraak 2 volgt wel uit de figuur, omdat voor heel veel grote getallen het verschil tussen de percentages ongeveer nul is.\n\nOpmerkingen\n− Als de kandidaat geen of een onjuiste redenering gebruikt, voor het betreffende antwoordelement geen scorepunten toekennen.\n− Voor beide antwoordelementen mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Uitspraak 1 volgt niet uit de figuur, omdat het voor grote getallen ook mogelijk is dat ze heel vaak als antwoord worden gegeven, maar daarbij even vaak door links- als door rechtshandigen."
+     },
+     {
+      "points": 2,
+      "description": "Uitspraak 2 volgt wel uit de figuur, omdat voor heel veel grote getallen het verschil tussen de percentages ongeveer nul is."
+     }
+    ],
+    "grading_note": "− Als de kandidaat geen of een onjuiste redenering gebruikt, voor het betreffende antwoordelement geen scorepunten toekennen.\n− Voor beide antwoordelementen mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-linkshandigen-en-ronde-getallen-antw5.png"
+    ]
+   },
+   {
+    "title": "Draaiend huis",
+    "question_number": 6,
+    "answer_text": "• Dat is 12,5 uur na t = 0\n• 10 uur is ½ cirkel en 2,5 uur is een ⅛ cirkel\n• Het getekende punt (zuidwest)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Dat is 12,5 uur na t = 0"
+     },
+     {
+      "points": 1,
+      "description": "10 uur is ½ cirkel en 2,5 uur is een ⅛ cirkel"
+     },
+     {
+      "points": 1,
+      "description": "Het getekende punt (zuidwest)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-draaiend-huis-antw6.png"
+    ]
+   },
+   {
+    "title": "Draaiend huis",
+    "question_number": 7,
+    "answer_text": "• Na 120 uur (6 ronden) is het huis weer op dezelfde plaats\n• 120 uur komt overeen met 5 dagen\n• Na (7 · 5 dagen =) 5 (weken)\nof\n• Een week heeft 7 · 24 = 168 uur\n• Na 840 uur staat het huis weer op dezelfde plaats\n• Na (840 : 24 : 7 =) 5 (weken)\nof\n• Een week heeft 7 · 24 = 168 uur\n• Het huis gaat 168 : 20 = 8,4 keer rond in een week\n• (Het eerste veelvoud van 8,4 dat een geheel getal oplevert is 42, dus) na 5 (weken)\n\nOpmerking\nAls de kandidaat concludeert dat het huis elke dag 4 uur vroeger punt O passeert, daarbij vergetende dat op woensdag het huis dan twee keer punt O passeert, en daarmee een cyclus van 6 dagen en als antwoord 6 weken berekent, voor deze vraag 1 scorepunt toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Na 120 uur (6 ronden) is het huis weer op dezelfde plaats"
+     },
+     {
+      "points": 1,
+      "description": "120 uur komt overeen met 5 dagen"
+     },
+     {
+      "points": 1,
+      "description": "Na (7 · 5 dagen =) 5 (weken)"
+     }
+    ],
+    "grading_note": "Als de kandidaat concludeert dat het huis elke dag 4 uur vroeger punt O passeert, daarbij vergetende dat op woensdag het huis dan twee keer punt O passeert, en daarmee een cyclus van 6 dagen en als antwoord 6 weken berekent, voor deze vraag 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-draaiend-huis-antw7.png"
+    ]
+   },
+   {
+    "title": "Draaiend huis",
+    "question_number": 8,
+    "answer_text": "• Punt N ligt een kwart cirkel verder\n• Een kwart cirkel komt overeen met (20 : 4 =) 5 (uur)\n• d = −5 (of 15, 35, 55, …)\nof\n• De vergelijking 30 · sin((π/10) · (0 − d)) = 30 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• d = −5 (of 15, 35, 55, …)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Punt N ligt een kwart cirkel verder"
+     },
+     {
+      "points": 1,
+      "description": "Een kwart cirkel komt overeen met (20 : 4 =) 5 (uur)"
+     },
+     {
+      "points": 1,
+      "description": "d = −5 (of 15, 35, 55, …)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-draaiend-huis-antw8.png"
+    ]
+   },
+   {
+    "title": "Draaiend huis",
+    "question_number": 9,
+    "answer_text": "• De vergelijkingen 30 · sin((π/10) · t) = 15 en 30 · sin((π/10) · t) = −15 moeten worden opgelost\n• Beschrijven hoe deze vergelijkingen kunnen worden opgelost\n• t = 1,66… en t = 8,33… en t = 11,66… en t = 18,33…\n• Dus 1,66… + 11,66… − 8,33… + 1,66… = 6,66… (uur) en dat geeft 33(%)\n\nOpmerkingen\n− Als de kandidaat slechts één van de vergelijkingen heeft opgelost en daarna gebruik makend van symmetrie tot het juiste antwoord is gekomen, hiervoor geen scorepunten in mindering brengen.\n− Als de kandidaat slechts één van de vergelijkingen correct heeft opgelost, voor deze vraag maximaal twee scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijkingen 30 · sin((π/10) · t) = 15 en 30 · sin((π/10) · t) = −15 moeten worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijkingen kunnen worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "t = 1,66… en t = 8,33… en t = 11,66… en t = 18,33…"
+     },
+     {
+      "points": 1,
+      "description": "Dus 1,66… + 11,66… − 8,33… + 1,66… = 6,66… (uur) en dat geeft 33(%)"
+     }
+    ],
+    "grading_note": "− Als de kandidaat slechts één van de vergelijkingen heeft opgelost en daarna gebruik makend van symmetrie tot het juiste antwoord is gekomen, hiervoor geen scorepunten in mindering brengen.\n− Als de kandidaat slechts één van de vergelijkingen correct heeft opgelost, voor deze vraag maximaal twee scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-draaiend-huis-antw9.png"
+    ]
+   },
+   {
+    "title": "Mathematical Bridge",
+    "question_number": 10,
+    "answer_text": "• x² + y² = 9,75²\n• y² = 95,0625 − x²\n• y = √(95,0625 − x²) (y = −√(95,0625 − x²) is hier niet van toepassing)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "x² + y² = 9,75²"
+     },
+     {
+      "points": 1,
+      "description": "y² = 95,0625 − x²"
+     },
+     {
+      "points": 1,
+      "description": "y = √(95,0625 − x²) (y = −√(95,0625 − x²) is hier niet van toepassing)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-mathematical-bridge-antw10.png"
+    ]
+   },
+   {
+    "title": "Mathematical Bridge",
+    "question_number": 11,
+    "answer_text": "• Het hoogste punt ligt op y(0) = 9,75 (m)\n• Het begin van de boog ligt op y(−6,095) = 7,61… (m)\n• Het hoogteverschil is 214 (cm) (of 2,14 m)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het hoogste punt ligt op y(0) = 9,75 (m)"
+     },
+     {
+      "points": 1,
+      "description": "Het begin van de boog ligt op y(−6,095) = 7,61… (m)"
+     },
+     {
+      "points": 1,
+      "description": "Het hoogteverschil is 214 (cm) (of 2,14 m)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-mathematical-bridge-antw11.png"
+    ]
+   },
+   {
+    "title": "Mathematical Bridge",
+    "question_number": 12,
+    "answer_text": "• dy/dx = ½ · (95,0625 − x²)^(−½) · −2x\n• y′(−1,90) = 0,198…\n• Een antwoord als: (het looppad van) de brug heeft (het eerste stuk) een helling van (ongeveer) 0,2 (of: een hellingspercentage van (ongeveer) 20(%))\n\nOpmerkingen\n− Als bij het differentiëren de kettingregel niet is gebruikt, mogen voor het eerste antwoordelement geen scorepunten worden toegekend.\n− Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "dy/dx = ½ · (95,0625 − x²)^(−½) · −2x"
+     },
+     {
+      "points": 1,
+      "description": "y′(−1,90) = 0,198…"
+     },
+     {
+      "points": 1,
+      "description": "Een antwoord als: (het looppad van) de brug heeft (het eerste stuk) een helling van (ongeveer) 0,2 (of: een hellingspercentage van (ongeveer) 20(%))"
+     }
+    ],
+    "grading_note": "− Als bij het differentiëren de kettingregel niet is gebruikt, mogen voor het eerste antwoordelement geen scorepunten worden toegekend.\n− Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-mathematical-bridge-antw12.png"
+    ]
+   },
+   {
+    "title": "The International",
+    "question_number": 13,
+    "answer_text": "• De jaarlijkse groeifactor is (95,1/3,7)^(1/7) = 1,59…\n• De vergelijking 95,1 · 1,59…ᵗ = 1000 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost (bijvoorbeeld met behulp van een tabel)\n• Het antwoord: t = 5,07… dus in 2022 (of 2021)\n\nOpmerkingen\n− Als gerekend wordt met (95,1 − 3,7)^(1/7), voor deze vraag maximaal 2 scorepunten toekennen.\n− Als gerekend wordt met (95,1/3,7) : 7, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De jaarlijkse groeifactor is (95,1/3,7)^(1/7) = 1,59…"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking 95,1 · 1,59…ᵗ = 1000 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost (bijvoorbeeld met behulp van een tabel)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: t = 5,07… dus in 2022 (of 2021)"
+     }
+    ],
+    "grading_note": "− Als gerekend wordt met (95,1 − 3,7)^(1/7), voor deze vraag maximaal 2 scorepunten toekennen.\n− Als gerekend wordt met (95,1/3,7) : 7, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-the-international-antw13.png"
+    ]
+   },
+   {
+    "title": "The International",
+    "question_number": 14,
+    "answer_text": "• Er zijn 36 ondersteunende helden\n• De twee aanvallers kunnen op (49 boven 2) manieren gekozen worden en de twee ondersteunende helden op (36 boven 2) manieren\n• Berekend moet worden (49 boven 2) · (36 boven 2) · 27\n• Het antwoord: 20 003760",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er zijn 36 ondersteunende helden"
+     },
+     {
+      "points": 1,
+      "description": "De twee aanvallers kunnen op (49 boven 2) manieren gekozen worden en de twee ondersteunende helden op (36 boven 2) manieren"
+     },
+     {
+      "points": 1,
+      "description": "Berekend moet worden (49 boven 2) · (36 boven 2) · 27"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 20 003760"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-the-international-antw14.png"
+    ]
+   },
+   {
+    "title": "The International",
+    "question_number": 15,
+    "answer_text": "• Als er geen zwervende helden zijn, dan zijn de mogelijke verdelingen over de zones 3-1-1 en 2-2-1. Deze verdelingen kunnen elk op 3 manieren\n• Als er één zwervende held is, dan is de enige mogelijke verdeling voor de andere vier helden 2-1-1, en dat kan op 3 manieren\n• Als er twee zwervende helden zijn, dan is de enige mogelijke verdeling voor de andere drie helden 1-1-1, en dat kan op 1 manier\n• Het antwoord: (3 + 3 + 3 + 1 =) 10 mogelijke verdelingen\nof\n• De drie zones Noord, Midden en Zuid moeten elk één held krijgen, dus er moeten nog twee helden worden verdeeld\n• Als deze twee helden dezelfde positie krijgen, zijn daarvoor 4 mogelijkheden (Noord, Midden, Zuid, zwervend)\n• Als ze een verschillende positie krijgen zijn daarvoor (4 boven 2) = 6 mogelijkheden\n• Het antwoord: (4 + 6 =) 10 mogelijke verdelingen\n\nOpmerking\nAls de kandidaat het antwoord vindt door alle mogelijke verdelingen uit te schrijven, hierbij per vergeten of foute verdeling 1 scorepunt in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als er geen zwervende helden zijn, dan zijn de mogelijke verdelingen over de zones 3-1-1 en 2-2-1. Deze verdelingen kunnen elk op 3 manieren"
+     },
+     {
+      "points": 1,
+      "description": "Als er één zwervende held is, dan is de enige mogelijke verdeling voor de andere vier helden 2-1-1, en dat kan op 3 manieren"
+     },
+     {
+      "points": 1,
+      "description": "Als er twee zwervende helden zijn, dan is de enige mogelijke verdeling voor de andere drie helden 1-1-1, en dat kan op 1 manier"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (3 + 3 + 3 + 1 =) 10 mogelijke verdelingen"
+     }
+    ],
+    "grading_note": "Als de kandidaat het antwoord vindt door alle mogelijke verdelingen uit te schrijven, hierbij per vergeten of foute verdeling 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-the-international-antw15.png"
+    ]
+   },
+   {
+    "title": "The International",
+    "question_number": 16,
+    "answer_text": "• Op t = 0 geldt P = 1,6 dus het startbedrag was 1,6 (miljoen dollar)\n• Als er 40 miljoen dollar door spelers uitgegeven is, dan is er 10 miljoen dollar in de prijzenpot bij gekomen\n• Beschrijven hoe de vergelijking 8,157 · ln(0,1(t + 10)) + 1,6 = 11,6 kan worden opgelost\n• Het antwoord: t = 24,07… dus na 25 (of 24) (dagen)\n\nOpmerkingen\n− Als de kandidaat de vergelijking P = 40 heeft opgelost, voor deze vraag maximaal 2 scorepunten toekennen.\n− Als de kandidaat de vergelijking P = 10 heeft opgelost, voor deze vraag maximaal 3 scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Op t = 0 geldt P = 1,6 dus het startbedrag was 1,6 (miljoen dollar)"
+     },
+     {
+      "points": 1,
+      "description": "Als er 40 miljoen dollar door spelers uitgegeven is, dan is er 10 miljoen dollar in de prijzenpot bij gekomen"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 8,157 · ln(0,1(t + 10)) + 1,6 = 11,6 kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: t = 24,07… dus na 25 (of 24) (dagen)"
+     }
+    ],
+    "grading_note": "− Als de kandidaat de vergelijking P = 40 heeft opgelost, voor deze vraag maximaal 2 scorepunten toekennen.\n− Als de kandidaat de vergelijking P = 10 heeft opgelost, voor deze vraag maximaal 3 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-the-international-antw16.png"
+    ]
+   },
+   {
+    "title": "The International",
+    "question_number": 17,
+    "answer_text": "• Op 30 juni geldt t = 45\n• dP/dt = 8,157 · 1/(0,1(t + 10)) · 0,1 (of een gelijkwaardige vorm)\n• dP/dt(45) = 0,14…\n• 1,125/0,14… = 7,58…, dus 8 keer zo groot\n\nOpmerkingen\n− Als bij het differentiëren de kettingregel niet is gebruikt, mogen voor het tweede antwoordelement geen scorepunten worden toegekend.\n− Voor het tweede antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Op 30 juni geldt t = 45"
+     },
+     {
+      "points": 2,
+      "description": "dP/dt = 8,157 · 1/(0,1(t + 10)) · 0,1 (of een gelijkwaardige vorm)"
+     },
+     {
+      "points": 1,
+      "description": "dP/dt(45) = 0,14…"
+     },
+     {
+      "points": 1,
+      "description": "1,125/0,14… = 7,58…, dus 8 keer zo groot"
+     }
+    ],
+    "grading_note": "− Als bij het differentiëren de kettingregel niet is gebruikt, mogen voor het tweede antwoordelement geen scorepunten worden toegekend.\n− Voor het tweede antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-the-international-antw17.png"
+    ]
+   },
+   {
+    "title": "Huurprijzen in New York",
+    "question_number": 18,
+    "answer_text": "• De groeifactor voor de inflatie sinds 1970 is gelijk aan 1,0395⁴³\n• 125 (dollar) in 1970 komt dus overeen met 125 · 1,0395⁴³ = 661,… (dollar) in 2013\n• ((917 − 661,…)/661,…) · 100 = 38,67… dus het antwoord: 38,7(%)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De groeifactor voor de inflatie sinds 1970 is gelijk aan 1,0395⁴³"
+     },
+     {
+      "points": 1,
+      "description": "125 (dollar) in 1970 komt dus overeen met 125 · 1,0395⁴³ = 661,… (dollar) in 2013"
+     },
+     {
+      "points": 1,
+      "description": "((917 − 661,…)/661,…) · 100 = 38,67… dus het antwoord: 38,7(%)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-huurprijzen-in-new-york-antw18.png"
+    ]
+   },
+   {
+    "title": "Huurprijzen in New York",
+    "question_number": 19,
+    "answer_text": "• De groeifactor tussen 1960 en 2013 is 21/15 (= 1,4)\n• De groeifactor per jaar is dus 1,4^(1/53) (= 1,00636…)\n• Beschrijven hoe de vergelijking 15 · 1,00636…ᵗ = 25 kan worden opgelost (bijvoorbeeld met behulp van een tabel)\n• Het antwoord: t = 80,4… dus in het jaar 2041 (of 2040)\n\nOpmerkingen\n− Als gerekend wordt met (21 − 15)^(1/53), voor deze vraag maximaal 2 scorepunten toekennen.\n− Als gerekend wordt met (21/15) : 53, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De groeifactor tussen 1960 en 2013 is 21/15 (= 1,4)"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactor per jaar is dus 1,4^(1/53) (= 1,00636…)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 15 · 1,00636…ᵗ = 25 kan worden opgelost (bijvoorbeeld met behulp van een tabel)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: t = 80,4… dus in het jaar 2041 (of 2040)"
+     }
+    ],
+    "grading_note": "− Als gerekend wordt met (21 − 15)^(1/53), voor deze vraag maximaal 2 scorepunten toekennen.\n− Als gerekend wordt met (21/15) : 53, voor deze vraag maximaal 2 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-huurprijzen-in-new-york-antw19.png"
+    ]
+   },
+   {
+    "title": "Huurprijzen in New York",
+    "question_number": 20,
+    "answer_text": "• De punten van de grafiek horend bij 1960, 1980 en 2000 liggen op één lijn, dus de huren stegen (in absolute zin) in beide periodes even snel. Dus uitspraak 1 is niet waar\n• Tussen 1990 en 2000 stijgen de huren nauwelijks, terwijl het inkomen flink toeneemt. De huurlast neemt dan af, dus uitspraak 2 is waar\nof\n• Een berekening waaruit blijkt dat de procentuele stijging van de huren ten opzichte van het eerste jaar (1960) van de eerste periode (1960-1980) groter is dan de procentuele stijging ten opzichte van het eerste jaar (1980) van de tweede periode (1980-2000). Dus uitspraak 1 is waar\n• Tussen 1990 en 2000 stijgen de huren nauwelijks, terwijl het inkomen flink toeneemt. De huurlast neemt dan af, dus uitspraak 2 is waar\n\nOpmerkingen\n− Voor zowel het eerste als het tweede antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.\n− Als de kandidaat geen of een onjuiste redenering gebruikt, voor het betreffende antwoordelement geen scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De punten van de grafiek horend bij 1960, 1980 en 2000 liggen op één lijn, dus de huren stegen (in absolute zin) in beide periodes even snel. Dus uitspraak 1 is niet waar"
+     },
+     {
+      "points": 2,
+      "description": "Tussen 1990 en 2000 stijgen de huren nauwelijks, terwijl het inkomen flink toeneemt. De huurlast neemt dan af, dus uitspraak 2 is waar"
+     }
+    ],
+    "grading_note": "− Voor zowel het eerste als het tweede antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.\n− Als de kandidaat geen of een onjuiste redenering gebruikt, voor het betreffende antwoordelement geen scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-huurprijzen-in-new-york-antw20.png"
+    ]
+   },
+   {
+    "title": "Inkomensongelijkheid",
+    "question_number": 21,
+    "answer_text": "• Aflezen uit de figuur: in de eerste groep is het secundair inkomen per huishouden 16000 (euro) hoger dan het primair inkomen; in de tiende groep is dit 76000 (euro) lager\n• Het totale secundair inkomen in de eerste groep is 16000 · 784000 = 12544000000 (euro)\n• Het totale secundair inkomen in de tiende groep is 131705000000 − 76000 · 776000 = 72729000000 (euro)\n• Het gemiddelde secundair inkomen per persoon in de eerste groep is 12544000000/1138000 = 11022,… (euro)\n• Het gemiddelde secundair inkomen per persoon in de tiende groep is 72729000000/2535000 = 28689,… (euro)\n• Bij het secundair inkomen is S dus gelijk aan 28689,… − 11022,… = 17667,… (euro)\n• S is (bij het secundair inkomen) (51955 − 17667,… = 34287,…) meer dan 30000 (euro) lager (dan bij het primair inkomen)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Aflezen uit de figuur: in de eerste groep is het secundair inkomen per huishouden 16000 (euro) hoger dan het primair inkomen; in de tiende groep is dit 76000 (euro) lager"
+     },
+     {
+      "points": 1,
+      "description": "Het totale secundair inkomen in de eerste groep is 16000 · 784000 = 12544000000 (euro)"
+     },
+     {
+      "points": 1,
+      "description": "Het totale secundair inkomen in de tiende groep is 131705000000 − 76000 · 776000 = 72729000000 (euro)"
+     },
+     {
+      "points": 1,
+      "description": "Het gemiddelde secundair inkomen per persoon in de eerste groep is 12544000000/1138000 = 11022,… (euro)"
+     },
+     {
+      "points": 1,
+      "description": "Het gemiddelde secundair inkomen per persoon in de tiende groep is 72729000000/2535000 = 28689,… (euro)"
+     },
+     {
+      "points": 1,
+      "description": "Bij het secundair inkomen is S dus gelijk aan 28689,… − 11022,… = 17667,… (euro)"
+     },
+     {
+      "points": 1,
+      "description": "S is (bij het secundair inkomen) (51955 − 17667,… = 34287,…) meer dan 30000 (euro) lager (dan bij het primair inkomen)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-i-inkomensongelijkheid-antw21.png"
+    ]
+   }
+  ]
+ }
+}
