@@ -1,0 +1,57 @@
+{
+  "source": "VWO Wiskunde A 2026-I",
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Schaakprogramma's",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "De vergeetcurve",
+      "question_numbers": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Hitte-eiland",
+      "question_numbers": [
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Rubik’s Race",
+      "question_numbers": [
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Warmtepompen",
+      "question_numbers": [
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "title": "Inkomsten uit apps",
+      "question_numbers": [
+        20
+      ]
+    }
+  ]
+}

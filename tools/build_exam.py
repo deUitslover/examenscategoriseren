@@ -88,7 +88,7 @@ import fitz
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from auto_segment import plan_page, render_item, footerless_doc, item_text, title_bar_y  # noqa: E402
-from crop_frame import get_exam_window, display_width, stack, text_lines  # noqa: E402
+from crop_frame import get_exam_window, display_width, stack, text_lines, content_boxes  # noqa: E402
 from footer import footer_hashes  # noqa: E402
 from unicode_chem import fix_symbol_font  # noqa: E402
 
@@ -266,6 +266,12 @@ def main():
             below = [tuple(l[:4]) for l in text_lines(page)
                      if l[1] >= ysplit and l[3] <= m[3] + 0.5 and l[0] >= m[0] - 1]
             assert below, f"split {p}:{i}={ysplit}: no lines below"
+            # figures (vector drawings / images) below ysplit inside the old
+            # vraag rows belong to the new ctx item too, else they are wiped
+            # (VWO-WISA-26-II-O.pdf p.10: figuur 2 schetsen A/B/C under the
+            # context that vraag 21 swallowed, --split 9:3=359)
+            below += [tuple(b[:4]) for b in content_boxes(page)
+                      if b[1] >= ysplit and b[3] <= m[3] + 0.5 and tuple(b[:4]) not in below]
             keep = [l[:4] for l in text_lines(page)
                     if l[3] <= ysplit and l[1] >= m[1] - 0.5 and l[0] >= m[0] - 1]
             v["members"] = [(m[0], m[1], m[2], max(b[3] for b in keep))]
