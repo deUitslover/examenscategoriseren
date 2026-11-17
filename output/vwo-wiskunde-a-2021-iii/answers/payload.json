@@ -1,0 +1,555 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "source": "VWO Wiskunde A 2021-III",
+  "answers": [
+   {
+    "title": "Jongleren",
+    "question_number": 1,
+    "answer_text": "• De mogelijkheden met drie dezelfde voorwerpen: RRR, BBB en KKK\n• Twee mogelijkheden met twee verschillende voorwerpen: (bijvoorbeeld) RBB en BRR\n• De overige mogelijkheden met twee verschillende voorwerpen: RKK, KRR, BKK en KBB\n\nOpmerking\nAls een kandidaat ook verschillende volgordes heeft uitgeschreven (bijvoorbeeld RKK, KRK en KKR in plaats van alleen RKK), hiervoor 1 scorepunt in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De mogelijkheden met drie dezelfde voorwerpen: RRR, BBB en KKK"
+     },
+     {
+      "points": 1,
+      "description": "Twee mogelijkheden met twee verschillende voorwerpen: (bijvoorbeeld) RBB en BRR"
+     },
+     {
+      "points": 1,
+      "description": "De overige mogelijkheden met twee verschillende voorwerpen: RKK, KRR, BKK en KBB"
+     }
+    ],
+    "grading_note": "Als een kandidaat ook verschillende volgordes heeft uitgeschreven (bijvoorbeeld RKK, KRK en KKR in plaats van alleen RKK), hiervoor 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-jongleren-antw1.png"
+    ]
+   },
+   {
+    "title": "Jongleren",
+    "question_number": 2,
+    "answer_text": "• B = 3 geeft 2V + 2H = 3L + 3H\n• Dan moet (omdat 2H < 3H) 2V > 3L\n• Dus V > L (ofwel de vluchttijd is langer dan de leegtijd)\nof\n• B = 3 geeft 2(V + H) = 3(L + H)\n• Dan moet (omdat 2 < 3) V + H > L + H\n• Dus (omdat H = H) V > L (ofwel de vluchttijd is langer dan de leegtijd)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "B = 3 geeft 2V + 2H = 3L + 3H"
+     },
+     {
+      "points": 1,
+      "description": "Dan moet (omdat 2H < 3H) 2V > 3L"
+     },
+     {
+      "points": 1,
+      "description": "Dus V > L (ofwel de vluchttijd is langer dan de leegtijd)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-jongleren-antw2.png"
+    ]
+   },
+   {
+    "title": "Jongleren",
+    "question_number": 3,
+    "answer_text": "• (Uit 2 · (V + H) = B · (L + H) volgt) 2V + 2H = BL + BH\n• Dit geeft 2H − BH = BL − 2V\n• Dus H(2 − B) = BL − 2V\n• En hieruit volgt H = (BL − 2V)/(2 − B) (= (2V − BL)/(B − 2))",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Uit 2 · (V + H) = B · (L + H) volgt) 2V + 2H = BL + BH"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft 2H − BH = BL − 2V"
+     },
+     {
+      "points": 1,
+      "description": "Dus H(2 − B) = BL − 2V"
+     },
+     {
+      "points": 1,
+      "description": "En hieruit volgt H = (BL − 2V)/(2 − B) (= (2V − BL)/(B − 2))"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-jongleren-antw3.png"
+    ]
+   },
+   {
+    "title": "Jongleren",
+    "question_number": 4,
+    "answer_text": "• dH/dB = (−L · (B − 2) − (2V − BL) · 1)/(B − 2)²\n• Dit geeft dH/dB = (−BL + 2L − 2V + BL)/(B − 2)² (dus dH/dB = (2L − 2V)/(B − 2)²)\n\nOpmerkingen\n– Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.\n– Als bij het differentiëren de quotiëntregel niet is gebruikt, mogen voor het eerste antwoordelement geen scorepunten worden toegekend.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "dH/dB = (−L · (B − 2) − (2V − BL) · 1)/(B − 2)²"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft dH/dB = (−BL + 2L − 2V + BL)/(B − 2)² (dus dH/dB = (2L − 2V)/(B − 2)²)"
+     }
+    ],
+    "grading_note": "– Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.\n– Als bij het differentiëren de quotiëntregel niet is gebruikt, mogen voor het eerste antwoordelement geen scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-jongleren-antw4.png"
+    ]
+   },
+   {
+    "title": "Jongleren",
+    "question_number": 5,
+    "answer_text": "• L < V dus de teller is negatief\n• De noemer is (een kwadraat ongelijk aan 0 en dus) positief\n• De afgeleide is dus negatief, dus H daalt",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "L < V dus de teller is negatief"
+     },
+     {
+      "points": 1,
+      "description": "De noemer is (een kwadraat ongelijk aan 0 en dus) positief"
+     },
+     {
+      "points": 1,
+      "description": "De afgeleide is dus negatief, dus H daalt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-jongleren-antw5.png"
+    ]
+   },
+   {
+    "title": "Plastic",
+    "question_number": 6,
+    "answer_text": "• De groeifactor per jaar is 4^(1/25)\n• Dit geeft 1,0570...\n• Het antwoord: 5,7(%) (per jaar)\n\nOpmerking\nAls gerekend wordt met 4/25, voor deze vraag maximaal 1 scorepunt toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De groeifactor per jaar is 4^(1/25)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft 1,0570..."
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 5,7(%) (per jaar)"
+     }
+    ],
+    "grading_note": "Als gerekend wordt met 4/25, voor deze vraag maximaal 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-plastic-antw6.png"
+    ]
+   },
+   {
+    "title": "Plastic",
+    "question_number": 7,
+    "answer_text": "• In 2050 is het recyclepercentage 2 + 60 · 0,7 = 44 (of 11,8 + 46 · 0,7 = 44)(%)\n• De hoeveelheid vrijgekomen plastic afval in 2050 is 250 · 1,041³⁵ (= 1020,27...)\n• Het antwoord: (0,44 · 250 · 1,041³⁵ =) 449 (miljoen ton)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In 2050 is het recyclepercentage 2 + 60 · 0,7 = 44 (of 11,8 + 46 · 0,7 = 44)(%)"
+     },
+     {
+      "points": 1,
+      "description": "De hoeveelheid vrijgekomen plastic afval in 2050 is 250 · 1,041³⁵ (= 1020,27...)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (0,44 · 250 · 1,041³⁵ =) 449 (miljoen ton)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-plastic-antw7.png"
+    ]
+   },
+   {
+    "title": "Plastic",
+    "question_number": 8,
+    "answer_text": "• De som 250 + 250 · 1,041 + 250 · 1,041² + 250 · 1,041³\n• Het antwoord: (250 + 250 · 1,041 + ⋯ + 250 · 1,041³ = 1063,1..., dus) (1063,1... + 6050 =) 7113 (miljoen ton)\n\nOpmerkingen\n– Wanneer een kandidaat gebruikmaakt van de somformule voor een meetkundige rij, hiervoor geen scorepunten in mindering brengen.\n– Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.\n– Als bij de beantwoording van deze vraag dezelfde foutieve groeifactor is gebruikt als bij de beantwoording van vraag 7, hiervoor bij deze vraag geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De som 250 + 250 · 1,041 + 250 · 1,041² + 250 · 1,041³"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (250 + 250 · 1,041 + ⋯ + 250 · 1,041³ = 1063,1..., dus) (1063,1... + 6050 =) 7113 (miljoen ton)"
+     }
+    ],
+    "grading_note": "– Wanneer een kandidaat gebruikmaakt van de somformule voor een meetkundige rij, hiervoor geen scorepunten in mindering brengen.\n– Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.\n– Als bij de beantwoording van deze vraag dezelfde foutieve groeifactor is gebruikt als bij de beantwoording van vraag 7, hiervoor bij deze vraag geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-plastic-antw8.png"
+    ]
+   },
+   {
+    "title": "Plastic",
+    "question_number": 9,
+    "answer_text": "• Voor T geldt T = 6050 + 250 · (1 − 1,041ᵗ⁺¹)/(1 − 1,041)\n• Dit geeft T = 6050 − 6097,56... · (1 − 1,041ᵗ⁺¹)\n• Hieruit volgt T = 6050 − 6097,56... · (1 − 1,041 · 1,041ᵗ)\n• Dit geeft T = 6050 − 6097,56... + 6097,56... · 1,041 · 1,041ᵗ en dit geeft T = 6348 · 1,041ᵗ − 48",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor T geldt T = 6050 + 250 · (1 − 1,041ᵗ⁺¹)/(1 − 1,041)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft T = 6050 − 6097,56... · (1 − 1,041ᵗ⁺¹)"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt T = 6050 − 6097,56... · (1 − 1,041 · 1,041ᵗ)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft T = 6050 − 6097,56... + 6097,56... · 1,041 · 1,041ᵗ en dit geeft T = 6348 · 1,041ᵗ − 48"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-plastic-antw9.png"
+    ]
+   },
+   {
+    "title": "Plastic",
+    "question_number": 10,
+    "answer_text": "• De vergelijking 13825/(1 + 1,82 · e^(−0,071t)) = 0,5(6348 · 1,041ᵗ − 48) moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Het antwoord: (32,5..., dus) in het jaar 2048\nof\n• De vergelijking 13825/(1 + 1,82 · e^(−0,071t)) = 0,5(6348 · 1,041ᵗ − 48) moet worden opgelost\n• t = 32 geeft 11640,... respectievelijk 11458,... en t = 33 geeft 11768,... respectievelijk 11929,...\n• Het antwoord: (voor t = 33) in het jaar 2048\n\nOpmerkingen\n– Als de kandidaat rekent met nauwkeuriger waarden in de formule van T, hiervoor geen scorepunten in mindering brengen.\n– Voor het antwoord 2047 geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 13825/(1 + 1,82 · e^(−0,071t)) = 0,5(6348 · 1,041ᵗ − 48) moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (32,5..., dus) in het jaar 2048"
+     }
+    ],
+    "grading_note": "– Als de kandidaat rekent met nauwkeuriger waarden in de formule van T, hiervoor geen scorepunten in mindering brengen.\n– Voor het antwoord 2047 geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-plastic-antw10.png"
+    ]
+   },
+   {
+    "title": "Plastic",
+    "question_number": 11,
+    "answer_text": "• Het inzicht dat naar het verschil tussen twee opeenvolgende waarden van W (met gehele t) gekeken moet worden\n• (W(8) = 6805,9... en W(9) = 7051,2..., dus) W(9) − W(8) = 245,3...\n• (W(10) = 7296,3... dus) W(10) − W(9) = 245,0... (< 245,3...)\n• Het antwoord: in het jaar 2024\nof\n• Het inzicht dat naar het verschil tussen twee opeenvolgende waarden van W (met gehele t) gekeken moet worden\n• Er moet worden bepaald voor welke t W(t) − W(t − 1) maximaal is\n• Beschrijven hoe deze waarde van t bepaald kan worden\n• Het antwoord: dit geeft t = 8,9... dus in het jaar 2024\nof\n• Het inzicht dat moet worden bepaald voor welke t dW/dt maximaal is\n• De afgeleide van 1,82e^(−0,071t) is 1,82e^(−0,071t) · −0,071\n• dW/dt = (−13825 · 1,82e^(−0,071t) · −0,071)/(1 + 1,82e^(−0,071t))² (of een vergelijkbare vorm)\n• dW/dt is maximaal voor t = 8,43... dus in het jaar 2024\n\nOpmerkingen\n– Als de kandidaat gebruikmaakt van de numerieke afgeleide, hiervoor geen scorepunten in mindering brengen.\n– Voor het antwoord 2023 geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het inzicht dat naar het verschil tussen twee opeenvolgende waarden van W (met gehele t) gekeken moet worden"
+     },
+     {
+      "points": 1,
+      "description": "(W(8) = 6805,9... en W(9) = 7051,2..., dus) W(9) − W(8) = 245,3..."
+     },
+     {
+      "points": 1,
+      "description": "(W(10) = 7296,3... dus) W(10) − W(9) = 245,0... (< 245,3...)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: in het jaar 2024"
+     }
+    ],
+    "grading_note": "– Als de kandidaat gebruikmaakt van de numerieke afgeleide, hiervoor geen scorepunten in mindering brengen.\n– Voor het antwoord 2023 geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-plastic-antw11.png"
+    ]
+   },
+   {
+    "title": "Rendementen",
+    "question_number": 12,
+    "answer_text": "• De toenamen 37, 9 en −61\n• De berekening −90 + 37 + 9 − 61 (= −105)\n• De gevraagde daling is 105 (miljard euro)\n\nOpmerking\nBij het aflezen is telkens een marge van 2 (miljard euro) toegestaan.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De toenamen 37, 9 en −61"
+     },
+     {
+      "points": 1,
+      "description": "De berekening −90 + 37 + 9 − 61 (= −105)"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde daling is 105 (miljard euro)"
+     }
+    ],
+    "grading_note": "Bij het aflezen is telkens een marge van 2 (miljard euro) toegestaan.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-rendementen-antw12.png"
+    ]
+   },
+   {
+    "title": "Rendementen",
+    "question_number": 13,
+    "answer_text": "• De percentages −5,5; 4,5 en −16\n• De groeifactoren 0,945; 1,045 en 0,84\n• De berekening 0,945 · 1,045 · 0,84 (= 0,829...)\n• Het gevraagde percentage is 17(%)\n\nOpmerking\nBij het aflezen is telkens een marge van 0,5(%) toegestaan.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De percentages −5,5; 4,5 en −16"
+     },
+     {
+      "points": 1,
+      "description": "De groeifactoren 0,945; 1,045 en 0,84"
+     },
+     {
+      "points": 1,
+      "description": "De berekening 0,945 · 1,045 · 0,84 (= 0,829...)"
+     },
+     {
+      "points": 1,
+      "description": "Het gevraagde percentage is 17(%)"
+     }
+    ],
+    "grading_note": "Bij het aflezen is telkens een marge van 0,5(%) toegestaan.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-rendementen-antw13.png"
+    ]
+   },
+   {
+    "title": "Rendementen",
+    "question_number": 14,
+    "answer_text": "• 26/25 = 1,04, dus R = 4(%)\n• C = 100 · ln(1 + 0,01 · 4) (= 3,92...)(%)\n• Het gevraagde verschil is 0,1(%)\n\nOpmerking\nVoor het antwoord −0,1(%) geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "26/25 = 1,04, dus R = 4(%)"
+     },
+     {
+      "points": 1,
+      "description": "C = 100 · ln(1 + 0,01 · 4) (= 3,92...)(%)"
+     },
+     {
+      "points": 1,
+      "description": "Het gevraagde verschil is 0,1(%)"
+     }
+    ],
+    "grading_note": "Voor het antwoord −0,1(%) geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-rendementen-antw14.png"
+    ]
+   },
+   {
+    "title": "Rendementen",
+    "question_number": 15,
+    "answer_text": "• (Uit C = 100 · ln(1 + 0,01R) volgt) ln(1 + 0,01R) = C/100\n• Hieruit volgt 1 + 0,01R = e^(C/100)\n• Dit geeft 0,01R = e^(C/100) − 1 (of 100 + R = 100 · e^(C/100))\n• De gevraagde formule voor R is R = 100 · e^(0,01C) − 100",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Uit C = 100 · ln(1 + 0,01R) volgt) ln(1 + 0,01R) = C/100"
+     },
+     {
+      "points": 1,
+      "description": "Hieruit volgt 1 + 0,01R = e^(C/100)"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft 0,01R = e^(C/100) − 1 (of 100 + R = 100 · e^(C/100))"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde formule voor R is R = 100 · e^(0,01C) − 100"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-rendementen-antw15.png"
+    ]
+   },
+   {
+    "title": "Rendementen",
+    "question_number": 16,
+    "answer_text": "• De vergelijking R − 100 · ln(1 + 0,01R) = 1 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft R = −13,4... en R = 14,8...\n• Het antwoord: voor (−100 <) R ≤ −14 en R ≥ 15 (%)\n\nOpmerking\nAls een kandidaat alleen het antwoord R ≥ 15 (of alleen (−100 <) R ≤ −14) geeft, voor deze vraag maximaal 3 scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking R − 100 · ln(1 + 0,01R) = 1 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft R = −13,4... en R = 14,8..."
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: voor (−100 <) R ≤ −14 en R ≥ 15 (%)"
+     }
+    ],
+    "grading_note": "Als een kandidaat alleen het antwoord R ≥ 15 (of alleen (−100 <) R ≤ −14) geeft, voor deze vraag maximaal 3 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-rendementen-antw16.png"
+    ]
+   },
+   {
+    "title": "Rendementen",
+    "question_number": 17,
+    "answer_text": "• dC/dR = 100 · 1/(1 + 0,01R) · 0,01 (= 1/(1 + 0,01R))\n• De noemer van de afgeleide is (voor R > 0) altijd groter dan 1 (en de teller is gelijk aan 1)\n• Dus de afgeleide is (voor R > 0) altijd kleiner dan 1 (, dus de helling van de grafiek van C is voor R > 0 kleiner dan 1)\nof\n• dC/dR = 100 · 1/(1 + 0,01R) · 0,01 (= 1/(1 + 0,01R))\n• Een schets van dC/dR\n• De grafiek van de afgeleide ligt altijd onder de horizontale lijn op hoogte 1, dus de afgeleide is (voor R > 0) altijd kleiner dan 1 (, dus de helling van de grafiek van C is voor R > 0 kleiner dan 1)\n\nOpmerkingen\n– Als bij het differentiëren de kettingregel niet is gebruikt, mogen voor het eerste antwoordelement geen scorepunten worden toegekend.\n– Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "dC/dR = 100 · 1/(1 + 0,01R) · 0,01 (= 1/(1 + 0,01R))"
+     },
+     {
+      "points": 1,
+      "description": "De noemer van de afgeleide is (voor R > 0) altijd groter dan 1 (en de teller is gelijk aan 1)"
+     },
+     {
+      "points": 1,
+      "description": "Dus de afgeleide is (voor R > 0) altijd kleiner dan 1 (, dus de helling van de grafiek van C is voor R > 0 kleiner dan 1)"
+     }
+    ],
+    "grading_note": "– Als bij het differentiëren de kettingregel niet is gebruikt, mogen voor het eerste antwoordelement geen scorepunten worden toegekend.\n– Voor het eerste antwoordelement mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-rendementen-antw17.png"
+    ]
+   },
+   {
+    "title": "Temperatuursverwachting",
+    "question_number": 18,
+    "answer_text": "• De hele periode is 105 (mm)\n• De grafiek ligt er in totaal 7 + 39 + 6 + 4 + 10 (= 66)(mm) boven\n• (66/105 · 100 = 62,8... dus) het gevraagde percentage is 63(%)\n\nOpmerking\nBij het aflezen is per meting een marge van 1 mm toegestaan.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De hele periode is 105 (mm)"
+     },
+     {
+      "points": 1,
+      "description": "De grafiek ligt er in totaal 7 + 39 + 6 + 4 + 10 (= 66)(mm) boven"
+     },
+     {
+      "points": 1,
+      "description": "(66/105 · 100 = 62,8... dus) het gevraagde percentage is 63(%)"
+     }
+    ],
+    "grading_note": "Bij het aflezen is per meting een marge van 1 mm toegestaan.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-temperatuursverwachting-antw18.png"
+    ]
+   },
+   {
+    "title": "Temperatuursverwachting",
+    "question_number": 19,
+    "answer_text": "• De evenwichtsstand is (6 + 0,4)/2 = 3,2 en de amplitude is 6 − 3,2 = 2,8\n• De periode is één dag, dus b = 2π/1 = 2π (= 6,28...)\n• Als de minimumtemperatuur bereikt wordt om 03:00 uur, dan stijgt de grafiek (een kwart periode later) om 09:00 uur door de evenwichtsstand\n• Dat is bij t = 9/24 = 0,375, dus een formule is T_J = 3,2 + 2,8sin(2π(t − 0,375)) (of T_J = 3,2 + 2,8sin(6,28...(t − 0,375)))",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De evenwichtsstand is (6 + 0,4)/2 = 3,2 en de amplitude is 6 − 3,2 = 2,8"
+     },
+     {
+      "points": 1,
+      "description": "De periode is één dag, dus b = 2π/1 = 2π (= 6,28...)"
+     },
+     {
+      "points": 1,
+      "description": "Als de minimumtemperatuur bereikt wordt om 03:00 uur, dan stijgt de grafiek (een kwart periode later) om 09:00 uur door de evenwichtsstand"
+     },
+     {
+      "points": 1,
+      "description": "Dat is bij t = 9/24 = 0,375, dus een formule is T_J = 3,2 + 2,8sin(2π(t − 0,375)) (of T_J = 3,2 + 2,8sin(6,28...(t − 0,375)))"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-temperatuursverwachting-antw19.png"
+    ]
+   },
+   {
+    "title": "Temperatuursverwachting",
+    "question_number": 20,
+    "answer_text": "• Het inzicht dat de evenwichtsstand van de sinusoïde het gemiddelde van de twee lineair stijgende lijnen is\n• De lijnen (zijn even steil en) hebben een richtingscoëfficiënt van (9,2 − 5,3)/30 = 0,13\n• De gemiddelde temperatuur op t = 0 is (5,3 + 14,2)/2 = 9,75\nof\n• Het gemiddelde op 1 april is (5,3 + 14,2)/2 = 9,75 (en dit is het begingetal)\n• Het gemiddelde op 1 mei is (9,2 + 18,1)/2 = 13,65\n• De richtingscoëfficiënt is (13,65 − 9,75)/30 = 0,13",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het inzicht dat de evenwichtsstand van de sinusoïde het gemiddelde van de twee lineair stijgende lijnen is"
+     },
+     {
+      "points": 1,
+      "description": "De lijnen (zijn even steil en) hebben een richtingscoëfficiënt van (9,2 − 5,3)/30 = 0,13"
+     },
+     {
+      "points": 1,
+      "description": "De gemiddelde temperatuur op t = 0 is (5,3 + 14,2)/2 = 9,75"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-temperatuursverwachting-antw20.png"
+    ]
+   },
+   {
+    "title": "Temperatuursverwachting",
+    "question_number": 21,
+    "answer_text": "• Op 29 april om 21:00 uur is t = 28,875; op 30 april om 21:00 uur is t = 29,875\n• De theoretische dagtemperaturen op 29 en 30 april zijn 13,5 en 13,6 (°C)\n• De temperatuuranomalieën zijn −4,3 en −4,1\n• Het tekenen van de twee waarden in de grafiek op de uitwerkbijlage\n\nOpmerking\nBij het tekenen van de staafjes in de grafiek is een marge van 1 mm toegestaan.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Op 29 april om 21:00 uur is t = 28,875; op 30 april om 21:00 uur is t = 29,875"
+     },
+     {
+      "points": 1,
+      "description": "De theoretische dagtemperaturen op 29 en 30 april zijn 13,5 en 13,6 (°C)"
+     },
+     {
+      "points": 1,
+      "description": "De temperatuuranomalieën zijn −4,3 en −4,1"
+     },
+     {
+      "points": 1,
+      "description": "Het tekenen van de twee waarden in de grafiek op de uitwerkbijlage"
+     }
+    ],
+    "grading_note": "Bij het tekenen van de staafjes in de grafiek is een marge van 1 mm toegestaan.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-temperatuursverwachting-antw21.png"
+    ]
+   },
+   {
+    "title": "Slagfrequentie",
+    "question_number": 22,
+    "answer_text": "• 100 m met een snelheid van 2,9 km/uur is 0,1/2,9 (uur)\n• Dit is 0,1/2,9 · 3600 = 124,... seconden dus een tijd van 2:04\n• In de figuur aflezen dat bij een tijd van 2:04 maximaal een slagfrequentie van 55 hoort\n• In de tabel aflezen dat bij een tijd van 2:04 en een slagfrequentie van 54 25 slagen per 25 meter horen\n• Bij een afname van 1% per dag hoort een groeifactor van 0,99 (per dag)\n• Beschrijven hoe de vergelijking 33 · 0,99ᵗ = 25 kan worden opgelost\n• t = 27,6... dus 28 (dagen)\nof\n• 100 m met een snelheid van 2,9 km/uur is 0,1/2,9 (uur)\n• Dit is 0,1/2,9 · 3600 = 124,... seconden dus een tijd van 2:04\n• In de figuur aflezen dat bij een tijd van 2:04 maximaal een slagfrequentie van 55 hoort\n• Uit de tabel concluderen dat bij een tijd van 2:04 en een slagfrequentie van 55 naar schatting 25,5 slagen per 25 meter horen\n• Bij een afname van 1% per dag hoort een groeifactor van 0,99 (per dag)\n• Beschrijven hoe de vergelijking 33 · 0,99ᵗ = 25,5 kan worden opgelost\n• t = 25,6... dus 26 (dagen)\nof\n• 100 m met een snelheid van 2,9 km/uur is 0,1/2,9 (uur)\n• Dit is 0,1/2,9 · 3600 = 124,... seconden dus een tijd van 2:04\n• In de figuur aflezen dat bij een tijd van 2:04 maximaal een slagfrequentie van 55 hoort\n• In de tabel aflezen dat bij een tijd van 2:04 en 33 slagen per 25 m een slagfrequentie van 70 hoort\n• Bij een afname van 1% per dag hoort een groeifactor van 0,99 (per dag)\n• Beschrijven hoe de vergelijking 70 · 0,99ᵗ = 55 kan worden opgelost\n• t = 23,9..., dus 24 (dagen)\n\nOpmerkingen\n– Bij het aflezen in de figuur op de uitwerkbijlage is een marge van 1 mm toegestaan.\n– Voor een aanpak waarbij geen gebruik wordt gemaakt van de tabel op de uitwerkbijlage ten hoogste 5 scorepunten toekennen.\n– Zoals uit de verschillende antwoordalternatieven blijkt, kunnen – ten gevolge van de onvolledigheid van de tabel – verschillende aanpakken tot verschillende juiste antwoorden leiden.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "100 m met een snelheid van 2,9 km/uur is 0,1/2,9 (uur)"
+     },
+     {
+      "points": 1,
+      "description": "Dit is 0,1/2,9 · 3600 = 124,... seconden dus een tijd van 2:04"
+     },
+     {
+      "points": 1,
+      "description": "In de figuur aflezen dat bij een tijd van 2:04 maximaal een slagfrequentie van 55 hoort"
+     },
+     {
+      "points": 1,
+      "description": "In de tabel aflezen dat bij een tijd van 2:04 en een slagfrequentie van 54 25 slagen per 25 meter horen"
+     },
+     {
+      "points": 1,
+      "description": "Bij een afname van 1% per dag hoort een groeifactor van 0,99 (per dag)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 33 · 0,99ᵗ = 25 kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "t = 27,6... dus 28 (dagen)"
+     }
+    ],
+    "grading_note": "– Bij het aflezen in de figuur op de uitwerkbijlage is een marge van 1 mm toegestaan.\n– Voor een aanpak waarbij geen gebruik wordt gemaakt van de tabel op de uitwerkbijlage ten hoogste 5 scorepunten toekennen.\n– Zoals uit de verschillende antwoordalternatieven blijkt, kunnen – ten gevolge van de onvolledigheid van de tabel – verschillende aanpakken tot verschillende juiste antwoorden leiden.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2021-iii-slagfrequentie-antw22.png"
+    ]
+   }
+  ]
+ }
+}
