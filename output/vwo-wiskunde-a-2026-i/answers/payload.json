@@ -1,0 +1,517 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "source": "VWO Wiskunde A 2026-I",
+  "answers": [
+   {
+    "title": "Schaakprogramma's",
+    "question_number": 1,
+    "answer_text": "• De schatting voor het aantal mogelijke spelverlopen na 10 zetten is gelijk aan 30¹⁰\n• Het antwoord: (30¹⁰ / (6,93 · 10¹³) = 8,52..., dus) 8,5 (keer zo groot)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De schatting voor het aantal mogelijke spelverlopen na 10 zetten is gelijk aan 30¹⁰"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (30¹⁰ / (6,93 · 10¹³) = 8,52..., dus) 8,5 (keer zo groot)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-schaakprogrammas-antw1.png"
+    ]
+   },
+   {
+    "title": "Schaakprogramma's",
+    "question_number": 2,
+    "answer_text": "• Het aflezen van twee punten, bijvoorbeeld (1989, 2150) en (1995, 2390)\n• De jaarlijkse toename van de speelsterkte is dus (2390 − 2150)/6 = 40\n• Het inzicht dat de vergelijking 2390 + 40t = 2853 (met t = 0 op 1 januari 1995) moet worden opgelost\n• Dit geeft t = 11,57... dus in 2006\nof\n• Het aflezen van twee punten, bijvoorbeeld (1989, 2150) en (1995, 2390)\n• De jaarlijkse toename van de speelsterkte is dus (2390 − 2150)/6 = 40\n• Vanaf 1-1-1995 moet de speelsterkte nog met (2853 − 2390 =) 463 toenemen. Om dat te halen is 463/40 jaar nodig\n• 463/40 = 11,57... dus in 2006\n\nOpmerking\nBij het aflezen van de speelsterktes is een marge van 5 toegestaan.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het aflezen van twee punten, bijvoorbeeld (1989, 2150) en (1995, 2390)"
+     },
+     {
+      "points": 1,
+      "description": "De jaarlijkse toename van de speelsterkte is dus (2390 − 2150)/6 = 40"
+     },
+     {
+      "points": 1,
+      "description": "Het inzicht dat de vergelijking 2390 + 40t = 2853 (met t = 0 op 1 januari 1995) moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft t = 11,57... dus in 2006"
+     }
+    ],
+    "grading_note": "Bij het aflezen van de speelsterktes is een marge van 5 toegestaan.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-schaakprogrammas-antw2.png"
+    ]
+   },
+   {
+    "title": "Schaakprogramma's",
+    "question_number": 3,
+    "answer_text": "• De speelsterkte van Stockfish op 1 januari 2010 was (3097 + 39 =) 3136\n• De speelsterkte van Stockfish is dus (R_S =) 3136 + 39t (met R_S de speelsterkte en t de tijd in jaren met t = 0 op 1 januari 2010)\n• Beschrijven hoe de vergelijking 3136 + 39t = 92,1·log(t + 1) + 3190 kan worden opgelost\n• Dit geeft t = 2,73..., dus na 33 maanden (of 2 jaar en 9 maanden)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De speelsterkte van Stockfish op 1 januari 2010 was (3097 + 39 =) 3136"
+     },
+     {
+      "points": 1,
+      "description": "De speelsterkte van Stockfish is dus (R_S =) 3136 + 39t (met R_S de speelsterkte en t de tijd in jaren met t = 0 op 1 januari 2010)"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 3136 + 39t = 92,1·log(t + 1) + 3190 kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft t = 2,73..., dus na 33 maanden (of 2 jaar en 9 maanden)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-schaakprogrammas-antw3.png"
+    ]
+   },
+   {
+    "title": "Schaakprogramma's",
+    "question_number": 4,
+    "answer_text": "• De verwachte speelsterkte van Houdini in 2016 volgens de formule R_H is 3268\n• De werkelijke speelsterkte in 2016 is dus 3268 + 121 = 3389. Daaruit volgt dat c = 3389\n• Invullen van de waarden t = 3 en R = 3433 geeft de vergelijking a · log(4) + 3389 = 3433\n• Oplossen van deze vergelijking geeft a = 73,1\n\nOpmerking\nAls een kandidaat rekent met een niet afgeronde waarde voor de speelsterkte met als antwoord (c = 3389 en) a = 73,4 hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De verwachte speelsterkte van Houdini in 2016 volgens de formule R_H is 3268"
+     },
+     {
+      "points": 1,
+      "description": "De werkelijke speelsterkte in 2016 is dus 3268 + 121 = 3389. Daaruit volgt dat c = 3389"
+     },
+     {
+      "points": 1,
+      "description": "Invullen van de waarden t = 3 en R = 3433 geeft de vergelijking a · log(4) + 3389 = 3433"
+     },
+     {
+      "points": 1,
+      "description": "Oplossen van deze vergelijking geeft a = 73,1"
+     }
+    ],
+    "grading_note": "Als een kandidaat rekent met een niet afgeronde waarde voor de speelsterkte met als antwoord (c = 3389 en) a = 73,4 hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-schaakprogrammas-antw4.png"
+    ]
+   },
+   {
+    "title": "De vergeetcurve",
+    "question_number": 5,
+    "answer_text": "Een aanpak als:\n• In de eerste 20 minuten is de groeifactor 0,58, dus de groeifactor per uur zou dan gelijk moeten zijn aan 0,58³\n• 0,58³ = 0,195... en dit komt niet overeen met (factor) 0,44 (die uit de 44% in figuur 1 volgt, dus (volgens de gegevens) kan er geen sprake zijn van exponentiële afname)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In de eerste 20 minuten is de groeifactor 0,58, dus de groeifactor per uur zou dan gelijk moeten zijn aan 0,58³"
+     },
+     {
+      "points": 1,
+      "description": "0,58³ = 0,195... en dit komt niet overeen met (factor) 0,44 (die uit de 44% in figuur 1 volgt, dus (volgens de gegevens) kan er geen sprake zijn van exponentiële afname)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-de-vergeetcurve-antw5.png"
+    ]
+   },
+   {
+    "title": "De vergeetcurve",
+    "question_number": 6,
+    "answer_text": "• De vergelijking 31,7 / t⁰˒¹²⁷ = 50 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft t = 0,0276...\n• Het antwoord: (0,0276... · 24 · 60 = 39,8..., dus na) 40 (minuten)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 31,7 / t⁰˒¹²⁷ = 50 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft t = 0,0276..."
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (0,0276... · 24 · 60 = 39,8..., dus na) 40 (minuten)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-de-vergeetcurve-antw6.png"
+    ]
+   },
+   {
+    "title": "De vergeetcurve",
+    "question_number": 7,
+    "answer_text": "• De formule voor P is te schrijven als P = 31,7t⁻⁰˒¹²⁷\n• P′(t) = −0,127 · 31,7t⁻¹˒¹²⁷ (= −4,0259t⁻¹˒¹²⁷)\n• P′(1/24) = −144,6... (per dag) en P′(7) = −0,4491... (per dag)\n• Het antwoord: (−144,6... / −0,4491... = 322,..., dus) 322 (keer zo groot)\nof\n• P′(t) = (0 · t⁰˒¹²⁷ − 31,7 · 0,127 · t⁻⁰˒⁸⁷³) / (t⁰˒¹²⁷)²\n• P′(1/24) = −144,6... (per dag) en P′(7) = −0,4491... (per dag)\n• Het antwoord: (−144,6... / −0,4491... = 322,..., dus) 322 (keer zo groot)\n\nOpmerkingen\n– Voor het eerste antwoordelement van het tweede antwoordalternatief mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.\n– Als in het eerste antwoordelement van het tweede antwoordalternatief de quotiëntregel niet is gebruikt, hiervoor 0 scorepunten toekennen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De formule voor P is te schrijven als P = 31,7t⁻⁰˒¹²⁷"
+     },
+     {
+      "points": 1,
+      "description": "P′(t) = −0,127 · 31,7t⁻¹˒¹²⁷ (= −4,0259t⁻¹˒¹²⁷)"
+     },
+     {
+      "points": 1,
+      "description": "P′(1/24) = −144,6... (per dag) en P′(7) = −0,4491... (per dag)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (−144,6... / −0,4491... = 322,..., dus) 322 (keer zo groot)"
+     }
+    ],
+    "grading_note": "– Voor het eerste antwoordelement van het tweede antwoordalternatief mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.\n– Als in het eerste antwoordelement van het tweede antwoordalternatief de quotiëntregel niet is gebruikt, hiervoor 0 scorepunten toekennen",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-de-vergeetcurve-antw7.png"
+    ]
+   },
+   {
+    "title": "Hitte-eiland",
+    "question_number": 8,
+    "answer_text": "• Beschrijven hoe de vergelijking 2,01 · log(P) − 4,06 = 13 kan worden opgelost\n• Dit geeft (P = 307299737,... dus) 307299737 (of 307 miljoen) (inwoners)\n• Dit is veel meer dan het aantal inwoners van Nederland (, dus zeker veel meer dan het aantal inwoners van een stad in Nederland, dus zo'n groot temperatuurverschil is in Nederland niet reëel)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 2,01 · log(P) − 4,06 = 13 kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft (P = 307299737,... dus) 307299737 (of 307 miljoen) (inwoners)"
+     },
+     {
+      "points": 1,
+      "description": "Dit is veel meer dan het aantal inwoners van Nederland (, dus zeker veel meer dan het aantal inwoners van een stad in Nederland, dus zo'n groot temperatuurverschil is in Nederland niet reëel)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-hitte-eiland-antw8.png"
+    ]
+   },
+   {
+    "title": "Hitte-eiland",
+    "question_number": 9,
+    "answer_text": "• (De grafiek van C is dalend (voor N = 0 tot en met N = 8), dus) als de mate van bewolking toeneemt, neemt C af\n• W is constant en V_max is constant, dus neemt V ook af als C afneemt\n• Als V afneemt, wordt het verschil met de temperatuur in de nabije omgeving kleiner en (de temperatuur in de nabije omgeving blijft ook constant,) dus daalt de temperatuur in de stad",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(De grafiek van C is dalend (voor N = 0 tot en met N = 8), dus) als de mate van bewolking toeneemt, neemt C af"
+     },
+     {
+      "points": 1,
+      "description": "W is constant en V_max is constant, dus neemt V ook af als C afneemt"
+     },
+     {
+      "points": 1,
+      "description": "Als V afneemt, wordt het verschil met de temperatuur in de nabije omgeving kleiner en (de temperatuur in de nabije omgeving blijft ook constant,) dus daalt de temperatuur in de stad"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-hitte-eiland-antw9.png"
+    ]
+   },
+   {
+    "title": "Hitte-eiland",
+    "question_number": 10,
+    "answer_text": "• De windlimiet voor Berlijn is 10,26... en voor Hamburg is de windlimiet 9,22...\n• Het gevraagde percentage is (10,26... − 9,22...) / 9,22... · 100 (%)\n• Het antwoord: 11,3(%) Celsius)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De windlimiet voor Berlijn is 10,26... en voor Hamburg is de windlimiet 9,22..."
+     },
+     {
+      "points": 1,
+      "description": "Het gevraagde percentage is (10,26... − 9,22...) / 9,22... · 100 (%)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 11,3(%) Celsius)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-hitte-eiland-antw10.png"
+    ]
+   },
+   {
+    "title": "Hitte-eiland",
+    "question_number": 11,
+    "answer_text": "• V_max = (2,01 · log(230000) − 4,06 =) 71... en L = ((0,567 · log(230000) − 0,513)² =) 6,38...\n• W = (0,5 + 0,5 · sin(π(1/6,38... · 3 + 0,5)) =) 0,547...\n• C = (0,65 + 0,35 sin(⅛π(3 + 4)) =) 0,783...\n• V = (6,71... · 0,783... · 0,547... =) 2,88...\n• Het antwoord: (36,4 + 2,88... = 39,28... dus maximaal) 39,3 (graden Celsius)\n\nOpmerking\nAls een kandidaat het eindantwoord naar beneden afrondt naar 39,2 (graden Celsius) hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "V_max = (2,01 · log(230000) − 4,06 =) 71... en L = ((0,567 · log(230000) − 0,513)² =) 6,38..."
+     },
+     {
+      "points": 1,
+      "description": "W = (0,5 + 0,5 · sin(π(1/6,38... · 3 + 0,5)) =) 0,547..."
+     },
+     {
+      "points": 1,
+      "description": "C = (0,65 + 0,35 sin(⅛π(3 + 4)) =) 0,783..."
+     },
+     {
+      "points": 1,
+      "description": "V = (6,71... · 0,783... · 0,547... =) 2,88..."
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (36,4 + 2,88... = 39,28... dus maximaal) 39,3 (graden Celsius)"
+     }
+    ],
+    "grading_note": "Als een kandidaat het eindantwoord naar beneden afrondt naar 39,2 (graden Celsius) hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-hitte-eiland-antw11.png"
+    ]
+   },
+   {
+    "title": "Rubik’s Race",
+    "question_number": 12,
+    "answer_text": "• (p · (2 − 1)² + q = 8 en p · (3 − 1)² + q = 26, dus) er moet gelden p + q = 8 en 4p + q = 26\n• Door middel van gericht proberen: 6 + 2 = 8 en 4 · 6 + 2 = 26\n• Het antwoord: p = 6 en q = 2\nof\n• (p · (2 − 1)² + q = 8 en p · (3 − 1)² + q = 26, dus) er moet gelden q = 8 − p en q = 26 − 4p\n• De vergelijking 8 − p = 26 − 4p moet worden opgelost\n• Oplossen van deze vergelijking geeft p = 6 en dus q = 2",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(p · (2 − 1)² + q = 8 en p · (3 − 1)² + q = 26, dus) er moet gelden p + q = 8 en 4p + q = 26"
+     },
+     {
+      "points": 1,
+      "description": "Door middel van gericht proberen: 6 + 2 = 8 en 4 · 6 + 2 = 26"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: p = 6 en q = 2"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-rubiks-race-antw12.png"
+    ]
+   },
+   {
+    "title": "Rubik’s Race",
+    "question_number": 13,
+    "answer_text": "• Beschrijven hoe de elementen van de rij A(n) = 6n² − 12n + 8 berekend kunnen worden\n• A(7) = 218 en A(8) = 296\n• Het antwoord: (vanaf) n = 8\nof\n• Beschrijven hoe de vergelijking 6n² − 12n + 8 = 250 kan worden opgelost\n• Dit geeft n = 7,4...\n• Het antwoord: (vanaf) n = 8\n\nOpmerkingen\nAls een kandidaat formule 1 en de in het vorige onderdeel bepaalde waarden van p en q gebruikt, hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de elementen van de rij A(n) = 6n² − 12n + 8 berekend kunnen worden"
+     },
+     {
+      "points": 1,
+      "description": "A(7) = 218 en A(8) = 296"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (vanaf) n = 8"
+     }
+    ],
+    "grading_note": "Als een kandidaat formule 1 en de in het vorige onderdeel bepaalde waarden van p en q gebruikt, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-rubiks-race-antw13.png"
+    ]
+   },
+   {
+    "title": "Rubik’s Race",
+    "question_number": 14,
+    "answer_text": "• De eerste kleur kan op (25 boven 4) manieren op het speelveld worden geplaatst\n• De overige vijf kleuren kunnen vervolgens op (21 boven 4), (17 boven 4), (13 boven 4), (9 boven 4) en (5 boven 4) manieren op het speelveld worden geplaatst (en voor het lege vakje blijft dan één plaats over)\n• Berekend moet worden: (25 boven 4) · (21 boven 4) · (17 boven 4) · (13 boven 4) · (9 boven 4) · (5 boven 4) (· 1)\n• Het antwoord: 8,12 · 10¹⁶ (kleurenpatronen)\nof\n• Er zijn 25 mogelijkheden voor het lege vakje en de eerste kleur kan vervolgens op (24 boven 4) manieren op het speelveld worden geplaatst\n• De overige vijf kleuren kunnen vervolgens op (20 boven 4), (16 boven 4), (12 boven 4), (8 boven 4) (en (4 boven 4)) manieren op het speelveld worden geplaatst\n• Berekend moet worden: 25 · (24 boven 4) · (20 boven 4) · (16 boven 4) · (12 boven 4) · (8 boven 4) · (4 boven 4))\n• Het antwoord: 8,12 · 10¹⁶ (kleurenpatronen)\nof\n• Ervan uitgaande dat elke steen uniek is, kan het kiezen van een leeg vakje en het plaatsen van de 24 stenen op de overige 24 vakjes op het speelveld op 25! (= 1,551... · 10²⁵) manieren\n• Er zijn zes verschillende kleuren en vier stenen van elke kleur. Hierdoor leveren per kleur 4! (= 24) manieren hetzelfde resultaat\n• Berekend moet worden: 25! / (4! · 4! · 4! · 4! · 4! · 4!)\n• ⚠️ CONTROLEREN: in het correctievoorschrift is het vierde antwoordelement van het derde alternatief een letterlijke herhaling van het eerste (\"Ervan uitgaande dat elke steen uniek is, kan het kiezen van een leeg vakje en het plaatsen van de 24 stenen op de overige 24 vakjes op het speelveld op 25! (= 1,551... · 10²⁵) manieren\"); vermoedelijk is \"Het antwoord: 8,12 · 10¹⁶ (kleurenpatronen)\" bedoeld",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De eerste kleur kan op (25 boven 4) manieren op het speelveld worden geplaatst"
+     },
+     {
+      "points": 1,
+      "description": "De overige vijf kleuren kunnen vervolgens op (21 boven 4), (17 boven 4), (13 boven 4), (9 boven 4) en (5 boven 4) manieren op het speelveld worden geplaatst (en voor het lege vakje blijft dan één plaats over)"
+     },
+     {
+      "points": 1,
+      "description": "Berekend moet worden: (25 boven 4) · (21 boven 4) · (17 boven 4) · (13 boven 4) · (9 boven 4) · (5 boven 4) (· 1)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 8,12 · 10¹⁶ (kleurenpatronen)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-rubiks-race-antw14.png"
+    ]
+   },
+   {
+    "title": "Rubik’s Race",
+    "question_number": 15,
+    "answer_text": "• Het inzicht dat het aantal mogelijkheden dat niet door een speler gemaakt kan worden wordt gevormd door het aantal mogelijkheden voor zes of meer tegels van dezelfde kleur plus het aantal mogelijkheden met vijf tegels van dezelfde kleur\n• Voor vijf tegels van één kleur zijn er 6 · (9 boven 5) (= 756) mogelijkheden\n• Voor de overige vier tegels in een andere kleur zijn er dan 5⁴ (= 625) mogelijkheden\n• Het aantal mogelijkheden dat door een speler gemaakt kan worden is 6⁹ − 756 · 625 − 68676 (= 9536520)\n• Het antwoord: (9536520 / 6⁹ · 100 = 94,62..., dus) 94,6(%)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het inzicht dat het aantal mogelijkheden dat niet door een speler gemaakt kan worden wordt gevormd door het aantal mogelijkheden voor zes of meer tegels van dezelfde kleur plus het aantal mogelijkheden met vijf tegels van dezelfde kleur"
+     },
+     {
+      "points": 1,
+      "description": "Voor vijf tegels van één kleur zijn er 6 · (9 boven 5) (= 756) mogelijkheden"
+     },
+     {
+      "points": 1,
+      "description": "Voor de overige vier tegels in een andere kleur zijn er dan 5⁴ (= 625) mogelijkheden"
+     },
+     {
+      "points": 1,
+      "description": "Het aantal mogelijkheden dat door een speler gemaakt kan worden is 6⁹ − 756 · 625 − 68676 (= 9536520)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (9536520 / 6⁹ · 100 = 94,62..., dus) 94,6(%)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-rubiks-race-antw15.png"
+    ]
+   },
+   {
+    "title": "Warmtepompen",
+    "question_number": 16,
+    "answer_text": "• De (groei)factor (per 25 jaar is) 412000/1700 (= 242,...)\n• De (groei)factor per jaar is (412000/1700)⁽¹ᐟ²⁵⁾\n• ((412000/1700)⁽¹ᐟ²⁵⁾ = 1,2455..., dus) 24,6 (%)\n\nOpmerkingen\n– Als gerekend wordt met (412000 − 1700)⁽¹ᐟ²⁵⁾, voor deze vraag maximaal 1 scorepunt toekennen.\n– Als gerekend wordt met 242,.../25, voor deze vraag maximaal 1 scorepunt toekennen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De (groei)factor (per 25 jaar is) 412000/1700 (= 242,...)"
+     },
+     {
+      "points": 1,
+      "description": "De (groei)factor per jaar is (412000/1700)⁽¹ᐟ²⁵⁾"
+     },
+     {
+      "points": 1,
+      "description": "((412000/1700)⁽¹ᐟ²⁵⁾ = 1,2455..., dus) 24,6 (%)"
+     }
+    ],
+    "grading_note": "– Als gerekend wordt met (412000 − 1700)⁽¹ᐟ²⁵⁾, voor deze vraag maximaal 1 scorepunt toekennen.\n– Als gerekend wordt met 242,.../25, voor deze vraag maximaal 1 scorepunt toekennen",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-warmtepompen-antw16.png"
+    ]
+   },
+   {
+    "title": "Warmtepompen",
+    "question_number": 17,
+    "answer_text": "• W(28) = 804827,...; W(29) = 1002877,... en W(30) = 1249661,...\n• W(29) − W(28) = 198049,... (< 200000)\n• W(30) − W(29) = 246784,... (> 200000)\n• Het antwoord: in 2024\nof\n• Er moet gelden: W(t) − W(t − 1) > 200000\n• De vergelijking 1700 · e⁰˒²²ᵗ − 1700 · e⁽⁰˒²²⁽ᵗ⁻¹⁾⁾ = 200000 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• Dit geeft t = 29,04..., dus in 2024\n\nOpmerking\nIn het eerste antwoordalternatief moeten het tweede en derde antwoordelement expliciet genoemd zijn.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "W(28) = 804827,...; W(29) = 1002877,... en W(30) = 1249661,..."
+     },
+     {
+      "points": 1,
+      "description": "W(29) − W(28) = 198049,... (< 200000)"
+     },
+     {
+      "points": 1,
+      "description": "W(30) − W(29) = 246784,... (> 200000)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: in 2024"
+     }
+    ],
+    "grading_note": "In het eerste antwoordalternatief moeten het tweede en derde antwoordelement expliciet genoemd zijn.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-warmtepompen-antw17.png"
+    ]
+   },
+   {
+    "title": "Warmtepompen",
+    "question_number": 18,
+    "answer_text": "• De vergelijking 53 − 10 · log(πr²) = 40 moet worden opgelost\n• Beschrijven hoe de vergelijking 53 − 10 · log(πr²) = 40 kan worden opgelost\n• (Dit geeft r = 2,52..., dus minimaal) 26 (dm)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 53 − 10 · log(πr²) = 40 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 53 − 10 · log(πr²) = 40 kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "(Dit geeft r = 2,52..., dus minimaal) 26 (dm)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-warmtepompen-antw18.png"
+    ]
+   },
+   {
+    "title": "Warmtepompen",
+    "question_number": 19,
+    "answer_text": "• dL/dr = −10 · 1/(πr² · ln(10)) · 2πr (= −20/(r · ln(10)))\n• De vergelijking −10 · 1/(πr² · ln(10)) · 2πr = −1 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• (Dit geeft r = 8,68..., dus) 8,7 (m)\nof\n• (log(πr²) = log(π) + log(r²) = log(π) + 2log(r), dus) L = L_max − 10 · log(π) − 20 · log(r)\n• dL/dr = −20 · 1/(r · ln(10)) (= −20/(r · ln(10)))\n• De vergelijking −20 · 1/(r · ln(10)) = −1 moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• (Dit geeft r = 8,68..., dus) 8,7 (m)\n\nOpmerkingen\n– Voor het eerste antwoordelement van het eerste antwoordalternatief mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.\n– Als in het eerste antwoordelement van het eerste antwoordalternatief de kettingregel niet is gebruikt, hiervoor 0 scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "dL/dr = −10 · 1/(πr² · ln(10)) · 2πr (= −20/(r · ln(10)))"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking −10 · 1/(πr² · ln(10)) · 2πr = −1 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "(Dit geeft r = 8,68..., dus) 8,7 (m)"
+     }
+    ],
+    "grading_note": "– Voor het eerste antwoordelement van het eerste antwoordalternatief mag voor een niet volledig juist antwoord 1 scorepunt worden toegekend.\n– Als in het eerste antwoordelement van het eerste antwoordalternatief de kettingregel niet is gebruikt, hiervoor 0 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-warmtepompen-antw19.png"
+    ]
+   },
+   {
+    "title": "Inkomsten uit apps",
+    "question_number": 20,
+    "answer_text": "• De totale inkomsten nemen jaarlijks ((85 − 56,4)/3 =) 9,53... (miljard dollar) toe\n• In 2017 was het percentage van de inkomsten uit overige apps (10,3/56,4 · 100 =) 18,26... en in 2020 (20/85 · 100 =) 23,52...\n• Het percentage van de inkomsten uit overige apps neemt jaarlijks ((23,52... − 18,26...)/3 =) 1,75... toe\n• De berekeningen van de getallen uit onderstaande tabel:\n  jaar | totale inkomsten (miljard dollar) | percentage uit overige apps | inkomsten uit overige apps (miljard dollar)\n  ... | | |\n  2028 | 161,26... | 37,57... | 60,5... (< 65)\n  2029 | 170,8 | 39,33... | 67,1... (> 65)\n• Het antwoord: (dus vanaf het jaar) 2029\nof\n• De totale inkomsten nemen jaarlijks ((85 − 56,4)/3 =) 9,53... (miljard dollar) toe\n• In 2017 was het percentage van de inkomsten uit overige apps (10,3/56,4 · 100 =) 18,26... en in 2020 (20/85 · 100 =) 23,52...\n• Het percentage van de inkomsten uit overige apps neemt jaarlijks ((23,52... − 18,26...)/3 =) 1,75... toe\n• De totale inkomsten zijn gelijk aan 56,4 + 9,53... · t (miljard dollar) en het percentage van de inkomsten uit overige apps is gelijk aan 18,26... + 1,75... · t (, met t = 0 het jaar 2017)\n• De inkomsten uit overige apps zijn dan gelijk aan (18,26... + 1,75... · t)/100 · (56,4 + 9,53... · t) (miljard dollar)\n• Beschrijven hoe de vergelijking (18,26... + 1,75... · t)/100 · (56,4 + 9,53... · t) = 65 kan worden opgelost\n• Het antwoord: (t = 11,6..., dus vanaf het jaar) 2029\n\nOpmerking\n– In het eerste antwoordalternatief voor het vierde antwoordelement voor elk van de kolommen 2, 3 of 4 in de tabel 0 of 1 scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De totale inkomsten nemen jaarlijks ((85 − 56,4)/3 =) 9,53... (miljard dollar) toe"
+     },
+     {
+      "points": 1,
+      "description": "In 2017 was het percentage van de inkomsten uit overige apps (10,3/56,4 · 100 =) 18,26... en in 2020 (20/85 · 100 =) 23,52..."
+     },
+     {
+      "points": 1,
+      "description": "Het percentage van de inkomsten uit overige apps neemt jaarlijks ((23,52... − 18,26...)/3 =) 1,75... toe"
+     },
+     {
+      "points": 3,
+      "description": "De berekeningen van de getallen uit onderstaande tabel:\n  jaar | totale inkomsten (miljard dollar) | percentage uit overige apps | inkomsten uit overige apps (miljard dollar)\n  ... | | |\n  2028 | 161,26... | 37,57... | 60,5... (< 65)\n  2029 | 170,8 | 39,33... | 67,1... (> 65)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (dus vanaf het jaar) 2029"
+     }
+    ],
+    "grading_note": "– In het eerste antwoordalternatief voor het vierde antwoordelement voor elk van de kolommen 2, 3 of 4 in de tabel 0 of 1 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-i-inkomsten-uit-apps-antw20.png"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,566 @@
+{
+ "payload": {
+  "subject_name": "Wiskunde A",
+  "level": "VWO",
+  "source": "VWO Wiskunde A 2026-II",
+  "answers": [
+   {
+    "title": "Te veel stukjes",
+    "question_number": 1,
+    "answer_text": "• De roosterverhoudingen zijn: 200/1 (= 200), (100/2 (= 50)), 50/4 (= 12,5), 40/5 (= 8), 25/8 (= 3,125), 20/10 (= 2)\n\nOpmerkingen\n– Voor iedere vergeten of onjuiste verhouding 1 scorepunt in mindering brengen,\n– Als gerekend wordt met r/k in plaats van met k/r en met de correcte gegevens dan hiervoor 1 scorepunt in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De roosterverhoudingen zijn: 200/1 (= 200), (100/2 (= 50)), 50/4 (= 12,5), 40/5 (= 8), 25/8 (= 3,125), 20/10 (= 2)"
+     }
+    ],
+    "grading_note": "– Voor iedere vergeten of onjuiste verhouding 1 scorepunt in mindering brengen,\n– Als gerekend wordt met r/k in plaats van met k/r en met de correcte gegevens dan hiervoor 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-te-veel-stukjes-antw1.png"
+    ]
+   },
+   {
+    "title": "Te veel stukjes",
+    "question_number": 2,
+    "answer_text": "• Het berekenen van de roosterverhouding van de puzzel 49/36 (= 1,36...)\n• Het inzicht dat de verhouding van k en r ongeveer gelijk moet zijn aan 1,36... · 1,04 = 1,41...\n• 17/12 = 1,41... dus r = 12 en k = 17 (17 × 12)\nof\n• Proberen van 17 × 12. De verhouding 49/17 = 2,88... (dit is de breedte van het stukje.) (met b de breedte van een puzzelstukje)\n• De hoogte is dan 2,88... · 1,04 = 2,99...\n• 36/2,99... = 12,0... dus de afmeting 17 × 12 klopt",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het berekenen van de roosterverhouding van de puzzel 49/36 (= 1,36...)"
+     },
+     {
+      "points": 1,
+      "description": "Het inzicht dat de verhouding van k en r ongeveer gelijk moet zijn aan 1,36... · 1,04 = 1,41..."
+     },
+     {
+      "points": 1,
+      "description": "17/12 = 1,41... dus r = 12 en k = 17 (17 × 12)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-te-veel-stukjes-antw2.png"
+    ]
+   },
+   {
+    "title": "Te veel stukjes",
+    "question_number": 3,
+    "answer_text": "• (Voor een perfecte puzzel geldt) n = 0\n• (Voor een vierkant stukje geldt) s = 1, dus B = (1 · 1,005⁰ =) 1",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Voor een perfecte puzzel geldt) n = 0"
+     },
+     {
+      "points": 1,
+      "description": "(Voor een vierkant stukje geldt) s = 1, dus B = (1 · 1,005⁰ =) 1"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-te-veel-stukjes-antw3.png"
+    ]
+   },
+   {
+    "title": "Te veel stukjes",
+    "question_number": 4,
+    "answer_text": "• De vergelijking 1,3052 = 1,002 · 1,005ⁿ moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• De oplossing: n = 53,0...\n• Het antwoord: (27 · 39 − 53 =) 1000 (stukjes)\nof\n• 39 · 27 = 1053\n• De aanname dat er op de doos 1000 stukjes staat\n• n = (1053 − 1000 =) 53\n• B = 1,002 · 1,005⁵³ = 1,30517... (en dit komt overeen met de gegeven badness rating) op de doos staat 1000 (stukjes)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vergelijking 1,3052 = 1,002 · 1,005ⁿ moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe deze vergelijking kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing: n = 53,0..."
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (27 · 39 − 53 =) 1000 (stukjes)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-te-veel-stukjes-antw4.png"
+    ]
+   },
+   {
+    "title": "Te veel stukjes",
+    "question_number": 5,
+    "answer_text": "Op pagina 7, bij vraag 5 moeten altijd 4 scorepunten worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.\n\nToelichting:\nDe vraag is niet eenduidig te beantwoorden.\n• Het berekenen van de lengte en breedte van een puzzelstukje: 80/45 (= 1,77...) en 60/34 (= 1,76...)\n• s = 1,77.../1,76... = 1,007...\n• B = 1,007... · 1,005⁴⁵·³⁴⁻¹⁵⁰⁰ (= 1,1700...)\n• Het antwoord: (1,1700... is groter dan 1,1127, dus) het is niet de laagst mogelijke badness rating\nof\n• De vergelijking 1,1127 = s · 1,005⁴⁵·³⁴⁻¹⁵⁰⁰ moet worden opgelost\n• Beschrijven hoe deze vergelijking kan worden opgelost\n• s = 0,958...\n• s is in deze situatie kleiner dan 1 en dat kan niet, dus het is niet de laagst mogelijke badness rating",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het berekenen van de lengte en breedte van een puzzelstukje: 80/45 (= 1,77...) en 60/34 (= 1,76...)"
+     },
+     {
+      "points": 1,
+      "description": "s = 1,77.../1,76... = 1,007..."
+     },
+     {
+      "points": 1,
+      "description": "B = 1,007... · 1,005⁴⁵·³⁴⁻¹⁵⁰⁰ (= 1,1700...)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (1,1700... is groter dan 1,1127, dus) het is niet de laagst mogelijke badness rating"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-te-veel-stukjes-antw5.png"
+    ]
+   },
+   {
+    "title": "Het lengen en korten van de dagen",
+    "question_number": 6,
+    "answer_text": "• Het inzicht dat ΔL(0) + ΔL(1) + ΔL(2) berekend moeten worden\n• Dit geeft (0,884... + 0,963... + 1,043... =) 2,89... (minuten)\n• Het antwoord: 174 (seconden) (of 2 minuten en 54 seconden)\n\nOpmerking\nAls een kandidaat in de uitwerking geen optelling gebruikt, voor deze vraag maximaal 1 scorepunt toekennen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het inzicht dat ΔL(0) + ΔL(1) + ΔL(2) berekend moeten worden"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft (0,884... + 0,963... + 1,043... =) 2,89... (minuten)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 174 (seconden) (of 2 minuten en 54 seconden)"
+     }
+    ],
+    "grading_note": "Als een kandidaat in de uitwerking geen optelling gebruikt, voor deze vraag maximaal 1 scorepunt toekennen",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-het-lengen-en-korten-van-de-dagen-antw6.png"
+    ]
+   },
+   {
+    "title": "Het lengen en korten van de dagen",
+    "question_number": 7,
+    "answer_text": "• Het maken van een geschikte tabel met in ieder geval de waarden:\n  t = 48; ΔL = 3,9... en t = 49; ΔL = 4,0...\n  t = 112; ΔL = 4,0... en t = 113; ΔL = 3,9...\n  t = 230; ΔL = −3,9... en t = 231; ΔL = −4,0...\n  t = 294; ΔL = −4,0... en t = 295; ΔL = −3,9...\n• Het antwoord: 128 (dagen)\nof\n• De vergelijking 4,7sin(0,017214t + 0,189356) = 4 moet worden opgelost\n• Beschrijven hoe de oplossingen t = 48,1... (dagnummer 49) en t = 112,3... (dagnummer 112) gevonden kunnen worden\n• De vergelijking 4,7sin(0,017214t + 0,189356) = −4 moet worden opgelost\n• Beschrijven hoe de oplossingen t = 230,6... (dagnummer 231) en t = 294,8... (dagnummer (294) gevonden kunnen worden\n• Het antwoord: 128 (dagen)\n\nOpmerkingen\n– Bij het eerste antwoordalternatief voor elke ontbrekende of foute regel in het eerste antwoordelement 1 scorepunt in mindering brengen.\n– Als een kandidaat bij het eerste of tweede antwoordalternatief uitgaat van ΔL > 4 (of ΔL < −4) en vervolgens (vanwege symmetrie) het gevonden antwoord verdubbelt, hiervoor geen scorepunten in mindering brengen.\n– Als een kandidaat bij het eerste of tweede antwoordalternatief uitgaat van alleen ΔL > 4 (of alleen ΔL < −4) en daardoor op het antwoord 64 dagen komt, voor deze vraag maximaal 3 scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 4,
+      "description": "Het maken van een geschikte tabel met in ieder geval de waarden:\n  t = 48; ΔL = 3,9... en t = 49; ΔL = 4,0...\n  t = 112; ΔL = 4,0... en t = 113; ΔL = 3,9...\n  t = 230; ΔL = −3,9... en t = 231; ΔL = −4,0...\n  t = 294; ΔL = −4,0... en t = 295; ΔL = −3,9..."
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 128 (dagen)"
+     }
+    ],
+    "grading_note": "– Bij het eerste antwoordalternatief voor elke ontbrekende of foute regel in het eerste antwoordelement 1 scorepunt in mindering brengen.\n– Als een kandidaat bij het eerste of tweede antwoordalternatief uitgaat van ΔL > 4 (of ΔL < −4) en vervolgens (vanwege symmetrie) het gevonden antwoord verdubbelt, hiervoor geen scorepunten in mindering brengen.\n– Als een kandidaat bij het eerste of tweede antwoordalternatief uitgaat van alleen ΔL > 4 (of alleen ΔL < −4) en daardoor op het antwoord 64 dagen komt, voor deze vraag maximaal 3 scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-het-lengen-en-korten-van-de-dagen-antw7.png"
+    ]
+   },
+   {
+    "title": "Het lengen en korten van de dagen",
+    "question_number": 8,
+    "answer_text": "• (7:39 uur komt overeen met 459 minuten en 16:45 uur komt overeen met 1005 minuten, dus) a (= (459 + 1005)/2) = 732\n• b (= 1005 − 732) = 273\n• (De periode van L is gelijk aan die van ΔL, dus) c = (2π/365 =) 0,017214\n• Het inzicht dat bij het maximum (of minimum) van L geldt dat ΔL = 0\n• Beschrijven hoe de bijbehorende waarde t = 171,5... (of de bij het minimum behorende waarde t = 354,0...) gevonden kan worden\n• Dus d = 171 − ¼ · 365 = 80 (of d = 172 − ¼ · 365 = 81) (of d = 354 + ¼ · 365 = 445)\nof\n• (7:39 uur komt overeen met 459 minuten en 16:45 uur komt overeen met 1005 minuten, dus) a (= (459 + 1005)/2) = 732\n• b (= 1005 − 732) = 273\n• (De periode van L is gelijk aan die van ΔL, dus) c = (2π/365 =) 0,017214\n• Het inzicht dat d gelijk is aan de t-waarde waarvoor ΔL maximaal is\n• Beschrijven hoe deze waarde van t gevonden kan worden\n• Het antwoord: d = 80 (of d = 81)\n\nOpmerking\nAls met een jaarlengte van 365,25 of 366 dagen is gerekend, hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(7:39 uur komt overeen met 459 minuten en 16:45 uur komt overeen met 1005 minuten, dus) a (= (459 + 1005)/2) = 732"
+     },
+     {
+      "points": 1,
+      "description": "b (= 1005 − 732) = 273"
+     },
+     {
+      "points": 1,
+      "description": "(De periode van L is gelijk aan die van ΔL, dus) c = (2π/365 =) 0,017214"
+     },
+     {
+      "points": 1,
+      "description": "Het inzicht dat bij het maximum (of minimum) van L geldt dat ΔL = 0"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de bijbehorende waarde t = 171,5... (of de bij het minimum behorende waarde t = 354,0...) gevonden kan worden"
+     },
+     {
+      "points": 1,
+      "description": "Dus d = 171 − ¼ · 365 = 80 (of d = 172 − ¼ · 365 = 81) (of d = 354 + ¼ · 365 = 445)"
+     }
+    ],
+    "grading_note": "Als met een jaarlengte van 365,25 of 366 dagen is gerekend, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-het-lengen-en-korten-van-de-dagen-antw8.png"
+    ]
+   },
+   {
+    "title": "Krediet",
+    "question_number": 9,
+    "answer_text": "• Bij een rente van 0,7% hoort een groeifactor van 1,007\n• 1,007¹² = 1,087...\n• Het antwoord: 8,7(%) (per jaar)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij een rente van 0,7% hoort een groeifactor van 1,007"
+     },
+     {
+      "points": 1,
+      "description": "1,007¹² = 1,087..."
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 8,7(%) (per jaar)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-krediet-antw9.png"
+    ]
+   },
+   {
+    "title": "Krediet",
+    "question_number": 10,
+    "answer_text": "• Het invullen van t = 36, b = 500 en X₀ = 16000 in de formule\n• Dit geeft X₃₆ = 176,97",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het invullen van t = 36, b = 500 en X₀ = 16000 in de formule"
+     },
+     {
+      "points": 1,
+      "description": "Dit geeft X₃₆ = 176,97"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-krediet-antw10.png"
+    ]
+   },
+   {
+    "title": "Krediet",
+    "question_number": 11,
+    "answer_text": "• In de eerste situatie betaalt Kliphuis in totaal 36 · 500 + 177 = 18177 (euro)\n• De vergelijking b/0,007 + (10000 − b/0,007) · 1,007³⁶ = 0 moet worden opgelost\n• Beschrijven hoe de oplossing b = 315,21..., dus 315,21 (euro) per maand kan worden gevonden\n• In de tweede situatie betaalt Kliphuis in totaal 6000 + 36 · 315,21 = 17347,56 (euro) (afgerond 17348 (euro))\n• Kliphuis betaalt (18177 − 17348 =) 829 (euro) (minder)\n\nOpmerking\nAls in de tweede situatie gerekend is met de onafgeronde waarde van b, hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In de eerste situatie betaalt Kliphuis in totaal 36 · 500 + 177 = 18177 (euro)"
+     },
+     {
+      "points": 1,
+      "description": "De vergelijking b/0,007 + (10000 − b/0,007) · 1,007³⁶ = 0 moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de oplossing b = 315,21..., dus 315,21 (euro) per maand kan worden gevonden"
+     },
+     {
+      "points": 1,
+      "description": "In de tweede situatie betaalt Kliphuis in totaal 6000 + 36 · 315,21 = 17347,56 (euro) (afgerond 17348 (euro))"
+     },
+     {
+      "points": 1,
+      "description": "Kliphuis betaalt (18177 − 17348 =) 829 (euro) (minder)"
+     }
+    ],
+    "grading_note": "Als in de tweede situatie gerekend is met de onafgeronde waarde van b, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-krediet-antw11.png"
+    ]
+   },
+   {
+    "title": "Krediet",
+    "question_number": 12,
+    "answer_text": "• b/0,007 · 1,007ᵀ − b/0,007 = 25000 · 1,007ᵀ\n• b · (1,007ᵀ/0,007 − 1/0,007) = 25000 · 1,007ᵀ\n• b · ((1,007ᵀ − 1)/0,007) = 25000 · 1,007ᵀ\n• b = (25000 · 1,007ᵀ) / ((1,007ᵀ − 1)/0,007) (en hieruit volgt b = (175 · 1,007ᵀ)/(1,007ᵀ − 1))\nof\n• b/0,007 · 1,007ᵀ − b/0,007 = 25000 · 1,007ᵀ\n• b/0,007 · (1,007ᵀ − 1) = 25000 · 1,007ᵀ\n• b · (1,007ᵀ − 1) = 0,007 · 25000 · 1,007ᵀ\n• b = (0,007 · 25000 · 1,007ᵀ)/(1,007ᵀ − 1) (en hieruit volgt b = (175 · 1,007ᵀ)/(1,007ᵀ − 1))",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "b/0,007 · 1,007ᵀ − b/0,007 = 25000 · 1,007ᵀ"
+     },
+     {
+      "points": 1,
+      "description": "b · (1,007ᵀ/0,007 − 1/0,007) = 25000 · 1,007ᵀ"
+     },
+     {
+      "points": 1,
+      "description": "b · ((1,007ᵀ − 1)/0,007) = 25000 · 1,007ᵀ"
+     },
+     {
+      "points": 1,
+      "description": "b = (25000 · 1,007ᵀ) / ((1,007ᵀ − 1)/0,007) (en hieruit volgt b = (175 · 1,007ᵀ)/(1,007ᵀ − 1))"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-krediet-antw12.png"
+    ]
+   },
+   {
+    "title": "Krediet",
+    "question_number": 13,
+    "answer_text": "• dXₜ/dt = ln(1,007) · −50000 · 1,007ᵗ (= −348,7... · 1,007ᵗ)\n• ln(1,007) · −50000 (= −348,7...) (is negatief en 1,007ᵗ is altijd positief)\n• De afgeleide is altijd negatief, dus de grafiek van Xₜ is dalend en dus ⚠️ CONTROLEREN: zin eindigt zo in het correctievoorschrift (afgebroken na \"en dus\")",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "dXₜ/dt = ln(1,007) · −50000 · 1,007ᵗ (= −348,7... · 1,007ᵗ)"
+     },
+     {
+      "points": 1,
+      "description": "ln(1,007) · −50000 (= −348,7...) (is negatief en 1,007ᵗ is altijd positief)"
+     },
+     {
+      "points": 1,
+      "description": "De afgeleide is altijd negatief, dus de grafiek van Xₜ is dalend en dus ⚠️ CONTROLEREN: zin eindigt zo in het correctievoorschrift (afgebroken na \"en dus\")"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-krediet-antw13.png"
+    ]
+   },
+   {
+    "title": "Steeds meer foto’s",
+    "question_number": 14,
+    "answer_text": "• Aantal manieren voor de foto's van de stadsgezichten is 10 · 9 (= 90)\n• Aantal manieren voor de foto's van de straatbeelden is 4! (= 24)\n• Aantal manieren voor de foto's van de boomtoppen is 3! (= 6)\n• Dus er zijn (90 · 24 · 6 =) 12960 verschillende collages mogelijk",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Aantal manieren voor de foto's van de stadsgezichten is 10 · 9 (= 90)"
+     },
+     {
+      "points": 1,
+      "description": "Aantal manieren voor de foto's van de straatbeelden is 4! (= 24)"
+     },
+     {
+      "points": 1,
+      "description": "Aantal manieren voor de foto's van de boomtoppen is 3! (= 6)"
+     },
+     {
+      "points": 1,
+      "description": "Dus er zijn (90 · 24 · 6 =) 12960 verschillende collages mogelijk"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-steeds-meer-fotos-antw14.png"
+    ]
+   },
+   {
+    "title": "Steeds meer foto’s",
+    "question_number": 15,
+    "answer_text": "• Beschrijven hoe de vergelijking 261 + 67,3 · e⁰˒³⁷³ᵗ = 200000 kan worden opgelost\n• De oplossing t = 21,...\n• Dus in 2021",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beschrijven hoe de vergelijking 261 + 67,3 · e⁰˒³⁷³ᵗ = 200000 kan worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "De oplossing t = 21,..."
+     },
+     {
+      "points": 1,
+      "description": "Dus in 2021"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-steeds-meer-fotos-antw15.png"
+    ]
+   },
+   {
+    "title": "Steeds meer foto’s",
+    "question_number": 16,
+    "answer_text": "• (c =) 0,373 · 67,3\n• Het antwoord: 25,103",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(c =) 0,373 · 67,3"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: 25,103"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-steeds-meer-fotos-antw16.png"
+    ]
+   },
+   {
+    "title": "Steeds meer foto’s",
+    "question_number": 17,
+    "answer_text": "• Het aantal in 2015 gemaakte foto's is N(16) − N(15) = (26557 − 18370 =) 8187\n• De benadering met de afgeleide is N′(15,5) = 8139\n• De procentuele afwijking is (8139 − 8187)/8187 · 100% (= −0,58...)\n• Het antwoord: (−) 0,6 (%)\n\nOpmerkingen\n– Als een kandidaat in de formule voor dN/dt gerekend heeft met een nauwkeuriger waarde dan 25,1, hiervoor geen scorepunten in mindering brengen.\n– Als een kandidaat rekent met de niet afgeronde waarden voor N, hiervoor geen scorepunten in mindering brengen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het aantal in 2015 gemaakte foto's is N(16) − N(15) = (26557 − 18370 =) 8187"
+     },
+     {
+      "points": 1,
+      "description": "De benadering met de afgeleide is N′(15,5) = 8139"
+     },
+     {
+      "points": 1,
+      "description": "De procentuele afwijking is (8139 − 8187)/8187 · 100% (= −0,58...)"
+     },
+     {
+      "points": 1,
+      "description": "Het antwoord: (−) 0,6 (%)"
+     }
+    ],
+    "grading_note": "– Als een kandidaat in de formule voor dN/dt gerekend heeft met een nauwkeuriger waarde dan 25,1, hiervoor geen scorepunten in mindering brengen.\n– Als een kandidaat rekent met de niet afgeronde waarden voor N, hiervoor geen scorepunten in mindering brengen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-steeds-meer-fotos-antw17.png"
+    ]
+   },
+   {
+    "title": "Energieverbruik bij mensen en dieren",
+    "question_number": 18,
+    "answer_text": "• De stippen liggen recht boven elkaar (of zwemmer en de ijsschaatser hebben hetzelfde gewicht)\n• De stip van de zwemmer ligt boven die van de ijsschaatser, dus de zwemmer (heeft het hoogste minimale energieverbruik bij verplaatsing over dezelfde afstand)\n\nOpmerking\nWanneer een kandidaat in de beantwoording van de vraag gebruik maakt van de verticale as in figuur 1 om waarden af te lezen en daarbij een foutieve waarde afleest ten gevolge van de onvolkomenheid in de figuur, hiervoor geen scorepunten in mindering brengen.\n\nToelichting: In figuur 1 boven vraag 18 had op de verticale as op de plek van de 0 een 1 moeten staan.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De stippen liggen recht boven elkaar (of zwemmer en de ijsschaatser hebben hetzelfde gewicht)"
+     },
+     {
+      "points": 1,
+      "description": "De stip van de zwemmer ligt boven die van de ijsschaatser, dus de zwemmer (heeft het hoogste minimale energieverbruik bij verplaatsing over dezelfde afstand)"
+     }
+    ],
+    "grading_note": "Wanneer een kandidaat in de beantwoording van de vraag gebruik maakt van de verticale as in figuur 1 om waarden af te lezen en daarbij een foutieve waarde afleest ten gevolge van de onvolkomenheid in de figuur, hiervoor geen scorepunten in mindering brengen.\n\nToelichting: In figuur 1 boven vraag 18 had op de verticale as op de plek van de 0 een 1 moeten staan.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-energieverbruik-bij-mensen-en-dieren-antw18.png"
+    ]
+   },
+   {
+    "title": "Energieverbruik bij mensen en dieren",
+    "question_number": 19,
+    "answer_text": "• Aflezen gewicht duif: 10⁻⁰˒⁴ (= 0,398... kg)\n• Aflezen gewicht jachtluipaard: 10¹˒⁷ (= 50,118... kg)\n• Dus (10¹˒⁷/10⁻⁰˒⁴ =) 126 keer zo zwaar\n\nOpmerking\nBij het aflezen mag een marge van 0,1 worden gehanteerd",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Aflezen gewicht duif: 10⁻⁰˒⁴ (= 0,398... kg)"
+     },
+     {
+      "points": 1,
+      "description": "Aflezen gewicht jachtluipaard: 10¹˒⁷ (= 50,118... kg)"
+     },
+     {
+      "points": 1,
+      "description": "Dus (10¹˒⁷/10⁻⁰˒⁴ =) 126 keer zo zwaar"
+     }
+    ],
+    "grading_note": "Bij het aflezen mag een marge van 0,1 worden gehanteerd",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-energieverbruik-bij-mensen-en-dieren-antw19.png"
+    ]
+   },
+   {
+    "title": "Energieverbruik bij mensen en dieren",
+    "question_number": 20,
+    "answer_text": "• Het berekenen van log(Eᵥ) = (−0,254 · log(0,980) + 0,74 =) 0,742...\n• Eᵥ (= 10⁰˒⁷⁴²···) = 5,523... (J/(kg · m))\n• Totale (minimale) energieverbruik: 5,523... · 0,980 · 4000 = 21653 (J)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het berekenen van log(Eᵥ) = (−0,254 · log(0,980) + 0,74 =) 0,742..."
+     },
+     {
+      "points": 1,
+      "description": "Eᵥ (= 10⁰˒⁷⁴²···) = 5,523... (J/(kg · m))"
+     },
+     {
+      "points": 1,
+      "description": "Totale (minimale) energieverbruik: 5,523... · 0,980 · 4000 = 21653 (J)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-energieverbruik-bij-mensen-en-dieren-antw20.png"
+    ]
+   },
+   {
+    "title": "Energieverbruik bij mensen en dieren",
+    "question_number": 21,
+    "answer_text": "• Eᵥ = 10⁻⁰˒²⁵⁴·ˡᵒᵍ⁽ᵐᵛ⁾⁺⁰˒⁷⁴\n• Eᵥ = 10⁻⁰˒²⁵⁴·ˡᵒᵍ⁽ᵐᵛ⁾ · 10⁰˒⁷⁴\n• Eᵥ = (10ˡᵒᵍ⁽ᵐᵛ⁾)⁻⁰˒²⁵⁴ · 10⁰˒⁷⁴\n• Eᵥ = 5,495 · mᵥ⁻⁰˒²⁵⁴ (dus de gevraagde waarde van a = 5,495)\nof\n• log(Eᵥ) = log(mᵥ⁻⁰˒²⁵⁴) + 0,74\n• log(Eᵥ) = log(mᵥ⁻⁰˒²⁵⁴) + log(10⁰˒⁷⁴)\n• log(Eᵥ) = log(10⁰˒⁷⁴ · mᵥ⁻⁰˒²⁵⁴)\n• Eᵥ = 5,495 · mᵥ⁻⁰˒²⁴⁵ (dus de gevraagde waarde van a = 5,495) ⚠️ CONTROLEREN: exponent staat in het correctievoorschrift als −0,245 (vermoedelijk −0,254 bedoeld)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Eᵥ = 10⁻⁰˒²⁵⁴·ˡᵒᵍ⁽ᵐᵛ⁾⁺⁰˒⁷⁴"
+     },
+     {
+      "points": 1,
+      "description": "Eᵥ = 10⁻⁰˒²⁵⁴·ˡᵒᵍ⁽ᵐᵛ⁾ · 10⁰˒⁷⁴"
+     },
+     {
+      "points": 1,
+      "description": "Eᵥ = (10ˡᵒᵍ⁽ᵐᵛ⁾)⁻⁰˒²⁵⁴ · 10⁰˒⁷⁴"
+     },
+     {
+      "points": 1,
+      "description": "Eᵥ = 5,495 · mᵥ⁻⁰˒²⁵⁴ (dus de gevraagde waarde van a = 5,495)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-energieverbruik-bij-mensen-en-dieren-antw21.png"
+    ]
+   },
+   {
+    "title": "Energieverbruik bij mensen en dieren",
+    "question_number": 22,
+    "answer_text": "• De exponent is 0,746 (ligt tussen 0 en 1), dus afnemend stijgend (en d is constant)\n• Dus figuur C\nof\n• Een uitleg waaruit blijkt dat een kandidaat een getal voor d neemt en vervolgens de grafiek plot op zijn GR\n• Dus figuur C\n\nOpmerking\nAs er geen juiste toelichting wordt gegeven voor deze vraag geen scorepunten toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De exponent is 0,746 (ligt tussen 0 en 1), dus afnemend stijgend (en d is constant)"
+     },
+     {
+      "points": 1,
+      "description": "Dus figuur C"
+     }
+    ],
+    "grading_note": "As er geen juiste toelichting wordt gegeven voor deze vraag geen scorepunten toekennen.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-energieverbruik-bij-mensen-en-dieren-antw22.png"
+    ]
+   },
+   {
+    "title": "Cilinderpuzzel",
+    "question_number": 23,
+    "answer_text": "• (Het aantal oplossingen is gelijk aan het aantal manieren waarop 2 rode schuifjes en van elke kleur 1 schuifje over de eerste ring verdeeld kunnen worden.) Het aantal mogelijkheden om de 2 rode schuifjes te verdelen over de eerste ring is, als er geen rekening gehouden is met het feit dat het een ring is, gelijk aan (8 boven 2)\n• De overige 6 kleuren verdelen geeft 6 · 5 · 4 · 3 · 2 · 1 (= 720) mogelijkheden\n• (De ring heeft geen beginpunt, dus is) het aantal oplossingen: ((8 boven 2) · 6 · 5 · 4 · 3 · 2 · 1)/8 (= 2520)\n• De 12 rode schuifjes verdelen over de 48 vakjes: (48 boven 12)\n• Voor de overige schuifjes zijn de mogelijkheden respectievelijk: (36 boven 6), (30 boven 6), (24 boven 6), (18 boven 6), (12 boven 6) en (6 boven 5) (en het ene vakje dat dan nog over is, is automatisch het lege vakje)\n• Het aantal mogelijkheden om het aantal schuifjes te verdelen (omdat de ring geen beginpunt heeft): ((48 boven 12) · (36 boven 6) · (30 boven 6) · (24 boven 6) · (18 boven 6) · (12 boven 6) · (6 boven 5))/8 (= 1,3... · 10³⁵)\n• ((48 boven 12) · (36 boven 6) · (30 boven 6) · (24 boven 6) · (18 boven 6) · (12 boven 6) · (6 boven 5))/8 / 2520 = 5,53... · 10³¹, geeft) het antwoord: 31 610 · (of nauwkeuriger) ⚠️ CONTROLEREN: \"31 610 ·\" staat zo in het correctievoorschrift; vermoedelijk is 6 · 10³¹ bedoeld\nof\n• Het inzicht dat het de puzzel op te vatten is als een rooster 6 bij 8 en dus buiten beschouwing te laten dat de puzzel een cilinder is\n• (Het aantal oplossingen is gelijk aan het aantal manieren waarop 2 rode schuifjes en verder van elke kleur 1 schuifje over de eerste ring verdeeld kunnen worden.) Het aantal mogelijkheden om de 2 rode schuifjes te verdelen over de eerste ring is (8 boven 2)\n• Het aantal oplossingen is (8 boven 2) · 6 · 5 · 4 · 3 · 2 · 1 (= 20160) (of 8!/2)\n• De 12 rode schuifjes verdelen over de 48 vakjes: (48 boven 12)\n• Voor de overige schuifjes zijn de mogelijkheden respectievelijk: (36 boven 6), (30 boven 6), (24 boven 6), (18 boven 6), (12 boven 6) en (6 boven 5) (en het ene vakje dat dan nog over is, is automatisch het lege vakje)\n• Het aantal mogelijkheden om het aantal schuifjes te verdelen: (48 boven 12) · (36 boven 6) · (30 boven 6) · (24 boven 6) · (18 boven 6) · (12 boven 6) · (6 boven 5) (= 1,1... · 10³⁶)\n• (((48 boven 12) · (36 boven 6) · (30 boven 6) · (24 boven 6) · (18 boven 6) · (12 boven 6) · (6 boven 5)) / ((8 boven 2) · 6 · 5 · 4 · 3 · 2 · 1) = 5,53... · 10³¹, geeft) het antwoord: 6 · 10³¹ (of nauwkeuriger)\nof\n• Het inzicht dat de puzzel is op te vatten als een rooster van 6 bij 8 en dus buiten beschouwing te laten dat de puzzel een cilinder is\n• (Het aantal oplossingen is gelijk aan het aantal manieren waarop 2 rode schuifjes en verder van elke kleur 1 schuifje over de eerste ring verdeeld kunnen worden.) Het aantal mogelijkheden om de 2 rode schuifjes te verdelen over de eerste ring is 8!/2\n• Rekening houdend met het feit dat het om een ring gaat, is het aantal mogelijkheden gelijk aan 8!/(2 · 8) (= 2520)\n• Het aantal manieren om 48 verschillende objecten (schuifjes + lege vakje) te verdelen over 48 vakjes is 48!\n• De schuifjes zijn in werkelijkheid niet allemaal verschillend dus is het aantal mogelijkheden 48!/(12! · 6! · 6! · 6! · 6! · 6! · 5!)\n• Rekening houdend met het feit dat het om een ring gaat, is het aantal mogelijkheden gelijk aan (48!/(12! · 6! · 6! · 6! · 6! · 6! · 5!))/8 (= 1,3... · 10³⁵)\n• ((48!/(12! · 6! · 6! · 6! · 6! · 6! · 5!))/8 / (8!/(2 · 8)) = 5,53... · 10³¹) het antwoord 6 · 10³¹ (of nauwkeuriger)\n\nOpmerking\nAls een kandidaat op de plekken, waarbij in het eerste en tweede antwoordalternatief met combinaties gewerkt moet worden, werkt met permutaties, dan maximaal 5 scorepunten toekennen voor deze opgave.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Het aantal oplossingen is gelijk aan het aantal manieren waarop 2 rode schuifjes en van elke kleur 1 schuifje over de eerste ring verdeeld kunnen worden.) Het aantal mogelijkheden om de 2 rode schuifjes te verdelen over de eerste ring is, als er geen rekening gehouden is met het feit dat het een ring is, gelijk aan (8 boven 2)"
+     },
+     {
+      "points": 1,
+      "description": "De overige 6 kleuren verdelen geeft 6 · 5 · 4 · 3 · 2 · 1 (= 720) mogelijkheden"
+     },
+     {
+      "points": 1,
+      "description": "(De ring heeft geen beginpunt, dus is) het aantal oplossingen: ((8 boven 2) · 6 · 5 · 4 · 3 · 2 · 1)/8 (= 2520)"
+     },
+     {
+      "points": 1,
+      "description": "De 12 rode schuifjes verdelen over de 48 vakjes: (48 boven 12)"
+     },
+     {
+      "points": 1,
+      "description": "Voor de overige schuifjes zijn de mogelijkheden respectievelijk: (36 boven 6), (30 boven 6), (24 boven 6), (18 boven 6), (12 boven 6) en (6 boven 5) (en het ene vakje dat dan nog over is, is automatisch het lege vakje)"
+     },
+     {
+      "points": 1,
+      "description": "Het aantal mogelijkheden om het aantal schuifjes te verdelen (omdat de ring geen beginpunt heeft): ((48 boven 12) · (36 boven 6) · (30 boven 6) · (24 boven 6) · (18 boven 6) · (12 boven 6) · (6 boven 5))/8 (= 1,3... · 10³⁵)"
+     },
+     {
+      "points": 1,
+      "description": "((48 boven 12) · (36 boven 6) · (30 boven 6) · (24 boven 6) · (18 boven 6) · (12 boven 6) · (6 boven 5))/8 / 2520 = 5,53... · 10³¹, geeft) het antwoord: 31 610 · (of nauwkeuriger) ⚠️ CONTROLEREN: \"31 610 ·\" staat zo in het correctievoorschrift; vermoedelijk is 6 · 10³¹ bedoeld"
+     }
+    ],
+    "grading_note": "Als een kandidaat op de plekken, waarbij in het eerste en tweede antwoordalternatief met combinaties gewerkt moet worden, werkt met permutaties, dan maximaal 5 scorepunten toekennen voor deze opgave.",
+    "answer_image_urls": [
+     "wiskunde-a-vwo-2026-ii-cilinderpuzzel-antw23.png"
+    ]
+   }
+  ]
+ }
+}
