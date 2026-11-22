@@ -1,0 +1,65 @@
+{
+  "source": "VWO Economie 2017-I",
+  "subject_name": "Economie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Quichote",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Phillipscurve richtsnoer voor beleid",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Financiële blessuretijd voor BVV",
+      "question_numbers": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Hypotheekrente in Hoogland: een onnodig hoge prijs?",
+      "question_numbers": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "title": "Zorg verzekerd?",
+      "question_numbers": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "title": "Toch nog sparen?",
+      "question_numbers": [
+        25,
+        26,
+        27,
+        28
+      ]
+    }
+  ]
+}
