@@ -15,8 +15,13 @@ Annotation file (Python, loaded with runpy) defines:
         "text": {"c3": "override text", "q5": "override text"},  # optional
         "block_types": {7: "uitwerkbijlage"},                   # optional, default 'inline'
         "renumber": {3: 6},   # optional: PDF prints a wrong vraagnummer
+        "title": "Een CO₂-taks",  # optional: stored title when the PDF
+                                  # title (draft key) lost a subscript
       },
     }
+    REPLACE = {r"\bCO2\b": "CO₂"}  # optional: regex replacements applied to
+                                    # every text (Economie skips FORMULAS;
+                                    # VWO-ECO-21-III-O.pdf "Een CO2-taks")
 "renumber" maps the number printed in the PDF (and used by build_exam.py in
 the draft) to the real vraagnummer (VWO-WISB-24-I-O.pdf prints "3" for vraag
 6 and "7"/"8" for vraag 9/10). "q" and "text" ("q6") use the real number; the
@@ -122,7 +127,7 @@ FORMULAS = {
 }
 
 
-def clean(text, math=False, chem=True):
+def clean(text, math=False, chem=True, extra=None):
     if math:
         text = clean_math(text)
     lines = [l.strip() for l in text.split("\n")]
@@ -133,6 +138,8 @@ def clean(text, math=False, chem=True):
     if not math and chem:
         for pat, rep in FORMULAS.items():
             text = re.sub(pat, rep, text)
+    for pat, rep in (extra or {}).items():
+        text = re.sub(pat, rep, text)
     return text.replace("''", "'").replace("'", "''").replace("$$", "$ $")
 
 
@@ -148,6 +155,7 @@ def main():
     subject = ann.get("SUBJECT", "Biologie")
     math = subject.startswith("Wiskunde")
     chem = subject != "Economie"
+    extra = ann.get("REPLACE", {})
     if subject == "Economie":
         subdomains = ECONOMIE_SUBDOMAINS
     elif subject == "Wiskunde A":
@@ -163,7 +171,7 @@ def main():
         overrides = a.get("text", {})
         ex_id = str(uuid.uuid4())
         exs.append({"id": ex_id, "subject_name": subject, "level": level,
-                    "title": ex["title"], "source": source})
+                    "title": a.get("title", ex["title"]), "source": source})
         cid = {}
         for c in ex["context_blocks"]:
             n = c["n"]
@@ -173,7 +181,7 @@ def main():
             ctxs.append({"id": cid[n], "exercise_id": ex_id,
                          "label": a["labels"].get(n, f"context {n}"),
                          "image_url": c["image"],
-                         "text_content": clean(overrides.get(f"c{n}", c["text"]), math, chem),
+                         "text_content": clean(overrides.get(f"c{n}", c["text"]), math, chem, extra),
                          "block_type": a.get("block_types", {}).get(n, "inline")})
         nums = []
         for qq in ex["questions"]:
@@ -198,7 +206,7 @@ def main():
                        "topics": [{"domain": subdomains.get(s, "?"), "subdomain": s} for s in subs],
                        "keywords": kws, "question_summary": summ,
                        "question_image_url": qq["image"],
-                       "question_text": clean(overrides.get(f"q{n}", qq["text"]), math, chem),
+                       "question_text": clean(overrides.get(f"q{n}", qq["text"]), math, chem, extra),
                        "context_block_ids": [cid[l] for l in links if l in cid]})
         # STAP 3 volgorde-koppeling: every inline block must be linked to the
         # first vraag that follows it in the PDF (before_vraag from the draft),
@@ -213,7 +221,7 @@ def main():
             links = a["q"][n][0]
             if links != sorted(links):
                 problems.append(f"{ex['title']}: vraag {n} context links not in PDF order")
-        manifest.append({"title": ex["title"], "question_numbers": nums})
+        manifest.append({"title": a.get("title", ex["title"]), "question_numbers": nums})
     if problems:
         print("\n".join(problems))
         sys.exit(1)

@@ -1,0 +1,66 @@
+{
+  "source": "VWO Economie 2021-III",
+  "subject_name": "Economie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Vrouwenvoetbal",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Pensioenleeftijd",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Een CO₂-taks",
+      "question_numbers": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Gezonde zorg",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Maatregelen die werken",
+      "question_numbers": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "title": "De Afrikaanse euro-variant",
+      "question_numbers": [
+        26,
+        27,
+        28,
+        29
+      ]
+    }
+  ]
+}
