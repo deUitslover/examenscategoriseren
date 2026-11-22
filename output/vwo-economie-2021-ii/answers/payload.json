@@ -1,0 +1,525 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "VWO",
+    "source": "VWO Economie 2021-II",
+    "answers": [
+      {
+        "title": "Een gewenste prijsstijging van friet?",
+        "question_number": 1,
+        "answer_text": "complementaire goederen\nEen voorbeeld van een juiste uitleg is:\nWanneer de eigen verkoopprijs van friet wordt verhoogd met de heffing, daalt (de afzet van friet en ook) de totale omzet / de totale afzet aan andere goederen uit het assortiment. Het zijn dus complementaire goederen bij het (hoofd)product friet.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "complementaire goederen\nEen voorbeeld van een juiste uitleg is:\nWanneer de eigen verkoopprijs van friet wordt verhoogd met de heffing, daalt (de afzet van friet en ook) de totale omzet / de totale afzet aan andere goederen uit het assortiment. Het zijn dus complementaire goederen bij het (hoofd)product friet."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-een-gewenste-prijsstijging-van-friet-antw1.png"
+        ]
+      },
+      {
+        "title": "Een gewenste prijsstijging van friet?",
+        "question_number": 2,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Als Willem de heffing niet doorberekent, dan blijft de verkoopprijs €2. Zijn eigen netto prijs na afdracht van de heffing is dan €1,67 (2 / 1,20). In die situatie geldt bij TO = € 9.000 en p = 1,67 dat de afzet 5.390 stuks is (afgerond). In de nieuwe situatie als Willem wel de heffing doorberekent is zijn nettoprijs € 2 en is de afzet 4.000 stuks (8.000 / 2)\n• De afname van de vraag naar friet bij Willem is:\n(4.000 − 5.390) / 5.390 × 100% = −25,8%\nEv = %ΔQv / %Δp = −25,77 / 20 = −1,29\nDe elasticiteit is kleiner dan −1, dus is de vraag naar friet elastisch",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als Willem de heffing niet doorberekent, dan blijft de verkoopprijs €2. Zijn eigen netto prijs na afdracht van de heffing is dan €1,67 (2 / 1,20). In die situatie geldt bij TO = € 9.000 en p = 1,67 dat de afzet 5.390 stuks is (afgerond). In de nieuwe situatie als Willem wel de heffing doorberekent is zijn nettoprijs € 2 en is de afzet 4.000 stuks (8.000 / 2)"
+          },
+          {
+            "points": 1,
+            "description": "De afname van de vraag naar friet bij Willem is: (4.000 − 5.390) / 5.390 × 100% = −25,8%; Ev = %ΔQv / %Δp = −25,77 / 20 = −1,29; de elasticiteit is kleiner dan −1, dus is de vraag naar friet elastisch"
+          },
+          {
+            "points": 1,
+            "description": "⚠️ CONTROLEREN: het correctievoorschrift vermeldt maximumscore 3, maar kent bij de twee deelantwoorden slechts 1 + 1 scorepunt toe; de verdeling van het derde scorepunt staat niet in het correctievoorschrift"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-een-gewenste-prijsstijging-van-friet-antw2.png"
+        ]
+      },
+      {
+        "title": "Een gewenste prijsstijging van friet?",
+        "question_number": 3,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Jan heeft als dominante strategie om de prijs van friet gelijk te houden, want € 15.000 is meer dan € 13.500 (totale omzet van het gehele assortiment); en € 15.750 is meer dan € 14.350. Voor Willem geldt een analoge redenering: € 13.000 is meer dan € 11.600 euro en € 13.440 is meer dan € 12.350. Willem heeft dus dezelfde dominante strategie\n• Omdat beide cafetaria’s de verkoopprijzen van friet gelijk houden, neemt de consumptie van friet niet af",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Jan heeft als dominante strategie om de prijs van friet gelijk te houden, want € 15.000 is meer dan € 13.500 (totale omzet van het gehele assortiment); en € 15.750 is meer dan € 14.350. Voor Willem geldt een analoge redenering: € 13.000 is meer dan € 11.600 euro en € 13.440 is meer dan € 12.350. Willem heeft dus dezelfde dominante strategie"
+          },
+          {
+            "points": 1,
+            "description": "Omdat beide cafetaria’s de verkoopprijzen van friet gelijk houden, neemt de consumptie van friet niet af"
+          }
+        ],
+        "grading_note": "Voor het toekennen van het eerste scorepunt moet de totale omzetontwikkeling uit de matrix benoemd worden.",
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-een-gewenste-prijsstijging-van-friet-antw3.png"
+        ]
+      },
+      {
+        "title": "Een gewenste prijsstijging van friet?",
+        "question_number": 4,
+        "answer_text": "Voorbeeld van een juiste uitleg is:\n• De (jeugdige) klanten krijgen dan een lagere betalingsbereidheid, waardoor de vraaglijn naar friet naar links verschuift. De cafetaria’s zullen hun verkoopprijzen moeten verlagen\n• Op termijn kan daardoor de kostprijs van friet groter worden dan de verkoopprijs, waardoor er verlies wordt geleden op de verkoop van friet",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De (jeugdige) klanten krijgen dan een lagere betalingsbereidheid, waardoor de vraaglijn naar friet naar links verschuift. De cafetaria’s zullen hun verkoopprijzen moeten verlagen"
+          },
+          {
+            "points": 1,
+            "description": "Op termijn kan daardoor de kostprijs van friet groter worden dan de verkoopprijs, waardoor er verlies wordt geleden op de verkoop van friet"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-een-gewenste-prijsstijging-van-friet-antw4.png"
+        ]
+      },
+      {
+        "title": "Een gewenste prijsstijging van friet?",
+        "question_number": 5,
+        "answer_text": "heffingskorting\nVoorbeeld van een juiste uitleg:\n• Bij een aftrekpost zal het voordeel van de cafetaria het marginale belastingtarief zijn / Slechts een deel van de aftrekpost zal door middel van een lager belastingbedrag voordelig zijn voor de cafetaria\n• Bij een heffingskorting zal het volledige bedrag in mindering worden gebracht op het belastingbedrag. Dit is een groter voordeel dan een aftrekpost (en zal de transitie naar een gezonder assortiment bevorderen)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij een aftrekpost zal het voordeel van de cafetaria het marginale belastingtarief zijn / Slechts een deel van de aftrekpost zal door middel van een lager belastingbedrag voordelig zijn voor de cafetaria"
+          },
+          {
+            "points": 1,
+            "description": "Bij een heffingskorting zal het volledige bedrag in mindering worden gebracht op het belastingbedrag. Dit is een groter voordeel dan een aftrekpost (en zal de transitie naar een gezonder assortiment bevorderen)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-een-gewenste-prijsstijging-van-friet-antw5.png"
+        ]
+      },
+      {
+        "title": "Verzekeren op maat",
+        "question_number": 6,
+        "answer_text": "risico-avers\nEen voorbeeld van een juiste toelichting is:\nDe tweede aanname dat verzekerden meer dan het verwachte schadebedrag (120%) als premie willen betalen geeft aan dat potentiële verzekerden risico-avers zijn.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "risico-avers\nEen voorbeeld van een juiste toelichting is:\nDe tweede aanname dat verzekerden meer dan het verwachte schadebedrag (120%) als premie willen betalen geeft aan dat potentiële verzekerden risico-avers zijn."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-verzekeren-op-maat-antw6.png"
+        ]
+      },
+      {
+        "title": "Verzekeren op maat",
+        "question_number": 7,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• De betalingsbereidheid van groep B is 1,20 × 0,07 × € 5.500 = € 462. Bij deze bereidheid zullen beide groepen zich verzekeren\n• Als de (uniforme) premie hieraan gelijk is, wordt de winst:\nTO = p x q\nTO = 462 x 25.000 = € 11.550.000\nTK = GVK x q + TCK\nTK = (10.000 × 600) + (15.000 × 385) + (25.000 × 25) + 500.000 = € 12.900.000\nTW = € 11.550.000 − € 12.900.000 = − € 1.350.000\n(Er is een verlies als de premie gelijk is aan de betalingsbereidheid van groep B)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De betalingsbereidheid van groep B is 1,20 × 0,07 × € 5.500 = € 462. Bij deze bereidheid zullen beide groepen zich verzekeren"
+          },
+          {
+            "points": 1,
+            "description": "Als de (uniforme) premie hieraan gelijk is, wordt de winst: TO = 462 x 25.000 = € 11.550.000; TK = (10.000 × 600) + (15.000 × 385) + (25.000 × 25) + 500.000 = € 12.900.000; TW = € 11.550.000 − € 12.900.000 = − € 1.350.000 (Er is een verlies als de premie gelijk is aan de betalingsbereidheid van groep B)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-verzekeren-op-maat-antw7.png"
+        ]
+      },
+      {
+        "title": "Verzekeren op maat",
+        "question_number": 8,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Doordat de Carmonitor het rijgedrag van de automobilist bijhoudt, zullen automobilisten voorzichtiger gaan rijden\n• Hierdoor gaan meer mensen van groep A naar groep B waardoor het gemiddelde schadebedrag lager zal uitvallen.\nof\nDe kans op schade daalt waardoor het gemiddelde schadebedrag lager zal uitvallen door het voorzichtigere rijgedrag\n• Door de daling van de kans op schade en het gemiddelde schadebedrag zullen de schadekosten voor de verzekeraar dalen (meer dan de stijging van de variabele poliskosten) en stijgt de winstgevendheid van de verzekering",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Doordat de Carmonitor het rijgedrag van de automobilist bijhoudt, zullen automobilisten voorzichtiger gaan rijden"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor gaan meer mensen van groep A naar groep B waardoor het gemiddelde schadebedrag lager zal uitvallen. of: De kans op schade daalt waardoor het gemiddelde schadebedrag lager zal uitvallen door het voorzichtigere rijgedrag"
+          },
+          {
+            "points": 1,
+            "description": "Door de daling van de kans op schade en het gemiddelde schadebedrag zullen de schadekosten voor de verzekeraar dalen (meer dan de stijging van de variabele poliskosten) en stijgt de winstgevendheid van de verzekering"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-verzekeren-op-maat-antw8.png"
+        ]
+      },
+      {
+        "title": "Verzekeren op maat",
+        "question_number": 9,
+        "answer_text": "Voorbeelden van een juiste uitleg zijn:\n− Doordat mensen met een laag risico zich verzekeren, zullen deze mensen nu wel een consumentensurplus genereren op de verzekeringsmarkt. Als gevolg hiervan stijgt het totale surplus binnen deze markt.\n− Doordat mensen met een laag risico zich verzekeren, zijn er meer verzekerden waardoor de verzekeraars meer verzekeringen verkopen. Hierdoor stijgt het producentensurplus / het totale surplus binnen deze markt.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Voorbeelden van een juiste uitleg zijn:\n− Doordat mensen met een laag risico zich verzekeren, zullen deze mensen nu wel een consumentensurplus genereren op de verzekeringsmarkt. Als gevolg hiervan stijgt het totale surplus binnen deze markt.\n− Doordat mensen met een laag risico zich verzekeren, zijn er meer verzekerden waardoor de verzekeraars meer verzekeringen verkopen. Hierdoor stijgt het producentensurplus / het totale surplus binnen deze markt."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-verzekeren-op-maat-antw9.png"
+        ]
+      },
+      {
+        "title": "Verzekeren op maat",
+        "question_number": 10,
+        "answer_text": "Door onvolledige informatie bij potentiële verzekerden over de verschillen tussen verzekeraars en de verzekeringen moeten zij meer tijd besteden aan het uitzoeken van de verschillen en maken zij meer zoekkosten / transactiekosten.\n\nToelichting:\nDe vraagstelling vraagt geen uitleg van de oorzaak van onvolledige informatie.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Door onvolledige informatie bij potentiële verzekerden over de verschillen tussen verzekeraars en de verzekeringen moeten zij meer tijd besteden aan het uitzoeken van de verschillen en maken zij meer zoekkosten / transactiekosten."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-verzekeren-op-maat-antw10.png"
+        ]
+      },
+      {
+        "title": "Groei op de klippen",
+        "question_number": 11,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\nDoor de koersdaling van de lira ten opzichte van de euro stegen de aflossingen en renteverplichtingen van de bedrijven uitgedrukt in lira. Dit betekende hogere (krediet)kosten, waardoor de winstgevendheid van de Turkse bedrijven zou kunnen afnemen (gegeven een omzet in lira’s).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste uitleg is:\nDoor de koersdaling van de lira ten opzichte van de euro stegen de aflossingen en renteverplichtingen van de bedrijven uitgedrukt in lira. Dit betekende hogere (krediet)kosten, waardoor de winstgevendheid van de Turkse bedrijven zou kunnen afnemen (gegeven een omzet in lira’s)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-groei-op-de-klippen-antw11.png"
+        ]
+      },
+      {
+        "title": "Groei op de klippen",
+        "question_number": 12,
+        "answer_text": "Een voorbeeld van een juiste verklaring is:\n• De Turkse overheid heeft zich garant gesteld voor de aflossing van veel leningen (in euro’s). Door de koersdaling van de lira ten opzichte van de euro zullen veel bedrijven mogelijk niet meer kunnen voldoen aan de aflossingsverplichtingen (in euro’s) en zal de Turkse overheid de aflossingsverplichtingen moeten overnemen\n• Dit zal leiden tot (extra) uitgaven. Hierdoor zal de Turkse overheid op termijn de belastingen moeten verhogen om het tekort niet te laten oplopen / om een begrotingsevenwicht te behouden",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De Turkse overheid heeft zich garant gesteld voor de aflossing van veel leningen (in euro’s). Door de koersdaling van de lira ten opzichte van de euro zullen veel bedrijven mogelijk niet meer kunnen voldoen aan de aflossingsverplichtingen (in euro’s) en zal de Turkse overheid de aflossingsverplichtingen moeten overnemen"
+          },
+          {
+            "points": 1,
+            "description": "Dit zal leiden tot (extra) uitgaven. Hierdoor zal de Turkse overheid op termijn de belastingen moeten verhogen om het tekort niet te laten oplopen / om een begrotingsevenwicht te behouden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-groei-op-de-klippen-antw12.png"
+        ]
+      },
+      {
+        "title": "Groei op de klippen",
+        "question_number": 13,
+        "answer_text": "Een voorbeeld van een juiste uitleg van de handelspartners is:\n• Als de Turkse economie in een recessie terechtkomt, zal Turkije minder importeren waardoor de handelspartners minder exporteren. Hierdoor komen de bestedingen / komt de productie en daarmee (de groei van) het bbp van deze landen onder druk te staan\n• Voorbeelden van een juiste uitleg van het bankwezen zijn (één van de volgende):\n− De Europese banken hebben krediet uitstaan bij Turkse bedrijven. Als door de Turkse recessie / lage koers van de lira bedrijven niet meer kunnen voldoen aan renteverplichtingen, zullen er minder mogelijkheden zijn om krediet te verlenen aan Europese particulieren. Dit heeft een negatief effect op (de groei van) het bbp van Europese landen.\n− De Europese banken hebben krediet uitstaan bij Turkse bedrijven. Als door de Turkse recessie / lage koers van de lira bedrijven niet meer kunnen voldoen aan renteverplichtingen zullen Europese banken hun winst zien afnemen. Hierdoor kan de aandelenkoers van deze banken dalen wat een negatief effect heeft op het vermogen van (particuliere) beleggers. Dit heeft een negatief effect op (de groei van) het bbp van Europese landen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als de Turkse economie in een recessie terechtkomt, zal Turkije minder importeren waardoor de handelspartners minder exporteren. Hierdoor komen de bestedingen / komt de productie en daarmee (de groei van) het bbp van deze landen onder druk te staan"
+          },
+          {
+            "points": 1,
+            "description": "Een juiste uitleg van het bankwezen (één van de volgende):\n− De Europese banken hebben krediet uitstaan bij Turkse bedrijven. Als door de Turkse recessie / lage koers van de lira bedrijven niet meer kunnen voldoen aan renteverplichtingen, zullen er minder mogelijkheden zijn om krediet te verlenen aan Europese particulieren. Dit heeft een negatief effect op (de groei van) het bbp van Europese landen.\n− De Europese banken hebben krediet uitstaan bij Turkse bedrijven. Als door de Turkse recessie / lage koers van de lira bedrijven niet meer kunnen voldoen aan renteverplichtingen zullen Europese banken hun winst zien afnemen. Hierdoor kan de aandelenkoers van deze banken dalen wat een negatief effect heeft op het vermogen van (particuliere) beleggers. Dit heeft een negatief effect op (de groei van) het bbp van Europese landen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-groei-op-de-klippen-antw13.png"
+        ]
+      },
+      {
+        "title": "Groei op de klippen",
+        "question_number": 14,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Bij een begin van € 1 = L 1 geldt dat er nu 1/0,6 = 1,67 lira betaald moeten worden voor dezelfde euro (€ 1 = L 1,67). De prijsstijging van de import in lira’s is 66,67%\n• De verandering van het importvolume is dan 66,67 x −0,75 = −50%\n• indexcijfer exportwaarde (in eigen valuta): 100 x 1,36 = 136\nindexcijfer importwaarde (in eigen valuta): 100 x 0,5 x 1,667 = 83,35\nDe exportwaarde is gestegen en de importwaarde is gedaald, waardoor het saldo lopende rekening is verbeterd",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij een begin van € 1 = L 1 geldt dat er nu 1/0,6 = 1,67 lira betaald moeten worden voor dezelfde euro (€ 1 = L 1,67). De prijsstijging van de import in lira’s is 66,67%"
+          },
+          {
+            "points": 1,
+            "description": "De verandering van het importvolume is dan 66,67 x −0,75 = −50%"
+          },
+          {
+            "points": 1,
+            "description": "indexcijfer exportwaarde (in eigen valuta): 100 x 1,36 = 136; indexcijfer importwaarde (in eigen valuta): 100 x 0,5 x 1,667 = 83,35. De exportwaarde is gestegen en de importwaarde is gedaald, waardoor het saldo lopende rekening is verbeterd"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-groei-op-de-klippen-antw14.png"
+        ]
+      },
+      {
+        "title": "Groei op de klippen",
+        "question_number": 15,
+        "answer_text": "Een voorbeeld van een juiste conclusie is:\n• Een hogere rente zal tot meer aanbod van internationaal kapitaal leiden, waardoor er meer vraag is naar lira’s en de koers van de lira (in euro’s) zal stijgen\nEen voorbeeld van een juiste conclusie bij verergeren van een recessie is:\n• Door de koersstijging van de lira worden Turkse exportproducten (in vreemde valuta) duurder. Hierdoor kan de Turkse export afnemen, wat een negatief effect heeft op de groei van het bbp en een mogelijke recessie wordt verergerd\n• Voorbeelden van een juiste conclusie bij afzwakking van een recessie zijn (één van de volgende):\n− Door de koersstijging van de Turkse lira zullen Turkse bedrijven met schulden in euro’s minder kredietkosten (in lira’s) hebben waardoor de winstgevendheid verbetert / op peil blijft en de investeringen op peil blijven. Dit heeft een positief effect op de groei van het bbp waardoor een mogelijke recessie kan worden afgezwakt.\n− Door de koersstijging van de Turkse lira wordt import (van grond- en hulpstoffen) goedkoper, waardoor de inflatie wordt beperkt. De internationale concurrentiepositie kan verbeteren waardoor de export van Turkije kan stijgen / de import door Turkije kan afnemen. Dit heeft een positief effect op de groei van het bbp waardoor een mogelijke recessie kan worden afgezwakt.\n− Door de koersstijging van de Turkse lira wordt import (van grond- en hulpstoffen) goedkoper, waardoor de inflatie wordt beperkt. De koopkracht van Turkse consumenten blijft op peil waardoor de consumptie op peil blijft. Dit heeft een positief effect op de groei van het bbp waardoor een mogelijke recessie kan worden afgezwakt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een hogere rente zal tot meer aanbod van internationaal kapitaal leiden, waardoor er meer vraag is naar lira’s en de koers van de lira (in euro’s) zal stijgen"
+          },
+          {
+            "points": 1,
+            "description": "Conclusie bij verergeren van een recessie: Door de koersstijging van de lira worden Turkse exportproducten (in vreemde valuta) duurder. Hierdoor kan de Turkse export afnemen, wat een negatief effect heeft op de groei van het bbp en een mogelijke recessie wordt verergerd"
+          },
+          {
+            "points": 1,
+            "description": "Conclusie bij afzwakking van een recessie (één van de volgende):\n− Door de koersstijging van de Turkse lira zullen Turkse bedrijven met schulden in euro’s minder kredietkosten (in lira’s) hebben waardoor de winstgevendheid verbetert / op peil blijft en de investeringen op peil blijven. Dit heeft een positief effect op de groei van het bbp waardoor een mogelijke recessie kan worden afgezwakt.\n− Door de koersstijging van de Turkse lira wordt import (van grond- en hulpstoffen) goedkoper, waardoor de inflatie wordt beperkt. De internationale concurrentiepositie kan verbeteren waardoor de export van Turkije kan stijgen / de import door Turkije kan afnemen. Dit heeft een positief effect op de groei van het bbp waardoor een mogelijke recessie kan worden afgezwakt.\n− Door de koersstijging van de Turkse lira wordt import (van grond- en hulpstoffen) goedkoper, waardoor de inflatie wordt beperkt. De koopkracht van Turkse consumenten blijft op peil waardoor de consumptie op peil blijft. Dit heeft een positief effect op de groei van het bbp waardoor een mogelijke recessie kan worden afgezwakt."
+          }
+        ],
+        "grading_note": "Als het effect op het bbp niet is benoemd in het tweede en derde deelantwoord, wordt maximaal 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-groei-op-de-klippen-antw15.png"
+        ]
+      },
+      {
+        "title": "Recessie door het buurland",
+        "question_number": 16,
+        "answer_text": "de overheid\nVoorbeelden van een juiste argumentatie zijn:\n− Op korte termijn blijft het prijspeil gelijk, dus de centrale bank hoeft gezien haar doelstelling niet in actie te komen.\n− Het reële bbp is in de nieuwe situatie gedaald. Dit betekent een lagere vraag naar arbeid en dus een toename van de werkloosheid. De overheid streeft naar bestrijding van werkloosheid en zal moeten ingrijpen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "de overheid\nVoorbeelden van een juiste argumentatie zijn:\n− Op korte termijn blijft het prijspeil gelijk, dus de centrale bank hoeft gezien haar doelstelling niet in actie te komen.\n− Het reële bbp is in de nieuwe situatie gedaald. Dit betekent een lagere vraag naar arbeid en dus een toename van de werkloosheid. De overheid streeft naar bestrijding van werkloosheid en zal moeten ingrijpen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-recessie-door-het-buurland-antw16.png"
+        ]
+      },
+      {
+        "title": "Recessie door het buurland",
+        "question_number": 17,
+        "answer_text": "Voorbeelden van een juiste verklaring zijn:\n− Bedrijven zullen hun verkoopprijzen pas verlagen als hun (loon)kosten gedaald zijn om zo verliezen te vermijden. Op korte termijn zijn lonen star dus zullen bedrijven de prijzen niet op korte termijn verlagen.\n− Bedrijven zijn op korte termijn gebonden aan verkoopcontracten / hebben te maken met menukosten. Hierdoor zullen ze de prijzen op korte termijn niet verlagen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voorbeelden van een juiste verklaring zijn:\n− Bedrijven zullen hun verkoopprijzen pas verlagen als hun (loon)kosten gedaald zijn om zo verliezen te vermijden. Op korte termijn zijn lonen star dus zullen bedrijven de prijzen niet op korte termijn verlagen.\n− Bedrijven zijn op korte termijn gebonden aan verkoopcontracten / hebben te maken met menukosten. Hierdoor zullen ze de prijzen op korte termijn niet verlagen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-recessie-door-het-buurland-antw17.png"
+        ]
+      },
+      {
+        "title": "Recessie door het buurland",
+        "question_number": 18,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Een toename van de geldhoeveelheid op de vermogensmarkt leidt tot (een toename van de vraag naar rentedragende vermogenstitels, waardoor de koers van deze vermogenstitels stijgt en) een daling van de rente\n• Door een dalende rente wordt sparen minder aantrekkelijk en lenen aantrekkelijker, waardoor de bestedingen stijgen en daarmee ook de productie",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een toename van de geldhoeveelheid op de vermogensmarkt leidt tot (een toename van de vraag naar rentedragende vermogenstitels, waardoor de koers van deze vermogenstitels stijgt en) een daling van de rente"
+          },
+          {
+            "points": 1,
+            "description": "Door een dalende rente wordt sparen minder aantrekkelijk en lenen aantrekkelijker, waardoor de bestedingen stijgen en daarmee ook de productie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-recessie-door-het-buurland-antw18.png"
+        ]
+      },
+      {
+        "title": "Recessie door het buurland",
+        "question_number": 19,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\nEen hogere verwachte inflatie betekent dat (de verwachte koopkracht gaat dalen en) werknemers in de loononderhandelingen hun looneisen naar boven aanpassen aan de verwachte inflatie. Dit leidt tot stijgende lonen die verrekend worden in de verkoopprijzen. Dat leidt weer tot verdere stijging van het prijspeil.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste uitleg is:\nEen hogere verwachte inflatie betekent dat (de verwachte koopkracht gaat dalen en) werknemers in de loononderhandelingen hun looneisen naar boven aanpassen aan de verwachte inflatie. Dit leidt tot stijgende lonen die verrekend worden in de verkoopprijzen. Dat leidt weer tot verdere stijging van het prijspeil."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-recessie-door-het-buurland-antw19.png"
+        ]
+      },
+      {
+        "title": "Recessie door het buurland",
+        "question_number": 20,
+        "answer_text": "Een voorbeeld van een juiste argumentatie is:\n• Verlaging van de tarieven van de inkomstenbelasting leidt tot een grotere koopkracht van gezinnen (gegeven de rente) en tot een verschuiving van de GV-lijn naar rechts (bij elk prijspeil)\n• Verlaging van de milieuheffingen voor bedrijven leidt tot lagere kosten per eenheid product. Dit leidt tot een verschuiving van de GAkt-lijn naar beneden",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Verlaging van de tarieven van de inkomstenbelasting leidt tot een grotere koopkracht van gezinnen (gegeven de rente) en tot een verschuiving van de GV-lijn naar rechts (bij elk prijspeil)"
+          },
+          {
+            "points": 1,
+            "description": "Verlaging van de milieuheffingen voor bedrijven leidt tot lagere kosten per eenheid product. Dit leidt tot een verschuiving van de GAkt-lijn naar beneden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-recessie-door-het-buurland-antw20.png"
+        ]
+      },
+      {
+        "title": "Dividendbelasting",
+        "question_number": 21,
+        "answer_text": "progressieve belasting\nEen voorbeeld van een juiste motivering is:\nEr is sprake van een proportioneel tarief met een vaste vrijstelling. Dit leidt tot een progressief tarief doordat de vrijstelling met het stijgen van het dividendbedrag een steeds kleiner voordeel oplevert / het stijgen van het dividendbedrag tot een stijgend gemiddeld heffingspercentage leidt.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "progressieve belasting\nEen voorbeeld van een juiste motivering is:\nEr is sprake van een proportioneel tarief met een vaste vrijstelling. Dit leidt tot een progressief tarief doordat de vrijstelling met het stijgen van het dividendbedrag een steeds kleiner voordeel oplevert / het stijgen van het dividendbedrag tot een stijgend gemiddeld heffingspercentage leidt."
+          }
+        ],
+        "grading_note": "Voor een motivatie door middel van een correcte berekening kunnen ook scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-dividendbelasting-antw21.png"
+        ]
+      },
+      {
+        "title": "Dividendbelasting",
+        "question_number": 22,
+        "answer_text": "• Voorbeelden van een juiste verklaring van de verandering in vergelijking (1) zijn (één van de volgende):\n− Er komt ongeacht de aandelenkoers K meer vraag naar aandeel X, omdat beleggen in het land en ook in X interessanter wordt, want de winstuitkeringen aan de aandeelhouders van X worden niet meer belast (met dividendbelasting) / het netto dividendrendement stijgt.\n− Bij de huidige koers is de prijsgevoeligheid van de vragers naar aandeel X afgenomen. Hierdoor wil men ook bij hogere koersen aandelen kopen.\n• Voorbeelden van een juiste verklaring van de verandering in vergelijking (2) zijn (één van de volgende):\n− De bezitters van aandelen (waaronder X) weten dat hun aandelen meer waard worden voor andere beleggers. Hierdoor zijn ze pas bereid om tegen een hoger bod hun aandelen te verkopen (snijpunt met Y-as gaat omhoog van 12,56 naar 14,37).\n− Bij de huidige koers is de prijsgevoeligheid van de aanbieders van aandeel X toegenomen. Beleggers zullen hierdoor pas bij een hogere koers hun aandelen verkopen.\n\nToelichting:\nDe koerselasticiteit van het aanbod neemt toe.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Juiste verklaring van de verandering in vergelijking (1) (één van de volgende):\n− Er komt ongeacht de aandelenkoers K meer vraag naar aandeel X, omdat beleggen in het land en ook in X interessanter wordt, want de winstuitkeringen aan de aandeelhouders van X worden niet meer belast (met dividendbelasting) / het netto dividendrendement stijgt.\n− Bij de huidige koers is de prijsgevoeligheid van de vragers naar aandeel X afgenomen. Hierdoor wil men ook bij hogere koersen aandelen kopen."
+          },
+          {
+            "points": 1,
+            "description": "Juiste verklaring van de verandering in vergelijking (2) (één van de volgende):\n− De bezitters van aandelen (waaronder X) weten dat hun aandelen meer waard worden voor andere beleggers. Hierdoor zijn ze pas bereid om tegen een hoger bod hun aandelen te verkopen (snijpunt met Y-as gaat omhoog van 12,56 naar 14,37).\n− Bij de huidige koers is de prijsgevoeligheid van de aanbieders van aandeel X toegenomen. Beleggers zullen hierdoor pas bij een hogere koers hun aandelen verkopen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-dividendbelasting-antw22.png"
+        ]
+      },
+      {
+        "title": "Dividendbelasting",
+        "question_number": 23,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Qv = Qa\n−2K + 9.000 = 398K − 5.000\n400K = 14.000 dus K was 35 euro.\nNa afschaffen van dividendbelasting volgt eenzelfde berekening:\nQv = Qa\n−2K + 9.600 = 348K − 5.000\n350K = 14.600 dus K is 41,71 euro\n• koersstijging = (41,71 − 35) / 35 x 100% ≈ 19,2% (en dat is meer dan 10%)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Qv = Qa: −2K + 9.000 = 398K − 5.000 → 400K = 14.000 dus K was 35 euro. Na afschaffen van dividendbelasting: −2K + 9.600 = 348K − 5.000 → 350K = 14.600 dus K is 41,71 euro"
+          },
+          {
+            "points": 1,
+            "description": "koersstijging = (41,71 − 35) / 35 x 100% ≈ 19,2% (en dat is meer dan 10%)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-dividendbelasting-antw23.png"
+        ]
+      },
+      {
+        "title": "Dividendbelasting",
+        "question_number": 24,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Door de afschaffing van de dividendbelasting zullen de inkomsten voor de overheid afnemen\n• Een toename van het consumentenvertrouwen (als gevolg van een toename van de particuliere vermogenspositie) leidt tot stijging van de bestedingen, waardoor de overheid meer (indirecte) belastinginkomsten ontvangt",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de afschaffing van de dividendbelasting zullen de inkomsten voor de overheid afnemen"
+          },
+          {
+            "points": 1,
+            "description": "Een toename van het consumentenvertrouwen (als gevolg van een toename van de particuliere vermogenspositie) leidt tot stijging van de bestedingen, waardoor de overheid meer (indirecte) belastinginkomsten ontvangt"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-dividendbelasting-antw24.png"
+        ]
+      },
+      {
+        "title": "Dividendbelasting",
+        "question_number": 25,
+        "answer_text": "Een voorbeeld van een juiste reactie bij de eerste bewering is:\nDoor de verlaging van de arbeidsinkomensquote in het land stijgt de winstquote (bij gelijkblijvende rente- en huur/pachtquotes), terwijl de winstquote in de buurlanden op lange termijn (vrijwel) gelijk blijft. Van iedere verdiende euro gaat een groter deel naar winst en dus is het aantrekkelijker om in dit land te beleggen\n\nEen voorbeeld van een juiste reactie bij de tweede bewering is:\n• Met name de hoge inkomens beleggen relatief meer in aandelen, waardoor zij een relatief groter voordeel genieten van de afschaffing van de dividendbelasting. Hierdoor zal er een verwachte denivellering plaatsvinden tussen de hoge en lage inkomens\n• Uit tabel 2 blijkt dat de Gini-coëfficiënt is gestegen. Dit wijst op een grotere scheefheid / relatief grotere inkomenskloof tussen lage en hoge inkomensklassen. De afschaffing van de dividendbelasting zal de scheefheid verder vergroten en dat is volgens de minister van Sociale Zaken ongewenst",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Reactie bij de eerste bewering: Door de verlaging van de arbeidsinkomensquote in het land stijgt de winstquote (bij gelijkblijvende rente- en huur/pachtquotes), terwijl de winstquote in de buurlanden op lange termijn (vrijwel) gelijk blijft. Van iedere verdiende euro gaat een groter deel naar winst en dus is het aantrekkelijker om in dit land te beleggen"
+          },
+          {
+            "points": 1,
+            "description": "Reactie bij de tweede bewering: Met name de hoge inkomens beleggen relatief meer in aandelen, waardoor zij een relatief groter voordeel genieten van de afschaffing van de dividendbelasting. Hierdoor zal er een verwachte denivellering plaatsvinden tussen de hoge en lage inkomens"
+          },
+          {
+            "points": 1,
+            "description": "Uit tabel 2 blijkt dat de Gini-coëfficiënt is gestegen. Dit wijst op een grotere scheefheid / relatief grotere inkomenskloof tussen lage en hoge inkomensklassen. De afschaffing van de dividendbelasting zal de scheefheid verder vergroten en dat is volgens de minister van Sociale Zaken ongewenst"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-dividendbelasting-antw25.png"
+        ]
+      },
+      {
+        "title": "Afvalwater, een schone zaak",
+        "question_number": 26,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Totaalaantal VE’s = 60.000 x 0,023 + 80.000 x 0,015 + 50.000 x 0,088 + 40.000 x 0,056 = 9.220\n• TK eigen installatie = 25 x 9.220 + 300.000 = € 530.500\nKosten per VE per liter = 530.500/9.220 = € 57,54\nDe korting per VE moet minimaal zijn: 70 − 57,54 = € 12,46",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Totaalaantal VE’s = 60.000 x 0,023 + 80.000 x 0,015 + 50.000 x 0,088 + 40.000 x 0,056 = 9.220"
+          },
+          {
+            "points": 1,
+            "description": "TK eigen installatie = 25 x 9.220 + 300.000 = € 530.500; kosten per VE per liter = 530.500/9.220 = € 57,54; de korting per VE moet minimaal zijn: 70 − 57,54 = € 12,46"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-afvalwater-een-schone-zaak-antw26.png"
+        ]
+      },
+      {
+        "title": "Afvalwater, een schone zaak",
+        "question_number": 27,
+        "answer_text": "Een voorbeeld van een juiste verklaring is:\n• ZW kan zijn (specifieke) investering alleen terugverdienen door voldoende afvalwater te zuiveren (verzonken kosten)\n• ZW kan zo door de G4 worden gedwongen akkoord te gaan met een korting op de heffing (berovingsprobleem)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "ZW kan zijn (specifieke) investering alleen terugverdienen door voldoende afvalwater te zuiveren (verzonken kosten)"
+          },
+          {
+            "points": 1,
+            "description": "ZW kan zo door de G4 worden gedwongen akkoord te gaan met een korting op de heffing (berovingsprobleem)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-afvalwater-een-schone-zaak-antw27.png"
+        ]
+      },
+      {
+        "title": "Afvalwater, een schone zaak",
+        "question_number": 28,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Wanneer ZW akkoord gaat met een korting voor de G4 zal (gegeven de doelstelling van break-even) de heffing voor de andere bedrijven omhoog moeten. Hierdoor neemt de kans toe dat bedrijven afvalwater illegaal zullen willen lozen\n• Wanneer de G4 besluit een afvalwaterzuiveringsinstallatie te bouwen zullen de overige bedrijven de (constante) kosten (van ZW) moeten dekken. Dat kan alleen als ze een hogere heffing moeten betalen. Hierdoor neemt de kans toe dat de overige bedrijven afvalwater illegaal zullen willen lozen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Wanneer ZW akkoord gaat met een korting voor de G4 zal (gegeven de doelstelling van break-even) de heffing voor de andere bedrijven omhoog moeten. Hierdoor neemt de kans toe dat bedrijven afvalwater illegaal zullen willen lozen"
+          },
+          {
+            "points": 1,
+            "description": "Wanneer de G4 besluit een afvalwaterzuiveringsinstallatie te bouwen zullen de overige bedrijven de (constante) kosten (van ZW) moeten dekken. Dat kan alleen als ze een hogere heffing moeten betalen. Hierdoor neemt de kans toe dat de overige bedrijven afvalwater illegaal zullen willen lozen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-ii-afvalwater-een-schone-zaak-antw28.png"
+        ]
+      }
+    ]
+  }
+}
