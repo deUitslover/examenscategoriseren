@@ -1,0 +1,486 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "VWO",
+    "source": "VWO Economie 2019-II",
+    "answers": [
+      {
+        "title": "Rookremmers",
+        "question_number": 1,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De genoemde bijkomende/onbedoelde (maatschappelijke) kosten/effecten van roken komen ten laste van anderen dan de roker zelf\n• en worden niet verrekend in de prijs van het product",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De genoemde bijkomende/onbedoelde (maatschappelijke) kosten/effecten van roken komen ten laste van anderen dan de roker zelf"
+          },
+          {
+            "points": 1,
+            "description": "en worden niet verrekend in de prijs van het product"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-rookremmers-antw1.png"
+        ]
+      },
+      {
+        "title": "Rookremmers",
+        "question_number": 2,
+        "answer_text": "progressief variabele kosten\nVoorbeelden van een juiste toelichting zijn:\n− De TK-functie heeft een progressief verloop / is een kwadratische functie.\n− De MK-functie is een stijgende lijn.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "progressief variabele kosten\nVoorbeelden van een juiste toelichting zijn:\n− De TK-functie heeft een progressief verloop / is een kwadratische functie.\n− De MK-functie is een stijgende lijn."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-rookremmers-antw2.png"
+        ]
+      },
+      {
+        "title": "Rookremmers",
+        "question_number": 3,
+        "answer_text": "Maximale winst wordt behaald als MO = MK\n• MO = -0,08q + 16\n• MK = 0,02q + 4 + 2 (accijns)\n• -0,08q + 16 = 0,02q + 6 → q = 100\n100 × 100.000 = 10 miljoen pakjes\n\nEen tweede voorbeeld van een juist antwoord bij de tweede deelscore is:\nIndien de kandidaat de MK zou hebben berekend met (x 100.000), dan komt er de volgende MK-functie uit:\nMK = 2000q + 400.000 + 200.000\nen\n⚠️ CONTROLEREN: na \"en\" ontbreekt in het correctievoorschrift het vervolg van dit tweede voorbeeld.\n\nOp pagina 5, bij vraag 3, moet bij de derde deelscore altijd 1 scorepunt worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "MO = -0,08q + 16"
+          },
+          {
+            "points": 1,
+            "description": "MK = 0,02q + 4 + 2 (accijns)"
+          },
+          {
+            "points": 1,
+            "description": "-0,08q + 16 = 0,02q + 6 → q = 100; 100 × 100.000 = 10 miljoen pakjes (bij deze derde deelscore moet altijd 1 scorepunt worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-rookremmers-antw3.png"
+        ]
+      },
+      {
+        "title": "Rookremmers",
+        "question_number": 4,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Pscenario2 = -0,04 x 100 + 16 = € 12,00\nTOscenario2 = 12 × 100 × 100.000 = € 120 miljoen\n• Nieuwe TK = 0,01q² + 6q + 100 door € 2 accijnsverhoging\nTK = (0,01 × 100² + 6 × 100 + 100) × 100.000 = € 80 miljoen\nTWscenario2 = € 40 miljoen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Pscenario2 = -0,04 x 100 + 16 = € 12,00; TOscenario2 = 12 × 100 × 100.000 = € 120 miljoen"
+          },
+          {
+            "points": 1,
+            "description": "Nieuwe TK = 0,01q² + 6q + 100 door € 2 accijnsverhoging; TK = (0,01 × 100² + 6 × 100 + 100) × 100.000 = € 80 miljoen; TWscenario2 = € 40 miljoen"
+          }
+        ],
+        "grading_note": "Als bij de uitwerking sprake is van doorwerkfouten uit vraag 3 (q), hiervoor geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-rookremmers-antw4.png"
+        ]
+      },
+      {
+        "title": "Rookremmers",
+        "question_number": 5,
+        "answer_text": "Een voorbeeld van een juiste berekening is: (Pscenario 2 = −0,04 × 100 + 16 = €12,00)\nAfwentelingspercentage ((12,00 − 11,20) / 2) × 100% = 40%\nWanneer de prijs bij vraag 4 foutief is berekend en dit antwoord gebruikt is bij vraag 5, kan het scorepunt worden toegekend.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(Pscenario 2 = −0,04 × 100 + 16 = €12,00)\nAfwentelingspercentage ((12,00 − 11,20) / 2) × 100% = 40%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-rookremmers-antw5.png"
+        ]
+      },
+      {
+        "title": "Rookremmers",
+        "question_number": 6,
+        "answer_text": "lager\nEen voorbeeld van een juiste toelichting is:\nBij scenario 3 zal de prijsafzetlijn van een pakje sigaretten naar links verschuiven / zal er minder vraag zijn naar sigaretten bij elke gegeven prijs als gevolg van de ontmoedigingsmaatregelen, waardoor de accijnsopbrengst zal afnemen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "lager\nEen voorbeeld van een juiste toelichting is:\nBij scenario 3 zal de prijsafzetlijn van een pakje sigaretten naar links verschuiven / zal er minder vraag zijn naar sigaretten bij elke gegeven prijs als gevolg van de ontmoedigingsmaatregelen, waardoor de accijnsopbrengst zal afnemen."
+          }
+        ],
+        "grading_note": "Als het verschuiven van de prijsafzetlijn niet is genoemd of verwoord, maximaal 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-rookremmers-antw6.png"
+        ]
+      },
+      {
+        "title": "Eigen duit in zakje van de zorg",
+        "question_number": 7,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Zonder verzekeringsplicht zouden ‘goede’ risico’s / mensen met weinig (verwachte) gezondheidsklachten geneigd kunnen zijn om zich niet te laten verzekeren. De verzekeringsmaatschappijen zouden dan meer ‘slechte’ risico’s / verzekerden met een relatief hoog risico overhouden, waardoor de premies zouden moeten stijgen\n• Hierdoor zouden nog meer ‘goede’ risico’s afvallen / relatief gezonde mensen afzien van verzekering",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Zonder verzekeringsplicht zouden ‘goede’ risico’s / mensen met weinig (verwachte) gezondheidsklachten geneigd kunnen zijn om zich niet te laten verzekeren. De verzekeringsmaatschappijen zouden dan meer ‘slechte’ risico’s / verzekerden met een relatief hoog risico overhouden, waardoor de premies zouden moeten stijgen"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor zouden nog meer ‘goede’ risico’s afvallen / relatief gezonde mensen afzien van verzekering"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-eigen-duit-in-zakje-van-de-zorg-antw7.png"
+        ]
+      },
+      {
+        "title": "Eigen duit in zakje van de zorg",
+        "question_number": 8,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\nEen eigen risico houdt in dat verzekerden zelf het eerste deel van de zorgkosten moeten betalen. Dit kan leiden tot vermindering van (over)consumptie van zorg / dit kan ertoe leiden dat mensen beter letten op hun gezondheid, waardoor het de toenemende zorgkosten kan beperken.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste uitleg is:\nEen eigen risico houdt in dat verzekerden zelf het eerste deel van de zorgkosten moeten betalen. Dit kan leiden tot vermindering van (over)consumptie van zorg / dit kan ertoe leiden dat mensen beter letten op hun gezondheid, waardoor het de toenemende zorgkosten kan beperken."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-eigen-duit-in-zakje-van-de-zorg-antw8.png"
+        ]
+      },
+      {
+        "title": "Eigen duit in zakje van de zorg",
+        "question_number": 9,
+        "answer_text": "((44% van 300) + 173) / 12 = €25,42. (Dit is meer dan €25.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "((44% van 300) + 173) / 12 = €25,42. (Dit is meer dan €25.)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-eigen-duit-in-zakje-van-de-zorg-antw9.png"
+        ]
+      },
+      {
+        "title": "Eigen duit in zakje van de zorg",
+        "question_number": 10,
+        "answer_text": "Voorbeelden van een juiste berekening zijn:\n− Alleen bij jaarlijkse zorgkosten boven de € 300 heeft een verzekerde bij een vrijwillig eigen risico extra kosten. Verzekerden in groep III lopen 30% kans op zorgkosten van € 1.000 en 9% kans op zorgkosten van € 10.000. In beide gevallen bedragen de extra kosten voor de verzekerde de volle € 400 van het vrijwillig eigen risico. De verwachte extra zorgkosten voor de verzekerde bedragen dan 39% van € 400 = € 156. Dit is meer dan de besparing op de premie van € 140, dus er is geen sprake van financieel voordeel.\n− Gegeven een premie gelden de volgende kosten in de oude situatie: (0,46 x 0) + (0,15 x 300) + (0,30 x 300) + (0,09 x 300) = € 162\nGegeven de veranderingen gelden de volgende kosten in de nieuwe situatie: (0,46 x 0) + (0,15 x 300) + (0,30 x 700) + (0,09 x 700) - 140 = € 178\nEr is dus geen sprake van een financieel voordeel.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Voorbeelden van een juiste berekening zijn:\n− Alleen bij jaarlijkse zorgkosten boven de € 300 heeft een verzekerde bij een vrijwillig eigen risico extra kosten. Verzekerden in groep III lopen 30% kans op zorgkosten van € 1.000 en 9% kans op zorgkosten van € 10.000. In beide gevallen bedragen de extra kosten voor de verzekerde de volle € 400 van het vrijwillig eigen risico. De verwachte extra zorgkosten voor de verzekerde bedragen dan 39% van € 400 = € 156. Dit is meer dan de besparing op de premie van € 140, dus er is geen sprake van financieel voordeel.\n− Gegeven een premie gelden de volgende kosten in de oude situatie: (0,46 x 0) + (0,15 x 300) + (0,30 x 300) + (0,09 x 300) = € 162\nGegeven de veranderingen gelden de volgende kosten in de nieuwe situatie: (0,46 x 0) + (0,15 x 300) + (0,30 x 700) + (0,09 x 700) - 140 = € 178\nEr is dus geen sprake van een financieel voordeel."
+          }
+        ],
+        "grading_note": "Wanneer de kandidaat heeft gerekend met een extra eigen risico van € 300, maximaal 1 scorepunt toekennen bij een juiste berekening.",
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-eigen-duit-in-zakje-van-de-zorg-antw10.png"
+        ]
+      },
+      {
+        "title": "Eigen duit in zakje van de zorg",
+        "question_number": 11,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\nNaarmate meer verzekerden (in een systeem van een vrijwillig eigen risico) kiezen voor een vrijwillig eigen risico, zal er tussen verzekerden een groter verschil ontstaan in zorgbetalingen: verzekerden met weinig behoefte aan zorg / die minder zorg nodig hebben zullen relatief minder hoeven te betalen. De gezonde mensen zullen dan in mindere mate de lasten dragen van de mensen die veel zorg nodig hebben.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste uitleg is:\nNaarmate meer verzekerden (in een systeem van een vrijwillig eigen risico) kiezen voor een vrijwillig eigen risico, zal er tussen verzekerden een groter verschil ontstaan in zorgbetalingen: verzekerden met weinig behoefte aan zorg / die minder zorg nodig hebben zullen relatief minder hoeven te betalen. De gezonde mensen zullen dan in mindere mate de lasten dragen van de mensen die veel zorg nodig hebben."
+          }
+        ],
+        "grading_note": "Het verwoorden in het antwoord van de ‘behoefte aan zorg’ is essentieel voor het toekennen van scorepunten.",
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-eigen-duit-in-zakje-van-de-zorg-antw11.png"
+        ]
+      },
+      {
+        "title": "Drukte in de spits",
+        "question_number": 12,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De overheid (principaal) en Trains (agent) hebben naar verwachting verschillende doelstellingen: Trains zal meer gericht zijn op het behalen van winst, terwijl de overheid vooral de belangen van de reizigers op het oog heeft\n• De overheid heeft beperkt zicht op de kosten en opbrengsten van Trains. Er is sprake van informatie-asymmetrie\n• Deze situatie wordt (gedeeltelijk) opgeheven door de genoemde overeenkomst doordat de overheid (deels) over dezelfde informatie beschikt als Trains",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De overheid (principaal) en Trains (agent) hebben naar verwachting verschillende doelstellingen: Trains zal meer gericht zijn op het behalen van winst, terwijl de overheid vooral de belangen van de reizigers op het oog heeft"
+          },
+          {
+            "points": 1,
+            "description": "De overheid heeft beperkt zicht op de kosten en opbrengsten van Trains. Er is sprake van informatie-asymmetrie"
+          },
+          {
+            "points": 1,
+            "description": "Deze situatie wordt (gedeeltelijk) opgeheven door de genoemde overeenkomst doordat de overheid (deels) over dezelfde informatie beschikt als Trains"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-drukte-in-de-spits-antw12.png"
+        ]
+      },
+      {
+        "title": "Drukte in de spits",
+        "question_number": 13,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Bij de stijging van het tarief in de spits met 10% daalt de gevraagde hoeveelheid in de spits met 2% (doordat Ev = − 0,2)\n• Bij daling van het tarief in de daluren met 10% daalt de gevraagde hoeveelheid in de spits met 3% (doordat Ek = + 0,3)\n• De bezettingsgraad wordt: 109 × 0,98 × 0,97 = 103,62\nof\n109 × 0,95 = 103,55",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij de stijging van het tarief in de spits met 10% daalt de gevraagde hoeveelheid in de spits met 2% (doordat Ev = − 0,2)"
+          },
+          {
+            "points": 1,
+            "description": "Bij daling van het tarief in de daluren met 10% daalt de gevraagde hoeveelheid in de spits met 3% (doordat Ek = + 0,3)"
+          },
+          {
+            "points": 1,
+            "description": "De bezettingsgraad wordt: 109 × 0,98 × 0,97 = 103,62 of 109 × 0,95 = 103,55"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-drukte-in-de-spits-antw13.png"
+        ]
+      },
+      {
+        "title": "Drukte in de spits",
+        "question_number": 14,
+        "answer_text": "Een voorbeeld van een juiste verklaring is:\n• Een toenemend aantal reizigers (in de daluren) zal nauwelijks tot meer totale kosten leiden, omdat de toename gerealiseerd kan worden binnen de reeds bestaande capaciteit (met enkel een hogere bezettingsgraad)\n• De gemiddelde totale kosten zullen afnemen, omdat de totale constante kosten over meer treinreizigers verdeeld kunnen worden",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een toenemend aantal reizigers (in de daluren) zal nauwelijks tot meer totale kosten leiden, omdat de toename gerealiseerd kan worden binnen de reeds bestaande capaciteit (met enkel een hogere bezettingsgraad)"
+          },
+          {
+            "points": 1,
+            "description": "De gemiddelde totale kosten zullen afnemen, omdat de totale constante kosten over meer treinreizigers verdeeld kunnen worden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-drukte-in-de-spits-antw14.png"
+        ]
+      },
+      {
+        "title": "Drukte in de spits",
+        "question_number": 15,
+        "answer_text": "Voorbeelden van een juiste verklaring zijn:\n− Recreatieve gebruikers die tot dusver onvoldoende betalingsbereidheid hadden om met het openbaar vervoer te reizen, kunnen met het lage tarief voor de daluren hier nu wel voor kiezen. (Dit leidt tot toename van het consumentensurplus voor deze groep)\n− Door verlaging van de (dal)prijs wordt het verschil tussen de betalingsbereidheid van consumenten en de (dal)prijs groter, en neemt het consumentensurplus toe voor de gebruikers van het (dal)tarief.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Voorbeelden van een juiste verklaring zijn:\n− Recreatieve gebruikers die tot dusver onvoldoende betalingsbereidheid hadden om met het openbaar vervoer te reizen, kunnen met het lage tarief voor de daluren hier nu wel voor kiezen. (Dit leidt tot toename van het consumentensurplus voor deze groep)\n− Door verlaging van de (dal)prijs wordt het verschil tussen de betalingsbereidheid van consumenten en de (dal)prijs groter, en neemt het consumentensurplus toe voor de gebruikers van het (dal)tarief."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-drukte-in-de-spits-antw15.png"
+        ]
+      },
+      {
+        "title": "Zorgen om bezorgen",
+        "question_number": 16,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• In 2015 bedraagt de HHI 60² + 25² + 8² + 7² = 4.338\n• Deze waarde is hoger dan 2.000. (Volgens het criterium van de NCA kent deze markt dus onvoldoende concurrentie)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In 2015 bedraagt de HHI 60² + 25² + 8² + 7² = 4.338"
+          },
+          {
+            "points": 1,
+            "description": "Deze waarde is hoger dan 2.000. (Volgens het criterium van de NCA kent deze markt dus onvoldoende concurrentie)"
+          }
+        ],
+        "grading_note": "Een alternatieve juiste berekening moet ook goedgekeurd worden, bijvoorbeeld HHI > 60² > 2.000.",
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-zorgen-om-bezorgen-antw16.png"
+        ]
+      },
+      {
+        "title": "Zorgen om bezorgen",
+        "question_number": 17,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Stel q = 100; P = €6,95; TO = €695\nTO NetShop is 695 × 50% = €347,50\nqNetShop = 75%( van q = 100)\nPNetshop = 347,50 / 75 = €4,63\n• ((4,63 − 6,95) / 6,95) × 100% = −33,38%\n\nHet tarief is voor NetShop bij Rapservice 33,38% lager dan het gemiddelde tarief bij Rapservice",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Stel q = 100; P = €6,95; TO = €695; TO NetShop is 695 × 50% = €347,50; qNetShop = 75%( van q = 100); PNetshop = 347,50 / 75 = €4,63"
+          },
+          {
+            "points": 1,
+            "description": "((4,63 − 6,95) / 6,95) × 100% = −33,38%. Het tarief is voor NetShop bij Rapservice 33,38% lager dan het gemiddelde tarief bij Rapservice"
+          }
+        ],
+        "grading_note": "Een alternatieve juiste berekening moet ook goedgekeurd worden",
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-zorgen-om-bezorgen-antw17.png"
+        ]
+      },
+      {
+        "title": "Zorgen om bezorgen",
+        "question_number": 18,
+        "answer_text": "Een voorbeeld van een juiste verklaring is:\nAls de klanten de kwaliteit van Rapservice beter vinden, zullen ze ook een hogere betalingsbereidheid / een voorkeur hebben om bezorgingen door Rapservice te laten doen. De snelle groei van de markt kan daardoor meer ten goede komen aan Rapservice, waardoor de mate van concurrentie zal verminderen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste verklaring is:\nAls de klanten de kwaliteit van Rapservice beter vinden, zullen ze ook een hogere betalingsbereidheid / een voorkeur hebben om bezorgingen door Rapservice te laten doen. De snelle groei van de markt kan daardoor meer ten goede komen aan Rapservice, waardoor de mate van concurrentie zal verminderen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-zorgen-om-bezorgen-antw18.png"
+        ]
+      },
+      {
+        "title": "Rentebeleid geeft onvoldoende wind in de zeilen",
+        "question_number": 19,
+        "answer_text": "Een voorbeeld van een juiste verklaring is:\n• Een renteverlaging kan leiden tot afname van de besparingen / tot toename van kredietverstrekking, waardoor de bestedingen toenemen\n• Dit kan leiden tot toename van de productie, waardoor overbezetting / benadering productiecapaciteit / krapte op de goederenmarkt kan ontstaan, wat leidt tot toename van de bestedingsinflatie\n• De toename van de productie kan leiden tot een toename van de vraag naar arbeid en van de lonen (sterker dan de stijging van de arbeidsproductiviteit). Bedrijven kunnen de stijging van de loonkosten (per product) doorberekenen in de verkoopprijzen, wat leidt tot toename van de loonkosteninflatie",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een renteverlaging kan leiden tot afname van de besparingen / tot toename van kredietverstrekking, waardoor de bestedingen toenemen"
+          },
+          {
+            "points": 1,
+            "description": "Dit kan leiden tot toename van de productie, waardoor overbezetting / benadering productiecapaciteit / krapte op de goederenmarkt kan ontstaan, wat leidt tot toename van de bestedingsinflatie"
+          },
+          {
+            "points": 1,
+            "description": "De toename van de productie kan leiden tot een toename van de vraag naar arbeid en van de lonen (sterker dan de stijging van de arbeidsproductiviteit). Bedrijven kunnen de stijging van de loonkosten (per product) doorberekenen in de verkoopprijzen, wat leidt tot toename van de loonkosteninflatie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-rentebeleid-geeft-onvoldoende-wind-in-de-zeilen-antw19.png"
+        ]
+      },
+      {
+        "title": "Rentebeleid geeft onvoldoende wind in de zeilen",
+        "question_number": 20,
+        "answer_text": "Voorbeelden van een juiste verklaring zijn:\n− Door technologische ontwikkelingen kan de stijging van de arbeidsproductiviteit groter zijn dan de loonstijging. Op grond van kostenoverwegingen bestaat er nu geen aanleiding voor bedrijven om de prijzen te verhogen (aangezien de loonkosten per product dalen).\n− Als gevolg van kapitaalintensievere productie (bijvoorbeeld robotica) kan de vraag naar arbeid dalen ten opzichte van het aanbod, waardoor een neerwaartse druk op de lonen ontstaat / een hogere werkloosheid ontstaat. De neerwaartse druk op de lonen / hogere werkloosheid leidt tot lagere loonkosten of tot minder bestedingen, wat een neerwaarts effect heeft op het prijspeil.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Voorbeelden van een juiste verklaring zijn:\n− Door technologische ontwikkelingen kan de stijging van de arbeidsproductiviteit groter zijn dan de loonstijging. Op grond van kostenoverwegingen bestaat er nu geen aanleiding voor bedrijven om de prijzen te verhogen (aangezien de loonkosten per product dalen).\n− Als gevolg van kapitaalintensievere productie (bijvoorbeeld robotica) kan de vraag naar arbeid dalen ten opzichte van het aanbod, waardoor een neerwaartse druk op de lonen ontstaat / een hogere werkloosheid ontstaat. De neerwaartse druk op de lonen / hogere werkloosheid leidt tot lagere loonkosten of tot minder bestedingen, wat een neerwaarts effect heeft op het prijspeil."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-rentebeleid-geeft-onvoldoende-wind-in-de-zeilen-antw20.png"
+        ]
+      },
+      {
+        "title": "Rentebeleid geeft onvoldoende wind in de zeilen",
+        "question_number": 21,
+        "answer_text": "Voorbeelden van een juiste verklaring zijn:\n− Binnenlandse aanbieders die te maken hebben met concurrentie uit het buitenland kunnen zich extra hebben ingezet om door kostenbesparingen hun prijzen laag te houden, wat bijdroeg aan het laag blijven van de inflatie.\n− Binnenlandse aanbieders kunnen zijn weggeconcurreerd door efficiënter producerende buitenlandse concurrenten, wat een neerwaarts effect heeft gehad op het prijsniveau.\n− Binnenlandse aanbieders kunnen meer grondstoffen of halffabricaten inkopen uit het buitenland om de kosten te drukken, met een neerwaarts effect op het prijsniveau als gevolg.\n− Door de toegenomen handel maken geïmporteerde producten een groter deel uit van het pakket consumptiegoederen waar de consumentenprijsindex/het inflatiecijfer op gebaseerd is (ervan uitgaande dat de prijs van geïmporteerde goederen stabiel is).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Voorbeelden van een juiste verklaring zijn:\n− Binnenlandse aanbieders die te maken hebben met concurrentie uit het buitenland kunnen zich extra hebben ingezet om door kostenbesparingen hun prijzen laag te houden, wat bijdroeg aan het laag blijven van de inflatie.\n− Binnenlandse aanbieders kunnen zijn weggeconcurreerd door efficiënter producerende buitenlandse concurrenten, wat een neerwaarts effect heeft gehad op het prijsniveau.\n− Binnenlandse aanbieders kunnen meer grondstoffen of halffabricaten inkopen uit het buitenland om de kosten te drukken, met een neerwaarts effect op het prijsniveau als gevolg.\n− Door de toegenomen handel maken geïmporteerde producten een groter deel uit van het pakket consumptiegoederen waar de consumentenprijsindex/het inflatiecijfer op gebaseerd is (ervan uitgaande dat de prijs van geïmporteerde goederen stabiel is)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-rentebeleid-geeft-onvoldoende-wind-in-de-zeilen-antw21.png"
+        ]
+      },
+      {
+        "title": "Rentebeleid geeft onvoldoende wind in de zeilen",
+        "question_number": 22,
+        "answer_text": "Een voorbeeld van een juiste toelichting is:\n• Verhoging van de overheidsuitgaven / verlaging van de belastingen kan leiden tot een toename van de bestedingen, waarmee de inflatiedoelstelling alsnog kan worden bereikt\n• Dankzij toename van de bestedingen / van economische bedrijvigheid kan de overheid in komende jaren hogere belastingontvangsten / lagere uitgaven voor de sociale zekerheid tegemoet zien\n• Bij een overheidstekort zal de overheid moeten lenen. Door de lage rente zullen de rentelasten over deze leningen in de toekomst laag zijn, zodat deze in mindere mate andere uitgaven zullen verdringen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Verhoging van de overheidsuitgaven / verlaging van de belastingen kan leiden tot een toename van de bestedingen, waarmee de inflatiedoelstelling alsnog kan worden bereikt"
+          },
+          {
+            "points": 1,
+            "description": "Dankzij toename van de bestedingen / van economische bedrijvigheid kan de overheid in komende jaren hogere belastingontvangsten / lagere uitgaven voor de sociale zekerheid tegemoet zien"
+          },
+          {
+            "points": 1,
+            "description": "Bij een overheidstekort zal de overheid moeten lenen. Door de lage rente zullen de rentelasten over deze leningen in de toekomst laag zijn, zodat deze in mindere mate andere uitgaven zullen verdringen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-rentebeleid-geeft-onvoldoende-wind-in-de-zeilen-antw22.png"
+        ]
+      },
+      {
+        "title": "Gedeelde vreugd ...",
+        "question_number": 23,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\nDe groei van het bbp wordt 1,1 + 0,78 = 1,88% per jaar\n1,0188⁵ = 1,0976\n1,0976 / 1,0562 = 1,039\nHet bbp zal met de extra herverdeling na vijf jaar 3,9% hoger worden.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste berekening is:\nDe groei van het bbp wordt 1,1 + 0,78 = 1,88% per jaar\n1,0188⁵ = 1,0976\n1,0976 / 1,0562 = 1,039\nHet bbp zal met de extra herverdeling na vijf jaar 3,9% hoger worden."
+          }
+        ],
+        "grading_note": "Voor een andere juiste wijze van afronden kunnen ook scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-gedeelde-vreugd-antw23.png"
+        ]
+      },
+      {
+        "title": "Gedeelde vreugd ...",
+        "question_number": 24,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\nHerverdeling van de inkomens zal leiden tot een toename van het inkomen van de laagste inkomens. Zij besteden een relatief groter gedeelte van hun inkomen dan de hoge inkomens. Dit zal leiden tot een toename van de consumptie bij de lagere inkomensgroepen zonder dat de consumptie van de hogere inkomensgroepen noemenswaardig zal afnemen. De bestedingen in het land zullen dan toenemen (hetgeen leidt tot meer economische groei).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste uitleg is:\nHerverdeling van de inkomens zal leiden tot een toename van het inkomen van de laagste inkomens. Zij besteden een relatief groter gedeelte van hun inkomen dan de hoge inkomens. Dit zal leiden tot een toename van de consumptie bij de lagere inkomensgroepen zonder dat de consumptie van de hogere inkomensgroepen noemenswaardig zal afnemen. De bestedingen in het land zullen dan toenemen (hetgeen leidt tot meer economische groei)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-gedeelde-vreugd-antw24.png"
+        ]
+      },
+      {
+        "title": "Gedeelde vreugd ...",
+        "question_number": 25,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Een hoger opleidingsniveau betekent dat arbeiders een hogere arbeidsproductiviteit hebben\n• en daardoor een hoger inkomen hebben, wat ten goede komt aan de toekomstige groei van het bbp",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een hoger opleidingsniveau betekent dat arbeiders een hogere arbeidsproductiviteit hebben"
+          },
+          {
+            "points": 1,
+            "description": "en daardoor een hoger inkomen hebben, wat ten goede komt aan de toekomstige groei van het bbp"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-gedeelde-vreugd-antw25.png"
+        ]
+      },
+      {
+        "title": "Gedeelde vreugd ...",
+        "question_number": 26,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Bij sterkere ongelijkheid zal het aanbod op de vermogensmarkt stijgen (doordat mensen met hogere inkomens een groter deel van hun inkomens sparen / beleggen dan mensen met een lager inkomen) met verlaging van de rente als gevolg\n• Dit kan leiden tot toename van de investeringen en daarmee ook van de productiecapaciteit",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij sterkere ongelijkheid zal het aanbod op de vermogensmarkt stijgen (doordat mensen met hogere inkomens een groter deel van hun inkomens sparen / beleggen dan mensen met een lager inkomen) met verlaging van de rente als gevolg"
+          },
+          {
+            "points": 1,
+            "description": "Dit kan leiden tot toename van de investeringen en daarmee ook van de productiecapaciteit"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt kan alleen worden toegekend als een juiste uitleg is gegeven voor het eerste scorepunt.",
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-gedeelde-vreugd-antw26.png"
+        ]
+      },
+      {
+        "title": "Gedeelde vreugd ...",
+        "question_number": 27,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\nAlleen als beloning is gekoppeld aan productiviteit zullen mensen die een hoger inkomen willen, een prikkel hebben om hun productiviteit te vergroten door extra scholing / door harder te werken (waardoor de totale productie zal toenemen).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een voorbeeld van een juiste uitleg is:\nAlleen als beloning is gekoppeld aan productiviteit zullen mensen die een hoger inkomen willen, een prikkel hebben om hun productiviteit te vergroten door extra scholing / door harder te werken (waardoor de totale productie zal toenemen)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2019-ii-gedeelde-vreugd-antw27.png"
+        ]
+      }
+    ]
+  }
+}

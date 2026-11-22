@@ -1,0 +1,528 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "VWO",
+    "source": "VWO Economie 2021-I",
+    "answers": [
+      {
+        "title": "AnyWay van de grond",
+        "question_number": 1,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• totale groei van alle vluchten:\n100 × 1,0333 × 1,0387 × 1,0186 × 1,0305 = 112,66\n• aandeel van EAC van alle standaardvluchten:\n2012: 100 × 0,75 × 0,1 = 7,5\n2016: 112,66 × 0,59 × 0,089 = 5,9\n((5,9 − 7,5) / 7,5) × 100% = −21,3%",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "totale groei van alle vluchten: 100 × 1,0333 × 1,0387 × 1,0186 × 1,0305 = 112,66"
+          },
+          {
+            "points": 1,
+            "description": "aandeel van EAC van alle standaardvluchten: 2012: 100 × 0,75 × 0,1 = 7,5; 2016: 112,66 × 0,59 × 0,089 = 5,9; ((5,9 − 7,5) / 7,5) × 100% = −21,3%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-anyway-van-de-grond-antw1.png"
+        ]
+      },
+      {
+        "title": "AnyWay van de grond",
+        "question_number": 2,
+        "answer_text": "Een voorbeeld van een juiste verklaring is:\nAls AnyWay gebruikmaakt van de voorzieningen van EAC, zullen de constante kosten verdeeld worden over de vluchten van EAC en AnyWay. De gemiddelde constante kosten per vlucht zullen voor EAC dan afnemen (indien de totale afzet van CAS hoger is dan die was van EAC). Hierdoor zal de gemiddelde winst per vlucht voor EAC toenemen (gegeven de omzet en de variabele kosten).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste verklaring is:\nAls AnyWay gebruikmaakt van de voorzieningen van EAC, zullen de constante kosten verdeeld worden over de vluchten van EAC en AnyWay. De gemiddelde constante kosten per vlucht zullen voor EAC dan afnemen (indien de totale afzet van CAS hoger is dan die was van EAC). Hierdoor zal de gemiddelde winst per vlucht voor EAC toenemen (gegeven de omzet en de variabele kosten)."
+          }
+        ],
+        "grading_note": "− Zonder verwoording van constante kosten worden geen scorepunten toegekend.\n− Voor een antwoord gericht op de winst van CAS in plaats van EAC wordt maximaal 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "economie-vwo-2021-i-anyway-van-de-grond-antw2.png"
+        ]
+      },
+      {
+        "title": "AnyWay van de grond",
+        "question_number": 3,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n(20% van de werktijd wordt gevlogen voor Anyway en 80% voor EAC. Stel dat het oude loon gelijk wordt gesteld aan 100.\noud: 0,2 x 100 + 0,8 x 100 = 100\n\nHet totale loon stijgt met 1% terwijl het loon voor Anyway daalt met 10%.\nnieuw: 0,2 x 90 + 0,8 x loon EAC = 101\nLoon EAC = 83 / 0,8 = 103,75 → 3,75% loonsverhoging",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste berekening is:\n(20% van de werktijd wordt gevlogen voor Anyway en 80% voor EAC. Stel dat het oude loon gelijk wordt gesteld aan 100.\noud: 0,2 x 100 + 0,8 x 100 = 100\n\nHet totale loon stijgt met 1% terwijl het loon voor Anyway daalt met 10%.\nnieuw: 0,2 x 90 + 0,8 x loon EAC = 101\nLoon EAC = 83 / 0,8 = 103,75 → 3,75% loonsverhoging"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-anyway-van-de-grond-antw3.png"
+        ]
+      },
+      {
+        "title": "AnyWay van de grond",
+        "question_number": 4,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Bij een te sterke loonsverhoging (bij EAC) kan de verwachte winst (van CAS) te laag uitvallen\n• Hierdoor kan er onvoldoende interesse worden gevonden bij beleggers, omdat deze verwachten dat er na uitgifte voor hen te weinig dividend beschikbaar zal zijn / de koers van de aandelen na uitgifte zal dalen / het rendement op het aandeel zal dalen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij een te sterke loonsverhoging (bij EAC) kan de verwachte winst (van CAS) te laag uitvallen"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor kan er onvoldoende interesse worden gevonden bij beleggers, omdat deze verwachten dat er na uitgifte voor hen te weinig dividend beschikbaar zal zijn / de koers van de aandelen na uitgifte zal dalen / het rendement op het aandeel zal dalen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-anyway-van-de-grond-antw4.png"
+        ]
+      },
+      {
+        "title": "AnyWay van de grond",
+        "question_number": 5,
+        "answer_text": "Ja\nEen voorbeeld van een juiste toelichting is:\nAls een bond niet akkoord gaat kan de andere beter wel akkoord gaan, want voor die bond is 10% vluchten voor AnyWay beter dan een faillissement van EAC. Als een bond wel akkoord gaat kan de andere beter ook akkoord gaan, want voor die bond is 20% vluchten voor AnyWay beter dan 30%.\nBeide vakbonden (hebben een dominante strategie en) gaan akkoord met het voorstel.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Ja\nEen voorbeeld van een juiste toelichting is:\nAls een bond niet akkoord gaat kan de andere beter wel akkoord gaan, want voor die bond is 10% vluchten voor AnyWay beter dan een faillissement van EAC. Als een bond wel akkoord gaat kan de andere beter ook akkoord gaan, want voor die bond is 20% vluchten voor AnyWay beter dan 30%.\nBeide vakbonden (hebben een dominante strategie en) gaan akkoord met het voorstel."
+          }
+        ],
+        "grading_note": "− Uitsluitend 0 of 2 scorepunten toekennen.\n− Aan een toelichting met behulp van een matrix kunnen ook beide scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "economie-vwo-2021-i-anyway-van-de-grond-antw5.png"
+        ]
+      },
+      {
+        "title": "Groene bussen",
+        "question_number": 6,
+        "answer_text": "Voorbeelden van een juiste berekening zijn:\n(€500.000 − €340.000) / 400.000 = € 0,40 per kilometer\nof\ndoor twee punten af te lezen:\nDiesel: bij 200.000 kilometers zijn de totale variabele kosten € 160.000. De variabele kosten per kilometer zijn dan € 0,80 (160.000 / 200.000).\nElektrisch: bij 500.000 kilometers zijn de totale variabele kosten € 200.000. De variabele kosten per kilometer zijn dan € 0,40 (200.000 / 500.000).\nHet verschil is € 0,80 − € 0,40 = € 0,40.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voorbeelden van een juiste berekening zijn:\n(€500.000 − €340.000) / 400.000 = € 0,40 per kilometer\nof\ndoor twee punten af te lezen:\nDiesel: bij 200.000 kilometers zijn de totale variabele kosten € 160.000. De variabele kosten per kilometer zijn dan € 0,80 (160.000 / 200.000).\nElektrisch: bij 500.000 kilometers zijn de totale variabele kosten € 200.000. De variabele kosten per kilometer zijn dan € 0,40 (200.000 / 500.000).\nHet verschil is € 0,80 − € 0,40 = € 0,40."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-groene-bussen-antw6.png"
+        ]
+      },
+      {
+        "title": "Groene bussen",
+        "question_number": 7,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n(Binnen de concessieperiode moeten minimaal 400.000 kilometers kunnen worden gereden, voordat het rijden met elektrische bussen goedkoper is dan met dieselbussen, zoals figuur 1 laat zien.)\nDe concessieperiode moet dan minimaal 400.000 / 60.000 = 6,67 jaar bedragen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een voorbeeld van een juist antwoord is:\n(Binnen de concessieperiode moeten minimaal 400.000 kilometers kunnen worden gereden, voordat het rijden met elektrische bussen goedkoper is dan met dieselbussen, zoals figuur 1 laat zien.)\nDe concessieperiode moet dan minimaal 400.000 / 60.000 = 6,67 jaar bedragen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-groene-bussen-antw7.png"
+        ]
+      },
+      {
+        "title": "Groene bussen",
+        "question_number": 8,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Elektrische bussen veroorzaken minder negatieve externe effecten / uitlaatgassen / geluidshinder dan dieselbussen. Dit leidt tot lagere maatschappelijke kosten\n• Als de daling van de maatschappelijke kosten groter is dan het subsidiebedrag kan er per saldo een maatschappelijk voordeel ontstaan",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Elektrische bussen veroorzaken minder negatieve externe effecten / uitlaatgassen / geluidshinder dan dieselbussen. Dit leidt tot lagere maatschappelijke kosten"
+          },
+          {
+            "points": 1,
+            "description": "Als de daling van de maatschappelijke kosten groter is dan het subsidiebedrag kan er per saldo een maatschappelijk voordeel ontstaan"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-groene-bussen-antw8.png"
+        ]
+      },
+      {
+        "title": "Groene bussen",
+        "question_number": 9,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De gemeente (principaal) en de busonderneming (agent) hebben naar verwachting verschillende doelstellingen: de busonderneming zal meer gericht zijn op het behalen van winst, terwijl de overheid vooral de belangen van de reizigers op het oog heeft (reistijd, op tijd rijden)\n• De gemeente heeft beperkt zicht op de ritten / kosten en opbrengsten van de busonderneming. Er is sprake van informatie-asymmetrie\n\nDeze situatie wordt (gedeeltelijk) opgeheven door voorwaarden iv en v:\n• voorwaarde iv: hierdoor krijgt de gemeente direct informatie over vertragingen en reistijd. De busonderneming kan vertragingen of het schrappen van ritten niet geheim houden en zal zich sterker inzetten om vertragingen en uitval te voorkomen\n• voorwaarde v: door de maximale prijs kan de busonderneming niet ten koste van de reiziger alleen voor maximale winst gaan (en zal er meer oog zijn voor de belangen van de reizigers)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De gemeente (principaal) en de busonderneming (agent) hebben naar verwachting verschillende doelstellingen: de busonderneming zal meer gericht zijn op het behalen van winst, terwijl de overheid vooral de belangen van de reizigers op het oog heeft (reistijd, op tijd rijden)"
+          },
+          {
+            "points": 1,
+            "description": "De gemeente heeft beperkt zicht op de ritten / kosten en opbrengsten van de busonderneming. Er is sprake van informatie-asymmetrie"
+          },
+          {
+            "points": 1,
+            "description": "voorwaarde iv: hierdoor krijgt de gemeente direct informatie over vertragingen en reistijd. De busonderneming kan vertragingen of het schrappen van ritten niet geheim houden en zal zich sterker inzetten om vertragingen en uitval te voorkomen"
+          },
+          {
+            "points": 1,
+            "description": "voorwaarde v: door de maximale prijs kan de busonderneming niet ten koste van de reiziger alleen voor maximale winst gaan (en zal er meer oog zijn voor de belangen van de reizigers)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-groene-bussen-antw9.png"
+        ]
+      },
+      {
+        "title": "Op weg naar het pensioen",
+        "question_number": 10,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Een werknemer met een relatief lage tijdsvoorkeur zal liever nu sparen en later consumeren\n• Dit betekent dat de werknemer voor de doorsneepremie zal kiezen omdat dan de pensioenopbouw later relatief lager / de consumptie relatief hoger is vergeleken met het andere systeem",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een werknemer met een relatief lage tijdsvoorkeur zal liever nu sparen en later consumeren"
+          },
+          {
+            "points": 1,
+            "description": "Dit betekent dat de werknemer voor de doorsneepremie zal kiezen omdat dan de pensioenopbouw later relatief lager / de consumptie relatief hoger is vergeleken met het andere systeem"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-op-weg-naar-het-pensioen-antw10.png"
+        ]
+      },
+      {
+        "title": "Op weg naar het pensioen",
+        "question_number": 11,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Een stijgende levensverwachting betekent dat pensioendeelnemers langer een pensioenuitkering krijgen waardoor er meer vermogen opgebouwd zal moeten worden (gegeven de gegarandeerde levenslange uitkering)\n• Dit betekent dat gedurende een loopbaan een werknemer een groter percentage pensioenpremie zal moeten betalen dus de lijn verschuift omhoog",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een stijgende levensverwachting betekent dat pensioendeelnemers langer een pensioenuitkering krijgen waardoor er meer vermogen opgebouwd zal moeten worden (gegeven de gegarandeerde levenslange uitkering)"
+          },
+          {
+            "points": 1,
+            "description": "Dit betekent dat gedurende een loopbaan een werknemer een groter percentage pensioenpremie zal moeten betalen dus de lijn verschuift omhoog"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-op-weg-naar-het-pensioen-antw11.png"
+        ]
+      },
+      {
+        "title": "Op weg naar het pensioen",
+        "question_number": 12,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• In de eerste periode van twintig jaar wordt de meerderheid van de premies belegd in aandelen. Aandelen hebben een hoog rendement en een hoog risico, maar er is voldoende tijd over de hele beleggingsperiode om bij een negatieve schok een rendementsverlies goed te maken\n• In de tweede periode wordt de meerderheid van de premies belegd in obligaties. Obligaties hebben een laag rendement en een laag risico. Over de hele periode is er dan een relatief hoog rendement met een laag risico",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "In de eerste periode van twintig jaar wordt de meerderheid van de premies belegd in aandelen. Aandelen hebben een hoog rendement en een hoog risico, maar er is voldoende tijd over de hele beleggingsperiode om bij een negatieve schok een rendementsverlies goed te maken"
+          },
+          {
+            "points": 1,
+            "description": "In de tweede periode wordt de meerderheid van de premies belegd in obligaties. Obligaties hebben een laag rendement en een laag risico. Over de hele periode is er dan een relatief hoog rendement met een laag risico"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-op-weg-naar-het-pensioen-antw12.png"
+        ]
+      },
+      {
+        "title": "Op weg naar het pensioen",
+        "question_number": 13,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• In het bedrijf is sprake van een verwachte gunstige carrièreontwikkeling (naast geïndexeerde lonen). Dit betekent dat de lonen van de werknemers gedurende hun loopbaan meer zullen stijgen dan de inflatie\n• Als zij op oudere leeftijd een hoger premiepercentage betalen bij een hoger brutoloon kan het zijn dat het nettoloon van de oudere werknemers niet lager is dan het nettoloon in hun jongere jaren. De koopkracht wordt daarmee niet nadelig beïnvloed",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In het bedrijf is sprake van een verwachte gunstige carrièreontwikkeling (naast geïndexeerde lonen). Dit betekent dat de lonen van de werknemers gedurende hun loopbaan meer zullen stijgen dan de inflatie"
+          },
+          {
+            "points": 1,
+            "description": "Als zij op oudere leeftijd een hoger premiepercentage betalen bij een hoger brutoloon kan het zijn dat het nettoloon van de oudere werknemers niet lager is dan het nettoloon in hun jongere jaren. De koopkracht wordt daarmee niet nadelig beïnvloed"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-op-weg-naar-het-pensioen-antw13.png"
+        ]
+      },
+      {
+        "title": "Op weg naar het pensioen",
+        "question_number": 14,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Door een lage rente op de vermogensmarkt is het rendement op (een deel van de) beleggingen van pensioenfondsen laag / lager dan verwacht\n• Door het lagere rendement zullen pensioenfondsen (bij de garantie van een levenslang pensioen) de pensioenpremies moeten verhogen om eenzelfde pensioen te kunnen garanderen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door een lage rente op de vermogensmarkt is het rendement op (een deel van de) beleggingen van pensioenfondsen laag / lager dan verwacht"
+          },
+          {
+            "points": 1,
+            "description": "Door het lagere rendement zullen pensioenfondsen (bij de garantie van een levenslang pensioen) de pensioenpremies moeten verhogen om eenzelfde pensioen te kunnen garanderen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-op-weg-naar-het-pensioen-antw14.png"
+        ]
+      },
+      {
+        "title": "Prijsbeleid in de verf gezet",
+        "question_number": 15,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• qic = −2pic + 2x12 + 4 → qic = −2pic + 28 → pic = −0,5qic + 14\n• (TO = pic x qic)\n(TO = (−0,5qic + 14) x qic)\n(TO = −0,5q²ic + 14qic)\nMO = −qic + 14\n• MO = MK: −qic + 14 = 8 → qic = 6 → pic = 11",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "qic = −2pic + 2x12 + 4 → qic = −2pic + 28 → pic = −0,5qic + 14"
+          },
+          {
+            "points": 1,
+            "description": "(TO = pic x qic) (TO = (−0,5qic + 14) x qic) (TO = −0,5q²ic + 14qic) MO = −qic + 14"
+          },
+          {
+            "points": 1,
+            "description": "MO = MK: −qic + 14 = 8 → qic = 6 → pic = 11"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-prijsbeleid-in-de-verf-gezet-antw15.png"
+        ]
+      },
+      {
+        "title": "Prijsbeleid in de verf gezet",
+        "question_number": 16,
+        "answer_text": "Een voorbeeld van een juiste verklaring is:\n• Als pic = € 12,10; kiest Farbo voor pfb = € 12,00; TWic = € 560.000\nAls pic = € 11,00; kiest Farbo voor pfb = € 12,00; TWic = € 800.000\nAls pic = € 9,90; kiest Farbo voor pfb = € 10,80; TWic = € 100.000\n• IC zal kiezen voor pic = € 11,00 omdat dit de hoogste totale winst oplevert / IC zal de prijs dus niet aanpassen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als pic = € 12,10; kiest Farbo voor pfb = € 12,00; TWic = € 560.000. Als pic = € 11,00; kiest Farbo voor pfb = € 12,00; TWic = € 800.000. Als pic = € 9,90; kiest Farbo voor pfb = € 10,80; TWic = € 100.000"
+          },
+          {
+            "points": 1,
+            "description": "IC zal kiezen voor pic = € 11,00 omdat dit de hoogste totale winst oplevert / IC zal de prijs dus niet aanpassen"
+          }
+        ],
+        "grading_note": "Voor het juist verwoorden van de doelstelling van IC zonder het benoemen van getallen worden ook scorepunten toegekend.",
+        "answer_image_urls": [
+          "economie-vwo-2021-i-prijsbeleid-in-de-verf-gezet-antw16.png"
+        ]
+      },
+      {
+        "title": "Prijsbeleid in de verf gezet",
+        "question_number": 17,
+        "answer_text": "Een voorbeeld van een juiste argumentatie is:\n• Er zijn twee Nash-evenwichten: beide partijen houden de prijs gelijk (pic = € 11,00; pfb = € 12,00) of beide partijen verlagen de prijs (pic = € 9,90; pfb = € 10,80)\n• Een gezamenlijke prijsverhoging (pic = € 12,10; pfb = € 13,20) zal voor beide partijen een hogere uitkomst bieden dan bij de beide Nash-evenwichten, maar deze uitkomst zal (zonder onderlinge afspraak) niet tot stand komen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er zijn twee Nash-evenwichten: beide partijen houden de prijs gelijk (pic = € 11,00; pfb = € 12,00) of beide partijen verlagen de prijs (pic = € 9,90; pfb = € 10,80)"
+          },
+          {
+            "points": 1,
+            "description": "Een gezamenlijke prijsverhoging (pic = € 12,10; pfb = € 13,20) zal voor beide partijen een hogere uitkomst bieden dan bij de beide Nash-evenwichten, maar deze uitkomst zal (zonder onderlinge afspraak) niet tot stand komen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-prijsbeleid-in-de-verf-gezet-antw17.png"
+        ]
+      },
+      {
+        "title": "Prijsbeleid in de verf gezet",
+        "question_number": 18,
+        "answer_text": "Een voorbeeld van een juiste toelichting is:\nBij deze functie dient te gelden ten opzichte van de uitgangssituatie dat\n− klanten minder sterk reageren op de prijs van IC (klantenbinding) (-1,5 < -2),\n− klanten sterker reageren op de prijs van Farbo (aantrekken klanten van Farbo) (2,5 > 2) en\n− er onafhankelijk van de prijzen meer nieuwe kopers komen (5 > 4).\n− Alle effecten worden gelijktijdig bereikt bij prijsafzetfunctie c.\n\nindien vier elementen juist: 2\nindien drie elementen juist: 1\nindien minder dan drie elementen juist: 0",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien vier elementen juist: 2 scorepunten; indien drie elementen juist: 1; indien minder dan drie elementen juist: 0"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-prijsbeleid-in-de-verf-gezet-antw18.png"
+        ]
+      },
+      {
+        "title": "Devaluatie van de wal in de sloot",
+        "question_number": 19,
+        "answer_text": "Een voorbeeld van een juiste verklaring is:\nBij de import wordt die vraag uitgeoefend binnen het land zelf. Vragers reageren op de prijs zoals die in de eigen (binnenlandse) valuta luidt.\nBij de export komt de vraag uit het buitenland en reageren de (buitenlandse) vragers op de prijs die wordt gerekend in de valuta van hun land.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een voorbeeld van een juiste verklaring is:\nBij de import wordt die vraag uitgeoefend binnen het land zelf. Vragers reageren op de prijs zoals die in de eigen (binnenlandse) valuta luidt.\nBij de export komt de vraag uit het buitenland en reageren de (buitenlandse) vragers op de prijs die wordt gerekend in de valuta van hun land."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-devaluatie-van-de-wal-in-de-sloot-antw19.png"
+        ]
+      },
+      {
+        "title": "Devaluatie van de wal in de sloot",
+        "question_number": 20,
+        "answer_text": "• % verandering Pexp (in vreemde valuta) = −20%\n% verandering qexp = −0,5 × −20% = +10%\n• % verandering Pimp (in eigen valuta) ) 1 / 0,8 = 1,25; +25%\n% verandering qimp = −0,4 × 25% = −10%\n• indexcijfer exportwaarde (in eigen valuta): 100 × 1,1 = 110\nindexcijfer importwaarde (in eigen valuta): 100 × 0,9 × 1,25 = 112,5\nDe importwaarde in eigen valuta stijgt meer dan de exportwaarde in eigen valuta",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "% verandering Pexp (in vreemde valuta) = −20%; % verandering qexp = −0,5 × −20% = +10%"
+          },
+          {
+            "points": 1,
+            "description": "% verandering Pimp (in eigen valuta) ) 1 / 0,8 = 1,25; +25%; % verandering qimp = −0,4 × 25% = −10%"
+          },
+          {
+            "points": 1,
+            "description": "indexcijfer exportwaarde (in eigen valuta): 100 × 1,1 = 110; indexcijfer importwaarde (in eigen valuta): 100 × 0,9 × 1,25 = 112,5. De importwaarde in eigen valuta stijgt meer dan de exportwaarde in eigen valuta"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-devaluatie-van-de-wal-in-de-sloot-antw20.png"
+        ]
+      },
+      {
+        "title": "Devaluatie van de wal in de sloot",
+        "question_number": 21,
+        "answer_text": "Voorbeelden van een juiste verklaring zijn:\n− Op lange termijn is het makkelijker om substituten te vinden, waardoor op lange termijn het importvolume sterker reageert op prijsstijgingen van de importen. Hierdoor is de import op lange termijn elastischer.\n− Op korte termijn zijn importeurs gebonden aan contracten / is het niet makkelijk om andere (binnenlandse) leveranciers te vinden. Hierdoor reageert het importvolume zwak op een prijsstijging van de importen waardoor op korte termijn de import inelastischer is.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Voorbeelden van een juiste verklaring zijn:\n− Op lange termijn is het makkelijker om substituten te vinden, waardoor op lange termijn het importvolume sterker reageert op prijsstijgingen van de importen. Hierdoor is de import op lange termijn elastischer.\n− Op korte termijn zijn importeurs gebonden aan contracten / is het niet makkelijk om andere (binnenlandse) leveranciers te vinden. Hierdoor reageert het importvolume zwak op een prijsstijging van de importen waardoor op korte termijn de import inelastischer is."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-devaluatie-van-de-wal-in-de-sloot-antw21.png"
+        ]
+      },
+      {
+        "title": "Devaluatie van de wal in de sloot",
+        "question_number": 22,
+        "answer_text": "Een voorbeeld van een juiste verklaring is:\n• Devaluatie leidt ertoe dat de prijzen van importen stijgen waardoor er (meer dan verwachte) inflatie ontstaat. Werknemers kunnen na enige tijd als reactie hogere lonen eisen (om koopkracht te behouden)\n• Hogere loonkosten worden doorberekend in de verkoopprijs waardoor de internationale concurrentiepositie verslechtert en de export weer kan afnemen. Als gevolg daarvan kan de werkloosheid op lange termijn juist verder oplopen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Devaluatie leidt ertoe dat de prijzen van importen stijgen waardoor er (meer dan verwachte) inflatie ontstaat. Werknemers kunnen na enige tijd als reactie hogere lonen eisen (om koopkracht te behouden)"
+          },
+          {
+            "points": 1,
+            "description": "Hogere loonkosten worden doorberekend in de verkoopprijs waardoor de internationale concurrentiepositie verslechtert en de export weer kan afnemen. Als gevolg daarvan kan de werkloosheid op lange termijn juist verder oplopen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-devaluatie-van-de-wal-in-de-sloot-antw22.png"
+        ]
+      },
+      {
+        "title": "Devaluatie van de wal in de sloot",
+        "question_number": 23,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\nS − I + B − O = E − M → S − I = (E − M) − (B − O)\nB − O = −2,6; E − M = −3,2 → S − I = −0,6\nS − 20,3 = −0,6 → S = 19,7",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste berekening is:\nS − I + B − O = E − M → S − I = (E − M) − (B − O)\nB − O = −2,6; E − M = −3,2 → S − I = −0,6\nS − 20,3 = −0,6 → S = 19,7"
+          }
+        ],
+        "grading_note": "Voor een juiste berekening met toelichting in woorden in plaats van met symbolen worden ook scorepunten toegekend.",
+        "answer_image_urls": [
+          "economie-vwo-2021-i-devaluatie-van-de-wal-in-de-sloot-antw23.png"
+        ]
+      },
+      {
+        "title": "Devaluatie van de wal in de sloot",
+        "question_number": 24,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Als de overheid gaat bezuinigen om het overheidstekort te verlagen, zal dat leiden tot een afname van de overheidsbestedingen en daarmee een afname van de productie,\n• hierdoor kan de vraag naar arbeid afnemen, met toename van de werkloosheid als mogelijk gevolg",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als de overheid gaat bezuinigen om het overheidstekort te verlagen, zal dat leiden tot een afname van de overheidsbestedingen en daarmee een afname van de productie,"
+          },
+          {
+            "points": 1,
+            "description": "hierdoor kan de vraag naar arbeid afnemen, met toename van de werkloosheid als mogelijk gevolg"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-devaluatie-van-de-wal-in-de-sloot-antw24.png"
+        ]
+      },
+      {
+        "title": "Gelijkheid en groei",
+        "question_number": 25,
+        "answer_text": "bij de secundaire inkomensverdeling\nEen voorbeeld van een juiste argumentatie is:\n• Bijstandsuitkeringen worden verstrekt aan mensen zonder primair inkomen. De secundaire inkomensverdeling is dus gelijker dan de primaire en de waarde van de Ginicoëfficiënt is daarbij lager\n• De algemene heffingskorting geeft relatief meer voordeel aan mensen in de laagste inkomensklassen, waardoor de secundaire inkomensverdeling gelijker is dan de primaire en de waarde van de Ginicoëfficiënt is daarbij lager",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bijstandsuitkeringen worden verstrekt aan mensen zonder primair inkomen. De secundaire inkomensverdeling is dus gelijker dan de primaire en de waarde van de Ginicoëfficiënt is daarbij lager"
+          },
+          {
+            "points": 1,
+            "description": "De algemene heffingskorting geeft relatief meer voordeel aan mensen in de laagste inkomensklassen, waardoor de secundaire inkomensverdeling gelijker is dan de primaire en de waarde van de Ginicoëfficiënt is daarbij lager"
+          }
+        ],
+        "grading_note": "Als beide argumenten correct zijn uitgewerkt, maar gekozen is voor de primaire inkomensverdeling, kan maximaal 1 scorepunt worden toegekend.",
+        "answer_image_urls": [
+          "economie-vwo-2021-i-gelijkheid-en-groei-antw25.png"
+        ]
+      },
+      {
+        "title": "Gelijkheid en groei",
+        "question_number": 26,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\nA$ 1.200 = (1 − 0,3) × primair inkomen + A$ 250\n0,7 × primair inkomen = A$ 950 → primair inkomen = A$ 1.357,14",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste berekening is:\nA$ 1.200 = (1 − 0,3) × primair inkomen + A$ 250\n0,7 × primair inkomen = A$ 950 → primair inkomen = A$ 1.357,14"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-gelijkheid-en-groei-antw26.png"
+        ]
+      },
+      {
+        "title": "Gelijkheid en groei",
+        "question_number": 27,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− De leerplicht zorgt ervoor dat jongeren langer naar school gaan en zich hierdoor specialiseren / meer kennis vergaren waardoor hun arbeidsproductiviteit stijgt. Dit leidt tot een toename van de productie (en kan tot een toename van de lonen leiden) waardoor de economische groei toeneemt.\n− De leerplicht zorgt ervoor dat jongeren langer naar school gaan en zich hierdoor specialiseren / meer kennis vergaren waardoor hun arbeidsproductiviteit stijgt. Dit zorgt voor lagere loonkosten per product waardoor de concurrentiepositie verbetert, de export toeneemt en de stijging van de productie leidt tot een toename van de economische groei.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Voorbeelden van een juist antwoord zijn:\n− De leerplicht zorgt ervoor dat jongeren langer naar school gaan en zich hierdoor specialiseren / meer kennis vergaren waardoor hun arbeidsproductiviteit stijgt. Dit leidt tot een toename van de productie (en kan tot een toename van de lonen leiden) waardoor de economische groei toeneemt.\n− De leerplicht zorgt ervoor dat jongeren langer naar school gaan en zich hierdoor specialiseren / meer kennis vergaren waardoor hun arbeidsproductiviteit stijgt. Dit zorgt voor lagere loonkosten per product waardoor de concurrentiepositie verbetert, de export toeneemt en de stijging van de productie leidt tot een toename van de economische groei."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-gelijkheid-en-groei-antw27.png"
+        ]
+      },
+      {
+        "title": "Gelijkheid en groei",
+        "question_number": 28,
+        "answer_text": "gedaald\nEen voorbeeld van een juiste toelichting is:\nDoor de waardedaling van de eigen valuta ten opzichte van de US$ worden de exportprijzen voor buitenlandse klanten (in US$) lager, en kan het exportvolume toenemen / worden de importprijzen in eigen valuta hoger, en kan het importvolume afnemen. De binnenlandse productie en het nationaal inkomen kunnen hierdoor toenemen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "gedaald\nEen voorbeeld van een juiste toelichting is:\nDoor de waardedaling van de eigen valuta ten opzichte van de US$ worden de exportprijzen voor buitenlandse klanten (in US$) lager, en kan het exportvolume toenemen / worden de importprijzen in eigen valuta hoger, en kan het importvolume afnemen. De binnenlandse productie en het nationaal inkomen kunnen hierdoor toenemen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-gelijkheid-en-groei-antw28.png"
+        ]
+      },
+      {
+        "title": "Gelijkheid en groei",
+        "question_number": 29,
+        "answer_text": "Maatregel ii\nEen voorbeeld van een juiste argumentatie is:\n• Maatregel ii komt relatief meer ten goede aan de lagere inkomensklassen, terwijl maatregel i per saldo de hogere inkomensklassen het meest bevoordeelt\n• De consumptieve bestedingen zullen bij maatregel ii meer stijgen dan bij maatregel i. De totale bestedingen en het bruto binnenlands product vertonen hierdoor een sterkere stijging",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Maatregel ii komt relatief meer ten goede aan de lagere inkomensklassen, terwijl maatregel i per saldo de hogere inkomensklassen het meest bevoordeelt"
+          },
+          {
+            "points": 1,
+            "description": "De consumptieve bestedingen zullen bij maatregel ii meer stijgen dan bij maatregel i. De totale bestedingen en het bruto binnenlands product vertonen hierdoor een sterkere stijging"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-i-gelijkheid-en-groei-antw29.png"
+        ]
+      }
+    ]
+  }
+}
