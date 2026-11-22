@@ -1,0 +1,519 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "VWO",
+  "source": "VWO Economie 2018-II",
+  "answers": [
+   {
+    "title": "Hoe verdelen we de zorgkosten?",
+    "question_number": 1,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Stel het bbp op 100 en het totaal van de zorgkosten op 9\n9 × 1,035²⁴ = 9 × 2,283328 = 20,55\n• 100 × 1,0132²⁴ = 136,99\n(20,55 / 136,99) × 100% = 15% (en dat is meer dan 14%)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Stel het bbp op 100 en het totaal van de zorgkosten op 9\n9 × 1,035²⁴ = 9 × 2,283328 = 20,55"
+     },
+     {
+      "points": 1,
+      "description": "100 × 1,0132²⁴ = 136,99\n(20,55 / 136,99) × 100% = 15% (en dat is meer dan 14%)"
+     }
+    ],
+    "grading_note": "Een berekening op basis van 25 perioden levert geen puntenaftrek op.",
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-hoe-verdelen-we-de-zorgkosten-antw1.png"
+    ]
+   },
+   {
+    "title": "Hoe verdelen we de zorgkosten?",
+    "question_number": 2,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nWanneer de huidige jonge verzekerden in de toekomst op leeftijd gekomen zijn, zal een nieuwe generatie jongere verzekerden voor hen meebetalen aan hun hogere zorgkosten. Hun huidige negatieve nettozorgprofijt als jongere is, gemiddeld genomen, kleiner dan hun toekomstige positieve nettozorgprofijt als oudere.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nWanneer de huidige jonge verzekerden in de toekomst op leeftijd gekomen zijn, zal een nieuwe generatie jongere verzekerden voor hen meebetalen aan hun hogere zorgkosten. Hun huidige negatieve nettozorgprofijt als jongere is, gemiddeld genomen, kleiner dan hun toekomstige positieve nettozorgprofijt als oudere."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-hoe-verdelen-we-de-zorgkosten-antw2.png"
+    ]
+   },
+   {
+    "title": "Hoe verdelen we de zorgkosten?",
+    "question_number": 3,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nDe verzekeringspremies voor de verzekering van ouderen zullen veel hoger moeten liggen (om de hogere kosten te kunnen dekken) waardoor jongeren wellicht moeten sparen (en daarmee afzien van huidige consumptie) om na hun pensioengerechtigde leeftijd de benodigde hoge premies te kunnen betalen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nDe verzekeringspremies voor de verzekering van ouderen zullen veel hoger moeten liggen (om de hogere kosten te kunnen dekken) waardoor jongeren wellicht moeten sparen (en daarmee afzien van huidige consumptie) om na hun pensioengerechtigde leeftijd de benodigde hoge premies te kunnen betalen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-hoe-verdelen-we-de-zorgkosten-antw3.png"
+    ]
+   },
+   {
+    "title": "Hoe verdelen we de zorgkosten?",
+    "question_number": 4,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De verzekerden zullen letten op de hoogte van de premie, waardoor de verzekeraars extra op de kosten zullen willen letten\n• De verzekeraars zullen dan scherper onderhandelen met zorgaanbieders / ook zoeken naar de goedkoopste zorgaanbieders waardoor zorgaanbieders mogelijk hun prijzen zullen matigen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De verzekerden zullen letten op de hoogte van de premie, waardoor de verzekeraars extra op de kosten zullen willen letten"
+     },
+     {
+      "points": 1,
+      "description": "De verzekeraars zullen dan scherper onderhandelen met zorgaanbieders / ook zoeken naar de goedkoopste zorgaanbieders waardoor zorgaanbieders mogelijk hun prijzen zullen matigen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-hoe-verdelen-we-de-zorgkosten-antw4.png"
+    ]
+   },
+   {
+    "title": "Hoe verdelen we de zorgkosten?",
+    "question_number": 5,
+    "answer_text": "Voorbeelden van een juiste uitleg zijn:\n− De betalingen voor het eigen risico vormen voor mensen met lage inkomens een groter percentage van hun inkomen dan voor mensen met hoge inkomens. Zij gaan er dus procentueel meer op achteruit dan mensen met hoge inkomens.\n− Mensen met lage inkomens leven vaak relatief ongezond (vergeleken met mensen met hogere inkomens) en zijn meer op gezondheidszorg aangewezen. Zij zullen vaker betalingen moeten doen die onder het eigen risico vallen en gaan er dus procentueel meer op achteruit dan mensen met hoge inkomens.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voorbeelden van een juiste uitleg zijn:\n− De betalingen voor het eigen risico vormen voor mensen met lage inkomens een groter percentage van hun inkomen dan voor mensen met hoge inkomens. Zij gaan er dus procentueel meer op achteruit dan mensen met hoge inkomens.\n− Mensen met lage inkomens leven vaak relatief ongezond (vergeleken met mensen met hogere inkomens) en zijn meer op gezondheidszorg aangewezen. Zij zullen vaker betalingen moeten doen die onder het eigen risico vallen en gaan er dus procentueel meer op achteruit dan mensen met hoge inkomens."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-hoe-verdelen-we-de-zorgkosten-antw5.png"
+    ]
+   },
+   {
+    "title": "Arbeidsproductiviteit in de lift",
+    "question_number": 6,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n(105,0 / 105,9) × 100 = 99,2\n(104,5 / 110,4) × 100 = 94,7\n((94,7 − 99,2) / 99,2) × 100% = −4,5% (een daling van 4,5%)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\n(105,0 / 105,9) × 100 = 99,2\n(104,5 / 110,4) × 100 = 94,7\n((94,7 − 99,2) / 99,2) × 100% = −4,5% (een daling van 4,5%)"
+     }
+    ],
+    "grading_note": "Bij onjuiste afronding(en) maximaal 1 scorepunt aftrekken.",
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-arbeidsproductiviteit-in-de-lift-antw6.png"
+    ]
+   },
+   {
+    "title": "Arbeidsproductiviteit in de lift",
+    "question_number": 7,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nDe reële winst per eenheid product stijgt als gevolg van een daling van de reële loonkosten per product zolang de verkoopprijzen niet even sterk / sterker dalen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nDe reële winst per eenheid product stijgt als gevolg van een daling van de reële loonkosten per product zolang de verkoopprijzen niet even sterk / sterker dalen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-arbeidsproductiviteit-in-de-lift-antw7.png"
+    ]
+   },
+   {
+    "title": "Arbeidsproductiviteit in de lift",
+    "question_number": 8,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n1,0126 × 1,0027 × 1,01 = 1,0255 → 2,55% stijging\n(2,55 / (110,4 − 100)) × 100% = 24,5%",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\n1,0126 × 1,0027 × 1,01 = 1,0255 → 2,55% stijging\n(2,55 / (110,4 − 100)) × 100% = 24,5%"
+     }
+    ],
+    "grading_note": "Voor een andere correcte wijze van afronden ook scorepunten toekennen.",
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-arbeidsproductiviteit-in-de-lift-antw8.png"
+    ]
+   },
+   {
+    "title": "Arbeidsproductiviteit in de lift",
+    "question_number": 9,
+    "answer_text": "• De daling van het aantal gewerkte uren (met 1,4%; zie tabel 2) in 2009, alsmede de daling van (het indexcijfer van) de arbeidsproductiviteit per uur in 2009 ten opzichte van 2008 (van 108,7 naar 105,9; zie tabel 1)\n• Een voorbeeld van een juiste uitleg is:\nDoordat behalve het aantal uren ook de arbeidsproductiviteit per uur is gedaald, is de daling van de productie in 2009 sterker dan de daling van het aantal gewerkte uren in dat jaar",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De daling van het aantal gewerkte uren (met 1,4%; zie tabel 2) in 2009, alsmede de daling van (het indexcijfer van) de arbeidsproductiviteit per uur in 2009 ten opzichte van 2008 (van 108,7 naar 105,9; zie tabel 1)"
+     },
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste uitleg is: Doordat behalve het aantal uren ook de arbeidsproductiviteit per uur is gedaald, is de daling van de productie in 2009 sterker dan de daling van het aantal gewerkte uren in dat jaar"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-arbeidsproductiviteit-in-de-lift-antw9.png"
+    ]
+   },
+   {
+    "title": "Arbeidsproductiviteit in de lift",
+    "question_number": 10,
+    "answer_text": "Voorbeelden van juiste motieven zijn (twee van de volgende):\n− Het is kostbaar om personeel te ontslaan voor de afloop van het arbeidscontract / voor de opzeggingstermijn.\n− Werkgevers denken het personeel later weer nodig te hebben, en voorzien veel kosten als ze dan nieuw personeel moeten aantrekken.\n− Werkgevers zullen als gevolg van de daling van de arbeidsproductiviteit het aantal arbeidskrachten minder dan evenredig laten afnemen dan de daling van de productie.\n− Werkgevers hebben geïnvesteerd in menselijk kapitaal en vrezen deze investeringen te verliezen.\n− Werkgevers willen hun reputatie als goede werkgever (waardoor het personeel gemotiveerd blijft) niet verliezen.\n\nper juist motief 1",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "per juist motief (eerste juiste motief)"
+     },
+     {
+      "points": 1,
+      "description": "per juist motief (tweede juiste motief)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-arbeidsproductiviteit-in-de-lift-antw10.png"
+    ]
+   },
+   {
+    "title": "Arbeidsproductiviteit in de lift",
+    "question_number": 11,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Scholing draagt bij aan een stijging van de arbeidsproductiviteit. Productie kan hierdoor plaatsvinden met minder inzet van arbeid, als gevolg waarvan de werkloosheid kan toenemen\n• Dit maakt de onderhandelingspositie van werknemers bij loononderhandelingen zwakker en kan een oorzaak zijn geweest dat de arbeidsbeloning niet is gestegen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Scholing draagt bij aan een stijging van de arbeidsproductiviteit. Productie kan hierdoor plaatsvinden met minder inzet van arbeid, als gevolg waarvan de werkloosheid kan toenemen"
+     },
+     {
+      "points": 1,
+      "description": "Dit maakt de onderhandelingspositie van werknemers bij loononderhandelingen zwakker en kan een oorzaak zijn geweest dat de arbeidsbeloning niet is gestegen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-arbeidsproductiviteit-in-de-lift-antw11.png"
+    ]
+   },
+   {
+    "title": "Huizenmarkt als financiële zeepbel",
+    "question_number": 12,
+    "answer_text": "Voorbeelden van een juiste uitleg zijn:\n− een uitleg via de bestedingen:\n• In een neergaande conjunctuur (daalt de groei van het reële bbp en) neemt de vraag naar leningen door gezinnen en bedrijven (voor consumptieve bestedingen respectievelijk investeringen) af\n• De daling van de rente die hier het gevolg van is kan ertoe leiden dat de vraag naar eigen huizen (met hypothecaire leningen) stijgt\n− een uitleg via de besparingen:\n• In een neergaande conjunctuur (daalt de groei van het reële bbp en) neemt de baanzekerheid af. Dit kan ertoe leiden dat gezinnen meer willen sparen om financiële tegenvallers te kunnen opvangen\n• De daling van de rente die hier het gevolg van is kan ertoe leiden dat de vraag naar eigen huizen (met hypothecaire leningen) stijgt",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "uitleg via de bestedingen: In een neergaande conjunctuur (daalt de groei van het reële bbp en) neemt de vraag naar leningen door gezinnen en bedrijven (voor consumptieve bestedingen respectievelijk investeringen) af / uitleg via de besparingen: In een neergaande conjunctuur (daalt de groei van het reële bbp en) neemt de baanzekerheid af. Dit kan ertoe leiden dat gezinnen meer willen sparen om financiële tegenvallers te kunnen opvangen"
+     },
+     {
+      "points": 1,
+      "description": "De daling van de rente die hier het gevolg van is kan ertoe leiden dat de vraag naar eigen huizen (met hypothecaire leningen) stijgt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-huizenmarkt-als-financiele-zeepbel-antw12.png"
+    ]
+   },
+   {
+    "title": "Huizenmarkt als financiële zeepbel",
+    "question_number": 13,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nDe totale hypothecaire leenschuld per 1 januari 2017 bedraagt 6 mln. × 0,44 × 0,92 × 190.000 = 461 mld. euro’s (afgerond). (Dit is meer dan het bbp van 450 mld. euro)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste berekening is:\nDe totale hypothecaire leenschuld per 1 januari 2017 bedraagt 6 mln. × 0,44 × 0,92 × 190.000 = 461 mld. euro’s (afgerond). (Dit is meer dan het bbp van 450 mld. euro)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-huizenmarkt-als-financiele-zeepbel-antw13.png"
+    ]
+   },
+   {
+    "title": "Huizenmarkt als financiële zeepbel",
+    "question_number": 14,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nConjuncturele neergang betekent daling van (de groei van) het (reëel) bbp. Dit gaat samen met stijging van de werkloosheid. Naarmate de waarde van uitstaande hypothecaire leningen groter is in verhouding tot het bbp wordt de kans op het ontstaan van betalingsproblemen groter / kan het consumentenvertrouwen verder afnemen. De vraag naar goederen en diensten en daarmee het (reële) bbp zal hierdoor nog minder groeien / sterker krimpen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nConjuncturele neergang betekent daling van (de groei van) het (reëel) bbp. Dit gaat samen met stijging van de werkloosheid. Naarmate de waarde van uitstaande hypothecaire leningen groter is in verhouding tot het bbp wordt de kans op het ontstaan van betalingsproblemen groter / kan het consumentenvertrouwen verder afnemen. De vraag naar goederen en diensten en daarmee het (reële) bbp zal hierdoor nog minder groeien / sterker krimpen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-huizenmarkt-als-financiele-zeepbel-antw14.png"
+    ]
+   },
+   {
+    "title": "Huizenmarkt als financiële zeepbel",
+    "question_number": 15,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• De gemiddelde verhouding tussen uitstaande schuld en waarde van gestegen van (110.000 / 150.000) × 100% = 73,33% tot (190.000 / 200.000) × 100% = 95,0%\n• Dit kan worden gezien als een aanwijzing dat huiseigenaren met een uitstaande hypotheekschuld zich minder zorgen maken dat voor hen bij financiële tegenvallers een relatief hoge restschuld ontstaat / zij om hun woonlasten te verminderen moeten gaan verhuizen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De gemiddelde verhouding tussen uitstaande schuld en waarde van gestegen van (110.000 / 150.000) × 100% = 73,33% tot (190.000 / 200.000) × 100% = 95,0%"
+     },
+     {
+      "points": 1,
+      "description": "Dit kan worden gezien als een aanwijzing dat huiseigenaren met een uitstaande hypotheekschuld zich minder zorgen maken dat voor hen bij financiële tegenvallers een relatief hoge restschuld ontstaat / zij om hun woonlasten te verminderen moeten gaan verhuizen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-huizenmarkt-als-financiele-zeepbel-antw15.png"
+    ]
+   },
+   {
+    "title": "Huizenmarkt als financiële zeepbel",
+    "question_number": 16,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nDoordat een maximum wordt gesteld aan de hypotheekrente als aftrekpost zal voor een groep mensen het fiscaal rentevoordeel bij het aangaan van een lening minder worden. Deze groep krijgt (vergeleken met de voorgaande situatie) te maken met hogere nettorentelasten bij het kopen van een huis (hetgeen voor hen een prikkel vormt om te kiezen voor minder gebruik van hypothecair krediet).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nDoordat een maximum wordt gesteld aan de hypotheekrente als aftrekpost zal voor een groep mensen het fiscaal rentevoordeel bij het aangaan van een lening minder worden. Deze groep krijgt (vergeleken met de voorgaande situatie) te maken met hogere nettorentelasten bij het kopen van een huis (hetgeen voor hen een prikkel vormt om te kiezen voor minder gebruik van hypothecair krediet)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-huizenmarkt-als-financiele-zeepbel-antw16.png"
+    ]
+   },
+   {
+    "title": "Armer door muntunie",
+    "question_number": 17,
+    "answer_text": "(106,5 / 74,5 − 1) × 100% = 43,0%",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(106,5 / 74,5 − 1) × 100% = 43,0%"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-armer-door-muntunie-antw17.png"
+    ]
+   },
+   {
+    "title": "Armer door muntunie",
+    "question_number": 18,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• Een lagere (groei van de) arbeidsproductiviteit leidt tot relatief hoge loonkosten per eenheid product en daarmee tot relatief hoge productiekosten\n• Wanneer dit wordt doorberekend in de verkoopprijzen verslechtert de concurrentiepositie",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een lagere (groei van de) arbeidsproductiviteit leidt tot relatief hoge loonkosten per eenheid product en daarmee tot relatief hoge productiekosten"
+     },
+     {
+      "points": 1,
+      "description": "Wanneer dit wordt doorberekend in de verkoopprijzen verslechtert de concurrentiepositie"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-armer-door-muntunie-antw18.png"
+    ]
+   },
+   {
+    "title": "Armer door muntunie",
+    "question_number": 19,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• Als gevolg van verslechtering van de concurrentiepositie neemt de export af. Dit leidt tot daling van de vraag naar de eigen valuta en van de wisselkoers daarvan\n• Hierdoor wordt de export (gemeten in vreemde valuta) goedkoper / wordt de import (gemeten in eigen valuta) duurder, en kan de concurrentiepositie weer verbeteren",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als gevolg van verslechtering van de concurrentiepositie neemt de export af. Dit leidt tot daling van de vraag naar de eigen valuta en van de wisselkoers daarvan"
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor wordt de export (gemeten in vreemde valuta) goedkoper / wordt de import (gemeten in eigen valuta) duurder, en kan de concurrentiepositie weer verbeteren"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-armer-door-muntunie-antw19.png"
+    ]
+   },
+   {
+    "title": "Armer door muntunie",
+    "question_number": 20,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Bij lage arbeidsproductiviteit zal de concurrentiepositie relatief slecht zijn, als gevolg waarvan de export en het bbp achterblijven, met werkloosheid als gevolg\n• Dit kan op termijn leiden tot loonsverlaging, met een neerwaarts effect op de ontwikkeling van het prijsniveau (en tot een verbetering van de concurrentiepositie). Dit kan leiden tot hogere groei van het bbp",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij lage arbeidsproductiviteit zal de concurrentiepositie relatief slecht zijn, als gevolg waarvan de export en het bbp achterblijven, met werkloosheid als gevolg"
+     },
+     {
+      "points": 1,
+      "description": "Dit kan op termijn leiden tot loonsverlaging, met een neerwaarts effect op de ontwikkeling van het prijsniveau (en tot een verbetering van de concurrentiepositie). Dit kan leiden tot hogere groei van het bbp"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-armer-door-muntunie-antw20.png"
+    ]
+   },
+   {
+    "title": "Armer door muntunie",
+    "question_number": 21,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nOmdat het inkomen en de opbrengst van de (inkomsten)belasting laag zijn / Omdat de uitgaven in verband met de werkloosheid hoog zijn, kan de overheid weinig financiële middelen inzetten voor uitgaven aan bijvoorbeeld infrastructuur zonder dat het tekort oploopt tot boven de grens van 3%. (Hierdoor kunnen de arbeidsproductiviteit en de kwaliteit van de productie niet of nauwelijks worden verbeterd.)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nOmdat het inkomen en de opbrengst van de (inkomsten)belasting laag zijn / Omdat de uitgaven in verband met de werkloosheid hoog zijn, kan de overheid weinig financiële middelen inzetten voor uitgaven aan bijvoorbeeld infrastructuur zonder dat het tekort oploopt tot boven de grens van 3%. (Hierdoor kunnen de arbeidsproductiviteit en de kwaliteit van de productie niet of nauwelijks worden verbeterd.)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-armer-door-muntunie-antw21.png"
+    ]
+   },
+   {
+    "title": "Armer door muntunie",
+    "question_number": 22,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De ECB zal de rente verhogen om de inflatie te bestrijden, waardoor het sparen wordt gestimuleerd / het lenen wordt ontmoedigd\n• De daling van de bestedingen die hier het gevolg van is kan in het Zuiden leiden tot een sterkere neergang van de groei",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De ECB zal de rente verhogen om de inflatie te bestrijden, waardoor het sparen wordt gestimuleerd / het lenen wordt ontmoedigd"
+     },
+     {
+      "points": 1,
+      "description": "De daling van de bestedingen die hier het gevolg van is kan in het Zuiden leiden tot een sterkere neergang van de groei"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-armer-door-muntunie-antw22.png"
+    ]
+   },
+   {
+    "title": "Armer door muntunie",
+    "question_number": 23,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Met name hooggekwalificeerde arbeid zal vanuit de economisch zwakkere landen migreren naar de rijkere landen om werkloosheid te vermijden / goede banen te vinden\n• Daardoor daalt de (gemiddelde) arbeidsproductiviteit van de achterblijvende beroepsbevolking waardoor de concurrentiepositie in de economisch zwakkere landen verslechtert en het groeitempo daar verder achterblijft / het groeitempo in de rijkere landen versnelt, waardoor de voorsprong wat betreft economische groei stijgt",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Met name hooggekwalificeerde arbeid zal vanuit de economisch zwakkere landen migreren naar de rijkere landen om werkloosheid te vermijden / goede banen te vinden"
+     },
+     {
+      "points": 1,
+      "description": "Daardoor daalt de (gemiddelde) arbeidsproductiviteit van de achterblijvende beroepsbevolking waardoor de concurrentiepositie in de economisch zwakkere landen verslechtert en het groeitempo daar verder achterblijft / het groeitempo in de rijkere landen versnelt, waardoor de voorsprong wat betreft economische groei stijgt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-armer-door-muntunie-antw23.png"
+    ]
+   },
+   {
+    "title": "Inperken van de uitstoot",
+    "question_number": 24,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nDe overheid (heeft slechts beperkt zicht op de kosten en opbrengsten van bedrijven en) weet niet precies of bedrijven bij een bepaalde hoogte van de heffing zullen investeren in uitstootbesparende technieken of bijvoorbeeld zullen kiezen voor productievermindering. Daardoor is het effect op de uitstoot van CO₂ moeilijk te voorspellen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nDe overheid (heeft slechts beperkt zicht op de kosten en opbrengsten van bedrijven en) weet niet precies of bedrijven bij een bepaalde hoogte van de heffing zullen investeren in uitstootbesparende technieken of bijvoorbeeld zullen kiezen voor productievermindering. Daardoor is het effect op de uitstoot van CO₂ moeilijk te voorspellen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-inperken-van-de-uitstoot-antw24.png"
+    ]
+   },
+   {
+    "title": "Inperken van de uitstoot",
+    "question_number": 25,
+    "answer_text": "Een voorbeeld van een juiste argumentatie is:\n• Een opgaande conjunctuur betekent een sterkere groei van de productie, met extra uitstoot van CO2\n• waardoor de vraag naar emissierechten toeneemt en de prijs gaat stijgen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een opgaande conjunctuur betekent een sterkere groei van de productie, met extra uitstoot van CO2"
+     },
+     {
+      "points": 1,
+      "description": "waardoor de vraag naar emissierechten toeneemt en de prijs gaat stijgen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-inperken-van-de-uitstoot-antw25.png"
+    ]
+   },
+   {
+    "title": "Inperken van de uitstoot",
+    "question_number": 26,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De daling van de prijs van emissierechten in 2016 duidt op een lage vraag ten opzichte van het aanbod\n• Bij een lager emissieplafond / aanbod van emissierechten zou de prijs hoger zijn geweest en zouden bedrijven eerder zijn overgaan tot uitstootbesparende alternatieven",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De daling van de prijs van emissierechten in 2016 duidt op een lage vraag ten opzichte van het aanbod"
+     },
+     {
+      "points": 1,
+      "description": "Bij een lager emissieplafond / aanbod van emissierechten zou de prijs hoger zijn geweest en zouden bedrijven eerder zijn overgaan tot uitstootbesparende alternatieven"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-inperken-van-de-uitstoot-antw26.png"
+    ]
+   },
+   {
+    "title": "Inperken van de uitstoot",
+    "question_number": 27,
+    "answer_text": "een positief verband\nEen voorbeeld van een juiste toelichting is:\nAls de kosten van uitstootloze energieopwekking dalen, zullen meer bedrijven hierop overstappen. Er zal minder behoefte zijn aan emissierechten en de vraag daarnaar zal afnemen, waardoor de prijs zal dalen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "een positief verband\nEen voorbeeld van een juiste toelichting is:\nAls de kosten van uitstootloze energieopwekking dalen, zullen meer bedrijven hierop overstappen. Er zal minder behoefte zijn aan emissierechten en de vraag daarnaar zal afnemen, waardoor de prijs zal dalen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-inperken-van-de-uitstoot-antw27.png"
+    ]
+   },
+   {
+    "title": "Inperken van de uitstoot",
+    "question_number": 28,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nInvesteringen in technieken ter besparing van uitstoot van CO₂ leveren voor lange tijd besparing op aanschaf van emissierechten. Als verwacht wordt dat de prijs van emissierechten in de toekomst niet gaat stijgen of zelfs daalt, maakt dat de keuze voor het doen van dergelijke investeringen minder aantrekkelijk.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nInvesteringen in technieken ter besparing van uitstoot van CO₂ leveren voor lange tijd besparing op aanschaf van emissierechten. Als verwacht wordt dat de prijs van emissierechten in de toekomst niet gaat stijgen of zelfs daalt, maakt dat de keuze voor het doen van dergelijke investeringen minder aantrekkelijk."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-inperken-van-de-uitstoot-antw28.png"
+    ]
+   },
+   {
+    "title": "Inperken van de uitstoot",
+    "question_number": 29,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Bij laagconjunctuur, wanneer de vraag vanuit het bedrijfsleven naar emissierechten laag is, kan het fonds emissierechten voor een relatief lage prijs opkopen\n• Bij conjunctureel herstel, wanneer de vraag vanuit de bedrijven toeneemt, kan het fonds de ingekochte emissierechten voor een hogere prijs verkopen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij laagconjunctuur, wanneer de vraag vanuit het bedrijfsleven naar emissierechten laag is, kan het fonds emissierechten voor een relatief lage prijs opkopen"
+     },
+     {
+      "points": 1,
+      "description": "Bij conjunctureel herstel, wanneer de vraag vanuit de bedrijven toeneemt, kan het fonds de ingekochte emissierechten voor een hogere prijs verkopen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-inperken-van-de-uitstoot-antw29.png"
+    ]
+   },
+   {
+    "title": "Inperken van de uitstoot",
+    "question_number": 30,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n1,2 mln + 0,6 × 400.000 + 0,1P × 400.000\n= 1,6 mln + 0,7 × 400.000 + 0,02P × 400.000\n\n€ 1.440.000 + 40.000 P = € 1.880.000 + 8.000 P\n32.000 P = € 440.000 → P = € 13,75",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\n1,2 mln + 0,6 × 400.000 + 0,1P × 400.000\n= 1,6 mln + 0,7 × 400.000 + 0,02P × 400.000\n\n€ 1.440.000 + 40.000 P = € 1.880.000 + 8.000 P\n32.000 P = € 440.000 → P = € 13,75"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2018-ii-inperken-van-de-uitstoot-antw30.png"
+    ]
+   }
+  ]
+ }
+}
