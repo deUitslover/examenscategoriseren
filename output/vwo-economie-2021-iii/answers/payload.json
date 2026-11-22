@@ -1,0 +1,532 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "VWO",
+    "source": "VWO Economie 2021-III",
+    "answers": [
+      {
+        "title": "Vrouwenvoetbal",
+        "question_number": 1,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Een club zal de kosten minimaal gelijk moeten houden aan de opbrengsten, waardoor bij het aantrekken van een nieuwe speelster minder budget beschikbaar is\n• Hierdoor daalt de betalingsbereidheid en zal (bij een gelijkblijvend aanbod) de prijs / marktwaarde van een speelster kunnen afnemen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een club zal de kosten minimaal gelijk moeten houden aan de opbrengsten, waardoor bij het aantrekken van een nieuwe speelster minder budget beschikbaar is"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor daalt de betalingsbereidheid en zal (bij een gelijkblijvend aanbod) de prijs / marktwaarde van een speelster kunnen afnemen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-vrouwenvoetbal-antw1.png"
+        ]
+      },
+      {
+        "title": "Vrouwenvoetbal",
+        "question_number": 2,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\nVariant 1 biedt toekomstige speelsters een vast salaris onafhankelijk van hun fitheid en prestaties. Door het bieden van een vast salaris (variant 1) zullen vooral minder fitte speelsters zich aanmelden bij voetbalclub VV omdat ze weten dat ze een hoger bedrag krijgen dan clubs die een variabele beloning bieden.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste uitleg is:\nVariant 1 biedt toekomstige speelsters een vast salaris onafhankelijk van hun fitheid en prestaties. Door het bieden van een vast salaris (variant 1) zullen vooral minder fitte speelsters zich aanmelden bij voetbalclub VV omdat ze weten dat ze een hoger bedrag krijgen dan clubs die een variabele beloning bieden."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-vrouwenvoetbal-antw2.png"
+        ]
+      },
+      {
+        "title": "Vrouwenvoetbal",
+        "question_number": 3,
+        "answer_text": "Variant 2\nEen voorbeeld van een juiste uitleg is:\n• Moral hazard betekent dat een speelster geen prikkel heeft om na het ondertekenen van het contract haar conditie op peil te houden\n• Bij variant 2 zal ze minder geselecteerd / ingezet worden bij wedstrijden als ze minder fit is. Hierdoor krijgt ze minder betaald en daarmee wordt moral hazard verminderd",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Moral hazard betekent dat een speelster geen prikkel heeft om na het ondertekenen van het contract haar conditie op peil te houden"
+          },
+          {
+            "points": 1,
+            "description": "Bij variant 2 zal ze minder geselecteerd / ingezet worden bij wedstrijden als ze minder fit is. Hierdoor krijgt ze minder betaald en daarmee wordt moral hazard verminderd"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-vrouwenvoetbal-antw3.png"
+        ]
+      },
+      {
+        "title": "Vrouwenvoetbal",
+        "question_number": 4,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• TO = TK\n466.000 + 80.000 + 10q = 30.000 + 480.000 + 216.000 + q\n• 9q 180.000 q = 20.000 (⚠️ CONTROLEREN: tussen \"9q\" en \"180.000\" ontbreekt in het correctievoorschrift een teken)\n(20.000 − 18.000) / 18.000 x 100% = 11,1 %",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "TO = TK: 466.000 + 80.000 + 10q = 30.000 + 480.000 + 216.000 + q"
+          },
+          {
+            "points": 1,
+            "description": "9q 180.000 q = 20.000 (⚠️ CONTROLEREN: tussen \"9q\" en \"180.000\" ontbreekt in het correctievoorschrift een teken); (20.000 − 18.000) / 18.000 x 100% = 11,1 %"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-vrouwenvoetbal-antw4.png"
+        ]
+      },
+      {
+        "title": "Vrouwenvoetbal",
+        "question_number": 5,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De club doet een specifieke investering in een speelster die niet terugverdiend kan worden als een jeugdspeelster vroegtijdig vertrekt, waardoor een berovingsprobleem ontstaat (en de club niet zal investeren)\n• door de voorwaarde dat speelsters bij een vroegtijdig vertrek een vergoeding betalen aan de club worden deze kosten (deels) vergoed (het berovingsprobleem wordt deels voorkomen)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De club doet een specifieke investering in een speelster die niet terugverdiend kan worden als een jeugdspeelster vroegtijdig vertrekt, waardoor een berovingsprobleem ontstaat (en de club niet zal investeren)"
+          },
+          {
+            "points": 1,
+            "description": "door de voorwaarde dat speelsters bij een vroegtijdig vertrek een vergoeding betalen aan de club worden deze kosten (deels) vergoed (het berovingsprobleem wordt deels voorkomen)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-vrouwenvoetbal-antw5.png"
+        ]
+      },
+      {
+        "title": "Pensioenleeftijd",
+        "question_number": 6,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De toename van het aantal pensioengerechtigden (A) leidt niet tot financieringsproblemen omdat deze mensen zelf (in principe) tijdens hun werkzame leven premies hebben betaald en dat uitgekeerd zullen krijgen\n• De toename van de levensverwachting (B) leidt tot financieringsproblemen, omdat een gelijkblijvend (uit premies en beleggingen bijeengebracht) kapitaal beschikbaar is terwijl over een langere periode uitkeringen moeten worden gedaan.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De toename van het aantal pensioengerechtigden (A) leidt niet tot financieringsproblemen omdat deze mensen zelf (in principe) tijdens hun werkzame leven premies hebben betaald en dat uitgekeerd zullen krijgen"
+          },
+          {
+            "points": 1,
+            "description": "De toename van de levensverwachting (B) leidt tot financieringsproblemen, omdat een gelijkblijvend (uit premies en beleggingen bijeengebracht) kapitaal beschikbaar is terwijl over een langere periode uitkeringen moeten worden gedaan."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-pensioenleeftijd-antw6.png"
+        ]
+      },
+      {
+        "title": "Pensioenleeftijd",
+        "question_number": 7,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als ouderen eerder met pensioen gaan zullen zij jaren minder premie betalen. Hierdoor dalen de inkomsten van de overheid\n• Daarnaast zullen ouderen langer een uitkering krijgen waardoor de uitgaven voor de overheid stijgen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als ouderen eerder met pensioen gaan zullen zij jaren minder premie betalen. Hierdoor dalen de inkomsten van de overheid"
+          },
+          {
+            "points": 1,
+            "description": "Daarnaast zullen ouderen langer een uitkering krijgen waardoor de uitgaven voor de overheid stijgen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-pensioenleeftijd-antw7.png"
+        ]
+      },
+      {
+        "title": "Pensioenleeftijd",
+        "question_number": 8,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Het kapitaal/vermogen zal langer belegd worden, waardoor de premiehoogte ook groeit (zonder dat premie wordt ingelegd) (pijl a)\n• De tijd dat er uitkeringen worden gedaan wordt korter, dus het te verzamelen kapitaal wordt kleiner (pijl c) en de tijd dat premies kunnen worden betaald neemt toe (pijl b), dus per periode/jaar hoeft minder premie betaald te worden",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het kapitaal/vermogen zal langer belegd worden, waardoor de premiehoogte ook groeit (zonder dat premie wordt ingelegd) (pijl a)"
+          },
+          {
+            "points": 1,
+            "description": "De tijd dat er uitkeringen worden gedaan wordt korter, dus het te verzamelen kapitaal wordt kleiner (pijl c) en de tijd dat premies kunnen worden betaald neemt toe (pijl b), dus per periode/jaar hoeft minder premie betaald te worden"
+          }
+        ],
+        "grading_note": "Voor het toekennen van de tweede deelscore dienen beide verklaringen (op basis van pijlen b en c) correct te zijn verwoord.",
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-pensioenleeftijd-antw8.png"
+        ]
+      },
+      {
+        "title": "Pensioenleeftijd",
+        "question_number": 9,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De werknemers zullen hogere looneisen stellen om de hogere premies te compenseren (zodat hun nettoloon gelijk blijft)\n• Als de hogere loonkosten worden doorberekend in de prijzen, zullen Nederlandse producten minder aantrekkelijk worden voor het buitenland en zal de export dalen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De werknemers zullen hogere looneisen stellen om de hogere premies te compenseren (zodat hun nettoloon gelijk blijft)"
+          },
+          {
+            "points": 1,
+            "description": "Als de hogere loonkosten worden doorberekend in de prijzen, zullen Nederlandse producten minder aantrekkelijk worden voor het buitenland en zal de export dalen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-pensioenleeftijd-antw9.png"
+        ]
+      },
+      {
+        "title": "Pensioenleeftijd",
+        "question_number": 10,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\nBij een welvaartsvaste uitkering zal de stijging van de AOW-uitkeringen gelijk zijn aan de stijging van de lonen. Als de verhouding tussen premieplichtigen (werkenden) en de AOW’ers gelijk blijft, dan zal het totaal aan AOW-uitgaven (de teller) in gelijke verhouding stijgen met het totale bruto inkomen (de noemer) waardoor het premiepercentage niet zal toenemen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste uitleg is:\nBij een welvaartsvaste uitkering zal de stijging van de AOW-uitkeringen gelijk zijn aan de stijging van de lonen. Als de verhouding tussen premieplichtigen (werkenden) en de AOW’ers gelijk blijft, dan zal het totaal aan AOW-uitgaven (de teller) in gelijke verhouding stijgen met het totale bruto inkomen (de noemer) waardoor het premiepercentage niet zal toenemen."
+          }
+        ],
+        "grading_note": "Uitsluitend 0 of 2 scorepunten toekennen.",
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-pensioenleeftijd-antw10.png"
+        ]
+      },
+      {
+        "title": "Een CO₂-taks",
+        "question_number": 11,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Bedrijven die in Nederland te maken krijgen met een hogere kostprijs als gevolg van een CO₂-taks kunnen besluiten hun productie te verplaatsen naar landen waar geen CO₂-taks wordt geheven. Hierdoor daalt de uitstoot van CO₂ weliswaar in Nederland maar niet mondiaal.\n− Bedrijven die in Nederland te maken krijgen met een hogere kostprijs als gevolg van een CO₂-taks zullen een daling van de afzet / export zien. Hierdoor kan de vraag naar goederen verplaatst worden naar andere landen waar een toename van de productie en dus de CO₂-uitstoot plaats kan vinden (Hierdoor daalt de uitstoot van CO₂ weliswaar in Nederland maar niet mondiaal).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Voorbeelden van een juist antwoord zijn:\n− Bedrijven die in Nederland te maken krijgen met een hogere kostprijs als gevolg van een CO₂-taks kunnen besluiten hun productie te verplaatsen naar landen waar geen CO₂-taks wordt geheven. Hierdoor daalt de uitstoot van CO₂ weliswaar in Nederland maar niet mondiaal.\n− Bedrijven die in Nederland te maken krijgen met een hogere kostprijs als gevolg van een CO₂-taks zullen een daling van de afzet / export zien. Hierdoor kan de vraag naar goederen verplaatst worden naar andere landen waar een toename van de productie en dus de CO₂-uitstoot plaats kan vinden (Hierdoor daalt de uitstoot van CO₂ weliswaar in Nederland maar niet mondiaal)."
+          }
+        ],
+        "grading_note": "Uitsluitend 0 of 2 scorepunten toekennen.",
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-een-co2-taks-antw11.png"
+        ]
+      },
+      {
+        "title": "Een CO₂-taks",
+        "question_number": 12,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n(Export)bedrijven zullen eerder besluiten te investeren in duurzame innovaties om zodoende de kosten (van een CO₂-taks) te verlagen waardoor de concurrentiepositie intact blijft. De CO₂-uitstoot (als gevolg van productie) zal dan verminderen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste uitleg is:\n(Export)bedrijven zullen eerder besluiten te investeren in duurzame innovaties om zodoende de kosten (van een CO₂-taks) te verlagen waardoor de concurrentiepositie intact blijft. De CO₂-uitstoot (als gevolg van productie) zal dan verminderen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-een-co2-taks-antw12.png"
+        ]
+      },
+      {
+        "title": "Een CO₂-taks",
+        "question_number": 13,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nNederland exporteert goederen (waaronder halffabricaten/grondstoffen) naar het buitenland. Buitenlandse bedrijven krijgen daardoor ook te maken met een hogere kostprijs. Als zij deze toegenomen kosten doorberekenen in hun verkoopprijzen dan stijgt het prijspeil in het buitenland.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juist antwoord is:\nNederland exporteert goederen (waaronder halffabricaten/grondstoffen) naar het buitenland. Buitenlandse bedrijven krijgen daardoor ook te maken met een hogere kostprijs. Als zij deze toegenomen kosten doorberekenen in hun verkoopprijzen dan stijgt het prijspeil in het buitenland."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-een-co2-taks-antw13.png"
+        ]
+      },
+      {
+        "title": "Een CO₂-taks",
+        "question_number": 14,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De chemische industrie kent relatief de hoogste som van import en export. Dit betekent dat de sector sterk internationaal georiënteerd is, wat betekent dat er substituten zijn. Om de internationale concurrentiepositie niet te zeer onder druk te zetten zal de sector een CO₂-taks slechts ten dele doorberekenen in de eindprijs. Dit gaat ten kosten van de winstgevendheid\n• De bouwsector heeft veel minder last van internationale concurrentie en kan zodoende een groter deel van een CO₂-taks doorberekenen, waardoor de winstgevendheid (gemiddelde winst) op peil blijft.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De chemische industrie kent relatief de hoogste som van import en export. Dit betekent dat de sector sterk internationaal georiënteerd is, wat betekent dat er substituten zijn. Om de internationale concurrentiepositie niet te zeer onder druk te zetten zal de sector een CO₂-taks slechts ten dele doorberekenen in de eindprijs. Dit gaat ten kosten van de winstgevendheid"
+          },
+          {
+            "points": 1,
+            "description": "De bouwsector heeft veel minder last van internationale concurrentie en kan zodoende een groter deel van een CO₂-taks doorberekenen, waardoor de winstgevendheid (gemiddelde winst) op peil blijft."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-een-co2-taks-antw14.png"
+        ]
+      },
+      {
+        "title": "Een CO₂-taks",
+        "question_number": 15,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Prijselasticiteit van de vraag = −2\nProcentuele stijging van de prijs: −4,3 / −2 = 2,15%\n• Doorberekening in de verkoopprijs: 2,15 / 2,5 x 100 = 86%\nEr wordt meer dan driekwart van de taks doorberekend aan de consument, dus de bewering van de DNB-econoom is juist",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Prijselasticiteit van de vraag = −2; procentuele stijging van de prijs: −4,3 / −2 = 2,15%"
+          },
+          {
+            "points": 1,
+            "description": "Doorberekening in de verkoopprijs: 2,15 / 2,5 x 100 = 86%. Er wordt meer dan driekwart van de taks doorberekend aan de consument, dus de bewering van de DNB-econoom is juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-een-co2-taks-antw15.png"
+        ]
+      },
+      {
+        "title": "Een CO₂-taks",
+        "question_number": 16,
+        "answer_text": "Verlaging van de inkomstenbelasting\nEen voorbeeld van een juist antwoord is:\nDe verlaging van de inkomstenbelasting zorgt per saldo voor een totale productiegroei van 0,5%. De andere twee bestemmingen zorgen voor een negatieve productiegroei.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Verlaging van de inkomstenbelasting\nEen voorbeeld van een juist antwoord is:\nDe verlaging van de inkomstenbelasting zorgt per saldo voor een totale productiegroei van 0,5%. De andere twee bestemmingen zorgen voor een negatieve productiegroei."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-een-co2-taks-antw16.png"
+        ]
+      },
+      {
+        "title": "Gezonde zorg",
+        "question_number": 17,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Er is een minimaal verlies bij MO = MK\nMK = TK’ = 202Q − 10\n• MO = 1.000 (elke extra behandeling levert € 1.000 op)\nMO = MK\n1.000 = 202Q − 10\nQ = 5\nEr is een minimaal verlies bij vijf behandelingen per dag",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er is een minimaal verlies bij MO = MK; MK = TK’ = 202Q − 10"
+          },
+          {
+            "points": 1,
+            "description": "MO = 1.000 (elke extra behandeling levert € 1.000 op); MO = MK: 1.000 = 202Q − 10 → Q = 5. Er is een minimaal verlies bij vijf behandelingen per dag"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-gezonde-zorg-antw17.png"
+        ]
+      },
+      {
+        "title": "Gezonde zorg",
+        "question_number": 18,
+        "answer_text": "Een voorbeeld van een juist berekening is:\n• Constante kosten worden 3.500 x 1,20 = 4.200\nTK = 101Q² − 10Q + 4.200\nQ = 10 geeft TK = 14.200\n• TW = TO − TK → waarbij TW = 0,15 x TO\n0,15 x TO = TO − 14.200\n0,85 x TO = 14.200\nTO = 14.200 / 0,85 = 16.705,88;\nGO = 16.705,88 / 10 = € 1.670,59",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Constante kosten worden 3.500 x 1,20 = 4.200; TK = 101Q² − 10Q + 4.200; Q = 10 geeft TK = 14.200"
+          },
+          {
+            "points": 1,
+            "description": "TW = TO − TK, waarbij TW = 0,15 x TO: 0,15 x TO = TO − 14.200 → 0,85 x TO = 14.200 → TO = 14.200 / 0,85 = 16.705,88; GO = 16.705,88 / 10 = € 1.670,59"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-gezonde-zorg-antw18.png"
+        ]
+      },
+      {
+        "title": "Gezonde zorg",
+        "question_number": 19,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Het ziekenhuis doet specifieke investeringen. Als de zorgverzekeraar de behandeling in een ander ziekenhuis laat doen blijft dit ziekenhuis zitten met vaste (constante) kosten die op geen enkele andere wijze zijn terug te verdienen\n• Het ziekenhuis zal dan een meerjarig contract moeten eisen om verzekerd te zijn van toekomstige opbrengsten / niet in een berovingsprobleem te komen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het ziekenhuis doet specifieke investeringen. Als de zorgverzekeraar de behandeling in een ander ziekenhuis laat doen blijft dit ziekenhuis zitten met vaste (constante) kosten die op geen enkele andere wijze zijn terug te verdienen"
+          },
+          {
+            "points": 1,
+            "description": "Het ziekenhuis zal dan een meerjarig contract moeten eisen om verzekerd te zijn van toekomstige opbrengsten / niet in een berovingsprobleem te komen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-gezonde-zorg-antw19.png"
+        ]
+      },
+      {
+        "title": "Gezonde zorg",
+        "question_number": 20,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Als de zorgverzekeraars geen marktleider zouden zijn op een oligopolistische markt, zouden ze minder sterk staan bij een eis om de prijsstijging zo laag mogelijk te houden. Dit zal leiden tot een stijging van de prijs van de behandeling, waardoor de zorgpremies stijgen (Dit is niet goed voor de betaalbaarheid van de zorg)\n• Indien meerdere ziekenhuizen de behandeling uitvoeren zullen per ziekenhuis de totale constante kosten over minder behandelingen kunnen worden verdeeld. De gemiddelde totale kosten vallen daardoor hoger uit. De ziekenhuizen zullen dan een hogere prijs eisen voor de behandeling. Dit zal leiden tot een stijging van de zorgpremies. (Dit is niet goed voor de betaalbaarheid van de zorg)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als de zorgverzekeraars geen marktleider zouden zijn op een oligopolistische markt, zouden ze minder sterk staan bij een eis om de prijsstijging zo laag mogelijk te houden. Dit zal leiden tot een stijging van de prijs van de behandeling, waardoor de zorgpremies stijgen (Dit is niet goed voor de betaalbaarheid van de zorg)"
+          },
+          {
+            "points": 1,
+            "description": "Indien meerdere ziekenhuizen de behandeling uitvoeren zullen per ziekenhuis de totale constante kosten over minder behandelingen kunnen worden verdeeld. De gemiddelde totale kosten vallen daardoor hoger uit. De ziekenhuizen zullen dan een hogere prijs eisen voor de behandeling. Dit zal leiden tot een stijging van de zorgpremies. (Dit is niet goed voor de betaalbaarheid van de zorg)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-gezonde-zorg-antw20.png"
+        ]
+      },
+      {
+        "title": "Maatregelen die werken",
+        "question_number": 21,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\nOmvang beroepsbevolking (in indexcijfers) in 2020:\nArbeidsdeelname = Beroepsbevolking in personen / Beroepsgeschikte bevolking × 100%\n73% = ? / 100 × 100%\nBeroepsbevolking = (100 × 73) / 100 = 73\nOmvang beroepsbevolking in 2040: 70% = ? / 94 × 100%\nBeroepsbevolking = (94 × 70) / 100 = 65,8\nProcentuele verandering = (65,8 − 73) / 73 × 100% = −9,9%",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste berekening is:\nOmvang beroepsbevolking (in indexcijfers) in 2020:\nArbeidsdeelname = Beroepsbevolking in personen / Beroepsgeschikte bevolking × 100%\n73% = ? / 100 × 100%\nBeroepsbevolking = (100 × 73) / 100 = 73\nOmvang beroepsbevolking in 2040: 70% = ? / 94 × 100%\nBeroepsbevolking = (94 × 70) / 100 = 65,8\nProcentuele verandering = (65,8 − 73) / 73 × 100% = −9,9%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-maatregelen-die-werken-antw21.png"
+        ]
+      },
+      {
+        "title": "Maatregelen die werken",
+        "question_number": 22,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De dalende arbeidsdeelname in combinatie met een gelijkblijvende beroepsgeschikte bevolking leidt tot een daling van het aanbod van arbeid. Bij een gegeven vraag stijgt het gemiddeld loon (en dus ontstaat er loonkosteninflatie)\n• Indien de arbeidsproductiviteit niet voldoende stijgt, stijgen de loonkosten per product. Als deze worden doorberekend in de prijs verslechtert de internationale concurrentiepositie\n• Aangezien dit land een open karakter heeft, zal de verzwakking van de internationale concurrentiepositie leiden tot een dalende export en daardoor een negatief effect hebben op de groei van het bbp",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De dalende arbeidsdeelname in combinatie met een gelijkblijvende beroepsgeschikte bevolking leidt tot een daling van het aanbod van arbeid. Bij een gegeven vraag stijgt het gemiddeld loon (en dus ontstaat er loonkosteninflatie)"
+          },
+          {
+            "points": 1,
+            "description": "Indien de arbeidsproductiviteit niet voldoende stijgt, stijgen de loonkosten per product. Als deze worden doorberekend in de prijs verslechtert de internationale concurrentiepositie"
+          },
+          {
+            "points": 1,
+            "description": "Aangezien dit land een open karakter heeft, zal de verzwakking van de internationale concurrentiepositie leiden tot een dalende export en daardoor een negatief effect hebben op de groei van het bbp"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-maatregelen-die-werken-antw22.png"
+        ]
+      },
+      {
+        "title": "Maatregelen die werken",
+        "question_number": 23,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door het hogere loon kunnen de oudere hoogopgeleiden besluiten om het hogere loon in te ruilen voor meer vrije tijd. Door deze substitutie zal het aantal aangeboden uren dalen\n• Hoger opgeleiden zullen een hoger pensioen opbouwen / meer sparen en daardoor een prikkel hebben om eerder te stoppen met werken, waardoor het aanbod van arbeid daalt",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door het hogere loon kunnen de oudere hoogopgeleiden besluiten om het hogere loon in te ruilen voor meer vrije tijd. Door deze substitutie zal het aantal aangeboden uren dalen"
+          },
+          {
+            "points": 1,
+            "description": "Hoger opgeleiden zullen een hoger pensioen opbouwen / meer sparen en daardoor een prikkel hebben om eerder te stoppen met werken, waardoor het aanbod van arbeid daalt"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-maatregelen-die-werken-antw23.png"
+        ]
+      },
+      {
+        "title": "Maatregelen die werken",
+        "question_number": 24,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De maatregel leidt er toe dat jongeren een prikkel hebben om eerder voor arbeid te kiezen (sneller af te studeren) omdat zij dan eerder met pensioen kunnen, waardoor de arbeidsdeelname zal toenemen\n• Het flexibel maken van de pensioenleeftijd zorgt er voor dat ouderen niet voor hun 45 arbeidsjaren kunnen kiezen voor pensionering waardoor zij langer blijven deelnemen op de arbeidsmarkt",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De maatregel leidt er toe dat jongeren een prikkel hebben om eerder voor arbeid te kiezen (sneller af te studeren) omdat zij dan eerder met pensioen kunnen, waardoor de arbeidsdeelname zal toenemen"
+          },
+          {
+            "points": 1,
+            "description": "Het flexibel maken van de pensioenleeftijd zorgt er voor dat ouderen niet voor hun 45 arbeidsjaren kunnen kiezen voor pensionering waardoor zij langer blijven deelnemen op de arbeidsmarkt"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-maatregelen-die-werken-antw24.png"
+        ]
+      },
+      {
+        "title": "Maatregelen die werken",
+        "question_number": 25,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Doordat hoogopgeleiden eerder gaan werken (jongeren) of langer blijven werken (ouderen) zal er meer premie betaald worden waardoor de betaalbaarheid (werking) van het pensioenstelsel verbetert\n• Jongeren kunnen een prikkel krijgen om geen vervolgopleiding te doen / om eerder te gaan werken / ouderen die minder productief zijn kunnen langer doorwerken. Hierdoor zal de gemiddelde arbeidsproductiviteit in het land kunnen dalen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Doordat hoogopgeleiden eerder gaan werken (jongeren) of langer blijven werken (ouderen) zal er meer premie betaald worden waardoor de betaalbaarheid (werking) van het pensioenstelsel verbetert"
+          },
+          {
+            "points": 1,
+            "description": "Jongeren kunnen een prikkel krijgen om geen vervolgopleiding te doen / om eerder te gaan werken / ouderen die minder productief zijn kunnen langer doorwerken. Hierdoor zal de gemiddelde arbeidsproductiviteit in het land kunnen dalen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-maatregelen-die-werken-antw25.png"
+        ]
+      },
+      {
+        "title": "De Afrikaanse euro-variant",
+        "question_number": 26,
+        "answer_text": "Een voorbeeld van een juiste oorzaak is:\n• Er is sprake van een tekort op de lopende rekening (met de VS). De munt is geapprecieerd dus zal er per saldo een overschot op de betalingsbalans (met de VS) moeten zijn zodat de vraag naar de CFA-frank groter is dan het aanbod\n• Dit betekent dat het overschot op de kapitaalrekening (met de VS) groter is dan het tekort op de lopende rekening (met de VS)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er is sprake van een tekort op de lopende rekening (met de VS). De munt is geapprecieerd dus zal er per saldo een overschot op de betalingsbalans (met de VS) moeten zijn zodat de vraag naar de CFA-frank groter is dan het aanbod"
+          },
+          {
+            "points": 1,
+            "description": "Dit betekent dat het overschot op de kapitaalrekening (met de VS) groter is dan het tekort op de lopende rekening (met de VS)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-de-afrikaanse-euro-variant-antw26.png"
+        ]
+      },
+      {
+        "title": "De Afrikaanse euro-variant",
+        "question_number": 27,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Een hoge nominale rente trekt buitenlandse beleggers aan. Dit leidt tot een relatief hoge kapitaalimport\n• De hoge nominale rente leidt in het binnenland (in combinatie met een relatief lage inflatie) tot een hoge reële rente waardoor investeringen worden afgeremd",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een hoge nominale rente trekt buitenlandse beleggers aan. Dit leidt tot een relatief hoge kapitaalimport"
+          },
+          {
+            "points": 1,
+            "description": "De hoge nominale rente leidt in het binnenland (in combinatie met een relatief lage inflatie) tot een hoge reële rente waardoor investeringen worden afgeremd"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-de-afrikaanse-euro-variant-antw27.png"
+        ]
+      },
+      {
+        "title": "De Afrikaanse euro-variant",
+        "question_number": 28,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\nOm de eigen munt te depreciëren zal het aanbod van de eigen munt verhoogd moeten worden zodat de wisselkoers zakt. De centrale bank zal besluiten om het aanbod van de eigen munt te verhogen door buitenlandse valuta op te kopen. De valutareserve zal hierdoor toenemen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste uitleg is:\nOm de eigen munt te depreciëren zal het aanbod van de eigen munt verhoogd moeten worden zodat de wisselkoers zakt. De centrale bank zal besluiten om het aanbod van de eigen munt te verhogen door buitenlandse valuta op te kopen. De valutareserve zal hierdoor toenemen."
+          }
+        ],
+        "grading_note": "Uitsluitend 0 of 2 scorepunten toekennen.",
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-de-afrikaanse-euro-variant-antw28.png"
+        ]
+      },
+      {
+        "title": "De Afrikaanse euro-variant",
+        "question_number": 29,
+        "answer_text": "Een voorbeeld van een juist antwoord voor de korte termijn is:\n• Het tekort op de lopende rekening kan door de overheid teruggedrongen worden door een importheffing waardoor de consumptie van huishoudens daalt en dus de import van goederen. Dit leidt tot een lager tekort op de lopende rekening op de korte termijn\n• Voorbeelden van een juist antwoord voor de lange termijn zijn:\n  − door de importheffingen stijgen de binnenlandse prijzen en zullen de looneisen toenemen om de koopkracht op peil te houden. Als deze looneisen worden ingewilligd en doorberekend worden in de verkoopprijzen zullen de CFA-landen duurder worden en zal de export dalen (en dus het saldo lopende rekening zal verslechteren) op de langere termijn\n  − door de importheffingen stijgen de prijzen van geïmporteerde grondstoffen. Als deze grondstoffen worden verwerkt in goederen voor de export dan stijgen de exportprijzen. Hierdoor daalt de export en verslechtert het saldo op de lopende rekening\n  − door het invoeren van importheffingen op buitenlandse goederen daalt de export van het buitenland. Het buitenland kan hierop reageren waardoor er een sequentieel spel ontstaat als het buitenland ook importheffingen instelt op goederen uit de CFA-landen. Hierdoor zal de export van de CFA-landen dalen en het saldo op de lopende rekening verslechteren",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Korte termijn: Het tekort op de lopende rekening kan door de overheid teruggedrongen worden door een importheffing waardoor de consumptie van huishoudens daalt en dus de import van goederen. Dit leidt tot een lager tekort op de lopende rekening op de korte termijn"
+          },
+          {
+            "points": 1,
+            "description": "Lange termijn (één van de volgende):\n− door de importheffingen stijgen de binnenlandse prijzen en zullen de looneisen toenemen om de koopkracht op peil te houden. Als deze looneisen worden ingewilligd en doorberekend worden in de verkoopprijzen zullen de CFA-landen duurder worden en zal de export dalen (en dus het saldo lopende rekening zal verslechteren) op de langere termijn\n− door de importheffingen stijgen de prijzen van geïmporteerde grondstoffen. Als deze grondstoffen worden verwerkt in goederen voor de export dan stijgen de exportprijzen. Hierdoor daalt de export en verslechtert het saldo op de lopende rekening\n− door het invoeren van importheffingen op buitenlandse goederen daalt de export van het buitenland. Het buitenland kan hierop reageren waardoor er een sequentieel spel ontstaat als het buitenland ook importheffingen instelt op goederen uit de CFA-landen. Hierdoor zal de export van de CFA-landen dalen en het saldo op de lopende rekening verslechteren"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2021-iii-de-afrikaanse-euro-variant-antw29.png"
+        ]
+      }
+    ]
+  }
+}
