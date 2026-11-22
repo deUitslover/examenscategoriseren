@@ -1,0 +1,65 @@
+{
+  "source": "VWO Economie 2021-II",
+  "subject_name": "Economie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Een gewenste prijsstijging van friet?",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Verzekeren op maat",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Groei op de klippen",
+      "question_numbers": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Recessie door het buurland",
+      "question_numbers": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Dividendbelasting",
+      "question_numbers": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "title": "Afvalwater, een schone zaak",
+      "question_numbers": [
+        26,
+        27,
+        28
+      ]
+    }
+  ]
+}
