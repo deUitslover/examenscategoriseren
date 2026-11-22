@@ -1,0 +1,66 @@
+{
+  "source": "VWO Economie 2022-II",
+  "subject_name": "Economie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Zelfstandigen zonder personeel",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "CO₂ ondergronds",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Drie pensioenscenario’s",
+      "question_numbers": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Strijd om startups",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Een teken van conjunctuur",
+      "question_numbers": [
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "title": "Zoet gedronken zuur betaald",
+      "question_numbers": [
+        26,
+        27,
+        28,
+        29
+      ]
+    }
+  ]
+}
