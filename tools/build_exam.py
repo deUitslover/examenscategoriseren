@@ -70,6 +70,7 @@ Usage:
 Exam-specific quirks used so far (re-run these exactly):
     HAVO-BIO-19-I-O.pdf: see tools/annotations/havo-biologie-2019-i.py header
     HAVO-BIO-18-I-O.pdf: --attach 3:0=5   (vraag 5 option D on next page)
+    VWO-ECO-22-III-O.pdf: --newopgave 7:0 (Opgave 4 has no grey title bar)
     annotations: tools/annotations/havo-biologie-2018-i.py
 
 Output: output/<slug>/images/*.png and output/<slug>/draft.json (draft is
@@ -324,7 +325,12 @@ def main():
                 # title bar detected by title_bar_y ("Groeimodellen",
                 # VWO-WISA-23-II-O.pdf p.4): start the opgave here, the
                 # title item itself is not rendered
-                opgaven.append({"title": " ".join(item_text(page, it).split()), "items": []})
+                nt = " ".join(item_text(page, it).split())
+                # Economie: "Opgave 4 Wijzer van de conjunctuurklok" without a
+                # grey bar (VWO-ECO-22-III-O.pdf p.8, --newopgave 7:0): keep
+                # only the name
+                m_new = re.fullmatch(r"Opgave\s+\d+\s+(.+)", nt)
+                opgaven.append({"title": m_new.group(1) if m_new else nt, "items": []})
                 continue
             if (page.number, i) in drop:
                 continue
