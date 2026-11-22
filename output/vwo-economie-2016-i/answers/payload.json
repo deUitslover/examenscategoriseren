@@ -1,0 +1,447 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "VWO",
+  "source": "VWO Economie 2016-I",
+  "answers": [
+   {
+    "title": "Kapitaalvlucht uit Agazia",
+    "question_number": 1,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nOm verdere prijsstijgingen voor te zijn, doen consumenten hun aankopen eerder.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste verklaring is:\nOm verdere prijsstijgingen voor te zijn, doen consumenten hun aankopen eerder."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-kapitaalvlucht-uit-agazia-antw1.png"
+    ]
+   },
+   {
+    "title": "Kapitaalvlucht uit Agazia",
+    "question_number": 2,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nExporterende bedrijven kunnen dankzij de daling van de wisselkoers hun afzet zien stijgen en meer winst maken.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nExporterende bedrijven kunnen dankzij de daling van de wisselkoers hun afzet zien stijgen en meer winst maken."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-kapitaalvlucht-uit-agazia-antw2.png"
+    ]
+   },
+   {
+    "title": "Kapitaalvlucht uit Agazia",
+    "question_number": 3,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nDoor kapitaalvlucht ontstaat meer schaarste op de vermogensmarkt, met rentestijging als gevolg. Dit kan leiden tot afname van de investeringen, waardoor de groei van de productiecapaciteit wordt beperkt.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nDoor kapitaalvlucht ontstaat meer schaarste op de vermogensmarkt, met rentestijging als gevolg. Dit kan leiden tot afname van de investeringen, waardoor de groei van de productiecapaciteit wordt beperkt."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-kapitaalvlucht-uit-agazia-antw3.png"
+    ]
+   },
+   {
+    "title": "Kapitaalvlucht uit Agazia",
+    "question_number": 4,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Bij de koers van $ 0,50 was het aanbod van agaus gelijk aan Qᵥ:\nQᵥ = −0,2 × 50 + 20 = 10 mrd agau\n• Bij de koers van $ 0,35 waren vraag en aanbod aan elkaar gelijk bij:\nQᵥ = −0,2 × 35 + 20 = 13 mrd agau\nDoor de kapitaalvlucht is 3 miljard agau omgezet in US dollars",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij de koers van $ 0,50 was het aanbod van agaus gelijk aan Qᵥ:\nQᵥ = −0,2 × 50 + 20 = 10 mrd agau"
+     },
+     {
+      "points": 1,
+      "description": "Bij de koers van $ 0,35 waren vraag en aanbod aan elkaar gelijk bij:\nQᵥ = −0,2 × 35 + 20 = 13 mrd agau\nDoor de kapitaalvlucht is 3 miljard agau omgezet in US dollars"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-kapitaalvlucht-uit-agazia-antw4.png"
+    ]
+   },
+   {
+    "title": "Kapitaalvlucht uit Agazia",
+    "question_number": 5,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• Speculanten die een koersstijging van de agau verwachten, kopen agaus om koerswinst te kunnen halen\n• Daardoor stijgt de vraag naar agaus en daarmee ook de koers",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Speculanten die een koersstijging van de agau verwachten, kopen agaus om koerswinst te kunnen halen"
+     },
+     {
+      "points": 1,
+      "description": "Daardoor stijgt de vraag naar agaus en daarmee ook de koers"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-kapitaalvlucht-uit-agazia-antw5.png"
+    ]
+   },
+   {
+    "title": "Kapitaalvlucht uit Agazia",
+    "question_number": 6,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nOm de koers van de agau te versterken, zal de Centrale Bank van Agazia vreemde valuta moeten verkopen en dreigt uitputting van de deviezenvoorraad van het land.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste uitleg is:\nOm de koers van de agau te versterken, zal de Centrale Bank van Agazia vreemde valuta moeten verkopen en dreigt uitputting van de deviezenvoorraad van het land."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-kapitaalvlucht-uit-agazia-antw6.png"
+    ]
+   },
+   {
+    "title": "Investeren om af te schrikken",
+    "question_number": 7,
+    "answer_text": "• Maximale totale winst wordt behaald (waar MO gelijk is aan MK. Dat is het geval) bij een prijs van 60 euro en een productie van 300.000 doosjes. Bij de prijs van 50 euro hoort een afzet van 400.000 doosjes\n• Voor een juiste berekening\nVoorbeelden van een juiste berekening van de toename van het consumentensurplus zijn:\n− 400.000 × (€ 90 − € 50) × 0,5 − 300.000 × (€ 90 − € 60) × 0,5 = € 3.500.000\n− 300.000 × €10 + 0,5 × 100.000 × €10 = € 3.500.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Maximale totale winst wordt behaald (waar MO gelijk is aan MK. Dat is het geval) bij een prijs van 60 euro en een productie van 300.000 doosjes. Bij de prijs van 50 euro hoort een afzet van 400.000 doosjes"
+     },
+     {
+      "points": 1,
+      "description": "Voor een juiste berekening"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-investeren-om-af-te-schrikken-antw7.png"
+    ]
+   },
+   {
+    "title": "Investeren om af te schrikken",
+    "question_number": 8,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Ten opzichte van een prijszetting met maximale totale winst geldt:\nde opbrengst is 50 × 400.000 − 60 × 300.000 = € 2.000.000 hoger\n• de kosten zijn 100.000 × 30 = € 3.000.000 hoger\nde winst is dus € 1.000.000 lager",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Ten opzichte van een prijszetting met maximale totale winst geldt:\nde opbrengst is 50 × 400.000 − 60 × 300.000 = € 2.000.000 hoger"
+     },
+     {
+      "points": 1,
+      "description": "de kosten zijn 100.000 × 30 = € 3.000.000 hoger\nde winst is dus € 1.000.000 lager"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-investeren-om-af-te-schrikken-antw8.png"
+    ]
+   },
+   {
+    "title": "Investeren om af te schrikken",
+    "question_number": 9,
+    "answer_text": "Nee, de dreiging is niet geloofwaardig.\nEen voorbeeld van een juiste verklaring is:\nAls Lako aanbiedt, is de winstdaling voor Hanse het kleinst als dit bedrijf de prijs niet verlaagt. De winst daalt in dit geval namelijk met slechts € 330.000, tegenover een daling van € 600.000 als Hanse de prijs wel zou verlagen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Nee, de dreiging is niet geloofwaardig.\nEen voorbeeld van een juiste verklaring is:\nAls Lako aanbiedt, is de winstdaling voor Hanse het kleinst als dit bedrijf de prijs niet verlaagt. De winst daalt in dit geval namelijk met slechts € 330.000, tegenover een daling van € 600.000 als Hanse de prijs wel zou verlagen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-investeren-om-af-te-schrikken-antw9.png"
+    ]
+   },
+   {
+    "title": "Investeren om af te schrikken",
+    "question_number": 10,
+    "answer_text": "ja\nEen voorbeeld van een juiste toelichting is:\nDe kostenbesparing voor Hanse bedraagt 30.000 × € 10 = € 300.000.\nDe winstdaling bij prijsverlaging wordt (600.000 − 300.000) = € 300.000 en is daarmee voor Hanse geringer dan bij het gelijk houden van de prijs.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "ja\nEen voorbeeld van een juiste toelichting is:\nDe kostenbesparing voor Hanse bedraagt 30.000 × € 10 = € 300.000.\nDe winstdaling bij prijsverlaging wordt (600.000 − 300.000) = € 300.000 en is daarmee voor Hanse geringer dan bij het gelijk houden van de prijs."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-investeren-om-af-te-schrikken-antw10.png"
+    ]
+   },
+   {
+    "title": "Chinese arbeidsmarkt op keerpunt",
+    "question_number": 11,
+    "answer_text": "Voorbeelden van een juiste verklaring zijn:\n− De toename van de export vereiste een grotere arbeidsinzet in de industriële gebieden, waardoor de vraag naar arbeid toenam.\n− Chinese (export)bedrijven zijn meer gaan investeren in productiecapaciteit om aan de exportvraag te kunnen voldoen, waardoor de vraag naar arbeid toenam.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voorbeelden van een juiste verklaring zijn:\n− De toename van de export vereiste een grotere arbeidsinzet in de industriële gebieden, waardoor de vraag naar arbeid toenam.\n− Chinese (export)bedrijven zijn meer gaan investeren in productiecapaciteit om aan de exportvraag te kunnen voldoen, waardoor de vraag naar arbeid toenam."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-chinese-arbeidsmarkt-op-keerpunt-antw11.png"
+    ]
+   },
+   {
+    "title": "Chinese arbeidsmarkt op keerpunt",
+    "question_number": 12,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• In de plattelandsgebieden blijft het loon (in de periode tot 2011) veel lager dan in de industriële gebieden\n• Hierdoor hoeft in de industriële gebieden geen hoger loon te worden geboden (dan het aldaar reeds bestaande loon) om extra arbeid van plattelandsgebieden aan te trekken",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In de plattelandsgebieden blijft het loon (in de periode tot 2011) veel lager dan in de industriële gebieden"
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor hoeft in de industriële gebieden geen hoger loon te worden geboden (dan het aldaar reeds bestaande loon) om extra arbeid van plattelandsgebieden aan te trekken"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-chinese-arbeidsmarkt-op-keerpunt-antw12.png"
+    ]
+   },
+   {
+    "title": "Chinese arbeidsmarkt op keerpunt",
+    "question_number": 13,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• De loonkosten per product stegen in China meer dan in omringende landen\n• Dit leidde tot afname van de werkgelegenheid in de industriële sector doordat de concurrentiepositie van de industriële export van China afnam, met inkrimping van de productie als gevolg / doordat internationale bedrijven (een deel van) hun productie vanuit China verplaatsten naar de omliggende landen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De loonkosten per product stegen in China meer dan in omringende landen"
+     },
+     {
+      "points": 1,
+      "description": "Dit leidde tot afname van de werkgelegenheid in de industriële sector doordat de concurrentiepositie van de industriële export van China afnam, met inkrimping van de productie als gevolg / doordat internationale bedrijven (een deel van) hun productie vanuit China verplaatsten naar de omliggende landen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-chinese-arbeidsmarkt-op-keerpunt-antw13.png"
+    ]
+   },
+   {
+    "title": "Chinese arbeidsmarkt op keerpunt",
+    "question_number": 14,
+    "answer_text": "Voorbeelden van een juiste verklaring zijn:\n− De binnenlandse consumptie (van goederen én van diensten) nam toe en werd een nieuwe motor achter de groei van de productie (ondanks het terugvallen van de productie voor industriële export).\n− Toename van de bestedingen van de Chinese overheid (in infrastructuur en woningbouw).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voorbeelden van een juiste verklaring zijn:\n− De binnenlandse consumptie (van goederen én van diensten) nam toe en werd een nieuwe motor achter de groei van de productie (ondanks het terugvallen van de productie voor industriële export).\n− Toename van de bestedingen van de Chinese overheid (in infrastructuur en woningbouw)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-chinese-arbeidsmarkt-op-keerpunt-antw14.png"
+    ]
+   },
+   {
+    "title": "Communicatie te duur?",
+    "question_number": 15,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− De prijs voor een abonnement bij Com is hoger dan bij Blue, waarbij Com toch afzet blijft behouden (Qc > 0).\n− Bij prijsveranderingen van (een van) beide concurrenten is er geen sprake van dat één van beide alle klandizie verliest aan de ander.\n\nOpmerking\nAls in het antwoord geen effect op de afzet is meegenomen, maximaal 1 scorepunt toekennen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juist antwoord zijn:\n− De prijs voor een abonnement bij Com is hoger dan bij Blue, waarbij Com toch afzet blijft behouden (Qc > 0).\n− Bij prijsveranderingen van (een van) beide concurrenten is er geen sprake van dat één van beide alle klandizie verliest aan de ander."
+     }
+    ],
+    "grading_note": "Als in het antwoord geen effect op de afzet is meegenomen, maximaal 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "economie-vwo-2016-i-communicatie-te-duur-antw15.png"
+    ]
+   },
+   {
+    "title": "Communicatie te duur?",
+    "question_number": 16,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Prijsverhoging van Com, bij volledig doorberekenen van de btw:\n(24,99 / 119) × 121 = 25,41\n((25,41 − 24,99) / 24,99) × 100 = 1,68%\n• Mutatie van de afzet van Com:\nQc oud = −2,3 × 24,99 + 1,8 × 22,50 + 85 = 68,023 × 1.000.000\nQc oud = 68.023.000\nQc nieuw = −2,3 × 25,41 + 1,8 × 22,50 + 85 = 67,057 × 1.000.000\nQc nieuw = 67.057.000\nMutatie Qc = ((67.057.000 − 68.023.000) / 68.023.000) × 100% = −1,42%\n• De prijselasticiteit van de vraag = −1,42 / +1,68 = −0,85\n\nOpmerking\nEen juiste berekening met andere afronding ook goed rekenen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Prijsverhoging van Com, bij volledig doorberekenen van de btw:\n(24,99 / 119) × 121 = 25,41\n((25,41 − 24,99) / 24,99) × 100 = 1,68%"
+     },
+     {
+      "points": 1,
+      "description": "Mutatie van de afzet van Com:\nQc oud = −2,3 × 24,99 + 1,8 × 22,50 + 85 = 68,023 × 1.000.000\nQc oud = 68.023.000\nQc nieuw = −2,3 × 25,41 + 1,8 × 22,50 + 85 = 67,057 × 1.000.000\nQc nieuw = 67.057.000\nMutatie Qc = ((67.057.000 − 68.023.000) / 68.023.000) × 100% = −1,42%"
+     },
+     {
+      "points": 1,
+      "description": "De prijselasticiteit van de vraag = −1,42 / +1,68 = −0,85"
+     }
+    ],
+    "grading_note": "Een juiste berekening met andere afronding ook goed rekenen.",
+    "answer_image_urls": [
+     "economie-vwo-2016-i-communicatie-te-duur-antw16.png"
+    ]
+   },
+   {
+    "title": "Communicatie te duur?",
+    "question_number": 17,
+    "answer_text": "Blue\nEen voorbeeld van een juiste toelichting is:\nDe uitkomst bij ‘volledig doorberekenen’ is voor Blue in alle gevallen slechter dan bij ‘deels doorberekenen’.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Blue\nEen voorbeeld van een juiste toelichting is:\nDe uitkomst bij ‘volledig doorberekenen’ is voor Blue in alle gevallen slechter dan bij ‘deels doorberekenen’."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-communicatie-te-duur-antw17.png"
+    ]
+   },
+   {
+    "title": "Communicatie te duur?",
+    "question_number": 18,
+    "answer_text": "Com zal kiezen voor de strategie ‘deels doorberekenen’.\nVoorbeelden van een juiste redenering zijn:\n− Er komt (met behulp van de best response methode) één Nash-evenwicht en dat is voor beide bedrijven ‘deels doorberekenen’.\n− Blue heeft een dominante strategie: ‘deels doorberekenen’. Com weet dat en zal daarop reageren met eveneens ‘deels doorberekenen’.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Com zal kiezen voor de strategie ‘deels doorberekenen’.\nVoorbeelden van een juiste redenering zijn:\n− Er komt (met behulp van de best response methode) één Nash-evenwicht en dat is voor beide bedrijven ‘deels doorberekenen’.\n− Blue heeft een dominante strategie: ‘deels doorberekenen’. Com weet dat en zal daarop reageren met eveneens ‘deels doorberekenen’."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-communicatie-te-duur-antw18.png"
+    ]
+   },
+   {
+    "title": "Geschikte arbeidsongeschiktheidsverzekeringen",
+    "question_number": 19,
+    "answer_text": "Een voorbeeld van een juiste berekening is: TO = 9.000 × 850 = € 7.650.000\nTK = 400.000 + 9.000 × 15 + 8.000 × (200.000 / 200) + 1.000 × (200.000 / 500)\nTK = € 8.935.000\ntotaal verlies 2017 = 8.935.000 − 7.650.000 = € 1.285.000",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is: TO = 9.000 × 850 = € 7.650.000\nTK = 400.000 + 9.000 × 15 + 8.000 × (200.000 / 200) + 1.000 × (200.000 / 500)\nTK = € 8.935.000\ntotaal verlies 2017 = 8.935.000 − 7.650.000 = € 1.285.000"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-geschikte-arbeidsongeschiktheidsverzekeringen-antw19.png"
+    ]
+   },
+   {
+    "title": "Geschikte arbeidsongeschiktheidsverzekeringen",
+    "question_number": 20,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• Door de uniforme premie zullen zich naar verwachting in 2017 in verhouding veel zzp’ers met een fysiek zwaar beroep bij de nieuwe verzekering aanmelden. Deze hebben een relatief hoge kans op arbeidsongeschiktheid\n• Dit betekent voor AOVZ hoge uitkeringslasten, waarmee onvoldoende rekening is gehouden bij het vaststellen van de uniforme premie (hetgeen kan hebben bijgedragen aan het verlies)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de uniforme premie zullen zich naar verwachting in 2017 in verhouding veel zzp’ers met een fysiek zwaar beroep bij de nieuwe verzekering aanmelden. Deze hebben een relatief hoge kans op arbeidsongeschiktheid"
+     },
+     {
+      "points": 1,
+      "description": "Dit betekent voor AOVZ hoge uitkeringslasten, waarmee onvoldoende rekening is gehouden bij het vaststellen van de uniforme premie (hetgeen kan hebben bijgedragen aan het verlies)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-geschikte-arbeidsongeschiktheidsverzekeringen-antw20.png"
+    ]
+   },
+   {
+    "title": "Geschikte arbeidsongeschiktheidsverzekeringen",
+    "question_number": 21,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nHet is heel onwaarschijnlijk dat een verzekerde zzp’er zich risicovoller zal gedragen dan als hij niet verzekerd is. Geen financiële tegemoetkoming lijkt op te kunnen wegen tegen blijvende arbeidsongeschiktheid.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste uitleg is:\nHet is heel onwaarschijnlijk dat een verzekerde zzp’er zich risicovoller zal gedragen dan als hij niet verzekerd is. Geen financiële tegemoetkoming lijkt op te kunnen wegen tegen blijvende arbeidsongeschiktheid."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-geschikte-arbeidsongeschiktheidsverzekeringen-antw21.png"
+    ]
+   },
+   {
+    "title": "Geschikte arbeidsongeschiktheidsverzekeringen",
+    "question_number": 22,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Voor het behalen van maximale totale winst zal in beide deelmarkten een premie worden vastgesteld, waarbij sprake is van MO = MK.\nDit geeft voor de eerste doelgroep een jaarpremie van 1.400 euro en voor de tweede doelgroep een jaarpremie van 800 euro\n• Totale Opbrengsten (TO) = TO₁ + TO₂\nTO = 3.200 × 1.400 + (1.100 × 800) = 5.360.000 euro\n• Totale Kosten (TK) = TVK₁ + TVK₂ + TCK\nTK = (3.200 × 1.015) + (1.100 × 415) + 400.000 = 4.104.500 euro\nDe maximale Totale Winst (TW) bedraagt 1.255.500 euro\n\nOpmerking\nBij kleine verschillen bij aflezen van Q₁ en Q₂ kunnen scorepunten worden toegekend.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor het behalen van maximale totale winst zal in beide deelmarkten een premie worden vastgesteld, waarbij sprake is van MO = MK.\nDit geeft voor de eerste doelgroep een jaarpremie van 1.400 euro en voor de tweede doelgroep een jaarpremie van 800 euro"
+     },
+     {
+      "points": 1,
+      "description": "Totale Opbrengsten (TO) = TO₁ + TO₂\nTO = 3.200 × 1.400 + (1.100 × 800) = 5.360.000 euro"
+     },
+     {
+      "points": 1,
+      "description": "Totale Kosten (TK) = TVK₁ + TVK₂ + TCK\nTK = (3.200 × 1.015) + (1.100 × 415) + 400.000 = 4.104.500 euro\nDe maximale Totale Winst (TW) bedraagt 1.255.500 euro"
+     }
+    ],
+    "grading_note": "Bij kleine verschillen bij aflezen van Q₁ en Q₂ kunnen scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "economie-vwo-2016-i-geschikte-arbeidsongeschiktheidsverzekeringen-antw22.png"
+    ]
+   },
+   {
+    "title": "Werken moet lonen",
+    "question_number": 23,
+    "answer_text": "aanpassing 2\nEen voorbeeld van een juiste toelichting is:\nBij beide aanpassingen is een zelfde bedrag voor mensen met een lager (bruto) jaarinkomen relatief hoger dan voor degenen met een hoger (bruto) jaarinkomen, waardoor de netto inkomensverdeling minder scheef wordt. Bij aanpassing 2 zal echter de afstand tussen de netto inkomens van mensen met een uitkering en mensen met een arbeidsinkomen groter worden. (Hier kan dus gesproken worden van denivellering.)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "aanpassing 2\nEen voorbeeld van een juiste toelichting is:\nBij beide aanpassingen is een zelfde bedrag voor mensen met een lager (bruto) jaarinkomen relatief hoger dan voor degenen met een hoger (bruto) jaarinkomen, waardoor de netto inkomensverdeling minder scheef wordt. Bij aanpassing 2 zal echter de afstand tussen de netto inkomens van mensen met een uitkering en mensen met een arbeidsinkomen groter worden. (Hier kan dus gesproken worden van denivellering.)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-werken-moet-lonen-antw23.png"
+    ]
+   },
+   {
+    "title": "Werken moet lonen",
+    "question_number": 24,
+    "answer_text": "aanpassing 2\nEen voorbeeld van een juiste toelichting is:\nAanpassing 2 heeft als effect dat het verrichten van betaald werk extra financieel voordeel oplevert (‘werken zal lonen’).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "aanpassing 2\nEen voorbeeld van een juiste toelichting is:\nAanpassing 2 heeft als effect dat het verrichten van betaald werk extra financieel voordeel oplevert (‘werken zal lonen’)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-werken-moet-lonen-antw24.png"
+    ]
+   },
+   {
+    "title": "Werken moet lonen",
+    "question_number": 25,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nHaar netto jaarloon bij het cateringbedrijf wordt\n16.000 − (13.000 × 0,25) − (3.000 × 0,4) + 1.000 =\n16.000 − 4.450 + 1.000 = 12.550 euro.\nDe toename van haar netto inkomen bedraagt € 550, en dat is meer dan het dubbele vergeleken met de extra € 200 die zij zou ontvangen bij een bijstandsuitkering.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\nHaar netto jaarloon bij het cateringbedrijf wordt\n16.000 − (13.000 × 0,25) − (3.000 × 0,4) + 1.000 =\n16.000 − 4.450 + 1.000 = 12.550 euro.\nDe toename van haar netto inkomen bedraagt € 550, en dat is meer dan het dubbele vergeleken met de extra € 200 die zij zou ontvangen bij een bijstandsuitkering."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-werken-moet-lonen-antw25.png"
+    ]
+   },
+   {
+    "title": "Werken moet lonen",
+    "question_number": 26,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Een hoger besteedbaar inkomen leidt tot meer bestedingen, meer productie en daarmee tot meer vraag naar arbeid\n• Het loonniveau zal hierdoor stijgen, waardoor de bereidheid van mensen om zich aan te bieden op de arbeidsmarkt toeneemt",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een hoger besteedbaar inkomen leidt tot meer bestedingen, meer productie en daarmee tot meer vraag naar arbeid"
+     },
+     {
+      "points": 1,
+      "description": "Het loonniveau zal hierdoor stijgen, waardoor de bereidheid van mensen om zich aan te bieden op de arbeidsmarkt toeneemt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-i-werken-moet-lonen-antw26.png"
+    ]
+   }
+  ]
+ }
+}

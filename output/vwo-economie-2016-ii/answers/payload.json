@@ -1,0 +1,427 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "VWO",
+  "source": "VWO Economie 2016-II",
+  "answers": [
+   {
+    "title": "Eieren voor je geld",
+    "question_number": 1,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nVoordat de export wegviel was er evenwicht op de markt bij een totale vraag van 240. De binnenlandse vraag (bij de evenwichtsprijs van 90 coin) bedroeg 60, zodat de export 180 (miljoen kilo) bedroeg.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juist antwoord is:\nVoordat de export wegviel was er evenwicht op de markt bij een totale vraag van 240. De binnenlandse vraag (bij de evenwichtsprijs van 90 coin) bedroeg 60, zodat de export 180 (miljoen kilo) bedroeg."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-eieren-voor-je-geld-antw1.png"
+    ]
+   },
+   {
+    "title": "Eieren voor je geld",
+    "question_number": 2,
+    "answer_text": "nee\nEen voorbeeld van een juiste toelichting is:\nDe constante kosten worden nog ten dele gedekt, aangezien de verkoopprijs (van 60 coin) hoger is dan de gemiddelde variabele kosten.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "nee\nEen voorbeeld van een juiste toelichting is:\nDe constante kosten worden nog ten dele gedekt, aangezien de verkoopprijs (van 60 coin) hoger is dan de gemiddelde variabele kosten."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-eieren-voor-je-geld-antw2.png"
+    ]
+   },
+   {
+    "title": "Eieren voor je geld",
+    "question_number": 3,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n(De marginale kosten zijn gelijk aan de gemiddelde variabele kosten. Wil de boer geen verlies lijden, dan moet de marktprijs hoger zijn dan de marginale kosten. De boer zal zijn capaciteit dan volledig benutten.)\nBij een productie van 4.000 kilo geldt: GTK = 40 + 140.000 / 4.000 = 75.\nDe minimumprijs moet dus minstens 75 coin per kilo bedragen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\n(De marginale kosten zijn gelijk aan de gemiddelde variabele kosten. Wil de boer geen verlies lijden, dan moet de marktprijs hoger zijn dan de marginale kosten. De boer zal zijn capaciteit dan volledig benutten.)\nBij een productie van 4.000 kilo geldt: GTK = 40 + 140.000 / 4.000 = 75.\nDe minimumprijs moet dus minstens 75 coin per kilo bedragen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-eieren-voor-je-geld-antw3.png"
+    ]
+   },
+   {
+    "title": "Eieren voor je geld",
+    "question_number": 4,
+    "answer_text": "(vlak) E",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(vlak) E"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-eieren-voor-je-geld-antw4.png"
+    ]
+   },
+   {
+    "title": "Eieren voor je geld",
+    "question_number": 5,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nP = 80 invullen in de vraagfunctie: Qᵥ = −160 + 240 = 80 mln. kilo\nP = 80 invullen in de aanbodfunctie: Qₐ = 320 − 120 = 200 mln. kilo\nDe vraag moet dus verhoogd worden met 200 − 80 = 120 mln. kilo.\nHet aankopen kost 120 mln. × 80 coin = 9.600 (mln. coin).\n\nOpmerking\nVoor antwoorden gebaseerd op uit de figuur afgelezen waarden kunnen ook scorepunten worden toegekend.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\nP = 80 invullen in de vraagfunctie: Qᵥ = −160 + 240 = 80 mln. kilo\nP = 80 invullen in de aanbodfunctie: Qₐ = 320 − 120 = 200 mln. kilo\nDe vraag moet dus verhoogd worden met 200 − 80 = 120 mln. kilo.\nHet aankopen kost 120 mln. × 80 coin = 9.600 (mln. coin)."
+     }
+    ],
+    "grading_note": "Voor antwoorden gebaseerd op uit de figuur afgelezen waarden kunnen ook scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-eieren-voor-je-geld-antw5.png"
+    ]
+   },
+   {
+    "title": "Mission Zero",
+    "question_number": 6,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Stel voor het jaar 2011 GTK en Q op 100\nGTK = 100; GCK = 50; GVK = 50 waarvan kosten restafval 5;\nIn 2022 worden GVK, GCK en GTK dan als volgt berekend:\nGVK = 45 × 1,21 = 54,45 (exclusief kosten restafval)\ndaling restafval = ((1,8 − 62,8) / 62,8) × 100 = −97,13%\nkosten restafval = 5 × 0,0287 = 0,1435\nGVK (inclusief kosten restafval) = 54,45 + 0,1435 = 54,59\n• Q in 2022 ⚠️ CONTROLEREN: [symbool onleesbaar in correctievoorschrift] 119\nGCK in 2022 = 50 × (100 / 119) × 1,15 = 48,32\nGTK in 2022 = 54,59 + 48,32 = 102,91\nDe kosten per auto zullen naar verwachting toenemen (met 3%)\n\nOpmerking\nEen juiste berekening met andere afronding ook goed rekenen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Stel voor het jaar 2011 GTK en Q op 100\nGTK = 100; GCK = 50; GVK = 50 waarvan kosten restafval 5;\nIn 2022 worden GVK, GCK en GTK dan als volgt berekend:\nGVK = 45 × 1,21 = 54,45 (exclusief kosten restafval)\ndaling restafval = ((1,8 − 62,8) / 62,8) × 100 = −97,13%\nkosten restafval = 5 × 0,0287 = 0,1435\nGVK (inclusief kosten restafval) = 54,45 + 0,1435 = 54,59"
+     },
+     {
+      "points": 1,
+      "description": "Q in 2022 ⚠️ CONTROLEREN: [symbool onleesbaar in correctievoorschrift] 119\nGCK in 2022 = 50 × (100 / 119) × 1,15 = 48,32\nGTK in 2022 = 54,59 + 48,32 = 102,91\nDe kosten per auto zullen naar verwachting toenemen (met 3%)"
+     }
+    ],
+    "grading_note": "Een juiste berekening met andere afronding ook goed rekenen.",
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-mission-zero-antw6.png"
+    ]
+   },
+   {
+    "title": "Mission Zero",
+    "question_number": 7,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nTRF kan bang zijn voor een berovingsprobleem: Abec kan nadat TRF de investering heeft gedaan alsnog de prijs(afspraken) in het eigen voordeel proberen te veranderen, met de dreiging over te stappen naar een ander recyclingbedrijf. De door TRF gedane investering wordt in dat geval mogelijk niet (helemaal) terugverdiend.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nTRF kan bang zijn voor een berovingsprobleem: Abec kan nadat TRF de investering heeft gedaan alsnog de prijs(afspraken) in het eigen voordeel proberen te veranderen, met de dreiging over te stappen naar een ander recyclingbedrijf. De door TRF gedane investering wordt in dat geval mogelijk niet (helemaal) terugverdiend."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-mission-zero-antw7.png"
+    ]
+   },
+   {
+    "title": "Mission Zero",
+    "question_number": 8,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nMet het bezit van aandelen in TRF zal Abec er belang bij hebben dat TRF goede financiële resultaten blijft houden. (TRF hoeft dan minder bang te zijn dat Abec zal dreigen over te stappen naar een ander recyclingbedrijf.)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juist antwoord is:\nMet het bezit van aandelen in TRF zal Abec er belang bij hebben dat TRF goede financiële resultaten blijft houden. (TRF hoeft dan minder bang te zijn dat Abec zal dreigen over te stappen naar een ander recyclingbedrijf.)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-mission-zero-antw8.png"
+    ]
+   },
+   {
+    "title": "Mission Zero",
+    "question_number": 9,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De extra vraag naar auto’s / de extra productie zal leiden tot extra milieuhinder\n• De negatieve effecten hiervan op de samenleving worden in de praktijk slechts ten dele meegenomen in de verkoopprijs van auto’s",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De extra vraag naar auto’s / de extra productie zal leiden tot extra milieuhinder"
+     },
+     {
+      "points": 1,
+      "description": "De negatieve effecten hiervan op de samenleving worden in de praktijk slechts ten dele meegenomen in de verkoopprijs van auto’s"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-mission-zero-antw9.png"
+    ]
+   },
+   {
+    "title": "Belastingopbrengsten op de tocht",
+    "question_number": 10,
+    "answer_text": "Een voorbeeld van een juiste toelichting is:\n• Overheden van landen willen graag multinationals lokken, in de verwachting hiermee extra (productie en) belastingopbrengsten te realiseren. Voor elke nationale overheid geldt daarom als dominante strategie om voor multinationals de tarieven van winstbelasting te verlagen\n• Als meerdere landen dit beleid uitvoeren (vindt er per saldo weinig verschuiving van productie plaats en) ontstaat er een suboptimaal Nash evenwicht, aangezien de opbrengsten van winstbelasting voor elke nationale overheid lager zullen uitvallen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Overheden van landen willen graag multinationals lokken, in de verwachting hiermee extra (productie en) belastingopbrengsten te realiseren. Voor elke nationale overheid geldt daarom als dominante strategie om voor multinationals de tarieven van winstbelasting te verlagen"
+     },
+     {
+      "points": 1,
+      "description": "Als meerdere landen dit beleid uitvoeren (vindt er per saldo weinig verschuiving van productie plaats en) ontstaat er een suboptimaal Nash evenwicht, aangezien de opbrengsten van winstbelasting voor elke nationale overheid lager zullen uitvallen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-belastingopbrengsten-op-de-tocht-antw10.png"
+    ]
+   },
+   {
+    "title": "Belastingopbrengsten op de tocht",
+    "question_number": 11,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nIn Cervoland (als ontwikkelingsland) is de gemiddelde productiewaarde van multinationals in verhouding tot het bbp hoog (2,5%). In de andere landen is die in verhouding veel lager (Alagne 1,6% en Belanië 0,5%). Als een multinational dreigt met vertrek uit Cervoland geeft dat het vooruitzicht van een relatief sterke daling van het bbp. (Dit geeft de multinational een relatief sterke positie bij onderhandelingen met de lokale overheid over de winstbelasting.)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nIn Cervoland (als ontwikkelingsland) is de gemiddelde productiewaarde van multinationals in verhouding tot het bbp hoog (2,5%). In de andere landen is die in verhouding veel lager (Alagne 1,6% en Belanië 0,5%). Als een multinational dreigt met vertrek uit Cervoland geeft dat het vooruitzicht van een relatief sterke daling van het bbp. (Dit geeft de multinational een relatief sterke positie bij onderhandelingen met de lokale overheid over de winstbelasting.)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-belastingopbrengsten-op-de-tocht-antw11.png"
+    ]
+   },
+   {
+    "title": "Belastingopbrengsten op de tocht",
+    "question_number": 12,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nAangezien EMNO voor zijn vestiging in Cervoland nu te maken heeft met het lagere tarief van Alagne, is het bedrijf niet meer in de positie om de overheid van Cervoland onder druk te zetten om tariefconcessies te doen. De overheid van Cervoland heeft zo meer zekerheid wat betreft (productie en werkgelegenheid bij het productiebedrijf van EMNO en van de) toekomstige belastingontvangsten.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nAangezien EMNO voor zijn vestiging in Cervoland nu te maken heeft met het lagere tarief van Alagne, is het bedrijf niet meer in de positie om de overheid van Cervoland onder druk te zetten om tariefconcessies te doen. De overheid van Cervoland heeft zo meer zekerheid wat betreft (productie en werkgelegenheid bij het productiebedrijf van EMNO en van de) toekomstige belastingontvangsten."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-belastingopbrengsten-op-de-tocht-antw12.png"
+    ]
+   },
+   {
+    "title": "Belastingopbrengsten op de tocht",
+    "question_number": 13,
+    "answer_text": "nee\nEen voorbeeld van een juiste toelichting is:\nDe overheid van Alagne houdt nog steeds een prikkel om een lager tarief voor de winstbelasting te rekenen dan (met name) Belanië, om veilig te stellen dat EMNO het hoofdkantoor in Alagne gevestigd zal houden. Het verdrag zal dus geen oplossing bieden voor het gevangenendilemma.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "nee\nEen voorbeeld van een juiste toelichting is:\nDe overheid van Alagne houdt nog steeds een prikkel om een lager tarief voor de winstbelasting te rekenen dan (met name) Belanië, om veilig te stellen dat EMNO het hoofdkantoor in Alagne gevestigd zal houden. Het verdrag zal dus geen oplossing bieden voor het gevangenendilemma."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-belastingopbrengsten-op-de-tocht-antw13.png"
+    ]
+   },
+   {
+    "title": "Tunnelvisie",
+    "question_number": 14,
+    "answer_text": "Uit de toelichting bij het gegeven voorbeeld moet blijken dat de betreffende belastingopbrengsten stijgen door toename van economische activiteit in Denemarken als resultaat van het in gebruik komen van de tunnel.\nVoorbeelden van belastingopbrengsten met een juiste toelichting zijn:\n− Inkomstenbelasting / Vennootschapsbelasting\n  Winsten van transportondernemingen / exportbedrijven zullen stijgen, doordat zij sneller en goedkoper kunnen werken.\nof\n− Omzetbelasting / Accijnzen\n  Binnenlandse bestedingen nemen toe.\nof\n− Toeristenbelasting\n  Denemarken wordt beter bereikbaar voor toeristen uit het buitenland.\n\nOpmerking\nDe scorepunten alleen toekennen als een juist voorbeeld en een juiste toelichting is gegeven.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Uit de toelichting bij het gegeven voorbeeld moet blijken dat de betreffende belastingopbrengsten stijgen door toename van economische activiteit in Denemarken als resultaat van het in gebruik komen van de tunnel.\nVoorbeelden van belastingopbrengsten met een juiste toelichting zijn:\n− Inkomstenbelasting / Vennootschapsbelasting\n  Winsten van transportondernemingen / exportbedrijven zullen stijgen, doordat zij sneller en goedkoper kunnen werken.\nof\n− Omzetbelasting / Accijnzen\n  Binnenlandse bestedingen nemen toe.\nof\n− Toeristenbelasting\n  Denemarken wordt beter bereikbaar voor toeristen uit het buitenland."
+     }
+    ],
+    "grading_note": "De scorepunten alleen toekennen als een juist voorbeeld en een juiste toelichting is gegeven.",
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-tunnelvisie-antw14.png"
+    ]
+   },
+   {
+    "title": "Tunnelvisie",
+    "question_number": 15,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Qᵥ = −0,5 × 18 + 19 = 10 miljoen passages\nTO = TT + OB = 180 + 30 = 210 miljoen DK\n• TK = (0,01 + 0,03) × 6.000 + 7 = 247 miljoen DK\nTR = −37 miljoen DK\n(Dit is een negatief resultaat, dus aan de voorwaarde is niet voldaan)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Qᵥ = −0,5 × 18 + 19 = 10 miljoen passages\nTO = TT + OB = 180 + 30 = 210 miljoen DK"
+     },
+     {
+      "points": 1,
+      "description": "TK = (0,01 + 0,03) × 6.000 + 7 = 247 miljoen DK\nTR = −37 miljoen DK\n(Dit is een negatief resultaat, dus aan de voorwaarde is niet voldaan)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-tunnelvisie-antw15.png"
+    ]
+   },
+   {
+    "title": "Tunnelvisie",
+    "question_number": 16,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• De tol stijgt met 2,78% van DK 18,00 naar DK 18,50\nDe vraag daalt met 2,5% van 10 naar 9,75 (miljoen passages)\n• Eᵥ = −2,5% / +2,78% = −0,9\nDe vraag is inelastisch en de tolopbrengst zal daarmee toenemen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De tol stijgt met 2,78% van DK 18,00 naar DK 18,50\nDe vraag daalt met 2,5% van 10 naar 9,75 (miljoen passages)"
+     },
+     {
+      "points": 1,
+      "description": "Eᵥ = −2,5% / +2,78% = −0,9\nDe vraag is inelastisch en de tolopbrengst zal daarmee toenemen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-tunnelvisie-antw16.png"
+    ]
+   },
+   {
+    "title": "Tunnelvisie",
+    "question_number": 17,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− De Duitse overheid: de tunnel zal een stimulans zijn voor de Duitse economie (door het vergemakkelijken van export en import), en de Duitse overheid kan hierdoor extra belastingopbrengsten tegemoetzien.\n− Het bedrijfsleven: bedrijven in Denemarken en omliggende landen zullen profiteren in de vorm van extra omzet / lagere kosten / hogere winsten.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voorbeelden van een juist antwoord zijn:\n− De Duitse overheid: de tunnel zal een stimulans zijn voor de Duitse economie (door het vergemakkelijken van export en import), en de Duitse overheid kan hierdoor extra belastingopbrengsten tegemoetzien.\n− Het bedrijfsleven: bedrijven in Denemarken en omliggende landen zullen profiteren in de vorm van extra omzet / lagere kosten / hogere winsten."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-tunnelvisie-antw17.png"
+    ]
+   },
+   {
+    "title": "Scoren op twee doelen",
+    "question_number": 18,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• De vraag op de vermogensmarkt zal toenemen, en daaraan gekoppeld zal de vraag naar investeringen aantrekken / Er zal minder worden gespaard, waardoor de consumptieve bestedingen toenemen.\nOp korte termijn betekent dit een toename van het reële bbp\n• Het beslag op de productiecapaciteit zal toenemen, met als mogelijk gevolg een toename van de (bestedings)inflatie",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De vraag op de vermogensmarkt zal toenemen, en daaraan gekoppeld zal de vraag naar investeringen aantrekken / Er zal minder worden gespaard, waardoor de consumptieve bestedingen toenemen.\nOp korte termijn betekent dit een toename van het reële bbp"
+     },
+     {
+      "points": 1,
+      "description": "Het beslag op de productiecapaciteit zal toenemen, met als mogelijk gevolg een toename van de (bestedings)inflatie"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-scoren-op-twee-doelen-antw18.png"
+    ]
+   },
+   {
+    "title": "Scoren op twee doelen",
+    "question_number": 19,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nAls de overheid geen extra investeringen doet, zal de CB de rente verlagen en zal het reële bbp met 1,3 procent stijgen. Als de overheid wel extra investeringen doet, zal de CB de rente gelijk houden en zal het reële bbp met 1,6 procent stijgen. Het reële bbp zal dus slechts met 0,3 procent(punt) extra stijgen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juist antwoord is:\nAls de overheid geen extra investeringen doet, zal de CB de rente verlagen en zal het reële bbp met 1,3 procent stijgen. Als de overheid wel extra investeringen doet, zal de CB de rente gelijk houden en zal het reële bbp met 1,6 procent stijgen. Het reële bbp zal dus slechts met 0,3 procent(punt) extra stijgen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-scoren-op-twee-doelen-antw19.png"
+    ]
+   },
+   {
+    "title": "Scoren op twee doelen",
+    "question_number": 20,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nHet nominale bbp is het product van het reële bbp en het gemiddelde prijsniveau. Zowel de toename van het reële bbp op korte termijn als de inflatie is het grootst bij de keuzecombinatie: ‘wel extra overheidsinvesteringen - rente lager’.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nHet nominale bbp is het product van het reële bbp en het gemiddelde prijsniveau. Zowel de toename van het reële bbp op korte termijn als de inflatie is het grootst bij de keuzecombinatie: ‘wel extra overheidsinvesteringen - rente lager’."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-scoren-op-twee-doelen-antw20.png"
+    ]
+   },
+   {
+    "title": "Scoren op twee doelen",
+    "question_number": 21,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nDe investeringen hebben tot gevolg dat de productiecapaciteit wordt uitgebreid / de (arbeids)productiviteit toeneemt, waardoor het reële bbp in de toekomst meer kan stijgen, en hogere (bruto-)inkomens kunnen worden bereikt.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nDe investeringen hebben tot gevolg dat de productiecapaciteit wordt uitgebreid / de (arbeids)productiviteit toeneemt, waardoor het reële bbp in de toekomst meer kan stijgen, en hogere (bruto-)inkomens kunnen worden bereikt."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-scoren-op-twee-doelen-antw21.png"
+    ]
+   },
+   {
+    "title": "Scoren op twee doelen",
+    "question_number": 22,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nVerhoging van de investeringsuitgaven leidt tot een hoger overheidstekort, een hogere overheidsschuld en tot hogere rente-uitgaven in de toekomst. Deze rente-uitgaven zullen gedekt moeten worden door hogere belastingopbrengsten. (Dit zal een negatief effect hebben op de netto-inkomens.)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nVerhoging van de investeringsuitgaven leidt tot een hoger overheidstekort, een hogere overheidsschuld en tot hogere rente-uitgaven in de toekomst. Deze rente-uitgaven zullen gedekt moeten worden door hogere belastingopbrengsten. (Dit zal een negatief effect hebben op de netto-inkomens.)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-scoren-op-twee-doelen-antw22.png"
+    ]
+   },
+   {
+    "title": "Vakantiehuis voor een zonnig prijsje",
+    "question_number": 23,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nSunhouse is goedkoper dan Prontocasa tot €60 / (0,018 − 0,01) = €7.500.\nApartrent is goedkoper dan Prontocasa vanaf (€80 − €60) / (0,01 − 0,008) = €10.000.\nTussen € 7.500 en € 10.000 is Prontocasa de goedkoopste bemiddelaar.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\nSunhouse is goedkoper dan Prontocasa tot €60 / (0,018 − 0,01) = €7.500.\nApartrent is goedkoper dan Prontocasa vanaf (€80 − €60) / (0,01 − 0,008) = €10.000.\nTussen € 7.500 en € 10.000 is Prontocasa de goedkoopste bemiddelaar."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-vakantiehuis-voor-een-zonnig-prijsje-antw23.png"
+    ]
+   },
+   {
+    "title": "Vakantiehuis voor een zonnig prijsje",
+    "question_number": 24,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nDe drempel om zich in te schrijven bij Sunhouse is heel laag, aangezien er geen tarief wordt gerekend zolang er geen transactie tot stand komt.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste verklaring is:\nDe drempel om zich in te schrijven bij Sunhouse is heel laag, aangezien er geen tarief wordt gerekend zolang er geen transactie tot stand komt."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-vakantiehuis-voor-een-zonnig-prijsje-antw24.png"
+    ]
+   },
+   {
+    "title": "Vakantiehuis voor een zonnig prijsje",
+    "question_number": 25,
+    "answer_text": "Een voorbeeld van een juiste toelichting is:\n• Sunhouse bedient een veel groter aantal transacties dan de concurrenten. Stijging van dit aantal kan plaatsvinden zonder noemenswaardige toename van de constante kosten\n• Hierdoor kunnen de gemiddelde constante kosten bij Sunhouse nog verder dalen onder die van de concurrenten, wat Sunhouse de gelegenheid geeft hen uit de markt te prijzen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Sunhouse bedient een veel groter aantal transacties dan de concurrenten. Stijging van dit aantal kan plaatsvinden zonder noemenswaardige toename van de constante kosten"
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor kunnen de gemiddelde constante kosten bij Sunhouse nog verder dalen onder die van de concurrenten, wat Sunhouse de gelegenheid geeft hen uit de markt te prijzen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-vakantiehuis-voor-een-zonnig-prijsje-antw25.png"
+    ]
+   },
+   {
+    "title": "Vakantiehuis voor een zonnig prijsje",
+    "question_number": 26,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nDoor de lage toetredingsdrempel zal Sunhouse in een monopoliepositie de prijzen toch zo laag willen houden, dat bedrijven met plannen om toe te treden worden ontmoedigd.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste verklaring is:\nDoor de lage toetredingsdrempel zal Sunhouse in een monopoliepositie de prijzen toch zo laag willen houden, dat bedrijven met plannen om toe te treden worden ontmoedigd."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2016-ii-vakantiehuis-voor-een-zonnig-prijsje-antw26.png"
+    ]
+   }
+  ]
+ }
+}
