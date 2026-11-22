@@ -21,7 +21,9 @@ Annotation file (Python, loaded with runpy) defines:
 the draft) to the real vraagnummer (VWO-WISB-24-I-O.pdf prints "3" for vraag
 6 and "7"/"8" for vraag 9/10). "q" and "text" ("q6") use the real number; the
 vraag PNG is renamed to ...-vraag<real>.png.
-Subdomain names are validated against SUBDOMAINS below (HAVO Biologie
+With SUBJECT = "Economie" subdomains are validated against
+ECONOMIE_SUBDOMAINS (VWO Economie list) and the chemistry FORMULAS
+rewrite is skipped. Otherwise subdomain names are validated against SUBDOMAINS below (HAVO Biologie
 list) or, with SUBJECT = "Wiskunde B" in the annotation file, against
 WISKUNDE_B_SUBDOMAINS (VWO Wiskunde B list) / HAVO_WISKUNDE_B_SUBDOMAINS
 (with LEVEL = "HAVO"), or with SUBJECT = "Wiskunde A" against
@@ -90,6 +92,22 @@ WISKUNDE_A_SUBDOMAINS = {
     "Rijen": _VA, "Helling": _VA, "Afgeleide": _VA,
 }
 
+# VWO Economie list (SUBJECT = "Economie")
+_MA = "Markt"; _RT = "Ruilen over de tijd"; _SO = "Samenwerken en onderhandelen"
+_RI = "Risico en Informatie"; _WG = "Welvaart en groei"; _GT = "Goede tijden, slechte tijden"
+ECONOMIE_SUBDOMAINS = {
+    "Vraag en aanbod": _MA, "Marktstructuur": _MA, "Doelmatigheid en economische politiek": _MA,
+    "Intertemporele ruil": _RT, "Registratie intertemporele ruil": _RT,
+    "Speltheorie": _SO, "Suboptimale situaties": _SO,
+    "Risico": _RI, "Asymmetrische informatie": _RI, "Asymmetrische informatie in bedrijf": _RI,
+    "Risico verzekeren": _RI, "Beleggen": _RI,
+    "Macro-economische kringloop": _WG, "Structurele groei": _WG,
+    "Inkomen, welvaart en welzijn": _WG, "Ongelijkheid en herverdeling": _WG,
+    "Arbeidsmarkt en werkloosheid": _WG,
+    "Conjunctuur": _GT, "Begrotingsbeleid": _GT, "Monetair beleid en de centrale bank": _GT,
+    "Conjunctuuranalyse aan de hand van IS-MB-GA-model": _GT,
+}
+
 # Plain-ASCII chemical notation that shows up in ExamenCentraal text
 # extraction (the PDF sets the digits as smaller glyphs, get_text() loses
 # that). Extend when a new formula appears; always eyeball the PDF first.
@@ -104,7 +122,7 @@ FORMULAS = {
 }
 
 
-def clean(text, math=False):
+def clean(text, math=False, chem=True):
     if math:
         text = clean_math(text)
     lines = [l.strip() for l in text.split("\n")]
@@ -112,7 +130,7 @@ def clean(text, math=False):
         lines.pop()
     text = "\n".join(lines)
     text = re.sub(r"[ \t]{2,}", " ", text)
-    if not math:
+    if not math and chem:
         for pat, rep in FORMULAS.items():
             text = re.sub(pat, rep, text)
     return text.replace("''", "'").replace("'", "''").replace("$$", "$ $")
@@ -129,7 +147,10 @@ def main():
     source, level = ann["SOURCE"], ann.get("LEVEL", "HAVO")
     subject = ann.get("SUBJECT", "Biologie")
     math = subject.startswith("Wiskunde")
-    if subject == "Wiskunde A":
+    chem = subject != "Economie"
+    if subject == "Economie":
+        subdomains = ECONOMIE_SUBDOMAINS
+    elif subject == "Wiskunde A":
         subdomains = WISKUNDE_A_SUBDOMAINS
     elif subject == "Wiskunde B":
         subdomains = HAVO_WISKUNDE_B_SUBDOMAINS if level == "HAVO" else WISKUNDE_B_SUBDOMAINS
@@ -152,7 +173,7 @@ def main():
             ctxs.append({"id": cid[n], "exercise_id": ex_id,
                          "label": a["labels"].get(n, f"context {n}"),
                          "image_url": c["image"],
-                         "text_content": clean(overrides.get(f"c{n}", c["text"]), math),
+                         "text_content": clean(overrides.get(f"c{n}", c["text"]), math, chem),
                          "block_type": a.get("block_types", {}).get(n, "inline")})
         nums = []
         for qq in ex["questions"]:
@@ -177,8 +198,21 @@ def main():
                        "topics": [{"domain": subdomains.get(s, "?"), "subdomain": s} for s in subs],
                        "keywords": kws, "question_summary": summ,
                        "question_image_url": qq["image"],
-                       "question_text": clean(overrides.get(f"q{n}", qq["text"]), math),
+                       "question_text": clean(overrides.get(f"q{n}", qq["text"]), math, chem),
                        "context_block_ids": [cid[l] for l in links if l in cid]})
+        # STAP 3 volgorde-koppeling: every inline block must be linked to the
+        # first vraag that follows it in the PDF (before_vraag from the draft),
+        # otherwise the app never shows it at its PDF position
+        for c in ex["context_blocks"]:
+            bv = c.get("before_vraag")
+            bv = a.get("renumber", {}).get(bv, bv)
+            if a.get("block_types", {}).get(c["n"], "inline") == "inline" and bv is not None \
+                    and c["n"] not in a["q"].get(bv, ([],))[0]:
+                problems.append(f"{ex['title']}: context{c['n']} not linked to vraag {bv} (volgorde-koppeling)")
+        for n in nums:
+            links = a["q"][n][0]
+            if links != sorted(links):
+                problems.append(f"{ex['title']}: vraag {n} context links not in PDF order")
         manifest.append({"title": ex["title"], "question_numbers": nums})
     if problems:
         print("\n".join(problems))
