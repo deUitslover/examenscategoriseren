@@ -1,0 +1,66 @@
+{
+  "source": "VWO Economie 2019-I",
+  "subject_name": "Economie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Rek in het arbeidsaanbod",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Als het geld niet wil rollen",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Markt voor hoger onderwijs",
+      "question_numbers": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Protectie een lapmiddel?",
+      "question_numbers": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Wie krijgt de opslag?",
+      "question_numbers": [
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "title": "Een welverdiende oude dag",
+      "question_numbers": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    }
+  ]
+}

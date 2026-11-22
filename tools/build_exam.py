@@ -303,10 +303,21 @@ def main():
                     if l[3] <= ysplit and l[1] >= m[1] - 0.5 and l[0] >= m[0] - 1]
             v["members"] = [(m[0], m[1], m[2], max(b[3] for b in keep))]
             v["y1"] = v["members"][0][3]
-            plan.insert(idx + 1, (f"{i}s", {"kind": "ctx", "page": page.number,
-                                            "y0": min(b[1] for b in below),
-                                            "y1": max(b[3] for b in below),
-                                            "members": below}))
+            new = {"kind": "ctx", "page": page.number,
+                   "y0": min(b[1] for b in below),
+                   "y1": max(b[3] for b in below),
+                   "members": below}
+            # the swallowed lines may run into the next ctx item (a table
+            # whose upper rows find_vraag_lines took, VWO-ECO-19-I-O.pdf p.7
+            # vraag 16 + tabel 1, --split 6:2=263): absorb that item so the
+            # table is not cut in two / rendered twice
+            if idx + 1 < len(plan) and plan[idx + 1][1]["kind"] == "ctx" \
+                    and plan[idx + 1][1]["y0"] < new["y1"]:
+                nxt = plan.pop(idx + 1)[1]
+                new["members"] = new["members"] + [b for b in nxt["members"]
+                                                   if tuple(b[:4]) not in new["members"]]
+                new["y1"] = max(new["y1"], nxt["y1"])
+            plan.insert(idx + 1, (f"{i}s", new))
         for i, it in plan:
             if (page.number, i) in newop:
                 # plan item i is the title of a new opgave that has no grey
