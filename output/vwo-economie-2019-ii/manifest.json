@@ -1,0 +1,64 @@
+{
+  "source": "VWO Economie 2019-II",
+  "subject_name": "Economie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Rookremmers",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Eigen duit in zakje van de zorg",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Drukte in de spits",
+      "question_numbers": [
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Zorgen om bezorgen",
+      "question_numbers": [
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "title": "Rentebeleid geeft onvoldoende wind in de zeilen",
+      "question_numbers": [
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "title": "Gedeelde vreugd ...",
+      "question_numbers": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    }
+  ]
+}
