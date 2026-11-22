@@ -184,6 +184,7 @@ def main():
 
     opgaven = []
     seen = set()
+    eco_title_y1 = None
     for page in doc:
         # VWO-WISB PDFs (e.g. VWO-WISB-16-I-O.pdf) print every opgave twice
         # in a row: skip any page whose text + image layout repeats an
@@ -198,11 +199,32 @@ def main():
             # an uitwerkbijlage page with its own grey title bar
             # ("Uitwerkbijlage", HAVO-WISB-18-II-O.pdf p.6 and p.10) is not
             # a new opgave: its blocks belong to the opgave before it
+            eco_title_y1 = None
+            if re.fullmatch(r"Opgave\s+\d+", " ".join(title.split())):
+                # Economie layout (VWO-ECO-16-I-O.pdf): the grey bar sits
+                # under "Opgave N"; the real title is the first (bold) line
+                # BELOW the bar. Use that line as title and keep it out of
+                # the first context crop.
+                bar = title_bar_y(page)
+                below = sorted((l for l in text_lines(page) if l[1] > bar), key=lambda l: (l[1], l[0]))
+                if below:
+                    first = below[0]
+                    row = [l for l in below if l[1] < first[3] - 1 and l[3] > first[1] + 1]
+                    title = " ".join(" ".join(l[4] for l in sorted(row, key=lambda l: l[0])).split())
+                    eco_title_y1 = max(l[3] for l in row)
             if not (opgaven and title.strip().lower() == "uitwerkbijlage"):
                 opgaven.append({"title": title, "items": []})
         if not opgaven:
             continue
         plan = list(enumerate(plan_page(page, hashes)))
+        if title_bar_y(page) is not None and eco_title_y1 is not None:
+            for _, it in plan:
+                if it["kind"] == "ctx" and it["y0"] < eco_title_y1:
+                    it["members"] = [m for m in it["members"] if m[1] >= eco_title_y1 - 0.5]
+                    if it["members"]:
+                        it["y0"] = min(m[1] for m in it["members"])
+                    break
+            plan = [(k, it) for k, it in plan if it["members"]]
         for i, j in merges.get(page.number, []):
             grp = [it for k, it in plan if i <= k <= j]
             assert all(it["kind"] == "ctx" for it in grp), f"merge {page.number}:{i}-{j} spans a vraag"

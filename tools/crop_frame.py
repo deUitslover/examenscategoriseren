@@ -323,8 +323,17 @@ def find_vraag_lines(page, y0=None, y1=None, max_gap=6.0, column_slack=60.0):
 
         group = list(row)
         prev_y1 = row_bottom
+        # rows of the NEXT vragen: a following vraag's number/text line can
+        # sort before its own "2p" marker (baseline jitter), so stopping only
+        # at the marker line itself swallowed the whole next vraag line when
+        # two one-line vragen sit directly under each other
+        # (VWO-ECO-16-II-O.pdf p.10: vraag 21 absorbed "22 Verklaar ...")
+        other_markers = [l for l in lines if l is not lines[i] and POINTS_RE.match(l[4])
+                         and l[1] >= row_bottom - 0.5]
         for cand in rest:
             if POINTS_RE.match(cand[4]):
+                break
+            if any(cand[1] < m[3] - 1 and cand[3] > m[1] + 1 for m in other_markers):
                 break
             if cand[1] - prev_y1 > max_gap:
                 break
