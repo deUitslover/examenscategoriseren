@@ -1,0 +1,72 @@
+{
+  "source": "VWO Economie 2017-II",
+  "subject_name": "Economie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Is Brazilië uitgedanst?",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Parkeerbeleid",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Gegarandeerde winst?",
+      "question_numbers": [
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Deflatie soepel op te lossen?",
+      "question_numbers": [
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "title": "Innovatief krediet",
+      "question_numbers": [
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "title": "Zeker een ton?",
+      "question_numbers": [
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "title": "Zwakste schouders, zwaarste lasten?",
+      "question_numbers": [
+        27,
+        28,
+        29,
+        30
+      ]
+    }
+  ]
+}

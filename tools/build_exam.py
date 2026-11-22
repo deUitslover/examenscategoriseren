@@ -212,6 +212,11 @@ def main():
                     row = [l for l in below if l[1] < first[3] - 1 and l[3] > first[1] + 1]
                     title = " ".join(" ".join(l[4] for l in sorted(row, key=lambda l: l[0])).split())
                     eco_title_y1 = max(l[3] for l in row)
+            # Economie 2017+ layout: "Opgave 1 Quichote" on one line above
+            # the bar -- the opgave title is only the name (VWO-ECO-17-I-O.pdf)
+            m_eco = re.fullmatch(r"Opgave\s+\d+\s+(.+)", " ".join(title.split()))
+            if m_eco:
+                title = m_eco.group(1)
             if not (opgaven and title.strip().lower() == "uitwerkbijlage"):
                 opgaven.append({"title": title, "items": []})
         if not opgaven:
