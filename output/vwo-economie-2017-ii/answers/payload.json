@@ -1,0 +1,511 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "VWO",
+  "source": "VWO Economie 2017-II",
+  "answers": [
+   {
+    "title": "Is Brazilië uitgedanst?",
+    "question_number": 1,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nOp 1 oktober 2015 was er sprake van een koers van:\n1 real = 1 / 3,85 = 0,26 US dollar\nOp 1 januari 2015 (voor de daling van 31%) was de koers:\n1 real = 0,26 / 0,69 = 0,38 US dollar",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\nOp 1 oktober 2015 was er sprake van een koers van:\n1 real = 1 / 3,85 = 0,26 US dollar\nOp 1 januari 2015 (voor de daling van 31%) was de koers:\n1 real = 0,26 / 0,69 = 0,38 US dollar"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-is-brazilie-uitgedanst-antw1.png"
+    ]
+   },
+   {
+    "title": "Is Brazilië uitgedanst?",
+    "question_number": 2,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nAls gevolg van de recessie zal de Braziliaanse overheid minder belasting ontvangen / meer sociale uitkeringen moeten doen, waardoor het overheidstekort kan oplopen en het nog lastiger wordt om rente en aflossing over de schuld te betalen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nAls gevolg van de recessie zal de Braziliaanse overheid minder belasting ontvangen / meer sociale uitkeringen moeten doen, waardoor het overheidstekort kan oplopen en het nog lastiger wordt om rente en aflossing over de schuld te betalen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-is-brazilie-uitgedanst-antw2.png"
+    ]
+   },
+   {
+    "title": "Is Brazilië uitgedanst?",
+    "question_number": 3,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nInternationale beleggers kunnen worden afgeschrikt door de negatieve beoordeling van Braziliaanse staatsobligaties. Dit betekent dat deze obligaties meer aangeboden / minder gevraagd worden, met als gevolg meer aanbod van / minder vraag naar reals op de valutamarkt. Hierdoor kan de wisselkoers van de real ten opzichte van de dollar verder dalen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nInternationale beleggers kunnen worden afgeschrikt door de negatieve beoordeling van Braziliaanse staatsobligaties. Dit betekent dat deze obligaties meer aangeboden / minder gevraagd worden, met als gevolg meer aanbod van / minder vraag naar reals op de valutamarkt. Hierdoor kan de wisselkoers van de real ten opzichte van de dollar verder dalen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-is-brazilie-uitgedanst-antw3.png"
+    ]
+   },
+   {
+    "title": "Is Brazilië uitgedanst?",
+    "question_number": 4,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Om de recessie te bestrijden zou de Centrale Bank de rente moeten verlagen. Dit kan ertoe leiden dat er meer wordt geleend / minder wordt gespaard, wat een impuls geeft aan de bestedingen / het bbp\n• Ter ondersteuning van de koers van de real zou de Centrale Bank de rente moeten verhogen. Dit kan beleggers ertoe aanzetten om toch in Brazilië te beleggen. Met een stijging van de vraag naar de real die daar het gevolg van is kan de wisselkoers stijgen / de daling van de wisselkoers worden afgeremd",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Om de recessie te bestrijden zou de Centrale Bank de rente moeten verlagen. Dit kan ertoe leiden dat er meer wordt geleend / minder wordt gespaard, wat een impuls geeft aan de bestedingen / het bbp"
+     },
+     {
+      "points": 1,
+      "description": "Ter ondersteuning van de koers van de real zou de Centrale Bank de rente moeten verhogen. Dit kan beleggers ertoe aanzetten om toch in Brazilië te beleggen. Met een stijging van de vraag naar de real die daar het gevolg van is kan de wisselkoers stijgen / de daling van de wisselkoers worden afgeremd"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-is-brazilie-uitgedanst-antw4.png"
+    ]
+   },
+   {
+    "title": "Is Brazilië uitgedanst?",
+    "question_number": 5,
+    "answer_text": "ja\nEen voorbeeld van een juiste verklaring is:\nIn de kortetermijn-Phillipscurve wordt een negatief verband tussen werkloosheid en inflatie weergegeven. In Brazilië is sprake van (stagflatie,) een situatie waarbij hoge/oplopende inflatie gepaard gaat met hoge/stijgende werkloosheid.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "ja\nEen voorbeeld van een juiste verklaring is:\nIn de kortetermijn-Phillipscurve wordt een negatief verband tussen werkloosheid en inflatie weergegeven. In Brazilië is sprake van (stagflatie,) een situatie waarbij hoge/oplopende inflatie gepaard gaat met hoge/stijgende werkloosheid."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-is-brazilie-uitgedanst-antw5.png"
+    ]
+   },
+   {
+    "title": "Parkeerbeleid",
+    "question_number": 6,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Qv = −2.000P + 10.000\nP = −(1 / 2.000)Qv + 5\nMO = −(1 / 1.000)Qv + 5\n• MO = MK\n−(1 / 1.000)Qv + 5 = 0,8 → Qv = 4.200\n4.200 = −2.000P + 10.000 → P = € 2,90",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Qv = −2.000P + 10.000\nP = −(1 / 2.000)Qv + 5\nMO = −(1 / 1.000)Qv + 5"
+     },
+     {
+      "points": 1,
+      "description": "MO = MK\n−(1 / 1.000)Qv + 5 = 0,8 → Qv = 4.200\n4.200 = −2.000P + 10.000 → P = € 2,90"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-parkeerbeleid-antw6.png"
+    ]
+   },
+   {
+    "title": "Parkeerbeleid",
+    "question_number": 7,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Qv = −2.000 × 2,90 + 10.000 = 4.200\nomzet (per uur) = 4.200 × € 2,90 = € 12.180\n• kosten (per uur) = 4.200 × € 0,80 + 6.000 = € 9.360\nwinst (per uur) = € 2.820",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Qv = −2.000 × 2,90 + 10.000 = 4.200\nomzet (per uur) = 4.200 × € 2,90 = € 12.180"
+     },
+     {
+      "points": 1,
+      "description": "kosten (per uur) = 4.200 × € 0,80 + 6.000 = € 9.360\nwinst (per uur) = € 2.820"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-parkeerbeleid-antw7.png"
+    ]
+   },
+   {
+    "title": "Parkeerbeleid",
+    "question_number": 8,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nDe overlast van het parkeren in de wijk wordt niet in rekening gebracht bij de automobilisten.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste uitleg is:\nDe overlast van het parkeren in de wijk wordt niet in rekening gebracht bij de automobilisten."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-parkeerbeleid-antw8.png"
+    ]
+   },
+   {
+    "title": "Parkeerbeleid",
+    "question_number": 9,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nHet consumentensurplus per uur stijgt met\n4.200 × (2,90 − 2) + (6.000 − 4.200) × (2,90 − 2) × 0,5 = € 4.590",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\nHet consumentensurplus per uur stijgt met\n4.200 × (2,90 − 2) + (6.000 − 4.200) × (2,90 − 2) × 0,5 = € 4.590"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-parkeerbeleid-antw9.png"
+    ]
+   },
+   {
+    "title": "Parkeerbeleid",
+    "question_number": 10,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• De manager verwacht dat de prijselasticiteit van de vraag naar parkeergarages op (drukke) zaterdagen kleiner is dan door de week\n• Met een tariefverlaging door de week zal het parkeerbezoek relatief sterk toenemen in verhouding tot de daling van het uurtarief, terwijl met een tariefsverhoging op zaterdagen het parkeerbezoek weinig afneemt (waardoor bij dit verschil in prijsstelling naar verwachting de totale omzet van de parkeergarages over de week zal toenemen)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De manager verwacht dat de prijselasticiteit van de vraag naar parkeergarages op (drukke) zaterdagen kleiner is dan door de week"
+     },
+     {
+      "points": 1,
+      "description": "Met een tariefverlaging door de week zal het parkeerbezoek relatief sterk toenemen in verhouding tot de daling van het uurtarief, terwijl met een tariefsverhoging op zaterdagen het parkeerbezoek weinig afneemt (waardoor bij dit verschil in prijsstelling naar verwachting de totale omzet van de parkeergarages over de week zal toenemen)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-parkeerbeleid-antw10.png"
+    ]
+   },
+   {
+    "title": "Gegarandeerde winst?",
+    "question_number": 11,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• De potentiële klanten weten niet zeker of ze te maken hebben met een betrouwbare autohandelaar en een relatief goede kwaliteit auto kopen. Deze asymmetrische informatie zorgt ervoor dat hun betalingsbereidheid afneemt\n• Hierdoor kunnen veel betrouwbare autohandelaren niet meer uit de kosten komen. (Het gevaar bestaat dat vooral onbetrouwbare handelaren overblijven)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De potentiële klanten weten niet zeker of ze te maken hebben met een betrouwbare autohandelaar en een relatief goede kwaliteit auto kopen. Deze asymmetrische informatie zorgt ervoor dat hun betalingsbereidheid afneemt"
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor kunnen veel betrouwbare autohandelaren niet meer uit de kosten komen. (Het gevaar bestaat dat vooral onbetrouwbare handelaren overblijven)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-gegarandeerde-winst-antw11.png"
+    ]
+   },
+   {
+    "title": "Gegarandeerde winst?",
+    "question_number": 12,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• AK heeft belang bij het garanderen van de kwaliteit van de aangesloten handelaren. Het kan echter in het belang van een autohandelaar zijn om zich toch minder strikt te houden aan de kwaliteitseisen\n• Kwaliteitscontroles kunnen AK de nodige informatie bieden over de aangesloten handelaren / een mogelijk gebrek aan informatie bij AK ten opzichte van de handelaren verhelpen (waarmee de kans toeneemt dat de handelaren zich aan de kwaliteitseisen zullen houden)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "AK heeft belang bij het garanderen van de kwaliteit van de aangesloten handelaren. Het kan echter in het belang van een autohandelaar zijn om zich toch minder strikt te houden aan de kwaliteitseisen"
+     },
+     {
+      "points": 1,
+      "description": "Kwaliteitscontroles kunnen AK de nodige informatie bieden over de aangesloten handelaren / een mogelijk gebrek aan informatie bij AK ten opzichte van de handelaren verhelpen (waarmee de kans toeneemt dat de handelaren zich aan de kwaliteitseisen zullen houden)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-gegarandeerde-winst-antw12.png"
+    ]
+   },
+   {
+    "title": "Gegarandeerde winst?",
+    "question_number": 13,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nAls Verpaalen meedoet aan AK zullen meer mensen vertrouwen hebben in de kwaliteit van door hem aangeboden auto's. Hierdoor ontstaat een grotere betalingsbereidheid en zal bij elke prijs de vraag groter zijn.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste verklaring is:\nAls Verpaalen meedoet aan AK zullen meer mensen vertrouwen hebben in de kwaliteit van door hem aangeboden auto's. Hierdoor ontstaat een grotere betalingsbereidheid en zal bij elke prijs de vraag groter zijn."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-gegarandeerde-winst-antw13.png"
+    ]
+   },
+   {
+    "title": "Gegarandeerde winst?",
+    "question_number": 14,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• MO = −80Q + 18.000\nMK = 7.600\n−80Q + 18.000 = 7.600\nQ = 130\n• GO = −40 × 130 + 18.000 = 12.800\nTO = 12.800 × 130 = 1.664.000\n• TK = 7.600 × 130 + 603.500 = 1.591.500\nTW = 72.500\n(De totale winst bedraagt € 72.500)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "MO = −80Q + 18.000\nMK = 7.600\n−80Q + 18.000 = 7.600\nQ = 130"
+     },
+     {
+      "points": 1,
+      "description": "GO = −40 × 130 + 18.000 = 12.800\nTO = 12.800 × 130 = 1.664.000"
+     },
+     {
+      "points": 1,
+      "description": "TK = 7.600 × 130 + 603.500 = 1.591.500\nTW = 72.500\n(De totale winst bedraagt € 72.500)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-gegarandeerde-winst-antw14.png"
+    ]
+   },
+   {
+    "title": "Deflatie soepel op te lossen?",
+    "question_number": 15,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Als banken de extra liquiditeit gebruiken voor kredietverlening, neemt de geldhoeveelheid toe. Met de (op korte termijn) vaste omloopsnelheid van het geld stijgen de bestedingen\n• Als hierdoor op termijn de bezettingsgraad (van de reële productie) toeneemt, ontstaat weer een opwaartse druk op het prijsniveau",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als banken de extra liquiditeit gebruiken voor kredietverlening, neemt de geldhoeveelheid toe. Met de (op korte termijn) vaste omloopsnelheid van het geld stijgen de bestedingen"
+     },
+     {
+      "points": 1,
+      "description": "Als hierdoor op termijn de bezettingsgraad (van de reële productie) toeneemt, ontstaat weer een opwaartse druk op het prijsniveau"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-deflatie-soepel-op-te-lossen-antw15.png"
+    ]
+   },
+   {
+    "title": "Deflatie soepel op te lossen?",
+    "question_number": 16,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nMet het aankopen van nieuw uitgegeven staatsobligaties door de ECB neemt de vraag toe waardoor de koers van deze obligaties kan stijgen. Dit kan leiden tot een daling van de rente als percentage van het aankoopbedrag van deze obligaties (waardoor de beleggingsrendementen dalen).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nMet het aankopen van nieuw uitgegeven staatsobligaties door de ECB neemt de vraag toe waardoor de koers van deze obligaties kan stijgen. Dit kan leiden tot een daling van de rente als percentage van het aankoopbedrag van deze obligaties (waardoor de beleggingsrendementen dalen)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-deflatie-soepel-op-te-lossen-antw16.png"
+    ]
+   },
+   {
+    "title": "Deflatie soepel op te lossen?",
+    "question_number": 17,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nMet het kapitaaldekkingsstelsel dient het belegde kapitaal als dekking van toekomstige pensioenverplichtingen. Als gevolg van het aanhoudende opkoopprogramma zullen de beleggingsrendementen gestaag blijven dalen. Daarmee wordt het moeilijker om aan toekomstige verplichtingen te blijven voldoen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nMet het kapitaaldekkingsstelsel dient het belegde kapitaal als dekking van toekomstige pensioenverplichtingen. Als gevolg van het aanhoudende opkoopprogramma zullen de beleggingsrendementen gestaag blijven dalen. Daarmee wordt het moeilijker om aan toekomstige verplichtingen te blijven voldoen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-deflatie-soepel-op-te-lossen-antw17.png"
+    ]
+   },
+   {
+    "title": "Deflatie soepel op te lossen?",
+    "question_number": 18,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• Door de verlaging van de (nominale) rente op staatsobligaties in de eurozone zullen minder beleggers hierin willen beleggen / zullen beleggers deze obligaties willen aanbieden in ruil voor beleggingen met een hoger rendement\n• Dit leidt tot minder vraag naar / meer aanbod van de euro.\nDe wisselkoers van de euro zal hierdoor dalen\n• De import (gemeten in euro's) wordt hierdoor duurder, wat (bij doorberekening in de binnenlandse prijzen) leidt tot kosteninflatie / De export (gemeten in vreemde valuta) wordt hierdoor goedkoper, waardoor de exportvraag kan toenemen met kans op bestedingsinflatie",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de verlaging van de (nominale) rente op staatsobligaties in de eurozone zullen minder beleggers hierin willen beleggen / zullen beleggers deze obligaties willen aanbieden in ruil voor beleggingen met een hoger rendement"
+     },
+     {
+      "points": 1,
+      "description": "Dit leidt tot minder vraag naar / meer aanbod van de euro.\nDe wisselkoers van de euro zal hierdoor dalen"
+     },
+     {
+      "points": 1,
+      "description": "De import (gemeten in euro's) wordt hierdoor duurder, wat (bij doorberekening in de binnenlandse prijzen) leidt tot kosteninflatie / De export (gemeten in vreemde valuta) wordt hierdoor goedkoper, waardoor de exportvraag kan toenemen met kans op bestedingsinflatie"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-deflatie-soepel-op-te-lossen-antw18.png"
+    ]
+   },
+   {
+    "title": "Innovatief krediet",
+    "question_number": 19,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• Bij innovaties bestaat het risico dat de ontwikkeling en introductie mislukken\n• In geval van (aanhoudende) laagconjunctuur bestaat een groter risico op tegenvallende afzet en wanbetaling van debiteuren. Banken worden dan voorzichtig met het verlenen van krediet / krijgen te maken met een verslechtering van hun vermogenspositie en kunnen minder krediet verlenen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij innovaties bestaat het risico dat de ontwikkeling en introductie mislukken"
+     },
+     {
+      "points": 1,
+      "description": "In geval van (aanhoudende) laagconjunctuur bestaat een groter risico op tegenvallende afzet en wanbetaling van debiteuren. Banken worden dan voorzichtig met het verlenen van krediet / krijgen te maken met een verslechtering van hun vermogenspositie en kunnen minder krediet verlenen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-innovatief-krediet-antw19.png"
+    ]
+   },
+   {
+    "title": "Innovatief krediet",
+    "question_number": 20,
+    "answer_text": "Voorbeelden van een juiste uitleg zijn:\n− Patenten bieden de mogelijkheid tot winstgevende productie en vertegenwoordigen daarmee waarde. Met eventuele verkoop daarvan heeft UCF de mogelijkheid om achterstallige betalingen te dekken.\n− Het bezit van patenten is veelal voor een bedrijf een voorwaarde voor het continueren van productie. De kans dat er beslag wordt gelegd op patenten is daarmee een sanctie om serieus rekening mee te houden.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voorbeelden van een juiste uitleg zijn:\n− Patenten bieden de mogelijkheid tot winstgevende productie en vertegenwoordigen daarmee waarde. Met eventuele verkoop daarvan heeft UCF de mogelijkheid om achterstallige betalingen te dekken.\n− Het bezit van patenten is veelal voor een bedrijf een voorwaarde voor het continueren van productie. De kans dat er beslag wordt gelegd op patenten is daarmee een sanctie om serieus rekening mee te houden."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-innovatief-krediet-antw20.png"
+    ]
+   },
+   {
+    "title": "Innovatief krediet",
+    "question_number": 21,
+    "answer_text": "Voorbeelden van een juiste verklaring zijn:\n− Bij samenwerking hebben meerdere bedrijven belang bij een succesvolle ontwikkeling van innovaties. Zij zullen elkaar in de gaten houden / het ontwikkelproces van diverse kanten benaderen. De kans op mislukking en een lager rendement voor UCF is daarmee kleiner.\n− In geval van wanbetaling zijn meerdere partijen aansprakelijk (en is de zekerstelling met onderpanden groter) waarmee UCF meer mogelijkheden heeft om het restbedrag terug te vorderen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juiste verklaring zijn:\n− Bij samenwerking hebben meerdere bedrijven belang bij een succesvolle ontwikkeling van innovaties. Zij zullen elkaar in de gaten houden / het ontwikkelproces van diverse kanten benaderen. De kans op mislukking en een lager rendement voor UCF is daarmee kleiner.\n− In geval van wanbetaling zijn meerdere partijen aansprakelijk (en is de zekerstelling met onderpanden groter) waarmee UCF meer mogelijkheden heeft om het restbedrag terug te vorderen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-innovatief-krediet-antw21.png"
+    ]
+   },
+   {
+    "title": "Innovatief krediet",
+    "question_number": 22,
+    "answer_text": "Een voorbeeld van een juiste toelichting is:\n• Financiering maakt (meer) ontwikkeling van innovaties mogelijk. Dit kan leiden tot lagere productiekosten en/of nieuwe producten, waardoor de (trendmatige) groei van de productie(capaciteit) kan toenemen\n• UCF loopt met de financiering van innovaties een relatief hoog risico. Dat risico komt terecht bij de drie pensioenfondsen, wat ertoe kan bijdragen dat pensioenuitkeringen in de toekomst minder zeker zijn",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Financiering maakt (meer) ontwikkeling van innovaties mogelijk. Dit kan leiden tot lagere productiekosten en/of nieuwe producten, waardoor de (trendmatige) groei van de productie(capaciteit) kan toenemen"
+     },
+     {
+      "points": 1,
+      "description": "UCF loopt met de financiering van innovaties een relatief hoog risico. Dat risico komt terecht bij de drie pensioenfondsen, wat ertoe kan bijdragen dat pensioenuitkeringen in de toekomst minder zeker zijn"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-innovatief-krediet-antw22.png"
+    ]
+   },
+   {
+    "title": "Zeker een ton?",
+    "question_number": 23,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n136.222,70 − 15.000 − 100.000 = € 21.222,70",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste berekening is:\n136.222,70 − 15.000 − 100.000 = € 21.222,70"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-zeker-een-ton-antw23.png"
+    ]
+   },
+   {
+    "title": "Zeker een ton?",
+    "question_number": 24,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n100.000 + 10.000 = 110.000\n110.000 / 1,015²⁰ = € 81.671,75\n\nOpmerking\nVoor een juiste afronding op hele euro's dienen ook scorepunten te worden toegekend.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\n100.000 + 10.000 = 110.000\n110.000 / 1,015²⁰ = € 81.671,75"
+     }
+    ],
+    "grading_note": "Voor een juiste afronding op hele euro's dienen ook scorepunten te worden toegekend.",
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-zeker-een-ton-antw24.png"
+    ]
+   },
+   {
+    "title": "Zeker een ton?",
+    "question_number": 25,
+    "answer_text": "alternatief II\nEen voorbeeld van een juiste toelichting is:\nPotentiële kopers zullen veelal zekerheid wensen omtrent een inkomen voor hun oude dag (wanneer ze niet meer in staat zullen zijn om dat inkomen nog aan te vullen).\n\nOpmerking\nHet scorepunt mag alleen worden toegekend als zowel de keuze als de toelichting juist zijn.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "alternatief II\nEen voorbeeld van een juiste toelichting is:\nPotentiële kopers zullen veelal zekerheid wensen omtrent een inkomen voor hun oude dag (wanneer ze niet meer in staat zullen zijn om dat inkomen nog aan te vullen)."
+     }
+    ],
+    "grading_note": "Het scorepunt mag alleen worden toegekend als zowel de keuze als de toelichting juist zijn.",
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-zeker-een-ton-antw25.png"
+    ]
+   },
+   {
+    "title": "Zeker een ton?",
+    "question_number": 26,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nMensen in de leeftijdscategorie die een polis met een looptijd van 30 of 35 jaar afsluiten hebben vaak een startend gezin met relatief hoge uitgaven / lage (start)inkomens. Zij hebben daardoor een hogere tijdsvoorkeur en zullen minder geneigd zijn om een pensioensompolis af te sluiten.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nMensen in de leeftijdscategorie die een polis met een looptijd van 30 of 35 jaar afsluiten hebben vaak een startend gezin met relatief hoge uitgaven / lage (start)inkomens. Zij hebben daardoor een hogere tijdsvoorkeur en zullen minder geneigd zijn om een pensioensompolis af te sluiten."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-zeker-een-ton-antw26.png"
+    ]
+   },
+   {
+    "title": "Zwakste schouders, zwaarste lasten?",
+    "question_number": 27,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nDe frequentie bij een behandelduur van zes afspraken is relatief hoog. Dit geeft de indruk dat zelfstandigen de behandelduur oprekken om een hoger tarief te kunnen declareren. Een behandelduur van elf afspraken komt minder voor. Dit is een sterke aanwijzing dat zelfstandigen de behandelduur bekorten wanneer afspraken geen extra vergoeding meer opleveren.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nDe frequentie bij een behandelduur van zes afspraken is relatief hoog. Dit geeft de indruk dat zelfstandigen de behandelduur oprekken om een hoger tarief te kunnen declareren. Een behandelduur van elf afspraken komt minder voor. Dit is een sterke aanwijzing dat zelfstandigen de behandelduur bekorten wanneer afspraken geen extra vergoeding meer opleveren."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-zwakste-schouders-zwaarste-lasten-antw27.png"
+    ]
+   },
+   {
+    "title": "Zwakste schouders, zwaarste lasten?",
+    "question_number": 28,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n0,14 × 4,9 + 0,39 × 7,6 + 0,24 × 12,9 + 0,23 × 22 = 11,8\n0,22 × 4,4 + 0,41 × 8,1 + 0,14 × 13,4 + 0,23 × 22 = 11,2\n((11,8 − 11,2) / 11,2) × 100% = 5,4%",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\n0,14 × 4,9 + 0,39 × 7,6 + 0,24 × 12,9 + 0,23 × 22 = 11,8\n0,22 × 4,4 + 0,41 × 8,1 + 0,14 × 13,4 + 0,23 × 22 = 11,2\n((11,8 − 11,2) / 11,2) × 100% = 5,4%"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-zwakste-schouders-zwaarste-lasten-antw28.png"
+    ]
+   },
+   {
+    "title": "Zwakste schouders, zwaarste lasten?",
+    "question_number": 29,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nPatiënten zullen minder snel een verlenging van het aantal behandelingen accepteren (dat mogelijk ingegeven is door financieel eigenbelang van de therapeut) als zij de meerwaarde van extra behandelingen moeten afwegen tegen een te betalen eigen risico.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nPatiënten zullen minder snel een verlenging van het aantal behandelingen accepteren (dat mogelijk ingegeven is door financieel eigenbelang van de therapeut) als zij de meerwaarde van extra behandelingen moeten afwegen tegen een te betalen eigen risico."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-zwakste-schouders-zwaarste-lasten-antw29.png"
+    ]
+   },
+   {
+    "title": "Zwakste schouders, zwaarste lasten?",
+    "question_number": 30,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nVoor patiënten (met lagere inkomens) zal het eigen risico aanleiding kunnen zijn om de behandeling eerder te stoppen dan voor hun gezondheid wenselijk is.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste verklaring is:\nVoor patiënten (met lagere inkomens) zal het eigen risico aanleiding kunnen zijn om de behandeling eerder te stoppen dan voor hun gezondheid wenselijk is."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-ii-zwakste-schouders-zwaarste-lasten-antw30.png"
+    ]
+   }
+  ]
+ }
+}

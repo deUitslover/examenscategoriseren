@@ -1,0 +1,449 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "VWO",
+  "source": "VWO Economie 2017-I",
+  "answers": [
+   {
+    "title": "Quichote",
+    "question_number": 1,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nTO = TK\n2,5 mln. × (P − € 0,05) = € 0,4 mln. → P = € 0,21",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\nTO = TK\n2,5 mln. × (P − € 0,05) = € 0,4 mln. → P = € 0,21"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-quichote-antw1.png"
+    ]
+   },
+   {
+    "title": "Quichote",
+    "question_number": 2,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Bij laagconjunctuur is sprake van een lagere vraag naar elektriciteit, hetgeen over de gehele linie leidt tot een lagere prijs van elektriciteit\n• Het windmolenpark krijgt ook te maken met deze prijsdaling. Dit werkt ten nadele van de winst (ook al wordt de afzet van windenergie niet beïnvloed door verminderde vraag)\n\nOpmerking\nEen antwoord via een lagere hoeveelheid verkochte elektriciteit door windmolenpark Quichote levert geen scorepunten op.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij laagconjunctuur is sprake van een lagere vraag naar elektriciteit, hetgeen over de gehele linie leidt tot een lagere prijs van elektriciteit"
+     },
+     {
+      "points": 1,
+      "description": "Het windmolenpark krijgt ook te maken met deze prijsdaling. Dit werkt ten nadele van de winst (ook al wordt de afzet van windenergie niet beïnvloed door verminderde vraag)"
+     }
+    ],
+    "grading_note": "Een antwoord via een lagere hoeveelheid verkochte elektriciteit door windmolenpark Quichote levert geen scorepunten op.",
+    "answer_image_urls": [
+     "economie-vwo-2017-i-quichote-antw2.png"
+    ]
+   },
+   {
+    "title": "Quichote",
+    "question_number": 3,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De directie heeft (als agent) een financieel belang bij het vergroten van de winst door te kiezen voor een bedrijfsvoering met de laagste kosten, terwijl de maatschappelijke organisaties (als principaal) een voorkeur hebben voor de meest milieuvriendelijke productiewijze\n• De directie heeft een informatievoorsprong wat betreft de bedrijfsvoering en kan daarom haar doelstelling ongemerkt voorrang geven boven die van de maatschappelijke organisaties",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De directie heeft (als agent) een financieel belang bij het vergroten van de winst door te kiezen voor een bedrijfsvoering met de laagste kosten, terwijl de maatschappelijke organisaties (als principaal) een voorkeur hebben voor de meest milieuvriendelijke productiewijze"
+     },
+     {
+      "points": 1,
+      "description": "De directie heeft een informatievoorsprong wat betreft de bedrijfsvoering en kan daarom haar doelstelling ongemerkt voorrang geven boven die van de maatschappelijke organisaties"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-quichote-antw3.png"
+    ]
+   },
+   {
+    "title": "Quichote",
+    "question_number": 4,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Beleggen in aandelen heeft het voordeel dat hij zo mede-eigenaar wordt van het windmolenpark en medezeggenschap/informatie krijgt\n• Beleggen in aandelen heeft het nadeel dat het leidt tot meer risico, aangezien het rendement afhankelijk is van het bedrijfsresultaat (terwijl obligaties een vaste rentevergoeding bieden) / aandeelhouders bij liquidatie van een onderneming als laatste betaald krijgen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beleggen in aandelen heeft het voordeel dat hij zo mede-eigenaar wordt van het windmolenpark en medezeggenschap/informatie krijgt"
+     },
+     {
+      "points": 1,
+      "description": "Beleggen in aandelen heeft het nadeel dat het leidt tot meer risico, aangezien het rendement afhankelijk is van het bedrijfsresultaat (terwijl obligaties een vaste rentevergoeding bieden) / aandeelhouders bij liquidatie van een onderneming als laatste betaald krijgen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-quichote-antw4.png"
+    ]
+   },
+   {
+    "title": "Phillipscurve richtsnoer voor beleid",
+    "question_number": 5,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nAls het werkloosheidspercentage daalt, wordt de arbeidsmarkt krapper / wordt de productiefactor arbeid schaarser, waardoor de lonen (meer dan de arbeidsproductiviteit) kunnen stijgen. Bedrijven zullen deze loonkostenstijging willen doorberekenen in de verkoopprijzen.\n(Dit leidt tot loonkosteninflatie.)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nAls het werkloosheidspercentage daalt, wordt de arbeidsmarkt krapper / wordt de productiefactor arbeid schaarser, waardoor de lonen (meer dan de arbeidsproductiviteit) kunnen stijgen. Bedrijven zullen deze loonkostenstijging willen doorberekenen in de verkoopprijzen.\n(Dit leidt tot loonkosteninflatie.)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-phillipscurve-richtsnoer-voor-beleid-antw5.png"
+    ]
+   },
+   {
+    "title": "Phillipscurve richtsnoer voor beleid",
+    "question_number": 6,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• In situatie A was de inflatie (op jaarbasis) 1,5%.\nIn situatie B wordt de inflatie (op jaarbasis) 4,5%.\nDe stijging van de inflatie in procentpunten is dus 3,0%\n(en dat is minder dan 3,5%)\n• De daling van de werkloosheid van 5,25% in A naar 1,75% in B is\n(3,5 / 5,25) × 100% = 66,67% (en dat is meer dan de vereiste 40%)\n\nOpmerking\nBij kleine verschillen met aflezen van de werkloosheid kunnen scorepunten worden toegekend.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In situatie A was de inflatie (op jaarbasis) 1,5%.\nIn situatie B wordt de inflatie (op jaarbasis) 4,5%.\nDe stijging van de inflatie in procentpunten is dus 3,0%\n(en dat is minder dan 3,5%)"
+     },
+     {
+      "points": 1,
+      "description": "De daling van de werkloosheid van 5,25% in A naar 1,75% in B is\n(3,5 / 5,25) × 100% = 66,67% (en dat is meer dan de vereiste 40%)"
+     }
+    ],
+    "grading_note": "Bij kleine verschillen met aflezen van de werkloosheid kunnen scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "economie-vwo-2017-i-phillipscurve-richtsnoer-voor-beleid-antw6.png"
+    ]
+   },
+   {
+    "title": "Phillipscurve richtsnoer voor beleid",
+    "question_number": 7,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nDoor de belastingverlaging stijgen de netto-inkomens en zullen naar verwachting de particuliere bestedingen toenemen. Hierdoor zal de opbrengst aan btw en accijnzen toenemen / de productie toenemen, waardoor ook de opbrengsten aan inkomsten-/vennootschapsbelasting toenemen. (Als gevolg hiervan stijgt de staatsschuld minder dan de oorspronkelijke daling van de belastingopbrengst.)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juist antwoord is:\nDoor de belastingverlaging stijgen de netto-inkomens en zullen naar verwachting de particuliere bestedingen toenemen. Hierdoor zal de opbrengst aan btw en accijnzen toenemen / de productie toenemen, waardoor ook de opbrengsten aan inkomsten-/vennootschapsbelasting toenemen. (Als gevolg hiervan stijgt de staatsschuld minder dan de oorspronkelijke daling van de belastingopbrengst.)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-phillipscurve-richtsnoer-voor-beleid-antw7.png"
+    ]
+   },
+   {
+    "title": "Phillipscurve richtsnoer voor beleid",
+    "question_number": 8,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nDe toename van de bestedingen als gevolg van belastingverlaging zal op korte termijn de werkloosheid kunnen doen dalen, zolang er sprake is van geldillusie / de inflatieverwachting bij het publiek niet wordt bijgesteld. Na enige tijd merkt het publiek dat de werkelijke inflatie hoger wordt dan verwacht. Op langere termijn zullen daardoor de particuliere bestedingen neerwaarts worden bijgesteld, als gevolg waarvan de werkloosheid weer oploopt tot de NAIRU.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nDe toename van de bestedingen als gevolg van belastingverlaging zal op korte termijn de werkloosheid kunnen doen dalen, zolang er sprake is van geldillusie / de inflatieverwachting bij het publiek niet wordt bijgesteld. Na enige tijd merkt het publiek dat de werkelijke inflatie hoger wordt dan verwacht. Op langere termijn zullen daardoor de particuliere bestedingen neerwaarts worden bijgesteld, als gevolg waarvan de werkloosheid weer oploopt tot de NAIRU."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-phillipscurve-richtsnoer-voor-beleid-antw8.png"
+    ]
+   },
+   {
+    "title": "Phillipscurve richtsnoer voor beleid",
+    "question_number": 9,
+    "answer_text": "Voorbeelden van een juiste verklaring zijn:\n− Verhoging van de arbeidskorting betekent een verlaging van de loonbelasting, waardoor (vakbonden hun looneisen zullen matigen en) de groei van het loonniveau wordt getemperd. Hierdoor kunnen de loonkosten per product bij binnenlandse bedrijven dalen en verbetert hun concurrentiepositie ten opzichte van het buitenland. De exportvraag zal toenemen en voor de toename van de productie zal meer arbeid moeten worden ingezet. De (NAIRU zal hierdoor dalen en de) langetermijn-Phillipscurve zal naar links verschuiven.\n− Verhoging van de arbeidskorting betekent een verlaging van de loonbelasting, waardoor het besteedbaar inkomen van werkenden toeneemt. De binnenlandse bestedingen zullen toenemen en voor de toename van de productie zal meer arbeid moeten worden ingezet. De (NAIRU zal hierdoor dalen en de) langetermijn-Phillipscurve zal naar links verschuiven.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juiste verklaring zijn:\n− Verhoging van de arbeidskorting betekent een verlaging van de loonbelasting, waardoor (vakbonden hun looneisen zullen matigen en) de groei van het loonniveau wordt getemperd. Hierdoor kunnen de loonkosten per product bij binnenlandse bedrijven dalen en verbetert hun concurrentiepositie ten opzichte van het buitenland. De exportvraag zal toenemen en voor de toename van de productie zal meer arbeid moeten worden ingezet. De (NAIRU zal hierdoor dalen en de) langetermijn-Phillipscurve zal naar links verschuiven.\n− Verhoging van de arbeidskorting betekent een verlaging van de loonbelasting, waardoor het besteedbaar inkomen van werkenden toeneemt. De binnenlandse bestedingen zullen toenemen en voor de toename van de productie zal meer arbeid moeten worden ingezet. De (NAIRU zal hierdoor dalen en de) langetermijn-Phillipscurve zal naar links verschuiven."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-phillipscurve-richtsnoer-voor-beleid-antw9.png"
+    ]
+   },
+   {
+    "title": "Financiële blessuretijd voor BVV",
+    "question_number": 10,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n0,675 × 20.000 = 13.500\n0,69 × (20.000 − 13.500) = 4.485\n((13.500 + 4.485) / 20.000) × 100% = 89,9% (afgerond)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\n0,675 × 20.000 = 13.500\n0,69 × (20.000 − 13.500) = 4.485\n((13.500 + 4.485) / 20.000) × 100% = 89,9% (afgerond)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-financiele-blessuretijd-voor-bvv-antw10.png"
+    ]
+   },
+   {
+    "title": "Financiële blessuretijd voor BVV",
+    "question_number": 11,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Qsk = 0,675 × 20.000 = 13.500\nQlv = 0,69 × (20.000 − 13.500) = 4.485\nTO = 200 × 13.500 + 15 × 4.485 × 17 = 3.843.675\n• TK = 25.000 × 17 + 14.000.000 = 14.425.000\nTO − TK = 3.843.675 − 14.425.000 = −10.581.325\n10.581.325 − 350.000 = 10.231.325\nDe sponsors zouden € 10.231.325 (voor het seizoen 2014-2015) moeten bijleggen\n\nOpmerking\nDe volledige scorepunten dienen ook te worden toegekend aan kandidaten die correct berekende totale opbrengsten en totale kosten hebben vermenigvuldigd met miljoenen euro's.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Qsk = 0,675 × 20.000 = 13.500\nQlv = 0,69 × (20.000 − 13.500) = 4.485\nTO = 200 × 13.500 + 15 × 4.485 × 17 = 3.843.675"
+     },
+     {
+      "points": 1,
+      "description": "TK = 25.000 × 17 + 14.000.000 = 14.425.000\nTO − TK = 3.843.675 − 14.425.000 = −10.581.325\n10.581.325 − 350.000 = 10.231.325\nDe sponsors zouden € 10.231.325 (voor het seizoen 2014-2015) moeten bijleggen"
+     }
+    ],
+    "grading_note": "De volledige scorepunten dienen ook te worden toegekend aan kandidaten die correct berekende totale opbrengsten en totale kosten hebben vermenigvuldigd met miljoenen euro's.",
+    "answer_image_urls": [
+     "economie-vwo-2017-i-financiele-blessuretijd-voor-bvv-antw11.png"
+    ]
+   },
+   {
+    "title": "Financiële blessuretijd voor BVV",
+    "question_number": 12,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nDe aanschafkosten van het stadion zijn voor de gemeente een specifieke investering. Als BVV failliet gaat is de gemeente Brudam eigenaar van een voetbalstadion waar zij geen andere bestemming voor kan vinden. Om in de toekomst nog huurinkomsten van BVV te kunnen blijven ontvangen moet de gemeente wel akkoord gaan met de huurverlaging.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nDe aanschafkosten van het stadion zijn voor de gemeente een specifieke investering. Als BVV failliet gaat is de gemeente Brudam eigenaar van een voetbalstadion waar zij geen andere bestemming voor kan vinden. Om in de toekomst nog huurinkomsten van BVV te kunnen blijven ontvangen moet de gemeente wel akkoord gaan met de huurverlaging."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-financiele-blessuretijd-voor-bvv-antw12.png"
+    ]
+   },
+   {
+    "title": "Financiële blessuretijd voor BVV",
+    "question_number": 13,
+    "answer_text": "Voorbeelden van een juist gevonden positief extern effect zijn:\n− Bij thuiswedstrijden van BVV komen veel supporters naar de stad die ook bestedingen doen bij bedrijven (zoals in de horeca).\n− BVV is een bekende club in het betaald voetbal en zet de gemeente Brudam in de schijnwerpers. Dit kan leiden tot toename van economische activiteiten/particuliere initiatieven in Brudam.\n\nOpmerking\nBij een antwoord dat betrekking heeft op de eigen bedrijfsvoering van de club geen scorepunt toekennen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voorbeelden van een juist gevonden positief extern effect zijn:\n− Bij thuiswedstrijden van BVV komen veel supporters naar de stad die ook bestedingen doen bij bedrijven (zoals in de horeca).\n− BVV is een bekende club in het betaald voetbal en zet de gemeente Brudam in de schijnwerpers. Dit kan leiden tot toename van economische activiteiten/particuliere initiatieven in Brudam."
+     }
+    ],
+    "grading_note": "Bij een antwoord dat betrekking heeft op de eigen bedrijfsvoering van de club geen scorepunt toekennen.",
+    "answer_image_urls": [
+     "economie-vwo-2017-i-financiele-blessuretijd-voor-bvv-antw13.png"
+    ]
+   },
+   {
+    "title": "Financiële blessuretijd voor BVV",
+    "question_number": 14,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nDe seizoenkaarthouders, goed voor ruim twee derde deel (67,5%) van de capaciteit van het stadion, zullen wel blijven komen. Hun bijdrage is al voor het hele seizoen betaald.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste uitleg is:\nDe seizoenkaarthouders, goed voor ruim twee derde deel (67,5%) van de capaciteit van het stadion, zullen wel blijven komen. Hun bijdrage is al voor het hele seizoen betaald."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-financiele-blessuretijd-voor-bvv-antw14.png"
+    ]
+   },
+   {
+    "title": "Hypotheekrente in Hoogland: een onnodig hoge prijs?",
+    "question_number": 15,
+    "answer_text": "0,96 procentpunt\nEen voorbeeld van een juiste berekening is:\nHet CPI in Hoogland stijgt met (2,7 / 103,00) × 100% = 2,62%.\nDe reële rentevoet in Hoogland wordt (104 / 102,62) × 100% − 100% = 1,34%.\nHet CPI in Laagland stijgt met (1,65 / 102,40) × 100% = 1,61%.\nDe reële rentevoet in Laagland wordt (102 / 101,61) × 100% − 100% = 0,38%.\nIn Hoogland ligt de rentevoet 1,34 − 0,38 = 0,96 procentpunt hoger.\n\nindien vijf berekeningen juist: 3\nindien vier berekeningen juist: 2\nindien drie berekeningen juist: 1\nindien minder dan drie berekeningen juist: 0\n\nOpmerking\nAls de reële hypotheekrente is berekend als hypotheekrente − inflatie maximaal 1 scorepunt toekennen.",
+    "scoring_steps": [
+     {
+      "points": 3,
+      "description": "indien vijf berekeningen juist: 3\nindien vier berekeningen juist: 2\nindien drie berekeningen juist: 1\nindien minder dan drie berekeningen juist: 0"
+     }
+    ],
+    "grading_note": "Als de reële hypotheekrente is berekend als hypotheekrente − inflatie maximaal 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "economie-vwo-2017-i-hypotheekrente-in-hoogland-een-onnodig-hoge-prijs-antw15.png"
+    ]
+   },
+   {
+    "title": "Hypotheekrente in Hoogland: een onnodig hoge prijs?",
+    "question_number": 16,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nIn Hoogland zijn de netto-rentelasten als gevolg van de aftrekbaarheid van de hypotheekrente lager dan in Laagland. Met het voordeel wat betreft de inkomstenbelasting zullen (meer) mensen in Hoogland een (hogere) hypothecaire lening aangaan. Als gevolg van deze hogere vraag naar hypothecair krediet liggen de rentepercentages in Hoogland hoger.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nIn Hoogland zijn de netto-rentelasten als gevolg van de aftrekbaarheid van de hypotheekrente lager dan in Laagland. Met het voordeel wat betreft de inkomstenbelasting zullen (meer) mensen in Hoogland een (hogere) hypothecaire lening aangaan. Als gevolg van deze hogere vraag naar hypothecair krediet liggen de rentepercentages in Hoogland hoger."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-hypotheekrente-in-hoogland-een-onnodig-hoge-prijs-antw16.png"
+    ]
+   },
+   {
+    "title": "Hypotheekrente in Hoogland: een onnodig hoge prijs?",
+    "question_number": 17,
+    "answer_text": "Voorbeelden van een juiste verklaring zijn:\n− De vier grootste hypotheekverstrekkers hebben in Hoogland een veel groter marktaandeel/grotere marktmacht dan in Laagland, waardoor in Hoogland de prijsconcurrentie minder is.\n− De vier grootste hypotheekverstrekkers hebben in Hoogland een veel groter marktaandeel dan in Laagland, waardoor in Hoogland eerder prijsafspraken tot stand kunnen komen. Als gevolg hiervan heeft Hoogland een hogere hypotheekrente.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juiste verklaring zijn:\n− De vier grootste hypotheekverstrekkers hebben in Hoogland een veel groter marktaandeel/grotere marktmacht dan in Laagland, waardoor in Hoogland de prijsconcurrentie minder is.\n− De vier grootste hypotheekverstrekkers hebben in Hoogland een veel groter marktaandeel dan in Laagland, waardoor in Hoogland eerder prijsafspraken tot stand kunnen komen. Als gevolg hiervan heeft Hoogland een hogere hypotheekrente."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-hypotheekrente-in-hoogland-een-onnodig-hoge-prijs-antw17.png"
+    ]
+   },
+   {
+    "title": "Hypotheekrente in Hoogland: een onnodig hoge prijs?",
+    "question_number": 18,
+    "answer_text": "Voorbeelden van een juiste uitleg zijn:\n− Verstrekkers van hypothecaire leningen uit Laagland worden naar de Hooglandse hypotheekmarkt getrokken vanwege de hogere rente. Door dit extra aanbod zal in Hoogland de rente op de hypotheekmarkt dalen / Door het verminderen van het aanbod van hypothecaire leningen in Laagland zal in dat land de hypotheekrente stijgen. (Zo groeien de rentepercentages naar elkaar toe).\n− Een deel van de vragers van hypothecaire leningen uit Hoogland zal in Laagland een lening proberen te krijgen. Hierdoor verruimt de hypotheekmarkt in Hoogland / verkrapt de hypotheekmarkt in Laagland, waardoor in Hoogland de hypotheekrente zal dalen / in Laagland zal stijgen (en de rentepercentages naar elkaar toe groeien).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juiste uitleg zijn:\n− Verstrekkers van hypothecaire leningen uit Laagland worden naar de Hooglandse hypotheekmarkt getrokken vanwege de hogere rente. Door dit extra aanbod zal in Hoogland de rente op de hypotheekmarkt dalen / Door het verminderen van het aanbod van hypothecaire leningen in Laagland zal in dat land de hypotheekrente stijgen. (Zo groeien de rentepercentages naar elkaar toe).\n− Een deel van de vragers van hypothecaire leningen uit Hoogland zal in Laagland een lening proberen te krijgen. Hierdoor verruimt de hypotheekmarkt in Hoogland / verkrapt de hypotheekmarkt in Laagland, waardoor in Hoogland de hypotheekrente zal dalen / in Laagland zal stijgen (en de rentepercentages naar elkaar toe groeien)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-hypotheekrente-in-hoogland-een-onnodig-hoge-prijs-antw18.png"
+    ]
+   },
+   {
+    "title": "Hypotheekrente in Hoogland: een onnodig hoge prijs?",
+    "question_number": 19,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nAls de overheid grote bedragen heeft uitstaan bij verstrekkers van hypothecaire leningen bestaat de mogelijkheid dat deze opnieuw risico's gaan nemen in de verwachting dat bij problemen de overheid het niet op een faillissement zal laten aankomen / opnieuw steun zal bieden. Om dat (moral hazard) te voorkomen ziet de overheid er op toe dat dat deze banken afzien van het voeren van een agressief prijsbeleid.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nAls de overheid grote bedragen heeft uitstaan bij verstrekkers van hypothecaire leningen bestaat de mogelijkheid dat deze opnieuw risico's gaan nemen in de verwachting dat bij problemen de overheid het niet op een faillissement zal laten aankomen / opnieuw steun zal bieden. Om dat (moral hazard) te voorkomen ziet de overheid er op toe dat dat deze banken afzien van het voeren van een agressief prijsbeleid."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-hypotheekrente-in-hoogland-een-onnodig-hoge-prijs-antw19.png"
+    ]
+   },
+   {
+    "title": "Zorg verzekerd?",
+    "question_number": 20,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nMet beperkte informatie over de gezondheid van de verzekerden zal de verzekeraar zich bij het bepalen van de hoogte van de premie richten op een gemiddeld gezondheidsrisico. Dit leidt ertoe dat voornamelijk mensen met een relatief hoog gezondheidsrisico zich zullen verzekeren. De premie zal daardoor gaandeweg hoger komen te liggen, waardoor opnieuw verzekerden met de laagste risico's zullen besluiten 'uit te stappen'.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nMet beperkte informatie over de gezondheid van de verzekerden zal de verzekeraar zich bij het bepalen van de hoogte van de premie richten op een gemiddeld gezondheidsrisico. Dit leidt ertoe dat voornamelijk mensen met een relatief hoog gezondheidsrisico zich zullen verzekeren. De premie zal daardoor gaandeweg hoger komen te liggen, waardoor opnieuw verzekerden met de laagste risico's zullen besluiten 'uit te stappen'."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-zorg-verzekerd-antw20.png"
+    ]
+   },
+   {
+    "title": "Zorg verzekerd?",
+    "question_number": 21,
+    "answer_text": "Een voorbeeld van een juist argument is:\nDoor de kostenverschillen die voortvloeien uit minder doelmatige bedrijfsvoering niet te compenseren, blijven verzekeraars een prikkel houden om doelmatig te werken om zodoende de premie voor verzekerden laag te houden / meer winst te maken.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juist argument is:\nDoor de kostenverschillen die voortvloeien uit minder doelmatige bedrijfsvoering niet te compenseren, blijven verzekeraars een prikkel houden om doelmatig te werken om zodoende de premie voor verzekerden laag te houden / meer winst te maken."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-zorg-verzekerd-antw21.png"
+    ]
+   },
+   {
+    "title": "Zorg verzekerd?",
+    "question_number": 22,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nRisico per schadegeval voor verzekeraar:\n– groep I: (1/20) × 35.000 = € 1.750\n– groep II: (1/50) × 35.000 = € 700\n– groep III: (1/100) × 35.000 = 350\nRisico t.o.v. premie per schadegeval voor verzekeraar:\n– groep I: 1.750 − 800 = € 950\n– groep II: 700 − 700 = € 0\n– groep III: 350 − 600 = −€ 250\nTotale nettobijdrage als verevening:\n– groep I: 950 × 100.000 = € 95 mln.\n– groep II: 0\n– groep III: −250 × 200.000 = −€ 50 mln.\nHet totaal aan uit te keren bijdragen uit het vereveningsfonds van € 95 miljoen kan niet volledig worden gedekt door de € 50 miljoen opgelegde heffingen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\nRisico per schadegeval voor verzekeraar:\n– groep I: (1/20) × 35.000 = € 1.750\n– groep II: (1/50) × 35.000 = € 700\n– groep III: (1/100) × 35.000 = 350\nRisico t.o.v. premie per schadegeval voor verzekeraar:\n– groep I: 1.750 − 800 = € 950\n– groep II: 700 − 700 = € 0\n– groep III: 350 − 600 = −€ 250\nTotale nettobijdrage als verevening:\n– groep I: 950 × 100.000 = € 95 mln.\n– groep II: 0\n– groep III: −250 × 200.000 = −€ 50 mln.\nHet totaal aan uit te keren bijdragen uit het vereveningsfonds van € 95 miljoen kan niet volledig worden gedekt door de € 50 miljoen opgelegde heffingen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-zorg-verzekerd-antw22.png"
+    ]
+   },
+   {
+    "title": "Zorg verzekerd?",
+    "question_number": 23,
+    "answer_text": "Een voorbeeld van een juiste argumentatie is:\nMet het verplichte karakter worden mensen met lage gezondheidsrisico's ook verzekerd. Deze mensen hadden anders wellicht niet deelgenomen. Daarmee kan de premie voor mensen in hogere risicogroepen lager blijven dan als deze verzekering niet verplicht was geweest.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste argumentatie is:\nMet het verplichte karakter worden mensen met lage gezondheidsrisico's ook verzekerd. Deze mensen hadden anders wellicht niet deelgenomen. Daarmee kan de premie voor mensen in hogere risicogroepen lager blijven dan als deze verzekering niet verplicht was geweest."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-zorg-verzekerd-antw23.png"
+    ]
+   },
+   {
+    "title": "Zorg verzekerd?",
+    "question_number": 24,
+    "answer_text": "Een voorbeeld van een juiste argumentatie is:\nAls er een verplichting geldt voor het afsluiten van een verzekering, kan de situatie zich voordoen dat bij sommige verzekerden de betalingsbereidheid lager is dan de gerekende premie (met als gevolg een negatief consumentensurplus). Deelname van deze personen aan de verzekering zal dan een negatief effect hebben op het totale consumentensurplus.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste argumentatie is:\nAls er een verplichting geldt voor het afsluiten van een verzekering, kan de situatie zich voordoen dat bij sommige verzekerden de betalingsbereidheid lager is dan de gerekende premie (met als gevolg een negatief consumentensurplus). Deelname van deze personen aan de verzekering zal dan een negatief effect hebben op het totale consumentensurplus."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-zorg-verzekerd-antw24.png"
+    ]
+   },
+   {
+    "title": "Toch nog sparen?",
+    "question_number": 25,
+    "answer_text": "Die zal dalen.\nEen voorbeeld van een juiste toelichting is:\nEr zal minder geld in handen zijn van het publiek (ter financiering van het economisch verkeer).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Die zal dalen.\nEen voorbeeld van een juiste toelichting is:\nEr zal minder geld in handen zijn van het publiek (ter financiering van het economisch verkeer)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-toch-nog-sparen-antw25.png"
+    ]
+   },
+   {
+    "title": "Toch nog sparen?",
+    "question_number": 26,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nDe rente is gedaald tot 2,5% in 2012, terwijl in dat jaar de stijging van de consumentenprijsindex eveneens 2,5% bedraagt. Aangezien er in het voorbeeld ook sprake is van belasting op spaartegoeden, zal het reële rendement voor Yvonne na belastingen negatief zijn.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nDe rente is gedaald tot 2,5% in 2012, terwijl in dat jaar de stijging van de consumentenprijsindex eveneens 2,5% bedraagt. Aangezien er in het voorbeeld ook sprake is van belasting op spaartegoeden, zal het reële rendement voor Yvonne na belastingen negatief zijn."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-toch-nog-sparen-antw26.png"
+    ]
+   },
+   {
+    "title": "Toch nog sparen?",
+    "question_number": 27,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nOp korte termijn zijn de omloopsnelheid van het geld (V) en het prijspeil (P) constant. Minder besparingen leiden via stijging van de maatschappelijke geldhoeveelheid (M) tot een stijging van de omvang van de transacties (T).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nOp korte termijn zijn de omloopsnelheid van het geld (V) en het prijspeil (P) constant. Minder besparingen leiden via stijging van de maatschappelijke geldhoeveelheid (M) tot een stijging van de omvang van de transacties (T)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-toch-nog-sparen-antw27.png"
+    ]
+   },
+   {
+    "title": "Toch nog sparen?",
+    "question_number": 28,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nOp lange termijn is volgens de verkeersvergelijking van Fisher (ook) de omvang van de transacties (T) constant. De toename van de geldhoeveelheid (M) die ontstaat als gevolg van de maatregel zal daardoor uiteindelijk bijna volledig worden opgevangen door een stijging van het prijsniveau (P).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nOp lange termijn is volgens de verkeersvergelijking van Fisher (ook) de omvang van de transacties (T) constant. De toename van de geldhoeveelheid (M) die ontstaat als gevolg van de maatregel zal daardoor uiteindelijk bijna volledig worden opgevangen door een stijging van het prijsniveau (P)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2017-i-toch-nog-sparen-antw28.png"
+    ]
+   }
+  ]
+ }
+}
