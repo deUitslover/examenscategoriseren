@@ -117,7 +117,9 @@ def plan_page(page, hashes, para_gap=9.0, pad=4.0):
      'num': vraagnummer (vraag only), 'wipe_vragen': bool}
     """
     top = title_bar_y(page)
-    y_min = (top + 2.0) if top is not None else 0.0
+    # +1 not +2: a bron kop right under the bar starts 1.5pt below it
+    # (HAVO-ECO-16-I-O.pdf p.10 "bron 1 voorgenomen maatregelen ...")
+    y_min = (top + 1.0) if top is not None else 0.0
     head = header_line_y(page)
     if head is not None:
         y_min = max(y_min, head + 2.0)
@@ -238,6 +240,11 @@ def render_item(page, it, windows, hashes, render_page=None, pad=4.0):
         # first line under the running header: the pad would pull the
         # header hairline into the crop (HAVO-BIO-19-I-O.pdf p.3)
         y0 = head + 1.0
+    bar = title_bar_y(page)
+    if bar is not None and y0 < bar + 0.3 and it["y0"] > bar:
+        # a bron kop 1.5pt under the grey opgave bar: the pad would pull
+        # the bar into the crop (HAVO-ECO-16-I-O.pdf p.10)
+        y0 = bar + 0.3
     fboxes = footer_image_boxes(page, hashes)
 
     def is_footer(b):

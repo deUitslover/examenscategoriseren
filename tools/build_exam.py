@@ -112,7 +112,7 @@ def opgave_title(page):
     # (VWO-WISB-25-I-O.pdf p.5: the bar overlaps the title's descenders by
     # ~2pt, "Een wortelfunctie en haar inverse" ends at bar + 2.1)
     all_lines = text_lines(page)
-    lines = [l for l in all_lines if l[3] <= bar + 4 and l[1] < bar - 5 and l[1] > max(40, bar - 30)]
+    lines = [l for l in all_lines if l[3] <= bar + 4 and l[1] < bar - 5 and l[1] > max(40, bar - 36)]
     # a title whose words sit on the same row but in separate spans that
     # start slightly higher than the 40pt cutoff ("Zwemtijden en" +
     # "FINA-punten", VWO-WISA-23-I-O.pdf p.12): add every line that
@@ -121,6 +121,70 @@ def opgave_title(page):
         if l not in lines and l[3] <= bar + 4 and any(min(l[3], s[3]) - max(l[1], s[1]) > 5 for s in lines):
             lines.append(l)
     return " ".join(l[4] for l in sorted(lines, key=lambda l: (round(l[3] / 8), l[0]))).strip()
+
+
+BRON_RE = re.compile(r"^\s*bron\s+\d+\b", re.I)
+GEBRUIK_RE = re.compile(r"^\s*Gebruik\b", re.I)
+
+
+def _merge_into(dst, src):
+    dst["y0"] = min(dst["y0"], src["y0"])
+    dst["y1"] = max(dst["y1"], src["y1"])
+    dst["members"] = list(dst["members"]) + list(src["members"])
+    dst["embedded"] = dst.get("embedded", []) + src.get("embedded", [])
+    if src.get("extra_wipe"):
+        dst.setdefault("extra_wipe", []).extend(src["extra_wipe"])
+
+
+def bronnen_postprocess(doc, items):
+    """HAVO Economie (--bronnen, HAVO-ECO-16-I-O.pdf):
+    1. the bronnen after the last vraag of an opgave: every ctx item that
+       starts with "bron N" opens a block; the ctx items below it on the
+       same page (figure, legend, noten, "naar: ...") are merged into it,
+       ctx items at the top of the next page (before any bron kop) are
+       joined (stacked) to it. Each bron = one crop.
+    2. a short ctx item "Gebruik bron 1." / "Gebruik bovenstaande tekst en
+       bron 2." right above a vraag on the same page belongs to the vraag:
+       the vraag crop starts on it and its keep box covers it.
+    """
+    out = []
+    cur = None
+    for it in items:
+        if it["kind"] != "ctx" or "attach_to" in it:
+            cur = None
+            out.append(it)
+            continue
+        txt = item_text(doc[it["page"]], it).strip()
+        if BRON_RE.match(txt):
+            cur = it
+            out.append(it)
+        elif cur is not None and cur["page"] == it["page"]:
+            _merge_into(cur, it)
+        elif cur is not None:
+            it["join"] = True
+            cur = it
+            out.append(it)
+        else:
+            out.append(it)
+    res = []
+    i = 0
+    while i < len(out):
+        it = out[i]
+        nxt = out[i + 1] if i + 1 < len(out) else None
+        if (it["kind"] == "ctx" and nxt is not None and nxt["kind"] == "vraag"
+                and nxt["page"] == it["page"] and "attach_to" not in it and not it.get("join")):
+            txt = item_text(doc[it["page"]], it).strip()
+            if GEBRUIK_RE.match(txt) and len(txt.splitlines()) <= 2:
+                m = nxt["members"][0]
+                bx = [m] + list(it["members"])
+                nxt["members"] = [(min(b[0] for b in bx), min(b[1] for b in bx),
+                                   max(b[2] for b in bx), max(b[3] for b in bx))]
+                nxt["y0"] = min(nxt["y0"], it["y0"])
+                i += 1
+                continue
+        res.append(it)
+        i += 1
+    return res
 
 
 def main():
@@ -138,6 +202,8 @@ def main():
     ap.add_argument("--widen", nargs="*", default=[])
     ap.add_argument("--split", nargs="*", default=[])
     ap.add_argument("--newopgave", nargs="*", default=[])
+    ap.add_argument("--bronnen", action="store_true",
+                    help="HAVO Economie: merge each 'bron N' into one block, put 'Gebruik bron ...' in the vraag crop")
     a = ap.parse_args()
 
     doc = fitz.open(a.pdf)
@@ -218,7 +284,11 @@ def main():
             m_eco = re.fullmatch(r"Opgave\s+\d+\s+(.+)", " ".join(title.split()))
             if m_eco:
                 title = m_eco.group(1)
-            if not (opgaven and title.strip().lower() == "uitwerkbijlage"):
+            # HAVO Economie (HAVO-ECO-16-I-O.pdf): the bronnen pages after the
+            # last vraag repeat the opgave kop + grey bar; that is not a new
+            # opgave, the bronnen belong to the opgave with that title
+            if not (opgaven and (title.strip().lower() == "uitwerkbijlage"
+                                 or " ".join(title.split()) == " ".join(opgaven[-1]["title"].split()))):
                 opgaven.append({"title": title, "items": []})
         if not opgaven:
             continue
@@ -400,6 +470,10 @@ def main():
                 assert it["kind"] == "ctx", f"join {page.number}:{i} is not a ctx item"
                 it["join"] = True
             opgaven[-1]["items"].append(it)
+
+    if a.bronnen:
+        for op in opgaven:
+            op["items"] = bronnen_postprocess(doc, op["items"])
 
     widths = set()
     draft = {"pdf": a.pdf, "slug": a.slug, "exercises": []}
