@@ -1,0 +1,524 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "VWO",
+    "source": "VWO Economie 2022-II",
+    "answers": [
+      {
+        "title": "Zelfstandigen zonder personeel",
+        "question_number": 1,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij de verlies draaiende zzp’ers is sprake van een negatief primair inkomen\n• De Lorenzcurve zal voor het laagste kwintiel onder de horizontale as komen om vervolgens bij 20% van het aantal personen boven deze as te komen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij de verlies draaiende zzp’ers is sprake van een negatief primair inkomen"
+          },
+          {
+            "points": 1,
+            "description": "De Lorenzcurve zal voor het laagste kwintiel onder de horizontale as komen om vervolgens bij 20% van het aantal personen boven deze as te komen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-zelfstandigen-zonder-personeel-antw1.png"
+        ]
+      },
+      {
+        "title": "Zelfstandigen zonder personeel",
+        "question_number": 2,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de verlaging van de heffingskorting zullen de zzp'ers met lage inkomens relatief meer belasting gaan betalen dan de zzp'ers met hoge inkomens. Dit betekent dat de inkomensverschillen tussen de rijke zzp'ers en de arme zzp'ers groter worden\n• Door deze denivellering verschuift de Lorenz-curve van de secundaire inkomens naar buiten",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de verlaging van de heffingskorting zullen de zzp'ers met lage inkomens relatief meer belasting gaan betalen dan de zzp'ers met hoge inkomens. Dit betekent dat de inkomensverschillen tussen de rijke zzp'ers en de arme zzp'ers groter worden"
+          },
+          {
+            "points": 1,
+            "description": "Door deze denivellering verschuift de Lorenz-curve van de secundaire inkomens naar buiten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-zelfstandigen-zonder-personeel-antw2.png"
+        ]
+      },
+      {
+        "title": "Zelfstandigen zonder personeel",
+        "question_number": 3,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Het werk van (bepaalde) zzp’ers wordt duurder waardoor de vraag naar hun diensten daalt. Hierdoor stijgt de vraag naar arbeid van werknemers in loondienst en hierdoor kunnen de cao-lonen stijgen.\n− Het werk van (bepaalde) zzp’ers levert (per uur) meer op en dat trekt sommige werknemers aan om ook voor zichzelf te beginnen. Op de markt van werknemers in loondienst daalt het arbeidsaanbod van mensen die in loondienst willen werken en hierdoor kunnen de cao-lonen stijgen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Voorbeelden van een juist antwoord zijn:\n− Het werk van (bepaalde) zzp’ers wordt duurder waardoor de vraag naar hun diensten daalt. Hierdoor stijgt de vraag naar arbeid van werknemers in loondienst en hierdoor kunnen de cao-lonen stijgen.\n− Het werk van (bepaalde) zzp’ers levert (per uur) meer op en dat trekt sommige werknemers aan om ook voor zichzelf te beginnen. Op de markt van werknemers in loondienst daalt het arbeidsaanbod van mensen die in loondienst willen werken en hierdoor kunnen de cao-lonen stijgen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-zelfstandigen-zonder-personeel-antw3.png"
+        ]
+      },
+      {
+        "title": "Zelfstandigen zonder personeel",
+        "question_number": 4,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nLaaggeschoolde arbeid zoals schoonmaak is (relatief) homogeen waardoor de beloning per uur wordt bepaald door het geheel van vraag en aanbod van zzp’ers. Daarentegen zijn de diensten van hooggeschoolde arbeiders (zoals juridisch medewerkers of ICT-adviseurs) relatief heterogeen, dus is er geen sprake van volledige mededinging voor hooggeschoolde arbeid.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juist antwoord is:\nLaaggeschoolde arbeid zoals schoonmaak is (relatief) homogeen waardoor de beloning per uur wordt bepaald door het geheel van vraag en aanbod van zzp’ers. Daarentegen zijn de diensten van hooggeschoolde arbeiders (zoals juridisch medewerkers of ICT-adviseurs) relatief heterogeen, dus is er geen sprake van volledige mededinging voor hooggeschoolde arbeid."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-zelfstandigen-zonder-personeel-antw4.png"
+        ]
+      },
+      {
+        "title": "Zelfstandigen zonder personeel",
+        "question_number": 5,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Zonder minimumloon geldt:\nQv = Qa → –30U + 630 = 20U – 50\n50U = 680 en dus U = 680/50 = 13,60 euro per uur\nQv = (–30 x 13,60) + 630 = 222 miljoen uren\nTO = U x Qv = 13,60 x 222 miljoen = € 3,02 miljard\n• Met een minimumloon geldt dat Qa groter wordt en Qv daalt, dus het feitelijk aantal ingehuurde uren daalt tot:\nQv = (–30 x 16) + 630 = 150 miljoen uren\nTO = U x Q = 16 x 150 miljoen = € 2,4 miljard\nDe totale omzet van de zzp’ers samen daalt waarmee het armoedeprobleem onder de zzp’ers niet wordt verminderd",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Zonder minimumloon geldt:\nQv = Qa → –30U + 630 = 20U – 50\n50U = 680 en dus U = 680/50 = 13,60 euro per uur\nQv = (–30 x 13,60) + 630 = 222 miljoen uren\nTO = U x Qv = 13,60 x 222 miljoen = € 3,02 miljard"
+          },
+          {
+            "points": 1,
+            "description": "Met een minimumloon geldt dat Qa groter wordt en Qv daalt, dus het feitelijk aantal ingehuurde uren daalt tot:\nQv = (–30 x 16) + 630 = 150 miljoen uren\nTO = U x Q = 16 x 150 miljoen = € 2,4 miljard\nDe totale omzet van de zzp’ers samen daalt waarmee het armoedeprobleem onder de zzp’ers niet wordt verminderd"
+          }
+        ],
+        "grading_note": "Als in de berekeningen enkel 222 miljoen uren is vergeleken met 150 miljoen uren en eenzelfde conclusie is getrokken: maximaal 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-zelfstandigen-zonder-personeel-antw5.png"
+        ]
+      },
+      {
+        "title": "Zelfstandigen zonder personeel",
+        "question_number": 6,
+        "answer_text": "• Voorbeelden van een juiste verklaring van een negatieve invloed zijn:\n− Door de invoering van het minimumuurtarief wordt betaald werk in het algemeen duurder (de arbeidskosten per eenheid product stijgen) en dan zullen bepaalde opdrachtgevers zzp’ers of andere bedrijven met werknemers meer zwart willen laten doen, waardoor de arbeidsvraag / werkgelegenheid zal afnemen.\n− Door de invoering van het minimumuurtarief kunnen bepaalde opdrachtgevers worden geprikkeld om de diensten in het relatief goedkopere buitenland te laten verrichten, waardoor de arbeidsvraag / werkgelegenheid zal afnemen.\n• Een voorbeeld van een juiste verklaring van een positieve invloed is:\nDe beloning en de koopkracht van een deel van de onderbetaalde zzp’ers gaat omhoog, waardoor deze groep meer kan gaan besteden (en gezien hun hoogstwaarschijnlijk hoge consumptiequote weegt dat op tegen de mogelijke koopkrachtdaling bij de opdrachtgevers, die daardoor minder kunnen gaan consumeren) en hierdoor kunnen het bbp en de totale (feitelijke) werkgelegenheid toenemen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voorbeelden van een juiste verklaring van een negatieve invloed zijn:\n− Door de invoering van het minimumuurtarief wordt betaald werk in het algemeen duurder (de arbeidskosten per eenheid product stijgen) en dan zullen bepaalde opdrachtgevers zzp’ers of andere bedrijven met werknemers meer zwart willen laten doen, waardoor de arbeidsvraag / werkgelegenheid zal afnemen.\n− Door de invoering van het minimumuurtarief kunnen bepaalde opdrachtgevers worden geprikkeld om de diensten in het relatief goedkopere buitenland te laten verrichten, waardoor de arbeidsvraag / werkgelegenheid zal afnemen."
+          },
+          {
+            "points": 1,
+            "description": "Een voorbeeld van een juiste verklaring van een positieve invloed is:\nDe beloning en de koopkracht van een deel van de onderbetaalde zzp’ers gaat omhoog, waardoor deze groep meer kan gaan besteden (en gezien hun hoogstwaarschijnlijk hoge consumptiequote weegt dat op tegen de mogelijke koopkrachtdaling bij de opdrachtgevers, die daardoor minder kunnen gaan consumeren) en hierdoor kunnen het bbp en de totale (feitelijke) werkgelegenheid toenemen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-zelfstandigen-zonder-personeel-antw6.png"
+        ]
+      },
+      {
+        "title": "CO₂ ondergronds",
+        "question_number": 7,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\nTotale CO₂-uitstoot per bedrijf: 2,4 / 4 = 0,6 miljoen ton\nHet investeringsbedrag is € 65 per ton.\nIn totaal is dit 0,6 miljoen ton x 65 = € 39 miljoen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een voorbeeld van een juiste berekening is:\nTotale CO₂-uitstoot per bedrijf: 2,4 / 4 = 0,6 miljoen ton\nHet investeringsbedrag is € 65 per ton.\nIn totaal is dit 0,6 miljoen ton x 65 = € 39 miljoen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-co2-ondergronds-antw7.png"
+        ]
+      },
+      {
+        "title": "CO₂ ondergronds",
+        "question_number": 8,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Leport investeert € 450 miljoen in de pijpleiding. Dit is een specifieke investering voor het transport van CO₂ (vanaf de deelnemende bedrijven naar de opslaglocatie). Als de deelnemende bedrijven de samenwerking opzeggen kan Leport op geen enkele andere wijze deze investering terugverdienen en kan Leport beroofd worden van de investering\n• De dreiging is niet geloofwaardig want de deelnemende bedrijven hebben zelf verzonken kosten (€ 39 miljoen) die zij ook niet terug kunnen verdienen",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Leport investeert € 450 miljoen in de pijpleiding. Dit is een specifieke investering voor het transport van CO₂ (vanaf de deelnemende bedrijven naar de opslaglocatie). Als de deelnemende bedrijven de samenwerking opzeggen kan Leport op geen enkele andere wijze deze investering terugverdienen en kan Leport beroofd worden van de investering"
+          },
+          {
+            "points": 1,
+            "description": "De dreiging is niet geloofwaardig want de deelnemende bedrijven hebben zelf verzonken kosten (€ 39 miljoen) die zij ook niet terug kunnen verdienen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-co2-ondergronds-antw8.png"
+        ]
+      },
+      {
+        "title": "CO₂ ondergronds",
+        "question_number": 9,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Leport is de agent en moet zorgen voor de aanleg en het onderhoud van transport en opslag. De deelnemende bedrijven zijn de principaal en zij willen een efficiënt en ononderbroken transport van afgevangen CO₂ (anders zullen zij alsnog moeten uitstoten met alle extra kosten van dien)\n• Er is sprake van asymmetrische informatie. De bedrijven weten niet of Leport alles doet om efficiënt transport te realiseren / de tarieven gaat verhogen na aanleg van de afvanginstallaties\n• In het contract kan zijn opgenomen dat Leport een boete betaalt als de pijpleiding onvoldoende capaciteit heeft als gevolg van slechte installatie en onderhoud / Leport aansprakelijk kan worden gesteld voor (alle) extra kosten als gevolg van (onverwachte) extra uitstoot van CO₂",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Leport is de agent en moet zorgen voor de aanleg en het onderhoud van transport en opslag. De deelnemende bedrijven zijn de principaal en zij willen een efficiënt en ononderbroken transport van afgevangen CO₂ (anders zullen zij alsnog moeten uitstoten met alle extra kosten van dien)"
+          },
+          {
+            "points": 1,
+            "description": "Er is sprake van asymmetrische informatie. De bedrijven weten niet of Leport alles doet om efficiënt transport te realiseren / de tarieven gaat verhogen na aanleg van de afvanginstallaties"
+          },
+          {
+            "points": 1,
+            "description": "In het contract kan zijn opgenomen dat Leport een boete betaalt als de pijpleiding onvoldoende capaciteit heeft als gevolg van slechte installatie en onderhoud / Leport aansprakelijk kan worden gesteld voor (alle) extra kosten als gevolg van (onverwachte) extra uitstoot van CO₂"
+          }
+        ],
+        "grading_note": "Voor het derde deelantwoord wordt het scorepunt alleen toegekend als de (extra) kosten ten rekening komen van de agent.",
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-co2-ondergronds-antw9.png"
+        ]
+      },
+      {
+        "title": "CO₂ ondergronds",
+        "question_number": 10,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\nCO₂ niet opvangen betekent dat er emissierechten moeten worden gekocht. Dit kost de bedrijven: € 25 x 2,4 miljoen ton = € 60 miljoen.\nCO₂ opvangen en transporteren kost de bedrijven:\n€ 39 miljoen x 4 + (€ 10 x 2,4 miljoen ton) = € 180 miljoen.\nHet verschil moet gedekt worden via een subsidie en dit is:\n€ 180 miljoen – € 60 miljoen = € 120 miljoen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste berekening is:\nCO₂ niet opvangen betekent dat er emissierechten moeten worden gekocht. Dit kost de bedrijven: € 25 x 2,4 miljoen ton = € 60 miljoen.\nCO₂ opvangen en transporteren kost de bedrijven:\n€ 39 miljoen x 4 + (€ 10 x 2,4 miljoen ton) = € 180 miljoen.\nHet verschil moet gedekt worden via een subsidie en dit is:\n€ 180 miljoen – € 60 miljoen = € 120 miljoen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-co2-ondergronds-antw10.png"
+        ]
+      },
+      {
+        "title": "CO₂ ondergronds",
+        "question_number": 11,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De opslagcapaciteit van het gasveld is eindig, dus zal een gesubsidieerde afvang en opslag van CO₂ ervoor zorgen dat er geproduceerd blijft worden met fossiele brandstoffen / met CO₂-uitstoot (en vindt er geen verduurzaming / innovatie plaats)\n• Een subsidie is niet nodig, aangezien na de aanleg van de afvanginstallatie de marginale kosten van een extra ton CO₂-uitstoot hoger zijn dan de marginale kosten van een extra ton afvangen en transporteren (€ 25 > € 10). Hierdoor hebben de bedrijven een prikkel om zelf de installatie te betalen (zij verdienen dit immers terug binnen 4,5 jaar)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De opslagcapaciteit van het gasveld is eindig, dus zal een gesubsidieerde afvang en opslag van CO₂ ervoor zorgen dat er geproduceerd blijft worden met fossiele brandstoffen / met CO₂-uitstoot (en vindt er geen verduurzaming / innovatie plaats)"
+          },
+          {
+            "points": 1,
+            "description": "Een subsidie is niet nodig, aangezien na de aanleg van de afvanginstallatie de marginale kosten van een extra ton CO₂-uitstoot hoger zijn dan de marginale kosten van een extra ton afvangen en transporteren (€ 25 > € 10). Hierdoor hebben de bedrijven een prikkel om zelf de installatie te betalen (zij verdienen dit immers terug binnen 4,5 jaar)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-co2-ondergronds-antw11.png"
+        ]
+      },
+      {
+        "title": "Drie pensioenscenario’s",
+        "question_number": 12,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De overheid kan door het begrotingstekort de premies verhogen voor de werkenden. Omdat zij stijgende lasten hebben, kan de solidariteit met de gepensioneerden afnemen\n• De overheid kan ook besluiten de AOW-uitkeringen te verlagen waardoor de ouderen minder ontvangen (dan zijzelf hebben betaald). Daardoor komt de solidariteit tussen generaties onder druk te staan",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De overheid kan door het begrotingstekort de premies verhogen voor de werkenden. Omdat zij stijgende lasten hebben, kan de solidariteit met de gepensioneerden afnemen"
+          },
+          {
+            "points": 1,
+            "description": "De overheid kan ook besluiten de AOW-uitkeringen te verlagen waardoor de ouderen minder ontvangen (dan zijzelf hebben betaald). Daardoor komt de solidariteit tussen generaties onder druk te staan"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-drie-pensioenscenarios-antw12.png"
+        ]
+      },
+      {
+        "title": "Drie pensioenscenario’s",
+        "question_number": 13,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Alleenstaanden:\n(1128 – 1025) x 12 x 3,4 miljoen x 0,39 = € 1,638936 miljard\n• Samenwonenden:\n(843 – 745) x 12 x 3,4 miljoen x 0,61 = € 2,439024 miljard\nDit is een besparing van 1,638936 + 2,439024 = € 4,07796 miljard\nHet begrotingstekort wordt niet gedicht",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Alleenstaanden:\n(1128 – 1025) x 12 x 3,4 miljoen x 0,39 = € 1,638936 miljard"
+          },
+          {
+            "points": 1,
+            "description": "Samenwonenden:\n(843 – 745) x 12 x 3,4 miljoen x 0,61 = € 2,439024 miljard\nDit is een besparing van 1,638936 + 2,439024 = € 4,07796 miljard\nHet begrotingstekort wordt niet gedicht"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-drie-pensioenscenarios-antw13.png"
+        ]
+      },
+      {
+        "title": "Drie pensioenscenario’s",
+        "question_number": 14,
+        "answer_text": "Denivellering\nEen voorbeeld van een juist antwoord is:\nHet belastingtarief in de eerste schijf zal stijgen waardoor het gemiddelde belastingpercentage van gepensioneerden met een (relatief) laag pensioeninkomen zal stijgen ten opzichte van de oude situatie vergeleken met gepensioneerden die ook een hoog pensioeninkomen hebben. Hierdoor worden de inkomensverschillen groter en is er sprake van denivellering.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Denivellering\nEen voorbeeld van een juist antwoord is:\nHet belastingtarief in de eerste schijf zal stijgen waardoor het gemiddelde belastingpercentage van gepensioneerden met een (relatief) laag pensioeninkomen zal stijgen ten opzichte van de oude situatie vergeleken met gepensioneerden die ook een hoog pensioeninkomen hebben. Hierdoor worden de inkomensverschillen groter en is er sprake van denivellering."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-drie-pensioenscenarios-antw14.png"
+        ]
+      },
+      {
+        "title": "Drie pensioenscenario’s",
+        "question_number": 15,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Het te betalen belastingtarief stijgt van 19,2% (37,1 – 17,9) naar 29,6% (37,1 – 7,5). Zowel alleenstaanden als samenwonenden gaan 10,4 procentpunt meer belasting betalen in de eerste schijf\n• Alleenstaanden:\n(3,4 miljoen x 0,39) x (1.128 x 12) x 0,104 = € 1,86667 miljard\nSamenwonenden:\n(3,4 miljoen x 0,61) x (843 x 12) x 0,104 = € 2,18198 miljard\nHet begrotingstekort daalt met 1,86667 + 2,18198 = € 4,05 miljard en daarmee wordt het gat niet gedicht",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het te betalen belastingtarief stijgt van 19,2% (37,1 – 17,9) naar 29,6% (37,1 – 7,5). Zowel alleenstaanden als samenwonenden gaan 10,4 procentpunt meer belasting betalen in de eerste schijf"
+          },
+          {
+            "points": 1,
+            "description": "Alleenstaanden:\n(3,4 miljoen x 0,39) x (1.128 x 12) x 0,104 = € 1,86667 miljard\nSamenwonenden:\n(3,4 miljoen x 0,61) x (843 x 12) x 0,104 = € 2,18198 miljard\nHet begrotingstekort daalt met 1,86667 + 2,18198 = € 4,05 miljard en daarmee wordt het gat niet gedicht"
+          }
+        ],
+        "grading_note": "Als bij vraag 13 en 15 de 12 maanden zijn vergeten, maximaal 1 scorepunt aftrekken.",
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-drie-pensioenscenarios-antw15.png"
+        ]
+      },
+      {
+        "title": "Drie pensioenscenario’s",
+        "question_number": 16,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• In een hoogconjunctuur met een krappe arbeidsmarkt is er veel vraag naar arbeid waardoor ouderen die langer moeten werken ook een baan kunnen vinden / behouden waarbij jongere werkenden de extra vraag opvullen, waardoor de totale werkgelegenheid toeneemt\n• Door de verhoging van de AOW-leeftijd zal het aanbod van arbeid structureel toenemen waardoor (gegeven de vraag) er een neerwaarts effect ontstaat op de lonen\n• Hierdoor daalt de kostprijs en kunnen verkoopprijzen dalen waardoor de (internationale) concurrentiepositie verbetert, waardoor de productie kan toenemen en daarmee de vraag naar arbeid / werkgelegenheid",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In een hoogconjunctuur met een krappe arbeidsmarkt is er veel vraag naar arbeid waardoor ouderen die langer moeten werken ook een baan kunnen vinden / behouden waarbij jongere werkenden de extra vraag opvullen, waardoor de totale werkgelegenheid toeneemt"
+          },
+          {
+            "points": 1,
+            "description": "Door de verhoging van de AOW-leeftijd zal het aanbod van arbeid structureel toenemen waardoor (gegeven de vraag) er een neerwaarts effect ontstaat op de lonen"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor daalt de kostprijs en kunnen verkoopprijzen dalen waardoor de (internationale) concurrentiepositie verbetert, waardoor de productie kan toenemen en daarmee de vraag naar arbeid / werkgelegenheid"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-drie-pensioenscenarios-antw16.png"
+        ]
+      },
+      {
+        "title": "Strijd om startups",
+        "question_number": 17,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de investering zullen bedrijven zich gaan vestigen in de gemeente. Dit kan leiden tot een toename van andere bedrijvigheid (door de aanwezigheid van de startups) / een toename van gezinnen die naar de gemeente verhuizen / een toename van toekomstige OZB-inkomsten\n• Dit zijn baten die niet in de prijs zijn inbegrepen (positieve externe effecten). Door deze baten kan de gemeente op termijn meer verdienen en daarmee het initiële verlies compenseren",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de investering zullen bedrijven zich gaan vestigen in de gemeente. Dit kan leiden tot een toename van andere bedrijvigheid (door de aanwezigheid van de startups) / een toename van gezinnen die naar de gemeente verhuizen / een toename van toekomstige OZB-inkomsten"
+          },
+          {
+            "points": 1,
+            "description": "Dit zijn baten die niet in de prijs zijn inbegrepen (positieve externe effecten). Door deze baten kan de gemeente op termijn meer verdienen en daarmee het initiële verlies compenseren"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-strijd-om-startups-antw17.png"
+        ]
+      },
+      {
+        "title": "Strijd om startups",
+        "question_number": 18,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• De totale beschikbare bedrijfsruimte is gelijk aan 25.000.\n(De gemeente zal dit aanbieden als de betalingsbereidheid gelijk is aan het aanbod)\nBij P = 500 – 0,008Q geldt P = 500 – (0,008 x 25.000) = € 300\nDe totale opbrengst is gelijk aan € 300 x 25.000 = € 7.500.000\n• Totale verbouwingskosten (variabele kosten) zijn gelijk aan:\n€ 200 x 25.000 = € 5.000.000\nDe vaste (constante) kosten zijn gelijk aan € 3.500.000\nDe winst (TO – TK) = 7.500.000 – 5.000.000 – 3.500.000 = – € 1.000.000",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De totale beschikbare bedrijfsruimte is gelijk aan 25.000.\n(De gemeente zal dit aanbieden als de betalingsbereidheid gelijk is aan het aanbod)\nBij P = 500 – 0,008Q geldt P = 500 – (0,008 x 25.000) = € 300\nDe totale opbrengst is gelijk aan € 300 x 25.000 = € 7.500.000"
+          },
+          {
+            "points": 1,
+            "description": "Totale verbouwingskosten (variabele kosten) zijn gelijk aan:\n€ 200 x 25.000 = € 5.000.000\nDe vaste (constante) kosten zijn gelijk aan € 3.500.000\nDe winst (TO – TK) = 7.500.000 – 5.000.000 – 3.500.000 = – € 1.000.000"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-strijd-om-startups-antw18.png"
+        ]
+      },
+      {
+        "title": "Strijd om startups",
+        "question_number": 19,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• (Minimaal verlies is maximale winst) (GO=) P = 500 – 0,008Q\nTO = 500q – 0,008Q² en MO = 500 – 0,016Q\nMK = 200\n• MO = MK → 500 – 0,016Q = 200 → Q = 18.750\n18.750 / 25.000 x 100% = 75% bezetting\nEr is onvoldoende bezetting, dus voorstel B is niet mogelijk",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(Minimaal verlies is maximale winst) (GO=) P = 500 – 0,008Q\nTO = 500q – 0,008Q² en MO = 500 – 0,016Q\nMK = 200"
+          },
+          {
+            "points": 1,
+            "description": "MO = MK → 500 – 0,016Q = 200 → Q = 18.750\n18.750 / 25.000 x 100% = 75% bezetting\nEr is onvoldoende bezetting, dus voorstel B is niet mogelijk"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-strijd-om-startups-antw19.png"
+        ]
+      },
+      {
+        "title": "Strijd om startups",
+        "question_number": 20,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nMen zal een bod doen dat gelijk is aan ieders individuele betalingsbereidheid omdat:\n• partijen niet weten hoe hoog de betalingsbereidheid van andere partijen is (asymmetrische informatie),\n• maar ze willen geen risico lopen de bedrijfsruimte niet te kunnen kopen (risico avers gedrag)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "partijen niet weten hoe hoog de betalingsbereidheid van andere partijen is (asymmetrische informatie),"
+          },
+          {
+            "points": 1,
+            "description": "maar ze willen geen risico lopen de bedrijfsruimte niet te kunnen kopen (risico avers gedrag)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-strijd-om-startups-antw20.png"
+        ]
+      },
+      {
+        "title": "Strijd om startups",
+        "question_number": 21,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nTijdens de veiling bieden de startups elk hun maximale betalingsbereidheid. Door deze perfecte prijsdiscriminatie biedt iedere startup precies de prijs die men maximaal bereid is te betalen. Hierdoor is het consumentensurplus nul geworden.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juist antwoord is:\nTijdens de veiling bieden de startups elk hun maximale betalingsbereidheid. Door deze perfecte prijsdiscriminatie biedt iedere startup precies de prijs die men maximaal bereid is te betalen. Hierdoor is het consumentensurplus nul geworden."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-strijd-om-startups-antw21.png"
+        ]
+      },
+      {
+        "title": "Een teken van conjunctuur",
+        "question_number": 22,
+        "answer_text": "Positieve invloed\nEen voorbeeld van een juist antwoord is:\nDe conjunctuur wordt positief beïnvloed als de bestedingen toenemen (en daarmee het bbp). De netto vraag / netto bestedingen uit het buitenland (E–M) heeft / hebben zich positief ontwikkeld, want enerzijds is het exportvolume toegenomen en anderzijds is het importvolume afgenomen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Positieve invloed\nEen voorbeeld van een juist antwoord is:\nDe conjunctuur wordt positief beïnvloed als de bestedingen toenemen (en daarmee het bbp). De netto vraag / netto bestedingen uit het buitenland (E–M) heeft / hebben zich positief ontwikkeld, want enerzijds is het exportvolume toegenomen en anderzijds is het importvolume afgenomen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-een-teken-van-conjunctuur-antw22.png"
+        ]
+      },
+      {
+        "title": "Een teken van conjunctuur",
+        "question_number": 23,
+        "answer_text": "De orderportefeuille en het producentenvertrouwen\nEen voorbeeld van een juist antwoord is:\nDe orderportefeuille en het producentenvertrouwen zijn beide afgenomen in het derde kwartaal van 2018. Dit zijn voorlopende indicatoren en geven aan dat de productie in het vierde kwartaal van 2018 zal dalen, waardoor de economische groei / bbp daalt.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De orderportefeuille en het producentenvertrouwen\nEen voorbeeld van een juist antwoord is:\nDe orderportefeuille en het producentenvertrouwen zijn beide afgenomen in het derde kwartaal van 2018. Dit zijn voorlopende indicatoren en geven aan dat de productie in het vierde kwartaal van 2018 zal dalen, waardoor de economische groei / bbp daalt."
+          }
+        ],
+        "grading_note": "Als de productie niet wordt verwoord, maximaal 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-een-teken-van-conjunctuur-antw23.png"
+        ]
+      },
+      {
+        "title": "Een teken van conjunctuur",
+        "question_number": 24,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nAls de euro ten opzichte van de dollar in waarde daalt, nemen de invoerkosten (omgerekend in euro’s) van veel in USD uitgedrukte goederen (zoals ruwe olie) toe. Als de importeurs deze kosten in Nederland doorberekenen leidt dat tot hogere verkoopprijzen en dus een hogere inflatie.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juist antwoord is:\nAls de euro ten opzichte van de dollar in waarde daalt, nemen de invoerkosten (omgerekend in euro’s) van veel in USD uitgedrukte goederen (zoals ruwe olie) toe. Als de importeurs deze kosten in Nederland doorberekenen leidt dat tot hogere verkoopprijzen en dus een hogere inflatie."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-een-teken-van-conjunctuur-antw24.png"
+        ]
+      },
+      {
+        "title": "Een teken van conjunctuur",
+        "question_number": 25,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• In Duitsland is sprake van een daling van het reële bbp en deze daling zal naar verwachting aanhouden. Hierdoor zal de Duitse import dalen en zal de vraag naar Nederlandse goederen en diensten dalen\n• Door de daling van de Nederlandse export daalt de productie en daarmee kan de groei van het bbp verder onder de trendmatige groei komen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In Duitsland is sprake van een daling van het reële bbp en deze daling zal naar verwachting aanhouden. Hierdoor zal de Duitse import dalen en zal de vraag naar Nederlandse goederen en diensten dalen"
+          },
+          {
+            "points": 1,
+            "description": "Door de daling van de Nederlandse export daalt de productie en daarmee kan de groei van het bbp verder onder de trendmatige groei komen"
+          }
+        ],
+        "grading_note": "Als de productie niet wordt verwoord, maximaal 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-een-teken-van-conjunctuur-antw25.png"
+        ]
+      },
+      {
+        "title": "Zoet gedronken zuur betaald",
+        "question_number": 26,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Consumptie van suikerhoudende frisdrank leidt tot overgewicht/diabetes/ziekte. Hierdoor neemt de vraag naar gezondheidszorg toe en nemen daarmee de zorgkosten toe\n• Deze extra zorgkosten worden niet (of gedeeltelijk) door de frisdrankconsumenten zelf betaald",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Consumptie van suikerhoudende frisdrank leidt tot overgewicht/diabetes/ziekte. Hierdoor neemt de vraag naar gezondheidszorg toe en nemen daarmee de zorgkosten toe"
+          },
+          {
+            "points": 1,
+            "description": "Deze extra zorgkosten worden niet (of gedeeltelijk) door de frisdrankconsumenten zelf betaald"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-zoet-gedronken-zuur-betaald-antw26.png"
+        ]
+      },
+      {
+        "title": "Zoet gedronken zuur betaald",
+        "question_number": 27,
+        "answer_text": "Voorbeelden van een juiste berekening zijn:\n− verhouding inkomen: 72.541 / 29.705 x 100 – 100 = +144,2%\nverhouding consumptie: 0,26 / 0,18 x 100 – 100 = +44,4%\nHet inkomensverschil in procenten tussen het 2e en 4e kwintiel is groter dan het verschil in procenten van dagelijkse consumptie tussen het 2e en 4e kwintiel.\n− Aandeel consumptie = (jaarlijkse frisdrankconsumptie / jaarinkomen) x 100%\n(0,18 x 365 x 45) / 29.705 x 100 = 9,95%\n(0,26 x 365 x 45) / 72.541 x 100 = 5,89%\nIn het tweede kwintiel vormt de consumptie van frisdrank een groter aandeel van het inkomen dan in het vierde kwintiel.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Voorbeelden van een juiste berekening zijn:\n− verhouding inkomen: 72.541 / 29.705 x 100 – 100 = +144,2%\nverhouding consumptie: 0,26 / 0,18 x 100 – 100 = +44,4%\nHet inkomensverschil in procenten tussen het 2e en 4e kwintiel is groter dan het verschil in procenten van dagelijkse consumptie tussen het 2e en 4e kwintiel.\n− Aandeel consumptie = (jaarlijkse frisdrankconsumptie / jaarinkomen) x 100%\n(0,18 x 365 x 45) / 29.705 x 100 = 9,95%\n(0,26 x 365 x 45) / 72.541 x 100 = 5,89%\nIn het tweede kwintiel vormt de consumptie van frisdrank een groter aandeel van het inkomen dan in het vierde kwintiel."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-zoet-gedronken-zuur-betaald-antw27.png"
+        ]
+      },
+      {
+        "title": "Zoet gedronken zuur betaald",
+        "question_number": 28,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nDoor de progressie in de eigen bijdrage van de zorgkosten zullen met name de hogere inkomens proberen hun consumptie van suikerhoudende frisdrank te verminderen (om zo hogere zorgkosten te vermijden). Omdat de hoogste kwintielen relatief veel frisdrank consumeren, verwacht men met name daar een daling van de consumptie, zodat overgewicht en diabetes worden verminderd.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juist antwoord is:\nDoor de progressie in de eigen bijdrage van de zorgkosten zullen met name de hogere inkomens proberen hun consumptie van suikerhoudende frisdrank te verminderen (om zo hogere zorgkosten te vermijden). Omdat de hoogste kwintielen relatief veel frisdrank consumeren, verwacht men met name daar een daling van de consumptie, zodat overgewicht en diabetes worden verminderd."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-zoet-gedronken-zuur-betaald-antw28.png"
+        ]
+      },
+      {
+        "title": "Zoet gedronken zuur betaald",
+        "question_number": 29,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij de prijs van 45 peso’s blijkt dat QvB rechtser ligt dan QvA waardoor die groep meer vraag heeft bij eenzelfde prijs. Hieruit blijkt dat QvA bij kwintiel 1 hoort / QvB bij kwintiel 5 hoort (immers mensen uit kwintiel 5 een hogere dagelijkse consumptie hebben dan kwintiel 1)\n• Bij een prijs van 45 peso’s valt de prijs bij QvA in het prijselastische deel van de vraaglijn (overeenkomstig met de elasticiteit van kwintiel 1 uit tabel 1) en de prijs valt bij QvB in het prijsinelastische deel van de vraaglijn (overeenkomstig met de elasticiteit van kwintiel 5)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij de prijs van 45 peso’s blijkt dat QvB rechtser ligt dan QvA waardoor die groep meer vraag heeft bij eenzelfde prijs. Hieruit blijkt dat QvA bij kwintiel 1 hoort / QvB bij kwintiel 5 hoort (immers mensen uit kwintiel 5 een hogere dagelijkse consumptie hebben dan kwintiel 1)"
+          },
+          {
+            "points": 1,
+            "description": "Bij een prijs van 45 peso’s valt de prijs bij QvA in het prijselastische deel van de vraaglijn (overeenkomstig met de elasticiteit van kwintiel 1 uit tabel 1) en de prijs valt bij QvB in het prijsinelastische deel van de vraaglijn (overeenkomstig met de elasticiteit van kwintiel 5)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-ii-zoet-gedronken-zuur-betaald-antw29.png"
+        ]
+      }
+    ]
+  }
+}

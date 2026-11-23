@@ -1,0 +1,552 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "VWO",
+    "source": "VWO Economie 2022-I",
+    "answers": [
+      {
+        "title": "Sociaal gamen",
+        "question_number": 1,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Invullen van beide prijzen in de afzetfuncties geeft:\nqva = 400 − 30pa + 15pb = 400 − (30 × 12) + (15 × 13) = 235.000\nqvb = 600 + 20pa − 40pb = 600 + (20 × 12) − (40 × 13) = 320.000\nDe totale afzet is gelijk aan 555.000 (235.000 + 320.000)\nMarktaandeel Amador = 235.000 / 555.000 × 100% = 42,3%\nDe doelstelling wordt niet bereikt",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Invullen van beide prijzen in de afzetfuncties geeft:\nqva = 400 − 30pa + 15pb = 400 − (30 × 12) + (15 × 13) = 235.000\nqvb = 600 + 20pa − 40pb = 600 + (20 × 12) − (40 × 13) = 320.000"
+          },
+          {
+            "points": 1,
+            "description": "⚠️ CONTROLEREN: bij dit deel staat in het correctievoorschrift geen scorepunt in de scorekolom (maximumscore 2, slechts één '1' aangegeven).\nDe totale afzet is gelijk aan 555.000 (235.000 + 320.000)\nMarktaandeel Amador = 235.000 / 555.000 × 100% = 42,3%\nDe doelstelling wordt niet bereikt"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-sociaal-gamen-antw1.png"
+        ]
+      },
+      {
+        "title": "Sociaal gamen",
+        "question_number": 2,
+        "answer_text": "Een voorbeeld van een juiste verklaring is:\nDe prijscoëfficiënt pb in de vraagfunctie van Amador is +15 en dat betekent dat een lagere prijs van Badlands leidt tot een (grotere vraag naar Badlands en een) lagere vraag naar Amador. Dit betekent dat er sprake is van substitueerbare goederen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een voorbeeld van een juiste verklaring is:\nDe prijscoëfficiënt pb in de vraagfunctie van Amador is +15 en dat betekent dat een lagere prijs van Badlands leidt tot een (grotere vraag naar Badlands en een) lagere vraag naar Amador. Dit betekent dat er sprake is van substitueerbare goederen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-sociaal-gamen-antw2.png"
+        ]
+      },
+      {
+        "title": "Sociaal gamen",
+        "question_number": 3,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Amador hanteert een prijs van 0,9 x € 12 = € 10,80 Badlands hanteert een prijs van € 13\nqva = 400 – 30pa + 15pb = 400 – (30x10,8) + (15x13) = 271.000\nTOa = pa x qa → 271.000 x 10,80 = € 2.926.800\n• De oude omzet was gelijk aan € 2.820.000 (235.000 x € 12).\nVerandering omzet Amador = (2.926.800 − 2.820.000) / 2.820.000 × 100% = 3,79%\nHet indexcijfer is dan 100 + 3,79 = 103,79 en dat is afgerond 103,8",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Amador hanteert een prijs van 0,9 x € 12 = € 10,80 Badlands hanteert een prijs van € 13\nqva = 400 – 30pa + 15pb = 400 – (30x10,8) + (15x13) = 271.000\nTOa = pa x qa → 271.000 x 10,80 = € 2.926.800"
+          },
+          {
+            "points": 1,
+            "description": "De oude omzet was gelijk aan € 2.820.000 (235.000 x € 12).\nVerandering omzet Amador = (2.926.800 − 2.820.000) / 2.820.000 × 100% = 3,79%\nHet indexcijfer is dan 100 + 3,79 = 103,79 en dat is afgerond 103,8"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-sociaal-gamen-antw3.png"
+        ]
+      },
+      {
+        "title": "Sociaal gamen",
+        "question_number": 4,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Badlands heeft een dominante strategie om de prijs te verlagen want 104,6 > 100 en 97,9 > 92,5. De dreiging om de prijs te verlagen is dus geloofwaardig\n• Amador zal daardoor kiezen de prijs te verlagen, omdat 96,3 > 91,7. Hierdoor ontstaat een evenwicht met een suboptimale uitkomst want beide spelers hebben een lagere omzet dan verwacht in de uitgangssituatie",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Badlands heeft een dominante strategie om de prijs te verlagen want 104,6 > 100 en 97,9 > 92,5. De dreiging om de prijs te verlagen is dus geloofwaardig"
+          },
+          {
+            "points": 1,
+            "description": "Amador zal daardoor kiezen de prijs te verlagen, omdat 96,3 > 91,7. Hierdoor ontstaat een evenwicht met een suboptimale uitkomst want beide spelers hebben een lagere omzet dan verwacht in de uitgangssituatie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-sociaal-gamen-antw4.png"
+        ]
+      },
+      {
+        "title": "Sociaal gamen",
+        "question_number": 5,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij de eerste twaalf maanden is er sprake van een prijselastische vraag (Ev < –1) bij een prijs van € 12. Dit betekent dat het verlagen van de prijs ertoe leidt dat de afzet in verhouding meer stijgt dan de prijs daalt, waardoor de omzet toeneemt\n• Na een jaar spelen wordt de vraag bij een prijs van € 12 inelastischer (Ev > –1), waardoor het verhogen van de prijs / afschaffen van de korting leidt tot een toename van de omzet van Amador",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij de eerste twaalf maanden is er sprake van een prijselastische vraag (Ev < –1) bij een prijs van € 12. Dit betekent dat het verlagen van de prijs ertoe leidt dat de afzet in verhouding meer stijgt dan de prijs daalt, waardoor de omzet toeneemt"
+          },
+          {
+            "points": 1,
+            "description": "Na een jaar spelen wordt de vraag bij een prijs van € 12 inelastischer (Ev > –1), waardoor het verhogen van de prijs / afschaffen van de korting leidt tot een toename van de omzet van Amador"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-sociaal-gamen-antw5.png"
+        ]
+      },
+      {
+        "title": "Een eigen huis",
+        "question_number": 6,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Door middel van het hypothecaire krediet wordt consumptie vervroegd, want ze kan nu al het huis kopen\n• later zal ze minder bestedingsmogelijkheden hebben / kunnen consumeren door de aflossingen aan de hypotheekverstrekker",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door middel van het hypothecaire krediet wordt consumptie vervroegd, want ze kan nu al het huis kopen"
+          },
+          {
+            "points": 1,
+            "description": "later zal ze minder bestedingsmogelijkheden hebben / kunnen consumeren door de aflossingen aan de hypotheekverstrekker"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-een-eigen-huis-antw6.png"
+        ]
+      },
+      {
+        "title": "Een eigen huis",
+        "question_number": 7,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Naarmate de H/A-verhouding hoger wordt, loopt de bank meer risico op een restschuld later (als de woningwaarde daalt dan kan de schuld groter worden dan de woningwaarde)\n• hierdoor zal de bank meer rente eisen ter compensatie van het hogere risico (en dus is er een positief verband)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Naarmate de H/A-verhouding hoger wordt, loopt de bank meer risico op een restschuld later (als de woningwaarde daalt dan kan de schuld groter worden dan de woningwaarde)"
+          },
+          {
+            "points": 1,
+            "description": "hierdoor zal de bank meer rente eisen ter compensatie van het hogere risico (en dus is er een positief verband)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-een-eigen-huis-antw7.png"
+        ]
+      },
+      {
+        "title": "Een eigen huis",
+        "question_number": 8,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Naarmate de looptijd langer is, neemt de onzekerheid omtrent de inflatie toe en daarmee ook de onzekerheid voor de bank over de lagere reële waarde van de toekomstige aflossingen en rentebetalingen,\n• ter compensatie van dit risico op inflatie zal de hypotheekrente hoger zijn bij een langere looptijd",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Naarmate de looptijd langer is, neemt de onzekerheid omtrent de inflatie toe en daarmee ook de onzekerheid voor de bank over de lagere reële waarde van de toekomstige aflossingen en rentebetalingen,"
+          },
+          {
+            "points": 1,
+            "description": "ter compensatie van dit risico op inflatie zal de hypotheekrente hoger zijn bij een langere looptijd"
+          }
+        ],
+        "grading_note": "Als ‘onzekerheid’ niet correct is verwoord, maximaal 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "economie-vwo-2022-i-een-eigen-huis-antw8.png"
+        ]
+      },
+      {
+        "title": "Een eigen huis",
+        "question_number": 9,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de aanhoudende stijging van het inkomen zal de vraag naar eigen huizen en daarmee de vraag naar hypothecaire leningen (verder) stijgen en zal de hypotheekrente in de toekomst stijgen, waardoor een looptijd van 1 jaar niet verstandig is (vanwege de duurdere herfinanciering)\n• Doordat het aanbod van hypothecaire leningen in Nederland volgend jaar toeneemt, zal de hypotheekrente in de toekomst dalen en dan is een korte looptijd van 1 jaar verstandig",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de aanhoudende stijging van het inkomen zal de vraag naar eigen huizen en daarmee de vraag naar hypothecaire leningen (verder) stijgen en zal de hypotheekrente in de toekomst stijgen, waardoor een looptijd van 1 jaar niet verstandig is (vanwege de duurdere herfinanciering)"
+          },
+          {
+            "points": 1,
+            "description": "Doordat het aanbod van hypothecaire leningen in Nederland volgend jaar toeneemt, zal de hypotheekrente in de toekomst dalen en dan is een korte looptijd van 1 jaar verstandig"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-een-eigen-huis-antw9.png"
+        ]
+      },
+      {
+        "title": "Importheffing",
+        "question_number": 10,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij stelling i: Het saldo handelsbalans van de VU met Cinai loopt op van –160 in 2000 naar –423 in 2020. Dit is een aanwijzing voor de verslechtering van de internationale concurrentiepositie van de producenten van de VU ten opzichte van hun concurrenten uit Cinai\nof\nDe export naar Cinai als percentage van het bbp was in 2000 gelijk aan 3% (90 / 3.000) en in 2020 is dit 2,1% (96 / 4.550). Er is sprake van een daling van de exportquote en dat is een aanwijzing voor een verslechtering van de internationale concurrentiepositie\n• Bij stelling ii: In het tijdvak is de totale handel (import + export) gestegen van 340 in 2000 naar 615 in 2020. Dit is een stijging van 81%. Het bbp is in dezelfde periode gestegen van 3.000 naar 4.550 (52%). De totale handel is relatief veel meer gestegen dan het bbp van de VU. Hierdoor is de economie afhankelijker geworden van goederen uit Cinai",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij stelling i: Het saldo handelsbalans van de VU met Cinai loopt op van –160 in 2000 naar –423 in 2020. Dit is een aanwijzing voor de verslechtering van de internationale concurrentiepositie van de producenten van de VU ten opzichte van hun concurrenten uit Cinai\nof\nDe export naar Cinai als percentage van het bbp was in 2000 gelijk aan 3% (90 / 3.000) en in 2020 is dit 2,1% (96 / 4.550). Er is sprake van een daling van de exportquote en dat is een aanwijzing voor een verslechtering van de internationale concurrentiepositie"
+          },
+          {
+            "points": 1,
+            "description": "Bij stelling ii: In het tijdvak is de totale handel (import + export) gestegen van 340 in 2000 naar 615 in 2020. Dit is een stijging van 81%. Het bbp is in dezelfde periode gestegen van 3.000 naar 4.550 (52%). De totale handel is relatief veel meer gestegen dan het bbp van de VU. Hierdoor is de economie afhankelijker geworden van goederen uit Cinai"
+          }
+        ],
+        "grading_note": "Voor het toekennen van het tweede scorepunt dienen zowel import als export te zijn verwoord.",
+        "answer_image_urls": [
+          "economie-vwo-2022-i-importheffing-antw10.png"
+        ]
+      },
+      {
+        "title": "Importheffing",
+        "question_number": 11,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Qv = Qa geeft +4P = 800 dus P = VU$ 200.\nDoor de invoerheffing van VU$ 60 wordt de prijs van batterijen uit Cinai: 150 + 60 = VU$ 210\n• Omdat de importprijs hoger wordt dan de binnenlandse prijs zal er helemaal geen import meer zijn uit Cinai",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Qv = Qa geeft +4P = 800 dus P = VU$ 200.\nDoor de invoerheffing van VU$ 60 wordt de prijs van batterijen uit Cinai: 150 + 60 = VU$ 210"
+          },
+          {
+            "points": 1,
+            "description": "Omdat de importprijs hoger wordt dan de binnenlandse prijs zal er helemaal geen import meer zijn uit Cinai"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-importheffing-antw11.png"
+        ]
+      },
+      {
+        "title": "Importheffing",
+        "question_number": 12,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• P = 150 invullen:\nQv = – 450 + 675 = 225 miljoen en Qa = 150 – 125 = 25 miljoen\nHet vraagoverschot is 225 – 25 = 200 miljoen stuks\n• Dit wordt voor 90% uit Cinai opgevuld = 180 miljoen. De importwaarde van de batterijen uit Cinai daalt met 180 mln x 150 = VU$ 27 miljard (want de binnenlandse prijs van VU$ 200 ligt onder de importprijs na de importheffing van VU$ 210)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "P = 150 invullen:\nQv = – 450 + 675 = 225 miljoen en Qa = 150 – 125 = 25 miljoen\nHet vraagoverschot is 225 – 25 = 200 miljoen stuks"
+          },
+          {
+            "points": 1,
+            "description": "Dit wordt voor 90% uit Cinai opgevuld = 180 miljoen. De importwaarde van de batterijen uit Cinai daalt met 180 mln x 150 = VU$ 27 miljard (want de binnenlandse prijs van VU$ 200 ligt onder de importprijs na de importheffing van VU$ 210)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-importheffing-antw12.png"
+        ]
+      },
+      {
+        "title": "Importheffing",
+        "question_number": 13,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Cinai kan door directe investeringen in de VU daar bedrijven opzetten en daar produceren waardoor ze toetreden tot de binnenlandse markt.\nHierdoor gelden de importheffingen niet meer\n• De kapitaalinvoer maakt het mogelijk dat de import van batterijen kan worden verminderd / (dat de VU zelf kan gaan exporteren) en dat is gunstig voor de saldo lopende rekening\n• De kapitaalinvoer zorgt ervoor dat, indien deze buitenlandse investeringen in de VU rendabel zijn, later (een deel van) de winst naar Cinai terugvloeit, waardoor de (primaire) inkomensrekening van de VU (als onderdeel van dezelfde lopende rekening) ongunstig wordt beïnvloed",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Cinai kan door directe investeringen in de VU daar bedrijven opzetten en daar produceren waardoor ze toetreden tot de binnenlandse markt.\nHierdoor gelden de importheffingen niet meer"
+          },
+          {
+            "points": 1,
+            "description": "De kapitaalinvoer maakt het mogelijk dat de import van batterijen kan worden verminderd / (dat de VU zelf kan gaan exporteren) en dat is gunstig voor de saldo lopende rekening"
+          },
+          {
+            "points": 1,
+            "description": "De kapitaalinvoer zorgt ervoor dat, indien deze buitenlandse investeringen in de VU rendabel zijn, later (een deel van) de winst naar Cinai terugvloeit, waardoor de (primaire) inkomensrekening van de VU (als onderdeel van dezelfde lopende rekening) ongunstig wordt beïnvloed"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-importheffing-antw13.png"
+        ]
+      },
+      {
+        "title": "Importheffing",
+        "question_number": 14,
+        "answer_text": "Een voorbeeld van een juiste verklaring is:\n• Cinai zal reageren met protectionistische tegenmaatregelen op de importheffing van de VU (waardoor er sprake is van een sequentieel spel)\n• Door de toenemende protectie worden producten op alle goederenmarkten, dus ook op de binnenlandse markt van de VU (schaarser en) duurder. Hierdoor kunnen de (consumptieve) bestedingen en daarmee het bbp van de VU gaan dalen / hierdoor verslechtert de internationale concurrentiepositie ten opzichte van andere landen waardoor de export daalt en daarmee het bbp van de VU\n• Als gevolg daarvan daalt de inkomstenbelasting / daalt de productie waardoor de werkloosheid toeneemt en stijgen de uitgaven aan sociale uitkeringen / subsidies. Hierdoor zal het financieringstekort juist oplopen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Cinai zal reageren met protectionistische tegenmaatregelen op de importheffing van de VU (waardoor er sprake is van een sequentieel spel)"
+          },
+          {
+            "points": 1,
+            "description": "Door de toenemende protectie worden producten op alle goederenmarkten, dus ook op de binnenlandse markt van de VU (schaarser en) duurder. Hierdoor kunnen de (consumptieve) bestedingen en daarmee het bbp van de VU gaan dalen / hierdoor verslechtert de internationale concurrentiepositie ten opzichte van andere landen waardoor de export daalt en daarmee het bbp van de VU"
+          },
+          {
+            "points": 1,
+            "description": "Als gevolg daarvan daalt de inkomstenbelasting / daalt de productie waardoor de werkloosheid toeneemt en stijgen de uitgaven aan sociale uitkeringen / subsidies. Hierdoor zal het financieringstekort juist oplopen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-importheffing-antw14.png"
+        ]
+      },
+      {
+        "title": "Loonquote onder de loep",
+        "question_number": 15,
+        "answer_text": "Een voorbeeld van een juiste verklaring is:\n• Als de lonen slechts matig stijgen, wordt de productiefactor arbeid relatief goedkoper ten opzichte van kapitaal. Bedrijven kunnen er dan voor kiezen om geen / minder arbeidsbesparende investeringen te doen\n• De technologische ontwikkeling blijft achter waardoor de arbeidsproductiviteit minder toeneemt of (zelfs) afneemt",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als de lonen slechts matig stijgen, wordt de productiefactor arbeid relatief goedkoper ten opzichte van kapitaal. Bedrijven kunnen er dan voor kiezen om geen / minder arbeidsbesparende investeringen te doen"
+          },
+          {
+            "points": 1,
+            "description": "De technologische ontwikkeling blijft achter waardoor de arbeidsproductiviteit minder toeneemt of (zelfs) afneemt"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-loonquote-onder-de-loep-antw15.png"
+        ]
+      },
+      {
+        "title": "Loonquote onder de loep",
+        "question_number": 16,
+        "answer_text": "Een voorbeeld van een juiste verklaring is:\nGlobalisering leidt tot meer internationale concurrentie. Bedrijven kunnen makkelijker diensten kopen uit landen waar de kosten lager zijn. Hierdoor stijgt het overige inkomen van bedrijven, waardoor het loon als onderdeel van de totale netto toegevoegde waarde daalt (en de loonquote daalt).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste verklaring is:\nGlobalisering leidt tot meer internationale concurrentie. Bedrijven kunnen makkelijker diensten kopen uit landen waar de kosten lager zijn. Hierdoor stijgt het overige inkomen van bedrijven, waardoor het loon als onderdeel van de totale netto toegevoegde waarde daalt (en de loonquote daalt)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-loonquote-onder-de-loep-antw16.png"
+        ]
+      },
+      {
+        "title": "Loonquote onder de loep",
+        "question_number": 17,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Het totale loon groeit met 100 x 1,015 x 1,04 = 105,56\nDe netto toegevoegde waarde groeit met (productievolume en inflatie): 100 x 1,027 x 1,025 = 105,27\nof met (inflatie, werkgelegenheid en arbeidsproductiviteit):\n100 x 1,012 x 1,015 x 1,025 = 105,27\n• Loonquote = (totale loon werknemers / totale netto toegevoegde waarde)\n(105,56/105,27) x 100 = 100,28\nDe loonquote is gestegen met 0,3%",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het totale loon groeit met 100 x 1,015 x 1,04 = 105,56\nDe netto toegevoegde waarde groeit met (productievolume en inflatie): 100 x 1,027 x 1,025 = 105,27\nof met (inflatie, werkgelegenheid en arbeidsproductiviteit):\n100 x 1,012 x 1,015 x 1,025 = 105,27"
+          },
+          {
+            "points": 1,
+            "description": "Loonquote = (totale loon werknemers / totale netto toegevoegde waarde)\n(105,56/105,27) x 100 = 100,28\nDe loonquote is gestegen met 0,3%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-loonquote-onder-de-loep-antw17.png"
+        ]
+      },
+      {
+        "title": "Loonquote onder de loep",
+        "question_number": 18,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij een laagconjunctuur zullen werkgevers eerst de werknemers met een flexibel contract ontslaan. Deze hebben een relatief laag loon wat een opwaarts effect heeft op de ontwikkeling van het gemiddelde loonniveau van (niet ontslagen) werknemers\n• Bij een hoogconjunctuur zullen werkgevers eerst mensen aannemen met een flexibel contract (omdat nog niet zeker is of de economische opgang lang zal duren). Deze hebben een relatief laag loon wat een neerwaarts effect heeft op de ontwikkeling van het gemiddelde loonniveau van werknemers",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij een laagconjunctuur zullen werkgevers eerst de werknemers met een flexibel contract ontslaan. Deze hebben een relatief laag loon wat een opwaarts effect heeft op de ontwikkeling van het gemiddelde loonniveau van (niet ontslagen) werknemers"
+          },
+          {
+            "points": 1,
+            "description": "Bij een hoogconjunctuur zullen werkgevers eerst mensen aannemen met een flexibel contract (omdat nog niet zeker is of de economische opgang lang zal duren). Deze hebben een relatief laag loon wat een neerwaarts effect heeft op de ontwikkeling van het gemiddelde loonniveau van werknemers"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-loonquote-onder-de-loep-antw18.png"
+        ]
+      },
+      {
+        "title": "Loonquote onder de loep",
+        "question_number": 19,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Als gevolg van loonstarheid zullen de lonen tijdens een laagconjunctuur relatief weinig tot niet dalen. De vraag naar arbeid is dan kleiner dan het aanbod van arbeid met als gevolg een ruime arbeidsmarkt. Hierdoor zullen de lonen bij een hoogconjunctuur minder snel stijgen om voldoende arbeid aan te kunnen trekken.\n− Als gevolg van loonstarheid zal de werkloosheid (sterker) toenemen in een laagconjunctuur waardoor er een ruime arbeidsmarkt ontstaat. Als de economie zich vervolgens herstelt en in een hoogconjunctuur terecht komt, is de arbeidsmarkt nog relatief ruim waardoor de lonen minder snel stijgen (om aan de gevraagde arbeid te voldoen).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Voorbeelden van een juist antwoord zijn:\n− Als gevolg van loonstarheid zullen de lonen tijdens een laagconjunctuur relatief weinig tot niet dalen. De vraag naar arbeid is dan kleiner dan het aanbod van arbeid met als gevolg een ruime arbeidsmarkt. Hierdoor zullen de lonen bij een hoogconjunctuur minder snel stijgen om voldoende arbeid aan te kunnen trekken.\n− Als gevolg van loonstarheid zal de werkloosheid (sterker) toenemen in een laagconjunctuur waardoor er een ruime arbeidsmarkt ontstaat. Als de economie zich vervolgens herstelt en in een hoogconjunctuur terecht komt, is de arbeidsmarkt nog relatief ruim waardoor de lonen minder snel stijgen (om aan de gevraagde arbeid te voldoen)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-loonquote-onder-de-loep-antw19.png"
+        ]
+      },
+      {
+        "title": "Uitvaartverzekering",
+        "question_number": 20,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De verzekerde is de principaal en de uitvaartverzekering is agent. De verzekerde wil zekerheid van complete verzorging / de organisatie van de uitvaart. De verzekeraar wil zoveel mogelijk winst maken\n• De verzekerde weet niet zeker of de uitvaartverzekering de ingelegde premie/afkoopsom wel zodanig belegt dat de verzekeraar kan voldoen aan de kwalitatief goede / complete organisatie van de uitvaart\n• Toezicht geeft de verzekerde (als principaal) vertrouwen dat DNB alle informatie heeft / de informatieasymmetrie wordt opgeheven, en indien nodig kan ingrijpen zodat de uitvaartverzekeraar in het belang van de verzekerde handelt",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De verzekerde is de principaal en de uitvaartverzekering is agent. De verzekerde wil zekerheid van complete verzorging / de organisatie van de uitvaart. De verzekeraar wil zoveel mogelijk winst maken"
+          },
+          {
+            "points": 1,
+            "description": "De verzekerde weet niet zeker of de uitvaartverzekering de ingelegde premie/afkoopsom wel zodanig belegt dat de verzekeraar kan voldoen aan de kwalitatief goede / complete organisatie van de uitvaart"
+          },
+          {
+            "points": 1,
+            "description": "Toezicht geeft de verzekerde (als principaal) vertrouwen dat DNB alle informatie heeft / de informatieasymmetrie wordt opgeheven, en indien nodig kan ingrijpen zodat de uitvaartverzekeraar in het belang van de verzekerde handelt"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-uitvaartverzekering-antw20.png"
+        ]
+      },
+      {
+        "title": "Uitvaartverzekering",
+        "question_number": 21,
+        "answer_text": "Een voorbeeld van juiste berekening is:\n• De contante waarde van de toekomstige verplichting is:\n7.500 / 1,015²⁰ = 5.568,53\n• Daarvoor is nodig: € 5.568,53 x 1,3 = € 7.239,09\nDe afkoopsom moet met € 1.239,09 verhoogd worden (€ 7.239,09 – € 6.000)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De contante waarde van de toekomstige verplichting is:\n7.500 / 1,015²⁰ = 5.568,53"
+          },
+          {
+            "points": 1,
+            "description": "Daarvoor is nodig: € 5.568,53 x 1,3 = € 7.239,09\nDe afkoopsom moet met € 1.239,09 verhoogd worden (€ 7.239,09 – € 6.000)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-uitvaartverzekering-antw21.png"
+        ]
+      },
+      {
+        "title": "Uitvaartverzekering",
+        "question_number": 22,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\nBij dalende rente stijgt de vraag naar (reeds uitgegeven) staatsobligaties met een hogere rente, omdat ze in de toekomst een hogere rentevergoeding bieden dan de nieuwe uitgegeven staatsobligaties. De koers van deze reeds uitgegeven staatsobligaties zal daardoor stijgen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juiste uitleg is:\nBij dalende rente stijgt de vraag naar (reeds uitgegeven) staatsobligaties met een hogere rente, omdat ze in de toekomst een hogere rentevergoeding bieden dan de nieuwe uitgegeven staatsobligaties. De koers van deze reeds uitgegeven staatsobligaties zal daardoor stijgen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-uitvaartverzekering-antw22.png"
+        ]
+      },
+      {
+        "title": "Uitvaartverzekering",
+        "question_number": 23,
+        "answer_text": "Een voorbeeld van een juiste argumentatie is:\n• Doordat er meer ouderen in de samenleving komen en ze meer risico-avers zijn, stijgt de vraag naar uitvaartverzekeringen bij dezelfde premie / verschuift de vraaglijn naar rechts\n• Hierdoor kan Funus dus zelfs de premie verhogen zonder klanten te verliezen (ten opzichte van de uitgangssituatie) en stijgen de inkomsten waardoor de vermogenspositie verbetert (en dus de dekkingsgraad stijgt)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Doordat er meer ouderen in de samenleving komen en ze meer risico-avers zijn, stijgt de vraag naar uitvaartverzekeringen bij dezelfde premie / verschuift de vraaglijn naar rechts"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor kan Funus dus zelfs de premie verhogen zonder klanten te verliezen (ten opzichte van de uitgangssituatie) en stijgen de inkomsten waardoor de vermogenspositie verbetert (en dus de dekkingsgraad stijgt)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-uitvaartverzekering-antw23.png"
+        ]
+      },
+      {
+        "title": "Uitvaartverzekering",
+        "question_number": 24,
+        "answer_text": "De organisaties van beide bedrijven worden samengevoegd. De totale organisatiekosten zullen, door efficiencyverbeteringen, lager zijn dan de totale organisatiekosten van Funus en LADE samen op dit moment.\nHierdoor kan de winstgevendheid op polissen van LADE (inclusief de oorspronkelijke polissen van Funus) toenemen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De organisaties van beide bedrijven worden samengevoegd. De totale organisatiekosten zullen, door efficiencyverbeteringen, lager zijn dan de totale organisatiekosten van Funus en LADE samen op dit moment.\nHierdoor kan de winstgevendheid op polissen van LADE (inclusief de oorspronkelijke polissen van Funus) toenemen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-uitvaartverzekering-antw24.png"
+        ]
+      },
+      {
+        "title": "Leasefiets",
+        "question_number": 25,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Er is een maatregel genomen tegen moral hazard, omdat uit de overige gegevens blijkt dat klanten een eigen bijdrage betalen van € 5 per reparatie waardoor ze (deels) zelf betalen als zij een schade veroorzaken\n• De maatregel is niet afdoende aangezien uit de tabel blijkt dat het geschatte aantal reparaties bij deelname aan leasefietsen is toegenomen ten opzichte van de situatie in eigen bezit (4 > 2,5 en 4 > 2), wat aantoont dat mensen onvoorzichtiger met de leasefietsen omgaan",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er is een maatregel genomen tegen moral hazard, omdat uit de overige gegevens blijkt dat klanten een eigen bijdrage betalen van € 5 per reparatie waardoor ze (deels) zelf betalen als zij een schade veroorzaken"
+          },
+          {
+            "points": 1,
+            "description": "De maatregel is niet afdoende aangezien uit de tabel blijkt dat het geschatte aantal reparaties bij deelname aan leasefietsen is toegenomen ten opzichte van de situatie in eigen bezit (4 > 2,5 en 4 > 2), wat aantoont dat mensen onvoorzichtiger met de leasefietsen omgaan"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-leasefiets-antw25.png"
+        ]
+      },
+      {
+        "title": "Leasefiets",
+        "question_number": 26,
+        "answer_text": "Een voorbeeld van een juiste verklaring is:\n• De maximale betalingsbereidheid voor groep 1 is € 40, en voor groep 2 € 110. Omdat bij groep 2 de betalingsbereidheid het hoogst is kan voor deze groep een hogere prijs gerekend worden\n• Prijsdiscriminatie is echter niet mogelijk omdat onderlinge doorverkoop mogelijk is (een klant uit groep 1 zou een leasecontract kunnen tekenen voor iemand uit groep 2)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De maximale betalingsbereidheid voor groep 1 is € 40, en voor groep 2 € 110. Omdat bij groep 2 de betalingsbereidheid het hoogst is kan voor deze groep een hogere prijs gerekend worden"
+          },
+          {
+            "points": 1,
+            "description": "Prijsdiscriminatie is echter niet mogelijk omdat onderlinge doorverkoop mogelijk is (een klant uit groep 1 zou een leasecontract kunnen tekenen voor iemand uit groep 2)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-leasefiets-antw26.png"
+        ]
+      },
+      {
+        "title": "Leasefiets",
+        "question_number": 27,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Qv = 87.500 − 1.750P → P = 50 − (1/1.750)Q\nTO = PxQ → TO = 50Q − (1/1.750)Q²\nMO = TO′ = 50 − (1/875)Q\n• MK = (4 × (20 − 5)/12) + 10 = 15\nMO = MK → 50 − (1/875)Q = 15 → Q = 30.625 per maand\n• 30.625 = 87.500 − 1.750P → P = €32,50 per maand",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Qv = 87.500 − 1.750P → P = 50 − (1/1.750)Q\nTO = PxQ → TO = 50Q − (1/1.750)Q²\nMO = TO′ = 50 − (1/875)Q"
+          },
+          {
+            "points": 1,
+            "description": "MK = (4 × (20 − 5)/12) + 10 = 15\nMO = MK → 50 − (1/875)Q = 15 → Q = 30.625 per maand"
+          },
+          {
+            "points": 1,
+            "description": "30.625 = 87.500 − 1.750P → P = €32,50 per maand"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-leasefiets-antw27.png"
+        ]
+      },
+      {
+        "title": "Leasefiets",
+        "question_number": 28,
+        "answer_text": "Een lage prijs betekent dat meer fietsen zullen worden gehuurd bij Bike Mobility, waardoor nieuwe aanbieders minder afzet kunnen realiseren en toetreding niet winstgevend zal zijn / nieuwe toetreders op de monopoliemarkt worden geweerd. Hiermee wordt de kans op het behalen van winst op lange termijn groter.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een lage prijs betekent dat meer fietsen zullen worden gehuurd bij Bike Mobility, waardoor nieuwe aanbieders minder afzet kunnen realiseren en toetreding niet winstgevend zal zijn / nieuwe toetreders op de monopoliemarkt worden geweerd. Hiermee wordt de kans op het behalen van winst op lange termijn groter."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-leasefiets-antw28.png"
+        ]
+      },
+      {
+        "title": "Leasefiets",
+        "question_number": 29,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Als een klant de fiets een periode niet gebruikt, zal deze de fiets inleveren bij Bike Mobility om zo de leaseprijs niet te hoeven betalen. Zo zullen er minder fietsen achterblijven in rekken\n• Hierdoor daalt de overlast, en de kosten van de overlast zitten niet in de prijs van fietsen, waardoor de negatieve externe effecten en dus de maatschappelijke kosten dalen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als een klant de fiets een periode niet gebruikt, zal deze de fiets inleveren bij Bike Mobility om zo de leaseprijs niet te hoeven betalen. Zo zullen er minder fietsen achterblijven in rekken"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor daalt de overlast, en de kosten van de overlast zitten niet in de prijs van fietsen, waardoor de negatieve externe effecten en dus de maatschappelijke kosten dalen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2022-i-leasefiets-antw29.png"
+        ]
+      }
+    ]
+  }
+}
