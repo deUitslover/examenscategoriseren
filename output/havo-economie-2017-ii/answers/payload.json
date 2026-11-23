@@ -1,0 +1,473 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "HAVO",
+  "source": "HAVO Economie 2017-II",
+  "answers": [
+   {
+    "title": "Pretkortingen",
+    "question_number": 1,
+    "answer_text": "(1) oligopolie\n(2) heterogeniteit\n(3) prijsbeleid\n\n• (1) en (2) juist: 1\n• (3) juist: 1",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(1) en (2) juist"
+     },
+     {
+      "points": 1,
+      "description": "(3) juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-pretkortingen-antw1.png"
+    ]
+   },
+   {
+    "title": "Pretkortingen",
+    "question_number": 2,
+    "answer_text": "50%\nEen voorbeeld van een juiste berekening is:\nNoem de prijs met korting P’\nStel de volle prijs op 10\n0,6 × P’ + 0,4 × 10 = 7 → 0,6 × P’ = 3 → P’ = 5\n\n(5 − 10) / 10 × 100% = −50%, dus een korting van 50%",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "50%\nEen voorbeeld van een juiste berekening is:\nNoem de prijs met korting P’\nStel de volle prijs op 10\n0,6 × P’ + 0,4 × 10 = 7 → 0,6 × P’ = 3 → P’ = 5\n\n(5 − 10) / 10 × 100% = −50%, dus een korting van 50%"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-pretkortingen-antw2.png"
+    ]
+   },
+   {
+    "title": "Pretkortingen",
+    "question_number": 3,
+    "answer_text": "aflezen uit bron 1\nEen voorbeeld van een juiste antwoord is:\nEr is sprake van maximale omzet bij Q = 120, dus als P = 20\nEr is sprake van maximale totale winst (als MO = MK, dus) als P = 25\n(25 − 20) / 20 × 100% = 25%",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "aflezen uit bron 1\nEen voorbeeld van een juiste antwoord is:\nEr is sprake van maximale omzet bij Q = 120, dus als P = 20\nEr is sprake van maximale totale winst (als MO = MK, dus) als P = 25\n(25 − 20) / 20 × 100% = 25%"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-pretkortingen-antw3.png"
+    ]
+   },
+   {
+    "title": "Pretkortingen",
+    "question_number": 4,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• De dominante strategie van zowel Action4U als Termin8or is ‘meedoen met de kortingsactie’ omdat dit voor ieder de hoogste omzet oplevert, ongeacht de keuze van de ander\n• Dit levert een suboptimaal resultaat op, aangezien gezamenlijk ‘niet meedoen aan de kortingsactie’ voor beide pretparken een hogere omzet oplevert",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De dominante strategie van zowel Action4U als Termin8or is ‘meedoen met de kortingsactie’ omdat dit voor ieder de hoogste omzet oplevert, ongeacht de keuze van de ander"
+     },
+     {
+      "points": 1,
+      "description": "Dit levert een suboptimaal resultaat op, aangezien gezamenlijk ‘niet meedoen aan de kortingsactie’ voor beide pretparken een hogere omzet oplevert"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-pretkortingen-antw4.png"
+    ]
+   },
+   {
+    "title": "Pretkortingen",
+    "question_number": 5,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n20 × 600 × Pzonnig + 10 × 300 × € 16 = € 336.000\nPzonnig = €288.000 / 12.000 = € 24",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\n20 × 600 × Pzonnig + 10 × 300 × € 16 = € 336.000\nPzonnig = €288.000 / 12.000 = € 24"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-pretkortingen-antw5.png"
+    ]
+   },
+   {
+    "title": "Pretkortingen",
+    "question_number": 6,
+    "answer_text": "Voorbeelden van een juiste uitleg zijn:\n− Er worden verschillende prijzen gevraagd voor verschillende producten (omdat een pretparkbezoek op een regenachtige dag een andere beleving is dan een pretparkbezoek op een zonnige dag).\n− Er worden geen verschillende groepen klanten onderscheiden.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voorbeelden van een juiste uitleg zijn:\n− Er worden verschillende prijzen gevraagd voor verschillende producten (omdat een pretparkbezoek op een regenachtige dag een andere beleving is dan een pretparkbezoek op een zonnige dag).\n− Er worden geen verschillende groepen klanten onderscheiden."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-pretkortingen-antw6.png"
+    ]
+   },
+   {
+    "title": "Wat kost een vermogen?",
+    "question_number": 7,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nBij deze vermogensgroepen zijn de schulden even groot als of groter dan de bezittingen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juist antwoord is:\nBij deze vermogensgroepen zijn de schulden even groot als of groter dan de bezittingen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-wat-kost-een-vermogen-antw7.png"
+    ]
+   },
+   {
+    "title": "Wat kost een vermogen?",
+    "question_number": 8,
+    "answer_text": "boller\nEen voorbeeld van een juiste verklaring is:\nIn 2014 is de lengte van de staven (vermogensaandelen) van de uiterste groepen toegenomen (en van die in het middengebied afgenomen).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "boller\nEen voorbeeld van een juiste verklaring is:\nIn 2014 is de lengte van de staven (vermogensaandelen) van de uiterste groepen toegenomen (en van die in het middengebied afgenomen)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-wat-kost-een-vermogen-antw8.png"
+    ]
+   },
+   {
+    "title": "Wat kost een vermogen?",
+    "question_number": 9,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nHuishoudens met kleine vermogens profiteren relatief meer van de verhoging van de vrijstelling dan huishoudens met grote vermogens. Daardoor betaalt de groep huishoudens met een klein vermogen relatief minder belasting dan de groep huishoudens met een groot vermogen. (Met de aanname dat belasting in mindering wordt gebracht op het vermogen, zal dit leiden tot nivellering van de vermogensverdeling.)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nHuishoudens met kleine vermogens profiteren relatief meer van de verhoging van de vrijstelling dan huishoudens met grote vermogens. Daardoor betaalt de groep huishoudens met een klein vermogen relatief minder belasting dan de groep huishoudens met een groot vermogen. (Met de aanname dat belasting in mindering wordt gebracht op het vermogen, zal dit leiden tot nivellering van de vermogensverdeling.)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-wat-kost-een-vermogen-antw9.png"
+    ]
+   },
+   {
+    "title": "Wat kost een vermogen?",
+    "question_number": 10,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Grote vermogens kunnen worden verdeeld over meer en minder risicovolle beleggingen (waarbij in mindere mate dan bij kleine vermogens versnippering optreedt, met relatief hoge transactiekosten)\n• Dit maakt hogere rendementen mogelijk, omdat eventuele tegenvallers kunnen worden opgevangen door minder risicovolle beleggingen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Grote vermogens kunnen worden verdeeld over meer en minder risicovolle beleggingen (waarbij in mindere mate dan bij kleine vermogens versnippering optreedt, met relatief hoge transactiekosten)"
+     },
+     {
+      "points": 1,
+      "description": "Dit maakt hogere rendementen mogelijk, omdat eventuele tegenvallers kunnen worden opgevangen door minder risicovolle beleggingen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-wat-kost-een-vermogen-antw10.png"
+    ]
+   },
+   {
+    "title": "Wat kost een vermogen?",
+    "question_number": 11,
+    "answer_text": "afgenomen\nEen voorbeeld van een juiste berekening is:\n• rendementsheffing A: (2.000.000 − 21.000) × 0,04 × 0,3 = € 23.748\n• rendementsheffing B:\n2.000.000 − 25.000 = € 1.975.000\nschijf 1  € 125.000 × 0,029 = € 3.625\nschijf 2  € 900.000 × 0,047 = € 42.300\nschijf 3  € 950.000 × 0,055 = € 52.250\n€ 98.175 × 0,3 = €9.452,50\n• Groepen met grote vermogens betalen in 2014 (23.748 / 2.148 =) 11,06 en in 2017 (29·452,50 / 1.792,50 =) 16,43 keer meer belasting dan groepen met kleine vermogens (zodat vermogensverschillen na belasting zijn afgenomen)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "rendementsheffing A: (2.000.000 − 21.000) × 0,04 × 0,3 = € 23.748"
+     },
+     {
+      "points": 2,
+      "description": "rendementsheffing B:\n2.000.000 − 25.000 = € 1.975.000\nschijf 1  € 125.000 × 0,029 = € 3.625\nschijf 2  € 900.000 × 0,047 = € 42.300\nschijf 3  € 950.000 × 0,055 = € 52.250\n€ 98.175 × 0,3 = €9.452,50\n⚠️ CONTROLEREN: in het correctievoorschrift staat '€ 98.175 × 0,3 = €9.452,50' (en verderop '29·452,50'); 98.175 × 0,3 = 29.452,50"
+     },
+     {
+      "points": 1,
+      "description": "Groepen met grote vermogens betalen in 2014 (23.748 / 2.148 =) 11,06 en in 2017 (29·452,50 / 1.792,50 =) 16,43 keer meer belasting dan groepen met kleine vermogens (zodat vermogensverschillen na belasting zijn afgenomen)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-wat-kost-een-vermogen-antw11.png"
+    ]
+   },
+   {
+    "title": "China grijpt in",
+    "question_number": 12,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n1/0,156 − 1/0,161 = 0,20 yuan (afgerond)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste berekening is:\n1/0,156 − 1/0,161 = 0,20 yuan (afgerond)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-china-grijpt-in-antw12.png"
+    ]
+   },
+   {
+    "title": "China grijpt in",
+    "question_number": 13,
+    "answer_text": "verlaagd\nEen voorbeeld van een juiste toelichting is:\nDoor een verlaging van de rente ontstaat er kapitaalexport uit China waardoor het aanbod van de yuan (op de valutamarkt) zal stijgen en de koers gaat dalen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "verlaagd\nEen voorbeeld van een juiste toelichting is:\nDoor een verlaging van de rente ontstaat er kapitaalexport uit China waardoor het aanbod van de yuan (op de valutamarkt) zal stijgen en de koers gaat dalen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-china-grijpt-in-antw13.png"
+    ]
+   },
+   {
+    "title": "China grijpt in",
+    "question_number": 14,
+    "answer_text": "3",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "3"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-china-grijpt-in-antw14.png"
+    ]
+   },
+   {
+    "title": "China grijpt in",
+    "question_number": 15,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Door de koersdaling van de yuan ten opzichte van de dollar verbetert de internationale concurrentiepositie van China, waardoor de export toeneemt / import afneemt\n• Een toenemende export / afnemende import kan leiden tot toename van de productie in China en dus tot meer economische groei",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de koersdaling van de yuan ten opzichte van de dollar verbetert de internationale concurrentiepositie van China, waardoor de export toeneemt / import afneemt"
+     },
+     {
+      "points": 1,
+      "description": "Een toenemende export / afnemende import kan leiden tot toename van de productie in China en dus tot meer economische groei"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-china-grijpt-in-antw15.png"
+    ]
+   },
+   {
+    "title": "China grijpt in",
+    "question_number": 16,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Door de koersdaling van de yuan tegenover de dollar verbetert de concurrentiepositie van China ten opzichte van de VS waardoor de export, de productie en de economische groei van de VS worden geremd\n• De regering van de VS kan tegenmaatregelen nemen zoals het instellen van invoerrechten op / een contingent voor Chinese producten\n• De genoemde tegenmaatregelen kunnen leiden tot minder import van Chinese producten door de VS met als gevolg dat de productie alsmede de economische groei van China worden geremd",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de koersdaling van de yuan tegenover de dollar verbetert de concurrentiepositie van China ten opzichte van de VS waardoor de export, de productie en de economische groei van de VS worden geremd"
+     },
+     {
+      "points": 1,
+      "description": "De regering van de VS kan tegenmaatregelen nemen zoals het instellen van invoerrechten op / een contingent voor Chinese producten"
+     },
+     {
+      "points": 1,
+      "description": "De genoemde tegenmaatregelen kunnen leiden tot minder import van Chinese producten door de VS met als gevolg dat de productie alsmede de economische groei van China worden geremd"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-china-grijpt-in-antw16.png"
+    ]
+   },
+   {
+    "title": "China grijpt in",
+    "question_number": 17,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nDe landen waarvan de export wordt getroffen door de protectie door de VS, zullen te maken krijgen met een vertraging van de groei. Hun importbehoefte zal daardoor afnemen waardoor ook de export van de VS (en daarmee de eigen groei) zal afnemen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nDe landen waarvan de export wordt getroffen door de protectie door de VS, zullen te maken krijgen met een vertraging van de groei. Hun importbehoefte zal daardoor afnemen waardoor ook de export van de VS (en daarmee de eigen groei) zal afnemen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-china-grijpt-in-antw17.png"
+    ]
+   },
+   {
+    "title": "De prijs van tijd",
+    "question_number": 18,
+    "answer_text": "bij (1) dalen van de rente\nbij (2) vraag naar consumptiegoederen\nbij (3) minder\n\n• (1) juist: 1\n• (2) en (3) juist: 1",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(1) juist"
+     },
+     {
+      "points": 1,
+      "description": "(2) en (3) juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-de-prijs-van-tijd-antw18.png"
+    ]
+   },
+   {
+    "title": "De prijs van tijd",
+    "question_number": 19,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nEen economische crisis kan zorgen voor onzekerheid over behoud van werk en inkomen (dalend consumentenvertrouwen), waardoor er meer gespaard zal worden om het (huidige) consumptieniveau in de toekomst te kunnen continueren.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nEen economische crisis kan zorgen voor onzekerheid over behoud van werk en inkomen (dalend consumentenvertrouwen), waardoor er meer gespaard zal worden om het (huidige) consumptieniveau in de toekomst te kunnen continueren."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-de-prijs-van-tijd-antw19.png"
+    ]
+   },
+   {
+    "title": "De prijs van tijd",
+    "question_number": 20,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nEen rente die lager is dan de inflatie leidt tot reële waardedaling van spaartegoeden, hetgeen normaal gesproken leidt tot minder aanbod van spaargeld.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nEen rente die lager is dan de inflatie leidt tot reële waardedaling van spaartegoeden, hetgeen normaal gesproken leidt tot minder aanbod van spaargeld."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-de-prijs-van-tijd-antw20.png"
+    ]
+   },
+   {
+    "title": "De prijs van tijd",
+    "question_number": 21,
+    "answer_text": "een stroomgrootheid\nEen voorbeeld van een juiste verklaring is:\nHet looninkomen wordt gemeten over een bepaalde periode.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "een stroomgrootheid\nEen voorbeeld van een juiste verklaring is:\nHet looninkomen wordt gemeten over een bepaalde periode."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-de-prijs-van-tijd-antw21.png"
+    ]
+   },
+   {
+    "title": "De prijs van tijd",
+    "question_number": 22,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• In levensfase b - c moet Willem lenen, omdat zijn looninkomen lager is dan zijn constante consumptieniveau, waardoor zijn financieel vermogen afneemt\n• maar minder snel dan in levensfase a - b, omdat Willem in deze fase extra moet lenen voor zijn studie en nog geen looninkomen heeft",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In levensfase b - c moet Willem lenen, omdat zijn looninkomen lager is dan zijn constante consumptieniveau, waardoor zijn financieel vermogen afneemt"
+     },
+     {
+      "points": 1,
+      "description": "maar minder snel dan in levensfase a - b, omdat Willem in deze fase extra moet lenen voor zijn studie en nog geen looninkomen heeft"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-de-prijs-van-tijd-antw22.png"
+    ]
+   },
+   {
+    "title": "De prijs van tijd",
+    "question_number": 23,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• In levensfase d - e heeft Willem een looninkomen dat hoger is dan zijn (permanente) consumptieniveau, zodat hij aan vermogensopbouw kan doen (sparen voor pensioen)\n• In levensfase e - f stopt hij met werken (pensioen), heeft dan geen looninkomen meer en moet daarom interen op zijn vermogen om zijn gewenste constante consumptieniveau te handhaven",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In levensfase d - e heeft Willem een looninkomen dat hoger is dan zijn (permanente) consumptieniveau, zodat hij aan vermogensopbouw kan doen (sparen voor pensioen)"
+     },
+     {
+      "points": 1,
+      "description": "In levensfase e - f stopt hij met werken (pensioen), heeft dan geen looninkomen meer en moet daarom interen op zijn vermogen om zijn gewenste constante consumptieniveau te handhaven"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-de-prijs-van-tijd-antw23.png"
+    ]
+   },
+   {
+    "title": "Aanpakken dat opwaarderen!",
+    "question_number": 24,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nDe verzekeraar heeft niet voldoende informatie over het claimgedrag. De verzekerde kan daardoor een hogere schadeclaim indienen dan waartoe deze gerechtigd is.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nDe verzekeraar heeft niet voldoende informatie over het claimgedrag. De verzekerde kan daardoor een hogere schadeclaim indienen dan waartoe deze gerechtigd is."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-aanpakken-dat-opwaarderen-antw24.png"
+    ]
+   },
+   {
+    "title": "Aanpakken dat opwaarderen!",
+    "question_number": 25,
+    "answer_text": "nee\nEen voorbeeld van een juiste verklaring is:\nBij opwaarderen van schade is er geen sprake van nalatig of roekeloos gedrag (als gevolg van informatieasymmetrie).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "nee\nEen voorbeeld van een juiste verklaring is:\nBij opwaarderen van schade is er geen sprake van nalatig of roekeloos gedrag (als gevolg van informatieasymmetrie)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-aanpakken-dat-opwaarderen-antw25.png"
+    ]
+   },
+   {
+    "title": "Aanpakken dat opwaarderen!",
+    "question_number": 26,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nEen toenemend schadebedrag wordt omgeslagen over alle premiebetalers, waardoor de gemiddelde premiedruk (per verzekerde) stijgt.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste verklaring is:\nEen toenemend schadebedrag wordt omgeslagen over alle premiebetalers, waardoor de gemiddelde premiedruk (per verzekerde) stijgt."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-aanpakken-dat-opwaarderen-antw26.png"
+    ]
+   },
+   {
+    "title": "Aanpakken dat opwaarderen!",
+    "question_number": 27,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nte betalen premie vóór schadeclaims: 0,5 × € 1.067 = € 533,50\nte betalen premie na schadeclaims: 1,25 × € 1.067 = € 1.333,75\nHet te betalen premiebedrag stijgt met (1.333,75 − 533,50 = ) € 800,25.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\nte betalen premie vóór schadeclaims: 0,5 × € 1.067 = € 533,50\nte betalen premie na schadeclaims: 1,25 × € 1.067 = € 1.333,75\nHet te betalen premiebedrag stijgt met (1.333,75 − 533,50 = ) € 800,25."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-aanpakken-dat-opwaarderen-antw27.png"
+    ]
+   },
+   {
+    "title": "Aanpakken dat opwaarderen!",
+    "question_number": 28,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nAangezien Hugo al twee schades heeft, levert verder claimen geen hogere premie op / resulteert verder claimen niet in een lagere trede.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nAangezien Hugo al twee schades heeft, levert verder claimen geen hogere premie op / resulteert verder claimen niet in een lagere trede."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-ii-aanpakken-dat-opwaarderen-antw28.png"
+    ]
+   }
+  ]
+ }
+}
