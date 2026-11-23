@@ -1,0 +1,487 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "HAVO",
+  "source": "HAVO Economie 2016-I",
+  "answers": [
+   {
+    "title": "Schipperen naar Schierland",
+    "question_number": 1,
+    "answer_text": "oligopolie\nVoorbeelden van een juiste verklaring zijn:\n− Er is sprake van een beperkt aantal (twee) aanbieders.\n− Toetreding tot deze markt is moeilijk.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "oligopolie\nVoorbeelden van een juiste verklaring zijn:\n− Er is sprake van een beperkt aantal (twee) aanbieders.\n− Toetreding tot deze markt is moeilijk."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-schipperen-naar-schierland-antw1.png"
+    ]
+   },
+   {
+    "title": "Schipperen naar Schierland",
+    "question_number": 2,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Prijs bij doelstelling maximale totale winst:\nMO = MK\n−0,24Q + 62,4 = 12\nQ = 210\n• P = −0,12 × 210 + 62,4 = € 37,20",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Prijs bij doelstelling maximale totale winst:\nMO = MK\n−0,24Q + 62,4 = 12\nQ = 210"
+     },
+     {
+      "points": 1,
+      "description": "P = −0,12 × 210 + 62,4 = € 37,20"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-schipperen-naar-schierland-antw2.png"
+    ]
+   },
+   {
+    "title": "Schipperen naar Schierland",
+    "question_number": 3,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nTO = 95.000 × 10 = 950.000\nTK = 6 × 95.000 + TCK\nbreak-even wordt bereikt als TO = TK\n950.000 = 570.000 + TCK\nTCK = 380.000",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\nTO = 95.000 × 10 = 950.000\nTK = 6 × 95.000 + TCK\nbreak-even wordt bereikt als TO = TK\n950.000 = 570.000 + TCK\nTCK = 380.000"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-schipperen-naar-schierland-antw3.png"
+    ]
+   },
+   {
+    "title": "Schipperen naar Schierland",
+    "question_number": 4,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• De dominante strategie van beide veerdiensten is ‘prijs verlagen’\n• De marktaandelen worden dan hetzelfde als in de situatie waarbij de prijzen gelijk waren gehouden, maar bij een gelijke totale marktafzet zal door de prijsdaling de omzet voor beide partijen afnemen\n• Het maken van een prijsafspraak om de prijzen gelijk te houden kan deze omzetdaling voorkomen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De dominante strategie van beide veerdiensten is ‘prijs verlagen’"
+     },
+     {
+      "points": 1,
+      "description": "De marktaandelen worden dan hetzelfde als in de situatie waarbij de prijzen gelijk waren gehouden, maar bij een gelijke totale marktafzet zal door de prijsdaling de omzet voor beide partijen afnemen"
+     },
+     {
+      "points": 1,
+      "description": "Het maken van een prijsafspraak om de prijzen gelijk te houden kan deze omzetdaling voorkomen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-schipperen-naar-schierland-antw4.png"
+    ]
+   },
+   {
+    "title": "Parade van Pen",
+    "question_number": 5,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− technologische ontwikkeling\n− scholing\n− toenemende specialisatie\n\nper juist antwoord: 1",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "per juist antwoord (eerste juiste antwoord)"
+     },
+     {
+      "points": 1,
+      "description": "per juist antwoord (tweede juiste antwoord)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-parade-van-pen-antw5.png"
+    ]
+   },
+   {
+    "title": "Parade van Pen",
+    "question_number": 6,
+    "answer_text": "nivellerend effect\n“De inkomensongelijkheid is bij het secundair inkomen in de betreffende 35 jaar minder toegenomen dan bij het primair inkomen.”",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "nivellerend effect\n“De inkomensongelijkheid is bij het secundair inkomen in de betreffende 35 jaar minder toegenomen dan bij het primair inkomen.”"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-parade-van-pen-antw6.png"
+    ]
+   },
+   {
+    "title": "Parade van Pen",
+    "question_number": 7,
+    "answer_text": "(A) primair inkomen\n(B) overdrachtsinkomen\n(C) secundair inkomen\n\nindien drie juist: 2\nindien twee juist: 1\nindien minder dan twee juist: 0",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "indien drie juist"
+     },
+     {
+      "points": 1,
+      "description": "indien twee juist"
+     },
+     {
+      "points": 0,
+      "description": "indien minder dan twee juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-parade-van-pen-antw7.png"
+    ]
+   },
+   {
+    "title": "Parade van Pen",
+    "question_number": 8,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nEen persoon met een eigen onderneming (zelfstandige) kan verlies maken en dus een negatief inkomen hebben.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juist antwoord is:\nEen persoon met een eigen onderneming (zelfstandige) kan verlies maken en dus een negatief inkomen hebben."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-parade-van-pen-antw8.png"
+    ]
+   },
+   {
+    "title": "Parade van Pen",
+    "question_number": 9,
+    "answer_text": "(€23.300 / 1,74) x 7,09 = € 94.940,80\n\nook goed gerekenen:\nEen verschil van € 20.000 in inkomen (linker as) komt overeen met een verschil van 1,5 meter in lengte (rechter as).\n(20.000 / 1,5) x 7,09 = € 94.533.33",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(€23.300 / 1,74) x 7,09 = € 94.940,80\nook goed gerekenen: (20.000 / 1,5) x 7,09 = € 94.533.33"
+     }
+    ],
+    "grading_note": "Een andere juiste manier van afronden ook goed rekenen.\nBij het alternatief (ook goed gerekenen): Het verschil met het eerste antwoord wordt veroorzaakt door afronding in de originele data.",
+    "answer_image_urls": [
+     "economie-havo-2016-i-parade-van-pen-antw9.png"
+    ]
+   },
+   {
+    "title": "Parade van Pen",
+    "question_number": 10,
+    "answer_text": "• bij (1) 37\n• bij (2) schever",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "bij (1) 37"
+     },
+     {
+      "points": 1,
+      "description": "bij (2) schever"
+     }
+    ],
+    "grading_note": "Keuzemogelijkheid (3) komt te vervallen, aangezien het antwoord niet volledig eenduidig gegeven kan worden.",
+    "answer_image_urls": [
+     "economie-havo-2016-i-parade-van-pen-antw10.png"
+    ]
+   },
+   {
+    "title": "Zorgwekkende kosten",
+    "question_number": 11,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nAverechtse selectie treedt in dit verband op als vooral mensen met een hoog gezondheidsrisico zich laten verzekeren. Zorgverzekeraars hebben dan voornamelijk ‘slechte’ risico’s in portefeuille en krijgen daardoor te maken met kostenstijgingen per verzekerde. (Om die kosten te kunnen dekken verhogen de zorgverzekeraars de premies.)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nAverechtse selectie treedt in dit verband op als vooral mensen met een hoog gezondheidsrisico zich laten verzekeren. Zorgverzekeraars hebben dan voornamelijk ‘slechte’ risico’s in portefeuille en krijgen daardoor te maken met kostenstijgingen per verzekerde. (Om die kosten te kunnen dekken verhogen de zorgverzekeraars de premies.)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-zorgwekkende-kosten-antw11.png"
+    ]
+   },
+   {
+    "title": "Zorgwekkende kosten",
+    "question_number": 12,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\nBenadis\nKlanten die hun gezondheidstoestand positief inschatten kunnen met het invullen van de vragenlijst korting verdienen. Hierdoor zal Benadis vooral goede risico’s aantrekken (klanten met een gezonde leefstijl).\n\nVizaget\nVooral klanten die hun gezondheidstoestand positief inschatten zullen gebruikmaken van een verzekering met no-claimkorting. Hierdoor trekt Vizaget vooral goede risico’s aan.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voorbeelden van een juist antwoord zijn:\nBenadis\nKlanten die hun gezondheidstoestand positief inschatten kunnen met het invullen van de vragenlijst korting verdienen. Hierdoor zal Benadis vooral goede risico’s aantrekken (klanten met een gezonde leefstijl).\n\nVizaget\nVooral klanten die hun gezondheidstoestand positief inschatten zullen gebruikmaken van een verzekering met no-claimkorting. Hierdoor trekt Vizaget vooral goede risico’s aan."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-zorgwekkende-kosten-antw12.png"
+    ]
+   },
+   {
+    "title": "Zorgwekkende kosten",
+    "question_number": 13,
+    "answer_text": "Voor beide mogelijke antwoorden is een juiste toelichting mogelijk.\nbevorderen\nEen voorbeeld van een juiste toelichting is:\nDe no-claimkorting zal mensen aantrekken die verwachten weinig claims te hoeven indienen en daarmee mogelijk netto bijdragers zullen zijn aan de verzekering (zelfs al zal voor hen de te betalen premie in de loop der jaren afnemen).\n\nverminderen\nEen voorbeeld van een juiste toelichting is:\nVerzekerden die slechts weinig claims indienen, krijgen in de loop der jaren korting op de premie. Verzekerden uit deze groep betalen daardoor naar verhouding minder dan verzekerden met meer claims per jaar (en hiermee vermindert de onderlinge solidariteit).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voor beide mogelijke antwoorden is een juiste toelichting mogelijk.\nbevorderen\nEen voorbeeld van een juiste toelichting is:\nDe no-claimkorting zal mensen aantrekken die verwachten weinig claims te hoeven indienen en daarmee mogelijk netto bijdragers zullen zijn aan de verzekering (zelfs al zal voor hen de te betalen premie in de loop der jaren afnemen).\n\nverminderen\nEen voorbeeld van een juiste toelichting is:\nVerzekerden die slechts weinig claims indienen, krijgen in de loop der jaren korting op de premie. Verzekerden uit deze groep betalen daardoor naar verhouding minder dan verzekerden met meer claims per jaar (en hiermee vermindert de onderlinge solidariteit)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-zorgwekkende-kosten-antw13.png"
+    ]
+   },
+   {
+    "title": "Zorgwekkende kosten",
+    "question_number": 14,
+    "answer_text": "Voorbeelden van een juiste uitleg zijn:\n− Door technologische ontwikkelingen / nieuwe apparatuur worden nieuwe behandelmethoden mogelijk die duurder zijn.\n− Door technologische ontwikkelingen kunnen aandoeningen behandeld worden die in het verleden niet (of minder uitgebreid) behandeld konden worden, waardoor de uitgaven aan ziektekosten stijgen.\n− Door technologische ontwikkelingen kunnen patiënten langduriger behandeld worden, waardoor de uitgaven aan ziektekosten stijgen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juiste uitleg zijn:\n− Door technologische ontwikkelingen / nieuwe apparatuur worden nieuwe behandelmethoden mogelijk die duurder zijn.\n− Door technologische ontwikkelingen kunnen aandoeningen behandeld worden die in het verleden niet (of minder uitgebreid) behandeld konden worden, waardoor de uitgaven aan ziektekosten stijgen.\n− Door technologische ontwikkelingen kunnen patiënten langduriger behandeld worden, waardoor de uitgaven aan ziektekosten stijgen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-zorgwekkende-kosten-antw14.png"
+    ]
+   },
+   {
+    "title": "Zorgwekkende kosten",
+    "question_number": 15,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• (90 / 52,5) × 100 = 171,4\n• (171,4 / 125,5) × 100 = 136,6\nDe uitgaven aan gezondheidszorg stijgen reëel met 36,6%",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(90 / 52,5) × 100 = 171,4"
+     },
+     {
+      "points": 1,
+      "description": "(171,4 / 125,5) × 100 = 136,6\nDe uitgaven aan gezondheidszorg stijgen reëel met 36,6%"
+     }
+    ],
+    "grading_note": "Een andere juiste manier van afronden ook goed rekenen.",
+    "answer_image_urls": [
+     "economie-havo-2016-i-zorgwekkende-kosten-antw15.png"
+    ]
+   },
+   {
+    "title": "Zorgwekkende kosten",
+    "question_number": 16,
+    "answer_text": "De te beoordelen aspecten zijn correct uitgewerkt.\n• Een voorbeeld van een juiste uitleg is:\nDoor het verhogen van het eigen risico moet de verzekerde een groter deel van de ziektekosten zelf betalen, waardoor deze in sterkere mate zal proberen deze kosten te beperken\n• Voorbeelden van een juist antwoord zijn:\n− bepaalde soorten schade gedeeltelijk of geheel uitsluiten van vergoeding\nEen voorbeeld van een juiste uitleg is:\nGezondheidsschade als gevolg van bijvoorbeeld alcoholgebruik of roekeloos gedrag wordt niet vergoed, waardoor mensen ertoe worden aangezet om dit soort gezondheidsschade te beperken.\n\nof\n\n− invoeren van een bonus-malussysteem\nEen voorbeeld van een juiste uitleg is:\nEen verzekerde hoeft minder premie te betalen naarmate deze minder claimt. Hierdoor wordt de verzekerde ertoe aangezet om gezondheidsrisico’s te beperken.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste uitleg is:\nDoor het verhogen van het eigen risico moet de verzekerde een groter deel van de ziektekosten zelf betalen, waardoor deze in sterkere mate zal proberen deze kosten te beperken"
+     },
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juist antwoord zijn:\n− bepaalde soorten schade gedeeltelijk of geheel uitsluiten van vergoeding\nEen voorbeeld van een juiste uitleg is:\nGezondheidsschade als gevolg van bijvoorbeeld alcoholgebruik of roekeloos gedrag wordt niet vergoed, waardoor mensen ertoe worden aangezet om dit soort gezondheidsschade te beperken.\nof\n− invoeren van een bonus-malussysteem\nEen voorbeeld van een juiste uitleg is:\nEen verzekerde hoeft minder premie te betalen naarmate deze minder claimt. Hierdoor wordt de verzekerde ertoe aangezet om gezondheidsrisico’s te beperken."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-zorgwekkende-kosten-antw16.png"
+    ]
+   },
+   {
+    "title": "Slaat accijns een deuk in een pakje boter?",
+    "question_number": 17,
+    "answer_text": "Voorbeelden van een juiste uitleg zijn:\n− Door invoering van accijns op de consumptie van verzadigde vetten worden de maatschappelijke kosten (zoals kosten van behandeling van hart- en vaatziekten die de eigen bijdrage van de patiënt te boven gaan, deels) doorberekend aan de gebruiker.\n− Door de accijns wordt de consumptie van verzadigde vetten duurder, waardoor de vraag afneemt en de maatschappelijke kosten (rond de behandeling van hart- en vaatziekten) verminderen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juiste uitleg zijn:\n− Door invoering van accijns op de consumptie van verzadigde vetten worden de maatschappelijke kosten (zoals kosten van behandeling van hart- en vaatziekten die de eigen bijdrage van de patiënt te boven gaan, deels) doorberekend aan de gebruiker.\n− Door de accijns wordt de consumptie van verzadigde vetten duurder, waardoor de vraag afneemt en de maatschappelijke kosten (rond de behandeling van hart- en vaatziekten) verminderen."
+     }
+    ],
+    "grading_note": "Zonder vermelding van ‘maatschappelijke kosten’ geen scorepunten toekennen.",
+    "answer_image_urls": [
+     "economie-havo-2016-i-slaat-accijns-een-deuk-in-een-pakje-boter-antw17.png"
+    ]
+   },
+   {
+    "title": "Slaat accijns een deuk in een pakje boter?",
+    "question_number": 18,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• berekening nieuwe evenwichtsprijs: 2P − 8 = −P + 8 → P = 5,33\n• nieuwe evenwichtshoeveelheid: Q = −5,33 + 8 → Q = 2,67\n• procentuele afname: (2,67 − 4) / 4 × 100% = 33,3% (afgerond)\n(De doelstelling wordt dus bereikt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "berekening nieuwe evenwichtsprijs: 2P − 8 = −P + 8 → P = 5,33"
+     },
+     {
+      "points": 1,
+      "description": "nieuwe evenwichtshoeveelheid: Q = −5,33 + 8 → Q = 2,67"
+     },
+     {
+      "points": 1,
+      "description": "procentuele afname: (2,67 − 4) / 4 × 100% = 33,3% (afgerond)\n(De doelstelling wordt dus bereikt)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-slaat-accijns-een-deuk-in-een-pakje-boter-antw18.png"
+    ]
+   },
+   {
+    "title": "Slaat accijns een deuk in een pakje boter?",
+    "question_number": 19,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• accijns is € 2\n• de hoeveelheid is met een derde afgenomen: van Q = 4 tot Q = 2,67\ndaarbij hoort een vraagprijs P = −2,67 + 8 = 5,33\nde prijs stijgt met € 1,33 (€ 5,33 − € 4)\nDe accijns is doorberekend voor 1,33 / 2 × 100% = 67%",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "accijns is € 2"
+     },
+     {
+      "points": 1,
+      "description": "de hoeveelheid is met een derde afgenomen: van Q = 4 tot Q = 2,67\ndaarbij hoort een vraagprijs P = −2,67 + 8 = 5,33\nde prijs stijgt met € 1,33 (€ 5,33 − € 4)\nDe accijns is doorberekend voor 1,33 / 2 × 100% = 67%"
+     }
+    ],
+    "grading_note": "Een andere juiste manier van afronden ook goed rekenen.",
+    "answer_image_urls": [
+     "economie-havo-2016-i-slaat-accijns-een-deuk-in-een-pakje-boter-antw19.png"
+    ]
+   },
+   {
+    "title": "Slaat accijns een deuk in een pakje boter?",
+    "question_number": 20,
+    "answer_text": "grafiek 4",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "grafiek 4"
+     }
+    ],
+    "grading_note": "Uitsluitend 2 of 0 scorepunten toekennen.",
+    "answer_image_urls": [
+     "economie-havo-2016-i-slaat-accijns-een-deuk-in-een-pakje-boter-antw20.png"
+    ]
+   },
+   {
+    "title": "Slaat accijns een deuk in een pakje boter?",
+    "question_number": 21,
+    "answer_text": "bij (1) minder\nbij (2) steiler\nbij (3) niet\n\nindien drie juist: 2\nindien twee juist: 1\nindien minder dan twee juist: 0",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "indien drie juist"
+     },
+     {
+      "points": 1,
+      "description": "indien twee juist"
+     },
+     {
+      "points": 0,
+      "description": "indien minder dan twee juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-slaat-accijns-een-deuk-in-een-pakje-boter-antw21.png"
+    ]
+   },
+   {
+    "title": "In India is het niet alles goud wat er blinkt",
+    "question_number": 22,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Afhankelijk van het consumentenvertrouwen stellen huishoudens hun consumptie bij\n• Als gevolg hiervan kan de productie (conjunctuur) veranderen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Afhankelijk van het consumentenvertrouwen stellen huishoudens hun consumptie bij"
+     },
+     {
+      "points": 1,
+      "description": "Als gevolg hiervan kan de productie (conjunctuur) veranderen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-in-india-is-het-niet-alles-goud-wat-er-blinkt-antw22.png"
+    ]
+   },
+   {
+    "title": "In India is het niet alles goud wat er blinkt",
+    "question_number": 23,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• In het geval van een neergaande conjunctuur neemt de werkloosheid toe, waardoor bij mensen inkomen wegvalt\n• Werkloosheidsuitkeringen vangen deze inkomensterugval (gedeeltelijk) op, waardoor de bestedingen minder sterk zullen afnemen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In het geval van een neergaande conjunctuur neemt de werkloosheid toe, waardoor bij mensen inkomen wegvalt"
+     },
+     {
+      "points": 1,
+      "description": "Werkloosheidsuitkeringen vangen deze inkomensterugval (gedeeltelijk) op, waardoor de bestedingen minder sterk zullen afnemen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-in-india-is-het-niet-alles-goud-wat-er-blinkt-antw23.png"
+    ]
+   },
+   {
+    "title": "In India is het niet alles goud wat er blinkt",
+    "question_number": 24,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Oplopende binnenlandse inflatie kan leiden tot verslechtering van de internationale concurrentiepositie\n• met als gevolg een afname van de export / toename van de import (en een verslechtering van het saldo op de lopende rekening van de betalingsbalans)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Oplopende binnenlandse inflatie kan leiden tot verslechtering van de internationale concurrentiepositie"
+     },
+     {
+      "points": 1,
+      "description": "met als gevolg een afname van de export / toename van de import (en een verslechtering van het saldo op de lopende rekening van de betalingsbalans)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-in-india-is-het-niet-alles-goud-wat-er-blinkt-antw24.png"
+    ]
+   },
+   {
+    "title": "In India is het niet alles goud wat er blinkt",
+    "question_number": 25,
+    "answer_text": "bij (1) uitgaven\nbij (2) lopende rekening\nbij (3) risico-avers gedrag\nbij (4) reële\nbij (5) daalt\n\nindien vijf juist: 3\nindien vier juist: 2\nindien drie juist: 1\nindien minder dan drie juist: 0",
+    "scoring_steps": [
+     {
+      "points": 3,
+      "description": "indien vijf juist"
+     },
+     {
+      "points": 2,
+      "description": "indien vier juist"
+     },
+     {
+      "points": 1,
+      "description": "indien drie juist"
+     },
+     {
+      "points": 0,
+      "description": "indien minder dan drie juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-in-india-is-het-niet-alles-goud-wat-er-blinkt-antw25.png"
+    ]
+   },
+   {
+    "title": "In India is het niet alles goud wat er blinkt",
+    "question_number": 26,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Beleggers zullen hun geld van Indiase (spaar)rekeningen halen en op spaarrekeningen in de VS zetten\n• De vraag naar dollars stijgt (Indiase roepies worden omgezet in Amerikaanse dollars) wat leidt tot een hogere wisselkoers van de dollar ten opzichte van de roepie\n• Uit de VS geïmporteerd goud en gouden sieraden, geprijsd in roepies, worden hierdoor voor Indiase burgers duurder",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beleggers zullen hun geld van Indiase (spaar)rekeningen halen en op spaarrekeningen in de VS zetten"
+     },
+     {
+      "points": 1,
+      "description": "De vraag naar dollars stijgt (Indiase roepies worden omgezet in Amerikaanse dollars) wat leidt tot een hogere wisselkoers van de dollar ten opzichte van de roepie"
+     },
+     {
+      "points": 1,
+      "description": "Uit de VS geïmporteerd goud en gouden sieraden, geprijsd in roepies, worden hierdoor voor Indiase burgers duurder"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-i-in-india-is-het-niet-alles-goud-wat-er-blinkt-antw26.png"
+    ]
+   }
+  ]
+ }
+}
