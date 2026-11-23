@@ -1,0 +1,63 @@
+{
+  "source": "HAVO Economie 2017-I",
+  "subject_name": "Economie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Restaurant La Mama",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Hoe verdelen?",
+      "question_numbers": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Liever geen lira?",
+      "question_numbers": [
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Dreigende deflatie",
+      "question_numbers": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "title": "Uitgestelde vluchten",
+      "question_numbers": [
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "title": "E-bike steeds populairder (ook bij dieven)",
+      "question_numbers": [
+        23,
+        24,
+        25,
+        26
+      ]
+    }
+  ]
+}
