@@ -56,6 +56,10 @@ Usage:
                  puts the rest of the line in the ctx block beside it. The
                  keep box grows to cover those lines; the ctx items of the
                  page drop them as members and wipe that box instead.
+--wipe p:x0,y0,x1,y1  paint this box white in the items of page p: text
+                 the PDF itself overprints (HAVO-ECO-18-I-O.pdf p.10: "Hoe
+                 duur is de suiker?" printed over the bron 3 noot:
+                 --wipe 9:346.5,277,482,293).
 --newopgave p:i  plan item i on page p is the title of a new opgave whose
                  grey bar title_bar_y misses (VWO-WISA-23-II-O.pdf p.4
                  "Groeimodellen"): a new opgave starts there, the title
@@ -202,6 +206,9 @@ def main():
     ap.add_argument("--widen", nargs="*", default=[])
     ap.add_argument("--split", nargs="*", default=[])
     ap.add_argument("--newopgave", nargs="*", default=[])
+    ap.add_argument("--wipe", nargs="*", default=[],
+                    help="p:x0,y0,x1,y1 -- paint this box white in every item of page p "
+                         "(HAVO-ECO-18-I-O.pdf p.10: opgave title overprinted on a bron noot)")
     ap.add_argument("--bronnen", action="store_true",
                     help="HAVO Economie: merge each 'bron N' into one block, put 'Gebruik bron ...' in the vraag crop")
     a = ap.parse_args()
@@ -244,6 +251,10 @@ def main():
         k, y = spec.split("=")
         split[tuple(map(int, k.split(":")))] = float(y)
     newop = {tuple(map(int, s.split(":"))) for s in a.newopgave}
+    wipes = {}
+    for spec in a.wipe:
+        p, box = spec.split(":")
+        wipes.setdefault(int(p), []).append(tuple(map(float, box.split(","))))
     extend = {}
     for spec in a.extend:
         k, pt = spec.split("=")
@@ -333,6 +344,9 @@ def main():
             v["y0"] = min(v["y0"], o["y0"])
             v["y1"] = max(v["y1"], o["y1"])
             plan = [(k, it) for k, it in plan if k != j]
+        for _, it in plan:
+            for w in wipes.get(page.number, []):
+                it.setdefault("extra_wipe", []).append(w)
         for (p, i), x1 in widen.items():
             if p != page.number:
                 continue
