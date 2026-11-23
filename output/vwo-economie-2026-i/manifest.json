@@ -1,0 +1,66 @@
+{
+  "source": "VWO Economie 2026-I",
+  "subject_name": "Economie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Solo",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Geld in de markt",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Beleid",
+      "question_numbers": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Kappen met kappen",
+      "question_numbers": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Australië",
+      "question_numbers": [
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "title": "De prijs van woningbezit",
+      "question_numbers": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    }
+  ]
+}
