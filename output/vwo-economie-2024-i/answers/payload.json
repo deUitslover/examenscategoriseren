@@ -1,0 +1,540 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "VWO",
+  "source": "VWO Economie 2024-I",
+  "answers": [
+   {
+    "title": "Duurzaamheid stimuleren",
+    "question_number": 1,
+    "answer_text": "Een juist antwoord bevat:\n• Het noemen van een voorbeeld van een negatief externe effect.\n• Een uitleg dat dit negatieve externe effect tot maatschappelijke kosten leidt.\n\nEen voorbeeld van een juist antwoord is:\n• De vervuilende productie leidt tot milieuvervuiling zoals stankoverlast / klimaatverandering / slechtere luchtkwaliteit / slechtere waterkwaliteit.\n• Dit leidt tot (extra) kosten die niet door de gebruikers zelf worden betaald maar door de maatschappij (via betaalde belastingen).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het noemen van een voorbeeld van een negatief externe effect."
+     },
+     {
+      "points": 1,
+      "description": "Een uitleg dat dit negatieve externe effect tot maatschappelijke kosten leidt."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-duurzaamheid-stimuleren-antw1.png"
+    ]
+   },
+   {
+    "title": "Duurzaamheid stimuleren",
+    "question_number": 2,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Aflezen evenwichtsprijs: De marktprijs stijgt van € 18 naar € 20, dus een stijging van € 2.\nAflezen heffing: Uit de verschuiving van de aanbodlijn blijkt dat de heffing € 4 per stuk bedraagt.\n• Doorberekenen heffing: (2 / 4) x 100% = 50%.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Aflezen evenwichtsprijs: De marktprijs stijgt van € 18 naar € 20, dus een stijging van € 2.\nAflezen heffing: Uit de verschuiving van de aanbodlijn blijkt dat de heffing € 4 per stuk bedraagt."
+     },
+     {
+      "points": 1,
+      "description": "Doorberekenen heffing: (2 / 4) x 100% = 50%."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-duurzaamheid-stimuleren-antw2.png"
+    ]
+   },
+   {
+    "title": "Duurzaamheid stimuleren",
+    "question_number": 3,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n− Markt A: de productie daalt van 50.000 naar 40.000 stuks, de CO2-reductie is 10.000 x 6 = 60.000 kg.\n− Markt B: de oude hoeveelheid: Qv = Qa → –2P + 80 = 2P – 20 → P= 25 en daarbij geldt Q = 30.000.\n− Markt B: De nieuwe aanbodvergelijking wordt Qa = 2(P+5) – 20 → Qa = 2P – 10.\n− Markt B: de nieuwe hoeveelheid: Qv = Qa → P = 22,50 en Q = 35.000. De CO2-uitstoot neemt toe met 5.000 x 2 = 10.000 kg.\n− Per saldo is de CO2-reductie 60.000 – 10.000 = 50.000 kg.\n\nindien vijf elementen juist: 4\nindien vier elementen juist: 3\nindien drie elementen juist: 2\nindien twee elementen juist: 1\nindien een of geen elementen juist: 0",
+    "scoring_steps": [
+     {
+      "points": 4,
+      "description": "indien vijf elementen juist: 4\nindien vier elementen juist: 3\nindien drie elementen juist: 2\nindien twee elementen juist: 1\nindien een of geen elementen juist: 0"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-duurzaamheid-stimuleren-antw3.png"
+    ]
+   },
+   {
+    "title": "Duurzaamheid stimuleren",
+    "question_number": 4,
+    "answer_text": "Een juist antwoord bevat:\n• Het correct arceren op markt A.\n• Het correct arceren op markt B.\n(Figuur 1 Marktsituatie van A, voor en na heffing; Figuur 2 Marktsituatie van B, voor en na subsidie: zie afbeelding)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het correct arceren op markt A."
+     },
+     {
+      "points": 1,
+      "description": "Het correct arceren op markt B."
+     }
+    ],
+    "grading_note": "Andere arceringen kunnen ook juist zijn.",
+    "answer_image_urls": [
+     "economie-vwo-2024-i-duurzaamheid-stimuleren-antw4.png"
+    ]
+   },
+   {
+    "title": "Duurzaamheid stimuleren",
+    "question_number": 5,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• De prijs is € 20 en de variabele kosten per product zijn € 5 + € 4 (heffing) = € 9.\n• Omdat P > GVK zal het bedrijf Knop doorgaan met produceren, omdat dit tot een lager verlies leidt dan stoppen met produceren.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De prijs is € 20 en de variabele kosten per product zijn € 5 + € 4 (heffing) = € 9."
+     },
+     {
+      "points": 1,
+      "description": "Omdat P > GVK zal het bedrijf Knop doorgaan met produceren, omdat dit tot een lager verlies leidt dan stoppen met produceren."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-duurzaamheid-stimuleren-antw5.png"
+    ]
+   },
+   {
+    "title": "Duurzaamheid stimuleren",
+    "question_number": 6,
+    "answer_text": "Een prijsdaling van product B zal ervoor zorgen dat de vraag naar product A afneemt vanwege de positieve kruislingse prijselasticiteit.\nHierdoor daalt de productie van A en daarmee de CO₂-uitstoot van product A.\n\nDe kruislingse prijselasticiteit is positief, dus er is sprake van substituten.\nEen prijsdaling van product B leidt dus tot een vraagdaling van product A, waardoor de CO₂-uitstoot daalt.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een prijsdaling van product B zal ervoor zorgen dat de vraag naar product A afneemt vanwege de positieve kruislingse prijselasticiteit.\nof\nDe kruislingse prijselasticiteit is positief, dus er is sprake van substituten."
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor daalt de productie van A en daarmee de CO₂-uitstoot van product A.\nof\nEen prijsdaling van product B leidt dus tot een vraagdaling van product A, waardoor de CO₂-uitstoot daalt."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-duurzaamheid-stimuleren-antw6.png"
+    ]
+   },
+   {
+    "title": "Staat van de schulden",
+    "question_number": 7,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− De hogere staatsschuldquote verhoogt het risico op wanbetaling. Beleggers zullen een hogere vergoeding eisen voor dit risico.\n− De hogere staatsschuldquote kan zorgen voor meer vraag naar vermogen (als de staatsschuld is toegenomen). Hierdoor stijgt de rente (op nieuwe obligaties).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voorbeelden van een juist antwoord zijn:\n− De hogere staatsschuldquote verhoogt het risico op wanbetaling. Beleggers zullen een hogere vergoeding eisen voor dit risico.\n− De hogere staatsschuldquote kan zorgen voor meer vraag naar vermogen (als de staatsschuld is toegenomen). Hierdoor stijgt de rente (op nieuwe obligaties)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-staat-van-de-schulden-antw7.png"
+    ]
+   },
+   {
+    "title": "Staat van de schulden",
+    "question_number": 8,
+    "answer_text": "Voorbeelden van een juiste berekening zijn:\n− De rente die wordt betaald is 2,4% x 175% van het bbp = 4,2% van het bbp. Dat is (4,2% / 43%) x 100% = 9,8% van de overheidsuitgaven. 9,8% < 10%, dus de dienstverlening komt niet onder druk te staan.\n− De rente die wordt betaald is 2,4% x 175% van het bbp = 4,2% van het bbp. 10% van 43% = 4,3%.\n4,2% < 4,3%, dus de dienstverlening komt niet onder druk te staan.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juiste berekening zijn:\n− De rente die wordt betaald is 2,4% x 175% van het bbp = 4,2% van het bbp. Dat is (4,2% / 43%) x 100% = 9,8% van de overheidsuitgaven. 9,8% < 10%, dus de dienstverlening komt niet onder druk te staan.\n− De rente die wordt betaald is 2,4% x 175% van het bbp = 4,2% van het bbp. 10% van 43% = 4,3%.\n4,2% < 4,3%, dus de dienstverlening komt niet onder druk te staan."
+     }
+    ],
+    "grading_note": "De conclusie is noodzakelijk voor toekenning van de maximumscore.",
+    "answer_image_urls": [
+     "economie-vwo-2024-i-staat-van-de-schulden-antw8.png"
+    ]
+   },
+   {
+    "title": "Staat van de schulden",
+    "question_number": 9,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Een belastingverhoging leidt tot een lager besteedbaar inkomen, waardoor de consumptie daalt en daarmee (via de effectieve vraag en productie) het inkomen. De opbrengsten van de inkomstenbelasting / indirecte belastingen dalen (uitverdieneffect).\n• Hierdoor zullen de belastinginkomsten minder stijgen dan verwacht waardoor de daling van de staatsschuld ook beperkt is.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een belastingverhoging leidt tot een lager besteedbaar inkomen, waardoor de consumptie daalt en daarmee (via de effectieve vraag en productie) het inkomen. De opbrengsten van de inkomstenbelasting / indirecte belastingen dalen (uitverdieneffect)."
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor zullen de belastinginkomsten minder stijgen dan verwacht waardoor de daling van de staatsschuld ook beperkt is."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-staat-van-de-schulden-antw9.png"
+    ]
+   },
+   {
+    "title": "Staat van de schulden",
+    "question_number": 10,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de belastingverhoging zal het verschil tussen de loonkosten en het nettoloon van werknemer stijgen / stijgt de marginale belastingdruk (de wig), waardoor het nettoloon van werknemers daalt.\n• Dit vermindert de prikkel om te werken waardoor de economische activiteit daalt. Hierdoor daalt het arbeidsaanbod en dus de productie (en dus het bbp).\nof\n• Dit leidt tot een daling van de consumptie waardoor de vraag naar goederen/diensten daalt. Hierdoor daalt de productie (en dus het bbp).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de belastingverhoging zal het verschil tussen de loonkosten en het nettoloon van werknemer stijgen / stijgt de marginale belastingdruk (de wig), waardoor het nettoloon van werknemers daalt."
+     },
+     {
+      "points": 1,
+      "description": "Dit vermindert de prikkel om te werken waardoor de economische activiteit daalt. Hierdoor daalt het arbeidsaanbod en dus de productie (en dus het bbp).\nof\nDit leidt tot een daling van de consumptie waardoor de vraag naar goederen/diensten daalt. Hierdoor daalt de productie (en dus het bbp)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-staat-van-de-schulden-antw10.png"
+    ]
+   },
+   {
+    "title": "Staat van de schulden",
+    "question_number": 11,
+    "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• Het noemen van een juist voorbeeld van publiek kapitaal en een uitleg dat daardoor het verdienvermogen / de productiviteit stijgt.\n• Een uitleg dat een investering in publiek kapitaal leidt tot een lagere staatsschuldquote via het bbp.\n\nEen voorbeeld van een juist antwoord is:\n• Investeringen in publiek kapitaal zoals infrastructuur / elektriciteitsnet, verhogen de productiviteit / het verdienvermogen van bedrijven door sneller transport / betere energievoorziening,\n• hierdoor kan het bbp (op lange termijn) stijgen waardoor de staatsschuldquote daalt.\nof\n• Investeringen in publiek kapitaal zoals onderwijs / medische zorg, verhogen de productiviteit / het verdienvermogen van bedrijven door beter geschoold personeel / minder uitval van personeel,\n• hierdoor kan het bbp (op lange termijn) stijgen waardoor de staatsschuldquote daalt.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het noemen van een juist voorbeeld van publiek kapitaal en een uitleg dat daardoor het verdienvermogen / de productiviteit stijgt."
+     },
+     {
+      "points": 1,
+      "description": "Een uitleg dat een investering in publiek kapitaal leidt tot een lagere staatsschuldquote via het bbp."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-staat-van-de-schulden-antw11.png"
+    ]
+   },
+   {
+    "title": "Staat van de schulden",
+    "question_number": 12,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij een positief overheidssaldo daalt de vraag naar kapitaal en daalt de rente (bij een gelijkblijvend aanbod).\n• Hierdoor worden investeringen aantrekkelijker / sparen minder aantrekkelijk. De investeringen / consumptie stijgen waardoor de binnenlandse bestedingen (per saldo) kunnen toenemen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij een positief overheidssaldo daalt de vraag naar kapitaal en daalt de rente (bij een gelijkblijvend aanbod)."
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor worden investeringen aantrekkelijker / sparen minder aantrekkelijk. De investeringen / consumptie stijgen waardoor de binnenlandse bestedingen (per saldo) kunnen toenemen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-staat-van-de-schulden-antw12.png"
+    ]
+   },
+   {
+    "title": "Valutaverzekering",
+    "question_number": 13,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij een (tussentijdse) appreciatie van de euro wordt de andere munt (in euro’s) relatief minder waard.\n• Contracten afgesloten in de vreemde valuta leveren de Nederlandse bedrijven minder euro’s op (en dat is nadelig).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij een (tussentijdse) appreciatie van de euro wordt de andere munt (in euro’s) relatief minder waard."
+     },
+     {
+      "points": 1,
+      "description": "Contracten afgesloten in de vreemde valuta leveren de Nederlandse bedrijven minder euro’s op (en dat is nadelig)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-valutaverzekering-antw13.png"
+    ]
+   },
+   {
+    "title": "Valutaverzekering",
+    "question_number": 14,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nExporteurs die handelen in standaardvaluta’s betalen minder (variabele) premie dan exporteurs die handelen in de hogere risico valuta’s. Daarmee wordt averechtse selectie vermindert omdat de ‘goede’ risico’s minder hoeven te betalen (ten opzichte van een gemiddelde premie) waardoor ze eerder geneigd zijn om zich alsnog te verzekeren.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juist antwoord is:\nExporteurs die handelen in standaardvaluta’s betalen minder (variabele) premie dan exporteurs die handelen in de hogere risico valuta’s. Daarmee wordt averechtse selectie vermindert omdat de ‘goede’ risico’s minder hoeven te betalen (ten opzichte van een gemiddelde premie) waardoor ze eerder geneigd zijn om zich alsnog te verzekeren."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-valutaverzekering-antw14.png"
+    ]
+   },
+   {
+    "title": "Valutaverzekering",
+    "question_number": 15,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nHet valutarisico ontstaat door schommelingen in vraag en aanbod op de valutamarkt en niet door riskanter gedrag van de verzekerde. Daarom hoeft Tradesure geen rekening te houden met moral hazard.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juist antwoord is:\nHet valutarisico ontstaat door schommelingen in vraag en aanbod op de valutamarkt en niet door riskanter gedrag van de verzekerde. Daarom hoeft Tradesure geen rekening te houden met moral hazard."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-valutaverzekering-antw15.png"
+    ]
+   },
+   {
+    "title": "Valutaverzekering",
+    "question_number": 16,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nAls er na het onderhandelen geen verzekering / exportcontract wordt afgesloten, kunnen de gemaakte onderhandelingskosten niet (op een andere manier) worden terugverdiend. Daarom is er sprake van verzonken kosten.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juist antwoord is:\nAls er na het onderhandelen geen verzekering / exportcontract wordt afgesloten, kunnen de gemaakte onderhandelingskosten niet (op een andere manier) worden terugverdiend. Daarom is er sprake van verzonken kosten."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-valutaverzekering-antw16.png"
+    ]
+   },
+   {
+    "title": "Valutaverzekering",
+    "question_number": 17,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Bij het niet-afsluiten van een verzekering:\nDe contractsom = € 12 miljoen x 980 = 11,76 miljard RF.\nOp 1-7 ontvangt Arco: 11,76 miljard RF / 1.024 = € 11.484.375.\nEr is dus een verlies van € 12.000.000 – € 11.484.375 = € 515.625.\n• Bij afsluiten van de verzekering ontvangt Arco € 12 miljoen (conform de verzekeringsvoorwaarden).\nDe kosten van de verzekering zijn het vaste deel + variabel deel = (0,005 x 12.000.000) + (0,0025 x 6 x 12.000.000) = € 240.000.\nDe verzekering leidt tot een voordeel van:\n€ 515.625 – € 240.000 = € 275.625.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij het niet-afsluiten van een verzekering:\nDe contractsom = € 12 miljoen x 980 = 11,76 miljard RF.\nOp 1-7 ontvangt Arco: 11,76 miljard RF / 1.024 = € 11.484.375.\nEr is dus een verlies van € 12.000.000 – € 11.484.375 = € 515.625."
+     },
+     {
+      "points": 1,
+      "description": "Bij afsluiten van de verzekering ontvangt Arco € 12 miljoen (conform de verzekeringsvoorwaarden).\nDe kosten van de verzekering zijn het vaste deel + variabel deel = (0,005 x 12.000.000) + (0,0025 x 6 x 12.000.000) = € 240.000.\nDe verzekering leidt tot een voordeel van:\n€ 515.625 – € 240.000 = € 275.625."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-valutaverzekering-antw17.png"
+    ]
+   },
+   {
+    "title": "Onder de motorkap",
+    "question_number": 18,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de verschuiving van de IS-curve ontstaat er een situatie van overbesteding. Daardoor ontstaat er een hogere inflatie (dan verwacht).\n• Hierdoor dalen reële productiekosten / stijgen de reële winstmarges, waardoor de productie zal stijgen (verschuiving langs de GA-curve).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de verschuiving van de IS-curve ontstaat er een situatie van overbesteding. Daardoor ontstaat er een hogere inflatie (dan verwacht)."
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor dalen reële productiekosten / stijgen de reële winstmarges, waardoor de productie zal stijgen (verschuiving langs de GA-curve)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-onder-de-motorkap-antw18.png"
+    ]
+   },
+   {
+    "title": "Onder de motorkap",
+    "question_number": 19,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• De MB-curve is naar beneden verschoven. Hierdoor ontstaat een positieve output gap / situatie van overbesteding.\n• Hierdoor stijgt de inflatie en dus hanteert de centrale bank een hogere inflatiedoelstelling.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De MB-curve is naar beneden verschoven. Hierdoor ontstaat een positieve output gap / situatie van overbesteding."
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor stijgt de inflatie en dus hanteert de centrale bank een hogere inflatiedoelstelling."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-onder-de-motorkap-antw19.png"
+    ]
+   },
+   {
+    "title": "Onder de motorkap",
+    "question_number": 20,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als de reële rente stijgt wordt sparen aantrekkelijker / lenen duurder en zullen de consumptie / investeringen afnemen.\n• Dit betekent dat huishoudens hun bestedingen uitstellen (en dus ruilen over de tijd).\nof\n• Als de reële rente daalt wordt sparen minder aantrekkelijker / lenen wordt goedkoper en zullen consumptie / investeringen toenemen.\n• Dit betekent dat huishoudens hun bestedingen naar voren halen (en dus ruilen over de tijd).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als de reële rente stijgt wordt sparen aantrekkelijker / lenen duurder en zullen de consumptie / investeringen afnemen.\nof\nAls de reële rente daalt wordt sparen minder aantrekkelijker / lenen wordt goedkoper en zullen consumptie / investeringen toenemen."
+     },
+     {
+      "points": 1,
+      "description": "Dit betekent dat huishoudens hun bestedingen uitstellen (en dus ruilen over de tijd).\nof\nDit betekent dat huishoudens hun bestedingen naar voren halen (en dus ruilen over de tijd)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-onder-de-motorkap-antw20.png"
+    ]
+   },
+   {
+    "title": "Onder de motorkap",
+    "question_number": 21,
+    "answer_text": "Een juist antwoord bevat:\n• Het correct tekenen van de GA₁-curve met een verschuiving van 0,5 procentpunt omhoog (naar een inflatie van 4%).\n• Het correct tekenen van de MB₁-curve met een verschuiving van 2 procentpunt omhoog (naar een reële rente van 6%).\n• Het juist benoemen van de evenwichtswaarden van de inflatie en de reële rente.\n\nEen juist antwoord is:\n• de nieuwe GA-curve\n• de nieuwe MB-curve\n(Figuur 1 Model van Westland: zie afbeelding)\n• Het benoemen van de evenwichtswaarden:\nWestland: inflatie 4%, reële rente 6%\nOostland: inflatie 4%, reële rente 4%",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "de nieuwe GA-curve: Het correct tekenen van de GA₁-curve met een verschuiving van 0,5 procentpunt omhoog (naar een inflatie van 4%)."
+     },
+     {
+      "points": 1,
+      "description": "de nieuwe MB-curve: Het correct tekenen van de MB₁-curve met een verschuiving van 2 procentpunt omhoog (naar een reële rente van 6%)."
+     },
+     {
+      "points": 1,
+      "description": "Het benoemen van de evenwichtswaarden: Westland: inflatie 4%, reële rente 6%; Oostland: inflatie 4%, reële rente 4%"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-onder-de-motorkap-antw21.png"
+    ]
+   },
+   {
+    "title": "Vissen naar winst",
+    "question_number": 22,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• MO = 2 koperstukken (want de vissers zijn prijsnemers dus P = GO = MO).\nDe marginale kostenfunctie MK (=TK’) = 0,01q + 0,25.\n• De verkochte hoeveelheid per visser bedraagt (MO = MK)\n2 = 0,01q + 0,25 → 1,75 = 0,01q → q = 175.\n• Het aantal vissers bedraagt (Q / q) → 7.000.000 / 175 = 40.000.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "MO = 2 koperstukken (want de vissers zijn prijsnemers dus P = GO = MO).\nDe marginale kostenfunctie MK (=TK’) = 0,01q + 0,25."
+     },
+     {
+      "points": 1,
+      "description": "De verkochte hoeveelheid per visser bedraagt (MO = MK)\n2 = 0,01q + 0,25 → 1,75 = 0,01q → q = 175."
+     },
+     {
+      "points": 1,
+      "description": "Het aantal vissers bedraagt (Q / q) → 7.000.000 / 175 = 40.000."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-vissen-naar-winst-antw22.png"
+    ]
+   },
+   {
+    "title": "Vissen naar winst",
+    "question_number": 23,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de toegenomen welvaart stijgt de totale vraag naar vis (bij iedere prijs) en zal de vraag minder prijselastisch / prijsinelastischer worden.\n• Door de toegenomen welvaart hebben consumenten andere voorkeuren / wordt productdifferentiatie mogelijk, waardoor het product vis heterogener wordt en er een markt van monopolistische concurrentie ontstaat.\nof\n• Door de toegenomen welvaart nemen de winstkansen voor producenten toe. Om zich te onderscheiden van anderen zullen ze concurreren op het product waardoor het product vis heterogener wordt en er een markt van monopolistische concurrentie ontstaat.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de toegenomen welvaart stijgt de totale vraag naar vis (bij iedere prijs) en zal de vraag minder prijselastisch / prijsinelastischer worden."
+     },
+     {
+      "points": 1,
+      "description": "Door de toegenomen welvaart hebben consumenten andere voorkeuren / wordt productdifferentiatie mogelijk, waardoor het product vis heterogener wordt en er een markt van monopolistische concurrentie ontstaat.\nof\nDoor de toegenomen welvaart nemen de winstkansen voor producenten toe. Om zich te onderscheiden van anderen zullen ze concurreren op het product waardoor het product vis heterogener wordt en er een markt van monopolistische concurrentie ontstaat."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-vissen-naar-winst-antw23.png"
+    ]
+   },
+   {
+    "title": "Vissen naar winst",
+    "question_number": 24,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Voor Dirdam is 33 > 30 en 19 >14 en voor Nednol is 20 > 10 en 6 > –2, dus prijs verlagen is voor beide visserijen de dominante strategie / het Nash-evenwicht is beiden verlagen.\n• Het Nash-evenwicht is een suboptimale uitkomst (laagste collectieve winst / 25 < 40) en dus is er sprake van een gevangenendilemma.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor Dirdam is 33 > 30 en 19 >14 en voor Nednol is 20 > 10 en 6 > –2, dus prijs verlagen is voor beide visserijen de dominante strategie / het Nash-evenwicht is beiden verlagen."
+     },
+     {
+      "points": 1,
+      "description": "Het Nash-evenwicht is een suboptimale uitkomst (laagste collectieve winst / 25 < 40) en dus is er sprake van een gevangenendilemma."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-vissen-naar-winst-antw24.png"
+    ]
+   },
+   {
+    "title": "Vissen naar winst",
+    "question_number": 25,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Dirdam zal altijd de prijs verlagen / heeft een dominante strategie, want de winst is dan altijd hoger dan wanneer de prijs gelijk wordt gehouden. Daarop zal Nednol ook de prijs verlagen vanwege dezelfde verschillen in winst.\n• De uitkomst behorend bij het Nash-evenwicht is lagere prijs, prijs verlagen, prijs verlagen. Syrap treedt toe met een lagere prijs.\nof\n• Dirdam zal altijd de prijs verlagen / heeft een dominante strategie, want 45 > 40; 40 > 35; 30 > 20; 28 > 20. Daarop zal Nednol ook de prijs verlagen want 17 > 15 en 7 > 5.\n• De uitkomst behorend bij het Nash-evenwicht is 14, 7, 28. Syrap treedt toe met een lagere prijs.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Dirdam zal altijd de prijs verlagen / heeft een dominante strategie, want de winst is dan altijd hoger dan wanneer de prijs gelijk wordt gehouden. Daarop zal Nednol ook de prijs verlagen vanwege dezelfde verschillen in winst.\nof\nDirdam zal altijd de prijs verlagen / heeft een dominante strategie, want 45 > 40; 40 > 35; 30 > 20; 28 > 20. Daarop zal Nednol ook de prijs verlagen want 17 > 15 en 7 > 5."
+     },
+     {
+      "points": 1,
+      "description": "De uitkomst behorend bij het Nash-evenwicht is lagere prijs, prijs verlagen, prijs verlagen. Syrap treedt toe met een lagere prijs.\nof\nDe uitkomst behorend bij het Nash-evenwicht is 14, 7, 28. Syrap treedt toe met een lagere prijs."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-vissen-naar-winst-antw25.png"
+    ]
+   },
+   {
+    "title": "Groeien tot de top",
+    "question_number": 26,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− In het model is te zien dat een verhoging van de bestedingen / EV leidt tot een verhoging van het inkomen (Y). Er is dus sprake van een Keynesiaans model.\n− De Nieuw klassieken veronderstellen dat bestedingen (EV) enkel effect hebben op de inflatie en niet op het inkomen / dat de groei van de economie wordt bepaald door structurele ontwikkelingen. In dit model bepalen bestedingen de groei en dus is het Keynesiaans.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juist antwoord zijn:\n− In het model is te zien dat een verhoging van de bestedingen / EV leidt tot een verhoging van het inkomen (Y). Er is dus sprake van een Keynesiaans model.\n− De Nieuw klassieken veronderstellen dat bestedingen (EV) enkel effect hebben op de inflatie en niet op het inkomen / dat de groei van de economie wordt bepaald door structurele ontwikkelingen. In dit model bepalen bestedingen de groei en dus is het Keynesiaans."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-groeien-tot-de-top-antw26.png"
+    ]
+   },
+   {
+    "title": "Groeien tot de top",
+    "question_number": 27,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Een toename van de autonome consumptie zal voor een deel weglekken naar het buitenland in de vorm van extra importen.\n• Bij de autonome overheidsbestedingen is dit niet het geval. De verhoging van de autonome overheidsbestedingen heeft daarom de grootste multiplier / het sterkste effect op het nationaal inkomen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een toename van de autonome consumptie zal voor een deel weglekken naar het buitenland in de vorm van extra importen."
+     },
+     {
+      "points": 1,
+      "description": "Bij de autonome overheidsbestedingen is dit niet het geval. De verhoging van de autonome overheidsbestedingen heeft daarom de grootste multiplier / het sterkste effect op het nationaal inkomen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-groeien-tot-de-top-antw27.png"
+    ]
+   },
+   {
+    "title": "Groeien tot de top",
+    "question_number": 28,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als de inzet van de productiefactor arbeid toeneemt, ontstaan er afnemende meeropbrengsten: de extra productie per arbeider zal steeds afnemen (want de curve vlakt af).\n• Dit betekent dat de (arbeids)kosten per product van de extra arbeider toenemen (bij gelijkblijvend loon), waardoor de marginale winst zal afnemen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als de inzet van de productiefactor arbeid toeneemt, ontstaan er afnemende meeropbrengsten: de extra productie per arbeider zal steeds afnemen (want de curve vlakt af)."
+     },
+     {
+      "points": 1,
+      "description": "Dit betekent dat de (arbeids)kosten per product van de extra arbeider toenemen (bij gelijkblijvend loon), waardoor de marginale winst zal afnemen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-groeien-tot-de-top-antw28.png"
+    ]
+   },
+   {
+    "title": "Groeien tot de top",
+    "question_number": 29,
+    "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• Een uitleg over de relatie tussen R&D en de factorproductiviteit.\n• Een uitleg over de relatie tussen de factorproductiviteit en de productie.\n\nEen voorbeeld van een juist antwoord is:\n• Door het stimuleren van R&D-investeringen zullen productieprocessen sneller verlopen en stijgt de totale factorproductiviteit.\n• Bij iedere inzet van arbeid zal er een hogere productie worden bereikt. Hierdoor verschuift de productiefunctie van Y₁ naar Y₂.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een uitleg over de relatie tussen R&D en de factorproductiviteit."
+     },
+     {
+      "points": 1,
+      "description": "Een uitleg over de relatie tussen de factorproductiviteit en de productie."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2024-i-groeien-tot-de-top-antw29.png"
+    ]
+   }
+  ]
+ }
+}
