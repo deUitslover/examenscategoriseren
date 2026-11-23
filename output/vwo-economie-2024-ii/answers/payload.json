@@ -1,0 +1,552 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "VWO",
+    "source": "VWO Economie 2024-II",
+    "answers": [
+      {
+        "title": "Duopolis",
+        "question_number": 1,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n(Als Civitas monopolist is, wil ze 80% van de huishoudens bedienen.)\nQᵥ = 80% van 30.000 = 24.000\n24.000 = 30.000 – 100P → P = € 60",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een voorbeeld van een juiste berekening is:\n(Als Civitas monopolist is, wil ze 80% van de huishoudens bedienen.)\nQᵥ = 80% van 30.000 = 24.000\n24.000 = 30.000 – 100P → P = € 60"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-duopolis-antw1.png"
+        ]
+      },
+      {
+        "title": "Duopolis",
+        "question_number": 2,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• De totale productie (Q) is 6.000 + 12.000 = 18.000.\nDe marktprijs is daarmee: 18.000 = 30.000 – 100P\n(100P = 12.000 →) P = € 120.\n• TOLucrum = € 120 x 6.000 = € 720.000\nTKLucrum = € 30 x 6.000 + 100.000 = € 280.000\nTWLucrum = € 720.000 – € 280.000 = € 440.000",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De totale productie (Q) is 6.000 + 12.000 = 18.000.\nDe marktprijs is daarmee: 18.000 = 30.000 – 100P\n(100P = 12.000 →) P = € 120."
+          },
+          {
+            "points": 1,
+            "description": "TOLucrum = € 120 x 6.000 = € 720.000\nTKLucrum = € 30 x 6.000 + 100.000 = € 280.000\nTWLucrum = € 720.000 – € 280.000 = € 440.000"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-duopolis-antw2.png"
+        ]
+      },
+      {
+        "title": "Duopolis",
+        "question_number": 3,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De dominante strategie van Lucrum is om de productie te verlagen tot 6.000 producten (want 440 > 400 > 260; 260 > 100 > -100 en 80 > -200 > -460).\n• Civitas zal streven naar minimaal (80% van 30.000 =) 24.000 pakketten en zal daardoor (in de volgende week) het aanbod verhogen naar 18.000.\n• De winst van Lucrum daalt daardoor naar € 80.000 per week, dus zijn ze slechter af dan met een winst van € 260.000.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De dominante strategie van Lucrum is om de productie te verlagen tot 6.000 producten (want 440 > 400 > 260; 260 > 100 > -100 en 80 > -200 > -460)."
+          },
+          {
+            "points": 1,
+            "description": "Civitas zal streven naar minimaal (80% van 30.000 =) 24.000 pakketten en zal daardoor (in de volgende week) het aanbod verhogen naar 18.000."
+          },
+          {
+            "points": 1,
+            "description": "De winst van Lucrum daalt daardoor naar € 80.000 per week, dus zijn ze slechter af dan met een winst van € 260.000."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-duopolis-antw3.png"
+        ]
+      },
+      {
+        "title": "Duopolis",
+        "question_number": 4,
+        "answer_text": "Een juist antwoord bevat:\n• een uitleg dat er wordt voldaan aan het scheiden van deelmarkten.\n• een uitleg of er wordt voldaan aan het vermijden van onderlinge doorverkoop.\n\nEen voorbeeld van een juist antwoord is:\n• Door de kortingscode op naam te verschaffen, worden deelmarkten onderscheiden.\n• Een boodschappenpakket kan na aankoop worden doorverkocht, waardoor er niet aan (deze voorwaarde van) prijsdiscriminatie wordt voldaan.\nof\n• Door de kortingscode op naam te verschaffen, worden deelmarkten onderscheiden.\n• Een boodschappenpakket wordt na aankoop niet doorverkocht, omdat huishoudens hiervan afhankelijk zijn en elders niet / lastig aan boodschappen kunnen komen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een uitleg dat er wordt voldaan aan het scheiden van deelmarkten."
+          },
+          {
+            "points": 1,
+            "description": "een uitleg of er wordt voldaan aan het vermijden van onderlinge doorverkoop."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-duopolis-antw4.png"
+        ]
+      },
+      {
+        "title": "Duopolis",
+        "question_number": 5,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij de marktprijs zal de gemeente het zelf regelen, want € 150.000 < € 180.000.\nBij een kleine marge en de kostprijs zal de gemeente de deal accepteren, want € 135.000 < € 150.000 en € 90.000 < € 150.000.\n• Civitas heeft dus de keuze tussen € 0 winst bij de marktprijs, € 45.000 bij een kleine marge en € 0 bij aanbieden tegen kostprijs. De uitkomst is: kleine marge, deal sluiten / € 45.000 ; € 135.000.\n\nof\n\nCivitas krijgt bij de marktprijs een winst van € 0 omdat de gemeente het zelf zal regelen, want € 150.000 < € 180.000. Bij de kleine marge krijgt Civitas € 45.000, want voor de gemeente is € 135.000 < € 150.000. Bij de kostprijs krijgt Civitas € 0, dus is het voor Civitas het voordeligst om een kleine marge te rekenen. De uitkomst is: kleine marge, deal sluiten / € 45.000 ; € 135.000.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij de marktprijs zal de gemeente het zelf regelen, want € 150.000 < € 180.000.\nBij een kleine marge en de kostprijs zal de gemeente de deal accepteren, want € 135.000 < € 150.000 en € 90.000 < € 150.000."
+          },
+          {
+            "points": 1,
+            "description": "Civitas heeft dus de keuze tussen € 0 winst bij de marktprijs, € 45.000 bij een kleine marge en € 0 bij aanbieden tegen kostprijs. De uitkomst is: kleine marge, deal sluiten / € 45.000 ; € 135.000."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-duopolis-antw5.png"
+        ]
+      },
+      {
+        "title": "Schuiven met schuld",
+        "question_number": 6,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Het overheidstekort is (B – O) = 100 – 40 – 80 = -20.\nHet inkomen is C + B + S = 110 + 100 + 110 = 320.\n• Het overheidstekort als percentage van het bbp = (-20 / 320) x 100% = 6,25%. Het overheidssaldo voldoet niet aan de eis (van maximaal 3%).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het overheidstekort is (B – O) = 100 – 40 – 80 = -20.\nHet inkomen is C + B + S = 110 + 100 + 110 = 320."
+          },
+          {
+            "points": 1,
+            "description": "Het overheidstekort als percentage van het bbp = (-20 / 320) x 100% = 6,25%. Het overheidssaldo voldoet niet aan de eis (van maximaal 3%)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-schuiven-met-schuld-antw6.png"
+        ]
+      },
+      {
+        "title": "Schuiven met schuld",
+        "question_number": 7,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door het progressieve belastingstelsel zal een daling van het bbp leiden tot een relatief minder sterke daling van het (totale) besteedbaar inkomen,\n• waardoor consumptie / bestedingen relatief minder daalt/dalen (en daarmee dus de geaggregeerde vraag).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door het progressieve belastingstelsel zal een daling van het bbp leiden tot een relatief minder sterke daling van het (totale) besteedbaar inkomen,"
+          },
+          {
+            "points": 1,
+            "description": "waardoor consumptie / bestedingen relatief minder daalt/dalen (en daarmee dus de geaggregeerde vraag)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-schuiven-met-schuld-antw7.png"
+        ]
+      },
+      {
+        "title": "Schuiven met schuld",
+        "question_number": 8,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Stimulerend begrotingsbeleid leidt tot meer bestedingen en tot meer inkomen. Hierdoor zal de import toenemen, waardoor bestedingen weglekken naar Betaland (importlek).\n• Dit leidt tot een beperktere stijging van de productie en van de vraag naar arbeid. Hierdoor zal de werkloosheid (in Anderland) beperkt afnemen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Stimulerend begrotingsbeleid leidt tot meer bestedingen en tot meer inkomen. Hierdoor zal de import toenemen, waardoor bestedingen weglekken naar Betaland (importlek)."
+          },
+          {
+            "points": 1,
+            "description": "Dit leidt tot een beperktere stijging van de productie en van de vraag naar arbeid. Hierdoor zal de werkloosheid (in Anderland) beperkt afnemen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-schuiven-met-schuld-antw8.png"
+        ]
+      },
+      {
+        "title": "Schuiven met schuld",
+        "question_number": 9,
+        "answer_text": "Een juist antwoord bevat:\n• een berekening van het indexcijfer van het bbp in 2021.\n• een berekening van de indexcijfers van de staatsschuld in 2019 en 2021 en de procentuele toename van de staatsschuld in die periode.\n\nEen voorbeeld van een juiste berekening is:\n• (Het indexcijfer bbp 2019 = 100)\nindexcijfer bbp 2021 = 100 x 0,96 x 0,95 = 91,2.\n• indexcijfer staatsschuld 2019 = bbp x SSQ = 100 x 0,50 = 50\nindexcijfer staatsschuld 2021 = bbp x SSQ = 91,2 x 0,70 = 63,84\nprocentuele toename staatsschuld = (63,84 – 50) / 50 x 100% = 27,68% toename.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een berekening van het indexcijfer van het bbp in 2021."
+          },
+          {
+            "points": 1,
+            "description": "een berekening van de indexcijfers van de staatsschuld in 2019 en 2021 en de procentuele toename van de staatsschuld in die periode."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-schuiven-met-schuld-antw9.png"
+        ]
+      },
+      {
+        "title": "Schuiven met schuld",
+        "question_number": 10,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nDe overheid heeft als doelstelling om de conjuncturele werkloosheid te verminderen. Bij anticyclisch begrotingsbeleid zullen de overheidsuitgaven toenemen, waardoor er een tekort ontstaat. Het verminderen van het overheidstekort zal leiden tot bezuinigingen / belastingverhogingen, waardoor de werkloosheid zal toenemen. De overheid zal dan de staatsschuld laten oplopen en de aflossingen / rentebetalingen doorschuiven naar een toekomstige generatie.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juist antwoord is:\nDe overheid heeft als doelstelling om de conjuncturele werkloosheid te verminderen. Bij anticyclisch begrotingsbeleid zullen de overheidsuitgaven toenemen, waardoor er een tekort ontstaat. Het verminderen van het overheidstekort zal leiden tot bezuinigingen / belastingverhogingen, waardoor de werkloosheid zal toenemen. De overheid zal dan de staatsschuld laten oplopen en de aflossingen / rentebetalingen doorschuiven naar een toekomstige generatie."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-schuiven-met-schuld-antw10.png"
+        ]
+      },
+      {
+        "title": "Beleidsdilemma",
+        "question_number": 11,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nNatuurlijke werkloosheid kan ontstaan omdat er te weinig arbeidsplaatsen in de economie zijn / vanwege te grote macht van vakbonden / een minimumloon / naar het buitenland verplaatste arbeid.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een voorbeeld van een juist antwoord is:\nNatuurlijke werkloosheid kan ontstaan omdat er te weinig arbeidsplaatsen in de economie zijn / vanwege te grote macht van vakbonden / een minimumloon / naar het buitenland verplaatste arbeid."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-beleidsdilemma-antw11.png"
+        ]
+      },
+      {
+        "title": "Beleidsdilemma",
+        "question_number": 12,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de laagconjunctuur ontstaat er een lager inkomen en dus een negatieve output gap. Omdat de (geaggregeerde) vraag lager is dan het (geaggregeerde) aanbod, zal de inflatie dalen.\n• Omdat de inflatie lager is dan de verwachte inflatie, stijgen de reële productiekosten en zullen bedrijven hun productie verlagen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de laagconjunctuur ontstaat er een lager inkomen en dus een negatieve output gap. Omdat de (geaggregeerde) vraag lager is dan het (geaggregeerde) aanbod, zal de inflatie dalen."
+          },
+          {
+            "points": 1,
+            "description": "Omdat de inflatie lager is dan de verwachte inflatie, stijgen de reële productiekosten en zullen bedrijven hun productie verlagen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-beleidsdilemma-antw12.png"
+        ]
+      },
+      {
+        "title": "Beleidsdilemma",
+        "question_number": 13,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als de productie niet reageert op (stimulerend) begrotingsbeleid zal de GA-curve anders verlopen.\n• De GA-curve zal verticaal verlopen, omdat er bij toenemende bestedingen een perfecte prijsaanpassing is (en er dus geen effect is op Y).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als de productie niet reageert op (stimulerend) begrotingsbeleid zal de GA-curve anders verlopen."
+          },
+          {
+            "points": 1,
+            "description": "De GA-curve zal verticaal verlopen, omdat er bij toenemende bestedingen een perfecte prijsaanpassing is (en er dus geen effect is op Y)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-beleidsdilemma-antw13.png"
+        ]
+      },
+      {
+        "title": "Beleidsdilemma",
+        "question_number": 14,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door het voeren van stimulerend begrotingsbeleid zullen de staatsschulden oplopen, waardoor het risico op wanbetaling toeneemt. Beleggers zullen een hogere rente op staatsobligaties eisen.\n• Als landen hierdoor hogere rentelasten krijgen (die ze mogelijk niet kunnen betalen), zullen de overheidsuitgaven moeten verminderen, waardoor stimulerend beleid niet haalbaar is.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door het voeren van stimulerend begrotingsbeleid zullen de staatsschulden oplopen, waardoor het risico op wanbetaling toeneemt. Beleggers zullen een hogere rente op staatsobligaties eisen."
+          },
+          {
+            "points": 1,
+            "description": "Als landen hierdoor hogere rentelasten krijgen (die ze mogelijk niet kunnen betalen), zullen de overheidsuitgaven moeten verminderen, waardoor stimulerend beleid niet haalbaar is."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-beleidsdilemma-antw14.png"
+        ]
+      },
+      {
+        "title": "Beleidsdilemma",
+        "question_number": 15,
+        "answer_text": "(Figuur met IS₀, IS₁, MB₀, MB₁, MB₂ en GA₀, GA₁, GA₂: zie afbeelding)\n• GA₁ en MB₁ zijn correct getekend. (De GA-curve verschuift met het verschil tussen de inflatieverwachting (5%) en de inflatie (4%). De MB-curve verschuift met 1 procentpunt).\n• GA₂ en MB₂ zijn correct getekend. (De GA-curve verschuift met het verschil tussen de inflatieverwachting (4%) en de inflatie (3,4%). De MB-curve verschuift met 1 procentpunt).\n• Het correct aangeven van r = 2% en π≈3,4% bij Y₀.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "GA₁ en MB₁ zijn correct getekend. (De GA-curve verschuift met het verschil tussen de inflatieverwachting (5%) en de inflatie (4%). De MB-curve verschuift met 1 procentpunt)."
+          },
+          {
+            "points": 1,
+            "description": "GA₂ en MB₂ zijn correct getekend. (De GA-curve verschuift met het verschil tussen de inflatieverwachting (4%) en de inflatie (3,4%). De MB-curve verschuift met 1 procentpunt)."
+          },
+          {
+            "points": 1,
+            "description": "Het correct aangeven van r = 2% en π≈3,4% bij Y₀."
+          }
+        ],
+        "grading_note": "Voor het toekennen van het derde scorepunt geldt dat de inflatie boven de 3,1% en onder de 3,7% moet zijn geschat.",
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-beleidsdilemma-antw15.png"
+        ]
+      },
+      {
+        "title": "Stikstofheffing",
+        "question_number": 16,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Producenten kunnen, om de heffing te voorkomen, investeren in schonere technieken, waardoor de stikstofuitstoot daalt.\n− Producenten kunnen een deel van de heffing afwentelen op de consumenten, waardoor de vraag daalt en dus de productie daalt. Hierdoor daalt de stikstofuitstoot.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voorbeelden van een juist antwoord zijn:\n− Producenten kunnen, om de heffing te voorkomen, investeren in schonere technieken, waardoor de stikstofuitstoot daalt.\n− Producenten kunnen een deel van de heffing afwentelen op de consumenten, waardoor de vraag daalt en dus de productie daalt. Hierdoor daalt de stikstofuitstoot."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-stikstofheffing-antw16.png"
+        ]
+      },
+      {
+        "title": "Stikstofheffing",
+        "question_number": 17,
+        "answer_text": "Een juist antwoord in relatie tot de context bevat:\n• een juiste uitleg via de Armington-elasticiteit dat er substitutie plaatsvindt.\n• een juiste uitleg dat de stikstofheffing leidt tot hogere binnenlandse prijzen en dat de productie afneemt, waardoor de heffing effectiever is.\n\nEen voorbeeld van een juist antwoord is:\n• Hoe groter de Armington-elasticiteit, hoe meer binnenlands geproduceerd staal wordt gesubstitueerd door geïmporteerd staal.\n• Een stikstofheffing zorgt dan voor een relatief grote afname van de binnenlandse productie, waardoor ook de (binnenlandse) stikstofuitstoot relatief sterk afneemt (en de heffing effectief is).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een juiste uitleg via de Armington-elasticiteit dat er substitutie plaatsvindt."
+          },
+          {
+            "points": 1,
+            "description": "een juiste uitleg dat de stikstofheffing leidt tot hogere binnenlandse prijzen en dat de productie afneemt, waardoor de heffing effectiever is."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-stikstofheffing-antw17.png"
+        ]
+      },
+      {
+        "title": "Stikstofheffing",
+        "question_number": 18,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• De marginale kosten (MK1 = 100) stijgen met 40% naar 140 (= MK2).\nGO = –60Q + 980\nTO = (GO x Q) = –60Q² + 980Q\nMO = –120Q + 980\n• MO = MK2 → –120Q + 980 = 140 → Q = 7 miljoen ton\nGO = –60 x 7 + 980 = € 560 per ton.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De marginale kosten (MK1 = 100) stijgen met 40% naar 140 (= MK2).\nGO = –60Q + 980\nTO = (GO x Q) = –60Q² + 980Q\nMO = –120Q + 980"
+          },
+          {
+            "points": 1,
+            "description": "MO = MK2 → –120Q + 980 = 140 → Q = 7 miljoen ton\nGO = –60 x 7 + 980 = € 560 per ton."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-stikstofheffing-antw18.png"
+        ]
+      },
+      {
+        "title": "Stikstofheffing",
+        "question_number": 19,
+        "answer_text": "Een juist antwoord bevat:\n• een berekening van de procentuele verandering van de binnenlandse prijs en de procentuele verandering van de geïmporteerde hoeveelheid staal.\n• een berekening van de Armington-elasticiteit.\n\nEen voorbeeld van een juiste berekening is:\n• De (binnenlandse) prijs was 540 en stijgt naar 560. De procentuele verandering van de prijs is (560 – 540) / 540 x 100 = 3,7%.\nGeïmporteerd staal stijgt van 1,667 (9 – 7,333) naar 2 miljoen ton (9 – 7). De procentuele verandering is (2 – 1,667) / 1,667 x 100 = 20%.\n• De Armington-elasticiteit is 20% / 3,7% = 5,4 (afgerond).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een berekening van de procentuele verandering van de binnenlandse prijs en de procentuele verandering van de geïmporteerde hoeveelheid staal."
+          },
+          {
+            "points": 1,
+            "description": "een berekening van de Armington-elasticiteit."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-stikstofheffing-antw19.png"
+        ]
+      },
+      {
+        "title": "Stikstofheffing",
+        "question_number": 20,
+        "answer_text": "Een juist antwoord bevat:\n• drie arceringen van de veranderingen van het producentensurplus.\n• een verklaring van de totale verandering van het producentensurplus.\n\nEen voorbeeld van juiste arcering is:\n(figuur met GO, MO, GTK1, MK₁ en MK₂: zie afbeelding)\n\nindien drie arceringen juist: 2\nindien twee arceringen juist: 1\nindien een of geen arceringen juist: 0\n\nEen voorbeeld van een juiste verklaring is:\nHet producentensurplus daalt (per saldo), omdat de productie daalt en de marginale kosten (als gevolg van de heffing) meer stijgen (+40) dan de verkoopprijs (+20).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "drie arceringen van de veranderingen van het producentensurplus.\nindien drie arceringen juist: 2\nindien twee arceringen juist: 1\nindien een of geen arceringen juist: 0"
+          },
+          {
+            "points": 1,
+            "description": "een verklaring van de totale verandering van het producentensurplus."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-stikstofheffing-antw20.png"
+        ]
+      },
+      {
+        "title": "Stikstofheffing",
+        "question_number": 21,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de stikstofheffing zal (een deel van) de productie verplaatst worden naar de buurlanden (de binnenlandse vraag blijft gelijk) en daar zal de vervuiling per saldo juist toenemen (omdat er minder milieuregels zijn).\n• De toenemende vervuiling komt ten laste van alle landen, omdat de vervuiling niet wordt doorberekend in de prijs van geïmporteerd staal. Hierdoor zullen de mondiale maatschappelijke kosten stijgen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de stikstofheffing zal (een deel van) de productie verplaatst worden naar de buurlanden (de binnenlandse vraag blijft gelijk) en daar zal de vervuiling per saldo juist toenemen (omdat er minder milieuregels zijn)."
+          },
+          {
+            "points": 1,
+            "description": "De toenemende vervuiling komt ten laste van alle landen, omdat de vervuiling niet wordt doorberekend in de prijs van geïmporteerd staal. Hierdoor zullen de mondiale maatschappelijke kosten stijgen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-stikstofheffing-antw21.png"
+        ]
+      },
+      {
+        "title": "Cyberrisicoverzekering",
+        "question_number": 22,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Het risico (verwachte schadekosten) is bij overige ondernemingen het hoogst, omdat deze kosten bij deze bedrijven 5x zo hoog zijn en de kans op een hack maar 2,5x zo klein is vergeleken met de zzp’ers.\n− Het risico bij zzp’ers is 250.000 x 0,05 = € 12.500. Het risico bij overige ondernemingen is 1.250.000 x 0,02 = € 25.000. Het risico is het hoogst bij overige ondernemingen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voorbeelden van een juist antwoord zijn:\n− Het risico (verwachte schadekosten) is bij overige ondernemingen het hoogst, omdat deze kosten bij deze bedrijven 5x zo hoog zijn en de kans op een hack maar 2,5x zo klein is vergeleken met de zzp’ers.\n− Het risico bij zzp’ers is 250.000 x 0,05 = € 12.500. Het risico bij overige ondernemingen is 1.250.000 x 0,02 = € 25.000. Het risico is het hoogst bij overige ondernemingen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-cyberrisicoverzekering-antw22.png"
+        ]
+      },
+      {
+        "title": "Cyberrisicoverzekering",
+        "question_number": 23,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Er is sprake van een principaal-agentprobleem bij overige ondernemingen, omdat de agent (de werknemer) moet handelen in het belang van de principaal (de werkgever). Er is sprake van tegengestelde belangen: bij een hack draagt de werknemer in loondienst niet het risico van de hack / de werknemer loopt geen risico op inkomstenderving (maar de principaal).\n• Er is sprake van asymmetrische informatie, omdat de werkgever niet kan controleren of de werknemers de voorschriften volgen / serieus nemen.\n• Bij zzp’ers is er geen principaal-agentprobleem, omdat zzp’ers zowel principaal als agent zijn (bij nalatig handelen door de zzp’er draagt de zzp’er ook de gevolgen van een lager inkomen).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er is sprake van een principaal-agentprobleem bij overige ondernemingen, omdat de agent (de werknemer) moet handelen in het belang van de principaal (de werkgever). Er is sprake van tegengestelde belangen: bij een hack draagt de werknemer in loondienst niet het risico van de hack / de werknemer loopt geen risico op inkomstenderving (maar de principaal)."
+          },
+          {
+            "points": 1,
+            "description": "Er is sprake van asymmetrische informatie, omdat de werkgever niet kan controleren of de werknemers de voorschriften volgen / serieus nemen."
+          },
+          {
+            "points": 1,
+            "description": "Bij zzp’ers is er geen principaal-agentprobleem, omdat zzp’ers zowel principaal als agent zijn (bij nalatig handelen door de zzp’er draagt de zzp’er ook de gevolgen van een lager inkomen)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-cyberrisicoverzekering-antw23.png"
+        ]
+      },
+      {
+        "title": "Cyberrisicoverzekering",
+        "question_number": 24,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de preventie-eisen zullen slechte risico’s (bedrijven zonder beveiligd systeem) een lagere schade-uitkering krijgen. Hierdoor dalen de kosten van de verzekeraar.\n• Daarmee kan de premie voor de verzekerde dalen, waardoor goede risico’s kunnen besluiten om (toch) te verzekeren. Hierdoor daalt het risico op averechtse selectie.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de preventie-eisen zullen slechte risico’s (bedrijven zonder beveiligd systeem) een lagere schade-uitkering krijgen. Hierdoor dalen de kosten van de verzekeraar."
+          },
+          {
+            "points": 1,
+            "description": "Daarmee kan de premie voor de verzekerde dalen, waardoor goede risico’s kunnen besluiten om (toch) te verzekeren. Hierdoor daalt het risico op averechtse selectie."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-cyberrisicoverzekering-antw24.png"
+        ]
+      },
+      {
+        "title": "Cyberrisicoverzekering",
+        "question_number": 25,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Een eigen risico leidt tot een lagere vraag naar verzekeringen (bij elke premie) omdat de uitbetaling bij schade lager wordt en het dus minder rendeert om de verzekering af te sluiten. Hierdoor verschuift de vraaglijn van verzekeringen naar links.\n• Door het eigen risico zal de premie verlaagd kunnen worden. Een lagere prijs betekent een hoger gevraagd aantal verzekeringen (dit is een verschuiving langs de vraaglijn).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een eigen risico leidt tot een lagere vraag naar verzekeringen (bij elke premie) omdat de uitbetaling bij schade lager wordt en het dus minder rendeert om de verzekering af te sluiten. Hierdoor verschuift de vraaglijn van verzekeringen naar links."
+          },
+          {
+            "points": 1,
+            "description": "Door het eigen risico zal de premie verlaagd kunnen worden. Een lagere prijs betekent een hoger gevraagd aantal verzekeringen (dit is een verschuiving langs de vraaglijn)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-cyberrisicoverzekering-antw25.png"
+        ]
+      },
+      {
+        "title": "Cyberrisicoverzekering",
+        "question_number": 26,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Zzp’ers: de gemiddelde schade per hack (voor de verzekeraar na het invoeren van een eigen risico) is 250.000 – 50.000 = 200.000.\nOverige ondernemingen: de gemiddelde schade per hack is 1.250.000 – 250.000 = 1.000.000.\n• Totale kosten = totale schadekosten + totale administratiekosten + totale constante kosten\nTK = 3.500 x (200.000 x 0,05) + 500 x (1.000.000 x 0,02) + (3.500 x 100 + 500 x 200) + 280.000 + 200.000 = € 45.930.000.\n• Totale omzet = premie x afzet\nTO = 10.500 x 3.500 + 20.500 x 500 = € 47.000.000\nTW = TO – TK = € 47.000.000 – € 45.930.000 = € 1.070.000.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Zzp’ers: de gemiddelde schade per hack (voor de verzekeraar na het invoeren van een eigen risico) is 250.000 – 50.000 = 200.000.\nOverige ondernemingen: de gemiddelde schade per hack is 1.250.000 – 250.000 = 1.000.000."
+          },
+          {
+            "points": 1,
+            "description": "Totale kosten = totale schadekosten + totale administratiekosten + totale constante kosten\nTK = 3.500 x (200.000 x 0,05) + 500 x (1.000.000 x 0,02) + (3.500 x 100 + 500 x 200) + 280.000 + 200.000 = € 45.930.000."
+          },
+          {
+            "points": 1,
+            "description": "Totale omzet = premie x afzet\nTO = 10.500 x 3.500 + 20.500 x 500 = € 47.000.000\nTW = TO – TK = € 47.000.000 – € 45.930.000 = € 1.070.000."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-cyberrisicoverzekering-antw26.png"
+        ]
+      },
+      {
+        "title": "Trilemma",
+        "question_number": 27,
+        "answer_text": "Een juist antwoord bevat:\n• een uitleg dat een renteaanpassing leidt tot een appreciatie/depreciatie van de wisselkoers.\n• een uitleg dat daardoor de vraag naar / het aanbod van de munt moet worden gecontroleerd.\n\nEen voorbeeld van een juist antwoord is:\n• Als de centrale bank de rente verhoogt bij een vaste wisselkoers, ontstaat er een kapitaalstroom vanuit het buitenland naar dit land omdat de rente er hoger is. Dat betekent dat de koers zal appreciëren.\n• Om dat te voorkomen moet de centrale bank de kapitaalstroom tegenhouden en daardoor wordt het kapitaalverkeer beperkt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een uitleg dat een renteaanpassing leidt tot een appreciatie/depreciatie van de wisselkoers."
+          },
+          {
+            "points": 1,
+            "description": "een uitleg dat daardoor de vraag naar / het aanbod van de munt moet worden gecontroleerd."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-trilemma-antw27.png"
+        ]
+      },
+      {
+        "title": "Trilemma",
+        "question_number": 28,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Westland zit in een laagconjunctuur en heeft behoefte aan een lage rente. De (te) hoge rente voor Westland zorgt ervoor dat bestedingen verder dalen en dat de werkloosheid relatief hoog blijft.\n• In Oostland zorgt de (te) lage rente voor meer bestedingen. De (bestedings)inflatie in de hoogconjunctuur wordt dan niet bestreden en daardoor blijft de inflatie op een relatief hoog peil / blijft de arbeidsmarkt krap.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Westland zit in een laagconjunctuur en heeft behoefte aan een lage rente. De (te) hoge rente voor Westland zorgt ervoor dat bestedingen verder dalen en dat de werkloosheid relatief hoog blijft."
+          },
+          {
+            "points": 1,
+            "description": "In Oostland zorgt de (te) lage rente voor meer bestedingen. De (bestedings)inflatie in de hoogconjunctuur wordt dan niet bestreden en daardoor blijft de inflatie op een relatief hoog peil / blijft de arbeidsmarkt krap."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-trilemma-antw28.png"
+        ]
+      },
+      {
+        "title": "Trilemma",
+        "question_number": 29,
+        "answer_text": "Een voorbeeld van een juist antwoord voor de eerste voorwaarde is:\nAls arbeidsmobiliteit onbeperkt mogelijk is, kunnen werklozen uit Westland makkelijker gaan werken in Oostland. Hierdoor zal de ruime arbeidsmarkt in het ene land krapper worden en de krappe arbeidsmarkt in het andere land ruimer (waardoor de markten evenwichtiger worden).\n\nEen voorbeeld van een juist antwoord voor de tweede voorwaarde is:\nIn een laagconjunctuur zal een relatief lage loonrigiditeit / hoge flexibiliteit ervoor zorgen dat lonen zich sneller (naar beneden) aanpassen. In een hoogconjunctuur passen de lonen zich sneller aan naar boven, waardoor de arbeidsmarkt in beide landen sneller in evenwicht komt.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juist antwoord voor de eerste voorwaarde is:\nAls arbeidsmobiliteit onbeperkt mogelijk is, kunnen werklozen uit Westland makkelijker gaan werken in Oostland. Hierdoor zal de ruime arbeidsmarkt in het ene land krapper worden en de krappe arbeidsmarkt in het andere land ruimer (waardoor de markten evenwichtiger worden).\n\nEen voorbeeld van een juist antwoord voor de tweede voorwaarde is:\nIn een laagconjunctuur zal een relatief lage loonrigiditeit / hoge flexibiliteit ervoor zorgen dat lonen zich sneller (naar beneden) aanpassen. In een hoogconjunctuur passen de lonen zich sneller aan naar boven, waardoor de arbeidsmarkt in beide landen sneller in evenwicht komt."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2024-ii-trilemma-antw29.png"
+        ]
+      }
+    ]
+  }
+}

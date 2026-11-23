@@ -1,0 +1,548 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "VWO",
+    "source": "VWO Economie 2025-I",
+    "answers": [
+      {
+        "title": "Zorgverzekering",
+        "question_number": 1,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Nee, er is geen sprake van een collectief goed want een zorgbehandeling is rivaliserend: als iemand een zorgbehandeling krijgt, kan iemand anders deze niet krijgen.\n− Nee, er is geen sprake van een collectief goed want zorgaanbieders kunnen mensen uitsluiten als de zorgvragers niet (kunnen) betalen voor de zorgbehandeling.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voorbeelden van een juist antwoord zijn:\n− Nee, er is geen sprake van een collectief goed want een zorgbehandeling is rivaliserend: als iemand een zorgbehandeling krijgt, kan iemand anders deze niet krijgen.\n− Nee, er is geen sprake van een collectief goed want zorgaanbieders kunnen mensen uitsluiten als de zorgvragers niet (kunnen) betalen voor de zorgbehandeling."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-zorgverzekering-antw1.png"
+        ]
+      },
+      {
+        "title": "Zorgverzekering",
+        "question_number": 2,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Er is geen sprake van averechtse selectie omdat binnen de markt van zorgverzekeringen sprake is van een verplichte verzekering.\n• Hierdoor moeten de goede risico’s zich ook verzekeren / hierdoor worden de goede risico’s niet uit de markt gedreven.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er is geen sprake van averechtse selectie omdat binnen de markt van zorgverzekeringen sprake is van een verplichte verzekering."
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor moeten de goede risico’s zich ook verzekeren / hierdoor worden de goede risico’s niet uit de markt gedreven."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-zorgverzekering-antw2.png"
+        ]
+      },
+      {
+        "title": "Zorgverzekering",
+        "question_number": 3,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Bij een wettelijk eigen risico zijn de maximale zorgkosten per jaar:\n12 x 108,25 + 385 = € 1.684.\n• Bij een verhoogd eigen risico geldt een jaarlijkse premie van:\n12 x 86,25 = € 1.035.\nDe totale zorgkosten zijn gelijk als de zorgkosten 1.684 – 1.035 = € 649 per jaar bedragen. Dus tot € 649 aan zorgkosten is een verhoogd eigen risico voordelig.\nof\n• De hogere maandelijkse zorgkosten zijn (108,25 – 86,25) = € 22. Dit is 22 x 12 = € 264 per jaar.\n• De totale zorgkosten zijn gelijk als de zorgkosten 264 + 385 = € 649 per jaar bedragen. Dus tot € 649 aan zorgkosten is een verhoogd eigen risico voordelig.\nof\n• Het verschil in maximale zorgkosten bij een verhoogd eigen risico is ((86,25 x 12) + 885) – ((108,25 x 12) + 385) = € 236.\n• De totale zorgkosten zijn gelijk als de zorgkosten 885 – 236 = € 649 per jaar bedragen. Dus tot € 649 aan zorgkosten is een verhoogd eigen risico voordelig.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij een wettelijk eigen risico zijn de maximale zorgkosten per jaar:\n12 x 108,25 + 385 = € 1.684."
+          },
+          {
+            "points": 1,
+            "description": "Bij een verhoogd eigen risico geldt een jaarlijkse premie van:\n12 x 86,25 = € 1.035.\nDe totale zorgkosten zijn gelijk als de zorgkosten 1.684 – 1.035 = € 649 per jaar bedragen. Dus tot € 649 aan zorgkosten is een verhoogd eigen risico voordelig."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-zorgverzekering-antw3.png"
+        ]
+      },
+      {
+        "title": "Zorgverzekering",
+        "question_number": 4,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als er geen eigen risico is voor huisartsenbezoek, gaan mensen eerder naar de huisarts.\n• Dat kan uiteindelijk leiden tot lagere totale zorgkosten, omdat zieken eerder worden behandeld / duurdere specialistische zorg wordt vermeden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als er geen eigen risico is voor huisartsenbezoek, gaan mensen eerder naar de huisarts."
+          },
+          {
+            "points": 1,
+            "description": "Dat kan uiteindelijk leiden tot lagere totale zorgkosten, omdat zieken eerder worden behandeld / duurdere specialistische zorg wordt vermeden."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-zorgverzekering-antw4.png"
+        ]
+      },
+      {
+        "title": "Zorgverzekering",
+        "question_number": 5,
+        "answer_text": "Een juist antwoord bevat:\n• Een uitleg van het verband tussen de vergelijkingssites en de hoogte van de premies.\n• Een uitleg van het verband tussen de premies en het totale surplus / consumentensurplus.\n\nEen voorbeeld van een juist antwoord is:\n• Door de vergelijkingssites neemt de informatie toe. Dit leidt tot meer concurrentie waardoor zorgverzekeraars zorg scherper zullen inkopen. Als ze deze lagere kosten doorberekenen leidt dit tot lagere premies.\n• Dit houdt in dat (bij een vaste betalingsbereidheid) het totale surplus stijgt (en daarmee de doelmatigheid in de markt toeneemt).\nof\n• Door de vergelijkingssites hebben consumenten toegang tot betere / meer informatie. Dit leidt tot meer concurrentie en dus lagere premies.\n• Dit zorgt voor een hoger consumentensurplus, aangezien consumenten producten en diensten krijgen die beter aansluiten bij hun behoeften, en dat tegen lagere prijzen (en dus neemt de doelmatigheid toe).\nof\n• Door de vergelijkingssites hebben consumenten toegang tot betere / meer informatie. Hierdoor dalen hun zoekkosten waardoor de betalingsbereidheid van consumenten kan toenemen.\n• Dit zorgt voor een hoger consumentensurplus, aangezien consumenten producten en diensten krijgen die beter aansluiten bij hun behoeften (en dus neemt de doelmatigheid toe).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een uitleg van het verband tussen de vergelijkingssites en de hoogte van de premies."
+          },
+          {
+            "points": 1,
+            "description": "Een uitleg van het verband tussen de premies en het totale surplus / consumentensurplus."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-zorgverzekering-antw5.png"
+        ]
+      },
+      {
+        "title": "Zorgverzekering",
+        "question_number": 6,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Er is sprake van tegengestelde belangen: de consument / verzekeringsnemer (principaal) wil de goedkoopste / beste verzekering, de vergelijkingssite (agent) kan verzekeringen adviseren waar de vergelijkingssite zelf belang bij heeft / waar ze zelf de hoogste bijdrage voor ontvangt.\n• Er is sprake van asymmetrische informatie: de verzekeringsnemer / consument weet niet of de vergelijkingssite in het belang van de verzekeringsnemer adviseert.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er is sprake van tegengestelde belangen: de consument / verzekeringsnemer (principaal) wil de goedkoopste / beste verzekering, de vergelijkingssite (agent) kan verzekeringen adviseren waar de vergelijkingssite zelf belang bij heeft / waar ze zelf de hoogste bijdrage voor ontvangt."
+          },
+          {
+            "points": 1,
+            "description": "Er is sprake van asymmetrische informatie: de verzekeringsnemer / consument weet niet of de vergelijkingssite in het belang van de verzekeringsnemer adviseert."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-zorgverzekering-antw6.png"
+        ]
+      },
+      {
+        "title": "Concurreren met zekerheid",
+        "question_number": 7,
+        "answer_text": "⚠️ CONTROLEREN: in het correctievoorschrift is de nummering bij opgave 2 verschoven (vraag 7 staat als '6', vraag 10 is verdeeld over '9' en '10'); dit antwoord is op inhoud aan deze vraag gekoppeld.\n\nVoorbeelden van een juist antwoord zijn:\n− Bij het staatspensioen worden de pensioenuitkeringen van de huidige gepensioneerden gefinancierd door de premies die de huidige werkenden betalen. Er is dus sprake van intergenerationele ruil.\n− Bij het aanvullend pensioen is er sprake van private besparingen. De pensioenuitkering is direct gekoppeld aan de zelf ingelegde premies. Bij het aanvullend pensioen is dus geen sprake van intergenerationele ruil (en bij het staatspensioen wel).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Voorbeelden van een juist antwoord zijn:\n− Bij het staatspensioen worden de pensioenuitkeringen van de huidige gepensioneerden gefinancierd door de premies die de huidige werkenden betalen. Er is dus sprake van intergenerationele ruil.\n− Bij het aanvullend pensioen is er sprake van private besparingen. De pensioenuitkering is direct gekoppeld aan de zelf ingelegde premies. Bij het aanvullend pensioen is dus geen sprake van intergenerationele ruil (en bij het staatspensioen wel)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-concurreren-met-zekerheid-antw7.png"
+        ]
+      },
+      {
+        "title": "Concurreren met zekerheid",
+        "question_number": 8,
+        "answer_text": "⚠️ CONTROLEREN: in het correctievoorschrift is de nummering bij opgave 2 verschoven (vraag 7 staat als '6', vraag 10 is verdeeld over '9' en '10'); dit antwoord is op inhoud aan deze vraag gekoppeld.\n\n• Een uitleg van het effect van inflatie op het staatspensioen.\n• Een uitleg van het effect van stijgende staatspensioenen op het aanvullend pensioen en de pensioenpremie.\n\nEen voorbeeld van een juist antwoord is:\n• Het staatspensioen is waardevast. Een hogere inflatie betekent dat het staatspensioen wordt verhoogd.\n• Het pensioenfonds hoeft minder aanvullend pensioen uit te keren om het totale pensioen aan te vullen tot 70% van het laatstverdiende brutoloon. De pensioenfondsen kunnen daarom de pensioenpremies verlagen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een uitleg van het effect van inflatie op het staatspensioen."
+          },
+          {
+            "points": 1,
+            "description": "Een uitleg van het effect van stijgende staatspensioenen op het aanvullend pensioen en de pensioenpremie."
+          }
+        ],
+        "grading_note": "Als een kandidaat redeneert via het effect van inflatie op de rente en de premie kunnen maximale scorepunten worden behaald.",
+        "answer_image_urls": [
+          "economie-vwo-2025-i-concurreren-met-zekerheid-antw8.png"
+        ]
+      },
+      {
+        "title": "Concurreren met zekerheid",
+        "question_number": 9,
+        "answer_text": "⚠️ CONTROLEREN: in het correctievoorschrift is de nummering bij opgave 2 verschoven (vraag 7 staat als '6', vraag 10 is verdeeld over '9' en '10'); dit antwoord is op inhoud aan deze vraag gekoppeld.\n\nEen juist antwoord bevat in relatie tot de context:\n• Een uitleg van het effect van inflatie op de rentestand.\n• Een uitleg van het effect van de rente via huidige waarde van de toekomstige pensioenuitkeringen (de noemer).\n\nEen voorbeeld van een juist antwoord is:\n• Bij een hogere inflatie (dan gewenst) zal de centrale bank (vanwege de monetaire beleidsregel) ervoor kiezen om de rente te verhogen.\n• Een hogere rente zorgt voor een lagere huidige waarde van de toekomstige pensioenuitkeringen waardoor de dekkingsgraad zal stijgen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een uitleg van het effect van inflatie op de rentestand."
+          },
+          {
+            "points": 1,
+            "description": "Een uitleg van het effect van de rente via huidige waarde van de toekomstige pensioenuitkeringen (de noemer)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-concurreren-met-zekerheid-antw9.png"
+        ]
+      },
+      {
+        "title": "Concurreren met zekerheid",
+        "question_number": 10,
+        "answer_text": "⚠️ CONTROLEREN: in het correctievoorschrift is de nummering bij opgave 2 verschoven (vraag 7 staat als '6', vraag 10 is verdeeld over '9' en '10'); dit antwoord is op inhoud aan deze vraag gekoppeld.\n\nEen juist antwoord bevat in relatie tot de context:\n• Een uitleg van het effect van marktwerking op de bedrijfskosten.\n• Een uitleg van het effect van bedrijfskosten op de premies.\n\nEen voorbeeld van een juist antwoord is:\n• Doordat werknemers kunnen overstappen naar een andere pensioenaanbieder ontstaat marktwerking. Dit zorgt ervoor dat pensioenfondsen zo efficiënt mogelijk willen werken zodat de bedrijfskosten dalen.\n• Als ze dit doorberekenen zal ook de premie dalen.\nof\n• Marktwerking kan pensioenfondsen stimuleren om innovatieve beleggingsstrategieën en -producten te ontwikkelen die betere rendementen kunnen opleveren of lagere risico's hebben. Deze betere producten / strategieën kunnen de kosten van het pensioenfonds verlagen.\n• Als ze dit doorberekenen zal ook de premie dalen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een uitleg van het effect van marktwerking op de bedrijfskosten."
+          },
+          {
+            "points": 1,
+            "description": "Een uitleg van het effect van bedrijfskosten op de premies."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-concurreren-met-zekerheid-antw10.png"
+        ]
+      },
+      {
+        "title": "Concurreren met zekerheid",
+        "question_number": 11,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• Een berekening van het huidige vermogen.\n• Een berekening van de dekkingsgraad.\n• Een correcte gevolgtrekking uit de berekening van de dekkingsgraad over de betaalbaarheid van de toekomstige pensioenen.\n\nEen voorbeeld van een juist antwoord is:\n• De huidige contante waarde van de toekomstige uitkeringen (bij een rente van 1%) =\n450 miljard / (1,01²⁵) ≈ 350,896 miljard.\nHuidig vermogen is 350,896 miljard x 0,92 = 322,82 miljard.\n• De contante waarde van de toekomstige verplichtingen bij een rente van 2% = 450 miljard / (1,02²⁵) = 274,29 miljard.\nDe dekkingsgraad bij 2% = (322,82 / 274,29) x 100% = 117,7%.\n• De dekkingsgraad is gestegen (117,7% > 92%) waardoor de pensioenfondsen beter kunnen voldoen aan de toekomstige verplichtingen / waardoor toekomstige pensioenen beter betaalbaar worden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een berekening van het huidige vermogen."
+          },
+          {
+            "points": 1,
+            "description": "Een berekening van de dekkingsgraad."
+          },
+          {
+            "points": 1,
+            "description": "Een correcte gevolgtrekking uit de berekening van de dekkingsgraad over de betaalbaarheid van de toekomstige pensioenen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-concurreren-met-zekerheid-antw11.png"
+        ]
+      },
+      {
+        "title": "IJssalon",
+        "question_number": 12,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n− Qv = (–50 x 3) + 210 = 60 (x 1.000)\n− TK = 0,005 x 60² + 1,2 x 60 + 30 = 120 (x 1.000)\nGTK = 120.000 / 60.000 = 2\n− GW = GO – GTK = 3 – 2 = € 1\n\nindien drie elementen juist: 2\nindien twee elementen juist: 1\nindien een of geen elementen juist: 0\n\nof via aflezen:\n• Bij een prijs van € 3 bij de GTK-functie geldt dat GTK = 2.\n• GW = GO – GTK = 3 – 2 = € 1",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien drie elementen juist: 2\nindien twee elementen juist: 1\nindien een of geen elementen juist: 0\n\nof via aflezen:\n• Bij een prijs van € 3 bij de GTK-functie geldt dat GTK = 2. (1)\n• GW = GO – GTK = 3 – 2 = € 1 (1)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-ijssalon-antw12.png"
+        ]
+      },
+      {
+        "title": "IJssalon",
+        "question_number": 13,
+        "answer_text": "(Figuur met GO, GVK en GTK waarin de totale constante kosten gearceerd zijn: zie afbeelding)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het juist arceren van de totale constante kosten (zie afbeelding)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-ijssalon-antw13.png"
+        ]
+      },
+      {
+        "title": "IJssalon",
+        "question_number": 14,
+        "answer_text": "Een juist antwoord bevat:\n• Een berekening van de nieuwe MK-functie.\n• Een berekening van de MO-functie.\n• Een berekening van de nieuwe afzet en verkoopprijs.\n• Een berekening van de gestegen verkoopprijs als percentage van de gestegen variabele kosten.\n\nEen voorbeeld van een juiste berekening is:\n• De variabele kosten stijgen met 0,25Q.\nTKnieuw = 0,005Q² + 1,2Q + 0,25Q + 30 → MK = 0,01Q + 1,45\n• Qv = –50P + 210 → P = –0,02Q + 4,2 → TO = –0,02Q² + 4,2Q → MO = –0,04Q + 4,2\n• MO = MK → –0,04Q + 4,2 = 0,01Q + 1,45 → Q = 55\nPnieuw = –0,02 x 55 + 4,2 = € 3,10\n• De gestegen variabele kosten worden doorberekend met: ((3,1 – 3) / 0,25) x 100% = 40%.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een berekening van de nieuwe MK-functie."
+          },
+          {
+            "points": 1,
+            "description": "Een berekening van de MO-functie."
+          },
+          {
+            "points": 1,
+            "description": "Een berekening van de nieuwe afzet en verkoopprijs."
+          },
+          {
+            "points": 1,
+            "description": "Een berekening van de gestegen verkoopprijs als percentage van de gestegen variabele kosten."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-ijssalon-antw14.png"
+        ]
+      },
+      {
+        "title": "IJssalon",
+        "question_number": 15,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• Een uitleg dat beide ijssalons een dominante strategie hebben om de prijs te verlagen.\n• Een uitleg dat voor beide de omzet / winst zal dalen en er hierdoor een gevangenendilemma ontstaat.\n\nEen voorbeeld van een juist antwoord is:\n• De consument let alleen op de prijs (omdat ijsjes als perfect substituut worden gezien). Beide zaken zullen de prijs net iets lager willen vaststellen dan de concurrent (om alle vraag aan te trekken). De dominante strategie voor beide ijssalons is dan het (steeds verder) verlagen van de prijs.\n• Dit leidt tot een suboptimale uitkomst / gevangenendilemma, omdat ze beide een lagere omzet / winst hebben dan in de uitgangssituatie.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een uitleg dat beide ijssalons een dominante strategie hebben om de prijs te verlagen."
+          },
+          {
+            "points": 1,
+            "description": "Een uitleg dat voor beide de omzet / winst zal dalen en er hierdoor een gevangenendilemma ontstaat."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-ijssalon-antw15.png"
+        ]
+      },
+      {
+        "title": "IJssalon",
+        "question_number": 16,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• Een uitleg dat Guarda (als tweede speler) de (prijs)strategie van Orso Bianco zal volgen.\n• Een uitleg dat het verlagen van de prijs door Orso Bianco leidt tot een omzetdaling van Orso Bianco en dat een prijzenoorlog wordt beperkt.\n\nEen voorbeeld van een juist antwoord is:\n• De laagsteprijsgarantie bindt Guarda aan het volgen van de strategie van Orso Bianco. Als Orso Bianco de prijs verlaagt, zal Guarda dit als gevolg van de advertenties ook moeten doen.\n• Hierdoor weet Orso Bianco (op voorhand) dat hun omzet / winst bij een prijsdaling zal dalen ten opzichte van de omzet / winst bij een gelijkblijvende prijs. Orso Bianco heeft een prikkel om prijzen niet te verlagen (waardoor het risico op een prijzenoorlog wordt beperkt).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een uitleg dat Guarda (als tweede speler) de (prijs)strategie van Orso Bianco zal volgen."
+          },
+          {
+            "points": 1,
+            "description": "Een uitleg dat het verlagen van de prijs door Orso Bianco leidt tot een omzetdaling van Orso Bianco en dat een prijzenoorlog wordt beperkt."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-ijssalon-antw16.png"
+        ]
+      },
+      {
+        "title": "Eilanden verbonden",
+        "question_number": 17,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Het totale arbeidsinkomen = 120 x 1.000 x 26.000 = 3,12 miljard (XCG)\n• AIQ = (3,12 mld / 5,45 mld) = 0,572 (of 57,2%).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het totale arbeidsinkomen = 120 x 1.000 x 26.000 = 3,12 miljard (XCG)"
+          },
+          {
+            "points": 1,
+            "description": "AIQ = (3,12 mld / 5,45 mld) = 0,572 (of 57,2%)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-eilanden-verbonden-antw17.png"
+        ]
+      },
+      {
+        "title": "Eilanden verbonden",
+        "question_number": 18,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• (S – I) + (B – O) = (E – M) →\n(664 – 1.200) + (B – O) = (250 – 860)\n• B – O = –74\nDus er is sprake van een tekort (van 74 miljoen XCG).\nof\n• Y = C + I + O + E – M → 5.450 = 3.960 + 1.200 + O + 250 – 860\nO = 900\nY ≡ C + B + S → 5.450 = 3.960 + B + 664\nB = 826\n• B – O = –74\nDus er is sprake van een tekort (van 74 miljoen XCG).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(S – I) + (B – O) = (E – M) →\n(664 – 1.200) + (B – O) = (250 – 860)"
+          },
+          {
+            "points": 1,
+            "description": "B – O = –74\nDus er is sprake van een tekort (van 74 miljoen XCG)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-eilanden-verbonden-antw18.png"
+        ]
+      },
+      {
+        "title": "Eilanden verbonden",
+        "question_number": 19,
+        "answer_text": "Een juist antwoord bevat:\n− Het correct tekenen van de vraaglijn naar rechts op de arbeidsmarkt en de conclusie dat het loonniveau stijgt.\n− Het correct tekenen van de vraaglijn naar rechts op de Curaçaose goederen- en dienstenmarkt en de conclusie dat de inflatie op Curaçao stijgt.\n− Het correct tekenen van de vraaglijn naar rechts op de Arubaanse goederen- en dienstenmarkt en de conclusie dat de inflatie op Aruba stijgt.\n\nindien drie elementen juist: 2\nindien twee elementen juist: 1\nindien een of geen elementen juist: 0\n\nEen voorbeeld van een juiste tekening is:\n(schema met arbeidsmarkt Curaçao, vermogensmarkt Curaçao, goederen- en dienstenmarkt Curaçao en goederen- en dienstmarkt Aruba: zie afbeelding)\n\nEen voorbeeld van een juiste conclusie op basis van de tekening:\nloonniveau Curaçao: stijgt\ninflatie Curaçao: stijgt\ninflatie Aruba: stijgt",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Het correct tekenen van de vraaglijn naar rechts op de arbeidsmarkt (loonniveau stijgt), op de Curaçaose goederen- en dienstenmarkt (inflatie Curaçao stijgt) en op de Arubaanse goederen- en dienstenmarkt (inflatie Aruba stijgt).\nindien drie elementen juist: 2\nindien twee elementen juist: 1\nindien een of geen elementen juist: 0"
+          }
+        ],
+        "grading_note": "Voor het tweede en derde antwoordelement: als de geaggregeerde aanbodlijnen op Curaçao en Aruba correct zijn verschoven in plaats van / in combinatie met de geaggregeerde vraaglijnen, kunnen de maximale scorepunten worden behaald.",
+        "answer_image_urls": [
+          "economie-vwo-2025-i-eilanden-verbonden-antw19.png"
+        ]
+      },
+      {
+        "title": "Eilanden verbonden",
+        "question_number": 20,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• Een uitleg over het verband tussen rente en de wisselkoers.\n• Een uitleg over het verband tussen de wisselkoers en de conjuncturele situatie op Aruba.\n\nEen voorbeeld van een juist antwoord is:\n• Bij een renteverlaging daalt de vraag (van buitenlandse beleggers) naar de Caribische gulden en daarmee de wisselkoers van de XCG (in andere munten).\n• Dit leidt tot meer import / minder export door Aruba en minder productie door Aruba. Hiermee verslechtert de conjuncturele situatie op Aruba.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een uitleg over het verband tussen rente en de wisselkoers."
+          },
+          {
+            "points": 1,
+            "description": "Een uitleg over het verband tussen de wisselkoers en de conjuncturele situatie op Aruba."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-eilanden-verbonden-antw20.png"
+        ]
+      },
+      {
+        "title": "Groen ontgroeien",
+        "question_number": 21,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• Een uitleg over de ligging van de effectieve vraagcurve.\n• Een uitleg over de helling van de effectieve vraagcurve.\n\nEen voorbeeld van een juist antwoord is:\n• Een antwoord voor de ligging: de autonome consumptie daalt / bij ieder inkomen besluiten consumenten minder te consumeren, waardoor de effectieve vraagcurve naar beneden verschuift.\n• Een antwoord voor de helling: de marginale consumptiequote daalt / van elk extra inkomen wordt er minder geconsumeerd, waardoor de effectieve vraagcurve vlakker verloopt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een uitleg over de ligging van de effectieve vraagcurve."
+          },
+          {
+            "points": 1,
+            "description": "Een uitleg over de helling van de effectieve vraagcurve."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-groen-ontgroeien-antw21.png"
+        ]
+      },
+      {
+        "title": "Groen ontgroeien",
+        "question_number": 22,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Hogere overheidsbestedingen leiden tot een hoger bbp. Als het saldo van de monetaire waarde (verbetering - schade) van het milieu positief of 0 is, stijgt het groen bbp.\nof\nHogere overheidsbestedingen leiden tot een hoger bbp. Als het saldo van de monetaire waarde (verbetering - schade) van het milieu negatief is, en kleiner dan de bbp stijging dan stijgt het groen bbp.\n• Hogere overheidsbestedingen leiden tot een hoger bbp. Als het saldo van de monetaire waarde (verbetering - schade) van het milieu negatief is en groter dan de bbp stijging, dan daalt het groen bbp.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Hogere overheidsbestedingen leiden tot een hoger bbp. Als het saldo van de monetaire waarde (verbetering - schade) van het milieu positief of 0 is, stijgt het groen bbp.\nof\nHogere overheidsbestedingen leiden tot een hoger bbp. Als het saldo van de monetaire waarde (verbetering - schade) van het milieu negatief is, en kleiner dan de bbp stijging dan stijgt het groen bbp."
+          },
+          {
+            "points": 1,
+            "description": "Hogere overheidsbestedingen leiden tot een hoger bbp. Als het saldo van de monetaire waarde (verbetering - schade) van het milieu negatief is en groter dan de bbp stijging, dan daalt het groen bbp."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-groen-ontgroeien-antw22.png"
+        ]
+      },
+      {
+        "title": "Groen ontgroeien",
+        "question_number": 23,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als de centrale bank de rente verlaagt, zullen mensen minder sterk reageren op deze prikkel om minder te sparen / om meer te consumeren (door de steilere IS-curve).\n• Hierdoor zal de output gap minder afnemen en de inflatie langzamer op het gewenste / stabiele niveau (van de centrale bank) komen. Monetair beleid wordt dus minder effectief.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als de centrale bank de rente verlaagt, zullen mensen minder sterk reageren op deze prikkel om minder te sparen / om meer te consumeren (door de steilere IS-curve)."
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor zal de output gap minder afnemen en de inflatie langzamer op het gewenste / stabiele niveau (van de centrale bank) komen. Monetair beleid wordt dus minder effectief."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-groen-ontgroeien-antw23.png"
+        ]
+      },
+      {
+        "title": "Groen ontgroeien",
+        "question_number": 24,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• Een uitleg over de relatie tussen de rente, de bestedingen en het inkomen.\n• Het noemen van de nieuwe reële evenwichtsrente.\n\nEen voorbeeld van een juist antwoord is:\n• De centrale bank zal de rente verlagen / ruimer monetair beleid voeren waardoor de consumptie / investeringen stijgt / stijgen en daardoor het inkomen / de productie stijgt.\n• Bij een reële rente van 1% ontstaat een evenwicht (bij Y = Y* = 800).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een uitleg over de relatie tussen de rente, de bestedingen en het inkomen."
+          },
+          {
+            "points": 1,
+            "description": "Het noemen van de nieuwe reële evenwichtsrente."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-groen-ontgroeien-antw24.png"
+        ]
+      },
+      {
+        "title": "Groen ontgroeien",
+        "question_number": 25,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• Een uitleg over de relatie tussen het aantal gewerkte uren en de productiecapaciteit.\n• Een uitleg hoe de output gap zal verdwijnen.\n\nEen voorbeeld van een juist antwoord is:\n• Als mensen minder uren werken, dan zal het potentiële inkomen / de productiecapaciteit dalen (naar Y* = 600).\n• Hierdoor zal het verschil tussen het werkelijke / gewenste inkomen en het potentiële inkomen verdwijnen (en dus ook de output gap verdwijnt).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een uitleg over de relatie tussen het aantal gewerkte uren en de productiecapaciteit."
+          },
+          {
+            "points": 1,
+            "description": "Een uitleg hoe de output gap zal verdwijnen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-groen-ontgroeien-antw25.png"
+        ]
+      },
+      {
+        "title": "Groenten",
+        "question_number": 26,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nBij biologische teelt wordt extra land aangeschaft, dat eventueel (als de biologische teelt niet doorgaat) alternatief kan worden aangewend (voor andere teelt / verhuur / verkoop / woningbouw). Er is dus geen sprake van verzonken kosten.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een voorbeeld van een juist antwoord is:\nBij biologische teelt wordt extra land aangeschaft, dat eventueel (als de biologische teelt niet doorgaat) alternatief kan worden aangewend (voor andere teelt / verhuur / verkoop / woningbouw). Er is dus geen sprake van verzonken kosten."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-groenten-antw26.png"
+        ]
+      },
+      {
+        "title": "Groenten",
+        "question_number": 27,
+        "answer_text": "Een juiste berekening bevat:\n• Een berekening van de nieuwe vaste (constante) kosten.\n• Een berekening van de procentuele stijging van de constante kosten.\n\nEen voorbeeld van een juiste berekening is:\n• In de nieuwe situatie zijn bij de afzet van 46.050 kg de TCK:\nTCK = TO – TVK – TW = 46.050 kg x (3 – 1) – 75.000 = € 17.100.\n• Dit is een stijging van:\n(17.100 – 14.250) / 14.250 x 100 = 20%.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een berekening van de nieuwe vaste (constante) kosten."
+          },
+          {
+            "points": 1,
+            "description": "Een berekening van de procentuele stijging van de constante kosten."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-groenten-antw27.png"
+        ]
+      },
+      {
+        "title": "Groenten",
+        "question_number": 28,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• traditioneel ; traditioneel / (€ 80.000 ; € 80.000).\n• biologisch ; biologisch / (€ 92.900 ; € 92.900).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "traditioneel ; traditioneel / (€ 80.000 ; € 80.000)."
+          },
+          {
+            "points": 1,
+            "description": "biologisch ; biologisch / (€ 92.900 ; € 92.900)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-groenten-antw28.png"
+        ]
+      },
+      {
+        "title": "Groenten",
+        "question_number": 29,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als de boeren voor afzetmaximalisatie kiezen, hebben zij beiden een dominante strategie van traditionele teelt, want 65.000 > 46.050 en 70.000 > 55.000.\n• Daardoor zullen de negatieve gevolgen van groenteteelt op het milieu niet afnemen, waardoor de negatieve externe effecten niet dalen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als de boeren voor afzetmaximalisatie kiezen, hebben zij beiden een dominante strategie van traditionele teelt, want 65.000 > 46.050 en 70.000 > 55.000."
+          },
+          {
+            "points": 1,
+            "description": "Daardoor zullen de negatieve gevolgen van groenteteelt op het milieu niet afnemen, waardoor de negatieve externe effecten niet dalen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2025-i-groenten-antw29.png"
+        ]
+      }
+    ]
+  }
+}
