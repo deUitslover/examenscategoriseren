@@ -1,0 +1,462 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "HAVO",
+  "source": "HAVO Economie 2016-II",
+  "answers": [
+   {
+    "title": "Grand Canyon",
+    "question_number": 1,
+    "answer_text": "voorraadgrootheid",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "voorraadgrootheid"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-grand-canyon-antw1.png"
+    ]
+   },
+   {
+    "title": "Grand Canyon",
+    "question_number": 2,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nMensen met een hoog inkomen kunnen gemakkelijker een (groot) deel van hun inkomen gebruiken om vermogen te vormen dan mensen met een laag inkomen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste uitleg is:\nMensen met een hoog inkomen kunnen gemakkelijker een (groot) deel van hun inkomen gebruiken om vermogen te vormen dan mensen met een laag inkomen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-grand-canyon-antw2.png"
+    ]
+   },
+   {
+    "title": "Grand Canyon",
+    "question_number": 3,
+    "answer_text": "de vermogensverdeling\nEen voorbeeld van een juiste toelichting is:\n• In 2012 heeft 10% van de inwoners 50% van het totale inkomen\n• en bezit 10% van de inwoners 77% van het totale vermogen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "de vermogensverdeling\nIn 2012 heeft 10% van de inwoners 50% van het totale inkomen"
+     },
+     {
+      "points": 1,
+      "description": "en bezit 10% van de inwoners 77% van het totale vermogen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-grand-canyon-antw3.png"
+    ]
+   },
+   {
+    "title": "Grand Canyon",
+    "question_number": 4,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n10% rijkste inwoners heeft 77% van het vermogen: 77/10 = 7,7%\n90% inwoners heeft 23% van het vermogen: 23/90 = 0,256.\n7,7 is 30 maal zoveel als 0,256.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\n10% rijkste inwoners heeft 77% van het vermogen: 77/10 = 7,7%\n90% inwoners heeft 23% van het vermogen: 23/90 = 0,256.\n7,7 is 30 maal zoveel als 0,256."
+     }
+    ],
+    "grading_note": "Een juiste berekening met andere afronding ook goed rekenen.",
+    "answer_image_urls": [
+     "economie-havo-2016-ii-grand-canyon-antw4.png"
+    ]
+   },
+   {
+    "title": "Grand Canyon",
+    "question_number": 5,
+    "answer_text": "Een voorbeeld van een juiste beschrijving is:\n• Een maatregel om de primaire inkomens te nivelleren is het instellen/verhogen van een minimumloon / het instellen/verlagen van een maximumbeloning waardoor de primaire inkomensverschillen kleiner worden\n• Een maatregel om de secundaire inkomens te nivelleren is een progressiever belastingsysteem / het instellen/verhogen van heffingskortingen / het invoeren/verhogen van overdrachtsinkomen voor mensen met lagere inkomens waardoor de secundaire inkomens verschillen kleiner worden",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een maatregel om de primaire inkomens te nivelleren is het instellen/verhogen van een minimumloon / het instellen/verlagen van een maximumbeloning waardoor de primaire inkomensverschillen kleiner worden"
+     },
+     {
+      "points": 1,
+      "description": "Een maatregel om de secundaire inkomens te nivelleren is een progressiever belastingsysteem / het instellen/verhogen van heffingskortingen / het invoeren/verhogen van overdrachtsinkomen voor mensen met lagere inkomens waardoor de secundaire inkomens verschillen kleiner worden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-grand-canyon-antw5.png"
+    ]
+   },
+   {
+    "title": "De prijs van snelheid",
+    "question_number": 6,
+    "answer_text": "Heterogeen oligopolie\nEen voorbeeld van een juiste toelichting is:\nDe aangeboden bundels op deze markt hebben (in de ogen van de koper) verschillende kenmerken (samenstelling sms, belminuten en mobiel internet).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Heterogeen oligopolie\nEen voorbeeld van een juiste toelichting is:\nDe aangeboden bundels op deze markt hebben (in de ogen van de koper) verschillende kenmerken (samenstelling sms, belminuten en mobiel internet)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-de-prijs-van-snelheid-antw6.png"
+    ]
+   },
+   {
+    "title": "De prijs van snelheid",
+    "question_number": 7,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nDoor het verlagen van de verkooprijs zal de afzet meer dan evenredig toenemen zodat de omzet stijgt (en de investering sneller wordt terugverdiend).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste uitleg is:\nDoor het verlagen van de verkooprijs zal de afzet meer dan evenredig toenemen zodat de omzet stijgt (en de investering sneller wordt terugverdiend)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-de-prijs-van-snelheid-antw7.png"
+    ]
+   },
+   {
+    "title": "De prijs van snelheid",
+    "question_number": 8,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Bij de marktvorm oligopolie zal bij een bedrijf dat eenzijdig de prijs verhoogt de afzet (meer dan evenredig) dalen waardoor de omzet daalt\n• Bij prijsverlaging zal de concurrent daarin meegaan, met als gevolg dat de afzet niet toeneemt en de omzet afneemt",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij de marktvorm oligopolie zal bij een bedrijf dat eenzijdig de prijs verhoogt de afzet (meer dan evenredig) dalen waardoor de omzet daalt"
+     },
+     {
+      "points": 1,
+      "description": "Bij prijsverlaging zal de concurrent daarin meegaan, met als gevolg dat de afzet niet toeneemt en de omzet afneemt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-de-prijs-van-snelheid-antw8.png"
+    ]
+   },
+   {
+    "title": "De prijs van snelheid",
+    "question_number": 9,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Door prijsafspraken wordt de concurrentie beperkt met als gevolg een hogere prijs\n• waardoor het consumentensurplus meer kan afnemen dan het producentensurplus toeneemt waardoor het totale surplus (maatschappelijke welvaart) kleiner wordt",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door prijsafspraken wordt de concurrentie beperkt met als gevolg een hogere prijs"
+     },
+     {
+      "points": 1,
+      "description": "waardoor het consumentensurplus meer kan afnemen dan het producentensurplus toeneemt waardoor het totale surplus (maatschappelijke welvaart) kleiner wordt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-de-prijs-van-snelheid-antw9.png"
+    ]
+   },
+   {
+    "title": "De prijs van snelheid",
+    "question_number": 10,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nTotale opbrengsten: (0,6 × € 3 mld) + 600 mln = € 2.400 mln\nTotale kosten: € 500 mln + 20% van € 2,4 mld = € 980 mln\nTotale winst: € 1.420 mln",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\nTotale opbrengsten: (0,6 × € 3 mld) + 600 mln = € 2.400 mln\nTotale kosten: € 500 mln + 20% van € 2,4 mld = € 980 mln\nTotale winst: € 1.420 mln"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-de-prijs-van-snelheid-antw10.png"
+    ]
+   },
+   {
+    "title": "De prijs van snelheid",
+    "question_number": 11,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• De dominante strategie van zowel Megabit als Interbyte is het wel aanleggen van een landelijk dekkend netwerk van wifi-hotspots\n• Er is sprake van een gevangenendilemma omdat deze uitkomst (nash-evenwicht) suboptimaal is\n• Indien beide bedrijven (als uitweg uit het dilemma) de afspraak maken geen landelijk dekkend netwerk van wifi-hotspots aan te leggen (om zodoende de winst te verhogen) heeft de mobiele-internetgebruiker minder keuzemogelijkheden.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De dominante strategie van zowel Megabit als Interbyte is het wel aanleggen van een landelijk dekkend netwerk van wifi-hotspots"
+     },
+     {
+      "points": 1,
+      "description": "Er is sprake van een gevangenendilemma omdat deze uitkomst (nash-evenwicht) suboptimaal is"
+     },
+     {
+      "points": 1,
+      "description": "Indien beide bedrijven (als uitweg uit het dilemma) de afspraak maken geen landelijk dekkend netwerk van wifi-hotspots aan te leggen (om zodoende de winst te verhogen) heeft de mobiele-internetgebruiker minder keuzemogelijkheden."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-de-prijs-van-snelheid-antw11.png"
+    ]
+   },
+   {
+    "title": "Roebel in de val",
+    "question_number": 12,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n(40 / 100) × 120,5 = 48,2\n(40 / 100) × 151 = 60,4\n1 / 48,2 = 0,0207\n1 / 60,4 = 0,0166\n0,0166 − 0,0207 = −0,004 euro\n(Dit betekent een daling van 0,4 eurocent.)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(40 / 100) × 120,5 = 48,2\n(40 / 100) × 151 = 60,4"
+     },
+     {
+      "points": 1,
+      "description": "1 / 48,2 = 0,0207\n1 / 60,4 = 0,0166\n0,0166 − 0,0207 = −0,004 euro\n(Dit betekent een daling van 0,4 eurocent.)"
+     }
+    ],
+    "grading_note": "Een andere juiste manier van afronden ook goed rekenen.",
+    "answer_image_urls": [
+     "economie-havo-2016-ii-roebel-in-de-val-antw12.png"
+    ]
+   },
+   {
+    "title": "Roebel in de val",
+    "question_number": 13,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nDoordat de koers van de roebel daalde, werden exportproducten van Europese producenten duurder op de Russische markt. Hierdoor konden zij slechter concurreren met lokale bedrijven in Rusland.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nDoordat de koers van de roebel daalde, werden exportproducten van Europese producenten duurder op de Russische markt. Hierdoor konden zij slechter concurreren met lokale bedrijven in Rusland."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-roebel-in-de-val-antw13.png"
+    ]
+   },
+   {
+    "title": "Roebel in de val",
+    "question_number": 14,
+    "answer_text": "Een voorbeeld van een juiste verklaring:\nDoor de Russische boycot nam het aanbod van zuivel, vlees, vis en fruit op de Russische markt af waardoor de prijs steeg.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste verklaring:\nDoor de Russische boycot nam het aanbod van zuivel, vlees, vis en fruit op de Russische markt af waardoor de prijs steeg."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-roebel-in-de-val-antw14.png"
+    ]
+   },
+   {
+    "title": "Roebel in de val",
+    "question_number": 15,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Door verhoging van de rente werd beleggen in Rusland aantrekkelijker in vergelijking tot beleggen in andere landen (met een harde valuta)\n• Hierdoor nam op de valutamarkt de vraag naar de roebel toe / het aanbod van de roebel af met als gevolg dat de koersdaling van de roebel kon worden beperkt",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door verhoging van de rente werd beleggen in Rusland aantrekkelijker in vergelijking tot beleggen in andere landen (met een harde valuta)"
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor nam op de valutamarkt de vraag naar de roebel toe / het aanbod van de roebel af met als gevolg dat de koersdaling van de roebel kon worden beperkt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-roebel-in-de-val-antw15.png"
+    ]
+   },
+   {
+    "title": "Roebel in de val",
+    "question_number": 16,
+    "answer_text": "Op 29 oktober\nEen voorbeeld van een juiste verklaring is:\n• De Centrale Bank van Rusland intervenieerde om de koers van de roebel te ondersteunen\n• Na de interventie op 29 oktober ging de koers van de roebel omhoog (minder roebels voor een euro)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De Centrale Bank van Rusland intervenieerde om de koers van de roebel te ondersteunen"
+     },
+     {
+      "points": 1,
+      "description": "Na de interventie op 29 oktober ging de koers van de roebel omhoog (minder roebels voor een euro)"
+     }
+    ],
+    "grading_note": "Geen scorepunten toekennen als alleen de datum wordt genoemd.",
+    "answer_image_urls": [
+     "economie-havo-2016-ii-roebel-in-de-val-antw16.png"
+    ]
+   },
+   {
+    "title": "Roebel in de val",
+    "question_number": 17,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nDoor de daling van de olieprijs kreeg Rusland minder dollars voor haar olie betaald. De valutareserves van Rusland (in dollars) namen daardoor af en werden ontoereikend om (langdurig) valuta-interventies uit te voeren.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nDoor de daling van de olieprijs kreeg Rusland minder dollars voor haar olie betaald. De valutareserves van Rusland (in dollars) namen daardoor af en werden ontoereikend om (langdurig) valuta-interventies uit te voeren."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-roebel-in-de-val-antw17.png"
+    ]
+   },
+   {
+    "title": "Is participeren te stimuleren?",
+    "question_number": 18,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n15.567,96 / 12 = € 1.237,33 per maand.\n70% van € 1.237,33 = € 908,13\nHet bruto-inkomen van Diana uit primaire inkomensbronnen is € 500 + € 300 = € 800 per maand en dit is minder dan € 908,13.\nDaarmee is Diana volgens de definitie niet economisch zelfstandig",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "15.567,96 / 12 = € 1.237,33 per maand.\n70% van € 1.237,33 = € 908,13"
+     },
+     {
+      "points": 1,
+      "description": "Het bruto-inkomen van Diana uit primaire inkomensbronnen is € 500 + € 300 = € 800 per maand en dit is minder dan € 908,13.\nDaarmee is Diana volgens de definitie niet economisch zelfstandig"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-is-participeren-te-stimuleren-antw18.png"
+    ]
+   },
+   {
+    "title": "Is participeren te stimuleren?",
+    "question_number": 19,
+    "answer_text": "Voorbeelden van een juist antwoord is:\n− Subsidiëren van kinderopvang.\n− Positieve discriminatie bij overheidsfuncties.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voorbeelden van een juist antwoord is:\n− Subsidiëren van kinderopvang.\n− Positieve discriminatie bij overheidsfuncties."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-is-participeren-te-stimuleren-antw19.png"
+    ]
+   },
+   {
+    "title": "Is participeren te stimuleren?",
+    "question_number": 20,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nstijging arbeidsdeelname moeders met middelbaar onderwijsniveau:\n(73,3 − 60,6) / 60,6 × 100% = 21,0%\nstijging arbeidsdeelname moeders met laag onderwijsniveau:\n(46,7 − 39,1) / 39,1 × 100% = 19,4%\nstijging arbeidsdeelname moeders met hoog onderwijsniveau:\n(83,8 − 73,5) / 73,5 × 100% = 14,0%",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\nstijging arbeidsdeelname moeders met middelbaar onderwijsniveau:\n(73,3 − 60,6) / 60,6 × 100% = 21,0%\nstijging arbeidsdeelname moeders met laag onderwijsniveau:\n(46,7 − 39,1) / 39,1 × 100% = 19,4%\nstijging arbeidsdeelname moeders met hoog onderwijsniveau:\n(83,8 − 73,5) / 73,5 × 100% = 14,0%"
+     }
+    ],
+    "grading_note": "Een andere juiste manier van afronden ook goed rekenen",
+    "answer_image_urls": [
+     "economie-havo-2016-ii-is-participeren-te-stimuleren-antw20.png"
+    ]
+   },
+   {
+    "title": "Is participeren te stimuleren?",
+    "question_number": 21,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nAls de ondertekenaars de code (en jaarlijks de stand van zaken t.a.v. het gestelde doel) publiceren op hun website / in hun jaarverslag zijn zij zich bewust dat dit zal leiden tot reputatieschade als zij zich niet aan de afgesproken verplichting zouden houden.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nAls de ondertekenaars de code (en jaarlijks de stand van zaken t.a.v. het gestelde doel) publiceren op hun website / in hun jaarverslag zijn zij zich bewust dat dit zal leiden tot reputatieschade als zij zich niet aan de afgesproken verplichting zouden houden."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-is-participeren-te-stimuleren-antw21.png"
+    ]
+   },
+   {
+    "title": "Accijnzen, de grens bereikt?",
+    "question_number": 22,
+    "answer_text": "prijselastische vraag\nEen voorbeeld van een juiste verklaring is:\nDe daling van de omzet die de VvB constateert bij verhoging van de verkoopprijs, duidt er op dat de afzet van flesjes bier meer dan evenredig zou zijn afgenomen. (Dit duidt op een prijselastische vraag.)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "prijselastische vraag\nEen voorbeeld van een juiste verklaring is:\nDe daling van de omzet die de VvB constateert bij verhoging van de verkoopprijs, duidt er op dat de afzet van flesjes bier meer dan evenredig zou zijn afgenomen. (Dit duidt op een prijselastische vraag.)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-accijnzen-de-grens-bereikt-antw22.png"
+    ]
+   },
+   {
+    "title": "Accijnzen, de grens bereikt?",
+    "question_number": 23,
+    "answer_text": "omzetbelasting / btw / loonbelasting / inkomstenbelasting / vennootschapsbelasting / dividendbelasting\nEen voorbeeld van een juiste toelichting is:\nIn de grensstreek gaat productie verloren waardoor de overheid btw-ontvangsten misloopt / de werkgelegenheid daalt / bedrijven minder winst maken / bedrijven failliet gaan.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "omzetbelasting / btw / loonbelasting / inkomstenbelasting / vennootschapsbelasting / dividendbelasting\nEen voorbeeld van een juiste toelichting is:\nIn de grensstreek gaat productie verloren waardoor de overheid btw-ontvangsten misloopt / de werkgelegenheid daalt / bedrijven minder winst maken / bedrijven failliet gaan."
+     }
+    ],
+    "grading_note": "De scorepunten alleen toekennen als antwoord en toelichting gegeven zijn.",
+    "answer_image_urls": [
+     "economie-havo-2016-ii-accijnzen-de-grens-bereikt-antw23.png"
+    ]
+   },
+   {
+    "title": "Accijnzen, de grens bereikt?",
+    "question_number": 24,
+    "answer_text": "Een voorbeeld van een juiste aanvulling is:\n'zullen consumenten een flesje bier vervangen door niet-alcoholische dranken / alcoholische dranken met een lager accijnstarief.'",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste aanvulling is:\n'zullen consumenten een flesje bier vervangen door niet-alcoholische dranken / alcoholische dranken met een lager accijnstarief.'"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-accijnzen-de-grens-bereikt-antw24.png"
+    ]
+   },
+   {
+    "title": "Accijnzen, de grens bereikt?",
+    "question_number": 25,
+    "answer_text": "28,7%\nEen voorbeeld van een juiste berekening is:\n((0,27 + 0,003 × 35,90) × 1,21) / ((0,27 + 0,003 × 9,44) × 1,19) × 100 = 128,7",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "28,7%\nEen voorbeeld van een juiste berekening is:\n((0,27 + 0,003 × 35,90) × 1,21) / ((0,27 + 0,003 × 9,44) × 1,19) × 100 = 128,7"
+     }
+    ],
+    "grading_note": "Een andere juiste manier van afronden ook goed rekenen.",
+    "answer_image_urls": [
+     "economie-havo-2016-ii-accijnzen-de-grens-bereikt-antw25.png"
+    ]
+   },
+   {
+    "title": "Accijnzen, de grens bereikt?",
+    "question_number": 26,
+    "answer_text": "ja\nEen voorbeeld van een juiste berekening is:\n• Stijging van het CPI: (111,9 − 94,0) / 94,0 × 100% = 19,0%\n• Prijsstijging van een flesje bier: (120,0 − 103,5) / 103,5 × 100% = 15,9%",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Stijging van het CPI: (111,9 − 94,0) / 94,0 × 100% = 19,0%"
+     },
+     {
+      "points": 1,
+      "description": "Prijsstijging van een flesje bier: (120,0 − 103,5) / 103,5 × 100% = 15,9%"
+     }
+    ],
+    "grading_note": "Geen scorepunten toekennen als alleen de prijsstijging van een flesje bier wordt genoemd.",
+    "answer_image_urls": [
+     "economie-havo-2016-ii-accijnzen-de-grens-bereikt-antw26.png"
+    ]
+   },
+   {
+    "title": "Accijnzen, de grens bereikt?",
+    "question_number": 27,
+    "answer_text": "bij (1) aanbodlijn\nbij (2) naar boven\nbij (3) vraaglijn\nbij (4) naar links\n\nindien (1) en (2) juist: 1\nindien (3) en (4) juist: 1",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "indien (1) en (2) juist"
+     },
+     {
+      "points": 1,
+      "description": "indien (3) en (4) juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2016-ii-accijnzen-de-grens-bereikt-antw27.png"
+    ]
+   }
+  ]
+ }
+}
