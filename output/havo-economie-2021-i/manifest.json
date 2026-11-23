@@ -1,0 +1,66 @@
+{
+  "source": "HAVO Economie 2021-I",
+  "subject_name": "Economie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Zo goud als een garnaal",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Meer vrijhandel, meer groei",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Overheidsfinanciën op koers?",
+      "question_numbers": [
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Alcohol baat en schaadt",
+      "question_numbers": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Zwitserland vakantieland",
+      "question_numbers": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "title": "Stimuleren zonder effect",
+      "question_numbers": [
+        26,
+        27,
+        28,
+        29
+      ]
+    }
+  ]
+}
