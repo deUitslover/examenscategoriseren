@@ -421,8 +421,18 @@ def main():
                                                  if l[1] >= old_y1 - 0.5 and l[3] <= it["y1"] + 0.5]
             tr = trim.get((page.number, i), 0.0)
             if tr and it["kind"] == "ctx":
+                old_y0 = it["y0"]
                 it["y0"] += tr
                 it["members"] = [m for m in it["members"] if m[3] > it["y0"]]
+                if tr < 0:
+                    # negative trim: grow the block upward; text lines in the
+                    # gained strip become members (else they are wiped).
+                    # HAVO-ECO-17-I-O.pdf p.5: "uit een krant (maart 2014):"
+                    # sits 0.7pt under the grey bar inside the kader and
+                    # plan_page drops it (--trim 4:0=-15.3)
+                    it["members"] = list(it["members"]) + [
+                        tuple(l[:4]) for l in text_lines(page)
+                        if l[1] >= it["y0"] - 0.5 and l[3] <= old_y0 + 0.5]
             elif tr:
                 it["y0"] += tr
                 m = it["members"][0]
