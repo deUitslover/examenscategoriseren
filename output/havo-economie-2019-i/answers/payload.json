@@ -1,0 +1,501 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "HAVO",
+  "source": "HAVO Economie 2019-I",
+  "answers": [
+   {
+    "title": "Papier hier!",
+    "question_number": 1,
+    "answer_text": "substitutiegoederen\nEen voorbeeld van een juiste toelichting is:\nDe genoemde alternatieve nieuwsbronnen kunnen de papieren-krantenabonnementen vervangen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "substitutiegoederen, met als toelichting dat de genoemde alternatieve nieuwsbronnen de papieren-krantenabonnementen kunnen vervangen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-papier-hier-antw1.png"
+    ]
+   },
+   {
+    "title": "Papier hier!",
+    "question_number": 2,
+    "answer_text": "stijging\nEen voorbeeld van een juiste berekening is:\n83 – 75 / 75 x 100% = 10,67%",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "stijging; 83 – 75 / 75 x 100% = 10,67%"
+     }
+    ],
+    "grading_note": "Voor een andere juiste manier van afronden ook scorepunten toekennen.",
+    "answer_image_urls": [
+     "economie-havo-2019-i-papier-hier-antw2.png"
+    ]
+   },
+   {
+    "title": "Papier hier!",
+    "question_number": 3,
+    "answer_text": "• (409 – 398) / 398 x 100% = 2,8% (1)\n▪ afzetverandering: –1,1 × 2,8 = –3,1% (1)\n▪ afzet 2014: 696.600 × 0,969 = 675.005 (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(409 – 398) / 398 x 100% = 2,8%"
+     },
+     {
+      "points": 1,
+      "description": "afzetverandering: –1,1 × 2,8 = –3,1%"
+     },
+     {
+      "points": 1,
+      "description": "afzet 2014: 696.600 × 0,969 = 675.005"
+     }
+    ],
+    "grading_note": "Voor een andere juiste manier van afronden ook scorepunten toekennen.",
+    "answer_image_urls": [
+     "economie-havo-2019-i-papier-hier-antw3.png"
+    ]
+   },
+   {
+    "title": "Papier hier!",
+    "question_number": 4,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\nEr zullen nieuwe abonnees op de digitale variant bij zijn gekomen, die eerder geen abonnement op een dagblad hadden / die een papierplus-abonnement hadden op een ander dagblad / door de opkomst van diverse datadragers als mobiel en tablet.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er zijn nieuwe abonnees op de digitale variant bij gekomen, die eerder geen abonnement op een dagblad hadden / die een papierplus-abonnement hadden op een ander dagblad / door de opkomst van diverse datadragers als mobiel en tablet"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-papier-hier-antw4.png"
+    ]
+   },
+   {
+    "title": "Papier hier!",
+    "question_number": 5,
+    "answer_text": "IJLM",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "IJLM"
+     }
+    ],
+    "grading_note": "Uitsluitend 2 of 0 scorepunten toekennen.",
+    "answer_image_urls": [
+     "economie-havo-2019-i-papier-hier-antw5.png"
+    ]
+   },
+   {
+    "title": "Een crisis maakt verschil",
+    "question_number": 6,
+    "answer_text": "‘Daarnaast is het inkomen van werknemers als gevolg van collectieve arbeidsovereenkomsten (cao’s) meestal erg vast.’",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "‘Daarnaast is het inkomen van werknemers als gevolg van collectieve arbeidsovereenkomsten (cao’s) meestal erg vast.’"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-een-crisis-maakt-verschil-antw6.png"
+    ]
+   },
+   {
+    "title": "Een crisis maakt verschil",
+    "question_number": 7,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• In een neergaande conjunctuur nemen bestedingen / inkomens af (als gevolg van toenemende werkloosheid) (1)\n• Door werkloosheidsuitkeringen wordt dit effect beperkt (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In een neergaande conjunctuur nemen bestedingen / inkomens af (als gevolg van toenemende werkloosheid)"
+     },
+     {
+      "points": 1,
+      "description": "Door werkloosheidsuitkeringen wordt dit effect beperkt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-een-crisis-maakt-verschil-antw7.png"
+    ]
+   },
+   {
+    "title": "Een crisis maakt verschil",
+    "question_number": 8,
+    "answer_text": "genivelleerd\nEen voorbeeld van een juiste toelichting is:\nNa de kredietcrisis verdienden de 20% huishoudens met het hoogste inkomen ongeveer 2,5 keer meer dan de 20% huishoudens met het laagste inkomen. In 2008 waren de inkomens van de meest verdiende huishoudens 2,8 keer zo groot.\nof\ngenivelleerd\nEen voorbeeld van een juiste toelichting is:\nIn 2012 verdienden de 20% huishoudens met het hoogste inkomen ongeveer 2,5 keer meer dan de 20% huishoudens met het laagste inkomen. In 2009 waren de inkomens van de meest verdienende huishoudens 2,6 keer zo groot.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "genivelleerd, met als toelichting dat de hoogste 20% na de kredietcrisis / in 2012 ongeveer 2,5 keer meer verdiende dan de laagste 20%, terwijl dat in 2008 2,8 keer / in 2009 2,6 keer was"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-een-crisis-maakt-verschil-antw8.png"
+    ]
+   },
+   {
+    "title": "Een crisis maakt verschil",
+    "question_number": 9,
+    "answer_text": "secundair huishoudinkomen\nEen voorbeeld van een juiste toelichting is:\n• De donkere staven in bron 2 zijn het secundaire inkomen omdat het primaire inkomen bij de 20% huishoudens met het laagste inkomen lager is dan het secundaire inkomen als gevolg van het progressieve belastingstelsel en de werkloosheidsuitkeringen (1)\n• Uit bron 1 blijkt dat in 2012 de 20% huishoudens met de hoogste inkomens 2,5 keer meer verdienden dan de 20% huishoudens met het laagste inkomen en uit bron 2 blijkt dat de donkere staven ook 2,5 keer van elkaar verschillen (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De donkere staven in bron 2 zijn het secundaire inkomen omdat het primaire inkomen bij de 20% huishoudens met het laagste inkomen lager is dan het secundaire inkomen als gevolg van het progressieve belastingstelsel en de werkloosheidsuitkeringen"
+     },
+     {
+      "points": 1,
+      "description": "Uit bron 1 blijkt dat in 2012 de 20% huishoudens met de hoogste inkomens 2,5 keer meer verdienden dan de 20% met het laagste inkomen en uit bron 2 blijkt dat de donkere staven ook 2,5 keer van elkaar verschillen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-een-crisis-maakt-verschil-antw9.png"
+    ]
+   },
+   {
+    "title": "Een crisis maakt verschil",
+    "question_number": 10,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• Vanwege een dalend consumentenvertrouwen zijn huishoudens minder gaan besteden en meer gaan sparen (1)\n• waardoor er meer opgebouwd vermogen is en het inkomen uit dit vermogen hoger is (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Vanwege een dalend consumentenvertrouwen zijn huishoudens minder gaan besteden en meer gaan sparen"
+     },
+     {
+      "points": 1,
+      "description": "waardoor er meer opgebouwd vermogen is en het inkomen uit dit vermogen hoger is"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-een-crisis-maakt-verschil-antw10.png"
+    ]
+   },
+   {
+    "title": "De verzekeraar rijdt met u mee!",
+    "question_number": 11,
+    "answer_text": "Een voorbeeld van juiste berekening is:\n30,66 = (0,35 – 0,10) × basispremie\nbasispremie = € 122,64",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "30,66 = (0,35 – 0,10) × basispremie; basispremie = € 122,64"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-de-verzekeraar-rijdt-met-u-mee-antw11.png"
+    ]
+   },
+   {
+    "title": "De verzekeraar rijdt met u mee!",
+    "question_number": 12,
+    "answer_text": "bij (1) asymmetrische informatie (1)\nbij (2) premiedifferentiatie (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "bij (1) asymmetrische informatie"
+     },
+     {
+      "points": 1,
+      "description": "bij (2) premiedifferentiatie"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-de-verzekeraar-rijdt-met-u-mee-antw12.png"
+    ]
+   },
+   {
+    "title": "De verzekeraar rijdt met u mee!",
+    "question_number": 13,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De verzekering geeft kortingen op de verzekeringspremies bij goed gedrag / past premiedifferentiatie toe tussen ‘lage / goede en hoge / slechte risico’s’ (1)\n• waardoor de verzekering ‘lage / goede risico’s’ aantrekt / ‘lage / goede risico’s’ bereid zijn te blijven (en dus averechtse selectie wordt tegengegaan) (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De verzekering geeft kortingen op de verzekeringspremies bij goed gedrag / past premiedifferentiatie toe tussen ‘lage / goede en hoge / slechte risico’s’"
+     },
+     {
+      "points": 1,
+      "description": "waardoor de verzekering ‘lage / goede risico’s’ aantrekt / ‘lage / goede risico’s’ bereid zijn te blijven (en dus averechtse selectie wordt tegengegaan)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-de-verzekeraar-rijdt-met-u-mee-antw13.png"
+    ]
+   },
+   {
+    "title": "De verzekeraar rijdt met u mee!",
+    "question_number": 14,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• de PHYD-autoverzekering stimuleert voorzichtiger/schoner/veiliger rijgedrag (1)\n• dat kan leiden tot afname van negatieve externe effecten zoals milieuvervuiling (CO₂ uitstoot) / tijdverlies (files) / ziekteverzuim (ongelukken) en daarmee tot afname van de maatschappelijke kosten (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "de PHYD-autoverzekering stimuleert voorzichtiger/schoner/veiliger rijgedrag"
+     },
+     {
+      "points": 1,
+      "description": "dat kan leiden tot afname van negatieve externe effecten zoals milieuvervuiling (CO₂ uitstoot) / tijdverlies (files) / ziekteverzuim (ongelukken) en daarmee tot afname van de maatschappelijke kosten"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-de-verzekeraar-rijdt-met-u-mee-antw14.png"
+    ]
+   },
+   {
+    "title": "De zon schijnt niet altijd op Aruba",
+    "question_number": 15,
+    "answer_text": "bij (1) export\nbij (2) lopende rekening\nbij (3) uitgaven\nbij (4) lopende rekening\nbij (5) ontvangsten\nbij (6) kapitaalrekening\n\nindien zowel (1) als (2) juist (1)\nindien zowel (3) als (4) juist (1)\nindien zowel (5) als (6) juist (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "indien zowel (1) export als (2) lopende rekening juist"
+     },
+     {
+      "points": 1,
+      "description": "indien zowel (3) uitgaven als (4) lopende rekening juist"
+     },
+     {
+      "points": 1,
+      "description": "indien zowel (5) ontvangsten als (6) kapitaalrekening juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-de-zon-schijnt-niet-altijd-op-aruba-antw15.png"
+    ]
+   },
+   {
+    "title": "De zon schijnt niet altijd op Aruba",
+    "question_number": 16,
+    "answer_text": "Voor vraag 16 moeten altijd 2 scorepunten worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "altijd toekennen, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-de-zon-schijnt-niet-altijd-op-aruba-antw16.png"
+    ]
+   },
+   {
+    "title": "De zon schijnt niet altijd op Aruba",
+    "question_number": 17,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Door het tekort op de betalingsbalans is het aanbod van AWG’s groter dan de vraag. Bij een flexibele wisselkoers zou de waarde van de AWG dalen (ten opzichte van de US$) zodat importen duurder worden voor Aruba (1)\n• Door de vaste wisselkoers ten opzichte van de US$ is van een dergelijke geïmporteerde inflatie geen sprake (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door het tekort op de betalingsbalans is het aanbod van AWG’s groter dan de vraag. Bij een flexibele wisselkoers zou de waarde van de AWG dalen (ten opzichte van de US$) zodat importen duurder worden voor Aruba"
+     },
+     {
+      "points": 1,
+      "description": "Door de vaste wisselkoers ten opzichte van de US$ is van een dergelijke geïmporteerde inflatie geen sprake"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-de-zon-schijnt-niet-altijd-op-aruba-antw17.png"
+    ]
+   },
+   {
+    "title": "De zon schijnt niet altijd op Aruba",
+    "question_number": 18,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Door het tekort op de betalingsbalans is het aanbod van AWG’s groter dan de vraag. Bij een flexibele wisselkoers zou de waarde van de AWG dalen (ten opzichte van de US$) waardoor Aruba goedkoper wordt voor Amerikaanse toeristen (1)\n• Door de vaste wisselkoers ten opzichte van de US$ zijn de Amerikaanse toeristen niet goedkoper uit (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door het tekort op de betalingsbalans is het aanbod van AWG’s groter dan de vraag. Bij een flexibele wisselkoers zou de waarde van de AWG dalen (ten opzichte van de US$) waardoor Aruba goedkoper wordt voor Amerikaanse toeristen"
+     },
+     {
+      "points": 1,
+      "description": "Door de vaste wisselkoers ten opzichte van de US$ zijn de Amerikaanse toeristen niet goedkoper uit"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-de-zon-schijnt-niet-altijd-op-aruba-antw18.png"
+    ]
+   },
+   {
+    "title": "De zon schijnt niet altijd op Aruba",
+    "question_number": 19,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• bbp = $ 24.430 × 111.000 = $ 2.711.730.000 (1)\n• $ 2.711.730.000 × 1,79 = 4.853.996.700 AWG (1)\n• overheidsschuld = 4.853.996.700 × 0,67 = 3.252.177.789 AWG (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "bbp = $ 24.430 × 111.000 = $ 2.711.730.000"
+     },
+     {
+      "points": 1,
+      "description": "$ 2.711.730.000 × 1,79 = 4.853.996.700 AWG"
+     },
+     {
+      "points": 1,
+      "description": "overheidsschuld = 4.853.996.700 × 0,67 = 3.252.177.789 AWG"
+     }
+    ],
+    "grading_note": "Voor een andere juiste manier van afronden ook scorepunten toekennen.",
+    "answer_image_urls": [
+     "economie-havo-2019-i-de-zon-schijnt-niet-altijd-op-aruba-antw19.png"
+    ]
+   },
+   {
+    "title": "Dat kost energie",
+    "question_number": 20,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nHet ‘cadeau’ wordt via het contract in 3 jaar betaald, waardoor er sprake is van een lening (koop op afbetaling) / waardoor de consument de consumptie van de toekomst naar voren schuift en dat is ruilen over de tijd. (De rente die betaald moet worden kan worden gezien als de prijs van ruilen over de tijd.)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Het ‘cadeau’ wordt via het contract in 3 jaar betaald, waardoor er sprake is van een lening (koop op afbetaling) / waardoor de consument consumptie van de toekomst naar voren schuift en dat is ruilen over de tijd"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-dat-kost-energie-antw20.png"
+    ]
+   },
+   {
+    "title": "Dat kost energie",
+    "question_number": 21,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Extra vaste lasten bij Zekur-contract (3 jaar) met iSmart 6s:\n€ 15,50 – € 7,00 = € 8,50 per product (1)\n• Bij afname van gas én stroom zijn de extra vaste lasten\n2 × € 8,50 × 36 maanden = € 612 (1)\n• De gemiddelde winkelprijs van de iSmart 6s is € 550.\nHet rentebedrag dat Alex moet betalen is dus € 612 – € 550 = € 62 (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Extra vaste lasten bij Zekur-contract (3 jaar) met iSmart 6s: € 15,50 – € 7,00 = € 8,50 per product"
+     },
+     {
+      "points": 1,
+      "description": "Bij afname van gas én stroom zijn de extra vaste lasten 2 × € 8,50 × 36 maanden = € 612"
+     },
+     {
+      "points": 1,
+      "description": "De gemiddelde winkelprijs van de iSmart 6s is € 550; het rentebedrag is dus € 612 – € 550 = € 62"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-dat-kost-energie-antw21.png"
+    ]
+   },
+   {
+    "title": "Dat kost energie",
+    "question_number": 22,
+    "answer_text": "gas\nEen voorbeeld van een juiste toelichting is:\nHet gastarief bij het 3 jaar-vast-contract (Zekur) is hoger dan bij het variabel contract (Free) zodat de energieleverancier blijkbaar anticipeert op een tariefsverhoging.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "gas, met als toelichting dat het gastarief bij het 3 jaar-vast-contract (Zekur) hoger is dan bij het variabel contract (Free), zodat de energieleverancier blijkbaar anticipeert op een tariefsverhoging"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-dat-kost-energie-antw22.png"
+    ]
+   },
+   {
+    "title": "Dat kost energie",
+    "question_number": 23,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nAls er op een markt enkele aanbieders van een homogeen product zijn, is het risico groot dat er een prijzenoorlog wordt ontketend wanneer de bedrijven elkaar op prijs gaan beconcurreren. Hierdoor verliezen alle bedrijven omzet en daarmee winst en zullen zij er dus eerder voor kiezen zich met hun product te onderscheiden.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Bij enkele aanbieders van een homogeen product is het risico op een prijzenoorlog groot als bedrijven op prijs concurreren; alle bedrijven verliezen dan omzet en winst, dus kiezen zij eerder voor productdifferentiatie"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-dat-kost-energie-antw23.png"
+    ]
+   },
+   {
+    "title": "Dat kost energie",
+    "question_number": 24,
+    "answer_text": "ja\nEen voorbeeld van een juiste uitleg is:\n• de dominante strategie van EnerGas (EG) is ‘wel inhuren’ want als Green Energy (GE) ‘wel inhuurt’ dan −2 > −4 en als GE ‘niet inhuurt’ dan +2 > 0\nde dominante strategie van GE is ook ‘wel inhuren’ want als EG ‘wel inhuurt’ dan −2 > −4 en als EG ‘niet inhuurt’ dan +2 > 0 (2)\n• deze evenwichtssituatie van −2 ; −2 is een suboptimale uitkomst, omdat beide leveranciers hun pay-off kunnen vergroten door niet een callcenter in te huren 0 ; 0 (1)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "de dominante strategie van EG is ‘wel inhuren’ (−2 > −4 en +2 > 0) en de dominante strategie van GE is ook ‘wel inhuren’ (−2 > −4 en +2 > 0)"
+     },
+     {
+      "points": 1,
+      "description": "deze evenwichtssituatie van −2 ; −2 is suboptimaal, omdat beide leveranciers hun pay-off kunnen vergroten door niet een callcenter in te huren (0 ; 0)"
+     }
+    ],
+    "grading_note": "Voor het volledig toekennen van de eerste twee scorepunten moet een bewijs worden gegeven van beide dominante strategieën.",
+    "answer_image_urls": [
+     "economie-havo-2019-i-dat-kost-energie-antw24.png"
+    ]
+   },
+   {
+    "title": "80 jaar bbp, 80 jaar discussie",
+    "question_number": 25,
+    "answer_text": "Nederlandse bbp",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Nederlandse bbp"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-80-jaar-bbp-80-jaar-discussie-antw25.png"
+    ]
+   },
+   {
+    "title": "80 jaar bbp, 80 jaar discussie",
+    "question_number": 26,
+    "answer_text": "Voorbeelden van een juist argument zijn:\n− Het (nominale) bbp is niet gecorrigeerd voor bevolkingsgroei / bevolkingsaantallen.\n− Het (nominale) bbp geeft geen informatie over de welvaartsbijdrage van de informele economie.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een juist argument, bijv.: het (nominale) bbp is niet gecorrigeerd voor bevolkingsgroei / bevolkingsaantallen, of geeft geen informatie over de welvaartsbijdrage van de informele economie"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-80-jaar-bbp-80-jaar-discussie-antw26.png"
+    ]
+   },
+   {
+    "title": "80 jaar bbp, 80 jaar discussie",
+    "question_number": 27,
+    "answer_text": "Een voorbeeld van een juist berekening is:\n• toename bbp (nominaal) 2014: 2,8%\n• inflatie 2014: 107,6 – 104,9 / 104,9 x 100% = 2,6% (1)\n• 102,8 / 102,6 x 100 = 100,19 dus de reële economische groei = 0,2% (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "toename bbp (nominaal) 2014: 2,8%; inflatie 2014: 107,6 – 104,9 / 104,9 x 100% = 2,6%"
+     },
+     {
+      "points": 1,
+      "description": "102,8 / 102,6 x 100 = 100,19 dus de reële economische groei = 0,2%"
+     }
+    ],
+    "grading_note": "− Voor 102,8 - 102,6 het tweede scorepunt ook toekennen.\n− Voor een andere juiste manier van afronden ook scorepunten toekennen.",
+    "answer_image_urls": [
+     "economie-havo-2019-i-80-jaar-bbp-80-jaar-discussie-antw27.png"
+    ]
+   },
+   {
+    "title": "80 jaar bbp, 80 jaar discussie",
+    "question_number": 28,
+    "answer_text": "grafiek 3",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "grafiek 3"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-i-80-jaar-bbp-80-jaar-discussie-antw28.png"
+    ]
+   }
+  ]
+ }
+}
