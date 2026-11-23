@@ -292,6 +292,11 @@ def main():
                     eco_title_y1 = max(l[3] for l in row)
             # Economie 2017+ layout: "Opgave 1 Quichote" on one line above
             # the bar -- the opgave title is only the name (VWO-ECO-17-I-O.pdf)
+            # HAVO-ECO-21-III-O.pdf p.19: the bron page prints the kop twice
+            # ("Opgave 6 Een keur aan keurmerken" overlaid on itself) -> keep one copy
+            m_dup = re.fullmatch(r"(Opgave\s+\d+\s+.+?)\s+\1", " ".join(title.split()))
+            if m_dup:
+                title = m_dup.group(1)
             m_eco = re.fullmatch(r"Opgave\s+\d+\s+(.+)", " ".join(title.split()))
             if m_eco:
                 title = m_eco.group(1)
