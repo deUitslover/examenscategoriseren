@@ -1,0 +1,67 @@
+{
+  "source": "HAVO Economie 2021-III",
+  "subject_name": "Economie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Boter van buiten",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "België prijst zich meer en meer uit de markt",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Eigen energiecentrale",
+      "question_numbers": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Onderwijsarbeidsmarkt uit balans?",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Meer is minder",
+      "question_numbers": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "title": "Een keur aan keurmerken",
+      "question_numbers": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    }
+  ]
+}
