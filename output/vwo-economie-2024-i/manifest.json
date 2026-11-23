@@ -1,0 +1,66 @@
+{
+  "source": "VWO Economie 2024-I",
+  "subject_name": "Economie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Duurzaamheid stimuleren",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Staat van de schulden",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Valutaverzekering",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Onder de motorkap",
+      "question_numbers": [
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Vissen naar winst",
+      "question_numbers": [
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "title": "Groeien tot de top",
+      "question_numbers": [
+        26,
+        27,
+        28,
+        29
+      ]
+    }
+  ]
+}
