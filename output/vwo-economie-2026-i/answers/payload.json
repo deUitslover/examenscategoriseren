@@ -1,0 +1,560 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "VWO",
+    "source": "VWO Economie 2026-I",
+    "answers": [
+      {
+        "title": "Solo",
+        "question_number": 1,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• een voorbeeld van maatschappelijke kosten.\n• een uitleg van het ontstaan van maatschappelijke kosten.\n\nEen voorbeeld van een juist antwoord is:\n• De vervuilende dieselbrandstof leidt tot kosten zoals schoonmaakkosten / het aanplanten van extra bomen / gezondheidskosten / onderhoudskosten aan infrastructuur of milieu.\n• Deze kosten worden betaald door de maatschappij en niet door de gebruikers zelf / zijn niet in de prijs opgenomen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een voorbeeld van maatschappelijke kosten."
+          },
+          {
+            "points": 1,
+            "description": "een uitleg van het ontstaan van maatschappelijke kosten."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-solo-antw1.png"
+        ]
+      },
+      {
+        "title": "Solo",
+        "question_number": 2,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• GO = 58 → 58 = –2Q + 100 → Q = 21\nTO = 58 x 21 = 1.218 (x 1.000)\nTVK = 16 x 21 = 336 (x 1.000)\n• TW = TO – TK →\n1.218.000 – (336.000 + TCK) = 690.000 → TCK = 192.000 roepia",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "GO = 58 → 58 = –2Q + 100 → Q = 21\nTO = 58 x 21 = 1.218 (x 1.000)\nTVK = 16 x 21 = 336 (x 1.000)"
+          },
+          {
+            "points": 1,
+            "description": "TW = TO – TK →\n1.218.000 – (336.000 + TCK) = 690.000 → TCK = 192.000 roepia"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-solo-antw2.png"
+        ]
+      },
+      {
+        "title": "Solo",
+        "question_number": 3,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• een afleiding van de MO-functie.\n• een berekening van de afzet bij maximale winst.\n• een berekening van de procentuele prijsstijging.\n\nEen voorbeeld van een juiste berekening is:\n• GO = –2Q + 100 → TO = –2Q² + 100Q → MO = –4Q + 100\n• MO = MKbio → –4Q + 100 = 24 → Q = 19\n• GO = (–2 x 19) + 100 = 62 (x 1.000)\nDe prijs stijgt met (62 – 58) / 58 x 100% = 6,9%.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een afleiding van de MO-functie."
+          },
+          {
+            "points": 1,
+            "description": "een berekening van de afzet bij maximale winst."
+          },
+          {
+            "points": 1,
+            "description": "een berekening van de procentuele prijsstijging."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-solo-antw3.png"
+        ]
+      },
+      {
+        "title": "Solo",
+        "question_number": 4,
+        "answer_text": "Een juist antwoord bevat:\n• het arceren van de verandering als gevolg van de andere prijs.\n• het arceren van de verandering als gevolg van de andere afzet.\n\nEen voorbeeld van een juiste arcering is:\n(figuur met de lijnen GO, MKbio en MKdiesel, prijs in roepia (× 1.000) tegen Q (aantal tickets), met gearceerde vlakken: zie afbeelding)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "het arceren van de verandering als gevolg van de andere prijs."
+          },
+          {
+            "points": 1,
+            "description": "het arceren van de verandering als gevolg van de andere afzet."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-solo-antw4.png"
+        ]
+      },
+      {
+        "title": "Solo",
+        "question_number": 5,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• het aangeven van de speluitkomst in 2026.\n• het aangeven van het verband tussen de sociale norm en winst in 2027.\n\nEen voorbeeld van een juist antwoord is:\n• De uitkomst is (snellere boot ; diesel) / (120 ; 160).\n• Het afwijken van de sociale norm leidt tot reputatieschade / lagere afzet voor Solo. (Hierdoor daalt de winst van Solo.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "het aangeven van de speluitkomst in 2026."
+          },
+          {
+            "points": 1,
+            "description": "het aangeven van het verband tussen de sociale norm en winst in 2027."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-solo-antw5.png"
+        ]
+      },
+      {
+        "title": "Geld in de markt",
+        "question_number": 6,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als gezinnen een hoge tijdsvoorkeur hebben, zullen ze nu meer consumeren en dus meer lenen.\n• Hierdoor stijgt de vraag naar geld waardoor de rente zal stijgen.\nof\n• Als gezinnen een hoge tijdsvoorkeur hebben, zullen ze nu meer consumeren en dus minder sparen.\n• Hierdoor daalt het aanbod van geld waardoor de rente zal stijgen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als gezinnen een hoge tijdsvoorkeur hebben, zullen ze nu meer consumeren en dus meer lenen.\nof\nAls gezinnen een hoge tijdsvoorkeur hebben, zullen ze nu meer consumeren en dus minder sparen."
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor stijgt de vraag naar geld waardoor de rente zal stijgen.\nof\nHierdoor daalt het aanbod van geld waardoor de rente zal stijgen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-geld-in-de-markt-antw6.png"
+        ]
+      },
+      {
+        "title": "Geld in de markt",
+        "question_number": 7,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• een voorbeeld van publiek kapitaal.\n• een uitleg over het verband tussen investeringen in publiek kapitaal en structurele economische groei.\n\nEen voorbeeld van een juist antwoord is:\n• Investeringen in infrastructuur (bijvoorbeeld in snelwegen / spoorwegen / elektriciteitsnetwerk),\n• verhogen de productiviteit en dus de productiecapaciteit / potentiële productie.\nof\n• Investeringen in onderwijs,\n• verhogen de (arbeids)productiviteit en dus de productiecapaciteit / potentiële productie.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een voorbeeld van publiek kapitaal."
+          },
+          {
+            "points": 1,
+            "description": "een uitleg over het verband tussen investeringen in publiek kapitaal en structurele economische groei."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-geld-in-de-markt-antw7.png"
+        ]
+      },
+      {
+        "title": "Geld in de markt",
+        "question_number": 8,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nEen voorraadgrootheid omdat het vermogen op een bepaald tijdstip wordt gemeten.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een voorraadgrootheid omdat het vermogen op een bepaald tijdstip wordt gemeten."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-geld-in-de-markt-antw8.png"
+        ]
+      },
+      {
+        "title": "Geld in de markt",
+        "question_number": 9,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• een berekening van de procentuele veranderingen van de rente en van de gevraagde hoeveelheid.\n• een berekening van de rente-elasticiteit.\n\nEen voorbeeld van een juiste berekening is:\n• Procentuele verandering rente: (2,5 – 4) / 4 x 100% = –37,5%.\nProcentuele verandering vraag: (50 mld – 40 mld) / 40 mld x 100% = 25%.\n• De rente-elasticiteit = 25% / –37,5% = –0,7",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een berekening van de procentuele veranderingen van de rente en van de gevraagde hoeveelheid."
+          },
+          {
+            "points": 1,
+            "description": "een berekening van de rente-elasticiteit."
+          }
+        ],
+        "grading_note": "Als de kandidaat de nieuwe evenwichtsrente afleest tussen 2,3% en 2,7% kunnen maximale scorepunten worden behaald.",
+        "answer_image_urls": [
+          "economie-vwo-2026-i-geld-in-de-markt-antw9.png"
+        ]
+      },
+      {
+        "title": "Geld in de markt",
+        "question_number": 10,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Het aanhouden van contant geld zorgt voor risico’s (diefstal / brand).\n− Het aanhouden van contant geld is kostbaar / onpraktisch.\n− Consumenten zijn bereid te betalen voor de veiligheid van hun spaargeld bij een bank.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het aanhouden van contant geld zorgt voor risico’s (diefstal / brand). / Het aanhouden van contant geld is kostbaar / onpraktisch. / Consumenten zijn bereid te betalen voor de veiligheid van hun spaargeld bij een bank."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-geld-in-de-markt-antw10.png"
+        ]
+      },
+      {
+        "title": "Beleid",
+        "question_number": 11,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Het gekozen tarief van de vlaktaks zorgt ervoor dat huishoudens die bovengemiddeld werden belast in 2025, procentueel minder belasting gaan betalen.\n• Als gevolg hiervan stijgen de secundaire inkomens voor deze huishoudens (en dus is er denivellering).\nof\n• Het gekozen tarief van de vlaktaks zorgt ervoor dat huishoudens die gemiddeld minder werden belast in 2025, procentueel meer belasting gaan betalen.\n• Als gevolg hiervan dalen de secundaire inkomens voor deze huishoudens (en dus is er denivellering).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het gekozen tarief van de vlaktaks zorgt ervoor dat huishoudens die bovengemiddeld werden belast in 2025, procentueel minder belasting gaan betalen.\nof\nHet gekozen tarief van de vlaktaks zorgt ervoor dat huishoudens die gemiddeld minder werden belast in 2025, procentueel meer belasting gaan betalen."
+          },
+          {
+            "points": 1,
+            "description": "Als gevolg hiervan stijgen de secundaire inkomens voor deze huishoudens (en dus is er denivellering).\nof\nAls gevolg hiervan dalen de secundaire inkomens voor deze huishoudens (en dus is er denivellering)."
+          }
+        ],
+        "grading_note": "Een antwoord via het afschaffen van een heffingskorting kan de maximale score opleveren.",
+        "answer_image_urls": [
+          "economie-vwo-2026-i-beleid-antw11.png"
+        ]
+      },
+      {
+        "title": "Beleid",
+        "question_number": 12,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als de reële rente daalt wordt lenen aantrekkelijker / sparen minder aantrekkelijk.\n• Hierdoor zullen de investeringen / zal de consumptie toenemen en stijgt het inkomen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als de reële rente daalt wordt lenen aantrekkelijker / sparen minder aantrekkelijk."
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor zullen de investeringen / zal de consumptie toenemen en stijgt het inkomen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-beleid-antw12.png"
+        ]
+      },
+      {
+        "title": "Beleid",
+        "question_number": 13,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• een schets van GA1\n• een schets van MB1\n• de nieuwe reële rente en inflatie.\n\n(figuren met IS₀, IS₁, MB₀, MB₁ (r tegen Y) en GA₀, GA₁ (π tegen Y): zie afbeelding)\n\nEen voorbeeld van een juist antwoord is:\n• GA1 verschuift met twee procentpunt omlaag.\n• MB1 verschuift naar r = 1%.\n• In het evenwicht geldt dat r = 1% en π = 2%.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een schets van GA1"
+          },
+          {
+            "points": 1,
+            "description": "een schets van MB1"
+          },
+          {
+            "points": 1,
+            "description": "de nieuwe reële rente en inflatie."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-beleid-antw13.png"
+        ]
+      },
+      {
+        "title": "Beleid",
+        "question_number": 14,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij een hoger vlaktakstarief zal het belastinglek / de marginale belastingquote groter worden.\n• Hierdoor heeft een hoger inkomen een kleiner effect op de bestedingen, waardoor de multiplier kleiner wordt.\nof\n• De marginale consumptie zal dalen, waardoor de multiplier kleiner wordt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij een hoger vlaktakstarief zal het belastinglek / de marginale belastingquote groter worden."
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor heeft een hoger inkomen een kleiner effect op de bestedingen, waardoor de multiplier kleiner wordt.\nof\nDe marginale consumptie zal dalen, waardoor de multiplier kleiner wordt."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-beleid-antw14.png"
+        ]
+      },
+      {
+        "title": "Beleid",
+        "question_number": 15,
+        "answer_text": "Voorbeelden van een juist antwoord voor de uitgifte van nieuwe staatsobligaties zijn:\n• Door de lage rente zullen de rentekosten voor het aangaan van nieuwe leningen laag zijn.\n• Daardoor wordt er meer geïnvesteerd en stijgt het bbp.\nof\n• Het verhogen van de vlaktaks leidt tot een lager besteedbaar inkomen en dus lagere bestedingen. Hierdoor daalt het bbp.\n• Hogere overheidsbestedingen verhogen het bbp (en dat wil de overheid).\nof\n• Een alternatief voor nieuwe staatsobligaties uitgeven is het verhogen van belastingen. Dit zal leiden tot een verdere daling van het consumentenvertrouwen.\n• Hierdoor zal de consumptie dalen en dus daalt het bbp. De overheid wil juist een hoger bbp.\n\nEen voorbeeld van een juist antwoord is:\nEen voorbeeld van een juist antwoord tegen de uitgifte van nieuwe staatsobligaties is:\n• Door het uitgeven van nieuwe staatsobligaties zal de overheidsschuld toenemen.\n• De aflossing van de schuld wordt bij de toekomstige generaties neergelegd / de intergenerationele solidariteit daalt.\nof\n• Door het uitgeven van nieuwe staatsobligaties zal de vraag naar geld stijgen en daardoor de rente.\n• Een hogere rente zorgt voor lagere investeringen / minder consumptie, waardoor de totale bestedingen kunnen dalen en dus het bbp daalt.\nof\n• Het uitgeven van nieuwe staatsobligaties kan zorgen voor een hogere onzekerheid over de toekomstige financiële positie van de overheid.\n• Dit leidt tot een hogere rente, waardoor de investeringen dalen / de consumptie daalt. De totale bestedingen dalen en dus daalt het bbp.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Eerste deelscore, bijvoorbeeld: Door de lage rente zullen de rentekosten voor het aangaan van nieuwe leningen laag zijn. (of een van de andere voorbeelden voor/tegen de uitgifte van nieuwe staatsobligaties)"
+          },
+          {
+            "points": 1,
+            "description": "Tweede deelscore, bijvoorbeeld: Daardoor wordt er meer geïnvesteerd en stijgt het bbp. (of een van de andere voorbeelden voor/tegen de uitgifte van nieuwe staatsobligaties)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-beleid-antw15.png"
+        ]
+      },
+      {
+        "title": "Kappen met kappen",
+        "question_number": 16,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• twee marktkenmerken.\n• een correcte gevolgtrekking met de marktvorm volledige mededinging / volkomen concurrentie.\n\nEen voorbeeld van een juist antwoord is:\n• Het kaphout is homogeen / Er is vrije toetreding / Er zijn veel aanbieders.\n• Hierdoor is sprake van een volledige mededinging / volkomen concurrentie.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "twee marktkenmerken."
+          },
+          {
+            "points": 1,
+            "description": "een correcte gevolgtrekking met de marktvorm volledige mededinging / volkomen concurrentie."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-kappen-met-kappen-antw16.png"
+        ]
+      },
+      {
+        "title": "Kappen met kappen",
+        "question_number": 17,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• een uitleg dat de marginale winst leidt tot een dominante strategie.\n• een uitleg dat de dominante strategie op termijn suboptimaal is.\n\nEen voorbeeld van een juist antwoord is:\n• Omdat de marginale opbrengst hoger is dan de marginale kosten / de marktprijs hoger is dan de GVK zal elke aanbieder de dominante strategie hebben om meer te kappen.\n• Hierdoor stijgt het totale aanbod van kaphout, waardoor de prijs daalt en aanbieders minder winst maken. (Hierdoor ontstaat er een suboptimaal Nash-evenwicht.)\nof\n• Hierdoor stijgt het totale aanbod van kaphout, waardoor op lange termijn de bossen weggekapt zijn. Dan is er geen omzet / winst meer te behalen (en ontstaat er een suboptimaal Nash-evenwicht).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een uitleg dat de marginale winst leidt tot een dominante strategie."
+          },
+          {
+            "points": 1,
+            "description": "een uitleg dat de dominante strategie op termijn suboptimaal is."
+          }
+        ],
+        "grading_note": "Antwoorden dat het milieu verslechtert, levert geen tweede scorepunt op omdat de maatschappij geen speler is in deze toepassing van speltheorie.",
+        "answer_image_urls": [
+          "economie-vwo-2026-i-kappen-met-kappen-antw17.png"
+        ]
+      },
+      {
+        "title": "Kappen met kappen",
+        "question_number": 18,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− De variabele kosten per product zijn constant, waardoor de marginale kosten constant zijn.\n− Houthakkers / de aanbieders kunnen hun productie verhogen tegen dezelfde marginale kosten / variabele kosten per product.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De variabele kosten per product zijn constant, waardoor de marginale kosten constant zijn. / Houthakkers / de aanbieders kunnen hun productie verhogen tegen dezelfde marginale kosten / variabele kosten per product."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-kappen-met-kappen-antw18.png"
+        ]
+      },
+      {
+        "title": "Kappen met kappen",
+        "question_number": 19,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• een berekening van de krimp van het regenwoud in procenten.\n• een berekening van de krimp van het regenwoud in hectare.\n\nEen voorbeeld van een juiste berekening is:\n• Qa = Qv bij Qv = 5% → De krimp is 5 – 2,2 = 2,8% (per jaar).\n• Dit is: 0,028 x 700 miljoen = 19,6 miljoen hectare.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een berekening van de krimp van het regenwoud in procenten."
+          },
+          {
+            "points": 1,
+            "description": "een berekening van de krimp van het regenwoud in hectare."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-kappen-met-kappen-antw19.png"
+        ]
+      },
+      {
+        "title": "Kappen met kappen",
+        "question_number": 20,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• een berekening van de nieuwe evenwichtsprijs per m².\n• een berekening van de heffing.\n\nEen voorbeeld van een juiste berekening is:\n• De prijs wordt: Qv = 1,8% → 1,8 = 7 – 0,02P → P = $ 260 (per m²)\n• Prijs bij Qa = 1,8 is gelijk aan $ 100. De heffing is dan gelijk aan 260 – 100 = $ 160 (per m²).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een berekening van de nieuwe evenwichtsprijs per m²."
+          },
+          {
+            "points": 1,
+            "description": "een berekening van de heffing."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-kappen-met-kappen-antw20.png"
+        ]
+      },
+      {
+        "title": "Australië",
+        "question_number": 21,
+        "answer_text": "⚠️ CONTROLEREN: in het correctievoorschrift is de nummering bij opgave 5 verschoven (vraag 21 staat als '20', vraag 22 als '21', vraag 23 heeft geen eigen nummer/maximumscore-kop); dit antwoord is op inhoud aan deze vraag gekoppeld.\n\nEen voorbeeld van een juist antwoord is:\n• Een hoogconjunctuur zorgt voor een hogere vraag naar de Australische delfstoffen waardoor de prijs stijgt.\n• De productie is (zeer) prijsinelastisch, waardoor deze niet / nauwelijks verandert. Hierdoor zal de vraag naar arbeid weinig veranderen (en is er een zwak effect op de werkgelegenheid).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een hoogconjunctuur zorgt voor een hogere vraag naar de Australische delfstoffen waardoor de prijs stijgt."
+          },
+          {
+            "points": 1,
+            "description": "De productie is (zeer) prijsinelastisch, waardoor deze niet / nauwelijks verandert. Hierdoor zal de vraag naar arbeid weinig veranderen (en is er een zwak effect op de werkgelegenheid)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-australie-antw21.png"
+        ]
+      },
+      {
+        "title": "Australië",
+        "question_number": 22,
+        "answer_text": "⚠️ CONTROLEREN: in het correctievoorschrift is de nummering bij opgave 5 verschoven (vraag 21 staat als '20', vraag 22 als '21', vraag 23 heeft geen eigen nummer/maximumscore-kop); dit antwoord is op inhoud aan deze vraag gekoppeld.\n\nEen voorbeeld van een juist antwoord is:\n• Als de exportprijzen stijgen, dan zullen (bij dezelfde kosten) de winsten / dividenden / aandelenkoersen van bedrijven stijgen.\n• Omdat er sprake is van loonrigiditeit stijgen de winsten harder dan de lonen (en dus neemt de AIQ af).\nof\n• Als de exportprijzen stijgen, dan zal de exportwaarde stijgen en dus het totale inkomen / bbp.\n• Vanwege de loonrigiditeit blijft het arbeidsinkomen gelijk (en dus neemt de AIQ af).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als de exportprijzen stijgen, dan zullen (bij dezelfde kosten) de winsten / dividenden / aandelenkoersen van bedrijven stijgen.\nof\nAls de exportprijzen stijgen, dan zal de exportwaarde stijgen en dus het totale inkomen / bbp."
+          },
+          {
+            "points": 1,
+            "description": "Omdat er sprake is van loonrigiditeit stijgen de winsten harder dan de lonen (en dus neemt de AIQ af).\nof\nVanwege de loonrigiditeit blijft het arbeidsinkomen gelijk (en dus neemt de AIQ af)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-australie-antw22.png"
+        ]
+      },
+      {
+        "title": "Australië",
+        "question_number": 23,
+        "answer_text": "⚠️ CONTROLEREN: in het correctievoorschrift is de nummering bij opgave 5 verschoven (vraag 21 staat als '20', vraag 22 als '21', vraag 23 heeft geen eigen nummer/maximumscore-kop); dit antwoord is op inhoud aan deze vraag gekoppeld.\n\n• een berekening van de vier ontbrekende waarden.\n• het benoemen van de richting van de twee pijlen.\n\nEen voorbeeld van een juist antwoord is:\n• 1 → (E − M) = 671 − 527 = 144\n2 → I = (Y − C − O − E + M) →\nI = 2.385 − 1.237 − 885 − 671 + 527 = 119\n3 → (B − O) = 923 − 885 = 38\n4 → S = (Y − B − C) → S = 2.385 − 923 − 1.237 = 225\n• Pijl 1 loopt van banken naar buitenland en pijl 3 loopt van overheid naar banken.\n\nVoor de eerste deelscore geldt:\nindien vier waarden juist: 2\nindien drie of twee waarden juist: 1\nindien minder dan twee waarden juist: 0",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "een berekening van de vier ontbrekende waarden.\nindien vier waarden juist: 2\nindien drie of twee waarden juist: 1\nindien minder dan twee waarden juist: 0"
+          },
+          {
+            "points": 1,
+            "description": "het benoemen van de richting van de twee pijlen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-australie-antw23.png"
+        ]
+      },
+      {
+        "title": "Australië",
+        "question_number": 24,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• een uitleg over de relatie tussen het saldo op de betalingsbalans en de wisselkoers.\n• een uitleg over de relatie tussen de wisselkoers en de internationale concurrentiepositie.\n\nEen voorbeeld van een juist antwoord is:\n• Het positieve saldo op de betalingsbalans betekent dat er (relatief) veel vraag naar dollars / weinig aanbod van dollars is, waardoor de wisselkoers van de Australische dollar stijgt.\n• Hierdoor worden producten uit Australië duurder / worden producten buiten Australië goedkoper, dus verslechtert de internationale concurrentiepositie.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een uitleg over de relatie tussen het saldo op de betalingsbalans en de wisselkoers."
+          },
+          {
+            "points": 1,
+            "description": "een uitleg over de relatie tussen de wisselkoers en de internationale concurrentiepositie."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-australie-antw24.png"
+        ]
+      },
+      {
+        "title": "De prijs van woningbezit",
+        "question_number": 25,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• een uitleg over de relatie tussen een hoogconjunctuur en de leencapaciteit.\n• een uitleg over de relatie tussen de leencapaciteit en de prijzen.\n\nEen voorbeeld van een juist antwoord is:\n• In een hoogconjunctuur stijgen de lonen. Dit betekent dat huishoudens (vanwege de inkomenstoets) hogere hypotheken / leningen kunnen krijgen.\n• Dit zorgt ervoor dat de vraag naar / betalingsbereidheid voor woningen zal toenemen waardoor de prijs van woningen zal stijgen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een uitleg over de relatie tussen een hoogconjunctuur en de leencapaciteit."
+          },
+          {
+            "points": 1,
+            "description": "een uitleg over de relatie tussen de leencapaciteit en de prijzen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-de-prijs-van-woningbezit-antw25.png"
+        ]
+      },
+      {
+        "title": "De prijs van woningbezit",
+        "question_number": 26,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij een hogere rente zullen de (rente)kosten van een hypothecaire lening toenemen. Hierdoor stijgt het risico op wanbetaling.\n• Dit risico wordt kleiner door een lagere inkomenstoets, omdat dit zorgt voor een lagere maximale hypotheek (en dus lagere lasten).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij een hogere rente zullen de (rente)kosten van een hypothecaire lening toenemen. Hierdoor stijgt het risico op wanbetaling."
+          },
+          {
+            "points": 1,
+            "description": "Dit risico wordt kleiner door een lagere inkomenstoets, omdat dit zorgt voor een lagere maximale hypotheek (en dus lagere lasten)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-de-prijs-van-woningbezit-antw26.png"
+        ]
+      },
+      {
+        "title": "De prijs van woningbezit",
+        "question_number": 27,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• een berekening van de stijging van het nominale bbp / NIC.\n• een berekening van de stijging van het reële bbp / RIC.\n• een berekening van de inflatie.\n\nEen voorbeeld van een juiste berekening is:\n• Het nominale bbp is gestegen met:\nbbp oud = (740,1 / 0,93) = € 795,81 mld\nbbp nieuw = (797,6 / 0,83) = € 960,96 mld\nstijging = (960,96 – 795,81) / 795,81 x 100% = 20,8% (NIC = 120,8)\n• Het reële bbp is gestegen met:\n100 x 1,049 x 1,045 – 100 = 9,6% (RIC = 109,6)\n• (120,8 / 109,6) x 100 = 110,2 → De inflatie is 10,2%.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een berekening van de stijging van het nominale bbp / NIC."
+          },
+          {
+            "points": 1,
+            "description": "een berekening van de stijging van het reële bbp / RIC."
+          },
+          {
+            "points": 1,
+            "description": "een berekening van de inflatie."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-de-prijs-van-woningbezit-antw27.png"
+        ]
+      },
+      {
+        "title": "De prijs van woningbezit",
+        "question_number": 28,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Voor huizenkopers met een hypothecaire lening geldt dat de woonhuisverzekering een verplichte verzekering is.\n• Hierdoor zullen de goede risico’s zich ook verzekeren waardoor er geen averechtse selectie kan optreden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor huizenkopers met een hypothecaire lening geldt dat de woonhuisverzekering een verplichte verzekering is."
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor zullen de goede risico’s zich ook verzekeren waardoor er geen averechtse selectie kan optreden."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-de-prijs-van-woningbezit-antw28.png"
+        ]
+      },
+      {
+        "title": "De prijs van woningbezit",
+        "question_number": 29,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Moral hazard betekent dat mensen zich risicovoller / nalatig gedragen nadat zij zich hebben verzekerd.\n• Bij de woonhuisverzekering is er geen sprake van moral hazard, omdat de schade door het klimaat / collectieve gebeurtenissen ontstaat / mensen willen goed voor hun huis zorgen.\nof\n• Als een huiseigenaar een verzekering heeft afgesloten, kan de eigenaar minder onderhoud plegen aan de woning.\n• In dit geval is er sprake van risicovoller / nalatig gedrag en dus is er sprake van moral hazard.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Moral hazard betekent dat mensen zich risicovoller / nalatig gedragen nadat zij zich hebben verzekerd.\nof\nAls een huiseigenaar een verzekering heeft afgesloten, kan de eigenaar minder onderhoud plegen aan de woning."
+          },
+          {
+            "points": 1,
+            "description": "Bij de woonhuisverzekering is er geen sprake van moral hazard, omdat de schade door het klimaat / collectieve gebeurtenissen ontstaat / mensen willen goed voor hun huis zorgen.\nof\nIn dit geval is er sprake van risicovoller / nalatig gedrag en dus is er sprake van moral hazard."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-vwo-2026-i-de-prijs-van-woningbezit-antw29.png"
+        ]
+      }
+    ]
+  }
+}
