@@ -1,0 +1,524 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "HAVO",
+  "source": "HAVO Economie 2018-I",
+  "answers": [
+   {
+    "title": "Slapend rijk worden?",
+    "question_number": 1,
+    "answer_text": "monopolistische concurrentie\nVoorbeelden van een juist kenmerk zijn:\nBij drogisterijen is er sprake van een:\n− heterogeen assortiment\n− heterogene dienstverlening\n− geringe transparantie",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "monopolistische concurrentie, met een juist kenmerk (heterogeen assortiment / heterogene dienstverlening / geringe transparantie)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-slapend-rijk-worden-antw1.png"
+    ]
+   },
+   {
+    "title": "Slapend rijk worden?",
+    "question_number": 2,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• MO = MK\n−50Q + 230 = 50\nQ = 3,6 miljoen verpakkingen (1)\n• P = −25 × 3,6 + 230 = € 140 (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "MO = MK: −50Q + 230 = 50 → Q = 3,6 miljoen verpakkingen"
+     },
+     {
+      "points": 1,
+      "description": "P = −25 × 3,6 + 230 = € 140"
+     }
+    ],
+    "grading_note": "Het toepassen van MO = MK is noodzakelijk voor het toekennen van scorepunten.",
+    "answer_image_urls": [
+     "economie-havo-2018-i-slapend-rijk-worden-antw2.png"
+    ]
+   },
+   {
+    "title": "Slapend rijk worden?",
+    "question_number": 3,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n€ 50 × 5 miljoen = € 250 miljoen\nAlleen de GVK hoeven gedekt te worden, dus P = € 50 en Q = 5 miljoen verpakkingen (aflezen uit de grafiek).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "€ 50 × 5 miljoen = € 250 miljoen (alleen de GVK hoeven gedekt te worden, dus P = € 50 en Q = 5 miljoen verpakkingen)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-slapend-rijk-worden-antw3.png"
+    ]
+   },
+   {
+    "title": "Slapend rijk worden?",
+    "question_number": 4,
+    "answer_text": "Eén van de onderstaande voorwaarden:\n− Er moet sprake zijn van gescheiden deelmarkten.\n− Het product moet niet kunnen worden doorverkocht.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Eén van de voorwaarden: gescheiden deelmarkten / het product moet niet kunnen worden doorverkocht"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-slapend-rijk-worden-antw4.png"
+    ]
+   },
+   {
+    "title": "Slapend rijk worden?",
+    "question_number": 5,
+    "answer_text": "meer naar links\nEen voorbeeld van een juiste toelichting is:\n• Duitse consumenten zullen minder vraag uitoefenen nu Metolani niet meer vrij verkrijgbaar is bij drogisterijen, (1)\n• waardoor de vraag van Duitse apothekers bij elke prijs lager zal zijn dan de vraag van Duitse drogisterijen (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Duitse consumenten zullen minder vraag uitoefenen nu Metolani niet meer vrij verkrijgbaar is bij drogisterijen,"
+     },
+     {
+      "points": 1,
+      "description": "waardoor de vraag van Duitse apothekers bij elke prijs lager zal zijn dan de vraag van Duitse drogisterijen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-slapend-rijk-worden-antw5.png"
+    ]
+   },
+   {
+    "title": "Van nationaal rekenen naar nationaal beleid",
+    "question_number": 6,
+    "answer_text": "1 (negatieve externe effecten:) overschatting\n2 (productie in het zwarte circuit:) onderschatting\n3 (vrijwilligerswerk:) onderschatting\n\nindien drie juist: 2\nindien twee juist: 1\nindien minder dan twee juist: 0",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "indien drie juist"
+     },
+     {
+      "points": 1,
+      "description": "indien twee juist"
+     },
+     {
+      "points": 0,
+      "description": "indien minder dan twee juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-van-nationaal-rekenen-naar-nationaal-beleid-antw6.png"
+    ]
+   },
+   {
+    "title": "Van nationaal rekenen naar nationaal beleid",
+    "question_number": 7,
+    "answer_text": "• bij (1) de nominale waarde (1)\n• bij (2) totale bruto toegevoegde waarde (1)\n• bij (3) groter (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "bij (1) de nominale waarde"
+     },
+     {
+      "points": 1,
+      "description": "bij (2) totale bruto toegevoegde waarde"
+     },
+     {
+      "points": 1,
+      "description": "bij (3) groter"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-van-nationaal-rekenen-naar-nationaal-beleid-antw7.png"
+    ]
+   },
+   {
+    "title": "Van nationaal rekenen naar nationaal beleid",
+    "question_number": 8,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nnominale verandering bbp: (642,9 − 640,6) / 640,6 × 100% = 0,36% (1)\n100,36 / 99,3 × 100% = 101,07\nMutatie CPI is 1,07%. (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "nominale verandering bbp: (642,9 − 640,6) / 640,6 × 100% = 0,36%"
+     },
+     {
+      "points": 1,
+      "description": "100,36 / 99,3 × 100% = 101,07; mutatie CPI is 1,07%"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-van-nationaal-rekenen-naar-nationaal-beleid-antw8.png"
+    ]
+   },
+   {
+    "title": "Van nationaal rekenen naar nationaal beleid",
+    "question_number": 9,
+    "answer_text": "bij (a) 533,2\nbij (b) 466,8\nbij (c) 214,2\nbij (d) 139,1\n\n• (a) en (b) juist (1)\n• (c) juist (1)\n• (d) juist (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(a) en (b) juist"
+     },
+     {
+      "points": 1,
+      "description": "(c) juist"
+     },
+     {
+      "points": 1,
+      "description": "(d) juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-van-nationaal-rekenen-naar-nationaal-beleid-antw9.png"
+    ]
+   },
+   {
+    "title": "Van nationaal rekenen naar nationaal beleid",
+    "question_number": 10,
+    "answer_text": "De juiste berekening is:\nE − M = 533,2 − 466,8 = 66,4 miljard euro",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "E − M = 533,2 − 466,8 = 66,4 miljard euro"
+     }
+    ],
+    "grading_note": "− Als een kandidaat geantwoord heeft volgens de berekening: (B − O) + (S − I) = (139,1 − 192,6) + (214,2 − 94,3) = 66,4 miljard euro mag het volledige aantal punten worden toegekend.\n− Als de kandidaat uitkomt op een tekort, dan geen scorepunten toekennen.",
+    "answer_image_urls": [
+     "economie-havo-2018-i-van-nationaal-rekenen-naar-nationaal-beleid-antw10.png"
+    ]
+   },
+   {
+    "title": "Van nationaal rekenen naar nationaal beleid",
+    "question_number": 11,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− de overheidsuitgaven verhogen\n− de belastingen verlagen\n\nper juist antwoord: 1",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "per juist antwoord (bijv. de overheidsuitgaven verhogen)"
+     },
+     {
+      "points": 1,
+      "description": "per juist antwoord (bijv. de belastingen verlagen)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-van-nationaal-rekenen-naar-nationaal-beleid-antw11.png"
+    ]
+   },
+   {
+    "title": "Van nationaal rekenen naar nationaal beleid",
+    "question_number": 12,
+    "answer_text": "Voorbeeld van een juiste berekening is:\nHet overheidstekort in 2013 bedraagt: 53,3 / 642,9 × 100% = 8,3% van het bbp (1)\nHet overheidstekort is dus hoger dan het toegestane percentage van 3% binnen de regels van het Stabiliteitspact (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het overheidstekort in 2013 bedraagt: 53,3 / 642,9 × 100% = 8,3% van het bbp"
+     },
+     {
+      "points": 1,
+      "description": "Het overheidstekort is dus hoger dan het toegestane percentage van 3% binnen de regels van het Stabiliteitspact"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-van-nationaal-rekenen-naar-nationaal-beleid-antw12.png"
+    ]
+   },
+   {
+    "title": "Hoe duur is de suiker?",
+    "question_number": 13,
+    "answer_text": "De suiker is geen collectief goed.\nVoorbeelden van een juiste toelichting zijn:\n− Suiker is een rivaliserend goed.\n− Mensen kunnen van consumptie van suiker uitgesloten worden.\n− Suiker kan per eenheid afgerekend worden (en kan dus door de marktsector geleverd worden).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De suiker is geen collectief goed, met een juiste toelichting"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-hoe-duur-is-de-suiker-antw13.png"
+    ]
+   },
+   {
+    "title": "Hoe duur is de suiker?",
+    "question_number": 14,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n1.000 miljoen SRD × 1,37 / 4,24 = 323,1 miljoen USD",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "1.000 miljoen SRD × 1,37 / 4,24 = 323,1 miljoen USD"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-hoe-duur-is-de-suiker-antw14.png"
+    ]
+   },
+   {
+    "title": "Hoe duur is de suiker?",
+    "question_number": 15,
+    "answer_text": "Nee, er wordt niet aan de voorwaarde voldaan.\nEen voorbeeld van een juiste berekening is:\nwereldmarktprijs van suiker in 2013:\n0,14 / 0,454 = 0,31 US dollar per kilo = 310 US dollar per ton",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Nee, er wordt niet aan de voorwaarde voldaan; 0,14 / 0,454 = 0,31 US dollar per kilo = 310 US dollar per ton"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-hoe-duur-is-de-suiker-antw15.png"
+    ]
+   },
+   {
+    "title": "Hoe duur is de suiker?",
+    "question_number": 16,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nUit bron 2 blijkt dat de wisselkoers van de euro ten opzichte van de US dollar is gestegen, wat betekent dat suiker relatief goedkoper is geworden voor afnemers uit de EU.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De wisselkoers van de euro t.o.v. de US dollar is gestegen, waardoor suiker relatief goedkoper is geworden voor afnemers uit de EU"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-hoe-duur-is-de-suiker-antw16.png"
+    ]
+   },
+   {
+    "title": "Hoe duur is de suiker?",
+    "question_number": 17,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nSuikerriet wordt verwerkt tot suiker, maar kan bij onvoldoende opbrengst / lage wereldmarktprijzen van suiker / hoge wisselkoersschommelingen ook tot biobrandstof worden verwerkt.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Suikerriet wordt verwerkt tot suiker, maar kan bij onvoldoende opbrengst / lage wereldmarktprijzen / hoge wisselkoersschommelingen ook tot biobrandstof worden verwerkt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-hoe-duur-is-de-suiker-antw17.png"
+    ]
+   },
+   {
+    "title": "Zekerheidszoekers in de zorg",
+    "question_number": 18,
+    "answer_text": "bij (1) risico-aversie\nbij (2) solidariteit\nbij (3) averechtse selectie\nbij (4) hoog\n\n• (1) juist (1)\n• (2) juist (1)\n• (3) en (4) juist (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(1) juist"
+     },
+     {
+      "points": 1,
+      "description": "(2) juist"
+     },
+     {
+      "points": 1,
+      "description": "(3) en (4) juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-zekerheidszoekers-in-de-zorg-antw18.png"
+    ]
+   },
+   {
+    "title": "Zekerheidszoekers in de zorg",
+    "question_number": 19,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De verzekerde consumeert meer zorg, omdat hij toch al verzekerd is / hij niet direct ervaart dat hij er zelf voor betaalt (1)\n• De toenemende zorgkosten worden dan doorberekend in de zorgpremies (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De verzekerde consumeert meer zorg, omdat hij toch al verzekerd is / hij niet direct ervaart dat hij er zelf voor betaalt"
+     },
+     {
+      "points": 1,
+      "description": "De toenemende zorgkosten worden dan doorberekend in de zorgpremies"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-zekerheidszoekers-in-de-zorg-antw19.png"
+    ]
+   },
+   {
+    "title": "Zekerheidszoekers in de zorg",
+    "question_number": 20,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n€ 2.100 − € 385 = € 1.715 wordt vergoed",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "€ 2.100 − € 385 = € 1.715 wordt vergoed"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-zekerheidszoekers-in-de-zorg-antw20.png"
+    ]
+   },
+   {
+    "title": "Zekerheidszoekers in de zorg",
+    "question_number": 21,
+    "answer_text": "Voor vraag 21 moeten altijd 2 scorepunten worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "altijd toekennen, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-zekerheidszoekers-in-de-zorg-antw21.png"
+    ]
+   },
+   {
+    "title": "Zekerheidszoekers in de zorg",
+    "question_number": 22,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n€ 670 mln / € 50 = 13,4 mln",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "€ 670 mln / € 50 = 13,4 mln"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-zekerheidszoekers-in-de-zorg-antw22.png"
+    ]
+   },
+   {
+    "title": "Zekerheidszoekers in de zorg",
+    "question_number": 23,
+    "answer_text": "−0,2\nEen voorbeeld van een juiste toelichting is:\nVerzekerden reageren bij het startpunt van € 300 prijsgevoeliger (waardoor hun vraag naar zorg elastischer is dan bij het startpunt van € 0).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "−0,2, met als toelichting dat verzekerden bij het startpunt van € 300 prijsgevoeliger reageren"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-zekerheidszoekers-in-de-zorg-antw23.png"
+    ]
+   },
+   {
+    "title": "Zekerheidszoekers in de zorg",
+    "question_number": 24,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• 1 De zorgvraag van verzekerden is afgenomen, doordat de verzekerden een financiële prikkel hebben de kosten te beperken (1)\n• 2 − De zorgvraag wordt groter (drempel om zorg te consumeren kleiner), omdat er voor de eerste € 300 geen eigen risico geldt. Daarnaast zullen verzekerden met zorgkosten tussen € 300 en € 685 mogelijk minder zorg consumeren vanwege een hoger kostenbewustzijn (1)\n− Bij de tweede deelscore, het tweede opsommingsstreepje moet het scorepunt altijd worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord. (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "1: De zorgvraag van verzekerden is afgenomen, doordat de verzekerden een financiële prikkel hebben de kosten te beperken"
+     },
+     {
+      "points": 1,
+      "description": "2: De zorgvraag wordt groter, omdat er voor de eerste € 300 geen eigen risico geldt. Daarnaast zullen verzekerden met zorgkosten tussen € 300 en € 685 mogelijk minder zorg consumeren vanwege een hoger kostenbewustzijn"
+     },
+     {
+      "points": 1,
+      "description": "Bij de tweede deelscore, het tweede opsommingsstreepje: scorepunt altijd toekennen, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-zekerheidszoekers-in-de-zorg-antw24.png"
+    ]
+   },
+   {
+    "title": "Minimumloon: meer of minder werk?",
+    "question_number": 25,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nDe invoering van het minimumloon leidt tot een toename van de bestedingen en deze toegenomen bestedingen leiden tot een hogere productie, die kan leiden tot een hogere werkgelegenheid.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Het minimumloon leidt tot meer bestedingen, die leiden tot een hogere productie, die kan leiden tot een hogere werkgelegenheid"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-minimumloon-meer-of-minder-werk-antw25.png"
+    ]
+   },
+   {
+    "title": "Minimumloon: meer of minder werk?",
+    "question_number": 26,
+    "answer_text": "krantenkop 2\nEen voorbeeld van een juiste toelichting is:\nBij een verhoging van de totale loonsom in de VS wordt een groot deel besteed aan import.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "krantenkop 2, met als toelichting dat een groot deel van een verhoging van de totale loonsom in de VS aan import wordt besteed"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-minimumloon-meer-of-minder-werk-antw26.png"
+    ]
+   },
+   {
+    "title": "Minimumloon: meer of minder werk?",
+    "question_number": 27,
+    "answer_text": "bij (1) prijsregulering\nbij (2) marktmechanisme\nbij (3) de vraag naar arbeid\n\nindien drie juist: 2\nindien twee juist: 1\nindien minder dan twee juist: 0",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "indien drie juist"
+     },
+     {
+      "points": 1,
+      "description": "indien twee juist"
+     },
+     {
+      "points": 0,
+      "description": "indien minder dan twee juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-minimumloon-meer-of-minder-werk-antw27.png"
+    ]
+   },
+   {
+    "title": "Minimumloon: meer of minder werk?",
+    "question_number": 28,
+    "answer_text": "bij (G) 3 De lonen nemen meer toe dan de arbeidsproductiviteit.\nbij (H) 4 De loonkosten per product stijgen.\nbij (I) 1 Bedrijven gaan automatiseren en/of mechaniseren.\nbij (J) 2 De internationale concurrentiepositie verslechtert.\n\n• (G) en (H) juist (1)\n• (I) en (J) juist (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(G) en (H) juist"
+     },
+     {
+      "points": 1,
+      "description": "(I) en (J) juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-minimumloon-meer-of-minder-werk-antw28.png"
+    ]
+   },
+   {
+    "title": "Minimumloon: meer of minder werk?",
+    "question_number": 29,
+    "answer_text": "bij (1) K\nbij (2) L / M / N\nbij (3) O / P\n\n• (1) en (2) juist (1)\n• (3) juist (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(1) en (2) juist"
+     },
+     {
+      "points": 1,
+      "description": "(3) juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-i-minimumloon-meer-of-minder-werk-antw29.png"
+    ]
+   }
+  ]
+ }
+}
