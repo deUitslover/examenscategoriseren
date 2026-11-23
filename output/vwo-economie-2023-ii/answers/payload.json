@@ -1,0 +1,532 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "VWO",
+  "source": "VWO Economie 2023-II",
+  "answers": [
+   {
+    "title": "Macro-economische ontwikkelingen",
+    "question_number": 1,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nY (in 2000) = C + I + O + E – M\nY = 199 + 28 + 106 + 197 – 180\nY = 350",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste berekening is:\nY (in 2000) = C + I + O + E – M\nY = 199 + 28 + 106 + 197 – 180\nY = 350"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-macro-economische-ontwikkelingen-antw1.png"
+    ]
+   },
+   {
+    "title": "Macro-economische ontwikkelingen",
+    "question_number": 2,
+    "answer_text": "Voorbeelden van een juiste berekening zijn:\n− Y (in 2019) = C + I + O + E – M\nY = 260 + 46 + 135 + 211 – 202 = 450 miljard\nIndien de economie met gemiddeld 1% per jaar zou zijn gegroeid, zou Y in 2019 ongeveer 350 x 1,01^19 = 422,84 miljard zijn geweest. De prestatie van de economie is dus bovengemiddeld.\n− De procentuele stijging trendmatige groei = 1,01^19 x 100 – 100 = 20,81%\nDe procentuele stijging van het inkomen = (450 – 350) / 350 x 100 = 28,57%\nOmdat 28,57% > 20,81% geldt dat de groei van de economie bovengemiddeld was.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juiste berekening zijn:\n− Y (in 2019) = C + I + O + E – M\nY = 260 + 46 + 135 + 211 – 202 = 450 miljard\nIndien de economie met gemiddeld 1% per jaar zou zijn gegroeid, zou Y in 2019 ongeveer 350 x 1,01^19 = 422,84 miljard zijn geweest. De prestatie van de economie is dus bovengemiddeld.\n− De procentuele stijging trendmatige groei = 1,01^19 x 100 – 100 = 20,81%\nDe procentuele stijging van het inkomen = (450 – 350) / 350 x 100 = 28,57%\nOmdat 28,57% > 20,81% geldt dat de groei van de economie bovengemiddeld was."
+     }
+    ],
+    "grading_note": "− Wanneer er wordt gerekend met een periode van 20 jaar maximaal 1 scorepunt toekennen.\n− Wanneer er wordt gerekend met een groei van 19% (19 x 1%) maximaal 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-macro-economische-ontwikkelingen-antw2.png"
+    ]
+   },
+   {
+    "title": "Macro-economische ontwikkelingen",
+    "question_number": 3,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nHet overheidssaldo (B – O) in 2019 is 160 – 135 = € 25 miljard. Dat wil zeggen dat de belastingen (die voor vraaguitval zorgen) groter zijn dan de totale overheidsbestedingen, die macro-economisch voor vraag naar goederen zorgen. De overheid heeft dus een negatieve bijdrage geleverd aan de bestedingen van het land.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juist antwoord is:\nHet overheidssaldo (B – O) in 2019 is 160 – 135 = € 25 miljard. Dat wil zeggen dat de belastingen (die voor vraaguitval zorgen) groter zijn dan de totale overheidsbestedingen, die macro-economisch voor vraag naar goederen zorgen. De overheid heeft dus een negatieve bijdrage geleverd aan de bestedingen van het land."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-macro-economische-ontwikkelingen-antw3.png"
+    ]
+   },
+   {
+    "title": "Macro-economische ontwikkelingen",
+    "question_number": 4,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Het nationaal spaarsaldo en het overheidssaldo zijn positief waardoor de overheid de overheidsuitgaven kan verhogen (zonder dat er een tekort ontstaat). Hierdoor stijgen de bestedingen, waardoor het inkomen toeneemt en daardoor de conjunctuur van het eigen land verbetert\n• Door het stijgend inkomen stijgt de consumptie. Hierdoor stijgt de import van het land. Dit betekent voor het buitenland een toename van de export waardoor de conjunctuur van het buitenland (ook) gestimuleerd wordt",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het nationaal spaarsaldo en het overheidssaldo zijn positief waardoor de overheid de overheidsuitgaven kan verhogen (zonder dat er een tekort ontstaat). Hierdoor stijgen de bestedingen, waardoor het inkomen toeneemt en daardoor de conjunctuur van het eigen land verbetert"
+     },
+     {
+      "points": 1,
+      "description": "Door het stijgend inkomen stijgt de consumptie. Hierdoor stijgt de import van het land. Dit betekent voor het buitenland een toename van de export waardoor de conjunctuur van het buitenland (ook) gestimuleerd wordt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-macro-economische-ontwikkelingen-antw4.png"
+    ]
+   },
+   {
+    "title": "Macro-economische ontwikkelingen",
+    "question_number": 5,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Investeringen in R&D verhogen de productiviteit van de aanwezige productiefactoren (zoals kapitaal en arbeid). Hierdoor stijgt de totale factorproductiviteit\n• De groei van de factorproductiviteit betekent (bij gelijkblijvende inzet van productiefactoren) dat de productiecapaciteit groeit (en daarmee de structurele groei)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Investeringen in R&D verhogen de productiviteit van de aanwezige productiefactoren (zoals kapitaal en arbeid). Hierdoor stijgt de totale factorproductiviteit"
+     },
+     {
+      "points": 1,
+      "description": "De groei van de factorproductiviteit betekent (bij gelijkblijvende inzet van productiefactoren) dat de productiecapaciteit groeit (en daarmee de structurele groei)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-macro-economische-ontwikkelingen-antw5.png"
+    ]
+   },
+   {
+    "title": "Markt voor hoger onderwijs",
+    "question_number": 6,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nStudenten kunnen de opgebouwde studieschuld over 35 jaar aflossen, zodat ze bij eventuele betalingsproblemen / een lager inkomen de aflossingen kunnen uitstellen naar later, en het risico van lenen dus lager wordt.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juist antwoord is:\nStudenten kunnen de opgebouwde studieschuld over 35 jaar aflossen, zodat ze bij eventuele betalingsproblemen / een lager inkomen de aflossingen kunnen uitstellen naar later, en het risico van lenen dus lager wordt."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-markt-voor-hoger-onderwijs-antw6.png"
+    ]
+   },
+   {
+    "title": "Markt voor hoger onderwijs",
+    "question_number": 7,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nDoor het leenstelsel kunnen studenten een vervolgopleiding doen. Door de opleiding zal de verdiencapaciteit toenemen waardoor het toekomstig loon hoger is. Als de loonstijging groter is dan de aflossings- en renteverplichtingen, kunnen de bestedingen op termijn hoger zijn.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juist antwoord is:\nDoor het leenstelsel kunnen studenten een vervolgopleiding doen. Door de opleiding zal de verdiencapaciteit toenemen waardoor het toekomstig loon hoger is. Als de loonstijging groter is dan de aflossings- en renteverplichtingen, kunnen de bestedingen op termijn hoger zijn."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-markt-voor-hoger-onderwijs-antw7.png"
+    ]
+   },
+   {
+    "title": "Markt voor hoger onderwijs",
+    "question_number": 8,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Studenten uit huishoudens met relatief lage inkomens moeten lenen, waardoor zij relatief hoge rentelasten hebben na hun opleiding\n• Hierdoor hebben zij een negatiever vermogen / minder mogelijkheden om vermogen op te bouwen ten opzichte van de studenten uit huishoudens met (relatief) hoge inkomens. Dit vergroot de vermogensongelijkheid",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Studenten uit huishoudens met relatief lage inkomens moeten lenen, waardoor zij relatief hoge rentelasten hebben na hun opleiding"
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor hebben zij een negatiever vermogen / minder mogelijkheden om vermogen op te bouwen ten opzichte van de studenten uit huishoudens met (relatief) hoge inkomens. Dit vergroot de vermogensongelijkheid"
+     }
+    ],
+    "grading_note": "Strikt genomen is het huishouden waar de student uit komt niet hetzelfde als zijn/haar toekomstige huishouden. Voor het toekennen van het tweede scorepunt is niet van belang of de kandidaat dit onderscheid heeft gemaakt.",
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-markt-voor-hoger-onderwijs-antw8.png"
+    ]
+   },
+   {
+    "title": "Markt voor hoger onderwijs",
+    "question_number": 9,
+    "answer_text": "Een voorbeeld van een juiste arcering is:\n• Het juist arceren van de subsidie (figuur A)\n• Het juist arceren van het surplus verlies (figuur B)\n(Figuur A en Figuur B: zie afbeelding)\nof voor de eerste deelscore, figuur A: (zie afbeelding)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het juist arceren van de subsidie (figuur A)"
+     },
+     {
+      "points": 1,
+      "description": "Het juist arceren van het surplus verlies (figuur B)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-markt-voor-hoger-onderwijs-antw9.png"
+    ]
+   },
+   {
+    "title": "Markt voor hoger onderwijs",
+    "question_number": 10,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n• Doordat meer studenten hoger onderwijs genieten, stijgt de productiviteit / worden betere goederen en diensten ontwikkeld\n• Deze opbrengsten zijn niet in de prijs van onderwijs inbegrepen / zijn niet voor de student zelf, maar komen ten goede van de maatschappij (en dus stijgt de maatschappelijke brede welvaart)\nof\n• Een hogere opleiding kan leiden tot meer inzichten in het verbeteren van het milieu / de eigen gezondheid, zodat milieuvervuiling vermindert / zorgkosten dalen\n• Deze opbrengsten zijn niet in de prijs van onderwijs inbegrepen / zijn niet voor de student zelf, maar komen ten goede aan de maatschappij (en dus stijgt de maatschappelijke brede welvaart)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Doordat meer studenten hoger onderwijs genieten, stijgt de productiviteit / worden betere goederen en diensten ontwikkeld\nof\nEen hogere opleiding kan leiden tot meer inzichten in het verbeteren van het milieu / de eigen gezondheid, zodat milieuvervuiling vermindert / zorgkosten dalen"
+     },
+     {
+      "points": 1,
+      "description": "Deze opbrengsten zijn niet in de prijs van onderwijs inbegrepen / zijn niet voor de student zelf, maar komen ten goede van de maatschappij (en dus stijgt de maatschappelijke brede welvaart)\nof\nDeze opbrengsten zijn niet in de prijs van onderwijs inbegrepen / zijn niet voor de student zelf, maar komen ten goede aan de maatschappij (en dus stijgt de maatschappelijke brede welvaart)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-markt-voor-hoger-onderwijs-antw10.png"
+    ]
+   },
+   {
+    "title": "Markt voor hoger onderwijs",
+    "question_number": 11,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de subsidie stijgen de overheidsbestedingen. Door deze bestedingen zullen studenten kunnen studeren en later een (goed) betaalde baan kunnen krijgen\n• Later zullen de studenten hierdoor (meer) belasting gaan betalen, waardoor de overheid extra belastingontvangsten heeft",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de subsidie stijgen de overheidsbestedingen. Door deze bestedingen zullen studenten kunnen studeren en later een (goed) betaalde baan kunnen krijgen"
+     },
+     {
+      "points": 1,
+      "description": "Later zullen de studenten hierdoor (meer) belasting gaan betalen, waardoor de overheid extra belastingontvangsten heeft"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-markt-voor-hoger-onderwijs-antw11.png"
+    ]
+   },
+   {
+    "title": "Kostenpost",
+    "question_number": 12,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• (Bij een prijs van € 1,56 is Qv₀ = 447,5 miljoen)\nBij een prijs van € 1,40 (0,90 x 1,56) geldt Qv₀ = 525 miljoen\n%ΔQv = (525 – 447,5) / 447,5 x 100% = +17,32%\n• Ev = %ΔQv / %ΔP → 17,32% / −10% = −1,7\nDe elasticiteit is kleiner dan −1, dus is het prijselastisch",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Bij een prijs van € 1,56 is Qv₀ = 447,5 miljoen)\nBij een prijs van € 1,40 (0,90 x 1,56) geldt Qv₀ = 525 miljoen\n%ΔQv = (525 – 447,5) / 447,5 x 100% = +17,32%"
+     },
+     {
+      "points": 1,
+      "description": "Ev = %ΔQv / %ΔP → 17,32% / −10% = −1,7\nDe elasticiteit is kleiner dan −1, dus is het prijselastisch"
+     }
+    ],
+    "grading_note": "Wanneer de kandidaat rekent met een nieuwe onafgeronde prijs van € 1,404 ook de scorepunten toekennen.",
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-kostenpost-antw12.png"
+    ]
+   },
+   {
+    "title": "Kostenpost",
+    "question_number": 13,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Van Qv naar GO: Qv₁ = −500P + 1.125 → GO (=P) = −0,002Q + 2,25\nTO = GO x Q = −0,002Q² + 2,25Q\nMO = −0,004Q + 2,25\n• MK = 0,66\nMaximale winst bij MO = MK → 0,66 = −0,004Q + 2,25\nQ = 397,50 miljoen brieven\n• GO = −0,002 x 397,50 + 2,25 = 1,46 (afgerond)\nGTK = 0,66 + (300 / 397,50) = 1,41 (afgerond)\n(1,46 – 1,41) / 1,41 x 100 = 3,55%\n(De winst per product is lager dan 10% van de GTK)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Van Qv naar GO: Qv₁ = −500P + 1.125 → GO (=P) = −0,002Q + 2,25\nTO = GO x Q = −0,002Q² + 2,25Q\nMO = −0,004Q + 2,25"
+     },
+     {
+      "points": 1,
+      "description": "MK = 0,66\nMaximale winst bij MO = MK → 0,66 = −0,004Q + 2,25\nQ = 397,50 miljoen brieven"
+     },
+     {
+      "points": 1,
+      "description": "GO = −0,002 x 397,50 + 2,25 = 1,46 (afgerond)\nGTK = 0,66 + (300 / 397,50) = 1,41 (afgerond)\n(1,46 – 1,41) / 1,41 x 100 = 3,55%\n(De winst per product is lager dan 10% van de GTK)"
+     }
+    ],
+    "grading_note": "Wanneer de kandidaat rekent met een nieuwe onafgeronde prijs van € 1,455 ook de scorepunten toekennen.",
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-kostenpost-antw13.png"
+    ]
+   },
+   {
+    "title": "Kostenpost",
+    "question_number": 14,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Consumenten en bedrijven reageren prijselastisch bij een verhoging van het posttarief (en stappen dus sneller over naar digitale communicatiemiddelen). Dit betekent dat de procentuele verandering van de vraag groter is dan de procentuele tariefstijging, waardoor de omzet daalt\n• Consumenten en bedrijven reageren prijsinelastisch bij een verlaging van het posttarief (omdat ze eenmaal gewend zijn aan digitale communicatiemiddelen). Dit betekent dat een tariefverlaging tot een lagere procentuele stijging van de vraag leidt, waardoor de omzet daalt\n(beide opties leiden tot een lagere omzet)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Consumenten en bedrijven reageren prijselastisch bij een verhoging van het posttarief (en stappen dus sneller over naar digitale communicatiemiddelen). Dit betekent dat de procentuele verandering van de vraag groter is dan de procentuele tariefstijging, waardoor de omzet daalt"
+     },
+     {
+      "points": 1,
+      "description": "Consumenten en bedrijven reageren prijsinelastisch bij een verlaging van het posttarief (omdat ze eenmaal gewend zijn aan digitale communicatiemiddelen). Dit betekent dat een tariefverlaging tot een lagere procentuele stijging van de vraag leidt, waardoor de omzet daalt\n(beide opties leiden tot een lagere omzet)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-kostenpost-antw14.png"
+    ]
+   },
+   {
+    "title": "Kostenpost",
+    "question_number": 15,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nUit figuur 1 blijkt dat de omzet procentueel minder is gedaald dan de afzet. Dat betekent dat de brievenpost duurder is geworden. Uit figuur 2 blijkt dat de afzet van pakketpost procentueel meer is gestegen dan de omzet. Dat betekent dat pakketpost relatief goedkoper is geworden. Dan zou er sprake kunnen zijn geweest van kruissubsidie.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juist antwoord is:\nUit figuur 1 blijkt dat de omzet procentueel minder is gedaald dan de afzet. Dat betekent dat de brievenpost duurder is geworden. Uit figuur 2 blijkt dat de afzet van pakketpost procentueel meer is gestegen dan de omzet. Dat betekent dat pakketpost relatief goedkoper is geworden. Dan zou er sprake kunnen zijn geweest van kruissubsidie."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-kostenpost-antw15.png"
+    ]
+   },
+   {
+    "title": "Kostenpost",
+    "question_number": 16,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• De overheid is de principaal en PostNV is de agent. De overheid wil een zo goed mogelijke postbezorging tegen een voor iedereen betaalbare prijs terwijl PostNV streeft naar totale maximale winst / brievenpost relatief duurder maakt via kruissubsidie\n• De overheid heeft onvoldoende informatie om zeker te weten dat PostNV handelt naar het belang van de overheid\n• Het toezicht op PostNV vermindert de asymmetrische informatie waardoor de tegenstelling van belangen wordt verminderd",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De overheid is de principaal en PostNV is de agent. De overheid wil een zo goed mogelijke postbezorging tegen een voor iedereen betaalbare prijs terwijl PostNV streeft naar totale maximale winst / brievenpost relatief duurder maakt via kruissubsidie"
+     },
+     {
+      "points": 1,
+      "description": "De overheid heeft onvoldoende informatie om zeker te weten dat PostNV handelt naar het belang van de overheid"
+     },
+     {
+      "points": 1,
+      "description": "Het toezicht op PostNV vermindert de asymmetrische informatie waardoor de tegenstelling van belangen wordt verminderd"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-kostenpost-antw16.png"
+    ]
+   },
+   {
+    "title": "Doelbewust depreciëren",
+    "question_number": 17,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• ¥ 1 = $ 0,00793\n(0,00793 / 80) x 100 → ¥ 1 = $ 0,0099125\n• ¥ 1 / 0,0099125 → $ 1 = ¥ 100,88",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "¥ 1 = $ 0,00793\n(0,00793 / 80) x 100 → ¥ 1 = $ 0,0099125"
+     },
+     {
+      "points": 1,
+      "description": "¥ 1 / 0,0099125 → $ 1 = ¥ 100,88"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-doelbewust-deprecieren-antw17.png"
+    ]
+   },
+   {
+    "title": "Doelbewust depreciëren",
+    "question_number": 18,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n• Een verlaging van de rente betekent dat buitenlandse beleggers minder geïnteresseerd zullen zijn in het sparen / beleggen in Japan\n• Hierdoor daalt de vraag naar de Japanse yen en volgt een daling van de wisselkoers van de Japanse yen in dollars\nof\n• Een verlaging van de rente betekent dat binnenlandse spaarders geïnteresseerd zullen zijn in het sparen / beleggen in het buitenland\n• Hierdoor stijgt het aanbod van de Japanse yen en volgt een daling van de wisselkoers van de Japanse yen in dollars",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een verlaging van de rente betekent dat buitenlandse beleggers minder geïnteresseerd zullen zijn in het sparen / beleggen in Japan\nof\nEen verlaging van de rente betekent dat binnenlandse spaarders geïnteresseerd zullen zijn in het sparen / beleggen in het buitenland"
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor daalt de vraag naar de Japanse yen en volgt een daling van de wisselkoers van de Japanse yen in dollars\nof\nHierdoor stijgt het aanbod van de Japanse yen en volgt een daling van de wisselkoers van de Japanse yen in dollars"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-doelbewust-deprecieren-antw18.png"
+    ]
+   },
+   {
+    "title": "Doelbewust depreciëren",
+    "question_number": 19,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nDe hogere koers van de dollar betekent dat buitenlandse goederen goedkoper worden ingekocht. Als deze lagere inkoopprijzen worden doorberekend in de verkoopprijzen, kunnen Amerikaanse huishoudens met hun inkomen meer goederen kopen (en dus stijgt de koopkracht).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juist antwoord is:\nDe hogere koers van de dollar betekent dat buitenlandse goederen goedkoper worden ingekocht. Als deze lagere inkoopprijzen worden doorberekend in de verkoopprijzen, kunnen Amerikaanse huishoudens met hun inkomen meer goederen kopen (en dus stijgt de koopkracht)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-doelbewust-deprecieren-antw19.png"
+    ]
+   },
+   {
+    "title": "Doelbewust depreciëren",
+    "question_number": 20,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als de JCB kiest voor ongewijzigd beleid, zal de FED kiezen voor ruim monetair beleid want 104 > 100. Als de JCB kiest voor ruim monetair beleid zal de FED kiezen voor ruim monetair beleid want 100 > 62,5. De JCB zal daarom ook ruim monetair beleid voeren want 100 > 75. Het Nash-evenwicht is dus beide ruim beleid (100, 100)\n• Beide verlagen de rente. Hierdoor stijgen de binnenlandse bestedingen in beide landen waardoor (gegeven de hoogconjunctuur) de (bestedings)inflatie stijgt\n• Omdat het binnenlands prijspeil stijgt (ten opzichte van het buitenlands prijspeil) zal de internationale concurrentiepositie van beide landen verslechteren",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als de JCB kiest voor ongewijzigd beleid, zal de FED kiezen voor ruim monetair beleid want 104 > 100. Als de JCB kiest voor ruim monetair beleid zal de FED kiezen voor ruim monetair beleid want 100 > 62,5. De JCB zal daarom ook ruim monetair beleid voeren want 100 > 75. Het Nash-evenwicht is dus beide ruim beleid (100, 100)"
+     },
+     {
+      "points": 1,
+      "description": "Beide verlagen de rente. Hierdoor stijgen de binnenlandse bestedingen in beide landen waardoor (gegeven de hoogconjunctuur) de (bestedings)inflatie stijgt"
+     },
+     {
+      "points": 1,
+      "description": "Omdat het binnenlands prijspeil stijgt (ten opzichte van het buitenlands prijspeil) zal de internationale concurrentiepositie van beide landen verslechteren"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-doelbewust-deprecieren-antw20.png"
+    ]
+   },
+   {
+    "title": "Vertrouwen",
+    "question_number": 21,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nDoor het lagere producenten-/consumentenvertrouwen dalen de autonome investeringen / consumptie. Dit leidt tot een lagere effectieve vraag, en daarmee tot een lager inkomen. Door het lagere inkomen daalt de consumptie / vraag verder (multiplierwerking). Hierdoor ontstaat een nog lager inkomen (dat meer is gedaald dan de autonome bestedingen).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juist antwoord is:\nDoor het lagere producenten-/consumentenvertrouwen dalen de autonome investeringen / consumptie. Dit leidt tot een lagere effectieve vraag, en daarmee tot een lager inkomen. Door het lagere inkomen daalt de consumptie / vraag verder (multiplierwerking). Hierdoor ontstaat een nog lager inkomen (dat meer is gedaald dan de autonome bestedingen)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-vertrouwen-antw21.png"
+    ]
+   },
+   {
+    "title": "Vertrouwen",
+    "question_number": 22,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de daling van het inkomen daalt de inflatie. Door de lagere inflatie (dan verwacht) zijn de reële productiekosten gestegen, omdat lonen en inkoopprijzen nog vastliggen\n• Door de hogere reële productiekosten wordt produceren duurder / dalen de winstmarges, waardoor de productie daalt",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de daling van het inkomen daalt de inflatie. Door de lagere inflatie (dan verwacht) zijn de reële productiekosten gestegen, omdat lonen en inkoopprijzen nog vastliggen"
+     },
+     {
+      "points": 1,
+      "description": "Door de hogere reële productiekosten wordt produceren duurder / dalen de winstmarges, waardoor de productie daalt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-vertrouwen-antw22.png"
+    ]
+   },
+   {
+    "title": "Vertrouwen",
+    "question_number": 23,
+    "answer_text": "(Figuur: zie afbeelding)\n• Verschuiving GA-curve omlaag met exact het verschil tussen de inflatie π₀ en de lagere inflatie door de schok π₁. Op de nieuwe GA-curve komt er bij het nieuwe inkomen (Y₀= Y*) een nieuwe inflatie tot stand op basis van de lagere inflatieverwachtingen: π₁\n• Verschuiving IS curve naar links en MB curve omlaag, waarbij snijpunt IS₁=MB₁ bij Y₀= Y*",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Verschuiving GA-curve omlaag met exact het verschil tussen de inflatie π₀ en de lagere inflatie door de schok π₁. Op de nieuwe GA-curve komt er bij het nieuwe inkomen (Y₀= Y*) een nieuwe inflatie tot stand op basis van de lagere inflatieverwachtingen: π₁"
+     },
+     {
+      "points": 1,
+      "description": "Verschuiving IS curve naar links en MB curve omlaag, waarbij snijpunt IS₁=MB₁ bij Y₀= Y*"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-vertrouwen-antw23.png"
+    ]
+   },
+   {
+    "title": "Vertrouwen",
+    "question_number": 24,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nKeynesianen stellen dat monetair beleid zwak is en zullen de rente weinig verlagen bij een lagere inflatie. De monetaristen verschuiven de MB-curve sterker bij een verandering van de inflatie, waardoor bij een monetaristische visie de economie sneller terugkeert naar het oude evenwicht / de potentiële productie dan bij de Keynesianen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juist antwoord is:\nKeynesianen stellen dat monetair beleid zwak is en zullen de rente weinig verlagen bij een lagere inflatie. De monetaristen verschuiven de MB-curve sterker bij een verandering van de inflatie, waardoor bij een monetaristische visie de economie sneller terugkeert naar het oude evenwicht / de potentiële productie dan bij de Keynesianen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-vertrouwen-antw24.png"
+    ]
+   },
+   {
+    "title": "Vertrouwen",
+    "question_number": 25,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als deze (loon- en inkoop)contracten vaker worden heronderhandeld, passen de prijzen zich sneller aan (aan de inflatie), en veranderen de reële productiekosten minder bij een hogere/lagere inflatie\n• De helling van de GA-curve (Δπ/ΔY) wordt groter / de GA-curve wordt steiler. Hierdoor zal de productie minder reageren op een verandering van de inflatie waardoor de economie sneller in het evenwicht komt",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als deze (loon- en inkoop)contracten vaker worden heronderhandeld, passen de prijzen zich sneller aan (aan de inflatie), en veranderen de reële productiekosten minder bij een hogere/lagere inflatie"
+     },
+     {
+      "points": 1,
+      "description": "De helling van de GA-curve (Δπ/ΔY) wordt groter / de GA-curve wordt steiler. Hierdoor zal de productie minder reageren op een verandering van de inflatie waardoor de economie sneller in het evenwicht komt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-vertrouwen-antw25.png"
+    ]
+   },
+   {
+    "title": "De woningmarkt in de knel",
+    "question_number": 26,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nHuidige vraag: 850 = −0,125Q + 2.150 → Q = 10.400\ncapaciteitstekort / vraagoverschot: 10.400 – 6.800 = 3.600\nEr staan dus 3.600 huishoudens op de wachtlijst.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste berekening is:\nHuidige vraag: 850 = −0,125Q + 2.150 → Q = 10.400\ncapaciteitstekort / vraagoverschot: 10.400 – 6.800 = 3.600\nEr staan dus 3.600 huishoudens op de wachtlijst."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-de-woningmarkt-in-de-knel-antw26.png"
+    ]
+   },
+   {
+    "title": "De woningmarkt in de knel",
+    "question_number": 27,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• GO = −0,125Q + 2.150\nTO = −0,125Q² + 2.150Q\nMO = −0,25Q + 2.150\n• MO = 0\n−0,25Q + 2.150 = 0\nQ = 8.600\nBij een huur die de omzet maximaliseert (bij GO = −0,125 x 8.600 + 2.150= € 1.075) geldt dat de vraag groter is dan de capaciteit. De stelling is daarom niet juist",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "GO = −0,125Q + 2.150\nTO = −0,125Q² + 2.150Q\nMO = −0,25Q + 2.150"
+     },
+     {
+      "points": 1,
+      "description": "MO = 0\n−0,25Q + 2.150 = 0\nQ = 8.600\nBij een huur die de omzet maximaliseert (bij GO = −0,125 x 8.600 + 2.150= € 1.075) geldt dat de vraag groter is dan de capaciteit. De stelling is daarom niet juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-de-woningmarkt-in-de-knel-antw27.png"
+    ]
+   },
+   {
+    "title": "De woningmarkt in de knel",
+    "question_number": 28,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de lage hypotheekrente zijn de rentekosten nu laag en door het grote tekort aan woningen / de grote vraag naar woningen verwacht men stabiele huurinkomsten\n• Hierdoor is het risico op een verlies / niet afbetalen van de schuld laag",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de lage hypotheekrente zijn de rentekosten nu laag en door het grote tekort aan woningen / de grote vraag naar woningen verwacht men stabiele huurinkomsten"
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor is het risico op een verlies / niet afbetalen van de schuld laag"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-de-woningmarkt-in-de-knel-antw28.png"
+    ]
+   },
+   {
+    "title": "De woningmarkt in de knel",
+    "question_number": 29,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Vraagkant: Er is een inkomensstijging bij de middeninkomens. Gegeven de positieve inkomenselasticiteit betekent dit een toename van de vraag naar particuliere huurwoningen en dus stijgende huren\n• Aanbodkant: Het aantal vrijgekomen huurwoningen is gedaald met 9,9%. Dit betekent dat het aanbod is gedaald en dat leidt, bij gelijkblijvende vraag, tot stijgende huren",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Vraagkant: Er is een inkomensstijging bij de middeninkomens. Gegeven de positieve inkomenselasticiteit betekent dit een toename van de vraag naar particuliere huurwoningen en dus stijgende huren"
+     },
+     {
+      "points": 1,
+      "description": "Aanbodkant: Het aantal vrijgekomen huurwoningen is gedaald met 9,9%. Dit betekent dat het aanbod is gedaald en dat leidt, bij gelijkblijvende vraag, tot stijgende huren"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-ii-de-woningmarkt-in-de-knel-antw29.png"
+    ]
+   }
+  ]
+ }
+}
