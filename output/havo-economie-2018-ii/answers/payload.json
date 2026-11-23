@@ -1,0 +1,525 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "HAVO",
+  "source": "HAVO Economie 2018-II",
+  "answers": [
+   {
+    "title": "Brabantse nachten zijn lang …",
+    "question_number": 1,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n• huur weilanden / podium / tent\ngage Guus Meeuwis (1)\n• deze kosten zijn onafhankelijk van het aantal verkochte toegangskaartjes (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "huur weilanden / podium / tent; gage Guus Meeuwis"
+     },
+     {
+      "points": 1,
+      "description": "deze kosten zijn onafhankelijk van het aantal verkochte toegangskaartjes"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-brabantse-nachten-zijn-lang-antw1.png"
+    ]
+   },
+   {
+    "title": "Brabantse nachten zijn lang …",
+    "question_number": 2,
+    "answer_text": "• Er is sprake van gescheiden deelmarkten (want het lidmaatschap van de vereniging moet kunnen worden aangetoond) (1)\n• De (goedkopere) kaartjes kunnen niet worden doorverkocht aan niet-leden (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er is sprake van gescheiden deelmarkten (want het lidmaatschap van de vereniging moet kunnen worden aangetoond)"
+     },
+     {
+      "points": 1,
+      "description": "De (goedkopere) kaartjes kunnen niet worden doorverkocht aan niet-leden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-brabantse-nachten-zijn-lang-antw2.png"
+    ]
+   },
+   {
+    "title": "Brabantse nachten zijn lang …",
+    "question_number": 3,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• bij P = € 25 geldt GO = GTK\nGTK = GVK + GCK\n€ 25 = € 10 + GCK\nGCK = € 15 (1)\n• bij P = € 25 geldt Qv = 8.250\nTCK = € 15 × 8.250 = € 123.750 (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "bij P = € 25 geldt GO = GTK; GTK = GVK + GCK; € 25 = € 10 + GCK; GCK = € 15"
+     },
+     {
+      "points": 1,
+      "description": "bij P = € 25 geldt Qv = 8.250; TCK = € 15 × 8.250 = € 123.750"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-brabantse-nachten-zijn-lang-antw3.png"
+    ]
+   },
+   {
+    "title": "Brabantse nachten zijn lang …",
+    "question_number": 4,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• bij Q = 6.000 geldt (6.000 = −150P + 12.000 →) P = € 40 (1)\n• TW = TO − TK\nTO = € 40 × 6.000 = € 240.000\nTK = (€ 10 × 6.000) + € 123.750 = € 183.750\nTW = € 56.250 (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "bij Q = 6.000 geldt (6.000 = −150P + 12.000 →) P = € 40"
+     },
+     {
+      "points": 1,
+      "description": "TW = TO − TK; TO = € 40 × 6.000 = € 240.000; TK = (€ 10 × 6.000) + € 123.750 = € 183.750; TW = € 56.250"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-brabantse-nachten-zijn-lang-antw4.png"
+    ]
+   },
+   {
+    "title": "Brabantse nachten zijn lang …",
+    "question_number": 5,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\naantal verkochte kaartjes bij MO = MK (maximale totale winst): 5.250 (aflezen)\nhuidige capaciteit van de locatie: 6.000\nbezettingsgraad is 5.250 / 6.000 × 100% = 87,5%",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Q bij MO = MK: 5.250 (aflezen); capaciteit 6.000; bezettingsgraad is 5.250 / 6.000 × 100% = 87,5%"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-brabantse-nachten-zijn-lang-antw5.png"
+    ]
+   },
+   {
+    "title": "Brabantse nachten zijn lang …",
+    "question_number": 6,
+    "answer_text": "bij (1) betalingsbereidheid\nbij (2) substitutie\nbij (3) Qv = −150P + 11.000\nbij (4) totale\n\nindien vier juist: 3\nindien drie juist: 2\nindien twee juist: 1\nindien minder dan twee juist: 0",
+    "scoring_steps": [
+     {
+      "points": 3,
+      "description": "indien vier juist"
+     },
+     {
+      "points": 2,
+      "description": "indien drie juist"
+     },
+     {
+      "points": 1,
+      "description": "indien twee juist"
+     },
+     {
+      "points": 0,
+      "description": "indien minder dan twee juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-brabantse-nachten-zijn-lang-antw6.png"
+    ]
+   },
+   {
+    "title": "Het Britse pond crasht",
+    "question_number": 7,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Beleggers verwachten dat de Brexit slecht is voor de Britse economie en dus voor hun beleggingen (1)\n• Zij kiezen een bestemming voor hun beleggingen buiten GB. Het aanbod van Britse ponden zal (bij gelijkblijvende of afnemende vraag) toenemen (ten opzichte van de euro en de dollar) waardoor de koers van het pond zal dalen (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Beleggers verwachten dat de Brexit slecht is voor de Britse economie en dus voor hun beleggingen"
+     },
+     {
+      "points": 1,
+      "description": "Zij kiezen een bestemming voor hun beleggingen buiten GB. Het aanbod van Britse ponden zal (bij gelijkblijvende of afnemende vraag) toenemen waardoor de koers van het pond zal dalen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-het-britse-pond-crasht-antw7.png"
+    ]
+   },
+   {
+    "title": "Het Britse pond crasht",
+    "question_number": 8,
+    "answer_text": "• 1 KR en uitgaven (1)\n• 2 LR en inkomsten (1)\n• 3 LR en inkomsten (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "1 KR en uitgaven"
+     },
+     {
+      "points": 1,
+      "description": "2 LR en inkomsten"
+     },
+     {
+      "points": 1,
+      "description": "3 LR en inkomsten"
+     }
+    ],
+    "grading_note": "Deelscores steeds alleen toekennen als beide elementen juist zijn.",
+    "answer_image_urls": [
+     "economie-havo-2018-ii-het-britse-pond-crasht-antw8.png"
+    ]
+   },
+   {
+    "title": "Het Britse pond crasht",
+    "question_number": 9,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• waardestijging euro t.o.v. het Britse pond:\n(0,813 − 0,761) / 0,761 × 100 % = 6,8% (1)\n• 1 dollar wordt 0,813 / 1,112 = 0,73 Britse pond\n1 dollar was 0,761 / 1,142 = 0,67 Britse pond\nwaardestijging dollar t.o.v. het Britse pond = (0,73 − 0,67) / 0,67 × 100 % = 8,96%\nde Amerikaanse toerist heeft het meeste voordeel (8,96% > 6,8%) (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "waardestijging euro t.o.v. het Britse pond: (0,813 − 0,761) / 0,761 × 100 % = 6,8%"
+     },
+     {
+      "points": 1,
+      "description": "1 dollar wordt 0,813 / 1,112 = 0,73 Britse pond; was 0,761 / 1,142 = 0,67 Britse pond; waardestijging dollar = (0,73 − 0,67) / 0,67 × 100 % = 8,96%; de Amerikaanse toerist heeft het meeste voordeel (8,96% > 6,8%)"
+     }
+    ],
+    "grading_note": "Voor een andere juiste manier van tussentijds afronden ook scorepunten toekennen.",
+    "answer_image_urls": [
+     "economie-havo-2018-ii-het-britse-pond-crasht-antw9.png"
+    ]
+   },
+   {
+    "title": "Het Britse pond crasht",
+    "question_number": 10,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Door de koersdaling van het Britse pond zijn Nederlandse agrarische producten duurder geworden op de Britse markt (1)\n• Door de koersdaling van het Britse pond zijn Britse agrarische producten goedkoper geworden op de EU-markt / Nederlandse markt / wereldmarkt (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de koersdaling van het Britse pond zijn Nederlandse agrarische producten duurder geworden op de Britse markt"
+     },
+     {
+      "points": 1,
+      "description": "Door de koersdaling van het Britse pond zijn Britse agrarische producten goedkoper geworden op de EU-markt / Nederlandse markt / wereldmarkt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-het-britse-pond-crasht-antw10.png"
+    ]
+   },
+   {
+    "title": "Het Britse pond crasht",
+    "question_number": 11,
+    "answer_text": "Voorbeelden van een juiste uitleg zijn:\n• Door de koersdaling van het Britse pond kunnen importgoederen voor GB duurder worden (1)\n• De prijsstijging van importgoederen kan doorwerken in het algemeen prijspeil van GB (1)\nof\n• Door de koersdaling van het Britse pond kunnen Britse exportgoederen goedkoper worden op de EU-markt / Nederlandse markt / wereldmarkt (1)\n• De vraag naar Britse exportgoederen kan toenemen en groter worden dan de productiecapaciteit, waardoor de prijzen van deze goederen kunnen stijgen. Deze prijsstijging kan doorwerken in het algemeen prijspeil van GB (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de koersdaling van het Britse pond kunnen importgoederen voor GB duurder worden / kunnen Britse exportgoederen goedkoper worden op de EU-markt / Nederlandse markt / wereldmarkt"
+     },
+     {
+      "points": 1,
+      "description": "De prijsstijging van importgoederen kan doorwerken in het algemeen prijspeil van GB / de vraag naar Britse exportgoederen kan groter worden dan de productiecapaciteit, waardoor de prijzen stijgen en dit kan doorwerken in het algemeen prijspeil van GB"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-het-britse-pond-crasht-antw11.png"
+    ]
+   },
+   {
+    "title": "Het Britse pond crasht",
+    "question_number": 12,
+    "answer_text": "Voorbeelden van een juiste uitleg zijn (twee van de drie noemen):\n− een verlaging van de rente maakt lenen goedkoper waardoor de bestedingen gestimuleerd worden\n− een verlaging van de rente maakt sparen minder aantrekkelijk waardoor de bestedingen gestimuleerd worden\n− een verlaging van de rente laat het Britse pond in waarde dalen waardoor de export zal stijgen en de import zal dalen, hetgeen ook kan bijdragen aan de economische groei",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "per juiste manier en uitleg (eerste)"
+     },
+     {
+      "points": 1,
+      "description": "per juiste manier en uitleg (tweede)"
+     }
+    ],
+    "grading_note": "Per juiste manier en uitleg 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "economie-havo-2018-ii-het-britse-pond-crasht-antw12.png"
+    ]
+   },
+   {
+    "title": "Zorgeloos kiezen?",
+    "question_number": 13,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De ‘goede’ risico’s / mensen met een laag risico op zorgkosten zouden zich niet verzekeren omdat zij de premie te hoog vinden / Alleen de ‘slechte’ risico’s / mensen met een hoog risico op zorgkosten zouden zich verzekeren (1)\n• De premie moet hierdoor (verder) stijgen om de schadelast / hoge kosten te kunnen dekken (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De ‘goede’ risico’s zouden zich niet verzekeren omdat zij de premie te hoog vinden / alleen de ‘slechte’ risico’s zouden zich verzekeren"
+     },
+     {
+      "points": 1,
+      "description": "De premie moet hierdoor (verder) stijgen om de schadelast / hoge kosten te kunnen dekken"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-zorgeloos-kiezen-antw13.png"
+    ]
+   },
+   {
+    "title": "Zorgeloos kiezen?",
+    "question_number": 14,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nVerzekerden kunnen zich minder risicovol gaan gedragen, omdat ze het eerste deel van de zorgkosten zelf moeten betalen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Verzekerden kunnen zich minder risicovol gaan gedragen, omdat ze het eerste deel van de zorgkosten zelf moeten betalen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-zorgeloos-kiezen-antw14.png"
+    ]
+   },
+   {
+    "title": "Zorgeloos kiezen?",
+    "question_number": 15,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nBij de Zilverpolis laat de verzekerde de keuze van zorgverlening en apotheek over aan de zorgverzekeraar, waardoor deze de zorg efficiënter en goedkoper kan inkopen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De verzekerde laat de keuze van zorgverlening en apotheek over aan de zorgverzekeraar, waardoor deze de zorg efficiënter en goedkoper kan inkopen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-zorgeloos-kiezen-antw15.png"
+    ]
+   },
+   {
+    "title": "Zorgeloos kiezen?",
+    "question_number": 16,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Verzekerden met een lage kans op zorgkosten zullen eerder een verzekering kiezen met een hoog eigen risico / verzekerden met een hoge kans op zorgkosten zullen eerder een verzekering kiezen met een laag eigen risico (1)\n• zodat de verzekeraar inzicht krijgt in het risicoprofiel van de verzekerden (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Verzekerden met een lage kans op zorgkosten zullen eerder een hoog eigen risico kiezen / met een hoge kans eerder een laag eigen risico"
+     },
+     {
+      "points": 1,
+      "description": "zodat de verzekeraar inzicht krijgt in het risicoprofiel van de verzekerden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-zorgeloos-kiezen-antw16.png"
+    ]
+   },
+   {
+    "title": "Zorgeloos kiezen?",
+    "question_number": 17,
+    "answer_text": "(Karin kiest voor een Goudpolis met maximaal eigen risico.)\nEen voorbeeld van een juiste berekening is:\n• besparing jaarpremie: (€ 120 − € 75) × 12 = € 540 (1)\n• extra benodigde hoeveelheid spaargeld (€ 875 − € 375 extra benodigde eigen risico): € 500\nDe besparing is dus hoger (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "besparing jaarpremie: (€ 120 − € 75) × 12 = € 540"
+     },
+     {
+      "points": 1,
+      "description": "extra benodigde hoeveelheid spaargeld (€ 875 − € 375): € 500; de besparing is dus hoger"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-zorgeloos-kiezen-antw17.png"
+    ]
+   },
+   {
+    "title": "Eilanden maken het verschil",
+    "question_number": 18,
+    "answer_text": "bij (1) primaire inkomens\nbij (2) rente\nbij (3) subjectieve\n\nindien drie juist: 2\nindien twee juist: 1\nindien minder dan twee juist: 0",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "indien drie juist"
+     },
+     {
+      "points": 1,
+      "description": "indien twee juist"
+     },
+     {
+      "points": 0,
+      "description": "indien minder dan twee juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-eilanden-maken-het-verschil-antw18.png"
+    ]
+   },
+   {
+    "title": "Eilanden maken het verschil",
+    "question_number": 19,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n4ᵉ kwartiel: (100% − 44,8%) = 55,2%\n55,2% / 5,1% = een verhouding van 1 : 10,8",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "4ᵉ kwartiel: (100% − 44,8%) = 55,2%; 55,2% / 5,1% = een verhouding van 1 : 10,8"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-eilanden-maken-het-verschil-antw19.png"
+    ]
+   },
+   {
+    "title": "Eilanden maken het verschil",
+    "question_number": 20,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• secundair inkomen van het 4ᵉ kwartiel: 5,5 × 9,8 = 53,9% (1)\n• coördinaat (75 ; 46,1) (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "secundair inkomen van het 4ᵉ kwartiel: 5,5 × 9,8 = 53,9%"
+     },
+     {
+      "points": 1,
+      "description": "coördinaat (75 ; 46,1)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-eilanden-maken-het-verschil-antw20.png"
+    ]
+   },
+   {
+    "title": "Eilanden maken het verschil",
+    "question_number": 21,
+    "answer_text": "links\nEen voorbeeld van een juiste toelichting is:\n• De secundaire-inkomensverhouding van Saba is 1 : 9,8 en de secundaire-inkomensverhouding van Bonaire is 1 : 9,1 (1)\n• Het inkomen in Bonaire is gelijker verdeeld en de Lorenzcurve van Bonaire ligt dus links van de Lorenzcurve van Saba (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De secundaire-inkomensverhouding van Saba is 1 : 9,8 en van Bonaire 1 : 9,1"
+     },
+     {
+      "points": 1,
+      "description": "Het inkomen in Bonaire is gelijker verdeeld en de Lorenzcurve van Bonaire ligt dus links van de Lorenzcurve van Saba"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-eilanden-maken-het-verschil-antw21.png"
+    ]
+   },
+   {
+    "title": "Eilanden maken het verschil",
+    "question_number": 22,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n((80 × 9,1) + (13 × 10,8) + (7 × 9,8)) / 100 = 9,4\nDe secundaire-inkomensverhouding is 1 : 9,4.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "((80 × 9,1) + (13 × 10,8) + (7 × 9,8)) / 100 = 9,4; de secundaire-inkomensverhouding is 1 : 9,4"
+     }
+    ],
+    "grading_note": "Als het ongewogen gemiddelde is berekend, geen scorepunten toekennen.",
+    "answer_image_urls": [
+     "economie-havo-2018-ii-eilanden-maken-het-verschil-antw22.png"
+    ]
+   },
+   {
+    "title": "Eilanden maken het verschil",
+    "question_number": 23,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Bij een progressief belastingstelsel (zoals in ‘Europees’ Nederland) geldt voor hogere inkomens een hoger belastingtarief dan voor lagere inkomens, waardoor de secundaire-inkomensverschillen kleiner worden (1)\n• Bij een proportioneel belastingstelsel (zoals in de BES-eilanden) geldt hetzelfde belastingtarief voor elke hoogte van het inkomen, waardoor de verschillen even groot blijven (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij een progressief belastingstelsel geldt voor hogere inkomens een hoger belastingtarief, waardoor de secundaire-inkomensverschillen kleiner worden"
+     },
+     {
+      "points": 1,
+      "description": "Bij een proportioneel belastingstelsel geldt hetzelfde belastingtarief voor elke hoogte van het inkomen, waardoor de verschillen even groot blijven"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-eilanden-maken-het-verschil-antw23.png"
+    ]
+   },
+   {
+    "title": "Prijzenoorlog",
+    "question_number": 24,
+    "answer_text": "oligopolie\nEen voorbeeld van een juiste toelichting is:\nEr is sprake van een beperkt aantal (twee) aanbieders.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "oligopolie, met als toelichting: er is sprake van een beperkt aantal (twee) aanbieders"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-prijzenoorlog-antw24.png"
+    ]
+   },
+   {
+    "title": "Prijzenoorlog",
+    "question_number": 25,
+    "answer_text": "homogeen goed\nEen voorbeeld van een juiste toelichting is:\nVolgens Victor Valet maakt de consument uitsluitend op basis van de prijs een afweging.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "homogeen goed, met als toelichting: de consument maakt uitsluitend op basis van de prijs een afweging"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-prijzenoorlog-antw25.png"
+    ]
+   },
+   {
+    "title": "Prijzenoorlog",
+    "question_number": 26,
+    "answer_text": "prijselastische vraag\nEen voorbeeld van een juiste toelichting is:\n• Een prijsverlaging / tariefverlaging leidt volgens Victor Valet tot meer omzet (1)\n• Hij gaat er kennelijk van uit dat een prijsverlaging / tariefverlaging tot een meer dan evenredige stijging van de afzet leidt (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een prijsverlaging / tariefverlaging leidt volgens Victor Valet tot meer omzet"
+     },
+     {
+      "points": 1,
+      "description": "Hij gaat er kennelijk van uit dat een prijsverlaging / tariefverlaging tot een meer dan evenredige stijging van de afzet leidt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-prijzenoorlog-antw26.png"
+    ]
+   },
+   {
+    "title": "Prijzenoorlog",
+    "question_number": 27,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• tarief BP bij 8 uur: € 10\ntarief CP bij 8 uur: (3 × € 2) × 8 uur = € 48 (1)\nVerschil is (10 − 48) / 48 × 100% = - 79,2% (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "tarief BP bij 8 uur: € 10; tarief CP bij 8 uur: (3 × € 2) × 8 uur = € 48"
+     },
+     {
+      "points": 1,
+      "description": "Verschil is (10 − 48) / 48 × 100% = - 79,2%"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-prijzenoorlog-antw27.png"
+    ]
+   },
+   {
+    "title": "Prijzenoorlog",
+    "question_number": 28,
+    "answer_text": "De interviewer heeft geen gelijk.\nEen voorbeeld van een juiste toelichting is:\nTarief verlagen is voor beide partijen de dominante strategie en is tevens de optimale uitkomst. Beide partijen krijgen een hogere winst dan bij tarief handhaven dus er is geen sprake van een gevangenendilemma.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De interviewer heeft geen gelijk: tarief verlagen is voor beide de dominante strategie én de optimale uitkomst, dus geen gevangenendilemma"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2018-ii-prijzenoorlog-antw28.png"
+    ]
+   }
+  ]
+ }
+}
