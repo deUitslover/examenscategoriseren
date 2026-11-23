@@ -1,0 +1,539 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "VWO",
+  "source": "VWO Economie 2022-III",
+  "answers": [
+   {
+    "title": "Insectenburgers, niet voor de poes",
+    "question_number": 1,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De autonome vraag kan zijn onderschat, doordat een student in het algemeen een lager inkomen heeft dan de gemiddelde consument\n• De autonome vraag kan zijn overschat, doordat studenten naar alle waarschijnlijkheid andere voorkeuren hebben vergeleken met niet-studenten / met de rest van de bevolking",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De autonome vraag kan zijn onderschat, doordat een student in het algemeen een lager inkomen heeft dan de gemiddelde consument"
+     },
+     {
+      "points": 1,
+      "description": "De autonome vraag kan zijn overschat, doordat studenten naar alle waarschijnlijkheid andere voorkeuren hebben vergeleken met niet-studenten / met de rest van de bevolking"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-insectenburgers-niet-voor-de-poes-antw1.png"
+    ]
+   },
+   {
+    "title": "Insectenburgers, niet voor de poes",
+    "question_number": 2,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• GO = P = −(1/5.000)Q + 20 → TO = −(1/5.000)Q² + 20Q\nMO = (TO′) = −(1/2.500)Q + 20\nMK = (TK′) = 2,5\n• minimaal verlies bij MO = MK → −(1/2.500)Q + 20 = 2,5 → Q = 43.750\n• Deze Q invullen in de vraagfunctie: 43.750 = -5.000 P + 100.000\nEen minimaal verlies wordt dus behaald bij een prijs van € 11,25 per kilo",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "GO = P = −(1/5.000)Q + 20 → TO = −(1/5.000)Q² + 20Q\nMO = (TO′) = −(1/2.500)Q + 20\nMK = (TK′) = 2,5"
+     },
+     {
+      "points": 1,
+      "description": "minimaal verlies bij MO = MK → −(1/2.500)Q + 20 = 2,5 → Q = 43.750"
+     },
+     {
+      "points": 1,
+      "description": "Deze Q invullen in de vraagfunctie: 43.750 = -5.000 P + 100.000\nEen minimaal verlies wordt dus behaald bij een prijs van € 11,25 per kilo"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-insectenburgers-niet-voor-de-poes-antw2.png"
+    ]
+   },
+   {
+    "title": "Insectenburgers, niet voor de poes",
+    "question_number": 3,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nBij het streven naar maximale omzet past een lagere prijs dan bij het streven naar maximale winst. Een lagere prijs trekt meer klanten, en dit biedt uitzicht op een vaste klantenkring / meer naamsbekendheid (wat uiteindelijk kan leiden tot toename van de winst).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juist antwoord is:\nBij het streven naar maximale omzet past een lagere prijs dan bij het streven naar maximale winst. Een lagere prijs trekt meer klanten, en dit biedt uitzicht op een vaste klantenkring / meer naamsbekendheid (wat uiteindelijk kan leiden tot toename van de winst)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-insectenburgers-niet-voor-de-poes-antw3.png"
+    ]
+   },
+   {
+    "title": "Insectenburgers, niet voor de poes",
+    "question_number": 4,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Qv = −5.000 × 9 + 100.000 = 55.000\nTO = 55.000 x 9 = € 495.000\nTK = (55.000 x 0,75) + 400.000 = € 441.250\nTW = € 53.750\n• Het plan vergt een jaarlijkse subsidie van 55.000 x € 1,75 = € 96.250. Dit subsidiebedrag is groter dan de winst die onder de gestelde voorwaarde kan ontstaan",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Qv = −5.000 × 9 + 100.000 = 55.000\nTO = 55.000 x 9 = € 495.000\nTK = (55.000 x 0,75) + 400.000 = € 441.250\nTW = € 53.750"
+     },
+     {
+      "points": 1,
+      "description": "Het plan vergt een jaarlijkse subsidie van 55.000 x € 1,75 = € 96.250. Dit subsidiebedrag is groter dan de winst die onder de gestelde voorwaarde kan ontstaan"
+     }
+    ],
+    "grading_note": "Als de toename van de winst is berekend op € 70.937,50 (op basis van het minimale verlies bij vraag 2) ook het eerste scorepunt toekennen.",
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-insectenburgers-niet-voor-de-poes-antw4.png"
+    ]
+   },
+   {
+    "title": "Insectenburgers, niet voor de poes",
+    "question_number": 5,
+    "answer_text": "Voorbeelden van een juist argument vóór het voorstel zijn:\n− Tijdelijke subsidie van insectenburgers kan de nieuwe onderneming in staat stellen om de concurrentie later op eigen kracht aan te kunnen.\n− De milieuschade kan worden beperkt als de introductie van insectenburgers een succes wordt.\n\nVoorbeelden van een juist argument tegen het voorstel zijn:\n− De verlening van subsidie verstoort de concurrentie. De producenten van vlees kunnen bezwaar maken dat zij niet worden gesubsidieerd.\n− De negatieve externe effecten beperken door middel van een subsidie legt een beslag op de belastingbetaler.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voorbeelden van een juist argument vóór het voorstel zijn:\n− Tijdelijke subsidie van insectenburgers kan de nieuwe onderneming in staat stellen om de concurrentie later op eigen kracht aan te kunnen.\n− De milieuschade kan worden beperkt als de introductie van insectenburgers een succes wordt."
+     },
+     {
+      "points": 1,
+      "description": "Voorbeelden van een juist argument tegen het voorstel zijn:\n− De verlening van subsidie verstoort de concurrentie. De producenten van vlees kunnen bezwaar maken dat zij niet worden gesubsidieerd.\n− De negatieve externe effecten beperken door middel van een subsidie legt een beslag op de belastingbetaler."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-insectenburgers-niet-voor-de-poes-antw5.png"
+    ]
+   },
+   {
+    "title": "Noorwegen leert van Nederland",
+    "question_number": 6,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De Nederlandse export van gas leidde tot een toenemende vraag naar de gulden, waardoor de koers steeg, de internationale concurrentiepositie verslechterde\n• en de export van veel andere goederen en diensten daalde, met als gevolg daling van de productie en stijging van de werkloosheid",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De Nederlandse export van gas leidde tot een toenemende vraag naar de gulden, waardoor de koers steeg, de internationale concurrentiepositie verslechterde"
+     },
+     {
+      "points": 1,
+      "description": "en de export van veel andere goederen en diensten daalde, met als gevolg daling van de productie en stijging van de werkloosheid"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-noorwegen-leert-van-nederland-antw6.png"
+    ]
+   },
+   {
+    "title": "Noorwegen leert van Nederland",
+    "question_number": 7,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n(0,625 x 8,7) + (0,032 x 0,8) + (0,343 x 4,3) = 6,94%",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste berekening is:\n(0,625 x 8,7) + (0,032 x 0,8) + (0,343 x 4,3) = 6,94%"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-noorwegen-leert-van-nederland-antw7.png"
+    ]
+   },
+   {
+    "title": "Noorwegen leert van Nederland",
+    "question_number": 8,
+    "answer_text": "Een voorbeeld van een juiste toelichting is:\n• De exportopbrengsten van gas zorgen voor ingaande geldstromen op (de lopende rekening van) de betalingsbalans\n• Deze worden gecompenseerd door uitgaande geldstromen op (de kapitaalrekening van) de betalingsbalans als gevolg van de internationale beleggingen van het fonds",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De exportopbrengsten van gas zorgen voor ingaande geldstromen op (de lopende rekening van) de betalingsbalans"
+     },
+     {
+      "points": 1,
+      "description": "Deze worden gecompenseerd door uitgaande geldstromen op (de kapitaalrekening van) de betalingsbalans als gevolg van de internationale beleggingen van het fonds"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-noorwegen-leert-van-nederland-antw8.png"
+    ]
+   },
+   {
+    "title": "Noorwegen leert van Nederland",
+    "question_number": 9,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nDe Nederlandse overheid heeft de inkomsten uit export van aardgas direct ingezet voor lopende overheidsuitgaven en heeft daarmee een hoge tijdsvoorkeur. (De Noorse overheid spaart de olieverdiensten op voor later / voor de financiering van toekomstige overheidsuitgaven. De Noorse overheid heeft een lage tijdsvoorkeur)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste uitleg is:\nDe Nederlandse overheid heeft de inkomsten uit export van aardgas direct ingezet voor lopende overheidsuitgaven en heeft daarmee een hoge tijdsvoorkeur. (De Noorse overheid spaart de olieverdiensten op voor later / voor de financiering van toekomstige overheidsuitgaven. De Noorse overheid heeft een lage tijdsvoorkeur)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-noorwegen-leert-van-nederland-antw9.png"
+    ]
+   },
+   {
+    "title": "Noorwegen leert van Nederland",
+    "question_number": 10,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Het rendement van beleggen in aandelen is afhankelijk van schommelingen van de bedrijfsresultaten (en dus conjunctuurgevoeliger), terwijl obligaties een vaste rentevergoeding bieden\n• Door een toegenomen risico zal bij afname van de groei van de wereldeconomie / bij daling van de winstverwachtingen van bedrijven de betaalbaarheid van de vergrijzing in gevaar komen door een lager rendement van het fonds",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het rendement van beleggen in aandelen is afhankelijk van schommelingen van de bedrijfsresultaten (en dus conjunctuurgevoeliger), terwijl obligaties een vaste rentevergoeding bieden"
+     },
+     {
+      "points": 2,
+      "description": "Door een toegenomen risico zal bij afname van de groei van de wereldeconomie / bij daling van de winstverwachtingen van bedrijven de betaalbaarheid van de vergrijzing in gevaar komen door een lager rendement van het fonds"
+     }
+    ],
+    "grading_note": "Bij de tweede deelscore maximaal 1 scorepunt toekennen als de toename van het risico niet is genoemd.",
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-noorwegen-leert-van-nederland-antw10.png"
+    ]
+   },
+   {
+    "title": "Vasthouden aan de parto",
+    "question_number": 11,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nAls een lidstaat te kampen krijgt met tegenvallende economische groei kunnen de (groeiende) werkloosheidsuitkeringen de inkomensterugval beperken, zodat de afname van de bestedingen en daarmee de productie beperkt blijven.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nAls een lidstaat te kampen krijgt met tegenvallende economische groei kunnen de (groeiende) werkloosheidsuitkeringen de inkomensterugval beperken, zodat de afname van de bestedingen en daarmee de productie beperkt blijven."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-vasthouden-aan-de-parto-antw11.png"
+    ]
+   },
+   {
+    "title": "Vasthouden aan de parto",
+    "question_number": 12,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• bbp = 270,6 / 0,768 = 352,3 miljard parto\n• financieringstekort = 10,1 / 352,3 × 100% = 2,87%\n2,87% > 2,5% (en dat betekent dat de correctieve arm van toepassing is)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "bbp = 270,6 / 0,768 = 352,3 miljard parto"
+     },
+     {
+      "points": 1,
+      "description": "financieringstekort = 10,1 / 352,3 × 100% = 2,87%\n2,87% > 2,5% (en dat betekent dat de correctieve arm van toepassing is)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-vasthouden-aan-de-parto-antw12.png"
+    ]
+   },
+   {
+    "title": "Vasthouden aan de parto",
+    "question_number": 13,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nDe spilkoers is: (1,209 + 1,636) / 2 = 1,4225\n(1,209 − 1,4225) / 1,4225 × 100% = -15,0% → de bandbreedte bedraagt 30,0%",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De spilkoers is: (1,209 + 1,636) / 2 = 1,4225"
+     },
+     {
+      "points": 1,
+      "description": "(1,209 − 1,4225) / 1,4225 × 100% = -15,0% → de bandbreedte bedraagt 30,0%"
+     }
+    ],
+    "grading_note": "Voor een andere juiste afronding / berekening kunnen ook scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-vasthouden-aan-de-parto-antw13.png"
+    ]
+   },
+   {
+    "title": "Vasthouden aan de parto",
+    "question_number": 14,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Het verlagen van de tarieven van inkomstenbelasting leidt tot hogere besteedbare inkomens waardoor er meer wordt geïmporteerd van de handelspartners van de EMG\n• met als gevolg dat het aanbod van de droste / de vraag naar de parto stijgt en de koers van de droste daalt",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het verlagen van de tarieven van inkomstenbelasting leidt tot hogere besteedbare inkomens waardoor er meer wordt geïmporteerd van de handelspartners van de EMG"
+     },
+     {
+      "points": 1,
+      "description": "met als gevolg dat het aanbod van de droste / de vraag naar de parto stijgt en de koers van de droste daalt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-vasthouden-aan-de-parto-antw14.png"
+    ]
+   },
+   {
+    "title": "Vasthouden aan de parto",
+    "question_number": 15,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De rente zou verhoogd moeten worden om kapitaalimport en vraag naar de droste uit te lokken (zodat de wisselkoers van de droste kan toenemen tot binnen de bandbreedte)\n• Door een renteverhoging worden de binnenlandse bestedingen echter afgeremd en dat is niet wenselijk gezien de hardnekkige laagconjunctuur",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De rente zou verhoogd moeten worden om kapitaalimport en vraag naar de droste uit te lokken (zodat de wisselkoers van de droste kan toenemen tot binnen de bandbreedte)"
+     },
+     {
+      "points": 1,
+      "description": "Door een renteverhoging worden de binnenlandse bestedingen echter afgeremd en dat is niet wenselijk gezien de hardnekkige laagconjunctuur"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-vasthouden-aan-de-parto-antw15.png"
+    ]
+   },
+   {
+    "title": "Vasthouden aan de parto",
+    "question_number": 16,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Qv = −100 × 1,209 + 276 = 155,1\nQa’ = 250 × 1,209 – 120 = 182,25\nop te kopen drosten: 182,25 − 155,1 = 27,15 miljard\n• interventies in parto’s: 27,15 miljard × 1,209 = 32,82 miljard",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Qv = −100 × 1,209 + 276 = 155,1\nQa’ = 250 × 1,209 – 120 = 182,25\nop te kopen drosten: 182,25 − 155,1 = 27,15 miljard"
+     },
+     {
+      "points": 1,
+      "description": "interventies in parto’s: 27,15 miljard × 1,209 = 32,82 miljard"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-vasthouden-aan-de-parto-antw16.png"
+    ]
+   },
+   {
+    "title": "Wijzer van de conjunctuurklok",
+    "question_number": 17,
+    "answer_text": "Een voorbeeld van een juiste verklaring via een opgaande conjunctuur:\nIn een opgaande conjunctuur zal een werkgever niet direct personeel aannemen omdat hij moet investeren in de (bedrijfsspecifieke) kennis van het personeel / wil aanzien of de stijging van de vraag aanhoudt / eerst uit een voorraad verkoopt / een tijdelijke stijging van de productie opvangt met het bestaande personeel of uitzendkrachten, waardoor een opgaande conjunctuur niet meteen leidt tot een afname van de werkloosheid.\nof\nEen voorbeeld van een juiste verklaring via een neergaande conjunctuur:\nBij een tegenvallende conjunctuur zal een werkgever niet direct personeel ontslaan omdat hij geïnvesteerd heeft in de kennis van zijn personeel / wil aanzien of de daling van de vraag aanhoudt / niet meteen personeel kan ontslaan in verband met ontslagbescherming, waardoor een neergaande conjunctuur niet meteen leidt tot een toename van de werkloosheid.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring via een opgaande conjunctuur:\nIn een opgaande conjunctuur zal een werkgever niet direct personeel aannemen omdat hij moet investeren in de (bedrijfsspecifieke) kennis van het personeel / wil aanzien of de stijging van de vraag aanhoudt / eerst uit een voorraad verkoopt / een tijdelijke stijging van de productie opvangt met het bestaande personeel of uitzendkrachten, waardoor een opgaande conjunctuur niet meteen leidt tot een afname van de werkloosheid.\nof\nEen voorbeeld van een juiste verklaring via een neergaande conjunctuur:\nBij een tegenvallende conjunctuur zal een werkgever niet direct personeel ontslaan omdat hij geïnvesteerd heeft in de kennis van zijn personeel / wil aanzien of de daling van de vraag aanhoudt / niet meteen personeel kan ontslaan in verband met ontslagbescherming, waardoor een neergaande conjunctuur niet meteen leidt tot een toename van de werkloosheid."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-wijzer-van-de-conjunctuurklok-antw17.png"
+    ]
+   },
+   {
+    "title": "Wijzer van de conjunctuurklok",
+    "question_number": 18,
+    "answer_text": "gedaald\nEen voorbeeld van een juiste toelichting is:\nDe indicator ‘werkloosheid’ staat in het eerste kwadrant (rechtsboven), wat betekent: de werkloosheidsontwikkeling bevindt zich in een hoogconjunctuur. Dat betekent een daling van de werkloosheid.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "gedaald\nEen voorbeeld van een juiste toelichting is:\nDe indicator ‘werkloosheid’ staat in het eerste kwadrant (rechtsboven), wat betekent: de werkloosheidsontwikkeling bevindt zich in een hoogconjunctuur. Dat betekent een daling van de werkloosheid."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-wijzer-van-de-conjunctuurklok-antw18.png"
+    ]
+   },
+   {
+    "title": "Wijzer van de conjunctuurklok",
+    "question_number": 19,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Het bbp steeg in het vierde kwartaal ten opzichte van het derde kwartaal: 0,3% + 0,2% = 0,5%\n• De stijging in het derde kwartaal ten opzichte van het tweede kwartaal was 0,3% + 0,1% = 0,4%\n1,005 × 1,004 = 1,009 → 0,9% stijging",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het bbp steeg in het vierde kwartaal ten opzichte van het derde kwartaal: 0,3% + 0,2% = 0,5%"
+     },
+     {
+      "points": 1,
+      "description": "De stijging in het derde kwartaal ten opzichte van het tweede kwartaal was 0,3% + 0,1% = 0,4%\n1,005 × 1,004 = 1,009 → 0,9% stijging"
+     }
+    ],
+    "grading_note": "Voor 0,5% + 0,4% wordt het tweede scorepunt ook toegekend.",
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-wijzer-van-de-conjunctuurklok-antw19.png"
+    ]
+   },
+   {
+    "title": "Wijzer van de conjunctuurklok",
+    "question_number": 20,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Het bbp stijgt al twee kwartalen. Dat betekent dat om de productie nog verder te laten groeien de productiecapaciteit uitgebreid moet worden / bedrijven genoeg vermogen kunnen opbouwen om investeringen te doen (en dus komt de indicator in het kwadrant rechtsboven).\n− De uitvoer stijgt al twee kwartalen. Dat betekent dat er een toenemende vraag naar producten komt vanuit het buitenland. Om deze vraag aan te kunnen zal de productiecapaciteit uitgebreid moeten worden (en dus komt de indicator in het kwadrant rechtsboven).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juist antwoord zijn:\n− Het bbp stijgt al twee kwartalen. Dat betekent dat om de productie nog verder te laten groeien de productiecapaciteit uitgebreid moet worden / bedrijven genoeg vermogen kunnen opbouwen om investeringen te doen (en dus komt de indicator in het kwadrant rechtsboven).\n− De uitvoer stijgt al twee kwartalen. Dat betekent dat er een toenemende vraag naar producten komt vanuit het buitenland. Om deze vraag aan te kunnen zal de productiecapaciteit uitgebreid moeten worden (en dus komt de indicator in het kwadrant rechtsboven)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-wijzer-van-de-conjunctuurklok-antw20.png"
+    ]
+   },
+   {
+    "title": "Wijzer van de conjunctuurklok",
+    "question_number": 21,
+    "answer_text": "Een voorbeeld van een juiste onderbouwing is:\n• (Er is sprake van hoogconjunctuur, maar) het consumentenvertrouwen is al gedaald. Daaruit valt af te leiden dat het gaat om het einde van een hoogconjunctuur. Het is te verwachten dat de vraag zal gaan dalen\n• waardoor (de productie zal dalen en) bedrijven minder winst kunnen maken en aandelen minder aantrekkelijk worden / in koers dalen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Er is sprake van hoogconjunctuur, maar) het consumentenvertrouwen is al gedaald. Daaruit valt af te leiden dat het gaat om het einde van een hoogconjunctuur. Het is te verwachten dat de vraag zal gaan dalen"
+     },
+     {
+      "points": 1,
+      "description": "waardoor (de productie zal dalen en) bedrijven minder winst kunnen maken en aandelen minder aantrekkelijk worden / in koers dalen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-wijzer-van-de-conjunctuurklok-antw21.png"
+    ]
+   },
+   {
+    "title": "Activerend arbeidsmarktbeleid",
+    "question_number": 22,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• Als er niet meer actieven bijkomen, om de premies te betalen voor degenen met een staatspensioen, stijgt de premiedruk voor de financiering van het toenemend aantal gepensioneerden (als gevolg van de vergrijzing vanwege het gehanteerde omslagstelsel). Hierdoor komt de financiering van het staatspensioen in gevaar\n• Dit gaat ten koste van de solidariteit tussen generaties, aangezien werkenden steeds meer moeten betalen aan de ouderen\n• Dit gaat ten koste van de solidariteit binnen generaties, aangezien de werkenden meer bijdragen aan de uitkeringen van ouderen dan de inactieven die later ook een pensioen ontvangen, maar zelf niet bijdragen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als er niet meer actieven bijkomen, om de premies te betalen voor degenen met een staatspensioen, stijgt de premiedruk voor de financiering van het toenemend aantal gepensioneerden (als gevolg van de vergrijzing vanwege het gehanteerde omslagstelsel). Hierdoor komt de financiering van het staatspensioen in gevaar"
+     },
+     {
+      "points": 1,
+      "description": "Dit gaat ten koste van de solidariteit tussen generaties, aangezien werkenden steeds meer moeten betalen aan de ouderen"
+     },
+     {
+      "points": 1,
+      "description": "Dit gaat ten koste van de solidariteit binnen generaties, aangezien de werkenden meer bijdragen aan de uitkeringen van ouderen dan de inactieven die later ook een pensioen ontvangen, maar zelf niet bijdragen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-activerend-arbeidsmarktbeleid-antw22.png"
+    ]
+   },
+   {
+    "title": "Activerend arbeidsmarktbeleid",
+    "question_number": 23,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij verhoging van de pensioenleeftijd zijn er minder inactieven waardoor de teller kleiner wordt (de i/a ratio stijgt)\n• Bij verhoging van de pensioenleeftijd zijn er meer actieven omdat mensen langer doorwerken en zal de noemer groter worden (de i/a ratio stijgt)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij verhoging van de pensioenleeftijd zijn er minder inactieven waardoor de teller kleiner wordt (de i/a ratio stijgt)"
+     },
+     {
+      "points": 1,
+      "description": "Bij verhoging van de pensioenleeftijd zijn er meer actieven omdat mensen langer doorwerken en zal de noemer groter worden (de i/a ratio stijgt)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-activerend-arbeidsmarktbeleid-antw23.png"
+    ]
+   },
+   {
+    "title": "Activerend arbeidsmarktbeleid",
+    "question_number": 24,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− De laagste belastingschijven hebben nu een lager tarief, waardoor het verschil in inkomen tussen werken en niet-werken (en dus het aanmoedigingseffect) groter wordt.\n− De arbeidskorting is hoger geworden. Voor de uitkeringsgerechtigden wordt het verschil in inkomen tussen werken en niet-werken groter.\n− De belastingschijven zijn verlengd, waardoor over een groter bedrag een kleiner heffingspercentage wordt berekend. Hierdoor wordt het aantrekkelijker om betaald werk te zoeken.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juist antwoord zijn:\n− De laagste belastingschijven hebben nu een lager tarief, waardoor het verschil in inkomen tussen werken en niet-werken (en dus het aanmoedigingseffect) groter wordt.\n− De arbeidskorting is hoger geworden. Voor de uitkeringsgerechtigden wordt het verschil in inkomen tussen werken en niet-werken groter.\n− De belastingschijven zijn verlengd, waardoor over een groter bedrag een kleiner heffingspercentage wordt berekend. Hierdoor wordt het aantrekkelijker om betaald werk te zoeken."
+     }
+    ],
+    "grading_note": "Voor het toekennen van twee scorepunten dienen twee antwoorden te zijn gegeven.",
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-activerend-arbeidsmarktbeleid-antw24.png"
+    ]
+   },
+   {
+    "title": "Activerend arbeidsmarktbeleid",
+    "question_number": 25,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• In het oude stelsel is het te betalen belastingbedrag (per jaar):\n(12.000 x 0,37) + (25.000 x 0,41) + (1.500 x 0,42) − 1000 = € 14.320\nIn het nieuwe stelsel is het te betalen belastingbedrag (per jaar):\n(20.000 x 0,35) + (18.500 x 0,40) − de arbeidskorting\n• De arbeidskorting is € 1.500 − (23,5 x 40) = € 940\n• Het te betalen belastingbedrag is dan 14.400 − 940 = € 13.840\nHet voordeel is dan € 14.320 − € 13.840 = € 480",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In het oude stelsel is het te betalen belastingbedrag (per jaar):\n(12.000 x 0,37) + (25.000 x 0,41) + (1.500 x 0,42) − 1000 = € 14.320\nIn het nieuwe stelsel is het te betalen belastingbedrag (per jaar):\n(20.000 x 0,35) + (18.500 x 0,40) − de arbeidskorting"
+     },
+     {
+      "points": 1,
+      "description": "De arbeidskorting is € 1.500 − (23,5 x 40) = € 940"
+     },
+     {
+      "points": 1,
+      "description": "Het te betalen belastingbedrag is dan 14.400 − 940 = € 13.840\nHet voordeel is dan € 14.320 − € 13.840 = € 480"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-activerend-arbeidsmarktbeleid-antw25.png"
+    ]
+   },
+   {
+    "title": "Activerend arbeidsmarktbeleid",
+    "question_number": 26,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nDoor een daling van de te betalen belasting zal het besteedbaar inkomen stijgen. Hierdoor kunnen actieven besluiten om minder uren te werken bij een gelijkblijvend nettoloon. Het aanbod van arbeid in uren zal hierdoor dalen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nDoor een daling van de te betalen belasting zal het besteedbaar inkomen stijgen. Hierdoor kunnen actieven besluiten om minder uren te werken bij een gelijkblijvend nettoloon. Het aanbod van arbeid in uren zal hierdoor dalen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-activerend-arbeidsmarktbeleid-antw26.png"
+    ]
+   },
+   {
+    "title": "Monetair geschut tegen de recessie",
+    "question_number": 27,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Banken met onvoldoende dekkingsmiddelen op hun balansen durven minder kredieten aan te bieden, waardoor het aanbod van vermogen daalt en daardoor de rente stijgt, wat een remmend effect heeft op investeringen / consumptieve bestedingen, en daarmee op het (reële) bbp.\n− Banken met onvoldoende dekkingsmiddelen kunnen door de vertrouwenscrisis te maken krijgen met mensen die hun spaargeld weghalen. Hierdoor daalt het aanbod van vermogen, waardoor de rente stijgt, wat een remmend effect heeft op investeringen / consumptieve bestedingen, en daarmee op het (reële) bbp.\n− Banken met onvoldoende dekkingsmiddelen op hun balansen moeten aanvullend spaargeld aantrekken / extra spaargeld vragen. Een middel hiertoe is het verhogen van de spaarrente, wat een remmend effect heeft op investeringen / consumptieve bestedingen, en daarmee op het (reële) bbp.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juist antwoord zijn:\n− Banken met onvoldoende dekkingsmiddelen op hun balansen durven minder kredieten aan te bieden, waardoor het aanbod van vermogen daalt en daardoor de rente stijgt, wat een remmend effect heeft op investeringen / consumptieve bestedingen, en daarmee op het (reële) bbp.\n− Banken met onvoldoende dekkingsmiddelen kunnen door de vertrouwenscrisis te maken krijgen met mensen die hun spaargeld weghalen. Hierdoor daalt het aanbod van vermogen, waardoor de rente stijgt, wat een remmend effect heeft op investeringen / consumptieve bestedingen, en daarmee op het (reële) bbp.\n− Banken met onvoldoende dekkingsmiddelen op hun balansen moeten aanvullend spaargeld aantrekken / extra spaargeld vragen. Een middel hiertoe is het verhogen van de spaarrente, wat een remmend effect heeft op investeringen / consumptieve bestedingen, en daarmee op het (reële) bbp."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-monetair-geschut-tegen-de-recessie-antw27.png"
+    ]
+   },
+   {
+    "title": "Monetair geschut tegen de recessie",
+    "question_number": 28,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nV = (P × T) / M = 500 / 81 = 6,17 in 2014 en 505,5 / 82 = 6,16 in 2015\n(De gemiddelde omloopsnelheid is nauwelijks veranderd).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste berekening is:\nV = (P × T) / M = 500 / 81 = 6,17 in 2014 en 505,5 / 82 = 6,16 in 2015\n(De gemiddelde omloopsnelheid is nauwelijks veranderd)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-monetair-geschut-tegen-de-recessie-antw28.png"
+    ]
+   },
+   {
+    "title": "Monetair geschut tegen de recessie",
+    "question_number": 29,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nEen stijging van M zorgt bij een constante V voor een stijging van T. De economie bevindt zich namelijk in een laagconjunctuur, waardoor het productievolume kan stijgen zonder dat de extra bestedingen (meteen) tot extra inflatie leiden.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nEen stijging van M zorgt bij een constante V voor een stijging van T. De economie bevindt zich namelijk in een laagconjunctuur, waardoor het productievolume kan stijgen zonder dat de extra bestedingen (meteen) tot extra inflatie leiden."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-monetair-geschut-tegen-de-recessie-antw29.png"
+    ]
+   },
+   {
+    "title": "Monetair geschut tegen de recessie",
+    "question_number": 30,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nEen stijging van M zal als gevolg van een daling van het consumentenvertrouwen op korte termijn gepaard gaan met oppotten, en dit leidt tot een daling van V. Hierdoor zal de totale geldstroom niet groter worden, waardoor ook T niet hoeft te stijgen / de reële economie geen positieve impuls krijgt (op korte termijn is P constant).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nEen stijging van M zal als gevolg van een daling van het consumentenvertrouwen op korte termijn gepaard gaan met oppotten, en dit leidt tot een daling van V. Hierdoor zal de totale geldstroom niet groter worden, waardoor ook T niet hoeft te stijgen / de reële economie geen positieve impuls krijgt (op korte termijn is P constant)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2022-iii-monetair-geschut-tegen-de-recessie-antw30.png"
+    ]
+   }
+  ]
+ }
+}
