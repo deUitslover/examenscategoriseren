@@ -569,3 +569,17 @@ def format_block_text(page, y0, y1, x0=None, x1=None, gap_threshold=6.5):
             out_lines[-1] = out_lines[-1] + " " + row_text
         prev_y1 = row["y1"]
     return "\n".join(out_lines)
+
+
+def pad_bottom(pix, pt, zoom=ZOOM, bg=(255, 255, 255)):
+    """Return a copy of `pix` with `pt` points of white space added below:
+    the "ruime witruimte ONDER het in te vullen element" of an
+    uitwerkbijlage block when the page itself has no blank space left
+    (the next figure or the footer follows directly, VWO-ECO-25-II-O.pdf
+    p.3 "4 Figuur 1" / "5 Figuur 2"). Width stays the same."""
+    extra = int(pt * zoom)
+    canvas = fitz.Pixmap(fitz.csRGB, fitz.IRect(0, 0, pix.width, pix.height + extra), False)
+    canvas.set_rect(canvas.irect, bg)
+    pix.set_origin(0, 0)
+    canvas.copy(pix, pix.irect)
+    return canvas
