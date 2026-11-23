@@ -1,0 +1,501 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "HAVO",
+  "source": "HAVO Economie 2019-II",
+  "answers": [
+   {
+    "title": "Vlees belast",
+    "question_number": 1,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Productie van vlees (veroorzaakt CO₂-uitstoot en dat) is nadelig voor gezondheid en milieu (en dat is negatief) (1)\n• De kosten van deze schade zijn niet verrekend in de prijs van vlees (maar komen ten laste van de samenleving en maatschappelijke kosten zijn extern) (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Productie van vlees (veroorzaakt CO₂-uitstoot en dat) is nadelig voor gezondheid en milieu (en dat is negatief)"
+     },
+     {
+      "points": 1,
+      "description": "De kosten van deze schade zijn niet verrekend in de prijs van vlees (maar komen ten laste van de samenleving en maatschappelijke kosten zijn extern)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-vlees-belast-antw1.png"
+    ]
+   },
+   {
+    "title": "Vlees belast",
+    "question_number": 2,
+    "answer_text": "homogeen goed\nEen voorbeeld van een juiste toelichting is:\nConsumenten letten bij de aanschaf van vlees alleen op de prijs (en dus niet op de heterogene aspecten van vlees).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "homogeen goed, met als toelichting dat consumenten bij de aanschaf van vlees alleen op de prijs letten"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-vlees-belast-antw2.png"
+    ]
+   },
+   {
+    "title": "Vlees belast",
+    "question_number": 3,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nDoor de invoering van de vleestaks komt er een heffing van € 0,50 op elke kilo vlees. Elke kilo wordt 50 cent duurder om aan te bieden.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Door de vleestaks komt er een heffing van € 0,50 op elke kilo vlees; elke kilo wordt 50 cent duurder om aan te bieden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-vlees-belast-antw3.png"
+    ]
+   },
+   {
+    "title": "Vlees belast",
+    "question_number": 4,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• MO = MK (nieuw)\n−Q + 6 = 2 + 0,50\nQ = 3,5 (× 1.000.000)\nP = −0,5 × 3,5 + 6 = 4,25 (2)\n• doorberekening vleestaks (4,50 − 4,25) / 0,50 = 50% (1)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "MO = MK (nieuw): −Q + 6 = 2 + 0,50 → Q = 3,5 (× 1.000.000); P = −0,5 × 3,5 + 6 = 4,25"
+     },
+     {
+      "points": 1,
+      "description": "doorberekening vleestaks (4,50 − 4,25) / 0,50 = 50%"
+     }
+    ],
+    "grading_note": "Zonder toepassing van MO = MK geen volledig aantal scorepunten toekennen.",
+    "answer_image_urls": [
+     "economie-havo-2019-ii-vlees-belast-antw4.png"
+    ]
+   },
+   {
+    "title": "Vlees belast",
+    "question_number": 5,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• TO = 4,25 × 3.500.000 = € 14.875.000\nTK = 2,5 × 3.500.000 + 2.250.000 = € 11.000.000 −\nTW vleestaks = € 3.875.000 (1)\n• TW uitgangssituatie € 5.750.000\nTW vleestaks € 3.875.000 −\nAfname winst € 1.875.000 (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "TO = 4,25 × 3.500.000 = € 14.875.000; TK = 2,5 × 3.500.000 + 2.250.000 = € 11.000.000; TW vleestaks = € 3.875.000"
+     },
+     {
+      "points": 1,
+      "description": "TW uitgangssituatie € 5.750.000 − TW vleestaks € 3.875.000 = afname winst € 1.875.000"
+     }
+    ],
+    "grading_note": "Als bij de uitwerking sprake is van doorwerkfouten uit vraag 3 of vraag 4 (Q en GVK) geen scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "economie-havo-2019-ii-vlees-belast-antw5.png"
+    ]
+   },
+   {
+    "title": "Vlees belast",
+    "question_number": 6,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n€ 0,50 × 3.500.000 = € 1.750.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "€ 0,50 × 3.500.000 = € 1.750.000"
+     }
+    ],
+    "grading_note": "Als bij de uitwerking sprake is van doorwerkfouten uit vraag 4 (Q) geen scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "economie-havo-2019-ii-vlees-belast-antw6.png"
+    ]
+   },
+   {
+    "title": "Vlees belast",
+    "question_number": 7,
+    "answer_text": "bij (1) substitutie\nbij (2) prijsinelastischer\nbij (3) steiler\nbij (4) constante\n\nindien (1) juist (1)\nindien (2) en (3) juist (1)\nindien (4) juist (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "indien (1) substitutie juist"
+     },
+     {
+      "points": 1,
+      "description": "indien (2) prijsinelastischer en (3) steiler juist"
+     },
+     {
+      "points": 1,
+      "description": "indien (4) constante juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-vlees-belast-antw7.png"
+    ]
+   },
+   {
+    "title": "Ruimte op de arbeidsmarkt?",
+    "question_number": 8,
+    "answer_text": "afbeelding – wel / geen structuurkant\n1 – geen\n2 – wel\n3 – wel\n4 – geen",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "1 geen, 2 wel, 3 wel, 4 geen structuurkant"
+     }
+    ],
+    "grading_note": "Voor elke fout één scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "economie-havo-2019-ii-ruimte-op-de-arbeidsmarkt-antw8.png"
+    ]
+   },
+   {
+    "title": "Ruimte op de arbeidsmarkt?",
+    "question_number": 9,
+    "answer_text": "begin 2017: B",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "begin 2017: B"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-ruimte-op-de-arbeidsmarkt-antw9.png"
+    ]
+   },
+   {
+    "title": "Ruimte op de arbeidsmarkt?",
+    "question_number": 10,
+    "answer_text": "bij (1) werkgelegenheid\nbij (2) beroepsbevolking\nbij (3) stijgen\nbij (4) conjunctuur\nbij (5) structuur\n\nindien (1) en (2) juist (1)\nindien (3) juist (1)\nindien (4) en (5) juist (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "indien (1) werkgelegenheid en (2) beroepsbevolking juist"
+     },
+     {
+      "points": 1,
+      "description": "indien (3) stijgen juist"
+     },
+     {
+      "points": 1,
+      "description": "indien (4) conjunctuur en (5) structuur juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-ruimte-op-de-arbeidsmarkt-antw10.png"
+    ]
+   },
+   {
+    "title": "Ruimte op de arbeidsmarkt?",
+    "question_number": 11,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De investering nu van tijd en geld in scholing (door de werknemer) (1)\n• kan later leiden tot extra opbrengsten door een hogere verdiencapaciteit. (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De investering nu van tijd en geld in scholing (door de werknemer)"
+     },
+     {
+      "points": 1,
+      "description": "kan later leiden tot extra opbrengsten door een hogere verdiencapaciteit"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-ruimte-op-de-arbeidsmarkt-antw11.png"
+    ]
+   },
+   {
+    "title": "Ruimte op de arbeidsmarkt?",
+    "question_number": 12,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nWerkgevers profiteren onvoldoende van hun investering in scholing van hun werknemers, omdat werknemers weggaan voordat de werkgever zijn investering (via een hogere productie van de werknemer) heeft terugverdiend.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Werkgevers profiteren onvoldoende van hun investering in scholing, omdat werknemers weggaan voordat de werkgever zijn investering (via een hogere productie van de werknemer) heeft terugverdiend"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-ruimte-op-de-arbeidsmarkt-antw12.png"
+    ]
+   },
+   {
+    "title": "Ruimte op de arbeidsmarkt?",
+    "question_number": 13,
+    "answer_text": "Een voorbeeld van een juiste argumentatie is:\n• Lagere inkomens hebben een laag marginaal tarief, waardoor een relatief klein deel van de scholingskosten wordt vergoed (1)\n• terwijl bij een vouchersysteem er sprake is van een vast bedrag waardoor het volledige maximale scholingsbedrag wordt vergoed. (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Lagere inkomens hebben een laag marginaal tarief, waardoor een relatief klein deel van de scholingskosten wordt vergoed"
+     },
+     {
+      "points": 1,
+      "description": "terwijl bij een vouchersysteem er sprake is van een vast bedrag waardoor het volledige maximale scholingsbedrag wordt vergoed"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-ruimte-op-de-arbeidsmarkt-antw13.png"
+    ]
+   },
+   {
+    "title": "Gas vloeit rijkelijk",
+    "question_number": 14,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nDoor het vloeibaar maken kan aardgas ook per schip worden getransporteerd waardoor Qatar meer afzetmogelijkheden heeft. De exportpositie van Qatar wordt derhalve sterker.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Door het vloeibaar maken kan aardgas ook per schip worden getransporteerd, waardoor Qatar meer afzetmogelijkheden heeft en de exportpositie sterker wordt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-gas-vloeit-rijkelijk-antw14.png"
+    ]
+   },
+   {
+    "title": "Gas vloeit rijkelijk",
+    "question_number": 15,
+    "answer_text": "lopende rekening\nEen voorbeeld van een juist antwoord is:\nDe winstuitkering is de beloning voor het beschikbaar stellen van kapitaal (en is dus inkomen voor de kapitaalverstrekker).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "lopende rekening, met als toelichting dat de winstuitkering de beloning is voor het beschikbaar stellen van kapitaal"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-gas-vloeit-rijkelijk-antw15.png"
+    ]
+   },
+   {
+    "title": "Gas vloeit rijkelijk",
+    "question_number": 16,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Op 1 mei is 1 euro 3,98 riyal\naankoop op 1 mei: 10,5 miljard euro × 3,98 = 41,79 miljard riyal (1)\n• Op 1 mei is 1 US dollar 3,64 riyal dus 1 riyal is 1 / 3,64 = 0,27 US dollar\naankoop op 1 mei in US dollar: 41,79 miljard × 0,27 = 11,28 miljard US dollar (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Op 1 mei is 1 euro 3,98 riyal; aankoop: 10,5 miljard euro × 3,98 = 41,79 miljard riyal"
+     },
+     {
+      "points": 1,
+      "description": "1 riyal is 1 / 3,64 = 0,27 US dollar; aankoop in US dollar: 41,79 miljard × 0,27 = 11,28 miljard US dollar"
+     }
+    ],
+    "grading_note": "− Voor een andere juiste manier van afronden ook scorepunten toekennen.\n− Als een afwijkend antwoord is verkregen op basis van juiste berekeningen met meer dan twee decimalen, dienen scorepunten te worden toegekend.",
+    "answer_image_urls": [
+     "economie-havo-2019-ii-gas-vloeit-rijkelijk-antw16.png"
+    ]
+   },
+   {
+    "title": "Gas vloeit rijkelijk",
+    "question_number": 17,
+    "answer_text": "grafiek 1",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "grafiek 1"
+     }
+    ],
+    "grading_note": "Uitsluitend 2 of 0 scorepunten toekennen.",
+    "answer_image_urls": [
+     "economie-havo-2019-ii-gas-vloeit-rijkelijk-antw17.png"
+    ]
+   },
+   {
+    "title": "Gas vloeit rijkelijk",
+    "question_number": 18,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Een koersdaling van de Qatarese riyal maakt importeren voor Qatar duurder. Als de verhoging van de importprijzen doorberekend wordt in het algemeen prijspeil, heeft dat inflatie tot gevolg (1)\n• Een koersdaling van de Qatarese riyal maakt exporteren vanuit Qatar goedkoper. Als door toenemende export de capaciteitsgrenzen worden bereikt, kan dat (bestedings)inflatie tot gevolg hebben (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een koersdaling van de riyal maakt importeren duurder; als de hogere importprijzen worden doorberekend in het algemeen prijspeil, heeft dat inflatie tot gevolg"
+     },
+     {
+      "points": 1,
+      "description": "Een koersdaling van de riyal maakt exporteren goedkoper; als door toenemende export de capaciteitsgrenzen worden bereikt, kan dat (bestedings)inflatie tot gevolg hebben"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-gas-vloeit-rijkelijk-antw18.png"
+    ]
+   },
+   {
+    "title": "Huis en hypotheek",
+    "question_number": 19,
+    "answer_text": "vraagkant\nEen voorbeeld van een juiste uitleg is:\n• De voorzitter brengt naar voren dat het rentepercentage historisch laag is, waardoor lenen goedkoper is (1)\n• zodat meer mensen een hypothecaire lening kunnen afsluiten en de vraag naar woningen zal kunnen toenemen (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "vraagkant: het rentepercentage is historisch laag, waardoor lenen goedkoper is"
+     },
+     {
+      "points": 1,
+      "description": "zodat meer mensen een hypothecaire lening kunnen afsluiten en de vraag naar woningen zal kunnen toenemen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-huis-en-hypotheek-antw19.png"
+    ]
+   },
+   {
+    "title": "Huis en hypotheek",
+    "question_number": 20,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Bij een hypothecaire lening is er sprake van een onderpand (en bij een consumptieve lening is dat niet het geval) (1)\n• waardoor het risico voor de verstrekker van de lening lager is dan bij een andere vorm van lenen en derhalve een lagere rente in rekening kan worden gebracht (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij een hypothecaire lening is er sprake van een onderpand (en bij een consumptieve lening niet)"
+     },
+     {
+      "points": 1,
+      "description": "waardoor het risico voor de verstrekker lager is dan bij een andere vorm van lenen en derhalve een lagere rente in rekening kan worden gebracht"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-huis-en-hypotheek-antw20.png"
+    ]
+   },
+   {
+    "title": "Huis en hypotheek",
+    "question_number": 21,
+    "answer_text": "2009 en 2015\nEen voorbeeld van een juiste toelichting is:\nBij deflatie geldt dat de reële rente hoger is dan de nominale rente.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "2009 en 2015, met als toelichting dat bij deflatie de reële rente hoger is dan de nominale rente"
+     }
+    ],
+    "grading_note": "Voor één juist jaartal met juiste toelichting één scorepunt toekennen.",
+    "answer_image_urls": [
+     "economie-havo-2019-ii-huis-en-hypotheek-antw21.png"
+    ]
+   },
+   {
+    "title": "Huis en hypotheek",
+    "question_number": 22,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• Bij een lage inflatie is de (reële) waardedaling van het uitgeleende geld beperkt / is er minder risico op waardedaling (1)\n• zodat banken een lagere compensatie voor geldontwaarding vragen en derhalve een lagere (nominale) rentevergoeding in rekening kunnen brengen (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij een lage inflatie is de (reële) waardedaling van het uitgeleende geld beperkt / is er minder risico op waardedaling"
+     },
+     {
+      "points": 1,
+      "description": "zodat banken een lagere compensatie voor geldontwaarding vragen en derhalve een lagere (nominale) rentevergoeding in rekening kunnen brengen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-huis-en-hypotheek-antw22.png"
+    ]
+   },
+   {
+    "title": "Huis en hypotheek",
+    "question_number": 23,
+    "answer_text": "Voorbeelden van een juist argument zijn:\n− Bij de aanschaf van een koopwoning met hypothecaire financiering wordt er koopkracht van de toekomst naar voren geschoven (lenen).\n− Er kan sprake zijn van vermogensopbouw (verschuiven van koopkracht naar de toekomst) door aflossing van een lening / door overwaarde.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een juist argument, bijv.: koopkracht van de toekomst naar voren schuiven (lenen) / vermogensopbouw (koopkracht naar de toekomst verschuiven) door aflossing van een lening / door overwaarde"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-huis-en-hypotheek-antw23.png"
+    ]
+   },
+   {
+    "title": "Wie zorgt er voor de zorgkosten?",
+    "question_number": 24,
+    "answer_text": "oligopolie\nEen voorbeeld van een juiste toelichting is:\nTwee verzekeraars hebben de hele markt in handen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "oligopolie, met als toelichting dat twee verzekeraars de hele markt in handen hebben"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-wie-zorgt-er-voor-de-zorgkosten-antw24.png"
+    ]
+   },
+   {
+    "title": "Wie zorgt er voor de zorgkosten?",
+    "question_number": 25,
+    "answer_text": "Voorbeelden van een juiste berekening zijn:\n• 1.290 / 99,5 x 100 = € 1.296,48 (1)\n• 1.296,48 × 0,10 = € 129,65 (1)\nof\n1.290 / 0,995 × 0,10 = € 129,65 (2)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "1.290 / 99,5 x 100 = € 1.296,48"
+     },
+     {
+      "points": 1,
+      "description": "1.296,48 × 0,10 = € 129,65 (of in één keer: 1.290 / 0,995 × 0,10 = € 129,65 voor 2 punten)"
+     }
+    ],
+    "grading_note": "Voor een andere juiste manier van afronden ook scorepunten toekennen.",
+    "answer_image_urls": [
+     "economie-havo-2019-ii-wie-zorgt-er-voor-de-zorgkosten-antw25.png"
+    ]
+   },
+   {
+    "title": "Wie zorgt er voor de zorgkosten?",
+    "question_number": 26,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De verlaging van het eigen risico zal tot meer en/of hogere schade-uitkeringen aan bestaande klanten leiden / meer ‘slechte’ risico’s (van Beterzorg) aantrekken (1)\n• De premie bij Anderzorg zal op termijn verhoogd moeten worden om deze extra zorgkosten te kunnen dekken (1)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De verlaging van het eigen risico zal tot meer en/of hogere schade-uitkeringen aan bestaande klanten leiden / meer ‘slechte’ risico’s (van Beterzorg) aantrekken"
+     },
+     {
+      "points": 1,
+      "description": "De premie bij Anderzorg zal op termijn verhoogd moeten worden om deze extra zorgkosten te kunnen dekken"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-wie-zorgt-er-voor-de-zorgkosten-antw26.png"
+    ]
+   },
+   {
+    "title": "Wie zorgt er voor de zorgkosten?",
+    "question_number": 27,
+    "answer_text": "(1) collectieve dwang\n(2) het aantal verzekerden\n(3) voordeel\n\nindien drie antwoorden juist 2\nindien twee antwoorden juist 1\nindien één antwoord juist 0",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "indien twee antwoorden juist: 1 scorepunt"
+     },
+     {
+      "points": 1,
+      "description": "indien alle drie antwoorden juist ((1) collectieve dwang, (2) het aantal verzekerden, (3) voordeel): 2 scorepunten"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2019-ii-wie-zorgt-er-voor-de-zorgkosten-antw27.png"
+    ]
+   },
+   {
+    "title": "Wie zorgt er voor de zorgkosten?",
+    "question_number": 28,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De dominante strategie van Anderzorg (AZ) is ‘verlagen eigen risico’ want als Beterzorg (BZ) ‘handhaaft’ dan 1 > 0,6 en als BZ ‘verlaagt’ dan 0,5 > 0,2\nDe dominante strategie van BZ is ook ‘verlagen eigen risico’ want als AZ ‘handhaaft’ dan 1,1 > 1,0 en als AZ ‘verlaagt’ dan 0,8 > 0,2 (2)\n• Deze evenwichtssituatie is een suboptimale uitkomst (0,5 ; 0,8) omdat beide leveranciers hun pay-off kunnen vergroten door het eigen risico te handhaven (0,6 ; 1,0)\n(dus er is sprake van een gevangenendilemma) (1)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De dominante strategie van AZ is ‘verlagen eigen risico’ (1 > 0,6 en 0,5 > 0,2) en die van BZ ook (1,1 > 1,0 en 0,8 > 0,2)"
+     },
+     {
+      "points": 1,
+      "description": "Deze evenwichtssituatie (0,5 ; 0,8) is suboptimaal, omdat beide hun pay-off kunnen vergroten door het eigen risico te handhaven (0,6 ; 1,0) (dus gevangenendilemma)"
+     }
+    ],
+    "grading_note": "Voor het volledig toekennen van de eerste twee scorepunten moet een bewijs worden gegeven van beide dominante strategieën.",
+    "answer_image_urls": [
+     "economie-havo-2019-ii-wie-zorgt-er-voor-de-zorgkosten-antw28.png"
+    ]
+   }
+  ]
+ }
+}
