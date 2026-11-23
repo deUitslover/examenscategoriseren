@@ -1,0 +1,439 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "HAVO",
+  "source": "HAVO Economie 2017-I",
+  "answers": [
+   {
+    "title": "Restaurant La Mama",
+    "question_number": 1,
+    "answer_text": "bij (1) prijs-afzetlijn\nbij (2) onvolkomen\nbij (3) proportioneel\n\nindien drie juist: 2\nindien twee juist: 1\nindien één of geen juist: 0",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "indien drie juist"
+     },
+     {
+      "points": 1,
+      "description": "indien twee juist"
+     },
+     {
+      "points": 0,
+      "description": "indien één of geen juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-restaurant-la-mama-antw1.png"
+    ]
+   },
+   {
+    "title": "Restaurant La Mama",
+    "question_number": 2,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\nTO(Q=90) = 90 × 30 = € 2.700",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste berekening is:\nTO(Q=90) = 90 × 30 = € 2.700"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-restaurant-la-mama-antw2.png"
+    ]
+   },
+   {
+    "title": "Restaurant La Mama",
+    "question_number": 3,
+    "answer_text": "grafiek 1",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "grafiek 1"
+     }
+    ],
+    "grading_note": "uitsluitend 2 of 0 scorepunten toekennen",
+    "answer_image_urls": [
+     "economie-havo-2017-i-restaurant-la-mama-antw3.png"
+    ]
+   },
+   {
+    "title": "Restaurant La Mama",
+    "question_number": 4,
+    "answer_text": "nee\nEen voorbeeld van een juiste berekening is:\n• prijselasticiteit bij prijsverlaging van € 10\nP₀ = 50   Q₀ = 70\nP₁ = 40   Q₁ = 80\n%∆ = −20%   %∆ = +14,3%\n• De gevraagde hoeveelheid diners stijgt relatief minder dan de prijs daalt / de elasticiteitscoëfficiënt (-0,715) is, absoluut gesproken, kleiner dan 1, dus er is sprake van een inelastische vraag",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "prijselasticiteit bij prijsverlaging van € 10\nP₀ = 50   Q₀ = 70\nP₁ = 40   Q₁ = 80\n%∆ = −20%   %∆ = +14,3%"
+     },
+     {
+      "points": 1,
+      "description": "De gevraagde hoeveelheid diners stijgt relatief minder dan de prijs daalt / de elasticiteitscoëfficiënt (-0,715) is, absoluut gesproken, kleiner dan 1, dus er is sprake van een inelastische vraag"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-restaurant-la-mama-antw4.png"
+    ]
+   },
+   {
+    "title": "Restaurant La Mama",
+    "question_number": 5,
+    "answer_text": "meer naar links\nEen voorbeeld van een juiste verklaring is:\nOp een maandag zal er bij elke gekozen prijs minder vraag zijn naar all-inclusive diners.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "meer naar links\nEen voorbeeld van een juiste verklaring is:\nOp een maandag zal er bij elke gekozen prijs minder vraag zijn naar all-inclusive diners."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-restaurant-la-mama-antw5.png"
+    ]
+   },
+   {
+    "title": "Restaurant La Mama",
+    "question_number": 6,
+    "answer_text": "aspect | het hoogst bij\n1 eisen die kredietverlener stelt aan kredietnemer | hypothecaire lening\n2 risico voor kredietverlener bij wanbetaling | crowdfunding",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "⚠️ CONTROLEREN: het correctievoorschrift geeft voor deze vraag (maximumscore 2) alleen de tabel en geen puntenverdeling.\n1 eisen die kredietverlener stelt aan kredietnemer: hypothecaire lening\n2 risico voor kredietverlener bij wanbetaling: crowdfunding"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-restaurant-la-mama-antw6.png"
+    ]
+   },
+   {
+    "title": "Hoe verdelen?",
+    "question_number": 7,
+    "answer_text": "(a) 5 (consumentenvertrouwen daalt)\n(b) 3 (consumptie daalt)\n(c) 1 (nationale bestedingen dalen)\n(d) 2 (investeringsklimaat verslechtert)\n(e) 4 (technologische vooruitgang wordt belemmerd)\n\n• zowel (a), (b) als (c) juist: 1\n• zowel (d) als (e) juist: 1",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "zowel (a), (b) als (c) juist"
+     },
+     {
+      "points": 1,
+      "description": "zowel (d) als (e) juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-hoe-verdelen-antw7.png"
+    ]
+   },
+   {
+    "title": "Hoe verdelen?",
+    "question_number": 8,
+    "answer_text": "herverdelingsmaatregel | soort inkomen (primair / secundair / beide)\nverhogen minimumloon: beide\nverhogen hoogste tarief inkomstenbelasting: secundair\n\nook goed rekenen:\nverhogen minimumloon: beide\nverhogen hoogste tarief inkomstenbelasting: beide",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "herverdelingsmaatregel | soort inkomen (primair / secundair / beide)\nverhogen minimumloon: beide\nverhogen hoogste tarief inkomstenbelasting: secundair\n\nook goed rekenen:\nverhogen minimumloon: beide\nverhogen hoogste tarief inkomstenbelasting: beide"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-hoe-verdelen-antw8.png"
+    ]
+   },
+   {
+    "title": "Hoe verdelen?",
+    "question_number": 9,
+    "answer_text": "Een voorbeeld van een juiste antwoord is:\n• a  Het verhogen van het hoogste tarief kan ertoe leiden dat mensen met een hoog inkomen naar het buitenland vertrekken / zwartwerken meer voorkomt / werknemers kunnen besluiten om minder te gaan werken\n• b  Het verhogen van het minimumloon leidt tot hogere loonkosten voor bedrijven, waardoor bedrijven (als gevolg van bijvoorbeeld automatisering) minder vraag naar laaggeschoolde arbeid zullen uitoefenen, met toenemende werkloosheid als gevolg\n• c  Het verhogen van de arbeidskorting voor de laagstbetaalden zal leiden tot een hoger netto-inkomen van alleen de laagstbetaalden, waardoor de inkomensverschillen sterker nivelleren",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a  Het verhogen van het hoogste tarief kan ertoe leiden dat mensen met een hoog inkomen naar het buitenland vertrekken / zwartwerken meer voorkomt / werknemers kunnen besluiten om minder te gaan werken"
+     },
+     {
+      "points": 1,
+      "description": "b  Het verhogen van het minimumloon leidt tot hogere loonkosten voor bedrijven, waardoor bedrijven (als gevolg van bijvoorbeeld automatisering) minder vraag naar laaggeschoolde arbeid zullen uitoefenen, met toenemende werkloosheid als gevolg"
+     },
+     {
+      "points": 1,
+      "description": "c  Het verhogen van de arbeidskorting voor de laagstbetaalden zal leiden tot een hoger netto-inkomen van alleen de laagstbetaalden, waardoor de inkomensverschillen sterker nivelleren"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-hoe-verdelen-antw9.png"
+    ]
+   },
+   {
+    "title": "Liever geen lira?",
+    "question_number": 10,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\nDe vermindering van de export van Turkije naar de eurozone als gevolg van de economische krimp in de eurozone betekent een verlaging van de vraag naar de Turkse lira, waardoor de koers van de lira daalt.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste uitleg is:\nDe vermindering van de export van Turkije naar de eurozone als gevolg van de economische krimp in de eurozone betekent een verlaging van de vraag naar de Turkse lira, waardoor de koers van de lira daalt."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-liever-geen-lira-antw10.png"
+    ]
+   },
+   {
+    "title": "Liever geen lira?",
+    "question_number": 11,
+    "answer_text": "Bilal heeft daarmee 12.779 euro verloren.\nEen voorbeeld van een juiste berekening is:\n1 mei 2013: euro in Turkse lira uitgedrukt 1,29 × 1,79 = lira 2,31\n1 september 2013: euro in Turkse lira uitgedrukt 1,32 × 2,05 = lira 2,71\n1 mei 2013: 200.000 / 2,31 = 86.580 euro\n1 september 2013: 200.000 / 2,71 = 73.801 euro\n\n86.580 − 73.801 = 12.779 euro nadeel",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Bilal heeft daarmee 12.779 euro verloren.\nEen voorbeeld van een juiste berekening is:\n1 mei 2013: euro in Turkse lira uitgedrukt 1,29 × 1,79 = lira 2,31\n1 september 2013: euro in Turkse lira uitgedrukt 1,32 × 2,05 = lira 2,71\n1 mei 2013: 200.000 / 2,31 = 86.580 euro\n1 september 2013: 200.000 / 2,71 = 73.801 euro\n\n86.580 − 73.801 = 12.779 euro nadeel"
+     }
+    ],
+    "grading_note": "Als een afwijkend antwoord is verkregen op basis van juiste berekeningen met meer dan twee decimalen, dienen scorepunten te worden toegekend.",
+    "answer_image_urls": [
+     "economie-havo-2017-i-liever-geen-lira-antw11.png"
+    ]
+   },
+   {
+    "title": "Liever geen lira?",
+    "question_number": 12,
+    "answer_text": "Voorbeelden van een juiste uitleg zijn:\n− Een koersverlaging van de lira maakt importeren voor Turkije duurder en als de verhoging van de importprijzen wordt doorberekend in de verkoopprijzen, heeft dat oplopende (kosten)inflatie tot gevolg.\n− Een koersverlaging van de lira maakt exporteren vanuit Turkije goedkoper en als door toenemende export de capaciteitsgrenzen worden bereikt, heeft dat (bestedings)inflatie tot gevolg.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juiste uitleg zijn:\n− Een koersverlaging van de lira maakt importeren voor Turkije duurder en als de verhoging van de importprijzen wordt doorberekend in de verkoopprijzen, heeft dat oplopende (kosten)inflatie tot gevolg.\n− Een koersverlaging van de lira maakt exporteren vanuit Turkije goedkoper en als door toenemende export de capaciteitsgrenzen worden bereikt, heeft dat (bestedings)inflatie tot gevolg."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-liever-geen-lira-antw12.png"
+    ]
+   },
+   {
+    "title": "Liever geen lira?",
+    "question_number": 13,
+    "answer_text": "grafiek 1",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "grafiek 1"
+     }
+    ],
+    "grading_note": "uitsluitend 2 of 0 scorepunten toekennen",
+    "answer_image_urls": [
+     "economie-havo-2017-i-liever-geen-lira-antw13.png"
+    ]
+   },
+   {
+    "title": "Dreigende deflatie",
+    "question_number": 14,
+    "answer_text": "a  werkgevers willen winst behouden\nb  werknemers willen koopkracht behouden",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a  werkgevers willen winst behouden\nb  werknemers willen koopkracht behouden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-dreigende-deflatie-antw14.png"
+    ]
+   },
+   {
+    "title": "Dreigende deflatie",
+    "question_number": 15,
+    "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Consumenten verwachten bij deflatie verdere prijsdaling en stellen hun consumptie uit (met als gevolg dat bedrijven hun investeringen uitstellen)\n• Dit betekent daling van de bestedingen en van de productie",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Consumenten verwachten bij deflatie verdere prijsdaling en stellen hun consumptie uit (met als gevolg dat bedrijven hun investeringen uitstellen)"
+     },
+     {
+      "points": 1,
+      "description": "Dit betekent daling van de bestedingen en van de productie"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-dreigende-deflatie-antw15.png"
+    ]
+   },
+   {
+    "title": "Dreigende deflatie",
+    "question_number": 16,
+    "answer_text": "afgenomen\nEen voorbeeld van een juiste verklaring is:\nHet deflatierisico in de eurozone is gelijk gebleven, terwijl het deflatierisico in Nederland is afgenomen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "afgenomen\nEen voorbeeld van een juiste verklaring is:\nHet deflatierisico in de eurozone is gelijk gebleven, terwijl het deflatierisico in Nederland is afgenomen."
+     }
+    ],
+    "grading_note": "Als niet verwezen wordt naar het gelijkblijvende deflatierisico van de eurozone dienen geen scorepunten te worden toegekend.",
+    "answer_image_urls": [
+     "economie-havo-2017-i-dreigende-deflatie-antw16.png"
+    ]
+   },
+   {
+    "title": "Dreigende deflatie",
+    "question_number": 17,
+    "answer_text": "Een voorbeeld van een juiste antwoord is:\nDe ECB wil de rente verlagen om daarmee te bereiken dat in de eurozone (de consumptie, de investeringen en daarmee) de bestedingen toenemen (pijl 10), hetgeen (via pijl 12) kan leiden tot een opwaartse druk op het prijsniveau (en daling van het deflatierisico).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste antwoord is:\nDe ECB wil de rente verlagen om daarmee te bereiken dat in de eurozone (de consumptie, de investeringen en daarmee) de bestedingen toenemen (pijl 10), hetgeen (via pijl 12) kan leiden tot een opwaartse druk op het prijsniveau (en daling van het deflatierisico)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-dreigende-deflatie-antw17.png"
+    ]
+   },
+   {
+    "title": "Dreigende deflatie",
+    "question_number": 18,
+    "answer_text": "Een voorbeeld van een juiste toelichting is:\n• Door een verlaging van de rente ontstaat kapitaalvlucht uit de eurozone, waardoor het aanbod van de euro toeneemt en de koers van de euro daalt (pijl 1)\n• hetgeen leidt tot een verbetering van de internationale concurrentiepositie (pijl 2), waardoor de export aantrekt en het saldo export - import verbetert (pijl 8) en er uiteindelijk meer bestedingen (pijl 9) en minder werkloosheid (pijl 4) ontstaat in de eurozone",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door een verlaging van de rente ontstaat kapitaalvlucht uit de eurozone, waardoor het aanbod van de euro toeneemt en de koers van de euro daalt (pijl 1)"
+     },
+     {
+      "points": 1,
+      "description": "hetgeen leidt tot een verbetering van de internationale concurrentiepositie (pijl 2), waardoor de export aantrekt en het saldo export - import verbetert (pijl 8) en er uiteindelijk meer bestedingen (pijl 9) en minder werkloosheid (pijl 4) ontstaat in de eurozone"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-dreigende-deflatie-antw18.png"
+    ]
+   },
+   {
+    "title": "Uitgestelde vluchten",
+    "question_number": 19,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nLeden van een vakbond betalen lidmaatschapsgeld en werknemers die geen lid zijn, kunnen zonder te betalen profiteren van de gemaakte cao-afspraken.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste verklaring is:\nLeden van een vakbond betalen lidmaatschapsgeld en werknemers die geen lid zijn, kunnen zonder te betalen profiteren van de gemaakte cao-afspraken."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-uitgestelde-vluchten-antw19.png"
+    ]
+   },
+   {
+    "title": "Uitgestelde vluchten",
+    "question_number": 20,
+    "answer_text": "Een voorbeeld van juiste berekening is:\n(100,8 / 102,75) × 100 = 98,1\nDit betekent een daling van 1,9%.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van juiste berekening is:\n(100,8 / 102,75) × 100 = 98,1\nDit betekent een daling van 1,9%."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-uitgestelde-vluchten-antw20.png"
+    ]
+   },
+   {
+    "title": "Uitgestelde vluchten",
+    "question_number": 21,
+    "answer_text": "Een voorbeeld van een juist berekening is:\n• De totale kosten zijn gedaald met 10%, dus de totale opbrengsten zijn ook met 10% gedaald (break-even)\nTOindex = (Pindex × Qindex) / 100 = (Pindex × 120) / 100 = 90\n• Pindex = (100 × 90) / 120 = 75\nDe prijs van een vliegticket bij Europlane is gemiddeld met 25% gedaald",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De totale kosten zijn gedaald met 10%, dus de totale opbrengsten zijn ook met 10% gedaald (break-even)\nTOindex = (Pindex × Qindex) / 100 = (Pindex × 120) / 100 = 90"
+     },
+     {
+      "points": 1,
+      "description": "Pindex = (100 × 90) / 120 = 75\nDe prijs van een vliegticket bij Europlane is gemiddeld met 25% gedaald"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-uitgestelde-vluchten-antw21.png"
+    ]
+   },
+   {
+    "title": "Uitgestelde vluchten",
+    "question_number": 22,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\n• De dominante strategie van de directie is ‘vasthouden aan een laag bod’ en de dominante strategie van de vakbond ‘vasthouden aan hoge eisen’\n• Dit levert een uitkomst op die voor beide partijen suboptimaal is",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De dominante strategie van de directie is ‘vasthouden aan een laag bod’ en de dominante strategie van de vakbond ‘vasthouden aan hoge eisen’"
+     },
+     {
+      "points": 1,
+      "description": "Dit levert een uitkomst op die voor beide partijen suboptimaal is"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-uitgestelde-vluchten-antw22.png"
+    ]
+   },
+   {
+    "title": "E-bike steeds populairder (ook bij dieven)",
+    "question_number": 23,
+    "answer_text": "stijgen\nEen voorbeeld van een juiste verklaring is:\nDe totale afzet van nieuwe fietsen in 2014 zal naar verwachting afnemen, terwijl voor de afzet van e-bikes in 2014 een toename wordt voorspeld.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "stijgen\nEen voorbeeld van een juiste verklaring is:\nDe totale afzet van nieuwe fietsen in 2014 zal naar verwachting afnemen, terwijl voor de afzet van e-bikes in 2014 een toename wordt voorspeld."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-e-bike-steeds-populairder-ook-bij-dieven-antw23.png"
+    ]
+   },
+   {
+    "title": "E-bike steeds populairder (ook bij dieven)",
+    "question_number": 24,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n0,14 × 1300 = € 182,-\n(182 + 20) × 1,21 = € 244,42",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\n0,14 × 1300 = € 182,-\n(182 + 20) × 1,21 = € 244,42"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-e-bike-steeds-populairder-ook-bij-dieven-antw24.png"
+    ]
+   },
+   {
+    "title": "E-bike steeds populairder (ook bij dieven)",
+    "question_number": 25,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nPremieverhoging kan ertoe leiden, dat ‘goede risico’s’ de e-bike niet meer verzekeren bij deze verzekeraar. De verzekeraar zal daardoor verhoudingsgewijs meer ‘slechte risico’s’ overhouden, waardoor er in verhouding tot de premieopbrengst meer schadevergoeding uitgekeerd moet worden (ten koste van het winstniveau).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste verklaring is:\nPremieverhoging kan ertoe leiden, dat ‘goede risico’s’ de e-bike niet meer verzekeren bij deze verzekeraar. De verzekeraar zal daardoor verhoudingsgewijs meer ‘slechte risico’s’ overhouden, waardoor er in verhouding tot de premieopbrengst meer schadevergoeding uitgekeerd moet worden (ten koste van het winstniveau)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-e-bike-steeds-populairder-ook-bij-dieven-antw25.png"
+    ]
+   },
+   {
+    "title": "E-bike steeds populairder (ook bij dieven)",
+    "question_number": 26,
+    "answer_text": "Een voorbeeld van een juiste verklaring is:\nPremiedifferentiatie kan ertoe leiden, dat meer ‘goede risico’s’ worden aangetrokken door een lagere premie.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juiste verklaring is:\nPremiedifferentiatie kan ertoe leiden, dat meer ‘goede risico’s’ worden aangetrokken door een lagere premie."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-havo-2017-i-e-bike-steeds-populairder-ook-bij-dieven-antw26.png"
+    ]
+   }
+  ]
+ }
+}
