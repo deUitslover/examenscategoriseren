@@ -127,6 +127,22 @@ FORMULAS = {
 }
 
 
+# HAVO Economie list (SUBJECT = "Economie", LEVEL = "HAVO")
+_HM = "Markt"; _HR = "Ruilen over de tijd"; _HS = "Samenwerken en onderhandelen"
+_HI = "Risico en informatie"; _HW = "Welvaart en groei"; _HG = "Goede tijden, slechte tijden"
+HAVO_ECONOMIE_SUBDOMAINS = {
+    "Marktvraag": _HM, "Marktaanbod": _HM, "Marktmechanisme": _HM, "Marktvormen": _HM,
+    "Kostenstructuur en opbrengsten": _HM, "Consumentengedrag": _HM, "Producentengedrag": _HM,
+    "Markt falen, overheidsingrijpen en welvaart": _HM, "Arbeidsmarkt": _HM,
+    "Gezinnen ruilen over de tijd": _HR, "De overheid ruilt over de tijd": _HR, "Pensioenen": _HR,
+    "Speltheorie": _HS, "Samenwerken en onderhandelen": _HS, "Markt falen (speltheoretisch)": _HS,
+    "Risico en verzekeren": _HI, "Asymmetrische informatie": _HI, "Risico en rente": _HI,
+    "Macro-economische kringloop, nationaal inkomen en welvaart": _HW, "Economische groei": _HW,
+    "Ongelijkheid en herverdeling": _HW, "Arbeidsmarkt en werkloosheid": _HW,
+    "Conjunctuur en conjuncturele verschijnselen": _HG, "Overheid, centrale bank en conjunctuur": _HG,
+}
+
+
 def clean(text, math=False, chem=True, extra=None):
     if math:
         text = clean_math(text)
@@ -157,7 +173,7 @@ def main():
     chem = subject != "Economie"
     extra = ann.get("REPLACE", {})
     if subject == "Economie":
-        subdomains = ECONOMIE_SUBDOMAINS
+        subdomains = HAVO_ECONOMIE_SUBDOMAINS if level == "HAVO" else ECONOMIE_SUBDOMAINS
     elif subject == "Wiskunde A":
         subdomains = WISKUNDE_A_SUBDOMAINS
     elif subject == "Wiskunde B":

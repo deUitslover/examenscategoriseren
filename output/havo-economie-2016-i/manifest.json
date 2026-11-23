@@ -1,0 +1,58 @@
+{
+  "source": "HAVO Economie 2016-I",
+  "subject_name": "Economie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Schipperen naar Schierland",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Parade van Pen",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Zorgwekkende kosten",
+      "question_numbers": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Slaat accijns een deuk in een pakje boter?",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "In India is het niet alles goud wat er blinkt",
+      "question_numbers": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "source": "HAVO Economie 2016-II",
+  "subject_name": "Economie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Grand Canyon",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "De prijs van snelheid",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Roebel in de val",
+      "question_numbers": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Is participeren te stimuleren?",
+      "question_numbers": [
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Accijnzen, de grens bereikt?",
+      "question_numbers": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    }
+  ]
+}
