@@ -1,0 +1,548 @@
+{
+ "payload": {
+  "subject_name": "Economie",
+  "level": "VWO",
+  "source": "VWO Economie 2023-I",
+  "answers": [
+   {
+    "title": "Content",
+    "question_number": 1,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Superstream heeft nu nieuwe kredieten afgesloten en via deze leningen bedrijfsinvesteringen naar voren gehaald\n• Om later deze leningen af te lossen (en rentebetalingen) te doen waardoor zij later minder besteden / investeren",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Superstream heeft nu nieuwe kredieten afgesloten en via deze leningen bedrijfsinvesteringen naar voren gehaald"
+     },
+     {
+      "points": 1,
+      "description": "Om later deze leningen af te lossen (en rentebetalingen) te doen waardoor zij later minder besteden / investeren"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-content-antw1.png"
+    ]
+   },
+   {
+    "title": "Content",
+    "question_number": 2,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Superstream zorgt door het voeren van een niet-kostendekkende prijs dat bedrijven niet / minder snel toetreden, omdat andere bedrijven (risico lopen dat ze) de (forse) investeringen niet kunnen terugverdienen.\n− Als (potentiële) concurrenten mee gaan in de niet-kostendekkende prijs, zullen ze geen winst kunnen maken en is er minder prikkel om tot de markt toe te treden / worden potentiële toetreders ontmoedigd.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juist antwoord zijn:\n− Superstream zorgt door het voeren van een niet-kostendekkende prijs dat bedrijven niet / minder snel toetreden, omdat andere bedrijven (risico lopen dat ze) de (forse) investeringen niet kunnen terugverdienen.\n− Als (potentiële) concurrenten mee gaan in de niet-kostendekkende prijs, zullen ze geen winst kunnen maken en is er minder prikkel om tot de markt toe te treden / worden potentiële toetreders ontmoedigd."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-content-antw2.png"
+    ]
+   },
+   {
+    "title": "Content",
+    "question_number": 3,
+    "answer_text": "Een juist antwoord in relatie tot de context van Superstream bevat:\n• De marktvorm verandert in een monopolie en de GO-curve verschuift naar rechts\n• De vraag wordt prijsinelastischer / minder prijselastisch: een prijsverhoging leidt tot een relatief lagere afzetdaling waardoor de omzet stijgt\n\nEen voorbeeld van een juist antwoord is:\n• Door het verdwijnen van concurrenten is Superstream een monopolist geworden waardoor de totale vraag naar abonnementen van Superstream toeneemt en de GO-curve naar rechts verschuift\n• Door een monopolie kunnen mensen niet overstappen naar een concurrent waardoor de vraag nu minder zal dalen bij eenzelfde prijsverhoging. De vraag wordt prijsinelastischer. Hierdoor leidt een prijsverhoging tot een toename van de omzet",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De marktvorm verandert in een monopolie en de GO-curve verschuift naar rechts"
+     },
+     {
+      "points": 2,
+      "description": "De vraag wordt prijsinelastischer / minder prijselastisch: een prijsverhoging leidt tot een relatief lagere afzetdaling waardoor de omzet stijgt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-content-antw3.png"
+    ]
+   },
+   {
+    "title": "Content",
+    "question_number": 4,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Superstream streeft naar maximale totale winst, dus MO = MK.\nMO is af te leiden via de GO-formule.\nGO = 200 – 10Q → TO = 200Q – 10Q² → MO = 200 – 20Q\nMO = MK → 200 – 20Q = 2 → Q = 9,9 (miljoen)\n• Invullen Q = 9,9 bij de GO-lijn: GO = 200 – (10 x 9,9) = € 101",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Superstream streeft naar maximale totale winst, dus MO = MK.\nMO is af te leiden via de GO-formule.\nGO = 200 – 10Q → TO = 200Q – 10Q² → MO = 200 – 20Q\nMO = MK → 200 – 20Q = 2 → Q = 9,9 (miljoen)"
+     },
+     {
+      "points": 1,
+      "description": "Invullen Q = 9,9 bij de GO-lijn: GO = 200 – (10 x 9,9) = € 101"
+     }
+    ],
+    "grading_note": "Als bij de eerste deelscore Q in figuur 1 wordt afgelezen in plaats van berekend, geen scorepunt toekennen voor de eerste deelscore.",
+    "answer_image_urls": [
+     "economie-vwo-2023-i-content-antw4.png"
+    ]
+   },
+   {
+    "title": "Content",
+    "question_number": 5,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de verhoging van de verkoopprijs zal de afzet afnemen. Hierdoor daalt het totale surplus in de markt\n• Het consumentensurplus daalt door een hogere prijs / lagere vraag. Het producentensurplus stijgt door een hogere prijs (en daalt door de afzetverlaging). Het producentensurplus zal als deel van het totale surplus toenemen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de verhoging van de verkoopprijs zal de afzet afnemen. Hierdoor daalt het totale surplus in de markt"
+     },
+     {
+      "points": 1,
+      "description": "Het consumentensurplus daalt door een hogere prijs / lagere vraag. Het producentensurplus stijgt door een hogere prijs (en daalt door de afzetverlaging). Het producentensurplus zal als deel van het totale surplus toenemen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-content-antw5.png"
+    ]
+   },
+   {
+    "title": "Aruba",
+    "question_number": 6,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nDoor een koppeling van de florin met de dollar wordt een duurdere import als gevolg van een wisselkoersdaling (met de VS) vermeden, (waardoor de inflatie in Aruba lager kan zijn).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juist antwoord is:\nDoor een koppeling van de florin met de dollar wordt een duurdere import als gevolg van een wisselkoersdaling (met de VS) vermeden, (waardoor de inflatie in Aruba lager kan zijn)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-aruba-antw6.png"
+    ]
+   },
+   {
+    "title": "Aruba",
+    "question_number": 7,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als de centrale bank van Aruba de rente verhoogt, zal (door het vrije kapitaalverkeer) de kapitaalinstroom van beleggers uit het buitenland toenemen\n• hierdoor ontstaat meer vraag naar de Arubaanse florin waardoor de wisselkoers apprecieert en bij een vaste wisselkoers wil de centrale bank dit voorkomen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als de centrale bank van Aruba de rente verhoogt, zal (door het vrije kapitaalverkeer) de kapitaalinstroom van beleggers uit het buitenland toenemen"
+     },
+     {
+      "points": 1,
+      "description": "hierdoor ontstaat meer vraag naar de Arubaanse florin waardoor de wisselkoers apprecieert en bij een vaste wisselkoers wil de centrale bank dit voorkomen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-aruba-antw7.png"
+    ]
+   },
+   {
+    "title": "Aruba",
+    "question_number": 8,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nDoor de afgenomen investeringen in zonnepanelen en windturbines daalt de vraag naar de AWG (bij elke wisselkoers). Bij een verschuiving van de vraag naar links zal (bij een gegeven aanbod) de koers van de AWG in dollars dalen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juist antwoord is:\nDoor de afgenomen investeringen in zonnepanelen en windturbines daalt de vraag naar de AWG (bij elke wisselkoers). Bij een verschuiving van de vraag naar links zal (bij een gegeven aanbod) de koers van de AWG in dollars dalen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-aruba-antw8.png"
+    ]
+   },
+   {
+    "title": "Aruba",
+    "question_number": 9,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n(De interventie moet een toename van de autonome vraag zijn om de koersdaling van 0,558 USD naar 0,50 USD te voorkomen. Dit is het verschil tussen de gevraagde hoeveelheid AWG en de aangeboden hoeveelheid AWG bij de koers van 0,50 USD.)\n• Qv = –2P + 2,68 → Qv = –2 x 0,50 + 2,68 = 1,68\nQa = 3P – 0,11 → Qa = 3 x 0,50 – 0,11 = 1,39\n• Er moet 1,68 – 1,39 = 0,29 miljoen AWG opgekocht worden",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Qv = –2P + 2,68 → Qv = –2 x 0,50 + 2,68 = 1,68\nQa = 3P – 0,11 → Qa = 3 x 0,50 – 0,11 = 1,39"
+     },
+     {
+      "points": 1,
+      "description": "Er moet 1,68 – 1,39 = 0,29 miljoen AWG opgekocht worden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-aruba-antw9.png"
+    ]
+   },
+   {
+    "title": "Aruba",
+    "question_number": 10,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Doordat de lagere inkomens minder werk hebben, ontvangen ze minder inkomen uit arbeid / ondernemerschap / kapitaal / natuur\n• De relatieve inkomensverschillen tussen arm en rijk worden groter en dus stijgt de Gini-coëfficiënt van de primaire inkomens",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Doordat de lagere inkomens minder werk hebben, ontvangen ze minder inkomen uit arbeid / ondernemerschap / kapitaal / natuur"
+     },
+     {
+      "points": 1,
+      "description": "De relatieve inkomensverschillen tussen arm en rijk worden groter en dus stijgt de Gini-coëfficiënt van de primaire inkomens"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-aruba-antw10.png"
+    ]
+   },
+   {
+    "title": "Aruba",
+    "question_number": 11,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Het besteedbaar inkomen van de werkenden neemt toe. Hierdoor zal de consumptie / de vraag naar goederen en diensten stijgen op Aruba\n• Hierdoor stijgt de productie en daarmee kan de vraag naar arbeid stijgen (en kan de werkgelegenheid toenemen)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het besteedbaar inkomen van de werkenden neemt toe. Hierdoor zal de consumptie / de vraag naar goederen en diensten stijgen op Aruba"
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor stijgt de productie en daarmee kan de vraag naar arbeid stijgen (en kan de werkgelegenheid toenemen)"
+     }
+    ],
+    "grading_note": "Voor een antwoord via het aanbod van arbeid worden geen scorepunten toegekend.",
+    "answer_image_urls": [
+     "economie-vwo-2023-i-aruba-antw11.png"
+    ]
+   },
+   {
+    "title": "Bij wanbetaling afrekenen",
+    "question_number": 12,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Er is sprake van tegengestelde belangen: De verzekeraar wil (als principaal) betaald worden. Het inkopende bedrijf (als agent) kan / wil de betaling wellicht niet meer voldoen\n• Er is asymmetrische informatie omdat de kredietverzekeraar onvoldoende informatie heeft of het inkopende bedrijf aan de betaling kan voldoen\n• De derde voorwaarde / het doorberekenen van de incassokosten",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er is sprake van tegengestelde belangen: De verzekeraar wil (als principaal) betaald worden. Het inkopende bedrijf (als agent) kan / wil de betaling wellicht niet meer voldoen"
+     },
+     {
+      "points": 1,
+      "description": "Er is asymmetrische informatie omdat de kredietverzekeraar onvoldoende informatie heeft of het inkopende bedrijf aan de betaling kan voldoen"
+     },
+     {
+      "points": 1,
+      "description": "De derde voorwaarde / het doorberekenen van de incassokosten"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-bij-wanbetaling-afrekenen-antw12.png"
+    ]
+   },
+   {
+    "title": "Bij wanbetaling afrekenen",
+    "question_number": 13,
+    "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• Twee juiste verzekeringsvoorwaarden: de eerste voorwaarde / eigen risico en de vierde voorwaarde / bonus-malussysteem\n• Een uitleg dat deze twee voorwaarden moral hazard verminderen\n\nEen voorbeeld van een juist antwoord is:\n• De eerste voorwaarde / een eigen risico stelt dat de leverancier een deel van de claim zelf betaalt (10%). De vierde voorwaarde / een bonus-malussysteem\n• Door deze voorwaarden heeft de leverancier zelf een financieel nadeel naarmate de leverancier meer claimt, en dus is er een prikkel om minder te claimen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Twee juiste verzekeringsvoorwaarden: de eerste voorwaarde / eigen risico en de vierde voorwaarde / bonus-malussysteem"
+     },
+     {
+      "points": 1,
+      "description": "Een uitleg dat deze twee voorwaarden moral hazard verminderen"
+     }
+    ],
+    "grading_note": "Als een kandidaat bij de eerste deelscore premiedifferentiatie als antwoord opgeeft, geen scorepunten toekennen voor de eerste deelscore.",
+    "answer_image_urls": [
+     "economie-vwo-2023-i-bij-wanbetaling-afrekenen-antw13.png"
+    ]
+   },
+   {
+    "title": "Bij wanbetaling afrekenen",
+    "question_number": 14,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Het invoeren van een bonus-malussysteem (de vierde voorwaarde) / vrijwillig eigen risico zorgt ervoor dat goede risico’s een lagere premie betalen\n• Hierdoor zullen goede risico’s zich (meer) gaan verzekeren waardoor averechtse selectie vermindert\n\nof\n\n• Het invoeren van een verplichte verzekering zorgt ervoor dat goede risico’s zich moeten verzekeren\n• Hierdoor is er geen sprake meer van averechtse selectie",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het invoeren van een bonus-malussysteem (de vierde voorwaarde) / vrijwillig eigen risico zorgt ervoor dat goede risico’s een lagere premie betalen\nof\nHet invoeren van een verplichte verzekering zorgt ervoor dat goede risico’s zich moeten verzekeren"
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor zullen goede risico’s zich (meer) gaan verzekeren waardoor averechtse selectie vermindert\nof\nHierdoor is er geen sprake meer van averechtse selectie"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-bij-wanbetaling-afrekenen-antw14.png"
+    ]
+   },
+   {
+    "title": "Bij wanbetaling afrekenen",
+    "question_number": 15,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Het verwachte schadebedrag = de som van het aantal contracten x de gemiddelde omzet x kans op wanbetaling:\n(20 x 1 miljoen x 0,05%) + (30 x 0,5 miljoen x 0,2%) + (80 x 0,25 miljoen x 0,2%) = € 80.000\n• De premie opslag = 80.000 x 0,20 = € 16.000\nTotale premie = 80.000 + 16.000 = € 96.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het verwachte schadebedrag = de som van het aantal contracten x de gemiddelde omzet x kans op wanbetaling:\n(20 x 1 miljoen x 0,05%) + (30 x 0,5 miljoen x 0,2%) + (80 x 0,25 miljoen x 0,2%) = € 80.000"
+     },
+     {
+      "points": 1,
+      "description": "De premie opslag = 80.000 x 0,20 = € 16.000\nTotale premie = 80.000 + 16.000 = € 96.000"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-bij-wanbetaling-afrekenen-antw15.png"
+    ]
+   },
+   {
+    "title": "Achter het net vissen",
+    "question_number": 16,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• In de evenwichtssituatie geldt: Qv = Qa\n(6.000 – 125P = 375P – 3.000) → P= 18 badi.\nDe huidige productie (Qa, visvangst) is gelijk aan (375 x 18) – 3.000 = 3.750 ton vis\n• De groei van vis is gelijk aan 0,03 x 80.000 = 2.400 ton vis. Dit betekent dat er (in de eerste maand) teveel wordt gevist (3.750 > 2.400)\n• Omdat de visstand kleiner wordt, zal de groei (van 3%) steeds kleiner worden en dus de situatie sneller verslechteren",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In de evenwichtssituatie geldt: Qv = Qa\n(6.000 – 125P = 375P – 3.000) → P= 18 badi.\nDe huidige productie (Qa, visvangst) is gelijk aan (375 x 18) – 3.000 = 3.750 ton vis"
+     },
+     {
+      "points": 1,
+      "description": "De groei van vis is gelijk aan 0,03 x 80.000 = 2.400 ton vis. Dit betekent dat er (in de eerste maand) teveel wordt gevist (3.750 > 2.400)"
+     },
+     {
+      "points": 1,
+      "description": "Omdat de visstand kleiner wordt, zal de groei (van 3%) steeds kleiner worden en dus de situatie sneller verslechteren"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-achter-het-net-vissen-antw16.png"
+    ]
+   },
+   {
+    "title": "Achter het net vissen",
+    "question_number": 17,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de innovatieve investeringen dalen de marginale kosten van de visvangst, dus de MK-lijn schuift naar beneden\n• Aanbieders kunnen bij iedere prijs meer aanbieden en dus verschuift de collectieve aanbodlijn naar rechts. Op de collectieve vismarkt ontstaat een nieuw evenwicht met een lagere prijs\n• Door de lagere prijs zal de gevraagde hoeveelheid vis stijgen. Hierdoor stijgt de totale visvangst nog verder (en verslechtert de situatie)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de innovatieve investeringen dalen de marginale kosten van de visvangst, dus de MK-lijn schuift naar beneden"
+     },
+     {
+      "points": 1,
+      "description": "Aanbieders kunnen bij iedere prijs meer aanbieden en dus verschuift de collectieve aanbodlijn naar rechts. Op de collectieve vismarkt ontstaat een nieuw evenwicht met een lagere prijs"
+     },
+     {
+      "points": 1,
+      "description": "Door de lagere prijs zal de gevraagde hoeveelheid vis stijgen. Hierdoor stijgt de totale visvangst nog verder (en verslechtert de situatie)"
+     }
+    ],
+    "grading_note": "− Het tweede scorepunt uitsluitend toekennen als het een logisch gevolg is van de eerste deelscore\n− Het derde scorepunt uitsluitend toekennen als er wordt geredeneerd naar een verslechtering van de situatie",
+    "answer_image_urls": [
+     "economie-vwo-2023-i-achter-het-net-vissen-antw17.png"
+    ]
+   },
+   {
+    "title": "Achter het net vissen",
+    "question_number": 18,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• (Door een heffing verschuift de binnenlandse aanbodlijn naar links. Deze moet verschuiven zodat de gevraagde hoeveelheid gelijk is aan de aangroei, bij 2.400 ton.)\nQv moet 2.400 worden →\n2.400 = 6.000 – 125P → P = 28,80 (marktprijs)\n• Het aanbod Qa = 2.400 wordt bereikt bij een prijs van:\n375P – 3.000 = 2.400 → P = 14,40\nHet verschil is de heffing: 28,80 – 14,40 = 14,40",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Door een heffing verschuift de binnenlandse aanbodlijn naar links. Deze moet verschuiven zodat de gevraagde hoeveelheid gelijk is aan de aangroei, bij 2.400 ton.)\nQv moet 2.400 worden →\n2.400 = 6.000 – 125P → P = 28,80 (marktprijs)"
+     },
+     {
+      "points": 1,
+      "description": "Het aanbod Qa = 2.400 wordt bereikt bij een prijs van:\n375P – 3.000 = 2.400 → P = 14,40\nHet verschil is de heffing: 28,80 – 14,40 = 14,40"
+     }
+    ],
+    "grading_note": "Als op correcte wijze wordt doorgerekend met een antwoord uit vraag 16 moeten scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "economie-vwo-2023-i-achter-het-net-vissen-antw18.png"
+    ]
+   },
+   {
+    "title": "Achter het net vissen",
+    "question_number": 19,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Het quotum in (het totaal van) de vergunningen moet kleiner of gelijk zijn aan de visgroei,\n• Er moet sprake zijn van controle / dwang / handhaving op naleving van het quotum / de vergunningen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het quotum in (het totaal van) de vergunningen moet kleiner of gelijk zijn aan de visgroei,"
+     },
+     {
+      "points": 1,
+      "description": "Er moet sprake zijn van controle / dwang / handhaving op naleving van het quotum / de vergunningen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-achter-het-net-vissen-antw19.png"
+    ]
+   },
+   {
+    "title": "Belastingverhoging",
+    "question_number": 20,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n• Een verlaging van de heffingskorting (HK) van € 2 miljard leidt tot een daling van het bbp met € 3 miljard. De multiplier is ΔY / ΔHK → –3 / –2 = 1,5\n• Door de verlaging van de heffingskorting daalt de consumptie waardoor het bbp daalt. Door het lagere inkomen dalen de bestedingen verder, waardoor het inkomen nog verder daalt. Op termijn daalt het inkomen (met € 3 miljard) meer dan de daling van de heffingskorting (met 2 miljard)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een verlaging van de heffingskorting (HK) van € 2 miljard leidt tot een daling van het bbp met € 3 miljard. De multiplier is ΔY / ΔHK → –3 / –2 = 1,5"
+     },
+     {
+      "points": 1,
+      "description": "Door de verlaging van de heffingskorting daalt de consumptie waardoor het bbp daalt. Door het lagere inkomen dalen de bestedingen verder, waardoor het inkomen nog verder daalt. Op termijn daalt het inkomen (met € 3 miljard) meer dan de daling van de heffingskorting (met 2 miljard)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-belastingverhoging-antw20.png"
+    ]
+   },
+   {
+    "title": "Belastingverhoging",
+    "question_number": 21,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de situatie van onderbesteding daalt de effectieve vraag en ontstaat een lagere inflatie (dan verwacht, 1,3% < 2%)\n• De productiekosten liggen op korte termijn vast en de verkoopprijs stijgt minder hard, waardoor de winstmarge afneemt / de reële productiekosten stijgen en daarom daalt het aanbod. (Dit is een verschuiving langs de GA-curve)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de situatie van onderbesteding daalt de effectieve vraag en ontstaat een lagere inflatie (dan verwacht, 1,3% < 2%)"
+     },
+     {
+      "points": 1,
+      "description": "De productiekosten liggen op korte termijn vast en de verkoopprijs stijgt minder hard, waardoor de winstmarge afneemt / de reële productiekosten stijgen en daarom daalt het aanbod. (Dit is een verschuiving langs de GA-curve)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-belastingverhoging-antw21.png"
+    ]
+   },
+   {
+    "title": "Belastingverhoging",
+    "question_number": 22,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Over de tijd passen de inflatieverwachtingen zich aan: door een (verwachte) lagere inflatie worden lonen / inkoopprijzen opnieuw onderhandeld en lager vastgesteld\n• Hierdoor dalen reële productiekosten (gegeven de inflatieverwachting) en schuift de GA-curve naar beneden",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Over de tijd passen de inflatieverwachtingen zich aan: door een (verwachte) lagere inflatie worden lonen / inkoopprijzen opnieuw onderhandeld en lager vastgesteld"
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor dalen reële productiekosten (gegeven de inflatieverwachting) en schuift de GA-curve naar beneden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-belastingverhoging-antw22.png"
+    ]
+   },
+   {
+    "title": "Belastingverhoging",
+    "question_number": 23,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als de centrale bank de rente niet aanpast zal door de verlaging van de algemene heffingskorting het bbp afnemen (tot € 327 miljard). Door het lagere inkomen zullen de belastingopbrengsten lager zijn dan verwacht / de uitgaven aan uitkeringen toenemen (uitverdieneffect)\n• Hierdoor verslechtert het overheidssaldo. Om dit tegen te gaan zal de overheid dus meer moeten bezuinigen om de gewenste verbetering van het overheidssaldo te bereiken",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als de centrale bank de rente niet aanpast zal door de verlaging van de algemene heffingskorting het bbp afnemen (tot € 327 miljard). Door het lagere inkomen zullen de belastingopbrengsten lager zijn dan verwacht / de uitgaven aan uitkeringen toenemen (uitverdieneffect)"
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor verslechtert het overheidssaldo. Om dit tegen te gaan zal de overheid dus meer moeten bezuinigen om de gewenste verbetering van het overheidssaldo te bereiken"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-belastingverhoging-antw23.png"
+    ]
+   },
+   {
+    "title": "Belastingverhoging",
+    "question_number": 24,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• De monetaristische visie gaat uit van een grotere rentegevoeligheid van de consumptie / investeringen dan de Keynesiaanse visie. Dat leidt ertoe dat bij de monetaristische visie de IS-curve vlakker is\n• Een relatief kleinere renteverlaging zal leiden tot eenzelfde stijging van de consumptie / investeringen waardoor (bestedingsevenwicht en) een stabiele inflatie wordt bereikt",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De monetaristische visie gaat uit van een grotere rentegevoeligheid van de consumptie / investeringen dan de Keynesiaanse visie. Dat leidt ertoe dat bij de monetaristische visie de IS-curve vlakker is"
+     },
+     {
+      "points": 1,
+      "description": "Een relatief kleinere renteverlaging zal leiden tot eenzelfde stijging van de consumptie / investeringen waardoor (bestedingsevenwicht en) een stabiele inflatie wordt bereikt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-belastingverhoging-antw24.png"
+    ]
+   },
+   {
+    "title": "Circulaire economie",
+    "question_number": 25,
+    "answer_text": "Een juist antwoord bevat in relatie tot de context:\nEen correcte afweging tussen de verandering van het bbp en de verandering van de (monetaire) milieuschade.\n\nEen voorbeeld van een juist antwoord is:\n• In een circulaire economie neemt de productie via gerecyclede grondstoffen toe ten opzichte van de niet-gerecyclede productie. Dit is minder milieuvervuilend\n• Dit betekent dat de (monetaire) schade aan het milieu bij gelijkblijvende productie daalt waardoor het groen bbp kan stijgen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In een circulaire economie neemt de productie via gerecyclede grondstoffen toe ten opzichte van de niet-gerecyclede productie. Dit is minder milieuvervuilend"
+     },
+     {
+      "points": 1,
+      "description": "Dit betekent dat de (monetaire) schade aan het milieu bij gelijkblijvende productie daalt waardoor het groen bbp kan stijgen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-circulaire-economie-antw25.png"
+    ]
+   },
+   {
+    "title": "Circulaire economie",
+    "question_number": 26,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als de grondstoffenvoorraad kleiner wordt / het aanbod op de markt voor grondstoffen daalt, zal de prijs van deze grondstoffen stijgen\n• Hierdoor zal er meer vraag worden uitgeoefend naar recyclebaar afval en neemt de bereidheid toe te betalen voor dit afval / een infrastructuur op te zetten voor consumenten om dit afval in te leveren (pijl A)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als de grondstoffenvoorraad kleiner wordt / het aanbod op de markt voor grondstoffen daalt, zal de prijs van deze grondstoffen stijgen"
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor zal er meer vraag worden uitgeoefend naar recyclebaar afval en neemt de bereidheid toe te betalen voor dit afval / een infrastructuur op te zetten voor consumenten om dit afval in te leveren (pijl A)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-circulaire-economie-antw26.png"
+    ]
+   },
+   {
+    "title": "Circulaire economie",
+    "question_number": 27,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\nDoor statiegeld worden meer flesjes ingeleverd. Daardoor is er minder zwerfafval, waardoor de kosten van het opruimen / schoonmaken voor de maatschappij dalen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een voorbeeld van een juist antwoord is:\nDoor statiegeld worden meer flesjes ingeleverd. Daardoor is er minder zwerfafval, waardoor de kosten van het opruimen / schoonmaken voor de maatschappij dalen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-circulaire-economie-antw27.png"
+    ]
+   },
+   {
+    "title": "Circulaire economie",
+    "question_number": 28,
+    "answer_text": "Een voorbeeld van een juiste berekening is:\n(Break-even wordt bereikt bij TO = TK)\nTO = 6q en TK = 180.000 + 2q + aq (a = inkoopkosten van afval)\nq = 100.000, waardoor TO = 600.000 en TK = 180.000 + 200.000 + aq\nDe inkoopkosten mogen maximaal € 220.000 bedragen, waardoor de inkoopprijs maximaal € 2,20 per kilogram is.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een voorbeeld van een juiste berekening is:\n(Break-even wordt bereikt bij TO = TK)\nTO = 6q en TK = 180.000 + 2q + aq (a = inkoopkosten van afval)\nq = 100.000, waardoor TO = 600.000 en TK = 180.000 + 200.000 + aq\nDe inkoopkosten mogen maximaal € 220.000 bedragen, waardoor de inkoopprijs maximaal € 2,20 per kilogram is."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-circulaire-economie-antw28.png"
+    ]
+   },
+   {
+    "title": "Circulaire economie",
+    "question_number": 29,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Schoon heeft een specifieke investering / een investering met verzonken kosten gedaan in een verwerkingsinstallatie voor het verwerken van het afval van Cirkel. Als Cirkel een hogere prijs eist, kan de kostprijs (van Schoon) hoger worden dan de verkoopprijs. Schoon kan zijn eerdere investering niet meer terugverdienen.\n− Schoon heeft een specifieke investering / een investering met verzonken kosten gedaan in een verwerkingsinstallatie voor het verwerken van het afval van Cirkel. Als Cirkel een prijs eist van bijvoorbeeld € 2,50 per kilogram, kan Schoon een verlies draaien van: (TO – TK) = 100.000 x € 6 – (100.000 x € 2,50 + 100.000 x € 2 + € 180.000) = –€ 30.000. Na de investering is een verlies van € 30.000 beter dan de situatie zonder contract (een verlies van € 135.000). Schoon kan zijn eerdere investering niet meer terugverdienen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Voorbeelden van een juist antwoord zijn:\n− Schoon heeft een specifieke investering / een investering met verzonken kosten gedaan in een verwerkingsinstallatie voor het verwerken van het afval van Cirkel. Als Cirkel een hogere prijs eist, kan de kostprijs (van Schoon) hoger worden dan de verkoopprijs. Schoon kan zijn eerdere investering niet meer terugverdienen.\n− Schoon heeft een specifieke investering / een investering met verzonken kosten gedaan in een verwerkingsinstallatie voor het verwerken van het afval van Cirkel. Als Cirkel een prijs eist van bijvoorbeeld € 2,50 per kilogram, kan Schoon een verlies draaien van: (TO – TK) = 100.000 x € 6 – (100.000 x € 2,50 + 100.000 x € 2 + € 180.000) = –€ 30.000. Na de investering is een verlies van € 30.000 beter dan de situatie zonder contract (een verlies van € 135.000). Schoon kan zijn eerdere investering niet meer terugverdienen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "economie-vwo-2023-i-circulaire-economie-antw29.png"
+    ]
+   }
+  ]
+ }
+}
