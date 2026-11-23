@@ -54,6 +54,12 @@ def title_bar_y(page, max_y=200.0):
         r = d["rect"]
         if r.width > 300 and 2 <= r.height < 8 and r.y0 < max_y and d.get("fill"):
             return r.y1
+    # HAVO-ECO-18-I-O.pdf p.1/p.4: the grey bar is a raster image
+    # (808x8 px) instead of a filled vector rectangle
+    for info in page.get_image_info():
+        r = fitz.Rect(info["bbox"])
+        if r.width > 300 and 2 <= r.height < 8 and r.y0 < max_y:
+            return r.y1
     return None
 
 

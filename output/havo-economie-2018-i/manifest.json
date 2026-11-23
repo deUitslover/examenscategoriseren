@@ -1,0 +1,61 @@
+{
+  "source": "HAVO Economie 2018-I",
+  "subject_name": "Economie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Slapend rijk worden?",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Van nationaal rekenen naar nationaal beleid",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Hoe duur is de suiker?",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Zekerheidszoekers in de zorg",
+      "question_numbers": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "title": "Minimumloon: meer of minder werk?",
+      "question_numbers": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    }
+  ]
+}
