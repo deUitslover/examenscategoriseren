@@ -1,0 +1,530 @@
+{
+ "payload": {
+  "subject_name": "Geschiedenis",
+  "level": "VWO",
+  "source": "VWO Geschiedenis 2024-II",
+  "answers": [
+   {
+    "title": "Door de tijd heen",
+    "question_number": 1,
+    "answer_text": "De juiste volgorde is:\n6, 5, 1, 4, 2, 3",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 6, 5, 1, 4, 2, 3"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-door-de-tijd-heen-antw1.png"
+    ]
+   },
+   {
+    "title": "Prehistorie en oudheid",
+    "question_number": 2,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De munt brengt de boodschap over dat de bondgenoten de Romeinen zullen verslaan / dat de bondgenoten sterker zijn dan de Romeinen.\n• Doordat de munt een afbeelding van een Grieks-Romeinse god heeft, kun je aantonen dat de Grieks-Romeinse cultuur verspreid is over het Italiaanse schiereiland.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De munt brengt de boodschap over dat de bondgenoten de Romeinen zullen verslaan / dat de bondgenoten sterker zijn dan de Romeinen."
+     },
+     {
+      "points": 1,
+      "description": "Doordat de munt een afbeelding van een Grieks-Romeinse god heeft, kun je aantonen dat de Grieks-Romeinse cultuur verspreid is over het Italiaanse schiereiland."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-prehistorie-en-oudheid-antw2.png"
+    ]
+   },
+   {
+    "title": "Prehistorie en oudheid",
+    "question_number": 3,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nDe bondgenoten gebruikten Latijn om (een van de volgende redeneringen):\n− aan te geven dat zij bij de Romeinen hoorden, waarmee ze wilden aantonen dat ze het burgerrecht verdienden.\n− hun (dreigende) boodschap over te brengen aan de Romeinse troepen/het Romeinse volk, om zo het (Romeinse) bestuur onder druk te zetten om toe te geven aan de vraag om burgerrechten.\n− andere bondgenoten/volken in Italië te bereiken, zodat deze de opstand zouden steunen voor het verkrijgen van burgerrechten.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De bondgenoten gebruikten Latijn om (een van de volgende redeneringen): − aan te geven dat zij bij de Romeinen hoorden, waarmee ze wilden aantonen dat ze het burgerrecht verdienden. − hun (dreigende) boodschap over te brengen aan de Romeinse troepen/het Romeinse volk, om zo het (Romeinse) bestuur onder druk te zetten om toe te geven aan de vraag om burgerrechten. − andere bondgenoten/volken in Italië te bereiken, zodat deze de opstand zouden steunen voor het verkrijgen van burgerrechten."
+     }
+    ],
+    "grading_note": "Alleen als in het antwoord duidelijk wordt gemaakt op welke wijze het gebruik van Latijn bijdraagt aan het verkrijgen van burgerrechten, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-prehistorie-en-oudheid-antw3.png"
+    ]
+   },
+   {
+    "title": "De middeleeuwen",
+    "question_number": 4,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Bonifatius wil bereiken dat de paus de (in zijn ogen) heidense gebruiken tegengaat die (volgens de pelgrims) in Rome plaatsvinden, zodat toekomstige reizigers/pelgrims uit Noordwest-Europa hiermee niet in aanraking komen / geen heidense gebruiken mee terug nemen naar Noordwest-Europa (wat de verspreiding van het christendom niet ten goede komt).\n• Door het schrijven van de brief wil Bonifatius benadrukken/aantonen dat hij zijn werk als missionaris serieus neemt, zodat de paus inziet dat Bonifatius een belangrijke rol speelt bij de kerstening van Noordwest-Europa / zodat de paus hem zal helpen zijn rol als missionaris uit te voeren.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Bonifatius wil bereiken dat de paus de (in zijn ogen) heidense gebruiken tegengaat die (volgens de pelgrims) in Rome plaatsvinden, zodat toekomstige reizigers/pelgrims uit Noordwest-Europa hiermee niet in aanraking komen / geen heidense gebruiken mee terug nemen naar Noordwest-Europa (wat de verspreiding van het christendom niet ten goede komt)."
+     },
+     {
+      "points": 2,
+      "description": "Door het schrijven van de brief wil Bonifatius benadrukken/aantonen dat hij zijn werk als missionaris serieus neemt, zodat de paus inziet dat Bonifatius een belangrijke rol speelt bij de kerstening van Noordwest-Europa / zodat de paus hem zal helpen zijn rol als missionaris uit te voeren."
+     }
+    ],
+    "grading_note": "Alleen als het verband wordt uitgelegd tussen de bedoeling van de brief en (bij de eerste deelvraag) de kerstening van Noordwest-Europa en (bij de tweede deelvraag) het versterken van zijn positie als missionaris, worden scorepunten toegekend",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-de-middeleeuwen-antw4.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 5,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De hertog voerde een centralisatiepolitiek / ging in tegen het stedelijk particularisme, omdat Luik haar stedelijke autonomie verloor door het weghalen van de perroen / omdat Luik zelf geen wetten meer kon afkondigen.\n• Door de perroen tentoon te stellen voor de koopmansbeurs (die door veel buitenlandse kooplieden werd bezocht) werd buiten de Nederlanden bekend hoe machtig de Bourgondische hertog was / waarschuwde de hertog de kooplieden in het stadsbestuur niet in opstand te komen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De hertog voerde een centralisatiepolitiek / ging in tegen het stedelijk particularisme, omdat Luik haar stedelijke autonomie verloor door het weghalen van de perroen / omdat Luik zelf geen wetten meer kon afkondigen."
+     },
+     {
+      "points": 1,
+      "description": "Door de perroen tentoon te stellen voor de koopmansbeurs (die door veel buitenlandse kooplieden werd bezocht) werd buiten de Nederlanden bekend hoe machtig de Bourgondische hertog was / waarschuwde de hertog de kooplieden in het stadsbestuur niet in opstand te komen."
+     }
+    ],
+    "grading_note": "Alleen als bij de eerste deelvraag het verband wordt uitgelegd tussen het centralisatiebeleid / het ingaan tegen het stedelijke particularisme en het weghalen van de perroen, worden scorepunten toegekend.\nAlleen als in het antwoord op de tweede deelvraag specifiek wordt ingegaan op het internationale karakter van de koopmansbeurs / de rol van de kooplieden in het stadsbestuur, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-steden-en-burgers-1050-1700-antw5.png"
+    ]
+   },
+   {
+    "title": "Vroegmoderne tijd",
+    "question_number": 6,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nDat Fra Mauro ernaar streeft een betrouwbare kaart te maken blijkt uit:\n• het bevragen van ooggetuigen / het gebruiken van informatie van reizigers die gezien hebben hoe de zee rond Afrika eruit ziet.\n• het gebruiken van/onderzoek doen naar informatie uit (klassieke) teksten.\n• De koning wil ontdekkingsreizen stimuleren om zijn macht te vergroten door land te claimen / wil andere landen vóór zijn in het ontdekken van vaarroutes/land (waar een betrouwbare weergave van de bekende wereld aan bijdraagt).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "het bevragen van ooggetuigen / het gebruiken van informatie van reizigers die gezien hebben hoe de zee rond Afrika eruit ziet."
+     },
+     {
+      "points": 1,
+      "description": "het gebruiken van/onderzoek doen naar informatie uit (klassieke) teksten."
+     },
+     {
+      "points": 1,
+      "description": "De koning wil ontdekkingsreizen stimuleren om zijn macht te vergroten door land te claimen / wil andere landen vóór zijn in het ontdekken van vaarroutes/land (waar een betrouwbare weergave van de bekende wereld aan bijdraagt)."
+     }
+    ],
+    "grading_note": "Als in het antwoord op de eerste deelvraag twee voorbeelden worden gegeven van het spreken van ooggetuigen, wordt 1 scorepunt toegekend (omdat dit niet twee verschillende argumenten zijn).",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-vroegmoderne-tijd-antw6.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 7,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Door de meer individuele geloofsbeleving was er een grote vraag naar boeken zoals deze (met illustraties/in de volkstaal) omdat gelovigen hiermee het leven van Jezus zelf/thuis konden bestuderen.\n• Het boek kwam op de lijst als 'slecht en verdacht' omdat de zorg bestond dat mensen geloofsideeën kregen die niet pasten bij het katholieke geloof / dat de rol van de katholieke kerk werd aangetast,\n• wat past bij 'de protestantse reformatie die de splitsing van de christelijke kerk in West-Europa tot gevolg had'.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de meer individuele geloofsbeleving was er een grote vraag naar boeken zoals deze (met illustraties/in de volkstaal) omdat gelovigen hiermee het leven van Jezus zelf/thuis konden bestuderen."
+     },
+     {
+      "points": 1,
+      "description": "Het boek kwam op de lijst als 'slecht en verdacht' omdat de zorg bestond dat mensen geloofsideeën kregen die niet pasten bij het katholieke geloof / dat de rol van de katholieke kerk werd aangetast,"
+     },
+     {
+      "points": 1,
+      "description": "wat past bij 'de protestantse reformatie die de splitsing van de christelijke kerk in West-Europa tot gevolg had'."
+     }
+    ],
+    "grading_note": "Als bij de tweede deelvraag het kenmerkend aspect 'het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat' wordt genoemd, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-steden-en-burgers-1050-1700-antw7.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 8,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Door de (zicht)lijn tussen Huis ter Nieuburch en het graf van Willem/Maurits van Oranje in de Nieuwe Kerk vestigt Frederik Hendrik de aandacht op de familieband, waardoor inwoners van de Republiek hem aanvaarden als de erfgenaam van het stadhouderschap / als de juiste leider voor de Republiek.\n• Door de enorme afmetingen van Huis ter Nieuburch (een gevel van 100 meter) / door tuinen die lijken op die van koninklijke paleizen in het buitenland, geeft Frederik Hendrik het stadhouderschap een koninklijke uitstraling (wat zijn aanzien vergroot).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Door de (zicht)lijn tussen Huis ter Nieuburch en het graf van Willem/Maurits van Oranje in de Nieuwe Kerk vestigt Frederik Hendrik de aandacht op de familieband, waardoor inwoners van de Republiek hem aanvaarden als de erfgenaam van het stadhouderschap / als de juiste leider voor de Republiek."
+     },
+     {
+      "points": 2,
+      "description": "Door de enorme afmetingen van Huis ter Nieuburch (een gevel van 100 meter) / door tuinen die lijken op die van koninklijke paleizen in het buitenland, geeft Frederik Hendrik het stadhouderschap een koninklijke uitstraling (wat zijn aanzien vergroot)."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een combinatie bevat van een juiste redenering van Frederik Hendrik en een daarbij passende verwijzing naar de bron, worden telkens scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-steden-en-burgers-1050-1700-antw8.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 9,
+    "answer_text": "Kern van een juist antwoord is:\n• Door de buitenlandse aanvallen/de politiek instabiele situatie tijdens het Rampjaar moest Willem III kunnen rekenen op trouwe bestuurders / had Willem III voor zijn pas aangevangen functie als stadhouder de steun van de regenten nodig.\n• Willem III versterkte de oligarchisering (of een juiste omschrijving daarvan).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Door de buitenlandse aanvallen/de politiek instabiele situatie tijdens het Rampjaar moest Willem III kunnen rekenen op trouwe bestuurders / had Willem III voor zijn pas aangevangen functie als stadhouder de steun van de regenten nodig."
+     },
+     {
+      "points": 1,
+      "description": "Willem III versterkte de oligarchisering (of een juiste omschrijving daarvan)."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de eerste deelvraag een combinatie bevat van het Rampjaar/zijn pas aangevangen functie (of een juiste omschrijving daarvan) en een verklaring voor het besluit van Willem III, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-steden-en-burgers-1050-1700-antw9.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 – 1900",
+    "question_number": 10,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Richard Bland gaat uit van het verlichte idee van natuurlijke rechten / het sociale contract van Locke,\n• omdat hij schrijft dat (een van de volgende):\n  − alle mensen vrijgeboren zijn.\n  − alle mensen het recht hebben op vrijheden en privileges.\n  − wetten die worden gemaakt zonder invloed van de kolonisten niet rechtmatig zijn.\n• De boodschap van Common Sense is dat de inwoners van de kolonie recht hebben op een vorm van zelfbestuur, wat overeenkomt met de boodschap in dit pamflet,\n• omdat Richard Bland vindt dat (een van de volgende):\n  − de wetgevende macht met vertegenwoordigers van het volk moet worden ingesteld.\n  − er in de kolonie alleen wetten kunnen worden gemaakt met Noord-Amerikaanse vertegenwoordiging.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Richard Bland gaat uit van het verlichte idee van natuurlijke rechten / het sociale contract van Locke,"
+     },
+     {
+      "points": 1,
+      "description": "omdat hij schrijft dat (een van de volgende): alle mensen vrijgeboren zijn.; alle mensen het recht hebben op vrijheden en privileges.; wetten die worden gemaakt zonder invloed van de kolonisten niet rechtmatig zijn."
+     },
+     {
+      "points": 1,
+      "description": "De boodschap van Common Sense is dat de inwoners van de kolonie recht hebben op een vorm van zelfbestuur, wat overeenkomt met de boodschap in dit pamflet,"
+     },
+     {
+      "points": 1,
+      "description": "omdat Richard Bland vindt dat (een van de volgende): de wetgevende macht met vertegenwoordigers van het volk moet worden ingesteld.; er in de kolonie alleen wetten kunnen worden gemaakt met Noord-Amerikaanse vertegenwoordiging."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een juist voorbeeld bevat van (bij de eerste deelvraag) een verlicht idee van Locke en (bij de tweede deelvraag) de juiste boodschap uit Common Sense, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.\nAls dezelfde verwijzing naar de bron tweemaal wordt gebruikt, wordt alleen aan het eerste juiste gebruik 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-verlichting-1650-1900-antw10.png"
+    ]
+   },
+   {
+    "title": "Vroegmoderne tijd",
+    "question_number": 11,
+    "answer_text": "Kern van een juist antwoord is:\na. Door het ''verlicht denken' op het terrein van sociale verhoudingen' ontstaat kritiek op de standenmaatschappij / op de ongelijkheid in de samenleving, zodat een schilderij dat rijkdom toont negatieve aandacht kan krijgen/de woede van de bevolking kan oproepen (waarvoor Paulze het laat aanpassen).\nb. Met het laten toevoegen van scheikundige instrumenten kan 'de wetenschappelijke revolutie' worden geïllustreerd.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "a. Door het ''verlicht denken' op het terrein van sociale verhoudingen' ontstaat kritiek op de standenmaatschappij / op de ongelijkheid in de samenleving, zodat een schilderij dat rijkdom toont negatieve aandacht kan krijgen/de woede van de bevolking kan oproepen (waarvoor Paulze het laat aanpassen)."
+     },
+     {
+      "points": 1,
+      "description": "b. Met het laten toevoegen van scheikundige instrumenten kan 'de wetenschappelijke revolutie' worden geïllustreerd."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-vroegmoderne-tijd-antw11.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 – 1900",
+    "question_number": 12,
+    "answer_text": "De juiste volgorde is:\n1, 6, 2, 5, 4, 3",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 1, 6, 2, 5, 4, 3"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-verlichting-1650-1900-antw12.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 – 1900",
+    "question_number": 13,
+    "answer_text": "Kern van een juist antwoord is:\na. Deze beschrijving staat in een persoonlijke brief / in een brief die niet openbaar zou worden, waardoor je ervan uitgaat dat Lady Burghersh geen reden heeft om de gebeurtenis anders voor te stellen dan zij heeft meegemaakt.\nb. Uit de bron blijkt dat het publiek al uitgaat van het beleid dat koningshuizen zullen worden hersteld/geïnstalleerd (wat een uitgangspunt is van het Congres van Wenen),\nc. omdat het enthousiast juicht voor liederen waarin de koning wordt geëerd / klapt voor koningsgezind theater.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a. Deze beschrijving staat in een persoonlijke brief / in een brief die niet openbaar zou worden, waardoor je ervan uitgaat dat Lady Burghersh geen reden heeft om de gebeurtenis anders voor te stellen dan zij heeft meegemaakt."
+     },
+     {
+      "points": 1,
+      "description": "b. Uit de bron blijkt dat het publiek al uitgaat van het beleid dat koningshuizen zullen worden hersteld/geïnstalleerd (wat een uitgangspunt is van het Congres van Wenen),"
+     },
+     {
+      "points": 1,
+      "description": "c. omdat het enthousiast juicht voor liederen waarin de koning wordt geëerd / klapt voor koningsgezind theater."
+     }
+    ],
+    "grading_note": "Alleen als bij het antwoord op de tweede deelvraag een juist uitgangspunt van het Congres van Wenen wordt genoemd, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-verlichting-1650-1900-antw13.png"
+    ]
+   },
+   {
+    "title": "Vroegmoderne tijd",
+    "question_number": 14,
+    "answer_text": "Voorbeeld van een juist antwoord is:\na. De brief is geschreven door iemand uit de elite (Lady) / door een Britse tegenstander van Napoleon / heeft een sterk koningsgezinde toon zodat mogelijk de sfeer onder het theaterpubliek wordt overdreven (waardoor de informatie niet betrouwbaar is voor je onderzoek naar de politieke voorkeur van een deel van het Franse volk).\nb. De brief bevat een beschrijving van slechts één theaterbezoek / één bezoeker van deze opera (waardoor de informatie niet representatief is voor je onderzoek naar de politieke voorkeur van een deel van het Franse volk).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a. De brief is geschreven door iemand uit de elite (Lady) / door een Britse tegenstander van Napoleon / heeft een sterk koningsgezinde toon zodat mogelijk de sfeer onder het theaterpubliek wordt overdreven (waardoor de informatie niet betrouwbaar is voor je onderzoek naar de politieke voorkeur van een deel van het Franse volk)."
+     },
+     {
+      "points": 1,
+      "description": "b. De brief bevat een beschrijving van slechts één theaterbezoek / één bezoeker van deze opera (waardoor de informatie niet representatief is voor je onderzoek naar de politieke voorkeur van een deel van het Franse volk)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-vroegmoderne-tijd-antw14.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 – 1900",
+    "question_number": 15,
+    "answer_text": "Kern van een juist antwoord is:\na. De toestroom van jonge mannen naar steden was een gevolg van de toenemende vraag naar arbeiders voor fabrieken / van het leeglopen van het platteland door de mechanisatie van de landbouw/de enclosurebeweging.\nb. De YMCA bood gezonde/verstandige vrijetijdsbesteding / zorgde ervoor dat jonge mannen hun tijd niet besteedden aan cafébezoek/gokken/bordeelbezoek, zodat de jonge mannen zich ontwikkelden tot toekomstige goede vaders/echtgenoten/christelijke huisvaders.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a. De toestroom van jonge mannen naar steden was een gevolg van de toenemende vraag naar arbeiders voor fabrieken / van het leeglopen van het platteland door de mechanisatie van de landbouw/de enclosurebeweging."
+     },
+     {
+      "points": 2,
+      "description": "b. De YMCA bood gezonde/verstandige vrijetijdsbesteding / zorgde ervoor dat jonge mannen hun tijd niet besteedden aan cafébezoek/gokken/bordeelbezoek, zodat de jonge mannen zich ontwikkelden tot toekomstige goede vaders/echtgenoten/christelijke huisvaders."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-verlichting-1650-1900-antw15.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 16,
+    "answer_text": "Kern van een juist antwoord is:\n• Uit de beschrijving is op te maken dat in China de norm is dat vrouwen binnen blijven / zich afzonderen van mannelijke bezoek / zich niet bemoeien met overleg,\n• wat blijkt uit de bewering van Keying dat hij verward is / zich ongemakkelijk voelt als Westerse vrouwen buitenshuis komen/zich voorstellen aan hem.\n• In China wordt de keizer gezien als vertegenwoordiger van god / is de samenleving georganiseerd op de hiërarchische waarden van Confucius (zodat het aannemelijk is dat Keying niet liegt tegen de keizer).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit de beschrijving is op te maken dat in China de norm is dat vrouwen binnen blijven / zich afzonderen van mannelijke bezoek / zich niet bemoeien met overleg,"
+     },
+     {
+      "points": 1,
+      "description": "wat blijkt uit de bewering van Keying dat hij verward is / zich ongemakkelijk voelt als Westerse vrouwen buitenshuis komen/zich voorstellen aan hem."
+     },
+     {
+      "points": 1,
+      "description": "In China wordt de keizer gezien als vertegenwoordiger van god / is de samenleving georganiseerd op de hiërarchische waarden van Confucius (zodat het aannemelijk is dat Keying niet liegt tegen de keizer)."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord op de eerste deelvraag een juiste Chinese culturele norm bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-china-1842-2001-antw16.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 17,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• In 1927 breken de nationalisten met de communisten / herstellen de nationalisten het centrale gezag.\n• De poster geeft weer dat de partij Sun Yat-sen vereert als ideologisch leider / de ideeën van Sun Yat-sen nog altijd steunt/uitvoert,\n• door (een van de volgende):\n  − af te beelden dat (de ideologie van) Sun Yat-sen de strijd tegen imperialisten/communisten/warlords wint / de vijanden plet.\n  − Sun Yat-sen als godheid/veel groter dan de vijanden af te beelden.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In 1927 breken de nationalisten met de communisten / herstellen de nationalisten het centrale gezag."
+     },
+     {
+      "points": 1,
+      "description": "De poster geeft weer dat de partij Sun Yat-sen vereert als ideologisch leider / de ideeën van Sun Yat-sen nog altijd steunt/uitvoert,"
+     },
+     {
+      "points": 1,
+      "description": "door (een van de volgende): af te beelden dat (de ideologie van) Sun Yat-sen de strijd tegen imperialisten/communisten/warlords wint / de vijanden plet.; Sun Yat-sen als godheid/veel groter dan de vijanden af te beelden."
+     }
+    ],
+    "grading_note": "Alleen als in het antwoord op de tweede deelvraag een juiste boodschap wordt weergegeven, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-china-1842-2001-antw17.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 18,
+    "answer_text": "Kern van een juist antwoord is:\nDoor de laatste/voormalige keizer van het keizerrijk China aan te stellen als keizer van Mantsjoekwo / door continuïteit met het verleden te benadrukken, wilden de Japanners de steun van de bevolking van Mantsjoekwo verkrijgen / hun heerschappij in Mantsjoekwo legitimeren.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Door de laatste/voormalige keizer van het keizerrijk China aan te stellen als keizer van Mantsjoekwo / door continuïteit met het verleden te benadrukken, wilden de Japanners de steun van de bevolking van Mantsjoekwo verkrijgen / hun heerschappij in Mantsjoekwo legitimeren."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-china-1842-2001-antw18.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 19,
+    "answer_text": "Kern van een juist antwoord is:\nbij 1:\n• Met het opzetten van een werkverschaffingskamp kun je 'de crisis van het wereldkapitalisme' illustreren.\nbij 2:\n• Met de verplichte arbeidsinzet van Nederlandse mannen kun je 'de bezetting van Nederland' / 'de betrokkenheid van de burgerbevolking bij oorlogvoering' / 'het voeren van twee wereldoorlogen' illustreren.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Met het opzetten van een werkverschaffingskamp kun je 'de crisis van het wereldkapitalisme' illustreren."
+     },
+     {
+      "points": 1,
+      "description": "Met de verplichte arbeidsinzet van Nederlandse mannen kun je 'de bezetting van Nederland' / 'de betrokkenheid van de burgerbevolking bij oorlogvoering' / 'het voeren van twee wereldoorlogen' illustreren."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-moderne-tijd-antw19.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 20,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nDoor de verplichting brieven te sturen waarin staat dat Sobibor een werkkamp is / dat de gevangene in Sobibor het goed maakt/goed te eten krijgt/vrienden heeft, wil de Duitse bezetter ervoor zorgen dat er geen onrust/verzet ontstaat bij Joodse mensen die nog in doorgangskampen/in getto's verblijven / bij familieleden/kennissen in bezet Nederland.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Door de verplichting brieven te sturen waarin staat dat Sobibor een werkkamp is / dat de gevangene in Sobibor het goed maakt/goed te eten krijgt/vrienden heeft, wil de Duitse bezetter ervoor zorgen dat er geen onrust/verzet ontstaat bij Joodse mensen die nog in doorgangskampen/in getto's verblijven / bij familieleden/kennissen in bezet Nederland."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-duitsland-in-europa-1918-1991-antw20.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 21,
+    "answer_text": "Voorbeeld van een juist antwoord is:\na. Uit City out of Darkness blijkt dat de Sovjet-Unie de Duitse industrie ontmantelt/de Duitse economie benadeelt terwijl de westerse geallieerden de Duitse economie willen ondersteunen,\nb. omdat wordt beschreven dat het Rode Leger Duits materiaal naar Rusland/satellietstaten meeneemt / de stroom afsluit terwijl de Amerikanen een nieuwe energiecentrale laten neerzetten/Marshallhulp geven.\nc. Het Marshallplan wordt gebruikt om de Trumandoctrine te ondersteunen omdat daarmee deze propagandafilm gefinancierd wordt die het communisme moet indammen/tegengaan / omdat daarmee een energiecentrale wordt gebouwd die de welvaart moet vergroten,\nd. wat blijkt uit de film (een van de volgende):\n  i. die met de gesproken tekst de kijker wil overtuigen dat de Sovjet-Unie ervoor zorgde dat Berlijn een ruïne bleef.\n  ii. waarin de heerschappij van de communisten een 'tijd van ontberingen en onzekerheid' wordt genoemd.\n  iii. die erop wijst dat door de bouw van een Amerikaanse energiecentrale er in Berlijn weer licht is.\n  iv. waarin Berlijn zonder communisme 'het vrije Berlijn' wordt genoemd.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a. Uit City out of Darkness blijkt dat de Sovjet-Unie de Duitse industrie ontmantelt/de Duitse economie benadeelt terwijl de westerse geallieerden de Duitse economie willen ondersteunen,"
+     },
+     {
+      "points": 1,
+      "description": "b. omdat wordt beschreven dat het Rode Leger Duits materiaal naar Rusland/satellietstaten meeneemt / de stroom afsluit terwijl de Amerikanen een nieuwe energiecentrale laten neerzetten/Marshallhulp geven."
+     },
+     {
+      "points": 1,
+      "description": "c. Het Marshallplan wordt gebruikt om de Trumandoctrine te ondersteunen omdat daarmee deze propagandafilm gefinancierd wordt die het communisme moet indammen/tegengaan / omdat daarmee een energiecentrale wordt gebouwd die de welvaart moet vergroten,"
+     },
+     {
+      "points": 1,
+      "description": "d. wat blijkt uit de film (een van de volgende): die met de gesproken tekst de kijker wil overtuigen dat de Sovjet-Unie ervoor zorgde dat Berlijn een ruïne bleef.; waarin de heerschappij van de communisten een 'tijd van ontberingen en onzekerheid' wordt genoemd.; die erop wijst dat door de bouw van een Amerikaanse energiecentrale er in Berlijn weer licht is.; waarin Berlijn zonder communisme 'het vrije Berlijn' wordt genoemd."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een juiste uitleg bevat over (bij de eerste deelvraag) het verschil van opvatting over het beleid in het naoorlogs Duitsland en (bij de tweede deelvraag) over de ondersteuning van de Trumandoctrine, wordt telkens 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-duitsland-in-europa-1918-1991-antw21.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 22,
+    "answer_text": "Voorbeeld van een juist antwoord is:\ne. De regering wil de continuïteit benadrukken dat zij het communistische verzet tegen fascisten/nazi's (voor en tijdens de Tweede Wereldoorlog) voortzet.\nf. Met dit rapport wil de regering van de DDR zichzelf vrijpleiten van schuld aan de opstand / haar politieke boodschap benadrukken, zodat het rapport de schuld legt bij vijandelijke krachten / bij de propaganda-aanvallen uit het Westen / alleen oorzaken buiten de schuld van de regering noemt (zodat de informatie minder betrouwbaar is voor het onderzoek naar de gebeurtenissen ten tijde van de opstand).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "e. De regering wil de continuïteit benadrukken dat zij het communistische verzet tegen fascisten/nazi's (voor en tijdens de Tweede Wereldoorlog) voortzet."
+     },
+     {
+      "points": 2,
+      "description": "f. Met dit rapport wil de regering van de DDR zichzelf vrijpleiten van schuld aan de opstand / haar politieke boodschap benadrukken, zodat het rapport de schuld legt bij vijandelijke krachten / bij de propaganda-aanvallen uit het Westen / alleen oorzaken buiten de schuld van de regering noemt (zodat de informatie minder betrouwbaar is voor het onderzoek naar de gebeurtenissen ten tijde van de opstand)."
+     }
+    ],
+    "grading_note": "Als bij de eerste deelvraag alleen wordt geantwoord dat er wordt opgetreden tegen fascisten (zonder verwijzing naar het verzet tegen de nazi's/fascisten voor/tijdens de Tweede Wereldoorlog), wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-duitsland-in-europa-1918-1991-antw22.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 23,
+    "answer_text": "Kern van een juist antwoord is:\nMeinhof beschrijft dat de bevolking van de Bondsrepubliek geïnteresseerder is in/meer weet van producten/apparaten / niet genoeg weet van niet-aanvalsverdragen/kernwapenvrije zones, wat goed wordt ontvangen door de groeiende groep jongeren die kritiek heeft op de kapitalistische samenleving/consumptiemaatschappij in West-Duitsland.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Meinhof beschrijft dat de bevolking van de Bondsrepubliek geïnteresseerder is in/meer weet van producten/apparaten / niet genoeg weet van niet-aanvalsverdragen/kernwapenvrije zones, wat goed wordt ontvangen door de groeiende groep jongeren die kritiek heeft op de kapitalistische samenleving/consumptiemaatschappij in West-Duitsland."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-duitsland-in-europa-1918-1991-antw23.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 24,
+    "answer_text": "Uit het antwoord moet blijken dat:\nbij 1:\na. Doordat Rode Gardisten vrij mochten reizen konden de ideeën van de Culturele Revolutie snel worden verspreid / konden de Rode Gardisten in heel China erop toezien/afdwingen dat de ideeën van de Culturele Revolutie werden ingevoerd / konden de Rode Gardisten naar het platteland gaan (om de boeren over te halen).\nbij 2:\nb. Door de sluiting werd uitgedragen dat naar school/universiteit gaan onwenselijk/niet belangrijk was / kregen de voormalige studenten meer tijd het land in te trekken en het gedachtegoed van Mao te verspreiden.\nbij 3:\nc. Door zoveel mogelijk Rode Gardisten zelf te spreken zorgde Mao ervoor dat hij als spil werd gezien/bevorderde Mao een cultus rondom zijn persoon.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a. Doordat Rode Gardisten vrij mochten reizen konden de ideeën van de Culturele Revolutie snel worden verspreid / konden de Rode Gardisten in heel China erop toezien/afdwingen dat de ideeën van de Culturele Revolutie werden ingevoerd / konden de Rode Gardisten naar het platteland gaan (om de boeren over te halen)."
+     },
+     {
+      "points": 1,
+      "description": "b. Door de sluiting werd uitgedragen dat naar school/universiteit gaan onwenselijk/niet belangrijk was / kregen de voormalige studenten meer tijd het land in te trekken en het gedachtegoed van Mao te verspreiden."
+     },
+     {
+      "points": 1,
+      "description": "c. Door zoveel mogelijk Rode Gardisten zelf te spreken zorgde Mao ervoor dat hij als spil werd gezien/bevorderde Mao een cultus rondom zijn persoon."
+     }
+    ],
+    "grading_note": "Als in het antwoord dezelfde reden tweemaal wordt gebruikt, wordt alleen aan het eerste gebruik 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-china-1842-2001-antw24.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 25,
+    "answer_text": "Uit het antwoord moet blijken dat Brandt zich ervan bewust was dat Polen hoorde bij de invloedssfeer van de Sovjet-Unie, zodat alleen als de Sovjet-Unie zich wilde inzetten voor ontspanning / alleen met toestemming van de Sovjet-Unie de Poolse regering een verdrag met de BRD kon sluiten over het erkennen van grenzen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Uit het antwoord moet blijken dat Brandt zich ervan bewust was dat Polen hoorde bij de invloedssfeer van de Sovjet-Unie, zodat alleen als de Sovjet-Unie zich wilde inzetten voor ontspanning / alleen met toestemming van de Sovjet-Unie de Poolse regering een verdrag met de BRD kon sluiten over het erkennen van grenzen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-duitsland-in-europa-1918-1991-antw25.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 26,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nDeng Xiaoping liet de posters weghalen omdat:\na. de samenwerking met de Verenigde Staten onder druk kon komen te staan als de Amerikaanse president zou ingaan op de oproep zich uit te spreken over (het schenden van) mensenrechten in China / de internationale reputatie van China kon verslechteren als er meer aandacht kwam voor (het schenden van) mensenrechten in China.\nb. de oproep om iets te doen aan de mensenrechten in China zou kunnen zorgen voor onrust/rellen onder het Chinese volk / voor kritiek op de communistische partij/Dengs leiderschap.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a. de samenwerking met de Verenigde Staten onder druk kon komen te staan als de Amerikaanse president zou ingaan op de oproep zich uit te spreken over (het schenden van) mensenrechten in China / de internationale reputatie van China kon verslechteren als er meer aandacht kwam voor (het schenden van) mensenrechten in China."
+     },
+     {
+      "points": 1,
+      "description": "b. de oproep om iets te doen aan de mensenrechten in China zou kunnen zorgen voor onrust/rellen onder het Chinese volk / voor kritiek op de communistische partij/Dengs leiderschap."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-china-1842-2001-antw26.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 27,
+    "answer_text": "Kern van een juist antwoord is:\nOp de foto is te zien dat de minister-president samen met leden van het Nederlands elftal de polonaise loopt / er geen formele afstand is tussen de minister-president en leden van het elftal, waaruit blijkt dat de gezagsverhoudingen veranderd zijn (wat een sociaal-culturele verandering is in de tweede helft van de twintigste eeuw).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Op de foto is te zien dat de minister-president samen met leden van het Nederlands elftal de polonaise loopt / er geen formele afstand is tussen de minister-president en leden van het elftal, waaruit blijkt dat de gezagsverhoudingen veranderd zijn (wat een sociaal-culturele verandering is in de tweede helft van de twintigste eeuw)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2024-ii-moderne-tijd-antw27.png"
+    ]
+   }
+  ]
+ }
+}

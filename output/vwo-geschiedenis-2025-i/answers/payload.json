@@ -1,0 +1,531 @@
+{
+ "payload": {
+  "subject_name": "Geschiedenis",
+  "level": "VWO",
+  "source": "VWO Geschiedenis 2025-I",
+  "answers": [
+   {
+    "title": "Door de tijd heen",
+    "question_number": 1,
+    "answer_text": "De juiste volgorde is:\n3, 2, 5, 1, 4, 6",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 3, 2, 5, 1, 4, 6"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-door-de-tijd-heen-antw1.png"
+    ]
+   },
+   {
+    "title": "Prehistorie en oudheid",
+    "question_number": 2,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• In de vijfde eeuw is Athene een democratie waarin burgers (ongeacht hun economische of sociale status) dezelfde politieke rechten hadden,\n• zodat de leden van de elite (door gelijke graven te laten bouwen) wilden benadrukken dat zij zichzelf niet meer politiek invloed toeschreven dan andere burgers / niet extra politieke macht opeisten.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In de vijfde eeuw is Athene een democratie waarin burgers (ongeacht hun economische of sociale status) dezelfde politieke rechten hadden,"
+     },
+     {
+      "points": 1,
+      "description": "zodat de leden van de elite (door gelijke graven te laten bouwen) wilden benadrukken dat zij zichzelf niet meer politiek invloed toeschreven dan andere burgers / niet extra politieke macht opeisten."
+     }
+    ],
+    "grading_note": "Als wordt geantwoord dat de elite wilde benadrukken dat zij gelijk waren aan de andere burgers, wordt geen scorepunt toegekend (omdat het specifiek gaat om politieke rechten).",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-prehistorie-en-oudheid-antw2.png"
+    ]
+   },
+   {
+    "title": "Prehistorie en oudheid",
+    "question_number": 3,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nDe vroegchristelijke gemeenschap wil overbrengen:\n• aan christenen dat sterven voor je geloof beter is dan van het geloof vallen / dat je geen concessies moet doen (en dus moet weigeren de keizer te vereren).\n• aan de Romeinse autoriteiten dat zij met hun vervolging het christendom niet kunnen onderdrukken / dat zij kunnen ophouden met de vervolging omdat deze geen zin heeft (want de christenen zijn vasthoudend).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "aan christenen dat sterven voor je geloof beter is dan van het geloof vallen / dat je geen concessies moet doen (en dus moet weigeren de keizer te vereren)."
+     },
+     {
+      "points": 1,
+      "description": "aan de Romeinse autoriteiten dat zij met hun vervolging het christendom niet kunnen onderdrukken / dat zij kunnen ophouden met de vervolging omdat deze geen zin heeft (want de christenen zijn vasthoudend)."
+     }
+    ],
+    "grading_note": "Als wordt geantwoord dat de gemeenschap wil waarschuwen voor de vervolging, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-prehistorie-en-oudheid-antw3.png"
+    ]
+   },
+   {
+    "title": "De middeleeuwen",
+    "question_number": 4,
+    "answer_text": "Kern van een juist antwoord is:\n• De tolerantie moest ervoor zorgen dat er geen verzet ontstond (onder de oorspronkelijke bevolking) tegen de Arabische overheersing.\n• Yahya ibn Yahya wilde voorkomen dat 'de verspreiding van de islam' vertraging op zou lopen / dat 'de verspreiding van het christendom in geheel Europa' werd bevorderd omdat moslims door contact met christenen / het vieren van christelijke feesten niet langer de (zuivere) islam zouden aanhangen / zich zouden bekeren tot het christendom.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De tolerantie moest ervoor zorgen dat er geen verzet ontstond (onder de oorspronkelijke bevolking) tegen de Arabische overheersing."
+     },
+     {
+      "points": 1,
+      "description": "Yahya ibn Yahya wilde voorkomen dat 'de verspreiding van de islam' vertraging op zou lopen / dat 'de verspreiding van het christendom in geheel Europa' werd bevorderd omdat moslims door contact met christenen / het vieren van christelijke feesten niet langer de (zuivere) islam zouden aanhangen / zich zouden bekeren tot het christendom."
+     }
+    ],
+    "grading_note": "Als het antwoord bij de tweede deelvraag alleen een juist kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-de-middeleeuwen-antw4.png"
+    ]
+   },
+   {
+    "title": "De middeleeuwen",
+    "question_number": 5,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De bron bevat minder betrouwbare informatie over de oorzaak van de overwinning bij Syburg omdat de auteur, die verbonden is aan het hof, de kant van Karel de Grote kiest / de Frankische legitimatie van de oorlog weergeeft,\n• wat blijkt uit de bron waarin de auteur (een van de volgende):\n  − beweert dat God terecht de Franken steunt.\n  − de overwinning toeschrijft aan goddelijke interventie.\n• Je kunt de conclusie trekken dat de kerstening van Europa nog niet/gedeeltelijk is voltooid,\n• omdat uit de bron is af te leiden dat de Saksen nog niet zijn bekeerd tot het christendom / het hof van Karel de Grote wel is gekerstend.\nof\n• Je kunt de conclusie trekken dat kerstening op dat moment onderdeel is van conflicten,\n• omdat uit de bron blijkt dat christenen de strijd ook interpreteren als strijd van God tegen heidenen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De bron bevat minder betrouwbare informatie over de oorzaak van de overwinning bij Syburg omdat de auteur, die verbonden is aan het hof, de kant van Karel de Grote kiest / de Frankische legitimatie van de oorlog weergeeft,"
+     },
+     {
+      "points": 1,
+      "description": "wat blijkt uit de bron waarin de auteur (een van de volgende): beweert dat God terecht de Franken steunt.; de overwinning toeschrijft aan goddelijke interventie."
+     },
+     {
+      "points": 1,
+      "description": "Je kunt de conclusie trekken dat de kerstening van Europa nog niet/gedeeltelijk is voltooid, of: Je kunt de conclusie trekken dat kerstening op dat moment onderdeel is van conflicten,"
+     },
+     {
+      "points": 1,
+      "description": "omdat uit de bron is af te leiden dat de Saksen nog niet zijn bekeerd tot het christendom / het hof van Karel de Grote wel is gekerstend. of: omdat uit de bron blijkt dat christenen de strijd ook interpreteren als strijd van God tegen heidenen."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord (bij de eerste deelvraag) een juiste uitleg bevat over de mindere betrouwbaarheid van de informatie en (bij de tweede deelvraag) een juiste conclusie bevat over kerstening, wordt telkens 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-de-middeleeuwen-antw5.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 6,
+    "answer_text": "Kern van een juist antwoord is:\nVolgens de historicus droeg de bepaling bij aan het oplopende conflict tussen het ambachtslieden/handwerkers en de patriciërs over inspraak in het stadsbestuur / over de macht van de patriciërs in het stadsbestuur omdat handwerkers/ambachtslieden (die het zich niet konden veroorloven één jaar en één dag niet te werken) door deze bepaling niet in het bestuur konden worden verkozen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Volgens de historicus droeg de bepaling bij aan het oplopende conflict tussen het ambachtslieden/handwerkers en de patriciërs over inspraak in het stadsbestuur / over de macht van de patriciërs in het stadsbestuur omdat handwerkers/ambachtslieden (die het zich niet konden veroorloven één jaar en één dag niet te werken) door deze bepaling niet in het bestuur konden worden verkozen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-steden-en-burgers-1050-1700-antw6.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 7,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De kerk streeft naar continuïteit van haar machtspositie door de levenswijze van begijnen te verbieden omdat zij er meningen op na houden die tegengesteld zijn aan het katholieke geloof.\n• De kerk houdt rekening met het ontstaan van een meer individuele geloofsbeleving (of een juiste omschrijving daarvan),\n• door (een van de volgende):\n  − te schrijven dat het gelovige vrouwen toegestaan is in een hof een leven vol boetedoening/dienstbaarheid aan de Heer te leven.\n  − oog te hebben voor het gegeven dat eenvoudige lieden zich makkelijk laten bekeren tot de levensstijl van de begijnen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De kerk streeft naar continuïteit van haar machtspositie door de levenswijze van begijnen te verbieden omdat zij er meningen op na houden die tegengesteld zijn aan het katholieke geloof."
+     },
+     {
+      "points": 1,
+      "description": "De kerk houdt rekening met het ontstaan van een meer individuele geloofsbeleving (of een juiste omschrijving daarvan),"
+     },
+     {
+      "points": 1,
+      "description": "door (een van de volgende): te schrijven dat het gelovige vrouwen toegestaan is in een hof een leven vol boetedoening/dienstbaarheid aan de Heer te leven.; oog te hebben voor het gegeven dat eenvoudige lieden zich makkelijk laten bekeren tot de levensstijl van de begijnen."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de tweede deelvraag ingaat op het ontstaan van een meer individuele geloofsbeleving, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-steden-en-burgers-1050-1700-antw7.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 8,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Jan Allertsz. levert kritiek op het centralisatiebeleid door te schrijven dat Karel de Stoute in strijd met de privileges (lokale) ambten schenkt aan dienaren/door zijn rentmeesters aan de hoogst biedende laat verpachten.\n• Jan Allertsz. wil ervoor zorgen dat toekomstige stadssecretarissen zich ervan bewust zijn dat ze het stadsbestuur moeten waarschuwen als de landsheer (nog meer) privileges niet erkent (om de positie van de stad tegenover de landsheer te versterken) / wil dat toekomstige stadssecretarissen protesten tegen het centralisatiebeleid kunnen onderbouwen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Jan Allertsz. levert kritiek op het centralisatiebeleid door te schrijven dat Karel de Stoute in strijd met de privileges (lokale) ambten schenkt aan dienaren/door zijn rentmeesters aan de hoogst biedende laat verpachten."
+     },
+     {
+      "points": 1,
+      "description": "Jan Allertsz. wil ervoor zorgen dat toekomstige stadssecretarissen zich ervan bewust zijn dat ze het stadsbestuur moeten waarschuwen als de landsheer (nog meer) privileges niet erkent (om de positie van de stad tegenover de landsheer te versterken) / wil dat toekomstige stadssecretarissen protesten tegen het centralisatiebeleid kunnen onderbouwen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-steden-en-burgers-1050-1700-antw8.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 9,
+    "answer_text": "Kern van een juist antwoord is:\n• In 1602 werd de beslissing genomen om de VOC op te richten/een monopolie te geven (om de positie van de Republiek in de wereldhandel te stimuleren).\n• Engeland ging een mercantilistisch beleid voeren / gaf de East India Company het monopolie op de handel in Azië / voerde de Navigation Acts in, wat eraan bijdroeg dat de Republiek concurrentie kreeg/minder producten kon verhandelen/minder winst maakte.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In 1602 werd de beslissing genomen om de VOC op te richten/een monopolie te geven (om de positie van de Republiek in de wereldhandel te stimuleren)."
+     },
+     {
+      "points": 2,
+      "description": "Engeland ging een mercantilistisch beleid voeren / gaf de East India Company het monopolie op de handel in Azië / voerde de Navigation Acts in, wat eraan bijdroeg dat de Republiek concurrentie kreeg/minder producten kon verhandelen/minder winst maakte."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-steden-en-burgers-1050-1700-antw9.png"
+    ]
+   },
+   {
+    "title": "Vroegmoderne tijd",
+    "question_number": 10,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nbij 1:\n• Omdat verschillende Europese landen een handelspost mochten openen, zouden deze landen willen voorkomen dat één Europees land de macht greep (om hun eigen aandeel niet kwijt te raken) / werd voorkomen dat een Europees land zich buitengesloten voelde en daardoor Xwéda zou aanvallen.\nbij 2:\n• Europeanen konden wapens/troepen alleen via zee aanvoeren zodat het verbod om handelsposten aan de kust te bouwen een aanval op Xwéda lastiger maakte.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Omdat verschillende Europese landen een handelspost mochten openen, zouden deze landen willen voorkomen dat één Europees land de macht greep (om hun eigen aandeel niet kwijt te raken) / werd voorkomen dat een Europees land zich buitengesloten voelde en daardoor Xwéda zou aanvallen."
+     },
+     {
+      "points": 1,
+      "description": "Europeanen konden wapens/troepen alleen via zee aanvoeren zodat het verbod om handelsposten aan de kust te bouwen een aanval op Xwéda lastiger maakte."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-vroegmoderne-tijd-antw10.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 – 1900",
+    "question_number": 11,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nbij 1:\n• Madame Palatine laat zien dat het volk zich (meer) als gelijk beschouwt aan de adel / niet langer vindt dat de adel meer aanzien/privileges verdient,\n• want uit de brief blijkt dat de kokkin (een van de volgende):\n  − de leefwijze/kledingstijl van de adel imiteert.\n  − een adellijke dame openlijk beledigt.\n  − vindt dat zij het recht heeft zich te kleden/te gedragen als de adel omdat zij haar eigen geld heeft verdiend.\nbij 2:\n• Madame Palatine wil niet dat het bekend wordt dat zij gebeurtenissen/roddels doorvertelt die aantonen dat er problemen zijn aan het hof / die het hof/de koning liever niet naar buiten brengt,\n• zoals (een van de volgende):\n  − het gegeven dat Madame Béjon geen idee heeft dat haar kokkin ook naar het theater gaat.\n  − een letterlijk gesprek tussen een adellijke moeder en dochter.\n  − het gegeven dat Madame Béjon door haar kokkin publiekelijk de les wordt gelezen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Madame Palatine laat zien dat het volk zich (meer) als gelijk beschouwt aan de adel / niet langer vindt dat de adel meer aanzien/privileges verdient,"
+     },
+     {
+      "points": 1,
+      "description": "want uit de brief blijkt dat de kokkin (een van de volgende): de leefwijze/kledingstijl van de adel imiteert.; een adellijke dame openlijk beledigt.; vindt dat zij het recht heeft zich te kleden/te gedragen als de adel omdat zij haar eigen geld heeft verdiend."
+     },
+     {
+      "points": 1,
+      "description": "Madame Palatine wil niet dat het bekend wordt dat zij gebeurtenissen/roddels doorvertelt die aantonen dat er problemen zijn aan het hof / die het hof/de koning liever niet naar buiten brengt,"
+     },
+     {
+      "points": 1,
+      "description": "zoals (een van de volgende): het gegeven dat Madame Béjon geen idee heeft dat haar kokkin ook naar het theater gaat.; een letterlijk gesprek tussen een adellijke moeder en dochter.; het gegeven dat Madame Béjon door haar kokkin publiekelijk de les wordt gelezen."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord (bij de eerste deelvraag) een juiste verandering en (bij de tweede deelvraag) een juiste verklaring voor het beschermen van haar positie aan het hof bevat, wordt telkens 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.\nAls het antwoord op de deelvragen dezelfde verwijzing naar de bron bevat, wordt alleen aan de eerste juiste verwijzing 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-verlichting-1650-1900-antw11.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 – 1900",
+    "question_number": 12,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• In de koloniën neemt het verzet toe vanwege de onvrede over de belastingen die de Amerikaanse koloniën moeten betalen / vanwege het uitblijven van politieke inspraak voor Amerikaanse kolonisten.\n• Volgens Franklin zal het beleid van Groot-Brittannië leiden tot het verlies van Amerikaanse koloniën voor Groot-Brittannië / leiden tot een afname van de machtsbasis van Groot-Brittannië,\n• door (een van de volgende):\n  − het afbeelden dat de ledematen van Groot-Brittannië met de namen van Amerikaanse koloniën geamputeerd zijn.\n  − af te beelden dat Groot-Brittannië speer en schild ongebruikt naast zich laat liggen / verslagen voor zich uit kijkt.\n  − af te beelden dat de Britse schepen te koop staan.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In de koloniën neemt het verzet toe vanwege de onvrede over de belastingen die de Amerikaanse koloniën moeten betalen / vanwege het uitblijven van politieke inspraak voor Amerikaanse kolonisten."
+     },
+     {
+      "points": 1,
+      "description": "Volgens Franklin zal het beleid van Groot-Brittannië leiden tot het verlies van Amerikaanse koloniën voor Groot-Brittannië / leiden tot een afname van de machtsbasis van Groot-Brittannië,"
+     },
+     {
+      "points": 1,
+      "description": "door (een van de volgende): het afbeelden dat de ledematen van Groot-Brittannië met de namen van Amerikaanse koloniën geamputeerd zijn.; af te beelden dat Groot-Brittannië speer en schild ongebruikt naast zich laat liggen / verslagen voor zich uit kijkt.; af te beelden dat de Britse schepen te koop staan."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord op de tweede deelvraag een juiste politieke boodschap bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-verlichting-1650-1900-antw12.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 – 1900",
+    "question_number": 13,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Rousseau ging ervan uit dat de algemene wil de basis is voor een directe democratie/volksregering,\n• waartegen Willem Frederik waarschuwt door te schrijven dat dit uitloopt op een tirannie / dat teveel macht bij het volk het nemen van verstandige besluiten bemoeilijkt.\n• Willem Frederik ondersteunt het 'voortbestaan van het ancien régime met pogingen om het vorstelijk bestuur op eigentijdse verlichte wijze vorm te geven (verlicht absolutisme)' door te beweren dat een vorst zich deugden als goedheid/weldadigheid eigen moet maken maar dat hij wel vorst blijft.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Rousseau ging ervan uit dat de algemene wil de basis is voor een directe democratie/volksregering,"
+     },
+     {
+      "points": 1,
+      "description": "waartegen Willem Frederik waarschuwt door te schrijven dat dit uitloopt op een tirannie / dat teveel macht bij het volk het nemen van verstandige besluiten bemoeilijkt."
+     },
+     {
+      "points": 1,
+      "description": "Willem Frederik ondersteunt het 'voortbestaan van het ancien régime met pogingen om het vorstelijk bestuur op eigentijdse verlichte wijze vorm te geven (verlicht absolutisme)' door te beweren dat een vorst zich deugden als goedheid/weldadigheid eigen moet maken maar dat hij wel vorst blijft."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord (bij de eerste deelvraag) een juiste waarschuwing tegen een gevolg van de algemene wil bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.\nAls het antwoord bij de tweede deelvraag alleen een kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-verlichting-1650-1900-antw13.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 – 1900",
+    "question_number": 14,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De oproep past bij de Romantiek.\n• De Braekeleer wil de boodschap overbrengen dat de Belgen (moeten blijven) vechten voor hun onafhankelijkheid/voor hun vaderland / wil het nationalisme onder de Belgen bevorderen,\n• waarmee de Belgische overheid de (strijd om de) Belgische afscheiding na 1830 wil steunen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De oproep past bij de Romantiek."
+     },
+     {
+      "points": 1,
+      "description": "De Braekeleer wil de boodschap overbrengen dat de Belgen (moeten blijven) vechten voor hun onafhankelijkheid/voor hun vaderland / wil het nationalisme onder de Belgen bevorderen,"
+     },
+     {
+      "points": 1,
+      "description": "waarmee de Belgische overheid de (strijd om de) Belgische afscheiding na 1830 wil steunen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-verlichting-1650-1900-antw14.png"
+    ]
+   },
+   {
+    "title": "Door de tijd heen",
+    "question_number": 15,
+    "answer_text": "De juiste volgorde is:\n5, 2, 6, 3, 1, 4",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 5, 2, 6, 3, 1, 4"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-door-de-tijd-heen-antw15.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 – 1900",
+    "question_number": 16,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Drucker voelt de noodzaak tot het oprichten van de VVK omdat zij merkt dat er nog weinig vooruitgang is geboekt bij het bereiken/verkrijgen van vrouwenkiesrecht / zij (te) weinig steun verwacht van het bestuur (allen mannen) van de Bond voor Algemeen Kies- en Stemrecht,\n• omdat de voorzitter schrijft dat (een van de volgende):\n  − het moeilijk is om op het platteland vrouwen te interesseren voor kiesrecht.\n  − plattelandsvrouwen bekrompen zijn.\n  − er weerstand is tegen vrouwenkiesrecht waardoor de vrouwen worden nagewezen.\n  − belangstelling voor kiesrecht onder vrouwen het best kan worden gewekt door een vrouw.\n• De socialisten die strijden voor gelijkheid/kansen voor arbeiders hebben kritiek op het standpunt van Drucker omdat zij arbeidersvrouwen uitsluit (die geen geld/tijd hebben voor een opleiding).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Drucker voelt de noodzaak tot het oprichten van de VVK omdat zij merkt dat er nog weinig vooruitgang is geboekt bij het bereiken/verkrijgen van vrouwenkiesrecht / zij (te) weinig steun verwacht van het bestuur (allen mannen) van de Bond voor Algemeen Kies- en Stemrecht,"
+     },
+     {
+      "points": 1,
+      "description": "omdat de voorzitter schrijft dat (een van de volgende): het moeilijk is om op het platteland vrouwen te interesseren voor kiesrecht.; plattelandsvrouwen bekrompen zijn.; er weerstand is tegen vrouwenkiesrecht waardoor de vrouwen worden nagewezen.; belangstelling voor kiesrecht onder vrouwen het best kan worden gewekt door een vrouw."
+     },
+     {
+      "points": 1,
+      "description": "De socialisten die strijden voor gelijkheid/kansen voor arbeiders hebben kritiek op het standpunt van Drucker omdat zij arbeidersvrouwen uitsluit (die geen geld/tijd hebben voor een opleiding)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-verlichting-1650-1900-antw16.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 17,
+    "answer_text": "Kern van een juist antwoord is:\n• De Duitse regering kan met de foto waarop te zien is dat een tank wordt gesloopt de boodschap overbrengen dat zij zich aan (de bepalingen over de strikte beperking op het aantal zware wapens van) het Verdrag van Versailles houdt / Duitsland geen (militaire) bedreiging meer vormt.\n• De regering verspreidt de foto liever niet in Duitsland omdat de Duitse bevolking de regering kan verwijten dat Duitsland (door de sloop van tanks) weerloos wordt / zich niet meer kan verdedigen / vernederd wordt.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De Duitse regering kan met de foto waarop te zien is dat een tank wordt gesloopt de boodschap overbrengen dat zij zich aan (de bepalingen over de strikte beperking op het aantal zware wapens van) het Verdrag van Versailles houdt / Duitsland geen (militaire) bedreiging meer vormt."
+     },
+     {
+      "points": 1,
+      "description": "De regering verspreidt de foto liever niet in Duitsland omdat de Duitse bevolking de regering kan verwijten dat Duitsland (door de sloop van tanks) weerloos wordt / zich niet meer kan verdedigen / vernederd wordt."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-duitsland-in-europa-1918-1991-antw17.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 18,
+    "answer_text": "Kern van een juist antwoord is:\n• Dat in Tianjin verschillende delen van de stad werden bebouwd door/in bezit waren van westerse landen kan worden verklaard door de afspraken (in de ongelijke verdragen) dat China over sommige (haven)steden zeggenschap moest afstaan aan Westerse mogendheden.\n• De 4 Meibeweging (verzette zich tegen het (Westerse) imperialisme).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Dat in Tianjin verschillende delen van de stad werden bebouwd door/in bezit waren van westerse landen kan worden verklaard door de afspraken (in de ongelijke verdragen) dat China over sommige (haven)steden zeggenschap moest afstaan aan Westerse mogendheden."
+     },
+     {
+      "points": 1,
+      "description": "De 4 Meibeweging (verzette zich tegen het (Westerse) imperialisme)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-china-1842-2001-antw18.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 19,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Het beeld dat Lloyd George weergeeft dat er in Duitsland geen kritiek is op Hitler, is eenzijdig omdat Lloyd George de mening van Joodse burgers / van (vervolgde) politieke tegenstanders buiten beschouwing laat (die wel kritiek hadden / die geen kritiek konden leveren).\n• Lloyd George wil de kritiek wegnemen dat de appeasementpolitiek kan leiden tot een nieuwe oorlog / de agressie van Hitler niet indamt,\n• door te schrijven dat (een van de volgende):\n  − Duitsers niet langer de wens hebben om andere landen binnen te vallen.\n  − de leiders van het moderne Duitsland weten dat Europa te groot is om door welke natie dan ook overlopen of vertrapt te worden.\n• In de jaren 1930 is er door de 'crisis van het wereldkapitalisme' overal / ook in Groot-Brittannië sprake van werkloosheid/armoede, wat zou verklaren dat Lloyd George geïnteresseerd is in een leider die dit succesvol bestrijdt.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Het beeld dat Lloyd George weergeeft dat er in Duitsland geen kritiek is op Hitler, is eenzijdig omdat Lloyd George de mening van Joodse burgers / van (vervolgde) politieke tegenstanders buiten beschouwing laat (die wel kritiek hadden / die geen kritiek konden leveren)."
+     },
+     {
+      "points": 1,
+      "description": "Lloyd George wil de kritiek wegnemen dat de appeasementpolitiek kan leiden tot een nieuwe oorlog / de agressie van Hitler niet indamt,"
+     },
+     {
+      "points": 1,
+      "description": "door te schrijven dat (een van de volgende): Duitsers niet langer de wens hebben om andere landen binnen te vallen.; de leiders van het moderne Duitsland weten dat Europa te groot is om door welke natie dan ook overlopen of vertrapt te worden."
+     },
+     {
+      "points": 1,
+      "description": "In de jaren 1930 is er door de 'crisis van het wereldkapitalisme' overal / ook in Groot-Brittannië sprake van werkloosheid/armoede, wat zou verklaren dat Lloyd George geïnteresseerd is in een leider die dit succesvol bestrijdt."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de tweede deelvraag een juist voorbeeld van kritiek bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.\nAls het antwoord bij de derde deelvraag alleen het juiste kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-duitsland-in-europa-1918-1991-antw19.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 20,
+    "answer_text": "Kern van een juist antwoord is:\na. Volgens de nationaalsocialistische ideologie waren communisten vijanden / was het Russische volk barbaars/minder ontwikkeld,\nb. waardoor de Duitse bevolking bang was dat de Russen hen als vijand zouden bestraffen / meedogenloos zouden handelen (zodat zij op de vlucht sloeg).\nc. Na 1945 behoorde Oost-Duitsland tot de communistische invloedssfeer waardoor het schrijven over de vlucht/de angst van de Duitsers voor de Sovjettroepen niet was toegestaan.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a. Volgens de nationaalsocialistische ideologie waren communisten vijanden / was het Russische volk barbaars/minder ontwikkeld,"
+     },
+     {
+      "points": 1,
+      "description": "b. waardoor de Duitse bevolking bang was dat de Russen hen als vijand zouden bestraffen / meedogenloos zouden handelen (zodat zij op de vlucht sloeg)."
+     },
+     {
+      "points": 1,
+      "description": "c. Na 1945 behoorde Oost-Duitsland tot de communistische invloedssfeer waardoor het schrijven over de vlucht/de angst van de Duitsers voor de Sovjettroepen niet was toegestaan."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-duitsland-in-europa-1918-1991-antw20.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 21,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Chiang Kaishek wilde de politieke boodschap overbrengen dat hij vanaf Taiwan (waar hij heen was gevlucht) China wilde veroveren/heroveren / de CCP zou bestrijden (net zoals Zheng Chenggong de vijand in China bestreed).\n• De Verenigde Naties erkenden in 1949 Chiang Kaishek als wettige vertegenwoordiger van heel China.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Chiang Kaishek wilde de politieke boodschap overbrengen dat hij vanaf Taiwan (waar hij heen was gevlucht) China wilde veroveren/heroveren / de CCP zou bestrijden (net zoals Zheng Chenggong de vijand in China bestreed)."
+     },
+     {
+      "points": 1,
+      "description": "De Verenigde Naties erkenden in 1949 Chiang Kaishek als wettige vertegenwoordiger van heel China."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-china-1842-2001-antw21.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 22,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De informatie is het meest betrouwbaar voor het tweede onderzoeksonderwerp omdat de bron het eigen weekblad van de CCP betreft, zodat de informatie betrouwbaar is om te onderzoeken op welke wijze de partij haar macht probeert te legitimeren, zoals door het opnemen van de bewering dat het Chinese volk zonder de leiding van de CCP aan rampen ten onder zal gaan / dat er in China onder de leiding van de CCP successen worden behaald.\nof\n• De informatie is het meest betrouwbaar voor het tweede onderzoeksonderwerp omdat de CCP in het eigen weekblad het succes van hun beleid / de Grote Sprong Voorwaarts wil benadrukken / geen zaken zal opnemen die kritiek op de Partij zouden kunnen oproepen, zodat je twijfelt aan de betrouwbaarheid van de beschreven successen van de Grote Sprong Voorwaarts.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De informatie is het meest betrouwbaar voor het tweede onderzoeksonderwerp omdat de bron het eigen weekblad van de CCP betreft, zodat de informatie betrouwbaar is om te onderzoeken op welke wijze de partij haar macht probeert te legitimeren, zoals door het opnemen van de bewering dat het Chinese volk zonder de leiding van de CCP aan rampen ten onder zal gaan / dat er in China onder de leiding van de CCP successen worden behaald. of De informatie is het meest betrouwbaar voor het tweede onderzoeksonderwerp omdat de CCP in het eigen weekblad het succes van hun beleid / de Grote Sprong Voorwaarts wil benadrukken / geen zaken zal opnemen die kritiek op de Partij zouden kunnen oproepen, zodat je twijfelt aan de betrouwbaarheid van de beschreven successen van de Grote Sprong Voorwaarts."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-china-1842-2001-antw22.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 23,
+    "answer_text": "Kern van een juist antwoord is:\nNa de breuk met de Sovjet-Unie / door het internationale isolement probeerde de Chinese regering haar positie te verbeteren/haar invloed uit te breiden door via de positieve artikelen in de Peking Review het begrip voor de Volksrepubliek China te vergroten in het buitenland.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Na de breuk met de Sovjet-Unie / door het internationale isolement probeerde de Chinese regering haar positie te verbeteren/haar invloed uit te breiden door via de positieve artikelen in de Peking Review het begrip voor de Volksrepubliek China te vergroten in het buitenland."
+     }
+    ],
+    "grading_note": "Alleen als in het antwoord wordt ingegaan op de breuk met de Sovjet-Unie / het internationale isolement en de daaruit voortkomende poging de positie te verbeteren, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-china-1842-2001-antw23.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 24,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Chroesjtsjov wilde voorkomen dat Ulbricht de aanhang onder zijn volk verloor / voorkomen dat de beslissing binnen het Oostblok zou worden betwist, door te laten merken dat de Sovjet-Unie de bouw van de Muur steunde (zodat de (burgers van) Oostbloklanden geen kritiek durfden te geven).\nof\n• Chroesjtsjov wilde voorkomen dat de Westerse geallieerden zich gingen verzetten tegen de bouw van de Muur, omdat duidelijk was dat ze dan een conflict riskeerden met (niet alleen de DDR maar ook met) het Oostblok/de Sovjet-Unie.\n• De bouw van de Muur moest de vlucht van DDR-burgers naar het Westen stoppen / moest verhinderen dat de DDR-burgers in aanraking kwamen met Westerse invloeden.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Chroesjtsjov wilde voorkomen dat Ulbricht de aanhang onder zijn volk verloor / voorkomen dat de beslissing binnen het Oostblok zou worden betwist, door te laten merken dat de Sovjet-Unie de bouw van de Muur steunde (zodat de (burgers van) Oostbloklanden geen kritiek durfden te geven). of: Chroesjtsjov wilde voorkomen dat de Westerse geallieerden zich gingen verzetten tegen de bouw van de Muur, omdat duidelijk was dat ze dan een conflict riskeerden met (niet alleen de DDR maar ook met) het Oostblok/de Sovjet-Unie."
+     },
+     {
+      "points": 1,
+      "description": "De bouw van de Muur moest de vlucht van DDR-burgers naar het Westen stoppen / moest verhinderen dat de DDR-burgers in aanraking kwamen met Westerse invloeden."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-duitsland-in-europa-1918-1991-antw24.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 25,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Met de notitie op de verklaring wilde de Duitse regering de boodschap geven dat de Staatssicherheitsdienst gebruikmaakte van terreur / van chantage, door duidelijk te maken dat Peer onder druk was gezet om te spioneren.\n• De Duitse regering wilde voorkomen dat er onrust ontstond onder Duitse burgers die erachter kwamen dat zij werden bespioneerd door familie/vrienden.\nof\n• De Duitse regering wilde voorkomen dat er onrust ontstond onder de burgers die hadden gespioneerd en zich zorgen maakten over hun positie/reputatie.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Met de notitie op de verklaring wilde de Duitse regering de boodschap geven dat de Staatssicherheitsdienst gebruikmaakte van terreur / van chantage, door duidelijk te maken dat Peer onder druk was gezet om te spioneren."
+     },
+     {
+      "points": 1,
+      "description": "De Duitse regering wilde voorkomen dat er onrust ontstond onder Duitse burgers die erachter kwamen dat zij werden bespioneerd door familie/vrienden. of: De Duitse regering wilde voorkomen dat er onrust ontstond onder de burgers die hadden gespioneerd en zich zorgen maakten over hun positie/reputatie."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-duitsland-in-europa-1918-1991-antw25.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 26,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Het verhaal geeft het beeld dat de lezeressen van de Margriet onnozel zijn / neemt zelfstandige vrouwen als Caro niet serieus (zodat het niet de emancipatie van vrouwen kan illustreren),\n• omdat in het verhaal (een van de volgende):\n  − wordt beweerd dat de dames die het blad lezen moeite zouden hebben met een (eenvoudige) rekensom.\n  − duidelijk wordt gemaakt dat werken bij een accountantskantoor bijzonder is voor een vrouw.\n  − 'de radicale verandering in Caro's leven' de ontmoeting met de man van haar dromen is.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het verhaal geeft het beeld dat de lezeressen van de Margriet onnozel zijn / neemt zelfstandige vrouwen als Caro niet serieus (zodat het niet de emancipatie van vrouwen kan illustreren),"
+     },
+     {
+      "points": 1,
+      "description": "omdat in het verhaal (een van de volgende): wordt beweerd dat de dames die het blad lezen moeite zouden hebben met een (eenvoudige) rekensom.; duidelijk wordt gemaakt dat werken bij een accountantskantoor bijzonder is voor een vrouw.; 'de radicale verandering in Caro's leven' de ontmoeting met de man van haar dromen is."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een juist argument bevat voor het niet illustreren van de emancipatie van vrouwen, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-i-moderne-tijd-antw26.png"
+    ]
+   }
+  ]
+ }
+}
