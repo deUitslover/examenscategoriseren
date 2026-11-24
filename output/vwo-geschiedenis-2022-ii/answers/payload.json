@@ -1,0 +1,499 @@
+{
+ "payload": {
+  "subject_name": "Geschiedenis",
+  "level": "VWO",
+  "source": "VWO Geschiedenis 2022-II",
+  "answers": [
+   {
+    "title": "Door de tijd heen",
+    "question_number": 1,
+    "answer_text": "De juiste volgorde is:\n4, 6, 5, 2, 3, 1",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 4, 6, 5, 2, 3, 1"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-door-de-tijd-heen-antw1.png"
+    ]
+   },
+   {
+    "title": "Prehistorie en oudheid",
+    "question_number": 2,
+    "answer_text": "Kern van een juist antwoord is (twee van de volgende):\n− Er was sprake van verschillende beroepen / specialisatie / een gelaagde samenleving, wat blijkt uit het gegeven dat arbeiders/soldaten betrokken zijn bij het onderhoud/de beveiliging.\n− Er was sprake van handel/overschotten, wat blijkt uit het gegeven dat er transport plaatsvond tussen alle delen van het rijk.\n− Er was sprake van schrift, wat blijkt uit de aangebrachte inscripties waarmee Darius communiceerde over zijn militaire daden.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "per juiste combinatie van een kenmerk en een passend gegeven (eerste combinatie)"
+     },
+     {
+      "points": 1,
+      "description": "per juiste combinatie van een kenmerk en een passend gegeven (tweede combinatie)"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een combinatie bevat van een juist kenmerk van een vroeg-stedelijke samenleving en een daarbij passend gegeven, wordt telkens 1 scorepunt toegekend.\nAls er tweemaal wordt verwezen naar hetzelfde gegeven, wordt alleen bij de eerste verwijzing 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-prehistorie-en-oudheid-antw2.png"
+    ]
+   },
+   {
+    "title": "Prehistorie en oudheid",
+    "question_number": 3,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De keizer verstevigt zijn positie door aan het volk van Rome de buit/de gevangengenomen Britse opstandeling te tonen / door een groot spektakel te laten organiseren rondom zijn verovering, zodat er meer vertrouwen is in zijn beleid / zodat het Romeinse volk hem ziet als een winnaar (wat zijn positie versterkt)\n• Door de familie van Caractacus te tonen/door de opstandeling mee te voeren tijdens de triomftocht wordt de boodschap overgebracht dat het Romeins imperialisme niet te stoppen is / dat de Romeinen superieur zijn aan (Britse) stammen",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De keizer verstevigt zijn positie door aan het volk van Rome de buit/de gevangengenomen Britse opstandeling te tonen / door een groot spektakel te laten organiseren rondom zijn verovering, zodat er meer vertrouwen is in zijn beleid / zodat het Romeinse volk hem ziet als een winnaar (wat zijn positie versterkt)"
+     },
+     {
+      "points": 2,
+      "description": "Door de familie van Caractacus te tonen/door de opstandeling mee te voeren tijdens de triomftocht wordt de boodschap overgebracht dat het Romeins imperialisme niet te stoppen is / dat de Romeinen superieur zijn aan (Britse) stammen"
+     }
+    ],
+    "grading_note": "Alleen als bij de eerste deelvraag wordt ingegaan op het bijeenbrengen van het volk van Rome in combinatie met een wijze waarop dit de positie van Claudius versterkt, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-prehistorie-en-oudheid-antw3.png"
+    ]
+   },
+   {
+    "title": "De middeleeuwen",
+    "question_number": 4,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• In de vroege middeleeuwen was in West-Europa sprake van een vrijwel volledige zelfvoorziende/agrarische samenleving (waardoor er (te) weinig kooplieden/ambachtslieden waren om gilden mee te vormen)\n• De rondreizende kooplieden waren niet verbonden aan de feodale heersers van de gebieden waar zij door(heen) reisden / reisden ver van de bescherming van hun eigen heer, zodat zij genoodzaakt waren zich te organiseren om hun veiligheid/werkomstandigheden te regelen\n• Door de privileges die steden kochten/kregen, konden de ambachtslieden/gilden van die stad regels opstellen die de rondreizende kooplieden benadeelden / die de winst van de rondreizende kooplieden onder druk zetten (wat leidde tot conflicten)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In de vroege middeleeuwen was in West-Europa sprake van een vrijwel volledige zelfvoorziende/agrarische samenleving (waardoor er (te) weinig kooplieden/ambachtslieden waren om gilden mee te vormen)"
+     },
+     {
+      "points": 1,
+      "description": "De rondreizende kooplieden waren niet verbonden aan de feodale heersers van de gebieden waar zij door(heen) reisden / reisden ver van de bescherming van hun eigen heer, zodat zij genoodzaakt waren zich te organiseren om hun veiligheid/werkomstandigheden te regelen"
+     },
+     {
+      "points": 1,
+      "description": "Door de privileges die steden kochten/kregen, konden de ambachtslieden/gilden van die stad regels opstellen die de rondreizende kooplieden benadeelden / die de winst van de rondreizende kooplieden onder druk zetten (wat leidde tot conflicten)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-de-middeleeuwen-antw4.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 5,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• In de late middeleeuwen ontstaan spanningen tussen de patriciërs/het stadsbestuur en het gemeen/het volk (waardoor het stadsbestuur het opstandige volk laat veroordelen)\n• Een politiek motief is dat de leden van het stadsbestuur door het aannemen van deze wetten opstandelingen willen afschrikken / hun macht willen veiligstellen / de orde willen bewaren\n• Een economisch motief is dat de leden van het stadsbestuur aantasting willen voorkomen van het bedrijf/de verdiensten van de leden van het stadsbestuur / willen voorkomen dat de stad minder (belasting)inkomsten heeft door het wegvallen van de productie",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In de late middeleeuwen ontstaan spanningen tussen de patriciërs/het stadsbestuur en het gemeen/het volk (waardoor het stadsbestuur het opstandige volk laat veroordelen)"
+     },
+     {
+      "points": 1,
+      "description": "Een politiek motief is dat de leden van het stadsbestuur door het aannemen van deze wetten opstandelingen willen afschrikken / hun macht willen veiligstellen / de orde willen bewaren"
+     },
+     {
+      "points": 1,
+      "description": "Een economisch motief is dat de leden van het stadsbestuur aantasting willen voorkomen van het bedrijf/de verdiensten van de leden van het stadsbestuur / willen voorkomen dat de stad minder (belasting)inkomsten heeft door het wegvallen van de productie"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-steden-en-burgers-1050-1700-antw5.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 6,
+    "answer_text": "Kern van een juist antwoord is:\n• Sociale zorg was niet langer alleen de taak van de geestelijkheid / de stedelijke burgerij nam sociale zorg op zich, wat blijkt uit het gegeven dat burgers een gasthuis stichtten / dat een gasthuis (mede) werd bestuurd door leden van het stadsbestuur\n• Het stadsbestuur handelde in het algemeen belang van de stad/van de gemeenschap, door het gasthuis rechten te geven op het ontvangen van inkomsten uit testamenten en het vrijstelde van belastingen (waardoor het het bestaan van het gasthuis bevorderde)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Sociale zorg was niet langer alleen de taak van de geestelijkheid / de stedelijke burgerij nam sociale zorg op zich, wat blijkt uit het gegeven dat burgers een gasthuis stichtten / dat een gasthuis (mede) werd bestuurd door leden van het stadsbestuur"
+     },
+     {
+      "points": 1,
+      "description": "Het stadsbestuur handelde in het algemeen belang van de stad/van de gemeenschap, door het gasthuis rechten te geven op het ontvangen van inkomsten uit testamenten en het vrijstelde van belastingen (waardoor het het bestaan van het gasthuis bevorderde)"
+     }
+    ],
+    "grading_note": "Alleen als een antwoord een combinatie bevat van (bij de eerste deelvraag) een juiste verandering en (bij de tweede deelvraag) een juist uitgangspunt van bonum commune en een juist gegeven, wordt telkens 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-steden-en-burgers-1050-1700-antw6.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 7,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Met dit schilderij wordt de boodschap overgebracht dat Brugge een belangrijke plaats heeft in een internationaal handelsnetwerk / een geschikte stad is om zich als internationaal koopman te vestigen / over alle voorzieningen beschikt om een knooppunt te zijn van handel\n• door (een van de volgende):\n  − de gebouwen die te maken hebben met de handel verhoudingsgewijs groter af te beelden (zoals de Waterhalle en het Oosterlingenhuis).\n  − vooral de nadruk te leggen op gebouwen die te maken hebben met de handel.\n• De ontwikkeling dat de handelsstromen worden verlegd (naar Antwerpen) / dat Brugge zijn positie als knooppunt in de internationale handel verliest, maakt het nodig om de handel in Brugge te ondersteunen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Met dit schilderij wordt de boodschap overgebracht dat Brugge een belangrijke plaats heeft in een internationaal handelsnetwerk / een geschikte stad is om zich als internationaal koopman te vestigen / over alle voorzieningen beschikt om een knooppunt te zijn van handel"
+     },
+     {
+      "points": 1,
+      "description": "door (een van de volgende): de gebouwen die te maken hebben met de handel verhoudingsgewijs groter af te beelden (zoals de Waterhalle en het Oosterlingenhuis).; vooral de nadruk te leggen op gebouwen die te maken hebben met de handel."
+     },
+     {
+      "points": 1,
+      "description": "De ontwikkeling dat de handelsstromen worden verlegd (naar Antwerpen) / dat Brugge zijn positie als knooppunt in de internationale handel verliest, maakt het nodig om de handel in Brugge te ondersteunen"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord op de eerste deelvraag een juiste boodschap bevat, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-steden-en-burgers-1050-1700-antw7.png"
+    ]
+   },
+   {
+    "title": "Vroegmoderne tijd",
+    "question_number": 8,
+    "answer_text": "Voorbeeld van een juist antwoord:\nIn de zestiende eeuw vond 'de heroriëntatie op de klassieke oudheid' plaats, waardoor de schilder ervan uitging dat een schilderij met een klassiek thema populair zou zijn / waardoor de boodschap door de vergelijking met de oudheid extra waarde zou krijgen / waardoor de boodschap serieus zou worden genomen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "In de zestiende eeuw vond 'de heroriëntatie op de klassieke oudheid' plaats, waardoor de schilder ervan uitging dat een schilderij met een klassiek thema populair zou zijn / waardoor de boodschap door de vergelijking met de oudheid extra waarde zou krijgen / waardoor de boodschap serieus zou worden genomen."
+     }
+    ],
+    "grading_note": "Voor het alleen noemen van de heroriëntatie op de klassieke oudheid zonder verwijzing naar het trekken van aandacht wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-vroegmoderne-tijd-antw8.png"
+    ]
+   },
+   {
+    "title": "Vroegmoderne tijd",
+    "question_number": 9,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De Japanners zijn bezorgd dat de Nederlanders christenen zijn / het (Japanse) volk willen bekeren / dat bekering de nationale identiteit zou schaden, zodat het Japanse bestuur wil bewerkstelligen dat er geen/weinig contact is tussen Nederlanders en Japanners\n• De Nederlanders leggen zich neer bij de afscherming omdat zij willen voorkomen dat ze geen handel met Japan mogen drijven / dat zij geen Japanse goederen zouden mogen kopen, wat zij nastreven vanwege 'de toenemende handelscontacten, handelskapitalisme en wereldhandel'",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De Japanners zijn bezorgd dat de Nederlanders christenen zijn / het (Japanse) volk willen bekeren / dat bekering de nationale identiteit zou schaden, zodat het Japanse bestuur wil bewerkstelligen dat er geen/weinig contact is tussen Nederlanders en Japanners"
+     },
+     {
+      "points": 2,
+      "description": "De Nederlanders leggen zich neer bij de afscherming omdat zij willen voorkomen dat ze geen handel met Japan mogen drijven / dat zij geen Japanse goederen zouden mogen kopen, wat zij nastreven vanwege 'de toenemende handelscontacten, handelskapitalisme en wereldhandel'"
+     }
+    ],
+    "grading_note": "Als bij de tweede deelvraag alleen een juist kenmerkend aspect wordt genoemd zonder uitleg, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-vroegmoderne-tijd-antw9.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 10,
+    "answer_text": "Uit het antwoord moet blijken dat deze bepaling oligarchisering (of een juiste beschrijving daarvan) bevorderde (waardoor de regenten hun eigen belangen konden dienen), waardoor het gemeen Oranjegezinder werd omdat het dacht dat de prins van Oranje/de stadhouder de belangen van het gemeen beter zou beschermen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Uit het antwoord moet blijken dat deze bepaling oligarchisering (of een juiste beschrijving daarvan) bevorderde (waardoor de regenten hun eigen belangen konden dienen), waardoor het gemeen Oranjegezinder werd omdat het dacht dat de prins van Oranje/de stadhouder de belangen van het gemeen beter zou beschermen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-steden-en-burgers-1050-1700-antw10.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 – 1900",
+    "question_number": 11,
+    "answer_text": "Kern van een juist antwoord is:\n• Lodewijk XV beweert dat rechtbanken hun gezag uitoefenen namens de koning / dat de wetgevende macht aan hem behoort, wat botst met het standpunt van Montesquieu/met de Trias Politica dat de verschillende machten gescheiden moeten blijven\n• Lodewijk XV beweert dat het gezag bij hem berust / dat de rechten van de natie volledig in handen van de koning liggen, wat botst met het standpunt van Rousseau dat de macht van het volk komt / dat de macht alleen via het sociale contract in handen komt van een heerser",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Lodewijk XV beweert dat rechtbanken hun gezag uitoefenen namens de koning / dat de wetgevende macht aan hem behoort, wat botst met het standpunt van Montesquieu/met de Trias Politica dat de verschillende machten gescheiden moeten blijven"
+     },
+     {
+      "points": 2,
+      "description": "Lodewijk XV beweert dat het gezag bij hem berust / dat de rechten van de natie volledig in handen van de koning liggen, wat botst met het standpunt van Rousseau dat de macht van het volk komt / dat de macht alleen via het sociale contract in handen komt van een heerser"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een combinatie bevat van een juist standpunt van (bij de eerste deelvraag) Montesquieu en (bij de tweede deelvraag) Rousseau, en een passende verschillende verwijzing naar de toespraak van Lodewijk XV, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-verlichting-1650-1900-antw11.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 – 1900",
+    "question_number": 12,
+    "answer_text": "Kern van een juist antwoord is:\nBurke vond dat de inwoners van de Amerikaanse koloniën geen afstand konden doen van hun vrijheid/rechten / stelde dat er altijd geregeerd moest worden op basis van vrijheid, wat paste bij het uitgangspunt van natuurrechten dat die onvervreemdbaar zijn / dat die nooit kunnen worden afgestaan.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Burke vond dat de inwoners van de Amerikaanse koloniën geen afstand konden doen van hun vrijheid/rechten / stelde dat er altijd geregeerd moest worden op basis van vrijheid, wat paste bij het uitgangspunt van natuurrechten dat die onvervreemdbaar zijn / dat die nooit kunnen worden afgestaan."
+     }
+    ],
+    "grading_note": "Alleen als in het antwoord een juist uitgangspunt van natuurrechten wordt genoemd in combinatie met een juiste verwijzing naar de opmerking van Burke, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-verlichting-1650-1900-antw12.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 – 1900",
+    "question_number": 13,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Roux vond dat de revolutie nog niet was voltooid omdat (verlichte) idealen van gelijkheid/vrijheid nog niet waren behaald voor alle Franse burgers / omdat niet alle burgers dezelfde rechten hadden\n• in 1793 is de periode dat onder leiding van de jacobijnen/Robespierre tegenstanders/mensen met kritiek werden vervolgd/gedood",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Roux vond dat de revolutie nog niet was voltooid omdat (verlichte) idealen van gelijkheid/vrijheid nog niet waren behaald voor alle Franse burgers / omdat niet alle burgers dezelfde rechten hadden"
+     },
+     {
+      "points": 1,
+      "description": "in 1793 is de periode dat onder leiding van de jacobijnen/Robespierre tegenstanders/mensen met kritiek werden vervolgd/gedood"
+     }
+    ],
+    "grading_note": "Alleen als bij de tweede deelvraag wordt ingegaan op de periode onder leiding van de jacobijnen/Robespierre, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-verlichting-1650-1900-antw13.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 14,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nDe politieke ontwikkeling dieThorbecke stimuleerde was (een van de volgende):\nbij 1:\n− de 'discussies over de sociale kwestie', want door de rede over de economische ongelijkheid kwam er aandacht voor de sociale kwestie / ontstond mogelijkheid om de sociale kwestie aan te pakken.\nbij 2:\n− de 'voortschrijdende democratisering, met deelname van steeds meer mannen en vrouwen aan het politieke proces', want door de nieuwe grondwet mochten mannen die een bepaald bedrag aan belasting betaalden gaan deelnemen aan het politieke proces.\nbij 4:\n− 'de opkomst van het feminisme' / 'de opkomst van emancipatiebewegingen', want door de toelating van Jacobs tot een universiteit konden vrouwen voortaan ook hoger onderwijs volgen / werd de gelijkstelling van mannen en vrouwen in het hoger onderwijs bevorderd.\nDe economische ontwikkeling die Thorbecke stimuleerde was:\nbij 3:\n− 'de industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving', want door de verbeterde infrastructuur werden grondstoffen / producten sneller vervoerd (waardoor de industrie kon groeien).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "per combinatie van een passend kenmerkend aspect en een daarbij passend gegeven (eerste combinatie)"
+     },
+     {
+      "points": 2,
+      "description": "per combinatie van een passend kenmerkend aspect en een daarbij passend gegeven (tweede combinatie)"
+     }
+    ],
+    "grading_note": "Als een kenmerkend aspect/gegeven meer dan één keer wordt genoemd, worden alleen bij de eerste juiste verwijzing scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-moderne-tijd-antw14.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 15,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Longoni geeft de boodschap weer dat het verschil tussen arm en rijk te groot is / dat de rijken geen aandacht hebben voor de situatie van de armen\n• door (een van de volgende):\n  − de titel \"Overpeinzingen van een uitgehongerde\".\n  − de tegenstelling tussen de hongerende jongen buiten en de overdadige maaltijd van de vrouw en de man binnen.\n  − een vrouw en een man af te beelden die geen oog hebben voor de (hongerige) jongen buiten.\n• De Italiaanse overheid vreest dat Longoni met zijn afbeelding sociale onrust aanwakkert / een grotere aanhang van de socialisten bewerkstelligt (wat zij willen tegengaan)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Longoni geeft de boodschap weer dat het verschil tussen arm en rijk te groot is / dat de rijken geen aandacht hebben voor de situatie van de armen"
+     },
+     {
+      "points": 1,
+      "description": "door (een van de volgende): de titel \"Overpeinzingen van een uitgehongerde\".; de tegenstelling tussen de hongerende jongen buiten en de overdadige maaltijd van de vrouw en de man binnen.; een vrouw en een man af te beelden die geen oog hebben voor de (hongerige) jongen buiten."
+     },
+     {
+      "points": 1,
+      "description": "De Italiaanse overheid vreest dat Longoni met zijn afbeelding sociale onrust aanwakkert / een grotere aanhang van de socialisten bewerkstelligt (wat zij willen tegengaan)"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord op de eerste deelvraag een juiste boodschap van Longoni bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-moderne-tijd-antw15.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 16,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Het boek van Mouhot benadrukt volgens de Franse lezers het belang van het modern imperialisme, omdat het boek (volgens hen) duidelijk maakt dat de kolonisatie van Cambodja nodig is om de beschaving van de Cambodjanen weer op niveau te krijgen / dat de beschaving van de Cambodjanen zozeer is vervallen dat ze hulp nodig hebben van de Fransen\n• Door het boek van Mouhot over hun verloren hoofdstad/over de grootste beschaving van weleer worden Cambodjanen zich bewust(er) van hun verleden, wat het nationalisme / de afkeer van vreemde overheersing versterkt",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het boek van Mouhot benadrukt volgens de Franse lezers het belang van het modern imperialisme, omdat het boek (volgens hen) duidelijk maakt dat de kolonisatie van Cambodja nodig is om de beschaving van de Cambodjanen weer op niveau te krijgen / dat de beschaving van de Cambodjanen zozeer is vervallen dat ze hulp nodig hebben van de Fransen"
+     },
+     {
+      "points": 1,
+      "description": "Door het boek van Mouhot over hun verloren hoofdstad/over de grootste beschaving van weleer worden Cambodjanen zich bewust(er) van hun verleden, wat het nationalisme / de afkeer van vreemde overheersing versterkt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-moderne-tijd-antw16.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 17,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De boodschap is dat Japan zich moet verzetten tegen buitenlandse invloeden / met succes kan strijden tegen buitenlandse mogendheden\n• door af te beelden dat (een van de volgende):\n  − de Japanse worstelaar een buitenlander tegen de grond gooit.\n  − de Japanse worstelaar veel groter is dan de buitenlanders.\n  − de Europeanen verschrikt toekijken.\n• Het verlies van de opiumoorlogen / het sluiten van ongelijke verdragen in China maakt dat het in Japan belangrijk wordt gevonden om te waarschuwen voor het gevaar van toenemende buitenlandse invloed",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De boodschap is dat Japan zich moet verzetten tegen buitenlandse invloeden / met succes kan strijden tegen buitenlandse mogendheden"
+     },
+     {
+      "points": 1,
+      "description": "door af te beelden dat (een van de volgende): de Japanse worstelaar een buitenlander tegen de grond gooit.; de Japanse worstelaar veel groter is dan de buitenlanders.; de Europeanen verschrikt toekijken."
+     },
+     {
+      "points": 1,
+      "description": "Het verlies van de opiumoorlogen / het sluiten van ongelijke verdragen in China maakt dat het in Japan belangrijk wordt gevonden om te waarschuwen voor het gevaar van toenemende buitenlandse invloed"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord op de eerste deelvraag een juiste boodschap bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de prent.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-china-1842-2001-antw17.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 18,
+    "answer_text": "De juiste volgorde is:\n5, 4, 3, 6, 2, 1",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 5, 4, 3, 6, 2, 1"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-china-1842-2001-antw18.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 19,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De kern van de appeasement-politiek/de Britse politiek is proberen een oorlog te voorkomen door toe te geven aan de eisen van Hitler\n• Churchill vond dat de Engelsen voor schaamte kozen omdat ze hierbij Tsjecho-Slowakije opofferden / omdat ze zich hierbij onderdanig gedroegen tegenover Hitler\n• Churchill dacht dat Hitler (omdat werd voldaan aan zijn eisen) meer tijd had om zich voor te bereiden / dat Hitler sterker zou worden door landsuitbreiding, zodat de (uiteindelijke) oorlog lastiger te winnen zou zijn voor Groot-Brittannië",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De kern van de appeasement-politiek/de Britse politiek is proberen een oorlog te voorkomen door toe te geven aan de eisen van Hitler"
+     },
+     {
+      "points": 1,
+      "description": "Churchill vond dat de Engelsen voor schaamte kozen omdat ze hierbij Tsjecho-Slowakije opofferden / omdat ze zich hierbij onderdanig gedroegen tegenover Hitler"
+     },
+     {
+      "points": 2,
+      "description": "Churchill dacht dat Hitler (omdat werd voldaan aan zijn eisen) meer tijd had om zich voor te bereiden / dat Hitler sterker zou worden door landsuitbreiding, zodat de (uiteindelijke) oorlog lastiger te winnen zou zijn voor Groot-Brittannië"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-duitsland-in-europa-1918-1991-antw19.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 20,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Hosenfeld noemt het verdrijven/doodschieten/willekeurig arresteren van Polen een schanddaad, waarmee hij het buiten werking stellen van de rechtsstaat afkeurt/afkeurt dat de nationaalsocialisten met terreur regeren (wat past bij het totalitaire karakter)\n• Door het nationaalsocialistische bewind / vanwege de oorlogssituatie werd censuur toegepast / werd de post gecontroleerd, waardoor Hosenfeld het gevaar liep dat hij vanwege zijn kritiek op het bewind zou worden bestraft",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Hosenfeld noemt het verdrijven/doodschieten/willekeurig arresteren van Polen een schanddaad, waarmee hij het buiten werking stellen van de rechtsstaat afkeurt/afkeurt dat de nationaalsocialisten met terreur regeren (wat past bij het totalitaire karakter)"
+     },
+     {
+      "points": 2,
+      "description": "Door het nationaalsocialistische bewind / vanwege de oorlogssituatie werd censuur toegepast / werd de post gecontroleerd, waardoor Hosenfeld het gevaar liep dat hij vanwege zijn kritiek op het bewind zou worden bestraft"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een combinatie bevat van (bij de eerste deelvraag) een voorbeeld van de afkeuring van Hosenfeld en een kenmerk van het totalitaire karakter, en (bij de tweede deelvraag) een verwijzing naar censuur/controle en het bestraffen van kritiek, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-duitsland-in-europa-1918-1991-antw20.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 21,
+    "answer_text": "Kern van een juist antwoord is:\n• De succesvolle doorstart / de productie van goedkope auto's en naaimachines past bij het wirtschaftswunder / bij de economische ontwikkeling dat de schade van de Tweede Wereldoorlog zo snel mogelijk wordt tegengegaan\n• De doorstart van een bedrijf als Messerschmitt, dat tijdens de Tweede Wereldoorlog gevangenen uit concentratiekampen heeft ingezet / vliegtuigen heeft geproduceerd voor de nationaalsocialisten, leidt tot de kritiek dat de denazificatie beperkt is gebleven/niet is geslaagd (wat bijdraagt aan de opkomst van links terrorisme in de jaren 1970)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De succesvolle doorstart / de productie van goedkope auto's en naaimachines past bij het wirtschaftswunder / bij de economische ontwikkeling dat de schade van de Tweede Wereldoorlog zo snel mogelijk wordt tegengegaan"
+     },
+     {
+      "points": 2,
+      "description": "De doorstart van een bedrijf als Messerschmitt, dat tijdens de Tweede Wereldoorlog gevangenen uit concentratiekampen heeft ingezet / vliegtuigen heeft geproduceerd voor de nationaalsocialisten, leidt tot de kritiek dat de denazificatie beperkt is gebleven/niet is geslaagd (wat bijdraagt aan de opkomst van links terrorisme in de jaren 1970)"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord op de tweede deelvraag een combinatie is van een juiste verwijzing naar de bron met een juiste uitleg over de kritiek op de beperkte denazificatie, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-duitsland-in-europa-1918-1991-antw21.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 22,
+    "answer_text": "Kern van een juist antwoord is:\n• Met het opeisen van de zetel liet Mao weten dat niet Chiang Kaishek (in Taiwan) maar hijzelf de rechtmatige leider was van China / dat hij zijn strijd tegen (de regering in Taiwan) van Chiang Kaishek niet zou opgeven\n• De Verenigde Staten wilden voorkomen dat met de toetreding van de Volksrepubliek tot de Verenigde Naties er een (machtig) communistisch land vertegenwoordigd zou worden, wat past bij 'de verdeling van de wereld in twee ideologische blokken in de greep van een wapenwedloop en de daaruit voortvloeiende dreiging van een atoomoorlog'",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Met het opeisen van de zetel liet Mao weten dat niet Chiang Kaishek (in Taiwan) maar hijzelf de rechtmatige leider was van China / dat hij zijn strijd tegen (de regering in Taiwan) van Chiang Kaishek niet zou opgeven"
+     },
+     {
+      "points": 2,
+      "description": "De Verenigde Staten wilden voorkomen dat met de toetreding van de Volksrepubliek tot de Verenigde Naties er een (machtig) communistisch land vertegenwoordigd zou worden, wat past bij 'de verdeling van de wereld in twee ideologische blokken in de greep van een wapenwedloop en de daaruit voortvloeiende dreiging van een atoomoorlog'"
+     }
+    ],
+    "grading_note": "Voor het alleen noemen bij de tweede deelvraag van een juist kenmerkend aspect zonder uitleg over de beslissing van de Verenigde Staten, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-china-1842-2001-antw22.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 23,
+    "answer_text": "Kern van een juist antwoord is:\nMet de afbeelding van een Nederlander die wordt bediend door vele Indonesiërs / die een groots banket krijgt geserveerd, maakt het restaurant reclame door (toekomstige) gasten te herinneren aan de koloniale periode in Nederlands-Indië als een aantrekkelijke tijd / door het koloniale verleden te presenteren als een aantrekkelijk beeld van wat (toekomstige) gasten van het restaurant mogen verwachten.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Met de afbeelding van een Nederlander die wordt bediend door vele Indonesiërs / die een groots banket krijgt geserveerd, maakt het restaurant reclame door (toekomstige) gasten te herinneren aan de koloniale periode in Nederlands-Indië als een aantrekkelijke tijd / door het koloniale verleden te presenteren als een aantrekkelijk beeld van wat (toekomstige) gasten van het restaurant mogen verwachten."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een combinatie bevat van een juiste uitleg van de bewering en een passende verwijzing naar de bron, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-moderne-tijd-antw23.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 24,
+    "answer_text": "Uit het antwoord moet blijken dat:\n• er openlijk in de officiële krant van de Communistische Partij wordt geschreven over de twijfel aan de Chinese economie/politiek / dat het prestige van China een knauw heeft gekregen, waarmee je kunt aantonen dat de relatie tussen China en de Sovjet-Unie na de breuk (na 1962) is verslechterd (waardoor de bron meer betrouwbaar is voor het eerste onderzoeksgebied)\n• de Pravda de breuk met China wil rechtvaardigen / het beleid van de Sovjet-Unie ten aanzien van China wil ondersteunen, waardoor het artikel de poging van China banden aan te knopen met Azië, Afrika en Latijns-Amerika negatief weergeeft / waardoor het artikel vanuit concurrentieoverwegingen het prestige van China in andere landen negatief weergeeft (waardoor de bron minder betrouwbaar is voor het tweede onderzoeksgebied)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "er openlijk in de officiële krant van de Communistische Partij wordt geschreven over de twijfel aan de Chinese economie/politiek / dat het prestige van China een knauw heeft gekregen, waarmee je kunt aantonen dat de relatie tussen China en de Sovjet-Unie na de breuk (na 1962) is verslechterd (waardoor de bron meer betrouwbaar is voor het eerste onderzoeksgebied)"
+     },
+     {
+      "points": 2,
+      "description": "de Pravda de breuk met China wil rechtvaardigen / het beleid van de Sovjet-Unie ten aanzien van China wil ondersteunen, waardoor het artikel de poging van China banden aan te knopen met Azië, Afrika en Latijns-Amerika negatief weergeeft / waardoor het artikel vanuit concurrentieoverwegingen het prestige van China in andere landen negatief weergeeft (waardoor de bron minder betrouwbaar is voor het tweede onderzoeksgebied)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-china-1842-2001-antw24.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 25,
+    "answer_text": "Kern van een juist antwoord is:\n• De protestbeweging in de DDR wilde politieke hervormingen (binnen het socialistische systeem) / wilde meer vrijheid bewerkstelligen\n• De demonstranten gingen ervan uit dat de regering van de DDR de demonstraties (met geweld) zou laten neerslaan, net zoals was gebeurd met de demonstraties op het Plein van de Hemelse Vrede",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De protestbeweging in de DDR wilde politieke hervormingen (binnen het socialistische systeem) / wilde meer vrijheid bewerkstelligen"
+     },
+     {
+      "points": 1,
+      "description": "De demonstranten gingen ervan uit dat de regering van de DDR de demonstraties (met geweld) zou laten neerslaan, net zoals was gebeurd met de demonstraties op het Plein van de Hemelse Vrede"
+     }
+    ],
+    "grading_note": "Alleen als bij de tweede deelvraag wordt ingegaan op het neerslaan van de demonstraties op het Plein van de Hemelse Vrede, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-duitsland-in-europa-1918-1991-antw25.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 26,
+    "answer_text": "Uit het antwoord moet blijken dat de Kamerleden het noodzakelijk vonden met dit artikel de rol / het gebruik van de Nederlandse taal in de samenleving zeker te stellen omdat:\n− door 'de ontwikkeling van pluriforme en multiculturele samenlevingen' Nederlands voor steeds meer inwoners niet de eerste taal was / naast Nederlands andere talen moesten worden ingezet om te communiceren met Nederlandse burgers.\nof\n− door groei van 'de eenwording van Europa' het gebruik van de Nederlandse taal onder druk kwam te staan (in de Europese samenwerking).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "per combinatie van een juiste redenering en een passend kenmerkend aspect"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-ii-moderne-tijd-antw26.png"
+    ]
+   }
+  ]
+ }
+}
