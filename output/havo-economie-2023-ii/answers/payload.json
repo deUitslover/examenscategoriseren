@@ -1,0 +1,571 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "HAVO",
+    "source": "HAVO Economie 2023-II",
+    "answers": [
+      {
+        "title": "Stoppen met aardgas dwingt tot keuzes",
+        "question_number": 1,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als er een overheidstekort ontstaat moet de overheid meer lenen, (1)\n• waardoor het huidige niveau van overheidsbestedingen toekomstige overheidsbestedingen beperkt omdat er extra moet worden afgelost (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als er een overheidstekort ontstaat moet de overheid meer lenen,"
+          },
+          {
+            "points": 1,
+            "description": "waardoor het huidige niveau van overheidsbestedingen toekomstige overheidsbestedingen beperkt omdat er extra moet worden afgelost"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-stoppen-met-aardgas-dwingt-tot-keuzes-antw1.png"
+        ]
+      },
+      {
+        "title": "Stoppen met aardgas dwingt tot keuzes",
+        "question_number": 2,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nDe verhoging van 75% is niet voldoende om de doelstelling te behalen:\n• Nieuwe energiebelasting = 1,75 x oude energiebelasting = 1,75 x € 0,346 = € 0,606\n  levering en transport gas: € 0,452\n  nieuwe energiebelasting: € 0,606\n  nieuwe tarief exclusief btw: € 1,058\n  btw 21% over € 1,058: € 0,222\n  nieuw gastarief inclusief btw: € 1,280 (1)\n• (nieuw tarief − oud tarief) / oud tarief x 100% = (€1,208−0,966) / €0,966 x 100 = 32,5% (1)\n• De prijselasticiteit is -0,1 dus de vraag naar gas daalt met 0,1 x procentuele prijsstijging van het gas = 0,1 x 32,5% = 3,3% en dit is minder dan de doelstelling van 5% (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Nieuwe energiebelasting = 1,75 x € 0,346 = € 0,606; nieuw gastarief inclusief btw = € 1,280"
+          },
+          {
+            "points": 1,
+            "description": "(nieuw tarief − oud tarief) / oud tarief x 100% = (€1,208−0,966) / €0,966 x 100 = 32,5%"
+          },
+          {
+            "points": 1,
+            "description": "De prijselasticiteit is -0,1 dus de vraag naar gas daalt met 0,1 x 32,5% = 3,3% en dit is minder dan de doelstelling van 5%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-stoppen-met-aardgas-dwingt-tot-keuzes-antw2.png"
+        ]
+      },
+      {
+        "title": "Stoppen met aardgas dwingt tot keuzes",
+        "question_number": 3,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Economische groei betekent dat het bbp / de productie toeneemt, waardoor het gasverbruik van bedrijven toe kan nemen (1)\n• Economische groei betekent dat het bbp en dus het (binnenlands) inkomen toeneemt, waardoor gezinshuishoudens over de middelen beschikken om hun woningen te verduurzamen / te isoleren / te voorzien van alternatieve energiebronnen zodat het gasverbruik af kan nemen\nof\nEconomische groei betekent dat het bbp / de productie toeneemt, waardoor bedrijven meer winst kunnen maken en meer gasbesparende investeringen kunnen doen waardoor het gasverbruik af kan nemen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Economische groei betekent dat het bbp / de productie toeneemt, waardoor het gasverbruik van bedrijven toe kan nemen"
+          },
+          {
+            "points": 1,
+            "description": "Economische groei betekent dat het (binnenlands) inkomen toeneemt, waardoor gezinshuishoudens hun woningen kunnen verduurzamen / isoleren / voorzien van alternatieve energiebronnen zodat het gasverbruik af kan nemen, of bedrijven meer winst maken en meer gasbesparende investeringen kunnen doen waardoor het gasverbruik af kan nemen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-stoppen-met-aardgas-dwingt-tot-keuzes-antw3.png"
+        ]
+      },
+      {
+        "title": "Stoppen met aardgas dwingt tot keuzes",
+        "question_number": 4,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Inkomstenkant (B): economische groei betekent dat het bbp / het inkomen toeneemt en als er meer inkomen wordt verdiend dan leidt dat tot hogere belastingontvangsten (die gebruikt kunnen worden voor de subsidie)\n− Uitgavenkant (O): economische groei betekent dat het bbp / de productie toeneemt, en als de productie toeneemt kan de werkgelegenheid toenemen en kunnen de uitkeringen voor werkloosheid dalen (zodat er meer financiële ruimte komt om subsidies te financieren)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Inkomstenkant (B): hogere belastingontvangsten door hoger inkomen, of uitgavenkant (O): hogere werkgelegenheid waardoor uitkeringen voor werkloosheid dalen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-stoppen-met-aardgas-dwingt-tot-keuzes-antw4.png"
+        ]
+      },
+      {
+        "title": "Stoppen met aardgas dwingt tot keuzes",
+        "question_number": 5,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• positief effect op de economische groei: (De vraag naar en) de productie van energiezuinige technologie stijgt (door de subsidie) hetgeen een positief effect kan hebben op (de groei van) het bbp / de productie (1)\n• negatief effect op de economische groei: Bedrijven krijgen te maken met hogere kosten (door de verhoging van energiebelasting). Dit kan ten koste gaan van de winst. Hierdoor kunnen de investeringen afnemen, hetgeen een negatief effect kan hebben op (de groei van) het bbp / de productie\nof:\nGezinnen kunnen te maken krijgen met hogere energieuitgaven (door de verhoging van energiebelasting). Hierdoor kan het besteedbaar inkomen voor overige consumptiegoederen afnemen, hetgeen een negatief effect kan hebben op (de groei van) het bbp (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "positief effect: (de vraag naar en) de productie van energiezuinige technologie stijgt (door de subsidie), positief effect op (de groei van) het bbp / de productie"
+          },
+          {
+            "points": 1,
+            "description": "negatief effect: hogere kosten voor bedrijven → lagere winst → minder investeringen, of hogere energieuitgaven gezinnen → minder besteedbaar inkomen voor overige consumptiegoederen; negatief effect op (de groei van) het bbp / de productie"
+          }
+        ],
+        "grading_note": "Als bij de beantwoording van het positieve en het negatieve effect productie of bbp niet genoemd is dan maximaal een scorepunt toekennen.",
+        "answer_image_urls": [
+          "economie-havo-2023-ii-stoppen-met-aardgas-dwingt-tot-keuzes-antw5.png"
+        ]
+      },
+      {
+        "title": "Vliegtaks",
+        "question_number": 6,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n(Door een afname van de vraag naar vliegtickets is de bezettingsgraad /het feitelijke aantal bezette stoelen lager, maar dat maakt op korte termijn geen/weinig verschil want)\ner zijn evenveel vluchten als voorheen en dus zal de uitstoot van broeikasgassen (vrijwel) gelijk blijven.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "er zijn evenveel vluchten als voorheen en dus zal de uitstoot van broeikasgassen (vrijwel) gelijk blijven"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-vliegtaks-antw6.png"
+        ]
+      },
+      {
+        "title": "Vliegtaks",
+        "question_number": 7,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De verhoging van de ticketprijs uitgedrukt als percentage van de oude prijs is: (Pnieuw−Poud) / Poud x 100% = €7,50 / €300 x 100 = 2,5% (1)\n• De procentuele verandering van de vraag = Ev x percentage verandering van de prijs = –1,4 x 2,5% = −3,5% (1)\n• Het percentage passagiers dat blijft vliegen is 100% – 3,5% = 96,5% (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De verhoging van de ticketprijs: €7,50 / €300 x 100 = 2,5%"
+          },
+          {
+            "points": 1,
+            "description": "De procentuele verandering van de vraag = –1,4 x 2,5% = −3,5%"
+          },
+          {
+            "points": 1,
+            "description": "Het percentage passagiers dat blijft vliegen is 100% – 3,5% = 96,5%"
+          }
+        ],
+        "grading_note": "Een juiste uitkomst van de procentuele verandering van de vraag (tweede deelscore) is voorwaardelijk voor toekenning van de derde scorepunt.",
+        "answer_image_urls": [
+          "economie-havo-2023-ii-vliegtaks-antw7.png"
+        ]
+      },
+      {
+        "title": "Vliegtaks",
+        "question_number": 8,
+        "answer_text": "hoger\nEen voorbeeld van een juist antwoord is:\n• De vraag naar tickets voor lange vluchten reageert (procentueel) minder sterk op eenzelfde (procentuele) prijsverandering dan de vraag naar tickets voor korte vluchten. / De vraag naar tickets voor korte vluchten reageert (procentueel) sterker op eenzelfde (procentuele) prijsverandering dan de vraag naar tickets voor lange vluchten (1)\n• dus is een (procentueel) hogere vliegtaks op tickets voor lange vluchten nodig (om dezelfde daling van de vraag naar vliegtickets te realiseren als bij korte vluchten) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De vraag naar tickets voor lange vluchten reageert (procentueel) minder sterk op eenzelfde (procentuele) prijsverandering dan de vraag naar tickets voor korte vluchten"
+          },
+          {
+            "points": 1,
+            "description": "dus is een (procentueel) hogere vliegtaks op tickets voor lange vluchten nodig"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-vliegtaks-antw8.png"
+        ]
+      },
+      {
+        "title": "Vliegtaks",
+        "question_number": 9,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nEen verschuiving van de vraaglijn van treintickets.\n• Als gevolg van een hogere vliegtaks stijgt de prijs van vliegtickets (van korte vluchten) waardoor de vraag naar (het substitutiegoed) treintickets bij elke prijs toeneemt (1)\n• Dit betekent dat de vraaglijn van treintickets naar rechts verschuift (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als gevolg van een hogere vliegtaks stijgt de prijs van vliegtickets waardoor de vraag naar (het substitutiegoed) treintickets bij elke prijs toeneemt"
+          },
+          {
+            "points": 1,
+            "description": "Dit betekent dat de vraaglijn van treintickets naar rechts verschuift"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-vliegtaks-antw9.png"
+        ]
+      },
+      {
+        "title": "Vliegtaks",
+        "question_number": 10,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Evenwichtsprijs vóór invoering vliegtaks:\n  –P + 480 = 2P – 105\n  3P = 585\n  P = € 195 (1)\n• Evenwichtsprijs na invoering vliegtaks:\n  –P + 480 = 2P – 120\n  3P = 600\n  P = € 200 (1)\n• De luchtvaartmaatschappij neemt 7,50 – (200 – 195) = € 2,50 van de € 7,50 vliegtaks voor eigen rekening, dat is 2,50 / 7,50 X 100% = 33,3% / 33% (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Evenwichtsprijs vóór invoering vliegtaks: –P + 480 = 2P – 105 → P = € 195"
+          },
+          {
+            "points": 1,
+            "description": "Evenwichtsprijs na invoering vliegtaks: –P + 480 = 2P – 120 → P = € 200"
+          },
+          {
+            "points": 1,
+            "description": "7,50 – (200 – 195) = € 2,50 voor eigen rekening, dat is 2,50 / 7,50 X 100% = 33,3% / 33%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-vliegtaks-antw10.png"
+        ]
+      },
+      {
+        "title": "Vliegtaks",
+        "question_number": 11,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij een prijs van € 200 worden\n  Qv = (– 200 + 480) x 10.000 = 2.800.000 vliegtickets verkocht\n  of:\n  Qa = 2 x 200 – 120 = 280 x 10.000 = 2.800.000 vliegtickets verkocht (1)\n• De belastingopbrengst is € 7,50 x 2.800.000 = € 21 miljoen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij een prijs van € 200 worden 2.800.000 vliegtickets verkocht"
+          },
+          {
+            "points": 1,
+            "description": "De belastingopbrengst is € 7,50 x 2.800.000 = € 21 miljoen"
+          }
+        ],
+        "grading_note": "Als bij de uitwerking sprake is van doorwerkfouten uit de vorige vraag, dan geen scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "economie-havo-2023-ii-vliegtaks-antw11.png"
+        ]
+      },
+      {
+        "title": "Heffingskortingen inkomensafhankelijk",
+        "question_number": 12,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Uit bron 1 blijkt dat de arbeidskorting door de jaren heen hoger is geworden (voor inkomens tot en met € 80.000 als gevolg van de toegenomen inkomensafhankelijkheid) waardoor het netto-inkomen uit arbeid (voor deze inkomens) stijgt (1)\n• Daardoor wordt werken/participeren op de arbeidsmarkt aantrekkelijker, en neemt het arbeidsaanbod toe (aanzuigeffect) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Uit bron 1 blijkt dat de arbeidskorting hoger is geworden waardoor het netto-inkomen uit arbeid stijgt"
+          },
+          {
+            "points": 1,
+            "description": "Daardoor wordt werken/participeren op de arbeidsmarkt aantrekkelijker, en neemt het arbeidsaanbod toe (aanzuigeffect)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-heffingskortingen-inkomensafhankelijk-antw12.png"
+        ]
+      },
+      {
+        "title": "Heffingskortingen inkomensafhankelijk",
+        "question_number": 13,
+        "answer_text": "Voor vraag 13 moeten altijd 2 scorepunten worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.\nToelichting:\nDe aanwijzing bij de vraag ‘gebruik de uitspraak van partij 1’ behoort daar niet te staan. Dit kan leerlingen gehinderd hebben bij de beantwoording van de vraag.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Altijd 2 scorepunten toekennen, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-heffingskortingen-inkomensafhankelijk-antw13.png"
+        ]
+      },
+      {
+        "title": "Heffingskortingen inkomensafhankelijk",
+        "question_number": 14,
+        "answer_text": "Een antwoord waaruit blijkt dat\n• door de verhoging van de heffingskortingen de te betalen inkomstenbelasting bij een inkomen van € 20.000 afneemt, (1)\n• en dat het gemiddelde belastingtarief door die afname van te betalen inkomstenbelasting daalt (want gemiddeld belastingtarief is belastingbedrag gedeeld door het bruto-inkomen) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "door de verhoging van de heffingskortingen neemt de te betalen inkomstenbelasting bij een inkomen van € 20.000 af"
+          },
+          {
+            "points": 1,
+            "description": "en het gemiddelde belastingtarief daalt door die afname (gemiddeld belastingtarief is belastingbedrag gedeeld door het bruto-inkomen)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-heffingskortingen-inkomensafhankelijk-antw14.png"
+        ]
+      },
+      {
+        "title": "Heffingskortingen inkomensafhankelijk",
+        "question_number": 15,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• 2014: laag (in €) / hoog (in €)\n  belastbaar inkomen: 20.000 / 120.000\n  af: inkomstenbelasting vóór heffingskortingen: – 7.270 / – 55.616\n  bij: algemene heffingskorting: + 2.093 / + 1.362\n  bij: arbeidskorting: + 2.097 / + 367\n  netto-inkomen: 16.920 / 66.113 (1)\n• Daarmee was het netto-inkomen van de hoogste inkomens 66.113/16.920 = 3,9 keer zo hoog als het netto-inkomen van de laagste inkomens. De ratio is kleiner geworden (van 4,1 naar 3,9, dus is er sprake van toegenomen nivellering) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "netto-inkomen 2014: laag 16.920, hoog 66.113"
+          },
+          {
+            "points": 1,
+            "description": "66.113/16.920 = 3,9; de ratio is kleiner geworden (van 4,1 naar 3,9, dus toegenomen nivellering)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-heffingskortingen-inkomensafhankelijk-antw15.png"
+        ]
+      },
+      {
+        "title": "Heffingskortingen inkomensafhankelijk",
+        "question_number": 16,
+        "answer_text": "procyclisch\nEen voorbeeld van een juist antwoord is:\n• In 2017 verkeert Nederland in een hoogconjunctuur. Door dit belastingplan wordt er in 2017 –5.162+363–2.481+3.601= –3.679 miljoen euro minder belasting betaald (ten opzichte van 2016) (1)\n• Dit heeft een positief effect op de bestedingen waardoor de hoogconjunctuur wordt versterkt, en dit betekent dat er een procyclisch effect is (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In 2017 verkeert Nederland in een hoogconjunctuur; door dit belastingplan wordt er in 2017 –5.162+363–2.481+3.601= –3.679 miljoen euro minder belasting betaald"
+          },
+          {
+            "points": 1,
+            "description": "Dit heeft een positief effect op de bestedingen waardoor de hoogconjunctuur wordt versterkt: procyclisch effect"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-heffingskortingen-inkomensafhankelijk-antw16.png"
+        ]
+      },
+      {
+        "title": "De prijs van medicijnen",
+        "question_number": 17,
+        "answer_text": "• MO=MK bij Q= 350 (x 1.000 doosjes) (1)\n• (Bij Q= 350.000 is GO= $ 2.250,) Fluid moet dus $ 2.250 vragen per doosje (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "MO=MK bij Q= 350 (x 1.000 doosjes)"
+          },
+          {
+            "points": 1,
+            "description": "(Bij Q= 350.000 is GO= $ 2.250,) Fluid moet dus $ 2.250 vragen per doosje"
+          }
+        ],
+        "grading_note": "Een correcte toepassing van MO=MK (eerste deelscore) is voorwaardelijk voor toekenning van de tweede scorepunt.",
+        "answer_image_urls": [
+          "economie-havo-2023-ii-de-prijs-van-medicijnen-antw17.png"
+        ]
+      },
+      {
+        "title": "De prijs van medicijnen",
+        "question_number": 18,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• (Bij Q= 350.000 is GO= $ 2.250, bij Q= 350.000 is) GTK= $ 1.750 (1)\n• TW= TO–TK= (GO−GTK) x Q= ($ 2.250 – $ 1.750) x 350.000= $ 175.000.000 (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(Bij Q= 350.000 is) GTK= $ 1.750"
+          },
+          {
+            "points": 1,
+            "description": "TW= (GO−GTK) x Q= ($ 2.250 – $ 1.750) x 350.000= $ 175.000.000"
+          }
+        ],
+        "grading_note": "Als bij de berekening de duizendtallen ontbreken (TW= $ 175.000) dan maximaal een scorepunt toekennen.",
+        "answer_image_urls": [
+          "economie-havo-2023-ii-de-prijs-van-medicijnen-antw18.png"
+        ]
+      },
+      {
+        "title": "De prijs van medicijnen",
+        "question_number": 19,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Medicijnfabrikanten hebben specifieke investeringen gedaan om een medicijn te ontwikkelen (1)\n• Dit zijn verzonken kosten omdat deze kosten op geen andere manier kunnen worden terugverdiend dan via verkoop (op de Amerikaanse markt) / omdat deze kosten op geen andere manier kunnen worden terugverdiend als de FDA geen goedkeuring geeft om het medicijn te mogen verkopen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Medicijnfabrikanten hebben specifieke investeringen gedaan om een medicijn te ontwikkelen"
+          },
+          {
+            "points": 1,
+            "description": "Dit zijn verzonken kosten omdat deze kosten op geen andere manier kunnen worden terugverdiend dan via verkoop / als de FDA geen goedkeuring geeft"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-de-prijs-van-medicijnen-antw19.png"
+        ]
+      },
+      {
+        "title": "De prijs van medicijnen",
+        "question_number": 20,
+        "answer_text": "(1) prijsinelastisch\n(2) noodzakelijk",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(1) prijsinelastisch en (2) noodzakelijk"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-de-prijs-van-medicijnen-antw20.png"
+        ]
+      },
+      {
+        "title": "De prijs van medicijnen",
+        "question_number": 21,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Maatregel A: Het instellen van een maximumprijs zal leiden tot een lagere prijs mits de maximale prijs die de overheid vaststelt lager is dan de prijs bij maximale winst (1)\n• Maatregel B: Na afloop van het patent kunnen andere aanbieders het medicijn ook aanbieden en door de toegenomen concurrentie kan de prijs dalen (omdat Fluid niet langer monopolist/prijszetter is, en omdat de afwezigheid van toetredingsbarrières het mogelijk maakt dat andere fabrikanten het medicijn met lagere kosten kunnen fabriceren) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Maatregel A: een maximumprijs leidt tot een lagere prijs mits deze lager is dan de prijs bij maximale winst"
+          },
+          {
+            "points": 1,
+            "description": "Maatregel B: na afloop van het patent kunnen andere aanbieders het medicijn ook aanbieden en door de toegenomen concurrentie kan de prijs dalen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-de-prijs-van-medicijnen-antw21.png"
+        ]
+      },
+      {
+        "title": "De prijs van medicijnen",
+        "question_number": 22,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij lagere winsten kunnen / willen medicijnfabrikanten minder besteden aan de ontwikkeling van nieuwe medicijnen (1)\n• zodat onderzoek naar / ontwikkeling van medicijnen voor nieuwe ziektes onvoldoende plaatsvindt, en waardoor mensen meer / langer / ernstiger ziek zijn en de levensverwachting omlaag kan gaan (en de HDI daalt) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij lagere winsten kunnen / willen medicijnfabrikanten minder besteden aan de ontwikkeling van nieuwe medicijnen"
+          },
+          {
+            "points": 1,
+            "description": "zodat onderzoek naar medicijnen voor nieuwe ziektes onvoldoende plaatsvindt, waardoor mensen meer / langer / ernstiger ziek zijn en de levensverwachting omlaag kan gaan (en de HDI daalt)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-de-prijs-van-medicijnen-antw22.png"
+        ]
+      },
+      {
+        "title": "Verzekerd van data",
+        "question_number": 23,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De dominante strategie van bedrijf ABC is wel losgeld betalen, want als bedrijf XYZ wel losgeld betaalt is –5 > –6 en als bedrijf XYZ geen losgeld betaalt is –2 > –4;\n  De dominante strategie van bedrijf XYZ is wel losgeld betalen, want als bedrijf ABC wel losgeld betaalt is –4 > –5 en als bedrijf ABC geen losgeld betaalt is –2 > –3 (1)\n• De evenwichtssituatie: beide bedrijven betalen losgeld (–5; –4). Dit is een suboptimaal resultaat aangezien de uitkomst waarbij beide bedrijven geen losgeld betalen voor elk van beide bedrijven een beter resultaat oplevert, –4; –3 (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De dominante strategie van zowel ABC als XYZ is wel losgeld betalen (met vergelijking van de uitkomsten)"
+          },
+          {
+            "points": 1,
+            "description": "De evenwichtssituatie: beide bedrijven betalen losgeld (–5; –4); suboptimaal want beide geen losgeld betalen levert elk een beter resultaat op, –4; –3"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-verzekerd-van-data-antw23.png"
+        ]
+      },
+      {
+        "title": "Verzekerd van data",
+        "question_number": 24,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− ABC maakt (bij voorbaat) publiekelijk bekend dat het bedrijf nooit losgeld zal betalen. Door deze publieke belofte leidt het bedrijf reputatieschade als het toch losgeld zou betalen.\n− ABC sluit (bij voorbaat) een (publiekelijk controleerbaar) servicecontract af bij een gespecialiseerd IT-bedrijf. Als ABC toch losgeld betaalt, dan heeft het voor niets kosten gemaakt voor het servicecontract.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een juist voorbeeld van een (bij voorbaat) genomen maatregel waaraan een negatieve consequentie verbonden is als ABC toch losgeld betaalt"
+          }
+        ],
+        "grading_note": "Uit de beschrijving van het voorbeeld moet blijken welke negatieve consequentie verbonden is aan het kiezen van de dominante strategie.",
+        "answer_image_urls": [
+          "economie-havo-2023-ii-verzekerd-van-data-antw24.png"
+        ]
+      },
+      {
+        "title": "Verzekerd van data",
+        "question_number": 25,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De totale jaarpremie is € 140 x 12 = € 1.680 (1)\n• Het verwachte schadebedrag (verwachte waarde van de schade) is elk jaar 0,003 x 350.000 = € 1.050 (1)\n• de totale jaarpremie is hoger dan het (jaarlijkse) verwachte schadebedrag,\n  – en uit de betalingsbereidheid van ABC is af te leiden dat ABC waarde hecht aan het afdekken van risico (en dus risicomijdend is)\n  of\n  – en als ABC risico-neutraal of risicominnend zou zijn, dan zou ABC maximaal het verwachte schadebedrag willen betalen, en dus blijkt uit het afsluiten van de verzekering dat ABC risicomijdend is (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De totale jaarpremie is € 140 x 12 = € 1.680"
+          },
+          {
+            "points": 1,
+            "description": "Het verwachte schadebedrag is elk jaar 0,003 x 350.000 = € 1.050"
+          },
+          {
+            "points": 1,
+            "description": "de totale jaarpremie is hoger dan het verwachte schadebedrag, dus ABC hecht waarde aan het afdekken van risico / is risicomijdend"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-verzekerd-van-data-antw25.png"
+        ]
+      },
+      {
+        "title": "Verzekerd van data",
+        "question_number": 26,
+        "answer_text": "• uitsluiting 2 en 3 (1)\nEen voorbeeld van een juiste toelichting is:\n• Deze uitsluitingen voorkomen dat verzekerde bedrijven onvoorzichtig/roekeloos omgaan met hun computersysteem in de veronderstelling dat de verzekeringsmaatschappij de kosten moet dekken. (2. het bedrijf is onvoorzichtig door het personeel niet goed te instrueren en 3. het bedrijf is onvoorzichtig door beveiligingsmaatregelen achterwege te laten) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "uitsluiting 2 en 3"
+          },
+          {
+            "points": 1,
+            "description": "Deze uitsluitingen voorkomen dat verzekerde bedrijven onvoorzichtig/roekeloos omgaan met hun computersysteem in de veronderstelling dat de verzekeringsmaatschappij de kosten moet dekken"
+          }
+        ],
+        "grading_note": "De juiste keuze van de uitsluitingen is voorwaardelijk voor toekenning van de tweede scorepunt.\nVoor antwoorden waarin de kandidaat een van de twee uitsluitingen juist heeft én daarbij een juiste toelichting geeft moet 1 scorepunt worden toegekend.",
+        "answer_image_urls": [
+          "economie-havo-2023-ii-verzekerd-van-data-antw26.png"
+        ]
+      },
+      {
+        "title": "Door delen meer welvaart?",
+        "question_number": 27,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Doordat auto’s (via Deel-Kar.nl) gedeeld worden, is eigen autobezit niet langer noodzakelijk voor autogebruik, en daardoor neemt het eigen autobezit af. Consumenten die voorheen een eigen auto hadden en die toch een autorit willen maken, zullen iets meer moeite moeten doen om de deelauto / een auto van een ander te pakken waardoor het totale autogebruik (voor een korte afstand) kan verminderen en waardoor de milieuvervuiling kan afnemen\n  of\n  Doordat auto’s (via Deel-Kar.nl) gedeeld worden, is autobezit niet langer noodzakelijk voor autogebruik. Dit kan leiden tot minder autoverkoop en minder productie van auto’s (waardoor er minder grondstoffen en energie nodig zijn) waardoor de milieuvervuiling kan afnemen (1)\n• Doordat auto’s (via Deel-Kar.nl) gedeeld worden is eigen autobezit niet langer noodzakelijk voor autogebruik, en\n  – kunnen voormalige autobezitters meer te besteden hebben voor autogebruik (met name voor langere afstanden), en kan het totale autogebruik toenemen en kan dus ook de milieuvervuiling toenemen\n  of\n  – kunnen consumenten die voorheen geen auto hadden nu gebruik maken van de deelauto, en kan het totale autogebruik toenemen en kan dus ook de milieuvervuiling toenemen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een juiste redenering waardoor de milieuvervuiling kan afnemen (minder autogebruik voor korte afstanden of minder autoproductie)"
+          },
+          {
+            "points": 1,
+            "description": "Een juiste redenering waardoor de milieuvervuiling kan toenemen (meer autogebruik door voormalige autobezitters of door consumenten die voorheen geen auto hadden)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-door-delen-meer-welvaart-antw27.png"
+        ]
+      },
+      {
+        "title": "Door delen meer welvaart?",
+        "question_number": 28,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nAls de omzet van Deel-kar.nl hoger is dan de inkoopkosten van Deel-Kar.nl ontstaat er toegevoegde waarde / neemt het bbp toe. (Deel-kar.nl levert een dienst waar weinig tot geen inkoopkosten bij komen kijken.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als de omzet van Deel-kar.nl hoger is dan de inkoopkosten ontstaat er toegevoegde waarde / neemt het bbp toe"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-door-delen-meer-welvaart-antw28.png"
+        ]
+      },
+      {
+        "title": "Door delen meer welvaart?",
+        "question_number": 29,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De verhuurder (eigenaar) van een auto weet niet of de huurder (gebruiker) van de auto zich wel voorzichtig zal gedragen in het verkeer en geen schade aan de auto veroorzaakt (waardoor de minimale leveringsbereidheid stijgt). De huurder weet niet of de auto die wordt gehuurd wel van goede kwaliteit is (waardoor de betalingsbereidheid daalt) (1)\n• Hierdoor zullen er minder auto’s verhuurd/gehuurd worden via Deel-Kar.nl (hetgeen ten koste gaat van de winst) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De verhuurder weet niet of de huurder zich voorzichtig zal gedragen (minimale leveringsbereidheid stijgt) en de huurder weet niet of de auto van goede kwaliteit is (betalingsbereidheid daalt)"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor zullen er minder auto’s verhuurd/gehuurd worden via Deel-Kar.nl (hetgeen ten koste gaat van de winst)"
+          }
+        ],
+        "grading_note": "Beide vormen van asymmetrische informatie moeten worden verwoord voor de eerste deelscore.",
+        "answer_image_urls": [
+          "economie-havo-2023-ii-door-delen-meer-welvaart-antw29.png"
+        ]
+      },
+      {
+        "title": "Door delen meer welvaart?",
+        "question_number": 30,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De huurder van de auto kan zich (extra) roekeloos gedragen in het verkeer omdat hij/zij weet dat de eventuele schade door de verzekeringsmaatschappij gedekt wordt (1)\n• De verhuurders weten dit ook (dit blijkt uit de zin in de tekst “Natuurlijk is uw auto goed verzekerd …”) en weten daardoor dat zij eventuele schade als gevolg van moral hazard vergoed krijgen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De huurder van de auto kan zich (extra) roekeloos gedragen omdat hij/zij weet dat de eventuele schade door de verzekeringsmaatschappij gedekt wordt"
+          },
+          {
+            "points": 1,
+            "description": "De verhuurders weten dit ook en weten daardoor dat zij eventuele schade als gevolg van moral hazard vergoed krijgen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-ii-door-delen-meer-welvaart-antw30.png"
+        ]
+      }
+    ]
+  }
+}
