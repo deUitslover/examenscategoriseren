@@ -1,0 +1,837 @@
+{
+ "exercises": [
+  {
+   "id": "65b7e86c-62f6-4e84-80b1-892db9d590a4",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Door de tijd heen",
+   "source": "VWO Geschiedenis 2023-I"
+  },
+  {
+   "id": "fcb1f534-a3e1-4135-a65f-e81c2cc3a889",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Prehistorie en oudheid",
+   "source": "VWO Geschiedenis 2023-I"
+  },
+  {
+   "id": "4243ca2b-5a69-4339-af23-3638f6ff56f4",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "De middeleeuwen",
+   "source": "VWO Geschiedenis 2023-I"
+  },
+  {
+   "id": "35dc67ea-2884-4dd7-84fb-2a61219834aa",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Steden en burgers 1050 - 1700",
+   "source": "VWO Geschiedenis 2023-I"
+  },
+  {
+   "id": "23b9b1e6-24ba-4e64-bfcf-efc9e4d1c470",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Verlichting 1650 – 1900",
+   "source": "VWO Geschiedenis 2023-I"
+  },
+  {
+   "id": "5e06e256-4d79-4366-bc6d-4a70807bd8e6",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Vroegmoderne tijd",
+   "source": "VWO Geschiedenis 2023-I"
+  },
+  {
+   "id": "70d32c6d-6850-4f99-9974-af33e3421a09",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "China 1842 – 2001",
+   "source": "VWO Geschiedenis 2023-I"
+  },
+  {
+   "id": "09de3efe-bfd4-466e-85ea-da59120a5a35",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Moderne tijd",
+   "source": "VWO Geschiedenis 2023-I"
+  },
+  {
+   "id": "3477e1a2-1bdb-41b3-ade6-b90310e39aee",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Duitsland in Europa 1918 - 1991",
+   "source": "VWO Geschiedenis 2023-I"
+  }
+ ],
+ "context_blocks": [
+  {
+   "id": "78e4088f-3182-415b-a7aa-2f02964eda13",
+   "exercise_id": "fcb1f534-a3e1-4135-a65f-e81c2cc3a889",
+   "label": "bron 1: Romeinse kopie van de Griekse beelden van Harmodios en Aristogeiton (2e eeuw)",
+   "image_url": "geschiedenis-vwo-2023-i-prehistorie-en-oudheid-bron1.png",
+   "text_content": "bron 1 Een Romeinse kopie uit de tweede eeuw van Griekse beelden van Harmodios en Aristogeiton:\n[Afbeelding] Foto van twee marmeren standbeelden van naakte mannen naast elkaar: links een bebaarde man met een mantel over zijn arm, rechts een jongere man met een geheven arm, klaar om toe te slaan.\nToelichting: Van de beelden die het Atheense stadsbestuur laat maken van Harmodios en Aristogeiton (zie vraag 2) worden in de Romeinse tijd vele kopieën gemaakt, die zijn gevonden in Romeinse villa's.",
+   "block_type": "inline"
+  },
+  {
+   "id": "48619ba4-56e2-40dc-9bdc-c4d7f8e979b5",
+   "exercise_id": "4243ca2b-5a69-4339-af23-3638f6ff56f4",
+   "label": "bron 2: zilveren denarius met keizer Karel de Grote (omstreeks 812)",
+   "image_url": "geschiedenis-vwo-2023-i-de-middeleeuwen-bron2.png",
+   "text_content": "bron 2 Een zilveren denarius (munt) uit omstreeks 812, met een afbeelding van keizer Karel de Grote:\n[Afbeelding] Foto van de voor- en achterkant van een zilveren munt: links een portret van een gekroonde keizer met een omschrift, rechts een tempelachtige kerk met een kruis en een omschrift.\nToelichting: Op de voorkant van de munt staat een portret van Karel de Grote met de Latijnse tekst Karolus Imp(erator) Aug(ustus): Karel, de verheven keizer. Op de achterkant van de munt staat een kerk met de tekst Xpictiana Religio: christelijke religie.",
+   "block_type": "inline"
+  },
+  {
+   "id": "23d8c846-731c-4dc9-bb13-3977e51a3fa6",
+   "exercise_id": "4243ca2b-5a69-4339-af23-3638f6ff56f4",
+   "label": "bron 3: oproep van paus Innocentius III tot oorlog tegen de Albigenzen (1208)",
+   "image_url": "geschiedenis-vwo-2023-i-de-middeleeuwen-bron3.png",
+   "text_content": "bron 3 In Occitanië (het zuiden van Frankrijk) wonen in de dertiende eeuw Albigenzen,christenen die er gebruiken op na houden die door de rooms- katholieke kerk worden afgewezen. Ze staan onder de bescherming van graaf Raymond VI van Toulouse. In 1208 begint paus Innocentius III een oorlog tegen de Albigenzen:\nWij verklaren allen die gebonden zijn aan de graaf van Toulouse door een belofte van trouw, bloedbanden of andere banden, volkomen vrij van hun verplichtingen. En geven toestemming aan alle katholieken om deze graaf te vervolgen, hem de landerijen af te nemen en deze zelf te bezitten, zonder daarbij de rechten van de soeverein [de Franse koning] aan te tasten. Soldaten van Christus, sta op! Roei deze goddeloosheid met alle middelen uit die God u geeft! Strek uw armen wijd uit en strijd dapper tegen de verspreiders van ketterij, pak hen harder aan dan de Saracenen1), want zij zijn veel slechter!\nnoot 1 Saracenen zijn moslims.",
+   "block_type": "inline"
+  },
+  {
+   "id": "b25c7b7a-af31-43e9-b435-8080d8e01d4f",
+   "exercise_id": "35dc67ea-2884-4dd7-84fb-2a61219834aa",
+   "label": "bron 4: bisschop Jakob van Vitry over de begijnen (begin 13e eeuw)",
+   "image_url": "geschiedenis-vwo-2023-i-steden-en-burgers-1050-1700-bron4.png",
+   "text_content": "bron 4 Aan het begin van de dertiende eeuw schrijft bisschop Jakob van Vitry over begijnen:\nWanneer een jonge vrouw de wens uitdrukt om haar maagdelijkheid te bewaren, dan zoeken en vinden haar ouders vlug een rijke jongeman die haar kan huwen. Ze moet die man verachten en verwerpen! (…) Helaas, vele leiders van de wereld, te weten wereldlijke prelaten1) en andere kwaadaardige lieden, proberen vaak dat meisje te vernietigen door te beletten dat ze haar vroom doel bereikt. En die lieden zeggen dan spottend: \"Oh kijk eens daar! Zij wil een beguina2) zijn, want zo noemen ze die vrouwen in Vlaanderen en Brabant; of papelarda2), zo noemen ze hen in Frankrijk; of bizoke2), hun naam in Italië; of coquennune2), hun naam in Duitsland. Met dat soort van spot- en lasternamen proberen voorgenoemde lieden de maagden, die zich voorgenomen hebben de zuiverheid te bewaren, van hun heilige besluit af te brengen.\nnoot 1 Dit zijn geestelijken die gehoorzaamheid hebben beloofd aan een bisschop of paus.\nnoot 2 Dit zijn namen die 'een kletskous' of 'een vrouw die gebedjes mompelt' omschrijven.",
+   "block_type": "inline"
+  },
+  {
+   "id": "8c01007d-a4c1-4b06-b60c-ee5a73fe1bbc",
+   "exercise_id": "35dc67ea-2884-4dd7-84fb-2a61219834aa",
+   "label": "bron 6: pamflet van Amsterdamse burgers op de beurs (23 augustus 1672)",
+   "image_url": "geschiedenis-vwo-2023-i-steden-en-burgers-1050-1700-bron6.png",
+   "text_content": "bron 6 Amsterdamse burgers bevestigen op 23 augustus 1672 een pamflet aan een pilaar van het beursgebouw. Op dit pamflet staat:\nWij eisen:\n− Dat de oude rechten hersteld worden.\n− Dat de kapiteins van de schutterij die in het stadsbestuur zitten, worden afgezet [als kapitein] en worden vervangen door andere burgers.\n− Dat niemand die in het stadsbestuur zit, bewindhebber zal worden van de Oost- of West-Indische Compagnie. (…)\nDit verzoek zal worden overgebracht aan zijne Hoogheid [stadhouder Willem III] en wanneer deze eisen niet zullen worden ingewilligd, zal er op zijn Haags1) worden opgetreden.\nNB: Een ieder die dit pamflet zal verwijderen, zal de kogel krijgen, daar zal goed op worden toegezien.\nOranje wordt groot De Witten zijn dood (…)\nnoot 1 Hiermee wordt het lynchen van Johan en Cornelis de Witt in Den Haag bedoeld.",
+   "block_type": "inline"
+  },
+  {
+   "id": "8e3e679b-b78e-4956-baef-9c272ffe4d7f",
+   "exercise_id": "23b9b1e6-24ba-4e64-bfcf-efc9e4d1c470",
+   "label": "bron 7: prent van een Engels koffiehuis (17e eeuw)",
+   "image_url": "geschiedenis-vwo-2023-i-verlichting-1650-1900-bron7.png",
+   "text_content": "bron 7 In de zeventiende eeuw worden in Engeland honderden koffiehuizen geopend, waarvan deze prent er een toont:\n[Afbeelding] Prent van het interieur van een druk koffiehuis: mannen met pruiken zitten aan tafels te lezen en te praten, een vrouw staat achter een toonbank en een jongen schenkt koffie in.\nToelichting: Op de tafels liggen kranten en pamfletten.",
+   "block_type": "inline"
+  },
+  {
+   "id": "4307d598-f823-4977-9094-e766dda38e31",
+   "exercise_id": "5e06e256-4d79-4366-bc6d-4a70807bd8e6",
+   "label": "bron 5: decreet van de katholieke kerk over aflaten (1563)",
+   "image_url": "geschiedenis-vwo-2023-i-vroegmoderne-tijd-bron5.png",
+   "text_content": "bron 5 Op 4 december 1563 vaardigt de katholieke kerk het volgende decreet uit over aflaten1):\nOmdat de Kerk van Christus de volmacht heeft gekregen om aflaten te verlenen en zij van deze door God gegeven volmacht vanaf de oudste tijden gebruikmaakt. Zo leert en gebiedt de heilige Synode2) dat het gebruik van aflaten voor het christelijk volk hoogst heilzaam is en het door de autoriteit van heilige Concilies2) goedgekeurd is om voor de Kerk behouden te blijven. Het veroordeelt daarmee met de banvloek3) al diegene die of beweren dat aflaten van geen nut zijn, of die zeggen dat het niet aan de Kerkelijke macht toekomt hen te verlenen. Zij wenst echter dat men bij het verlenen van aflaten zich matigt en zich erop toelegt de kerkelijke orde niet door al te grote plooibaarheid schade te berokkenen. Zij wenst dat de misbruiken die ingeslopen zijn (…) worden vermeden en gecorrigeerd, zo bepaalt zij door het voorliggende decreet in het algemeen dat al de oneigenlijke winst voor het verkrijgen van een aflaat volledig afgeschaft moet worden.\nnoot 1 Een aflaat is een kwijtschelding voor straf van God. Gelovigen kunnen een aflaat verkrijgen door goede werken te verrichten of door geld te betalen. noot 2 Een Synode en een Concilie zijn kerkvergaderingen. noot 3 Een banvloek houdt in dat een gelovige wordt buitengesloten.",
+   "block_type": "inline"
+  },
+  {
+   "id": "d21026b3-4d6a-4542-ad41-b6631b0483c5",
+   "exercise_id": "70d32c6d-6850-4f99-9974-af33e3421a09",
+   "label": "bron 8: prent De situatie in het Verre Oosten van Tse Tsan-tai (1899)",
+   "image_url": "geschiedenis-vwo-2023-i-china-1842-2001-bron8.png",
+   "text_content": "bron 8 In 1899 publiceert Tse Tsan-tai deze prent met de titel De situatie in het Verre Oosten:\n[Afbeelding] Prent met een kaart van China en omgeving waarop dieren staan: bovenaan een grote beer, daaronder een buldog, een kikker en rechtsonder een adelaar; in de linkerbovenhoek staan Chinese tekens.\nToelichting: Op de kaart van China zijn dieren afgebeeld die symbool staan voor verschillende landen, namelijk (van boven naar beneden) de Russische beer, de Britse buldog, de Franse kikker en rechtsonder de Amerikaanse adelaar.",
+   "block_type": "inline"
+  },
+  {
+   "id": "5273ec21-3352-442e-ba27-afa52a4c710e",
+   "exercise_id": "70d32c6d-6850-4f99-9974-af33e3421a09",
+   "label": "bron 13: poster met 'honderd aandachtspunten' bij een middenschool in Peking (1966)",
+   "image_url": "geschiedenis-vwo-2023-i-china-1842-2001-bron13.png",
+   "text_content": "bron 13 In augustus 1966 wordt een poster met 'honderd aandachtspunten' opgeplakt bij de Nr. 26 Middenschool in Peking. Enkele van de aandachtspunten zijn:\n− Wij bevelen jullie onmiddellijk om je bluejeans weg te werpen, je vettig haar te scheren, je flitsende schoenen uit te trekken.\n− Het houden van vissen, katten en honden en vergelijkbare bourgeoisgewoonten mogen niet langer bestaan onder het Chinese volk.\n− Het dragen van feodale versierselen als armbanden, oorringen enz. is verboden.\n− De school krijgt als nieuwe naam 'De Maoïstische school'.",
+   "block_type": "inline"
+  },
+  {
+   "id": "08c1f485-a335-4847-a8be-153efe24a5d1",
+   "exercise_id": "70d32c6d-6850-4f99-9974-af33e3421a09",
+   "label": "bron 14: rapport van de Staatssicherheitsdienst over een Chinese fototentoonstelling in Oost-Berlijn (1967)",
+   "image_url": "geschiedenis-vwo-2023-i-china-1842-2001-bron14.png",
+   "text_content": "bron 14 In februari 1967 stelt de Chinese ambassade in Oost-Berlijn foto's tentoon in vitrines aan de buitenkant van het gebouw. De Staatssicherheitsdienst schrijft hierover in een rapport aan de minister van Staatsveiligheid van de DDR:\nDe getoonde afbeeldingen laten Chinese studenten zien die voorlezen uit de \"werken\" van Mao (…) op het Rode Plein in Moskou en er zijn foto's van Sovjetmilities en burgers die ingrijpen, dus van een beginnende confrontatie. Verder zijn er in scène gezette beelden van gewonde en bloedende Chinezen te zien. Elk van die afbeeldingen is becommentarieerd met duidelijk lasterlijke anti-Sovjet-bijschriften, bijvoorbeeld:\n1 \"Deze burger raakte ernstig gewond door trappen op zijn borst van Sovjetagenten; zijn toestand is levensbedreigend.\"\n2 \"Slachtoffer van de fascistische bloedige daad van de Sovjetrevisionisten.\"\n(…)\nHet viel op dat na het inrichten van deze vitrines de voorbijgangers meer dan gebruikelijk aandacht besteedden aan de tentoongestelde materialen.",
+   "block_type": "inline"
+  },
+  {
+   "id": "0e7b50f4-7adb-444d-ba8c-4a5db18ee8de",
+   "exercise_id": "09de3efe-bfd4-466e-85ea-da59120a5a35",
+   "label": "inleiding vraag 20: toestemming voor zendtijd aan de CPN (1965)",
+   "image_url": "geschiedenis-vwo-2023-i-moderne-tijd-context1.png",
+   "text_content": "In september 1965 geeft de Nederlandse regering voor het eerst toestemming aan de Communistische Partij Nederland (CPN) voor zendtijd op radio en televisie.",
+   "block_type": "inline"
+  },
+  {
+   "id": "20419c3c-0d9f-4d72-96bd-680139cb5230",
+   "exercise_id": "09de3efe-bfd4-466e-85ea-da59120a5a35",
+   "label": "bron 11: foto van Hugo Wilmar van Nederlandse mariniers in Nederlands-Indië (1946)",
+   "image_url": "geschiedenis-vwo-2023-i-moderne-tijd-bron11.png",
+   "text_content": "bron 11 In 1946 maakt de Nederlandse marinier Hugo Wilmar deze foto in Nederlands-Indië (Indonesië):\n[Afbeelding] Zwart-witfoto: gewapende soldaten rennen langs een brandend dorp met houten huizen waaruit dikke rookwolken opstijgen.\nToelichting: De mannen zijn Nederlandse mariniers. Op de achtergrond is een brandende kampong, een Indonesisch dorp, te zien.",
+   "block_type": "inline"
+  },
+  {
+   "id": "d6760de4-f095-487e-b0da-06790034ce70",
+   "exercise_id": "09de3efe-bfd4-466e-85ea-da59120a5a35",
+   "label": "bron 12: prent Binnenkort ook op tv reclamespots door: Paulus de Moskou-bouter van Fritz Behrendt (1965)",
+   "image_url": "geschiedenis-vwo-2023-i-moderne-tijd-bron12.png",
+   "text_content": "bron 12 In 1965 verschijnt deze prent van Fritz Behrendt in het Algemeen Handelsblad met de titel Binnenkort ook op tv reclamespots door: Paulus de Moskou-bouter:\n[Afbeelding] Spotprent: een man zit op een boomstronk een boek te lezen voor een televisiecamera, terwijl boven hem een microfoon hangt.\nToelichting: Boven de microfoon staat NRU / NTS (Nederlandse Radio Unie / Nederlandse Televisie Stichting). Op de boomstronk zit Paul de Groot, voorzitter van de Communistische Partij Nederland. De titel van het boek is Sprookjes van de Marx-Brothers; op het boek staan Stalin en Mao Zedong afgebeeld. Vanaf 1955 wordt op de radio dagelijks voor kinderen het hoorspel Paulus de Boskabouter uitgezonden.",
+   "block_type": "inline"
+  },
+  {
+   "id": "e3209c54-d793-4e29-b8f1-0ad72800041d",
+   "exercise_id": "3477e1a2-1bdb-41b3-ade6-b90310e39aee",
+   "label": "bron 9: Eliza von Moltke over haar overleden echtgenoot Helmuth von Moltke (1922)",
+   "image_url": "geschiedenis-vwo-2023-i-duitsland-in-europa-1918-1991-bron9.png",
+   "text_content": "bron 9 Helmuth von Moltke (1848-1916) is in augustus 1914 opperbevelhebber van het Duitse leger. Zes weken na de start van de Eerste Wereldoorlog wordt hij uit zijn functie ontheven. In 1922 schrijft zijn weduwe Eliza von Moltke in een boek over haar inmiddels overleden echtgenoot:\nDe Vrede van Versailles waarin het artikel over schuld door de Duitse onderhandelaars is ondertekend, heeft het grootste onheil over Duitsland en de wereld gebracht. In Duitsland is ondertussen uitgebreid geschreven over de oorzaken van het verlies van de oorlog. Steeds weer wordt gewezen op de Slag bij de Marne1) en het falen van het opperbevel van het [Duitse] leger en in het bijzonder op de vermeende onbekwaamheid van Moltke. (…) Dit soort zinnen dwingen me om dit boek uit te geven. (…) Moltkes plan om nieuwe aanvallen te beginnen, nadat het leger door de terugtocht bij de Marne meer bewegingsvrijheid had gekregen, werd onder leiding van generaal Von Falkenhayn2) niet uitgevoerd. In plaats daarvan begon de loopgravenoorlog die Moltke koste wat het kost had willen vermijden, omdat hij wist hoe groot het gevaar voor het Duitse leger zou zijn.\nnoot 1 De Marne is een rivier in Noord-Frankrijk. noot 2 Generaal Von Falkenhayn volgde Von Moltke op.",
+   "block_type": "inline"
+  },
+  {
+   "id": "abd7ef95-9793-4ec3-9a73-3314a973030a",
+   "exercise_id": "3477e1a2-1bdb-41b3-ade6-b90310e39aee",
+   "label": "bron 10: persinstructie van de Duitse regering over de Sudeten-Duitsers (1938)",
+   "image_url": "geschiedenis-vwo-2023-i-duitsland-in-europa-1918-1991-bron10.png",
+   "text_content": "bron 10 Op 14 september 1938 krijgt de Duitse pers deze instructie voor de berichtgeving over spanningen tussen de Tsjecho-Slowaakse bevolking en de Sudeten-Duitsers (een Duitstalige minderheid in Tsjecho-Slowakije):\nIn de Tsjecho-Slowaakse kwestie moet op dezelfde manier te werk worden gegaan als vanmorgen: in een opmaak met grote letters en in de scherpste bewoordingen. Breng het bericht over de dertien dodelijke slachtoffers bij de Sudeten-Duitsers en de vier doden aan de Tsjechische kant groot naar buiten. Het medeleven van de gehele Duitse Volksgemeinschaft moet uitgesproken worden. (…) In de hoofdartikelen kan het idee van een referendum worden behandeld en wel als volgt: na al deze onlusten is het nauwelijks voorstelbaar dat een vreedzaam samenleven van bevolkingsgroepen in één staat mogelijk is.",
+   "block_type": "inline"
+  }
+ ],
+ "questions": [
+  {
+   "id": "318a00ff-17d1-4474-8d02-6ff1b5b649c5",
+   "exercise_id": "65b7e86c-62f6-4e84-80b1-892db9d590a4",
+   "question_number": 1,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Grieken en Romeinen (3000 v.Chr.-500 n.Chr.)"
+    },
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Ontdekkers en hervormers — overig (1500-1600)"
+    },
+    {
+     "domain": "Verlichting",
+     "subdomain": "Democratische revoluties in de VS en Frankrijk (1776-1813)"
+    }
+   ],
+   "keywords": [
+    "chronologie",
+    "slavernij",
+    "trans-Atlantische slavenhandel",
+    "kerstening",
+    "Europese overzeese expansie",
+    "Haïtiaanse Revolutie"
+   ],
+   "question_summary": "Chronologisch ordenen van zes gebeurtenissen uit het leven van slaafgemaakten in verschillende tijdvakken.",
+   "question_image_url": "geschiedenis-vwo-2023-i-door-de-tijd-heen-vraag1.png",
+   "question_text": "De volgende gebeurtenissen in het leven van slaafgemaakten staan in willekeurige volgorde:\n1 Aan het einde van de Gouden Eeuw wilden Algerijnse kapers de opvarenden van een Zeeuws schip op een slavenmarkt in Tunis verkopen.\n2 Caius Paternus verleende de slaafgemaakte Iustina de vrijheid om daarna met haar te trouwen in de Romeinse provincie Gallia Transalpina.\n3 Dutty Boukman voerde kort na het begin van de Franse Revolutie een voodoo-ritueel uit waarmee hij de slaafgemaakten in de Franse kolonie Saint-Domingue opriep de wapens op te nemen.\n4 In het archief van Francesco Datini, een koopman tijdens de bloei van de Italiaanse stadstaat Prato, bevond zich een document waarin een slavin voor 50 florijnen werd verzekerd tegen ongelukken maar niet tegen vluchtpogingen.\n5 Kort na de ontdekking van Amerika nam Pedro de las Casas de slaafgemaakte jongen Juanico mee als cadeau voor zijn zoon Bartolomé.\n6 Na zijn vlucht uit Ierland keerde de voormalige slaafgemaakte veehoeder Patrick terug, om de Ierse bevolking tot het christendom te bekeren. 2p 1 Zet deze gebeurtenissen in de juiste chronologische volgorde, van vroeger naar later. Noteer alleen de nummers.",
+   "context_block_ids": []
+  },
+  {
+   "id": "1c5daabf-90a7-4f19-9de8-456ae671a647",
+   "exercise_id": "65b7e86c-62f6-4e84-80b1-892db9d590a4",
+   "question_number": 12,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Opkomst van de stedelijke burgerij (1050-1302)"
+    },
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij en centralisatie (1302-1602)"
+    },
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij in de Gouden Eeuw (1602-1700)"
+    }
+   ],
+   "keywords": [
+    "chronologie",
+    "Hanze",
+    "infrastructuur",
+    "Napoleon",
+    "regenten",
+    "spoorwegen"
+   ],
+   "question_summary": "Chronologisch ordenen van zes gebeurtenissen rond Nederlandse wegen uit verschillende tijdvakken.",
+   "question_image_url": "geschiedenis-vwo-2023-i-door-de-tijd-heen-vraag12.png",
+   "question_text": "De volgende gebeurtenissen, die te maken hebben met Nederlandse wegen, staan in willekeurige volgorde:\n1 Bij de aanleg van een weg tussen Amersfoort en Utrecht werden aan weerszijden percelen aangewezen waarop regenten hun nieuwe buitenhuizen lieten aanleggen.\n2 De pachters van tolwegen klaagden dat hun opbrengsten daalden na de aanleg van de eerste spoorlijnen.\n3 In Gelderland ontstonden 'Hanzewegen', toen handelaren tussen verschillende Hanzesteden begonnen te reizen.\n4 Keizer Napoleon Bonaparte besloot dat in Nederland een netwerk van verharde wegen moest worden aangelegd. De eerste 28 rijkswegen zouden naar Parijs worden doorgetrokken.\n5 Nadat Atrecht een lokale marktfunctie kreeg, ontstond een steeds fijner netwerk van wegen tussen Atrecht en haar verzorgingsgebied.\n6 Op de wegen rondom 's-Hertogenbosch werd tijdens de regering van koning Philips II alleen tol betaald door koopmannen die van buiten 's-Hertogenbosch kwamen. 2p 12 Zet deze gebeurtenissen in de juiste chronologische volgorde, van vroeger naar later. Noteer alleen de nummers.",
+   "context_block_ids": []
+  },
+  {
+   "id": "96c818d0-bcd2-4f6d-8460-db09789dc8ba",
+   "exercise_id": "fcb1f534-a3e1-4135-a65f-e81c2cc3a889",
+   "question_number": 2,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Grieken en Romeinen (3000 v.Chr.-500 n.Chr.)"
+    }
+   ],
+   "keywords": [
+    "Atheense democratie",
+    "tirannie",
+    "Griekse stadstaat",
+    "burgerschap",
+    "politiek motief",
+    "religie"
+   ],
+   "question_summary": "Uitleggen welk politiek motief Athene had om standbeelden van Harmodios en Aristogeiton te plaatsen en hoe offers het politieke denken beïnvloedden.",
+   "question_image_url": "geschiedenis-vwo-2023-i-prehistorie-en-oudheid-vraag2.png",
+   "question_text": "In 514 voor Christus doodden de Atheense burgers Harmodios en Aristogeiton de alleenheerser Hipparchos. Enkele jaren daarna besloot het stadsbestuur op het centrale plein in Athene standbeelden van Harmodios en Aristogeiton te plaatsen en legde vast dat elk jaar offers moesten worden gebracht bij deze beelden. 3p 2 Licht dit besluit toe door:\n− aan te geven welk politiek motief het Atheense stadsbestuur had om beelden van juist deze mannen te laten plaatsen, en\n− uit te leggen dat door te laten offeren bij de beelden het stadsbestuur het denken over politiek in de stadstaat beïnvloedde.",
+   "context_block_ids": []
+  },
+  {
+   "id": "ec7470b5-712a-4873-9b2f-1a5261bd8c89",
+   "exercise_id": "fcb1f534-a3e1-4135-a65f-e81c2cc3a889",
+   "question_number": 3,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Grieken en Romeinen (3000 v.Chr.-500 n.Chr.)"
+    }
+   ],
+   "keywords": [
+    "klassieke vormentaal",
+    "Romeinse rijk",
+    "verspreiding Grieks-Romeinse cultuur",
+    "beeldhouwkunst",
+    "kenmerkend aspect",
+    "romanisering"
+   ],
+   "question_summary": "Twee kenmerkende aspecten van de Romeinse oudheid noemen die je met een Romeinse kopie van Griekse beelden illustreert.",
+   "question_image_url": "geschiedenis-vwo-2023-i-prehistorie-en-oudheid-vraag3.png",
+   "question_text": "Gebruik bron 1. Met deze Romeinse kopie van de beelden kun je twee kenmerkende aspecten uit de tijd van de Romeinse Oudheid illustreren. 2p 3 Noem deze twee kenmerkende aspecten.",
+   "context_block_ids": [
+    "78e4088f-3182-415b-a7aa-2f02964eda13"
+   ]
+  },
+  {
+   "id": "54f1aefc-c9de-463a-9713-d1a2351ba00e",
+   "exercise_id": "4243ca2b-5a69-4339-af23-3638f6ff56f4",
+   "question_number": 4,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Monniken en ridders (500-1000)"
+    },
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Grieken en Romeinen (3000 v.Chr.-500 n.Chr.)"
+    }
+   ],
+   "keywords": [
+    "Karel de Grote",
+    "keizerskroning",
+    "Romeinse rijk",
+    "kerstening",
+    "propaganda herkennen",
+    "Karolingische rijk"
+   ],
+   "question_summary": "Uitleggen welke politieke continuïteit en eenheid Karel de Grote met de afbeeldingen op een munt suggereerde.",
+   "question_image_url": "geschiedenis-vwo-2023-i-de-middeleeuwen-vraag4.png",
+   "question_text": "Gebruik bron 2. Twaalf jaar nadat Karel de Grote tot keizer is gekroond, laat hij deze munt slaan. Twee interpretaties:\n1 Karel suggereert een bepaalde politieke continuïteit.\n2 Karel streeft naar eenheid in zijn rijk. 3p 4 Geef aan:\n− welke politieke continuïteit Karel met de voorkant van de munt suggereert, en\n− welke boodschap Karel wil overbrengen door het suggereren van deze politieke continuïteit, en\n− dat Karel met de achterkant van de munt streeft naar eenheid in zijn rijk.",
+   "context_block_ids": [
+    "48619ba4-56e2-40dc-9bdc-c4d7f8e979b5"
+   ]
+  },
+  {
+   "id": "ca347e03-5a39-4d59-a76b-5163ff7a149e",
+   "exercise_id": "4243ca2b-5a69-4339-af23-3638f6ff56f4",
+   "question_number": 5,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Steden en staten — overig (1000-1500)"
+    },
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Monniken en ridders (500-1000)"
+    }
+   ],
+   "keywords": [
+    "kruistochten",
+    "feodale verhoudingen",
+    "ketterij",
+    "Innocentius III",
+    "wereldlijke en geestelijke macht",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Uitleggen hoe paus Innocentius III feodale verhoudingen inzette tegen de Albigenzen en de oorlog vergeleek met de kruistochten.",
+   "question_image_url": "geschiedenis-vwo-2023-i-de-middeleeuwen-vraag5.png",
+   "question_text": "Gebruik bron 3. Deze oproep tot strijd tegen de Albigenzen past bij verschillende kenmerkende aspecten van de middeleeuwen. 3p 5 Geef aan:\n− op welke wijze de paus bestuurlijke verhoudingen uit de vroege middeleeuwen inzet tegen graaf Raymond, waarbij je je antwoord ondersteunt met een kenmerkend aspect uit de vroege middeleeuwen, en\n− met een kenmerkend aspect uit de late middeleeuwen met welke strijd de paus de oorlog tegen de Albigenzen vergelijkt.",
+   "context_block_ids": [
+    "23d8c846-731c-4dc9-bb13-3977e51a3fa6"
+   ]
+  },
+  {
+   "id": "66d3ca9d-0e35-42eb-befd-963c0b8b1382",
+   "exercise_id": "35dc67ea-2884-4dd7-84fb-2a61219834aa",
+   "question_number": 6,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Opkomst van de stedelijke burgerij (1050-1302)"
+    }
+   ],
+   "keywords": [
+    "begijnen",
+    "betrouwbaarheid",
+    "bruikbaarheid",
+    "standplaatsgebondenheid",
+    "stedelijke samenleving",
+    "religieuze bewegingen"
+   ],
+   "question_summary": "Verklaren dat een bron over begijnen bruikbaar is voor hun verspreiding maar minder betrouwbaar over hun motieven.",
+   "question_image_url": "geschiedenis-vwo-2023-i-steden-en-burgers-1050-1700-vraag6.png",
+   "question_text": "Gebruik bron 4. Stel: een onderzoek naar de beweging van de begijnen heeft twee onderzoeksgebieden:\n1 De verspreiding van de beweging van de begijnen in Europa.\n2 De motieven van vrouwen om toe te treden tot de beweging van de begijnen. De bron wordt alleen gebruikt voor de eerste deelvraag. 3p 6 Verklaar dit door:\n− aan te geven dat je de bron kunt gebruiken voor het eerste onderzoeksgebied, en\n− uit te leggen dat de bron minder betrouwbare informatie bevat voor het tweede onderzoeksgebied.",
+   "context_block_ids": [
+    "b25c7b7a-af31-43e9-b435-8080d8e01d4f"
+   ]
+  },
+  {
+   "id": "419ca93f-eb8a-44cf-b97d-560277724cbf",
+   "exercise_id": "35dc67ea-2884-4dd7-84fb-2a61219834aa",
+   "question_number": 7,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Opkomst van de stedelijke burgerij (1050-1302)"
+    }
+   ],
+   "keywords": [
+    "patriciërs",
+    "stedelijke burgerij",
+    "Vlaamse steden",
+    "Brugge",
+    "graaf van Vlaanderen",
+    "Guldensporenslag"
+   ],
+   "question_summary": "Aangeven dat de kritiek van de Franse koningin op de Brugse patriciërs een politieke en een sociale achtergrond had.",
+   "question_image_url": "geschiedenis-vwo-2023-i-steden-en-burgers-1050-1700-vraag7.png",
+   "question_text": "In 1301 zou de Franse koningin Johanna tijdens een bezoek aan Brugge zich hebben geërgerd aan de 'onmatige pracht en praal van de Brugse vrouwen' en hebben uitgeroepen: \"Ik dacht dat alleen ik koningin was en ik vind er hier honderden.\" De koningin geeft met haar uitroep kritiek op een verandering in de levensstijl van de Brugse patriciërs in de late middeleeuwen. 2p 7 Geef aan dat de kritiek van de koningin een politieke en een sociale achtergrond had.",
+   "context_block_ids": []
+  },
+  {
+   "id": "2d20d8d4-4a21-41b5-8dad-9c83adb1d60f",
+   "exercise_id": "35dc67ea-2884-4dd7-84fb-2a61219834aa",
+   "question_number": 9,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij in de Gouden Eeuw (1602-1700)"
+    }
+   ],
+   "keywords": [
+    "Rampjaar 1672",
+    "Oranjegezind",
+    "staatsgezind",
+    "Johan de Witt",
+    "regenten",
+    "stadhouder"
+   ],
+   "question_summary": "Met een pamflet uit 1672 de politieke tegenstelling in de Republiek en de kritiek van Amsterdamse burgers aantonen.",
+   "question_image_url": "geschiedenis-vwo-2023-i-steden-en-burgers-1050-1700-vraag9.png",
+   "question_text": "Gebruik bron 6. Met dit pamflet kun je een politiek conflict illustreren dat in 1672 speelt in de Republiek. 3p 9 Toon dit aan door:\n− de politieke tegenstelling uit die tijd te noemen, waarbij je je antwoord ondersteunt met een verwijzing naar de bron, en\n− aan te geven op welk politiek probleem de Amsterdamse burgers in dit pamflet kritiek leveren.",
+   "context_block_ids": [
+    "8c01007d-a4c1-4b06-b60c-ee5a73fe1bbc"
+   ]
+  },
+  {
+   "id": "462f35fc-321b-46e0-9904-3fff553bac38",
+   "exercise_id": "23b9b1e6-24ba-4e64-bfcf-efc9e4d1c470",
+   "question_number": 10,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichte ideeën over een rechtvaardige samenleving (1650-1789)"
+    },
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij in de Gouden Eeuw (1602-1700)"
+    }
+   ],
+   "keywords": [
+    "publieke opinie",
+    "politieke cultuur",
+    "koffiehuizen",
+    "Karel II",
+    "absolutisme",
+    "pamfletten"
+   ],
+   "question_summary": "Uitleggen hoe koffiehuizen het denken over politiek beïnvloedden en waarom Karel II ze wilde sluiten.",
+   "question_image_url": "geschiedenis-vwo-2023-i-verlichting-1650-1900-vraag10.png",
+   "question_text": "Gebruik bron 7. In 1675 wil koning Karel II de koffiehuizen in Engeland laten sluiten. 3p 10 Verklaar dit door:\n− met een verwijzing naar de prent uit te leggen waardoor de koffiehuizen het denken over politiek beïnvloeden, en\n− aan te geven welk politiek motief Karel II heeft om de koffiehuizen te sluiten.",
+   "context_block_ids": [
+    "8e3e679b-b78e-4956-baef-9c272ffe4d7f"
+   ]
+  },
+  {
+   "id": "66bc40ef-d8b3-4297-b282-e4a5494fc9aa",
+   "exercise_id": "23b9b1e6-24ba-4e64-bfcf-efc9e4d1c470",
+   "question_number": 11,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichte ideeën over een rechtvaardige samenleving (1650-1789)"
+    }
+   ],
+   "keywords": [
+    "verlicht denken",
+    "rationalisme",
+    "Encyclopédie",
+    "absolutisme",
+    "goddelijk recht",
+    "kritiek op het ancien régime"
+   ],
+   "question_summary": "Uitleggen dat een beschrijving in de Encyclopédie het absolutisme bekritiseerde en paste bij het rationalisme.",
+   "question_image_url": "geschiedenis-vwo-2023-i-verlichting-1650-1900-vraag11.png",
+   "question_text": "In Engeland en Frankrijk bestond de gewoonte dat de koning op bepaalde feestdagen de lijders aan scrofulose (een ontsteking in de hals) aanraakte om hen te genezen. In de Encyclopédie die in 1755 is uitgegeven stond hierover: \"Als de hemel een dergelijke macht aan koningen zou hebben verleend, dan zou men verwachten dat dit voor iedereen zichtbaar was en dat de genezing toch op zijn minst af en toe meteen na de aanraking optrad.\" 3p 11 Licht dit toe door:\n− aan te tonen op welke wijze deze beschrijving het absolutisme bekritiseerde, en\n− uit te leggen dat de redenering in de Encyclopédie paste bij het rationalisme.",
+   "context_block_ids": []
+  },
+  {
+   "id": "17e4d939-3fc0-476b-96d9-2499ddc1bb15",
+   "exercise_id": "23b9b1e6-24ba-4e64-bfcf-efc9e4d1c470",
+   "question_number": 13,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichtingsideeën in de Europese politieke cultuur (1813-1900)"
+    }
+   ],
+   "keywords": [
+    "afscheiding België",
+    "Congres van Wenen",
+    "Oranje-Nassau",
+    "Willem I",
+    "nationalisme",
+    "monarchie"
+   ],
+   "question_summary": "Uitleggen waarom het Belgische Nationaal Congres in 1830 koos voor een monarchie en het huis Oranje-Nassau uitsloot.",
+   "question_image_url": "geschiedenis-vwo-2023-i-verlichting-1650-1900-vraag13.png",
+   "question_text": "In november 1830 stemde het Nationaal Congres van de nieuwe staat België over verschillende kwesties:\n1 Het Congres stemde in met het voorstel dat België een monarchie werd.\n2 Het Congres nam een grondwettelijke tekst aan met daarin de bepaling \"dat de leden van het stamhuis van Oranje-Nassau voor altijd uit alle macht of gezag in België uitgesloten zijn\". 3p 13 Licht de bepalingen toe door:\n− uit te leggen waardoor het Congres verwachtte dat de eerste bepaling noodzakelijk was voor de acceptatie van de nieuwe staat België door Europese mogendheden, en\n− een binnenlands-politieke verklaring te geven voor het afwijzen van de leden van het stamhuis van Oranje-Nassau.",
+   "context_block_ids": []
+  },
+  {
+   "id": "90fc89d4-a501-4e39-a616-08ec1f605a24",
+   "exercise_id": "5e06e256-4d79-4366-bc6d-4a70807bd8e6",
+   "question_number": 8,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij en centralisatie (1302-1602)"
+    }
+   ],
+   "keywords": [
+    "Reformatie",
+    "Contrareformatie",
+    "aflaten",
+    "Concilie van Trente",
+    "katholieke kerk",
+    "bronverwijzing"
+   ],
+   "question_summary": "Aangeven op welke twee manieren de katholieke kerk met een decreet over aflaten de protestantse reformatie wilde tegengaan.",
+   "question_image_url": "geschiedenis-vwo-2023-i-vroegmoderne-tijd-vraag8.png",
+   "question_text": "Gebruik bron 5 4p 8 Geef aan op welke twee verschillende manieren de katholieke kerk met dit decreet de protestantse reformatie wil tegengaan, waarbij je telkens je antwoord ondersteunt met een andere verwijzing naar de bron.",
+   "context_block_ids": [
+    "4307d598-f823-4977-9094-e766dda38e31"
+   ]
+  },
+  {
+   "id": "fffa529a-8b1c-451d-9d18-bc9ffac93eca",
+   "exercise_id": "70d32c6d-6850-4f99-9974-af33e3421a09",
+   "question_number": 15,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Verlies van regionale grootmacht (1842-1911)"
+    }
+   ],
+   "keywords": [
+    "modern imperialisme",
+    "invloedssferen",
+    "Qing-dynastie",
+    "Hongkong",
+    "spotprent",
+    "ongelijke verdragen"
+   ],
+   "question_summary": "Uitleggen welke kritiek Tse Tsan-tai met een prent op de Chinese regering gaf en waarom hij die in Hongkong kon publiceren.",
+   "question_image_url": "geschiedenis-vwo-2023-i-china-1842-2001-vraag15.png",
+   "question_text": "Gebruik bron 8. Tse Tsan-tai is een Chinese uitgever die zich in Hongkong vestigt. Met deze prent geeft hij kritiek weer op de Chinese regering. 3p 15 Toon dit aan door:\n− met de bron uit te leggen welke kritiek op de regering Tse weergeeft, en\n− zonder bron te verklaren waardoor Tse deze prent kan publiceren in Hongkong.",
+   "context_block_ids": [
+    "d21026b3-4d6a-4542-ad41-b6631b0483c5"
+   ]
+  },
+  {
+   "id": "4841dded-4c58-4684-835a-50d9de1eb1ec",
+   "exercise_id": "70d32c6d-6850-4f99-9974-af33e3421a09",
+   "question_number": 22,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Ontwikkeling tot grootmacht (1949-2001)"
+    }
+   ],
+   "keywords": [
+    "Culturele Revolutie",
+    "Rode Gardisten",
+    "Mao Zedong",
+    "bourgeois",
+    "Vier Ouden",
+    "klassenstrijd"
+   ],
+   "question_summary": "Twee kenmerken van de Culturele Revolutie noemen met aandachtspunten van een poster uit 1966.",
+   "question_image_url": "geschiedenis-vwo-2023-i-china-1842-2001-vraag22.png",
+   "question_text": "Gebruik bron 13. Deze aandachtspunten passen bij de Culturele Revolutie. 4p 22 Noem twee kenmerken van de Culturele Revolutie waarbij deze aandachtspunten passen, waarbij je je antwoord telkens ondersteunt met een verwijzing naar een ander aandachtspunt. Let op: je mag een aandachtspunt maar één keer gebruiken.",
+   "context_block_ids": [
+    "5273ec21-3352-442e-ba27-afa52a4c710e"
+   ]
+  },
+  {
+   "id": "cbd98e9f-c41a-4d8a-b913-f00ea51ad170",
+   "exercise_id": "70d32c6d-6850-4f99-9974-af33e3421a09",
+   "question_number": 23,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Ontwikkeling tot grootmacht (1949-2001)"
+    }
+   ],
+   "keywords": [
+    "breuk met de Sovjet-Unie",
+    "DDR",
+    "Staatssicherheitsdienst",
+    "propaganda herkennen",
+    "Koude Oorlog",
+    "communistisch blok"
+   ],
+   "question_summary": "Uitleggen welke boodschappen China en de DDR uitdroegen met een fototentoonstelling in Oost-Berlijn en het weghalen ervan.",
+   "question_image_url": "geschiedenis-vwo-2023-i-china-1842-2001-vraag23.png",
+   "question_text": "Gebruik bron 14. Kort nadat de Chinese ambassade in Oost-Berlijn de fototentoonstelling laat inrichten, haalt de Staatssicherheitsdienst deze weg. 3p 23 Geef aan:\n− welke ideologische boodschap China wil overbrengen aan de regering van de DDR met de fototentoonstelling, waarbij je je antwoord ondersteunt met een verwijzing naar de bron, en\n− welke politieke boodschap de regering van de DDR overbrengt door de fototentoonstelling weg te halen.",
+   "context_block_ids": [
+    "08c1f485-a335-4847-a8be-153efe24a5d1"
+   ]
+  },
+  {
+   "id": "6d2b13dd-97f1-47c2-8c00-3643894373a4",
+   "exercise_id": "70d32c6d-6850-4f99-9974-af33e3421a09",
+   "question_number": 24,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Ontwikkeling tot grootmacht (1949-2001)"
+    }
+   ],
+   "keywords": [
+    "Jiang Zemin",
+    "Deng Xiaoping",
+    "Vier Moderniseringen",
+    "Plein van de Hemelse Vrede",
+    "economische hervormingen",
+    "politieke continuïteit"
+   ],
+   "question_summary": "Uitleggen welke ontwikkeling Jiang Zemin benadrukte en welke politieke continuïteit hij met zijn uitspraak onderbouwde.",
+   "question_image_url": "geschiedenis-vwo-2023-i-china-1842-2001-vraag24.png",
+   "question_text": "In 1997 zei Jiang Zemin: \"Het is belangrijk om de verhouding tussen ontwikkeling aan de ene kant en stabiliteit aan de andere kant zo goed mogelijk te beheersen, en zo een stabiele politieke en sociale samenleving te behouden. Zonder stabiliteit kan niets bereikt worden.\" 3p 24 Licht deze uitspraak toe door:\n− de ontwikkeling te noemen waarop Zemin in zijn beleid in China de nadruk legde, en\n− uit te leggen welke politieke continuïteit in China Zemin met deze uitspraak wilde onderbouwen.",
+   "context_block_ids": []
+  },
+  {
+   "id": "ca73ebb1-96cf-4f11-b759-ee248dfce3e3",
+   "exercise_id": "09de3efe-bfd4-466e-85ea-da59120a5a35",
+   "question_number": 14,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichtingsideeën in de Europese politieke cultuur (1813-1900)"
+    }
+   ],
+   "keywords": [
+    "feminisme",
+    "socialisme",
+    "emancipatie",
+    "arbeidersbeweging",
+    "Clara Zetkin",
+    "vrouwenbeweging"
+   ],
+   "question_summary": "Aangeven bij welke sociale klasse de feministische beweging aanhang had en welke koerswijziging Clara Zetkin wilde.",
+   "question_image_url": "geschiedenis-vwo-2023-i-moderne-tijd-vraag14.png",
+   "question_text": "Hoofdredactrice Clara Zetkin schreef in 1898 in het Duitse tijdschrift Die Gleichheit (Gelijkheid): \"Een tijdschrift als Die Gleichheit kan geen beweging veroorzaken [bij vrouwelijke arbeiders] maar kan werken binnen die beweging, door scholing en aanmoediging te geven; en dat heeft Die Gleichheit gedaan. Die Gleichheit heeft als hoofddoel de vrouwelijke kameraden aan te spreken die in de frontlinie staan bij onze strijd.\" Clara Zetkin wil met Die Gleichheit de koers van de Duitse feministische beweging veranderen. 2p 14 Geef aan:\n− onder welke sociale klasse de feministische beweging in de negentiende eeuw vooral aanhang kreeg, en\n− welke koersverandering Clara Zetkin wil bevorderen.",
+   "context_block_ids": []
+  },
+  {
+   "id": "7091f98e-759d-4d42-9dbc-7c71c66fe9b5",
+   "exercise_id": "09de3efe-bfd4-466e-85ea-da59120a5a35",
+   "question_number": 18,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Ontwikkeling tot grootmacht (1949-2001)"
+    }
+   ],
+   "keywords": [
+    "dekolonisatie",
+    "Indonesische onafhankelijkheidsoorlog",
+    "politionele acties",
+    "censuur",
+    "bruikbaarheid",
+    "Nederlands-Indië"
+   ],
+   "question_summary": "Verklaren waarom een foto uit Nederlands-Indië werd afgekeurd en uitleggen dat hij bruikbaar is voor onderzoek naar de dekolonisatieoorlog.",
+   "question_image_url": "geschiedenis-vwo-2023-i-moderne-tijd-vraag18.png",
+   "question_text": "Gebruik bron 11. Twee gegevens:\n1 Deze foto wordt door de Nederlandse legervoorlichtingsdienst afgekeurd voor publicatie.\n2 Hugo Wilmar schrijft in 1946 aan zijn ouders: \"Wat de publicatie [van zijn foto's] betreft: deze wordt zoveel mogelijk geblokkeerd en tegengegaan. Schandelijk! Het Nederlandse Volk leeft daarom in de stellige overtuiging dat we hier rustig in ons mooie Indië zitten en toch maar boffen.\" Je gebruikt deze foto voor een onderzoek naar de dekolonisatieoorlog in Indonesië. 3p 18 Licht je keuze toe door:\n− een verklaring te geven voor het besluit van de Nederlandse legervoorlichtingsdienst deze foto voor publicatie af te keuren (gegeven 1), en\n− uit te leggen dat je de foto bruikbaar vindt voor je onderzoek, waarbij je je antwoord ondersteunt met gegeven 2.",
+   "context_block_ids": [
+    "20419c3c-0d9f-4d72-96bd-680139cb5230"
+   ]
+  },
+  {
+   "id": "27e6a948-8666-4a4c-9996-fcdd56079956",
+   "exercise_id": "09de3efe-bfd4-466e-85ea-da59120a5a35",
+   "question_number": 20,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Hereniging en Europese integratie (1961-1991)"
+    }
+   ],
+   "keywords": [
+    "Koude Oorlog",
+    "communisme",
+    "spotprent",
+    "CPN",
+    "televisie",
+    "bronverwijzing"
+   ],
+   "question_summary": "Aangeven welke visie Behrendt met een prent gaf op de toestemming voor zendtijd aan de CPN in 1965.",
+   "question_image_url": "geschiedenis-vwo-2023-i-moderne-tijd-vraag20.png",
+   "question_text": "Gebruik bron 12.\n2p 20 Geef aan welke visie Behrendt op deze toestemming weergeeft, waarbij je je antwoord ondersteunt met een verwijzing naar de bron.",
+   "context_block_ids": [
+    "0e7b50f4-7adb-444d-ba8c-4a5db18ee8de",
+    "d6760de4-f095-487e-b0da-06790034ce70"
+   ]
+  },
+  {
+   "id": "c2921dca-8462-4af1-93bc-607535be34b7",
+   "exercise_id": "09de3efe-bfd4-466e-85ea-da59120a5a35",
+   "question_number": 21,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Hereniging en Europese integratie (1961-1991)"
+    }
+   ],
+   "keywords": [
+    "detente",
+    "jaren zestig",
+    "gezagsverhoudingen",
+    "democratisering",
+    "Koude Oorlog",
+    "CPN"
+   ],
+   "question_summary": "Uitleggen hoe detente en het veranderende denken over autoriteit het geven van zendtijd aan de CPN verklaren.",
+   "question_image_url": "geschiedenis-vwo-2023-i-moderne-tijd-vraag21.png",
+   "question_text": "Volgens sommige historici kan het besluit om de CPN zendtijd te geven (zie vraag 20) worden verklaard vanuit:\n1 de detente.\n2 de verandering in het denken over autoriteit in de jaren 1960. 4p 21 Leg voor beide de redenering van de historici uit.",
+   "context_block_ids": [
+    "0e7b50f4-7adb-444d-ba8c-4a5db18ee8de"
+   ]
+  },
+  {
+   "id": "4b822860-b0fb-4c26-9dcb-02de72212c4d",
+   "exercise_id": "09de3efe-bfd4-466e-85ea-da59120a5a35",
+   "question_number": 25,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichtingsideeën in de Europese politieke cultuur (1813-1900)"
+    },
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Opkomst nationaalsocialisme en Tweede Wereldoorlog (1918-1945)"
+    },
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Hereniging en Europese integratie (1961-1991)"
+    }
+   ],
+   "keywords": [
+    "kenmerkend aspect",
+    "eenwording Duitsland",
+    "Tweede Wereldoorlog",
+    "sociaal-culturele veranderingen",
+    "homo-emancipatie",
+    "Berlijn"
+   ],
+   "question_summary": "Bij drie gebeurtenissen rond de Siegessäule het passende kenmerkende aspect noemen.",
+   "question_image_url": "geschiedenis-vwo-2023-i-moderne-tijd-vraag25.png",
+   "question_text": "Drie gebeurtenissen bij de Siegessäule (de overwinningszuil), een monument in Berlijn:\n1 In september 1873 marcheerden Duitse troepen triomfantelijk langs de Siegessäule, waarin kanonnen waren verwerkt die zij buit hadden gemaakt.\n2 In mei 1945 hesen Poolse troepen na de overwinning in de Slag om Berlijn hun vlag in de top van de Siegessäule.\n3 In juni 1979 werd de Siegessäule opgenomen in de route van een parade waarin aandacht werd gevraagd voor de rechten van homoseksuelen. 3p 25 Noem bij elke gebeurtenis het kenmerkende aspect van die tijd dat hierbij past. Let op: je mag een kenmerkend aspect maar één keer gebruiken.",
+   "context_block_ids": []
+  },
+  {
+   "id": "8d115c2c-5d58-4ee9-aeb5-51659b5bb047",
+   "exercise_id": "3477e1a2-1bdb-41b3-ade6-b90310e39aee",
+   "question_number": 16,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Opkomst nationaalsocialisme en Tweede Wereldoorlog (1918-1945)"
+    },
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Wereldoorlogen — overig (1900-1950)"
+    }
+   ],
+   "keywords": [
+    "dolkstootlegende",
+    "betrouwbaarheid",
+    "Verdrag van Versailles",
+    "Eerste Wereldoorlog",
+    "standplaatsgebondenheid",
+    "Weimarrepubliek"
+   ],
+   "question_summary": "Beoordelen van de betrouwbaarheid van een boek van Eliza von Moltke en uitleggen hoe tegenstanders van de dolkstootlegende het konden gebruiken.",
+   "question_image_url": "geschiedenis-vwo-2023-i-duitsland-in-europa-1918-1991-vraag16.png",
+   "question_text": "Gebruik bron 9. Je concludeert dat:\n1 je twijfelt aan de betrouwbaarheid van deze bron voor een onderzoek naar de oorzaken van het Duitse verlies van de oorlog.\n2 de bron gebruikt kan worden door tegenstanders van de dolkstootlegende. 3p 16 Ondersteun beide conclusies door:\n− aan te geven waardoor je twijfelt aan de betrouwbaarheid van de bron voor het onderzoek, en\n− uit te leggen welke redenering van Eliza von Moltke gebruikt kan worden door de tegenstanders van de dolkstootlegende.",
+   "context_block_ids": [
+    "e3209c54-d793-4e29-b8f1-0ad72800041d"
+   ]
+  },
+  {
+   "id": "08a199b5-896b-4c3c-aa23-da5551e5d479",
+   "exercise_id": "3477e1a2-1bdb-41b3-ade6-b90310e39aee",
+   "question_number": 17,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Opkomst nationaalsocialisme en Tweede Wereldoorlog (1918-1945)"
+    }
+   ],
+   "keywords": [
+    "propaganda herkennen",
+    "totalitair regime",
+    "Sudetenland",
+    "Volksgemeinschaft",
+    "Conferentie van München",
+    "persvrijheid"
+   ],
+   "question_summary": "Uitleggen dat een Duitse persinstructie uit 1938 past bij een totalitaire samenleving en de bevolking voorbereidde op oorlog.",
+   "question_image_url": "geschiedenis-vwo-2023-i-duitsland-in-europa-1918-1991-vraag17.png",
+   "question_text": "Gebruik bron 10. Twee beweringen:\n1 De instructie van de Duitse regering aan de pers past bij een totalitaire samenleving.\n2 Met de instructie wil de Duitse regering de bevolking van Duitsland voorbereiden op een mogelijke oorlog. 4p 17 Leg beide beweringen uit met telkens een andere verwijzing naar de bron.",
+   "context_block_ids": [
+    "abd7ef95-9793-4ec3-9a73-3314a973030a"
+   ]
+  },
+  {
+   "id": "8645e00f-489b-4fb3-8c7b-9ad70a4a5c48",
+   "exercise_id": "3477e1a2-1bdb-41b3-ade6-b90310e39aee",
+   "question_number": 19,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Hereniging en Europese integratie (1961-1991)"
+    }
+   ],
+   "keywords": [
+    "Ostpolitik",
+    "Berlijnse Muur",
+    "Staatssicherheitsdienst",
+    "erkenning DDR",
+    "BRD",
+    "Koude Oorlog"
+   ],
+   "question_summary": "Uitleggen welk doel de DDR had met het Passierscheinabkommen en waarom de BRD het niet als internationaal verdrag zag.",
+   "question_image_url": "geschiedenis-vwo-2023-i-duitsland-in-europa-1918-1991-vraag19.png",
+   "question_text": "In december 1963 werd het Passierscheinabkommen gesloten tussen West- en Oost-Duitse regeringen. Hierdoor kregen West-Berlijners een grenspas waarmee ze tijdens de feestdagen hun familie in Oost-Berlijn konden bezoeken. Twee gegevens:\n1 De grenspassen werden verstrekt door medewerkers van de Staatssicherheitsdienst.\n2 De regering van de DDR beschouwde het Passierscheinabkommen als een internationaal verdrag maar de regering van de BRD deelde deze visie niet. 2p 19 Geef aan:\n− met het eerste gegeven welk binnenlands politiek doel de DDR-regering wilde bereiken, en\n− waardoor de BRD het Passierscheinabkommen niet wilde beschouwen als een internationaal verdrag.",
+   "context_block_ids": []
+  }
+ ]
+}
