@@ -1,0 +1,512 @@
+{
+  "payload": {
+    "subject_name": "Geschiedenis",
+    "level": "VWO",
+    "source": "VWO Geschiedenis 2023-I",
+    "answers": [
+      {
+        "title": "Door de tijd heen",
+        "question_number": 1,
+        "answer_text": "De juiste volgorde is:\n2, 6, 4, 5, 1, 3",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De juiste volgorde is: 2, 6, 4, 5, 1, 3"
+          }
+        ],
+        "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-door-de-tijd-heen-antw1.png"
+        ]
+      },
+      {
+        "title": "Prehistorie en oudheid",
+        "question_number": 2,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Het stadsbestuur liet de mannen afbeelden omdat die door het doden van de alleenheerser een bijdrage hadden geleverd aan het begin van de Atheense democratie (waarvan het bestuur deel uitmaakte)\n• Door te laten offeren bij de standbeelden bleef het doden van de alleenheerser onderwerp van gesprek / in het geheugen, waardoor de inwoners van Athene eraan herinnerd werden dat in Athene geen alleenheersers werden toegestaan / dat de democratie waardevol was (wat het denken over politiek beïnvloedde)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het stadsbestuur liet de mannen afbeelden omdat die door het doden van de alleenheerser een bijdrage hadden geleverd aan het begin van de Atheense democratie (waarvan het bestuur deel uitmaakte)"
+          },
+          {
+            "points": 2,
+            "description": "Door te laten offeren bij de standbeelden bleef het doden van de alleenheerser onderwerp van gesprek / in het geheugen, waardoor de inwoners van Athene eraan herinnerd werden dat in Athene geen alleenheersers werden toegestaan / dat de democratie waardevol was (wat het denken over politiek beïnvloedde)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-prehistorie-en-oudheid-antw2.png"
+        ]
+      },
+      {
+        "title": "Prehistorie en oudheid",
+        "question_number": 3,
+        "answer_text": "Kern van een juist antwoord is:\nMet deze beelden kun je illustreren:\n• 'de klassieke vormentaal van de Grieks-Romeinse cultuur' (omdat de beelden gemaakt zijn in de klassieke stijl / gekopieerd zijn in de Romeinse tijd)\n• 'de groei van het Romeinse imperium waardoor de Grieks-Romeinse cultuur zich in Europa verspreidde' (omdat dit past bij het verspreiden van Romeinse kopieën van Griekse beelden)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "'de klassieke vormentaal van de Grieks-Romeinse cultuur' (omdat de beelden gemaakt zijn in de klassieke stijl / gekopieerd zijn in de Romeinse tijd)"
+          },
+          {
+            "points": 1,
+            "description": "'de groei van het Romeinse imperium waardoor de Grieks-Romeinse cultuur zich in Europa verspreidde' (omdat dit past bij het verspreiden van Romeinse kopieën van Griekse beelden)"
+          }
+        ],
+        "grading_note": "Als in het antwoord wordt ingegaan op 'de ontwikkeling van wetenschappelijk denken en het denken over burgerschap en politiek in de Griekse stadstaat', wordt geen scorepunt toegekend (omdat dit niet past bij de Romeinse kopie van de beelden).",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-prehistorie-en-oudheid-antw3.png"
+        ]
+      },
+      {
+        "title": "De middeleeuwen",
+        "question_number": 4,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Karel suggereert politieke continuïteit met het Romeinse Rijk (door zichzelf Imperator te noemen / als een Romeinse keizer te laten afbeelden)\n• waarmee Karel de boodschap wil overbrengen dat hij (net als de Romeinse keizers) een machtig leider is / voor een sterk rijk zal zorgen\n• Karel wil (met de tekst 'christelijke religie' / de afbeelding van een kerk) bevorderen dat er in zijn rijk één godsdienst wordt aangehangen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Karel suggereert politieke continuïteit met het Romeinse Rijk (door zichzelf Imperator te noemen / als een Romeinse keizer te laten afbeelden)"
+          },
+          {
+            "points": 1,
+            "description": "waarmee Karel de boodschap wil overbrengen dat hij (net als de Romeinse keizers) een machtig leider is / voor een sterk rijk zal zorgen"
+          },
+          {
+            "points": 1,
+            "description": "Karel wil (met de tekst 'christelijke religie' / de afbeelding van een kerk) bevorderen dat er in zijn rijk één godsdienst wordt aangehangen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-de-middeleeuwen-antw4.png"
+        ]
+      },
+      {
+        "title": "De middeleeuwen",
+        "question_number": 5,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• De paus wil bereiken dat de leenmannen van de graaf de kant van de paus kiezen door te beweren dat hij de adel/de leenmannen vrij kan maken van de verplichtingen aan de graaf / de beschikking kan geven over de landerijen van de graaf\n• waarmee de paus gebruikmaakt van '(het ontstaan van) de feodale verhoudingen in het bestuur'\n• De paus vergelijkt de strijd tegen de Albigenzen met de kruistocht tegen de Saracenen, wat past bij 'de expansie van de christelijke wereld naar buiten toe, onder andere in de vorm van de kruistochten'",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De paus wil bereiken dat de leenmannen van de graaf de kant van de paus kiezen door te beweren dat hij de adel/de leenmannen vrij kan maken van de verplichtingen aan de graaf / de beschikking kan geven over de landerijen van de graaf"
+          },
+          {
+            "points": 1,
+            "description": "waarmee de paus gebruikmaakt van '(het ontstaan van) de feodale verhoudingen in het bestuur'"
+          },
+          {
+            "points": 1,
+            "description": "De paus vergelijkt de strijd tegen de Albigenzen met de kruistocht tegen de Saracenen, wat past bij 'de expansie van de christelijke wereld naar buiten toe, onder andere in de vorm van de kruistochten'"
+          }
+        ],
+        "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juiste uitleg bevat over het inzetten van de bestuurlijke verhoudingen, wordt 1 scorepunt toegekend aan het passende kenmerkend aspect uit de vroege middeleeuwen.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-de-middeleeuwen-antw5.png"
+        ]
+      },
+      {
+        "title": "Steden en burgers 1050 - 1700",
+        "question_number": 6,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Uit de bron blijkt dat in Europa verschillende (spot)namen voor begijnen bestaan (waaruit kan worden vastgesteld dat de beweging zich heeft verspreid)\n• Uit de bron is op te maken dat Jakob van Vitry een voorstander is van de beweging van de begijnen / de begijnen binnen de kerk wil houden, waardoor zijn beeld van hun motieven (dat al deze meisjes zeer vroom zijn / hun maagdelijkheid willen behouden) wellicht eenzijdig is / waardoor hij geen oog heeft voor kritiek op begijnen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Uit de bron blijkt dat in Europa verschillende (spot)namen voor begijnen bestaan (waaruit kan worden vastgesteld dat de beweging zich heeft verspreid)"
+          },
+          {
+            "points": 2,
+            "description": "Uit de bron is op te maken dat Jakob van Vitry een voorstander is van de beweging van de begijnen / de begijnen binnen de kerk wil houden, waardoor zijn beeld van hun motieven (dat al deze meisjes zeer vroom zijn / hun maagdelijkheid willen behouden) wellicht eenzijdig is / waardoor hij geen oog heeft voor kritiek op begijnen"
+          }
+        ],
+        "grading_note": "Alleen als in het antwoord op de tweede deelvraag wordt ingegaan op de eenzijdigheid van het beeld dat Jakob van Vitry schetst, worden scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-steden-en-burgers-1050-1700-antw6.png"
+        ]
+      },
+      {
+        "title": "Steden en burgers 1050 - 1700",
+        "question_number": 7,
+        "answer_text": "Kern van een juist antwoord is:\nDe kritiek van de koningin:\n• had een politieke achtergrond omdat de patriciërs met een adellijke levensstijl wilden laten zien dat zij macht hadden in het stadsbestuur, terwijl de koningin vond dat de macht bij de koning/adel moest blijven\n• had een sociale achtergrond omdat de patriciërs zich door hun luxe levensstijl opstelden als gelijken van de adel / hun status wilden verhogen, terwijl de koningin vond dat de adel/zijzelf door hun geboorterecht een hogere status had dan burgers",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "had een politieke achtergrond omdat de patriciërs met een adellijke levensstijl wilden laten zien dat zij macht hadden in het stadsbestuur, terwijl de koningin vond dat de macht bij de koning/adel moest blijven"
+          },
+          {
+            "points": 1,
+            "description": "had een sociale achtergrond omdat de patriciërs zich door hun luxe levensstijl opstelden als gelijken van de adel / hun status wilden verhogen, terwijl de koningin vond dat de adel/zijzelf door hun geboorterecht een hogere status had dan burgers"
+          }
+        ],
+        "grading_note": "Alleen als in het antwoord wordt aangegeven op welke wijze de levensstijl van de patriciërs invloed had op hun politieke/sociale status en een daarbij passende kritiek van de koningin, wordt telkens 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-steden-en-burgers-1050-1700-antw7.png"
+        ]
+      },
+      {
+        "title": "Vroegmoderne tijd",
+        "question_number": 8,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Met dit decreet wil de kerk mensen afschrikken om kritiek te hebben / kritiek ontzenuwen / gelovigen binnen de kerk houden\n• door (een van de volgende):\n  − gelovigen die het recht van de kerk op aflaten openlijk in twijfel trekken in de ban te doen.\n  − te benadrukken dat aflaten door God/Synodes/Concilies zijn aangewezen als een middel dat de kerk mag inzetten.\n• Met dit decreet wil de kerk misstanden binnen de kerk aanpakken / de reden voor kritiek wegnemen\n• door (een van de volgende):\n  − op te roepen misbruiken rondom de aflaten te corrigeren.\n  − vast te leggen dat geldelijk gewin moet worden vermeden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Met dit decreet wil de kerk mensen afschrikken om kritiek te hebben / kritiek ontzenuwen / gelovigen binnen de kerk houden"
+          },
+          {
+            "points": 1,
+            "description": "door (een van de volgende): gelovigen die het recht van de kerk op aflaten openlijk in twijfel trekken in de ban te doen.; te benadrukken dat aflaten door God/Synodes/Concilies zijn aangewezen als een middel dat de kerk mag inzetten."
+          },
+          {
+            "points": 1,
+            "description": "Met dit decreet wil de kerk misstanden binnen de kerk aanpakken / de reden voor kritiek wegnemen"
+          },
+          {
+            "points": 1,
+            "description": "door (een van de volgende): op te roepen misbruiken rondom de aflaten te corrigeren.; vast te leggen dat geldelijk gewin moet worden vermeden."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord een juist voorbeeld bevat van een wijze waarop de kerk de reformatie wil tegengaan, wordt telkens 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.\nAls bij de deelvragen dezelfde verwijzing naar de bron wordt gebruikt, wordt alleen aan de eerste juiste vermelding 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-vroegmoderne-tijd-antw8.png"
+        ]
+      },
+      {
+        "title": "Steden en burgers 1050 - 1700",
+        "question_number": 9,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Met dit pamflet kun je de tegenstelling tussen de Oranjegezinden en staatsgezinden illustreren\n• omdat de burgers (een van de volgende):\n  − hulp vragen aan stadhouder Willem III tegen het stadsbestuur.\n  − dreigen dat in Amsterdam aanhangers van (de staatsgezinde) gebroeders De Witt gedood zullen worden.\n  − partij trekken voor Oranje door te zeggen dat hij groot wordt.\n• De burgers leveren kritiek op de oligarchisering van het Amsterdamse stadsbestuur / op het gebrek aan inspraak van de Amsterdamse burgers (door te eisen dat bestuurders niet meerdere functies tegelijk uitoefenen)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Met dit pamflet kun je de tegenstelling tussen de Oranjegezinden en staatsgezinden illustreren"
+          },
+          {
+            "points": 1,
+            "description": "omdat de burgers (een van de volgende): hulp vragen aan stadhouder Willem III tegen het stadsbestuur.; dreigen dat in Amsterdam aanhangers van (de staatsgezinde) gebroeders De Witt gedood zullen worden.; partij trekken voor Oranje door te zeggen dat hij groot wordt."
+          },
+          {
+            "points": 1,
+            "description": "De burgers leveren kritiek op de oligarchisering van het Amsterdamse stadsbestuur / op het gebrek aan inspraak van de Amsterdamse burgers (door te eisen dat bestuurders niet meerdere functies tegelijk uitoefenen)"
+          }
+        ],
+        "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juiste politieke tegenstelling bevat, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-steden-en-burgers-1050-1700-antw9.png"
+        ]
+      },
+      {
+        "title": "Verlichting 1650 – 1900",
+        "question_number": 10,
+        "answer_text": "Kern van een juist antwoord is:\n• Op de prent is te zien dat de bezoekers in het koffiehuis kranten/pamfletten lezen/bespreken / met elkaar discussiëren, waardoor bezoekers (nieuwe) politieke ideeën kunnen opdoen/delen/verspreiden\n• Koning Karel II wil voorkomen dat kritiek op het koningschap zich onder de bevolking kan verspreiden / dat de publieke opinie zich tegen hem keert",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Op de prent is te zien dat de bezoekers in het koffiehuis kranten/pamfletten lezen/bespreken / met elkaar discussiëren, waardoor bezoekers (nieuwe) politieke ideeën kunnen opdoen/delen/verspreiden"
+          },
+          {
+            "points": 1,
+            "description": "Koning Karel II wil voorkomen dat kritiek op het koningschap zich onder de bevolking kan verspreiden / dat de publieke opinie zich tegen hem keert"
+          }
+        ],
+        "grading_note": "Alleen als het antwoord op de eerste deelvraag een combinatie bevat van een uitleg over het beïnvloeden van het denken over politiek en een verwijzing naar de prent, worden scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-verlichting-1650-1900-antw10.png"
+        ]
+      },
+      {
+        "title": "Verlichting 1650 – 1900",
+        "question_number": 11,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• De beschrijving bekritiseerde de machtsbasis / de onderbouwing van het absolutisme door het droit divin (of een juiste omschrijving hiervan) in twijfel te trekken\n• Het artikel riep mensen op kritisch na te gaan of het geloof in genezing klopte / niet te geloven in een goddelijke kracht, wat paste bij het uitgangspunt van het rationalisme dat het gebruik van het menselijk verstand bijgeloof tegenging / dat logisch redeneren boven onbewezen geloof ging",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De beschrijving bekritiseerde de machtsbasis / de onderbouwing van het absolutisme door het droit divin (of een juiste omschrijving hiervan) in twijfel te trekken"
+          },
+          {
+            "points": 2,
+            "description": "Het artikel riep mensen op kritisch na te gaan of het geloof in genezing klopte / niet te geloven in een goddelijke kracht, wat paste bij het uitgangspunt van het rationalisme dat het gebruik van het menselijk verstand bijgeloof tegenging / dat logisch redeneren boven onbewezen geloof ging"
+          }
+        ],
+        "grading_note": "Als in het antwoord bij de tweede deelvraag alleen wordt ingegaan op empirisme/onderzoek doen, worden geen scorepunten toegekend (omdat de vraag over het rationalisme gaat).",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-verlichting-1650-1900-antw11.png"
+        ]
+      },
+      {
+        "title": "Door de tijd heen",
+        "question_number": 12,
+        "answer_text": "De juiste volgorde is:\n5, 3, 6, 1, 4, 2",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De juiste volgorde is: 5, 3, 6, 1, 4, 2"
+          }
+        ],
+        "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-door-de-tijd-heen-antw12.png"
+        ]
+      },
+      {
+        "title": "Verlichting 1650 – 1900",
+        "question_number": 13,
+        "answer_text": "Voorbeeld van een juist antwoord is:\na. De Europese mogendheden streefden er tijdens de Restauratie / na het Congres van Wenen naar dat monarchieën werden hersteld / naar het creëren van een stabiele politieke orde, zodat het Congres dacht dat de nieuwe staat geaccepteerd zou worden door grote mogendheden als werd gekozen voor een monarchie (en niet voor een republiek)\nb. Het Congres wilde voorkomen dat na de (recente) Belgische afscheiding van het Koninkrijk der Nederlanden het Nederlandse koningshuis toch weer macht zou krijgen in België",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "a. De Europese mogendheden streefden er tijdens de Restauratie / na het Congres van Wenen naar dat monarchieën werden hersteld / naar het creëren van een stabiele politieke orde, zodat het Congres dacht dat de nieuwe staat geaccepteerd zou worden door grote mogendheden als werd gekozen voor een monarchie (en niet voor een republiek)"
+          },
+          {
+            "points": 1,
+            "description": "b. Het Congres wilde voorkomen dat na de (recente) Belgische afscheiding van het Koninkrijk der Nederlanden het Nederlandse koningshuis toch weer macht zou krijgen in België"
+          }
+        ],
+        "grading_note": "Alleen als bij de tweede deelvraag wordt ingegaan op de afscheiding van België, wordt 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-verlichting-1650-1900-antw13.png"
+        ]
+      },
+      {
+        "title": "Moderne tijd",
+        "question_number": 14,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• In de negentiende eeuw was de aanhang van de feministische beweging vooral afkomstig uit de welgestelde burgers/de bourgeoisie\n• Zetkin wilde met Die Gleichheit de vrouwenbeweging een socialistische/communistische koers laten varen / meer aanhang verkrijgen onder arbeiders (waarmee ze de invloed van de bourgeoisie wilde tegengaan)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In de negentiende eeuw was de aanhang van de feministische beweging vooral afkomstig uit de welgestelde burgers/de bourgeoisie"
+          },
+          {
+            "points": 1,
+            "description": "Zetkin wilde met Die Gleichheit de vrouwenbeweging een socialistische/communistische koers laten varen / meer aanhang verkrijgen onder arbeiders (waarmee ze de invloed van de bourgeoisie wilde tegengaan)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-moderne-tijd-antw14.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 15,
+        "answer_text": "Kern van een juist antwoord is:\n• Door buitenlandse mogendheden af te beelden (als verschillende dieren) die in China zitten, geeft Tse de kritiek weer dat de Chinese regering machteloos is tegenover de imperialistische buitenlandse mogendheden / dat de keizer te weinig doet aan de invloed van buitenlandse mogendheden\n• Tse kan deze prent in Hongkong publiceren omdat de keizer daar, door de ongelijke verdragen / doordat het een Britse (kroon)kolonie is, geen zeggenschap heeft (zodat kritiek op de Qing-dynastie niet wordt gecensureerd)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Door buitenlandse mogendheden af te beelden (als verschillende dieren) die in China zitten, geeft Tse de kritiek weer dat de Chinese regering machteloos is tegenover de imperialistische buitenlandse mogendheden / dat de keizer te weinig doet aan de invloed van buitenlandse mogendheden"
+          },
+          {
+            "points": 1,
+            "description": "Tse kan deze prent in Hongkong publiceren omdat de keizer daar, door de ongelijke verdragen / doordat het een Britse (kroon)kolonie is, geen zeggenschap heeft (zodat kritiek op de Qing-dynastie niet wordt gecensureerd)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-china-1842-2001-antw15.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa 1918 - 1991",
+        "question_number": 16,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Voor het onderzoek naar de oorzaken van de Duitse verlies vind je de bron minder betrouwbaar omdat Eliza von Moltke in dit boek de reputatie van haar echtgenoot wil verdedigen / wil ontkrachten dat de Duitse verlies aan Von Moltkes optreden bij de Marne ligt (en daarom misschien de schuld van de nederlaag bij anderen probeert te leggen / de rol van haar echtgenoot kleiner maakt)\n• Eliza von Moltke houdt de legerleiding verantwoordelijk voor het veroorzaken van problemen op het slagveld / beweert dat door de legerleiding de fatale loopgravenoorlog is veroorzaakt, waarmee tegenstanders van de dolkstootlegende in kunnen gaan tegen de bewering dat de voorlopige regering zich overgaf terwijl Duitsland nog had kunnen winnen / dat de legerleiding geen schuld had",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor het onderzoek naar de oorzaken van de Duitse verlies vind je de bron minder betrouwbaar omdat Eliza von Moltke in dit boek de reputatie van haar echtgenoot wil verdedigen / wil ontkrachten dat de Duitse verlies aan Von Moltkes optreden bij de Marne ligt (en daarom misschien de schuld van de nederlaag bij anderen probeert te leggen / de rol van haar echtgenoot kleiner maakt)"
+          },
+          {
+            "points": 2,
+            "description": "Eliza von Moltke houdt de legerleiding verantwoordelijk voor het veroorzaken van problemen op het slagveld / beweert dat door de legerleiding de fatale loopgravenoorlog is veroorzaakt, waarmee tegenstanders van de dolkstootlegende in kunnen gaan tegen de bewering dat de voorlopige regering zich overgaf terwijl Duitsland nog had kunnen winnen / dat de legerleiding geen schuld had"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-duitsland-in-europa-1918-1991-antw16.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa 1918 - 1991",
+        "question_number": 17,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Door precieze instructies te geven over de inhoud/vorm/toon van de berichtgeving in de krant, is er geen vrijheid van meningsuiting meer / beïnvloedt de regering de berichtgeving / kan de regering propaganda voeren (wat past bij een totalitaire samenleving)\n• Door te benadrukken dat de Sudeten-Duitsers slachtoffer zijn (van de Tsjecho-Slowaken) / dat het nauwelijks voorstelbaar is dat Sudeten-Duitsers nog onderdeel blijven van Tsjecho-Slowakije, wil de regering het volk duidelijk maken/er klaar voor maken dat een oorlog mogelijk nodig is om de Sudeten-Duitsers te beschermen / om het Sudetenland bij Duitsland in te lijven",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Door precieze instructies te geven over de inhoud/vorm/toon van de berichtgeving in de krant, is er geen vrijheid van meningsuiting meer / beïnvloedt de regering de berichtgeving / kan de regering propaganda voeren (wat past bij een totalitaire samenleving)"
+          },
+          {
+            "points": 2,
+            "description": "Door te benadrukken dat de Sudeten-Duitsers slachtoffer zijn (van de Tsjecho-Slowaken) / dat het nauwelijks voorstelbaar is dat Sudeten-Duitsers nog onderdeel blijven van Tsjecho-Slowakije, wil de regering het volk duidelijk maken/er klaar voor maken dat een oorlog mogelijk nodig is om de Sudeten-Duitsers te beschermen / om het Sudetenland bij Duitsland in te lijven"
+          }
+        ],
+        "grading_note": "Alleen als het antwoord een combinatie bevat van een uitleg (bij de eerste deelvraag) over dat het artikel past bij de totalitaire samenleving en (bij de tweede deelvraag) dat de instructie voorbereidt op oorlog en een daarbij passende verwijzing naar de bron, worden scorepunten toegekend.\nAls bij de deelvragen dezelfde verwijzing wordt gebruikt, wordt alleen aan de eerste juiste verwijzing 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-duitsland-in-europa-1918-1991-antw17.png"
+        ]
+      },
+      {
+        "title": "Moderne tijd",
+        "question_number": 18,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• De Nederlandse legervoorlichtingsdienst keurt publicatie af omdat door deze foto de mening kan ontstaan dat het Nederlandse leger te hard ingrijpt / dat er een oorlog wordt gevoerd\nof\n• De Nederlandse legervoorlichtingsdienst keurt publicatie af omdat deze foto het thuisfront in Nederland zou kunnen verontrusten (zodat de steun voor het Nederlandse ingrijpen zou kunnen wegvallen)\n• Je vindt de foto bruikbaar omdat je ervan uit gaat dat de foto een juist beeld weergeeft van de dekolonisatieoorlog / laat zien dat het inderdaad gaat om een oorlog, omdat uit de brief van Hugo Wilmar blijkt dat hij (als maker) vindt dat door het tegenhouden van publicatie ten onrechte het beeld ontstaat dat het rustig is in Nederlands-Indië/Indonesië (terwijl dit niet het geval is) / dat de foto een beeld weergeeft dat de Nederlanders zouden moeten zien",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De Nederlandse legervoorlichtingsdienst keurt publicatie af omdat door deze foto de mening kan ontstaan dat het Nederlandse leger te hard ingrijpt / dat er een oorlog wordt gevoerd of De Nederlandse legervoorlichtingsdienst keurt publicatie af omdat deze foto het thuisfront in Nederland zou kunnen verontrusten (zodat de steun voor het Nederlandse ingrijpen zou kunnen wegvallen)"
+          },
+          {
+            "points": 2,
+            "description": "Je vindt de foto bruikbaar omdat je ervan uit gaat dat de foto een juist beeld weergeeft van de dekolonisatieoorlog / laat zien dat het inderdaad gaat om een oorlog, omdat uit de brief van Hugo Wilmar blijkt dat hij (als maker) vindt dat door het tegenhouden van publicatie ten onrechte het beeld ontstaat dat het rustig is in Nederlands-Indië/Indonesië (terwijl dit niet het geval is) / dat de foto een beeld weergeeft dat de Nederlanders zouden moeten zien"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-moderne-tijd-antw18.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa 1918 - 1991",
+        "question_number": 19,
+        "answer_text": "Kern van een juist antwoord is:\n• Door het uitgeven van de grenspassen door medewerkers van de Staatssicherheitsdienst, versterkte de regering van de DDR de controle over de bevolking / kon de regering het contact met westerse ideeën in de gaten houden (wat een binnenlands politiek doel was)\n• De regering van de BRD wilde het Passierscheinabkommen niet erkennen als internationaal verdrag omdat dit zou betekenen dat de DDR als (gelijkwaardige) staat erkend werd (terwijl de regering van de BRD dit nog ontkende)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door het uitgeven van de grenspassen door medewerkers van de Staatssicherheitsdienst, versterkte de regering van de DDR de controle over de bevolking / kon de regering het contact met westerse ideeën in de gaten houden (wat een binnenlands politiek doel was)"
+          },
+          {
+            "points": 1,
+            "description": "De regering van de BRD wilde het Passierscheinabkommen niet erkennen als internationaal verdrag omdat dit zou betekenen dat de DDR als (gelijkwaardige) staat erkend werd (terwijl de regering van de BRD dit nog ontkende)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-duitsland-in-europa-1918-1991-antw19.png"
+        ]
+      },
+      {
+        "title": "Moderne tijd",
+        "question_number": 20,
+        "answer_text": "Kern van een juist antwoord is:\n• Behrendt geeft de visie weer dat door de toestemming de CPN de mogelijkheid krijgt om onwaarheden/sprookjes te verspreiden / om de Nederlandse bevolking te indoctrineren met communistische boodschappen\n• door (een van de volgende):\n  − de CPN-voorzitter Paul de Groot, Paulus de Moskou-bouter te noemen.\n  − het laten voorlezen uit het sprookjesboek van de 'Marx-Brothers' Stalin en Mao.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Behrendt geeft de visie weer dat door de toestemming de CPN de mogelijkheid krijgt om onwaarheden/sprookjes te verspreiden / om de Nederlandse bevolking te indoctrineren met communistische boodschappen"
+          },
+          {
+            "points": 1,
+            "description": "door (een van de volgende): de CPN-voorzitter Paul de Groot, Paulus de Moskou-bouter te noemen.; het laten voorlezen uit het sprookjesboek van de 'Marx-Brothers' Stalin en Mao."
+          }
+        ],
+        "grading_note": "Alleen als in het antwoord een juiste visie van Behrendt over het besluit wordt genoemd, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-moderne-tijd-antw20.png"
+        ]
+      },
+      {
+        "title": "Moderne tijd",
+        "question_number": 21,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nVolgens de historici besloot de regering de CPN zendtijd te geven omdat:\n• (tijdens de detente) het wantrouwen ten opzichte van communistische ideeën / de angst voor een communistische overname verminderden, zodat het uitzenden door de CPN niet langer als gevaarlijk werd beschouwd\n• (in de jaren 1960) mensen zich steeds meer gingen afzetten tegen autoriteiten / andere ideeën kregen over de reikwijdte van het gezag van een overheid, waardoor het verbieden van zendtijd voor politieke partijen door de overheid minder werd geaccepteerd / op verzet stuitte",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "(tijdens de detente) het wantrouwen ten opzichte van communistische ideeën / de angst voor een communistische overname verminderden, zodat het uitzenden door de CPN niet langer als gevaarlijk werd beschouwd"
+          },
+          {
+            "points": 2,
+            "description": "(in de jaren 1960) mensen zich steeds meer gingen afzetten tegen autoriteiten / andere ideeën kregen over de reikwijdte van het gezag van een overheid, waardoor het verbieden van zendtijd voor politieke partijen door de overheid minder werd geaccepteerd / op verzet stuitte"
+          }
+        ],
+        "grading_note": "Alleen als het antwoord telkens een combinatie bevat van een juiste uitleg van (bij de eerste deelvraag) de invloed van de detente en (bij de tweede deelvraag) de verandering in denken over autoriteit en een verklaring voor het besluit de CPN zendtijd te geven, worden telkens scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-moderne-tijd-antw21.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 22,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nDe aandachtspunten passen bij (twee van de volgende):\n• het loslaten van oude cultuur/gewoontes / het anti-traditionele karakter van de Culturele Revolutie\n• omdat zij (een van de volgende):\n  − geen huisdieren mogen houden omdat dit bourgeois zou zijn.\n  − geen feodale sieraden mogen dragen.\n• het creëren van een persoonscultus rondom Mao\n• omdat hun school wordt vernoemd naar Mao\n• het xenofobe karakter van de Culturele Revolutie\n• omdat zij hun westerse kleding/haarstijl moeten aanpassen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "juist kenmerk van de Culturele Revolutie (eerste combinatie; twee van de volgende: het loslaten van oude cultuur/gewoontes / het anti-traditionele karakter van de Culturele Revolutie; het creëren van een persoonscultus rondom Mao; het xenofobe karakter van de Culturele Revolutie)"
+          },
+          {
+            "points": 1,
+            "description": "daarbij passend aandachtspunt (eerste combinatie)"
+          },
+          {
+            "points": 1,
+            "description": "juist kenmerk van de Culturele Revolutie (tweede combinatie)"
+          },
+          {
+            "points": 1,
+            "description": "daarbij passend aandachtspunt (tweede combinatie)"
+          }
+        ],
+        "grading_note": "Alleen als een juist kenmerk van de Culturele Revolutie wordt genoemd, wordt telkens 1 scorepunt toegekend aan een daarbij passend aandachtspunt.\nAls een aandachtspunt twee keer wordt gebruikt, wordt alleen bij het eerste gebruik 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-china-1842-2001-antw22.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 23,
+        "answer_text": "Kern van een juist antwoord is:\n• Met het inrichten van de fototentoonstelling wil China laten zien dat China een eigen politieke koers aanhoudt / propaganderen dat China de ideologische leider is binnen het communistische blok / aangeven dat de schuld van de breuk met China bij de Sovjet-Unie ligt\n• door (een van de volgende):\n  − teksten op te nemen waaruit moet blijken dat de Sovjet-Unie onschuldige burgers mishandelt.\n  − te verwijzen naar de ideologie van Mao.\n  − de Sovjet-Unie revionistisch/fascistisch te noemen.\n• De regering van de DDR brengt de boodschap over dat zij de positie van de Sovjet-Unie als leider van het communistische blok erkent / dat kritiek op de Sovjet-Unie niet wordt getolereerd",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Met het inrichten van de fototentoonstelling wil China laten zien dat China een eigen politieke koers aanhoudt / propaganderen dat China de ideologische leider is binnen het communistische blok / aangeven dat de schuld van de breuk met China bij de Sovjet-Unie ligt"
+          },
+          {
+            "points": 1,
+            "description": "door (een van de volgende): teksten op te nemen waaruit moet blijken dat de Sovjet-Unie onschuldige burgers mishandelt.; te verwijzen naar de ideologie van Mao.; de Sovjet-Unie revionistisch/fascistisch te noemen."
+          },
+          {
+            "points": 1,
+            "description": "De regering van de DDR brengt de boodschap over dat zij de positie van de Sovjet-Unie als leider van het communistische blok erkent / dat kritiek op de Sovjet-Unie niet wordt getolereerd"
+          }
+        ],
+        "grading_note": "Alleen als het antwoord op de eerste deelvraag een juiste ideologische boodschap bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-china-1842-2001-antw23.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 24,
+        "answer_text": "Kern van een juist antwoord is:\n• Jiang Zemin legde de nadruk op economische ontwikkeling / de invoering van een economisch stelsel met kapitalistische elementen\n• Jiang Zemin onderbouwde het behouden van de machtspositie van de communistische partij binnen China / het weigeren van democratisering, omdat volgens Zemin te veel ontwikkelingen / het invoeren van meer politieke vrijheid, de politieke stabiliteit in gevaar zou brengen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Jiang Zemin legde de nadruk op economische ontwikkeling / de invoering van een economisch stelsel met kapitalistische elementen"
+          },
+          {
+            "points": 2,
+            "description": "Jiang Zemin onderbouwde het behouden van de machtspositie van de communistische partij binnen China / het weigeren van democratisering, omdat volgens Zemin te veel ontwikkelingen / het invoeren van meer politieke vrijheid, de politieke stabiliteit in gevaar zou brengen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-china-1842-2001-antw24.png"
+        ]
+      },
+      {
+        "title": "Moderne tijd",
+        "question_number": 25,
+        "answer_text": "Kern van een juist antwoord is:\nbij 1:\n• (Het triomfantelijk marcheren langs de overwinningszuil past bij) 'de opkomst van de politiek-maatschappelijke stroming nationalisme'\nbij 2:\n• (Het hijsen van de Poolse vlag na hun overwinning in Berlijn past bij) 'het voeren van twee wereldoorlogen'\nbij 3:\n• (Een parade die aandacht vraagt voor rechten voor homoseksuelen past bij) '(de toenemende westerse welvaart die vanaf de jaren zestig van de twintigste eeuw aanleiding gaf tot) ingrijpende sociaal-culturele veranderingsprocessen' / 'de ontwikkeling van pluriforme en multiculturele samenlevingen'",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij 1: (Het triomfantelijk marcheren langs de overwinningszuil past bij) 'de opkomst van de politiek-maatschappelijke stroming nationalisme'"
+          },
+          {
+            "points": 1,
+            "description": "bij 2: (Het hijsen van de Poolse vlag na hun overwinning in Berlijn past bij) 'het voeren van twee wereldoorlogen'"
+          },
+          {
+            "points": 1,
+            "description": "bij 3: (Een parade die aandacht vraagt voor rechten voor homoseksuelen past bij) '(de toenemende westerse welvaart die vanaf de jaren zestig van de twintigste eeuw aanleiding gaf tot) ingrijpende sociaal-culturele veranderingsprocessen' / 'de ontwikkeling van pluriforme en multiculturele samenlevingen'"
+          }
+        ],
+        "grading_note": "Als bij de tweede deelvraag 'de verdeling van de wereld in twee ideologische blokken in de greep van een wapenwedloop en de daaruit voortvloeiende dreiging van een atoomoorlog' wordt genoemd, wordt geen scorepunt toegekend (omdat Poolse troepen in Berlijn in mei 1945 hieraan niet bijdroegen).",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-i-moderne-tijd-antw25.png"
+        ]
+      }
+    ]
+  }
+}
