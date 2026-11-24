@@ -1,0 +1,714 @@
+{
+ "exercises": [
+  {
+   "id": "dad93e61-e45a-4e23-8046-fa6fc935df9f",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Door de tijd heen",
+   "source": "VWO Geschiedenis 2026-II"
+  },
+  {
+   "id": "010cde48-d5e9-4fa8-83fe-eb93e7b335bf",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Prehistorie en oudheid",
+   "source": "VWO Geschiedenis 2026-II"
+  },
+  {
+   "id": "e1dee198-d5e2-4110-a0b4-b6d0100f93c8",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "De middeleeuwen",
+   "source": "VWO Geschiedenis 2026-II"
+  },
+  {
+   "id": "7f8f21e5-595a-46bd-aedf-b0695fe364f2",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Steden en burgers 1050 - 1700",
+   "source": "VWO Geschiedenis 2026-II"
+  },
+  {
+   "id": "5d1c2187-c947-42c9-8bd3-346052245034",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Verlichting 1650 - 1900",
+   "source": "VWO Geschiedenis 2026-II"
+  },
+  {
+   "id": "8db8eb1f-ee7e-4a0f-98b3-fc24f31fea1f",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "China 1842 - 2001",
+   "source": "VWO Geschiedenis 2026-II"
+  },
+  {
+   "id": "efdc7596-9ddd-4dd4-a129-aa0e0efd59d9",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Duitsland in Europa 1918 - 1991",
+   "source": "VWO Geschiedenis 2026-II"
+  },
+  {
+   "id": "763fce25-73d1-4387-b577-602a864b692a",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Moderne tijd",
+   "source": "VWO Geschiedenis 2026-II"
+  }
+ ],
+ "context_blocks": [
+  {
+   "id": "2b8654a1-4f44-4586-a551-e6a80412bdd3",
+   "exercise_id": "010cde48-d5e9-4fa8-83fe-eb93e7b335bf",
+   "label": "bron 1: de consul Gordianus in de Senaat na de moord op keizer Aurelianus (275)",
+   "image_url": "geschiedenis-vwo-2026-ii-prehistorie-en-oudheid-bron1.png",
+   "text_content": "bron 1 In 275 na Christus wordt de Romeinse keizer Aurelianus vermoord. In de Romeinse boekenreeks Historia Augusta staat dat in de Senaat1) de Romeinse consul2) Velius Cornificius Gordianus zegt:\nWe zullen aan u, heren senatoren voorleggen wat we al vaak hebben voorgelegd: we moeten een keizer kiezen1), want het is niet juist dat het leger zonder opperbevelhebber blijft. (…) Dus doe iets, heren senatoren, benoem een keizer. Dan zal het leger de man die u kiest aanvaarden, of als het leger die man afwijst, een ander kiezen.\nnoot 1 De Senaat bestaat uit senatoren die de keizer van advies voorzien. Officieel kiest de Senaat de nieuwe keizer. noot 2 Elk jaar worden twee senatoren gekozen tot consul, een hoge bestuurlijke functie.",
+   "block_type": "inline"
+  },
+  {
+   "id": "06f0688a-b7ce-484a-a294-837af7020737",
+   "exercise_id": "e1dee198-d5e2-4110-a0b4-b6d0100f93c8",
+   "label": "bron 2: oorkonde van de Engelse koning Ethelred II over het doden van de Denen (1004)",
+   "image_url": "geschiedenis-vwo-2026-ii-de-middeleeuwen-bron2.png",
+   "text_content": "bron 2 Tussen 997 en 1001 wordt Engeland elk jaar geteisterd door plunderaars uit Scandinavië. De Engelse koning Ethelred II geeft de opdracht om alle Denen1) die in zijn rijk wonen te doden. In 1004 laat de koning hierover opschrijven:\nHet is aan iedereen, die zich in dit land ophoudt, bekend dat een besluit is genomen door mij, in overeenstemming met de raad van mijn leidinggevende mannen en bestuurders, en dat dit is verspreid. Namelijk dat alle Denen die aan dit eiland zijn ontsproten, zoals onkruid in een tarweveld, moesten worden vernietigd door middel van zeer rechtvaardige uitroeiing, en dat dit besluit moest worden uitgevoerd (…). De Denen die in de hiervoor genoemde stad [Oxford] woonden, probeerden aan hun dood te ontsnappen. Zij gingen het heiligdom van Christus2) binnen, nadat ze met geweld de deuren en grendels hadden vernield, en besloten om daar hun toevlucht en verdediging te zoeken tegen de mensen van de stad en de voorsteden. En toen het volk probeerde om de Denen te verdrijven, zette het volk noodgedwongen de planken in brand en verbrandden zij deze kerk met alle ornamenten en boeken. Daarna werd de kerk met de hulp van God, door mij opnieuw opgebouwd.\nnoot 1 Hiermee bedoelt Ethelred II mensen uit Scandinavië. noot 2 De Denen vluchten de grootste kerk in Oxford binnen.",
+   "block_type": "inline"
+  },
+  {
+   "id": "48bb011b-eca4-4631-a95b-5560ea9c5710",
+   "exercise_id": "7f8f21e5-595a-46bd-aedf-b0695fe364f2",
+   "label": "bron 3: pamflet van Willem van Oranje over Alva en Filips II (1568)",
+   "image_url": "geschiedenis-vwo-2026-ii-steden-en-burgers-1050-1700-bron3.png",
+   "text_content": "bron 3 In 1568 laat Willem van Oranje in de Nederlanden een pamflet verspreiden waarin staat:\nDe onchristelijke en onmenselijke daden van de hertog van Alva, zijn aanhang en zijn bloeddorstige troepen worden gepleegd in strijd met de plechtige en verzegelde overeenkomst (…) tussen Zijne Majesteit de Koning1) en de Nederlanden; ja zelfs tegen de gelofte en eed van Zijne Majesteit. Daarom is het meer dan duidelijk dat Alva met deze gruwelijke tirannie niet alleen misbruik maakt van het bevel dat hij van Zijne Majesteit heeft ontvangen (…) maar ook dat hij die op eigen initiatief uit eigenbelang en uit bloeddorstigheid heeft uitgeoefend. Wat zeker tegen de zin van Zijne Majesteit is, die bekend staat als een goede en milde koning.\nnoot 1 Willem van Oranje bedoelt Filips II.",
+   "block_type": "inline"
+  },
+  {
+   "id": "c5e70715-b9b7-4c84-b3b1-b7c1fa83f029",
+   "exercise_id": "7f8f21e5-595a-46bd-aedf-b0695fe364f2",
+   "label": "bron 4: dagboek van een Duitse huursoldaat in het Heilige Roomse Rijk (1635)",
+   "image_url": "geschiedenis-vwo-2026-ii-steden-en-burgers-1050-1700-bron4.png",
+   "text_content": "bron 4 Een Duitse huursoldaat houdt tussen 1625 en 1649 een dagboek bij van zijn leven in het Heilige Roomse Rijk. In 1635 schrijft hij:\nWe trokken naar Reichenweier in de Elzas. We hebben het stadje belegerd en beschoten. Op 3 juli gaven ze zich over. (…) Vervolgens trokken we naar Gemar, dat we ook veroverden. Toen gingen we terug naar Colmar. Daar waren we tijdens de oogsttijd in het veld gelegerd. We hebben de inwoners van Colmar het koren van de akkers rondom de stad ontnomen door het te maaien, met onze paarden te vertrappen en te verbranden. Vanuit de stad schoot men hevig met kanonnen op ons.",
+   "block_type": "inline"
+  },
+  {
+   "id": "1c6e4b25-9545-48ba-a1ff-624779ff06b7",
+   "exercise_id": "5d1c2187-c947-42c9-8bd3-346052245034",
+   "label": "bron 5: prent van Michael Burghers over koning Karel II (1684)",
+   "image_url": "geschiedenis-vwo-2026-ii-verlichting-1650-1900-bron5.png",
+   "text_content": "bron 5 In 1684 maakt Michael Burghers deze prent:\n[Afbeelding] Gravure: Karel II zit op een troon onder een kroon die uit de hemel neerdaalt, met een banderol met Latijnse tekst; om hem heen staan edelen en rechters, Vrouwe Justitia en het wapen van Engeland (aangeduid met lijnen en bijschriften: kroon, Engelse koning Karel II, edelen en rechters, Vrouwe Justitia, wapen van Engeland).\nToelichting: Boven Karel II staat vanuit de hemel de tekst: \"Door Mij regeren koningen\". Rechtsonder staat de tekst: \"Voor hemzelf en voor zijn rechtmatige opvolgers.\"",
+   "block_type": "inline"
+  },
+  {
+   "id": "9c0c0f65-50db-4a85-89d8-b976080cbeab",
+   "exercise_id": "5d1c2187-c947-42c9-8bd3-346052245034",
+   "label": "bron 6: pamflet van Olympe de Gouges over slaafgemaakten (1788)",
+   "image_url": "geschiedenis-vwo-2026-ii-verlichting-1650-1900-bron6.png",
+   "text_content": "bron 6 In 1788 schrijft Olympe de Gouges in een pamflet over slaafgemaakten:\nAlmachtige God! En de natuur huivert niet! Als ze1) dieren zijn, zijn wij dan niet net zo? Hoe verschillen witte mensen van hen? Het is slechts kleur. (…) De kleur van de mensheid is gevarieerd, net als alle dieren die de natuur heeft voortgebracht, evenals de planten en mineralen. Waarom concurreert de dag niet met de nacht of de zon niet met de maan en de sterren van het firmament? Alles is gevarieerd, dat is de schoonheid van de natuur.\nnoot 1 Olympe de Gouges bedoelt zwarte slaafgemaakten.",
+   "block_type": "inline"
+  },
+  {
+   "id": "cdcfd2b3-b026-4157-a673-63070a2100da",
+   "exercise_id": "5d1c2187-c947-42c9-8bd3-346052245034",
+   "label": "bron 7: brief van Von Metternich over de Belgische afscheiding (1830)",
+   "image_url": "geschiedenis-vwo-2026-ii-verlichting-1650-1900-bron7.png",
+   "text_content": "bron 7 In 1830 schrijft de Oostenrijkse minister Klemens von Metternich aan de Oostenrijkse ambassadeur in Den Haag:\nHet is bovendien te hopen dat het verlichte deel van de Belgische natie, rekening houdend met de voor- en nadelen van een scheiding, zelf de [Nederlandse] regering zal helpen bij haar pogingen om de afscheiding zo min mogelijk schadelijk te maken voor de soevereiniteit. En om deze te beperken tot regelingen met betrekking tot het interne bestuur, de vrijheid van eredienst1) en misschien tot een nauwkeurigere verdeling van de nationale vertegenwoordiging. Het is te verwachten dat elke concessie die buiten deze zaken om wordt gedaan, de vijandigheid tussen de verschillende volken van het koninkrijk niet zal wegnemen, maar juist zal leiden tot een totale scheiding – een gebeurtenis waar Frankrijk met ongeduld naar uitkijkt.\nnoot 1 Von Metternich bedoelt vrijheid van godsdienst.",
+   "block_type": "inline"
+  },
+  {
+   "id": "fcdf1d9e-e030-488b-b54a-8de0b1636120",
+   "exercise_id": "5d1c2187-c947-42c9-8bd3-346052245034",
+   "label": "bron 8: prent 'Vanuit de diepte' van J.A. Mitchell in Appeal to Reason (1906)",
+   "image_url": "geschiedenis-vwo-2026-ii-verlichting-1650-1900-bron8.png",
+   "text_content": "bron 8 In 1906 verschijnt deze prent van J.A. Mitchell in het Amerikaanse weekblad Appeal to Reason. De titel is \"Vanuit de diepte\":\n[Afbeelding] Zwart-wittekening: bovenaan een feestzaal met goedgeklede dansende rijke mensen; door een gat in de vloer steekt een gebalde vuist omhoog. Onder de vloer zitten gebogen, uitgeputte arbeiders in het donker die de vloer dragen. Onderschrift: \"From the Depths.\"",
+   "block_type": "inline"
+  },
+  {
+   "id": "758ba66b-f203-4ace-8107-e0ea1e1a384d",
+   "exercise_id": "8db8eb1f-ee7e-4a0f-98b3-fc24f31fea1f",
+   "label": "bron 13: porseleinen beeld uit de Culturele Revolutie (1967)",
+   "image_url": "geschiedenis-vwo-2026-ii-china-1842-2001-bron13.png",
+   "text_content": "bron 13 Porseleinen beeld, gemaakt in China in 1967:\n[Afbeelding] Zwart-witfoto van een porseleinen beeld: vooraan twee geknielde figuren (een man en een vrouw) met een bord met Chinese tekst om hun nek; daarachter twee staande figuren in uniform met pet, de Rode gardisten, van wie er een een boekje omhoog houdt.\nToelichting: De achterste figuren zijn Rode gardisten. Op het bord van de man staat 'weg met de kapitalistische gebruikers'. Op het bord van de vrouw staat 'reactionaire academische autoriteit'.",
+   "block_type": "inline"
+  },
+  {
+   "id": "71067ef7-2403-4e6a-93b8-bf9699bfe6e9",
+   "exercise_id": "efdc7596-9ddd-4dd4-a129-aa0e0efd59d9",
+   "label": "bron 9: dagboek van Oskar Münsterberg over de verkiezingen van januari 1919",
+   "image_url": "geschiedenis-vwo-2026-ii-duitsland-in-europa-1918-1991-bron9.png",
+   "text_content": "bron 9 In januari 1919 schrijft de Duitse ondernemer Oskar Münsterberg in zijn dagboek:\nRijk en arm, oud en jong, mannen en vrouwen stonden in lange rijen, vaak urenlang, om de nieuwe plicht te vervullen: het kiezen van de eerste nationale vergadering van de nieuwe republiek. Alles verliep rustig en zakelijk. De straten leken wit, vol met folders en de muren van de huizen waren kleurrijk vol met opgeplakte posters. Verder was er geen luide, opdringerige, vervelende reclame zoals in Amerika en Engeland. Alles is zakelijk en ordelijk. Iedereen beschouwt de verkiezingen als zijn plicht en gaat op tijd naar het gewenste stembureau. Hoe snel drong het democratische idee door tot alle klassen en bereikte de democratische stemplicht alle kringen. Ik heb zelf voor het eerst in mijn leven gestemd. Tot nu toe, onder de oude regering, wist ik dat mijn stem toch geen invloed had. De Rijksdag was een podium voor sprekers maar zonder macht.",
+   "block_type": "inline"
+  },
+  {
+   "id": "12a9effb-bbf0-474e-8275-a63efd5f2574",
+   "exercise_id": "efdc7596-9ddd-4dd4-a129-aa0e0efd59d9",
+   "label": "bron 11: toespraak van de nationaalsocialist Franz Hofer (december 1944)",
+   "image_url": "geschiedenis-vwo-2026-ii-duitsland-in-europa-1918-1991-bron11.png",
+   "text_content": "bron 11 Eind december 1944 publiceert het Bozner Tagblatt de toespraak van Franz Hofer, een belangrijke nationaalsocialistische leider. Hij zegt:\nDe vijand probeerde tevergeefs de grenzen van het Rijk te overschrijden en Duitsland onderuit te halen. Onze vijanden stuitten op een verdediging die gedreven werd door een fanatieke strijdlust die de vijand niet alleen onverbiddelijk tegenhield, maar hen ook de zwaarste verliezen toebracht. We kregen de bevestiging dat, daar waar een paar vierkante kilometer Duits grondgebied tijdelijk in handen van de vijand viel, deze vijanden geen moment aarzelen om hun blinde haat in de meest brute vorm te uiten. Ze hebben maar één doel: de totale vernietiging van het Duitse volk. (…) We weten dat er in deze historische strijd om te overleven maar één ding is: vechten en nog meer vechten tot de dood erop volgt. Het woord \"overgave\" is uit ons vocabulaire geschrapt. Voor een stam met zo'n trotse militaire traditie als de onze is vechten geen gebod, maar een vanzelfsprekendheid.",
+   "block_type": "inline"
+  }
+ ],
+ "questions": [
+  {
+   "id": "b4526caf-8040-477f-b268-19f60349edef",
+   "exercise_id": "dad93e61-e45a-4e23-8046-fa6fc935df9f",
+   "question_number": 1,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij en centralisatie (1302-1602)"
+    },
+    {
+     "domain": "Verlichting",
+     "subdomain": "Democratische revoluties in de VS en Frankrijk (1776-1813)"
+    },
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Opkomst van de stedelijke burgerij (1050-1302)"
+    }
+   ],
+   "keywords": [
+    "chronologie",
+    "Hanze",
+    "Beeldenstorm",
+    "Karel V",
+    "Opstand",
+    "Napoleon"
+   ],
+   "question_summary": "Chronologisch ordenen van zes gebeurtenissen uit de geschiedenis van de stad Brugge.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-door-de-tijd-heen-vraag1.png",
+   "question_text": "De volgende gebeurtenissen in Brugge staan in willekeurige volgorde:\n1 Dankzij de burgerwacht en ingekwartierde soldaten bleef Brugge als een van de weinige steden gespaard tijdens de Beeldenstorm.\n2 Door de bouw van de haven in Damme verbeterde de toegang van Brugge tot de Noordzee, wat leidde tot een betere aansluiting op de handel met de Hanzesteden.\n3 Het Hotel du Commerce liet voor de aangekondigde komst van Napoleon een eretrap bouwen.\n4 Kort voor de val van de jakobijnen veroverden Franse revolutionairen Vlaanderen, waarna ze in Brugge de Sint-Donaaskathedraal sloopten.\n5 Stadhouder Maurits van Nassau zag af van zijn voornemen om tijdens de Opstand Brugge te veroveren op de Spaanse troepen.\n6 Tijdens de Blijde Intocht van Karel V in Brugge werd hij met veel pracht en praal onthaald en toegejuicht door de bevolking. 2p 1 Zet deze gebeurtenissen in de juiste chronologische volgorde, van vroeger naar later. Noteer alleen de nummers.",
+   "context_block_ids": []
+  },
+  {
+   "id": "a0b869e0-10f1-4548-a062-9ffbb6b3a9bc",
+   "exercise_id": "dad93e61-e45a-4e23-8046-fa6fc935df9f",
+   "question_number": 17,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Ontstaan van de Volksrepubliek (1912-1949)"
+    },
+    {
+     "domain": "China",
+     "subdomain": "Ontwikkeling tot grootmacht (1949-2001)"
+    }
+   ],
+   "keywords": [
+    "chronologie",
+    "Zhou Enlai",
+    "4 Meibeweging",
+    "Noordelijke Veldtocht",
+    "toenadering tot de VS",
+    "Deng Xiaoping"
+   ],
+   "question_summary": "Chronologisch ordenen van zes gebeurtenissen uit het leven van de Chinese communistische leider Zhou Enlai.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-door-de-tijd-heen-vraag17.png",
+   "question_text": "De volgende gebeurtenissen over de Chinese communistische leider Zhou Enlai (1898-1976) staan in willekeurige volgorde:\n1 De economische hervormingen onder Deng Xiaoping waren geïnspireerd op ideeën van Zhou Enlai.\n2 Kort na de Noordelijke Veldtocht kreeg Zhou Enlai een positie in de leiding van de Chinese Communistische Partij (CCP).\n3 Nadat er een einde was gekomen aan de burgeroorlog in China werd Zhou Enlai benoemd tot premier van de Republiek.\n4 Tijdens de periode van toenadering tussen China en de Verenigde Staten zette Zhou Enlai zich in voor een ontmoeting tussen Mao en de Amerikaanse president Nixon.\n5 Vanwege zijn betrokkenheid bij de demonstraties van de\n4 Meibeweging werd Zhou Enlai veroordeeld tot een paar maanden gevangenisstraf.\n6 Zhou Enlai overtuigde Chiang Kaishek om samen te werken in de strijd tegen Japan. 2p 17 Zet de gebeurtenissen in de juiste volgorde van vroeger naar later, noteer alleen de nummers.",
+   "context_block_ids": []
+  },
+  {
+   "id": "a87ea1f0-c887-4c92-8cc1-caa1d671f0cd",
+   "exercise_id": "010cde48-d5e9-4fa8-83fe-eb93e7b335bf",
+   "question_number": 2,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Grieken en Romeinen (3000 v.Chr.-500 n.Chr.)"
+    }
+   ],
+   "keywords": [
+    "Romeinse rijk",
+    "jodendom",
+    "keizercultus",
+    "monotheïsme",
+    "kenmerkend aspect",
+    "Caligula"
+   ],
+   "question_summary": "Met kenmerkende aspecten verklaren waarom Caligula een standbeeld van zichzelf in een joodse tempel wilde plaatsen en waarom de gouverneur rellen verwachtte.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-prehistorie-en-oudheid-vraag2.png",
+   "question_text": "In het jaar 40 gaf de Romeinse keizer Caligula het bevel om een standbeeld van zichzelf te plaatsen in een joodse tempel in Jeruzalem. De Romeinse gouverneur van Jeruzalem voerde dit bevel niet uit omdat hij verwachtte dat er rellen zouden uitbreken onder de joodse bevolking. 2p 2 Verklaar telkens met behulp van een verschillend kenmerkend aspect:\n− wat Caligula wilde bereiken met het laten plaatsen van een standbeeld van zichzelf, en\n− de verwachting van de gouverneur dat er rellen zouden uitbreken onder de joodse bevolking. Let op: je moet na het opschrijven van een kenmerkend aspect een uitleg geven.",
+   "context_block_ids": []
+  },
+  {
+   "id": "d6f60b9e-30ac-4c99-87b8-777ad5811f57",
+   "exercise_id": "010cde48-d5e9-4fa8-83fe-eb93e7b335bf",
+   "question_number": 3,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Grieken en Romeinen (3000 v.Chr.-500 n.Chr.)"
+    }
+   ],
+   "keywords": [
+    "Romeinse rijk",
+    "Senaat",
+    "politieke crisis",
+    "kenmerkend aspect",
+    "Germanen",
+    "derde eeuw"
+   ],
+   "question_summary": "Met een Romeinse bron en een kenmerkend aspect onderbouwen dat de derde eeuw een tijd van politieke crisis in het Romeinse Rijk was.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-prehistorie-en-oudheid-vraag3.png",
+   "question_text": "Gebruik bron 1. De derde eeuw wordt door historici beschouwd als een tijd van politieke crisis in het Romeinse Rijk. 2p 3 Geef een argument voor deze visie door:\n− met de bron aan te tonen dat de positie van de Senaat bijdraagt aan de politieke crisis in het Romeinse Rijk, en\n− met een kenmerkend aspect te verklaren waardoor Gordianus vindt dat er snel een keizer moet komen. Let op: je moet na het opschrijven van het kenmerkende aspect een uitleg geven.",
+   "context_block_ids": [
+    "2b8654a1-4f44-4586-a551-e6a80412bdd3"
+   ]
+  },
+  {
+   "id": "ec1c38ae-bc37-4fef-967b-b3f4cdcaa98d",
+   "exercise_id": "e1dee198-d5e2-4110-a0b4-b6d0100f93c8",
+   "question_number": 4,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Monniken en ridders (500-1000)"
+    }
+   ],
+   "keywords": [
+    "feodaliteit",
+    "kerstening",
+    "Vikingen",
+    "koningsmacht",
+    "politiek motief",
+    "kerk en wereldlijke macht"
+   ],
+   "question_summary": "Beredeneren hoe een Engelse koning zijn positie wilde versterken met het doden van de Denen en waarom hij de herbouw van een kerk benadrukt.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-de-middeleeuwen-vraag4.png",
+   "question_text": "Gebruik bron 2. Volgens historici wil Ethelred II in 1002 met zijn opdracht de Denen te doden zijn positie als koning versterken en vervolgens in 1004 kritiek op de gebeurtenis in Oxford weerleggen. 3p 4 Ondersteun de beweringen van de historici door:\n− te beredeneren op welke manier Ethelred II zijn positie als koning denkt te versterken met het geven van de opdracht de Denen te doden, en\n− met een verwijzing naar de bron aan te tonen dat Ethelred II in 1004 zijn opdracht rechtvaardigt, en\n− te beredeneren vanuit welk politiek motief Ethelred II benadrukt dat hij de kerk laat herbouwen.",
+   "context_block_ids": [
+    "06f0688a-b7ce-484a-a294-837af7020737"
+   ]
+  },
+  {
+   "id": "7b1d5465-ece2-495b-b193-1860c5efb300",
+   "exercise_id": "7f8f21e5-595a-46bd-aedf-b0695fe364f2",
+   "question_number": 5,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij en centralisatie (1302-1602)"
+    }
+   ],
+   "keywords": [
+    "armenzorg",
+    "centralisatie",
+    "Habsburgers",
+    "Karel V",
+    "stadsbestuur",
+    "burgerij"
+   ],
+   "question_summary": "Aantonen dat de verplichte oprichting van een armenfonds past bij een verandering in de sociale zorg en bij de centralisatiepolitiek van de Habsburgers.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-steden-en-burgers-1050-1700-vraag5.png",
+   "question_text": "De Habsburgse landsheer verplichtte in 1531 stadsbesturen in de Nederlanden tot het oprichten van een Gemene Beurs, een speciaal fonds om armen in de stad te ondersteunen. Het armenfonds werd beheerd door het stadsbestuur. 2p 5 Toon aan:\n− dat de oprichting van de Gemene Beurs paste bij een verandering in de sociale zorg in de late middeleeuwen, en\n− welk politieke beleid van de Habsburgers in de Nederlanden met de verplichte oprichting van de Gemene Beurs werd bevorderd.",
+   "context_block_ids": []
+  },
+  {
+   "id": "16ddb0ce-82f0-404e-b27d-897362f014b3",
+   "exercise_id": "7f8f21e5-595a-46bd-aedf-b0695fe364f2",
+   "question_number": 6,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij en centralisatie (1302-1602)"
+    }
+   ],
+   "keywords": [
+    "Opstand",
+    "Willem van Oranje",
+    "Alva",
+    "Filips II",
+    "propaganda",
+    "politiek motief"
+   ],
+   "question_summary": "Onderzoeken welke boodschappen Willem van Oranje in een pamflet over Alva en Filips II overbrengt en met welk politiek motief.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-steden-en-burgers-1050-1700-vraag6.png",
+   "question_text": "Gebruik bron 3. Een bewering: Willem van Oranje brengt met dit pamflet meerdere boodschappen over. 3p 6 Ondersteun deze bewering door:\n− aan te tonen dat Willem van Oranje met dit pamflet zijn eigen optreden in de Nederlanden onderbouwt, waarna je je antwoord ondersteunt met een verwijzing naar de bron, en\n− te beredeneren welk politiek motief Willem van Oranje heeft voor het beeld dat hij schetst van Filips II.",
+   "context_block_ids": [
+    "48bb011b-eca4-4631-a95b-5560ea9c5710"
+   ]
+  },
+  {
+   "id": "77a4c172-a27f-4f6d-a69a-baf7e219ade4",
+   "exercise_id": "7f8f21e5-595a-46bd-aedf-b0695fe364f2",
+   "question_number": 7,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij in de Gouden Eeuw (1602-1700)"
+    }
+   ],
+   "keywords": [
+    "betrouwbaarheid",
+    "seizoenarbeid",
+    "Dertigjarige Oorlog",
+    "Republiek",
+    "bruikbaarheid",
+    "migratie"
+   ],
+   "question_summary": "Beoordelen van de bruikbaarheid van het dagboek van een huursoldaat voor onderzoek naar Duitse seizoenarbeiders in de Republiek.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-steden-en-burgers-1050-1700-vraag7.png",
+   "question_text": "Gebruik bron 4. Stel: je besluit deze bron te gebruiken voor je onderzoek naar de komst van seizoenarbeiders uit het Heilige Roomse Rijk naar de Republiek. 3p 7 Ondersteun je beslissing door:\n− vanuit de aard van de bron te verklaren dat je de informatie in de bron betrouwbaar vindt, en\n− aan de bron een oorzaak te ontlenen voor het vertrek van Duitse seizoenarbeiders naar de Republiek, en\n− zonder bron het conflict te noemen dat in het Heilige Roomse Rijk wordt uitgevochten in die tijd.",
+   "context_block_ids": [
+    "c5e70715-b9b7-4c84-b3b1-b7c1fa83f029"
+   ]
+  },
+  {
+   "id": "f1f510ac-1eec-4e76-8379-d470b1abb329",
+   "exercise_id": "7f8f21e5-595a-46bd-aedf-b0695fe364f2",
+   "question_number": 13,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Opkomst van de stedelijke burgerij (1050-1302)"
+    },
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichtingsideeën in de Europese politieke cultuur (1813-1900)"
+    },
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Wereldoorlogen — overig (1900-1950)"
+    }
+   ],
+   "keywords": [
+    "Guldensporenslag",
+    "Belgische Opstand",
+    "nationalisme",
+    "Eerste Wereldoorlog",
+    "propaganda",
+    "afscheiding België"
+   ],
+   "question_summary": "Beredeneren welke boodschap Belgische frontblaadjes in de Eerste Wereldoorlog met de Guldensporenslag en de Belgische Opstand wilden overbrengen.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-steden-en-burgers-1050-1700-vraag13.png",
+   "question_text": "Vanaf 1915 ontvingen Belgische soldaten 'frontblaadjes' met daarin nieuws over de oorlog. In deze blaadjes stonden regelmatig artikelen over twee gebeurtenissen uit het verleden:\n1 de Guldensporenslag.\n2 de Belgische Opstand. De artikelen over deze twee gebeurtenissen moesten dezelfde boodschap overbrengen aan de frontsoldaten, zowel voor de Vlaamstalige als de Franstalige soldaten. 2p 13 Beredeneer welke boodschap dat was, waarna je je antwoord illustreert met een van beide gebeurtenissen.",
+   "context_block_ids": []
+  },
+  {
+   "id": "fee78479-0d10-4005-a873-8942bca1d458",
+   "exercise_id": "5d1c2187-c947-42c9-8bd3-346052245034",
+   "question_number": 8,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij in de Gouden Eeuw (1602-1700)"
+    },
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichte ideeën over een rechtvaardige samenleving (1650-1789)"
+    }
+   ],
+   "keywords": [
+    "absolutisme",
+    "goddelijk recht",
+    "parlement",
+    "Karel II",
+    "troonopvolging",
+    "prent analyseren"
+   ],
+   "question_summary": "Met een prent uit 1684 aantonen welke mening over de positie van de Engelse koning en de troonopvolging wordt uitgedragen.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-verlichting-1650-1900-vraag8.png",
+   "question_text": "Gebruik bron 5. Twee ontwikkelingen in Engeland rond 1684:\n1 De positie van de koning wordt aangevochten door het parlement.\n2 Karel II is al enige tijd ziek. Omdat hij geen wettige kinderen heeft, is zijn broer Jacobus aangewezen als troonopvolger. In deze prent wordt een mening weergegeven over beide ontwikkelingen. 3p 8 Toon aan:\n− welke mening over de positie van de koning wordt weergegeven, waarna je je antwoord ondersteunt met een verwijzing naar de prent, en\n− dat de prent Jacobus steunt.",
+   "context_block_ids": [
+    "1c6e4b25-9545-48ba-a1ff-624779ff06b7"
+   ]
+  },
+  {
+   "id": "729caebf-9299-465d-bc34-dbc7285a88bb",
+   "exercise_id": "5d1c2187-c947-42c9-8bd3-346052245034",
+   "question_number": 9,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichte ideeën over een rechtvaardige samenleving (1650-1789)"
+    },
+    {
+     "domain": "Verlichting",
+     "subdomain": "Democratische revoluties in de VS en Frankrijk (1776-1813)"
+    }
+   ],
+   "keywords": [
+    "rationalisme",
+    "Olympe de Gouges",
+    "abolitionisme",
+    "slavernij",
+    "verlicht denken",
+    "natuurrechten"
+   ],
+   "question_summary": "Aantonen dat een pamflet van Olympe de Gouges over slaafgemaakten past bij het rationalisme.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-verlichting-1650-1900-vraag9.png",
+   "question_text": "Gebruik bron 6. 2p 9 Toon aan dat dit pamflet van De Gouges past bij het rationalisme, waarna je je antwoord ondersteunt met een verwijzing naar de bron.",
+   "context_block_ids": [
+    "9c0c0f65-50db-4a85-89d8-b976080cbeab"
+   ]
+  },
+  {
+   "id": "97ddd2a4-e5cb-4176-8f0a-c6c64ac65915",
+   "exercise_id": "5d1c2187-c947-42c9-8bd3-346052245034",
+   "question_number": 10,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichtingsideeën in de Europese politieke cultuur (1813-1900)"
+    }
+   ],
+   "keywords": [
+    "Congres van Wenen",
+    "restauratie",
+    "afscheiding België",
+    "Metternich",
+    "continuïteit en verandering",
+    "machtsevenwicht"
+   ],
+   "question_summary": "Met een brief van Metternich aangeven welk uitgangspunt van het Congres van Wenen hij loslaat en aan welk hij vasthoudt.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-verlichting-1650-1900-vraag10.png",
+   "question_text": "Gebruik bron 7. Von Metternich streeft continuïteit en verandering na ten opzichte van de uitgangspunten van het Congres van Wenen. 5p 10 Geef aan:\n− bij welke historische gebeurtenis deze beschrijving van Von Metternich past, en\n− welk uitgangspunt van het Congres van Wenen Von Metternich loslaat en aan welk uitgangspunt hij blijft vasthouden, waarna je je antwoord telkens ondersteunt met een verwijzing naar de bron.",
+   "context_block_ids": [
+    "cdcfd2b3-b026-4157-a673-63070a2100da"
+   ]
+  },
+  {
+   "id": "7fbe152b-50be-4b88-afd5-cc21a3cce909",
+   "exercise_id": "5d1c2187-c947-42c9-8bd3-346052245034",
+   "question_number": 12,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichtingsideeën in de Europese politieke cultuur (1813-1900)"
+    }
+   ],
+   "keywords": [
+    "socialisme",
+    "sociale kwestie",
+    "industriële samenleving",
+    "klassenstrijd",
+    "prent analyseren",
+    "politieke stroming"
+   ],
+   "question_summary": "De boodschap van een Amerikaanse prent uit 1906 aan welgestelden verklaren en koppelen aan een politiek-maatschappelijke stroming.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-verlichting-1650-1900-vraag12.png",
+   "question_text": "Gebruik bron 8. De prent brengt een boodschap over aan welgestelde Amerikanen. 3p 12 Geef aan:\n− welke boodschap deze prent overbrengt aan welgestelde Amerikanen, waarna je je antwoord ondersteunt met een verwijzing naar de prent, en\n− bij welke politiek-maatschappelijke stroming deze prent past.",
+   "context_block_ids": [
+    "fcdf1d9e-e030-488b-b54a-8de0b1636120"
+   ]
+  },
+  {
+   "id": "db34d290-f61a-4db2-9a30-5133a223d643",
+   "exercise_id": "8db8eb1f-ee7e-4a0f-98b3-fc24f31fea1f",
+   "question_number": 11,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Verlies van regionale grootmacht (1842-1911)"
+    }
+   ],
+   "keywords": [
+    "opiumoorlogen",
+    "opium",
+    "modern imperialisme",
+    "Qing-dynastie",
+    "kenmerkend aspect",
+    "vrijhandel"
+   ],
+   "question_summary": "Met verschillende kenmerkende aspecten de handelsbepaling van Lin Zexu en het verbod van de Britse admiraal Elliot in 1839 verklaren.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-china-1842-2001-vraag11.png",
+   "question_text": "Een geschiedenis: In 1839 bepaalde de Chinese ambtenaar Lin Zexu dat buitenlandse handelaren China alleen mochten binnenkomen als zij een verklaring ondertekenden dat ze geen illegale goederen bij zich hadden. De Britse admiraal Charles Elliot verbood Britse handelaren deze verklaring te ondertekenen. 3p 11 Licht deze geschiedenis toe door:\n− het handelsproduct te noemen dat Lin Zexu wilde uitbannen uit China, en\n− een verklaring te geven voor de bepaling van Lin Zexu en voor het verbod van Elliot, telkens met een verschillend kenmerkend aspect van de moderne tijd. Let op: je moet na het opschrijven van een kenmerkend aspect een uitleg geven.",
+   "context_block_ids": []
+  },
+  {
+   "id": "01721cc6-96b1-4d6a-a912-cff5dfbaf725",
+   "exercise_id": "8db8eb1f-ee7e-4a0f-98b3-fc24f31fea1f",
+   "question_number": 16,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Ontstaan van de Volksrepubliek (1912-1949)"
+    }
+   ],
+   "keywords": [
+    "ongelijke verdragen",
+    "communisme",
+    "imperialisme",
+    "Sovjet-Unie",
+    "Chinese Communistische Partij",
+    "ideologie"
+   ],
+   "question_summary": "Verklaren waarom het communistische Rusland in 1920 de ongelijke verdragen met China wilde beëindigen en welk doel het daarmee had.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-china-1842-2001-vraag16.png",
+   "question_text": "In 1920 kondigde de nieuwe communistische regering van Rusland aan dat zij de 'ongelijke verdragen' met China wilde beëindigen. 2p 16 Geef aan: – dat het beëindigen van de 'ongelijke verdragen' paste bij de communistische ideologie, en – welk doel de Russische regering in China wilde bereiken met het beëindigen van deze verdragen.",
+   "context_block_ids": []
+  },
+  {
+   "id": "48fac9f5-2fc9-4c0f-805f-b1b52ac79e13",
+   "exercise_id": "8db8eb1f-ee7e-4a0f-98b3-fc24f31fea1f",
+   "question_number": 22,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Ontwikkeling tot grootmacht (1949-2001)"
+    }
+   ],
+   "keywords": [
+    "Culturele Revolutie",
+    "Rode gardisten",
+    "Mao Zedong",
+    "klassenstrijd",
+    "propaganda",
+    "kenmerken herkennen"
+   ],
+   "question_summary": "Met een porseleinen beeld uit 1967 kenmerken van de Culturele Revolutie en de ontwrichting van de Chinese samenleving toelichten.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-china-1842-2001-vraag22.png",
+   "question_text": "Gebruik bron 13. Dit beeld is gemaakt door een Chinese porseleinfabriek die sinds de keizertijd beelden produceert van boeddha's en Chinese godheden. In de jaren 1960 stopt de fabriek met het maken van godenbeelden en begint met de productie van beelden zoals bron 13. 3p 22 Licht deze verandering in productie toe door:\n− aan te geven welke twee kenmerken van de Culturele Revolutie je kunt illustreren met deze verandering in productie, en\n− met een verwijzing naar de bron aan te geven waardoor de Culturele Revolutie de Chinese samenleving ontwrichtte.",
+   "context_block_ids": [
+    "758ba66b-f203-4ace-8107-e0ea1e1a384d"
+   ]
+  },
+  {
+   "id": "9241ab04-0ce0-4ce7-9bb9-74d67d98c359",
+   "exercise_id": "efdc7596-9ddd-4dd4-a129-aa0e0efd59d9",
+   "question_number": 14,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Opkomst nationaalsocialisme en Tweede Wereldoorlog (1918-1945)"
+    }
+   ],
+   "keywords": [
+    "Republiek van Weimar",
+    "verkiezingen 1919",
+    "dolkstootlegende",
+    "standplaatsgebondenheid",
+    "democratie",
+    "Spartakisten"
+   ],
+   "question_summary": "Onderbouwen dat een dagboek een gekleurd beeld geeft van de start van de Republiek van Weimar.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-duitsland-in-europa-1918-1991-vraag14.png",
+   "question_text": "Gebruik bron 9. Een bewering: Oskar Münsterberg geeft een gekleurd beeld weer van de start van de Republiek van Weimar. 2p 14 Ondersteun deze bewering door:\n− met een verwijzing naar de bron aan te geven welk beeld dit is, en\n− voor een groepering in de Duitse samenleving van 1919 uit te leggen waarom die het niet eens zou zijn met deze beschrijving.",
+   "context_block_ids": [
+    "71067ef7-2403-4e6a-93b8-bf9699bfe6e9"
+   ]
+  },
+  {
+   "id": "741a48d7-fecc-4e56-8bea-a4d45bb6ab4d",
+   "exercise_id": "efdc7596-9ddd-4dd4-a129-aa0e0efd59d9",
+   "question_number": 18,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Opkomst nationaalsocialisme en Tweede Wereldoorlog (1918-1945)"
+    }
+   ],
+   "keywords": [
+    "betrouwbaarheid",
+    "propaganda",
+    "Tweede Wereldoorlog",
+    "totale oorlog",
+    "nationaalsocialisme",
+    "bruikbaarheid"
+   ],
+   "question_summary": "Beoordelen van de bruikbaarheid van een nazitoespraak uit 1944 voor onderzoek naar de geallieerde opmars en de Duitse verdediging.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-duitsland-in-europa-1918-1991-vraag18.png",
+   "question_text": "Gebruik bron 11. Je doet onderzoek naar:\n1 de geallieerde opmars in 1944, en\n2 de Duitse verdediging tegen de geallieerde opmars. Je wilt de bron gebruiken voor het tweede onderzoeksgebied. 3p 18 Onderbouw je besluit door:\n− aan te geven waarom je twijfelt aan de betrouwbaarheid van de informatie van de bron voor je onderzoek naar de geallieerde opmars, en\n− met twee verschillende verwijzingen naar de bron aan te tonen dat Hofer hiermee de Duitsers wil motiveren zich te verdedigen tegen de geallieerde opmars.",
+   "context_block_ids": [
+    "12a9effb-bbf0-474e-8275-a63efd5f2574"
+   ]
+  },
+  {
+   "id": "97d1f12a-f6ae-48bd-bc4c-9a6efb0336d2",
+   "exercise_id": "efdc7596-9ddd-4dd4-a129-aa0e0efd59d9",
+   "question_number": 19,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Hereniging en Europese integratie (1961-1991)"
+    }
+   ],
+   "keywords": [
+    "Baader-Meinhof Gruppe",
+    "links terrorisme",
+    "denazificatie",
+    "BRD",
+    "Vergangenheitsbewältigung",
+    "nationaalsocialisme"
+   ],
+   "question_summary": "Aangeven welk standpunt de Baader-Meinhof Gruppe kon onderbouwen met de levensloop van een vrijgelaten nationaalsocialist.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-duitsland-in-europa-1918-1991-vraag19.png",
+   "question_text": "Franz Hofer (bron 11) werd na de oorlog veroordeeld voor zijn rol tijdens de oorlog. Een West-Duits gerechtshof verkortte vervolgens zijn straf in de jaren 1950 sterk. Hofer woonde na zijn vrijlating met vrouw en kinderen tot in de jaren 1970 in de BRD en pakte succesvol zijn oude beroep van handelsondernemer weer op. 1p 19 Geef aan welk standpunt de Baader-Meinhof Gruppe kon onderbouwen met de levensloop van Franz Hofer als voorbeeld.",
+   "context_block_ids": [
+    "12a9effb-bbf0-474e-8275-a63efd5f2574"
+   ]
+  },
+  {
+   "id": "9f446bb3-20f5-45eb-a233-951760fc97d7",
+   "exercise_id": "efdc7596-9ddd-4dd4-a129-aa0e0efd59d9",
+   "question_number": 21,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Duitsland en de Koude Oorlog (1945-1961)"
+    }
+   ],
+   "keywords": [
+    "Adenauer",
+    "Westintegratie",
+    "Duitse eenheid",
+    "opstand 1953",
+    "BRD",
+    "buitenlandse politiek"
+   ],
+   "question_summary": "Het uitroepen van de Dag van de Duitse Eenheid in 1953 verklaren vanuit de prioriteiten in de buitenlandse politiek van Adenauer.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-duitsland-in-europa-1918-1991-vraag21.png",
+   "question_text": "In 1953 riep het West-Duitse parlement 17 juni uit tot \"Dag van de Duitse Eenheid\". De parlementsleden wilden hiermee zorgen wegnemen over prioriteiten in de buitenlandse politiek van Adenauer. 1p 21 Verklaar het uitroepen van de \"Dag van de Duitse Eenheid\" door aan te geven welke prioriteit Adenauer begin jaren 1950 had in zijn buitenlandse politieke beleid.",
+   "context_block_ids": []
+  },
+  {
+   "id": "bd296d16-38b1-4423-bc3a-b9ca603fb4b6",
+   "exercise_id": "efdc7596-9ddd-4dd4-a129-aa0e0efd59d9",
+   "question_number": 23,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Hereniging en Europese integratie (1961-1991)"
+    }
+   ],
+   "keywords": [
+    "Ostpolitik",
+    "Willy Brandt",
+    "welkomstgeld",
+    "Duitse hereniging",
+    "val van de Berlijnse Muur",
+    "kapitalisme"
+   ],
+   "question_summary": "Verklaren hoe reizen tussen DDR en BRD makkelijker werd en welke ideologische en politieke doelen de BRD met het welkomstgeld had.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-duitsland-in-europa-1918-1991-vraag23.png",
+   "question_text": "Drie gegevens:\n1 Vanaf de jaren 1970 werd het makkelijker om te reizen tussen de DDR en de BRD.\n2 DDR-burgers die een reis naar de BRD maakten, ontvingen van de BRD een geldbedrag om vrij te besteden in het Westen: het welkomstgeld.\n3 Na de val van de muur besloot de regering van de BRD het welkomstgeld nog enkele maanden uit te betalen. Bijna alle Oost-Duitsers maakten er gebruik van. 3p 23 Geef aan:\n− waardoor het in de jaren 1970 makkelijker werd om te reizen tussen de DDR en de BRD, en\n− welk ideologisch doel de regering van de BRD wilde bereiken met het beschikbaar stellen van het welkomstgeld, en\n− welk politiek proces de regering van de BRD met het doorbetalen van het welkomstgeld wilde bevorderen.",
+   "context_block_ids": []
+  },
+  {
+   "id": "1ba3e1b7-87b7-46d6-9117-01c3fd4e3f04",
+   "exercise_id": "763fce25-73d1-4387-b577-602a864b692a",
+   "question_number": 24,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Televisie en computer — overig (vanaf 1950)"
+    },
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Hereniging en Europese integratie (1961-1991)"
+    }
+   ],
+   "keywords": [
+    "pluriforme samenleving",
+    "homo-emancipatie",
+    "jaren zestig",
+    "sociaal-culturele veranderingen",
+    "ontzuiling",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Een verband aantonen tussen de sociaal-culturele veranderingen in de jaren 1960 en de groeiende pluriformiteit van de Nederlandse samenleving.",
+   "question_image_url": "geschiedenis-vwo-2026-ii-moderne-tijd-vraag24.png",
+   "question_text": "Een geschiedenis: In 1968 werd de Leidse Studenten Werkgroep Homofilie (LSWH) opgericht. Een oud-lid zei in 1996 tijdens een interview: \"de sfeer waarin de LSWH werd opgericht, was die van taboes doorbreken, hasj roken, een gevoel dat er een renaissance plaatsvond, dat er een heel andere manier van denken groeide.\" Met deze geschiedenis kun je een verband aantonen tussen de sociaal-culturele veranderingsprocessen in de jaren 1960 en de ontwikkeling van de pluriformiteit van de Nederlandse samenleving. 1p 24 Geef aan welk verband dit is.",
+   "context_block_ids": []
+  }
+ ]
+}
