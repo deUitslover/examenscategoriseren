@@ -1,0 +1,527 @@
+{
+  "payload": {
+    "subject_name": "Geschiedenis",
+    "level": "VWO",
+    "source": "VWO Geschiedenis 2024-I",
+    "answers": [
+      {
+        "title": "Door de tijd heen",
+        "question_number": 1,
+        "answer_text": "De juiste volgorde is:\n5, 1, 2, 3, 6, 4",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De juiste volgorde is: 5, 1, 2, 3, 6, 4"
+          }
+        ],
+        "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-door-de-tijd-heen-antw1.png"
+        ]
+      },
+      {
+        "title": "Prehistorie en oudheid",
+        "question_number": 2,
+        "answer_text": "Kern van een juist antwoord is:\nLactantius wil met zijn boek De dood van de christenvervolgers de boodschap overbrengen dat het vervolgen van christenen bestraft zal worden / dat een vervolger van christenen een slecht heerser is, zodat Lactantius mogelijk de vernedering van Valerianus (die christenen liet vervolgen) overdrijft.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Lactantius wil met zijn boek De dood van de christenvervolgers de boodschap overbrengen dat het vervolgen van christenen bestraft zal worden / dat een vervolger van christenen een slecht heerser is, zodat Lactantius mogelijk de vernedering van Valerianus (die christenen liet vervolgen) overdrijft."
+          }
+        ],
+        "grading_note": "Alleen als in het antwoord wordt aangegeven op welke manier de boodschap de beschrijving minder betrouwbaar maakt, worden scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-prehistorie-en-oudheid-antw2.png"
+        ]
+      },
+      {
+        "title": "Prehistorie en oudheid",
+        "question_number": 3,
+        "answer_text": "Kern van een juist antwoord is:\n• Met een afbeelding die is gemaakt naar voorbeeld van een Romeinse afbeelding (in het Perzische rijk) kun je 'de klassieke vormentaal' / '(de groei van het Romeinse imperium) waardoor de Grieks-Romeinse cultuur zich verspreidde' illustreren.\n• Sjapoer wilde aan zijn volk overbrengen dat hij machtiger was dan de Romeinen/Romeinse keizer / dat hij zijn rijk succesvol verdedigde tegen de Romeinen/Romeinse keizer.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Met een afbeelding die is gemaakt naar voorbeeld van een Romeinse afbeelding (in het Perzische rijk) kun je 'de klassieke vormentaal' / '(de groei van het Romeinse imperium) waardoor de Grieks-Romeinse cultuur zich verspreidde' illustreren."
+          },
+          {
+            "points": 1,
+            "description": "Sjapoer wilde aan zijn volk overbrengen dat hij machtiger was dan de Romeinen/Romeinse keizer / dat hij zijn rijk succesvol verdedigde tegen de Romeinen/Romeinse keizer."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord op de tweede deelvraag een boodschap bevat die specifiek ingaat op de verhouding ten opzichte van de Romeinen/Romeinse keizer, wordt 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-prehistorie-en-oudheid-antw3.png"
+        ]
+      },
+      {
+        "title": "De middeleeuwen",
+        "question_number": 4,
+        "answer_text": "Kern van een juist antwoord is:\n• Door 'de vrijwel volledige vervanging in West-Europa van de agrarisch-urbane cultuur door een zelfvoorzienende agrarische cultuur, georganiseerd via hofstelsel en horigheid' raken in de vroege middeleeuwen veel steden in verval / nemen steden in omvang af / worden geen grote steden gebouwd (wat aannemelijk maakt dat de tekenaar zich voor de afbeelding baseert op Romeinse voorbeelden van steden).\n• Boeken met illustraties bij psalmen (zoals deze bron) maken het makkelijker om de teksten te onthouden (wat de verspreiding van het christendom bevordert).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Door 'de vrijwel volledige vervanging in West-Europa van de agrarisch-urbane cultuur door een zelfvoorzienende agrarische cultuur, georganiseerd via hofstelsel en horigheid' raken in de vroege middeleeuwen veel steden in verval / nemen steden in omvang af / worden geen grote steden gebouwd (wat aannemelijk maakt dat de tekenaar zich voor de afbeelding baseert op Romeinse voorbeelden van steden)."
+          },
+          {
+            "points": 1,
+            "description": "Boeken met illustraties bij psalmen (zoals deze bron) maken het makkelijker om de teksten te onthouden (wat de verspreiding van het christendom bevordert)."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord op de eerste deelvraag een combinatie bevat van een juist kenmerkend aspect en een daarbij passende juiste verklaring voor het zich baseren op een Romeins voorbeeld van een stad, worden scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-de-middeleeuwen-antw4.png"
+        ]
+      },
+      {
+        "title": "Steden en burgers 1050 - 1700",
+        "question_number": 5,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• De beschrijving van de jaarmarkt / de aanwezigheid van buitenlandse kooplieden past bij de positie van Vlaanderen in de twaalfde eeuw als onderdeel van een internationaal handelsnetwerk.\n• Je kunt aan de beschrijving ontlenen dat politieke rust/stabiliteit / bescherming voor handelaren door een landsheer een voorwaarde is voor succesvol handeldrijven, omdat Galbert schrijft dat de moord de jaarmarkt meteen verstoort / dat handelaren het nieuws van de moord belangrijk genoeg vinden om overal te vertellen (en zo Vlaanderen berucht te maken).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De beschrijving van de jaarmarkt / de aanwezigheid van buitenlandse kooplieden past bij de positie van Vlaanderen in de twaalfde eeuw als onderdeel van een internationaal handelsnetwerk."
+          },
+          {
+            "points": 2,
+            "description": "Je kunt aan de beschrijving ontlenen dat politieke rust/stabiliteit / bescherming voor handelaren door een landsheer een voorwaarde is voor succesvol handeldrijven, omdat Galbert schrijft dat de moord de jaarmarkt meteen verstoort / dat handelaren het nieuws van de moord belangrijk genoeg vinden om overal te vertellen (en zo Vlaanderen berucht te maken)."
+          }
+        ],
+        "grading_note": "Als bij de eerste deelvraag alleen wordt ingegaan op de aanwezigheid van de jaarmarkt/handel / op economische voorspoed, wordt geen scorepunt toegekend (omdat dit niet ingaat op de positie van Vlaanderen in het internationale handelsnetwerk).",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-steden-en-burgers-1050-1700-antw5.png"
+        ]
+      },
+      {
+        "title": "Steden en burgers 1050 - 1700",
+        "question_number": 6,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Als bankier kon Arnolfini leningen/voorschotten geven aan Filips de Goede waardoor hij werd beloond met een functie aan het hof / zodat Filips de Goede hoopte op meer leningen in ruil voor de benoeming.\n• Met de benoeming in een ridderorde zorgde Filips de Goede ervoor dat Arnolfini de status kreeg die paste bij het hof / liet Filips de Goede zien dat hij trouwe medewerkers beloonde / met de benoeming van patriciër tot ridder verminderde Filips de Goede de macht/invloed van de adel.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als bankier kon Arnolfini leningen/voorschotten geven aan Filips de Goede waardoor hij werd beloond met een functie aan het hof / zodat Filips de Goede hoopte op meer leningen in ruil voor de benoeming."
+          },
+          {
+            "points": 1,
+            "description": "Met de benoeming in een ridderorde zorgde Filips de Goede ervoor dat Arnolfini de status kreeg die paste bij het hof / liet Filips de Goede zien dat hij trouwe medewerkers beloonde / met de benoeming van patriciër tot ridder verminderde Filips de Goede de macht/invloed van de adel."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-steden-en-burgers-1050-1700-antw6.png"
+        ]
+      },
+      {
+        "title": "Vroegmoderne tijd",
+        "question_number": 7,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Door de beschrijving krijgen Europeanen informatie over de (hoogstaande) cultuur in Amerika / ontdekken Europeanen dat er een cultuur bestaat waar zij nog nooit van hebben gehoord, wat bijdraagt aan het aanpassen van het eurocentrisch (of een omschrijving daarvan) wereldbeeld.\n• In de beschrijving wordt verteld over een opperhoofd dat een grote hoeveelheid goudpoeder heeft, zodat Europeanen haastig/in groten getale naar Amerika trekken om mee te profiteren van deze rijkdom (wat bijdraagt aan de snelle Europese expansie).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Door de beschrijving krijgen Europeanen informatie over de (hoogstaande) cultuur in Amerika / ontdekken Europeanen dat er een cultuur bestaat waar zij nog nooit van hebben gehoord, wat bijdraagt aan het aanpassen van het eurocentrisch (of een omschrijving daarvan) wereldbeeld."
+          },
+          {
+            "points": 2,
+            "description": "In de beschrijving wordt verteld over een opperhoofd dat een grote hoeveelheid goudpoeder heeft, zodat Europeanen haastig/in groten getale naar Amerika trekken om mee te profiteren van deze rijkdom (wat bijdraagt aan de snelle Europese expansie)."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord telkens een combinatie bevat van een juist voorbeeld van (bij de eerste deelvraag) een verandering van wereldbeeld en (bij de tweede deelvraag) uitleg voor de snelle expansie en een daarbij passende verwijzing naar de bron, worden scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-vroegmoderne-tijd-antw7.png"
+        ]
+      },
+      {
+        "title": "Steden en burgers 1050 - 1700",
+        "question_number": 8,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Een uitgangspunt van bonum commune was dat bestuur zich moest inzetten voor het algemene goed/het welzijn van het volk, zodat het stadsbestuur de politieke boodschap wilde overbrengen dat een bestuurder die de burgers benadeelde, bestraft werd (net als Valerianus).\n• De keuze voor een afbeelding van een verhaal uit de Oudheid paste bij de 'heroriëntatie op de klassieke oudheid' / bij de interesse in de klassieke oudheid (tijdens de Renaissance).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Een uitgangspunt van bonum commune was dat bestuur zich moest inzetten voor het algemene goed/het welzijn van het volk, zodat het stadsbestuur de politieke boodschap wilde overbrengen dat een bestuurder die de burgers benadeelde, bestraft werd (net als Valerianus)."
+          },
+          {
+            "points": 1,
+            "description": "De keuze voor een afbeelding van een verhaal uit de Oudheid paste bij de 'heroriëntatie op de klassieke oudheid' / bij de interesse in de klassieke oudheid (tijdens de Renaissance)."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord op de eerste deelvraag een combinatie bevat van een juist uitgangspunt van bonum commune met een daarbij passende politieke boodschap van het stadsbestuur, worden scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-steden-en-burgers-1050-1700-antw8.png"
+        ]
+      },
+      {
+        "title": "Steden en burgers 1050 - 1700",
+        "question_number": 9,
+        "answer_text": "Kern van een juist antwoord is:\n• Deze manier van verdelen versterkte oligarchisering omdat de bestuursfuncties alleen onder (een beperkte groep) regenten(families) werden verdeeld.\n• Met dit verzoek voorkwamen de regenten dat de stadhouder werkelijk invloed had op de verdeling van de functies in het gewest, waarmee het particularisme (of een juiste omschrijving hiervan) werd gehandhaafd.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Deze manier van verdelen versterkte oligarchisering omdat de bestuursfuncties alleen onder (een beperkte groep) regenten(families) werden verdeeld."
+          },
+          {
+            "points": 2,
+            "description": "Met dit verzoek voorkwamen de regenten dat de stadhouder werkelijk invloed had op de verdeling van de functies in het gewest, waarmee het particularisme (of een juiste omschrijving hiervan) werd gehandhaafd."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord op de tweede deelvraag een combinatie bevat van een juist voorbeeld van gewestelijke politieke continuïteit en een verwijzing naar het uitsluiten van de stadhouder, worden scorepunten toegekend",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-steden-en-burgers-1050-1700-antw9.png"
+        ]
+      },
+      {
+        "title": "Verlichting 1650 – 1900",
+        "question_number": 10,
+        "answer_text": "Kern van een juist antwoord is:\n• Door de committees of correspondence wordt het verzet tegen de Britten gecoördineerd/geïnitieerd / groeit het verzet tegen de Britten (omdat revolutionairen in verschillende steden met elkaar in contact komen/blijven).\n• Als kritiek is te geven dat als de Britse Kroon (de uitvoerende macht) de rechters (de rechterlijke macht) betaalt, er geen sprake is van scheiding der machten (omdat de rechters onder invloed komen van de uitvoerende macht).\n• Het committee of correspondence in Boston onderschrijft het verlichtingsidee van natuurrechten,\n• door te stellen dat mensen/christenen/onderdanen onvervreemdbare rechten hebben.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de committees of correspondence wordt het verzet tegen de Britten gecoördineerd/geïnitieerd / groeit het verzet tegen de Britten (omdat revolutionairen in verschillende steden met elkaar in contact komen/blijven)."
+          },
+          {
+            "points": 1,
+            "description": "Als kritiek is te geven dat als de Britse Kroon (de uitvoerende macht) de rechters (de rechterlijke macht) betaalt, er geen sprake is van scheiding der machten (omdat de rechters onder invloed komen van de uitvoerende macht)."
+          },
+          {
+            "points": 1,
+            "description": "Het committee of correspondence in Boston onderschrijft het verlichtingsidee van natuurrechten,"
+          },
+          {
+            "points": 1,
+            "description": "door te stellen dat mensen/christenen/onderdanen onvervreemdbare rechten hebben."
+          }
+        ],
+        "grading_note": "Alleen als bij de derde deelvraag een juist verlichtingsidee wordt genoemd, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar het pamflet.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-verlichting-1650-1900-antw10.png"
+        ]
+      },
+      {
+        "title": "Vroegmoderne tijd",
+        "question_number": 11,
+        "answer_text": "Kern van een juist antwoord is:\nHet standpunt van de demonstranten dat de stadhouder veel macht heeft gekregen / dat de slechte staat van het land te wijten is aan het gebrek aan een grondwettelijke relatie tussen burgers en bestuurders, past bij:\n• 'rationeel optimisme en een 'verlicht denken' dat wordt toegepast op alle terreinen van de samenleving: godsdienst, politiek, economie en sociale verhoudingen'.\n• 'de democratische revoluties in westerse landen met als gevolg discussies over grondwetten, grondrechten en staatsburgerschap'.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "'rationeel optimisme en een 'verlicht denken' dat wordt toegepast op alle terreinen van de samenleving: godsdienst, politiek, economie en sociale verhoudingen'."
+          },
+          {
+            "points": 1,
+            "description": "'de democratische revoluties in westerse landen met als gevolg discussies over grondwetten, grondrechten en staatsburgerschap'."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-vroegmoderne-tijd-antw11.png"
+        ]
+      },
+      {
+        "title": "Verlichting 1650 – 1900",
+        "question_number": 12,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• De prent is gemaakt nadat het bestuur van Frankrijk door Napoleon is overgenomen / Napoleon het Directoire afschaft.\n• De mening die Chataignier weergeeft is dat Frankrijk/het Franse volk door de machtsovername van Napoleon gered wordt / een beter leider/bestuur krijgt,\n• door (een van de volgende):\n  − af te beelden dat Napoleon Frankrijk richting gerechtigheid / eenheid / vrede / overvloed leidt.\n  − af te beelden dat Napoleon voorkomt dat Frankrijk door het 'revolutionaire fanatisme'/onwetendheid in de samenleving in de afgrond wordt getrokken.\n  − Napoleon 'steun en toeverlaat van Frankrijk' te noemen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De prent is gemaakt nadat het bestuur van Frankrijk door Napoleon is overgenomen / Napoleon het Directoire afschaft."
+          },
+          {
+            "points": 1,
+            "description": "De mening die Chataignier weergeeft is dat Frankrijk/het Franse volk door de machtsovername van Napoleon gered wordt / een beter leider/bestuur krijgt,"
+          },
+          {
+            "points": 1,
+            "description": "door (een van de volgende): af te beelden dat Napoleon Frankrijk richting gerechtigheid / eenheid / vrede / overvloed leidt.; af te beelden dat Napoleon voorkomt dat Frankrijk door het 'revolutionaire fanatisme'/onwetendheid in de samenleving in de afgrond wordt getrokken.; Napoleon 'steun en toeverlaat van Frankrijk' te noemen."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord op de tweede deelvraag een juiste mening van Chataignier bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de prent.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-verlichting-1650-1900-antw12.png"
+        ]
+      },
+      {
+        "title": "Verlichting 1650 – 1900",
+        "question_number": 13,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• The Liberator wil de lezer/Amerikaanse vrouwen overtuigen dat slavernij afgeschaft moet worden / aanmoedigen in verzet te komen tegen slavernij,\n• door een artikel te plaatsen waarin (een van de volgende):\n  − de lezer wordt gevraagd of zij de plek van de Afrikaanse moeder zou willen innemen.\n  − het verdriet/de gruwel van slavernij wordt beschreven zoals het wegnemen van baby's / het jammeren van geliefden / de bloederige striemen.\n• De auteur gaat uit van het idee van het burgerlijk gezinsideaal waarbij vrouwen hun moederrol op zich nemen / het gezin als kern wordt gezien,\n• door in het artikel af te wijzen dat slaafgemaakte moeders en kinderen worden gescheiden / gezinnen uit elkaar worden gerukt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "The Liberator wil de lezer/Amerikaanse vrouwen overtuigen dat slavernij afgeschaft moet worden / aanmoedigen in verzet te komen tegen slavernij,"
+          },
+          {
+            "points": 1,
+            "description": "door een artikel te plaatsen waarin (een van de volgende): de lezer wordt gevraagd of zij de plek van de Afrikaanse moeder zou willen innemen.; het verdriet/de gruwel van slavernij wordt beschreven zoals het wegnemen van baby's / het jammeren van geliefden / de bloederige striemen."
+          },
+          {
+            "points": 1,
+            "description": "De auteur gaat uit van het idee van het burgerlijk gezinsideaal waarbij vrouwen hun moederrol op zich nemen / het gezin als kern wordt gezien,"
+          },
+          {
+            "points": 1,
+            "description": "door in het artikel af te wijzen dat slaafgemaakte moeders en kinderen worden gescheiden / gezinnen uit elkaar worden gerukt."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord (bij de eerste deelvraag) een juist argument over het versterken van de abolitionistische beweging en (bij de tweede deelvraag) over het burgerlijk gezinsideaal bevat, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.\nAls dezelfde verwijzing naar de bron tweemaal wordt gebruikt, wordt alleen aan het eerste gebruik 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-verlichting-1650-1900-antw13.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 14,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Door het bestraffen van de handel in/het gebruik van opium (gegeven 2) waren de Taiping een gevaar voor de Britse handel (waardoor de Britten het belangrijk vonden om de Taiping te bestrijden).\n• Door de samenwerking met de buitenlanders/buitenlandse troepen (gegeven 3) werd duidelijk dat de Qing-dynastie niet sterk genoeg was om de opstand te beëindigen / kon de Qing-dynastie de invloed van westerse landen niet langer buiten China houden (waardoor het centrale gezag verzwakte).\nof\n• Door het uitroepen van zichzelf als 'Hemelse Koning' (gegeven 1) werd Hong gezien als een vervanger van de Qing-keizer (waardoor het centrale gezag verzwakte).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door het bestraffen van de handel in/het gebruik van opium (gegeven 2) waren de Taiping een gevaar voor de Britse handel (waardoor de Britten het belangrijk vonden om de Taiping te bestrijden)."
+          },
+          {
+            "points": 1,
+            "description": "Door de samenwerking met de buitenlanders/buitenlandse troepen (gegeven 3) werd duidelijk dat de Qing-dynastie niet sterk genoeg was om de opstand te beëindigen / kon de Qing-dynastie de invloed van westerse landen niet langer buiten China houden (waardoor het centrale gezag verzwakte). of Door het uitroepen van zichzelf als 'Hemelse Koning' (gegeven 1) werd Hong gezien als een vervanger van de Qing-keizer (waardoor het centrale gezag verzwakte)."
+          }
+        ],
+        "grading_note": "Als hetzelfde gegeven tweemaal wordt gebruikt, wordt alleen aan de eerste juiste vermelding 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-china-1842-2001-antw14.png"
+        ]
+      },
+      {
+        "title": "Moderne tijd",
+        "question_number": 15,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• De oprichting van de Bouwmaatschappij paste bij 'de opkomst van emancipatiebewegingen' omdat arbeiders zich hierdoor verenigden / zeggenschap kregen over hun woning / niet afhankelijk waren van fabriekseigenaren/kapitalisten.\n• De oprichting van de Bouwmaatschappij paste bij 'discussies over de 'sociale kwestie'' omdat de arbeiders hierdoor werkten aan een oplossing voor hun slechte (woon)omstandigheden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De oprichting van de Bouwmaatschappij paste bij 'de opkomst van emancipatiebewegingen' omdat arbeiders zich hierdoor verenigden / zeggenschap kregen over hun woning / niet afhankelijk waren van fabriekseigenaren/kapitalisten."
+          },
+          {
+            "points": 1,
+            "description": "De oprichting van de Bouwmaatschappij paste bij 'discussies over de 'sociale kwestie'' omdat de arbeiders hierdoor werkten aan een oplossing voor hun slechte (woon)omstandigheden."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-moderne-tijd-antw15.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 16,
+        "answer_text": "Kern van een juist antwoord is:\n• Volgens het confucianisme is de keizer de vertegenwoordiger van god / de belichaming van god / in de hiërarchie de hoogste (zodat het burgers verboden is zich in zijn nabijheid te begeven).\n• In 1900 vindt de Bokseropstand plaats, waarna de Achtlandenalliantie de Verboden Stad besluit aan te vallen om de keizerlijke dynastie/Cixi te straffen vanwege de steun die Cixi aan de Bokseropstand geeft.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Volgens het confucianisme is de keizer de vertegenwoordiger van god / de belichaming van god / in de hiërarchie de hoogste (zodat het burgers verboden is zich in zijn nabijheid te begeven)."
+          },
+          {
+            "points": 2,
+            "description": "In 1900 vindt de Bokseropstand plaats, waarna de Achtlandenalliantie de Verboden Stad besluit aan te vallen om de keizerlijke dynastie/Cixi te straffen vanwege de steun die Cixi aan de Bokseropstand geeft."
+          }
+        ],
+        "grading_note": "Alleen als in het antwoord op de tweede deelvraag het besluit wordt verklaard vanuit de steun van de keizerin-weduwe/Cixi aan de Bokseropstand, worden scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-china-1842-2001-antw16.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 17,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• De Achtlandenalliantie kan met deze foto de boodschap overbrengen dat de samenwerking succesvol is geweest / dat de Bokseropstand succesvol is neergeslagen / dat Cixi is aangepakt.\n• De Chinese regering kan met de foto de boodschap overbrengen dat de buitenlandse troepen moeten worden verslagen omdat ze geen eerbied hebben voor Chinese tradities / dat de buitenlandse troepen gevaarlijk zijn omdat zij al tot in de Verboden Stad zijn doorgedrongen / de keizerin wordt aangevallen/beledigd.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De Achtlandenalliantie kan met deze foto de boodschap overbrengen dat de samenwerking succesvol is geweest / dat de Bokseropstand succesvol is neergeslagen / dat Cixi is aangepakt."
+          },
+          {
+            "points": 1,
+            "description": "De Chinese regering kan met de foto de boodschap overbrengen dat de buitenlandse troepen moeten worden verslagen omdat ze geen eerbied hebben voor Chinese tradities / dat de buitenlandse troepen gevaarlijk zijn omdat zij al tot in de Verboden Stad zijn doorgedrongen / de keizerin wordt aangevallen/beledigd."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-china-1842-2001-antw17.png"
+        ]
+      },
+      {
+        "title": "Moderne tijd",
+        "question_number": 18,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• In dit artikel wordt het gezag van Nederland onderbouwd met een beroep op nationalistische gevoelens / op een gevoel van Nederlandse superioriteit, door te beschrijven dat de overgave gepaard gaat met het spelen van het volkslied/Nederlands nationale liederen / door de Nederlanders die een eind maken aan een eeuwenoude cultuur 'overwinnaars' te noemen.\n• Uit de beschrijving wordt duidelijk dat de Nederlanders de Boniërs hebben vernederd / de rijkssieraden hebben afgenomen, zodat de Boniërs mogelijk wraak willen nemen / hun cultuur willen verdedigen (waardoor het verzet tegen de Nederlandse overheersing niet minder wordt).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "In dit artikel wordt het gezag van Nederland onderbouwd met een beroep op nationalistische gevoelens / op een gevoel van Nederlandse superioriteit, door te beschrijven dat de overgave gepaard gaat met het spelen van het volkslied/Nederlands nationale liederen / door de Nederlanders die een eind maken aan een eeuwenoude cultuur 'overwinnaars' te noemen."
+          },
+          {
+            "points": 2,
+            "description": "Uit de beschrijving wordt duidelijk dat de Nederlanders de Boniërs hebben vernederd / de rijkssieraden hebben afgenomen, zodat de Boniërs mogelijk wraak willen nemen / hun cultuur willen verdedigen (waardoor het verzet tegen de Nederlandse overheersing niet minder wordt)."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord een combinatie bevat van een juist argument en een daarbij passende verwijzing naar het artikel, worden telkens scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-moderne-tijd-antw18.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa 1918 - 1991",
+        "question_number": 19,
+        "answer_text": "Kern van een juist antwoord is:\nDit verdrag sloot aan op de verzoeningspolitiek.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Dit verdrag sloot aan op de verzoeningspolitiek."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-duitsland-in-europa-1918-1991-antw19.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 20,
+        "answer_text": "De juiste volgorde is:\n3, 2, 4, 5, 1, 6",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De juiste volgorde is: 3, 2, 4, 5, 1, 6"
+          }
+        ],
+        "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-china-1842-2001-antw20.png"
+        ]
+      },
+      {
+        "title": "Moderne tijd",
+        "question_number": 21,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Volgens getuigenis 1 worden tegenstanders van het nationaalsocialisme benadeeld/aangevallen / maakt een leider van de NSDAP gebruik van geweld tegen een tegenstander/gebruik van antisemitische scheldwoorden (wat past bij het in praktijk brengen van het nationaalsocialisme),\n• wat blijkt uit de beschrijving dat (een van de volgende):\n  − mensen die niets met de NSDAP te maken willen hebben als tweederangsburgers worden behandeld.\n  − partijleden niet in het leger hoeven.\n  − de inwoner voor 'Jodenlummel' wordt uitgescholden.\n  − de inwoner zonder reden wordt geslagen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Volgens getuigenis 1 worden tegenstanders van het nationaalsocialisme benadeeld/aangevallen / maakt een leider van de NSDAP gebruik van geweld tegen een tegenstander/gebruik van antisemitische scheldwoorden (wat past bij het in praktijk brengen van het nationaalsocialisme),"
+          },
+          {
+            "points": 1,
+            "description": "wat blijkt uit de beschrijving dat (een van de volgende): mensen die niets met de NSDAP te maken willen hebben als tweederangsburgers worden behandeld.; partijleden niet in het leger hoeven.; de inwoner voor 'Jodenlummel' wordt uitgescholden.; de inwoner zonder reden wordt geslagen."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord een juist voorbeeld bevat van 'het in de praktijk brengen van het nationaalsocialisme', wordt een scorepunt toegekend aan een daarbij passende verwijzing naar de getuigenis.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-moderne-tijd-antw21.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa 1918 - 1991",
+        "question_number": 22,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Dat de geallieerden getuigenissen verzamelen laat zien dat ze proberen vast te stellen in welke mate iemand/Willy Bendorf zich schuldig heeft gemaakt aan het steunen van/werken voor het nationaalsocialistische regime / dat ze (voormalige) nazi's willen opsporen (wat past bij denazificatie).\n• In getuigenis 1 wordt beweerd dat Bendorf aanhangers van de NSDAP voortrekt/goed behandelt, zodat de geallieerden wellicht denken dat de dorpsbewoners die een positieve waardering uitspreken in getuigenis 2 lid zijn geweest van de NSDAP / het naziregime hebben ondersteund (waardoor de geallieerden kunnen twijfelen aan de betrouwbaarheid van getuigenis 2).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Dat de geallieerden getuigenissen verzamelen laat zien dat ze proberen vast te stellen in welke mate iemand/Willy Bendorf zich schuldig heeft gemaakt aan het steunen van/werken voor het nationaalsocialistische regime / dat ze (voormalige) nazi's willen opsporen (wat past bij denazificatie)."
+          },
+          {
+            "points": 2,
+            "description": "In getuigenis 1 wordt beweerd dat Bendorf aanhangers van de NSDAP voortrekt/goed behandelt, zodat de geallieerden wellicht denken dat de dorpsbewoners die een positieve waardering uitspreken in getuigenis 2 lid zijn geweest van de NSDAP / het naziregime hebben ondersteund (waardoor de geallieerden kunnen twijfelen aan de betrouwbaarheid van getuigenis 2)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-duitsland-in-europa-1918-1991-antw22.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa 1918 - 1991",
+        "question_number": 23,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Valtman geeft de mening weer dat de (Westerse) EEG een sterke economische groei doormaakt / dat de economie van de EEG harder groeit dan die van het Oostblok,\n• door (een van de volgende):\n  − af te beelden dat er bij de EEG grote bedrijvigheid is.\n  − de EEG af te beelden als bouwplaats.\n  − de titel 'Met bezorgdheid bekijken'.\n• Valtman geeft de mening weer dat de Sovjet-Unie de landen in het Oostblok/de DDR overheerst / dat de Sovjet-Unie de leider is,\n• door af te beelden dat Chroesjtsjov Ulbricht als een hondje aan de lijn heeft.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Valtman geeft de mening weer dat de (Westerse) EEG een sterke economische groei doormaakt / dat de economie van de EEG harder groeit dan die van het Oostblok,"
+          },
+          {
+            "points": 1,
+            "description": "door (een van de volgende): af te beelden dat er bij de EEG grote bedrijvigheid is.; de EEG af te beelden als bouwplaats.; de titel 'Met bezorgdheid bekijken'."
+          },
+          {
+            "points": 1,
+            "description": "Valtman geeft de mening weer dat de Sovjet-Unie de landen in het Oostblok/de DDR overheerst / dat de Sovjet-Unie de leider is,"
+          },
+          {
+            "points": 1,
+            "description": "door af te beelden dat Chroesjtsjov Ulbricht als een hondje aan de lijn heeft."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord een juiste mening over (bij de eerste deelvraag) de Westerse economie en (bij de tweede deelvraag) over de politieke verhouding in het Oostblok bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-duitsland-in-europa-1918-1991-antw23.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa 1918 - 1991",
+        "question_number": 24,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Brandt wil de angst wegnemen dat de BRD omwille van de goede betrekkingen met het Oostblok de belangen van haar eigen burgers uit het oog verliest / dat door de invoering van de Ostpolitik te veel wordt toegegeven aan Oost-Europese landen,\n• door te benadrukken dat hij de Poolse regering heeft gezegd dat dit verdrag niet betekent dat de geschiedenis (van Duitse gebieden) wordt herschreven / dat de West-Duitsers onrecht toestaan.\n• Brandt spreekt in het bijzonder tot de Heimatvertriebenen,\n• door te zeggen dat de Duitsers die na de oorlog zijn verdreven / hun geboortegrond moesten verlaten \"een bittere prijs\" moesten betalen / dat de verdrijvingen niet worden erkend als wettig.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Brandt wil de angst wegnemen dat de BRD omwille van de goede betrekkingen met het Oostblok de belangen van haar eigen burgers uit het oog verliest / dat door de invoering van de Ostpolitik te veel wordt toegegeven aan Oost-Europese landen,"
+          },
+          {
+            "points": 1,
+            "description": "door te benadrukken dat hij de Poolse regering heeft gezegd dat dit verdrag niet betekent dat de geschiedenis (van Duitse gebieden) wordt herschreven / dat de West-Duitsers onrecht toestaan."
+          },
+          {
+            "points": 1,
+            "description": "Brandt spreekt in het bijzonder tot de Heimatvertriebenen,"
+          },
+          {
+            "points": 1,
+            "description": "door te zeggen dat de Duitsers die na de oorlog zijn verdreven / hun geboortegrond moesten verlaten \"een bittere prijs\" moesten betalen / dat de verdrijvingen niet worden erkend als wettig."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord (bij de eerste deelvraag) een juist voorbeeld bevat van angst die Brandt wil wegnemen en (bij de tweede deelvraag) ingaat op de Heimatvertriebenen, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.\nAls het antwoord op beide deelvragen dezelfde verwijzing naar de bron bevat, wordt alleen aan de eerste juiste verwijzing scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-duitsland-in-europa-1918-1991-antw24.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 25,
+        "answer_text": "Kern van een juist antwoord is:\n• Maoïsten konden als kritiek geven dat de boeren met hun overeenkomst particuliere inkomsten nastreefden / kapitalistische invloeden nastreefden / braken met de herverdeling van land zoals die door Mao (na 1949) was ingevoerd.\n• De partijsecretaris steunde de Vier Moderniseringen (in dit geval die van de landbouw) van Deng Xiaoping.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Maoïsten konden als kritiek geven dat de boeren met hun overeenkomst particuliere inkomsten nastreefden / kapitalistische invloeden nastreefden / braken met de herverdeling van land zoals die door Mao (na 1949) was ingevoerd."
+          },
+          {
+            "points": 1,
+            "description": "De partijsecretaris steunde de Vier Moderniseringen (in dit geval die van de landbouw) van Deng Xiaoping."
+          }
+        ],
+        "grading_note": "Als bij de eerste deelvraag alleen wordt geantwoord dat dit initiatief ingaat tegen het communisme, wordt geen scorepunt toegekend (omdat dit niet ingaat op de inhoud van de maoïstische kritiek).",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-china-1842-2001-antw25.png"
+        ]
+      },
+      {
+        "title": "Moderne tijd",
+        "question_number": 26,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Je kunt dit artikel gebruiken voor een onderzoek naar de verandering van de positie van vrouwen / de toenemende mobiliteit van vrouwen / de toenemende zelfstandigheid van vrouwen / zelfbewustheid van vrouwen.\n• In dit artikel wordt uitgegaan van het traditionele beeld dat vrouwen en mannen elk hun eigen terrein hebben / dat het werken met machines eigenlijk niet geschikt is voor vrouwen,\n• omdat de auteur beschrijft dat (een van de volgende):\n  − vrouwen 'vrouwelijk' moeten blijven.\n  − vrouwen bezig zijn met make-up.\n  − scooterbezit passend is omdat het de 'vrouwelijkheid' niet aantast.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Je kunt dit artikel gebruiken voor een onderzoek naar de verandering van de positie van vrouwen / de toenemende mobiliteit van vrouwen / de toenemende zelfstandigheid van vrouwen / zelfbewustheid van vrouwen."
+          },
+          {
+            "points": 1,
+            "description": "In dit artikel wordt uitgegaan van het traditionele beeld dat vrouwen en mannen elk hun eigen terrein hebben / dat het werken met machines eigenlijk niet geschikt is voor vrouwen,"
+          },
+          {
+            "points": 1,
+            "description": "omdat de auteur beschrijft dat (een van de volgende): vrouwen 'vrouwelijk' moeten blijven.; vrouwen bezig zijn met make-up.; scooterbezit passend is omdat het de 'vrouwelijkheid' niet aantast."
+          }
+        ],
+        "grading_note": "Als bij de eerste deelvraag alleen wordt ingegaan op de toenemende welvaart, wordt geen scorepunt toegekend (omdat dit geen sociaal-cultureel veranderingsproces is).\nAlleen als het antwoord op de tweede deelvraag een juist voorbeeld van het traditionele rollenpatroon bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2024-i-moderne-tijd-antw26.png"
+        ]
+      }
+    ]
+  }
+}
