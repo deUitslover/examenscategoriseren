@@ -1,0 +1,480 @@
+{
+  "payload": {
+    "subject_name": "Geschiedenis",
+    "level": "VWO",
+    "source": "VWO Geschiedenis 2022-III",
+    "answers": [
+      {
+        "title": "Door de tijd heen",
+        "question_number": 1,
+        "answer_text": "De juiste volgorde is:\n5, 2, 4, 3, 6, 1",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De juiste volgorde is: 5, 2, 4, 3, 6, 1"
+          }
+        ],
+        "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-door-de-tijd-heen-antw1.png"
+        ]
+      },
+      {
+        "title": "Prehistorie en oudheid",
+        "question_number": 2,
+        "answer_text": "Kern van een juist antwoord is:\n• Aristoteles stelt het probleem aan de orde dat burgerschap wordt verleend aan een grote groep buitenstaanders / aan mensen die hiervoor niet geschikt zouden zijn\n• De toenmalige burgers zijn bezorgd dat zij door de komst van nieuwe burgers politieke macht/status verliezen / dat de nieuwe burgers in de volksvergadering beslissingen kunnen nemen die een gevaar vormen voor Athene",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Aristoteles stelt het probleem aan de orde dat burgerschap wordt verleend aan een grote groep buitenstaanders / aan mensen die hiervoor niet geschikt zouden zijn"
+          },
+          {
+            "points": 1,
+            "description": "De toenmalige burgers zijn bezorgd dat zij door de komst van nieuwe burgers politieke macht/status verliezen / dat de nieuwe burgers in de volksvergadering beslissingen kunnen nemen die een gevaar vormen voor Athene"
+          }
+        ],
+        "grading_note": "Alleen als uit het antwoord op de tweede deelvraag blijkt dat burgerschap recht gaf op deelname aan het politieke proces / zorgde voor status/privileges binnen de stadsstaat, wordt 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-prehistorie-en-oudheid-antw2.png"
+        ]
+      },
+      {
+        "title": "Prehistorie en oudheid",
+        "question_number": 3,
+        "answer_text": "Kern van een juist antwoord is:\n• Justinus verdedigde het christelijke geloof tegen beschuldigingen die voortkwamen uit onbegrip over de nieuwe godsdienst/het monotheïsme, wat past bij 'de ontwikkeling van het christendom en jodendom als de eerste monotheïstische godsdiensten'\n• De auteur van Doctrina Jacobi nuper Baptizati wilde voorkómen dat het christelijke geloof in het Midden-Oosten minder invloed zou krijgen door de opkomst van islam / wilde voorkomen dat het christelijke geloof beïnvloed zou worden door de islam, wat past bij 'het ontstaan en de verspreiding van de islam'",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Justinus verdedigde het christelijke geloof tegen beschuldigingen die voortkwamen uit onbegrip over de nieuwe godsdienst/het monotheïsme, wat past bij 'de ontwikkeling van het christendom en jodendom als de eerste monotheïstische godsdiensten'"
+          },
+          {
+            "points": 1,
+            "description": "De auteur van Doctrina Jacobi nuper Baptizati wilde voorkómen dat het christelijke geloof in het Midden-Oosten minder invloed zou krijgen door de opkomst van islam / wilde voorkomen dat het christelijke geloof beïnvloed zou worden door de islam, wat past bij 'het ontstaan en de verspreiding van de islam'"
+          }
+        ],
+        "grading_note": "Alleen als bij een juist kenmerkend aspect een juiste uitleg over de noodzaak van de verdediging wordt gegeven, wordt telkens 1 punt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-prehistorie-en-oudheid-antw3.png"
+        ]
+      },
+      {
+        "title": "De middeleeuwen",
+        "question_number": 4,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• De bron bevat minder bruikbare informatie over het verloop van de strijd, omdat de auteur een geestelijke is die de kruistochten ondersteunt / gelooft in de godsdienstige onderbouwing van de kruistochten, zodat hij overdrijft met het beschrijven van (de hulp van) een hemels leger/heiligen / een gekleurd/eenzijdig beeld geeft van de gebeurtenissen tijdens de strijd\n• De bron bevat meer bruikbare informatie over de legitimatie voor de strijd, omdat de auteur met zijn verslag de lezer wil overtuigen van het gelijk van de kruisvaarders, zodat hij met zijn beschrijving van de Turken als heidenen/ongelovigen / van de hulp van een hemels leger/heiligen de strijd legitimeert als een heilige oorlog tegen de islam / een terechte strijd om het christendom te verspreiden",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De bron bevat minder bruikbare informatie over het verloop van de strijd, omdat de auteur een geestelijke is die de kruistochten ondersteunt / gelooft in de godsdienstige onderbouwing van de kruistochten, zodat hij overdrijft met het beschrijven van (de hulp van) een hemels leger/heiligen / een gekleurd/eenzijdig beeld geeft van de gebeurtenissen tijdens de strijd"
+          },
+          {
+            "points": 2,
+            "description": "De bron bevat meer bruikbare informatie over de legitimatie voor de strijd, omdat de auteur met zijn verslag de lezer wil overtuigen van het gelijk van de kruisvaarders, zodat hij met zijn beschrijving van de Turken als heidenen/ongelovigen / van de hulp van een hemels leger/heiligen de strijd legitimeert als een heilige oorlog tegen de islam / een terechte strijd om het christendom te verspreiden"
+          }
+        ],
+        "grading_note": "Alleen als het antwoord een combinatie bevat van een juiste uitleg van (bij de eerste deelvraag) de mindere bruikbaarheid en van (bij de tweede deelvraag) de betere bruikbaarheid van de informatie en een passende verwijzing naar de bron, worden telkens 2 scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-de-middeleeuwen-antw4.png"
+        ]
+      },
+      {
+        "title": "De middeleeuwen",
+        "question_number": 5,
+        "answer_text": "Kern van een juist antwoord is:\n• Artikel 4 maakt het voor nieuwkomers makkelijk om zich in de stad te vestigen / verleent poorterschap aan iedereen die dat wil (zodat de stad zal groeien), waarmee je 'het herleven van een agrarisch-urbane samenleving' kan illustreren\n• Met artikel 5 wordt de relatie tussen Beverwijk en het verzorgingsgebied van de stad versterkt doordat poorters de mogelijkheid krijgen op het land/hun boerderij te werken zonder dat ze hun poorterschap verliezen, zodat de stad van voedsel wordt voorzien / zodat de boeren rondom Beverwijk zich zullen richten op deze stad",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Artikel 4 maakt het voor nieuwkomers makkelijk om zich in de stad te vestigen / verleent poorterschap aan iedereen die dat wil (zodat de stad zal groeien), waarmee je 'het herleven van een agrarisch-urbane samenleving' kan illustreren"
+          },
+          {
+            "points": 2,
+            "description": "Met artikel 5 wordt de relatie tussen Beverwijk en het verzorgingsgebied van de stad versterkt doordat poorters de mogelijkheid krijgen op het land/hun boerderij te werken zonder dat ze hun poorterschap verliezen, zodat de stad van voedsel wordt voorzien / zodat de boeren rondom Beverwijk zich zullen richten op deze stad"
+          }
+        ],
+        "grading_note": "Alleen als het antwoord bij de eerste en de tweede deelvraag telkens een combinatie bevat van een uitleg en een verwijzing naar de inhoud van het artikel van het stadsrecht, worden scorepunten toegekend.\nAls bij de eerste deelvraag het kenmerkend aspect 'de opkomst van de stedelijke burgerij en de toenemende zelfstandigheid van steden' wordt genoemd, worden geen scorepunten toegekend (omdat dit niet volgt uit de inhoud van artikel 4, waarin het gaat om de eerste groei van de stad).",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-de-middeleeuwen-antw5.png"
+        ]
+      },
+      {
+        "title": "Steden en burgers 1050 - 1700",
+        "question_number": 6,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Door de komst van handelaren uit verschillende Hanzesteden / door de deelname van Harderwijk aan de internationale handel kwamen verschillende munteenheden in omloop (waardoor de munten moesten worden gewogen om de waarde vast te stellen)\n• Door de introductie van de wisselbrief werd minder met munten betaald / werden geldtransacties in de internationale handel eenvoudiger",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de komst van handelaren uit verschillende Hanzesteden / door de deelname van Harderwijk aan de internationale handel kwamen verschillende munteenheden in omloop (waardoor de munten moesten worden gewogen om de waarde vast te stellen)"
+          },
+          {
+            "points": 1,
+            "description": "Door de introductie van de wisselbrief werd minder met munten betaald / werden geldtransacties in de internationale handel eenvoudiger"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-steden-en-burgers-1050-1700-antw6.png"
+        ]
+      },
+      {
+        "title": "De middeleeuwen",
+        "question_number": 7,
+        "answer_text": "Kern van een juist antwoord is:\nbij 1:\n• Bruni keurt 'het begin van staatsvorming en centralisatie' af, wat blijkt uit zijn afkeer tegen tirannen/koningen die de macht van burgers / van de stad Florence willen inperken\nbij 2:\n• Bruni loopt vooruit op 'de hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid', wat blijkt uit de vergelijking van de Romeinse Republiek en de Florentijnse burgers / Florence\nof\n• Het werk van Bruni past bij 'de hernieuwde wetenschappelijke belangstelling', wat blijkt uit zijn onderzoek naar de oorsprong van het Florentijnse volk",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "bij 1: Bruni keurt 'het begin van staatsvorming en centralisatie' af, wat blijkt uit zijn afkeer tegen tirannen/koningen die de macht van burgers / van de stad Florence willen inperken"
+          },
+          {
+            "points": 2,
+            "description": "bij 2: Bruni loopt vooruit op 'de hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid', wat blijkt uit de vergelijking van de Romeinse Republiek en de Florentijnse burgers / Florence of Het werk van Bruni past bij 'de hernieuwde wetenschappelijke belangstelling', wat blijkt uit zijn onderzoek naar de oorsprong van het Florentijnse volk"
+          }
+        ],
+        "grading_note": "Als een antwoord alleen een juist kenmerkend aspect bevat zonder juiste verwijzing naar het werk van Bruni, worden geen scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-de-middeleeuwen-antw7.png"
+        ]
+      },
+      {
+        "title": "Steden en burgers 1050 - 1700",
+        "question_number": 8,
+        "answer_text": "Uit het antwoord moet blijken dat:\n• de aanleiding voor het maken van deze prent het besluit is van Philips II om Alva / een leger te sturen om de Nederlanden te onderwerpen\n• Met de prent wordt weergegeven dat het bestuur van de gewesten niet oplet / de inwoners niet beschermt tegen Alva / niets doet tegen het leegroven van de Nederlandse gewesten\n• door af te beelden dat (een van de volgende):\n  − de wolf de mand met ganzen en varkens kan aanvallen.\n  − de vos in een gans kan bijten.\n  − de leeuw (de overheid) ligt de slapen.\n  − de herders / de edelen niet opletten.\n  − het vee door Spaanse soldaten wordt weggevoerd.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "de aanleiding voor het maken van deze prent het besluit is van Philips II om Alva / een leger te sturen om de Nederlanden te onderwerpen"
+          },
+          {
+            "points": 1,
+            "description": "Met de prent wordt weergegeven dat het bestuur van de gewesten niet oplet / de inwoners niet beschermt tegen Alva / niets doet tegen het leegroven van de Nederlandse gewesten"
+          },
+          {
+            "points": 1,
+            "description": "door af te beelden dat (een van de volgende): de wolf de mand met ganzen en varkens kan aanvallen.; de vos in een gans kan bijten.; de leeuw (de overheid) ligt de slapen.; de herders / de edelen niet opletten.; het vee door Spaanse soldaten wordt weggevoerd."
+          }
+        ],
+        "grading_note": "Alleen als bij de tweede deelvraag een juist voorbeeld van kritiek wordt weergegeven, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-steden-en-burgers-1050-1700-antw8.png"
+        ]
+      },
+      {
+        "title": "Steden en burgers 1050 - 1700",
+        "question_number": 9,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Colbert introduceert het mercantilisme (waarin gestreefd wordt naar een positieve handelsbalans)\n• Uit de bron blijkt dat de Franse export naar de Republiek kleiner is dan de import vanuit de Republiek / dat Frankrijk een negatieve handelsbalans heeft\n• waardoor het noodzakelijk is hogere importtarieven in te voeren om ervoor te zorgen dat Nederlandse nijverheidsproducten in Frankijk duurder worden/minder ingevoerd worden",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Colbert introduceert het mercantilisme (waarin gestreefd wordt naar een positieve handelsbalans)"
+          },
+          {
+            "points": 1,
+            "description": "Uit de bron blijkt dat de Franse export naar de Republiek kleiner is dan de import vanuit de Republiek / dat Frankrijk een negatieve handelsbalans heeft"
+          },
+          {
+            "points": 1,
+            "description": "waardoor het noodzakelijk is hogere importtarieven in te voeren om ervoor te zorgen dat Nederlandse nijverheidsproducten in Frankijk duurder worden/minder ingevoerd worden"
+          }
+        ],
+        "grading_note": "Alleen als het antwoord bij de tweede deelvraag een juiste uitleg bevat van de noodzaak van het beleid, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-steden-en-burgers-1050-1700-antw9.png"
+        ]
+      },
+      {
+        "title": "Verlichting 1650 – 1900",
+        "question_number": 10,
+        "answer_text": "Uit het antwoord moet blijken dat Koerbagh het rationalisme (van Descartes) toepaste, doordat hij aangaf dat hij Bijbelse verhalen niet zomaar voor waar aannam / omdat hij door gebruik te maken van redelijkheid/rede/het verstand Bijbelse verhalen (over God die op bezoek kwam) in twijfel trok.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Uit het antwoord moet blijken dat Koerbagh het rationalisme (van Descartes) toepaste, doordat hij aangaf dat hij Bijbelse verhalen niet zomaar voor waar aannam / omdat hij door gebruik te maken van redelijkheid/rede/het verstand Bijbelse verhalen (over God die op bezoek kwam) in twijfel trok."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-verlichting-1650-1900-antw10.png"
+        ]
+      },
+      {
+        "title": "Verlichting 1650 – 1900",
+        "question_number": 11,
+        "answer_text": "Kern van een juist antwoord is:\nJefferson gaat uit van het politieke idee van Rousseau:\n• van de natuurlijke rechten, door te schrijven dat de natuur aan alle mensen het recht heeft gegeven om te emigreren\n• van sociaal contract/volkssoevereiniteit, door te schrijven dat de vorst niets meer is dan de hoogste dienaar van het volk / dat de vorst een dienaar van het volk met beperkte bevoegdheden is / dat een vorst onder toezicht van het volk zijn functie uitoefent",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "van de natuurlijke rechten, door te schrijven dat de natuur aan alle mensen het recht heeft gegeven om te emigreren"
+          },
+          {
+            "points": 2,
+            "description": "van sociaal contract/volkssoevereiniteit, door te schrijven dat de vorst niets meer is dan de hoogste dienaar van het volk / dat de vorst een dienaar van het volk met beperkte bevoegdheden is / dat een vorst onder toezicht van het volk zijn functie uitoefent"
+          }
+        ],
+        "grading_note": "Als bij beide deelvragen dezelfde verwijzing naar de bron wordt genoemd, worden alleen aan de eerste juiste verwijzing scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-verlichting-1650-1900-antw11.png"
+        ]
+      },
+      {
+        "title": "Verlichting 1650 – 1900",
+        "question_number": 12,
+        "answer_text": "Kern van een juist antwoord is:\n• Door de oprichting van de Nationale Vergadering onttrokken de vertegenwoordigers zich aan de vastgelegde overlegorganen / door een door de Nationale Vergadering geschreven grondwet zou de (absolute) macht van Lodewijk XVI ingeperkt worden / zou de invloed van de derde stand op de regering van Frankrijk vergroot worden\n• Door het opnemen van de behoudende geestelijken en edelen in de Nationale Vergadering verwachtte Lodewijk XVI dat de jakobijnen/de radicalen in de Nationale Vergadering minder invloed zouden hebben / dat de grondwet minder radicaal zou worden (waardoor hij zijn positie zoveel mogelijk kon behouden)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de oprichting van de Nationale Vergadering onttrokken de vertegenwoordigers zich aan de vastgelegde overlegorganen / door een door de Nationale Vergadering geschreven grondwet zou de (absolute) macht van Lodewijk XVI ingeperkt worden / zou de invloed van de derde stand op de regering van Frankrijk vergroot worden"
+          },
+          {
+            "points": 1,
+            "description": "Door het opnemen van de behoudende geestelijken en edelen in de Nationale Vergadering verwachtte Lodewijk XVI dat de jakobijnen/de radicalen in de Nationale Vergadering minder invloed zouden hebben / dat de grondwet minder radicaal zou worden (waardoor hij zijn positie zoveel mogelijk kon behouden)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-verlichting-1650-1900-antw12.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 13,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Door de vertaling van boeken van verlichte denkers kon China moderniseren door kennis over te nemen uit het Westen\n• Door de vertaling in het klassieke Chinees kon de elite / konden mensen aan het hof/in het bestuur deze boeken lezen en gestimuleerd worden tot hervormingen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de vertaling van boeken van verlichte denkers kon China moderniseren door kennis over te nemen uit het Westen"
+          },
+          {
+            "points": 1,
+            "description": "Door de vertaling in het klassieke Chinees kon de elite / konden mensen aan het hof/in het bestuur deze boeken lezen en gestimuleerd worden tot hervormingen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-china-1842-2001-antw13.png"
+        ]
+      },
+      {
+        "title": "Moderne tijd",
+        "question_number": 14,
+        "answer_text": "Kern van een juist antwoord is:\n• Paus Leo XIII roept werkgevers op om arbeiders tijd te geven voor hun godsdienstoefeningen / niet bloot te stellen aan verleiding en zedelijke gevaren, wat de (werk)omstandigheden van de arbeiders moet verbeteren (zoals past bij de discussie over de sociale kwestie) maar ook de positie van het (katholieke) geloof versterkt (zoals past bij het confessionalisme)\n• Paus Leo XIII wil de opkomst van het socialisme tegengaan, omdat door de oproep tot een betere behandeling katholieke arbeiders zich niet zullen wenden tot de socialisten (omdat de socialisten zich specifiek inzetten voor de emancipatie van de arbeiders)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Paus Leo XIII roept werkgevers op om arbeiders tijd te geven voor hun godsdienstoefeningen / niet bloot te stellen aan verleiding en zedelijke gevaren, wat de (werk)omstandigheden van de arbeiders moet verbeteren (zoals past bij de discussie over de sociale kwestie) maar ook de positie van het (katholieke) geloof versterkt (zoals past bij het confessionalisme)"
+          },
+          {
+            "points": 2,
+            "description": "Paus Leo XIII wil de opkomst van het socialisme tegengaan, omdat door de oproep tot een betere behandeling katholieke arbeiders zich niet zullen wenden tot de socialisten (omdat de socialisten zich specifiek inzetten voor de emancipatie van de arbeiders)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-moderne-tijd-antw14.png"
+        ]
+      },
+      {
+        "title": "Verlichting 1650 – 1900",
+        "question_number": 15,
+        "answer_text": "Kern van een juist antwoord is:\n• Wilhelmina Drucker geeft de boodschap weer dat door het burgerlijk gezinsideaal de man wordt erkend als hoofd van het gezin / de vrouw ondergeschikt is aan de man, zodat vrouwen hierdoor niet kunnen strijden voor gelijke rechten / zodat mannen de kans krijgen om van vrouwen te profiteren\n• Wilhelmina Drucker geeft de boodschap weer dat drankmisbruik ervoor zorgt dat mannen geen bijdrage leveren aan het gezin(sinkomen) / dat drankmisbruik mannen weerhoudt van het onderhouden van hun gezin, zodat de vrouwen (te) hard moeten werken om het gezin te onderhouden / zodat de vrouwen zich niet kunnen ontplooien omdat ze er in hun eentje voor staan",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Wilhelmina Drucker geeft de boodschap weer dat door het burgerlijk gezinsideaal de man wordt erkend als hoofd van het gezin / de vrouw ondergeschikt is aan de man, zodat vrouwen hierdoor niet kunnen strijden voor gelijke rechten / zodat mannen de kans krijgen om van vrouwen te profiteren"
+          },
+          {
+            "points": 2,
+            "description": "Wilhelmina Drucker geeft de boodschap weer dat drankmisbruik ervoor zorgt dat mannen geen bijdrage leveren aan het gezin(sinkomen) / dat drankmisbruik mannen weerhoudt van het onderhouden van hun gezin, zodat de vrouwen (te) hard moeten werken om het gezin te onderhouden / zodat de vrouwen zich niet kunnen ontplooien omdat ze er in hun eentje voor staan"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-verlichting-1650-1900-antw15.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 16,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Het keizerlijke hof riep Yuan Shikai in omdat hij als generaal met zijn leger de onrust kon neerslaan / opstanden tegen de keizer kon onderdrukken\n• Door deze eisen werd de macht van de keizer/de keizerlijke familie kleiner / werd de macht over de regering buiten de handen van de keizer gelegd, waaruit bleek dat Yuan Shikai ernaar streefde zelf de macht in China in handen te krijgen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het keizerlijke hof riep Yuan Shikai in omdat hij als generaal met zijn leger de onrust kon neerslaan / opstanden tegen de keizer kon onderdrukken"
+          },
+          {
+            "points": 2,
+            "description": "Door deze eisen werd de macht van de keizer/de keizerlijke familie kleiner / werd de macht over de regering buiten de handen van de keizer gelegd, waaruit bleek dat Yuan Shikai ernaar streefde zelf de macht in China in handen te krijgen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-china-1842-2001-antw16.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 17,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• De kritiek van Mao dat de nationalistische partij oude machtsstructuren/feodale krachten niet heeft aangepakt, past bij het communistische standpunt dat er een revolutie nodig is om verandering tot stand te brengen / dat het volk de machthebbers moet wegwerken / dat er geen klassen in de maatschappij moeten zijn\n• Mao vindt dat iedereen die de revolutie op het platteland niet steunt een vijand is / dat mensen die niet meedoen, mogen omkomen, wat past bij het in de praktijk brengen van een totalitaire ideologie (waarbij tegenstanders worden uitgeschakeld)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De kritiek van Mao dat de nationalistische partij oude machtsstructuren/feodale krachten niet heeft aangepakt, past bij het communistische standpunt dat er een revolutie nodig is om verandering tot stand te brengen / dat het volk de machthebbers moet wegwerken / dat er geen klassen in de maatschappij moeten zijn"
+          },
+          {
+            "points": 1,
+            "description": "Mao vindt dat iedereen die de revolutie op het platteland niet steunt een vijand is / dat mensen die niet meedoen, mogen omkomen, wat past bij het in de praktijk brengen van een totalitaire ideologie (waarbij tegenstanders worden uitgeschakeld)"
+          }
+        ],
+        "grading_note": "Alleen als het antwoord op de eerste deelvraag een combinatie bevat van kritiek van Mao en een daarbij passend communistisch standpunt, worden scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-china-1842-2001-antw17.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa 1918 - 1991",
+        "question_number": 18,
+        "answer_text": "Kern van een juist antwoord is:\n• De Duitse economie was (sinds het Dawesplan) sterk afhankelijk van Amerikaans kapitaal, dat door de beurskrach wegviel (omdat de Amerikaanse leningen werden gestopt/teruggevorderd)\n• De Sovjet-Unie was door de communistische (plan)economie grotendeels zelfvoorzienend / geïsoleerd van de wereldmarkt, waardoor de wereldcrisis op hun economie geen invloed had",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De Duitse economie was (sinds het Dawesplan) sterk afhankelijk van Amerikaans kapitaal, dat door de beurskrach wegviel (omdat de Amerikaanse leningen werden gestopt/teruggevorderd)"
+          },
+          {
+            "points": 1,
+            "description": "De Sovjet-Unie was door de communistische (plan)economie grotendeels zelfvoorzienend / geïsoleerd van de wereldmarkt, waardoor de wereldcrisis op hun economie geen invloed had"
+          }
+        ],
+        "grading_note": "Alleen als bij de eerste deelvraag wordt ingegaan op de afhankelijkheid van het Amerikaanse kapitaal, wordt 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-duitsland-in-europa-1918-1991-antw18.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 19,
+        "answer_text": "De juiste volgorde is:\n3, 2, 6, 1, 5, 4",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De juiste volgorde is: 3, 2, 6, 1, 5, 4"
+          }
+        ],
+        "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-china-1842-2001-antw19.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa 1918 - 1991",
+        "question_number": 20,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• De schrijver wil de boodschap overbrengen dat de denazificatie in de BRD is mislukt / dat de kapitalistische BRD geen afstand neemt van het naziverleden\n• door te schrijven dat (een van de volgende):\n  − er voormalige nationaalsocialistische officieren in de regering van de BRD zitten.\n  − de regering van de BRD (voormalige) nazi's/oorlogsmisdadigers 'onschuldig gevangen' noemt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De schrijver wil de boodschap overbrengen dat de denazificatie in de BRD is mislukt / dat de kapitalistische BRD geen afstand neemt van het naziverleden"
+          },
+          {
+            "points": 1,
+            "description": "door te schrijven dat (een van de volgende): er voormalige nationaalsocialistische officieren in de regering van de BRD zitten.; de regering van de BRD (voormalige) nazi's/oorlogsmisdadigers 'onschuldig gevangen' noemt."
+          }
+        ],
+        "grading_note": "Alleen als in het antwoord het uitblijven van denazificatie (of een juiste omschrijving hiervan) wordt genoemd, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-duitsland-in-europa-1918-1991-antw20.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa 1918 - 1991",
+        "question_number": 21,
+        "answer_text": "Kern van een juist antwoord is:\n• Behrendt geeft de economische ontwikkeling weer dat Duitsland van arm/onbelangrijk land verandert in een economische reus/welvarend land\n• Behrendt geeft weer dat West-Duitsland hierdoor politiek een hoofdrol krijgt / hierdoor een machtig land is geworden / dat landen als Frankrijk en Engeland niet langer de hoofdrol spelen\n• door af te beelden dat (een van de volgende):\n  − Duitsland in 1947 in de hoek staat / een klein kind is en in 1957 in het midden op de bank zit / landen als Nederland en België op schoot heeft / veel groter is geworden.\n  − Frankrijk / Groot-Brittannië in 1947 tevreden zijn / in het midden staan, en in 1957 ongelukkig kijken / achteraan staan / dunner zijn geworden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Behrendt geeft de economische ontwikkeling weer dat Duitsland van arm/onbelangrijk land verandert in een economische reus/welvarend land"
+          },
+          {
+            "points": 1,
+            "description": "Behrendt geeft weer dat West-Duitsland hierdoor politiek een hoofdrol krijgt / hierdoor een machtig land is geworden / dat landen als Frankrijk en Engeland niet langer de hoofdrol spelen"
+          },
+          {
+            "points": 1,
+            "description": "door af te beelden dat (een van de volgende): Duitsland in 1947 in de hoek staat / een klein kind is en in 1957 in het midden op de bank zit / landen als Nederland en België op schoot heeft / veel groter is geworden.; Frankrijk / Groot-Brittannië in 1947 tevreden zijn / in het midden staan, en in 1957 ongelukkig kijken / achteraan staan / dunner zijn geworden."
+          }
+        ],
+        "grading_note": "Alleen als bij de tweede deelvraag een juiste mening van Behrendt wordt weergegeven, wordt 1 scorepunt toegekend aan een passende verwijzing naar beide delen van de bron.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-duitsland-in-europa-1918-1991-antw21.png"
+        ]
+      },
+      {
+        "title": "Moderne tijd",
+        "question_number": 22,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nDoor de auto officieel / openlijk te overhandigen aan de eerste vrouwelijke burgemeester, wilde DAF aansluiten bij de verandering dat vrouwen zelfstandiger werden / een eigen carrière kregen / mobieler werden, waardoor mogelijk meer vrouwen een DAF zouden kopen / waardoor consumenten zouden inzien dat ook vrouwen een auto kunnen kopen voor zichzelf.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Door de auto officieel / openlijk te overhandigen aan de eerste vrouwelijke burgemeester, wilde DAF aansluiten bij de verandering dat vrouwen zelfstandiger werden / een eigen carrière kregen / mobieler werden, waardoor mogelijk meer vrouwen een DAF zouden kopen / waardoor consumenten zouden inzien dat ook vrouwen een auto kunnen kopen voor zichzelf."
+          }
+        ],
+        "grading_note": "Alleen als in het antwoord wordt ingegaan op een sociale (en niet een economische) verandering, worden scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-moderne-tijd-antw22.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 23,
+        "answer_text": "Kern van een juist antwoord is:\nHet artikel geeft mogelijk een eenzijdig beeld weer, omdat:\nbij 1:\n• tijdens de Culturele Revolutie een cultus rondom Mao werd gecreëerd / de samenleving ingrijpend werd veranderd, wat het artikel moet ondersteunen door Mao te beschrijven als een fitte leider die ondanks zijn leeftijd nog altijd kon zwemmen / tijdens het zwemmen de energie heeft om een meisje de rugslag te leren\nbij 2:\n• de staatskrant in (het totalitaire) China alleen positieve informatie over Mao zal publiceren / de opdracht krijgt om de personencultus van Mao te ondersteunen, waardoor het beeld wordt geschetst dat Mao golven doorkliefde / een meisje de rugslag leerde",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "bij 1: tijdens de Culturele Revolutie een cultus rondom Mao werd gecreëerd / de samenleving ingrijpend werd veranderd, wat het artikel moet ondersteunen door Mao te beschrijven als een fitte leider die ondanks zijn leeftijd nog altijd kon zwemmen / tijdens het zwemmen de energie heeft om een meisje de rugslag te leren"
+          },
+          {
+            "points": 2,
+            "description": "bij 2: de staatskrant in (het totalitaire) China alleen positieve informatie over Mao zal publiceren / de opdracht krijgt om de personencultus van Mao te ondersteunen, waardoor het beeld wordt geschetst dat Mao golven doorkliefde / een meisje de rugslag leerde"
+          }
+        ],
+        "grading_note": "Alleen als het antwoord een combinatie bevat van een argument (bij de eerste deelvraag) op welke wijze het artikel de Culturele Revolutie ondersteunt en (bij de tweede deelvraag) dat de staatskrant eenzijdige informatie bevat, en een passende verwijzing naar de anekdote, worden scorepunten toegekend.\nAls bij beide deelvragen dezelfde verwijzing naar de anekdote wordt genoemd, worden alleen bij de eerste juiste verwijzing scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-china-1842-2001-antw23.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa 1918 - 1991",
+        "question_number": 24,
+        "answer_text": "Kern van een juist antwoord is:\n• Meinhof geeft de kritiek dat de arbeiders geen inspraak hebben / dat het gewone volk geen kans krijgt om hun mening te verkondigen, wat past bij de kritiek van de Baader-Meinhof Gruppe op de falende democratie / op de macht van de kapitalistische elite in de BRD\n• Meinhof beweert dat protesten op straat niet geschikt zijn om de mening van het volk te laten horen / dat het volk niet de kans krijgt om zich te laten horen, waarmee ze vooruitloopt op het plegen van (terroristische) aanslagen / op het plegen van geweld om de maatschappij blijvend te veranderen (wat de Baader-Meinhof Gruppe in de jaren 1970 gebruikt als werkwijze)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Meinhof geeft de kritiek dat de arbeiders geen inspraak hebben / dat het gewone volk geen kans krijgt om hun mening te verkondigen, wat past bij de kritiek van de Baader-Meinhof Gruppe op de falende democratie / op de macht van de kapitalistische elite in de BRD"
+          },
+          {
+            "points": 2,
+            "description": "Meinhof beweert dat protesten op straat niet geschikt zijn om de mening van het volk te laten horen / dat het volk niet de kans krijgt om zich te laten horen, waarmee ze vooruitloopt op het plegen van (terroristische) aanslagen / op het plegen van geweld om de maatschappij blijvend te veranderen (wat de Baader-Meinhof Gruppe in de jaren 1970 gebruikt als werkwijze)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-duitsland-in-europa-1918-1991-antw24.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa 1918 - 1991",
+        "question_number": 25,
+        "answer_text": "Kern van een juist antwoord is:\n• De regering van de DDR wees de hervormingen van Gorbatsjov af (waarbij de opmerking paste dat de regering niet hoefde te doen wat de buren deden)\n• De Sovjet-Unie gaf aan dat ze de Brezjnevdoctrine zou loslaten, zodat de regering van de DDR bezorgd was dat ze niet op (militaire) steun kon rekenen als hervormingen zouden leiden tot opstanden/rellen tegen het communistische regime (zodat ze de hervormingen afwezen)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De regering van de DDR wees de hervormingen van Gorbatsjov af (waarbij de opmerking paste dat de regering niet hoefde te doen wat de buren deden)"
+          },
+          {
+            "points": 2,
+            "description": "De Sovjet-Unie gaf aan dat ze de Brezjnevdoctrine zou loslaten, zodat de regering van de DDR bezorgd was dat ze niet op (militaire) steun kon rekenen als hervormingen zouden leiden tot opstanden/rellen tegen het communistische regime (zodat ze de hervormingen afwezen)"
+          }
+        ],
+        "grading_note": "Alleen als bij de tweede deelvraag een juist verband wordt gelegd tussen het loslaten van de Brezjnevdoctrine en het afwijzen van de hervormingen, worden scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2022-iii-duitsland-in-europa-1918-1991-antw25.png"
+        ]
+      }
+    ]
+  }
+}
