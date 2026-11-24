@@ -20,7 +20,8 @@ Annotation file (Python, loaded with runpy):
         "text": {"b3": "full text_content override", "q4": "..."},   # optional
         "desc": {"b3": "neutral description of the image"},          # optional,
                  # inserted after the bron's inleiding (first paragraph)
-        "note": {"b7": "⚠️ CONTROLEREN: ..."},                       # optional, appended
+        "note": {"b7": "⚠️ CONTROLEREN: ...", "q8": "..."},         # optional, appended
+                 # to a context block's text_content or a vraag's question_text
         "links": {17: ["c1"]},                                      # optional
         "q": {n: (["<subdomein>", ...], ["kw", ...], "summary"), ...},
       },
@@ -158,6 +159,8 @@ def main():
             ordered += sorted([k for k in order if k.startswith("b") and k in links[n]],
                               key=lambda k: int(k[1:].split("-")[0]))
             text = a.get("text", {}).get(f"q{n}", qq["text"])
+            if f"q{n}" in a.get("note", {}):  # e.g. a bron the vraag needs is missing from the PDF
+                text = text + "\n" + a["note"][f"q{n}"]
             qs.append({"id": str(uuid.uuid4()), "exercise_id": ex_id, "question_number": n,
                        "topics": [{"domain": SUBDOMAINS.get(s, "?"), "subdomain": s} for s in subs],
                        "keywords": kws, "question_summary": summ,

@@ -150,6 +150,28 @@ def pad_range(lines_all, y0, y1, members, maxpad=4.0):
     return top, bot
 
 
+def clamp_wipe(wipe, keep):
+    """wipe_all_except() pads every wiped box by 2pt. When the next vraag's
+    inleiding starts directly under the last kept line (no blank line, e.g.
+    VWO-GS-25-II-O.pdf vraag 23/24 cut with --cut), that padding paints over
+    the descenders ("j", "p") of the kept line; likewise a wiped line directly
+    above eats the ascenders of the first kept line. Clamp wipe boxes lying
+    below / above the kept band so they never reach into it."""
+    if not keep:
+        return wipe
+    kt = min(k[1] for k in keep)
+    kb = max(k[3] for k in keep)
+    out = []
+    for x0, y0, x1, y1 in wipe:
+        if y0 >= kb - 3.0 and y0 < kb:
+            y0 = kb
+        if y1 <= kt + 3.0 and y1 > kt:
+            y1 = kt
+        if y1 > y0:
+            out.append((x0, y0, x1, y1))
+    return out
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("pdf")
@@ -344,7 +366,7 @@ def main():
                             keep.append((v["x0"], v["y0"], v["x1"], v["y1"]))
                         pw = window_for(windows, pp["page"])
                         imgs.append(render(pp["page"], t, b, pw,
-                                           wipe=wipe_all_except(pp["page"], t, b, pw, keep)))
+                                           wipe=clamp_wipe(wipe_all_except(pp["page"], t, b, pw, keep), keep)))
                         texts.append(format_block_text(pp["page"], y0 + 0.5, y1 - 0.5))
                     for l in intro + vl:
                         used.add(id(l))
