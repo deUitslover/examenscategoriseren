@@ -398,7 +398,13 @@ def main():
                 b = y1 + 5
                 if ybot is not None:
                     b = min(b, ybot - 1)
-                b = min(b, p["limit"] + 2)
+                # A text line that starts above the footer limit but runs a few
+                # points past it (VWO-GS-25-I-O.pdf bron 8, "Gozewijn van Varick."
+                # ends at y=761 with the footer limit at 752) must not be cut:
+                # extend to the line's bottom; wipe_all_except() whites out any
+                # footer element that falls inside the extra strip.
+                ly1 = max((l[3] for l in ls), default=0)
+                b = min(b, max(p["limit"] + 2, ly1 + 1))
                 keep = [(min(x[0] for x in boxes), y0, max(x[2] for x in boxes), y1)]
                 imgs.append(render(page, t, b, win, wipe=wipe_all_except(page, t, b, win, keep)))
                 sl = check_crop(get_blocks(page), t, b)

@@ -1,0 +1,864 @@
+{
+ "exercises": [
+  {
+   "id": "9b043186-4b0a-4948-878d-a5cc5797b0e0",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Door de tijd heen",
+   "source": "VWO Geschiedenis 2024-II"
+  },
+  {
+   "id": "455d6c66-f023-4acc-9310-e641f8e48101",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Prehistorie en oudheid",
+   "source": "VWO Geschiedenis 2024-II"
+  },
+  {
+   "id": "62d1ad88-9c80-4c53-90a3-aad501e6b6fc",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "De middeleeuwen",
+   "source": "VWO Geschiedenis 2024-II"
+  },
+  {
+   "id": "5fe37cc6-3175-48c8-92f2-814e680b8ad6",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Steden en burgers 1050 - 1700",
+   "source": "VWO Geschiedenis 2024-II"
+  },
+  {
+   "id": "ed447e31-2e2d-45f5-91ff-774bd370f83a",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Verlichting 1650 – 1900",
+   "source": "VWO Geschiedenis 2024-II"
+  },
+  {
+   "id": "67dd6a22-f357-4a3c-91e8-f55e0c3c8ee4",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Vroegmoderne tijd",
+   "source": "VWO Geschiedenis 2024-II"
+  },
+  {
+   "id": "cffbfbc2-2c84-4962-a468-593a96d7d426",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "China 1842 – 2001",
+   "source": "VWO Geschiedenis 2024-II"
+  },
+  {
+   "id": "50a05906-6cce-41a4-922b-820f100eb876",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Moderne tijd",
+   "source": "VWO Geschiedenis 2024-II"
+  },
+  {
+   "id": "d75ad68f-9fce-4beb-8a7d-c5e368d11e24",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Duitsland in Europa 1918 - 1991",
+   "source": "VWO Geschiedenis 2024-II"
+  }
+ ],
+ "context_blocks": [
+  {
+   "id": "9d011484-2e7c-4572-90c2-a1e41739fd93",
+   "exercise_id": "455d6c66-f023-4acc-9310-e641f8e48101",
+   "label": "bron 1: munt van de opstandige Italiaanse bondgenoten van de Romeinen (89 v.Chr.)",
+   "image_url": "geschiedenis-vwo-2024-ii-prehistorie-en-oudheid-bron1.png",
+   "text_content": "bron 1 Voorkant en achterkant van een munt uit 89 voor Christus, geslagen door bondgenoten van de Romeinen:\n[Afbeelding] Foto van de voor- en achterkant van een zilveren munt: links het hoofd van de god Bacchus met een randschrift, rechts een stier die een wolf op de grond onder zich vertrapt, met een opschrift eronder.\nToelichting: Links is de Grieks-Romeinse God Bacchus afgebeeld. Rechts is een stier afgebeeld die Italië voorstelt en op de grond is de Romeinse wolf afgebeeld. De tekst in het Oskisch, de moedertaal van de bondgenoten, is: C. paapi mútil embratur (C. Papius Mutilus, aanvoerder).",
+   "block_type": "inline"
+  },
+  {
+   "id": "5ce5d7a7-2f68-4d18-94ff-4414be550118",
+   "exercise_id": "62d1ad88-9c80-4c53-90a3-aad501e6b6fc",
+   "label": "bron 2: brief van Bonifatius aan paus Zacharias (742)",
+   "image_url": "geschiedenis-vwo-2024-ii-de-middeleeuwen-bron2.png",
+   "text_content": "bron 2 Bonifacius is als missionaris uitgezonden naar Noordwest-Europa. In 742 schrijft hij in een brief aan paus Zacharias in Rome:\nDe eenvoudige gewone mensen uit Alamannia, Beieren en Frankenland1) denken, als zij in Rome iets zien wat wij hier [in Noordwest-Europa] als zondig verbieden, dat dit door de priesters te Rome wél wordt getolereerd en toegestaan. Zo verzekeren zij mij bijvoorbeeld te hebben gezien, dat ieder jaar te Rome en in de onmiddellijke nabijheid van de kerk van Petrus2) met nieuwjaarsdag op straat gedanst wordt en dat de mensen er als heidenen feestvieren onder geschreeuw en het zingen van godslasterlijke liederen. Terwijl dag en nacht de tafels beladen staan met allerlei heerlijkheden, wil niemand op die dag aan zijn naasten vuur of gereedschap of iets anders geven dat hij nodig heeft. Men vertelt mij ook dat zij te Rome vrouwen hebben gezien, die volgens heidense zeden amuletten droegen en linten om armen en benen gedaan hadden, en deze artikelen openlijk te koop aanboden aan anderen om ze te dragen.\nnoot 1 gebieden in het huidige Duitsland\nnoot 2 Dit is de Sint-Pieterskerk in Rome.",
+   "block_type": "inline"
+  },
+  {
+   "id": "2d5dc688-6f62-4f48-ba5b-40155f133bd2",
+   "exercise_id": "5fe37cc6-3175-48c8-92f2-814e680b8ad6",
+   "label": "bron 4: prent van Huis ter Nieuburch in Rijswijk, gebouwd voor Frederik Hendrik (1630)",
+   "image_url": "geschiedenis-vwo-2024-ii-steden-en-burgers-1050-1700-bron4.png",
+   "text_content": "bron 4 Een prent van het Huis ter Nieuburch in Rijswijk, een buitenhuis dat in 1630 wordt gebouwd in opdracht van stadhouder Frederik Hendrik van Oranje:\n[Afbeelding] Gravure in vogelvlucht van een groot buitenhuis met symmetrische tuinen, lanen en grachten; op de achtergrond ligt de stad Delft met kerktorens, bovenin een banderol met 'RYSWYK'.\nToelichting: De gevel van het buitenhuis is 100 meter. Op de achtergrond is de stad Delft te zien. Het huis is zo ontworpen dat het hoofdgebouw op één lijn ligt met de Nieuwe Kerk van Delft, waar stadhouders Willem en Maurits van Oranje begraven liggen, de vader en halfbroer van Frederik Hendrik.",
+   "block_type": "inline"
+  },
+  {
+   "id": "61740fe7-a424-454d-ac3d-5f9a0178d9be",
+   "exercise_id": "ed447e31-2e2d-45f5-91ff-774bd370f83a",
+   "label": "bron 5: pamflet van de Noord-Amerikaanse politicus Richard Bland (1764)",
+   "image_url": "geschiedenis-vwo-2024-ii-verlichting-1650-1900-bron5.png",
+   "text_content": "bron 5 In 1764 schrijft de Noord-Amerikaanse politicus Richard Bland in een pamflet:\nAls dan de mensen van deze kolonie vrijgeboren zijn en recht hebben op de(zelfde) vrijheden en privileges als de Engelse onderdanen dan moeten zij noodzakelijkerwijs een grondwet hebben. Om precies te zijn: moeten ze een wetgevende macht hebben die gedeeltelijk bestaat uit de vertegenwoordigers van het volk, die wetten kunnen uitvaardigen voor het INTERNE bestuur van de kolonie die geschikt zijn voor de verschillende omstandigheden en gelegenheden [in de kolonie]; en zonder zo'n vertegenwoordiging, durf ik te zeggen, kan er geen wet worden gemaakt.",
+   "block_type": "inline"
+  },
+  {
+   "id": "febcd861-2c93-471c-b657-455b652e94cb",
+   "exercise_id": "ed447e31-2e2d-45f5-91ff-774bd370f83a",
+   "label": "bron 7: brief van Lady Burghersh aan haar moeder over een theaterbezoek in Dijon (1814)",
+   "image_url": "geschiedenis-vwo-2024-ii-verlichting-1650-1900-bron7.png",
+   "text_content": "bron 7 De Britse Lady Burghersh schrijft in 1814 in een brief aan haar moeder over een theaterbezoek in Dijon:\nZe voerden Richard Leeuwenhart1) uit en elk gedeelte dat in de verste verte van toepassing was op de huidige situatie werd door het publiek opgepakt en ze schreeuwden Leve Koning Lodewijk XVIII! Leve de Bourbons2)! (…) Tussen de actes ging het gordijn omhoog om een plakkaat te onthullen met Leve de\nbondgenoten3)! onder een fleur-de-lys4) en één van de acteurs kwam op en zong een onvergetelijke vertolking van het prachtige romantische lied O Richard, o mijn koning. Ik kan je het effect gewoonweg niet beschrijven van het begin van O Lodewijk, o mijn koning of het luidruchtige enthousiasme\nwaarmee het werd ontvangen, iedereen stond op en wuifde met witte zakdoeken. Het ging door met O Lodewijk, o mijn koning. Het hele universum deelt mijn interesse in u.\nnoot 1 opera over de Engelse koning Richard noot 2 familienaam van het Franse koningshuis noot 3 de landen die in een coalitie vechten tegen Napoleon, waaronder Groot- Brittannië, Rusland en Pruisen noot 4 de Franse lelie, de bloem in het familiewapen van de Bourbons",
+   "block_type": "inline"
+  },
+  {
+   "id": "84a78cc7-cfa2-4137-ac1b-b9ad0476a1ec",
+   "exercise_id": "67dd6a22-f357-4a3c-91e8-f55e0c3c8ee4",
+   "label": "bron 3: cartograaf Fra Mauro over de weergave van Afrika op zijn wereldkaart (ca. 1450)",
+   "image_url": "geschiedenis-vwo-2024-ii-vroegmoderne-tijd-bron3.png",
+   "text_content": "bron 3 De Venetiaanse cartograaf Fra Mauro schrijft over het maken van een weergave van Afrika op zijn wereldkaart:\nVelen zijn van mening en in veel teksten staat, dat in de zuidelijke streken het water niet dit hele bewoonde en gematigde gebied [Afrika] omringt. Maar ik heb velen het tegendeel horen beweren, vooral diegenen die Zijne Majesteit, de Koning van Portugal, in schepen op ontdekkingstocht heeft gestuurd om het met eigen ogen te zien. Deze mannen zeggen dat ze vanuit het zuidwesten zo'n 2000 mijl voorbij de Straat van Gibraltar rond de kust [van Afrika] zeilden. (…) Deze mannen hebben nieuwe navigatiekaarten getekend en hebben namen gegeven aan rivieren, golven, kapen en havens, waarvan ik een kopie heb gehad. (…) Bovendien heb ik gesproken met een betrouwbaar persoon, die zegt dat hij veertig dagen op een Indiaas schip in een woeste storm vanuit de Indische Zee in westzuidwestelijke richting zeilde, voorbij Kaap Sofala en de Groene Eilanden1). (…) In het derde boek van zijn Cosmografia schrijft Pomponius Mela2) dat een zekere Eudosus (…) vanuit de Arabische Golf door die zuidelijke streken zeilde, tot hij aankwam bij Gades3), dat is bij de Straat van Gibraltar. Men kan dus zonder enige twijfel beweren dat dit zuidelijke en zuidwestelijke gebied bevaarbaar is en dat de Indische Zee een oceaan is en geen binnenzee.\nnoot 1 in zuidelijk Afrika noot 2 Pomponius Mela is een Romeinse geograaf uit de eerste eeuw.\nnoot 3 Gades is de Zuid-Spaanse havenstad Cadiz.",
+   "block_type": "inline"
+  },
+  {
+   "id": "a59951a0-289f-419d-bb51-77c231e03d9f",
+   "exercise_id": "67dd6a22-f357-4a3c-91e8-f55e0c3c8ee4",
+   "label": "bron 6: schilderij van Antoine Lavoisier en Marie-Anne Paulze door Jacques-Louis David (1788)",
+   "image_url": "geschiedenis-vwo-2024-ii-vroegmoderne-tijd-bron6.png",
+   "text_content": "bron 6 Een schilderij uit 1788 van de Franse schilder Jacques-Louis David:\n[Afbeelding] Schilderij van een staande vrouw die leunt op de schouder van een zittende man aan een tafel met een tafelkleed, papieren, een ganzenveer en glazen scheikundige instrumenten; op de vloer ligt een glazen kolf.\nToelichting: De personen op het schilderij zijn Antoine Lavoisier, belastinginner voor de Franse koning, en zijn vrouw Marie-Anne Paulze. Beiden zijn scheikundigen.",
+   "block_type": "inline"
+  },
+  {
+   "id": "0ec74665-af79-4a9b-8af0-0690d764c540",
+   "exercise_id": "67dd6a22-f357-4a3c-91e8-f55e0c3c8ee4",
+   "label": "bron 7: brief van Lady Burghersh aan haar moeder over een theaterbezoek in Dijon (1814)",
+   "image_url": "geschiedenis-vwo-2024-ii-vroegmoderne-tijd-bron7.png",
+   "text_content": "bron 7 De Britse Lady Burghersh schrijft in 1814 in een brief aan haar moeder over een theaterbezoek in Dijon:\nZe voerden Richard Leeuwenhart1) uit en elk gedeelte dat in de verste verte van toepassing was op de huidige situatie werd door het publiek opgepakt en ze schreeuwden Leve Koning Lodewijk XVIII! Leve de Bourbons2)! (…) Tussen de actes ging het gordijn omhoog om een plakkaat te onthullen met Leve de\nbondgenoten3)! onder een fleur-de-lys4) en één van de acteurs kwam op en zong een onvergetelijke vertolking van het prachtige romantische lied O Richard, o mijn koning. Ik kan je het effect gewoonweg niet beschrijven van het begin van O Lodewijk, o mijn koning of het luidruchtige enthousiasme\nwaarmee het werd ontvangen, iedereen stond op en wuifde met witte zakdoeken. Het ging door met O Lodewijk, o mijn koning. Het hele universum deelt mijn interesse in u.\nnoot 1 opera over de Engelse koning Richard noot 2 familienaam van het Franse koningshuis noot 3 de landen die in een coalitie vechten tegen Napoleon, waaronder Groot-Brittannië, Rusland en Pruisen noot 4 de Franse lelie, de bloem in het familiewapen van de Bourbons",
+   "block_type": "inline"
+  },
+  {
+   "id": "17f6be05-8174-4151-ae6c-363fb9d40d05",
+   "exercise_id": "cffbfbc2-2c84-4962-a468-593a96d7d426",
+   "label": "bron 8: brief van de Chinese diplomaat Keying aan de keizer (1844)",
+   "image_url": "geschiedenis-vwo-2024-ii-china-1842-2001-bron8.png",
+   "text_content": "bron 8 De Chinese diplomaat Keying onderhandelt met Westerse landen over verdragen. Hij schrijft in 1844 aan de keizer:\nAls ze1) een geëerde gast ontvangen dan zal de echtgenote zeker naar buiten komen om hem te ontmoeten. Zowel de Amerikaan Parker als de Fransman Legrené2) brachten hun vrouw mee, en op gelegenheden waarbij uw dienaar [Keying] naar de pakhuizen van de barbaren1) ging om met hen te spreken kwamen deze vrouwen naar buiten rennen om hem te begroeten. Uw dienaar was hierdoor verward en voelde zich niet op zijn gemak, terwijl zij zich juist diep vereerd voelden en opgetogen waren.\nnoot 1 Keying bedoelt Westerse mannen. noot 2 Deze mannen zijn betrokken bij diplomatieke onderhandelingen met China.",
+   "block_type": "inline"
+  },
+  {
+   "id": "0cdb89b2-3343-4312-8d24-05ed37c4d0d4",
+   "exercise_id": "cffbfbc2-2c84-4962-a468-593a96d7d426",
+   "label": "bron 9: poster van de Chinese nationalistische partij met Sun Yat-sen (1928)",
+   "image_url": "geschiedenis-vwo-2024-ii-china-1842-2001-bron9.png",
+   "text_content": "bron 9 Poster van de Chinese nationalistische partij uit 1928:\n[Afbeelding] Poster: Sun Yat-sen zit in uniform op drie stenen met Chinese opschriften voor een zon met stralen; onder de stenen liggen drie figuren platgedrukt (communisten, warlords en imperialisten).\nToelichting: De zittende persoon is de in 1925 overleden Sun Yat-sen. Op de stenen staat van links naar rechts: 'sociaal welzijn', 'recht op bestuur' en 'nationalisme'. De figuren onderin stellen van links naar rechts voor: communisten, warlords (plaatselijke militaire machthebbers), imperialisten.",
+   "block_type": "inline"
+  },
+  {
+   "id": "d7eb41a4-0f04-4c8b-a60d-034bd5d0d5e8",
+   "exercise_id": "50a05906-6cce-41a4-922b-820f100eb876",
+   "label": "bron 14: foto van minister-president Den Uyl bij de ontvangst van het Nederlands elftal (1974)",
+   "image_url": "geschiedenis-vwo-2024-ii-moderne-tijd-bron14.png",
+   "text_content": "bron 14 In 1974 werd het Nederlands elftal tweede op het wereldkampioenschap voetbal. Enkele dagen later ontving minister-president Joop den Uyl het elftal, waarbij deze foto werd gemaakt:\n[Afbeelding] Zwart-witfoto in een tuin voor een groot wit huis: een keeper, minister-president Den Uyl, een vrouw en de bondscoach lopen arm in arm in een polonaise, omringd door publiek.\nToelichting: Van links naar rechts zijn te zien keeper Piet Schrijvers, minister-president Joop den Uyl, Wil Hulsbosch (de echtgenote van bondscoach Rinus Michels) en bondscoach Rinus Michels.",
+   "block_type": "inline"
+  },
+  {
+   "id": "f202849a-29d8-4c83-bf0f-38b2284bb8c0",
+   "exercise_id": "d75ad68f-9fce-4beb-8a7d-c5e368d11e24",
+   "label": "bron 10: brief van Elly Herschel uit Sobibor aan haar ouders in Westerbork (1943)",
+   "image_url": "geschiedenis-vwo-2024-ii-duitsland-in-europa-1918-1991-bron10.png",
+   "text_content": "bron 10 Op 23 mei 1943 schrijft de negentienjarige Elly Herschel vanuit vernietigingskamp Sobibor (in het door Duitsland bezette Polen) aan haar ouders in doorgangskamp Westerbork (Nederland):\nLieve ouders, Ik ben hier in een werkkamp, en werk in de wasserij. Met mij gaat alles goed. Het eten is hier goed. Er zijn hier Nederlanders, Fransen, Polen en Russen. Ik heb ook veel vrienden. Lieve ouders, schrijf snel terug, groeten en kussen, jullie dochter Elly L. Herschel. Groeten aan alle vrienden.",
+   "block_type": "inline"
+  },
+  {
+   "id": "fe879e86-a2d7-44b7-a619-3f49092dfe19",
+   "exercise_id": "d75ad68f-9fce-4beb-8a7d-c5e368d11e24",
+   "label": "bron 11: gesproken tekst bij de film City out of Darkness, gefinancierd uit het Marshallplan (1950)",
+   "image_url": "geschiedenis-vwo-2024-ii-duitsland-in-europa-1918-1991-bron11.png",
+   "text_content": "bron 11 In 1950 wordt in bioscopen in de BRD de film City out of Darkness (Stad verlost uit de duisternis) getoond. De film wordt gefinancierd vanuit het Marshallplan. Gesproken tekst bij de film is:\nBerlijn heeft weer licht, stabiel en betrouwbaar, na jaren waarin duisternis het dagelijks leven van de stad kenmerkte. Maar Berlijn herinnert zich de maanden na de oorlog, voordat de lichten weer aangingen, en de jaren erna toen de elektriciteit uit de Sovjetzone kwam en elk moment afgesloten kon worden. (…) Een tijd lang functioneerde Berlijn niet als een stad, maar als een bewoonde ruïne. De grote energiecentrale, die Berlijn vroeger van stroom voorzag, was verdwenen. Gedemonteerd door het Rode Leger1). Ze demonteerden de turbines, dynamo's, generatoren en transformators en brachten die naar Rusland en de communistische satellietstaten. (…) Maar nu hoeft het vrije Berlijn niet meer bang te zijn voor stroomafsluiting door de Sovjets. De Energiecentrale West genereert genoeg stroom voor alle huishoudens en industrie. De tijd van ontberingen en onzekerheid is nu voorbij. Er is weer licht in het vrije Berlijn.\nnoot 1 het leger van de Sovjet-Unie",
+   "block_type": "inline"
+  },
+  {
+   "id": "acd6f742-d1eb-4062-9f6f-156b1ee5a695",
+   "exercise_id": "d75ad68f-9fce-4beb-8a7d-c5e368d11e24",
+   "label": "bron 12: rapport in opdracht van de DDR-regering over de opstand van 1953",
+   "image_url": "geschiedenis-vwo-2024-ii-duitsland-in-europa-1918-1991-bron12.png",
+   "text_content": "bron 12 Uit een rapport geschreven in opdracht van de regering van de DDR over de opstand in 1953:\nOm ontspanning in de internationale verhoudingen tegen te gaan, en om van Berlijn en de DDR het beginpunt van oorlog in Europa te maken, hebben vijandige troepen, met directe steun en onder leiding van Amerikaanse instanties en vijanden van het volk, en [onder leiding van] de oorlogsstokers in Bonn1), in de periode van 16 juni tot 22 juni 1953 een poging gedaan om een fascistische staatsgreep in de DDR te organiseren. Naast de langdurige pogingen van hun instanties en contacten in de DDR en hun dagelijkse propaganda-aanvallen via radio, pamfletten en gedrukte publicaties, enz., hebben deze vijandelijke krachten hun ondermijnende activiteiten na de dood van Stalin vergroot.\nnoot 1 Bonn is de hoofdstad van de BRD in die tijd.",
+   "block_type": "inline"
+  },
+  {
+   "id": "189ec480-804f-4140-81fc-a99b723ce426",
+   "exercise_id": "d75ad68f-9fce-4beb-8a7d-c5e368d11e24",
+   "label": "bron 13: Ulrike Meinhof over de bevolking van de Bondsrepubliek (1964)",
+   "image_url": "geschiedenis-vwo-2024-ii-duitsland-in-europa-1918-1991-bron13.png",
+   "text_content": "bron 13 In 1964 schreef Ulrike Meinhof:\nDe bevolking van de Bondsrepubliek laat hun eigen leven en hun geschiedenis voorbijgaan, zonder dat ze goed op de hoogte zijn. Ze zijn verblind, gedesoriënteerd, niet in staat te kiezen tussen wasmiddelen als Pril of Sunil. Ze weten alles van babyvoeding en huishoudelijke apparaten maar niets van niet-aanvalsverdragen en kernwapenvrije zones.",
+   "block_type": "inline"
+  }
+ ],
+ "questions": [
+  {
+   "id": "0bb654b3-dd1e-4a85-9aa8-307d94aa6c6b",
+   "exercise_id": "9b043186-4b0a-4948-878d-a5cc5797b0e0",
+   "question_number": 1,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Opkomst nationaalsocialisme en Tweede Wereldoorlog (1918-1945)"
+    },
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij in de Gouden Eeuw (1602-1700)"
+    },
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichtingsideeën in de Europese politieke cultuur (1813-1900)"
+    }
+   ],
+   "keywords": [
+    "chronologie",
+    "VOC",
+    "Napoleon",
+    "vrouwenrechtenbeweging",
+    "Eerste Wereldoorlog",
+    "Republiek van Weimar"
+   ],
+   "question_summary": "Chronologisch ordenen van zes vrouwen die mannenkleren droegen, uit verschillende tijdvakken.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-door-de-tijd-heen-vraag1.png",
+   "question_text": "De volgende vrouwen, die kleren aantrokken die in hun tijd door mannen werden gedragen, staan in willekeurige volgorde:\n1 Amelia Jenks Bloomer woonde de eerste Amerikaanse bijeenkomst van de vrouwenrechtenbeweging bij. De lange wijde broek die zij droeg kreeg de naam 'Bloomer'.\n2 De actrice Marlene Dietrich had, gekleed in rokkostuum, succes in de filmzalen van de Weimarrepubliek.\n3 De Nederlands-Joodse dirigent Frieda Belinfante droeg mannenkleren tijdens haar verzetswerk en als onderduiker.\n4 De oorlogscorrespondente Dorothy Lawrence droeg een soldatenuniform om niet op te vallen in de loopgraven in Frankrijk.\n5 Francina Broese Gunningh, die mannenkleren aantrok om veilig door Frankrijk te kunnen reizen, werd ingelijfd bij het leger van Napoleon.\n6 Maeyken Blomme droeg de kleren van een matroos om met haar geliefde mee te varen op een schip van de VOC. 2p 1 Zet deze vrouwen in de juiste chronologische volgorde, van vroeger naar later. Noteer alleen de nummers.",
+   "context_block_ids": []
+  },
+  {
+   "id": "7ca77705-b54a-44a5-a1dd-0c0fd7753512",
+   "exercise_id": "455d6c66-f023-4acc-9310-e641f8e48101",
+   "question_number": 2,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Grieken en Romeinen (3000 v.Chr.-500 n.Chr.)"
+    }
+   ],
+   "keywords": [
+    "propaganda herkennen",
+    "romanisering",
+    "Romeinse rijk",
+    "Romeins burgerrecht",
+    "verspreiding Grieks-Romeinse cultuur",
+    "munten"
+   ],
+   "question_summary": "Aangeven welke propagandaboodschap een munt van opstandige Italiaanse bondgenoten uitdraagt en hoe de munt romanisering aantoont.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-prehistorie-en-oudheid-vraag2.png",
+   "question_text": "Gebruik bron 1. In de eerste eeuw voor Christus komen Italiaanse bondgenoten van de Romeinen in opstand omdat zij het Romeinse burgerrecht niet krijgen. 2p 2 Geef aan:\n− welke propagandaboodschap de munt moet overbrengen, en\n− dat je met de munt de romanisering van het Italiaanse schiereiland kunt aantonen.",
+   "context_block_ids": [
+    "9d011484-2e7c-4572-90c2-a1e41739fd93"
+   ]
+  },
+  {
+   "id": "566b5653-2084-41fb-aabd-9a5a3f173976",
+   "exercise_id": "455d6c66-f023-4acc-9310-e641f8e48101",
+   "question_number": 3,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Grieken en Romeinen (3000 v.Chr.-500 n.Chr.)"
+    }
+   ],
+   "keywords": [
+    "Romeins burgerrecht",
+    "romanisering",
+    "Latijn",
+    "Romeinse rijk",
+    "verspreiding Grieks-Romeinse cultuur",
+    "propaganda herkennen"
+   ],
+   "question_summary": "Uitleggen waarom opstandige bondgenoten Latijnse teksten op hun munten zetten om Romeinse burgerrechten te verkrijgen.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-prehistorie-en-oudheid-vraag3.png",
+   "question_text": "De munten van de opstandige Romeinse bondgenoten (zie bron 1) hadden vaak teksten in het Oskisch, de taal van de bondgenoten, én in het Latijn. 2p 3 Leg uit dat de bondgenoten burgerrechten wilden verkrijgen door ook teksten in het Latijn op te nemen.",
+   "context_block_ids": [
+    "9d011484-2e7c-4572-90c2-a1e41739fd93"
+   ]
+  },
+  {
+   "id": "8f471a56-5d32-4a11-a501-dcaedd198b74",
+   "exercise_id": "62d1ad88-9c80-4c53-90a3-aad501e6b6fc",
+   "question_number": 4,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Monniken en ridders (500-1000)"
+    }
+   ],
+   "keywords": [
+    "kerstening",
+    "Bonifatius",
+    "paus",
+    "missionarissen",
+    "heidendom",
+    "verspreiding christendom"
+   ],
+   "question_summary": "Uitleggen hoe Bonifatius met een brief aan de nieuwe paus de kerstening wilde bevorderen en zijn positie als missionaris wilde versterken.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-de-middeleeuwen-vraag4.png",
+   "question_text": "Gebruik bron 2. Zacharias is in 741 gekozen als paus. 4p 4 Leg uit dat Bonifatius met deze brief:\n− de kerstening in Noordwest-Europa wil bevorderen, en\n− zijn positie als missionaris wil versterken bij de nieuwe paus.",
+   "context_block_ids": [
+    "5ce5d7a7-2f68-4d18-94ff-4414be550118"
+   ]
+  },
+  {
+   "id": "def68385-5c43-4ad3-9257-3ba146dc0765",
+   "exercise_id": "5fe37cc6-3175-48c8-92f2-814e680b8ad6",
+   "question_number": 5,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij en centralisatie (1302-1602)"
+    }
+   ],
+   "keywords": [
+    "Bourgondische centralisatiepolitiek",
+    "Karel de Stoute",
+    "stedelijke privileges",
+    "koopmansbeurs",
+    "Brugge",
+    "zelfbestuur"
+   ],
+   "question_summary": "Het weghalen van de Luikse perroen door Karel de Stoute verklaren vanuit Bourgondische centralisatiepolitiek en de koopmansbeurs van Brugge.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-steden-en-burgers-1050-1700-vraag5.png",
+   "question_text": "Een geschiedenis: Vanaf de twaalfde eeuw stond op het marktplein van de stad Luik een stenen zuil, de 'perroen' genaamd. Nieuwe wetten waren pas geldig als ze bij de perroen werden afgekondigd. Vanaf 1465 voerden de inwoners van Luik oorlog met de Bourgondische hertogen. Hertog Karel de Stoute won de oorlog en besloot de perroen uit Luik weg te laten halen en in Brugge tentoon te stellen voor de koopmansbeurs. 3p 5 Licht het besluit van Karel de Stoute toe door:\n− uit te leggen welk politiek beleid in de Nederlanden de hertog uitvoerde door het weghalen van de perroen, en\n− de keuze te verklaren de perroen juist voor de koopmansbeurs te plaatsen.",
+   "context_block_ids": []
+  },
+  {
+   "id": "62e49be2-9d90-449f-8f2d-849de8c96b9a",
+   "exercise_id": "5fe37cc6-3175-48c8-92f2-814e680b8ad6",
+   "question_number": 7,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij en centralisatie (1302-1602)"
+    },
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Ontdekkers en hervormers — overig (1500-1600)"
+    }
+   ],
+   "keywords": [
+    "moderne devotie",
+    "individuele geloofsbeleving",
+    "Reformatie",
+    "boekdrukkunst",
+    "Karel V",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "De vraag naar een geïllustreerd boek over het leven van Jezus en het verbod erop verklaren vanuit geloofsbeleving en de Reformatie.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-steden-en-burgers-1050-1700-vraag7.png",
+   "question_text": "In 1537 werd in Antwerpen Dat leven ons Heeren Christi Jesu uitgegeven. Er was een grote vraag naar dit boek, dat was vertaald uit het Latijn en waarin met 186 afbeeldingen het leven van Jezus Christus werd geïllustreerd. Het boek werd kort na uitgave geplaatst op lijsten voor 'quade en suspecte' (slechte en verdachte) boeken die in beslag moesten worden genomen. 3p 7 Verklaar:\n− de vraag naar boeken zoals deze vanuit de opkomst van de individuele geloofsbeleving in de Nederlanden, en\n− de plaatsing van dit boek op de lijst van boeken die in beslag moesten worden genomen, waarbij je je antwoord ondersteunt met een kenmerkend aspect uit de vroegmoderne tijd.",
+   "context_block_ids": []
+  },
+  {
+   "id": "edf30309-c49b-4eea-9eff-4af13a9d7bfe",
+   "exercise_id": "5fe37cc6-3175-48c8-92f2-814e680b8ad6",
+   "question_number": 8,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij in de Gouden Eeuw (1602-1700)"
+    }
+   ],
+   "keywords": [
+    "stadhouder",
+    "Frederik Hendrik",
+    "Oranjes",
+    "legitimiteit",
+    "Republiek",
+    "bronverwijzing"
+   ],
+   "question_summary": "Met een prent van Huis ter Nieuburch uitleggen hoe Frederik Hendrik zijn legitimiteit en internationaal aanzien wilde vergroten.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-steden-en-burgers-1050-1700-vraag8.png",
+   "question_text": "Gebruik bron 4. Frederik Hendrik gaat ervan uit dat hij met de bouw van Huis ter Nieuburch:\n− zijn legitimiteit als stadhouder binnen de Republiek kan benadrukken, en\n− zijn aanzien buiten de Republiek kan vergroten. 4p 8 Leg beide redeneringen van Frederik Hendrik uit, telkens met een andere verwijzing naar de bron.",
+   "context_block_ids": [
+    "2d5dc688-6f62-4f48-ba5b-40155f133bd2"
+   ]
+  },
+  {
+   "id": "786b0d71-4611-42b0-9008-67e6191cf6fd",
+   "exercise_id": "5fe37cc6-3175-48c8-92f2-814e680b8ad6",
+   "question_number": 9,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij in de Gouden Eeuw (1602-1700)"
+    }
+   ],
+   "keywords": [
+    "Rampjaar 1672",
+    "Willem III",
+    "Johan de Witt",
+    "regenten",
+    "oligarchisering",
+    "Oranjegezind vs. staatsgezind"
+   ],
+   "question_summary": "De beslissing van Willem III om het Purmerendse stadsbestuur te handhaven verklaren vanuit het Rampjaar en oligarchisering.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-steden-en-burgers-1050-1700-vraag9.png",
+   "question_text": "Een geschiedenis: In september 1672 eiste een groep burgers het aftreden van het stadsbestuur van Purmerend, omdat de regenten raadspensionaris Johan de Witt zouden hebben gesteund. Zij wilden een nieuw bestuur waarin regenten en burgers plaats zouden nemen. Na onderzoek besloot stadhouder Willem III dat de stadsbestuurders niet hoefden af te treden omdat de beschuldiging niet klopte én omdat de bestuurders hem trouw beloofden. 3p 9 Verklaar de beslissing van Willem III door:\n− uit te leggen waardoor een trouw stadsbestuur voor Willem III juist in 1672 belangrijk was, en\n− de politiek-bestuurlijke ontwikkeling uit de tweede helft van de zeventiende eeuw te noemen die Willem III versterkte met zijn beslissing.",
+   "context_block_ids": []
+  },
+  {
+   "id": "1e256ba0-8727-4ac9-8df8-a87ab4a350ec",
+   "exercise_id": "ed447e31-2e2d-45f5-91ff-774bd370f83a",
+   "question_number": 10,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Democratische revoluties in de VS en Frankrijk (1776-1813)"
+    },
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichte ideeën over een rechtvaardige samenleving (1650-1789)"
+    }
+   ],
+   "keywords": [
+    "Locke",
+    "Common Sense",
+    "Thomas Paine",
+    "Amerikaanse onafhankelijkheidsstrijd",
+    "volkssoevereiniteit",
+    "bronverwijzing"
+   ],
+   "question_summary": "Met verwijzingen naar een pamflet van Richard Bland aantonen dat hij uitgaat van Locke en overeenkomt met Common Sense.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-verlichting-1650-1900-vraag10.png",
+   "question_text": "Gebruik bron 5. Twee conclusies:\n1 Richard Bland gaat uit van een verlicht idee van Locke.\n2 De boodschap van het pamflet Common Sense komt overeen met de boodschap van het pamflet van Bland 4p 10 Ondersteun beide conclusies, telkens met een andere verwijzing naar de bron.",
+   "context_block_ids": [
+    "61740fe7-a424-454d-ac3d-5f9a0178d9be"
+   ]
+  },
+  {
+   "id": "9a1e05aa-12c4-4723-92bc-0862ef55261c",
+   "exercise_id": "ed447e31-2e2d-45f5-91ff-774bd370f83a",
+   "question_number": 12,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Democratische revoluties in de VS en Frankrijk (1776-1813)"
+    },
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichtingsideeën in de Europese politieke cultuur (1813-1900)"
+    }
+   ],
+   "keywords": [
+    "chronologie",
+    "La Fayette",
+    "Amerikaanse onafhankelijkheidsstrijd",
+    "Franse Revolutie",
+    "Napoleon",
+    "afscheiding België"
+   ],
+   "question_summary": "Chronologisch ordenen van zes gebeurtenissen uit het leven van La Fayette.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-verlichting-1650-1900-vraag12.png",
+   "question_text": "De volgende gebeurtenissen uit het leven van de Fransman Gilbert du Motier markies de La Fayette (1757-1834) staan in willekeurige volgorde:\n1 Een jaar na de Amerikaanse onafhankelijkheidsverklaring werd La Fayette officier in het leger van George Washington.\n2 La Fayette schreef mee aan de Franse Verklaring van de rechten van de mens en de burger.\n3 Na de afscheiding van België werd bij de zoektocht naar een nieuwe vorst voorgesteld om La Fayette tot groothertog te benoemen.\n4 Na de nederlaag bij de Slag bij Waterloo riep La Fayette Napoleon op om af te treden als keizer.\n5 Nadat La Fayette zich had uitgesproken tegen de tweede revolutie in Frankrijk, vluchtte hij naar de Zuidelijke Nederlanden.\n6 Vanwege de acute financiële crisis in Frankrijk adviseerde La Fayette Lodewijk XVI om de Staten-Generaal bijeen te roepen. 2p 12 Zet deze gebeurtenissen in de juiste chronologische volgorde, van vroeger naar later. Noteer alleen de nummers.",
+   "context_block_ids": []
+  },
+  {
+   "id": "37e54c9f-ce97-429a-8fba-76b2cf9ec4e5",
+   "exercise_id": "ed447e31-2e2d-45f5-91ff-774bd370f83a",
+   "question_number": 13,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichtingsideeën in de Europese politieke cultuur (1813-1900)"
+    }
+   ],
+   "keywords": [
+    "Congres van Wenen",
+    "restauratie",
+    "legitimiteit",
+    "Bourbons",
+    "bruikbaarheid",
+    "betrouwbaarheid"
+   ],
+   "question_summary": "Onderbouwen dat een brief van Lady Burghersh bruikbaar is voor onderzoek naar Franse politieke voorkeur in 1814 en het legitimiteitsbeginsel aantonen.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-verlichting-1650-1900-vraag13.png",
+   "question_text": "Gebruik bron 7. Stel: je besluit dat deze bron bruikbaar is voor een onderzoek naar de politieke voorkeur van een deel van het Franse volk in 1814. 3p 13 Onderbouw dit besluit door:\n− te verklaren dat je door de aard van de bron ervan uitgaat dat Lady Burghersh een betrouwbare beschrijving geeft, en\n− met een verwijzing naar de bron aan te tonen van welk uitgangspunt van het Congres van Wenen het publiek al uitgaat volgens Lady Burghersh.",
+   "context_block_ids": [
+    "febcd861-2c93-471c-b657-455b652e94cb"
+   ]
+  },
+  {
+   "id": "f3b71b96-a44e-4186-a256-23d572dd1f65",
+   "exercise_id": "ed447e31-2e2d-45f5-91ff-774bd370f83a",
+   "question_number": 15,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichtingsideeën in de Europese politieke cultuur (1813-1900)"
+    }
+   ],
+   "keywords": [
+    "industriële revolutie",
+    "urbanisatie",
+    "sociale kwestie",
+    "burgerlijk gezinsideaal",
+    "confessionalisme",
+    "YMCA"
+   ],
+   "question_summary": "De trek van jonge mannen naar de steden verklaren en uitleggen hoe de YMCA bijdroeg aan het burgerlijk gezinsideaal.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-verlichting-1650-1900-vraag15.png",
+   "question_text": "Een geschiedenis: In 1844 maakte George Williams zich zorgen over de grote groep jonge mannen die van het Britse platteland naar de steden trok. Hij richtte de Young Men's Christian Association (YMCA) op, waar jonge mannen in de avonduren konden sporten of aan Bijbelstudie konden doen. 3p 15 Licht deze geschiedenis toe door:\n− een historische verklaring te geven voor de grote toestroom van jonge mannen naar de steden in die tijd, en\n− uit te leggen op welke wijze de activiteiten van de YMCA bijdroegen aan het burgerlijk gezinsideaal.",
+   "context_block_ids": []
+  },
+  {
+   "id": "0db567ad-0e31-406f-9b6c-1713fa678632",
+   "exercise_id": "67dd6a22-f357-4a3c-91e8-f55e0c3c8ee4",
+   "question_number": 6,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Ontdekkers en hervormers — overig (1500-1600)"
+    }
+   ],
+   "keywords": [
+    "Europese overzeese expansie",
+    "ontdekkingsreizen",
+    "Portugal",
+    "cartografie",
+    "nieuwe wetenschappelijke belangstelling",
+    "betrouwbaarheid"
+   ],
+   "question_summary": "Aantonen dat Fra Mauro een betrouwbare wereldkaart nastreefde en het politieke motief van de Portugese koning voor de opdracht aangeven.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-vroegmoderne-tijd-vraag6.png",
+   "question_text": "Gebruik bron 3. Omstreeks 1450 geeft de Portugese koning opdracht aan Fra Mauro om een kaart te maken van de wereld. 3p 6 Licht het maken van de kaart toe door:\n− met twee verschillende argumenten aan te tonen dat Fra Mauro ernaar streeft een betrouwbare weergave te maken, en\n− aan te geven welk politiek motief de koning heeft voor deze opdracht.",
+   "context_block_ids": [
+    "84a78cc7-cfa2-4137-ac1b-b9ad0476a1ec"
+   ]
+  },
+  {
+   "id": "87d85d45-2f90-45be-b1ad-7eadb5c3fd63",
+   "exercise_id": "67dd6a22-f357-4a3c-91e8-f55e0c3c8ee4",
+   "question_number": 11,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichte ideeën over een rechtvaardige samenleving (1650-1789)"
+    }
+   ],
+   "keywords": [
+    "verlicht denken",
+    "sociale verhoudingen",
+    "wetenschappelijke revolutie",
+    "ancien régime",
+    "standensamenleving",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Aanpassingen aan een schilderij van het echtpaar Lavoisier verklaren vanuit verlicht denken en de wetenschappelijke revolutie.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-vroegmoderne-tijd-vraag11.png",
+   "question_text": "Gebruik bron 6. Dit schilderij wordt geschilderd in opdracht van Antoine Lavoisier en zijn vrouw Marie-Anne Paulze. Paulze laat de schilder enkele aanpassingen maken:\n1 Zij laat elementen verwijderen die rijkdom uitstralen, waaronder haar grote hoed met satijnen linten en kunstbloemen.\n2 Zij laat scheikundige instrumenten toevoegen op de tafel.\n3p 11 Licht deze aanpassingen toe door:\n− voor de eerste aanpassing uit te leggen dat deze verklaard kan worden vanuit het kenmerkend aspect 'het 'verlicht denken' dat werd toegepast op het terrein van de sociale verhoudingen', en\n− voor de tweede verandering een ander kenmerkend aspect uit de vroegmoderne tijd te noemen dat je hiermee kunt illustreren.",
+   "context_block_ids": [
+    "a59951a0-289f-419d-bb51-77c231e03d9f"
+   ]
+  },
+  {
+   "id": "7ff29149-1613-4ac9-b058-c91c81482064",
+   "exercise_id": "67dd6a22-f357-4a3c-91e8-f55e0c3c8ee4",
+   "question_number": 14,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichtingsideeën in de Europese politieke cultuur (1813-1900)"
+    }
+   ],
+   "keywords": [
+    "betrouwbaarheid",
+    "representativiteit",
+    "standplaatsgebondenheid",
+    "restauratie",
+    "Bourbons",
+    "Congres van Wenen"
+   ],
+   "question_summary": "Beredeneren waarom een historicus een brief van Lady Burghersh als minder betrouwbaar en niet representatief beschouwt.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-vroegmoderne-tijd-vraag14.png",
+   "question_text": "Gebruik bron 7. Stel: bij de presentatie van je onderzoek over de politieke voorkeur van een deel van het Franse volk in 1814 (zie vraag 13) geeft een historicus kritiek op je gebruik van de brief van Lady Burghersh. 2p 14 Beredeneer waardoor de historicus de informatie in de brief als minder betrouwbaar en als niet representatief beschouwt.",
+   "context_block_ids": [
+    "0ec74665-af79-4a9b-8af0-0690d764c540"
+   ]
+  },
+  {
+   "id": "2af1dabd-b39c-4cd1-871f-5dae4ea6f62a",
+   "exercise_id": "cffbfbc2-2c84-4962-a468-593a96d7d426",
+   "question_number": 16,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Verlies van regionale grootmacht (1842-1911)"
+    }
+   ],
+   "keywords": [
+    "confucianisme",
+    "ongelijke verdragen",
+    "Qing-dynastie",
+    "Westerse diplomaten",
+    "betrouwbaarheid",
+    "bruikbaarheid"
+   ],
+   "question_summary": "Uit een brief van diplomaat Keying een Chinese culturele norm afleiden en vanuit het confucianisme de betrouwbaarheid ervan verklaren.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-china-1842-2001-vraag16.png",
+   "question_text": "Gebruik bron 8. Je besluit deze beschrijving te gebruiken voor een onderzoek naar Chinese normen en waarden in de negentiende eeuw. 3p 16 Ondersteun je besluit door aan te geven:\n− met een verwijzing naar de bron welke Chinese culturele norm je aan de beschrijving kunt ontlenen, en\n− vanuit de Chinese cultuur te verklaren dat het aannemelijk is dat Keying aan de keizer een betrouwbare beschrijving geeft.",
+   "context_block_ids": [
+    "17f6be05-8174-4151-ae6c-363fb9d40d05"
+   ]
+  },
+  {
+   "id": "2e297e2f-a376-4087-bf2e-c02053c8c3d3",
+   "exercise_id": "cffbfbc2-2c84-4962-a468-593a96d7d426",
+   "question_number": 17,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Ontstaan van de Volksrepubliek (1912-1949)"
+    }
+   ],
+   "keywords": [
+    "Chiang Kaishek",
+    "Sun Yat-sen",
+    "breuk nationalisten-communisten",
+    "Noordelijke Veldtocht",
+    "propaganda herkennen",
+    "bronverwijzing"
+   ],
+   "question_summary": "Een nationalistische poster uit 1928 verklaren vanuit de breuk met de communisten in 1927 en de boodschap ervan uitleggen.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-china-1842-2001-vraag17.png",
+   "question_text": "Gebruik bron 9. De nationalistische partij brengt deze poster uit na een koerswijziging in 1927. 3p 17 Verklaar het uitgeven van deze poster door:\n− zonder bron aan te geven welke politieke koerswijziging de nationalistische partij in 1927 bewerkstelligt, en\n− uit te leggen welke boodschap de poster weergeeft over de nationalistische partij, waarbij je je antwoord ondersteunt met een verwijzing naar de bron.",
+   "context_block_ids": [
+    "0cdb89b2-3343-4312-8d24-05ed37c4d0d4"
+   ]
+  },
+  {
+   "id": "21ff54e0-26cf-445f-b460-cf2f655bb0d0",
+   "exercise_id": "cffbfbc2-2c84-4962-a468-593a96d7d426",
+   "question_number": 18,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Ontstaan van de Volksrepubliek (1912-1949)"
+    }
+   ],
+   "keywords": [
+    "Mantsjoerije",
+    "Mantsjoekwo",
+    "Puyi",
+    "marionettenstaat",
+    "Japanse bezetting",
+    "imperialisme"
+   ],
+   "question_summary": "Uitleggen welk politiek doel Japan had met het aanstellen van Puyi als keizer van Mantsjoekwo.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-china-1842-2001-vraag18.png",
+   "question_text": "In 1931 stichtten de Japanners in de Chinese provincie Mantsjoerije de staat Mantsjoekwo. Ze stelden Puyi als keizer van Mantsjoekwo aan. 2p 18 Leg uit welk politiek doel de Japanners met deze aanstelling van Puyi wilden bereiken.",
+   "context_block_ids": []
+  },
+  {
+   "id": "2aedd7e8-6b00-453e-8525-1a87a8c5c952",
+   "exercise_id": "cffbfbc2-2c84-4962-a468-593a96d7d426",
+   "question_number": 24,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Ontwikkeling tot grootmacht (1949-2001)"
+    }
+   ],
+   "keywords": [
+    "Culturele Revolutie",
+    "Rode Gardisten",
+    "Mao Zedong",
+    "cultus rond Mao",
+    "massamobilisatie",
+    "klassenstrijd"
+   ],
+   "question_summary": "Per besluit van Mao uit 1966 uitleggen hoe het de Culturele Revolutie ondersteunde.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-china-1842-2001-vraag24.png",
+   "question_text": "Drie besluiten die Mao bekendmaakte in augustus 1966:\n1 Rode Gardisten mochten vrij reizen met het openbaar vervoer.\n2 Scholen en universiteiten werden gesloten.\n3 Mao ging openbare audiënties houden voor zoveel mogelijk Rode Gardisten. Met deze besluiten wilde Mao de Culturele Revolutie tot een succes maken. 3p 24 Geef per besluit telkens een verschillende reden waardoor dit besluit de Culturele Revolutie ondersteunde.",
+   "context_block_ids": []
+  },
+  {
+   "id": "ea494e75-946e-432b-a710-d13df8d213ae",
+   "exercise_id": "cffbfbc2-2c84-4962-a468-593a96d7d426",
+   "question_number": 26,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Ontwikkeling tot grootmacht (1949-2001)"
+    }
+   ],
+   "keywords": [
+    "Deng Xiaoping",
+    "mensenrechten",
+    "toenadering tot de VS",
+    "Vier Moderniseringen",
+    "Democratiemuur",
+    "eenpartijstaat"
+   ],
+   "question_summary": "Een buitenlands- en binnenlands-politieke reden geven voor het weghalen van mensenrechtenposters door Deng Xiaoping.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-china-1842-2001-vraag26.png",
+   "question_text": "In 1979 verspreidde de Chinese mensenrechtenbeweging in de buurt van de Amerikaanse ambassade in Peking posters, waarin de Amerikaanse president gevraagd werd om aandacht te schenken aan de mensenrechten in China. Deng Xiaoping besloot deze posters te laten weghalen. 2p 26 Geef een buitenlands politieke reden en een binnenlands politieke reden voor het besluit van Deng Xiaoping.",
+   "context_block_ids": []
+  },
+  {
+   "id": "b99106d5-71ca-45a0-b628-4362760cdea5",
+   "exercise_id": "50a05906-6cce-41a4-922b-820f100eb876",
+   "question_number": 19,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Opkomst nationaalsocialisme en Tweede Wereldoorlog (1918-1945)"
+    }
+   ],
+   "keywords": [
+    "crisis van de jaren '30",
+    "werkverschaffing",
+    "Duitse bezetting van Nederland",
+    "dwangarbeid",
+    "Tweede Wereldoorlog",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Met twee gegevens over kamp De Beetse twee kenmerkende aspecten van de eerste helft van de twintigste eeuw illustreren.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-moderne-tijd-vraag19.png",
+   "question_text": "Twee gegevens over De Beetse, een kamp in Groningen:\n1 De Beetse werd in 1935 gebouwd als werkverschaffingskamp om de woeste gronden in de omgeving te ontginnen.\n2 In 1944 werden in De Beetse enkele honderden Nederlandse mannen gehuisvest die verplicht werden bij boeren de oogst binnen te halen. 2p 19 Noem voor elk gegeven een verschillend kenmerkend aspect van de eerste helft van de twintigste eeuw dat je hiermee kunt illusteren. Let op: je mag een kenmerkend aspect maar één keer gebruiken.",
+   "context_block_ids": []
+  },
+  {
+   "id": "f3729e9d-d96c-47f3-a27c-351e16f2a8b3",
+   "exercise_id": "50a05906-6cce-41a4-922b-820f100eb876",
+   "question_number": 27,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Hereniging en Europese integratie (1961-1991)"
+    }
+   ],
+   "keywords": [
+    "sociaal-culturele veranderingen",
+    "ontzuiling",
+    "informalisering",
+    "democratisering",
+    "jaren zeventig",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Met een foto van Den Uyl en het Nederlands elftal een sociaal-culturele verandering uit de tweede helft van de twintigste eeuw illustreren.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-moderne-tijd-vraag27.png",
+   "question_text": "Gebruik bron 14. Met deze foto kan je een sociaal-culturele verandering uit de tweede helft van de twintigste eeuw illustreren. 2p 27 Leg uit welke verandering dit is.",
+   "context_block_ids": [
+    "d7eb41a4-0f04-4c8b-a60d-034bd5d0d5e8"
+   ]
+  },
+  {
+   "id": "77aa2137-73b9-488a-805e-7c064f9031da",
+   "exercise_id": "d75ad68f-9fce-4beb-8a7d-c5e368d11e24",
+   "question_number": 20,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Opkomst nationaalsocialisme en Tweede Wereldoorlog (1918-1945)"
+    }
+   ],
+   "keywords": [
+    "Holocaust",
+    "vernietigingskampen",
+    "Sobibor",
+    "Westerbork",
+    "misleiding",
+    "bronverwijzing"
+   ],
+   "question_summary": "Met een verplichte brief uit Sobibor uitleggen wat de Duitse bezetter met zulke brieven wilde bereiken.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-duitsland-in-europa-1918-1991-vraag20.png",
+   "question_text": "Gebruik bron 10. De brief van Elly Herschel is een voorbeeld van brieven die gevangenen in Sobibor verplicht moeten sturen naar familieleden. 2p 20 Leg met een verwijzing naar de brief uit, wat de Duitse bezetter hiermee wil bereiken.",
+   "context_block_ids": [
+    "f202849a-29d8-4c83-bf0f-38b2284bb8c0"
+   ]
+  },
+  {
+   "id": "62f98fe0-ce15-4cba-9c6b-1ea59da832b4",
+   "exercise_id": "d75ad68f-9fce-4beb-8a7d-c5e368d11e24",
+   "question_number": 21,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Duitsland en de Koude Oorlog (1945-1961)"
+    }
+   ],
+   "keywords": [
+    "Marshallplan",
+    "Trumandoctrine",
+    "Blokkade van Berlijn",
+    "bezettingszones",
+    "propaganda herkennen",
+    "bronverwijzing"
+   ],
+   "question_summary": "Met de tekst van een Marshallplan-film aantonen dat de Sovjet-Unie en het Westen verschilden over Duitsland en dat het Marshallplan de Trumandoctrine steunde.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-duitsland-in-europa-1918-1991-vraag21.png",
+   "question_text": "Gebruik bron 11. Twee conclusies:\n1 De Sovjet-Unie en de westerse geallieerden hebben een verschil van opvatting over het beleid in het naoorlogs Duitsland.\n2 Het Marshallplan wordt ingezet om de Trumandoctrine te ondersteunen. 4p 21 Ondersteun beide conclusies, telkens met een andere verwijzing naar de bron.",
+   "context_block_ids": [
+    "fe879e86-a2d7-44b7-a619-3f49092dfe19"
+   ]
+  },
+  {
+   "id": "8219adf2-e58d-4c47-ab68-241de5cd2897",
+   "exercise_id": "d75ad68f-9fce-4beb-8a7d-c5e368d11e24",
+   "question_number": 22,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Duitsland en de Koude Oorlog (1945-1961)"
+    }
+   ],
+   "keywords": [
+    "opstand 1953",
+    "DDR",
+    "propaganda herkennen",
+    "betrouwbaarheid",
+    "standplaatsgebondenheid",
+    "fascisme"
+   ],
+   "question_summary": "Toelichten welke politieke continuïteit een DDR-rapport over de opstand van 1953 suggereert en waarom het minder betrouwbaar is.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-duitsland-in-europa-1918-1991-vraag22.png",
+   "question_text": "Gebruik bron 12. Stel: je doet onderzoek naar de opstand in 1953. Je twijfelt over het gebruik van dit rapport als bron. 3p 22 Licht dit toe door:\n− aan te geven welke politieke continuïteit de regering van de DDR met dit rapport wil suggereren, en\n− uit te leggen waardoor je de informatie in het rapport als minder betrouwbaar beschouwt voor je onderzoek.",
+   "context_block_ids": [
+    "acd6f742-d1eb-4062-9f6f-156b1ee5a695"
+   ]
+  },
+  {
+   "id": "54f66ab0-5299-465a-a2b7-99bf7cb3e293",
+   "exercise_id": "d75ad68f-9fce-4beb-8a7d-c5e368d11e24",
+   "question_number": 23,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Hereniging en Europese integratie (1961-1991)"
+    }
+   ],
+   "keywords": [
+    "Ulrike Meinhof",
+    "protestbeweging",
+    "consumptiemaatschappij",
+    "Wirtschaftswunder",
+    "links terrorisme",
+    "sociaal-culturele veranderingen"
+   ],
+   "question_summary": "Uitleggen waarom jongeren in de Bondsrepubliek in de jaren 1960 sympathie hadden voor de ideeën van Ulrike Meinhof.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-duitsland-in-europa-1918-1991-vraag23.png",
+   "question_text": "Gebruik bron 13. Er bestaat onder jongeren in de Bondsrepubliek in de jaren 1960 sympathie voor de ideeën van Meinhof. 2p 23 Leg deze sympathie uit.",
+   "context_block_ids": [
+    "189ec480-804f-4140-81fc-a99b723ce426"
+   ]
+  },
+  {
+   "id": "14443b90-3d19-4810-b71b-edb60ec872d4",
+   "exercise_id": "d75ad68f-9fce-4beb-8a7d-c5e368d11e24",
+   "question_number": 25,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Hereniging en Europese integratie (1961-1991)"
+    }
+   ],
+   "keywords": [
+    "Ostpolitik",
+    "Willy Brandt",
+    "detente",
+    "Verdrag van Warschau",
+    "Oder-Neissegrens",
+    "Koude Oorlog"
+   ],
+   "question_summary": "De redenering van Brandt uitleggen dat het Verdrag van Warschau pas mogelijk was na het Verdrag van Moskou.",
+   "question_image_url": "geschiedenis-vwo-2024-ii-duitsland-in-europa-1918-1991-vraag25.png",
+   "question_text": "Twee gegevens:\n1 In augustus 1970 tekende Brandt namens de BRD het 'Verdrag van Moskou' met de Sovjet-Unie. De landen beloofden hierin zich in te zetten voor de detente.\n2 In december 1970 tekende Brandt namens de BRD het 'Verdrag van Warschau' met Polen. Hierin werd de grens erkend tussen Duitsland en Polen zoals die na de Tweede Wereldoorlog was vastgelegd. Brandt zei dat hij het Verdrag van Warschau nooit had kunnen sluiten als hij niet eerst het Verdrag van Moskou had getekend. 2p 25 Leg de redenering van Brandt uit.",
+   "context_block_ids": []
+  }
+ ]
+}
