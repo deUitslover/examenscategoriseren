@@ -1,0 +1,560 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "HAVO",
+    "source": "HAVO Economie 2022-I",
+    "answers": [
+      {
+        "title": "Studeren loont",
+        "question_number": 1,
+        "answer_text": "• Door studeren neemt (het opleidingsniveau en) de arbeidsproductiviteit toe (1)\n• en dit leidt tot een hoger bbp (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door studeren neemt (het opleidingsniveau en) de arbeidsproductiviteit toe"
+          },
+          {
+            "points": 1,
+            "description": "en dit leidt tot een hoger bbp"
+          }
+        ],
+        "grading_note": "Als in het antwoord op een juiste wijze wordt verwoord dat extra vraag leidt tot economische groei doordat de productie toeneemt, dan moeten scorepunten worden toegekend. Voor toekenning van scorepunten is het noodzakelijk dat economische groei gekoppeld wordt aan productie.",
+        "answer_image_urls": [
+          "economie-havo-2022-i-studeren-loont-antw1.png"
+        ]
+      },
+      {
+        "title": "Studeren loont",
+        "question_number": 2,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• (Er is asymmetrische informatie omdat) de overheid beschikt over minder informatie van de studenten met betrekking tot de studiehouding / individuele eigenschappen (die de kans op een goedbetaalde baan beïnvloeden) (1)\n• De overheid loopt een financieel risico omdat studenten die (al wisten dat ze) later een laag inkomen (zouden) hebben een kleiner deel van de lening terugbetalen (dan de overheid verwacht) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(Er is asymmetrische informatie omdat) de overheid beschikt over minder informatie van de studenten met betrekking tot de studiehouding / individuele eigenschappen (die de kans op een goedbetaalde baan beïnvloeden)"
+          },
+          {
+            "points": 1,
+            "description": "De overheid loopt een financieel risico omdat studenten die (al wisten dat ze) later een laag inkomen (zouden) hebben een kleiner deel van de lening terugbetalen (dan de overheid verwacht)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-studeren-loont-antw2.png"
+        ]
+      },
+      {
+        "title": "Studeren loont",
+        "question_number": 3,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij het stelsel van partij 1 is de kans op moral hazard relatief groot omdat studenten geld krijgen / geen financieel risico lopen (ongeacht hun gedrag), en daarmee kunnen ze minder hard hun best doen / geld voor andere zaken gebruiken dan studie (terwijl de samenleving / de belastingbetaler daar de kosten van draagt) (1)\n• Bij het stelsel van partij 2 is de kans op moral hazard relatief klein, omdat studenten moeten lenen / financieel risico moeten nemen, dus door het stelsel geprikkeld worden tot gewenst gedrag (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij het stelsel van partij 1 is de kans op moral hazard relatief groot omdat studenten geld krijgen / geen financieel risico lopen (ongeacht hun gedrag), en daarmee kunnen ze minder hard hun best doen / geld voor andere zaken gebruiken dan studie (terwijl de samenleving / de belastingbetaler daar de kosten van draagt)"
+          },
+          {
+            "points": 1,
+            "description": "Bij het stelsel van partij 2 is de kans op moral hazard relatief klein, omdat studenten moeten lenen / financieel risico moeten nemen, dus door het stelsel geprikkeld worden tot gewenst gedrag"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-studeren-loont-antw3.png"
+        ]
+      },
+      {
+        "title": "Studeren loont",
+        "question_number": 4,
+        "answer_text": "• Gemiddeld inkomen met afgeronde studie: € 50.000. De belasting is 41,5% van het gemiddeld inkomen minus de heffingskorting van € 1.900. De belastingopbrengsten van deze groep zijn dus € 18.850 per persoon per jaar (1)\n• Gemiddeld inkomen zonder afgeronde studie: € 28.000. De belasting is 37,1% van het gemiddeld inkomen minus de heffingskorting van € 5.375. De belastingopbrengsten van deze groep zijn dus € 5.013 per persoon per jaar (1)\n• De totale belastingopbrengsten zijn:\n45 jaar x € 5.013 = € 225.585 per persoon zonder afgeronde studie\n40 jaar x € 18.850 = € 754.000 per persoon met afgeronde studie\nDe extra belastingopbrengsten zijn € 754.000 − € 225.585 = € 528.415 (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Gemiddeld inkomen met afgeronde studie: € 50.000. De belasting is 41,5% van het gemiddeld inkomen minus de heffingskorting van € 1.900. De belastingopbrengsten van deze groep zijn dus € 18.850 per persoon per jaar"
+          },
+          {
+            "points": 1,
+            "description": "Gemiddeld inkomen zonder afgeronde studie: € 28.000. De belasting is 37,1% van het gemiddeld inkomen minus de heffingskorting van € 5.375. De belastingopbrengsten van deze groep zijn dus € 5.013 per persoon per jaar"
+          },
+          {
+            "points": 1,
+            "description": "De totale belastingopbrengsten zijn: 45 jaar x € 5.013 = € 225.585 per persoon zonder afgeronde studie; 40 jaar x € 18.850 = € 754.000 per persoon met afgeronde studie. De extra belastingopbrengsten zijn € 754.000 − € 225.585 = € 528.415"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-studeren-loont-antw4.png"
+        ]
+      },
+      {
+        "title": "Koko ziet er brood in",
+        "question_number": 5,
+        "answer_text": "• Door de grotere afzet dalen de gemiddelde constante kosten (GCK) / dalen de gemiddelde totale kosten (GTK) / kunnen grondstoffen goedkoper worden ingekocht door de schaalvoordelen (1)\n• Hierdoor ontstaat er ruimte om de prijs te verlagen (waardoor de concurrentiepositie verbetert) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de grotere afzet dalen de gemiddelde constante kosten (GCK) / dalen de gemiddelde totale kosten (GTK) / kunnen grondstoffen goedkoper worden ingekocht door de schaalvoordelen"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor ontstaat er ruimte om de prijs te verlagen (waardoor de concurrentiepositie verbetert)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-koko-ziet-er-brood-in-antw5.png"
+        ]
+      },
+      {
+        "title": "Koko ziet er brood in",
+        "question_number": 6,
+        "answer_text": "• (1) een oligopolie\n(2) een monopolie (1)\n• (3) kleiner worden (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(1) een oligopolie, (2) een monopolie"
+          },
+          {
+            "points": 1,
+            "description": "(3) kleiner worden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-koko-ziet-er-brood-in-antw6.png"
+        ]
+      },
+      {
+        "title": "Koko ziet er brood in",
+        "question_number": 7,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De dominante strategie van keten 1 is akkoord gaan, want als keten 2 akkoord gaat, dan is de winstdaling € 6.000 en dat is minder dan € 10.000, en als keten 2 onderhandelt, dan is de winstdaling € 2.000 en dat is minder dan € 3.000.\nDe dominante strategie van keten 2 is akkoord gaan, want als keten 1 akkoord gaat, dan is de winstdaling € 6.000 en dat is minder dan € 10.000, en als keten 1 onderhandelt dan is de winstdaling € 2.000 en dat is minder dan € 3.000 (1)\n• Dit levert een uitkomst op die voor beide ketens suboptimaal is, want de gezamenlijke winstdaling zou minder geweest zijn als beide ketens zouden onderhandelen (en dus is er sprake van een gevangenendilemma) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De dominante strategie van keten 1 is akkoord gaan, want als keten 2 akkoord gaat, dan is de winstdaling € 6.000 en dat is minder dan € 10.000, en als keten 2 onderhandelt, dan is de winstdaling € 2.000 en dat is minder dan € 3.000. De dominante strategie van keten 2 is akkoord gaan, want als keten 1 akkoord gaat, dan is de winstdaling € 6.000 en dat is minder dan € 10.000, en als keten 1 onderhandelt dan is de winstdaling € 2.000 en dat is minder dan € 3.000"
+          },
+          {
+            "points": 1,
+            "description": "Dit levert een uitkomst op die voor beide ketens suboptimaal is, want de gezamenlijke winstdaling zou minder geweest zijn als beide ketens zouden onderhandelen (en dus is er sprake van een gevangenendilemma)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-koko-ziet-er-brood-in-antw7.png"
+        ]
+      },
+      {
+        "title": "Koko ziet er brood in",
+        "question_number": 8,
+        "answer_text": "• De procentuele verandering van de afzet is (3,5 − 4,0) / 4,0 × 100% = −12,5%\n• De procentuele verandering van de prijs is (1,30 − 1,20) / 1,20 × 100% = 8,3%\n• Dus de (absolute) procentuele verandering van de afzet is groter dan de procentuele verandering van de prijs (want 12,5% > 8,3%) en dus is de vraag van de supermarkten naar kokosbrood elastisch. of\nPrijselasticiteit Ev = −12,5 / 8,3 = −1,5\nEv < −1 / dus de vraag van de supermarkten naar kokosbrood is elastisch (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "⚠️ CONTROLEREN: maximumscore 2, maar in het correctievoorschrift staat alleen bij de laatste deelstap een scorepunt (1). Berekening: procentuele verandering van de afzet (3,5 − 4,0) / 4,0 × 100% = −12,5% en van de prijs (1,30 − 1,20) / 1,20 × 100% = 8,3%"
+          },
+          {
+            "points": 1,
+            "description": "Dus de (absolute) procentuele verandering van de afzet is groter dan de procentuele verandering van de prijs (want 12,5% > 8,3%) en dus is de vraag van de supermarkten naar kokosbrood elastisch / Prijselasticiteit Ev = −12,5 / 8,3 = −1,5; Ev < −1 / dus de vraag van de supermarkten naar kokosbrood is elastisch"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-koko-ziet-er-brood-in-antw8.png"
+        ]
+      },
+      {
+        "title": "Koko ziet er brood in",
+        "question_number": 9,
+        "answer_text": "• MK = 0,5 (1)\n• MO = MK\n−0,4Q + 2 = 0,50 dus Q = 3,75 (x 1 miljoen pakjes) (1)\n• P = −0,2 x 3,75 + 2 = € 1,25\nKoko verhoogt de prijs met € 1,25 – € 1,20 = € 0,05 (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "MK = 0,5"
+          },
+          {
+            "points": 1,
+            "description": "MO = MK: −0,4Q + 2 = 0,50 dus Q = 3,75 (x 1 miljoen pakjes)"
+          },
+          {
+            "points": 1,
+            "description": "P = −0,2 x 3,75 + 2 = € 1,25; Koko verhoogt de prijs met € 1,25 – € 1,20 = € 0,05"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-koko-ziet-er-brood-in-antw9.png"
+        ]
+      },
+      {
+        "title": "Koko ziet er brood in",
+        "question_number": 10,
+        "answer_text": "• TK = TCK + 0,40Q\nNeem als voorbeeld de situatie voor kostenstijging om TCK te bepalen:\n3,6 = TCK + 0,40 x 4,0\nTCK = 2,0 (miljoen euro) (1)\n• TO = P x Q = 1,25 x 3,75 = 4,6875 (miljoen euro)\nTK = 0,50 x 3,75 + 2,0 = 3,875 (miljoen euro)\nTW = TO − TK = 4,6875 – 3,875 = 0,8125 (miljoen euro) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "TK = TCK + 0,40Q; neem als voorbeeld de situatie voor kostenstijging om TCK te bepalen: 3,6 = TCK + 0,40 x 4,0; TCK = 2,0 (miljoen euro)"
+          },
+          {
+            "points": 1,
+            "description": "TO = P x Q = 1,25 x 3,75 = 4,6875 (miljoen euro); TK = 0,50 x 3,75 + 2,0 = 3,875 (miljoen euro); TW = TO − TK = 4,6875 – 3,875 = 0,8125 (miljoen euro)"
+          }
+        ],
+        "grading_note": "Als bij de uitwerking sprake is van een doorwerkfout uit de vorige vraag, dan geen scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "economie-havo-2022-i-koko-ziet-er-brood-in-antw10.png"
+        ]
+      },
+      {
+        "title": "Mag het iets meer zijn?",
+        "question_number": 11,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nHet totale winkelvloeroppervlak is verhoudingsgewijs meer gestegen dan het aantal supermarkten:\nHet vloeroppervlak steeg tussen 2017 en 2020 met (4.772 − 4.453) / 4.453 × 100% = 7,16%\nHet aantal supermarkten steeg tussen 2017 en 2020 met (6.386 − 6.200) / 6.200 × 100% = 3,00%\nof\nHet winkelvloeroppervlak per supermarkt is toegenomen:\n2017: 4.453.000 / 6.200 = 718 m per supermarkt\n2020: 4.772.000 / 6.386 = 747 m per supermarkt (1)\nHieruit blijkt dat de omvang per winkel is gestegen (en dat wil zeggen dat er schaalvergroting is geweest) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het totale winkelvloeroppervlak is verhoudingsgewijs meer gestegen dan het aantal supermarkten: vloeroppervlak (4.772 − 4.453) / 4.453 × 100% = 7,16%, aantal supermarkten (6.386 − 6.200) / 6.200 × 100% = 3,00% / of: het winkelvloeroppervlak per supermarkt is toegenomen: 2017: 4.453.000 / 6.200 = 718 m per supermarkt, 2020: 4.772.000 / 6.386 = 747 m per supermarkt"
+          },
+          {
+            "points": 1,
+            "description": "Hieruit blijkt dat de omvang per winkel is gestegen (en dat wil zeggen dat er schaalvergroting is geweest)"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt wordt toegekend voor de gevolgtrekking dat het winkelvloeroppervlak / de omvang per winkel is gestegen. Voor toekenning van dit scorepunt is een correcte onderbouwing van de gevolgtrekking noodzakelijk.",
+        "answer_image_urls": [
+          "economie-havo-2022-i-mag-het-iets-meer-zijn-antw11.png"
+        ]
+      },
+      {
+        "title": "Mag het iets meer zijn?",
+        "question_number": 12,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Uit bron 2 blijkt dat Albert Heijn met een kleiner aantal winkels dan Superunie een grotere totale omzet behaalt, (1)\n• en hieruit volgt dat de gemiddelde omzet per winkel bij Albert Heijn groter is dan bij Superunie (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Uit bron 2 blijkt dat Albert Heijn met een kleiner aantal winkels dan Superunie een grotere totale omzet behaalt,"
+          },
+          {
+            "points": 1,
+            "description": "en hieruit volgt dat de gemiddelde omzet per winkel bij Albert Heijn groter is dan bij Superunie"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt wordt toegekend voor de gevolgtrekking dat het winkelvloeroppervlak / de omvang per winkel is gestegen. Voor toekenning van dit scorepunt is een correcte onderbouwing van de gevolgtrekking noodzakelijk.",
+        "answer_image_urls": [
+          "economie-havo-2022-i-mag-het-iets-meer-zijn-antw12.png"
+        ]
+      },
+      {
+        "title": "Mag het iets meer zijn?",
+        "question_number": 13,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• In tijden van hoogconjunctuur stijgen de gemiddelde inkomens, en (1)\n• luxe goederen hebben een hogere inkomenselasticiteit dan niet-luxe goederen (1)\n• dus de afzet van de luxe levensmiddelen zal bij dezelfde inkomensgroei procentueel meer stijgen dan de afzet van niet-luxe levensmiddelen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In tijden van hoogconjunctuur stijgen de gemiddelde inkomens, en"
+          },
+          {
+            "points": 1,
+            "description": "luxe goederen hebben een hogere inkomenselasticiteit dan niet-luxe goederen"
+          },
+          {
+            "points": 1,
+            "description": "dus de afzet van de luxe levensmiddelen zal bij dezelfde inkomensgroei procentueel meer stijgen dan de afzet van niet-luxe levensmiddelen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-mag-het-iets-meer-zijn-antw13.png"
+        ]
+      },
+      {
+        "title": "Kiezen voor de oude dag",
+        "question_number": 14,
+        "answer_text": "(1) nominale\n(2) inflatie",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(1) nominale, (2) inflatie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-kiezen-voor-de-oude-dag-antw14.png"
+        ]
+      },
+      {
+        "title": "Kiezen voor de oude dag",
+        "question_number": 15,
+        "answer_text": "Een voorbeeld van een juiste benadering is:\n• de relatieve prijsstijging ≈ Pnieuw − Poud = 113,0 − 108,6 = 4,4% (1)\n• Het reële inkomen ≈ verandering in het nominale pensioeninkomen — de relatieve prijsstijging = 0% − 4,4% = − 4,4% (oftewel een koopkrachtdaling van afgerond 4%) (1)\nof\nEen voorbeeld van een juiste exacte berekening is:\n• de relatieve prijsstijging: Pnieuw / Poud = 113 / 108,6 = 1,041\nhet prijsindexcijfer (PIC) = 104,1 (1)\n• indexcijfer reëel inkomen (RIC) = NIC / PIC × 100 = 100 / 104,1 × 100 = 96,1\n(NIC = nominaal indexcijfer; NIC = 100 omdat de nominale pensioenuitkeringen gelijk zijn gebleven)\nOftewel de koopkracht is gedaald met 100 − 96,1 = 3,9% (oftewel een koopkrachtdaling van afgerond 4%) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "de relatieve prijsstijging ≈ Pnieuw − Poud = 113,0 − 108,6 = 4,4% / of (exact): Pnieuw / Poud = 113 / 108,6 = 1,041; het prijsindexcijfer (PIC) = 104,1"
+          },
+          {
+            "points": 1,
+            "description": "Het reële inkomen ≈ verandering in het nominale pensioeninkomen — de relatieve prijsstijging = 0% − 4,4% = − 4,4% (oftewel een koopkrachtdaling van afgerond 4%) / of (exact): indexcijfer reëel inkomen (RIC) = NIC / PIC × 100 = 100 / 104,1 × 100 = 96,1; de koopkracht is gedaald met 100 − 96,1 = 3,9% (oftewel een koopkrachtdaling van afgerond 4%)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-kiezen-voor-de-oude-dag-antw15.png"
+        ]
+      },
+      {
+        "title": "Kiezen voor de oude dag",
+        "question_number": 16,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De werknemer offert nu consumptie op door premie te betalen (1)\n• en ontvangt dan later een pensioeninkomen dat hij/zij kan besteden (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De werknemer offert nu consumptie op door premie te betalen"
+          },
+          {
+            "points": 1,
+            "description": "en ontvangt dan later een pensioeninkomen dat hij/zij kan besteden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-kiezen-voor-de-oude-dag-antw16.png"
+        ]
+      },
+      {
+        "title": "Kiezen voor de oude dag",
+        "question_number": 17,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De inkomsten verschillen per fase in de (individuele) levensloop, bijvoorbeeld van een laag inkomen aan het begin van de carrière tot een hoger inkomen op het hoogtepunt van de carrière, minder inkomsten bij mantelzorgen\nen/of\nDe consumptieve bestedingen van werkenden verschillen per fase in de (individuele) levensloop, bijvoorbeeld meer bestedingen bij kinderen krijgen, een huis kopen (1)\n• De premie-inleg kan dan mee variëren met het inkomen / met de (individuele) consumptiebehoefte (zodat het besteedbaar inkomen beter past bij de behoeften in die fase van de levensloop) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De inkomsten verschillen per fase in de (individuele) levensloop, bijvoorbeeld van een laag inkomen aan het begin van de carrière tot een hoger inkomen op het hoogtepunt van de carrière, minder inkomsten bij mantelzorgen en/of de consumptieve bestedingen van werkenden verschillen per fase in de (individuele) levensloop, bijvoorbeeld meer bestedingen bij kinderen krijgen, een huis kopen"
+          },
+          {
+            "points": 1,
+            "description": "De premie-inleg kan dan mee variëren met het inkomen / met de (individuele) consumptiebehoefte (zodat het besteedbaar inkomen beter past bij de behoeften in die fase van de levensloop)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-kiezen-voor-de-oude-dag-antw17.png"
+        ]
+      },
+      {
+        "title": "Kiezen voor de oude dag",
+        "question_number": 18,
+        "answer_text": "Voorbeelden van een juiste berekening zijn:\n• De deelnemer komt (100%−90%=)10% tekort (1)\n• 10% van € 40.000 (het pensioenbedrag van een gelijkspaarder) is € 4.000 (1)\nof\n• Besteedbaar inkomen na pensionering is € 40.000 × 90/100 = € 36.000 (1)\n• Een gelijkspaarder zou € 40.000 per jaar krijgen, dus het pensioenbedrag dat de deelnemer tekort komt is € 4.000 per jaar (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De deelnemer komt (100%−90%=)10% tekort / of: Besteedbaar inkomen na pensionering is € 40.000 × 90/100 = € 36.000"
+          },
+          {
+            "points": 1,
+            "description": "10% van € 40.000 (het pensioenbedrag van een gelijkspaarder) is € 4.000 / of: Een gelijkspaarder zou € 40.000 per jaar krijgen, dus het pensioenbedrag dat de deelnemer tekort komt is € 4.000 per jaar"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-kiezen-voor-de-oude-dag-antw18.png"
+        ]
+      },
+      {
+        "title": "Kan de rente nog lager?",
+        "question_number": 19,
+        "answer_text": "C",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "C"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-kan-de-rente-nog-lager-antw19.png"
+        ]
+      },
+      {
+        "title": "Kan de rente nog lager?",
+        "question_number": 20,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Pijl 2: de overheid vervult een voorbeeldrol; de overheid straalt vertrouwen uit in de economie door meer te besteden.\n− Pijl 2: meer overheidsbestedingen leiden tot meer productie, hetgeen weer leidt tot meer inkomen, dus meer bestedingsruimte en meer vertrouwen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Pijl 2: de overheid vervult een voorbeeldrol; de overheid straalt vertrouwen uit in de economie door meer te besteden. / Pijl 2: meer overheidsbestedingen leiden tot meer productie, hetgeen weer leidt tot meer inkomen, dus meer bestedingsruimte en meer vertrouwen."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-kan-de-rente-nog-lager-antw20.png"
+        ]
+      },
+      {
+        "title": "Kan de rente nog lager?",
+        "question_number": 21,
+        "answer_text": "(1) lage\n(2) hoge\n(3) verlagen\n(4) dalen\n(5) uitstellen\n\nindien vijf antwoorden juist 2\nindien vier antwoorden juist 1\nindien drie of minder antwoorden juist 0",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien vijf antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien vier antwoorden juist"
+          },
+          {
+            "points": 0,
+            "description": "indien drie of minder antwoorden juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-kan-de-rente-nog-lager-antw21.png"
+        ]
+      },
+      {
+        "title": "Kan de rente nog lager?",
+        "question_number": 22,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de renteverlaging zullen de bestedingen van consumenten toenemen / wordt voorkomen dat consumenten bestedingen uitstellen (omdat consumenten minder gaan sparen / gemakkelijker kunnen lenen) (1)\n• Door de stijgende vraag / doordat de vraag op peil blijft, ontstaat (bij gelijkblijvend aanbod) opwaartse druk op de prijzen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de renteverlaging zullen de bestedingen van consumenten toenemen / wordt voorkomen dat consumenten bestedingen uitstellen (omdat consumenten minder gaan sparen / gemakkelijker kunnen lenen)"
+          },
+          {
+            "points": 1,
+            "description": "Door de stijgende vraag / doordat de vraag op peil blijft, ontstaat (bij gelijkblijvend aanbod) opwaartse druk op de prijzen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-kan-de-rente-nog-lager-antw22.png"
+        ]
+      },
+      {
+        "title": "Kan de rente nog lager?",
+        "question_number": 23,
+        "answer_text": "(tot een) daling (van de waarde van de euro in dollars)\nEen voorbeeld van een juiste uitleg is:\n• Verlaging van de rente kan ertoe leiden dat beleggers/spaarders hun kapitaal verplaatsen uit de eurozone / dat de toestroom van kapitaal naar de eurozone vermindert (1)\n• waardoor er meer euro’s worden aangeboden / minder euro’s worden gevraagd op de valutamarkt en de waarde van de euro in dollars daalt (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Verlaging van de rente kan ertoe leiden dat beleggers/spaarders hun kapitaal verplaatsen uit de eurozone / dat de toestroom van kapitaal naar de eurozone vermindert"
+          },
+          {
+            "points": 1,
+            "description": "waardoor er meer euro’s worden aangeboden / minder euro’s worden gevraagd op de valutamarkt en de waarde van de euro in dollars daalt"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-kan-de-rente-nog-lager-antw23.png"
+        ]
+      },
+      {
+        "title": "Kan de rente nog lager?",
+        "question_number": 24,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n• Daling van de eurokoers leidt tot dure import voor de eurozone (1)\n• Hierdoor gaan er meer EU-producten gevraagd worden in plaats van importproducten van buiten de EU, zodat de economische groei wordt gestimuleerd (1)\nof\n• Daling van de eurokoers leidt ertoe dat de export toeneemt doordat de internationale concurrentiepositie van Europa verbetert / doordat Europese producten goedkoper worden voor kopers van buiten de eurozone (1)\n• De toegenomen vraag van buiten de eurozone veroorzaakt een grotere productie in de EU, zodat de economische groei wordt gestimuleerd (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Daling van de eurokoers leidt tot dure import voor de eurozone / of: Daling van de eurokoers leidt ertoe dat de export toeneemt doordat de internationale concurrentiepositie van Europa verbetert / doordat Europese producten goedkoper worden voor kopers van buiten de eurozone"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor gaan er meer EU-producten gevraagd worden in plaats van importproducten van buiten de EU, zodat de economische groei wordt gestimuleerd / of: De toegenomen vraag van buiten de eurozone veroorzaakt een grotere productie in de EU, zodat de economische groei wordt gestimuleerd"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-kan-de-rente-nog-lager-antw24.png"
+        ]
+      },
+      {
+        "title": "Repareer het dak wanneer de zon schijnt",
+        "question_number": 25,
+        "answer_text": "• Overheidstekort = (Overheidsuitgaven O − Belastingontvangsten B = pijl2 – pijl3=) 820 – 770 = 50 miljard euro (1)\n• In % van bbp (Y): 50 / 1.730 × 100% = 2,89% (> 1,6%) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Overheidstekort = (Overheidsuitgaven O − Belastingontvangsten B = pijl2 – pijl3=) 820 – 770 = 50 miljard euro"
+          },
+          {
+            "points": 1,
+            "description": "In % van bbp (Y): 50 / 1.730 × 100% = 2,89% (> 1,6%)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-repareer-het-dak-wanneer-de-zon-schijnt-antw25.png"
+        ]
+      },
+      {
+        "title": "Repareer het dak wanneer de zon schijnt",
+        "question_number": 26,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n• Een hoger overheidstekort betekent dat de overheid meer bestedingen doet (1)\n• en daardoor is de productie groter / het bbp hoger (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een hoger overheidstekort betekent dat de overheid meer bestedingen doet"
+          },
+          {
+            "points": 1,
+            "description": "en daardoor is de productie groter / het bbp hoger"
+          }
+        ],
+        "grading_note": "Als de kandidaat antwoordt dat ‘Een hoger overheidstekort betekent dat de overheid de belasting verlaagt, en daardoor nemen de bestedingen en dus de productie toe.’, geen scorepunten toekennen.",
+        "answer_image_urls": [
+          "economie-havo-2022-i-repareer-het-dak-wanneer-de-zon-schijnt-antw26.png"
+        ]
+      },
+      {
+        "title": "Repareer het dak wanneer de zon schijnt",
+        "question_number": 27,
+        "answer_text": "Door de economische groei nemen de belastingontvangsten toe / dalen de overheidsuitgaven aan uitkeringen (en neemt het overheidstekort af).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de economische groei nemen de belastingontvangsten toe / dalen de overheidsuitgaven aan uitkeringen (en neemt het overheidstekort af)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-repareer-het-dak-wanneer-de-zon-schijnt-antw27.png"
+        ]
+      },
+      {
+        "title": "Repareer het dak wanneer de zon schijnt",
+        "question_number": 28,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door hogere economische groei daalt het overheidstekort en neemt de staatschuld minder snel toe. (Hierdoor daalt de staatsschuldquote) (1)\n• Hogere economische groei leidt tot een stijging van het bbp. (Hierdoor daalt de staatsschuldquote) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door hogere economische groei daalt het overheidstekort en neemt de staatschuld minder snel toe. (Hierdoor daalt de staatsschuldquote)"
+          },
+          {
+            "points": 1,
+            "description": "Hogere economische groei leidt tot een stijging van het bbp. (Hierdoor daalt de staatsschuldquote)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-repareer-het-dak-wanneer-de-zon-schijnt-antw28.png"
+        ]
+      },
+      {
+        "title": "Repareer het dak wanneer de zon schijnt",
+        "question_number": 29,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n• Een lagere rating betekent dat beleggers tegen strengere voorwaarden / hogere rente zullen uitlenen, waardoor de rente-uitgaven van de overheid (op de staatsschuld) stijgen (1)\n• en moet de overheid meer lenen (bij gelijkblijvende belastinginkomsten en overige uitgaven), waardoor de staatsschuld groeit (1)\nof\n• Een lagere rating betekent lagere staatsobligatiekoersen, wat leidt tot verliezen op beleggingen van Italiaanse banken (1)\n• die (bij te zwakke kapitaalpositie) een beroep doen op staatssteun van de Italiaanse overheid, wat leidt tot een stijging van de staatsschuld en tot financieringstekort (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een lagere rating betekent dat beleggers tegen strengere voorwaarden / hogere rente zullen uitlenen, waardoor de rente-uitgaven van de overheid (op de staatsschuld) stijgen / of: Een lagere rating betekent lagere staatsobligatiekoersen, wat leidt tot verliezen op beleggingen van Italiaanse banken"
+          },
+          {
+            "points": 1,
+            "description": "en moet de overheid meer lenen (bij gelijkblijvende belastinginkomsten en overige uitgaven), waardoor de staatsschuld groeit / of: die (bij te zwakke kapitaalpositie) een beroep doen op staatssteun van de Italiaanse overheid, wat leidt tot een stijging van de staatsschuld en tot financieringstekort"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-i-repareer-het-dak-wanneer-de-zon-schijnt-antw29.png"
+        ]
+      }
+    ]
+  }
+}

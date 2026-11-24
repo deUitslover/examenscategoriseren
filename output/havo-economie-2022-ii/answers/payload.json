@@ -1,0 +1,602 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "HAVO",
+    "source": "HAVO Economie 2022-II",
+    "answers": [
+      {
+        "title": "Zonder risico geen verzekering",
+        "question_number": 1,
+        "answer_text": "Complementaire diensten, want de diensten vullen elkaar aan / ze horen bij elkaar (de schadeverzekering dekt het risico van schade tijdens transport).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Complementaire diensten, want de diensten vullen elkaar aan / ze horen bij elkaar (de schadeverzekering dekt het risico van schade tijdens transport)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-zonder-risico-geen-verzekering-antw1.png"
+        ]
+      },
+      {
+        "title": "Zonder risico geen verzekering",
+        "question_number": 2,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n• Het bbp is de totale toegevoegde waarde van alle in een land geproduceerde goederen en diensten, en (1)\n• er wordt omzet/waarde gegenereerd met de geleverde diensten (van zekerheid, van risicodekking) (1)\nof\n• Het bbp is het totaal aan beloningen die de productiefactoren ontvangen plus de afschrijvingen, en (1)\n• met schadeverzekeringen wordt inkomen verdiend (loon, winst) (1)\nof\n• Het bbp is gelijk aan de finale bestedingen, en (1)\n• uitgaven aan schadeverzekeringen (door consumenten) zijn onderdeel van deze finale bestedingen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het bbp is de totale toegevoegde waarde van alle in een land geproduceerde goederen en diensten / of: Het bbp is het totaal aan beloningen die de productiefactoren ontvangen plus de afschrijvingen / of: Het bbp is gelijk aan de finale bestedingen"
+          },
+          {
+            "points": 1,
+            "description": "er wordt omzet/waarde gegenereerd met de geleverde diensten (van zekerheid, van risicodekking) / of: met schadeverzekeringen wordt inkomen verdiend (loon, winst) / of: uitgaven aan schadeverzekeringen (door consumenten) zijn onderdeel van deze finale bestedingen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-zonder-risico-geen-verzekering-antw2.png"
+        ]
+      },
+      {
+        "title": "Zonder risico geen verzekering",
+        "question_number": 3,
+        "answer_text": "• bij (1): asymmetrische informatie\nbij (2): averechtse selectie\nbij (3): moral hazard (1)\n• bij (4): werkelijke\nbij (5): verwachte (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij (1): asymmetrische informatie, bij (2): averechtse selectie, bij (3): moral hazard"
+          },
+          {
+            "points": 1,
+            "description": "bij (4): werkelijke, bij (5): verwachte"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-zonder-risico-geen-verzekering-antw3.png"
+        ]
+      },
+      {
+        "title": "Zonder risico geen verzekering",
+        "question_number": 4,
+        "answer_text": "positief effect\nEen voorbeeld van een juiste uitleg is:\n• Risicoaversie betekent dat consumenten risico willen vermijden, (en zich met een verzekeringspolis indekken tegen schade), en (1)\n• dit betekent dat een risicoaverse consument bij elke premie vaker/meer/hogere verzekeringen wil afsluiten (oftewel de vraag naar polissen doet toenemen) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Risicoaversie betekent dat consumenten risico willen vermijden, (en zich met een verzekeringspolis indekken tegen schade), en"
+          },
+          {
+            "points": 1,
+            "description": "dit betekent dat een risicoaverse consument bij elke premie vaker/meer/hogere verzekeringen wil afsluiten (oftewel de vraag naar polissen doet toenemen)"
+          }
+        ],
+        "grading_note": "De cursief gedrukte aspecten moeten genoemd of verwoord zijn voor toekenning van scorepunten.",
+        "answer_image_urls": [
+          "economie-havo-2022-ii-zonder-risico-geen-verzekering-antw4.png"
+        ]
+      },
+      {
+        "title": "Zonder risico geen verzekering",
+        "question_number": 5,
+        "answer_text": "• grafiek 1 (1)\n• voorbeeld van een juiste toelichting:\n(de vraaglijn verschuift naar rechts) omdat (uit het positieve verband van pijl 2 in bron 1 blijkt dat) de consumenten een grotere behoefte aan polissen hebben door een factor anders dan de prijs (te weten toename van de kans op schade) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "grafiek 1"
+          },
+          {
+            "points": 1,
+            "description": "(de vraaglijn verschuift naar rechts) omdat (uit het positieve verband van pijl 2 in bron 1 blijkt dat) de consumenten een grotere behoefte aan polissen hebben door een factor anders dan de prijs (te weten toename van de kans op schade)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-zonder-risico-geen-verzekering-antw5.png"
+        ]
+      },
+      {
+        "title": "Zonder risico geen verzekering",
+        "question_number": 6,
+        "answer_text": "• bij (1) toe\nbij (2) naar links\nbij (3) verhogen (1)\n• bij (4) langs\nbij (5) afnemen (1)\n• bij (6) naar rechts\nbij (7) positief (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij (1) toe, bij (2) naar links, bij (3) verhogen"
+          },
+          {
+            "points": 1,
+            "description": "bij (4) langs, bij (5) afnemen"
+          },
+          {
+            "points": 1,
+            "description": "bij (6) naar rechts, bij (7) positief"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-zonder-risico-geen-verzekering-antw6.png"
+        ]
+      },
+      {
+        "title": "Sparen in Nederland: een paradox",
+        "question_number": 7,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n(Volgens CBS was de gemiddelde schuld van de volwassenen die rood stonden €3.800 en de totale schuld €10,1 miljard.)\nHet aantal volwassenen dat rood stond was\ntotale schuld / gemiddelde schuld = 10,1×10⁹ / 3.800 = 2.657.895 (1)\nDat is 2.657.895 / 10⁶ × 100% = 26,6% (van de volwassenen.)\nDat is meer dan een kwart, dus de bewering van de onderzoeker is juist (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het aantal volwassenen dat rood stond was totale schuld / gemiddelde schuld = 10,1×10⁹ / 3.800 = 2.657.895"
+          },
+          {
+            "points": 1,
+            "description": "Dat is 2.657.895 / 10⁶ × 100% = 26,6% (van de volwassenen.) Dat is meer dan een kwart, dus de bewering van de onderzoeker is juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-sparen-in-nederland-een-paradox-antw7.png"
+        ]
+      },
+      {
+        "title": "Sparen in Nederland: een paradox",
+        "question_number": 8,
+        "answer_text": "• (1) hoger\n(2) minder (1)\n• (3) minder\n(4) versneld (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(1) hoger, (2) minder"
+          },
+          {
+            "points": 1,
+            "description": "(3) minder, (4) versneld"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-sparen-in-nederland-een-paradox-antw8.png"
+        ]
+      },
+      {
+        "title": "Sparen in Nederland: een paradox",
+        "question_number": 9,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nBij passief sparen is er geen sprake van verschuiven van de consumptie uit inkomen over de tijd (en is er dus geen sprake van ruilen over de tijd).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij passief sparen is er geen sprake van verschuiven van de consumptie uit inkomen over de tijd (en is er dus geen sprake van ruilen over de tijd)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-sparen-in-nederland-een-paradox-antw9.png"
+        ]
+      },
+      {
+        "title": "Sparen in Nederland: een paradox",
+        "question_number": 10,
+        "answer_text": "bij (1) actief sparen\nbij (2) passief sparen\nbij (3) actief sparen\nbij (4) passief sparen\n\nindien vier antwoorden juist 2\nindien drie antwoorden juist 1\nindien twee of minder antwoorden juist 0",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien vier antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien drie antwoorden juist"
+          },
+          {
+            "points": 0,
+            "description": "indien twee of minder antwoorden juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-sparen-in-nederland-een-paradox-antw10.png"
+        ]
+      },
+      {
+        "title": "Sparen in Nederland: een paradox",
+        "question_number": 11,
+        "answer_text": "Een voorbeeld van een juiste verklaring van de spaarparadox is:\n• Het (actieve) spaargedrag van huishoudens is (deels) te verklaren uit de levensloopplanning: huishoudens sparen omdat ze vermogen opbouwen voor hun oude dag (1)\n• De noodzaak om actief te sparen wordt minder naarmate er meer sprake is van passief sparen / waardestijging van het vermogen. (Deze samenhang is een gevolg van het spaardoel en is in de praktijk waargenomen zoals blijkt uit de zin in de tekst die beschrijft dat het actief sparen daalt met € 8 bij iedere waardestijging van het vermogen met € 100) (1)\n• In een periode met sterke waardestijging van het belegde vermogen (is het consumentenvertrouwen hoog en) kan dit per saldo leiden tot negatieve actieve besparingen / meer lenen dan actief sparen, terwijl het totaal van actief en passief sparen positief is / het spaartegoed toeneemt (en daarmee is er sprake van een spaarparadox) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het (actieve) spaargedrag van huishoudens is (deels) te verklaren uit de levensloopplanning: huishoudens sparen omdat ze vermogen opbouwen voor hun oude dag"
+          },
+          {
+            "points": 1,
+            "description": "De noodzaak om actief te sparen wordt minder naarmate er meer sprake is van passief sparen / waardestijging van het vermogen. (Deze samenhang is een gevolg van het spaardoel en is in de praktijk waargenomen zoals blijkt uit de zin in de tekst die beschrijft dat het actief sparen daalt met € 8 bij iedere waardestijging van het vermogen met € 100)"
+          },
+          {
+            "points": 1,
+            "description": "In een periode met sterke waardestijging van het belegde vermogen (is het consumentenvertrouwen hoog en) kan dit per saldo leiden tot negatieve actieve besparingen / meer lenen dan actief sparen, terwijl het totaal van actief en passief sparen positief is / het spaartegoed toeneemt (en daarmee is er sprake van een spaarparadox)"
+          }
+        ],
+        "grading_note": "De cursief gedrukte aspecten moeten genoemd of verwoord zijn voor toekenning van scorepunten.",
+        "answer_image_urls": [
+          "economie-havo-2022-ii-sparen-in-nederland-een-paradox-antw11.png"
+        ]
+      },
+      {
+        "title": "De reisbranche in zwaar weer",
+        "question_number": 12,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nOnline reisbureaus hebben lagere vaste/constante kosten, bijvoorbeeld minder huisvestingskosten (waardoor zij lagere gemiddelde totale kosten (GTK) hebben dan reisbureaus met een fysieke winkel).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Online reisbureaus hebben lagere vaste/constante kosten, bijvoorbeeld minder huisvestingskosten (waardoor zij lagere gemiddelde totale kosten (GTK) hebben dan reisbureaus met een fysieke winkel)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-de-reisbranche-in-zwaar-weer-antw12.png"
+        ]
+      },
+      {
+        "title": "De reisbranche in zwaar weer",
+        "question_number": 13,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de toename van het aantal reisbureaus is het aanbod van reizen toegenomen, (1)\n• waardoor er op de markt een lagere (evenwichts-)prijs voor reizen ontstaat. Door de lagere prijs (bij gelijkblijvende kosten) zal de gemiddelde winst voor alle reisbureaus dalen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de toename van het aantal reisbureaus is het aanbod van reizen toegenomen,"
+          },
+          {
+            "points": 1,
+            "description": "waardoor er op de markt een lagere (evenwichts-)prijs voor reizen ontstaat. Door de lagere prijs (bij gelijkblijvende kosten) zal de gemiddelde winst voor alle reisbureaus dalen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-de-reisbranche-in-zwaar-weer-antw13.png"
+        ]
+      },
+      {
+        "title": "De reisbranche in zwaar weer",
+        "question_number": 14,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Online reisbureaus hebben lagere gemiddelde totale kosten (GTK) dan reisbureaus met een fysieke winkel, en bij een gegeven gemiddelde omzet (GO) een hogere gemiddelde winst (want GW=GO−GTK) (1)\n• De hogere gemiddelde winst van de online reisbureaus trekt nieuwe toetreders / nieuwe online reisbureaus aan, waardoor het aanbod (verder) stijgt bij elke prijs / waardoor de aanbodlijn (verder) naar rechts verschuift, (1)\n• waardoor de gemiddelde omzet / de prijs daalt en dus de gemiddelde winst daalt (want GW=GO−GTK) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Online reisbureaus hebben lagere gemiddelde totale kosten (GTK) dan reisbureaus met een fysieke winkel, en bij een gegeven gemiddelde omzet (GO) een hogere gemiddelde winst (want GW=GO−GTK)"
+          },
+          {
+            "points": 1,
+            "description": "De hogere gemiddelde winst van de online reisbureaus trekt nieuwe toetreders / nieuwe online reisbureaus aan, waardoor het aanbod (verder) stijgt bij elke prijs / waardoor de aanbodlijn (verder) naar rechts verschuift,"
+          },
+          {
+            "points": 1,
+            "description": "waardoor de gemiddelde omzet / de prijs daalt en dus de gemiddelde winst daalt (want GW=GO−GTK)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-de-reisbranche-in-zwaar-weer-antw14.png"
+        ]
+      },
+      {
+        "title": "De reisbranche in zwaar weer",
+        "question_number": 15,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nUitspraak 1\n• De prijselasticiteit bij buitenlandse reizen is −4,4\nDe prijselasticiteit bij binnenlandse reizen is −0,56\n−4,4 < −0,56, dus afzet (Q) van / vraag naar buitenlandse reizen reageert sterker elastisch op de prijs (P) dan bij binnenlandse reizen.\nHiermee is aangetoond dat uitspraak 1 juist is (1)\nUitspraak 2\n• De prijselasticiteit bij buitenlandse reizen is kleiner dan −1 / de vraag naar buitenlandse reizen is prijselastisch, dit betekent dat een prijsdaling van 1% leidt tot een stijging van de gevraagde hoeveelheid met meer dan 1%.\nDe prijselasticiteit bij binnenlandse reizen is tussen 0 en −1 / de vraag naar binnenlandse reizen is prijsinelastisch, dit betekent dat een prijsdaling van 1% leidt tot een stijging van de gevraagde hoeveelheid met minder dan 1% (1)\n• Verder geldt dat de omzet gelijk is aan PxQ en dit betekent (in combinatie met de hiervoor gegeven prijselasticiteiten) dat de omzet van buitenlandse reizen zal stijgen bij prijsdaling en dat de omzet van binnenlandse reizen zal dalen bij prijsdaling. Hiermee is aangetoond dat uitspraak 2 juist is (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Uitspraak 1: De prijselasticiteit bij buitenlandse reizen is −4,4, bij binnenlandse reizen −0,56; −4,4 < −0,56, dus afzet (Q) van / vraag naar buitenlandse reizen reageert sterker elastisch op de prijs (P) dan bij binnenlandse reizen. Hiermee is aangetoond dat uitspraak 1 juist is"
+          },
+          {
+            "points": 1,
+            "description": "Uitspraak 2: De prijselasticiteit bij buitenlandse reizen is kleiner dan −1 / de vraag naar buitenlandse reizen is prijselastisch: een prijsdaling van 1% leidt tot een stijging van de gevraagde hoeveelheid met meer dan 1%. De prijselasticiteit bij binnenlandse reizen is tussen 0 en −1 / de vraag naar binnenlandse reizen is prijsinelastisch: een prijsdaling van 1% leidt tot een stijging van de gevraagde hoeveelheid met minder dan 1%"
+          },
+          {
+            "points": 1,
+            "description": "Verder geldt dat de omzet gelijk is aan PxQ en dit betekent (in combinatie met de hiervoor gegeven prijselasticiteiten) dat de omzet van buitenlandse reizen zal stijgen bij prijsdaling en dat de omzet van binnenlandse reizen zal dalen bij prijsdaling. Hiermee is aangetoond dat uitspraak 2 juist is"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-de-reisbranche-in-zwaar-weer-antw15.png"
+        ]
+      },
+      {
+        "title": "Kamertje verhuren",
+        "question_number": 16,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− veel aanbieders, want er zijn meerdere huiseigenaren / huisbazen\n− een heterogeen product, want studentenkamers zijn niet gelijk\n− beperkte transparantie, want informatie over de afmetingen van de studentenkamer, geluidsoverlast etcetera is niet gemakkelijk verkrijgbaar\n− vrije toetreding, want aanbieders kunnen (zonder veel belemmeringen een pand kopen en de) kamers verhuren",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "veel aanbieders, want er zijn meerdere huiseigenaren / huisbazen / een heterogeen product, want studentenkamers zijn niet gelijk / beperkte transparantie, want informatie over de afmetingen van de studentenkamer, geluidsoverlast etcetera is niet gemakkelijk verkrijgbaar / vrije toetreding, want aanbieders kunnen (zonder veel belemmeringen een pand kopen en de) kamers verhuren"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-kamertje-verhuren-antw16.png"
+        ]
+      },
+      {
+        "title": "Kamertje verhuren",
+        "question_number": 17,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nDoor de gemeente gebouwde studentenkamers zijn geen collectieve goederen, omdat\n• anderen dan de (betalende) huurder uitgesloten kunnen worden van gebruik (1)\n• huurders (van studentenkamers) rivaliseren om het gebruik, ze kunnen de studentenkamer niet tegelijk gebruiken/bewonen (1)\n(want collectieve goederen zijn goederen waarvan niemand kan worden uitgesloten en die niet rivaliserend zijn).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "anderen dan de (betalende) huurder uitgesloten kunnen worden van gebruik"
+          },
+          {
+            "points": 1,
+            "description": "huurders (van studentenkamers) rivaliseren om het gebruik, ze kunnen de studentenkamer niet tegelijk gebruiken/bewonen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-kamertje-verhuren-antw17.png"
+        ]
+      },
+      {
+        "title": "Kamertje verhuren",
+        "question_number": 18,
+        "answer_text": "Figuur 3 (zie afbeelding: grafiek met Qv, Qa en Qa' en het gearceerde consumentensurplus)\n\nindien juiste grafiek overgenomen en juiste arcering consumentensurplus 2\nindien juiste grafiek gekozen (grafiek 3 is benoemd en/of overgenomen) en onjuiste of ontbrekende arcering consumentensurplus 1\nalle andere antwoorden 0",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien juiste grafiek overgenomen en juiste arcering consumentensurplus"
+          },
+          {
+            "points": 1,
+            "description": "indien juiste grafiek gekozen (grafiek 3 is benoemd en/of overgenomen) en onjuiste of ontbrekende arcering consumentensurplus"
+          },
+          {
+            "points": 0,
+            "description": "alle andere antwoorden"
+          }
+        ],
+        "grading_note": "De netheid van de grafiek en de arcering maken geen onderdeel uit van de beoordeling. De grafiek is voldoende juist overgenomen als de Qa, Qa’ en Qv lijnen juist gepositioneerd zijn ten opzichte van elkaar. Het ontbreken van overige grafiekonderdelen zoals de grafiekassen maakt geen onderdeel uit van de beoordeling. Voor een juist gearceerd consumentensurplus volstaat een driehoek met geheel of gedeeltelijke arcering en met hoekpunten die gepositioneerd zijn conform het gegeven voorbeeld.",
+        "answer_image_urls": [
+          "economie-havo-2022-ii-kamertje-verhuren-antw18.png"
+        ]
+      },
+      {
+        "title": "Kamertje verhuren",
+        "question_number": 19,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nAls de gemeente een maximumprijs instelt voor de huurprijs van studentenkamers en die maximumprijs is lager dan de huidige hoge huren / is lager dan de evenwichtsprijs, dan leidt dit tot een lagere huurprijs.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als de gemeente een maximumprijs instelt voor de huurprijs van studentenkamers en die maximumprijs is lager dan de huidige hoge huren / is lager dan de evenwichtsprijs, dan leidt dit tot een lagere huurprijs."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-kamertje-verhuren-antw19.png"
+        ]
+      },
+      {
+        "title": "Kamertje verhuren",
+        "question_number": 20,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij de verlaagde prijs is (door een verschuiving langs de vraaglijn) de gevraagde hoeveelheid groter dan bij de evenwichtsprijs, en is (door een verschuiving langs de aanbodlijn) de aangeboden hoeveelheid kleiner dan bij de evenwichtsprijs, en (1)\n• beide wijzigingen samen leiden ertoe dat de gevraagde hoeveelheid groter is dan de aangeboden hoeveelheid (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij de verlaagde prijs is (door een verschuiving langs de vraaglijn) de gevraagde hoeveelheid groter dan bij de evenwichtsprijs, en is (door een verschuiving langs de aanbodlijn) de aangeboden hoeveelheid kleiner dan bij de evenwichtsprijs, en"
+          },
+          {
+            "points": 1,
+            "description": "beide wijzigingen samen leiden ertoe dat de gevraagde hoeveelheid groter is dan de aangeboden hoeveelheid"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-kamertje-verhuren-antw20.png"
+        ]
+      },
+      {
+        "title": "Kamertje verhuren",
+        "question_number": 21,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De voorkeur van consumenten verandert (studenten willen langer bij hun ouders wonen), dat wil zeggen dat er minder vraag is naar studentenkamers bij elke prijs (1)\n• dit betekent dat er eerst een verschuiving van de vraaglijn (naar links) plaatsvindt (1)\n• en de nieuwe evenwichtsprijs zal (als gevolg van het ontstane aanbodoverschot) tot stand komen na een verschuiving langs de vraaglijn (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De voorkeur van consumenten verandert (studenten willen langer bij hun ouders wonen), dat wil zeggen dat er minder vraag is naar studentenkamers bij elke prijs"
+          },
+          {
+            "points": 1,
+            "description": "dit betekent dat er eerst een verschuiving van de vraaglijn (naar links) plaatsvindt"
+          },
+          {
+            "points": 1,
+            "description": "en de nieuwe evenwichtsprijs zal (als gevolg van het ontstane aanbodoverschot) tot stand komen na een verschuiving langs de vraaglijn"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-kamertje-verhuren-antw21.png"
+        ]
+      },
+      {
+        "title": "IJsland lonkt naar euro",
+        "question_number": 22,
+        "answer_text": "• Koers ISK 2015 in euro's = 1/142 = 0,00704 euro\nKoers ISK 2016 in euro's = 1/120 = 0,00833 euro (1)\n• De stijging is (nieuwe koers − oude koers) / oude koers × 100% = (0,00833 − 0,00704) / 0,00704 × 100% (=18,33%) = 18,3% (1)\n\nVoorbeeld 2 van een juiste berekening is:\n• De stijging is = (1/120 − 1/142) × 142 × 100% (= 18,33%) = 18,3% (2)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Koers ISK 2015 in euro's = 1/142 = 0,00704 euro; Koers ISK 2016 in euro's = 1/120 = 0,00833 euro"
+          },
+          {
+            "points": 1,
+            "description": "De stijging is (nieuwe koers − oude koers) / oude koers × 100% = (0,00833 − 0,00704) / 0,00704 × 100% (=18,33%) = 18,3%"
+          }
+        ],
+        "grading_note": "Een juiste berekening van de koers ISK in euro’s is noodzakelijk voor het toekennen van het tweede scorepunt.",
+        "answer_image_urls": [
+          "economie-havo-2022-ii-ijsland-lonkt-naar-euro-antw22.png"
+        ]
+      },
+      {
+        "title": "IJsland lonkt naar euro",
+        "question_number": 23,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Omgerekend naar ISK per kilo kostte de zalm in 2007:\n€ 20,00 x koers euro in ISK = 20,00 x 80 = 1.600 ISK\nOmgerekend naar euro’s per kilo kostte de zalm in 2009:\n1.600 ISK / koers euro in ISK = 1.600 / 180 = €8,89 (1)\n• De inkoopprijs in 2009 (€ 8,89) is lager dan in 2007 (€ 20,00). Dit is een inkoopvoordeel (omdat de IJslandse zalm in 2009 goedkoper kon worden ingekocht door de Nederlandse vishandelaar dan in 2007) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Omgerekend naar ISK per kilo kostte de zalm in 2007: € 20,00 x koers euro in ISK = 20,00 x 80 = 1.600 ISK; omgerekend naar euro’s per kilo kostte de zalm in 2009: 1.600 ISK / koers euro in ISK = 1.600 / 180 = €8,89"
+          },
+          {
+            "points": 1,
+            "description": "De inkoopprijs in 2009 (€ 8,89) is lager dan in 2007 (€ 20,00). Dit is een inkoopvoordeel (omdat de IJslandse zalm in 2009 goedkoper kon worden ingekocht door de Nederlandse vishandelaar dan in 2007)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-ijsland-lonkt-naar-euro-antw23.png"
+        ]
+      },
+      {
+        "title": "IJsland lonkt naar euro",
+        "question_number": 24,
+        "answer_text": "• bij (1) stijgt\nbij (2) stijgen (1)\n• bij (3) import (M)\nbij (4) het aanbod van (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij (1) stijgt, bij (2) stijgen"
+          },
+          {
+            "points": 1,
+            "description": "bij (3) import (M), bij (4) het aanbod van"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-ijsland-lonkt-naar-euro-antw24.png"
+        ]
+      },
+      {
+        "title": "IJsland lonkt naar euro",
+        "question_number": 25,
+        "answer_text": "• bij (1) verhoogt\nbij (2) de vraag naar (1)\n• bij (3) dalen\nbij (4) stijgen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij (1) verhoogt, bij (2) de vraag naar"
+          },
+          {
+            "points": 1,
+            "description": "bij (3) dalen, bij (4) stijgen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-ijsland-lonkt-naar-euro-antw25.png"
+        ]
+      },
+      {
+        "title": "Crisis en inkomen",
+        "question_number": 26,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Bij zelfstandigen is het inkomen een resultaat van het marktmechanisme en geldt dat het nominale inkomen zal dalen bij minder vraag naar hun diensten/producten bij een neergaande conjunctuur (1)\n• Bij werknemers is er sprake van loonstarheid (als gevolg van cao-afspraken), waardoor het nominale inkomen niet sterk zal dalen bij neergaande conjunctuur. De lonen kunnen niet direct worden aangepast aan de economische situatie (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij zelfstandigen is het inkomen een resultaat van het marktmechanisme en geldt dat het nominale inkomen zal dalen bij minder vraag naar hun diensten/producten bij een neergaande conjunctuur"
+          },
+          {
+            "points": 1,
+            "description": "Bij werknemers is er sprake van loonstarheid (als gevolg van cao-afspraken), waardoor het nominale inkomen niet sterk zal dalen bij neergaande conjunctuur. De lonen kunnen niet direct worden aangepast aan de economische situatie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-crisis-en-inkomen-antw26.png"
+        ]
+      },
+      {
+        "title": "Crisis en inkomen",
+        "question_number": 27,
+        "answer_text": "• bij (1) gelijk gebleven\nbij (2) gedaald (1)\n• bij (3) wel\nbij (4) niet (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij (1) gelijk gebleven, bij (2) gedaald"
+          },
+          {
+            "points": 1,
+            "description": "bij (3) wel, bij (4) niet"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-crisis-en-inkomen-antw27.png"
+        ]
+      },
+      {
+        "title": "Crisis en inkomen",
+        "question_number": 28,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Uit de grafiek blijkt dat bij curve 2008 het inkomen van de laagste inkomensgroep 12% van het totaalinkomen bedraagt,\nen dat bij curve 2008 het inkomen van de hoogste inkomensgroep 100% − 66% = 34% bedraagt (1)\n• De verhouding hoogste/laagste is:\nCurve 2008: inkomen 20% hoogste / inkomen 20% laagste = 34% / 12% = 2,8",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Uit de grafiek blijkt dat bij curve 2008 het inkomen van de laagste inkomensgroep 12% van het totaalinkomen bedraagt, en dat bij curve 2008 het inkomen van de hoogste inkomensgroep 100% − 66% = 34% bedraagt"
+          },
+          {
+            "points": 1,
+            "description": "⚠️ CONTROLEREN: bij deze deelstap staat in het correctievoorschrift geen scorepunt vermeld (maximumscore 2). De verhouding hoogste/laagste is: Curve 2008: inkomen 20% hoogste / inkomen 20% laagste = 34% / 12% = 2,8"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-crisis-en-inkomen-antw28.png"
+        ]
+      },
+      {
+        "title": "Crisis en inkomen",
+        "question_number": 29,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• (De groep met de 20 procent hoogste inkomens telt relatief veel zelfstandigen, dus) gegeven dat de inkomens van zelfstandigen sterker daalden werd het inkomensverschil van de bovenste inkomensgroep met de onderste inkomensgroep kleiner, en (1)\n• daardoor werd de inkomensverdeling gelijker / werd de inkomensongelijkheid kleiner (hetgeen betekent dat de inkomens genivelleerd zijn) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(De groep met de 20 procent hoogste inkomens telt relatief veel zelfstandigen, dus) gegeven dat de inkomens van zelfstandigen sterker daalden werd het inkomensverschil van de bovenste inkomensgroep met de onderste inkomensgroep kleiner, en"
+          },
+          {
+            "points": 1,
+            "description": "daardoor werd de inkomensverdeling gelijker / werd de inkomensongelijkheid kleiner (hetgeen betekent dat de inkomens genivelleerd zijn)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-crisis-en-inkomen-antw29.png"
+        ]
+      },
+      {
+        "title": "Crisis en inkomen",
+        "question_number": 30,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Bij een progressief belastingstelsel betaalt iemand met een hoger inkomen procentueel meer belasting dan iemand met een lager inkomen (1)\n• Hierdoor zijn de inkomensverschillen ná belasting kleiner dan vóór belasting (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij een progressief belastingstelsel betaalt iemand met een hoger inkomen procentueel meer belasting dan iemand met een lager inkomen"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor zijn de inkomensverschillen ná belasting kleiner dan vóór belasting"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-crisis-en-inkomen-antw30.png"
+        ]
+      },
+      {
+        "title": "Crisis en inkomen",
+        "question_number": 31,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nDe overheid kan de belastinginkomsten gebruiken voor beter onderwijs / betere zorg / een beter milieu / herverdeling van inkomen etc. waardoor de welvaart (in ruime zin) stijgt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De overheid kan de belastinginkomsten gebruiken voor beter onderwijs / betere zorg / een beter milieu / herverdeling van inkomen etc. waardoor de welvaart (in ruime zin) stijgt."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-ii-crisis-en-inkomen-antw31.png"
+        ]
+      }
+    ]
+  }
+}
