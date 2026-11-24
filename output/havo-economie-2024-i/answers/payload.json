@@ -1,0 +1,559 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "HAVO",
+    "source": "HAVO Economie 2024-I",
+    "answers": [
+      {
+        "title": "Een nieuwe cao",
+        "question_number": 1,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door het bodembedrag van € 1.000 bij de loonstijging, krijgen lagere inkomens (< 28.571 = 1.000 : 0,035) een procentueel hogere inkomensstijging dan 3,5%.\n  of\n  Supermarktmedewerkers hebben een relatief laag inkomen (ten opzichte van medewerkers andere sectoren) en zij gaan er dus minimaal € 1.000 op vooruit. (1)\n• en de hogere inkomens krijgen 3,5%, dus worden de (relatieve) inkomensverschillen kleiner (en dus heeft de looneis een nivellerend effect). (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door het bodembedrag van € 1.000 krijgen lagere inkomens (< 28.571 = 1.000 : 0,035) een procentueel hogere inkomensstijging dan 3,5% / supermarktmedewerkers gaan er minimaal € 1.000 op vooruit"
+          },
+          {
+            "points": 1,
+            "description": "en de hogere inkomens krijgen 3,5%, dus worden de (relatieve) inkomensverschillen kleiner (nivellerend effect)"
+          }
+        ],
+        "grading_note": "Voor het toekennen van de eerste deelscore moet relatieve inkomensstijging zijn verwoord.",
+        "answer_image_urls": [
+          "economie-havo-2024-i-een-nieuwe-cao-antw1.png"
+        ]
+      },
+      {
+        "title": "Een nieuwe cao",
+        "question_number": 2,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Bij een inkomen van € 24.998 is een loonstijging van 3,5% gelijk aan: 3,5% x € 24.998 = € 874,93. € 874,93 is minder dan € 1.000, dus Els Middelkoop krijgt de minimale loonstijging van € 1.000. (1)\n• Haar nominale loonstijging is 1000 / 24.998 x 100% = 4% (1)\n• De koopkrachtverbetering is (bij benadering) percentage nominale loonstijging − percentage inflatie = 4% − 2,3% = 1,7%. (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "3,5% x € 24.998 = € 874,93, minder dan € 1.000, dus minimale loonstijging van € 1.000"
+          },
+          {
+            "points": 1,
+            "description": "Nominale loonstijging is 1000 / 24.998 x 100% = 4%"
+          },
+          {
+            "points": 1,
+            "description": "Koopkrachtverbetering ≈ 4% − 2,3% = 1,7%"
+          }
+        ],
+        "grading_note": "Indien de kandidaat de koopkrachtverbetering in euro’s uitrekent kan de maximale score worden behaald.",
+        "answer_image_urls": [
+          "economie-havo-2024-i-een-nieuwe-cao-antw2.png"
+        ]
+      },
+      {
+        "title": "Een nieuwe cao",
+        "question_number": 3,
+        "answer_text": "Bij deze vraag moeten de scorepunten altijd worden toegekend, ongeacht of er wel of geen antwoord is gegeven en ongeacht het gegeven antwoord.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Scorepunten altijd toekennen, ongeacht of er wel of geen antwoord is gegeven en ongeacht het gegeven antwoord"
+          }
+        ],
+        "grading_note": "In de vraag is het onduidelijk of de overige productiekosten nominaal of reëel gelijk blijven. Hierdoor kunnen de totale reële productiekosten zowel dalen als stijgen.",
+        "answer_image_urls": [
+          "economie-havo-2024-i-een-nieuwe-cao-antw3.png"
+        ]
+      },
+      {
+        "title": "Een nieuwe cao",
+        "question_number": 4,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Een stijging van de arbeidsproductiviteit betekent dat er minder arbeid nodig is om hetzelfde te produceren. (1)\n• Hierdoor dalen de loonkosten (per product). (en dus de totale productiekosten). (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een stijging van de arbeidsproductiviteit betekent dat er minder arbeid nodig is om hetzelfde te produceren"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor dalen de loonkosten (per product) (en dus de totale productiekosten)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-een-nieuwe-cao-antw4.png"
+        ]
+      },
+      {
+        "title": "Een nieuwe cao",
+        "question_number": 5,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nBij een prijsinelastische vraag leidt een prijsstijging tot een procentueel/relatief/verhoudingsgewijs lagere daling van de afzet, en zal de omzet stijgen.\nof\n(Bij een perfect prijsinelastisch verband geldt) als de prijs stijgt, dan zullen mensen alle goederen blijven kopen die zij voor de prijsstijging ook kochten. Hierdoor zal de omzet (van de supermarkt) stijgen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Bij een prijsinelastische vraag leidt een prijsstijging tot een procentueel lagere daling van de afzet, en zal de omzet stijgen (of: bij perfect prijsinelastisch blijven mensen alle goederen kopen, waardoor de omzet stijgt) — ⚠️ CONTROLEREN: correctievoorschrift geeft geen verdeling van de 2 scorepunten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-een-nieuwe-cao-antw5.png"
+        ]
+      },
+      {
+        "title": "Een nieuwe cao",
+        "question_number": 6,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Het deel/percentage van de werknemers dat lid is van een vakbond neemt af (van ongeveer 35% in 1980 naar ongeveer 20% in 2020). (1)\n• Supermarktwerknemers die geen lid zijn van een vakbond profiteren van de onderhandelingen door de vakbond / van de inspanning van een ander zonder zelf (financieel) bij te dragen (omdat de CAO voor iedere werknemer geldt / algemeen verbindend is, en dus is er sprake van meeliftgedrag). (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het percentage van de werknemers dat lid is van een vakbond neemt af (van ongeveer 35% in 1980 naar ongeveer 20% in 2020)"
+          },
+          {
+            "points": 1,
+            "description": "Niet-leden profiteren van de onderhandelingen door de vakbond zonder zelf (financieel) bij te dragen (meeliftgedrag)"
+          }
+        ],
+        "grading_note": "Voor het toekennen van de eerste deelscore moet de organisatiegraad in procenten worden verwoord.",
+        "answer_image_urls": [
+          "economie-havo-2024-i-een-nieuwe-cao-antw6.png"
+        ]
+      },
+      {
+        "title": "Speedpedelec",
+        "question_number": 7,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nEen helm is een complementair goed, omdat de helm en de speedpedelec tegelijkertijd worden gebruikt / omdat de helm verplicht is bij gebruik van de speedpedelec.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een helm is een complementair goed, omdat de helm en de speedpedelec tegelijkertijd worden gebruikt / de helm verplicht is"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-speedpedelec-antw7.png"
+        ]
+      },
+      {
+        "title": "Speedpedelec",
+        "question_number": 8,
+        "answer_text": "• (1) oligopolie\n  (2) heterogeen (1)\n• (3) proportioneel (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(1) oligopolie, (2) heterogeen"
+          },
+          {
+            "points": 1,
+            "description": "(3) proportioneel"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-speedpedelec-antw8.png"
+        ]
+      },
+      {
+        "title": "Speedpedelec",
+        "question_number": 9,
+        "answer_text": "BCJK\nEen voorbeeld van een juiste uitleg is:\n• Als het bedrijf streeft naar maximale omzet, dan is MO = 0. (1)\n• Bij q = 500 is op de GO-lijn in punt J de prijs C (€ 6.000) af te lezen, en is GTK af te lezen in punt K, waarde B (€ 5.500). (De gemiddelde winst is gelijk aan GO−GTK.) De totale winst wordt weergegeven door de hoekpunten BCJK. (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als het bedrijf streeft naar maximale omzet, dan is MO = 0"
+          },
+          {
+            "points": 1,
+            "description": "Bij q = 500: prijs C (€ 6.000) in punt J en GTK in punt K, waarde B (€ 5.500); totale winst is BCJK"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-speedpedelec-antw9.png"
+        ]
+      },
+      {
+        "title": "Speedpedelec",
+        "question_number": 10,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Het bedrijf zal (minimaal) de marginale kosten willen terugverdienen voordat het gaat leveren, en (1)\n• (in bron 1 is af te lezen) dat de marginale productiekosten (MK) gelijk zijn aan € 3.500. (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het bedrijf zal (minimaal) de marginale kosten willen terugverdienen voordat het gaat leveren"
+          },
+          {
+            "points": 1,
+            "description": "De marginale productiekosten (MK) zijn gelijk aan € 3.500"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-speedpedelec-antw10.png"
+        ]
+      },
+      {
+        "title": "Speedpedelec",
+        "question_number": 11,
+        "answer_text": "• (1) sequentieel\n  (2) twee (1)\n• (3) aanbieder\n  (4) respondent\n  (5) accepteert\nof\n  (3) respondent\n  (4) aanbieder\n  (5) accepteert (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(1) sequentieel, (2) twee"
+          },
+          {
+            "points": 1,
+            "description": "(3) aanbieder, (4) respondent, (5) accepteert, of (3) respondent, (4) aanbieder, (5) accepteert"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-speedpedelec-antw11.png"
+        ]
+      },
+      {
+        "title": "Speedpedelec",
+        "question_number": 12,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• bij (1): € 1.500 want Snel houdt over: budgetbedrag − afgesproken prijs = € 6.000 − € 4.500 = € 1.500 (als Sprinter het voorstel accepteert) (1)\n• bij (2): € 1.000 want Sprinter houdt na dekking van de marginale kosten over: afgesproken prijs − marginale kosten = € 4.500 − € 3.500 = € 1.000 (als Sprinter het voorstel accepteert). (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij (1): € 6.000 − € 4.500 = € 1.500"
+          },
+          {
+            "points": 1,
+            "description": "bij (2): € 4.500 − € 3.500 = € 1.000"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-speedpedelec-antw12.png"
+        ]
+      },
+      {
+        "title": "Speedpedelec",
+        "question_number": 13,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• Een correcte keuze en correcte redenering over het economisch handelen van Sprinter / respondent. (1)\n• Een correcte keuze en correcte redenering over het economisch handelen van Snel / aanbieder. (1)\n\nEen voorbeeld van een juist antwoord is:\n• Sprinter zal elk voorstel dat hoger is dan de minimale leveringsbereidheid / dat een hogere opbrengst heeft dan € 0 accepteren (dat wil zeggen dat Sprinter elk aanbod zal accepteren). (1)\n• Snel (kent de strategie van Sprinter en) zal een voorstel doen dat de eigen opbrengst maximaliseert, (dus € 3.501) omdat dat voorstel nog net geaccepteerd wordt, dus de verdeling wordt € 2.499 ; € 1. (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een correcte keuze en correcte redenering over het economisch handelen van Sprinter / respondent"
+          },
+          {
+            "points": 1,
+            "description": "Een correcte keuze en correcte redenering over het economisch handelen van Snel / aanbieder"
+          }
+        ],
+        "grading_note": "– Als bij de uitwerking sprake is van een doorwerkfout uit de vorige vraag, dan geen scorepunt in mindering brengen.\n– Voor juiste antwoorden via de best response methode kunnen maximale scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "economie-havo-2024-i-speedpedelec-antw13.png"
+        ]
+      },
+      {
+        "title": "Speedpedelec",
+        "question_number": 14,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n— Als Sprinter een aversie heeft tegen ongelijkheid.\n— Als Sprinter het grootste aandeel niet aan Snel gunt.\n— Als Sprinter Snel wil straffen voor het oneerlijke voorstel.\n— Als Sprinter bij een andere afnemer een hoger resultaat kan behalen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een juiste reden, bijv. aversie tegen ongelijkheid / het grootste aandeel niet gunnen / Snel willen straffen / elders een hoger resultaat"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-speedpedelec-antw14.png"
+        ]
+      },
+      {
+        "title": "Een valse start",
+        "question_number": 15,
+        "answer_text": "• (1) heterogene\n  (2) monopolistische concurrentie (1)\n• (3) inferieur (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(1) heterogene, (2) monopolistische concurrentie"
+          },
+          {
+            "points": 1,
+            "description": "(3) inferieur"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-een-valse-start-antw15.png"
+        ]
+      },
+      {
+        "title": "Een valse start",
+        "question_number": 16,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij laagconjunctuur hebben starters een laag consumentenvertrouwen / zijn starters pessimistisch over de waardeontwikkeling van woningen / hebben starters ongunstige inkomensvooruitzichten (1)\n• en dit maakt dat de starters minder bereid zijn om de risico’s / negatieve gevolgen van kopen en lenen te aanvaarden (en daarom hebben ze een voorkeur voor huren). (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij laagconjunctuur hebben starters een laag consumentenvertrouwen / zijn pessimistisch / hebben ongunstige inkomensvooruitzichten"
+          },
+          {
+            "points": 1,
+            "description": "en daardoor zijn starters minder bereid de risico’s van kopen en lenen te aanvaarden (voorkeur voor huren)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-een-valse-start-antw16.png"
+        ]
+      },
+      {
+        "title": "Een valse start",
+        "question_number": 17,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Voor woningbezitters met een hoog inkomen neemt het belastingvoordeel van de hypotheekrenteaftrek af, waardoor zij meer belasting gaan betalen. (1)\n• Voor lage inkomens verandert er niets waardoor de verschillen tussen lage inkomens en hoge inkomens (na belasting) kleiner worden. (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voor woningbezitters met een hoog inkomen neemt het belastingvoordeel van de hypotheekrenteaftrek af, waardoor zij meer belasting gaan betalen"
+          },
+          {
+            "points": 1,
+            "description": "Voor lage inkomens verandert er niets waardoor de verschillen (na belasting) kleiner worden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-een-valse-start-antw17.png"
+        ]
+      },
+      {
+        "title": "Een valse start",
+        "question_number": 18,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de tariefaanpassing wordt het financieren van een koopwoning duurder. (1)\n• Hierdoor daalt de vraag naar koopwoningen (bij elke prijs) en dit leidt (bij gelijkblijvend aanbod) tot een daling van de verkoopprijs van woningen. (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de tariefaanpassing wordt het financieren van een koopwoning duurder"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor daalt de vraag naar koopwoningen en dit leidt (bij gelijkblijvend aanbod) tot een daling van de verkoopprijs"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-een-valse-start-antw18.png"
+        ]
+      },
+      {
+        "title": "Pensioenuitkeringen",
+        "question_number": 19,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Het huidige vermogen van het pensioenfonds is € 456 miljard. De huidige dekkingsgraad is 89%.\n  Invullen in de formule voor dekkingsgraad geeft:\n  Dekkingsgraad = huidige vermogen pensioenfonds / huidige waarde toekomstige verplichtingen pensioenfonds x 100%\n  hieruit volgt dat:\n  huidige waarde toekomstige verplichtingen pensioenfonds = huidige vermogen pensioenfonds / dekkingsgraad x 100%\n  456 miljard / 89% x 100% = 512 miljard\n  dus het ABP komt 512 miljard − 456 miljard = € 56 miljard. (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "456 miljard / 89% x 100% = 512 miljard; het ABP komt 512 miljard − 456 miljard = € 56 miljard tekort"
+          },
+          {
+            "points": 1,
+            "description": "⚠️ CONTROLEREN: maximumscore is 2, maar het correctievoorschrift toont slechts één scorepunt (1) bij deze berekening"
+          }
+        ],
+        "grading_note": "Indien de kandidaat bij de eerste deelscore uitgaat van een voldoende dekkingsgraad van 94% (482 miljard), kunnen maximale scorepunten worden toegekend.",
+        "answer_image_urls": [
+          "economie-havo-2024-i-pensioenuitkeringen-antw19.png"
+        ]
+      },
+      {
+        "title": "Pensioenuitkeringen",
+        "question_number": 20,
+        "answer_text": "(1) kapitaaldekkingsstelsel\n(2) gedaald\n(3) verhoogd\n\nindien drie antwoorden juist: 2\nindien twee antwoorden juist: 1\nindien minder dan twee antwoorden juist: 0",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "(1) kapitaaldekkingsstelsel, (2) gedaald, (3) verhoogd — indien drie antwoorden juist 2, indien twee antwoorden juist 1, indien minder dan twee antwoorden juist 0"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-pensioenuitkeringen-antw20.png"
+        ]
+      },
+      {
+        "title": "Pensioenuitkeringen",
+        "question_number": 21,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nEen verlaging van de pensioenuitkeringen betekent een daling van het inkomen van gepensioneerden/ouderen, waardoor hun bestedingen / uitgaven kunnen afnemen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een verlaging van de pensioenuitkeringen betekent een daling van het inkomen van gepensioneerden, waardoor hun bestedingen kunnen afnemen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-pensioenuitkeringen-antw21.png"
+        ]
+      },
+      {
+        "title": "Pensioenuitkeringen",
+        "question_number": 22,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Een verlaging van de pensioenuitkeringen zorgt voor een daling van het toekomstig inkomen van werkenden. (1)\n• Hierdoor zullen werkenden kiezen om nu extra te sparen (waardoor er minder besteed gaat worden.) (1)\nof\n• Door de verlaging van de pensioenen gaan ouderen minder besteden, hierdoor daalt de vraag en de productie. (1)\n• Werkenden worden werkloos, waardoor het inkomen daalt. Hierdoor heeft de werkzame bevolking minder te besteden. (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een verlaging van de pensioenuitkeringen zorgt voor een daling van het toekomstig inkomen van werkenden / ouderen gaan minder besteden, waardoor de vraag en de productie dalen"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor zullen werkenden nu extra sparen / werkenden worden werkloos waardoor de werkzame bevolking minder te besteden heeft"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-pensioenuitkeringen-antw22.png"
+        ]
+      },
+      {
+        "title": "Pensioenuitkeringen",
+        "question_number": 23,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Het uitstellen van pensioenverlagingen kan leiden tot onzekerheid over het inkomen (bij zowel werkenden als gepensioneerden) (1)\n• en bij onzekerheid over toekomstig inkomen neemt het consumentenvertrouwen af (en daarmee ook de huidige bestedingen van werkenden en gepensioneerden). (1)\nof\n• Uitstel van het verlagen van de pensioenuitkeringen leidt in de toekomst tot een extra verlaging van de pensioenuitkeringen / een extra premieverhoging. (1)\n• Hierdoor zullen werkenden er eerder voor kiezen nu extra te sparen om deze toekomstige terugval op te vangen (waardoor er minder besteed gaat worden.) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Uitstel leidt tot onzekerheid over het inkomen / in de toekomst tot een extra verlaging van de pensioenuitkeringen of extra premieverhoging"
+          },
+          {
+            "points": 1,
+            "description": "waardoor het consumentenvertrouwen en de huidige bestedingen afnemen / werkenden nu extra gaan sparen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-pensioenuitkeringen-antw23.png"
+        ]
+      },
+      {
+        "title": "Pensioenuitkeringen",
+        "question_number": 24,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij het uitstel van verlaging van pensioenuitkeringen blijven de tekorten, die later worden gecompenseerd door uitkeringen alsnog te verlagen / premies te verhogen. (1)\n• De kosten komen zo voor rekening voor de jongere generatie en hierdoor wordt de oudere generatie ontzien. (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij uitstel blijven de tekorten, die later worden gecompenseerd door uitkeringen alsnog te verlagen / premies te verhogen"
+          },
+          {
+            "points": 1,
+            "description": "De kosten komen zo voor rekening van de jongere generatie en de oudere generatie wordt ontzien"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-pensioenuitkeringen-antw24.png"
+        ]
+      },
+      {
+        "title": "Pensioenuitkeringen",
+        "question_number": 25,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n• Bij een lage rente groeit het gespaarde pensioenbedrag minder snel dan bij een hoge rente (bij gelijkblijvende pensioenpremie), en (1)\n• dan is het beschikbare kapitaal (uit sparen en beleggen) niet voldoende om de hoogte van de pensioenen te kunnen garanderen / om de toekomstige pensioenen te kunnen betalen. (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij een lage rente groeit het gespaarde pensioenbedrag minder snel dan bij een hoge rente"
+          },
+          {
+            "points": 1,
+            "description": "dan is het beschikbare kapitaal niet voldoende om de hoogte van de pensioenen te garanderen / de toekomstige pensioenen te betalen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-pensioenuitkeringen-antw25.png"
+        ]
+      },
+      {
+        "title": "Toerisme",
+        "question_number": 26,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Nederlandse bedrijven (in de toerismebranche) verkopen producten/diensten aan het buitenland / aan buitenlandse toeristen, (1)\n• dus het betreft voor Nederland economisch gezien een export. (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Nederlandse bedrijven (in de toerismebranche) verkopen producten/diensten aan buitenlandse toeristen"
+          },
+          {
+            "points": 1,
+            "description": "dus het betreft voor Nederland economisch gezien een export"
+          }
+        ],
+        "grading_note": "Een juiste uitleg is voorwaardelijk voor toekenning van het tweede scorepunt.",
+        "answer_image_urls": [
+          "economie-havo-2024-i-toerisme-antw26.png"
+        ]
+      },
+      {
+        "title": "Toerisme",
+        "question_number": 27,
+        "answer_text": "• (1) ingekochte hulp- en grondstoffen (1)\n• (2) de overheid\n  (3) de ambtenarensalarissen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(1) ingekochte hulp- en grondstoffen"
+          },
+          {
+            "points": 1,
+            "description": "(2) de overheid, (3) de ambtenarensalarissen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-toerisme-antw27.png"
+        ]
+      },
+      {
+        "title": "Toerisme",
+        "question_number": 28,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• De werkgelegenheid in aantal werkzame personen is gestegen met (werkende personene nieuw − werkende personen oud) / werkende personen oud x 100%\n  (761−703) / 703 x 100% = 8,3% (1)\n• De werkgelegenheid in arbeidsjaren is gestegen met (arbeidsjaren nieuw − arbeidsjaren oud) / arbeidsjaren oud x 100%\n  (455−413) / 413 x 100% = 10,2%\n  De werkgelegenheid in arbeidsjaren is harder gestegen dan in personen (dus zijn mensen gemiddeld minder in deeltijd gaan werken).\nOf\n• 2014 = werkgelegenheid in personen / werkgelegenheid in arbeidsjaren = 703/413 = 1,70 (1)\n• 2017 = werkgelegenheid in personen / werkgelegenheid in arbeidsjaren = 761/455 = 1,67\n  De verhouding personen/arbeidsjaren is afgenomen (en dat betekent dat minder mensen in deeltijd zijn gaan werken). (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(761−703) / 703 x 100% = 8,3% (of: 2014 = 703/413 = 1,70)"
+          },
+          {
+            "points": 1,
+            "description": "(455−413) / 413 x 100% = 10,2%; arbeidsjaren harder gestegen dan personen, dus gemiddeld minder in deeltijd (of: 2017 = 761/455 = 1,67; verhouding afgenomen, minder mensen in deeltijd)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-toerisme-antw28.png"
+        ]
+      },
+      {
+        "title": "Toerisme",
+        "question_number": 29,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• Een correcte redenering waarin het gevolg van concentratie van toerisme wordt uitgelegd. (1)\n• Een correcte relatie met negatieve externe effecten. (1)\n\nEen voorbeeld van een juist antwoord is:\n• De leefbaarheid op deze plekken komt onder druk te staan door bijvoorbeeld meer afval / geluidsoverlast / overbelasting van de wegen, en (1)\n• dit brengt maatschappelijke kosten / kosten die niet in de prijs zijn inbegrepen met zich mee voor anderen dan de leveranciers van diensten aan de toeristen waardoor het externe effecten zijn. (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een correcte redenering waarin het gevolg van concentratie van toerisme wordt uitgelegd"
+          },
+          {
+            "points": 1,
+            "description": "Een correcte relatie met negatieve externe effecten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-toerisme-antw29.png"
+        ]
+      },
+      {
+        "title": "Toerisme",
+        "question_number": 30,
+        "answer_text": "Een juist antwoord bevat in relatie tot de context:\n• Een correcte redenering dat een lagere prijs (P) leidt tot een hogere afzet (Q). (1)\n• Een correcte relatie tussen reizen per openbaar vervoer en het groen bbp. (1)\n\nEen voorbeeld van een juist antwoord is:\n• Indien buitenlandse toeristen een lagere prijs betalen (dan Nederlanders), zullen zij sneller bereid zijn het openbaar vervoer te gebruiken. (1)\n• Hierdoor is er minder overbelasting van het wegennet / minder vervuiling / minder drukte op bepaalde plekken, waardoor schade aan het milieu daalt (en daardoor het groen bbp kan stijgen). (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een correcte redenering dat een lagere prijs (P) leidt tot een hogere afzet (Q)"
+          },
+          {
+            "points": 1,
+            "description": "Een correcte relatie tussen reizen per openbaar vervoer en het groen bbp"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2024-i-toerisme-antw30.png"
+        ]
+      }
+    ]
+  }
+}
