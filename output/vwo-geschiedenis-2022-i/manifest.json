@@ -1,0 +1,78 @@
+{
+  "source": "VWO Geschiedenis 2022-I",
+  "subject_name": "Geschiedenis",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Door de tijd heen",
+      "question_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Prehistorie en oudheid",
+      "question_numbers": [
+        3
+      ]
+    },
+    {
+      "title": "De middeleeuwen",
+      "question_numbers": [
+        4,
+        7
+      ]
+    },
+    {
+      "title": "Steden en burgers 1050 - 1700",
+      "question_numbers": [
+        5,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Verlichting 1650 – 1900",
+      "question_numbers": [
+        10,
+        12
+      ]
+    },
+    {
+      "title": "Vroegmoderne tijd",
+      "question_numbers": [
+        11
+      ]
+    },
+    {
+      "title": "China 1842 – 2001",
+      "question_numbers": [
+        13,
+        16,
+        17,
+        23,
+        24
+      ]
+    },
+    {
+      "title": "Moderne tijd",
+      "question_numbers": [
+        14,
+        15,
+        18,
+        20,
+        25
+      ]
+    },
+    {
+      "title": "Duitsland in Europa 1918 - 1991",
+      "question_numbers": [
+        19,
+        21,
+        22,
+        26
+      ]
+    }
+  ]
+}
