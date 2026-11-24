@@ -1,0 +1,586 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "HAVO",
+    "source": "HAVO Economie 2023-I",
+    "answers": [
+      {
+        "title": "Brood op de plank",
+        "question_number": 1,
+        "answer_text": "(1) sociale\n(2) omslagstelsel\n(3) collectieve dwang\n(4) averechtse selectie\n\n• (1) en (2) juist (1)\n• (3) en (4) juist (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(1) sociale en (2) omslagstelsel juist"
+          },
+          {
+            "points": 1,
+            "description": "(3) collectieve dwang en (4) averechtse selectie juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-brood-op-de-plank-antw1.png"
+        ]
+      },
+      {
+        "title": "Brood op de plank",
+        "question_number": 2,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\nHet percentage zzp’ers zonder aov is het (ongewogen) gemiddelde percentage zzp’ers zonder aov over alle klassen\n= (64,8 + 53,0 + 45,8 + 34,8 + 23,0) / 5 = 44,3% (meer dan 40%).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(64,8 + 53,0 + 45,8 + 34,8 + 23,0) / 5 = 44,3% (meer dan 40%)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-brood-op-de-plank-antw2.png"
+        ]
+      },
+      {
+        "title": "Brood op de plank",
+        "question_number": 3,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Lagere inkomensgroepen (binnen de groep zzp’ers) hebben relatief vaak geen individuele aov (zie bron 1), dus bij arbeidsongeschiktheid zullen zij hun inkomen (sterk) zien dalen (1)\n• Hogere inkomensgroepen (binnen de groep zzp’ers) hebben relatief vaak een individuele aov (zie bron 1), dus bij arbeidsongeschiktheid zullen zij hun inkomen (grotendeels) behouden. Hierdoor worden de inkomensverschillen groter (= denivellering) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Lagere inkomensgroepen (binnen de groep zzp’ers) hebben relatief vaak geen individuele aov, dus bij arbeidsongeschiktheid zullen zij hun inkomen (sterk) zien dalen"
+          },
+          {
+            "points": 1,
+            "description": "Hogere inkomensgroepen hebben relatief vaak een individuele aov, dus zullen hun inkomen (grotendeels) behouden. Hierdoor worden de inkomensverschillen groter (= denivellering)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-brood-op-de-plank-antw3.png"
+        ]
+      },
+      {
+        "title": "Brood op de plank",
+        "question_number": 4,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Werknemers in loondienst zijn verplicht verzekerd en zullen in geval van arbeidsongeschiktheid een uitkering ontvangen, (1)\n• terwijl een deel van de zzp’ers niet verzekerd is en daarom met een groter (secundair) inkomensverlies te maken krijgt bij arbeidsongeschiktheid dan arbeidsongeschikte werknemers uit eenzelfde inkomensklasse (en dus is er sprake van denivellering) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Werknemers in loondienst zijn verplicht verzekerd en zullen in geval van arbeidsongeschiktheid een uitkering ontvangen"
+          },
+          {
+            "points": 1,
+            "description": "terwijl een deel van de zzp’ers niet verzekerd is en daarom met een groter (secundair) inkomensverlies te maken krijgt bij arbeidsongeschiktheid dan arbeidsongeschikte werknemers uit eenzelfde inkomensklasse"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-brood-op-de-plank-antw4.png"
+        ]
+      },
+      {
+        "title": "Brood op de plank",
+        "question_number": 5,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Doordat de deelnemers aan een broodfonds elkaar kennen is er geen sprake van asymmetrische informatie tussen de leden, en (1)\n• zullen deelnemers elkaars risico kennen (en zal er een sociale norm zijn om elkaar te helpen ongeacht het risico), waardoor averechtse selectie geen (grote) rol speelt, en (1)\n• er is geen/weinig sprake van moral hazard, omdat deelnemers niet hun gezondheid op het spel zetten als gevolg van (bewust) roekeloos gedrag na deelname aan het broodfonds (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Doordat de deelnemers aan een broodfonds elkaar kennen is er geen sprake van asymmetrische informatie tussen de leden"
+          },
+          {
+            "points": 1,
+            "description": "deelnemers kennen elkaars risico, waardoor averechtse selectie geen (grote) rol speelt"
+          },
+          {
+            "points": 1,
+            "description": "er is geen/weinig sprake van moral hazard, omdat deelnemers niet hun gezondheid op het spel zetten als gevolg van (bewust) roekeloos gedrag na deelname aan het broodfonds"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-brood-op-de-plank-antw5.png"
+        ]
+      },
+      {
+        "title": "Brood op de plank",
+        "question_number": 6,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Totale kosten: 24 maanden x (€ 10 maandelijkse contributie + € 112,50 maandelijkse inleg) + € 225 (inschrijfkosten) = € 3.165 (1)\n• 4% van de deelnemers wordt ziek waardoor in totaal uit de pot wordt gehaald: (0,04 x 50 x € 2.500 x 24) = € 120.000. Dit is een bijdrage van € 120.000 / 50 = € 2.400 per persoon (1)\n• De totale inleg is € 112,50 x 24 = € 2.700;\nDe restitutie is € 2.700 – € 2.400 = € 300\nPer saldo betaalt Nelleke € 3.165 – € 300 = € 2.865 (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Totale kosten: 24 maanden x (€ 10 + € 112,50) + € 225 = € 3.165"
+          },
+          {
+            "points": 1,
+            "description": "Uit de pot: (0,04 x 50 x € 2.500 x 24) = € 120.000; bijdrage € 120.000 / 50 = € 2.400 per persoon"
+          },
+          {
+            "points": 1,
+            "description": "Totale inleg € 112,50 x 24 = € 2.700; restitutie € 2.700 – € 2.400 = € 300; per saldo betaalt Nelleke € 3.165 – € 300 = € 2.865"
+          }
+        ],
+        "grading_note": "De voorwaarde van inleggen totdat de buffer van 36 keer de maandelijkse inleg bereikt is, speelt bij deze berekening geen rol, want die buffer is na 24 keer inleggen nog niet bereikt.",
+        "answer_image_urls": [
+          "economie-havo-2023-i-brood-op-de-plank-antw6.png"
+        ]
+      },
+      {
+        "title": "Wokakkoord",
+        "question_number": 7,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als omgeschoolde Nederlandse koks het door Aziatische restaurants gewenste niveau niet bereiken, kunnen ze niet worden ingezet als kok in deze restaurants (1)\n• De investeringskosten van scholing kunnen op geen enkele andere manier worden terugverdiend (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als omgeschoolde Nederlandse koks het door Aziatische restaurants gewenste niveau niet bereiken, kunnen ze niet worden ingezet als kok in deze restaurants"
+          },
+          {
+            "points": 1,
+            "description": "De investeringskosten van scholing kunnen op geen enkele andere manier worden terugverdiend"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-wokakkoord-antw7.png"
+        ]
+      },
+      {
+        "title": "Wokakkoord",
+        "question_number": 8,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nDe WAV beperkt de toename van het aanbod van specialiteitenkoks. Het tekort zal daardoor blijven bestaan, waardoor de lonen zullen stijgen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De WAV beperkt de toename van het aanbod van specialiteitenkoks. Het tekort zal daardoor blijven bestaan, waardoor de lonen zullen stijgen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-wokakkoord-antw8.png"
+        ]
+      },
+      {
+        "title": "Wokakkoord",
+        "question_number": 9,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\nNa de toegenomen vraag is de vraag gelijk aan het aanbod\nQa₀ = 10.500 specialiteitenkoks\nQv₁ = –1,2L + 44.640 = 10.500\nL = € 28.450",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Qa₀ = 10.500; Qv₁ = –1,2L + 44.640 = 10.500 → L = € 28.450"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-wokakkoord-antw9.png"
+        ]
+      },
+      {
+        "title": "Wokakkoord",
+        "question_number": 10,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Qv₁ = Qa (bij het loon van € 25.000)\nQv₁ = –1,2 x 25.000 + 44.640 = 14.640 specialiteitenkoks (1)\n• Het arbeidsaanbod inclusief quotum is 10.500 + 900 = 11.400 specialiteitenkoks\nHet quotum zou verhoogd moeten worden met 14.640 – 11.400 = 3.240 specialiteitenkoks (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Qv₁ = –1,2 x 25.000 + 44.640 = 14.640 specialiteitenkoks"
+          },
+          {
+            "points": 1,
+            "description": "Arbeidsaanbod inclusief quotum is 10.500 + 900 = 11.400; het quotum zou verhoogd moeten worden met 14.640 – 11.400 = 3.240 specialiteitenkoks"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-wokakkoord-antw10.png"
+        ]
+      },
+      {
+        "title": "Wokakkoord",
+        "question_number": 11,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Lagere gemiddelde loonkosten kunnen leiden tot een verlaging van de prijs (van de gerechten) (1)\n• Als de afzetstijging (als gevolg van de prijsdaling) relatief groter is dan de prijsverlaging zal (per saldo) de totale omzet toenemen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Lagere gemiddelde loonkosten kunnen leiden tot een verlaging van de prijs (van de gerechten)"
+          },
+          {
+            "points": 1,
+            "description": "Als de afzetstijging relatief groter is dan de prijsverlaging zal (per saldo) de totale omzet toenemen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-wokakkoord-antw11.png"
+        ]
+      },
+      {
+        "title": "Wokakkoord",
+        "question_number": 12,
+        "answer_text": "(1) stijgt\n(2) aanbodlijn\n(3) links\n(4) afname\n\nindien vier antwoorden juist 2\nindien drie antwoorden juist 1\nindien minder dan drie antwoorden juist 0",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien vier antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien drie antwoorden juist"
+          },
+          {
+            "points": 0,
+            "description": "indien minder dan drie antwoorden juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-wokakkoord-antw12.png"
+        ]
+      },
+      {
+        "title": "Auto van de zaak",
+        "question_number": 13,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• CO₂-uitstoot is een negatief extern effect van autorijden, omdat de vervuiling niet tot uitdrukking komt in de prijs van autorijden (en dat leidt tot maatschappelijke kosten) (1)\n• Doordat de fiscale bijtelling uitstootafhankelijk wordt (zie bron 1) zal de vervuiler meer gaan betalen voor meer CO₂-uitstoot. De CO₂-uitstoot zal afnemen, omdat de werknemer (via het prijsmechanisme) wordt gestimuleerd om een auto met minder CO₂-uitstoot te kiezen (1)\nof\n• Doordat de fiscale bijtelling uitstootafhankelijk wordt (zie bron 1) zal de vervuiler meer gaan betalen voor meer CO₂-uitstoot. Hierdoor wordt de vervuiling (als gevolg van CO₂-uitstoot) geïnternaliseerd en is er sprake van minder negatieve externe effecten (2)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "CO₂-uitstoot is een negatief extern effect van autorijden, omdat de vervuiling niet tot uitdrukking komt in de prijs van autorijden (en dat leidt tot maatschappelijke kosten)"
+          },
+          {
+            "points": 1,
+            "description": "Doordat de fiscale bijtelling uitstootafhankelijk wordt zal de vervuiler meer gaan betalen voor meer CO₂-uitstoot; de CO₂-uitstoot zal afnemen, omdat de werknemer (via het prijsmechanisme) wordt gestimuleerd om een auto met minder CO₂-uitstoot te kiezen / of (tweede voorbeeld, samen 2 scorepunten): de vervuiler gaat meer betalen voor meer CO₂-uitstoot, hierdoor wordt de vervuiling geïnternaliseerd en is er sprake van minder negatieve externe effecten"
+          }
+        ],
+        "grading_note": "Toelichting:\nDe deelscores zijn aangepast. In het tweede voorbeeld, voor de tweede deelscore, is de eerste deelscore (de koppeling externe negatieve effecten - en prijs van autorijden) al opgenomen.",
+        "answer_image_urls": [
+          "economie-havo-2023-i-auto-van-de-zaak-antw13.png"
+        ]
+      },
+      {
+        "title": "Auto van de zaak",
+        "question_number": 14,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de nieuwe regeling van fiscale bijtelling (zie bron 1) zullen consumenten/werknemers kiezen voor een auto met een lage uitstoot en worden autofabrikanten uitgedaagd nieuwe technieken te ontwikkelen om auto’s te produceren die minder milieubelastend zijn (1)\n• Nieuwe technieken / economische activiteiten leiden tot een hogere kwaliteit / kwantiteit van de productiefactoren en daarmee tot een structurele groei van de economie (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de nieuwe regeling van fiscale bijtelling zullen consumenten/werknemers kiezen voor een auto met een lage uitstoot en worden autofabrikanten uitgedaagd nieuwe technieken te ontwikkelen om auto’s te produceren die minder milieubelastend zijn"
+          },
+          {
+            "points": 1,
+            "description": "Nieuwe technieken / economische activiteiten leiden tot een hogere kwaliteit / kwantiteit van de productiefactoren en daarmee tot een structurele groei van de economie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-auto-van-de-zaak-antw14.png"
+        ]
+      },
+      {
+        "title": "Auto van de zaak",
+        "question_number": 15,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Ze kiest voor Hyundai (vanwege de laagste aanschafwaarde en de laagste bijtelling. Daarmee heeft ze een bijtelling van 14% van de aanschafwaarde)\nBijtelling: 14% van € 14.065 = € 1.969,10 (1)\n• Ook met de bijtelling valt haar inkomen in schijf 1:\n37,1% van € 1.969,10 = € 730,54 (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Ze kiest voor Hyundai; bijtelling: 14% van € 14.065 = € 1.969,10"
+          },
+          {
+            "points": 1,
+            "description": "Ook met de bijtelling valt haar inkomen in schijf 1: 37,1% van € 1.969,10 = € 730,54"
+          }
+        ],
+        "grading_note": "Opmerkingen\n− Een andere manier van afronden ook goed rekenen.\n− Als er is gekozen voor een andere auto maximaal 1 scorepunt toekennen.\n\nToelichting:\nDe verdeling van de punten is aangepast. Ook is bij de eerste deelscore tekst tussen haakjes geplaatst. Hier is alleen vermelding van de auto en berekening van de bijtelling voldoende voor de toekenning van het scorepunt.",
+        "answer_image_urls": [
+          "economie-havo-2023-i-auto-van-de-zaak-antw15.png"
+        ]
+      },
+      {
+        "title": "Een historisch lage rente",
+        "question_number": 16,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door een verlaging van de rente wordt geld lenen aantrekkelijker / wordt sparen minder aantrekkelijk (mits de algemene banken de renteverlaging doorgeven aan de consument) (1)\n• hierdoor nemen de bestedingen toe en zal, bij gelijkblijvende productie(capaciteit), de inflatie kunnen toenemen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door een verlaging van de rente wordt geld lenen aantrekkelijker / wordt sparen minder aantrekkelijk"
+          },
+          {
+            "points": 1,
+            "description": "hierdoor nemen de bestedingen toe en zal, bij gelijkblijvende productie(capaciteit), de inflatie kunnen toenemen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-een-historisch-lage-rente-antw16.png"
+        ]
+      },
+      {
+        "title": "Een historisch lage rente",
+        "question_number": 17,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Consumenten verwachten (verdere) prijsdaling en stellen hun aankopen uit, en (1)\n• hierdoor dalen de bestedingen en daalt de productie. Dit leidt tot een lagere economische groei (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Consumenten verwachten (verdere) prijsdaling en stellen hun aankopen uit"
+          },
+          {
+            "points": 1,
+            "description": "hierdoor dalen de bestedingen en daalt de productie. Dit leidt tot een lagere economische groei"
+          }
+        ],
+        "grading_note": "De cursief gedrukte aspecten moeten genoemd of verwoord zijn voor toekenning van scorepunten. (Cursief gedrukt: (verdere) prijsdaling, stellen hun aankopen uit, dalen, bestedingen, daalt, productie.)",
+        "answer_image_urls": [
+          "economie-havo-2023-i-een-historisch-lage-rente-antw17.png"
+        ]
+      },
+      {
+        "title": "Een historisch lage rente",
+        "question_number": 18,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door een verlaging van de rente dalen de kosten van Europese producenten (1)\n• Hierdoor kunnen prijzen van Europese producten dalen ten opzichte van prijzen van Amerikaanse producten (waardoor de internationale concurrentiepositie van de VS verslechtert) (1)\nof\n• Indien de ECB de rente verlaagt zal de rente in de VS relatief hoog zijn. Meer internationale beleggers zullen in de VS krediet willen verlenen. Hierdoor is er meer vraag naar de dollar waardoor de dollar apprecieert (1)\n• Amerikaanse producten worden in euro’s duurder (waardoor de internationale concurrentiepositie van de VS verslechtert) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door een verlaging van de rente dalen de kosten van Europese producenten / of: de rente in de VS is relatief hoog, meer internationale beleggers willen in de VS krediet verlenen, meer vraag naar de dollar waardoor de dollar apprecieert"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor kunnen prijzen van Europese producten dalen ten opzichte van prijzen van Amerikaanse producten / of: Amerikaanse producten worden in euro’s duurder (waardoor de internationale concurrentiepositie van de VS verslechtert)"
+          }
+        ],
+        "grading_note": "Opmerkingen\n− Bij een antwoord in de lijn van het tweede voorbeeld moeten kapitaalstroom en vraag naar dollars verwoord zijn voor het eerste scorepunt.\n− Een beredenering vanuit de EU kan juist zijn.",
+        "answer_image_urls": [
+          "economie-havo-2023-i-een-historisch-lage-rente-antw18.png"
+        ]
+      },
+      {
+        "title": "Een historisch lage rente",
+        "question_number": 19,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Uit de figuur in bron 1 blijkt dat het vermogen van 55-plussers gemiddeld groter is dan dat van mensen onder de 55 jaar, en (1)\n• omdat het aandeel 55-plussers (relatief) hoog is, zal het totale vermogen (relatief) hoog zijn. Hierdoor is het aanbod op de vermogensmarkt (ten opzichte van de vraag relatief) hoog, waardoor de rente (relatief) laag is (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Uit de figuur in bron 1 blijkt dat het vermogen van 55-plussers gemiddeld groter is dan dat van mensen onder de 55 jaar"
+          },
+          {
+            "points": 1,
+            "description": "omdat het aandeel 55-plussers (relatief) hoog is, is het aanbod op de vermogensmarkt (relatief) hoog, waardoor de rente (relatief) laag is"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-een-historisch-lage-rente-antw19.png"
+        ]
+      },
+      {
+        "title": "Olieprijzenoorlog in het vat",
+        "question_number": 20,
+        "answer_text": "“Ten eerste werd in China − vanwege een uitbraak van het coronavirus − een groot deel van de industrie tijdelijk stilgelegd.”",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "“Ten eerste werd in China − vanwege een uitbraak van het coronavirus − een groot deel van de industrie tijdelijk stilgelegd.”"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-olieprijzenoorlog-in-het-vat-antw20.png"
+        ]
+      },
+      {
+        "title": "Olieprijzenoorlog in het vat",
+        "question_number": 21,
+        "answer_text": "Oligopolie.\nVoorbeelden van relevante kenmerken zijn:\n− er is sprake van een beperkt aantal aanbieders.\n− er zijn toetredingsbarrières (beschikking over oliebronnen is voorwaardelijk voor toetreding).\n− er is sprake van marktmacht (dit blijkt uit het gegeven dat er concurrentiestrijd is om marktaandeel).\n\nindien oligopolie genoemd en twee kenmerken juist 2\nindien oligopolie genoemd en een kenmerk juist 1\nalle andere antwoorden 0",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien oligopolie genoemd en twee kenmerken juist"
+          },
+          {
+            "points": 1,
+            "description": "indien oligopolie genoemd en een kenmerk juist"
+          },
+          {
+            "points": 0,
+            "description": "alle andere antwoorden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-olieprijzenoorlog-in-het-vat-antw21.png"
+        ]
+      },
+      {
+        "title": "Olieprijzenoorlog in het vat",
+        "question_number": 22,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De dominante strategie voor Rusland is hoger aanbod handhaven, want ongeacht wat Saoedi-Arabië kiest, de omzetverandering is het minst negatief / het meest positief als Rusland kiest voor hoger aanbod handhaven (↓ > ↓↓ en ↑↑ > ↑).\nDe dominante strategie voor Saoedi-Arabië is hoger aanbod handhaven, want ongeacht wat Rusland doet, de omzetverandering is het minst negatief / het meest positief als Saoedi-Arabië kiest voor hoger aanbod handhaven (↓ > ↓↓ en ↑↑ > ↑) (1)\n• Het resultaat dat tot stand komt (handhaven, handhaven) is suboptimaal voor beide landen, want beider individuele resultaten zouden beter zijn als beide landen kiezen voor verlagen van het aanbod (en dus er is sprake van een gevangenendilemma) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De dominante strategie voor zowel Rusland als Saoedi-Arabië is hoger aanbod handhaven, want ongeacht wat de ander kiest is de omzetverandering het minst negatief / het meest positief (↓ > ↓↓ en ↑↑ > ↑)"
+          },
+          {
+            "points": 1,
+            "description": "Het resultaat (handhaven, handhaven) is suboptimaal voor beide landen, want beider resultaten zouden beter zijn als beide landen kiezen voor verlagen van het aanbod (gevangenendilemma)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-olieprijzenoorlog-in-het-vat-antw22.png"
+        ]
+      },
+      {
+        "title": "Olieprijzenoorlog in het vat",
+        "question_number": 23,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De cel rechtsonder geeft weer dat beide landen hebben besloten om het aanbod te verlagen. Hierdoor zal de prijs van ruwe olie stijgen (1)\n• Uit de gegevens blijkt dat (voor beide landen) de omzet is toegenomen (↑ ; ↑) bij de gestegen prijs. Dit betekent dat er sprake is van een prijsinelastische vraag naar ruwe olie (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De cel rechtsonder geeft weer dat beide landen hebben besloten om het aanbod te verlagen. Hierdoor zal de prijs van ruwe olie stijgen"
+          },
+          {
+            "points": 1,
+            "description": "De omzet is (voor beide landen) toegenomen (↑ ; ↑) bij de gestegen prijs. Dit betekent dat er sprake is van een prijsinelastische vraag naar ruwe olie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-olieprijzenoorlog-in-het-vat-antw23.png"
+        ]
+      },
+      {
+        "title": "Olieprijzenoorlog in het vat",
+        "question_number": 24,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij aflezing van bron 2 zijn de gemiddelde totale kosten voor de VS ongeveer US$ 36 (21,5 + 9,4 + 5,5 = US$ 36,4), dat is meer dan de marktprijs van US$ 30 en de productie is dan niet kostendekkend (1)\n• (De nieuwe prijs is 70% van de oude prijs, dus) de oude marktprijs was 30 / 0,7 = US$ 42,86, dat is meer dan US$ 36,4 en de productie was toen wel kostendekkend (en er werd wel winst gemaakt) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De gemiddelde totale kosten voor de VS zijn ongeveer US$ 36 (21,5 + 9,4 + 5,5 = US$ 36,4), meer dan de marktprijs van US$ 30, dus niet kostendekkend"
+          },
+          {
+            "points": 1,
+            "description": "De oude marktprijs was 30 / 0,7 = US$ 42,86, meer dan US$ 36,4, dus de productie was toen wel kostendekkend"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-olieprijzenoorlog-in-het-vat-antw24.png"
+        ]
+      },
+      {
+        "title": "Olieprijzenoorlog in het vat",
+        "question_number": 25,
+        "answer_text": "Nee\nEen voorbeeld van een juist antwoord is:\n• Omdat de prijs hoger is dan de gemiddelde variabele kosten (en omdat de constante kosten op korte termijn doorlopen) (1)\n• zal de VS (niet stoppen maar) blijven produceren met als doel om het verlies te minimaliseren / is het verlies bij blijven produceren lager dan het verlies bij stoppen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(Nee) Omdat de prijs hoger is dan de gemiddelde variabele kosten (en omdat de constante kosten op korte termijn doorlopen)"
+          },
+          {
+            "points": 1,
+            "description": "zal de VS (niet stoppen maar) blijven produceren met als doel om het verlies te minimaliseren / is het verlies bij blijven produceren lager dan het verlies bij stoppen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-olieprijzenoorlog-in-het-vat-antw25.png"
+        ]
+      },
+      {
+        "title": "Olieprijzenoorlog in het vat",
+        "question_number": 26,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n• Door de lage olieprijs bieden olieproducenten minder olie aan terwijl deze wel is geproduceerd (1)\n• Hierdoor stijgt de vraag naar opslagcapaciteit / olietankers en stijgt (bij gelijkblijvend aanbod) de prijs van olietankers (1)\nof\n• Door de lage olieprijs kan het voor importeurs / oliehandelaren goedkoper zijn om nu te kopen en op te slaan voor latere consumptie / doorverkoop (1)\n• Hierdoor stijgt de vraag naar opslagcapaciteit / olietankers en stijgt (bij gelijkblijvend aanbod) de prijs van het gebruik van olietankers (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de lage olieprijs bieden olieproducenten minder olie aan terwijl deze wel is geproduceerd / of: kan het voor importeurs / oliehandelaren goedkoper zijn om nu te kopen en op te slaan voor latere consumptie / doorverkoop"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor stijgt de vraag naar opslagcapaciteit / olietankers en stijgt (bij gelijkblijvend aanbod) de prijs van (het gebruik van) olietankers"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-olieprijzenoorlog-in-het-vat-antw26.png"
+        ]
+      },
+      {
+        "title": "Olieprijzenoorlog in het vat",
+        "question_number": 27,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De lage olieprijs maakt het aantrekkelijker om olieproducten te gebruiken als brandstof in plaats van duurzame energie (substitutie) (1)\n• Hierdoor daalt de vraag naar duurzame energie en zal de prijs daarvan dalen, (met het gevolg dat de winstgevendheid op de investering in duurzame energieproductie daalt) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De lage olieprijs maakt het aantrekkelijker om olieproducten te gebruiken als brandstof in plaats van duurzame energie (substitutie)"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor daalt de vraag naar duurzame energie en zal de prijs daarvan dalen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-olieprijzenoorlog-in-het-vat-antw27.png"
+        ]
+      },
+      {
+        "title": "Treinmonopolie",
+        "question_number": 28,
+        "answer_text": "bij (1) constante kosten\nbij (2) prijs",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij (1) constante kosten, bij (2) prijs"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-treinmonopolie-antw28.png"
+        ]
+      },
+      {
+        "title": "Treinmonopolie",
+        "question_number": 29,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nDe gemiddelde variabele kosten zijn constant / De variabele kosten zijn proportioneel variabel, wat betekent dat ieder extra product telkens dezelfde hoeveelheid extra kosten met zich meebrengt (en dus geldt dat MK=GVK).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De gemiddelde variabele kosten zijn constant / de variabele kosten zijn proportioneel variabel, wat betekent dat ieder extra product telkens dezelfde hoeveelheid extra kosten met zich meebrengt (en dus geldt dat MK=GVK)"
+          }
+        ],
+        "grading_note": "Toelichting: Het correctievoorschrift bevatte een onjuistheid.",
+        "answer_image_urls": [
+          "economie-havo-2023-i-treinmonopolie-antw29.png"
+        ]
+      },
+      {
+        "title": "Treinmonopolie",
+        "question_number": 30,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Het minimale verlies wordt (hetzelfde als de doelstelling maximale winst) bereikt bij de hoeveelheid Q waarbij MO = MK.\n(Het snijpunt ligt bij Q = 2.000 miljoen km) (1)\n• In de grafiek is (bij Q = 2.000) te zien dat P = GO = € 0,40 per km\n(De gemiddelde opbrengsten per km zijn lager dan de gemiddelde kosten per km, waardoor er verlies geleden wordt) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het minimale verlies wordt (hetzelfde als de doelstelling maximale winst) bereikt bij de hoeveelheid Q waarbij MO = MK"
+          },
+          {
+            "points": 1,
+            "description": "In de grafiek is (bij Q = 2.000) te zien dat P = GO = € 0,40 per km"
+          }
+        ],
+        "grading_note": "Toelichting:\nDe zin met Q=2000 is tussen haakjes gezet omdat het noemen van Q niet expliciet is gevraagd.",
+        "answer_image_urls": [
+          "economie-havo-2023-i-treinmonopolie-antw30.png"
+        ]
+      },
+      {
+        "title": "Treinmonopolie",
+        "question_number": 31,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nEr is sprake van de marktvorm monopolie, omdat er voor elk traject / elke regio steeds één aanbieder van passagiersvervoer is.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er is sprake van de marktvorm monopolie, omdat er voor elk traject / elke regio steeds één aanbieder van passagiersvervoer is"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2023-i-treinmonopolie-antw31.png"
+        ]
+      }
+    ]
+  }
+}

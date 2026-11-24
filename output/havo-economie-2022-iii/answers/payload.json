@@ -1,0 +1,553 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "HAVO",
+    "source": "HAVO Economie 2022-III",
+    "answers": [
+      {
+        "title": "Van drie naar twee schijven!",
+        "question_number": 1,
+        "answer_text": "(1) primaire\n(2) stijgt\n(3) daalt\n(4) daalt\n(5) denivellerend\n(6) nivellerend\n(7) stijgen\n\nindien zeven antwoorden juist 3\nindien zes of vijf antwoorden juist 2\nindien vier of drie antwoorden juist 1\nindien minder dan drie antwoorden juist 0",
+        "scoring_steps": [
+          {
+            "points": 3,
+            "description": "indien zeven antwoorden juist"
+          },
+          {
+            "points": 2,
+            "description": "indien zes of vijf antwoorden juist"
+          },
+          {
+            "points": 1,
+            "description": "indien vier of drie antwoorden juist"
+          },
+          {
+            "points": 0,
+            "description": "indien minder dan drie antwoorden juist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-van-drie-naar-twee-schijven-antw1.png"
+        ]
+      },
+      {
+        "title": "Van drie naar twee schijven!",
+        "question_number": 2,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• bij een belastbaar inkomen van € 40.000 hoort een belastingtarief van 36,93%\nBerekende belasting: 0,3693 x € 40.000 = € 14.772\nTe betalen belasting = berekende belasting − heffingskortingen = € 14.772 – € 1.406 – € 2.857 = € 10.509 (1)\n• De gemiddelde belastingdruk = (te betalen belasting / belastbaar inkomen) x 100% = (€ 10.509 / € 40.000) x 100% = 26,3%\nDit is lager dan 27,9%, dus de gemiddelde belastingdruk is gedaald (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij een belastbaar inkomen van € 40.000 hoort een belastingtarief van 36,93%; berekende belasting: 0,3693 x € 40.000 = € 14.772; te betalen belasting = € 14.772 – € 1.406 – € 2.857 = € 10.509"
+          },
+          {
+            "points": 1,
+            "description": "De gemiddelde belastingdruk = (€ 10.509 / € 40.000) x 100% = 26,3%; dit is lager dan 27,9%, dus de gemiddelde belastingdruk is gedaald"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-van-drie-naar-twee-schijven-antw2.png"
+        ]
+      },
+      {
+        "title": "Van drie naar twee schijven!",
+        "question_number": 3,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Het gemiddelde besteedbaar inkomen neemt toe, waardoor de vraag naar producten stijgt, (1)\n• en waardoor de productie stijgt (en daardoor de vraag naar arbeid kan stijgen) (1)\nof\n• Het gemiddelde besteedbaar inkomen neemt toe, waardoor er lagere looneisen gesteld worden (ten behoeve van koopkrachtstijging) (1)\n• en waardoor de concurrentiepositie verbetert, de (vraag en) productie stijgt (en daardoor de vraag naar arbeid kan stijgen) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het gemiddelde besteedbaar inkomen neemt toe, waardoor de vraag naar producten stijgt / of: waardoor er lagere looneisen gesteld worden (ten behoeve van koopkrachtstijging)"
+          },
+          {
+            "points": 1,
+            "description": "en waardoor de productie stijgt (en daardoor de vraag naar arbeid kan stijgen) / of: en waardoor de concurrentiepositie verbetert, de (vraag en) productie stijgt (en daardoor de vraag naar arbeid kan stijgen)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-van-drie-naar-twee-schijven-antw3.png"
+        ]
+      },
+      {
+        "title": "Van drie naar twee schijven!",
+        "question_number": 4,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Meer mensen (die eerder niet op zoek waren, en nu aangetrokken worden door de hogere netto beloning) zullen zich aanbieden op de arbeidsmarkt, en (1)\n• dit extra aanbod van arbeid vermindert het effect van de daling van het aantal werklozen (en dit betekent dat de daling van de werkloosheid minder sterk is dan de stijging van de werkgelegenheid) (1)\nof\n• Werknemers die in deeltijd werken (die niet op zoek waren naar extra arbeidsuren, en nu aangetrokken worden door de hogere netto beloning) zullen zich voor extra arbeidsuren aanbieden op de arbeidsmarkt, en (1)\n• dit extra aanbod van arbeid vermindert het effect van de daling van het aantal werklozen (en dit betekent dat de daling van de werkloosheid minder sterk is dan de stijging van de werkgelegenheid) (1)\nof\n• Mensen die werkloos zijn kunnen een andere opleiding / andere kwaliteiten hebben dan de gevraagde arbeid (er is sprake van kwalitatieve werkloosheid) (1)\n• waardoor de toegenomen werkgelegenheid maar ten dele vervuld kan worden door mensen die werkloos zijn (en de daling van de werkloosheid dus minder sterk is dan de stijging van de werkgelegenheid) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Meer mensen (die eerder niet op zoek waren, en nu aangetrokken worden door de hogere netto beloning) zullen zich aanbieden op de arbeidsmarkt / of: werknemers die in deeltijd werken zullen zich voor extra arbeidsuren aanbieden op de arbeidsmarkt / of: mensen die werkloos zijn kunnen een andere opleiding / andere kwaliteiten hebben dan de gevraagde arbeid (er is sprake van kwalitatieve werkloosheid)"
+          },
+          {
+            "points": 1,
+            "description": "dit extra aanbod van arbeid vermindert het effect van de daling van het aantal werklozen (de daling van de werkloosheid is minder sterk dan de stijging van de werkgelegenheid) / of: waardoor de toegenomen werkgelegenheid maar ten dele vervuld kan worden door mensen die werkloos zijn"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-van-drie-naar-twee-schijven-antw4.png"
+        ]
+      },
+      {
+        "title": "Van drie naar twee schijven!",
+        "question_number": 5,
+        "answer_text": "Voorbeelden van een juiste benadering of berekening zijn:\n• De prijsstijging van de goederen onder het lage tarief is (bij benadering) 9% − 6% = 3% (1)\n• De inflatie is (bij benadering) 20% van 3% ≈ 0,6% (1)\nof\nDe nieuwe prijsindex van goederen onder het lage tarief is (prijs voor de tariefswijziging = 100):\n109/106 × 100 = 102,83\nDe relatieve prijsstijging van deze goederen is 102,83% − 100% = 2,83% (1)\nDe inflatie is 20% van 2,83% is 0,57% ≈ 0,6% (1)\nof\nPoud = 100\nPnieuw : 0,2 × 109/106 × 100 + (0,4 + 0,4) × 100 = 100,566 (1)\ninflatie ≈ Pnieuw - Poud = 100,566 − 100 = 0,5666 ≈ 0,6% (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De prijsstijging van de goederen onder het lage tarief is (bij benadering) 9% − 6% = 3% / of: 109/106 × 100 = 102,83, de relatieve prijsstijging is 102,83% − 100% = 2,83% / of: Poud = 100, Pnieuw : 0,2 × 109/106 × 100 + (0,4 + 0,4) × 100 = 100,566"
+          },
+          {
+            "points": 1,
+            "description": "De inflatie is (bij benadering) 20% van 3% ≈ 0,6% / of: 20% van 2,83% is 0,57% ≈ 0,6% / of: inflatie ≈ Pnieuw - Poud = 100,566 − 100 = 0,5666 ≈ 0,6%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-van-drie-naar-twee-schijven-antw5.png"
+        ]
+      },
+      {
+        "title": "Huisvuil ophalen kan goedkoper?",
+        "question_number": 6,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• TK = TVK + TCK = 2.500 × (€130 + €120 + €10) + € 130.000 = € 780.000 (1)\n• TO = Q × P = 2.500 × € 300 = € 750.000\ntekort berekenen: TO − TK = € 750.000 − € 780.000 = − € 30.000 (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "TK = TVK + TCK = 2.500 × (€130 + €120 + €10) + € 130.000 = € 780.000"
+          },
+          {
+            "points": 1,
+            "description": "TO = Q × P = 2.500 × € 300 = € 750.000; tekort: TO − TK = € 750.000 − € 780.000 = − € 30.000"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-huisvuil-ophalen-kan-goedkoper-antw6.png"
+        ]
+      },
+      {
+        "title": "Huisvuil ophalen kan goedkoper?",
+        "question_number": 7,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• verminderde loonkosten € 40.000\ntoegenomen investeringskosten € 20.000 (1)\n• break-evenpoint berekenen:\nTO = TVK + TCK\n€ 300 × Q = € 260 × Q + € 110.000\n€ 40 × Q = € 110.000\nQ = 2.750 huishoudens (1)\n• De gemeente heeft 2.500 huishoudens, terwijl kostendekking bij 2.750 huishoudens behaald wordt. Met een groei van 250 huishoudens is dit gerealiseerd (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "verminderde loonkosten € 40.000; toegenomen investeringskosten € 20.000"
+          },
+          {
+            "points": 1,
+            "description": "break-evenpoint: € 300 × Q = € 260 × Q + € 110.000 → € 40 × Q = € 110.000 → Q = 2.750 huishoudens"
+          },
+          {
+            "points": 1,
+            "description": "De gemeente heeft 2.500 huishoudens, terwijl kostendekking bij 2.750 huishoudens behaald wordt. Met een groei van 250 huishoudens is dit gerealiseerd"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-huisvuil-ophalen-kan-goedkoper-antw7.png"
+        ]
+      },
+      {
+        "title": "Huisvuil ophalen kan goedkoper?",
+        "question_number": 8,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n• De scholing van de chauffeur van de vuilnisvrachtwagen is heel specifiek (1)\n• Indien het experiment mislukt kunnen de investeringskosten van deze scholing niet terugverdiend worden (1)\nof\n• De technische aanpassing is heel specifiek (1)\n• Indien het experiment mislukt, kunnen de investeringskosten van deze aanpassing niet terugverdiend worden (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De scholing van de chauffeur van de vuilnisvrachtwagen is heel specifiek / of: De technische aanpassing is heel specifiek"
+          },
+          {
+            "points": 1,
+            "description": "Indien het experiment mislukt kunnen de investeringskosten van deze scholing / aanpassing niet terugverdiend worden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-huisvuil-ophalen-kan-goedkoper-antw8.png"
+        ]
+      },
+      {
+        "title": "Huisvuil ophalen kan goedkoper?",
+        "question_number": 9,
+        "answer_text": "Een voorbeeld van juist antwoord is:\n• Door de verminderde kans op bedrijfsongevallen doen werknemers minder beroep op (publieke) voorzieningen zoals zorg / een arbeidsongeschiktheidsuitkering, oftewel (1)\n• kosten die (deels) door de samenleving betaald moeten worden en niet verdisconteerd zijn in de prijs voor het ophalen van huisvuil (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de verminderde kans op bedrijfsongevallen doen werknemers minder beroep op (publieke) voorzieningen zoals zorg / een arbeidsongeschiktheidsuitkering"
+          },
+          {
+            "points": 1,
+            "description": "kosten die (deels) door de samenleving betaald moeten worden en niet verdisconteerd zijn in de prijs voor het ophalen van huisvuil"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-huisvuil-ophalen-kan-goedkoper-antw9.png"
+        ]
+      },
+      {
+        "title": "Banken buiten spel?",
+        "question_number": 10,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Bij een eigen vermogen van € 150 miljoen, bedraagt de maximale toegestane kredietverlening € 150 miljoen / 0,1 = € 1.500 miljoen (1)\n• De kredietverlening moet met € 2.000 miljoen – € 1.500 miljoen = € 500 miljoen worden teruggebracht (om aan de vermogenseis te voldoen) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij een eigen vermogen van € 150 miljoen bedraagt de maximale toegestane kredietverlening € 150 miljoen / 0,1 = € 1.500 miljoen"
+          },
+          {
+            "points": 1,
+            "description": "De kredietverlening moet met € 2.000 miljoen – € 1.500 miljoen = € 500 miljoen worden teruggebracht"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-banken-buiten-spel-antw10.png"
+        ]
+      },
+      {
+        "title": "Banken buiten spel?",
+        "question_number": 11,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De ondernemer die geld uitleent heeft minder informatie dan de ondernemer die geld leent over (bijvoorbeeld)\nhoge schulden (kredietwaardigheid) /\ngroot verloop personeel (bedrijfsvoering) /\ngrote schommelingen in grondstofprijzen (bedrijfsrisico’s)\nvan de ondernemer die leent, (1)\n• dit is een probleem voor de ondernemer die geld uitleent omdat deze een (groter) risico loopt (dan zonder de informatieasymmetrie, bijvoorbeeld dat de rente / aflossing niet betaald wordt) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De ondernemer die geld uitleent heeft minder informatie dan de ondernemer die geld leent over (bijvoorbeeld) hoge schulden (kredietwaardigheid) / groot verloop personeel (bedrijfsvoering) / grote schommelingen in grondstofprijzen (bedrijfsrisico’s) van de ondernemer die leent"
+          },
+          {
+            "points": 1,
+            "description": "dit is een probleem voor de ondernemer die geld uitleent omdat deze een (groter) risico loopt (bijvoorbeeld dat de rente / aflossing niet betaald wordt)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-banken-buiten-spel-antw11.png"
+        ]
+      },
+      {
+        "title": "Banken buiten spel?",
+        "question_number": 12,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− informatie opvragen over de kredietwaardigheid van de ondernemer die wil lenen\n− de boekhouding van de ondernemer die wil lenen controleren\n− voorwaarden stellen aan het verstrekken van informatie over de bedrijfsvoering / de bedrijfsrisico’s van de ondernemer die wil lenen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een juist voorbeeld, zoals: informatie opvragen over de kredietwaardigheid van de ondernemer die wil lenen / de boekhouding van de ondernemer die wil lenen controleren / voorwaarden stellen aan het verstrekken van informatie over de bedrijfsvoering / de bedrijfsrisico’s van de ondernemer die wil lenen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-banken-buiten-spel-antw12.png"
+        ]
+      },
+      {
+        "title": "Banken buiten spel?",
+        "question_number": 13,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Het investeringsfonds kan meer risico nemen/krediet verlenen dan verantwoord is, (1)\n• omdat bij verlies de lasten aan de overheid kunnen worden doorberekend (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het investeringsfonds kan meer risico nemen/krediet verlenen dan verantwoord is"
+          },
+          {
+            "points": 1,
+            "description": "omdat bij verlies de lasten aan de overheid kunnen worden doorberekend"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-banken-buiten-spel-antw13.png"
+        ]
+      },
+      {
+        "title": "Banken buiten spel?",
+        "question_number": 14,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De overheid krijgt meer belastinginkomsten, omdat de bedrijven (door kredietverlening) inkomen / omzet genereren (1)\n• De overheid heeft minder uitgaven aan werkloosheidsuitkeringen, als (door kredietverlening, via meer investeringen) meer mensen aan het werk komen, die anders werkloos blijven / als minder bedrijven failliet gaan (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De overheid krijgt meer belastinginkomsten, omdat de bedrijven (door kredietverlening) inkomen / omzet genereren"
+          },
+          {
+            "points": 1,
+            "description": "De overheid heeft minder uitgaven aan werkloosheidsuitkeringen, als meer mensen aan het werk komen, die anders werkloos blijven / als minder bedrijven failliet gaan"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-banken-buiten-spel-antw14.png"
+        ]
+      },
+      {
+        "title": "Het begrotingstekort daalt eindelijk",
+        "question_number": 15,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Het bbp in het voorafgaande jaar (2012) is 599 miljard euro (1)\n• De boete is 0,2% van het bbp (in het voorafgaande jaar)\n0,002 x 599 miljard euro = 1,198 miljard euro\nDe boete is minder dan 1,5 miljard, dus de uitspraak is onjuist (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het bbp in het voorafgaande jaar (2012) is 599 miljard euro"
+          },
+          {
+            "points": 1,
+            "description": "De boete is 0,2% van het bbp: 0,002 x 599 miljard euro = 1,198 miljard euro; dit is minder dan 1,5 miljard, dus de uitspraak is onjuist"
+          }
+        ],
+        "grading_note": "Toelichting:\nZoals in de stam aangegeven is, heeft de boeteclausule betrekking op het bbp in het voorafgaande jaar. Abusievelijk is het bbp van 2013 in het correctievoorschrift opgenomen.",
+        "answer_image_urls": [
+          "economie-havo-2022-iii-het-begrotingstekort-daalt-eindelijk-antw15.png"
+        ]
+      },
+      {
+        "title": "Het begrotingstekort daalt eindelijk",
+        "question_number": 16,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Door de boete kunnen bepaalde overheidsbestedingen in het jaar daarop verdrongen worden (1)\n• De boventrendmatige groei van de economie / van het bbp zal worden afgeremd doordat de overheidsbestedingen (vanwege de boete) verminderen. (Er is sprake van een hoogconjunctuur.) De (werking is anticyclisch dus de) uitspraak is onjuist (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de boete kunnen bepaalde overheidsbestedingen in het jaar daarop verdrongen worden"
+          },
+          {
+            "points": 1,
+            "description": "De boventrendmatige groei van de economie / van het bbp zal worden afgeremd doordat de overheidsbestedingen (vanwege de boete) verminderen; de (werking is anticyclisch dus de) uitspraak is onjuist"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-het-begrotingstekort-daalt-eindelijk-antw16.png"
+        ]
+      },
+      {
+        "title": "Het begrotingstekort daalt eindelijk",
+        "question_number": 17,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n• De toekomstige generatie heeft (als gevolg van de vergrijzing) te maken met hogere overheidsuitgaven (aan AOW / zorgkosten) doordat het aandeel van ouderen in de bevolking stijgt / met lagere overheidsinkomsten doordat het aandeel van de werkzame beroepsbevolking in de samenleving daalt, (1)\n• en daarom moet het overheidstekort nu alvast verlaagd worden om te voorkomen dat (de staatschuld verder stijgt en) toekomstige generaties (bovenop de hiervoor genoemde lasten ook) de lasten van de hogere staatsschuld moeten dragen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De toekomstige generatie heeft (als gevolg van de vergrijzing) te maken met hogere overheidsuitgaven (aan AOW / zorgkosten) / met lagere overheidsinkomsten doordat het aandeel van de werkzame beroepsbevolking daalt"
+          },
+          {
+            "points": 1,
+            "description": "daarom moet het overheidstekort nu alvast verlaagd worden om te voorkomen dat toekomstige generaties (ook) de lasten van de hogere staatsschuld moeten dragen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-het-begrotingstekort-daalt-eindelijk-antw17.png"
+        ]
+      },
+      {
+        "title": "Het begrotingstekort daalt eindelijk",
+        "question_number": 18,
+        "answer_text": "• De staatsschuld is 471 miljard in 2015.\nDe maximale overheidsschuld is 60% van het bbp.\nHet bbp moet groeien naar 471 miljard / 0,60 = 785 miljard (1)\n• De groei in procenten van het verwachte bbp in 2015 = 785 miljard / 632 miljard × 100% = 124,2%\nDe vereiste groei is dus 124,2% − 100% = 24,2% (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De staatsschuld is 471 miljard in 2015; de maximale overheidsschuld is 60% van het bbp; het bbp moet groeien naar 471 miljard / 0,60 = 785 miljard"
+          },
+          {
+            "points": 1,
+            "description": "785 miljard / 632 miljard × 100% = 124,2%; de vereiste groei is dus 124,2% − 100% = 24,2%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-het-begrotingstekort-daalt-eindelijk-antw18.png"
+        ]
+      },
+      {
+        "title": "Krimpflatie",
+        "question_number": 19,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nDe consument krijgt voor hetzelfde geld minder product / de consument moet meer uitgeven om dezelfde hoeveelheid te kunnen consumeren.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De consument krijgt voor hetzelfde geld minder product / de consument moet meer uitgeven om dezelfde hoeveelheid te kunnen consumeren"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-krimpflatie-antw19.png"
+        ]
+      },
+      {
+        "title": "Krimpflatie",
+        "question_number": 20,
+        "answer_text": "Onderschatting.\nEen voorbeeld van een juiste uitleg is:\n• Als de kostenstijging doorberekend zou zijn in de verkoopprijzen, zouden de verkoopprijzen gestegen zijn (1)\n• De prijzen zijn echter gelijk gebleven, waardoor de gemeten inflatie lager uitkomt dan dat deze was geweest als de krimpflatie wel doorberekend was (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(Onderschatting.) Als de kostenstijging doorberekend zou zijn in de verkoopprijzen, zouden de verkoopprijzen gestegen zijn"
+          },
+          {
+            "points": 1,
+            "description": "De prijzen zijn echter gelijk gebleven, waardoor de gemeten inflatie lager uitkomt dan dat deze was geweest als de krimpflatie wel doorberekend was"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-krimpflatie-antw20.png"
+        ]
+      },
+      {
+        "title": "Krimpflatie",
+        "question_number": 21,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• (102,1 x 12 + 102,5 x 3 + 100,6 x 5 + 100,6 x 26 + 98,1 x 14 + 101,3 x 16 + 100,1 x 24) / 100 = 100,5 (1)\n• dus een stijging van 100,5 – 100,3 = 0,2 procentpunt (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(102,1 x 12 + 102,5 x 3 + 100,6 x 5 + 100,6 x 26 + 98,1 x 14 + 101,3 x 16 + 100,1 x 24) / 100 = 100,5"
+          },
+          {
+            "points": 1,
+            "description": "dus een stijging van 100,5 – 100,3 = 0,2 procentpunt"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-krimpflatie-antw21.png"
+        ]
+      },
+      {
+        "title": "Krimpflatie",
+        "question_number": 22,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Het effect van de grondstofprijsstijging op de GTK van een doos is:\nGTK(oude doos, oude grondstofprijs) = 0,30 + 0,08 + 0,12 + 0,10 + 0,06 = € 0,66\nGTK(oude doos, nieuwe grondstofprijs) = 0,30 + 0,08 + 0,12 + 0,10 x 1,1 + 0,06 = € 0,67 (1)\n• Het effect van een vermindering van het aantal theezakjes per doos op de GTK van een doos is:\nGTK(nieuwe doos, nieuwe grondstofprijs) = 19/20 x 0,67 = € 0,6365 (1)\n• Qoud = 1.500.000 dozen\nQnieuw = 1.500.000 x 20 / 19 = 1.578.947 dozen (1)\n• (P = Poud = Pnieuw = € 1,20; GWoud = € 0,54)\nTWoud = Qoud x GWoud = 1.500.000 x € 0,54 = € 810.000\nTWnieuw = Qnieuw x GWnieuw = Qnieuw x (P − GTKnieuw)\n= 1.578.947 x (€ 1,20 − € 0,6365)\n= 1.578.947 x € 0,5635 = € 889.737\nWinststijging = TWnieuw − TWoud = € 79.737 (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "GTK(oude doos, oude grondstofprijs) = 0,30 + 0,08 + 0,12 + 0,10 + 0,06 = € 0,66; GTK(oude doos, nieuwe grondstofprijs) = 0,30 + 0,08 + 0,12 + 0,10 x 1,1 + 0,06 = € 0,67"
+          },
+          {
+            "points": 1,
+            "description": "GTK(nieuwe doos, nieuwe grondstofprijs) = 19/20 x 0,67 = € 0,6365"
+          },
+          {
+            "points": 1,
+            "description": "Qoud = 1.500.000 dozen; Qnieuw = 1.500.000 x 20 / 19 = 1.578.947 dozen"
+          },
+          {
+            "points": 1,
+            "description": "TWoud = 1.500.000 x € 0,54 = € 810.000; TWnieuw = 1.578.947 x (€ 1,20 − € 0,6365) = € 889.737; winststijging = TWnieuw − TWoud = € 79.737"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-krimpflatie-antw22.png"
+        ]
+      },
+      {
+        "title": "Krimpflatie",
+        "question_number": 23,
+        "answer_text": "Een voorbeeld van een juiste verklaring is:\n• De dominante strategie van Roy Bos is de inhoud verminderen, want als Celine Stevens de verkoopprijs verhoogt, dan kiest Roy Bos voor inhoud verminderen, want een winststijging van 6% > 2%, en als Celine Stevens de inhoud vermindert, dan kiest Roy Bos voor inhoud verminderen, want een winststijging van 4% > 1%.\nDe dominante strategie van Celine Stevens is de inhoud verminderen, want als Roy Bos de verkoopprijs verhoogt, dan kiest Celine Stevens voor inhoud verminderen, want een winststijging van 6% > 2%, en als Roy Bos de inhoud vermindert, dan kiest Celine Stevens voor inhoud verminderen, want een winststijging van 4% > 1% (1)\n• Aangezien er geen andere uitkomst is waarbij beide partijen een hogere opbrengst hebben, is er geen sprake van een gevangenendilemma (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De dominante strategie van zowel Roy Bos als Celine Stevens is de inhoud verminderen (winststijging 6% > 2% en 4% > 1%, ongeacht de keuze van de ander)"
+          },
+          {
+            "points": 1,
+            "description": "Aangezien er geen andere uitkomst is waarbij beide partijen een hogere opbrengst hebben, is er geen sprake van een gevangenendilemma"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-krimpflatie-antw23.png"
+        ]
+      },
+      {
+        "title": "Inkt, het zwarte goud?",
+        "question_number": 24,
+        "answer_text": "Dit zijn complementaire goederen, want ze zijn beide nodig om te printen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Dit zijn complementaire goederen, want ze zijn beide nodig om te printen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-inkt-het-zwarte-goud-antw24.png"
+        ]
+      },
+      {
+        "title": "Inkt, het zwarte goud?",
+        "question_number": 25,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• De totale omzet van inktpatronen in 2021 is 5% hoger dan in 2018:\n€ 9.300.000.000 × 1,05 = € 9.765.000.000 (1)\n• De omzet van inktpatronen van Sister in Europa in 2021 is\n€ 9.765.000.000 × 0,15 = € 1.464.750.000 (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De totale omzet van inktpatronen in 2021: € 9.300.000.000 × 1,05 = € 9.765.000.000"
+          },
+          {
+            "points": 1,
+            "description": "De omzet van inktpatronen van Sister in Europa in 2021: € 9.765.000.000 × 0,15 = € 1.464.750.000"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-inkt-het-zwarte-goud-antw25.png"
+        ]
+      },
+      {
+        "title": "Inkt, het zwarte goud?",
+        "question_number": 26,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n• Door de overname van Inktmarkt.nl krijgt Sister een grotere afzet (q) wat kan leiden tot schaalvoordelen, en (1)\n• daardoor nemen de gemiddelde totale kosten (GTK) af / daardoor neemt de kostprijs af (1)\nof\n• Door de overname van inktmarkt.nl zal de productie van kloonpatronen door concurrenten dalen (1)\n• Hierdoor is het minder noodzakelijk om te innoveren, waardoor de gemiddelde totale kosten (GTK) kunnen dalen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de overname van Inktmarkt.nl krijgt Sister een grotere afzet (q) wat kan leiden tot schaalvoordelen / of: zal de productie van kloonpatronen door concurrenten dalen"
+          },
+          {
+            "points": 1,
+            "description": "daardoor nemen de gemiddelde totale kosten (GTK) af / daardoor neemt de kostprijs af / of: hierdoor is het minder noodzakelijk om te innoveren, waardoor de GTK kunnen dalen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2022-iii-inkt-het-zwarte-goud-antw26.png"
+        ]
+      },
+      {
+        "title": "Inkt, het zwarte goud?",
+        "question_number": 27,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Aan voorwaarde 1 is voldaan, want Sister heeft wereldwijd een omzet van meer dan 4 miljard euro / want Sister heeft alleen in Europa al een omzet van meer dan 1 miljard euro (en dit is ook zonder de overname al meer dan € 113.450.000) (1)\n• Aan voorwaarde 2 is niet voldaan, want (een van de twee ondernemingen, namelijk) ‘Inktmarkt.nl’ heeft een jaaromzet (van 20 miljoen euro) die lager is dan 30 miljoen euro (voorwaarde 2) (1)\n• Omdat slechts een van de twee voorwaarden van toepassing is / omdat de voorwaarden niet allebei van toepassing zijn, hoeven de bedrijven de overname niet te melden bij de mededingingsautoriteit (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Aan voorwaarde 1 is voldaan, want Sister heeft wereldwijd een omzet van meer dan 4 miljard euro / alleen in Europa al een omzet van meer dan 1 miljard euro"
+          },
+          {
+            "points": 1,
+            "description": "Aan voorwaarde 2 is niet voldaan, want ‘Inktmarkt.nl’ heeft een jaaromzet (van 20 miljoen euro) die lager is dan 30 miljoen euro"
+          },
+          {
+            "points": 1,
+            "description": "Omdat slechts een van de twee voorwaarden van toepassing is, hoeven de bedrijven de overname niet te melden bij de mededingingsautoriteit"
+          }
+        ],
+        "grading_note": "Een juiste uitleg van de beide voorwaarden is vereist voor toekenning van het derde scorepunt.",
+        "answer_image_urls": [
+          "economie-havo-2022-iii-inkt-het-zwarte-goud-antw27.png"
+        ]
+      },
+      {
+        "title": "Inkt, het zwarte goud?",
+        "question_number": 28,
+        "answer_text": "Twee van de volgende voordelen:\n− lagere prijs\n− betere kwaliteit / betere service / innovatieve producten\n− meer keuze\n\nper juist voorbeeld 1 scorepunt toekennen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juiste voordeel (lagere prijs / betere kwaliteit / betere service / innovatieve producten / meer keuze)"
+          },
+          {
+            "points": 1,
+            "description": "tweede juiste voordeel"
+          }
+        ],
+        "grading_note": "Voor ‘een betere prijs-kwaliteitverhouding’ twee scorepunten toekennen.",
+        "answer_image_urls": [
+          "economie-havo-2022-iii-inkt-het-zwarte-goud-antw28.png"
+        ]
+      }
+    ]
+  }
+}
