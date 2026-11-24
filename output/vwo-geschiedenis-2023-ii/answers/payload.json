@@ -1,0 +1,466 @@
+{
+  "payload": {
+    "subject_name": "Geschiedenis",
+    "level": "VWO",
+    "source": "VWO Geschiedenis 2023-II",
+    "answers": [
+      {
+        "title": "Prehistorie en oudheid",
+        "question_number": 2,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nEr is sprake van een vroeg-stedelijke gemeenschap omdat er (twee van de volgende):\n  − administratie wordt bijgehouden / schrift is, want Nanni stuurt een geschreven boodschap aan Ea-nasir / heeft een tablet met de afspraken laten vastleggen bij de tempel / houdt bij hoeveel pond koper hij afdraagt / want er zijn vaste gewichten om metaal af te wegen.\n  − arbeidsdeling plaatsvindt, want Nanni heeft boodschappers in dienst.\n  − sprake is van hiërarchie, want er is een koning/heerser (met een paleis) in Ur.\n  − sprake is van een geldeconomie, want Nanni heeft een zak geld in bewaring gegeven (die hij terug wil) / is Ea-nasir een gewicht in zilver schuldig.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "per combinatie van een juist kenmerk van een vroeg-stedelijke gemeenschap en een passend gegeven uit de bron (eerste combinatie)"
+          },
+          {
+            "points": 1,
+            "description": "per combinatie van een juist kenmerk van een vroeg-stedelijke gemeenschap en een passend gegeven uit de bron (tweede combinatie)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-prehistorie-en-oudheid-antw2.png"
+        ]
+      },
+      {
+        "title": "Prehistorie en oudheid",
+        "question_number": 3,
+        "answer_text": "Kern van een juist antwoord is:\nbij 1:\n• Suetonius kon door zijn werk in de keizerlijke bibliotheek/archieven over verschillende bronnen beschikken om informatie te verkrijgen / informatie te controleren (waardoor historici de informatie als betrouwbaar beschouwen)\nbij 2:\n• Suetonius wilde een breed publiek boeien/vermaken, waardoor hij wellicht bepaalde zaken overdreef / te veel aandacht besteedde aan 'smeuïge' details / (te) weinig vertelde over gebeurtenissen die niet interessant gevonden zouden worden (waardoor de biografieën als minder betrouwbaar worden beschouwd voor een onderzoek naar de keizers)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Suetonius kon door zijn werk in de keizerlijke bibliotheek/archieven over verschillende bronnen beschikken om informatie te verkrijgen / informatie te controleren (waardoor historici de informatie als betrouwbaar beschouwen)"
+          },
+          {
+            "points": 2,
+            "description": "Suetonius wilde een breed publiek boeien/vermaken, waardoor hij wellicht bepaalde zaken overdreef / te veel aandacht besteedde aan 'smeuïge' details / (te) weinig vertelde over gebeurtenissen die niet interessant gevonden zouden worden (waardoor de biografieën als minder betrouwbaar worden beschouwd voor een onderzoek naar de keizers)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-prehistorie-en-oudheid-antw3.png"
+        ]
+      },
+      {
+        "title": "De middeleeuwen",
+        "question_number": 4,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Gregorius gaat als bisschop/geestelijke uit van een ideaalbeeld van nonnen (waar Clothilde niet aan voldoet) / beschouwt het gedrag van een eigenzinnige vrouw als Clothilde als duivels / is partij in het conflict, zodat hij vermoedelijk haar gedrag overdrijft / de schuld van het verloop van het conflict bij Clothilde probeert te leggen\n• Een ideale non is nederig/gehoorzaam / vast / bidt / verricht liefdadigheid (wat op te maken is uit het tot voorbeeld stellen van het gedrag van Radegundis)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Gregorius gaat als bisschop/geestelijke uit van een ideaalbeeld van nonnen (waar Clothilde niet aan voldoet) / beschouwt het gedrag van een eigenzinnige vrouw als Clothilde als duivels / is partij in het conflict, zodat hij vermoedelijk haar gedrag overdrijft / de schuld van het verloop van het conflict bij Clothilde probeert te leggen"
+          },
+          {
+            "points": 1,
+            "description": "Een ideale non is nederig/gehoorzaam / vast / bidt / verricht liefdadigheid (wat op te maken is uit het tot voorbeeld stellen van het gedrag van Radegundis)"
+          }
+        ],
+        "grading_note": "Alleen als het antwoord op de eerste deelvraag een combinatie bevat van de visie van Gregorius en een uitleg op welke wijze dit de bron minder betrouwbaar maakt voor de vraag, worden scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-de-middeleeuwen-antw4.png"
+        ]
+      },
+      {
+        "title": "Steden en burgers 1050 - 1700",
+        "question_number": 5,
+        "answer_text": "Kern van een juist antwoord is:\n(Steden als) Brugge konden door de concurrentie met Kortrijk niet te machtig worden / door de concurrentie werd de stedelijke macht in Vlaanderen verdeeld, zodat Johanna minder sterke steden tegenover zich kreeg (waardoor haar politieke positie verstevigde).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "(Steden als) Brugge konden door de concurrentie met Kortrijk niet te machtig worden / door de concurrentie werd de stedelijke macht in Vlaanderen verdeeld, zodat Johanna minder sterke steden tegenover zich kreeg (waardoor haar politieke positie verstevigde)."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord ingaat op de positie van Johanna (en niet op die van de stad Kortrijk) worden scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-steden-en-burgers-1050-1700-antw5.png"
+        ]
+      },
+      {
+        "title": "Steden en burgers 1050 - 1700",
+        "question_number": 6,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nMet de verplichte aanwezigheid van een toekomstige meester en het gildebestuur bij het ontvangen van het poorterschap:\n• wilde het stadsbestuur garanderen dat nieuwe poorters van hun stad genoeg kennis/kunde hadden om een bijdrage te leveren aan de stedelijke economie / dat de nieuwe poorter niet afhankelijk zou zijn van liefdadigheid / dat er geen onrust ontstond bij ambachtslieden/gildeleden die al in de stad woonden\n• behield het gilde invloed over wie een ambacht mocht uitoefenen in de stad / kon het gilde concurrentie van nieuwkomers tegengaan",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "wilde het stadsbestuur garanderen dat nieuwe poorters van hun stad genoeg kennis/kunde hadden om een bijdrage te leveren aan de stedelijke economie / dat de nieuwe poorter niet afhankelijk zou zijn van liefdadigheid / dat er geen onrust ontstond bij ambachtslieden/gildeleden die al in de stad woonden"
+          },
+          {
+            "points": 1,
+            "description": "behield het gilde invloed over wie een ambacht mocht uitoefenen in de stad / kon het gilde concurrentie van nieuwkomers tegengaan"
+          }
+        ],
+        "grading_note": "Alleen als het antwoord ingaat op een gevolg van deze voorwaarde, worden scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-steden-en-burgers-1050-1700-antw6.png"
+        ]
+      },
+      {
+        "title": "De middeleeuwen",
+        "question_number": 7,
+        "answer_text": "Kern van een juist antwoord is:\n• Door te schrijven dat Christus (en zijn apostelen) zich onderwerpen aan de vorsten / dat zij anderen voorschrijven zich te onderwerpen aan de vorsten kiest Marsilius van Padua partij tegen de paus\n• wat past bij 'het conflict in de christelijke wereld over de vraag of de wereldlijke dan wel de geestelijke macht het primaat behoorde te hebben'",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door te schrijven dat Christus (en zijn apostelen) zich onderwerpen aan de vorsten / dat zij anderen voorschrijven zich te onderwerpen aan de vorsten kiest Marsilius van Padua partij tegen de paus"
+          },
+          {
+            "points": 1,
+            "description": "wat past bij 'het conflict in de christelijke wereld over de vraag of de wereldlijke dan wel de geestelijke macht het primaat behoorde te hebben'"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-de-middeleeuwen-antw7.png"
+        ]
+      },
+      {
+        "title": "Steden en burgers 1050 - 1700",
+        "question_number": 8,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Het bestuur wilde dat ‘de oude vrijheden en voordelen’ van de stad behouden bleven / verzette zich tegen de uitvoering van een centraal opgelegde maatregel (wat past bij particularisme)\n• Het stadsbestuur van Antwerpen verwachtte dat (buitenlandse) protestantse handelaren niet meer naar Antwerpen zouden komen / dat er onrust in de stad zou ontstaan onder (protestantse) handelaren (waar de economie onder zou lijden)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het bestuur wilde dat ‘de oude vrijheden en voordelen’ van de stad behouden bleven / verzette zich tegen de uitvoering van een centraal opgelegde maatregel (wat past bij particularisme)"
+          },
+          {
+            "points": 1,
+            "description": "Het stadsbestuur van Antwerpen verwachtte dat (buitenlandse) protestantse handelaren niet meer naar Antwerpen zouden komen / dat er onrust in de stad zou ontstaan onder (protestantse) handelaren (waar de economie onder zou lijden)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-steden-en-burgers-1050-1700-antw8.png"
+        ]
+      },
+      {
+        "title": "Vroegmoderne tijd",
+        "question_number": 9,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nDe buitenlandse bezoekers waren verbaasd, omdat in tegenstelling tot andere landen burgers in de Republiek in staat waren om een rariteitenkabinet te bezitten / omdat in de Republiek de adel niet de belangrijkste verzamelaar van kunst en curiosa was, wat werd veroorzaakt door 'de bijzondere plaats in staatkundig opzicht (en de bloei in economisch en cultureel opzicht van de Nederlandse Republiek)'.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De buitenlandse bezoekers waren verbaasd, omdat in tegenstelling tot andere landen burgers in de Republiek in staat waren om een rariteitenkabinet te bezitten / omdat in de Republiek de adel niet de belangrijkste verzamelaar van kunst en curiosa was, wat werd veroorzaakt door 'de bijzondere plaats in staatkundig opzicht (en de bloei in economisch en cultureel opzicht van de Nederlandse Republiek)'."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord een combinatie bevat van een juiste uitleg over de verbazing van de buitenlandse bezoekers over het feit dat gewone burgers de rariteitenkabinetten bezitten en een daarbij passend kenmerkend aspect, worden scorepunten toegekend.\nAls in plaats van een kenmerkend aspect 'de Gouden Eeuw' wordt geantwoord, wordt geen scorepunt toegekend (omdat dit de aanduiding is van een periode en geen kenmerkend aspect).",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-vroegmoderne-tijd-antw9.png"
+        ]
+      },
+      {
+        "title": "Verlichting 1650 – 1900",
+        "question_number": 10,
+        "answer_text": "Uit het antwoord moet blijken dat Descartes in zijn beschrijving wil aantonen dat empirisch onderzoek/observeren niet voldoende is om natuurwetten/wetenschappelijke inzichten te doorgronden, waarmee hij de visie ondersteunt dat een wetenschapper ook zijn verstand/rede moet gebruiken om de resultaten te interpreteren (zodat hij het rationalisme ondersteunt).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Uit het antwoord moet blijken dat Descartes in zijn beschrijving wil aantonen dat empirisch onderzoek/observeren niet voldoende is om natuurwetten/wetenschappelijke inzichten te doorgronden, waarmee hij de visie ondersteunt dat een wetenschapper ook zijn verstand/rede moet gebruiken om de resultaten te interpreteren (zodat hij het rationalisme ondersteunt)."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord een combinatie bevat van een juiste uitleg over de ondersteuning van het rationalisme en een verwijzing naar de beschrijving, worden scorepunten toegekend.\nAls in het antwoord alleen wordt ingegaan op empirisme/waarneming, worden geen scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-verlichting-1650-1900-antw10.png"
+        ]
+      },
+      {
+        "title": "Steden en burgers 1050 - 1700",
+        "question_number": 11,
+        "answer_text": "Kern van een juist antwoord is:\n• Door de Dertigjarige Oorlog was de situatie in het Heilige Roomse Rijk onveilig (zodat de inwoners naar elders trokken)\n• De calvinisten zouden betrouwbaar/gemotiveerd zijn, omdat ze vochten voor het in stand houden van de calvinistische Republiek / tegen de troepen van de katholieke Habsburgers\n• In de tweede helft van de zeventiende eeuw moest de Republiek haar positie in de wereldhandel veiligstellen tegen Engeland/Frankrijk / werd de Republiek aangevallen door Engeland/Frankrijk (zodat een sterkere oorlogsvloot nodig was)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de Dertigjarige Oorlog was de situatie in het Heilige Roomse Rijk onveilig (zodat de inwoners naar elders trokken)"
+          },
+          {
+            "points": 1,
+            "description": "De calvinisten zouden betrouwbaar/gemotiveerd zijn, omdat ze vochten voor het in stand houden van de calvinistische Republiek / tegen de troepen van de katholieke Habsburgers"
+          },
+          {
+            "points": 1,
+            "description": "In de tweede helft van de zeventiende eeuw moest de Republiek haar positie in de wereldhandel veiligstellen tegen Engeland/Frankrijk / werd de Republiek aangevallen door Engeland/Frankrijk (zodat een sterkere oorlogsvloot nodig was)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-steden-en-burgers-1050-1700-antw11.png"
+        ]
+      },
+      {
+        "title": "Vroegmoderne tijd",
+        "question_number": 12,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Door de aanleg van het jaagpad wordt het transport van goederen/personen via het water van en naar Leiden vergemakkelijkt (wat de economische ontwikkeling ten goede zal komen)\n• Met het afbeelden van de namen/familiewapens van de burgemeesters / de lovende tekst, wil het bestuur de boodschap overbrengen dat het verstandige beslissingen neemt waardoor de economie van Leiden groeit / een waardevolle bijdrage levert aan de economie van de Republiek",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de aanleg van het jaagpad wordt het transport van goederen/personen via het water van en naar Leiden vergemakkelijkt (wat de economische ontwikkeling ten goede zal komen)"
+          },
+          {
+            "points": 2,
+            "description": "Met het afbeelden van de namen/familiewapens van de burgemeesters / de lovende tekst, wil het bestuur de boodschap overbrengen dat het verstandige beslissingen neemt waardoor de economie van Leiden groeit / een waardevolle bijdrage levert aan de economie van de Republiek"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-vroegmoderne-tijd-antw12.png"
+        ]
+      },
+      {
+        "title": "Verlichting 1650 – 1900",
+        "question_number": 13,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• De oprichting van het Louvre past bij het ideaal dat er geen speciale voorrechten zijn voor bepaalde groepen / dat iedereen bij zijn geboorte gelijk is\n• omdat Roland schrijft dat het museum open moet zijn voor de hele wereld / niemand mag weigeren\n• De oprichting van het Louvre past bij het ideaal dat kennis moet worden verspreid / dat onderwijs belangrijk is\n• omdat Roland schijft dat hij wil dat het museum een school wordt voor kunstenaars / de kunstzin moet voeden / de kunstschatten toegankelijk maakt voor iedereen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De oprichting van het Louvre past bij het ideaal dat er geen speciale voorrechten zijn voor bepaalde groepen / dat iedereen bij zijn geboorte gelijk is"
+          },
+          {
+            "points": 1,
+            "description": "omdat Roland schrijft dat het museum open moet zijn voor de hele wereld / niemand mag weigeren"
+          },
+          {
+            "points": 1,
+            "description": "De oprichting van het Louvre past bij het ideaal dat kennis moet worden verspreid / dat onderwijs belangrijk is"
+          },
+          {
+            "points": 1,
+            "description": "omdat Roland schijft dat hij wil dat het museum een school wordt voor kunstenaars / de kunstzin moet voeden / de kunstschatten toegankelijk maakt voor iedereen"
+          }
+        ],
+        "grading_note": "Alleen als in het antwoord telkens een juist verlicht ideaal wordt genoemd, wordt telkens 1 scorepunt toegekend aan een daarbij passende verwijzing naar de brief.\nAls dezelfde verwijzing twee maal wordt gebruikt, wordt alleen bij het eerste passende gebruik 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-verlichting-1650-1900-antw13.png"
+        ]
+      },
+      {
+        "title": "Verlichting 1650 – 1900",
+        "question_number": 14,
+        "answer_text": "Kern van een juist antwoord is:\n• De krant ging uit van het nationalistische uitgangspunt dat broederschap binnen één staat de drijfveer was van eenwording/streven naar onafhankelijkheid van een volk, door te beredeneren dat de Grieken de Turken konden weerstaan, omdat ze een band hadden / dat de Grieken succes hadden, omdat ze niet verdeeld waren\n• Het argument past bij de Romantische stroming (waar juist emotie een grote rol speelde / waarbij in de zoektocht naar identiteit werd teruggekeken naar het verleden)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De krant ging uit van het nationalistische uitgangspunt dat broederschap binnen één staat de drijfveer was van eenwording/streven naar onafhankelijkheid van een volk, door te beredeneren dat de Grieken de Turken konden weerstaan, omdat ze een band hadden / dat de Grieken succes hadden, omdat ze niet verdeeld waren"
+          },
+          {
+            "points": 1,
+            "description": "Het argument past bij de Romantische stroming (waar juist emotie een grote rol speelde / waarbij in de zoektocht naar identiteit werd teruggekeken naar het verleden)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-verlichting-1650-1900-antw14.png"
+        ]
+      },
+      {
+        "title": "Moderne tijd",
+        "question_number": 15,
+        "answer_text": "Kern van een juist antwoord is:\n• Oliver Twist is een roman waarbij de auteur de vrijheid heeft omstandigheden anders weer te geven dan de werkelijkheid / Dickens heeft zelf slechte ervaringen met het werkhuizensysteem, waardoor Dickens wellicht de omstandigheden overdrijft om zijn kritiek weer te geven (waardoor de onderzoeker de informatie uit de bron voor het eerste onderzoeksgebied minder bruikbaar vindt)\n• Dat Oliver Twist een bestseller wordt, laat zien dat een breed publiek geïnteresseerd is in de slechte omstandigheden / betekent dat de omstandigheden onder de aandacht gebracht worden van een breed publiek, wat bijdraagt aan de (interesse in de) discussie over de sociale kwestie / waardoor meer mensen zich bewust werden van de noodzaak de slechte leef-/werkomstandigheden van arbeiders aan te pakken (waardoor de onderzoeker de bron meer bruikbaar vindt voor het tweede onderzoeksgebied)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Oliver Twist is een roman waarbij de auteur de vrijheid heeft omstandigheden anders weer te geven dan de werkelijkheid / Dickens heeft zelf slechte ervaringen met het werkhuizensysteem, waardoor Dickens wellicht de omstandigheden overdrijft om zijn kritiek weer te geven (waardoor de onderzoeker de informatie uit de bron voor het eerste onderzoeksgebied minder bruikbaar vindt)"
+          },
+          {
+            "points": 2,
+            "description": "Dat Oliver Twist een bestseller wordt, laat zien dat een breed publiek geïnteresseerd is in de slechte omstandigheden / betekent dat de omstandigheden onder de aandacht gebracht worden van een breed publiek, wat bijdraagt aan de (interesse in de) discussie over de sociale kwestie / waardoor meer mensen zich bewust werden van de noodzaak de slechte leef-/werkomstandigheden van arbeiders aan te pakken (waardoor de onderzoeker de bron meer bruikbaar vindt voor het tweede onderzoeksgebied)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-moderne-tijd-antw15.png"
+        ]
+      },
+      {
+        "title": "Verlichting 1650 – 1900",
+        "question_number": 16,
+        "answer_text": "Voorbeeld van een juist antwoord is:\na. Tijdens de Franse Revolutie werd gestreden tegen ongelijkheid/voor vrijheid, zodat Brown door te kiezen voor deze melodie de boodschap overbracht dat abolitionisten ook streden voor vrijheid/gelijkheid / dat abolitionisten bereid zijn te strijden voor de verlichte denkbeelden\nb. Het zingen van liederen maakte de bijeenkomsten effectiever, omdat (twee van de volgende):\n  i. de boodschap van de abolitionisten snel kon worden verspreid via liederen (omdat een lied makkelijk te onthouden was / snel kon worden aangeleerd).\n  ii. het zingen van liederen de bijeenkomsten van abolitionisten aantrekkelijker maakte / meer deelnemers trok.\n  iii. de boodschap van de abolitionisten kon worden verspreid onder mensen die niet konden lezen.\n  iv. zingen voor een gevoel van saamhorigheid zorgde waardoor de aanwezigen zich bleven inzetten voor het abolitionisme",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "a. Tijdens de Franse Revolutie werd gestreden tegen ongelijkheid/voor vrijheid, zodat Brown door te kiezen voor deze melodie de boodschap overbracht dat abolitionisten ook streden voor vrijheid/gelijkheid / dat abolitionisten bereid zijn te strijden voor de verlichte denkbeelden"
+          },
+          {
+            "points": 1,
+            "description": "b. per juist argument (eerste argument)"
+          },
+          {
+            "points": 1,
+            "description": "b. per juist argument (tweede argument)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-verlichting-1650-1900-antw16.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 18,
+        "answer_text": "Een juist antwoord bevat de volgende twee argumenten:\n• Door het laten herbouwen van dit paviljoen werd de kritiek versterkt dat de keizerlijke dynastie alleen aan de eigen belangen dacht / niet dacht aan de belangen van de Chinese bevolking, waardoor de bevolking de keizerlijke familie niet langer steunde (wat bijdroeg aan de ondergang van de dynastie)\n• Door het gebruiken van geld voor het versterken van de marine voor het herbouwen van dit paviljoen was China minder in staat zich te verdedigen tegen buitenlandse invloeden (wat bijdroeg aan de ondergang van de dynastie)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door het laten herbouwen van dit paviljoen werd de kritiek versterkt dat de keizerlijke dynastie alleen aan de eigen belangen dacht / niet dacht aan de belangen van de Chinese bevolking, waardoor de bevolking de keizerlijke familie niet langer steunde (wat bijdroeg aan de ondergang van de dynastie)"
+          },
+          {
+            "points": 1,
+            "description": "Door het gebruiken van geld voor het versterken van de marine voor het herbouwen van dit paviljoen was China minder in staat zich te verdedigen tegen buitenlandse invloeden (wat bijdroeg aan de ondergang van de dynastie)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-china-1842-2001-antw18.png"
+        ]
+      },
+      {
+        "title": "Moderne tijd",
+        "question_number": 19,
+        "answer_text": "Voorbeeld van een juist antwoord:\n• Door de WAAC krijgen vrouwen de kans te laten zien welke talenten zij hebben / ontdekken vrouwen de voordelen van buitenshuis werken, waarna meer vrouwen besluiten op te komen voor hun rechten / gelijkheid aan mannen te eisen / waardoor de samenleving meer openstaat voor de eisen voor meer gelijkheid (wat de emancipatie van vrouwen bevordert)\n• De poster van de WAAC past bij (twee van de volgende):\n  − '(verwoestingen op niet eerder vertoonde schaal door massavernietigingswapens en) de betrokkenheid van de burgerbevolking bij oorlogvoering' (want de WAAC wil bereiken dat vrouwen bijdragen aan de oorlogvoering).\n  − 'de rol van moderne propaganda- en communicatiemiddelen en vormen van massaorganisatie' (want de WAAC wil vrouwen in heel Groot-Brittannië bereiken / overtuigen van de noodzaak zich te melden).\n  − 'het voeren van twee wereldoorlogen' (want de WAAC wil mogelijk maken dat zoveel mogelijk mannen naar het front kunnen om oorlog te voeren).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Door de WAAC krijgen vrouwen de kans te laten zien welke talenten zij hebben / ontdekken vrouwen de voordelen van buitenshuis werken, waarna meer vrouwen besluiten op te komen voor hun rechten / gelijkheid aan mannen te eisen / waardoor de samenleving meer openstaat voor de eisen voor meer gelijkheid (wat de emancipatie van vrouwen bevordert)"
+          },
+          {
+            "points": 1,
+            "description": "per juist kenmerkend aspect (eerste kenmerkend aspect)"
+          },
+          {
+            "points": 1,
+            "description": "per juist kenmerkend aspect (tweede kenmerkend aspect)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-moderne-tijd-antw19.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 20,
+        "answer_text": "Voorbeeld van een juist antwoord is:\na. In 1937 werken de nationalisten en communisten samen (tegen Japan)\nb. Saito wil met deze toespraak rechtvaardigen dat Japan China is binnengevallen / Mantsjoerije in bezit heeft / een eigen regime heeft gevestigd, door te beweren dat China niet veilig is / dat hiermee de eenheid van China moet worden gewaarborgd",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "a. In 1937 werken de nationalisten en communisten samen (tegen Japan)"
+          },
+          {
+            "points": 2,
+            "description": "b. Saito wil met deze toespraak rechtvaardigen dat Japan China is binnengevallen / Mantsjoerije in bezit heeft / een eigen regime heeft gevestigd, door te beweren dat China niet veilig is / dat hiermee de eenheid van China moet worden gewaarborgd"
+          }
+        ],
+        "grading_note": "Als in het antwoord van de tweede deelvraag alleen de Japanse bezetting wordt genoemd zonder rechtvaardiging van het Japanse beleid door Saito, worden geen scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-china-1842-2001-antw20.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa 1918 - 1991",
+        "question_number": 21,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Met deze brief bekritiseert Lion Feuchtwanger het gebruik van terreur/geweld\n• door te schrijven dat (een van de volgende):\n  − zijn huis is geplunderd/verwoest/ingenomen door de SA.\n  − zijn conciërge in elkaar is geslagen door de SA.\n• Met deze brief bekritiseert Lion Feuchtwanger het uitschakelen van tegenstanders/verbieden van kritiek/toepassen van censuur\n• door te schrijven dat (een van de volgende):\n  − hij zijn huis is kwijtgeraakt omdat hij het boek van Hitler bekritiseerde.\n  − dat mensen die interesse hebben in boeken/ideeën gevaar lopen in Duitsland.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Met deze brief bekritiseert Lion Feuchtwanger het gebruik van terreur/geweld"
+          },
+          {
+            "points": 1,
+            "description": "door te schrijven dat (een van de volgende): zijn huis is geplunderd/verwoest/ingenomen door de SA.; zijn conciërge in elkaar is geslagen door de SA."
+          },
+          {
+            "points": 1,
+            "description": "Met deze brief bekritiseert Lion Feuchtwanger het uitschakelen van tegenstanders/verbieden van kritiek/toepassen van censuur"
+          },
+          {
+            "points": 1,
+            "description": "door te schrijven dat (een van de volgende): hij zijn huis is kwijtgeraakt omdat hij het boek van Hitler bekritiseerde.; dat mensen die interesse hebben in boeken/ideeën gevaar lopen in Duitsland."
+          }
+        ],
+        "grading_note": "Alleen als een juist kenmerk van het nationaalsocialisme wordt genoemd dat past bij de beschrijving van Feuchtwanger, wordt telkens 1 scorepunt toegekend aan een passende verwijzing naar de bron.\nAls twee keer dezelfde verwijzing naar de bron wordt genoemd, wordt alleen bij de eerste juiste vermelding 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-duitsland-in-europa-1918-1991-antw21.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa 1918 - 1991",
+        "question_number": 22,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\na. De regering brengt de boodschap over dat regering van de DDR zich wel actief opstelt voor hereniging / dat de regering van de BRD niet wil samenwerken met de DDR\nb. wat blijkt uit (een van de volgende):\n  • de lege stoelen (voor vertegenwoordigers van de BRD).\n  • de uitnodigende hand om deel te nemen aan het overleg.\n  • de oproep aan Duitsers om gezamenlijk overleg te eisen.\nc. De regering van de BRD werkt niet mee omdat de regering van de DDR onder invloed staat van de Sovjet-Unie, zodat een samenwerking niet neutraal zou zijn / mogelijk de communistische invloed op West-Duitsland zou vergroten",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "a. De regering brengt de boodschap over dat regering van de DDR zich wel actief opstelt voor hereniging / dat de regering van de BRD niet wil samenwerken met de DDR"
+          },
+          {
+            "points": 1,
+            "description": "b. wat blijkt uit (een van de volgende): de lege stoelen (voor vertegenwoordigers van de BRD).; de uitnodigende hand om deel te nemen aan het overleg.; de oproep aan Duitsers om gezamenlijk overleg te eisen."
+          },
+          {
+            "points": 2,
+            "description": "c. De regering van de BRD werkt niet mee omdat de regering van de DDR onder invloed staat van de Sovjet-Unie, zodat een samenwerking niet neutraal zou zijn / mogelijk de communistische invloed op West-Duitsland zou vergroten"
+          }
+        ],
+        "grading_note": "Alleen als het antwoord een juiste propagandaboodschap bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-duitsland-in-europa-1918-1991-antw22.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 23,
+        "answer_text": "Kern van een juist antwoord is:\na. Op dat moment mislukt 'de Grote Sprong Voorwaarts' / ligt de nadruk op de snelle industrialisatie van de China (waardoor de oogsten mislukken en hongersnood uitbreekt)\nb. Peng Zhen beweert dat de problemen veroorzaakt zijn doordat landheren/rijke boeren de macht hebben overgenomen/invloedrijke posities hebben, wat past bij het communistisch standpunt dat een land succesvol is als de boeren/arbeiders aan de macht zijn / dat de hogere klassen de lagere klassen uitbuiten/de revolutie saboteren omdat het klassenvijanden zijn",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "a. Op dat moment mislukt 'de Grote Sprong Voorwaarts' / ligt de nadruk op de snelle industrialisatie van de China (waardoor de oogsten mislukken en hongersnood uitbreekt)"
+          },
+          {
+            "points": 2,
+            "description": "b. Peng Zhen beweert dat de problemen veroorzaakt zijn doordat landheren/rijke boeren de macht hebben overgenomen/invloedrijke posities hebben, wat past bij het communistisch standpunt dat een land succesvol is als de boeren/arbeiders aan de macht zijn / dat de hogere klassen de lagere klassen uitbuiten/de revolutie saboteren omdat het klassenvijanden zijn"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-china-1842-2001-antw23.png"
+        ]
+      },
+      {
+        "title": "China 1842 – 2001",
+        "question_number": 25,
+        "answer_text": "Kern van een juist antwoord is:\na. Opland geeft weer dat Deng Xiaoping de glasnost / de hervorming van Gorbatsjov als oorzaak ziet voor de studentenprotesten op het Plein van de Hemelse Vrede\nb. door af te beelden dat (een van de volgende):\n  i. Deng Xiaoping aan Gorbatsjov vraagt wat hij de communisten op de hals heeft gehaald.\n  ii. de studenten die glasnost/hervormingen/democratie roepen.\n  iii. op de hal 'Leve kameraad Gorbatsjov' staat.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "a. Opland geeft weer dat Deng Xiaoping de glasnost / de hervorming van Gorbatsjov als oorzaak ziet voor de studentenprotesten op het Plein van de Hemelse Vrede"
+          },
+          {
+            "points": 1,
+            "description": "b. door af te beelden dat (een van de volgende): Deng Xiaoping aan Gorbatsjov vraagt wat hij de communisten op de hals heeft gehaald.; de studenten die glasnost/hervormingen/democratie roepen.; op de hal 'Leve kameraad Gorbatsjov' staat."
+          }
+        ],
+        "grading_note": "Alleen als de visie in de prent juist wordt weergegegeven, wordt 1 scorepunt toegekend aan een verwijzing naar een onderdeel van de bron.",
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-china-1842-2001-antw25.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa 1918 - 1991",
+        "question_number": 26,
+        "answer_text": "Voorbeeld van een juist antwoord:\n• De studenten zagen Gorbatsjov als voorbeeld van een leider die hervormingen doorvoerde in een communistisch land / hoopten dat Deng Xiaoping zou luisteren naar Gorbatsjov\n• Gorbatsjov wilde de politieke verhouding met China niet schaden en bezocht daarom Het Plein van de Hemelse Vrede niet / wilde zich niet mengen in de binnenlandse politiek van China",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De studenten zagen Gorbatsjov als voorbeeld van een leider die hervormingen doorvoerde in een communistisch land / hoopten dat Deng Xiaoping zou luisteren naar Gorbatsjov"
+          },
+          {
+            "points": 1,
+            "description": "Gorbatsjov wilde de politieke verhouding met China niet schaden en bezocht daarom Het Plein van de Hemelse Vrede niet / wilde zich niet mengen in de binnenlandse politiek van China"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-vwo-2023-ii-duitsland-in-europa-1918-1991-antw26.png"
+        ]
+      }
+    ]
+  }
+}
