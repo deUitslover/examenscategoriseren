@@ -1,0 +1,61 @@
+{
+  "source": "HAVO Economie 2025-I",
+  "subject_name": "Economie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Analyse van het minimumuurloon",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Fietsen op Bonaire",
+      "question_numbers": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "CO₂-rechten",
+      "question_numbers": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "AOW-leeftijd",
+      "question_numbers": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "title": "AI in de verzekeringssector",
+      "question_numbers": [
+        26,
+        27,
+        28,
+        29
+      ]
+    }
+  ]
+}

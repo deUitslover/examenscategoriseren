@@ -70,6 +70,9 @@ Usage:
                  that find_vraag_lines swallows (VWO-WISB-23-I-O.pdf p.2
                  "De kracht die uitgeoefend moet worden ..." under vraag 4,
                  continued on p.3: --split 1:3=740 --join 2:0).
+                 On a ctx item: its members starting at/below y become a new
+                 ctx item, so the upper part can be --attach'ed to the vraag
+                 above (HAVO-ECO-25-II-O.pdf: --split 9:4=574 --attach 9:4=22).
 
 Exam-specific quirks used so far (re-run these exactly):
     HAVO-BIO-19-I-O.pdf: see tools/annotations/havo-biologie-2019-i.py header
@@ -393,6 +396,21 @@ def main():
                 continue
             idx = [k for k, _ in plan].index(i)
             v = plan[idx][1]
+            if v["kind"] == "ctx":
+                # ctx item: members starting at/below ysplit become a new ctx
+                # item "<i>s" right after it (HAVO-ECO-25-II-O.pdf p.10: the
+                # oorzaak-gevolgschema under vraag 22 belongs to that vraag
+                # (--attach), the line "Door de aangekondigde belastingverlaging
+                # ..." below it is context for vraag 23: --split 9:4=574)
+                up = [b for b in v["members"] if b[1] < ysplit]
+                lo = [b for b in v["members"] if b[1] >= ysplit]
+                assert up and lo, f"split {p}:{i}={ysplit}: nothing to split"
+                v["members"] = up
+                v["y1"] = max(b[3] for b in up)
+                plan.insert(idx + 1, (f"{i}s", {"kind": "ctx", "page": page.number,
+                                                 "y0": min(b[1] for b in lo),
+                                                 "y1": max(b[3] for b in lo), "members": lo}))
+                continue
             assert v["kind"] == "vraag", f"split {p}:{i} is not a vraag item"
             m = v["members"][0]
             below = [tuple(l[:4]) for l in text_lines(page)
