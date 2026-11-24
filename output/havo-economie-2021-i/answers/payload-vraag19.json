@@ -1,0 +1,32 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "HAVO",
+    "source": "HAVO Economie 2021-I",
+    "answers": [
+      {
+        "title": "Alcohol baat en schaadt",
+        "question_number": 19,
+        "answer_text": "• (1) sterke drank (1)\n• (2) luxe (1)\n• (3) 200%",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(1) sterke drank"
+          },
+          {
+            "points": 1,
+            "description": "(2) luxe"
+          },
+          {
+            "points": 1,
+            "description": "(3) 200%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-alcohol-baat-en-schaadt-antw19.png"
+        ]
+      }
+    ]
+  }
+}

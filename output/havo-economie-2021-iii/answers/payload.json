@@ -1,0 +1,559 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "HAVO",
+    "source": "HAVO Economie 2021-III",
+    "answers": [
+      {
+        "title": "Boter van buiten",
+        "question_number": 1,
+        "answer_text": "“De prijsstijging van roomboter is nog versterkt doordat de Noren tijdens kerst en de jaarwisseling veel lekkernijen bereiden met roomboter.”",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "“De prijsstijging van roomboter is nog versterkt doordat de Noren tijdens kerst en de jaarwisseling veel lekkernijen bereiden met roomboter.”"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-boter-van-buiten-antw1.png"
+        ]
+      },
+      {
+        "title": "Boter van buiten",
+        "question_number": 2,
+        "answer_text": "De vraaglijn (GO-lijn) verschuift naar rechts / rechtsboven.\nVoorbeelden van een juiste reden voor de verschuiving in december, ten opzichte van de periode daarvoor:\n− bij elke prijs is meer vraag,\n− de betalingsbereidheid bij elke gevraagde hoeveelheid is hoger.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De vraaglijn (GO-lijn) verschuift naar rechts / rechtsboven, met een juiste reden: bij elke prijs is meer vraag / de betalingsbereidheid bij elke gevraagde hoeveelheid is hoger"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-boter-van-buiten-antw2.png"
+        ]
+      },
+      {
+        "title": "Boter van buiten",
+        "question_number": 3,
+        "answer_text": "(vlak) OEMG\nUitsluitend 2 of 0 scorepunten toekennen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "(vlak) OEMG (uitsluitend 2 of 0 scorepunten toekennen)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-boter-van-buiten-antw3.png"
+        ]
+      },
+      {
+        "title": "Boter van buiten",
+        "question_number": 4,
+        "answer_text": "Een redenering dat het consumentensurplus / het vlak EFM gelijk is aan\n• het totale / cumulatieve verschil tussen de prijs E die geldt bij winstmaximering (1)\n• en de betalingsbereidheid van alle kopers bij prijs E (lijnstuk FM) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "het consumentensurplus / het vlak EFM is gelijk aan het totale / cumulatieve verschil tussen de prijs E die geldt bij winstmaximering"
+          },
+          {
+            "points": 1,
+            "description": "en de betalingsbereidheid van alle kopers bij prijs E (lijnstuk FM)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-boter-van-buiten-antw4.png"
+        ]
+      },
+      {
+        "title": "Boter van buiten",
+        "question_number": 5,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\nDoor de prijsdaling, de toename van de evenwichtshoeveelheid en de afname van de marginale kosten\n• neemt het consumentensurplus fors toe (van driehoek EFM naar driehoek SFU)\n(en wijzigt het producentensurplus relatief weinig, van rechthoek DEML naar driehoek RSU) (1)\n• zodat de som van beide, oftewel het totale surplus, toeneemt (van DFML naar RFU) (1)\nof\n• het totale surplus bij monopolie heeft als oppervlak DFML (1)\n• het totale surplus bij volkomen concurrentie heeft als oppervlak RFU, en RFU is groter dan DFML (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "neemt het consumentensurplus fors toe (van driehoek EFM naar driehoek SFU) (en wijzigt het producentensurplus relatief weinig, van rechthoek DEML naar driehoek RSU) / het totale surplus bij monopolie heeft als oppervlak DFML"
+          },
+          {
+            "points": 1,
+            "description": "zodat de som van beide, oftewel het totale surplus, toeneemt (van DFML naar RFU) / het totale surplus bij volkomen concurrentie heeft als oppervlak RFU, en RFU is groter dan DFML"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-boter-van-buiten-antw5.png"
+        ]
+      },
+      {
+        "title": "Boter van buiten",
+        "question_number": 6,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nUit de grafieken kan afgeleid worden dat\n• voor Tine geldt dat de marginale opbrengsten (S) nu lager zijn dan haar marginale kosten (D) / dat de marginale kosten (S) van de buitenlandse aanbieders lager zijn dan die van Tine (1)\n• zodat Tine onder volledige concurrentie van de markt gedrukt wordt (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "voor Tine geldt dat de marginale opbrengsten (S) nu lager zijn dan haar marginale kosten (D) / dat de marginale kosten (S) van de buitenlandse aanbieders lager zijn dan die van Tine"
+          },
+          {
+            "points": 1,
+            "description": "zodat Tine onder volledige concurrentie van de markt gedrukt wordt"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-boter-van-buiten-antw6.png"
+        ]
+      },
+      {
+        "title": "België prijst zich meer en meer uit de markt",
+        "question_number": 7,
+        "answer_text": "De koopkracht zal gelijk blijven, omdat de lonen even snel stijgen als de prijzen (van consumptiegoederen).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De koopkracht zal gelijk blijven, omdat de lonen even snel stijgen als de prijzen (van consumptiegoederen)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-belgie-prijst-zich-meer-en-meer-uit-de-markt-antw7.png"
+        ]
+      },
+      {
+        "title": "België prijst zich meer en meer uit de markt",
+        "question_number": 8,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als de lonen in België ten opzichte van de arbeidsproductiviteit sneller stijgen dan in andere landen (1)\n• dan stijgen de loonkosten per product van Belgische producten (en daarmee de verkoopprijs) sneller dan die in andere landen (en als gevolg kunnen de Belgische ondernemers slechter concurreren) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als de lonen in België ten opzichte van de arbeidsproductiviteit sneller stijgen dan in andere landen"
+          },
+          {
+            "points": 1,
+            "description": "dan stijgen de loonkosten per product van Belgische producten (en daarmee de verkoopprijs) sneller dan die in andere landen (en als gevolg kunnen de Belgische ondernemers slechter concurreren)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-belgie-prijst-zich-meer-en-meer-uit-de-markt-antw8.png"
+        ]
+      },
+      {
+        "title": "België prijst zich meer en meer uit de markt",
+        "question_number": 9,
+        "answer_text": "Een voorbeeld van een juiste benadering is:\n− Volgens bron 1 is het loonpeil in Nederland hoger dan in Duitsland. Volgens bron 2 is de arbeidsproductiviteit in Nederland hoger dan in Duitsland.\n− Benadering van het verschil in loonpeil tussen Nederland en Duitsland: ≈ 133,2 − 131,9 = 1,3\n− Benadering van het verschil in arbeidsproductiviteit tussen Nederland en Duitsland: ≈ 102,5 − 100,3 = 2,2\n− Conclusie: Het verschil in arbeidsproductiviteit is groter dan het verschil in loonpeil. Hieruit blijkt dat de loonkosten per product in Nederland lager zijn dan in Duitsland.\n\nEen voorbeeld van een juiste exacte berekening is:\n− Berekening index loonkosten per product in Duitsland\n131,9/100,3 x 100 = 131,5\n− Berekening index loonkosten per product in Nederland\n133,2/102,5 x 100 = 130\n− Conclusie: Hieruit volgt dat de loonkosten per product lager zijn in Nederland (130,0) dan in Duitsland (131,5).\n\n• voor een juiste benadering of berekening (1)\n• voor een juiste conclusie dat Nederland lagere loonkosten per product heeft dan Duitsland (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "voor een juiste benadering of berekening"
+          },
+          {
+            "points": 1,
+            "description": "voor een juiste conclusie dat Nederland lagere loonkosten per product heeft dan Duitsland"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-belgie-prijst-zich-meer-en-meer-uit-de-markt-antw9.png"
+        ]
+      },
+      {
+        "title": "België prijst zich meer en meer uit de markt",
+        "question_number": 10,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• (bruto toegevoegde waarde = omzet – inkoopwaarde goederen & diensten =)\n1,45 – (0,22 + 0,07 + 0,01 + 0,11) = 1,04\nof\n(bruto toegevoegde waarde = som van de beloning voor productiefactoren + afschrijving =)\n0,18 + 0,16 + 0,10 + 0,08 + 0,52 = 1,04 (1)\n• De loonkosten als percentage van de bruto toegevoegde waarde zijn 0,52/1,04 = 0,5 is 50% (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bruto toegevoegde waarde: 1,45 – (0,22 + 0,07 + 0,01 + 0,11) = 1,04 of 0,18 + 0,16 + 0,10 + 0,08 + 0,52 = 1,04"
+          },
+          {
+            "points": 1,
+            "description": "De loonkosten als percentage van de bruto toegevoegde waarde zijn 0,52/1,04 = 0,5 is 50%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-belgie-prijst-zich-meer-en-meer-uit-de-markt-antw10.png"
+        ]
+      },
+      {
+        "title": "Eigen energiecentrale",
+        "question_number": 11,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nDoor vrijemarktwerking\n• is milieuschade / uitputting van energiebronnen niet automatisch verwerkt in de prijs (1)\n• waardoor de prijs van niet-duurzame energie lager kan zijn dan die van duurzame energiebronnen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door vrijemarktwerking is milieuschade / uitputting van energiebronnen niet automatisch verwerkt in de prijs"
+          },
+          {
+            "points": 1,
+            "description": "waardoor de prijs van niet-duurzame energie lager kan zijn dan die van duurzame energiebronnen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-eigen-energiecentrale-antw11.png"
+        ]
+      },
+      {
+        "title": "Eigen energiecentrale",
+        "question_number": 12,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• verbruik en energiebelasting = (€ 412,09 + € 173,51) x 1,21 = € 708,58 (1)\n• er wordt per jaar 60% van € 708,58 bespaard = € 425,15 per jaar (1)\n• aanschaf / jaarlijkse besparing = €9.042,72 / €425,15 = 21,3 jaar → 22 jaar (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "verbruik en energiebelasting = (€ 412,09 + € 173,51) x 1,21 = € 708,58"
+          },
+          {
+            "points": 1,
+            "description": "er wordt per jaar 60% van € 708,58 bespaard = € 425,15 per jaar"
+          },
+          {
+            "points": 1,
+            "description": "aanschaf / jaarlijkse besparing = €9.042,72 / €425,15 = 21,3 jaar → 22 jaar"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-eigen-energiecentrale-antw12.png"
+        ]
+      },
+      {
+        "title": "Eigen energiecentrale",
+        "question_number": 13,
+        "answer_text": "Een voorbeeld van een juist antwoord:\n• Door het patent mag de producent het product (tijdelijk) als enige aanbieden (1)\n• en doordat er geen concurrentie is / doordat er een monopolie bestaat heeft de producent invloed op de prijs (zodat de producent de innovatiekosten kan terugverdienen) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door het patent mag de producent het product (tijdelijk) als enige aanbieden"
+          },
+          {
+            "points": 1,
+            "description": "en doordat er geen concurrentie is / doordat er een monopolie bestaat heeft de producent invloed op de prijs (zodat de producent de innovatiekosten kan terugverdienen)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-eigen-energiecentrale-antw13.png"
+        ]
+      },
+      {
+        "title": "Eigen energiecentrale",
+        "question_number": 14,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nDe totale constante kosten (TCK) drukken bij een toenemende verkoop op een groter aantal producten, waardoor de gemiddelde constante kosten (GCK) lager geworden zijn.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De totale constante kosten (TCK) drukken bij een toenemende verkoop op een groter aantal producten, waardoor de gemiddelde constante kosten (GCK) lager geworden zijn"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-eigen-energiecentrale-antw14.png"
+        ]
+      },
+      {
+        "title": "Eigen energiecentrale",
+        "question_number": 15,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Vraagkant: door een hoger energielabel (worden verduurzaamde woningen aantrekkelijker en) stijgt de betalingsbereidheid van kopers / zijn kopers bereid een hogere prijs te betalen (1)\n• Aanbodkant: door een hoger energielabel zullen verkopers tegen een hogere prijs aanbieden (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Vraagkant: door een hoger energielabel (worden verduurzaamde woningen aantrekkelijker en) stijgt de betalingsbereidheid van kopers / zijn kopers bereid een hogere prijs te betalen"
+          },
+          {
+            "points": 1,
+            "description": "Aanbodkant: door een hoger energielabel zullen verkopers tegen een hogere prijs aanbieden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-eigen-energiecentrale-antw15.png"
+        ]
+      },
+      {
+        "title": "Eigen energiecentrale",
+        "question_number": 16,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Dankzij het hogere energielabel is de woning beter verkoopbaar waardoor de bank minder risico loopt (van te lage opbrengst bij gedwongen verkoop van het onderpand) (1)\n• zodat de bank een lager rentepercentage kan rekenen voor de hypothecaire lening als dekking voor de lagere risicokosten (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Dankzij het hogere energielabel is de woning beter verkoopbaar waardoor de bank minder risico loopt (van te lage opbrengst bij gedwongen verkoop van het onderpand)"
+          },
+          {
+            "points": 1,
+            "description": "zodat de bank een lager rentepercentage kan rekenen voor de hypothecaire lening als dekking voor de lagere risicokosten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-eigen-energiecentrale-antw16.png"
+        ]
+      },
+      {
+        "title": "Onderwijsarbeidsmarkt uit balans?",
+        "question_number": 17,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De pijl moet getrokken worden naar aanbod van leraren (en niet naar de vraag naar leraren) omdat de pensioenleeftijd van leraren invloed heeft op hoe lang leraren doorwerken en zich dus blijven aanbieden op de arbeidsmarkt (1)\n• Het verband is positief, / In het schema moet een plus staan, omdat het (arbeids)aanbod van leraren stijgt bij langer doorwerken (als gevolg van een verhoging van de pensioenleeftijd) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De pijl moet getrokken worden naar aanbod van leraren (en niet naar de vraag naar leraren) omdat de pensioenleeftijd van leraren invloed heeft op hoe lang leraren doorwerken en zich dus blijven aanbieden op de arbeidsmarkt"
+          },
+          {
+            "points": 1,
+            "description": "Het verband is positief, / In het schema moet een plus staan, omdat het (arbeids)aanbod van leraren stijgt bij langer doorwerken (als gevolg van een verhoging van de pensioenleeftijd)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-onderwijsarbeidsmarkt-uit-balans-antw17.png"
+        ]
+      },
+      {
+        "title": "Onderwijsarbeidsmarkt uit balans?",
+        "question_number": 18,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Onderwijs is niet / minder conjunctuurgevoelig (dan andere sectoren), de leraar wordt niet snel werkloos bij laagconjunctuur (1)\n• docenten die risico-avers zijn zullen bij laagconjunctuur dus eerder voor een baan in het onderwijs kiezen en bij hoogconjunctuur ook voldoende zekerheid vinden in andere sectoren (en dan kunnen andere factoren zoals groeimogelijkheden, salaris, type werk de doorslag geven) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Onderwijs is niet / minder conjunctuurgevoelig (dan andere sectoren), de leraar wordt niet snel werkloos bij laagconjunctuur"
+          },
+          {
+            "points": 1,
+            "description": "docenten die risico-avers zijn zullen bij laagconjunctuur dus eerder voor een baan in het onderwijs kiezen en bij hoogconjunctuur ook voldoende zekerheid vinden in andere sectoren (en dan kunnen andere factoren zoals groeimogelijkheden, salaris, type werk de doorslag geven)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-onderwijsarbeidsmarkt-uit-balans-antw18.png"
+        ]
+      },
+      {
+        "title": "Onderwijsarbeidsmarkt uit balans?",
+        "question_number": 19,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• als de loonelasticiteit negatief is, betekent dit dat de gediplomeerde leraren die werkzaam zijn in het onderwijs minder gaan werken bij een loonstijging (1)\n• de reden kan zijn dat deze werknemers de voorkeur geven aan meer vrije tijd in plaats van extra bestedingsruimte (inkomenseffect) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "als de loonelasticiteit negatief is, betekent dit dat de gediplomeerde leraren die werkzaam zijn in het onderwijs minder gaan werken bij een loonstijging"
+          },
+          {
+            "points": 1,
+            "description": "de reden kan zijn dat deze werknemers de voorkeur geven aan meer vrije tijd in plaats van extra bestedingsruimte (inkomenseffect)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-onderwijsarbeidsmarkt-uit-balans-antw19.png"
+        ]
+      },
+      {
+        "title": "Onderwijsarbeidsmarkt uit balans?",
+        "question_number": 20,
+        "answer_text": "Een antwoord waaruit blijkt dat\n• beter onderwijs leidt tot een hogere arbeidsproductiviteit in de toekomst waardoor de loonkosten per product kunnen afnemen en de internationale concurrentiepositie van Nederland verbetert (1)\n• en een verbetering van de internationale concurrentiepositie leidt tot een toename van de export waardoor de economische groei van Nederland toeneemt (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "beter onderwijs leidt tot een hogere arbeidsproductiviteit in de toekomst waardoor de loonkosten per product kunnen afnemen en de internationale concurrentiepositie van Nederland verbetert"
+          },
+          {
+            "points": 1,
+            "description": "en een verbetering van de internationale concurrentiepositie leidt tot een toename van de export waardoor de economische groei van Nederland toeneemt"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-onderwijsarbeidsmarkt-uit-balans-antw20.png"
+        ]
+      },
+      {
+        "title": "Meer is minder",
+        "question_number": 21,
+        "answer_text": "• bij (1) uitgestelde belastingheffing\nbij (2) uitgifte (1)\n• bij (3) van de toekomst naar het heden\nbij (4) van het heden naar de toekomst (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij (1) uitgestelde belastingheffing en bij (2) uitgifte"
+          },
+          {
+            "points": 1,
+            "description": "bij (3) van de toekomst naar het heden en bij (4) van het heden naar de toekomst"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-meer-is-minder-antw21.png"
+        ]
+      },
+      {
+        "title": "Meer is minder",
+        "question_number": 22,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Als de inkomensgrenzen van de belastingschijven niet gecorrigeerd worden voor inflatie, en de lonen wel stijgen als gevolg van de inflatie (1)\n• dan zal een groter deel van de inkomens van belastingbetalers in de hogere schijven terechtkomen (dan wanneer hun lonen wel worden gecorrigeerd en dan zullen de belastingontvangsten van de overheid toenemen) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Als de inkomensgrenzen van de belastingschijven niet gecorrigeerd worden voor inflatie, en de lonen wel stijgen als gevolg van de inflatie"
+          },
+          {
+            "points": 1,
+            "description": "dan zal een groter deel van de inkomens van belastingbetalers in de hogere schijven terechtkomen (dan wanneer hun lonen wel worden gecorrigeerd en dan zullen de belastingontvangsten van de overheid toenemen)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-meer-is-minder-antw22.png"
+        ]
+      },
+      {
+        "title": "Meer is minder",
+        "question_number": 23,
+        "answer_text": "Voorbeelden van een juiste maatregel zijn:\n− De aftrekposten beperken\nUit de uitleg moet blijken dat het belastbaar inkomen van een belastingbetaler kan toenemen door het beperken van de aftrekposten, en dat hierdoor de belastingontvangsten van de overheid toenemen.\n− De heffingskortingen verlagen\nUit de uitleg moet blijken dat het te betalen belastingbedrag toeneemt door het verlagen van de heffingskorting.\n\nvoor een juiste maatregel die leidt tot hogere belastinginkomsten, (uitgezonderd variaties op 1, 2 en 4 uit de bron) en een daarbij passende juiste, volledige uitleg (2)\nvoor een juiste maatregel met onvolledige of ontbrekende uitleg (1)\nalle andere antwoorden (0)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "voor een juiste maatregel die leidt tot hogere belastinginkomsten, (uitgezonderd variaties op 1, 2 en 4 uit de bron) en een daarbij passende juiste, volledige uitleg (bij een juiste maatregel met onvolledige of ontbrekende uitleg: 1 punt; alle andere antwoorden: 0 punten)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-meer-is-minder-antw23.png"
+        ]
+      },
+      {
+        "title": "Meer is minder",
+        "question_number": 24,
+        "answer_text": "Een voorbeeld van een juiste berekening en een afgeleide conclusie is:\n(De gemiddelde belastingdruk = te betalen belasting / bruto-inkomen × 100%)\nBij bruto-inkomen €35.000\ngemiddelde belastingdruk 2013: €11.167 / €35.000 × 100% = 31,9%\ngemiddelde belastingdruk 2017: €11.217 / €35.000 × 100% = 32,0%\nBij bruto-inkomen € 100.000\ngemiddelde belastingdruk 2013: €42.868 / €100.000 × 100% = 42,9%\ngemiddelde belastingdruk 2017: €45.050 / €100.000 × 100% = 45,1% (2)\n• voor het hogere bruto-inkomen (€ 100.000) is de gemiddelde belastingdruk meer gestegen dan voor het lagere bruto-inkomen (€ 35.000). Hierdoor is er sprake van inkomensnivellering (1)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "juiste berekening van de gemiddelde belastingdruk in 2013 en 2017 bij bruto-inkomen €35.000 (31,9% en 32,0%) en bij bruto-inkomen € 100.000 (42,9% en 45,1%)"
+          },
+          {
+            "points": 1,
+            "description": "voor het hogere bruto-inkomen (€ 100.000) is de gemiddelde belastingdruk meer gestegen dan voor het lagere bruto-inkomen (€ 35.000). Hierdoor is er sprake van inkomensnivellering"
+          }
+        ],
+        "grading_note": "Bij de eerste deelscore uitsluitend twee scorepunten toekennen als voor beide jaren zowel teller als noemer juist zijn gebruikt.",
+        "answer_image_urls": [
+          "economie-havo-2021-iii-meer-is-minder-antw24.png"
+        ]
+      },
+      {
+        "title": "Meer is minder",
+        "question_number": 25,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• … want een verlaging van het hoogste belastingpercentage in Nederland ─ van 52% naar 40% ─ zal leiden tot toenemende belastingopbrengst (1)\n• Dit effect treedt op doordat het vermijdingsgedrag (ontduiken en ontwijken) van de belastingbetaler minder wordt en de belastingbetaler geprikkeld wordt om meer te werken als gevolg van de verlaging van het belastingpercentage (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "… want een verlaging van het hoogste belastingpercentage in Nederland ─ van 52% naar 40% ─ zal leiden tot toenemende belastingopbrengst"
+          },
+          {
+            "points": 1,
+            "description": "Dit effect treedt op doordat het vermijdingsgedrag (ontduiken en ontwijken) van de belastingbetaler minder wordt en de belastingbetaler geprikkeld wordt om meer te werken als gevolg van de verlaging van het belastingpercentage"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-meer-is-minder-antw25.png"
+        ]
+      },
+      {
+        "title": "Een keur aan keurmerken",
+        "question_number": 26,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nEr is sprake van monopolistische concurrentie omdat\n• er sprake is van producten met verschillende keurmerken (dus heterogene producten) (1)\n• en veel (verschillende) producenten / aanbieders (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er is sprake van monopolistische concurrentie omdat er sprake is van producten met verschillende keurmerken (dus heterogene producten)"
+          },
+          {
+            "points": 1,
+            "description": "en veel (verschillende) producenten / aanbieders"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-een-keur-aan-keurmerken-antw26.png"
+        ]
+      },
+      {
+        "title": "Een keur aan keurmerken",
+        "question_number": 27,
+        "answer_text": "• substitueerbare goederen (1)\nEen voorbeeld van een juiste uitleg is:\n• omdat kledingstukken met keurmerk en kledingstukken zonder keurmerk elkaar (gedeeltelijk of) volledig kunnen vervangen (vanuit het oogpunt van de consument) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "substitueerbare goederen"
+          },
+          {
+            "points": 1,
+            "description": "omdat kledingstukken met keurmerk en kledingstukken zonder keurmerk elkaar (gedeeltelijk of) volledig kunnen vervangen (vanuit het oogpunt van de consument)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-een-keur-aan-keurmerken-antw27.png"
+        ]
+      },
+      {
+        "title": "Een keur aan keurmerken",
+        "question_number": 28,
+        "answer_text": "• 110 − 105 (1)\n• = 5% (1)\nof\n• 110/105 x 100 – 100 = (1)\n• (4,76% ≈) 5% (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "110 − 105 / 110/105 x 100 – 100 ="
+          },
+          {
+            "points": 1,
+            "description": "= 5% / (4,76% ≈) 5%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-een-keur-aan-keurmerken-antw28.png"
+        ]
+      },
+      {
+        "title": "Een keur aan keurmerken",
+        "question_number": 29,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• De aanbieder van het product weet wel of er is gewerkt op basis van milieuvriendelijke productie (1)\n• terwijl de consument dat niet kan weten / controleren (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De aanbieder van het product weet wel of er is gewerkt op basis van milieuvriendelijke productie"
+          },
+          {
+            "points": 1,
+            "description": "terwijl de consument dat niet kan weten / controleren"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-een-keur-aan-keurmerken-antw29.png"
+        ]
+      },
+      {
+        "title": "Een keur aan keurmerken",
+        "question_number": 30,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Een keurmerk kan een waarborg bieden voor de juistheid van de claim (zorgt dat de claim controleerbaar is) en geeft de consument wel de informatie (1)\n• maar als er te veel keurmerken zijn, is de informatie weer minder goed controleerbaar / kost het de consument te veel moeite om te controleren en neemt de informatieasymmetrie dus weer toe (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een keurmerk kan een waarborg bieden voor de juistheid van de claim (zorgt dat de claim controleerbaar is) en geeft de consument wel de informatie"
+          },
+          {
+            "points": 1,
+            "description": "maar als er te veel keurmerken zijn, is de informatie weer minder goed controleerbaar / kost het de consument te veel moeite om te controleren en neemt de informatieasymmetrie dus weer toe"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-iii-een-keur-aan-keurmerken-antw30.png"
+        ]
+      }
+    ]
+  }
+}
