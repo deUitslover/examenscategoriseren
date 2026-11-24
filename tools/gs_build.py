@@ -16,7 +16,9 @@ This script segments every block into
     when a bron continues on the next page;
   - context blocks split off with --ctx (uitzondering 1/2 of the prompt):
     "--ctx 16" makes the whole inleiding of vraag 16 a separate context block,
-    "--ctx 16@450" only the inleiding lines that start above y=450.
+    "--ctx 16@450" only the inleiding lines that start above y=450,
+    "--ctx 20@>200" only those that start at/below y=200 (e.g. to keep a
+    "Gebruik bron 12."-line in the vraagblok, VWO-GS-23-I-O.pdf vraag 20/21).
 Every image is rendered with crop_frame.render() at the ONE exam-wide window
 (get_exam_window) and crop_frame.ZOOM, so every image has the same width.
 
@@ -26,7 +28,7 @@ manifest.json and payload.json.
 
 Usage:
     python3 tools/gs_build.py pdfs/VWO-GS-22-I-O.pdf vwo-geschiedenis-2022-i \
-        [--ctx 1 --ctx 16] [--drop-line P:Y ...]
+        [--ctx 1 --ctx 16] [--cut N@y] [--skip-page P ...]
 """
 
 import argparse
@@ -107,6 +109,23 @@ def analyse_page(doc, pno, hashes):
                 lines=body, images=images, draws=draws, heads=heads)
 
 
+def vraag_number(vl, v):
+    """Vraagnummer: bold digits at the start of the leftmost member line after
+    the points ("2p") line, or "2p 12" merged into one line."""
+    for l in sorted(vl, key=lambda l: (l[0], l[1])):
+        if POINTS_RE.match(l[4]):
+            mm = re.match(r"^\s*\d+\s*p\s+(\d{1,2})\b", l[4])
+            if mm:  # "2p 12" merged into one line
+                return int(mm.group(1))
+            continue
+        mm = re.match(r"^(\d{1,2})\b", l[4])
+        if mm:
+            return int(mm.group(1))
+        break
+    mm = re.match(r"^\s*\d+\s*p\s+(\d{1,2})\b", v["text"])
+    return int(mm.group(1)) if mm else None
+
+
 def group_heads(heads):
     """Heads at the same height (side-by-side bronnen) form one region."""
     groups = []
@@ -138,6 +157,9 @@ def main():
     ap.add_argument("--ctx", action="append", default=[])
     ap.add_argument("--cut", action="append", default=[],
                     help="N@y: vraag N ends above y (rest becomes the next inleiding)")
+    ap.add_argument("--skip-page", action="append", type=int, default=[],
+                    help="0-based page index to ignore entirely (e.g. a stray page that "
+                         "ExamenCentraal copied in from another exam, VWO-GS-22-III-O.pdf p3-4)")
     args = ap.parse_args()
     cuts = {int(c.split("@")[0]): float(c.split("@")[1]) for c in args.cut}
 
@@ -145,9 +167,12 @@ def main():
     prefix = f"geschiedenis-vwo-{m.group(1)}-{m.group(2)}"
     ctx_split = {}
     for c in args.ctx:
-        if "@" in c:
+        if "@>" in c:   # only the inleiding lines that start at/below y
+            n, y = c.split("@>")
+            ctx_split[int(n)] = (">", float(y))
+        elif "@" in c:
             n, y = c.split("@")
-            ctx_split[int(n)] = float(y)
+            ctx_split[int(n)] = ("<", float(y))
         else:
             ctx_split[int(c)] = None
 
@@ -160,7 +185,7 @@ def main():
     doc = fitz.open(args.pdf)
     hashes = footer_hashes(doc)
     windows = get_exam_window(doc)
-    pages = [analyse_page(doc, i, hashes) for i in range(len(doc))]
+    pages = [analyse_page(doc, i, hashes) for i in range(len(doc)) if i not in args.skip_page]
 
     # ---- split into themablokken
     blocks = []
@@ -233,9 +258,11 @@ def main():
                         if END_RE.search(prev) and not TAIL_RE.match(l[4]) and l[1] > vl[i - 1][1] + 1:
                             cut_y = l[1]
                             break
-                    num_hint = re.search(r"\b(\d{1,2})\b", v["text"][:12])
-                    if num_hint and int(num_hint.group(1)) in cuts:
-                        cy = cuts[int(num_hint.group(1))]
+                    # vraag number from the bold digits next to the "Np" line
+                    # (the vraag text may start with a long inleiding)
+                    num_hint = vraag_number(vl, v)
+                    if num_hint in cuts:
+                        cy = cuts[num_hint]
                         cut_y = cy if cut_y is None else min(cut_y, cy)
                     if cut_y is not None:
                         vl = [l for l in vl if l[1] < cut_y - 0.5]
@@ -255,20 +282,7 @@ def main():
                              and l not in vl and id(l) not in used]
                     intro.sort(key=lambda l: (l[1], l[0]))
                     # vraag number: bold 10pt digits at the start of a member line
-                    num = None
-                    for l in sorted(vl, key=lambda l: (l[0], l[1])):
-                        if POINTS_RE.match(l[4]):
-                            mm = re.match(r"^\s*\d+\s*p\s+(\d{1,2})\b", l[4])
-                            if mm:  # "2p 12" merged into one line
-                                num = int(mm.group(1))
-                                break
-                            continue
-                        mm = re.match(r"^(\d{1,2})\b", l[4])
-                        num = int(mm.group(1)) if mm else None
-                        break
-                    if num is None:
-                        mm = re.match(r"^\s*\d+\s*p\s+(\d{1,2})\b", v["text"])
-                        num = int(mm.group(1)) if mm else None
+                    num = vraag_number(vl, v)
                     if num is None:
                         sys.exit(f"page {p['pno']}: no vraagnummer in {v['text'][:60]!r}")
                     parts = list(pending) + [(p, intro + vl)]
@@ -279,7 +293,8 @@ def main():
                         cparts, qparts = [], []
                         for pp, ls in parts:
                             vset = vl if pp is p else []
-                            c = [l for l in ls if l not in vset and (cut is None or l[1] < cut)]
+                            c = [l for l in ls if l not in vset and (
+                                cut is None or (l[1] < cut[1] if cut[0] == "<" else l[1] >= cut[1]))]
                             r = [l for l in ls if l not in c]
                             if c:
                                 cparts.append((pp, c))
@@ -299,19 +314,33 @@ def main():
                                 texts.append(format_block_text(pp["page"], y0 + 0.5, y1 - 0.5))
                             ctxs.append(dict(kind="ctx", n=nctx, image=save(imgs, f"{base}-context{nctx}.png"),
                                              text="\n".join(texts), before_vraag=num))
+                        # "N@>y": the lines above the context block ("Gebruik bron 12.")
+                        # are rendered as a separate part, stacked onto the vraag
+                        # without the gap the context block leaves behind
+                        if cut is not None and cut[0] == ">":
+                            split = []
+                            for pp, ls in qparts:
+                                hi = [l for l in ls if l[1] < cut[1]] if pp is p else []
+                                lo = [l for l in ls if l not in hi]
+                                if hi:
+                                    split.append((pp, hi, False))
+                                if lo:
+                                    split.append((pp, lo, True))
+                            qparts = split
                         parts = qparts
+                    parts = [x if len(x) == 3 else (x[0], x[1], True) for x in parts]
                     imgs, texts = [], []
-                    for pp, ls in parts:
+                    for pp, ls, isv in parts:
                         y0 = min(l[1] for l in ls)
                         y1 = max(l[3] for l in ls)
-                        if pp is p:
+                        if pp is p and isv:
                             y0 = min(y0, v["y0"])
                             y1 = max(y1, v["y1"])
                         t, b = pad_range(pp["lines"], y0, y1, ls)
                         if pp["title"] is not None:
                             t = max(t, pp["head"] + 0.5)
                         keep = [l[:4] for l in ls]
-                        if pp is p:
+                        if pp is p and isv:
                             keep.append((v["x0"], v["y0"], v["x1"], v["y1"]))
                         pw = window_for(windows, pp["page"])
                         imgs.append(render(pp["page"], t, b, pw,
