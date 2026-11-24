@@ -131,6 +131,21 @@ BRON_RE = re.compile(r"^\s*bron\s+\d+\b", re.I)
 GEBRUIK_RE = re.compile(r"^\s*Gebruik\b", re.I)
 
 
+def _bron_kop_bold(page, it):
+    """A real bron kop ("Bron 1  Werkgelegenheid ...") is bold; running
+    text that happens to start with "Bron 1 laat de werkgelegenheid ..."
+    (HAVO-ECO-24-I-O.pdf p.12) is not and must not open a bron block."""
+    y0 = it["y0"] - 1
+    for b in page.get_text("dict")["blocks"]:
+        for l in b.get("lines", []):
+            sp = [s for s in l["spans"] if s["text"].strip()]
+            if not sp or not (y0 <= l["bbox"][1] <= it["y1"]):
+                continue
+            if BRON_RE.match(sp[0]["text"]):
+                return bool(sp[0]["flags"] & 16) or "Bold" in sp[0]["font"]
+    return True
+
+
 def _merge_into(dst, src):
     dst["y0"] = min(dst["y0"], src["y0"])
     dst["y1"] = max(dst["y1"], src["y1"])
@@ -159,7 +174,7 @@ def bronnen_postprocess(doc, items):
             out.append(it)
             continue
         txt = item_text(doc[it["page"]], it).strip()
-        if BRON_RE.match(txt):
+        if BRON_RE.match(txt) and _bron_kop_bold(doc[it["page"]], it):
             cur = it
             out.append(it)
         elif cur is not None and cur["page"] == it["page"]:
