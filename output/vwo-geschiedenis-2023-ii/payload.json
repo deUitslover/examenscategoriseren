@@ -1,0 +1,758 @@
+{
+ "exercises": [
+  {
+   "id": "2bccabda-94d8-4288-bdfb-689db0cc2b9f",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Prehistorie en oudheid",
+   "source": "VWO Geschiedenis 2023-II"
+  },
+  {
+   "id": "74218cd3-71c4-4cc5-94d6-1d3a825f6c83",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "De middeleeuwen",
+   "source": "VWO Geschiedenis 2023-II"
+  },
+  {
+   "id": "abd09c12-6a30-4a42-a23e-47f4f83ca228",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Steden en burgers 1050 - 1700",
+   "source": "VWO Geschiedenis 2023-II"
+  },
+  {
+   "id": "e59bd147-69af-47b7-95cd-6bb2d0e2f258",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Verlichting 1650 – 1900",
+   "source": "VWO Geschiedenis 2023-II"
+  },
+  {
+   "id": "526bc612-a434-40a4-992d-630dc5e43c73",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Vroegmoderne tijd",
+   "source": "VWO Geschiedenis 2023-II"
+  },
+  {
+   "id": "622bd36f-0437-4dde-a737-1109b77db9f3",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "China 1842 – 2001",
+   "source": "VWO Geschiedenis 2023-II"
+  },
+  {
+   "id": "e1a4b438-7571-41ec-822e-03c439b27571",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Moderne tijd",
+   "source": "VWO Geschiedenis 2023-II"
+  },
+  {
+   "id": "befaf5a0-997a-4e76-a1c6-348ee3cff4cd",
+   "subject_name": "Geschiedenis",
+   "level": "VWO",
+   "title": "Duitsland in Europa 1918 - 1991",
+   "source": "VWO Geschiedenis 2023-II"
+  }
+ ],
+ "context_blocks": [
+  {
+   "id": "ae0c0983-ea71-40a2-91f3-1cda60abf52c",
+   "exercise_id": "2bccabda-94d8-4288-bdfb-689db0cc2b9f",
+   "label": "bron 1: kleitablet uit Ur met een brief van de koopman Nanni aan Ea-nasir (ca. 1750 v.Chr.)",
+   "image_url": "geschiedenis-vwo-2023-ii-prehistorie-en-oudheid-bron1.png",
+   "text_content": "bron 1 Bij Ur (in huidig Irak) is een kleitablet gevonden uit omstreeks 1750 voor Christus. Op het kleitablet schrijft de koopman Nanni aan Ea-nasir:\nToen je me bezocht zei je: \"Ik zal Gimil-sin koperen staven geven van hoge kwaliteit.\" Je ging weg maar je bent je belofte niet nagekomen. Je gaf mijn boodschapper staven van slechte kwaliteit en zei: \"Neem ze als je ze wilt; als je ze niet wilt ga dan maar weg!\" Voor wie zie jij mij aan dat je iemand als mij behandelt met zoveel minachting? Ik heb een boodschapper gestuurd om de zak met geld (die bij jou in bewaring was gegeven) op te halen maar je hebt me beledigd door die herhaaldelijk met lege handen terug te sturen, en dat terwijl hij door vijandelijk gebied moest reizen. Is er verder iemand onder de kooplieden die handelen met Dilmun1) die me zo heeft behandeld? Alleen jij behandelt mijn boodschapper met minachting! En dat alleen maar vanwege een gewicht aan zilver dat ik je verschuldigd ben. Jij voelt je vrij mij op deze manier aan te spreken, terwijl ik namens jou het paleis al 1080 pond koper bezorgde, en Sjoemi-aboem heeft ook 1080 pond koper gegeven, afgezien van wat we beiden al hadden laten noteren op een verzegeld tablet dat wordt bewaard in de tempel van Sjamasj.\nnoot 1 eiland in de Perzische Golf",
+   "block_type": "inline"
+  },
+  {
+   "id": "becc9dac-74a0-4422-9e06-a6d1efb0176d",
+   "exercise_id": "74218cd3-71c4-4cc5-94d6-1d3a825f6c83",
+   "label": "bron 2: Gregorius van Tours over een conflict in het klooster van Poitiers (589)",
+   "image_url": "geschiedenis-vwo-2023-ii-de-middeleeuwen-bron2.png",
+   "text_content": "bron 2 In zijn Historie der Franken dat is geschreven tussen 573 en 594, beschrijft bisschop Gregorius van Tours een conflict in een vrouwenklooster in 589:\nIn het klooster van Poitiers gebeurde iets ongehoords. Aangespoord door de duivel dwong Clothilde (…) de andere nonnen een eed af te leggen om een aanklacht in te dienen tegen de abdis1) Leubovera. Het was de bedoeling Leubovera te verdrijven en Clothilde in haar plaats tot hoofd van het klooster te kiezen. Clothilde verliet het klooster, samen met ruim veertig andere nonnen. (…) De onzalige en wispelturige vrouw vergat hoe nederig de heilige Radegundis, de stichteres van het klooster, had geleefd. Na hun vertrek uit het klooster bereikten ze Tours. Nadat ze me had begroet, sprak Clothilde: (…) \"Ik ga naar mijn koninklijke verwanten om hun te vertellen wat wij moeten doorstaan.\" Ik antwoordde: \"Als de abdis heeft gezondigd of de regels van het klooster op een of andere manier heeft overtreden, laat ons dan mijn broeder Maroveus, de bisschop (van Poitiers), bezoeken om haar samen aan te klagen. Wanneer de zaak is afgehandeld, keren jullie terug naar het klooster, zodat hetgeen de heilige Radegundis door vasten, eindeloze gebeden en onophoudelijke daden van liefdadigheid tot stand heeft gebracht door buitensporig gedrag niet verloren gaat.\" Maar zij antwoordde: \"Geen sprake van!\"\nnoot 1 Een abdis is het hoofd van het klooster.",
+   "block_type": "inline"
+  },
+  {
+   "id": "57e8b2f5-70aa-4a64-9549-c3e83e5f45c6",
+   "exercise_id": "74218cd3-71c4-4cc5-94d6-1d3a825f6c83",
+   "label": "bron 3: Marsilius van Padua, Defensor Pacis (1324)",
+   "image_url": "geschiedenis-vwo-2023-ii-de-middeleeuwen-bron3.png",
+   "text_content": "bron 3 De Italiaanse filosoof Marsilius van Padua schrijft in 1324 de Defensor Pacis (Verdediger van de vrede). Hierin staat:\nVoor nu is het voldoende om te laten zien, en dat zal ik ook aantonen, dat Christus zelf niet in de wereld is gekomen om mensen te regeren (…), maar om zich te onderwerpen aan de staat. (…) Ik zal ook laten zien dat de apostelen1) hierin echte volgelingen van Christus waren, en dat zij hun opvolgers ook zo opgeleid hebben. Ik zal verder aantonen dat Christus en zijn apostelen ernaar verlangden onderworpen te zijn, en ook voortdurend onderworpen waren, aan de dwingende jurisdictie van vorsten (…) en dat zij alle anderen geleerd hebben en voorgeschreven hebben om hetzelfde te doen op straffe van eeuwige veroordeling.\nnoot 1 Apostelen zijn leerlingen van Jezus die door hem zijn aangesteld om de christelijke boodschap te verspreiden.",
+   "block_type": "inline"
+  },
+  {
+   "id": "88b2a811-dc35-4762-a6a1-19d5b4ff8e59",
+   "exercise_id": "e59bd147-69af-47b7-95cd-6bb2d0e2f258",
+   "label": "bron 4: René Descartes over een stukje bijenwas (1641)",
+   "image_url": "geschiedenis-vwo-2023-ii-verlichting-1650-1900-bron4.png",
+   "text_content": "bron 4 In 1641 schrijft René Descartes:\nMaar zie wat er gebeurt als ik het stukje [bijenwas] bij het vuur houd: de smaak is verdwenen, de geur vervlogen, de kleur veranderd. Van de vorm is niets over en de omvang is toegenomen. Het stukje is vloeibaar geworden en door de hitte bijna niet meer te hanteren. Als je ertegen aantikt, maakt het geen geluid meer. Is dit na deze verandering nog steeds dezelfde bijenwas? We moeten toegeven dat het dezelfde bijenwas is, niemand zal iets anders beweren. Wat was er voor mij dan zo kenmerkend aan dit stukje bijenwas? Die kenmerken kunnen in ieder geval niet door mijn zintuigen onder de aandacht zijn gebracht, want smaak, geur, zicht, gevoel en gehoor zijn nu allemaal veranderd. En toch blijft het hetzelfde stukje bijenwas.",
+   "block_type": "inline"
+  },
+  {
+   "id": "f945bd20-1c0e-4fee-acb0-3ec9a38ee08a",
+   "exercise_id": "e59bd147-69af-47b7-95cd-6bb2d0e2f258",
+   "label": "bron 6: brief van minister Jean-Marie Roland over de oprichting van het Louvre (1792)",
+   "image_url": "geschiedenis-vwo-2023-ii-verlichting-1650-1900-bron6.png",
+   "text_content": "bron 6 In 1792 schreef de Franse minister van Binnenlandse Zaken Jean-Marie Roland in een brief over de oprichting van het nationale museum het Louvre:\nDit Museum moet bestaan uit de grote rijkdommen die ons land bezit, wat betreft tekeningen, schilderijen, beelden en andere kunstschatten. Ik wil dat het Museum iedereen bekoort en de aandacht trekt: het moet de kunstzin voeden, verzamelaars inspireren en als een school dienen voor kunstenaars. Het moet open zijn voor de hele wereld. (…) Dit monument moet van Frankrijk worden en er mag niemand worden geweigerd hiervan te genieten.",
+   "block_type": "inline"
+  },
+  {
+   "id": "6df85417-30bf-410f-9a05-77ac5a825a28",
+   "exercise_id": "526bc612-a434-40a4-992d-630dc5e43c73",
+   "label": "bron 5: zilveren penning van Leiden bij de voltooiing van het jaagpad (1664)",
+   "image_url": "geschiedenis-vwo-2023-ii-vroegmoderne-tijd-bron5.png",
+   "text_content": "bron 5 In 1664 wordt langs de Oude Rijn van Leiden naar Woerden en Utrecht een jaagpad aangelegd, waarlangs trekschuiten door paarden voortgetrokken kunnen worden. Ter gelegenheid van de voltooiing van het jaagpad laat het stadsbestuur van Leiden deze zilveren penning maken:\n[Afbeelding] Foto van een zilveren penning: in het midden een gekroond stadswapen met twee leeuwen, daaronder een panorama van een stad aan het water; rondom vier kleinere familiewapens met namen en een Latijns randschrift.\nToelichting: In het midden zijn het stadswapen en een panorama van Leiden afgebeeld. Daarboven staat: \"Mei 1664 gemaakt\". Daaromheen staan de namen en familiewapens van de vier burgemeesters die Leiden in 1664 besturen. Het Latijnse randschrift luidt (in vertaling): \"De vreemdeling tot verwondering, de inwoners tot gebruik, het vaderland tot sieraad en Leiden tot eer.\"",
+   "block_type": "inline"
+  },
+  {
+   "id": "a2f3f761-1c7b-4dde-ac7c-5678719a5d93",
+   "exercise_id": "622bd36f-0437-4dde-a737-1109b77db9f3",
+   "label": "bron 9: toespraak van de Japanse ambassadeur Hiroshi Saito in World Affairs (1937)",
+   "image_url": "geschiedenis-vwo-2023-ii-china-1842-2001-bron9.png",
+   "text_content": "bron 9 In 1937 wordt een toespraak van de Japanse ambassadeur in de Verenigde Staten, Hiroshi Saito, gepubliceerd in het tijdschrift World Affairs. Hierin staat:\nHet conflict in het Verre Oosten is helemaal niet zo eenvoudig als sommige Europeanen en Amerikanen schijnen te denken. Het probleem begon niet afgelopen juli. Het is het resultaat van de toestand van China, dat ervoor heeft gezorgd dat al meer dan een eeuw buitenlandse legers China binnenvallen en het is de oorzaak van de aanwezigheid van Britse, Franse, Italiaanse, Nederlandse en Amerikaanse troepen. Als China zijn zaken op orde zou hebben, dan hoefden deze buitenlandse machten er niet te zijn en waren Japans' huidige acties niet nodig. Als de wet en veiligheid in China zou worden gewaarborgd, als China een eendrachtige en stabiele natie zou zijn, zou het zelf 'alle buitenlanders in zee drijven', wat het doel is van vele van de anti-buitenland groepen. Wie is de hoofdschuldige van deze toestand in China? Is het Groot-Brittannië dat al decennia probeert om de Chinese regering te helpen om hun twee grootste inkomensbronnen te regelen? Is het Frankrijk, dat meer missionarissen en onderwijzers heeft gestuurd dan alle andere achtergebleven naties bij elkaar? (…) Het is voor Japanners moeilijk te begrijpen waarom veel mensen in het Westen niet inzien dat de ellende niet van buitenlandse makelij is, maar van Chinese.",
+   "block_type": "inline"
+  },
+  {
+   "id": "46f4c4f9-66a6-41a5-895c-f7906dc57d0b",
+   "exercise_id": "622bd36f-0437-4dde-a737-1109b77db9f3",
+   "label": "bron 12: Peng Zhen, burgemeester van Peking, tegen de Roemeense ambassadeur (1961)",
+   "image_url": "geschiedenis-vwo-2023-ii-china-1842-2001-bron12.png",
+   "text_content": "bron 12 In 1961 zegt Peng Zhen, de burgemeester van Peking (Bejing), in een gesprek met de Roemeense ambassadeur:\nDe twee jaren dat je in China verbleef, waren twee moeilijke jaren. Enerzijds hebben we veel bereikt op het gebied van werk, maar we zijn ook geconfronteerd met een grote hongersnood. Zo'n hongersnood is zeldzaam in de Chinese geschiedenis, dus het is moeilijk om ermee om te gaan. (…) Momenteel wordt de leiding van sommige gemeenschappen overgenomen door landheren, rijke boeren of hun lakeien, of door generaties die vroeger lid waren van de Communistische Partij en van arme boerenafkomst waren, maar gedegenereerd zijn.",
+   "block_type": "inline"
+  },
+  {
+   "id": "e99a2ccf-2500-46d1-813c-b6d352c4dc06",
+   "exercise_id": "622bd36f-0437-4dde-a737-1109b77db9f3",
+   "label": "bron 13: prent van Opland in de Volkskrant over het bezoek van Gorbatsjov aan China (1989)",
+   "image_url": "geschiedenis-vwo-2023-ii-china-1842-2001-bron13.png",
+   "text_content": "bron 13 Tijdens een bezoek van Gorbatsjov aan China verschijnt in de Volkskrant van 17 mei 1989 deze prent van Opland:\n[Afbeelding] Spotprent: links Gorbatsjov met een hand tegen zijn hoofd, rechts Deng Xiaoping die naar hem opkijkt en in een tekstballon zegt: \"Michail...., wat heb je ons in Lenin's naam op de hals gehaald.?!\"; op de achtergrond een grote menigte voor de Hal van het Volk en de woorden \"Democratie\", \"Hervormingen\" en \"Glasnost\".\nToelichting: Op de achtergrond staat de Hal van het Volk, een staatsgebouw aan de rand van het Plein van de Hemelse Vrede in Peking. Op de hal staat Leve kameraad Gorbatsjov geschreven. De man links is Michael Gorbatsjov, de man rechts is Deng Xiaoping.",
+   "block_type": "inline"
+  },
+  {
+   "id": "9027e676-89cf-4488-a729-176af966ea41",
+   "exercise_id": "e1a4b438-7571-41ec-822e-03c439b27571",
+   "label": "bron 7: fragment uit Oliver Twist van Charles Dickens (1838)",
+   "image_url": "geschiedenis-vwo-2023-ii-moderne-tijd-bron7.png",
+   "text_content": "bron 7 In 1838 publiceert de Britse schrijver Charles Dickens Oliver Twist, een roman over een weesjongen die te werk wordt gesteld. Een fragment hieruit:\nDe kamer waarin de jongens hun voedsel kregen was een grote stenen hal, met een koperen ketel aan het eind, waaruit de meester (…), geassisteerd door een of twee vrouwen, de pap serveerde tijdens etenstijd. Iedere jongen kreeg één portie en niet meer. (…) De kommen hoefden nooit afgewassen te worden. De jongens polijsten ze met hun lepels tot ze weer glansden; en als ze dit hadden gedaan, (…) staarden ze naar de ketel en (…) likten ijverig aan hun vingers. Jongens hebben over het algemeen een goede eetlust. Oliver Twist en zijn metgezellen leden drie maanden de pijn van een langzame hongerdood.\nToelichting: Charles Dickens gebruikt voor het schrijven van deze roman ervaringen uit zijn eigen jeugd. Nadat zijn vader schulden had gemaakt werd de twaalfjarige Charles te werk gesteld, een gebeurtenis waarop Dickens met afschuw terugkeek.",
+   "block_type": "inline"
+  },
+  {
+   "id": "7125a15b-05cc-4ac8-9f1d-cb5db6c123fd",
+   "exercise_id": "e1a4b438-7571-41ec-822e-03c439b27571",
+   "label": "bron 8: wervingsposter van het Women's Army Auxiliary Corps (1918)",
+   "image_url": "geschiedenis-vwo-2023-ii-moderne-tijd-bron8.png",
+   "text_content": "bron 8 Poster van het Britse Women's Army Auxiliary Corps (WAAC) uit 1918:\n[Afbeelding] Affiche: een lachende vrouw in uniform zwaait met een hoed voor een Britse vlag, met achter haar marcherende soldaten; daaronder de Engelse tekst van de poster.\nVertaling: Iedere geschikte vrouw kan een geschikte man vervangen. Sluit je vandaag aan bij de Women's Army Auxiliary Corps voor werk met de troepen in het vaderland of in het buitenland. Voor alle informatie en advies schrijf naar of bezoek het dichtstbijzijnde arbeidsbureau. Het adres is binnen verkrijgbaar.\nToelichting: In het WAAC ondersteunen vrouwen het leger door te werken als onder andere administratieve hulp, telefoniste en chauffeur.",
+   "block_type": "inline"
+  },
+  {
+   "id": "31a27dd6-990c-4a4d-b32e-037a5fee784f",
+   "exercise_id": "befaf5a0-997a-4e76-a1c6-348ee3cff4cd",
+   "label": "bron 10: brief van Lion Feuchtwanger aan de nationaalsocialist die zijn huis bewoont (1935)",
+   "image_url": "geschiedenis-vwo-2023-ii-duitsland-in-europa-1918-1991-bron10.png",
+   "text_content": "bron 10 In maart 1935 publiceert de Duitse schrijver Lion Feuchtwanger een brief in een krant in Frankrijk. Hij schrijft de brief aan de hem onbekende nationaalsocialist die zijn huis in Berlijn heeft overgenomen:\nHoe bevalt mijn huis u, meneer X? Vindt u het fijn er te wonen? Heeft het zilvergrijze tapijt in de bovenste kamers geleden onder het geplunder van de SA- mannen1)? Mijn conciërge zocht bescherming in deze bovenste kamers nadat de heren besloten zich op hem uit te leven omdat ik in Amerika was op dat moment. Het tapijt is nogal delicaat en rood is een sterke kleur, die lastig te verwijderen is. (…) En ik vraag me af wat u hebt gedaan met de twee kamers die mijn bibliotheek bevatten. Ik heb gehoord, meneer X, dat boeken niet zo populair zijn in het Rijk waarin u leeft, en dat iedereen die interesse toont in boeken het risico loopt in de problemen te komen. Ikzelf bijvoorbeeld, heb het boek van uw \"Führer\" [Hitler] gelezen en argeloos gezegd dat zijn 140.000 woorden 140.000 beledigingen zijn voor de Duitse taal. Het resultaat van die opmerking is dat u nu in mijn huis woont.\nnoot 1 De SA is een paramilitaire organisatie van de NSDAP.",
+   "block_type": "inline"
+  },
+  {
+   "id": "50ee0bc6-e79e-42ef-b294-3fee4ec69fb6",
+   "exercise_id": "befaf5a0-997a-4e76-a1c6-348ee3cff4cd",
+   "label": "bron 11: DDR-poster 'Fordert gesamtdeutsche Beratung!' (1951)",
+   "image_url": "geschiedenis-vwo-2023-ii-duitsland-in-europa-1918-1991-bron11.png",
+   "text_content": "bron 11 In 1951 laat de regering van de DDR deze poster in de DDR en BRD verspreiden:\n[Afbeelding] Affiche: een grote man in werkkleding wijst met gestrekte arm naar een ronde tafel waaraan aan één kant mannen in pak zitten en waar aan de andere kant lege stoelen staan; achter hem een menigte mensen.\nVertaling: Eis gezamenlijk Duits overleg!\nToelichting: De mannen aan de tafel zijn vertegenwoordigers van de DDR.",
+   "block_type": "inline"
+  }
+ ],
+ "questions": [
+  {
+   "id": "f793e0df-a673-440f-a0d2-2a91abaca737",
+   "exercise_id": "2bccabda-94d8-4288-bdfb-689db0cc2b9f",
+   "question_number": 2,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Jagers en boeren (tot 3000 v.Chr.)"
+    }
+   ],
+   "keywords": [
+    "eerste stedelijke gemeenschappen",
+    "vroeg-stedelijke gemeenschap",
+    "Mesopotamië",
+    "handel",
+    "schrift",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Met een kleitablet uit Ur aantonen dat er sprake was van een vroeg-stedelijke gemeenschap.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-prehistorie-en-oudheid-vraag2.png",
+   "question_text": "Gebruik bron 1. Je concludeert dat Ur in 1750 voor Christus een vroeg-stedelijke gemeenschap is, onder andere omdat uit de bron blijkt dat er sprake is van handel. 2p 2 Ondersteun je conclusie door voor twee andere kenmerken van een vroeg-stedelijke gemeenschap aan te tonen dat ze in de bron naar voren komen.",
+   "context_block_ids": [
+    "ae0c0983-ea71-40a2-91f3-1cda60abf52c"
+   ]
+  },
+  {
+   "id": "9e4f740b-f207-48f4-aa3a-7c9f55fdbd17",
+   "exercise_id": "2bccabda-94d8-4288-bdfb-689db0cc2b9f",
+   "question_number": 3,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Grieken en Romeinen (3000 v.Chr.-500 n.Chr.)"
+    }
+   ],
+   "keywords": [
+    "betrouwbaarheid",
+    "standplaatsgebondenheid",
+    "Romeinse rijk",
+    "Romeinse keizers",
+    "geschiedschrijving",
+    "Suetonius"
+   ],
+   "question_summary": "Verklaren waarom historici verschillen over de betrouwbaarheid van de keizersbiografieën van Suetonius.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-prehistorie-en-oudheid-vraag3.png",
+   "question_text": "Twee gegevens over de Romeinse schrijver Suetonius (ca.70-140) die biografieën schreef over Romeinse keizers:\n1 Suetonius was de keizerlijke bibliothecaris en archivaris.\n2 Suetonius schreef biografieën over keizers voor een breed publiek, waarbij hij uitgebreid inging op persoonlijke details zoals het uiterlijk van de keizers, hun eetgewoonten en hun seksuele gedragingen. Historici verschillen van mening over de betrouwbaarheid van de biografieën van Suetonius voor een onderzoek naar de Romeinse keizers. 3p 3 Verklaar dit verschil van mening door:\n− met het eerste gegeven aan te geven waardoor sommige historici de informatie in zijn biografieën als betrouwbaar beschouwen, en\n− met het tweede gegeven te beredeneren waardoor sommige historici de biografieën van Suetonius minder betrouwbaar vinden voor een onderzoek naar de Romeinse keizers.",
+   "context_block_ids": []
+  },
+  {
+   "id": "0fba304c-fe9e-4655-bd70-cebccffb41fb",
+   "exercise_id": "74218cd3-71c4-4cc5-94d6-1d3a825f6c83",
+   "question_number": 4,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Monniken en ridders (500-1000)"
+    }
+   ],
+   "keywords": [
+    "kloosters",
+    "kerstening",
+    "betrouwbaarheid",
+    "bruikbaarheid",
+    "standplaatsgebondenheid",
+    "monniken en nonnen"
+   ],
+   "question_summary": "Verklaren waarom een bron van Gregorius van Tours bruikbaarder is voor idealen van nonnen dan voor het verloop van een kloosterconflict.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-de-middeleeuwen-vraag4.png",
+   "question_text": "Gebruik bron 2. Twee vragen bij een onderzoek naar kloosters in de vroege middeleeuwen:\n1 Wat was het verloop van het conflict in het klooster van Poitiers?\n2 Aan welke idealen moesten nonnen in de vroege middeleeuwen voldoen? De bron is bruikbaarder voor de tweede vraag. 3p 4 Verklaar dit door:\n− uit te leggen waardoor de bron minder betrouwbare informatie bevat voor de eerste vraag, en daarna\n− een ideaal voor nonnen in de vroege middeleeuwen uit de bron af te leiden.",
+   "context_block_ids": [
+    "becc9dac-74a0-4422-9e06-a6d1efb0176d"
+   ]
+  },
+  {
+   "id": "fad16639-ca1b-4cc4-ad34-44543f654d12",
+   "exercise_id": "74218cd3-71c4-4cc5-94d6-1d3a825f6c83",
+   "question_number": 7,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Steden en staten — overig (1000-1500)"
+    }
+   ],
+   "keywords": [
+    "wereldlijke en geestelijke macht",
+    "Investituurstrijd",
+    "paus",
+    "ketterij",
+    "kenmerkend aspect",
+    "kerk en staat"
+   ],
+   "question_summary": "Met een tekst van Marsilius van Padua de politieke achtergrond van zijn veroordeling door de paus uitleggen.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-de-middeleeuwen-vraag7.png",
+   "question_text": "Gebruik bron 3. De paus veroordeelt Marsilius van Padua als ketter en verstoot hem uit de kerk. 2p 7 Toon met een verwijzing naar de bron aan welke politieke achtergrond deze veroordeling heeft, waarbij je je antwoord ondersteunt met een kenmerkend aspect.",
+   "context_block_ids": [
+    "57e8b2f5-70aa-4a64-9549-c3e83e5f45c6"
+   ]
+  },
+  {
+   "id": "92a89c92-03ce-4c7c-87a4-f02cda7766f5",
+   "exercise_id": "abd09c12-6a30-4a42-a23e-47f4f83ca228",
+   "question_number": 5,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Opkomst van de stedelijke burgerij (1050-1302)"
+    }
+   ],
+   "keywords": [
+    "stadsrechten",
+    "lakennijverheid",
+    "graaf van Vlaanderen",
+    "verstedelijking Vlaanderen",
+    "Brugge",
+    "centralisatie"
+   ],
+   "question_summary": "Uitleggen hoe de gravin van Vlaanderen met belastingvoordelen voor wolbewerkers in Kortrijk haar eigen politieke positie versterkte.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-steden-en-burgers-1050-1700-vraag5.png",
+   "question_text": "In 1224 besloot Johanna van Constantinopel, de gravin van Vlaanderen, om de eerste vijftig mannen die zich in de Vlaamse stad Kortrijk wilden vestigen om wol te bewerken levenslang vrij te stellen van diverse belastingen. Historici beweren dat Johanna met dit besluit grotere Vlaamse steden als Brugge wilde beconcurreren. 2p 5 Ondersteun deze bewering door uit te leggen op welke wijze Johanna met dit besluit ook haar eigen politieke positie verstevigde.",
+   "context_block_ids": []
+  },
+  {
+   "id": "99fb35e3-d2b7-4149-956a-4e61a582e71b",
+   "exercise_id": "abd09c12-6a30-4a42-a23e-47f4f83ca228",
+   "question_number": 6,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Opkomst van de stedelijke burgerij (1050-1302)"
+    }
+   ],
+   "keywords": [
+    "gilden",
+    "poorters",
+    "stedelijk zelfbestuur",
+    "ambachtslieden",
+    "Brugge",
+    "stedelijke burgerij"
+   ],
+   "question_summary": "Uitleggen welk belang het Brugse stadsbestuur en het gildebestuur hadden bij de inschrijving van nieuwe ambachtslieden als poorter.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-steden-en-burgers-1050-1700-vraag6.png",
+   "question_text": "In 1280 bepaalde het stadsbestuur van Brugge dat ambachtslieden die zich wilden vestigen in de stad en hun ambacht wilden uitoefenen, zich moesten laten inschrijven als poorter in aanwezigheid van hun toekomstige meester en het gildebestuur. Met deze voorwaarde beschermden zowel het stadsbestuur als het bestuur van het gilde hun eigen belang. 2p 6 Geef voor het stadsbestuur en voor het bestuur van het gilde apart aan welke redenering zij hierbij volgden.",
+   "context_block_ids": []
+  },
+  {
+   "id": "9ccbf7ba-6e59-4999-adb1-923562062149",
+   "exercise_id": "abd09c12-6a30-4a42-a23e-47f4f83ca228",
+   "question_number": 8,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij en centralisatie (1302-1602)"
+    }
+   ],
+   "keywords": [
+    "particularisme",
+    "Karel V",
+    "Antwerpen",
+    "ketterij",
+    "handelscentrum",
+    "centralisatie"
+   ],
+   "question_summary": "Aangeven dat het Antwerpse stadsbestuur in 1550 vanuit particularisme protesteerde tegen de ketterplakkaten van Karel V.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-steden-en-burgers-1050-1700-vraag8.png",
+   "question_text": "In april 1550 protesteerde het stadsbestuur van Antwerpen tegen een verordening van Karel V. In deze verordening stond dat het drukken en bezitten van ketterse boeken en het bijwonen van ketterse bijeenkomsten met de dood moest worden bestraft. Het stadsbestuur vreesde dat de economie van Antwerpen zou lijden onder deze maatregelen. Het onderhandelde succesvol met de vertegenwoordiger van Karel V over een meer gematigde verordening waarin \"onze kooplieden en ingezetenen zouden blijven bij hun oude vrijheden en voordelen\". 2p 8 Geef aan:\n− dat het stadsbestuur uitging van particularisme, en\n− waarom het stadsbestuur verwachtte dat de economie van Antwerpen zou lijden onder de verordening van Karel V.",
+   "context_block_ids": []
+  },
+  {
+   "id": "82943fa9-c4b0-484c-9b2a-d84066f6fd84",
+   "exercise_id": "abd09c12-6a30-4a42-a23e-47f4f83ca228",
+   "question_number": 11,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij in de Gouden Eeuw (1602-1700)"
+    }
+   ],
+   "keywords": [
+    "Dertigjarige Oorlog",
+    "Republiek",
+    "migratie",
+    "calvinisme",
+    "oorlogsvloot",
+    "Engels-Nederlandse oorlogen"
+   ],
+   "question_summary": "Een politiek-militaire verklaring geven voor Duitse migratie naar de Republiek en het werk van migranten in leger en vloot.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-steden-en-burgers-1050-1700-vraag11.png",
+   "question_text": "Enkele gegevens over migranten die in de zeventiende eeuw uit Duitse gebieden naar de Republiek kwamen:\n1 In de eerste helft van de zeventiende eeuw werden veel Duitse migranten als soldaat in het leger van de Republiek aangenomen, waarbij de voorkeur uitging naar calvinisten.\n2 In de tweede helft van de zeventiende eeuw werkten veel Duitse migranten bij de groeiende oorlogsvloot van de Republiek.\n3p 11 Geef een politiek-militaire verklaring voor:\n− het vertrekken van migranten uit juist het Heilige Roomse Rijk in de eerste helft van de zeventiende eeuw, en\n− de voorkeur voor calvinisten als soldaat in het leger van de Republiek in de eerste helft van de zeventiende eeuw, en\n− de groei van de oorlogsvloot van de Republiek in de tweede helft van de zeventiende eeuw.",
+   "context_block_ids": []
+  },
+  {
+   "id": "a3e0c931-6010-4242-a3e0-d976d57e0590",
+   "exercise_id": "e59bd147-69af-47b7-95cd-6bb2d0e2f258",
+   "question_number": 10,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichte ideeën over een rechtvaardige samenleving (1650-1789)"
+    }
+   ],
+   "keywords": [
+    "rationalisme",
+    "Descartes",
+    "wetenschappelijke revolutie",
+    "rede en zintuigen",
+    "verlicht denken",
+    "bronverwijzing"
+   ],
+   "question_summary": "Uitleggen dat uit een tekst van Descartes over bijenwas zijn rationalisme blijkt.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-verlichting-1650-1900-vraag10.png",
+   "question_text": "Gebruik bron 4. Uit deze beschrijving blijkt het rationalisme van Descartes. 2p 10 Leg dit uit.",
+   "context_block_ids": [
+    "88b2a811-dc35-4762-a6a1-19d5b4ff8e59"
+   ]
+  },
+  {
+   "id": "1730ae2a-7473-47e1-b730-bba5c9b6c8d5",
+   "exercise_id": "e59bd147-69af-47b7-95cd-6bb2d0e2f258",
+   "question_number": 13,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Democratische revoluties in de VS en Frankrijk (1776-1813)"
+    }
+   ],
+   "keywords": [
+    "Franse Revolutie",
+    "Verlichtingsidealen",
+    "gelijkheid",
+    "nationalisme",
+    "Louvre",
+    "bronverwijzing"
+   ],
+   "question_summary": "Met verwijzingen naar een brief over de oprichting van het Louvre aantonen dat Roland verlichte idealen nastreefde.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-verlichting-1650-1900-vraag13.png",
+   "question_text": "Gebruik bron 6. Je concludeert dat Roland met de oprichting van het Louvre verlichte idealen nastreeft. 4p 13 Toon dit aan voor twee Verlichtingsidealen, waarbij je je antwoord telkens ondersteunt met een andere verwijzing naar de brief.",
+   "context_block_ids": [
+    "f945bd20-1c0e-4fee-acb0-3ec9a38ee08a"
+   ]
+  },
+  {
+   "id": "18cf55b7-348d-46a3-a374-7962c26dc42b",
+   "exercise_id": "e59bd147-69af-47b7-95cd-6bb2d0e2f258",
+   "question_number": 14,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichtingsideeën in de Europese politieke cultuur (1813-1900)"
+    }
+   ],
+   "keywords": [
+    "nationalisme",
+    "romantiek",
+    "Griekse onafhankelijkheidsoorlog",
+    "Ottomaanse Rijk",
+    "klassieke oudheid",
+    "19e eeuw"
+   ],
+   "question_summary": "Twee gegevens over de Griekse onafhankelijkheidsoorlog verbinden met het nationalisme en de romantiek.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-verlichting-1650-1900-vraag14.png",
+   "question_text": "Twee gegevens over de oorlog waarin Griekenland vocht om onafhankelijk te worden van het Ottomaanse (Turkse) Rijk:\n1 In 1824 stond in een Amerikaanse krant: \"Er wordt gezegd 'de Grieken zijn verdeeld!' Maar het lijkt mij dat ze wel een band moeten hebben, wat het hen mogelijk maakt Turkije al meer dan vijf jaar te weerstaan.\"\n2 Verschillende beroemde Britse auteurs besloten persoonlijk mee te vechten met de Grieken, omdat zij \"hartstochtelijk wilden strijden voor de vrijheid van Griekenland, de bakermat van de beschaving.\" 3p 14 Licht beide gegevens toe door:\n− bij het eerste gegeven uit te leggen van welk nationalistisch uitgangspunt de krant uitging, en\n− bij het tweede gegeven aan te geven bij welke negentiende-eeuwse literaire stroming het motief van de auteurs om te vechten past.",
+   "context_block_ids": []
+  },
+  {
+   "id": "85a268a0-24be-4ab3-904c-5d42fcf56afe",
+   "exercise_id": "e59bd147-69af-47b7-95cd-6bb2d0e2f258",
+   "question_number": 16,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Democratische revoluties in de VS en Frankrijk (1776-1813)"
+    }
+   ],
+   "keywords": [
+    "abolitionisme",
+    "slavernij",
+    "Marseillaise",
+    "Franse Revolutie",
+    "Verenigde Staten",
+    "massamobilisatie"
+   ],
+   "question_summary": "Uitleggen hoe een abolitionistisch liedboek op de melodie van de Marseillaise bijeenkomsten van abolitionisten versterkte.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-verlichting-1650-1900-vraag16.png",
+   "question_text": "In 1848 publiceerde William Wells Brown in de Verenigde Staten het boek The Anti-Slavery Harp (De anti-slavernij harp), met liederen die gezongen konden worden tijdens bijeenkomsten van abolitionisten. Een van de liederen in dit boek was geschreven op de melodie van de Marseillaise, een strijdlied uit de Franse Revolutie. Een bewering: Brown wilde met dit liedboek het succes van de bijeenkomsten van de abolitionisten bevorderen. 4p 16 Ondersteun de bewering door:\n− aan te geven welke boodschap Brown met zijn keuze voor de melodie van de Marseillaise wilde overbrengen, en\n− twee verschillende argumenten te geven waardoor het zingen van liederen de bijeenkomsten van de abolitionisten effectiever maakte.",
+   "context_block_ids": []
+  },
+  {
+   "id": "7e9e4d09-640e-424b-a840-8840adb2e2fd",
+   "exercise_id": "526bc612-a434-40a4-992d-630dc5e43c73",
+   "question_number": 9,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij in de Gouden Eeuw (1602-1700)"
+    },
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichte ideeën over een rechtvaardige samenleving (1650-1789)"
+    }
+   ],
+   "keywords": [
+    "Gouden Eeuw",
+    "rijke kooplieden",
+    "burgerij",
+    "wetenschappelijke revolutie",
+    "rariteitenkabinetten",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Verklaren waarom buitenlanders verbaasd waren dat rariteitenkabinetten in de Republiek eigendom waren van burgers.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-vroegmoderne-tijd-vraag9.png",
+   "question_text": "In de zeventiende eeuw werden 'rariteitenkabinetten' populair, waarin verzamelingen van natuurhistorische objecten en curiosa (wonderbaarlijke objecten) werden tentoongesteld. Buitenlandse bezoekers verbaasden zich erover dat in de Republiek de meeste rariteitenkabinetten het eigendom waren van burgers. 2p 9 Verklaar deze verbazing van de buitenlandse bezoekers, waarbij je je antwoord ondersteunt met een kenmerkend aspect uit die tijd.",
+   "context_block_ids": []
+  },
+  {
+   "id": "f5fed81b-efd9-40dd-b527-95412cdce135",
+   "exercise_id": "526bc612-a434-40a4-992d-630dc5e43c73",
+   "question_number": 12,
+   "topics": [
+    {
+     "domain": "Steden en burgers in de Lage Landen",
+     "subdomain": "Burgerij in de Gouden Eeuw (1602-1700)"
+    }
+   ],
+   "keywords": [
+    "regenten",
+    "propaganda herkennen",
+    "stedelijk bestuur",
+    "handelskapitalisme",
+    "trekschuit",
+    "Leiden"
+   ],
+   "question_summary": "Uitleggen welke propagandaboodschap het Leidse stadsbestuur met een penning bij de aanleg van een jaagpad uitdroeg.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-vroegmoderne-tijd-vraag12.png",
+   "question_text": "Gebruik bron 5. Een interpretatie: Met deze penning wil het bestuur van Leiden een propagandaboodschap overbrengen. 3p 12 Ondersteun deze interpretatie door:\n− zonder bron aan te geven wat het belang van het jaagpad voor Leiden is, en\n− met bron uit te leggen welke politieke propagandaboodschap door het bestuur van Leiden wordt overgebracht.",
+   "context_block_ids": [
+    "6df85417-30bf-410f-9a05-77ac5a825a28"
+   ]
+  },
+  {
+   "id": "9564ca6d-a0a3-475d-bfc6-ad2d5d24b160",
+   "exercise_id": "622bd36f-0437-4dde-a737-1109b77db9f3",
+   "question_number": 18,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Verlies van regionale grootmacht (1842-1911)"
+    }
+   ],
+   "keywords": [
+    "Cixi",
+    "Qing-dynastie",
+    "Zelfversterkingsbeweging",
+    "modernisering",
+    "einde keizerrijk",
+    "Chinese marine"
+   ],
+   "question_summary": "Met twee argumenten ondersteunen dat het beleid van keizerin-weduwe Cixi bijdroeg aan de ondergang van de Qing-dynastie.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-china-1842-2001-vraag18.png",
+   "question_text": "Een anekdote: In 1893 liet keizerin-weduwe Cixi tijdens de restauratie van het zomerpaleis vlakbij Peking een paviljoen herbouwen zodat het gebouw op een stoomboot leek. Het paviljoen dat niet kon varen, werd door Cixi betaald met geld dat bedoeld was voor het versterken van de Chinese marine. Volgens sommige historici was dit een voorbeeld van de handelswijze van Cixi die bijdroeg aan de ondergang van de keizerlijke dynastie. 2p 18 Ondersteun de visie van de historici met twee argumenten.",
+   "context_block_ids": []
+  },
+  {
+   "id": "d8958aa6-1694-4edf-b7f6-a1bbfa145883",
+   "exercise_id": "622bd36f-0437-4dde-a737-1109b77db9f3",
+   "question_number": 20,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Ontstaan van de Volksrepubliek (1912-1949)"
+    }
+   ],
+   "keywords": [
+    "Japanse imperialisme",
+    "Tweede Eenheidsfront",
+    "Chinese Communistische Partij",
+    "Guomindang",
+    "Japans-Chinese oorlog",
+    "rechtvaardiging"
+   ],
+   "question_summary": "Verklaren waarom de Japanse ambassadeur in 1937 de situatie in China bekritiseerde.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-china-1842-2001-vraag20.png",
+   "question_text": "Gebruik bron 9. Hiroshi Saito bekritiseert de situatie in China. 3p 20 Geef hiervoor een verklaring door:\n− zonder bron aan te geven welke politieke samenwerking in China op dat moment plaatsvindt, en\n− met een verwijzing naar de bron uit te leggen welk Japans beleid Saito in China wil rechtvaardigen.",
+   "context_block_ids": [
+    "a2f3f761-1c7b-4dde-ac7c-5678719a5d93"
+   ]
+  },
+  {
+   "id": "bc66be4c-5a5a-4c0e-991d-3790ae002dc2",
+   "exercise_id": "622bd36f-0437-4dde-a737-1109b77db9f3",
+   "question_number": 23,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Ontwikkeling tot grootmacht (1949-2001)"
+    }
+   ],
+   "keywords": [
+    "Grote Sprong Voorwaarts",
+    "hongersnood",
+    "klassenstrijd",
+    "Mao Zedong",
+    "communisme",
+    "bronverwijzing"
+   ],
+   "question_summary": "Uitleggen welke beleidsverandering en welke communistische visie blijken uit een uitspraak van Peng Zhen in 1961.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-china-1842-2001-vraag23.png",
+   "question_text": "Gebruik bron 12. Peng Zhen geeft een verklaring voor problemen in China op dat moment. 3p 23 Licht dit toe door:\n− aan te geven welke economische beleidsverandering voor problemen zorgt op dat moment, en\n− uit te leggen met een verwijzing naar de bron welke communistische visie Peng Zhen weergeeft op de oorzaak van de problemen.",
+   "context_block_ids": [
+    "46f4c4f9-66a6-41a5-895c-f7906dc57d0b"
+   ]
+  },
+  {
+   "id": "79ec9d6f-a149-4151-a9d4-f1b5fede3f56",
+   "exercise_id": "622bd36f-0437-4dde-a737-1109b77db9f3",
+   "question_number": 25,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Ontwikkeling tot grootmacht (1949-2001)"
+    }
+   ],
+   "keywords": [
+    "Plein van de Hemelse Vrede",
+    "Deng Xiaoping",
+    "Gorbatsjov",
+    "glasnost",
+    "spotprent",
+    "studentenprotest"
+   ],
+   "question_summary": "Uitleggen welke visie op de Chinese studentenopstand van 1989 een prent van Opland weergeeft.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-china-1842-2001-vraag25.png",
+   "question_text": "Gebruik bron 13. Opland geeft in zijn prent een visie weer op de studentenopstand in China. 2p 25 Leg uit welke visie Opland op deze gebeurtenis weergeeft, waarbij je je antwoord ondersteunt met een verwijzing naar de bron.",
+   "context_block_ids": [
+    "e99a2ccf-2500-46d1-813c-b6d352c4dc06"
+   ]
+  },
+  {
+   "id": "cef387d2-cf5f-44fd-b27c-c99fc9979e2a",
+   "exercise_id": "e1a4b438-7571-41ec-822e-03c439b27571",
+   "question_number": 15,
+   "topics": [
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichtingsideeën in de Europese politieke cultuur (1813-1900)"
+    }
+   ],
+   "keywords": [
+    "sociale kwestie",
+    "industriële revolutie",
+    "kinderarbeid",
+    "armoede",
+    "bruikbaarheid",
+    "Charles Dickens"
+   ],
+   "question_summary": "Uitleggen waarom Oliver Twist minder bruikbaar is voor de leefomstandigheden in werkhuizen en meer voor de aandacht voor de sociale kwestie.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-moderne-tijd-vraag15.png",
+   "question_text": "Gebruik bron 7. Oliver Twist wordt meteen na publicatie een bestseller. Twee onderzoeksgebieden van een studie naar armoede in Groot- Brittannië in de negentiende eeuw:\n1 De leefomstandigheden van kinderen in de werkhuizen.\n2 De groeiende aandacht voor de sociale kwestie in Groot-Brittannië. De onderzoeker concludeert dat de bron minder bruikbaar is voor het eerste onderzoeksgebied en meer bruikbaar voor het tweede onderzoeksgebied. 4p 15 Leg voor beide conclusies apart deze redenering uit.",
+   "context_block_ids": [
+    "9027e676-89cf-4488-a729-176af966ea41"
+   ]
+  },
+  {
+   "id": "6b3f4b65-a0fb-4ab5-81e9-3bab347f066b",
+   "exercise_id": "e1a4b438-7571-41ec-822e-03c439b27571",
+   "question_number": 19,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Wereldoorlogen — overig (1900-1950)"
+    },
+    {
+     "domain": "Verlichting",
+     "subdomain": "Verlichtingsideeën in de Europese politieke cultuur (1813-1900)"
+    }
+   ],
+   "keywords": [
+    "Eerste Wereldoorlog",
+    "emancipatie",
+    "vrouwenbeweging",
+    "totale oorlog",
+    "propaganda herkennen",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Met een Britse wervingsposter uit 1918 de emancipatie van vrouwen en kenmerkende aspecten van de eerste helft van de 20e eeuw toelichten.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-moderne-tijd-vraag19.png",
+   "question_text": "Gebruik bron 8. 4p 19 Licht de poster toe door:\n− te beredeneren dat de werkwijze van de WAAC bijdraagt aan de emancipatie van vrouwen in Groot-Brittannië, en\n− twee verschillende kenmerkende aspecten van de eerste helft van de twintigste eeuw te noemen die passen bij deze poster.",
+   "context_block_ids": [
+    "7125a15b-05cc-4ac8-9f1d-cb5db6c123fd"
+   ]
+  },
+  {
+   "id": "816dcc70-ca7f-459d-b37b-ddd2ad876329",
+   "exercise_id": "befaf5a0-997a-4e76-a1c6-348ee3cff4cd",
+   "question_number": 21,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Opkomst nationaalsocialisme en Tweede Wereldoorlog (1918-1945)"
+    }
+   ],
+   "keywords": [
+    "nationaalsocialisme",
+    "SA",
+    "antisemitisme",
+    "boekverbranding",
+    "terreur",
+    "bronverwijzing"
+   ],
+   "question_summary": "Aantonen dat Lion Feuchtwanger in een brief kritiek leverde op twee kenmerken van het nationaalsocialisme.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-duitsland-in-europa-1918-1991-vraag21.png",
+   "question_text": "Gebruik bron 10. Lion Feuchtwanger levert kritiek op het nationaalsocialisme. 4p 21 Toon dit aan voor twee kenmerken van het nationaalsocialisme, waarbij je je antwoord telkens ondersteunt met een andere verwijzing naar de bron.",
+   "context_block_ids": [
+    "31a27dd6-990c-4a4d-b32e-037a5fee784f"
+   ]
+  },
+  {
+   "id": "b9a7f41d-62ce-4340-ace7-385a7cc1a69f",
+   "exercise_id": "befaf5a0-997a-4e76-a1c6-348ee3cff4cd",
+   "question_number": 22,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Duitsland en de Koude Oorlog (1945-1961)"
+    }
+   ],
+   "keywords": [
+    "DDR",
+    "BRD",
+    "Duitse deling",
+    "propaganda herkennen",
+    "Adenauer",
+    "Westbinding"
+   ],
+   "question_summary": "Uitleggen welke propagandaboodschap de DDR met een poster voor Duits overleg uitdroeg en waarom de BRD niet meewerkte.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-duitsland-in-europa-1918-1991-vraag22.png",
+   "question_text": "Gebruik bron 11. In 1950 start de regering van de DDR de campagne \"Duitsers aan één tafel\", met als doel te komen tot een verenigd Duitsland. De campagne leidt niet tot een hereniging. 4p 22 Leg uit:\n− met bron welke propagandaboodschap de regering van de DDR wil overbrengen aan hun eigen burgers, en\n− zonder bron waarom de regering van de BRD niet meewerkt aan de campagne.",
+   "context_block_ids": [
+    "50ee0bc6-e79e-42ef-b294-3fee4ec69fb6"
+   ]
+  },
+  {
+   "id": "a5f3cd93-b51b-42ac-b67e-2785fc1eff70",
+   "exercise_id": "befaf5a0-997a-4e76-a1c6-348ee3cff4cd",
+   "question_number": 24,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Hereniging en Europese integratie (1961-1991)"
+    }
+   ],
+   "keywords": [
+    "Staatssicherheitsdienst",
+    "Duitse hereniging",
+    "DDR",
+    "integratie voormalige DDR",
+    "archieven",
+    "sociale onrust"
+   ],
+   "question_summary": "Uitleggen waarom West-Duitse politici vreesden dat het openstellen van de Stasi-archieven tot sociale onrust zou leiden.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-duitsland-in-europa-1918-1991-vraag24.png",
+   "question_text": "De Staatssicherheitsdienst legde dossiers aan van Duitse burgers. Na opheffing van deze dienst in 1990 werden de archieven voor iedereen toegankelijk. Veel West-Duitse politici waren tegen het openstellen van de archieven, omdat zij bezorgd waren dat dit voor sociale onrust zou zorgen. 2p 24 Leg de redenering van de West-Duitse politici uit.",
+   "context_block_ids": []
+  },
+  {
+   "id": "feaf5df9-d541-445a-9e53-59c410027142",
+   "exercise_id": "befaf5a0-997a-4e76-a1c6-348ee3cff4cd",
+   "question_number": 26,
+   "topics": [
+    {
+     "domain": "China",
+     "subdomain": "Ontwikkeling tot grootmacht (1949-2001)"
+    },
+    {
+     "domain": "Duitsland in Europa",
+     "subdomain": "Hereniging en Europese integratie (1961-1991)"
+    }
+   ],
+   "keywords": [
+    "Gorbatsjov",
+    "glasnost en perestrojka",
+    "Plein van de Hemelse Vrede",
+    "studentenprotest",
+    "Deng Xiaoping",
+    "Sovjet-Unie"
+   ],
+   "question_summary": "Een politieke verklaring geven voor het verzoek van Chinese studenten aan Gorbatsjov en zijn weigering in 1989.",
+   "question_image_url": "geschiedenis-vwo-2023-ii-duitsland-in-europa-1918-1991-vraag26.png",
+   "question_text": "Studenten verzochten Gorbatsjov tijdens zijn bezoek aan China (zie bron 13) om het Plein van de Hemelse Vrede te bezoeken, maar Gorbatsjov weigerde. 2p 26 Geef een politieke verklaring voor:\n− het verzoek van de studenten, en\n− de weigering van Gorbatsjov.",
+   "context_block_ids": []
+  }
+ ]
+}
