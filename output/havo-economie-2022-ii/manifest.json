@@ -1,0 +1,68 @@
+{
+  "source": "HAVO Economie 2022-II",
+  "subject_name": "Economie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Zonder risico geen verzekering",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Sparen in Nederland: een paradox",
+      "question_numbers": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "De reisbranche in zwaar weer",
+      "question_numbers": [
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Kamertje verhuren",
+      "question_numbers": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "IJsland lonkt naar euro",
+      "question_numbers": [
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "title": "Crisis en inkomen",
+      "question_numbers": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ]
+    }
+  ]
+}
