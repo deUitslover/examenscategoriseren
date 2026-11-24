@@ -1,0 +1,545 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "HAVO",
+    "source": "HAVO Economie 2021-II",
+    "answers": [
+      {
+        "title": "Eigen risico en aanvullende verzekering",
+        "question_number": 1,
+        "answer_text": "• bij (1) complementair goed (1)\n• bij (2) toenemen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij (1) complementair goed"
+          },
+          {
+            "points": 1,
+            "description": "bij (2) toenemen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-eigen-risico-en-aanvullende-verzekering-antw1.png"
+        ]
+      },
+      {
+        "title": "Eigen risico en aanvullende verzekering",
+        "question_number": 2,
+        "answer_text": "oligopolie\nVoorbeelden van een juiste uitleg zijn:\n− Vier (grootste) verzekeringsmaatschappijen hebben gezamenlijk bijna (88% van) de gehele markt.\n− Drie bedrijven hebben gezamenlijk drie kwart van de markt.\n− Twee bedrijven hebben ruim de helft van de markt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "oligopolie, met een juiste uitleg (bijv. vier (grootste) verzekeringsmaatschappijen hebben gezamenlijk bijna (88% van) de gehele markt / drie bedrijven hebben gezamenlijk drie kwart van de markt / twee bedrijven hebben ruim de helft van de markt)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-eigen-risico-en-aanvullende-verzekering-antw2.png"
+        ]
+      },
+      {
+        "title": "Eigen risico en aanvullende verzekering",
+        "question_number": 3,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Bron 2: Er is een afname van risico-aversie. Steeds meer verzekerden kiezen (vrijwillig) voor een verhoogd eigen risico (zie bron 2), waaruit af te leiden valt dat verzekerden bereid zijn meer risico te aanvaarden / minder risico-avers zijn / meer risico-zoekend zijn (1)\n• Bron 3: Er is een afname van risico-aversie. Verzekerden sluiten minder aanvullende verzekeringen af (zie bron 3), waaruit afgeleid kan worden dat mensen vaker zelf het risico van extra zorgkosten dragen (voor wat betreft de kosten die onder de aanvullende zorg vallen) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bron 2: afname van risico-aversie; steeds meer verzekerden kiezen (vrijwillig) voor een verhoogd eigen risico, dus verzekerden zijn bereid meer risico te aanvaarden / minder risico-avers / meer risico-zoekend"
+          },
+          {
+            "points": 1,
+            "description": "Bron 3: afname van risico-aversie; verzekerden sluiten minder aanvullende verzekeringen af, dus mensen dragen vaker zelf het risico van extra zorgkosten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-eigen-risico-en-aanvullende-verzekering-antw3.png"
+        ]
+      },
+      {
+        "title": "Eigen risico en aanvullende verzekering",
+        "question_number": 4,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• DSW heeft een marktaandeel van 3,5%.\nDSW heeft 3,5% van 17 miljoen = 595.000 verzekerden\n13% van 595.000 = 77.350 verzekerden kiezen voor een verhoogd eigen risico (1)\n• afname TO = premiekorting x aantal verzekerden met hoger ER = € 276 x 77.350 = € 21.348.600 minder premie-inkomsten (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "DSW heeft 3,5% van 17 miljoen = 595.000 verzekerden; 13% van 595.000 = 77.350 verzekerden kiezen voor een verhoogd eigen risico"
+          },
+          {
+            "points": 1,
+            "description": "afname TO = premiekorting x aantal verzekerden met hoger ER = € 276 x 77.350 = € 21.348.600 minder premie-inkomsten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-eigen-risico-en-aanvullende-verzekering-antw4.png"
+        ]
+      },
+      {
+        "title": "Eigen risico en aanvullende verzekering",
+        "question_number": 5,
+        "answer_text": "Voorbeeld van een juiste uitleg:\n• Verzekerden sluiten alleen een aanvullende zorgverzekering af indien ze verwachten er daadwerkelijk gebruik van te gaan maken (1)\n• Hierdoor is geen / nauwelijks sprake van risicospreiding / onverwachte gebeurtenissen (dus het kenmerk dat alle verzekerden gezamenlijk het risico dragen voor de mogelijke schade van enkelen is niet meer van toepassing) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Verzekerden sluiten alleen een aanvullende zorgverzekering af indien ze verwachten er daadwerkelijk gebruik van te gaan maken"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor is geen / nauwelijks sprake van risicospreiding / onverwachte gebeurtenissen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-eigen-risico-en-aanvullende-verzekering-antw5.png"
+        ]
+      },
+      {
+        "title": "Een handelsoorlog",
+        "question_number": 6,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Door exportsubsidies kunnen buitenlandse bedrijven staal verkopen onder de prijs op hun thuismarkt (1)\n• zodat klanten op de Amerikaanse markt dit goedkopere product zullen kopen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door exportsubsidies kunnen buitenlandse bedrijven staal verkopen onder de prijs op hun thuismarkt"
+          },
+          {
+            "points": 1,
+            "description": "zodat klanten op de Amerikaanse markt dit goedkopere product zullen kopen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-een-handelsoorlog-antw6.png"
+        ]
+      },
+      {
+        "title": "Een handelsoorlog",
+        "question_number": 7,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Door importtarieven te heffen worden de importprijzen van buitenlands staal hoger, waardoor de VS minder buitenlands staal zullen importeren (1)\n• en waardoor de uitgaven op de lopende rekening van de VS lager zullen worden (en het tekort daalt bij een gelijkblijvende export) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door importtarieven te heffen worden de importprijzen van buitenlands staal hoger, waardoor de VS minder buitenlands staal zullen importeren"
+          },
+          {
+            "points": 1,
+            "description": "en waardoor de uitgaven op de lopende rekening van de VS lager zullen worden (en het tekort daalt bij een gelijkblijvende export)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-een-handelsoorlog-antw7.png"
+        ]
+      },
+      {
+        "title": "Een handelsoorlog",
+        "question_number": 8,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• (Als in de VS meer wordt geïnvesteerd in technologische vernieuwingen/innovatie,) zal de arbeidsproductiviteit hoger worden en als gevolg daarvan zal de internationale concurrentiepositie van de VS verbeteren (1)\n• Dit leidt tot meer export met hogere ontvangsten / minder import met lagere uitgaven. (Dit heeft een lager tekort op de lopende rekening van de VS tot gevolg) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(Bij meer investeringen in technologische vernieuwing/innovatie) wordt de arbeidsproductiviteit hoger en verbetert de internationale concurrentiepositie van de VS"
+          },
+          {
+            "points": 1,
+            "description": "Dit leidt tot meer export met hogere ontvangsten / minder import met lagere uitgaven (lager tekort op de lopende rekening)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-een-handelsoorlog-antw8.png"
+        ]
+      },
+      {
+        "title": "Een handelsoorlog",
+        "question_number": 9,
+        "answer_text": "Een voorbeeld van een juiste uitleg via de binnenlandse bestedingen is:\n• De rente gaat omhoog, waardoor sparen toeneemt / lenen afneemt. Hierdoor dalen de binnenlandse bestedingen / daalt de vraag, (1)\n• waardoor de productie daalt (en de werkgelegenheid daalt) (1)\nEen voorbeeld van een juiste uitleg via de wisselkoers is:\n• De renteverhoging trekt buitenlandse beleggers aan die in de VS gaan beleggen, waardoor de vraag naar de dollar stijgt en dus (bij een gelijkblijvend aanbod) de wisselkoers van de dollar (uitgedrukt in buitenlandse valuta) stijgt (1)\n• Dit leidt voor de VS tot een lagere export / hogere import, (1)\n• en dus lagere productie (en de werkgelegenheid daalt) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "binnenlandse bestedingen: de rente gaat omhoog, waardoor sparen toeneemt / lenen afneemt; hierdoor dalen de binnenlandse bestedingen / daalt de vraag"
+          },
+          {
+            "points": 1,
+            "description": "waardoor de productie daalt (en de werkgelegenheid daalt)"
+          },
+          {
+            "points": 1,
+            "description": "wisselkoers: de renteverhoging trekt buitenlandse beleggers aan, waardoor de vraag naar de dollar stijgt en (bij gelijkblijvend aanbod) de wisselkoers van de dollar stijgt"
+          },
+          {
+            "points": 1,
+            "description": "Dit leidt voor de VS tot een lagere export / hogere import"
+          },
+          {
+            "points": 1,
+            "description": "en dus lagere productie (en de werkgelegenheid daalt)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-een-handelsoorlog-antw9.png"
+        ]
+      },
+      {
+        "title": "Een handelsoorlog",
+        "question_number": 10,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• A ; B = −4,7% ; −4,9%\nC ; D = −1,4% ; −0,5% (1)\n• De dominante strategie van de VS is ‘geen importheffing’, want −0,5% > −4,7% en 0% > −1,4% en de dominante strategie van de handelspartners is ‘geen importheffing’ want −0,5% > −4,9% en 0% > −1,2% (1)\n• Als beide kiezen voor ‘geen importheffing’ ontstaat er geen handelsoorlog, dus het ontstaan van een handelsoorlog is niet te verklaren op basis van de dominante strategieën (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "A ; B = −4,7% ; −4,9% en C ; D = −1,4% ; −0,5%"
+          },
+          {
+            "points": 1,
+            "description": "De dominante strategie van de VS is ‘geen importheffing’ (−0,5% > −4,7% en 0% > −1,4%) en die van de handelspartners ook (−0,5% > −4,9% en 0% > −1,2%)"
+          },
+          {
+            "points": 1,
+            "description": "Als beide kiezen voor ‘geen importheffing’ ontstaat er geen handelsoorlog, dus het ontstaan van een handelsoorlog is niet te verklaren op basis van de dominante strategieën"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-een-handelsoorlog-antw10.png"
+        ]
+      },
+      {
+        "title": "Een handelsoorlog",
+        "question_number": 11,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Administratieve handelsbelemmeringen (zorgen voor protectionisme), want de toegang van buitenlandse producten tot de binnenlandse markt wordt dan bemoeilijkt door kwaliteitseisen / administratief werk aan de grens.\n− Een invoercontingent / quotum (zorgt voor protectionisme), want er mag dan slechts een beperkte hoeveelheid (goedkopere) goederen geïmporteerd worden, waardoor de eigen industrie beschermd wordt.\n\n• een juist voorbeeld van een protectionistische maatregel anders dan dumping / invoerheffingen / importtarieven / exportsubsidies (1)\n• een daarbij passende, volledige en juiste toelichting die de relatie met protectionisme verduidelijkt (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een juist voorbeeld van een protectionistische maatregel anders dan dumping / invoerheffingen / importtarieven / exportsubsidies"
+          },
+          {
+            "points": 1,
+            "description": "een daarbij passende, volledige en juiste toelichting die de relatie met protectionisme verduidelijkt"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-een-handelsoorlog-antw11.png"
+        ]
+      },
+      {
+        "title": "Een flexibele AOW?",
+        "question_number": 12,
+        "answer_text": "(1) omslagstelsel\n(2) verplichte solidariteit\n(3) intertemporele ruil\n\nindien drie antwoorden juist 2\nindien twee antwoorden juist 1\nindien één of geen antwoord juist 0",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "indien twee antwoorden juist: 1 scorepunt"
+          },
+          {
+            "points": 1,
+            "description": "indien drie antwoorden juist ((1) omslagstelsel, (2) verplichte solidariteit, (3) intertemporele ruil): 2 scorepunten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-een-flexibele-aow-antw12.png"
+        ]
+      },
+      {
+        "title": "Een flexibele AOW?",
+        "question_number": 13,
+        "answer_text": "Een voorbeeld van twee juiste argumenten is:\n• Wanneer een AOW-gerechtigde een aantal jaren doorwerkt, draagt hij een aantal jaren langer AOW-premie af (waardoor overheidsinkomsten kunnen stijgen) (1)\n• Wanneer een AOW-gerechtigde een aantal jaren doorwerkt, ontvangt hij een aantal jaren korter de AOW-uitkering (waardoor overheidsuitgaven kunnen dalen) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij doorwerken draagt een AOW-gerechtigde een aantal jaren langer AOW-premie af (waardoor overheidsinkomsten kunnen stijgen)"
+          },
+          {
+            "points": 1,
+            "description": "Bij doorwerken ontvangt een AOW-gerechtigde een aantal jaren korter de AOW-uitkering (waardoor overheidsuitgaven kunnen dalen)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-een-flexibele-aow-antw13.png"
+        ]
+      },
+      {
+        "title": "Een flexibele AOW?",
+        "question_number": 14,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• uitkering in 2021: € 847,57\nuitkering in 2022: € 847,57 × 1,015 = € 860,28 (1)\n• korting 2 × 6,5% = 13% → € 860,28 × 0,87 = € 748,44 (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "uitkering in 2021: € 847,57; uitkering in 2022: € 847,57 × 1,015 = € 860,28"
+          },
+          {
+            "points": 1,
+            "description": "korting 2 × 6,5% = 13% → € 860,28 × 0,87 = € 748,44"
+          }
+        ],
+        "grading_note": "bij vraag 14, bij de eerste deelscore moet altijd 1 scorepunt worden toegekend, ongeacht of er wel of geen antwoord gegeven is en ongeacht het gegeven antwoord.\n\nbij vraag 14, bij de tweede deelscore moet het scorepunt worden toegekend voor een berekening waarin de korting op een juiste wijze is toegepast.\n\nToelichting:\nBij de eerste deelscore: De datum in de titel van bron 2 leidt ertoe dat bron 3 niet hoeft te worden gebruikt. Dit heeft kandidaten mogelijk in verwarring gebracht.\nBij de tweede deelscore: Ongeacht de al dan niet toegepaste inflatiecorrectie kan de korting toegepast worden op de berekende of gekozen bruto-AOW-uitkering.",
+        "answer_image_urls": [
+          "economie-havo-2021-ii-een-flexibele-aow-antw14.png"
+        ]
+      },
+      {
+        "title": "Een flexibele AOW?",
+        "question_number": 15,
+        "answer_text": "Voorbeelden van een juiste uitleg zijn:\n• Mensen met een hogere opleiding hebben relatief weinig fysiek zware beroepen en zullen geneigd zijn hun AOW-uitkering later te laten ingaan (1)\n• Zij kunnen dan profiteren van een hogere AOW-uitkering ten opzichte van de lager opgeleiden (en dit leidt tot een grotere inkomensongelijkheid) (1)\nof\n• Mensen met een lagere opleiding hebben relatief vaak fysiek zware beroepen en zien zich hierdoor meer genoodzaakt hun AOW-uitkering eerder te laten ingaan (1)\n• Zij ontvangen ten opzichte van de hoger opgeleiden een lagere AOW-uitkering (en dit leidt tot een grotere inkomensongelijkheid) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Hoger opgeleiden hebben relatief weinig fysiek zware beroepen en zullen hun AOW-uitkering later laten ingaan / lager opgeleiden hebben relatief vaak fysiek zware beroepen en zien zich genoodzaakt hun AOW-uitkering eerder te laten ingaan"
+          },
+          {
+            "points": 1,
+            "description": "Hoger opgeleiden profiteren dan van een hogere AOW-uitkering / lager opgeleiden ontvangen een lagere AOW-uitkering (en dit leidt tot een grotere inkomensongelijkheid)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-een-flexibele-aow-antw15.png"
+        ]
+      },
+      {
+        "title": "Zelfstandigen niet solidair?",
+        "question_number": 16,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Het aantal zzp’ers is tussen 2008 en 2017 met 30,2% / van indexcijfer 100 naar 130,2 gestegen, terwijl de totale werkzame beroepsbevolking (inclusief de zzp’ers) met 2,1% / van indexcijfer 100 naar 102,1 is gestegen (1)\n• De groei van het aantal zzp’ers is dus naar verhouding groter dan de groei van de werkzame beroepsbevolking, waaruit blijkt dat het aandeel zzp’ers in de werkzame beroepsbevolking is gestegen (1)\nof\nEen voorbeeld van een juiste uitleg via een berekening is:\n• Het aandeel zzp’ers in de werkzame beroepsbevolking van 2008 is 9% (zie krantenartikel). De werkzame beroepsbevolking in 2008 = 810.000 / 0,09 = 9.000.000 personen. Het aandeel zzp’ers in de werkzame beroepsbevolking van 2017 = (810.000 × 1,302) / (9.000.000 × 1,021) × 100% = 11,5% (1)\n• en 11,5% > 9% dus het aandeel zzp’ers is gegroeid ten opzichte van 2008 (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het aantal zzp’ers is met 30,2% gestegen, de werkzame beroepsbevolking met 2,1% (of via berekening: aandeel 2017 = (810.000 × 1,302) / (9.000.000 × 1,021) × 100% = 11,5%)"
+          },
+          {
+            "points": 1,
+            "description": "De groei van het aantal zzp’ers is naar verhouding groter, dus het aandeel zzp’ers is gestegen (of: 11,5% > 9%)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-zelfstandigen-niet-solidair-antw16.png"
+        ]
+      },
+      {
+        "title": "Zelfstandigen niet solidair?",
+        "question_number": 17,
+        "answer_text": "Voorbeelden van een juiste uitleg zijn:\n− In laagconjunctuur loopt de werkloosheid op. Een werknemer die ontslagen wordt heeft alsnog kans op werk als zelfstandige.\n− In laagconjunctuur loopt de werkloosheid op. Een werknemer die ontslagen is/wordt, zal als zelfstandige mogelijk meer kunnen verdienen dan het bedrag van de (werkloosheids)uitkering.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In laagconjunctuur loopt de werkloosheid op; een ontslagen werknemer heeft alsnog kans op werk als zelfstandige / kan als zelfstandige mogelijk meer verdienen dan de (werkloosheids)uitkering"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-zelfstandigen-niet-solidair-antw17.png"
+        ]
+      },
+      {
+        "title": "Zelfstandigen niet solidair?",
+        "question_number": 18,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Zzp’ers kunnen hun tarief flexibel aanpassen / verhogen als de vraag naar hun diensten verandert / groeit, (1)\n• terwijl voor werknemers (in de bouwsector) sprake is van loonstarheid doordat ze een vast salaris hebben / (cao-)contractafspraken hebben die op korte termijn niet aangepast kunnen worden (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Zzp’ers kunnen hun tarief flexibel aanpassen / verhogen als de vraag naar hun diensten verandert / groeit"
+          },
+          {
+            "points": 1,
+            "description": "terwijl voor werknemers (in de bouwsector) sprake is van loonstarheid doordat ze een vast salaris / (cao-)contractafspraken hebben die op korte termijn niet aangepast kunnen worden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-zelfstandigen-niet-solidair-antw18.png"
+        ]
+      },
+      {
+        "title": "Zelfstandigen niet solidair?",
+        "question_number": 19,
+        "answer_text": "• bij (1) lager (1)\n• bij (2) lager (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij (1) lager"
+          },
+          {
+            "points": 1,
+            "description": "bij (2) lager"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-zelfstandigen-niet-solidair-antw19.png"
+        ]
+      },
+      {
+        "title": "Zelfstandigen niet solidair?",
+        "question_number": 20,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Zacharia betaalt wel inkomensheffing en draagt daarmee bij aan de AOW (Zijn bijdrage is weliswaar minder dan die van Willem, maar de bewering van Willem dat Zacharia niet betaalt, klopt dus niet.) (1)\n• Zacharia heeft geen aanvullend (bedrijfs)pensioen / heeft een lager aanvullend (bedrijfs)pensioen dan Willem (boven op de AOW die wel voor beiden gelijk is. De bewering van Willem dat ze hetzelfde pensioen ontvangen klopt daarmee niet.) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Zacharia betaalt wel inkomensheffing en draagt daarmee bij aan de AOW"
+          },
+          {
+            "points": 1,
+            "description": "Zacharia heeft geen aanvullend (bedrijfs)pensioen / een lager aanvullend (bedrijfs)pensioen dan Willem (boven op de AOW die voor beiden gelijk is)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-zelfstandigen-niet-solidair-antw20.png"
+        ]
+      },
+      {
+        "title": "Zelfstandigen niet solidair?",
+        "question_number": 21,
+        "answer_text": "• De fiscale aftrekmogelijkheden voor Zacharia bedragen:\n7.280 + 2.123 + 0,14 x (33.333 – 7.280 – 2.123) = € 12.753,20 (1)\n• Het tarief van 40,85% is van toepassing voor zowel Willem als Zacharia (want het belastbaar jaarinkomen van Zacharia = € 33.333 – € 12.753,20 = € 20.579,80 en dat is tussen € 20.143 en € 68.507; het belastbaar inkomen van Willem is hoger dan dat van Zacharia en valt ook tussen de grenswaarden van de tweede schijf) (1)\n• Hierdoor heeft Zacharia een fiscaal voordeel ten opzichte van Willem van: 40,85% x 12.753,20 = € 5.209,68 (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De fiscale aftrekmogelijkheden voor Zacharia: 7.280 + 2.123 + 0,14 x (33.333 – 7.280 – 2.123) = € 12.753,20"
+          },
+          {
+            "points": 1,
+            "description": "Het tarief van 40,85% is van toepassing voor zowel Willem als Zacharia (belastbaar jaarinkomen Zacharia = € 20.579,80, tussen € 20.143 en € 68.507)"
+          },
+          {
+            "points": 1,
+            "description": "Fiscaal voordeel van Zacharia ten opzichte van Willem: 40,85% x 12.753,20 = € 5.209,68"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-zelfstandigen-niet-solidair-antw21.png"
+        ]
+      },
+      {
+        "title": "Lenen voor je studie",
+        "question_number": 22,
+        "answer_text": "Voorbeelden van een juist antwoord met uitleg zijn:\n− arbeidsinkomen van studenten\nUitleg: als de arbeidsmarkt voor studenten / jongeren verbetert zodat studenten / jongeren gemakkelijker kunnen bijverdienen zal de vraag naar studieleningen dalen (bij elk rentepercentage) / zal de vraaglijn (naar links) verschuiven.\n− leenaversie bij studenten\nUitleg: als door trends in de samenleving / door laagconjunctuur / door lage inkomensverwachtingen de leenaversie toeneemt zal de vraag naar studieleningen dalen (bij elk rentepercentage) / zal de vraaglijn (naar links) verschuiven.\n− studiekosten\nUitleg: als de studiekosten toenemen door een hogere prijs van boeken / hogere kosten van levensonderhoud, dan zal de vraag naar studieleningen stijgen (bij elk rentepercentage) / zal de vraaglijn (naar rechts) verschuiven.\n\n• een juist voorbeeld van een economische factor (1)\n• een daarbij passende en volledige oorzaak-gevolgredenering (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een juist voorbeeld van een economische factor"
+          },
+          {
+            "points": 1,
+            "description": "een daarbij passende en volledige oorzaak-gevolgredenering"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-lenen-voor-je-studie-antw22.png"
+        ]
+      },
+      {
+        "title": "Lenen voor je studie",
+        "question_number": 23,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Qvoud = –2,0 x roud + 3,0 = –2,0 x 0,5 + 3,0 = € 2,0 mld\nQvnieuw = –2,0 x rnieuw + 3,0 = –2,0 x 0,3 + 3,0 = € 2,4 mld\n(Qvoud en Qvnieuw mogen ook bepaald zijn via aflezen uit de grafiek.)\nDe rentedaling is (rnieuw − roud) / roud = (0,3 − 0,5) / 0,5 = −0,4 dus een afname van 40%.\nDe stijging van de vraag is (Qnieuw − Qoud) / Qoud = (2,4 − 2,0) / 2,0 = 0,2\nDus toename van 20% (1)\n• De rente-elasticiteit van de vraag is 20% / −40% = −0,5\n(De berekening onderbouwt conclusie a, want –0,5 > –1 en < 0, en dus is de vraag rente-inelastisch.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Qvoud = € 2,0 mld en Qvnieuw = € 2,4 mld; rentedaling (0,3 − 0,5) / 0,5 = −0,4 (afname 40%); stijging van de vraag (2,4 − 2,0) / 2,0 = 0,2 (toename 20%)"
+          },
+          {
+            "points": 1,
+            "description": "⚠️ CONTROLEREN: scorepunt staat niet afgedrukt in het correctievoorschrift (afgeleid uit maximumscore 2) — De rente-elasticiteit van de vraag is 20% / −40% = −0,5 (onderbouwt conclusie a: –0,5 > –1 en < 0, dus rente-inelastisch)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-lenen-voor-je-studie-antw23.png"
+        ]
+      },
+      {
+        "title": "Lenen voor je studie",
+        "question_number": 24,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De rente-elasticiteit is –0,5. Dat is groter dan –1. Hieruit volgt dat de relatieve verandering van de hoeveelheid kleiner is dan de relatieve verandering van de rente (1)\n• Doordat het effect van de rentedaling groter is dan de hoeveelheidstijging daalt het totale rentebedrag (r x Q) (1)\nof\nEen voorbeeld van een juist antwoord via een berekening is:\n• De rente daalt met 40% en bij een elasticiteit van –0,5 levert dit een toename van het leenbedrag met (–40% x –0,5 =) + 20% op (1)\n• Doordat het effect van de rentedaling groter is dan de hoeveelheidstijging daalt het totale rentebedrag (r x Q) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De rente-elasticiteit is –0,5 (groter dan –1), dus de relatieve verandering van de hoeveelheid is kleiner dan die van de rente (of: rente daalt 40%, bij elasticiteit –0,5 stijgt het leenbedrag met (–40% x –0,5 =) + 20%)"
+          },
+          {
+            "points": 1,
+            "description": "Doordat het effect van de rentedaling groter is dan de hoeveelheidstijging daalt het totale rentebedrag (r x Q)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-lenen-voor-je-studie-antw24.png"
+        ]
+      },
+      {
+        "title": "Lenen voor je studie",
+        "question_number": 25,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• b aflossingsperiode van 35 jaar / c terugbetaling afhankelijk van draagkracht (1)\n• omdat de afgestudeerden hierdoor later minder snel in betalingsmoeilijkheden komen als ze nu grote leningen aangaan (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "b aflossingsperiode van 35 jaar / c terugbetaling afhankelijk van draagkracht"
+          },
+          {
+            "points": 1,
+            "description": "omdat de afgestudeerden hierdoor later minder snel in betalingsmoeilijkheden komen als ze nu grote leningen aangaan"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-lenen-voor-je-studie-antw25.png"
+        ]
+      },
+      {
+        "title": "Zoek de zon op",
+        "question_number": 26,
+        "answer_text": "Voorbeelden van een juiste uitleg zijn:\n• De duurzame opwekking van energie vergroot de welvaart van toekomstige generaties (door behoud van natuurlijke hulpbronnen / door behoud van gezonde lucht / door verminderde CO₂-uitstoot) (1)\n• en wordt (via de belastingheffing) betaald door de huidige generatie. (En daarom is er sprake van ruilen over de tijd.) (1)\nof\n• Als de overheid de subsidie financiert met een lening, dan wordt deze (via de belasting) betaald door toekomstige generaties; (1)\n• terwijl de huidige generatie / de gezinnen die de subsidie ontvangen (het meeste) voordeel heeft / hebben. (En daarom is er sprake van ruilen over de tijd.) (1)\nof\n• Als overheidssubsidie leidt tot investeringen door huishoudens / bedrijven, dan worden kosten nu … (1)\n• geruild voor lagere (energie)kosten van het huishouden / bedrijf later. (En daarom is er sprake van ruilen over de tijd.) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De duurzame opwekking van energie vergroot de welvaart van toekomstige generaties / een met een lening gefinancierde subsidie wordt betaald door toekomstige generaties / overheidssubsidie leidt tot investeringen waarbij kosten nu …"
+          },
+          {
+            "points": 1,
+            "description": "en wordt betaald door de huidige generatie / terwijl de huidige generatie het meeste voordeel heeft / geruild voor lagere (energie)kosten later (dus ruilen over de tijd)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-zoek-de-zon-op-antw26.png"
+        ]
+      },
+      {
+        "title": "Zoek de zon op",
+        "question_number": 27,
+        "answer_text": "bij (1) –3,3\nbij (2) elastisch\n\n(Poud = 500 en Qvoud = 60.000\nPnieuw = 425 en Qvnieuw = 90.000\nPrijselasticiteit = 50%/-15% = -3,3",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij (1) –3,3 en bij (2) elastisch"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-zoek-de-zon-op-antw27.png"
+        ]
+      },
+      {
+        "title": "Zoek de zon op",
+        "question_number": 28,
+        "answer_text": "b en d",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "b en d"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-ii-zoek-de-zon-op-antw28.png"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "payload": {
+    "subject_name": "Economie",
+    "level": "HAVO",
+    "source": "HAVO Economie 2021-I",
+    "answers": [
+      {
+        "title": "Zo goud als een garnaal",
+        "question_number": 1,
+        "answer_text": "(1) homogene\n(2) volkomen concurrentie\n(3) niet\n\nindien drie antwoorden juist 2\nindien twee antwoorden juist 1\nindien één of geen antwoord juist 0",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "indien twee antwoorden juist: 1 scorepunt"
+          },
+          {
+            "points": 1,
+            "description": "indien drie antwoorden juist ((1) homogene, (2) volkomen concurrentie, (3) niet): 2 scorepunten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-zo-goud-als-een-garnaal-antw1.png"
+        ]
+      },
+      {
+        "title": "Zo goud als een garnaal",
+        "question_number": 2,
+        "answer_text": "grafiek 1",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "grafiek 1"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-zo-goud-als-een-garnaal-antw2.png"
+        ]
+      },
+      {
+        "title": "Zo goud als een garnaal",
+        "question_number": 3,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• huidige situatie:\nTO = 8 × 125.000 = € 1.000.000\nTK = 2,20 × 125.000 + 480.000 = € 755.000 −\nTW = € 245.000 (1)\n• nieuwe situatie:\nTO = 8 × 175.000 = € 1.400.000\nTK = 2,75 × 175.000 + 530.000 = € 1.011.250 −\nTW = € 388.750 (1)\n• winsttoename (388.750 − 245.000) / 245.000 × 100% = 58,7% (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "huidige situatie: TO = 8 × 125.000 = € 1.000.000; TK = 2,20 × 125.000 + 480.000 = € 755.000; TW = € 245.000"
+          },
+          {
+            "points": 1,
+            "description": "nieuwe situatie: TO = 8 × 175.000 = € 1.400.000; TK = 2,75 × 175.000 + 530.000 = € 1.011.250; TW = € 388.750"
+          },
+          {
+            "points": 1,
+            "description": "winsttoename (388.750 − 245.000) / 245.000 × 100% = 58,7%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-zo-goud-als-een-garnaal-antw3.png"
+        ]
+      },
+      {
+        "title": "Zo goud als een garnaal",
+        "question_number": 4,
+        "answer_text": "b aanbod daalt → prijs stijgt\nc vraag daalt → prijs daalt\nd aanbod stijgt → prijs daalt\ne vraag daalt → prijs daalt\n\nindien vier antwoorden juist 3\nindien drie antwoorden juist 2\nindien twee antwoorden juist 1\nindien één of geen antwoord juist 0",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "indien twee antwoorden juist: 1 scorepunt"
+          },
+          {
+            "points": 1,
+            "description": "indien drie antwoorden juist: 2 scorepunten"
+          },
+          {
+            "points": 1,
+            "description": "indien vier antwoorden juist (b aanbod daalt → prijs stijgt, c vraag daalt → prijs daalt, d aanbod stijgt → prijs daalt, e vraag daalt → prijs daalt): 3 scorepunten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-zo-goud-als-een-garnaal-antw4.png"
+        ]
+      },
+      {
+        "title": "Zo goud als een garnaal",
+        "question_number": 5,
+        "answer_text": "€ 7,18\nEen voorbeeld van een juiste berekening is:\n• TO − TK = TW\nP × 175.000 − (2,75 × 175.000 + 530.000) = € 245.000 (1)\n• 175.000 × P − € 1.011.250 = € 245.000\nP = € 7,18 (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "TO − TK = TW: P × 175.000 − (2,75 × 175.000 + 530.000) = € 245.000"
+          },
+          {
+            "points": 1,
+            "description": "175.000 × P − € 1.011.250 = € 245.000 → P = € 7,18"
+          }
+        ],
+        "grading_note": "Als bij de uitwerking sprake is van doorwerkfouten uit vraag 3, dan geen scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "economie-havo-2021-i-zo-goud-als-een-garnaal-antw5.png"
+        ]
+      },
+      {
+        "title": "Meer vrijhandel, meer groei",
+        "question_number": 6,
+        "answer_text": "Voorbeelden van juiste argumenten zijn:\n− Het zegt niets over de verdeling van het inkomen over de inwoners.\n− Het zegt niets over de koopkracht van het inkomen.\n− Het zegt niets over de welvaart in ruime zin.\n− Het zegt niets over de informele economie.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een juist argument, bijvoorbeeld: het zegt niets over de verdeling van het inkomen / de koopkracht van het inkomen / de welvaart in ruime zin / de informele economie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-meer-vrijhandel-meer-groei-antw6.png"
+        ]
+      },
+      {
+        "title": "Meer vrijhandel, meer groei",
+        "question_number": 7,
+        "answer_text": "• conjunctuur:\neen uitleg waaruit blijkt dat de investeringen leiden tot extra bestedingen (bestedingseffect) (1)\n• economische structuur:\neen uitleg waaruit blijkt dat de investeringen leiden tot grotere productiecapaciteit (capaciteitseffect) / tot hogere productiviteit (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "conjunctuur: een uitleg waaruit blijkt dat de investeringen leiden tot extra bestedingen (bestedingseffect)"
+          },
+          {
+            "points": 1,
+            "description": "economische structuur: een uitleg waaruit blijkt dat de investeringen leiden tot grotere productiecapaciteit (capaciteitseffect) / tot hogere productiviteit"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-meer-vrijhandel-meer-groei-antw7.png"
+        ]
+      },
+      {
+        "title": "Meer vrijhandel, meer groei",
+        "question_number": 8,
+        "answer_text": "Een voorbeeld van een juiste benadering is:\n▪ nominale groei bbp ≈ reële groei + inflatie\n= 48,2% + 40,8% = 89,0% (1)\n▪ indexcijfer bevolkingsomvang: 1.342 / 1.264 × 100 = 106,2 (1)\n▪ de nominale groei per hoofd van de bevolking was ongeveer\n189,0 / 106,2 − 100 = 78,0% / 89,0% − 6,2% = 82,8%\nConclusie: een stijging van circa 80% / dus bijna een verdubbeling (1)\n\nEen voorbeeld van een juiste exacte berekening is:\n▪ indexcijfer nominaal bbp: 148,2 × 140,8 / 100 = 208,7 (1)\n▪ indexcijfer bevolkingsomvang: 1.342 / 1.264 × 100 = 106,2 (1)\n▪ 208,7 / 106,2 × 100 = 196,5\nConclusie: een stijging van 96,5% / dus bijna een verdubbeling (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "nominale groei bbp ≈ reële groei + inflatie = 48,2% + 40,8% = 89,0% (of exact: indexcijfer nominaal bbp 148,2 × 140,8 / 100 = 208,7)"
+          },
+          {
+            "points": 1,
+            "description": "indexcijfer bevolkingsomvang: 1.342 / 1.264 × 100 = 106,2"
+          },
+          {
+            "points": 1,
+            "description": "nominale groei per hoofd: 189,0 / 106,2 − 100 = 78,0% / 89,0% − 6,2% = 82,8% (of exact: 208,7 / 106,2 × 100 = 196,5) met conclusie: een stijging van circa 80% (exact 96,5%) / dus bijna een verdubbeling"
+          }
+        ],
+        "grading_note": "Het laatste deel van de berekening en de vermelding van de conclusie zijn beide noodzakelijk voor het toekennen van het derde scorepunt.",
+        "answer_image_urls": [
+          "economie-havo-2021-i-meer-vrijhandel-meer-groei-antw8.png"
+        ]
+      },
+      {
+        "title": "Meer vrijhandel, meer groei",
+        "question_number": 9,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n(percentage verandering = (nieuw − oud) / oud × 100%\nDe huidige prijs is 100% + 120% = 220% van de nieuw prijs)\n(100 − 220) / 220 × 100% = −120 / 220 × 100% = −54,5% / 54,5% goedkoper",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(100 − 220) / 220 × 100% = −120 / 220 × 100% = −54,5% / 54,5% goedkoper"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-meer-vrijhandel-meer-groei-antw9.png"
+        ]
+      },
+      {
+        "title": "Meer vrijhandel, meer groei",
+        "question_number": 10,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• De dominante strategie van India is het afschaffen van de protectionistische maatregelen, want als EU deze ‘afschaft’ dan 2% > 0,5% en als EU deze ‘handhaaft’ dan 1% > 0%.\nDe dominante strategie van EU is het afschaffen van de protectionistische maatregelen, want als India deze ‘afschaft’ dan 1,5% > 0,5% en als India deze ‘handhaaft’ dan 1% > 0%. (1)\n• (Het volgen van) de dominante strategie leidt tot de hoogste extra economische groei voor beide handelspartners / is ook de optimale uitkomst (dus is er geen sprake van een gevangenendilemma) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De dominante strategie van India is afschaffen (2% > 0,5% en 1% > 0%) en de dominante strategie van EU is afschaffen (1,5% > 0,5% en 1% > 0%)"
+          },
+          {
+            "points": 1,
+            "description": "(Het volgen van) de dominante strategie leidt tot de hoogste extra economische groei voor beide handelspartners / is ook de optimale uitkomst (dus geen gevangenendilemma)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-meer-vrijhandel-meer-groei-antw10.png"
+        ]
+      },
+      {
+        "title": "Overheidsfinanciën op koers?",
+        "question_number": 11,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\nDe overheid heeft afgelost op de overheidsschuld.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De overheid heeft afgelost op de overheidsschuld."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-overheidsfinancien-op-koers-antw11.png"
+        ]
+      },
+      {
+        "title": "Overheidsfinanciën op koers?",
+        "question_number": 12,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• Het tekort leidt tot een toename van de overheidsschuld die verplichtingen (rentelasten en aflossing) veroorzaakt (1)\n• welke uiteindelijk met toekomstige belastingontvangsten betaald moeten worden (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het tekort leidt tot een toename van de overheidsschuld die verplichtingen (rentelasten en aflossing) veroorzaakt"
+          },
+          {
+            "points": 1,
+            "description": "welke uiteindelijk met toekomstige belastingontvangsten betaald moeten worden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-overheidsfinancien-op-koers-antw12.png"
+        ]
+      },
+      {
+        "title": "Overheidsfinanciën op koers?",
+        "question_number": 13,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• overheidstekort: 2,0% (2%) van het bbp, dus voldoet aan de eis van ≤ 3% (1)\n• bbp = €14mld / 0,02 = €700mld (1)\n• overheidsschuld = €446mld / €700mld × 100% = 64%\nConclusie: overheidsschuld: 64% van het bbp, dus voldoet niet aan de eis van ≤ 60% (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "overheidstekort: 2,0% (2%) van het bbp, dus voldoet aan de eis van ≤ 3%"
+          },
+          {
+            "points": 1,
+            "description": "bbp = €14mld / 0,02 = €700mld"
+          },
+          {
+            "points": 1,
+            "description": "overheidsschuld = €446mld / €700mld × 100% = 64%, conclusie: voldoet niet aan de eis van ≤ 60%"
+          }
+        ],
+        "grading_note": "Het laatste deel van de berekening en de vermelding van een juiste conclusie zijn beide noodzakelijk voor het toekennen van het derde scorepunt.",
+        "answer_image_urls": [
+          "economie-havo-2021-i-overheidsfinancien-op-koers-antw13.png"
+        ]
+      },
+      {
+        "title": "Overheidsfinanciën op koers?",
+        "question_number": 14,
+        "answer_text": "a besteedbaar inkomen daalt (1)\nb consumptie daalt (4)\nc binnenlandse bestedingen dalen (2)\nd binnenlandse productie daalt (3)\n\nindien vier antwoorden juist 2\nindien drie of twee antwoorden juist 1\nindien één of geen antwoord juist 0",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "indien drie of twee antwoorden juist: 1 scorepunt"
+          },
+          {
+            "points": 1,
+            "description": "indien vier antwoorden juist (a (1), b (4), c (2), d (3)): 2 scorepunten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-overheidsfinancien-op-koers-antw14.png"
+        ]
+      },
+      {
+        "title": "Alcohol baat en schaadt",
+        "question_number": 15,
+        "answer_text": "• (1) externe effecten (1)\n• (2) betalingsbereidheid\n(3) marktprijs (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(1) externe effecten"
+          },
+          {
+            "points": 1,
+            "description": "(2) betalingsbereidheid en (3) marktprijs"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-alcohol-baat-en-schaadt-antw15.png"
+        ]
+      },
+      {
+        "title": "Alcohol baat en schaadt",
+        "question_number": 16,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• totale kosten = € 8.164 miljoen\ntotale kosten = consumentensurplus + producentensurplus + accijnzen + saldo\ntotale accijnsopbrengst = € 8.164 miljoen − € 3.800 miljoen − € 700 miljoen − € 2.624 miljoen = € 1.040 miljoen (1)\n• consumentenuitgaven alcohol: € 1.040 miljoen / 0,278 = € 3.741 miljoen (1)\n• consumentenuitgaven bier: € 3.741 miljoen − € 1.740 miljoen − € 916 miljoen = € 1.085 miljoen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "totale accijnsopbrengst = € 8.164 miljoen − € 3.800 miljoen − € 700 miljoen − € 2.624 miljoen = € 1.040 miljoen"
+          },
+          {
+            "points": 1,
+            "description": "consumentenuitgaven alcohol: € 1.040 miljoen / 0,278 = € 3.741 miljoen"
+          },
+          {
+            "points": 1,
+            "description": "consumentenuitgaven bier: € 3.741 miljoen − € 1.740 miljoen − € 916 miljoen = € 1.085 miljoen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-alcohol-baat-en-schaadt-antw16.png"
+        ]
+      },
+      {
+        "title": "Alcohol baat en schaadt",
+        "question_number": 17,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\nEr is sprake van asymmetrische informatie\n− omdat verzekerden meer informatie hebben over het eigen alcoholgebruik dan de verzekeraar.\n− omdat de verzekeraar de verklaring van de verzekerde niet gemakkelijk kan controleren.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er is sprake van asymmetrische informatie, omdat verzekerden meer informatie hebben over het eigen alcoholgebruik dan de verzekeraar / omdat de verzekeraar de verklaring van de verzekerde niet gemakkelijk kan controleren"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-alcohol-baat-en-schaadt-antw17.png"
+        ]
+      },
+      {
+        "title": "Alcohol baat en schaadt",
+        "question_number": 18,
+        "answer_text": "Een voorbeeld van een juist antwoord is:\n• Premiedifferentiatie kan bevorderen dat mensen hun gedrag aanpassen om een premiekorting te krijgen (doordat ze in een lagere risicoklasse zijn ingedeeld) (1)\n• waardoor de alcohol-gerelateerde (zorg)kosten / de alcohol-gerelateerde maatschappelijke kosten kunnen dalen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Premiedifferentiatie kan bevorderen dat mensen hun gedrag aanpassen om een premiekorting te krijgen (doordat ze in een lagere risicoklasse zijn ingedeeld)"
+          },
+          {
+            "points": 1,
+            "description": "waardoor de alcohol-gerelateerde (zorg)kosten / de alcohol-gerelateerde maatschappelijke kosten kunnen dalen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-alcohol-baat-en-schaadt-antw18.png"
+        ]
+      },
+      {
+        "title": "Zwitserland vakantieland",
+        "question_number": 21,
+        "answer_text": "lopende rekening",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "lopende rekening"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-zwitserland-vakantieland-antw21.png"
+        ]
+      },
+      {
+        "title": "Zwitserland vakantieland",
+        "question_number": 22,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\nkoers CHF in euro (2010) = 1 / 1,483 = 0,674\nkoers CHF in euro (2015) = 1 / 1,201 = 0,833 (1)\nstijgingspercentage = (0,833 − 0,674) / 0,674 × 100% = 23,6% (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "koers CHF in euro (2010) = 1 / 1,483 = 0,674 en koers CHF in euro (2015) = 1 / 1,201 = 0,833"
+          },
+          {
+            "points": 1,
+            "description": "stijgingspercentage = (0,833 − 0,674) / 0,674 × 100% = 23,6%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-zwitserland-vakantieland-antw22.png"
+        ]
+      },
+      {
+        "title": "Zwitserland vakantieland",
+        "question_number": 23,
+        "answer_text": "Een voorbeeld van een juiste berekening is:\n• Op 1 januari 2015 is de waarde van € 1.000 → 1,201 × 1.000 = CHF 1.201 (1)\n• Op 1 januari 2016 is de waarde van € 1.000 → 1000 / 0,923 = CHF 1.083,42\n1.201 − 1.083,42 = CHF 117,58 afgenomen / veranderd (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Op 1 januari 2015 is de waarde van € 1.000 → 1,201 × 1.000 = CHF 1.201"
+          },
+          {
+            "points": 1,
+            "description": "Op 1 januari 2016 is de waarde van € 1.000 → 1000 / 0,923 = CHF 1.083,42; 1.201 − 1.083,42 = CHF 117,58 afgenomen / veranderd"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-zwitserland-vakantieland-antw23.png"
+        ]
+      },
+      {
+        "title": "Zwitserland vakantieland",
+        "question_number": 24,
+        "answer_text": "• bij (1) minder (1)\n• bij (2) dalen\nbij (3) dalen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij (1) minder"
+          },
+          {
+            "points": 1,
+            "description": "bij (2) dalen en bij (3) dalen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-zwitserland-vakantieland-antw24.png"
+        ]
+      },
+      {
+        "title": "Zwitserland vakantieland",
+        "question_number": 25,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n• Door de gestegen koers van de CHF worden geïmporteerde goederen uit eurolanden voor Zwitserland goedkoper (1)\n• waardoor de inflatie in Zwitserland kan afnemen bij doorberekening in de prijzen (1)\nof\n• Door de gestegen koers van de CHF worden Zwitserse producten duurder voor de eurolanden, (1)\n• dus daalt de vraag naar Zwitserse producten en dit heeft een dempend effect op de inflatie (1)\nof\n• Door de gestegen koers van de CHF worden geïmporteerde productiefactoren / halffabricaten / grondstoffen uit de eurolanden goedkoper, (1)\n• waardoor de productiekosten dalen (, en de aanbodlijn naar rechts verschuift,) hetgeen een dempend effect heeft op de inflatie (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door de gestegen koers van de CHF worden geïmporteerde goederen uit eurolanden voor Zwitserland goedkoper / worden Zwitserse producten duurder voor de eurolanden / worden geïmporteerde productiefactoren / halffabricaten / grondstoffen uit de eurolanden goedkoper"
+          },
+          {
+            "points": 1,
+            "description": "waardoor de inflatie in Zwitserland kan afnemen bij doorberekening in de prijzen / dus daalt de vraag naar Zwitserse producten met een dempend effect op de inflatie / waardoor de productiekosten dalen, hetgeen een dempend effect heeft op de inflatie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-zwitserland-vakantieland-antw25.png"
+        ]
+      },
+      {
+        "title": "Stimuleren zonder effect",
+        "question_number": 26,
+        "answer_text": "Een voorbeeld van een juiste uitleg is:\n• rijden op fossiele brandstoffen leidt tot vervuiling / uitputting van natuurlijke hulpbronnen en daarmee extra kosten (1)\n• en die effecten zijn extern want ze raken de welvaart van anderen / raken de samenleving / zijn niet in de prijs inbegrepen (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "rijden op fossiele brandstoffen leidt tot vervuiling / uitputting van natuurlijke hulpbronnen en daarmee extra kosten"
+          },
+          {
+            "points": 1,
+            "description": "en die effecten zijn extern want ze raken de welvaart van anderen / raken de samenleving / zijn niet in de prijs inbegrepen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-stimuleren-zonder-effect-antw26.png"
+        ]
+      },
+      {
+        "title": "Stimuleren zonder effect",
+        "question_number": 27,
+        "answer_text": "Een voorbeeld van een juist antwoord met toelichting is:\n• In de nieuwe wetgeving is de fiscale bijtelling van hybride leaseauto’s opgetrokken (naar het niveau van de leaseauto met fossiele brandstoffen) (1)\n• zodat er alleen fiscaal voordeel gehaald kan worden bij een volledig elektrische leaseauto (waarmee geen fossiele brandstoffen getankt kunnen worden) (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In de nieuwe wetgeving is de fiscale bijtelling van hybride leaseauto’s opgetrokken (naar het niveau van de leaseauto met fossiele brandstoffen)"
+          },
+          {
+            "points": 1,
+            "description": "zodat er alleen fiscaal voordeel gehaald kan worden bij een volledig elektrische leaseauto (waarmee geen fossiele brandstoffen getankt kunnen worden)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-stimuleren-zonder-effect-antw27.png"
+        ]
+      },
+      {
+        "title": "Stimuleren zonder effect",
+        "question_number": 28,
+        "answer_text": "Een voorbeeld van een juist antwoord met toelichting is:\n• Er is sprake van zelfbinding, omdat de werknemers vrijwillig hun gedrag veranderen en (1)\n• gebonden zijn aan de gedragsverandering doordat ze dit afgesproken hebben / elkaar kunnen controleren via het lijstje bij de koffieautomaat (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Er is sprake van zelfbinding, omdat de werknemers vrijwillig hun gedrag veranderen"
+          },
+          {
+            "points": 1,
+            "description": "en gebonden zijn aan de gedragsverandering doordat ze dit afgesproken hebben / elkaar kunnen controleren via het lijstje bij de koffieautomaat"
+          }
+        ],
+        "grading_note": "bij vraag 28\nBij de beoordeling van vraag 28 kunnen – naar analogie van het voorbeeld in het correctievoorschrift – ook punten toegekend worden aan een antwoord waarin staat dat er geen sprake is van zelfbinding, onder de voorwaarde dat hierbij een vakinhoudelijk juiste duiding gegeven is van het begrip ‘zelfbinding’ en dit consistent is onderbouwd met relevante gegevens uit de casus.\n\nToelichting:\nDe casus boven vraag 28 kent een bandbreedte in de mate waarin hier sprake is van zelfbinding. Zo is het vrijwillige karakter van de gemaakte afspraak beschreven, maar niet letterlijk benoemd. Zodoende kan dit ook opgevat worden als sociale druk of handelen naar een sociale norm. Ook de mate waarin de afspraak bindend is, is voor interpretatie vatbaar. Weliswaar wordt in de casus een lijst opgehangen en heeft de deelnemer ‘kosten’ in de vorm van verminderde waardering van collega’s bij het niet naleven van de afspraak, maar er zijn situaties denkbaar dat de deelnemer die kosten voor lief neemt en de afspraak toch schendt.",
+        "answer_image_urls": [
+          "economie-havo-2021-i-stimuleren-zonder-effect-antw28.png"
+        ]
+      },
+      {
+        "title": "Stimuleren zonder effect",
+        "question_number": 29,
+        "answer_text": "private lease\nEen voorbeeld van een juiste berekening is:\n• zakelijke lease: extra te betalen belasting als gevolg van de fiscale bijtelling in 2018, tarief 51,95%:\n51,95% van 22% van € 45.000 = € 5.143\n5.143 / 12 = € 428 per maand (1)\n• Dat is duurder dan de kosten van private lease in 2018: € 415 per maand (1)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "zakelijke lease: 51,95% van 22% van € 45.000 = € 5.143; 5.143 / 12 = € 428 per maand"
+          },
+          {
+            "points": 1,
+            "description": "Dat is duurder dan de kosten van private lease in 2018: € 415 per maand (dus private lease)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "economie-havo-2021-i-stimuleren-zonder-effect-antw29.png"
+        ]
+      }
+    ]
+  }
+}
