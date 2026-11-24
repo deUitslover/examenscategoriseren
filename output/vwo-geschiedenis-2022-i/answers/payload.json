@@ -1,0 +1,527 @@
+{
+ "payload": {
+  "subject_name": "Geschiedenis",
+  "level": "VWO",
+  "source": "VWO Geschiedenis 2022-I",
+  "answers": [
+   {
+    "title": "Door de tijd heen",
+    "question_number": 1,
+    "answer_text": "De juiste volgorde is:\n3, 2, 1, 4, 6, 5",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 3, 2, 1, 4, 6, 5"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-door-de-tijd-heen-antw1.png"
+    ]
+   },
+   {
+    "title": "Door de tijd heen",
+    "question_number": 2,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nDe waardering voor Boudica:\nbij 1:\n• in de tijd van Elizabeth I kan worden verklaard vanuit 'de heroriëntatie op de klassieke oudheid', waardoor de verhalen over de Britse koningin uit de Romeinse tijd opnieuw werden ontdekt / toneelstukken over de Romeinse tijd goed bezocht werden\nbij 2:\n• in de negentiende eeuw kan worden verklaard vanuit 'de opkomst van politiek-maatschappelijke stromingen als nationalisme', waardoor de Britse koningin die haar vaderland verdedigde geschikt werd geacht voor een afbeelding op het parlementsgebouw\n  of\n• in de negentiende eeuw kan worden verklaard vanuit de 'de opkomst van politiek-maatschappelijk stromingen als feminisme', waardoor een afbeelding van de Britse koningin die (als vrouw) haar leger leidde / als leider werd geaccepteerd door haar leger geschikt werd geacht voor een afbeelding op het parlementsgebouw",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "bij 1: in de tijd van Elizabeth I kan worden verklaard vanuit 'de heroriëntatie op de klassieke oudheid', waardoor de verhalen over de Britse koningin uit de Romeinse tijd opnieuw werden ontdekt / toneelstukken over de Romeinse tijd goed bezocht werden"
+     },
+     {
+      "points": 1,
+      "description": "bij 2: in de negentiende eeuw kan worden verklaard vanuit 'de opkomst van politiek-maatschappelijke stromingen als nationalisme', waardoor de Britse koningin die haar vaderland verdedigde geschikt werd geacht voor een afbeelding op het parlementsgebouw of in de negentiende eeuw kan worden verklaard vanuit de 'de opkomst van politiek-maatschappelijk stromingen als feminisme', waardoor een afbeelding van de Britse koningin die (als vrouw) haar leger leidde / als leider werd geaccepteerd door haar leger geschikt werd geacht voor een afbeelding op het parlementsgebouw"
+     }
+    ],
+    "grading_note": "Voor het noemen van een juist kenmerkend aspect zonder verklaring voor de waardering voor Boudica, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-door-de-tijd-heen-antw2.png"
+    ]
+   },
+   {
+    "title": "Prehistorie en oudheid",
+    "question_number": 3,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Marius wil de boodschap overbrengen dat de nieuwe rekruten hem als leider kunnen vertrouwen / dat hij de bezitlozen niet als minderwaardig zal behandelen\n• door te zeggen dat (een van de volgende):\n  − hij geen glorie nastreeft ten koste van hun gezwoeg.\n  − hij zal meemarcheren/mee zal vechten.\n  − hij een raadsman/een metgezel is.\n  − hij de soldaten niet anders zal behandelen dan zichzelf.\n• Dit leiderschap brengt voor de Senaat als militair voordeel met zich mee dat soldaten die zich gewaardeerd voelen/zich persoonlijk betrokken voelen beter gemotiveerd zijn te vechten / dat veel meer Romeinen in aanmerking komen soldaat te worden (waardoor de Senaat kan beschikken over een beter/groter leger)\n• Dit leiderschap brengt voor de Senaat het politieke gevaar mee dat het leger eerder loyaal zal zijn aan Marius dan aan de Senaat / dat de soldaten door Marius tegen de Senaat kunnen worden ingezet vanwege het persoonlijke karakter van hun trouw",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Marius wil de boodschap overbrengen dat de nieuwe rekruten hem als leider kunnen vertrouwen / dat hij de bezitlozen niet als minderwaardig zal behandelen"
+     },
+     {
+      "points": 1,
+      "description": "door te zeggen dat (een van de volgende): hij geen glorie nastreeft ten koste van hun gezwoeg.; hij zal meemarcheren/mee zal vechten.; hij een raadsman/een metgezel is.; hij de soldaten niet anders zal behandelen dan zichzelf."
+     },
+     {
+      "points": 1,
+      "description": "Dit leiderschap brengt voor de Senaat als militair voordeel met zich mee dat soldaten die zich gewaardeerd voelen/zich persoonlijk betrokken voelen beter gemotiveerd zijn te vechten / dat veel meer Romeinen in aanmerking komen soldaat te worden (waardoor de Senaat kan beschikken over een beter/groter leger)"
+     },
+     {
+      "points": 1,
+      "description": "Dit leiderschap brengt voor de Senaat het politieke gevaar mee dat het leger eerder loyaal zal zijn aan Marius dan aan de Senaat / dat de soldaten door Marius tegen de Senaat kunnen worden ingezet vanwege het persoonlijke karakter van hun trouw"
+     }
+    ],
+    "grading_note": "Alleen als bij de eerste deelvraag een juiste boodschap over het leiderschap van Marius wordt genoemd, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-prehistorie-en-oudheid-antw3.png"
+    ]
+   },
+   {
+    "title": "De middeleeuwen",
+    "question_number": 4,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Willem de Veroveraar wees zijn vazallen land toe in ruil voor hun militaire dienst (wat past bij het feodale stelsel)\nDe invoering van de primogenituur:\n• voorkwam dat het land verdeeld raakte onder meerdere erfgenamen\n• waardoor de leenheer (een van de volgende):\n  − vazallen had met voldoende middelen voor de feodale verplichtingen.\n  − zijn gezag niet hoefde uit te oefenen over (te) veel verschillende vazallen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Willem de Veroveraar wees zijn vazallen land toe in ruil voor hun militaire dienst (wat past bij het feodale stelsel)"
+     },
+     {
+      "points": 1,
+      "description": "voorkwam dat het land verdeeld raakte onder meerdere erfgenamen"
+     },
+     {
+      "points": 1,
+      "description": "waardoor de leenheer (een van de volgende): vazallen had met voldoende middelen voor de feodale verplichtingen.; zijn gezag niet hoefde uit te oefenen over (te) veel verschillende vazallen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-de-middeleeuwen-antw4.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 5,
+    "answer_text": "Kern van een juist antwoord is:\n• Margaretha‘s besluit bevorderde dat de internationale handelspositie van Brugge verbeterde / dat Brugge aansluiting zocht op overzeese handel (met de Hanze/Frankrijk en Spanje)\nDe poorters van Brugge verzetten zich hiertegen vanuit:\n• het economische bezwaar dat de Brugse poorters/kooplieden hierdoor concurrentie kregen van buitenlandse kooplieden\n• het politieke bezwaar dat hiermee de invloed van het grafelijke gezag in Brugge toenam / dat dit inging tegen hun (stads)recht om zelf te bepalen wie zich in hun stad mochten vestigen / om zelf te bepalen welke privileges niet-poorters mochten hebben",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Margaretha‘s besluit bevorderde dat de internationale handelspositie van Brugge verbeterde / dat Brugge aansluiting zocht op overzeese handel (met de Hanze/Frankrijk en Spanje)"
+     },
+     {
+      "points": 1,
+      "description": "het economische bezwaar dat de Brugse poorters/kooplieden hierdoor concurrentie kregen van buitenlandse kooplieden"
+     },
+     {
+      "points": 1,
+      "description": "het politieke bezwaar dat hiermee de invloed van het grafelijke gezag in Brugge toenam / dat dit inging tegen hun (stads)recht om zelf te bepalen wie zich in hun stad mochten vestigen / om zelf te bepalen welke privileges niet-poorters mochten hebben"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord op de eerste deelvraag ingaat op de overzeese handel/de internationale handel, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-steden-en-burgers-1050-1700-antw5.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 6,
+    "answer_text": "Kern van een juist antwoord is:\n• Volgens Van Heisterbach kunnen de vrouwen een voorbeeldrol spelen door de stedelingen te laten zien hoe zij een geestelijk/eerbaar leven kunnen leiden\n• De geestelijkheid wil de ontwikkeling van (te veel) persoonlijke geloofsbeleving van stedelingen onder controle houden\n• door de vrouwen in begijnhoven te laten wonen waar gecontroleerd kan worden dat de vrouwen niet teveel afdwalen van de voorgeschreven kerkelijke gewoontes / de invloed van de vrouwen gecontroleerd kan worden",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Volgens Van Heisterbach kunnen de vrouwen een voorbeeldrol spelen door de stedelingen te laten zien hoe zij een geestelijk/eerbaar leven kunnen leiden"
+     },
+     {
+      "points": 1,
+      "description": "De geestelijkheid wil de ontwikkeling van (te veel) persoonlijke geloofsbeleving van stedelingen onder controle houden"
+     },
+     {
+      "points": 1,
+      "description": "door de vrouwen in begijnhoven te laten wonen waar gecontroleerd kan worden dat de vrouwen niet teveel afdwalen van de voorgeschreven kerkelijke gewoontes / de invloed van de vrouwen gecontroleerd kan worden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-steden-en-burgers-1050-1700-antw6.png"
+    ]
+   },
+   {
+    "title": "De middeleeuwen",
+    "question_number": 7,
+    "answer_text": "Kern van een juist antwoord is:\na. Nicolaas V ondersteunde met de bul ‘de expansie van de christelijke wereld naar buiten toe, onder andere in de vorm van de kruistochten’, omdat hij met de bul toestemming gaf andersgelovigen te onderwerpen\nb. Alexander VI liep vooruit op de conflicten tussen verschillende Europese landen over de (nieuw ontdekte) gebieden die werden ontdekt door de 'Europese overzeese expansie'\nc. De 'uitbouw van de Europese overheersing, met name in de vorm van plantagekoloniën en de daarmee verbonden trans-Atlantische slavenhandel' werd hiermee gerechtvaardigd omdat de paus zelf toestemming had gegeven Afrikanen tot slaaf te maken",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a. Nicolaas V ondersteunde met de bul ‘de expansie van de christelijke wereld naar buiten toe, onder andere in de vorm van de kruistochten’, omdat hij met de bul toestemming gaf andersgelovigen te onderwerpen"
+     },
+     {
+      "points": 1,
+      "description": "b. Alexander VI liep vooruit op de conflicten tussen verschillende Europese landen over de (nieuw ontdekte) gebieden die werden ontdekt door de 'Europese overzeese expansie'"
+     },
+     {
+      "points": 1,
+      "description": "c. De 'uitbouw van de Europese overheersing, met name in de vorm van plantagekoloniën en de daarmee verbonden trans-Atlantische slavenhandel' werd hiermee gerechtvaardigd omdat de paus zelf toestemming had gegeven Afrikanen tot slaaf te maken"
+     }
+    ],
+    "grading_note": "Als bij een deelvraag alleen een passend kenmerkend aspect wordt genoemd, zonder een juiste verwijzing naar een pauselijke bul, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-de-middeleeuwen-antw7.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 8,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De boodschap is dat het overgaan van de stad in Spaanse handen de eendracht herstelt in / voordelig is voor (de economie van) Antwerpen\n• wat wordt afgebeeld door (een van de volgende):\n  − Philips II en de Spaanse landvoogd die met lauwerkransen gehuldigd worden als helden.\n  − het gezamenlijk wegvluchten van de slechte eigenschappen voor het Spaanse bestuur / het afschrikken van de slechte eigenschappen door het Spaanse bestuur.\n  − de handelsschepen die richting Antwerpen varen (zodat de handel na de verovering bloeit).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De boodschap is dat het overgaan van de stad in Spaanse handen de eendracht herstelt in / voordelig is voor (de economie van) Antwerpen"
+     },
+     {
+      "points": 1,
+      "description": "wat wordt afgebeeld door (een van de volgende): Philips II en de Spaanse landvoogd die met lauwerkransen gehuldigd worden als helden.; het gezamenlijk wegvluchten van de slechte eigenschappen voor het Spaanse bestuur / het afschrikken van de slechte eigenschappen door het Spaanse bestuur.; de handelsschepen die richting Antwerpen varen (zodat de handel na de verovering bloeit)."
+     }
+    ],
+    "grading_note": "Alleen als de propagandaboodschap juist wordt weergegeven, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-steden-en-burgers-1050-1700-antw8.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 9,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Stubbe geeft kritiek op het particularisme van steden en gewesten / de soevereiniteit van de gewesten\n• In 1672 (het Rampjaar) verklaart Engeland de oorlog aan de Republiek / valt de Engelse vloot schepen van de Republiek aan\n• zodat de Engelse koning de boodschap wil overbrengen dat door de interne verdeeldheid van de Republiek de oorlog gewonnen kan worden / dat zijn onderdanen de oorlog tegen de slecht geleide Republiek moeten steunen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Stubbe geeft kritiek op het particularisme van steden en gewesten / de soevereiniteit van de gewesten"
+     },
+     {
+      "points": 1,
+      "description": "In 1672 (het Rampjaar) verklaart Engeland de oorlog aan de Republiek / valt de Engelse vloot schepen van de Republiek aan"
+     },
+     {
+      "points": 1,
+      "description": "zodat de Engelse koning de boodschap wil overbrengen dat door de interne verdeeldheid van de Republiek de oorlog gewonnen kan worden / dat zijn onderdanen de oorlog tegen de slecht geleide Republiek moeten steunen"
+     }
+    ],
+    "grading_note": "Alleen als bij de tweede deelvraag wordt ingegaan op de oorlogssituatie in 1672, wordt 1 scorepunt toegekend voor het noemen van een juiste boodschap die de Engelse koning wil overbrengen.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-steden-en-burgers-1050-1700-antw9.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 – 1900",
+    "question_number": 10,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Figaro protesteert tegen het krijgen van voorrechten/rijkdom/titels op basis van geboorte, wat past bij het verlichte denkbeeld dat de bestaande gezagsverhoudingen niet redelijk zijn / dat de indeling van de samenleving moet worden gemaakt op basis van talenten/verdiensten\n• Een toneelstuk kan denkbeelden verspreiden onder een ongeletterd/groot publiek / een toneelstuk wordt meerdere keren/op meerdere plaatsen opgevoerd",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Figaro protesteert tegen het krijgen van voorrechten/rijkdom/titels op basis van geboorte, wat past bij het verlichte denkbeeld dat de bestaande gezagsverhoudingen niet redelijk zijn / dat de indeling van de samenleving moet worden gemaakt op basis van talenten/verdiensten"
+     },
+     {
+      "points": 1,
+      "description": "Een toneelstuk kan denkbeelden verspreiden onder een ongeletterd/groot publiek / een toneelstuk wordt meerdere keren/op meerdere plaatsen opgevoerd"
+     }
+    ],
+    "grading_note": "Als bij de eerste deelvraag wordt geantwoord dat Figaro uitgaat van het denkbeeld van gelijkheid, worden geen scorepunten toegekend (omdat Figaro in deze passage niet uitgaat van gelijkheid maar vindt dat bestaande gezagsverhoudingen onredelijk zijn).",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-verlichting-1650-1900-antw10.png"
+    ]
+   },
+   {
+    "title": "Vroegmoderne tijd",
+    "question_number": 11,
+    "answer_text": "Kern van een juist antwoord is:\n• Het laten pleiten voor de afschaffing van herendiensten paste bij het uitgangspunt dat een verlichte vorst de levensomstandigheden van het volk moest verbeteren / dat de voorrrechten van de adel moesten worden ingeperkt\n• Het plegen van censuur/het afdwingen dat de inhoud van Figaro werd aangepast paste bij zijn absolute heerschappij\nof\n• Door het laten weghalen van kritiek op het verkrijgen van macht op basis van afkomst wilde Jozef II zijn positie als absolute vorst beschermen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het laten pleiten voor de afschaffing van herendiensten paste bij het uitgangspunt dat een verlichte vorst de levensomstandigheden van het volk moest verbeteren / dat de voorrrechten van de adel moesten worden ingeperkt"
+     },
+     {
+      "points": 1,
+      "description": "Het plegen van censuur/het afdwingen dat de inhoud van Figaro werd aangepast paste bij zijn absolute heerschappij of Door het laten weghalen van kritiek op het verkrijgen van macht op basis van afkomst wilde Jozef II zijn positie als absolute vorst beschermen"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een juiste combinatie bevat van een verwijzing naar de anekdote en (bij de eerste deelvraag) een verlicht standpunt en (bij de tweede deelvraag) een absoluut standpunt, wordt telkens 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-vroegmoderne-tijd-antw11.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 – 1900",
+    "question_number": 12,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De jakobijnen/de radicalen waren de leiders van de republiek / stonden achter het besluit de koning te veroordelen, waardoor zij Olympe de Gouges vanwege haar bewering dat het volk ook mocht kiezen voor een constitutionele monarchie als tegenstander beschouwden (waarna zij haar als 'vijand van de revolutie' ter dood veroordeelden)\n• Door het schrijven van de 'Verklaring van de rechten van de vrouw' had Olympe de Gouges bijgedragen aan het verspreiden van de (democratische/verlichte) ideeën van de revolutie",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De jakobijnen/de radicalen waren de leiders van de republiek / stonden achter het besluit de koning te veroordelen, waardoor zij Olympe de Gouges vanwege haar bewering dat het volk ook mocht kiezen voor een constitutionele monarchie als tegenstander beschouwden (waarna zij haar als 'vijand van de revolutie' ter dood veroordeelden)"
+     },
+     {
+      "points": 1,
+      "description": "Door het schrijven van de 'Verklaring van de rechten van de vrouw' had Olympe de Gouges bijgedragen aan het verspreiden van de (democratische/verlichte) ideeën van de revolutie"
+     }
+    ],
+    "grading_note": "Alleen als bij het antwoord op de eerste deelvraag wordt genoemd dat de jakobijnen/radicalen voorstander waren van de afschaffing van de monarchie / de republiek leiden, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-verlichting-1650-1900-antw12.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 13,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Het verdrag was een gevolg van de politieke situatie omdat de Opiumoorlog was verloren / de machtspostie van de Chinese keizer was verzwakt, waardoor de keizer een verdrag moest tekenen waarbij hij het eiland Hongkong/een haven moest afstaan\n• Het verdrag was een gevolg van het toenemende imperialisme omdat Groot-Brittannië streefde naar een afzetmarkt / naar meer koloniën / naar betere toegang tot grondstoffen, waardoor de Britten afdwongen dat China een haven afstond / een plek afstond waar ze hun schepen konden onderhouden",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Het verdrag was een gevolg van de politieke situatie omdat de Opiumoorlog was verloren / de machtspostie van de Chinese keizer was verzwakt, waardoor de keizer een verdrag moest tekenen waarbij hij het eiland Hongkong/een haven moest afstaan"
+     },
+     {
+      "points": 2,
+      "description": "Het verdrag was een gevolg van het toenemende imperialisme omdat Groot-Brittannië streefde naar een afzetmarkt / naar meer koloniën / naar betere toegang tot grondstoffen, waardoor de Britten afdwongen dat China een haven afstond / een plek afstond waar ze hun schepen konden onderhouden"
+     }
+    ],
+    "grading_note": "Als bij beide deelvragen dezelfde verwijzing naar het verdrag wordt genoemd, worden alleen bij de eerste verwijzing scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-china-1842-2001-antw13.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 14,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Mina Kruseman schrijft dat de intelligentie van stemgerechtigden moet bepalen of ze mogen stemmen (en niet hun geslacht) / dat ook vrouwelijke 'nulliteiten' een slechte regering aan de macht zouden helpen / dat ze niet begrijpt waarom mensen zich druk maken over het geslacht van de kiesgerechtigden, waarop een deel van de feministen de kritiek heeft dat Mina Kruseman zich niet uitspreekt voor algemeen kiesrecht (waar zij wel naar streven)\n• Mina Kruseman schrijft dat vrouwen betaald zouden moeten krijgen voor hun werk / dat vrouwen die goed opgeleid zijn zichzelf kunnen onderhouden / dat vrouwen het recht hebben vrij te zijn, wat door de feministen nagestreefd wordt omdat vrouwen hierdoor (financieel) onafhankelijk worden / beter voor hun rechten kunnen opkomen / een eigen leven kunnen leiden / omdat de emancipatie van vrouwen hierdoor toeneemt",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Mina Kruseman schrijft dat de intelligentie van stemgerechtigden moet bepalen of ze mogen stemmen (en niet hun geslacht) / dat ook vrouwelijke 'nulliteiten' een slechte regering aan de macht zouden helpen / dat ze niet begrijpt waarom mensen zich druk maken over het geslacht van de kiesgerechtigden, waarop een deel van de feministen de kritiek heeft dat Mina Kruseman zich niet uitspreekt voor algemeen kiesrecht (waar zij wel naar streven)"
+     },
+     {
+      "points": 2,
+      "description": "Mina Kruseman schrijft dat vrouwen betaald zouden moeten krijgen voor hun werk / dat vrouwen die goed opgeleid zijn zichzelf kunnen onderhouden / dat vrouwen het recht hebben vrij te zijn, wat door de feministen nagestreefd wordt omdat vrouwen hierdoor (financieel) onafhankelijk worden / beter voor hun rechten kunnen opkomen / een eigen leven kunnen leiden / omdat de emancipatie van vrouwen hierdoor toeneemt"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een combinatie bevat van een juist voorbeeld van (bij de eerste deelvraag) kritiek en (bij de tweede deelvraag) oorzaak van het nastreven van haar standpunt en een daarbij passende verwijzing naar het standpunt, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-moderne-tijd-antw14.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 15,
+    "answer_text": "Kern van een juist antwoord is:\nMina Kruseman werd als rolmodel afgewezen vanuit het negentiende-eeuwse burgerlijke gezinsideaal, waarbij een vrouw alleen een rolmodel kon zijn als ze getrouwd was / als ze ondergeschikt was aan haar man / als ze een man had die kostwinner was.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Mina Kruseman werd als rolmodel afgewezen vanuit het negentiende-eeuwse burgerlijke gezinsideaal, waarbij een vrouw alleen een rolmodel kon zijn als ze getrouwd was / als ze ondergeschikt was aan haar man / als ze een man had die kostwinner was."
+     }
+    ],
+    "grading_note": "Voor het alleen noemen van de leefwijze van Mina Kruseman zonder een uitleg over het burgerlijke gezinsideaal, worden geen scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-moderne-tijd-antw15.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 16,
+    "answer_text": "De juiste volgorde is:\n1, 5, 2, 4, 3, 6",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 1, 5, 2, 4, 3, 6"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-china-1842-2001-antw16.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 17,
+    "answer_text": "De juiste combinaties zijn:\na - 5, b - 4, c - 1, d - 6, e - 3\nindien vijf combinaties juist\nindien vier combinaties juist\nindien minder dan vier combinaties juist",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "indien vijf combinaties juist"
+     },
+     {
+      "points": 1,
+      "description": "indien vier combinaties juist"
+     },
+     {
+      "points": 0,
+      "description": "indien minder dan vier combinaties juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-china-1842-2001-antw17.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 18,
+    "answer_text": "Kern van een juist antwoord is:\nIn de discussie over het vrouwenkiesrecht werden (de rechten van) Europese vrouwen boven (de rechten van) niet-Europese vrouwen gesteld / hielden de Europese vrouwen geen rekening met de rechten van de Indonesische vrouwen, waardoor de ontwikkeling van nationalistische/anti-Nederlandse gevoelens onder Indonesiërs werd vergroot / waardoor Indonesiërs inzagen dat zij geen rechten zouden krijgen als ze een Nederlandse kolonie bleven (wat het streven naar onafhankelijkheid mogelijk versterkte).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "In de discussie over het vrouwenkiesrecht werden (de rechten van) Europese vrouwen boven (de rechten van) niet-Europese vrouwen gesteld / hielden de Europese vrouwen geen rekening met de rechten van de Indonesische vrouwen, waardoor de ontwikkeling van nationalistische/anti-Nederlandse gevoelens onder Indonesiërs werd vergroot / waardoor Indonesiërs inzagen dat zij geen rechten zouden krijgen als ze een Nederlandse kolonie bleven (wat het streven naar onafhankelijkheid mogelijk versterkte)."
+     }
+    ],
+    "grading_note": "Alleen als in het antwoord wordt uitgelegd op welke wijze de discussie het streven naar onafhankelijkheid versterkte, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-moderne-tijd-antw18.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 19,
+    "answer_text": "Uit het antwoord moet blijken dat:\n• in Duitsland de pers in handen van de regering is die wil dat de Volkssturm een succes wordt, zodat het mogelijk is dat de foto van enthousiaste/bereidwillige jongens en mannen in scène is gezet / de jongens en mannen op deze foto gedwongen zijn toe te treden tot de Volkssturm (waardoor de bron minder betrouwbare informatie voor dit onderzoeksonderwerp bevat)\n• de krant een foto publiceert van mannen die te jong of te oud zijn voor dienstplicht / van mannen die met weinig militaire uitrusting gaan vechten / met een oproep dat heel het Duitse volk moet bijdragen aan de verdediging van het vaderland, waarmee aangetoond kan worden dat de Duitse regering een totale oorlog voert waarbij ook de burgerbevolking wordt ingezet / het Duitse volk zichzelf moet opofferen (waardoor de bron meer betrouwbare informatie bevat voor dit onderzoeksonderwerp)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "in Duitsland de pers in handen van de regering is die wil dat de Volkssturm een succes wordt, zodat het mogelijk is dat de foto van enthousiaste/bereidwillige jongens en mannen in scène is gezet / de jongens en mannen op deze foto gedwongen zijn toe te treden tot de Volkssturm (waardoor de bron minder betrouwbare informatie voor dit onderzoeksonderwerp bevat)"
+     },
+     {
+      "points": 2,
+      "description": "de krant een foto publiceert van mannen die te jong of te oud zijn voor dienstplicht / van mannen die met weinig militaire uitrusting gaan vechten / met een oproep dat heel het Duitse volk moet bijdragen aan de verdediging van het vaderland, waarmee aangetoond kan worden dat de Duitse regering een totale oorlog voert waarbij ook de burgerbevolking wordt ingezet / het Duitse volk zichzelf moet opofferen (waardoor de bron meer betrouwbare informatie bevat voor dit onderzoeksonderwerp)"
+     }
+    ],
+    "grading_note": "Als een antwoord alleen een juiste verwijzing naar de bron bevat zonder (bij de eerste deelvraag) het gegeven dat de pers in handen is van de nationaalsocialisten en (bij de tweede deelvraag) een juist kenmerk van een totale oorlog, worden geen scorepunten toegekend.\nAls dezelfde verwijzing naar de bron twee keer wordt gebruikt, worden alleen bij het eerste gebruik scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-duitsland-in-europa-1918-1991-antw19.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 20,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Vanwege 'vormen van verzet tegen het West-Europese imperialisme' / 'de (in Afrika toenemende behoefte aan) dekolonisatie die een einde maakt aan de westers hegemonie in de wereld', voorziet Hergé dat het benoemen van België als vaderland van een Afrikaans land niet meer past bij de tijd / een boodschap is die als ongewenst wordt beschouwd / verzet zou kunnen oproepen\n• Na 'het ontstaan van een multiculturele samenleving', wordt gevonden dat een boek waarin een koloniale visie wordt weergegeven niet langer gewenst is / wordt de weergave van Afrikanen/van de rol van Kuifje als racistisch/kwetsend herkend",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Vanwege 'vormen van verzet tegen het West-Europese imperialisme' / 'de (in Afrika toenemende behoefte aan) dekolonisatie die een einde maakt aan de westers hegemonie in de wereld', voorziet Hergé dat het benoemen van België als vaderland van een Afrikaans land niet meer past bij de tijd / een boodschap is die als ongewenst wordt beschouwd / verzet zou kunnen oproepen"
+     },
+     {
+      "points": 1,
+      "description": "Na 'het ontstaan van een multiculturele samenleving', wordt gevonden dat een boek waarin een koloniale visie wordt weergegeven niet langer gewenst is / wordt de weergave van Afrikanen/van de rol van Kuifje als racistisch/kwetsend herkend"
+     }
+    ],
+    "grading_note": "Als alleen een juist kenmerkend aspect wordt genoemd zonder een juiste verklaring, wordt geen scorepunt toegekend.\nAls een kenmerkend aspect twee keer wordt gebruikt, wordt alleen bij het eerste gebruik 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-moderne-tijd-antw20.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 21,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nDe afspraken moesten bijdragen aan het verstevigen van de positie van de BRD in West-Europa omdat:\n• met de betaling de West-Duitsers aangaven dat ze afstand namen van het nazi-verleden waardoor de BRD beter geaccepteerd kon worden als politieke partner/samenwerkingspartner in West-Europa\n• door het geld voornamelijk te laten besteden aan Duitse goederen het Wirtschaftswunder / de opbouw van de Duitse economie werd bevorderd waardoor de BRD een sterkere economische partner werd in West-Europa / niet afhankelijk was van buurlanden voor de wederopbouw",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "met de betaling de West-Duitsers aangaven dat ze afstand namen van het nazi-verleden waardoor de BRD beter geaccepteerd kon worden als politieke partner/samenwerkingspartner in West-Europa"
+     },
+     {
+      "points": 1,
+      "description": "door het geld voornamelijk te laten besteden aan Duitse goederen het Wirtschaftswunder / de opbouw van de Duitse economie werd bevorderd waardoor de BRD een sterkere economische partner werd in West-Europa / niet afhankelijk was van buurlanden voor de wederopbouw"
+     }
+    ],
+    "grading_note": "Alleen als telkens wordt aangegeven op welke wijze de maatregel de positie van de BRD in West-Europa moest verstevigen, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-duitsland-in-europa-1918-1991-antw21.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 22,
+    "answer_text": "Uit het antwoord moet blijken dat:\n• Semjonov ervan uitgaat dat de opstand is georganiseerd door / wordt bijgestaan door het (kapitalistische) westen omdat hij beschrijft dat de opstandelingen/demonstranten zich terugtrekken naar West-Berlijn\n• de instructies om gericht te schieten / om mensen als afschikwekkend voorbeeld te executeren passen bij een totalitair regime waar tegenstanders worden uitgeschakeld / een andere mening niet wordt getolereerd / de regering de burgers met geweld eronder houdt\n• je twijfelt aan Semjonovs beschrijving dat hij zijn soldaten over de hoofden van de opstandelingen liet schieten / het bevel uit Moskou om geweld te gebruiken negeerde, omdat hij (na de Val van de Berlijnse Muur) zijn eigen rol in het neerslaan van de opstand wil goedpraten / omdat hij voorziet dat de onderdrukking door communisten bekritiseerd zal worden / hij bang is alsnog vervolgd te worden",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Semjonov ervan uitgaat dat de opstand is georganiseerd door / wordt bijgestaan door het (kapitalistische) westen omdat hij beschrijft dat de opstandelingen/demonstranten zich terugtrekken naar West-Berlijn"
+     },
+     {
+      "points": 1,
+      "description": "de instructies om gericht te schieten / om mensen als afschikwekkend voorbeeld te executeren passen bij een totalitair regime waar tegenstanders worden uitgeschakeld / een andere mening niet wordt getolereerd / de regering de burgers met geweld eronder houdt"
+     },
+     {
+      "points": 2,
+      "description": "⚠️ CONTROLEREN: bij dit deelpunt staat in het correctievoorschrift geen score (2 punten afgeleid uit maximumscore 4 − 1 − 1). je twijfelt aan Semjonovs beschrijving dat hij zijn soldaten over de hoofden van de opstandelingen liet schieten / het bevel uit Moskou om geweld te gebruiken negeerde, omdat hij (na de Val van de Berlijnse Muur) zijn eigen rol in het neerslaan van de opstand wil goedpraten / omdat hij voorziet dat de onderdrukking door communisten bekritiseerd zal worden / hij bang is alsnog vervolgd te worden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-duitsland-in-europa-1918-1991-antw22.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 23,
+    "answer_text": "Kern van een juist antwoord is:\n• Uit de beschrijving blijkt dat de Chinezen de Russische adviseurs/de hulp uit de Sovjet-Unie openlijk wantrouwen/afwijzen/uitschelden, waarmee de regering van Mao streeft naar meer politieke autonomie / naar een eigen machtspositie zonder invloed van de Sovjet-Unie\n• In China lijdt de Grote Sprong Voorwaarts / snelle industrialisatie onder het afwijzen van/het belachelijk maken van Russisch advies op wetenschappelijk/technisch gebied",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Uit de beschrijving blijkt dat de Chinezen de Russische adviseurs/de hulp uit de Sovjet-Unie openlijk wantrouwen/afwijzen/uitschelden, waarmee de regering van Mao streeft naar meer politieke autonomie / naar een eigen machtspositie zonder invloed van de Sovjet-Unie"
+     },
+     {
+      "points": 1,
+      "description": "In China lijdt de Grote Sprong Voorwaarts / snelle industrialisatie onder het afwijzen van/het belachelijk maken van Russisch advies op wetenschappelijk/technisch gebied"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-china-1842-2001-antw23.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 24,
+    "answer_text": "Uit het antwoord moet blijken dat de poster (door af te beelden dat het beeldje van Confucius/het kruisbeeld worden kapotgeslagen) de boodschap overbrengt dat oude religies/tradities moeten worden vernietigd, waardoor de mensen zich gaan richten op / er ruimte komt voor de aanbidding van Mao (in plaats van Confucius/Christus).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Uit het antwoord moet blijken dat de poster (door af te beelden dat het beeldje van Confucius/het kruisbeeld worden kapotgeslagen) de boodschap overbrengt dat oude religies/tradities moeten worden vernietigd, waardoor de mensen zich gaan richten op / er ruimte komt voor de aanbidding van Mao (in plaats van Confucius/Christus)."
+     }
+    ],
+    "grading_note": "Alleen als in het antwoord wordt verwezen naar het verdrijven van de oude religies/tradities, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-china-1842-2001-antw24.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 25,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Huizinga gaat nog steeds uit van de traditionele rol van de vrouw als huisvrouw/moeder die thuisblijft om voor de kinderen te zorgen (wat een continuïteit is in de positie van de vrouw)\n• wat blijkt uit de opmerking van Huizinga dat (een van de volgende):\n  − voor vrouwen onderwijs/studeren een hobby is.\n  − vrouwen door huishoudelijke apparaten meer tijd hebben gekregen.\n  − vrouwen aan het werk kunnen nadat de kinderen de deur uit zijn.\n• Er is vanaf de jaren 1950 sprake van kansen voor vrouwen op ontwikkeling / werk buitenshuis / er is waardering voor de intellectuele inspanningen van vrouwen (wat een verandering is in de positie van de vrouw)\n• wat blijkt uit de opmerking van Huizinga dat (een van de volgende):\n  − vrouwen vervolgonderwijs volgen.\n  − vrouwen met het diploma aan het werk kunnen.\n  − vrouwen goede studieresultaten behalen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Huizinga gaat nog steeds uit van de traditionele rol van de vrouw als huisvrouw/moeder die thuisblijft om voor de kinderen te zorgen (wat een continuïteit is in de positie van de vrouw)"
+     },
+     {
+      "points": 1,
+      "description": "wat blijkt uit de opmerking van Huizinga dat (een van de volgende): voor vrouwen onderwijs/studeren een hobby is.; vrouwen door huishoudelijke apparaten meer tijd hebben gekregen.; vrouwen aan het werk kunnen nadat de kinderen de deur uit zijn."
+     },
+     {
+      "points": 1,
+      "description": "Er is vanaf de jaren 1950 sprake van kansen voor vrouwen op ontwikkeling / werk buitenshuis / er is waardering voor de intellectuele inspanningen van vrouwen (wat een verandering is in de positie van de vrouw)"
+     },
+     {
+      "points": 1,
+      "description": "wat blijkt uit de opmerking van Huizinga dat (een van de volgende): vrouwen vervolgonderwijs volgen.; vrouwen met het diploma aan het werk kunnen.; vrouwen goede studieresultaten behalen."
+     }
+    ],
+    "grading_note": "Alleen als een juist voorbeeld van (bij de eerste deelvraag) continuïteit en (bij de tweede deelvraag) verandering in de positie van de vrouw wordt genoemd, wordt telkens 1 scorepunt toegekend aan een passende verwijzing naar de bron.\nAls dezelfde verwijzing naar de bron twee keer wordt gebruikt, worden alleen bij het eerste gebruik scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-moderne-tijd-antw25.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 26,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nDe uitspraken van Viett pasten bij het verzet van de Baader-Meinhof Gruppe omdat leden van deze groep beweerden dat:\nbij 1:\n• zij aanslagen pleegden als reactie op de beperkt gebleven denazificatie in de BRD (zodat Viett zegt dat in het land waar ze zich tegen afzet nog 'Heil Hitler' werd gezegd)\nbij 2:\n• zij bij hun verzet uitgingen van een marxistische ideologie / beweerden te strijden voor een socialistische heilstaat (zodat Viett zegt dat ze zich wilde vestigen in de DDR omdat die de (kapitalistische) BRD ook als vijand zag)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "bij 1: zij aanslagen pleegden als reactie op de beperkt gebleven denazificatie in de BRD (zodat Viett zegt dat in het land waar ze zich tegen afzet nog 'Heil Hitler' werd gezegd)"
+     },
+     {
+      "points": 1,
+      "description": "bij 2: zij bij hun verzet uitgingen van een marxistische ideologie / beweerden te strijden voor een socialistische heilstaat (zodat Viett zegt dat ze zich wilde vestigen in de DDR omdat die de (kapitalistische) BRD ook als vijand zag)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2022-i-duitsland-in-europa-1918-1991-antw26.png"
+    ]
+   }
+  ]
+ }
+}
