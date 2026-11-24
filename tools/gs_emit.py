@@ -25,6 +25,9 @@ Annotation file (Python, loaded with runpy):
         "q": {n: (["<subdomein>", ...], ["kw", ...], "summary"), ...},
       },
     }
+    MISSING = [1, 17]   # optional: vraagnummers that are NOT in the -O.pdf
+                        # (VWO-GS-23-II-O.pdf lacks the whole "Door de tijd heen"
+                        # block); the 1..N check then expects exactly these gaps.
 
 Usage: python3 tools/gs_emit.py output/<slug> tools/annotations/<slug>.py
 """
@@ -163,7 +166,8 @@ def main():
             notes.append(f"  vraag {n}: {ordered}")
         manifest.append({"title": blk["title"], "question_numbers": nums})
     allnums = sorted(n for m in manifest for n in m["question_numbers"])
-    if allnums != list(range(1, len(allnums) + 1)):
+    missing = sorted(ann.get("MISSING", []))
+    if sorted(allnums + missing) != list(range(1, len(allnums) + len(missing) + 1)):
         problems.append(f"question numbers not 1..N: {allnums}")
     if problems:
         print("\n".join(problems))

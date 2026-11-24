@@ -1,0 +1,71 @@
+{
+  "source": "VWO Geschiedenis 2023-II",
+  "subject_name": "Geschiedenis",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Prehistorie en oudheid",
+      "question_numbers": [
+        2,
+        3
+      ]
+    },
+    {
+      "title": "De middeleeuwen",
+      "question_numbers": [
+        4,
+        7
+      ]
+    },
+    {
+      "title": "Steden en burgers 1050 - 1700",
+      "question_numbers": [
+        5,
+        6,
+        8,
+        11
+      ]
+    },
+    {
+      "title": "Verlichting 1650 – 1900",
+      "question_numbers": [
+        10,
+        13,
+        14,
+        16
+      ]
+    },
+    {
+      "title": "Vroegmoderne tijd",
+      "question_numbers": [
+        9,
+        12
+      ]
+    },
+    {
+      "title": "China 1842 – 2001",
+      "question_numbers": [
+        18,
+        20,
+        23,
+        25
+      ]
+    },
+    {
+      "title": "Moderne tijd",
+      "question_numbers": [
+        15,
+        19
+      ]
+    },
+    {
+      "title": "Duitsland in Europa 1918 - 1991",
+      "question_numbers": [
+        21,
+        22,
+        24,
+        26
+      ]
+    }
+  ]
+}
