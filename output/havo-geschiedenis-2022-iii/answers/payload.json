@@ -1,0 +1,527 @@
+{
+ "payload": {
+  "subject_name": "Geschiedenis",
+  "level": "HAVO",
+  "source": "HAVO Geschiedenis 2022-III",
+  "answers": [
+   {
+    "title": "Door de tijd heen",
+    "question_number": 1,
+    "answer_text": "De juiste volgorde is:\n2, 1, 5, 6, 4, 3",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 2, 1, 5, 6, 4, 3"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-door-de-tijd-heen-antw1.png"
+    ]
+   },
+   {
+    "title": "Ontdekkers en Hervormers",
+    "question_number": 2,
+    "answer_text": "Kern van een juist antwoord is:\nDoor 'het veranderende mens- en wereldbeeld van de renaissance':\n• werd individualiteit belangrijk / kwam nadruk te liggen op het kunstenaarschap van de maker\n• zodat Albrecht Dürer ervoor koos om zijn werken te signeren met zijn monogram / niet langer als anoniem kunstenaar wilde werken",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "werd individualiteit belangrijk / kwam nadruk te liggen op het kunstenaarschap van de maker"
+     },
+     {
+      "points": 1,
+      "description": "zodat Albrecht Dürer ervoor koos om zijn werken te signeren met zijn monogram / niet langer als anoniem kunstenaar wilde werken"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-ontdekkers-en-hervormers-antw2.png"
+    ]
+   },
+   {
+    "title": "Ontdekkers en Hervormers",
+    "question_number": 3,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De gebeurtenissen passen bij de reformatie (of een juiste omschrijving hiervan), omdat een aanval op een katholiek klooster / de sluiting van katholieke kloosters / de bedreiging van katholieke kloosterlingen wordt beschreven (wat past bij de overname door protestanten)\n• Deze gebeurtenissen dragen bij aan het uitbreken van de Opstand / aan het conflict dat resulteert in de stichting van een Nederlandse staat, omdat het Spaanse gezag hierdoor hard optreedt tegen de protestanten / een leger stuurt om de protestanten te straffen / omdat de Nederlandse gewesten zich gaan verzetten tegen de maatregelen waarmee het Spaanse gezag het katholieke geloof beschermt",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De gebeurtenissen passen bij de reformatie (of een juiste omschrijving hiervan), omdat een aanval op een katholiek klooster / de sluiting van katholieke kloosters / de bedreiging van katholieke kloosterlingen wordt beschreven (wat past bij de overname door protestanten)"
+     },
+     {
+      "points": 2,
+      "description": "Deze gebeurtenissen dragen bij aan het uitbreken van de Opstand / aan het conflict dat resulteert in de stichting van een Nederlandse staat, omdat het Spaanse gezag hierdoor hard optreedt tegen de protestanten / een leger stuurt om de protestanten te straffen / omdat de Nederlandse gewesten zich gaan verzetten tegen de maatregelen waarmee het Spaanse gezag het katholieke geloof beschermt"
+     }
+    ],
+    "grading_note": "Als het antwoord alleen een juist voorbeeld van een (bij de eerste deelvraag) godsdienstig conflict en (bij de tweede deelvraag) een politiek conflict bevat zonder uitleg, worden geen scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-ontdekkers-en-hervormers-antw3.png"
+    ]
+   },
+   {
+    "title": "Het Britse Rijk",
+    "question_number": 4,
+    "answer_text": "Kern van een juist antwoord is:\nDe Spanjaarden en Engelsen waren concurrenten in Amerika, zodat de Spaanse ambassadeur ervan uitging dat koning Filips III interesse had in de kaart om de kolonie aan te kunnen vallen / om in te schatten welk gevaar de kolonie zou kunnen opleveren.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De Spanjaarden en Engelsen waren concurrenten in Amerika, zodat de Spaanse ambassadeur ervan uitging dat koning Filips III interesse had in de kaart om de kolonie aan te kunnen vallen / om in te schatten welk gevaar de kolonie zou kunnen opleveren."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord ingaat op de concurrentie tussen Spanje en Engeland en het daardoor mogelijke gebruik van de kaart door de Spaanse koning, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-het-britse-rijk-antw4.png"
+    ]
+   },
+   {
+    "title": "Het Britse Rijk",
+    "question_number": 5,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nbij 1:\n• William Hilton schrijft de brief met het doel om zijn vrouw en kinderen/nieuwe kolonisten over te halen naar Amerika te komen, zodat hij het leven in de kolonie mogelijk mooier beschrijft dan het in werkelijkheid is (zodat de bron minder betrouwbaar is om onderzoek te doen naar de omstandigheden in de kolonie)\n• Hij doet dat door te schrijven dat (een van de volgende):\n− de kolonisten gezond zijn.\n− de inheemse bevolking vriendelijk is.\n− er ruimschoots fruit en ander voedsel te vinden valt.\n− de kolonisten een goed godsdienstig leven leiden.\nbij 2:\n• De brief is bruikbaar om op te maken dat New Plymouth (waarschijnlijk) een vestigingskolonie is, omdat eruit blijkt dat Hilton van plan is in zijn eigen levensonderhoud te voorzien door het verbouwen van maïs / dat Hilton het belangrijk vindt dat hij land bezit / dat Hilton van plan is om er met zijn gezin te gaan wonen (wat past bij een vestigingskolonie)\n• want Hilton schrijft dat (een van de volgende):\n− hij zijn familie wil laten overkomen.\n− de grond geschikt is voor bebouwing.\n− iedereen in de kolonie grondbezitter is.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "bij 1: William Hilton schrijft de brief met het doel om zijn vrouw en kinderen/nieuwe kolonisten over te halen naar Amerika te komen, zodat hij het leven in de kolonie mogelijk mooier beschrijft dan het in werkelijkheid is (zodat de bron minder betrouwbaar is om onderzoek te doen naar de omstandigheden in de kolonie)"
+     },
+     {
+      "points": 1,
+      "description": "bij 1: Hij doet dat door te schrijven dat (een van de volgende): de kolonisten gezond zijn; de inheemse bevolking vriendelijk is; er ruimschoots fruit en ander voedsel te vinden valt; de kolonisten een goed godsdienstig leven leiden"
+     },
+     {
+      "points": 1,
+      "description": "bij 2: De brief is bruikbaar om op te maken dat New Plymouth (waarschijnlijk) een vestigingskolonie is, omdat eruit blijkt dat Hilton van plan is in zijn eigen levensonderhoud te voorzien door het verbouwen van maïs / dat Hilton het belangrijk vindt dat hij land bezit / dat Hilton van plan is om er met zijn gezin te gaan wonen (wat past bij een vestigingskolonie)"
+     },
+     {
+      "points": 1,
+      "description": "bij 2: want Hilton schrijft dat (een van de volgende): hij zijn familie wil laten overkomen; de grond geschikt is voor bebouwing; iedereen in de kolonie grondbezitter is"
+     }
+    ],
+    "grading_note": "Alleen als in het antwoord op juiste wijze wordt ingegaan op (bij 1) de mindere betrouwbaarheid en (bij 2) de bruikbaarheid, wordt telkens 1 scorepunt toegekend aan een juiste verwijzing naar de bron.\nAls bij beide deelvragen dezelfde verwijzing naar de bron wordt genoemd, wordt alleen aan de eerste verwijzing 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-het-britse-rijk-antw5.png"
+    ]
+   },
+   {
+    "title": "Ontdekkers en Hervormers",
+    "question_number": 6,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nCollecties zoals die van de Wonderkamer konden worden verzameld door:\n• 'de overzeese expansie', waardoor natuurhistorische objecten uit verschillende werelddelen naar Italië worden vervoerd\n• 'de heroriëntatie op de klassieke oudheid', waardoor klassieke objecten worden verhandeld / opgegraven\n• Door de opzet van de Wonderkamer met open kasten / met losse voorwerpen / met een man als een levend voorbeeld in de collectie / waarin de voorwerpen geordend zijn in overzichtelijke categorieën, kunnen de bezoekers zelf de objecten bestuderen (wat de wetenschappelijke revolutie bevordert, waarin empirisch onderzoek belangrijk is)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "'de overzeese expansie', waardoor natuurhistorische objecten uit verschillende werelddelen naar Italië worden vervoerd"
+     },
+     {
+      "points": 1,
+      "description": "'de heroriëntatie op de klassieke oudheid', waardoor klassieke objecten worden verhandeld / opgegraven"
+     },
+     {
+      "points": 2,
+      "description": "Door de opzet van de Wonderkamer met open kasten / met losse voorwerpen / met een man als een levend voorbeeld in de collectie / waarin de voorwerpen geordend zijn in overzichtelijke categorieën, kunnen de bezoekers zelf de objecten bestuderen (wat de wetenschappelijke revolutie bevordert, waarin empirisch onderzoek belangrijk is)"
+     }
+    ],
+    "grading_note": "Als bij de eerste deelvraag alleen een juist kenmerkend aspect wordt genoemd zonder verklaring voor het verzamelen van de collectie, wordt geen scorepunt toegekend.\nAls bij de eerste deelvraag het kenmerkend aspect 'de wetenschappelijke belangstelling' wordt genoemd, wordt geen scorepunt toegekend (omdat dit niet verklaart dat het mogelijk is de collectie te verzamelen).",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-ontdekkers-en-hervormers-antw6.png"
+    ]
+   },
+   {
+    "title": "Regenten en Vorsten",
+    "question_number": 7,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Frankrijk werd geregeerd door een absoluut koning / had een sterk centraal gezag, waardoor de koning zonder overleg hervormingen kon doorvoeren / waardoor hervormingen (die hij belangrijk vond) meteen werden doorgevoerd\n• In de Republiek werden besluiten over het leger genomen met instemming van alle gewesten, waardoor het nemen van besluiten over hervormingen lang duurde / er vaak compromissen moesten worden gesloten (wat hervormingen belemmerde)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Frankrijk werd geregeerd door een absoluut koning / had een sterk centraal gezag, waardoor de koning zonder overleg hervormingen kon doorvoeren / waardoor hervormingen (die hij belangrijk vond) meteen werden doorgevoerd"
+     },
+     {
+      "points": 2,
+      "description": "In de Republiek werden besluiten over het leger genomen met instemming van alle gewesten, waardoor het nemen van besluiten over hervormingen lang duurde / er vaak compromissen moesten worden gesloten (wat hervormingen belemmerde)"
+     }
+    ],
+    "grading_note": "Alleen als een verklaring voor het tempo van hervorming gecombineerd wordt met een juiste staatkundige toelichting, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-regenten-en-vorsten-antw7.png"
+    ]
+   },
+   {
+    "title": "Het Britse Rijk",
+    "question_number": 8,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De handelswijze van de East India Company was het beheren/stichten van factorijen, terwijl Clive voorstelt directe politieke macht in India te gaan uitoefenen / met militair ingrijpen het Mogolrijk te onderwerpen\n• wat blijkt uit het voorstel om (een van de volgende):\n− te bepalen of de East India Company alles voor zichzelf wil nemen.\n− zichzelf als vorsten (Nawabs) aan te stellen.\n− Europese regimenten te versterken.\n• Met het verdrag van Allahabad krijgt de East India Company bestuurlijke macht in handen / de belastingheffing in handen (waarmee het voorstel van Clive om te streven naar meer directe invloed is overgenomen)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De handelswijze van de East India Company was het beheren/stichten van factorijen, terwijl Clive voorstelt directe politieke macht in India te gaan uitoefenen / met militair ingrijpen het Mogolrijk te onderwerpen"
+     },
+     {
+      "points": 1,
+      "description": "wat blijkt uit het voorstel om (een van de volgende): te bepalen of de East India Company alles voor zichzelf wil nemen; zichzelf als vorsten (Nawabs) aan te stellen; Europese regimenten te versterken"
+     },
+     {
+      "points": 1,
+      "description": "Met het verdrag van Allahabad krijgt de East India Company bestuurlijke macht in handen / de belastingheffing in handen (waarmee het voorstel van Clive om te streven naar meer directe invloed is overgenomen)"
+     }
+    ],
+    "grading_note": "Alleen als bij de eerste deelvraag een juiste verandering wordt genoemd, wordt 1 scorepunt toegekend aan een hierbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-het-britse-rijk-antw8.png"
+    ]
+   },
+   {
+    "title": "Pruiken en Revoluties",
+    "question_number": 9,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nHet beleid van Maria Theresia:\n• kan verlicht genoemd worden, omdat ze ernaar streeft dat de bevolking beter onderwijs krijgt / dat kennis wordt verspreid\n• kan absoluut genoemd worden, omdat ze mensen met kritiek liet dreigen met arrestatie / omdat zij bepaalde welke godsdienstlessen op de scholen werden gegeven\n• droeg bij aan eenheid, omdat de bevolking gemakkelijk bereikt kon worden (omdat iedereen leerde lezen) / omdat de bevolking dezelfde lessen zou krijgen (wat onderlinge eenheid bevorderde)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "kan verlicht genoemd worden, omdat ze ernaar streeft dat de bevolking beter onderwijs krijgt / dat kennis wordt verspreid"
+     },
+     {
+      "points": 1,
+      "description": "kan absoluut genoemd worden, omdat ze mensen met kritiek liet dreigen met arrestatie / omdat zij bepaalde welke godsdienstlessen op de scholen werden gegeven"
+     },
+     {
+      "points": 1,
+      "description": "droeg bij aan eenheid, omdat de bevolking gemakkelijk bereikt kon worden (omdat iedereen leerde lezen) / omdat de bevolking dezelfde lessen zou krijgen (wat onderlinge eenheid bevorderde)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-pruiken-en-revoluties-antw9.png"
+    ]
+   },
+   {
+    "title": "Pruiken en Revoluties",
+    "question_number": 10,
+    "answer_text": "Kern van een juist antwoord is:\nMadison verdedigt de trias politica (of een juiste omschrijving hiervan), omdat dit voorkómt dat de macht in handen valt van een individu / een groep die daardoor een tirannie kan uitoefenen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Madison verdedigt de trias politica (of een juiste omschrijving hiervan), omdat dit voorkómt dat de macht in handen valt van een individu / een groep die daardoor een tirannie kan uitoefenen."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een juiste uitleg bevat over de verdediging van James Madison van de trias politica, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-pruiken-en-revoluties-antw10.png"
+    ]
+   },
+   {
+    "title": "Pruiken en Revoluties",
+    "question_number": 11,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Abolitionisten kunnen met de beschrijving aantonen dat slavernij wreed is / mensen hun rechten ontneemt / slaafgemaakten overlevert aan hun eigenaars\n• omdat Pieter Groen schrijft dat (een van de volgende):\n− sommige slaafgemaakten liever hun kinderen doden dan ze onvrij te laten opgroeien.\n− hij de slaafgemaakten aan vreselijke straffen zou willen onderwerpen.\n• Pieter Groen wil zijn familie niet bekritiseren / is (als zoon van een Amsterdamse koopman) voorstander van slavernij, zodat hij de schuld voor het lage kindertal/van het weglopen bij de slaafgemaakten zelf legt / geen misstanden noemt die worden veroorzaakt door de eigenaren van de plantages / geen oog heeft voor de positie van de slaafgemaakten (zodat hij een eenzijdig beeld weergeeft)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Abolitionisten kunnen met de beschrijving aantonen dat slavernij wreed is / mensen hun rechten ontneemt / slaafgemaakten overlevert aan hun eigenaars"
+     },
+     {
+      "points": 1,
+      "description": "omdat Pieter Groen schrijft dat (een van de volgende): sommige slaafgemaakten liever hun kinderen doden dan ze onvrij te laten opgroeien; hij de slaafgemaakten aan vreselijke straffen zou willen onderwerpen"
+     },
+     {
+      "points": 2,
+      "description": "Pieter Groen wil zijn familie niet bekritiseren / is (als zoon van een Amsterdamse koopman) voorstander van slavernij, zodat hij de schuld voor het lage kindertal/van het weglopen bij de slaafgemaakten zelf legt / geen misstanden noemt die worden veroorzaakt door de eigenaren van de plantages / geen oog heeft voor de positie van de slaafgemaakten (zodat hij een eenzijdig beeld weergeeft)"
+     }
+    ],
+    "grading_note": "Alleen als in het antwoord op de eerste deelvraag een juiste boodschap wordt genoemd, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-pruiken-en-revoluties-antw11.png"
+    ]
+   },
+   {
+    "title": "Het Britse Rijk",
+    "question_number": 12,
+    "answer_text": "Kern van een juist antwoord is:\n• Het verbod paste bij de doelstelling om de (volgens de Britten superieure) Britse cultuur / Britse wetgeving op te leggen (waarbij sati werd gezien als een gebruik dat in strijd was met de Britse cultuur/wet)\n• De Britten wilden voorkomen dat er tegenstand/opstand zou ontstaan in de kolonie als reactie op het (te veel) verbieden van Indiase religieuze gebruiken",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het verbod paste bij de doelstelling om de (volgens de Britten superieure) Britse cultuur / Britse wetgeving op te leggen (waarbij sati werd gezien als een gebruik dat in strijd was met de Britse cultuur/wet)"
+     },
+     {
+      "points": 1,
+      "description": "De Britten wilden voorkomen dat er tegenstand/opstand zou ontstaan in de kolonie als reactie op het (te veel) verbieden van Indiase religieuze gebruiken"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-het-britse-rijk-antw12.png"
+    ]
+   },
+   {
+    "title": "Burgers en Stoommachines",
+    "question_number": 13,
+    "answer_text": "Kern van een juist antwoord is:\n• Coronel wilde met zijn publicatie bereiken dat het gemeentebestuur van Amsterdam (dat zich tot dan toe afzijdig hield / geen sociale regelingen aannam) maatregelen zou nemen om de levensomstandigheden van arbeiders in Amsterdam te verbeteren\n• wat aansloot bij de 'discussies over de sociale kwestie'",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Coronel wilde met zijn publicatie bereiken dat het gemeentebestuur van Amsterdam (dat zich tot dan toe afzijdig hield / geen sociale regelingen aannam) maatregelen zou nemen om de levensomstandigheden van arbeiders in Amsterdam te verbeteren"
+     },
+     {
+      "points": 1,
+      "description": "wat aansloot bij de 'discussies over de sociale kwestie'"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-burgers-en-stoommachines-antw13.png"
+    ]
+   },
+   {
+    "title": "Burgers en Stoommachines",
+    "question_number": 14,
+    "answer_text": "Kern van een juist antwoord is:\n• Tjeerd Stienstra gaat uit van het socialistische standpunt dat de arbeiders worden uitgebuit / dat de slechte (woon)situatie van de arbeiders veroorzaakt is door de (kapitalistische) werkgevers / dat de arbeiders gezamenlijk moeten optreden\n• door (een van de volgende):\n− het verschil te beschrijven tussen de krotten van de arbeiders en de paleizen waarin de machtigen leven.\n− de dwang te benoemen die de machtigen de arbeiders opleggen.\n− de oproep 'Proletariërs aller landen verenigt u'.\n• De toespraak maakt arbeiders zich ervan bewust dat zij zelf kunnen strijden voor hun rechten / dat zij zich moeten gaan verenigen\n• Door de voortschrijdende democratisering krijgen arbeiders stemrecht, zodat zij op partijen kunnen stemmen die zich inzetten voor de rechten van arbeiders",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Tjeerd Stienstra gaat uit van het socialistische standpunt dat de arbeiders worden uitgebuit / dat de slechte (woon)situatie van de arbeiders veroorzaakt is door de (kapitalistische) werkgevers / dat de arbeiders gezamenlijk moeten optreden"
+     },
+     {
+      "points": 1,
+      "description": "door (een van de volgende): het verschil te beschrijven tussen de krotten van de arbeiders en de paleizen waarin de machtigen leven; de dwang te benoemen die de machtigen de arbeiders opleggen; de oproep 'Proletariërs aller landen verenigt u'"
+     },
+     {
+      "points": 1,
+      "description": "De toespraak maakt arbeiders zich ervan bewust dat zij zelf kunnen strijden voor hun rechten / dat zij zich moeten gaan verenigen"
+     },
+     {
+      "points": 1,
+      "description": "Door de voortschrijdende democratisering krijgen arbeiders stemrecht, zodat zij op partijen kunnen stemmen die zich inzetten voor de rechten van arbeiders"
+     }
+    ],
+    "grading_note": "Alleen als in het antwoord op de eerste deelvraag een juist socialistisch standpunt van Tjeerd Stienstra wordt genoemd, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-burgers-en-stoommachines-antw14.png"
+    ]
+   },
+   {
+    "title": "Tijd van Wereldoorlogen",
+    "question_number": 15,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nDoor uitvindingen als de Radio Music Box kon propaganda worden verspreid bij de burgers thuis / konden burgers in groten getale worden bereikt, waardoor alle burgers in aanraking kwamen met dezelfde ideologie/ideeën (waardoor massaorganisaties konden ontstaan).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Door uitvindingen als de Radio Music Box kon propaganda worden verspreid bij de burgers thuis / konden burgers in groten getale worden bereikt, waardoor alle burgers in aanraking kwamen met dezelfde ideologie/ideeën (waardoor massaorganisaties konden ontstaan)."
+     }
+    ],
+    "grading_note": "Alleen als in het antwoord wordt ingegaan op de wijze waarop de informatievoorziening via de radio leidde tot het ontstaan van de massaorganisaties, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-tijd-van-wereldoorlogen-antw15.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa",
+    "question_number": 16,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Volgens Strube zullen de verkiezingen niet eerlijk verlopen / wordt de uitslag door de nationaalsocialisten afgedwongen\n• wat blijkt uit (een van de volgende):\n− de mannen in uniform die bij de ingang staan.\n− de nationaalsocialist die meekijkt over de schouder van de stemmer.\n− de nationaalsocialist die bepaalt of de kiezer binnenkomt.\n− het draaihek in de vorm van een hakenkruis.\n• Volgens Strube zal de democratie verdwijnen\n• wat blijkt uit (een van de volgende):\n− het feit dat de stemgerechtigde bij een guillotine moet stemmen.\n− de tekst op het bord met ‟wie niet voor ons is, is tegen ons”.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Volgens Strube zullen de verkiezingen niet eerlijk verlopen / wordt de uitslag door de nationaalsocialisten afgedwongen"
+     },
+     {
+      "points": 1,
+      "description": "wat blijkt uit (een van de volgende): de mannen in uniform die bij de ingang staan; de nationaalsocialist die meekijkt over de schouder van de stemmer; de nationaalsocialist die bepaalt of de kiezer binnenkomt; het draaihek in de vorm van een hakenkruis"
+     },
+     {
+      "points": 1,
+      "description": "Volgens Strube zal de democratie verdwijnen"
+     },
+     {
+      "points": 1,
+      "description": "wat blijkt uit (een van de volgende): het feit dat de stemgerechtigde bij een guillotine moet stemmen; de tekst op het bord met ‟wie niet voor ons is, is tegen ons”"
+     }
+    ],
+    "grading_note": "Alleen als een juiste verwachting van Strube wordt weergegeven over (bij de eerste deelvraag) het verloop van de verkiezingen en (bij de tweede deelvraag) de toekomst van de democratie, wordt telkens 1 scorepunt toegekend aan een passende verwijzing naar de bron.\nAls bij beide deelvragen dezelfde verwijzing naar de bron wordt genoemd, wordt alleen aan de eerste verwijzing 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-duitsland-in-europa-antw16.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa",
+    "question_number": 17,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De publicatie past bij het in praktijk brengen van het nationaalsocialisme, omdat de Duitse bezetter bepaalt wat de pers moet drukken / de kranten gebruikt om propaganda te bedrijven\n• Met de publicatie wil de Duitse bezetter overbrengen dat de Nederlandse bevolking de Britten niet moet vertrouwen, omdat ze woningen van burgers verwoesten / de koningin niet moeten vertrouwen, omdat zij bijdraagt aan de verwoesting van Nederland, waardoor de Nederlandse bevolk het Duitse gezag makkelijker zou accepteren / net als de Duitsers de Britten/koningin Wilhelmina als de vijand zou zien",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De publicatie past bij het in praktijk brengen van het nationaalsocialisme, omdat de Duitse bezetter bepaalt wat de pers moet drukken / de kranten gebruikt om propaganda te bedrijven"
+     },
+     {
+      "points": 2,
+      "description": "Met de publicatie wil de Duitse bezetter overbrengen dat de Nederlandse bevolking de Britten niet moet vertrouwen, omdat ze woningen van burgers verwoesten / de koningin niet moeten vertrouwen, omdat zij bijdraagt aan de verwoesting van Nederland, waardoor de Nederlandse bevolk het Duitse gezag makkelijker zou accepteren / net als de Duitsers de Britten/koningin Wilhelmina als de vijand zou zien"
+     }
+    ],
+    "grading_note": "Alleen als bij de tweede deelvraag het antwoord een combinatie bevat van de boodschap die de publicatie moet overbrengen en de bijdrage daarvan aan de acceptatie van de Duitse bezetting van Nederland, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-duitsland-in-europa-antw17.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa",
+    "question_number": 18,
+    "answer_text": "Uit het antwoord moet blijken dat in de periode na:\n• mei 1945 Heimatvertriebenen uit de oostelijke voormalig Duitse gebieden / Duitse burgers op de vlucht voor de Russische troepen naar het westen van Duitsland kwamen\n• augustus 1961 veel minder Oost-Duitsers naar West-Duitsland konden trekken door de bouw van de Berlijnse Muur / door het aanscherpen van de controle op de grens tussen Oost-Duitsland en West-Duitsland\n• juni 1989 veel Oost-Duitsers naar het westen trokken nadat enkele Oost-Europese landen (in de zomer) hun grenzen hadden opengesteld / (in november) de Muur was gevallen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "mei 1945 Heimatvertriebenen uit de oostelijke voormalig Duitse gebieden / Duitse burgers op de vlucht voor de Russische troepen naar het westen van Duitsland kwamen"
+     },
+     {
+      "points": 1,
+      "description": "augustus 1961 veel minder Oost-Duitsers naar West-Duitsland konden trekken door de bouw van de Berlijnse Muur / door het aanscherpen van de controle op de grens tussen Oost-Duitsland en West-Duitsland"
+     },
+     {
+      "points": 1,
+      "description": "juni 1989 veel Oost-Duitsers naar het westen trokken nadat enkele Oost-Europese landen (in de zomer) hun grenzen hadden opengesteld / (in november) de Muur was gevallen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-duitsland-in-europa-antw18.png"
+    ]
+   },
+   {
+    "title": "Door de tijd heen",
+    "question_number": 19,
+    "answer_text": "De juiste volgorde is:\n5, 2, 6, 1, 3, 4",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 5, 2, 6, 1, 3, 4"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-door-de-tijd-heen-antw19.png"
+    ]
+   },
+   {
+    "title": "Computer en Televisie",
+    "question_number": 20,
+    "answer_text": "Kern van een juist antwoord is:\nTogliatti zegt dat Italië door toetreding tot de NAVO / tot een bondgenootschap van westerse landen gevaar loopt, omdat het daardoor een doelwit wordt voor (de bommen van) de Sovjet-Unie/het Oostblok, wat past bij 'de verdeling van de wereld in twee ideologische blokken in de greep van een wapenwedloop en de daaruit voortvloeiende dreiging van een atoomoorlog'.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Togliatti zegt dat Italië door toetreding tot de NAVO / tot een bondgenootschap van westerse landen gevaar loopt, omdat het daardoor een doelwit wordt voor (de bommen van) de Sovjet-Unie/het Oostblok, wat past bij 'de verdeling van de wereld in twee ideologische blokken in de greep van een wapenwedloop en de daaruit voortvloeiende dreiging van een atoomoorlog'."
+     }
+    ],
+    "grading_note": "Als in het antwoord alleen een passend kenmerkend aspect wordt genoemd zonder uitleg over het protest van Togliatti, worden geen scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-computer-en-televisie-antw20.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa",
+    "question_number": 21,
+    "answer_text": "De juiste combinaties zijn:\na - 5, b - 2, c - 4, d - 1",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste combinaties zijn: a - 5, b - 2, c - 4, d - 1 (indien vier combinaties juist: 2; indien drie combinaties juist: 1; Indien minder dan drie combinaties juist: 0)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-duitsland-in-europa-antw21.png"
+    ]
+   },
+   {
+    "title": "Nederland 1948-2008",
+    "question_number": 22,
+    "answer_text": "Kern van een juist antwoord is:\n• Jongeling wil waarschuwen voor de ontkerkelijking/secularisering in Nederland (die wordt veroorzaakt door Amerikaanse invloeden)\n• door te zeggen dat (een van de volgende):\n− Amerika een haard van geestelijke besmetting is.\n− vanuit Amerika de bacillen van het bederf worden overgedragen.\n− Amerikaanse films slecht zijn voor de normen in Nederland.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Jongeling wil waarschuwen voor de ontkerkelijking/secularisering in Nederland (die wordt veroorzaakt door Amerikaanse invloeden)"
+     },
+     {
+      "points": 1,
+      "description": "door te zeggen dat (een van de volgende): Amerika een haard van geestelijke besmetting is; vanuit Amerika de bacillen van het bederf worden overgedragen; Amerikaanse films slecht zijn voor de normen in Nederland"
+     }
+    ],
+    "grading_note": "Alleen als in het antwoord wordt ingegaan op de ontkerkelijking/secularisering, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-nederland-1948-2008-antw22.png"
+    ]
+   },
+   {
+    "title": "Nederland 1948-2008",
+    "question_number": 23,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De werving van gastarbeiders werd in 1973 beperkt, omdat er door de economische crisis / door de oliecrisis geen krapte meer was op de arbeidsmarkt\n• Door het recht op gezinshereniging steeg het aantal Marokkaanse en Turkse immigranten (omdat vrouwen en kinderen naar Nederland kwamen)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De werving van gastarbeiders werd in 1973 beperkt, omdat er door de economische crisis / door de oliecrisis geen krapte meer was op de arbeidsmarkt"
+     },
+     {
+      "points": 1,
+      "description": "Door het recht op gezinshereniging steeg het aantal Marokkaanse en Turkse immigranten (omdat vrouwen en kinderen naar Nederland kwamen)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-nederland-1948-2008-antw23.png"
+    ]
+   },
+   {
+    "title": "Nederland 1948-2008",
+    "question_number": 24,
+    "answer_text": "Kern van een juist antwoord is:\nDe uitspraken passen bij de uitgangspunten van de kraakbeweging:\n• dat de woningnood moet worden opgelost\n• omdat ze zeggen dat ze het ondenkbaar vinden dat er huizen worden afgebroken voor een parkeergarage\n• dat er gestreden mag worden om het doel te behalen / dat er verzet tegen de autoriteiten mag plaatsvinden (ook met geweld)\n• omdat ze zeggen dat ze (een van de volgende):\n− de confrontatie echt aan wilden gaan.\n− barricades/verdedigingslinies aanleggen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "dat de woningnood moet worden opgelost"
+     },
+     {
+      "points": 1,
+      "description": "omdat ze zeggen dat ze het ondenkbaar vinden dat er huizen worden afgebroken voor een parkeergarage"
+     },
+     {
+      "points": 1,
+      "description": "dat er gestreden mag worden om het doel te behalen / dat er verzet tegen de autoriteiten mag plaatsvinden (ook met geweld)"
+     },
+     {
+      "points": 1,
+      "description": "omdat ze zeggen dat ze (een van de volgende): de confrontatie echt aan wilden gaan; barricades/verdedigingslinies aanleggen"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een juiste uitleg bevat over de uitgangspunten van de krakers, wordt telkens 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.\nAls bij beide standpunten dezelfde verwijzing naar de bron wordt genoemd, wordt alleen aan de eerste verwijzing 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-nederland-1948-2008-antw24.png"
+    ]
+   },
+   {
+    "title": "Computer en Televisie",
+    "question_number": 25,
+    "answer_text": "Kern van een juist antwoord is:\nMensen in Nizjni Tagil leverden openlijke kritiek op de vervuiling van hun stad / op de economie van de Sovjet-Unie waarbij met oude (vieze) kolenovens werd gewerkt, waaruit blijkt dat de doelstelling dat er meer openheid in de Sovjet-Unie mogelijk moest zijn / dat kritiek op maatschappelijke en economische misstanden mogelijk moest zijn (door de invoering van de glasnost), was behaald.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Mensen in Nizjni Tagil leverden openlijke kritiek op de vervuiling van hun stad / op de economie van de Sovjet-Unie waarbij met oude (vieze) kolenovens werd gewerkt, waaruit blijkt dat de doelstelling dat er meer openheid in de Sovjet-Unie mogelijk moest zijn / dat kritiek op maatschappelijke en economische misstanden mogelijk moest zijn (door de invoering van de glasnost), was behaald."
+     }
+    ],
+    "grading_note": "Als in het antwoord alleen het begrip glasnost wordt genoemd zonder uitleg, worden geen scorepunten toegekend.\nAls het antwoord ingaat op de perestrojka, worden geen scorepunten toegekend (omdat uit het protest blijkt dat de doelstelling daarvan nog niet was behaald).",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-computer-en-televisie-antw25.png"
+    ]
+   },
+   {
+    "title": "Computer en Televisie",
+    "question_number": 26,
+    "answer_text": "Uit het antwoord moet blijken dat:\na. de foto 'de toenemende westerse welvaart die vanaf de jaren zestig van de twintigste eeuw aanleiding gaf tot ingrijpende sociaal-culturele veranderingsprocessen' kan illustreren\nb. omdat de foto een beurs toont waarop de nieuwste modellen bromfiets worden getoond / waar mensen kunnen komen kijken naar luxeproducten die ze zich kunnen veroorloven, wat de toenemende welvaart illustreert\nc. omdat de foto een bedrijfsleidster toont van een bromfietsenzaak, wat de sociaal-culturele verandering illustreert dat vrouwen buitenshuis aan het werk gaan / vrouwen een leidinggevende functie kunnen krijgen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a. de foto 'de toenemende westerse welvaart die vanaf de jaren zestig van de twintigste eeuw aanleiding gaf tot ingrijpende sociaal-culturele veranderingsprocessen' kan illustreren"
+     },
+     {
+      "points": 1,
+      "description": "b. omdat de foto een beurs toont waarop de nieuwste modellen bromfiets worden getoond / waar mensen kunnen komen kijken naar luxeproducten die ze zich kunnen veroorloven, wat de toenemende welvaart illustreert"
+     },
+     {
+      "points": 1,
+      "description": "c. omdat de foto een bedrijfsleidster toont van een bromfietsenzaak, wat de sociaal-culturele verandering illustreert dat vrouwen buitenshuis aan het werk gaan / vrouwen een leidinggevende functie kunnen krijgen"
+     }
+    ],
+    "grading_note": "Alleen als bij de tweede deelvraag een deel van het kenmerkend aspect op een juiste manier wordt verbonden met de bron, wordt telkens 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-iii-computer-en-televisie-antw26.png"
+    ]
+   }
+  ]
+ }
+}
