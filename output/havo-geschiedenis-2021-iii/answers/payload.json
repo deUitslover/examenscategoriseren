@@ -1,0 +1,529 @@
+{
+  "payload": {
+    "subject_name": "Geschiedenis",
+    "level": "HAVO",
+    "source": "HAVO Geschiedenis 2021-III",
+    "answers": [
+      {
+        "title": "Door de tijd heen",
+        "question_number": 1,
+        "answer_text": "De juiste volgorde is:\n4, 6, 3, 2, 5, 1",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De juiste volgorde is: 4, 6, 3, 2, 5, 1"
+          }
+        ],
+        "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-door-de-tijd-heen-antw1.png"
+        ]
+      },
+      {
+        "title": "Ontdekkers en Hervormers",
+        "question_number": 2,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Uit de beschreven gebeurtenis blijkt dat inwoners van Cuba de werkwijze van de Spanjaarden vrezen / wegvluchten bij de komst van de Spanjaarden / zich uit angst voor de Spanjaarden tegen hen verzetten / streng gestraft worden hoewel zij onschuldig zijn, waardoor duidelijk wordt dat de Spanjaarden zich zo wreed tegen de inwoners van Cuba gedragen dat wetten nodig zijn om de inwoners van Cuba te beschermen\n• De beschreven gebeurtenis maakt duidelijk dat zulke wetten de bekering van de inheemse bevolking bevorderen, omdat uit de bron blijkt dat Hatuey het christelijk geloof afwijst door het wrede gedrag van de Spanjaarden en wel open zou staan voor bekering als dit gedrag (door aanname van wetten) zou zijn verboden",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Uit de beschreven gebeurtenis blijkt dat inwoners van Cuba de werkwijze van de Spanjaarden vrezen / wegvluchten bij de komst van de Spanjaarden / zich uit angst voor de Spanjaarden tegen hen verzetten / streng gestraft worden hoewel zij onschuldig zijn, waardoor duidelijk wordt dat de Spanjaarden zich zo wreed tegen de inwoners van Cuba gedragen dat wetten nodig zijn om de inwoners van Cuba te beschermen"
+          },
+          {
+            "points": 2,
+            "description": "De beschreven gebeurtenis maakt duidelijk dat zulke wetten de bekering van de inheemse bevolking bevorderen, omdat uit de bron blijkt dat Hatuey het christelijk geloof afwijst door het wrede gedrag van de Spanjaarden en wel open zou staan voor bekering als dit gedrag (door aanname van wetten) zou zijn verboden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-ontdekkers-en-hervormers-antw2.png"
+        ]
+      },
+      {
+        "title": "Ontdekkers en Hervormers",
+        "question_number": 3,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nbij 1:\n• Het besluit kan worden uitgelegd met 'het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat', want het aanleggen / verbeteren van vestingwerken was noodzakelijk tijdens de oorlog tussen de opstandelingen / de Republiek en de Spaanse koning\nbij 2:\n• Het besluit kan worden uitgelegd met 'de heroriëntatie op het erfgoed van de klassieke Oudheid', want uit het tentoonstellen van de Romeinse molenstenen blijkt de aandacht / waardering voor vondsten uit de klassieke Oudheid",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij 1: Het besluit kan worden uitgelegd met 'het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat', want het aanleggen / verbeteren van vestingwerken was noodzakelijk tijdens de oorlog tussen de opstandelingen / de Republiek en de Spaanse koning"
+          },
+          {
+            "points": 1,
+            "description": "bij 2: Het besluit kan worden uitgelegd met 'de heroriëntatie op het erfgoed van de klassieke Oudheid', want uit het tentoonstellen van de Romeinse molenstenen blijkt de aandacht / waardering voor vondsten uit de klassieke Oudheid"
+          }
+        ],
+        "grading_note": "Alleen als in een antwoord een juist kenmerkend aspect wordt genoemd met een passende verklaring, wordt 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-ontdekkers-en-hervormers-antw3.png"
+        ]
+      },
+      {
+        "title": "Ontdekkers en Hervormers",
+        "question_number": 5,
+        "answer_text": "• Gegeven 1 past bij 'het begin van de Europese overzeese expansie'\n• Gegeven 2 past bij 'de bloei in economisch en cultureel opzicht van de Nederlandse Republiek' of bij 'wereldwijde handelscontacten, handelskapitalisme en het begin van een wereldeconomie'\n• Gegeven 3 past bij 'uitbouw van de Europese overheersing' en 'de moderne vorm van imperialisme die verband hield met industrialisatie'",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Gegeven 1 past bij 'het begin van de Europese overzeese expansie'"
+          },
+          {
+            "points": 1,
+            "description": "Gegeven 2 past bij 'de bloei in economisch en cultureel opzicht van de Nederlandse Republiek' of bij 'wereldwijde handelscontacten, handelskapitalisme en het begin van een wereldeconomie'"
+          },
+          {
+            "points": 1,
+            "description": "Gegeven 3 past bij 'uitbouw van de Europese overheersing' en 'de moderne vorm van imperialisme die verband hield met industrialisatie'"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-ontdekkers-en-hervormers-antw5.png"
+        ]
+      },
+      {
+        "title": "Ontdekkers en Hervormers",
+        "question_number": 14,
+        "answer_text": "Kern van een juist antwoord is:\n• De bron bevat minder bruikbare informatie voor onderzoeksvraag 1, want Riis wil vooral de armoede benadrukken / wil mensen ervan overtuigen dat de woonomstandigheden verbeterd moeten worden (waardoor de foto een vertekend beeld geeft)\n• De bron bevat meer bruikbare informatie voor onderzoeksvraag 2, want door de duidelijk zichtbare armoede op de foto's / de verspreiding van het boek worden meer mensen bewust gemaakt van de slechte omstandigheden waarin veel Amerikaanse arbeiders leven",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De bron bevat minder bruikbare informatie voor onderzoeksvraag 1, want Riis wil vooral de armoede benadrukken / wil mensen ervan overtuigen dat de woonomstandigheden verbeterd moeten worden (waardoor de foto een vertekend beeld geeft)"
+          },
+          {
+            "points": 1,
+            "description": "De bron bevat meer bruikbare informatie voor onderzoeksvraag 2, want door de duidelijk zichtbare armoede op de foto's / de verspreiding van het boek worden meer mensen bewust gemaakt van de slechte omstandigheden waarin veel Amerikaanse arbeiders leven"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-ontdekkers-en-hervormers-antw14.png"
+        ]
+      },
+      {
+        "title": "Het Britse Rijk",
+        "question_number": 7,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Uit de bron blijkt dat er meer producten worden gemaakt dan in Groot-Brittannië kunnen worden verkocht, waardoor een afzetmarkt gezocht wordt in het buitenland / India\n• De Indiase huisnijverheid kan niet concurreren met de goedkopere machinale productie van de Britse fabrikanten",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Uit de bron blijkt dat er meer producten worden gemaakt dan in Groot-Brittannië kunnen worden verkocht, waardoor een afzetmarkt gezocht wordt in het buitenland / India"
+          },
+          {
+            "points": 1,
+            "description": "De Indiase huisnijverheid kan niet concurreren met de goedkopere machinale productie van de Britse fabrikanten"
+          }
+        ],
+        "grading_note": "Alleen als bij de eerste deelvraag een passende verwijzing naar de bron wordt gevolgd door een juiste verklaring, worden 2 scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-het-britse-rijk-antw7.png"
+        ]
+      },
+      {
+        "title": "Het Britse Rijk",
+        "question_number": 8,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Standpunt 1 is gebaseerd op een ideaal van de Verlichting, omdat Verlichtingsdenkers geloofden in de natuurlijke rechten van mensen / dat alle mensen gelijk / vrij / rationele wezens zijn (en daarom geen bezit van een ander mens mogen zijn)\n• Standpunt 2 past bij het feit dat de Verenigde Staten een federale staatsvorm hebben, omdat in een federale staat de centrale regering niet de volledige macht heeft over de staten (en er dus per staat verschillend beslist kan worden over slavernij)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Standpunt 1 is gebaseerd op een ideaal van de Verlichting, omdat Verlichtingsdenkers geloofden in de natuurlijke rechten van mensen / dat alle mensen gelijk / vrij / rationele wezens zijn (en daarom geen bezit van een ander mens mogen zijn)"
+          },
+          {
+            "points": 1,
+            "description": "Standpunt 2 past bij het feit dat de Verenigde Staten een federale staatsvorm hebben, omdat in een federale staat de centrale regering niet de volledige macht heeft over de staten (en er dus per staat verschillend beslist kan worden over slavernij)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-het-britse-rijk-antw8.png"
+        ]
+      },
+      {
+        "title": "Het Britse Rijk",
+        "question_number": 9,
+        "answer_text": "Kern van een juist antwoord is:\nHet standpunt werd vooral gedeeld door vertegenwoordigers van de zuidelijke staten, omdat in deze staten tot slaaf gemaakten werkten / de economie afhankelijk was van de slavernij (en vertegenwoordigers van die staten daarom vooral voorstanders waren van de slavernij).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Het standpunt werd vooral gedeeld door vertegenwoordigers van de zuidelijke staten, omdat in deze staten tot slaaf gemaakten werkten / de economie afhankelijk was van de slavernij (en vertegenwoordigers van die staten daarom vooral voorstanders waren van de slavernij)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-het-britse-rijk-antw9.png"
+        ]
+      },
+      {
+        "title": "Het Britse Rijk",
+        "question_number": 10,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• De ondernemers zetten de artsen onder druk, omdat het in afzondering houden van schepen ten koste ging van hun economische belangen\n• Door het ontstaan van een liberale markteconomie kregen ondernemers steeds meer politieke invloed, wat blijkt uit de reactie van de gezondheidsraad, die de maatregel onder druk terugdraaide",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De ondernemers zetten de artsen onder druk, omdat het in afzondering houden van schepen ten koste ging van hun economische belangen"
+          },
+          {
+            "points": 2,
+            "description": "Door het ontstaan van een liberale markteconomie kregen ondernemers steeds meer politieke invloed, wat blijkt uit de reactie van de gezondheidsraad, die de maatregel onder druk terugdraaide"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-het-britse-rijk-antw10.png"
+        ]
+      },
+      {
+        "title": "Het Britse Rijk",
+        "question_number": 12,
+        "answer_text": "Kern van een juist antwoord is:\nDoor het volgen van deze opleiding aan een van deze universiteiten waren Indiërs in staat om te werken in een bestuurlijke functie, wat past bij de opzet van de Britten om de inheemse bevolking zoveel mogelijk bij het bestuur van de kolonie te betrekken.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Door het volgen van deze opleiding aan een van deze universiteiten waren Indiërs in staat om te werken in een bestuurlijke functie, wat past bij de opzet van de Britten om de inheemse bevolking zoveel mogelijk bij het bestuur van de kolonie te betrekken."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-het-britse-rijk-antw12.png"
+        ]
+      },
+      {
+        "title": "Het Britse Rijk",
+        "question_number": 13,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nDoor controle over het Suezkanaal werd de reisafstand naar India aanzienlijk verkort, waardoor\n• de handel tussen Groot-Brittannië en India sneller kon verlopen / in omvang kon groeien (wat een economisch voordeel opleverde) / de handel met India beter gecontroleerd kon worden\n• Groot-Brittannië de koloniën effectiever kon besturen / sneller troepen naar India kon verplaatsen (wat een versterking van het Britse Rijk betekende)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "de handel tussen Groot-Brittannië en India sneller kon verlopen / in omvang kon groeien (wat een economisch voordeel opleverde) / de handel met India beter gecontroleerd kon worden"
+          },
+          {
+            "points": 1,
+            "description": "Groot-Brittannië de koloniën effectiever kon besturen / sneller troepen naar India kon verplaatsen (wat een versterking van het Britse Rijk betekende)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-het-britse-rijk-antw13.png"
+        ]
+      },
+      {
+        "title": "Regenten en Vorsten",
+        "question_number": 4,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Van Diemerbroeck verklaart dat het gedane onderzoek niet diepgaand was door te wijzen op de angst voor besmetting met de pest (want het doen van onderzoek is levensgevaarlijk)\n• Van Diemerbroeck schrijft dat (een van de volgende):\n  − hij glasheldere redeneringen doet,\n  − hij dingen bevestigt met ervaringen van hemzelf en van anderen,\n• waarmee hij aansluit bij het doen van waarnemingen / het opstellen van toetsbare hypothesen / het empirisme in de zeventiende eeuw",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Van Diemerbroeck verklaart dat het gedane onderzoek niet diepgaand was door te wijzen op de angst voor besmetting met de pest (want het doen van onderzoek is levensgevaarlijk)"
+          },
+          {
+            "points": 1,
+            "description": "Van Diemerbroeck schrijft dat (een van de volgende): hij glasheldere redeneringen doet, hij dingen bevestigt met ervaringen van hemzelf en van anderen,"
+          },
+          {
+            "points": 1,
+            "description": "waarmee hij aansluit bij het doen van waarnemingen / het opstellen van toetsbare hypothesen / het empirisme in de zeventiende eeuw"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-regenten-en-vorsten-antw4.png"
+        ]
+      },
+      {
+        "title": "Pruiken en Revoluties",
+        "question_number": 6,
+        "answer_text": "Kern van een juist antwoord is:\nHet Kartoffelbefehl is Verlicht te noemen omdat Frederik de Grote het bevel gaf dat zijn onderdanen kennis moesten maken met het nut van de aardappelplant, wat aansluit bij het Verlichtingsideaal dat de staat dienend moet zijn aan het volk / kennis belangrijk is / nieuwe kennis toegepast moest worden in de economie.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Het Kartoffelbefehl is Verlicht te noemen omdat Frederik de Grote het bevel gaf dat zijn onderdanen kennis moesten maken met het nut van de aardappelplant, wat aansluit bij het Verlichtingsideaal dat de staat dienend moet zijn aan het volk / kennis belangrijk is / nieuwe kennis toegepast moest worden in de economie."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-pruiken-en-revoluties-antw6.png"
+        ]
+      },
+      {
+        "title": "Tijd van Wereldoorlogen",
+        "question_number": 16,
+        "answer_text": "Uit het antwoord moet blijken dat:\n• met het afbeelden van (een van de volgende):\n  − de uitgemergelde ezel\n  − de magere Germania in gescheurde kleren\n  − de kapotte kar\n  − de afgekloven wortel met de tekst 'schijnoverwinning'\n  − de ezel die moeizaam vooruitkomt\n• de Britten de boodschap willen overbrengen dat de oorlog het Duitse volk heeft uitgeput / dat Duitsland niet meer zo sterk is als in 1914 / dat een overwinning niet meer mogelijk is\n• waarmee de Britten willen bereiken dat de Duitse troepen niet langer doorvechten / de wapens neerleggen / gedemoraliseerd worden (waardoor de Britse overwinning behaald kan worden)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "met het afbeelden van (een van de volgende): de uitgemergelde ezel; de magere Germania in gescheurde kleren; de kapotte kar; de afgekloven wortel met de tekst 'schijnoverwinning'; de ezel die moeizaam vooruitkomt"
+          },
+          {
+            "points": 1,
+            "description": "de Britten de boodschap willen overbrengen dat de oorlog het Duitse volk heeft uitgeput / dat Duitsland niet meer zo sterk is als in 1914 / dat een overwinning niet meer mogelijk is"
+          },
+          {
+            "points": 1,
+            "description": "waarmee de Britten willen bereiken dat de Duitse troepen niet langer doorvechten / de wapens neerleggen / gedemoraliseerd worden (waardoor de Britse overwinning behaald kan worden)"
+          }
+        ],
+        "grading_note": "Alleen als bij de eerste deelvraag een juiste boodschap wordt genoemd, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-tijd-van-wereldoorlogen-antw16.png"
+        ]
+      },
+      {
+        "title": "Tijd van Wereldoorlogen",
+        "question_number": 21,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Met de foto kan de propagandaboodschap worden overgebracht dat het bondgenootschap tussen de Verenigde Staten en de Sovjet-Unie hecht is\n• Vijf jaar na de Tweede Wereldoorlog staan de Verenigde Staten en de Sovjet-Unie tijdens de Koude Oorlog vijandig tegenover elkaar / is er geen sprake meer van een bondgenootschap tussen de Verenigde Staten en de Sovjet-Unie, waardoor de Sovjetregering de boodschap in tegenspraak vindt met de nieuwe situatie",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Met de foto kan de propagandaboodschap worden overgebracht dat het bondgenootschap tussen de Verenigde Staten en de Sovjet-Unie hecht is"
+          },
+          {
+            "points": 2,
+            "description": "Vijf jaar na de Tweede Wereldoorlog staan de Verenigde Staten en de Sovjet-Unie tijdens de Koude Oorlog vijandig tegenover elkaar / is er geen sprake meer van een bondgenootschap tussen de Verenigde Staten en de Sovjet-Unie, waardoor de Sovjetregering de boodschap in tegenspraak vindt met de nieuwe situatie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-tijd-van-wereldoorlogen-antw21.png"
+        ]
+      },
+      {
+        "title": "Tijd van Wereldoorlogen",
+        "question_number": 22,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nDe foto van burgers die schuilen voor bombardementen in een oud keldergewelf kan worden gebruikt als illustratie bij 'de verwoesting op niet eerder vertoonde schaal en de betrokkenheid van de burgerbevolking bij de oorlog', wat past bij moderne oorlogvoering.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De foto van burgers die schuilen voor bombardementen in een oud keldergewelf kan worden gebruikt als illustratie bij 'de verwoesting op niet eerder vertoonde schaal en de betrokkenheid van de burgerbevolking bij de oorlog', wat past bij moderne oorlogvoering."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-tijd-van-wereldoorlogen-antw22.png"
+        ]
+      },
+      {
+        "title": "Burgers en Stoommachines",
+        "question_number": 11,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Macaulay keert zich tegen de voortschrijdende democratisering, want in de bron wordt duidelijk dat de petitie zal leiden tot meer inspraak voor het gewone volk / tot uitbreiding van het kiesrecht voor mannen\n• wat volgens hem tot chaos kan leiden, omdat de arbeiders niet de juiste opleiding hebben ontvangen / omdat de arbeiders door hun onwetendheid niet begrijpen dat plunderingen hun problemen zullen verergeren\n• Macaulay keert zich tegen de invloed van de opkomende emancipatiebeweging van de arbeiders, want in de bron heeft hij het over ophitsers en verleiders die de arbeiders proberen te beïnvloeden\n• wat volgens hem tot chaos kan leiden, omdat arbeiders door hen misleid worden / verkeerde ideeën krijgen / verkeerde politieke beslissingen nemen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Macaulay keert zich tegen de voortschrijdende democratisering, want in de bron wordt duidelijk dat de petitie zal leiden tot meer inspraak voor het gewone volk / tot uitbreiding van het kiesrecht voor mannen"
+          },
+          {
+            "points": 1,
+            "description": "wat volgens hem tot chaos kan leiden, omdat de arbeiders niet de juiste opleiding hebben ontvangen / omdat de arbeiders door hun onwetendheid niet begrijpen dat plunderingen hun problemen zullen verergeren"
+          },
+          {
+            "points": 1,
+            "description": "Macaulay keert zich tegen de invloed van de opkomende emancipatiebeweging van de arbeiders, want in de bron heeft hij het over ophitsers en verleiders die de arbeiders proberen te beïnvloeden"
+          },
+          {
+            "points": 1,
+            "description": "wat volgens hem tot chaos kan leiden, omdat arbeiders door hen misleid worden / verkeerde ideeën krijgen / verkeerde politieke beslissingen nemen"
+          }
+        ],
+        "grading_note": "Alleen als een juiste ondersteuning wordt gegeven, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-burgers-en-stoommachines-antw11.png"
+        ]
+      },
+      {
+        "title": "Burgers en Stoommachines",
+        "question_number": 15,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nDe tekenaar geeft de kritiek weer dat door de Arbeidswet arbeidsters weliswaar beschermd worden, maar ook minder inkomsten krijgen, omdat zij minder lang kunnen werken (en daardoor minder salaris krijgen).",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De tekenaar geeft de kritiek weer dat door de Arbeidswet arbeidsters weliswaar beschermd worden, maar ook minder inkomsten krijgen, omdat zij minder lang kunnen werken (en daardoor minder salaris krijgen)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-burgers-en-stoommachines-antw15.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa",
+        "question_number": 17,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Door Duitsland als enige schuldige voor het uitbreken van de Eerste Wereldoorlog aan te wijzen kon gerechtvaardigd worden dat Duitsland gestraft werd\n• met bijvoorbeeld de bepaling dat Duitsland:\n  − hoge herstelbetalingen moest doen.\n  − (grondstofrijke) gebieden moest afstaan.\n  − zijn leger moest ontbinden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door Duitsland als enige schuldige voor het uitbreken van de Eerste Wereldoorlog aan te wijzen kon gerechtvaardigd worden dat Duitsland gestraft werd"
+          },
+          {
+            "points": 1,
+            "description": "met bijvoorbeeld de bepaling dat Duitsland: hoge herstelbetalingen moest doen. (grondstofrijke) gebieden moest afstaan. zijn leger moest ontbinden."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-duitsland-in-europa-antw17.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa",
+        "question_number": 18,
+        "answer_text": "De juiste volgorde is:\n5, 3, 4, 6, 1, 2",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De juiste volgorde is: 5, 3, 4, 6, 1, 2"
+          }
+        ],
+        "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-duitsland-in-europa-antw18.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa",
+        "question_number": 19,
+        "answer_text": "Kern van een juist antwoord is:\nMet de invoering van een wisselkoers die voordelig was voor de Oost-Duitsers (omdat de Ostmark evenveel waard werd als de veel duurdere D-Mark), wilde de Duitse regering ervoor zorgen dat de Oost-Duitsers positief tegenover de hereniging met West-Duitsland stonden / dat de Oost-Duitse bevolking economisch ondersteund werd / dat de hereniging van Duitsland soepel zou gaan.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Met de invoering van een wisselkoers die voordelig was voor de Oost-Duitsers (omdat de Ostmark evenveel waard werd als de veel duurdere D-Mark), wilde de Duitse regering ervoor zorgen dat de Oost-Duitsers positief tegenover de hereniging met West-Duitsland stonden / dat de Oost-Duitse bevolking economisch ondersteund werd / dat de hereniging van Duitsland soepel zou gaan."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-duitsland-in-europa-antw19.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa",
+        "question_number": 20,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• De boodschap wijkt af van het buitenlands beleid van de nazi's, omdat in de poster Lebensraum / leefruimte in verband gebracht wordt met (de voormalige koloniën in) Afrika, terwijl de nazi's de nadruk leggen op het verenigen van Duitstalige gebieden / op het verkrijgen van Lebensraum in het oosten van Europa\n• De boodschap kan gebruikt worden om aanhangers te werven onder conservatieve Duitsers, omdat op de poster voormalige koloniën in Afrika worden getoond / omdat de vlag van het keizerrijk wordt getoond, waarmee de Reichskolonialbund verwijst naar de situatie vóór de Eerste Wereldoorlog / naar het keizerrijk",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De boodschap wijkt af van het buitenlands beleid van de nazi's, omdat in de poster Lebensraum / leefruimte in verband gebracht wordt met (de voormalige koloniën in) Afrika, terwijl de nazi's de nadruk leggen op het verenigen van Duitstalige gebieden / op het verkrijgen van Lebensraum in het oosten van Europa"
+          },
+          {
+            "points": 2,
+            "description": "De boodschap kan gebruikt worden om aanhangers te werven onder conservatieve Duitsers, omdat op de poster voormalige koloniën in Afrika worden getoond / omdat de vlag van het keizerrijk wordt getoond, waarmee de Reichskolonialbund verwijst naar de situatie vóór de Eerste Wereldoorlog / naar het keizerrijk"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-duitsland-in-europa-antw20.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa",
+        "question_number": 23,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Met het weergeven van (twee van de volgende):\n  − Willy Brandt met een (onschuldig) beertje / slechts één persoon / het ontbreken van soldaten in West-Berlijn,\n  − de agressie / angst aan de oostkant van de Muur (of een voorbeeld daarvan),\n  − de overdrijving van de dreiging door Walter Ulbricht door meerdere muren te bouwen,\n• geeft de tekenaar aan dat de uitleg van de regering van de DDR niet klopt, omdat de dreiging van het westen opgeblazen wordt / de muur in werkelijkheid bedoeld is om interne problemen in de DDR op te lossen (en niet tegen het westen gericht is)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Met het weergeven van (twee van de volgende): Willy Brandt met een (onschuldig) beertje / slechts één persoon / het ontbreken van soldaten in West-Berlijn, de agressie / angst aan de oostkant van de Muur (of een voorbeeld daarvan), de overdrijving van de dreiging door Walter Ulbricht door meerdere muren te bouwen,"
+          },
+          {
+            "points": 1,
+            "description": "geeft de tekenaar aan dat de uitleg van de regering van de DDR niet klopt, omdat de dreiging van het westen opgeblazen wordt / de muur in werkelijkheid bedoeld is om interne problemen in de DDR op te lossen (en niet tegen het westen gericht is)"
+          }
+        ],
+        "grading_note": "Alleen als het oordeel juist wordt weergegeven, worden scorepunten toegekend aan passende verwijzingen naar de prent.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-duitsland-in-europa-antw23.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa",
+        "question_number": 26,
+        "answer_text": "Voorbeeld van een juist antwoord is:\na. In de BRD werd de nadruk gelegd op de daaropvolgende deling, wat past bij de wens tot hereniging die toen nog werd nagestreefd door de regering\nb. De DDR was een communistische staat / een satellietstaat van de Sovjet-Unie, waardoor het verslaan van de nationaalsocialisten door de communisten werd gepropageerd als een bevrijding",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "a. In de BRD werd de nadruk gelegd op de daaropvolgende deling, wat past bij de wens tot hereniging die toen nog werd nagestreefd door de regering"
+          },
+          {
+            "points": 1,
+            "description": "b. De DDR was een communistische staat / een satellietstaat van de Sovjet-Unie, waardoor het verslaan van de nationaalsocialisten door de communisten werd gepropageerd als een bevrijding"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-duitsland-in-europa-antw26.png"
+        ]
+      },
+      {
+        "title": "Nederland 1948-2008",
+        "question_number": 24,
+        "answer_text": "Kern van een juist antwoord is:\n• Verandering 1 kan met de advertentie wel ondersteund worden, omdat in een vrouwenblad voor stofzuigers werd geadverteerd, waaruit blijkt dat in huishoudens (moderne) apparaten hun intrede hadden gedaan / dat het toen interessant was voor bedrijven om te adverteren voor producten (wat past bij een consumptiemaatschappij)\n• Verandering 2 kan met de advertentie niet ondersteund worden, omdat de advertentie ervan uitgaat dat de vrouw stofzuigt (en niet de man) / dat de vrouw samen met haar man een stofzuiger koopt (waaruit niet blijkt dat de vrouw geëmancipeerd is)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Verandering 1 kan met de advertentie wel ondersteund worden, omdat in een vrouwenblad voor stofzuigers werd geadverteerd, waaruit blijkt dat in huishoudens (moderne) apparaten hun intrede hadden gedaan / dat het toen interessant was voor bedrijven om te adverteren voor producten (wat past bij een consumptiemaatschappij)"
+          },
+          {
+            "points": 2,
+            "description": "Verandering 2 kan met de advertentie niet ondersteund worden, omdat de advertentie ervan uitgaat dat de vrouw stofzuigt (en niet de man) / dat de vrouw samen met haar man een stofzuiger koopt (waaruit niet blijkt dat de vrouw geëmancipeerd is)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-nederland-1948-2008-antw24.png"
+        ]
+      },
+      {
+        "title": "Nederland 1948-2008",
+        "question_number": 25,
+        "answer_text": "Kern van een juist antwoord is:\n• Uit de opvatting dat de ideologieën van de politieke partijen geen antwoord meer geven op de vragen van de kiezers / de beginselen van de partijen verouderd zijn, blijkt dat kiezers zich niet meer laten leiden door de ideologie van de zuil (wat past bij ontzuiling)\n• Uit de opvatting dat de partijprogramma's op elkaar lijken, blijkt dat de grenzen tussen de zuilen beginnen te vervagen",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Uit de opvatting dat de ideologieën van de politieke partijen geen antwoord meer geven op de vragen van de kiezers / de beginselen van de partijen verouderd zijn, blijkt dat kiezers zich niet meer laten leiden door de ideologie van de zuil (wat past bij ontzuiling)"
+          },
+          {
+            "points": 2,
+            "description": "Uit de opvatting dat de partijprogramma's op elkaar lijken, blijkt dat de grenzen tussen de zuilen beginnen te vervagen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-nederland-1948-2008-antw25.png"
+        ]
+      },
+      {
+        "title": "Nederland 1948-2008",
+        "question_number": 27,
+        "answer_text": "Voorbeeld van een juist antwoord is:\na. De kraakbeweging zet zich net als de provo's af tegen de bestaande orde\nb. wat blijkt uit (een van de volgende):\n  i. de oproep tot verzet tegen autoriteiten als justitie en politie / tot oorlog tegen het gezag.\n  ii. het verwijt dat de ontruiming is ingegeven door geld / het werk is van speculanten.\n  iii. het verdedigen van het kraken als legitiem middel van verzet.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "a. De kraakbeweging zet zich net als de provo's af tegen de bestaande orde"
+          },
+          {
+            "points": 1,
+            "description": "b. wat blijkt uit (een van de volgende): i. de oproep tot verzet tegen autoriteiten als justitie en politie / tot oorlog tegen het gezag. ii. het verwijt dat de ontruiming is ingegeven door geld / het werk is van speculanten. iii. het verdedigen van het kraken als legitiem middel van verzet."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-nederland-1948-2008-antw27.png"
+        ]
+      },
+      {
+        "title": "Nederland 1948-2008",
+        "question_number": 28,
+        "answer_text": "Kern van een juist antwoord is:\na. Gegeven 1 is te verklaren door een positieve visie op de multiculturele samenleving, waardoor het niet als probleem wordt gezien dat migranten hun moedertaal en cultuur behielden\nb. Gegeven 2 is te verklaren vanuit een kritische visie op de multiculturele samenleving, waardoor lessen in de moedertaal werden gezien als belemmerend voor de integratie (en daarom niet meer door de overheid ondersteund moesten worden)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "a. Gegeven 1 is te verklaren door een positieve visie op de multiculturele samenleving, waardoor het niet als probleem wordt gezien dat migranten hun moedertaal en cultuur behielden"
+          },
+          {
+            "points": 1,
+            "description": "b. Gegeven 2 is te verklaren vanuit een kritische visie op de multiculturele samenleving, waardoor lessen in de moedertaal werden gezien als belemmerend voor de integratie (en daarom niet meer door de overheid ondersteund moesten worden)"
+          }
+        ],
+        "grading_note": "Alleen als een passende visie op de multiculturele samenleving wordt ondersteund door een juiste verklaring, wordt telkens 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2021-iii-nederland-1948-2008-antw28.png"
+        ]
+      }
+    ]
+  }
+}

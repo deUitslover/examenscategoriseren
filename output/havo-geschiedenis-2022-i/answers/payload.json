@@ -1,0 +1,524 @@
+{
+  "payload": {
+    "subject_name": "Geschiedenis",
+    "level": "HAVO",
+    "source": "HAVO Geschiedenis 2022-I",
+    "answers": [
+      {
+        "title": "Door de tijd heen",
+        "question_number": 1,
+        "answer_text": "De juiste volgorde is:\n6, 3, 4, 5, 1, 2",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De juiste volgorde is: 6, 3, 4, 5, 1, 2"
+          }
+        ],
+        "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-door-de-tijd-heen-antw1.png"
+        ]
+      },
+      {
+        "title": "Door de tijd heen",
+        "question_number": 14,
+        "answer_text": "De juiste volgorde is:\n4, 3, 5, 1, 6, 2",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De juiste volgorde is: 4, 3, 5, 1, 6, 2"
+          }
+        ],
+        "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-door-de-tijd-heen-antw14.png"
+        ]
+      },
+      {
+        "title": "Ontdekkers en Hervormers",
+        "question_number": 2,
+        "answer_text": "Kern van een juist antwoord is:\nDe bepalingen bevorderden de Spaanse overheersing in Amerika omdat:\nbij 1:\n• met de komst van slaafgemaakten uit Afrika meer Spaanse plantages konden worden aangelegd / de rijkdommen van Amerika sneller konden worden geëxploiteerd\nbij 2:\n• de voorwaarde dat slaafgemaakten christelijk moesten worden de eenheid in de kolonie versterkte / de door de Spanjaarden gewilde introductie van het christendom in de kolonie versterkte",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij 1: met de komst van slaafgemaakten uit Afrika meer Spaanse plantages konden worden aangelegd / de rijkdommen van Amerika sneller konden worden geëxploiteerd"
+          },
+          {
+            "points": 1,
+            "description": "bij 2: de voorwaarde dat slaafgemaakten christelijk moesten worden de eenheid in de kolonie versterkte / de door de Spanjaarden gewilde introductie van het christendom in de kolonie versterkte"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-ontdekkers-en-hervormers-antw2.png"
+        ]
+      },
+      {
+        "title": "Ontdekkers en Hervormers",
+        "question_number": 3,
+        "answer_text": "Kern van een juist antwoord is:\n• Odoni kan zijn status verhogen door een portret te laten maken van zichzelf / dat zelfbewustzijn toont\n• vanwege 'het veranderde mens- en wereldbeeld van de renaissance'\n• Odoni kan zijn status verhogen door zich te laten afbeelden tussen zijn klassieke kunstverzameling / door het tonen van zijn interesse in klassieke beeldhouwkunst\n• vanwege 'de hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid'",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Odoni kan zijn status verhogen door een portret te laten maken van zichzelf / dat zelfbewustzijn toont"
+          },
+          {
+            "points": 1,
+            "description": "vanwege 'het veranderde mens- en wereldbeeld van de renaissance'"
+          },
+          {
+            "points": 1,
+            "description": "Odoni kan zijn status verhogen door zich te laten afbeelden tussen zijn klassieke kunstverzameling / door het tonen van zijn interesse in klassieke beeldhouwkunst"
+          },
+          {
+            "points": 1,
+            "description": "vanwege 'de hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid'"
+          }
+        ],
+        "grading_note": "Alleen als een juiste uitleg wordt genoemd waardoor Odoni met het schilderij zijn status kan verhogen, wordt 1 scorepunt toegekend aan een daarbij passend kenmerkend aspect.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-ontdekkers-en-hervormers-antw3.png"
+        ]
+      },
+      {
+        "title": "Het Britse Rijk",
+        "question_number": 5,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nHet bestuur in Maryland wil met deze wet:\n• het christelijke karakter van de kolonie beschermen door personen ter dood te laten veroordelen die niet geloofden dat Jezus Christus de zoon van God is (waardoor andere geloven/niet-gelovigen worden afgewezen)\n• de orde/de eenheid in de kolonie bevorderen / opstanden/rellen voorkomen (door het bestraffen van scheldpartijen tussen verschillende groeperingen)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "het christelijke karakter van de kolonie beschermen door personen ter dood te laten veroordelen die niet geloofden dat Jezus Christus de zoon van God is (waardoor andere geloven/niet-gelovigen worden afgewezen)"
+          },
+          {
+            "points": 1,
+            "description": "de orde/de eenheid in de kolonie bevorderen / opstanden/rellen voorkomen (door het bestraffen van scheldpartijen tussen verschillende groeperingen)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-het-britse-rijk-antw5.png"
+        ]
+      },
+      {
+        "title": "Het Britse Rijk",
+        "question_number": 6,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• De Engelse kolonisten komen in conflict met de inheemse bevolking over het in bezit nemen van land / over het gebruiken van de bestaansmiddelen\nDe Engelse kolonisten staan sterker in de conflicten:\n• door de Moheganen te laten beloven dat zij de Engelsen waarschuwen voor / verdedigen tegen andere inheemse volken / door vriendschap te sluiten met de Moheganen, waardoor de Engelsen ervoor zorgen dat zij niet per verrassing worden aangevallen door / niet alleen komen te staan tegenover een vijandig inheems volk\n• door de belofte om de Moheganen te waarschuwen tegen andere inheemse volken / door de verdeeldheid onder de inheemse volken te gebruiken, waardoor de Engelsen ervoor zorgen dat de inheemse volken niet gaan samenwerken tegen de Engelsen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De Engelse kolonisten komen in conflict met de inheemse bevolking over het in bezit nemen van land / over het gebruiken van de bestaansmiddelen"
+          },
+          {
+            "points": 1,
+            "description": "De Engelse kolonisten staan sterker in de conflicten: door de Moheganen te laten beloven dat zij de Engelsen waarschuwen voor / verdedigen tegen andere inheemse volken / door vriendschap te sluiten met de Moheganen, waardoor de Engelsen ervoor zorgen dat zij niet per verrassing worden aangevallen door / niet alleen komen te staan tegenover een vijandig inheems volk"
+          },
+          {
+            "points": 1,
+            "description": "De Engelse kolonisten staan sterker in de conflicten: door de belofte om de Moheganen te waarschuwen tegen andere inheemse volken / door de verdeeldheid onder de inheemse volken te gebruiken, waardoor de Engelsen ervoor zorgen dat de inheemse volken niet gaan samenwerken tegen de Engelsen"
+          }
+        ],
+        "grading_note": "Alleen als bij de tweede deelvraag wordt ingegaan op het sterker staan tijdens de conflicten (en niet het voorkómen van een conflict), wordt telkens 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-het-britse-rijk-antw6.png"
+        ]
+      },
+      {
+        "title": "Het Britse Rijk",
+        "question_number": 8,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nbij 1:\n• De East India Company kreeg met het verdrag van Allahabad (een van de volgende):\n  − het recht om belastingen te heffen, waardoor het noodzakelijk was om te weten waar de mensen woonden in India / waar de belangrijkste landbouwgebieden lagen.\n  − het bestuur van een groot deel van India in handen, waardoor het noodzakelijk was om kaarten van belangrijke wegen te hebben ten behoeve van de verdediging / het besturen van gebieden.\nbij 2:\n• Door de industriële revolutie (een van de volgende):\n  − werd India een afzetgebied voor de Britse industrieproducten, waardoor er behoefte ontstond aan kaarten die aangaven waar de bevolkingsdichtheid hoog was.\n  − ontstond er vraag naar industriële grondstoffen, waardoor er behoefte ontstond aan nieuwe kaarten die de vindplaatsen aangaven van de industriële grondstoffen.\n  − werd het mogelijk om spoorwegen aan te leggen, waardoor er behoefte ontstond aan nieuwe kaarten die weergaven waar de spoorlijnen het best konden worden aangelegd.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "bij 1: De East India Company kreeg met het verdrag van Allahabad (een van de volgende): het recht om belastingen te heffen, waardoor het noodzakelijk was om te weten waar de mensen woonden in India / waar de belangrijkste landbouwgebieden lagen. het bestuur van een groot deel van India in handen, waardoor het noodzakelijk was om kaarten van belangrijke wegen te hebben ten behoeve van de verdediging / het besturen van gebieden."
+          },
+          {
+            "points": 2,
+            "description": "bij 2: Door de industriële revolutie (een van de volgende): werd India een afzetgebied voor de Britse industrieproducten, waardoor er behoefte ontstond aan kaarten die aangaven waar de bevolkingsdichtheid hoog was. ontstond er vraag naar industriële grondstoffen, waardoor er behoefte ontstond aan nieuwe kaarten die de vindplaatsen aangaven van de industriële grondstoffen. werd het mogelijk om spoorwegen aan te leggen, waardoor er behoefte ontstond aan nieuwe kaarten die weergaven waar de spoorlijnen het best konden worden aangelegd."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord een juiste combinatie bevat van de noodzaak van het vervaardigen van kaarten en (bij de eerste deelvraag) een afspraak uit het verdrag van Allahabad en (bij de tweede deelvraag) een aspect van de industriële revolutie, worden telkens scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-het-britse-rijk-antw8.png"
+        ]
+      },
+      {
+        "title": "Het Britse Rijk",
+        "question_number": 9,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Sleeman (die onderdeel uitmaakt van het Britse bestuur) wil in zijn memoires het succes / het belang van het Britse bestuur benadrukken, zodat het voorbeeld van vrouwen die zorgeloos reizen mogelijk overdreven is / zodat hij geen voorbeelden opneemt van verzet tegen het Britse gezag (waardoor de bron minder betrouwbare informatie voor het eerste hoofdstuk bevat)\n• Sleeman beweert in zijn memoires te voelen/te weten dat Indiërs opkijken tegen de Britten / dat Indiërs de Britten respecteren / beweert dat het bestuur de orde weet te bewaren met maar drie forten, waarmee je kunt aantonen dat hij ervan uitgaat dat het Britse bestuur zo superieur is dat Indiërs zich vrijwillig onderwerpen / dat het Britse bestuur superieur is omdat het zonder problemen wordt aanvaard (waardoor de bron betrouwbaarder informatie bevat voor het tweede hoofdstuk)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Sleeman (die onderdeel uitmaakt van het Britse bestuur) wil in zijn memoires het succes / het belang van het Britse bestuur benadrukken, zodat het voorbeeld van vrouwen die zorgeloos reizen mogelijk overdreven is / zodat hij geen voorbeelden opneemt van verzet tegen het Britse gezag (waardoor de bron minder betrouwbare informatie voor het eerste hoofdstuk bevat)"
+          },
+          {
+            "points": 2,
+            "description": "Sleeman beweert in zijn memoires te voelen/te weten dat Indiërs opkijken tegen de Britten / dat Indiërs de Britten respecteren / beweert dat het bestuur de orde weet te bewaren met maar drie forten, waarmee je kunt aantonen dat hij ervan uitgaat dat het Britse bestuur zo superieur is dat Indiërs zich vrijwillig onderwerpen / dat het Britse bestuur superieur is omdat het zonder problemen wordt aanvaard (waardoor de bron betrouwbaarder informatie bevat voor het tweede hoofdstuk)"
+          }
+        ],
+        "grading_note": "Als in een antwoord wordt ingegaan op de representativiteit van de bron, worden geen scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-het-britse-rijk-antw9.png"
+        ]
+      },
+      {
+        "title": "Het Britse Rijk",
+        "question_number": 10,
+        "answer_text": "Kern van een juist antwoord is:\n• Robert Owen wilde via het parlement / via de oprichting van idealistische coöperaties meer rechten / betere omstandigheden voor arbeiders bewerkstelligen\n• De boodschap dat de arbeiders zelf verantwoordelijk waren voor de verbetering van hun omstandigheden was populair bij liberale ondernemers omdat de rol van de overheid klein kon blijven / omdat hierdoor de verantwoordelijkheid niet bij de ondernemers lag",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Robert Owen wilde via het parlement / via de oprichting van idealistische coöperaties meer rechten / betere omstandigheden voor arbeiders bewerkstelligen"
+          },
+          {
+            "points": 1,
+            "description": "De boodschap dat de arbeiders zelf verantwoordelijk waren voor de verbetering van hun omstandigheden was populair bij liberale ondernemers omdat de rol van de overheid klein kon blijven / omdat hierdoor de verantwoordelijkheid niet bij de ondernemers lag"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-het-britse-rijk-antw10.png"
+        ]
+      },
+      {
+        "title": "Het Britse Rijk",
+        "question_number": 11,
+        "answer_text": "Kern van een juist antwoord is:\n• In 1857 vond een opstand plaats onder Indiase soldaten\n• waarna de Britten het station lieten bouwen om eventuele nieuwe opstanden neer te kunnen slaan / om zich te kunnen verdedigen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In 1857 vond een opstand plaats onder Indiase soldaten"
+          },
+          {
+            "points": 1,
+            "description": "waarna de Britten het station lieten bouwen om eventuele nieuwe opstanden neer te kunnen slaan / om zich te kunnen verdedigen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-het-britse-rijk-antw11.png"
+        ]
+      },
+      {
+        "title": "Regenten en Vorsten",
+        "question_number": 4,
+        "answer_text": "Kern van een juist antwoord is:\nWillem van der Straaten liet studenten in het ziekenhuis meelopen om hun de kans te geven zelf zieken/symptomen waar te nemen, wat aansloot bij de nieuwe eis (tijdens de wetenschappelijke revolutie) dat theorieën/onderzoeken op grond van redeneren en waarnemen tot stand moesten komen / dat onderzoek empirisch moest zijn.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Willem van der Straaten liet studenten in het ziekenhuis meelopen om hun de kans te geven zelf zieken/symptomen waar te nemen, wat aansloot bij de nieuwe eis (tijdens de wetenschappelijke revolutie) dat theorieën/onderzoeken op grond van redeneren en waarnemen tot stand moesten komen / dat onderzoek empirisch moest zijn."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-regenten-en-vorsten-antw4.png"
+        ]
+      },
+      {
+        "title": "Pruiken en Revoluties",
+        "question_number": 7,
+        "answer_text": "Uit het antwoord moet blijken dat Joan Derk van der Capellen tot den Poll opriep tot vrijheid/gelijkheid/dezelfde grondrechten voor alle inwoners van Overijssel, waardoor het een voorbeeld is van: 'het toepassen van verlicht denken op alle terreinen van de samenleving' (zoals sociale verhoudingen) / 'de democratische revoluties in westerse landen, met als gevolg discussies over grondwetten, grondrechten en staatsburgerschap'.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Uit het antwoord moet blijken dat Joan Derk van der Capellen tot den Poll opriep tot vrijheid/gelijkheid/dezelfde grondrechten voor alle inwoners van Overijssel, waardoor het een voorbeeld is van: 'het toepassen van verlicht denken op alle terreinen van de samenleving' (zoals sociale verhoudingen) / 'de democratische revoluties in westerse landen, met als gevolg discussies over grondwetten, grondrechten en staatsburgerschap'."
+          }
+        ],
+        "grading_note": "Als alleen een kenmerkend aspect genoemd wordt zonder passende uitleg, worden geen scorepunten toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-pruiken-en-revoluties-antw7.png"
+        ]
+      },
+      {
+        "title": "Tijd van Wereldoorlogen",
+        "question_number": 15,
+        "answer_text": "Kern van een juist antwoord is:\n• De Nederlandse autoriteiten wilden met het oppakken / uitwijzen van Anton de Kom voorkomen dat het Nederlandse gezag in de kolonie te maken kreeg met (toenemende) opstanden / dat het Nederlandse gezag werd aangetast\n• wat past bij 'vormen van verzet tegen het West-Europese imperialisme'",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De Nederlandse autoriteiten wilden met het oppakken / uitwijzen van Anton de Kom voorkomen dat het Nederlandse gezag in de kolonie te maken kreeg met (toenemende) opstanden / dat het Nederlandse gezag werd aangetast"
+          },
+          {
+            "points": 1,
+            "description": "wat past bij 'vormen van verzet tegen het West-Europese imperialisme'"
+          }
+        ],
+        "grading_note": "Alleen als een juiste verklaring wordt gegeven voor het optreden van de Nederlandse autoriteiten, wordt 1 scorepunt toegekend aan een daarbij passend kenmerkend aspect uit de eerste helft van de twintigste eeuw.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-tijd-van-wereldoorlogen-antw15.png"
+        ]
+      },
+      {
+        "title": "Burgers en Stoommachines",
+        "question_number": 12,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nbij 1:\n• De schrijver richt zich tot de dames van de hogere burgerij, waarin de vrouw niet voor het inkomen hoeft te zorgen / kan kiezen voor werk (terwijl vrouwen uit de arbeidersklasse zich die keuze niet kunnen veroorloven)\n• door te schrijven dat vrouwen geen zin hebben om te werken / dat vrouwen niet moeten denken dat werken niet netjes is / dat vrouwen niet moeten denken dat je een ander voor je moet laten werken\nbij 2:\n• De schrijver wil de feministische beweging bevorderen, want de schrijver roept vrouwen op zelf gaan werken / financieel bij te dragen / onafhankelijker te worden (waardoor zij hun positie/rechten verbeteren)\n• door te schrijven dat vrouwen niet moeten denken dat werken niet netjes is / dat vrouwen werken niet moeten afwijzen / dat vrouwen zich niet moeten laten overheersen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bij 1: De schrijver richt zich tot de dames van de hogere burgerij, waarin de vrouw niet voor het inkomen hoeft te zorgen / kan kiezen voor werk (terwijl vrouwen uit de arbeidersklasse zich die keuze niet kunnen veroorloven)"
+          },
+          {
+            "points": 1,
+            "description": "bij 1: door te schrijven dat vrouwen geen zin hebben om te werken / dat vrouwen niet moeten denken dat werken niet netjes is / dat vrouwen niet moeten denken dat je een ander voor je moet laten werken"
+          },
+          {
+            "points": 1,
+            "description": "bij 2: De schrijver wil de feministische beweging bevorderen, want de schrijver roept vrouwen op zelf gaan werken / financieel bij te dragen / onafhankelijker te worden (waardoor zij hun positie/rechten verbeteren)"
+          },
+          {
+            "points": 1,
+            "description": "bij 2: door te schrijven dat vrouwen niet moeten denken dat werken niet netjes is / dat vrouwen werken niet moeten afwijzen / dat vrouwen zich niet moeten laten overheersen"
+          }
+        ],
+        "grading_note": "Alleen als een juiste uitleg voor een conclusie wordt gegeven, wordt telkens 1 scorepunt toegekend aan een passende verwijzing naar de bron.\nAls bij beide deelvragen dezelfde verwijzing naar de bron wordt genoemd, wordt alleen aan de eerste verwijzing 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-burgers-en-stoommachines-antw12.png"
+        ]
+      },
+      {
+        "title": "Burgers en Stoommachines",
+        "question_number": 13,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Met de Education Act krijgen arbeiders de kans op een betere opleiding, waardoor zij hoger geschoold werk kunnen krijgen / beter in staat zijn voor hun rechten op te komen\n• Het parlement moet met een wet regelen dat arbeiders kansen krijgen, omdat uit de brief blijkt dat (een deel van) de elite de emancipatie van arbeiders tegenhoudt / de arbeiders ondergeschikt wil houden\n• omdat de schrijver schrijft dat (een van de volgende):\n  − de arbeiders een aangeboren vulgariteit hebben.\n  − de zonen van gegoede heren naar beneden zullen worden getrokken door het contact met arbeiders.\n  − de meester niet naast een dienaar zou hoeven zitten.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Met de Education Act krijgen arbeiders de kans op een betere opleiding, waardoor zij hoger geschoold werk kunnen krijgen / beter in staat zijn voor hun rechten op te komen"
+          },
+          {
+            "points": 1,
+            "description": "Het parlement moet met een wet regelen dat arbeiders kansen krijgen, omdat uit de brief blijkt dat (een deel van) de elite de emancipatie van arbeiders tegenhoudt / de arbeiders ondergeschikt wil houden"
+          },
+          {
+            "points": 1,
+            "description": "omdat de schrijver schrijft dat (een van de volgende): de arbeiders een aangeboren vulgariteit hebben. de zonen van gegoede heren naar beneden zullen worden getrokken door het contact met arbeiders. de meester niet naast een dienaar zou hoeven zitten."
+          }
+        ],
+        "grading_note": "Alleen als bij de tweede deelvraag een juiste onderbouwing van de noodzaak van de Education Act wordt genoemd, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-burgers-en-stoommachines-antw13.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa",
+        "question_number": 16,
+        "answer_text": "Voorbeeld van een juist antwoord is (twee van de volgende):\n− Het nationaalsocialisme is antisemitisch / vervolgt 'minderwaardige' rassen / streeft naar Volksgemeinschaft, terwijl Von Papen het bedreigen van/het afwijzen van (hulpeloze) bevolkingsgroepen afkeurt.\n− Het nationaalsocialisme is antidemocratisch / kent het leidersbeginsel, terwijl Von Papen wil dat het volk invloed heeft op de besluitvorming.\n− Het nationaalsocialisme vervolgt andersdenkenden / voert censuur door, terwijl Von Papen het bestraffen van kritische uitingen afkeurt.\n− Het nationaalsocialisme streeft een totalitaire samenleving na / maakt gebruik van propaganda, terwijl Von Papen kritiek heeft op het ophitsen van de jeugd / op het misleiden van het volk.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "per juiste combinatie van kenmerk en kritiek (eerste combinatie)"
+          },
+          {
+            "points": 2,
+            "description": "per juiste combinatie van kenmerk en kritiek (tweede combinatie)"
+          }
+        ],
+        "grading_note": "Als alleen een kenmerk van het nationaalsocialisme wordt genoemd zonder de daarbij behorende kritiek van Von Papen, wordt geen scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-duitsland-in-europa-antw16.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa",
+        "question_number": 17,
+        "answer_text": "Kern van een juist antwoord is:\n• In 1945 hadden de geallieerden Duitsland verslagen\n• waardoor het voor Von Papen noodzakelijk werd om nadruk te leggen op zijn (kritische) toespraak om vervolging/een veroordeling (voor zijn rol in de regering van Hitler) te voorkomen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "In 1945 hadden de geallieerden Duitsland verslagen"
+          },
+          {
+            "points": 1,
+            "description": "waardoor het voor Von Papen noodzakelijk werd om nadruk te leggen op zijn (kritische) toespraak om vervolging/een veroordeling (voor zijn rol in de regering van Hitler) te voorkomen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-duitsland-in-europa-antw17.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa",
+        "question_number": 18,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Met de inzamelactie wil de regering de Duitse Volksgemeinschaft versterken / de eenheid/solidariteit onder de Duitsers vergroten / steun behouden onder de burgers voor de (totale) oorlogsvoering\n• wat ondersteund kan worden met de foto, die de inzet van de Hitlerjugend / de burgerbevolking voor soldaten / voor de oorlogvoering toont\n• De geallieerden kunnen de boodschap aan hun bevolking overbrengen dat uit deze inzamelactie blijkt dat de Duitse regering niet in staat is de soldaten goed te bevoorraden / dat de Duitse frontsoldaten niet goed zijn uitgerust voor de winter (zodat de strijd tegen Duitsland gewonnen kan worden)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Met de inzamelactie wil de regering de Duitse Volksgemeinschaft versterken / de eenheid/solidariteit onder de Duitsers vergroten / steun behouden onder de burgers voor de (totale) oorlogsvoering"
+          },
+          {
+            "points": 1,
+            "description": "wat ondersteund kan worden met de foto, die de inzet van de Hitlerjugend / de burgerbevolking voor soldaten / voor de oorlogvoering toont"
+          },
+          {
+            "points": 1,
+            "description": "De geallieerden kunnen de boodschap aan hun bevolking overbrengen dat uit deze inzamelactie blijkt dat de Duitse regering niet in staat is de soldaten goed te bevoorraden / dat de Duitse frontsoldaten niet goed zijn uitgerust voor de winter (zodat de strijd tegen Duitsland gewonnen kan worden)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-duitsland-in-europa-antw18.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa",
+        "question_number": 19,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• De tekenaar geeft de kritiek weer dat door het beleid van de DDR-regering goederen worden geweigerd die de bevolking nodig heeft / niet wordt gezorgd voor de bevolking / de bevolking onderdrukt wordt\n• door af te beelden dat (een van de volgende):\n  − de inwoners van Oost-Duitsland armoedig/hongerig toekijken terwijl de leiders de goederen afslaan.\n  − de inwoners van Oost-Duitsland de Amerikaanse goederen niet kunnen bereiken.\n  − de inwoners armoedig/hongerig achter een hek gevangen zitten terwijl de leiders er welvarend uitzien.\n• De tekenaar geeft de kritiek weer dat de DDR-leiding niet zelfstandig kan beslissen / dat de Sovjet-Unie de DDR in haar machtsgreep houdt (en dwingt de steun te weigeren)\n• door af te beelden dat Grotewohl (een van de volgende):\n  − schuin achter Molotov staat.\n  − hetzelfde gebaar maakt als Molotov.\n  − kleiner is dan Molotov.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De tekenaar geeft de kritiek weer dat door het beleid van de DDR-regering goederen worden geweigerd die de bevolking nodig heeft / niet wordt gezorgd voor de bevolking / de bevolking onderdrukt wordt"
+          },
+          {
+            "points": 1,
+            "description": "door af te beelden dat (een van de volgende): de inwoners van Oost-Duitsland armoedig/hongerig toekijken terwijl de leiders de goederen afslaan. de inwoners van Oost-Duitsland de Amerikaanse goederen niet kunnen bereiken. de inwoners armoedig/hongerig achter een hek gevangen zitten terwijl de leiders er welvarend uitzien."
+          },
+          {
+            "points": 1,
+            "description": "De tekenaar geeft de kritiek weer dat de DDR-leiding niet zelfstandig kan beslissen / dat de Sovjet-Unie de DDR in haar machtsgreep houdt (en dwingt de steun te weigeren)"
+          },
+          {
+            "points": 1,
+            "description": "door af te beelden dat Grotewohl (een van de volgende): schuin achter Molotov staat. hetzelfde gebaar maakt als Molotov. kleiner is dan Molotov."
+          }
+        ],
+        "grading_note": "Alleen als een juist voorbeeld van de kritiek (bij de eerste deelvraag) op het beleid en (bij de tweede deelvraag) op de politieke verhoudingen wordt weergegeven, wordt telkens 1 scorepunt toegekend aan een passende verwijzing naar de prent.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-duitsland-in-europa-antw19.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa",
+        "question_number": 21,
+        "answer_text": "Voorbeeld van een juist antwoord is:\na. De jongere generatie in Duitsland vond het moeilijk om respect op te brengen voor de oudere generatie, die schuldig was aan / mede verantwoordelijk was voor het aan de macht komen van Hitler / het ontketenen van de Tweede Wereldoorlog / de moord op Joden en andere bevolkingsgroepen\nb. wat past bij (een van de volgende):\n  i. 'het in praktijk brengen van (de totalitaire ideologie) nationaalsocialisme'.\n  ii. 'het voeren van twee wereldoorlogen'.\n  iii. 'racisme en discriminatie die leidden tot genocide, in het bijzonder op de joden'.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "a. De jongere generatie in Duitsland vond het moeilijk om respect op te brengen voor de oudere generatie, die schuldig was aan / mede verantwoordelijk was voor het aan de macht komen van Hitler / het ontketenen van de Tweede Wereldoorlog / de moord op Joden en andere bevolkingsgroepen"
+          },
+          {
+            "points": 1,
+            "description": "b. wat past bij (een van de volgende): i. 'het in praktijk brengen van (de totalitaire ideologie) nationaalsocialisme'. ii. 'het voeren van twee wereldoorlogen'. iii. 'racisme en discriminatie die leidden tot genocide, in het bijzonder op de joden'."
+          }
+        ],
+        "grading_note": "Alleen als een juist argument wordt gegeven voor het ontstaan van een heviger generatieconflict, wordt 1 scorepunt toegekend aan een daarbij passend kenmerkend aspect uit de eerste helft van de twintigste eeuw.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-duitsland-in-europa-antw21.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa",
+        "question_number": 22,
+        "answer_text": "Voorbeeld van een juist antwoord is:\na. Tijdens de detente werd door de regering van de DDR sneller toestemming verleend aan / werd de procedure voor bezoekrechten versoepeld voor burgers uit de BRD om familie/bekenden op te zoeken in de DDR (zodat er meer gegevens konden worden verzameld)\nb. Met de gegevens wilde de regering van de BRD een betere toenadering tot de DDR realiseren, omdat ze een beter beeld kregen van de toestand van het land / omdat ze beter in konden spelen op de wensen van de DDR-burgers\nc. Onderzoek naar de mening van burgers werd in de DDR niet in het openbaar gedaan omdat het communistische regime bang was dat dit kritiek zou losmaken / dat dit onderzoek duidelijk zou maken dat (een deel van) de bevolking het regime afwees",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "a. Tijdens de detente werd door de regering van de DDR sneller toestemming verleend aan / werd de procedure voor bezoekrechten versoepeld voor burgers uit de BRD om familie/bekenden op te zoeken in de DDR (zodat er meer gegevens konden worden verzameld)"
+          },
+          {
+            "points": 1,
+            "description": "b. Met de gegevens wilde de regering van de BRD een betere toenadering tot de DDR realiseren, omdat ze een beter beeld kregen van de toestand van het land / omdat ze beter in konden spelen op de wensen van de DDR-burgers"
+          },
+          {
+            "points": 1,
+            "description": "c. Onderzoek naar de mening van burgers werd in de DDR niet in het openbaar gedaan omdat het communistische regime bang was dat dit kritiek zou losmaken / dat dit onderzoek duidelijk zou maken dat (een deel van) de bevolking het regime afwees"
+          }
+        ],
+        "grading_note": "Als in het antwoord op de derde deelvraag alleen wordt vermeld dat de regering van de DDR een dictatuur/een totalitair systeem was, wordt geen scorepunt toegekend (omdat dit geen reden noemt om geen openbaar onderzoek te doen).",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-duitsland-in-europa-antw22.png"
+        ]
+      },
+      {
+        "title": "Duitsland in Europa",
+        "question_number": 24,
+        "answer_text": "Voorbeeld van een juist antwoord is:\na. Kohl verdedigt het Verdrag van Maastricht (dat voorziet in het oprichten van de Europese Unie / in de invoering van de euro)\nb. wat hij ondersteunt door te zeggen dat een vitaal Europa belangrijk is / dat het oude Europa (zonder Unie) zou terugvallen in nationale rivaliteiten\nc. Het herenigde Duitsland neemt een leidende rol op zich in de Europese samenwerking\nd. wat past bij zijn uitspraak dat Duitsland niet apathisch af moet wachten / dat Europa voor Duitsland van vitaal belang is",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "a. Kohl verdedigt het Verdrag van Maastricht (dat voorziet in het oprichten van de Europese Unie / in de invoering van de euro)"
+          },
+          {
+            "points": 1,
+            "description": "b. wat hij ondersteunt door te zeggen dat een vitaal Europa belangrijk is / dat het oude Europa (zonder Unie) zou terugvallen in nationale rivaliteiten"
+          },
+          {
+            "points": 1,
+            "description": "c. Het herenigde Duitsland neemt een leidende rol op zich in de Europese samenwerking"
+          },
+          {
+            "points": 1,
+            "description": "d. wat past bij zijn uitspraak dat Duitsland niet apathisch af moet wachten / dat Europa voor Duitsland van vitaal belang is"
+          }
+        ],
+        "grading_note": "Alleen als in het antwoord (bij de eerste deelvraag) het verdrag van Maastricht en (bij de tweede deelvraag) de leidende rol van Duitsland wordt genoemd, wordt telkens 1 scorepunt toegekend aan een passende verwijzing naar de bron.\nAls bij beide deelvragen dezelfde verwijzing naar de bron wordt genoemd, wordt alleen aan de eerste verwijzing 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-duitsland-in-europa-antw24.png"
+        ]
+      },
+      {
+        "title": "Nederland 1948-2008",
+        "question_number": 20,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• De woonsituatie van Hasip Turan (waarbij hij in een barak woont / met vijf mannen in één kamer woont) past bij het uitgangspunt dat de gastarbeiders tijdelijk in Nederland zouden komen werken / terug zouden keren naar hun thuisland\n• Na het invoeren van gezinshereniging / het recht om te mogen blijven in Nederland, betrekken de (meeste) gastarbeiders (met hun gezin) een permanente / individuele woning\n• Voorstanders van integratie kunnen de kritiek ontlenen dat migranten (te) weinig betrokken worden bij de Nederlandse samenleving / geen binding vormen met Nederland (waardoor ze niet integreren)\n• wat past bij de beschrijving van Hasip Turan dat:\n  − de gastarbeiders afgelegen wonen.\n  − contact met Nederlanders is uitgesloten.\n  − niemand iets vertelt over de Nederlandse samenleving/omgangsvormen/taal.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De woonsituatie van Hasip Turan (waarbij hij in een barak woont / met vijf mannen in één kamer woont) past bij het uitgangspunt dat de gastarbeiders tijdelijk in Nederland zouden komen werken / terug zouden keren naar hun thuisland"
+          },
+          {
+            "points": 1,
+            "description": "Na het invoeren van gezinshereniging / het recht om te mogen blijven in Nederland, betrekken de (meeste) gastarbeiders (met hun gezin) een permanente / individuele woning"
+          },
+          {
+            "points": 1,
+            "description": "Voorstanders van integratie kunnen de kritiek ontlenen dat migranten (te) weinig betrokken worden bij de Nederlandse samenleving / geen binding vormen met Nederland (waardoor ze niet integreren)"
+          },
+          {
+            "points": 1,
+            "description": "wat past bij de beschrijving van Hasip Turan dat: de gastarbeiders afgelegen wonen. contact met Nederlanders is uitgesloten. niemand iets vertelt over de Nederlandse samenleving/omgangsvormen/taal."
+          }
+        ],
+        "grading_note": "Alleen als het antwoord op de derde deelvraag een juist voorbeeld van kritiek bevat, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-nederland-1948-2008-antw20.png"
+        ]
+      },
+      {
+        "title": "Nederland 1948-2008",
+        "question_number": 23,
+        "answer_text": "Voorbeeld van een juist antwoord is:\na. De confessionele partijen moeten rekening houden met de ontkerkelijking/ontzuiling waardoor zij stemmen verliezen / rekening houden met de opkomst van jongerenculturen waardoor zij ook jongeren moeten aanspreken met de campagne\nb. Behrendt geeft de mening weer dat de confessionele partijen zich jonger/hipper voordoen dan ze zijn om (jongere) stemmers te trekken\nc. door (een van de volgende):\n  i. af te beelden dat de lijsttrekkers zich presenteren als een hippe rockband / als The Hallelujah boys.\n  ii. de tekst: \"Is het zo hip genoeg\"?",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "a. De confessionele partijen moeten rekening houden met de ontkerkelijking/ontzuiling waardoor zij stemmen verliezen / rekening houden met de opkomst van jongerenculturen waardoor zij ook jongeren moeten aanspreken met de campagne"
+          },
+          {
+            "points": 1,
+            "description": "b. Behrendt geeft de mening weer dat de confessionele partijen zich jonger/hipper voordoen dan ze zijn om (jongere) stemmers te trekken"
+          },
+          {
+            "points": 1,
+            "description": "c. door (een van de volgende): i. af te beelden dat de lijsttrekkers zich presenteren als een hippe rockband / als The Hallelujah boys. ii. de tekst: \"Is het zo hip genoeg\"?"
+          }
+        ],
+        "grading_note": "Alleen als bij de tweede deelvraag een juiste mening van Behrendt wordt weergegeven, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-nederland-1948-2008-antw23.png"
+        ]
+      },
+      {
+        "title": "Nederland 1948-2008",
+        "question_number": 25,
+        "answer_text": "De juiste combinaties zijn:\n1 - b, 2 - d, 3 - c, 4 - a",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "De juiste combinaties zijn: 1 - b, 2 - d, 3 - c, 4 - a (indien vier combinaties juist: 2; indien drie combinaties juist: 1; indien minder dan drie combinaties juist: 0)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "geschiedenis-havo-2022-i-nederland-1948-2008-antw25.png"
+        ]
+      }
+    ]
+  }
+}
