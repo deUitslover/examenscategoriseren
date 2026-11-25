@@ -1,0 +1,829 @@
+{
+ "exercises": [
+  {
+   "id": "c541e4f0-8205-4c2b-b5cc-ed2dc4e8a7cc",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Door de tijd heen",
+   "source": "HAVO Geschiedenis 2023-I"
+  },
+  {
+   "id": "f8550450-6083-4388-b92a-0770efc16c6f",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Ontdekkers en Hervormers",
+   "source": "HAVO Geschiedenis 2023-I"
+  },
+  {
+   "id": "9d903b61-3108-4097-b066-23b55a4150ae",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Het Britse Rijk",
+   "source": "HAVO Geschiedenis 2023-I"
+  },
+  {
+   "id": "e5aceec3-ace9-4063-811c-9a4043be8f7b",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Regenten en Vorsten",
+   "source": "HAVO Geschiedenis 2023-I"
+  },
+  {
+   "id": "3f9243e1-6f6f-485e-989b-4a6bd6f6d38f",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Burgers en Stoommachines",
+   "source": "HAVO Geschiedenis 2023-I"
+  },
+  {
+   "id": "2fa9e2c3-3fb8-4b95-9d39-82ebe068cd9c",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Duitsland in Europa",
+   "source": "HAVO Geschiedenis 2023-I"
+  },
+  {
+   "id": "58022c75-98c7-43ed-8946-2a18ea496ca7",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Nederland 1948-2008",
+   "source": "HAVO Geschiedenis 2023-I"
+  },
+  {
+   "id": "c6cf3801-4643-45f1-956b-5397bc66d681",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Computer en Televisie",
+   "source": "HAVO Geschiedenis 2023-I"
+  }
+ ],
+ "context_blocks": [
+  {
+   "id": "68cc3dea-3b0c-4d3c-afa2-20cca2d4cdf5",
+   "exercise_id": "f8550450-6083-4388-b92a-0770efc16c6f",
+   "label": "bron 1: dagboek van Albrecht Dürer over de schatkamer van Karel I (1520)",
+   "image_url": "geschiedenis-havo-2023-i-ontdekkers-en-hervormers-bron1.png",
+   "text_content": "bron 1 In 1520 krijgt de Duitse kunstenaar Albrecht Dürer een rondleiding door de schatkamer van de Spaanse koning Karel I. In zijn dagboek schrijft hij:\nIk zag de dingen die uit het nieuwe goudland1) naar de koning waren gebracht: een vaambrede2) zon van zuiver goud en een even grote maan van zilver; verder twee kamers met wapenuitrustingen van de mensen daar met alle soorten wonderbaarlijke wapens, harnassen, speren, prachtige schilden, buitengewone kleding, bedden en allerlei andere schitterende gebruiksvoorwerpen, waarbij wonderen in het niet verzonken. Al deze dingen zijn zo kostbaar dat ze op een waarde van 100.000 florijnen geschat worden. In alle dagen van mijn leven heb ik nog nooit iets gezien dat me zo geraakt heeft, want er lagen wonderbaarlijke kunstwerken bij en ik verbaasde me over de subtiele kunstzin van mensen in vreemde landen.\nnoot 1 Dürer bedoelt hiermee de Spaanse gebieden in Amerika. noot 2 Een vaam is een oude lengtemaat van bijna 2 meter.",
+   "block_type": "inline"
+  },
+  {
+   "id": "36f64784-68d1-420a-88c5-8f6e7ccaf786",
+   "exercise_id": "9d903b61-3108-4097-b066-23b55a4150ae",
+   "label": "bron 4: brief van Abigail Adams aan John Adams (1776)",
+   "image_url": "geschiedenis-havo-2023-i-het-britse-rijk-bron4.png",
+   "text_content": "bron 4 Op 31 maart 1776 schrijft Abigail Adams over het samenstellen van een nieuw wetboek aan haar man John, een van de opstellers van de Amerikaanse Onafhankelijkheidsverklaring:\nWees tegenover hen [dames] ruimhartiger en aardiger dan jullie voorvaderen. Geef hun echtgenoten niet zo’n onbeperkte macht. Denk eraan dat alle mannen tirannen zouden zijn als ze konden. Als er geen speciale zorg en aandacht wordt besteed aan de dames, zijn we vastbesloten een opstand aan te wakkeren. We zullen ons niet gebonden voelen aan wetten die niet met onze instemming en inspraak tot stand zijn gekomen. (…) Beschouw ons als wezens die door de Voorzienigheid1) onder jullie bescherming zijn geplaatst en maak in navolging van het Opperwezen1) alleen met het oog op ons geluk gebruik van die macht.\nnoot 1 Abigail Adams bedoelt God.",
+   "block_type": "inline"
+  },
+  {
+   "id": "3d909bbb-7fc8-4852-ad9f-3672d98cb4d9",
+   "exercise_id": "9d903b61-3108-4097-b066-23b55a4150ae",
+   "label": "bron 6: kunstwerk van de tijger van Tipoe (1793)",
+   "image_url": "geschiedenis-havo-2023-i-het-britse-rijk-bron6.png",
+   "text_content": "bron 6 Kunstwerk dat in 1793 in opdracht van de Indiase vorst Tipoe wordt gemaakt:\n[Afbeelding] Foto van een bijna levensgroot houten beeld van een tijger die boven op een liggende Britse soldaat ligt; in de flank van de tijger zit een orgel.\nToelichting: Dit bijna levensgrote kunstwerk van een tijger en een Britse soldaat is ook een orgel en maakt het geluid van een grommende tijger en van mensengeschreeuw.",
+   "block_type": "inline"
+  },
+  {
+   "id": "1cd9ae6d-6554-4ae1-8602-9a1e580eabfd",
+   "exercise_id": "9d903b61-3108-4097-b066-23b55a4150ae",
+   "label": "bron 7: dagboek van Lady Maria Nugent op Jamaica (1803)",
+   "image_url": "geschiedenis-havo-2023-i-het-britse-rijk-bron7.png",
+   "text_content": "bron 7 Lady Maria Nugent is de echtgenote van de Britse gouverneur van Jamaica. Zij houdt een dagboek bij tijdens haar verblijf op het eiland. In 1803 schrijft ze:\nIk heb mezelf vermaakt met het lezen van het bewijs dat de indieners van de\nPetitie voor de Afschaffing van de Slavernij hebben gepresenteerd. Voor\nzover ik kan zien en horen over de mishandeling van slaven, denk ik dat wat zij hierover zeggen zwaar overdreven is. Ongetwijfeld zullen er mensen zijn die hun macht wel eens misbruiken; maar in het algemeen geloof ik dat de slaven extreem goed behandeld worden. Toch denk ik dat de slavenhandel niet nodig zou zijn, als religie, fatsoen en orde onder de zwarten zou heersen; als zij overgehaald konden worden om te trouwen.",
+   "block_type": "inline"
+  },
+  {
+   "id": "8fb22d56-1cfc-4a05-811e-866cca1b1be2",
+   "exercise_id": "e5aceec3-ace9-4063-811c-9a4043be8f7b",
+   "label": "bron 2: prent uit Reizen van Samuel de Champlain (1613)",
+   "image_url": "geschiedenis-havo-2023-i-regenten-en-vorsten-bron2.png",
+   "text_content": "bron 2\n[Afbeelding] Prent: een gevecht tussen twee groepen inheemse krijgers met pijl en boog bij een omheind dorp aan het water, met kano's op de voorgrond; in het midden staat De Champlain met een geweer.\nEen prent uit 1613 uit het boek Reizen van Samuel de Champlain, de vicegouverneur van de Franse kolonie in Amerika:\nToelichting: De Champlain tekent zelf de afbeeldingen voor zijn boek. Deze prent beeldt een gevecht af tussen inheemse volkeren in Noordoost-Amerika. De Champlain staat in het midden en vecht met de Algonquin tegen de Haudenosaunee.",
+   "block_type": "inline"
+  },
+  {
+   "id": "35938cb1-5e28-4c37-9c6a-82920bfbe567",
+   "exercise_id": "e5aceec3-ace9-4063-811c-9a4043be8f7b",
+   "label": "bron 3: memoires van Anne Marie Louise van Orléans (1670)",
+   "image_url": "geschiedenis-havo-2023-i-regenten-en-vorsten-bron3.png",
+   "text_content": "bron 3 Anne Marie Louise van Orléans is een nicht van de Franse koning Lodewijk XIV. Zij wil in 1670 trouwen met hertog De Lauzun, die van lagere komaf is. Ze schrijft in haar memoires:\nDe koning zei: “Er is mij verteld dat ik je opoffer om meneer De Lauzun een fortuin te bezorgen, dat dit in andere landen een ongunstige indruk zou maken en dat ik dit huwelijk niet mag toelaten.” (…) “Ah, Sire”, riep ik, “wat zegt u nu! Wat wreed!” Hij wierp zichzelf op de knieën, ik deed hetzelfde en we bleven zo wel drie kwartier zitten, in elkaars armen, zijn wang tegen de mijne; hij weende net zo openlijk als ik.",
+   "block_type": "inline"
+  },
+  {
+   "id": "0e819d1a-c16b-4474-aa33-f8ed228fdef9",
+   "exercise_id": "3f9243e1-6f6f-485e-989b-4a6bd6f6d38f",
+   "label": "bron 5: Thomas Pennant over het Grand Trunk Canal (1777)",
+   "image_url": "geschiedenis-havo-2023-i-burgers-en-stoommachines-bron5.png",
+   "text_content": "bron 5 In 1777 wordt in Groot-Brittannië het Grand Trunk Canal geopend, dat met meer dan 70 sluizen de rivier de Trent met de rivier de Mersey verbindt. De Britse onderzoeker Thomas Pennant schrijft over zijn reis langs dat kanaal:\nEen huisje is niet langer bedekt met een armoedig rieten dak maar is nu behoorlijk bedekt met leisteen, dat hier gebracht is vanuit de verre heuvels van Wales of Cumberland1). De velden, die eerst braak lagen, zijn nu gedraineerd en met de hulp van mest - die belastingvrij via het kanaal is gebracht - dragen ze nu rijkelijk vrucht. Plaatsen waar men nauwelijks steenkool had, worden nu ruimschoots voorzien van dat belangrijke product en tegen een redelijke prijs. En wat van nog groter belang is, is dat de handelaren die een monopolie hadden op graan, hun beruchte handel niet langer kunnen voeren, want nu de verbinding is geopend tussen Liverpool, Bristol en Hull2) en het kanaal dwars door gewesten gaat die rijk zijn aan graan, kan er veel meer graan worden vervoerd.\nnoot 1 Wales en Cumberland liggen in Groot-Brittannië.\nnoot 2 Liverpool, Bristol en Hull zijn Britse steden.",
+   "block_type": "inline"
+  },
+  {
+   "id": "17a51e7d-0cdb-46c5-bfb7-590ea4e0e11e",
+   "exercise_id": "3f9243e1-6f6f-485e-989b-4a6bd6f6d38f",
+   "label": "bron 8: brief van Hendrik Witbooi aan Maharero Tjamuaha (1890)",
+   "image_url": "geschiedenis-havo-2023-i-burgers-en-stoommachines-bron8.png",
+   "text_content": "bron 8 Hendrik Witbooi is de leider van de Nama (een volk in het huidig Namibië). In 1890 schrijft hij een brief aan Maharero Tjamuaha die de leider is van het Herero-volk:\nIk weet niet hoe goed je hierover hebt nagedacht. Kan jij voldoende de\ngevolgen overzien van het vragen van Duitse bescherming? Ik weet niet zeker of jij en de Herero de gebruiken, wetten en acties van een buitenlandse\nmogendheid begrijpen. Ik weet niet zeker hoelang je onder hun bescherming zult kunnen blijven. Het gedrag van dr. Göring1) zal voor jou onbegrijpelijk zijn! Je zult wel heel ontevreden zijn als je niet langer kunt handelen volgens je eigen wensen, wetten en oude gebruiken. Maar het is nu duidelijk al te laat.\nJe hebt dr. Göring zijn zin al gegeven. Hij gaat duidelijk niet voor jou buigen en jij zult je ongemakkelijk gaan voelen als je voor hem moet buigen. Omdat hij je\nnoot 1 Dr. Göring is de commissaris van de kolonie Duits-Zuidwest-Afrika.\nToelichting: De Herero sluiten in 1890 een verdrag met Duitsland. De Nama zijn dan al jarenlang in oorlog met de Herero over landbouwgronden.\n⚠️ CONTROLEREN: het citaat is in de PDF van ExamenCentraal onderaan het kader afgekapt (eindigt midden in de zin 'Omdat hij je').",
+   "block_type": "inline"
+  },
+  {
+   "id": "ae8f2259-d027-45fd-b1d3-25924e74e20c",
+   "exercise_id": "3f9243e1-6f6f-485e-989b-4a6bd6f6d38f",
+   "label": "bron 14: zijpaneel 'Hulde der Koloniën' van de Gouden Koets",
+   "image_url": "geschiedenis-havo-2023-i-burgers-en-stoommachines-bron14.png",
+   "text_content": "bron 14 Zijpaneel van de Gouden Koets met de afbeelding 'Hulde der Koloniën':\n[Afbeelding] Foto van het zijpaneel van de Gouden Koets: in het midden zit een vrouw op een troon, links en rechts komen inwoners van de koloniën haar geschenken aanbieden.\nToelichting: De vrouw op de troon stelt Nederland voor. Links en rechts zijn inwoners van de toenmalige koloniën van Nederland afgebeeld.",
+   "block_type": "inline"
+  },
+  {
+   "id": "53e1c496-2a38-48e3-b6cf-d41b195be308",
+   "exercise_id": "2fa9e2c3-3fb8-4b95-9d39-82ebe068cd9c",
+   "label": "bron 9: herinneringen van SA-lid Wolfgang Teubert aan de jaren 1920",
+   "image_url": "geschiedenis-havo-2023-i-duitsland-in-europa-bron9.png",
+   "text_content": "bron 9 Wolfgang Teubert wordt in de jaren 1920 lid van de SA, een paramilitaire organisatie van de NSDAP. Hij beschrijft de sfeer in die periode:\nHet was spannend. Er was kameraadschap, de mentaliteit van ‘er voor elkaar zijn’. Dat is voor een jongeman iets fantastisch, zeker toen. We marcheerden achter de hakenkruisvlag door de stadjes. Naast het werk was de SA onze enige bezigheid. Er was gevaar, de bedreigingen door andere lui1). Avond aan avond beschermden we bijeenkomsten om de SA te ondersteunen, niet alleen in onze stad, maar op allerlei plaatsen. We hadden geen wapens, maar gebruikten onze vuisten als zelfverdediging en aanvalswapen als het nodig was. En het was vaker wél nodig dan niet! Stoelen breken in de zaal en dan met de stoelpoten vechten, dat gebeurde ook.\nnoot 1 Teubert bedoelt de communisten.",
+   "block_type": "inline"
+  },
+  {
+   "id": "a59adfb4-1202-4ea2-83eb-3706fdf76e71",
+   "exercise_id": "2fa9e2c3-3fb8-4b95-9d39-82ebe068cd9c",
+   "label": "bron 10: foto van Duitse krijgsgevangenen in een Rheinwiesenlager (1945)",
+   "image_url": "geschiedenis-havo-2023-i-duitsland-in-europa-bron10.png",
+   "text_content": "bron 10 Foto van Duitse krijgsgevangenen van de westerse geallieerden. Deze gevangenen zijn opgesloten in Rheinwiesenlager, waar tussen april en oktober 1945 meer dan een miljoen gevangenen verblijven:\n[Afbeelding] Foto van een grote menigte Duitse soldaten die dicht op elkaar in de open lucht zitten, met uniformpetten en jassen.",
+   "block_type": "inline"
+  },
+  {
+   "id": "7123ef2f-dc1b-4e62-8c34-4abdeace382d",
+   "exercise_id": "2fa9e2c3-3fb8-4b95-9d39-82ebe068cd9c",
+   "label": "bron 12: Helmut Kohl tegen Michail Gorbatsjov (1989)",
+   "image_url": "geschiedenis-havo-2023-i-duitsland-in-europa-bron12.png",
+   "text_content": "bron 12 Op 14 juni 1989 ontmoeten Michail Gorbatsjov en Helmut Kohl elkaar. Tijdens het gesprek zegt Helmut Kohl:\nIk zal u zonder omwegen vertellen dat Erich Honecker mij veel zorgen baart. Zijn vrouw heeft zojuist een verklaring afgelegd waarin ze de DDR-jongeren opriep de wapens op te nemen en de verworvenheden van het socialisme tegen vijanden van buitenaf te verdedigen mocht dat nodig zijn. Het is duidelijk dat ze suggereerde dat de socialistische landen die hervormingen doorvoeren, (…) de vijanden waren.",
+   "block_type": "inline"
+  },
+  {
+   "id": "a4c9927a-492d-48fa-bf2c-87e4b6b24580",
+   "exercise_id": "58022c75-98c7-43ed-8946-2a18ea496ca7",
+   "label": "bron 11: affiche van de actiegroep Wij Vrouwen Eisen (1975)",
+   "image_url": "geschiedenis-havo-2023-i-nederland-1948-2008-bron11.png",
+   "text_content": "bron 11 Affiche van de actiegroep Wij Vrouwen Eisen uit 1975:\n[Afbeelding] Affiche: twee mannen met hoeden met de opschriften KVP en ARP praten over het hoofd van een zwangere vrouw heen.\nToelichting: De KVP (Katholieke Volkspartij) en de ARP (Anti-Revolutionaire Partij) waren twee confessionele partijen, die deel uitmaakten van het kabinet Den Uyl (1973-1977).\nAan de bovenkant van de affiche staat: met u. over u. zonder u Aan de onderkant van de affiche staat: “Wij weten precies wat goed voor je is …!” Boven de vrouw staat: Wij vrouwen eisen: Abortus uit het wetboek van strafrecht Abortus in het ziekenfondspakket De vrouw beslist",
+   "block_type": "inline"
+  },
+  {
+   "id": "e7cf089b-7e76-4308-8889-aa492ac97e10",
+   "exercise_id": "c6cf3801-4643-45f1-956b-5397bc66d681",
+   "label": "bron 13: recensie in Parbode van het boek van Ruud Paesie (2016)",
+   "image_url": "geschiedenis-havo-2023-i-computer-en-televisie-bron13.png",
+   "text_content": "bron 13 Ruud Paesie publiceert in 2016 een boek over een slavenopstand die in 1785 uitbrak op een Nederlands slavenschip. In een recensie in Parbode, een Surinaams maandblad, staat:\nHet traditionele beeld is dat het verbod op de slavenhandel en de afschaffing van de slavernij vooral het werk is geweest van witte abolitionisten en ‘een handvol’ zwarten. Volgens Paesie zorgden de opstanden op de slavenschepen ervoor dat er minder werd uitgevaren, en dat er zo dus minder slachtoffers werden gemaakt.",
+   "block_type": "inline"
+  }
+ ],
+ "questions": [
+  {
+   "id": "9def3718-a6ef-4732-b6da-0a6f9eccddd0",
+   "exercise_id": "c541e4f0-8205-4c2b-b5cc-ed2dc4e8a7cc",
+   "question_number": 1,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    },
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "India als belangrijkste kolonie (1765-1885)"
+    },
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Wereldoorlogen — overig (1900-1950)"
+    }
+   ],
+   "keywords": [
+    "chronologie",
+    "Amerikaanse Onafhankelijkheidsoorlog",
+    "afschaffing slavernij",
+    "Opstand van 1857",
+    "Indian National Congress",
+    "Indiase onafhankelijkheidsbeweging"
+   ],
+   "question_summary": "Chronologisch ordenen van zes gebeurtenissen uit de geschiedenis van het Britse Rijk.",
+   "question_image_url": "geschiedenis-havo-2023-i-door-de-tijd-heen-vraag1.png",
+   "question_text": "De volgende gebeurtenissen in het Britse Rijk staan in willekeurige volgorde:\n1 Hoogopgeleide Indiërs richtten het Indian National Congress op om meer inspraak te krijgen in het Britse beleid in India.\n2 In Amerika kwamen kolonisten in verzet nadat de Engelse koning de anglicaanse kerk daar tot staatskerk maakte.\n3 Kort na het neerslaan van een slavenopstand op Jamaica schafte het Britse parlement de slavernij af in de koloniën.\n4 Na de Eerste Wereldoorlog maakte de Britse regering zich zorgen dat de Indiase onafhankelijkheidsbeweging sterker werd omdat Indiase soldaten voor Groot-Brittannië hadden gevochten.\n5 Na het neerslaan van een opstand van ontevreden Indiase soldaten, kwam Brits-Indië onder direct gezag van de Britse regering.\n6 Uit onvrede over het Britse beleid vormden Amerikaanse kolonisten een federale staat. 2p 1 Zet deze gebeurtenissen in de juiste chronologische volgorde van vroeger naar later. Noteer alleen de nummers.",
+   "context_block_ids": []
+  },
+  {
+   "id": "45017ab3-1d53-4da8-ba76-3ab0b39e1e41",
+   "exercise_id": "c541e4f0-8205-4c2b-b5cc-ed2dc4e8a7cc",
+   "question_number": 16,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Opkomst nationaalsocialisme en gevolgen (1918-1945)"
+    },
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1948-1978)"
+    },
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1978-2008)"
+    }
+   ],
+   "keywords": [
+    "chronologie",
+    "migratie",
+    "dekolonisatie",
+    "gastarbeiders",
+    "Srebrenica",
+    "Jodenvervolging"
+   ],
+   "question_summary": "Chronologisch ordenen van zes gegevens over migranten die in de twintigste eeuw naar Nederland kwamen.",
+   "question_image_url": "geschiedenis-havo-2023-i-door-de-tijd-heen-vraag16.png",
+   "question_text": "De volgende gegevens over migranten, die naar Nederland kwamen in de twintigste eeuw, staan in willekeurige volgorde:\n1 De Bosnische Mirha Ramić vluchtte vlak voor de val van Srebrenica met haar familie naar Nederland.\n2 Frans Fierens werd na de Duitse inval in België naar Nederland gestuurd, dat de hele oorlog neutraal bleef.\n3 Ietje van Leeuwen vluchtte met haar moeder en broers naar Nederland vlak na de onafhankelijkheidsverklaring van Indonesië.\n4 Mohammed Sidali kwam als gastarbeider uit Marokko naar Nederland om te werken in de metaalindustrie.\n5 Omdat de Duitse economie leed onder de kort daarvoor ingevoerde herstelbetalingen werkte Anna Haye in Nederland als dienstbode.\n6 Vanwege de onveilige situatie voor Joden in Duitsland vluchtten Otto en Edith Frank met hun dochters Margot en Anne naar Amsterdam. 2p 16 Zet deze gegevens in de juiste chronologische volgorde, van vroeger naar later. Noteer alleen de nummers.",
+   "context_block_ids": []
+  },
+  {
+   "id": "6631f3ed-724e-4054-912d-4e9435c39c8e",
+   "exercise_id": "f8550450-6083-4388-b92a-0770efc16c6f",
+   "question_number": 2,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Ontdekkers en hervormers — overig (1500-1600)"
+    },
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    }
+   ],
+   "keywords": [
+    "Europese expansie",
+    "renaissance",
+    "mens- en wereldbeeld",
+    "motieven overzeese expansie",
+    "bronverwijzing",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Aangeven welk motief voor overzeese expansie uit Dürers beschrijving blijkt en hoe de expansie bijdroeg aan het veranderende mens- en wereldbeeld.",
+   "question_image_url": "geschiedenis-havo-2023-i-ontdekkers-en-hervormers-vraag2.png",
+   "question_text": "Gebruik bron 1. Een conclusie: De Europese overzeese expansie draagt bij aan het veranderende mens- en wereldbeeld van de renaissance. 3p 2 Geef aan:\n− welk motief voor de overzeese expansie je kunt afleiden uit de voorwerpen die uit Amerika zijn meegenomen, en\n− op welke wijze de expansie bijdraagt aan het veranderende mens- en wereldbeeld, waarbij je je antwoord ondersteunt met een verwijzing naar de bron.",
+   "context_block_ids": [
+    "68cc3dea-3b0c-4d3c-afa2-20cca2d4cdf5"
+   ]
+  },
+  {
+   "id": "f04f1c53-b5e2-44fa-b3d7-e80d5ab09bc3",
+   "exercise_id": "f8550450-6083-4388-b92a-0770efc16c6f",
+   "question_number": 3,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Ontdekkers en hervormers — overig (1500-1600)"
+    }
+   ],
+   "keywords": [
+    "Opstand",
+    "Republiek",
+    "klassieke Oudheid",
+    "humanisme",
+    "Willem Lodewijk",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Een politiek-militaire en een culturele verklaring geven voor het advies van Willem Lodewijk om de contramars in te voeren.",
+   "question_image_url": "geschiedenis-havo-2023-i-ontdekkers-en-hervormers-vraag3.png",
+   "question_text": "In 1594 gaf generaal Willem Lodewijk van Nassau-Dillenburg aan de opperbevelhebber van het leger van de Republiek het advies om ‘de contramars’ in te voeren. Dit was een methode waardoor soldaten sneller klaarstonden voor de aanval. Willem Lodewijk had over de contramars gelezen in het boek Tactische theorie van de Griekse schrijver Aelianus uit de tweede eeuw. 4p 3 Geef een politiek-militaire en een culturele verklaring voor het advies van Willem Lodewijk om de contramars in te voeren, waarbij je telkens het kenmerkende aspect uit de zestiende eeuw noemt dat hierbij past. Let op: je mag een kenmerkend aspect maar één keer gebruiken.",
+   "context_block_ids": []
+  },
+  {
+   "id": "319014c3-0edb-47ff-8d1d-782a35a17df2",
+   "exercise_id": "9d903b61-3108-4097-b066-23b55a4150ae",
+   "question_number": 7,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    }
+   ],
+   "keywords": [
+    "George III",
+    "dertien koloniën",
+    "politieke macht",
+    "landbouwkolonie",
+    "Brits koloniaal beleid",
+    "economisch motief"
+   ],
+   "question_summary": "Aangeven welk politiek en welk economisch doel George III met zijn beleid in de Amerikaanse koloniën wilde bereiken.",
+   "question_image_url": "geschiedenis-havo-2023-i-het-britse-rijk-vraag7.png",
+   "question_text": "2p 7 Geef met telkens een andere verwijzing naar het gegeven aan welk politiek en welk economisch doel George III wilde bereiken.\n⚠️ CONTROLEREN: de vraag verwijst naar 'het gegeven' (over George III en het geven van grond aan soldaten), maar dat gegeven staat niet in de PDF van ExamenCentraal.",
+   "context_block_ids": []
+  },
+  {
+   "id": "ffaab306-7841-40d8-8480-81aa5d598220",
+   "exercise_id": "9d903b61-3108-4097-b066-23b55a4150ae",
+   "question_number": 8,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    }
+   ],
+   "keywords": [
+    "natuurlijke rechten",
+    "Amerikaanse Onafhankelijkheidsoorlog",
+    "Verlichting",
+    "vrouwenrechten",
+    "no taxation without representation",
+    "bronverwijzing"
+   ],
+   "question_summary": "Met bron 4 aantonen dat Abigail Adams een argument van de opstandelingen gebruikt maar niet uitgaat van natuurlijke rechten.",
+   "question_image_url": "geschiedenis-havo-2023-i-het-britse-rijk-vraag8.png",
+   "question_text": "Gebruik bron 4. Twee beweringen:\n1 Abigail Adams gebruikt in haar oproep een argument waarmee de Amerikaanse opstandelingen hun strijd rechtvaardigen.\n2 Abigail Adams gaat bij haar oproep om vrouwenrechten niet uit van het verlichte ideaal van natuurlijke rechten. 3p 8 Ondersteun de beweringen door:\n− aan te geven welk argument van de Amerikaanse opstandelingen Abigail Adams gebruikt, en\n− uit te leggen dat Abigail Adams in haar oproep niet uitgaat van natuurlijke rechten.",
+   "context_block_ids": [
+    "36f64784-68d1-420a-88c5-8f6e7ccaf786"
+   ]
+  },
+  {
+   "id": "e1b0f215-998b-4d31-ac8d-189072b86f1f",
+   "exercise_id": "9d903b61-3108-4097-b066-23b55a4150ae",
+   "question_number": 10,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "India als belangrijkste kolonie (1765-1885)"
+    }
+   ],
+   "keywords": [
+    "imperialisme",
+    "East India Company",
+    "Indiaas verzet",
+    "propaganda",
+    "Tipoe",
+    "boodschap van een bron"
+   ],
+   "question_summary": "Uitleggen welke boodschap over het Britse imperialisme Tipoe en de East India Company met het tijgerkunstwerk wilden overbrengen.",
+   "question_image_url": "geschiedenis-havo-2023-i-het-britse-rijk-vraag10.png",
+   "question_text": "Gebruik bron 6. Tipoe laat het kunstwerk in zijn paleis in India tentoonstellen. Nadat Britse soldaten het paleis hebben veroverd, wordt het kunstwerk naar Groot-Brittannië gebracht en tentoongesteld in het museum van de East India Company in Londen. Tipoe en de East India Company willen elk met het tentoonstellen van het kunstwerk een boodschap overbrengen over het Britse imperialisme. 4p 10 Leg voor beide apart uit welke boodschap dat is.",
+   "context_block_ids": [
+    "3d909bbb-7fc8-4852-ad9f-3672d98cb4d9"
+   ]
+  },
+  {
+   "id": "e2c5ed7d-da93-4b35-b67e-c4a1e54e6f03",
+   "exercise_id": "9d903b61-3108-4097-b066-23b55a4150ae",
+   "question_number": 11,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    }
+   ],
+   "keywords": [
+    "abolitionisme",
+    "slavernij",
+    "plantagekolonie",
+    "Jamaica",
+    "standplaatsgebondenheid",
+    "afschaffing slavenhandel"
+   ],
+   "question_summary": "Uitleggen dat het eenzijdige beeld van slavernij in het dagboek van Lady Nugent past bij haar positie.",
+   "question_image_url": "geschiedenis-havo-2023-i-het-britse-rijk-vraag11.png",
+   "question_text": "Gebruik bron 7. In 1803 vindt in Groot-Brittannië een debat plaats over het afschaffen van de slavenhandel. Lady Nugent reageert op dit debat. 2p 11 Leg uit dat het eenzijdige beeld dat Lady Nugent weergeeft van de slavernij in Jamaica past bij haar positie.",
+   "context_block_ids": [
+    "1cd9ae6d-6554-4ae1-8602-9a1e580eabfd"
+   ]
+  },
+  {
+   "id": "d7722ba2-5400-4026-b8e4-0d2008b23448",
+   "exercise_id": "9d903b61-3108-4097-b066-23b55a4150ae",
+   "question_number": 12,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    },
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "India als belangrijkste kolonie (1765-1885)"
+    }
+   ],
+   "keywords": [
+    "superioriteitsgevoel",
+    "slavernij",
+    "racisme",
+    "beschavingsmissie",
+    "bruikbaarheid van een bron",
+    "Jamaica"
+   ],
+   "question_summary": "Uitleggen welke redenering van Lady Nugent bruikbaar is voor onderzoek naar het superioriteitsgevoel van Britse kolonisten.",
+   "question_image_url": "geschiedenis-havo-2023-i-het-britse-rijk-vraag12.png",
+   "question_text": "Gebruik bron 7 opnieuw. Stel: je doet onderzoek naar het superioriteitsgevoel onder Britse kolonisten. 2p 12 Leg uit welke redenering van Lady Nugent je kunt gebruiken voor je onderzoek.",
+   "context_block_ids": [
+    "1cd9ae6d-6554-4ae1-8602-9a1e580eabfd"
+   ]
+  },
+  {
+   "id": "75ca7e3b-a3d0-465a-bde3-b0bd83098bac",
+   "exercise_id": "9d903b61-3108-4097-b066-23b55a4150ae",
+   "question_number": 13,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "Koloniën en sociaal-economische ontwikkeling in Groot-Brittannië (1750-1900)"
+    }
+   ],
+   "keywords": [
+    "Factory Act",
+    "kinderarbeid",
+    "sociale kwestie",
+    "industriële revolutie",
+    "publieke opinie",
+    "fabrieksarbeid"
+   ],
+   "question_summary": "De Factory Act van 1833 noemen en uitleggen hoe de heruitgave van het levensverhaal van Blincoe de aanname ervan bevorderde.",
+   "question_image_url": "geschiedenis-havo-2023-i-het-britse-rijk-vraag13.png",
+   "question_text": "In 1828 publiceerde een Britse krant De herinneringen van Robert Blincoe: een zevenjarige weesjongen die vanuit het werkhuis in Londen naar een spinnerij werd gestuurd, waar hij alle ellende van het leven daar heeft moeten doorstaan. Dit verhaal, dat was gebaseerd op ware gebeurtenissen, werd later opnieuw uitgegeven. Daarmee wilden uitgevers de aanname van een wet door het Britse parlement bevorderen. 3p 13 Noem deze wet uit 1833 en leg uit op welke wijze de heruitgave van het levensverhaal van Blincoe de aanname van juist deze wet kon bevorderen.",
+   "context_block_ids": []
+  },
+  {
+   "id": "34ea1039-5a47-4e02-bbca-5a36b61d6e9c",
+   "exercise_id": "e5aceec3-ace9-4063-811c-9a4043be8f7b",
+   "question_number": 4,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Regenten en vorsten — overig (1600-1700)"
+    },
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    }
+   ],
+   "keywords": [
+    "Europese expansie",
+    "kolonisatie Noord-Amerika",
+    "inheemse bevolking",
+    "propaganda",
+    "standplaatsgebondenheid",
+    "Frankrijk"
+   ],
+   "question_summary": "Met de prent aantonen dat De Champlain zijn benoeming rechtvaardigt en waarschuwt dat de Franse belangen in Amerika gevaar lopen.",
+   "question_image_url": "geschiedenis-havo-2023-i-regenten-en-vorsten-vraag4.png",
+   "question_text": "Gebruik bron 2 . De Champlain publiceert het boek Reizen kort na zijn benoeming als vicegouverneur van de Franse kolonie in Amerika. 2p 4 Toon aan, telkens met een verwijzing naar de prent, dat De Champlain:\n− zijn benoeming als vicegouverneur rechtvaardigt, en\n− de waarschuwing geeft dat de Franse belangen in Amerika gevaar lopen.",
+   "context_block_ids": [
+    "8fb22d56-1cfc-4a05-811e-866cca1b1be2"
+   ]
+  },
+  {
+   "id": "30a2e19c-8e25-48af-bcc2-f9692e733e29",
+   "exercise_id": "e5aceec3-ace9-4063-811c-9a4043be8f7b",
+   "question_number": 5,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Regenten en vorsten — overig (1600-1700)"
+    }
+   ],
+   "keywords": [
+    "wetenschappelijke revolutie",
+    "Gouden Eeuw",
+    "Republiek",
+    "regenten",
+    "kenmerkend aspect",
+    "kunst"
+   ],
+   "question_summary": "Bij twee gegevens over Rachel Ruysch telkens een kenmerkend aspect van de zeventiende eeuw noemen.",
+   "question_image_url": "geschiedenis-havo-2023-i-regenten-en-vorsten-vraag5.png",
+   "question_text": "Twee gegevens over Rachel Ruysch (1664-1750):\n1 Rachel bestudeerde inheemse bloemen om ze na te tekenen en op te nemen in een verzameling.\n2 Rachel werd beroemd in de Republiek vanwege haar geschilderde bloemstillevens, die populair waren bij Amsterdamse regenten. 2p 5 Noem bij elk gegeven een ander kenmerkend aspect uit de zeventiende eeuw dat hierbij past. Let op: je mag een kenmerkend aspect maar één keer gebruiken.",
+   "context_block_ids": []
+  },
+  {
+   "id": "0844d97d-e526-44d7-a4da-5c12e3fb0b2f",
+   "exercise_id": "e5aceec3-ace9-4063-811c-9a4043be8f7b",
+   "question_number": 6,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Regenten en vorsten — overig (1600-1700)"
+    },
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Pruiken en revoluties — overig (1700-1800)"
+    }
+   ],
+   "keywords": [
+    "absolute vorsten",
+    "ancien régime",
+    "standenmaatschappij",
+    "Lodewijk XIV",
+    "hofcultuur",
+    "bronverwijzing"
+   ],
+   "question_summary": "Met bron 3 uitleggen dat het huwelijksverbod past bij het ancien régime en dat de schrijfster haar status aan het hof benadrukt.",
+   "question_image_url": "geschiedenis-havo-2023-i-regenten-en-vorsten-vraag6.png",
+   "question_text": "Gebruik bron 3. Twee conclusies:\n1 Het verbod op dit huwelijk past bij de samenleving tijdens het ancien régime.\n2 Anne Marie Louise van Orléans wil met deze beschrijving van de gebeurtenis haar status aan het hof benadrukken. 4p 6 Leg beide conclusies uit met telkens een verschillende verwijzing naar de bron.",
+   "context_block_ids": [
+    "35938cb1-5e28-4c37-9c6a-82920bfbe567"
+   ]
+  },
+  {
+   "id": "85bec551-a403-4919-8f61-6483e178b8d5",
+   "exercise_id": "3f9243e1-6f6f-485e-989b-4a6bd6f6d38f",
+   "question_number": 9,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "Koloniën en sociaal-economische ontwikkeling in Groot-Brittannië (1750-1900)"
+    }
+   ],
+   "keywords": [
+    "industriële revolutie",
+    "infrastructuur",
+    "kanalen",
+    "transport",
+    "grondstoffen",
+    "bronverwijzing"
+   ],
+   "question_summary": "Aangeven hoe twee voordelen van het Grand Trunk Canal de verdere industrialisering van Groot-Brittannië mogelijk maakten.",
+   "question_image_url": "geschiedenis-havo-2023-i-burgers-en-stoommachines-vraag9.png",
+   "question_text": "Gebruik bron 5\nDe voordelen van het Grand Trunk Canal die Pennant beschrijft maken de verdere industrialisering van Groot-Brittannië mogelijk. 2p 9 Geef aan voor twee voordelen die Pennant beschrijft, op welke wijze die de verdere industrialisering van Groot-Brittannië mogelijk maken.",
+   "context_block_ids": [
+    "0e819d1a-c16b-4474-aa33-f8ed228fdef9"
+   ]
+  },
+  {
+   "id": "90fd1fc5-f790-40c9-bc4b-3911c069a827",
+   "exercise_id": "3f9243e1-6f6f-485e-989b-4a6bd6f6d38f",
+   "question_number": 14,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "Koloniën en sociaal-economische ontwikkeling in Groot-Brittannië (1750-1900)"
+    },
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    }
+   ],
+   "keywords": [
+    "abolitionisme",
+    "feminisme",
+    "vrouwenkiesrecht",
+    "emancipatiebewegingen",
+    "media",
+    "Verenigde Staten"
+   ],
+   "question_summary": "Uitleggen dat het weren van vrouwen op een anti-slavernijconventie in 1840 de groei van de vrouwenkiesrechtbeweging bevorderde.",
+   "question_image_url": "geschiedenis-havo-2023-i-burgers-en-stoommachines-vraag14.png",
+   "question_text": "In 1840 mochten bij een anti-slavernijconventie Amerikaanse vrouwelijke abolitionisten niet deelnemen aan debatten en niet meestemmen over besluiten. Ze mochten wel toekijken vanaf het balkon. Het nieuws over het weigeren van de vrouwen kreeg veel media-aandacht. 2p 14 Leg uit dat deze gebeurtenis de groei van de Amerikaanse vrouwenkiesrechtbeweging bevorderde.",
+   "context_block_ids": []
+  },
+  {
+   "id": "bce840b0-6087-476f-b1aa-d6e051acec28",
+   "exercise_id": "3f9243e1-6f6f-485e-989b-4a6bd6f6d38f",
+   "question_number": 15,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "Koloniën en sociaal-economische ontwikkeling in Groot-Brittannië (1750-1900)"
+    },
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "India als belangrijkste kolonie (1765-1885)"
+    }
+   ],
+   "keywords": [
+    "modern imperialisme",
+    "Duits imperialisme",
+    "Namibië",
+    "verzet tegen kolonialisme",
+    "standplaatsgebondenheid",
+    "bronverwijzing"
+   ],
+   "question_summary": "Met bron 8 aantonen dat Witbooi het politieke aspect van het Duitse imperialisme bekritiseert en zijn reactie verklaren.",
+   "question_image_url": "geschiedenis-havo-2023-i-burgers-en-stoommachines-vraag15.png",
+   "question_text": "Gebruik bron 8. Een bewering: Witbooi vindt het Duitse imperialisme een bedreiging. 2p 15 Ondersteun deze bewering door:\n− aan te tonen dat Witbooi het politieke aspect van het Duitse imperialisme bekritiseert, en\n− de reactie van Witbooi vanuit zijn eigen achtergrond te verklaren.",
+   "context_block_ids": [
+    "17a51e7d-0cdb-46c5-bfb7-590ea4e0e11e"
+   ]
+  },
+  {
+   "id": "10fc7a4a-6f2f-4116-ab0e-d4cfc778e5dd",
+   "exercise_id": "3f9243e1-6f6f-485e-989b-4a6bd6f6d38f",
+   "question_number": 25,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "Koloniën en sociaal-economische ontwikkeling in Groot-Brittannië (1750-1900)"
+    },
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1948-1978)"
+    }
+   ],
+   "keywords": [
+    "modern imperialisme",
+    "Nederlands-Indië",
+    "dekolonisatie",
+    "multiculturele samenleving",
+    "beeldvorming",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Verklaren welke boodschap de afbeelding 'Hulde der Koloniën' in 1898 had en waarom er eind twintigste eeuw discussie over ontstond.",
+   "question_image_url": "geschiedenis-havo-2023-i-burgers-en-stoommachines-vraag25.png",
+   "question_text": "Gebruik bron 14. Twee gegevens:\n1 In 1898 schenkt de Amsterdamse bevolking de Gouden Koets aan koningin Wilhelmina.\n2 Aan het einde van de twintigste eeuw ontstaat discussie over de afbeelding 'Hulde der Koloniën'. 4p 25 Verklaar, waarbij je je antwoord telkens met een kenmerkend aspect uit die tijd ondersteunt:\n− welke boodschap in 1898 de afbeelding 'Hulde der Koloniën' moet overbrengen, en\n− waardoor aan het einde van de twintigste eeuw discussie ontstaat over de afbeelding ‘Hulde der Koloniën’. Let op: je mag een kenmerkend aspect maar één keer gebruiken.",
+   "context_block_ids": [
+    "ae8f2259-d027-45fd-b1d3-25924e74e20c"
+   ]
+  },
+  {
+   "id": "08cb0de6-3a76-4fc4-9ea8-d354e5dd89ee",
+   "exercise_id": "2fa9e2c3-3fb8-4b95-9d39-82ebe068cd9c",
+   "question_number": 17,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Opkomst nationaalsocialisme en gevolgen (1918-1945)"
+    }
+   ],
+   "keywords": [
+    "Republiek van Weimar",
+    "SA",
+    "politiek geweld",
+    "communisten",
+    "betrouwbaarheid",
+    "onderzoeksvraag"
+   ],
+   "question_summary": "Uitleggen dat bron 9 meer betrouwbare informatie bevat over de instabiele democratie van Weimar dan over de communistische dreiging.",
+   "question_image_url": "geschiedenis-havo-2023-i-duitsland-in-europa-vraag17.png",
+   "question_text": "Gebruik bron 9. Stel: je doet onderzoek naar de politiek in Duitsland in de jaren 1920 en je hebt twee onderzoeksgebieden:\n1 Oorzaken van de instabiele democratie van Duitsland.\n2 De dreiging van de communisten in Duitsland. 4p 17 Leg uit dat de bron:\n− meer betrouwbare informatie bevat voor het eerste onderzoeksgebied, en\n− minder betrouwbare informatie bevat voor het tweede onderzoeksgebied.",
+   "context_block_ids": [
+    "53e1c496-2a38-48e3-b6cf-d41b195be308"
+   ]
+  },
+  {
+   "id": "575303f0-6a35-4e11-bfda-060fd774876a",
+   "exercise_id": "2fa9e2c3-3fb8-4b95-9d39-82ebe068cd9c",
+   "question_number": 18,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Duitsland en de Koude Oorlog (1945-1961)"
+    }
+   ],
+   "keywords": [
+    "capitulatie",
+    "ontwrichting",
+    "denazificatie",
+    "krijgsgevangenen",
+    "bruikbaarheid van een bron",
+    "West-Duitsland"
+   ],
+   "question_summary": "Uitleggen dat de foto de ontwrichting na 1945 laat zien en de moeizame denazificatie in West-Duitsland verklaart.",
+   "question_image_url": "geschiedenis-havo-2023-i-duitsland-in-europa-vraag18.png",
+   "question_text": "Gebruik bron 10. Je wilt deze foto gebruiken bij een onderzoek naar de West-Duitse samenleving vlak na het einde van de Tweede Wereldoorlog. 4p 18 Leg uit dat je met deze foto:\n− de ontwrichting van de West-Duitse samenleving na de capitulatie in 1945 kunt laten zien, en\n− de moeizame denazificatie in West-Duitsland kunt verklaren.",
+   "context_block_ids": [
+    "a59adfb4-1202-4ea2-83eb-3706fdf76e71"
+   ]
+  },
+  {
+   "id": "354ae9c7-daef-4b78-bfb9-56f5a74c5280",
+   "exercise_id": "2fa9e2c3-3fb8-4b95-9d39-82ebe068cd9c",
+   "question_number": 19,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Duitsland en de Koude Oorlog (1945-1961)"
+    }
+   ],
+   "keywords": [
+    "Marshallplan",
+    "Koude Oorlog",
+    "Ruhrgebied",
+    "Trumandoctrine",
+    "wederopbouw",
+    "Frankrijk"
+   ],
+   "question_summary": "Verklaren waarom de VS, Frankrijk en Nederland verschillende standpunten innamen over de kolenproductie in het Ruhrgebied in 1947.",
+   "question_image_url": "geschiedenis-havo-2023-i-duitsland-in-europa-vraag19.png",
+   "question_text": "In juli 1947 werd in Parijs de verdeling van het geld van het Marshallplan besproken. Er ontstond een discussie over het Ruhrgebied, een belangrijk industriegebied in West-Duitsland. De Verenigde Staten stelden voor om daar de kolenproductie te stimuleren. Frankrijk was tegen het voorstel, Nederland steunde dit voorstel wel. 3p 19 Verklaar:\n− dat de Verenigde Staten dit voorstel deden vanwege de internationale verhoudingen op dat moment, en\n− met welk politiek motief Frankrijk het voorstel afwees, en\n− vanuit welk binnenlands belang Nederland ervoor koos het voorstel te steunen.",
+   "context_block_ids": []
+  },
+  {
+   "id": "b201fc19-278a-4ad3-a464-38a24250506b",
+   "exercise_id": "2fa9e2c3-3fb8-4b95-9d39-82ebe068cd9c",
+   "question_number": 21,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Hereniging en Europese integratie (1961-1991)"
+    }
+   ],
+   "keywords": [
+    "DDR",
+    "Staatssicherheitsdienst",
+    "vluchtgevaar",
+    "totalitaire dictatuur",
+    "voetbal",
+    "BRD"
+   ],
+   "question_summary": "Uitleggen welk probleem de DDR met voorwaarden voor de supportersreis naar de BRD wilde voorkomen en welk politiek motief erachter zat.",
+   "question_image_url": "geschiedenis-havo-2023-i-duitsland-in-europa-vraag21.png",
+   "question_text": "In 1974 nam het nationale elftal van de DDR deel aan het wereldkampioenschap voetbal in de BRD. De overheid van de DDR stelde voorwaarden aan de keuze van deelnemers voor de supportersreis:\n1 Alleen gehuwde burgers werden uitgekozen, waarbij per echtpaar maar één van de echtgenoten mocht afreizen.\n2 Minimaal één op de tien deelnemers aan de supportersreis moest lid zijn van de Staatssicherheitsdienst. 3p 21 Licht deze voorwaarden toe door:\n− uit te leggen welk mogelijk probleem de regering van de DDR met de eerste bepaling wilde voorkómen, en\n− het politieke motief van de regering van de DDR te noemen om leden van de Staatssicherheitsdienst mee te laten reizen naar de BRD.",
+   "context_block_ids": []
+  },
+  {
+   "id": "94fc3a26-8ecf-4e57-afa5-186e9b0ebbe3",
+   "exercise_id": "2fa9e2c3-3fb8-4b95-9d39-82ebe068cd9c",
+   "question_number": 23,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Hereniging en Europese integratie (1961-1991)"
+    }
+   ],
+   "keywords": [
+    "Gorbatsjov",
+    "perestrojka",
+    "Honecker",
+    "Kohl",
+    "val van de Muur",
+    "bronverwijzing"
+   ],
+   "question_summary": "Met bron 12 uitleggen welk beleid mevrouw Honecker volgens Kohl ondersteunt en waarom Kohl haar uitspraken gevaarlijk vond.",
+   "question_image_url": "geschiedenis-havo-2023-i-duitsland-in-europa-vraag23.png",
+   "question_text": "Gebruik bron 12. Kohl maakt zich zorgen over de uitspraken van mevrouw Honecker. 4p 23 Leg uit:\n− welk beleid van de DDR-regering mevrouw Honecker ondersteunt volgens Kohl, waarbij je je antwoord ondersteunt met een verwijzing naar de bron, en\n− dat Kohl vanuit zijn functie deze uitspraken van mevrouw Honecker als gevaarlijk beschouwt.",
+   "context_block_ids": [
+    "7123ef2f-dc1b-4e62-8c34-4abdeace382d"
+   ]
+  },
+  {
+   "id": "d965e812-dfc2-47cf-8e67-8d43b1d87412",
+   "exercise_id": "58022c75-98c7-43ed-8946-2a18ea496ca7",
+   "question_number": 20,
+   "topics": [
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1948-1978)"
+    }
+   ],
+   "keywords": [
+    "aardgasvondst Groningen",
+    "dekolonisatie",
+    "socialisme",
+    "nieuw links",
+    "protestbeweging",
+    "bronverwijzing"
+   ],
+   "question_summary": "Verklaren waarom de protestactie van Fré Meis in Groningen werd gehouden en tot welke politiek-maatschappelijke stroming hij behoorde.",
+   "question_image_url": "geschiedenis-havo-2023-i-nederland-1948-2008-vraag20.png",
+   "question_text": "In 1972 zei Tweede Kamerlid Fré Meis tijdens een protestactie in Groningen: \"Maar hier gebeurt hetzelfde als in koloniën: grote concerns leggen beslag op grondstoffen en bodemrijkdommen, voeren deze uit en verdienen er kapitalen aan, terwijl de bevolking kan fluiten naar deze rijkdom.\" 3p 20 Licht deze uitspraak toe door:\n− te verklaren waardoor deze protestactie juist in Groningen werd gehouden, en\n− aan te geven tot welke politiek-maatschappelijke stroming Fré Meis behoorde, waarbij je je antwoord ondersteunt met een verwijzing naar de uitspraak.",
+   "context_block_ids": []
+  },
+  {
+   "id": "c6e48f8f-5da6-44ef-aeab-2ec7b8b64b2e",
+   "exercise_id": "58022c75-98c7-43ed-8946-2a18ea496ca7",
+   "question_number": 22,
+   "topics": [
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1948-1978)"
+    }
+   ],
+   "keywords": [
+    "tweede feministische golf",
+    "abortus",
+    "confessionele partijen",
+    "kabinet-Den Uyl",
+    "emancipatie",
+    "bronverwijzing"
+   ],
+   "question_summary": "Met het affiche aantonen dat de emancipatie van de vrouw in 1975 nog niet voltooid was en welke oorzaak de actiegroep daarvoor geeft.",
+   "question_image_url": "geschiedenis-havo-2023-i-nederland-1948-2008-vraag22.png",
+   "question_text": "Gebruik bron 11 Volgens de actiegroep Wij Vrouwen Eisen zijn in 1975 nog niet alle doelen van de tweede feministische golf behaald. 3p 22 Licht dit toe door:\n− aan te tonen dat volgens de actiegroep de emancipatie van de vrouw nog niet is voltooid, en\n− aan te geven welke oorzaak de actiegroep daarvoor weergeeft, waarbij je je antwoord ondersteunt met een verwijzing naar de bron.",
+   "context_block_ids": [
+    "a4c9927a-492d-48fa-bf2c-87e4b6b24580"
+   ]
+  },
+  {
+   "id": "464a0eb7-d03d-4292-bb9d-db7064a4b108",
+   "exercise_id": "c6cf3801-4643-45f1-956b-5397bc66d681",
+   "question_number": 24,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    },
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1978-2008)"
+    }
+   ],
+   "keywords": [
+    "slavernij",
+    "abolitionisme",
+    "slavenopstand",
+    "multiculturele samenleving",
+    "beeldvorming",
+    "geschiedschrijving"
+   ],
+   "question_summary": "Beredeneren waarom het boek van Paesie over een slavenopstand veel lezers van het Surinaamse blad Parbode aanspreekt.",
+   "question_image_url": "geschiedenis-havo-2023-i-computer-en-televisie-vraag24.png",
+   "question_text": "Gebruik bron 13. 2p 24 Beredeneer waardoor het boek van Paesie, zoals het wordt beschreven in de recensie, veel lezers van Parbode aanspreekt.",
+   "context_block_ids": [
+    "e7cf089b-7e76-4308-8889-aa492ac97e10"
+   ]
+  }
+ ]
+}

@@ -86,7 +86,8 @@ def analyse_page(doc, pno, hashes):
             pagenum = int(l[4])
     title, head = None, 0.0
     for l in lines:
-        if l[1] < 130 and l[5] >= 13.5 and l[6]:
+        # a "bron 11" heading printed at 14pt (HAVO-GS-23-I-O.pdf p17) is not a title
+        if l[1] < 130 and l[5] >= 13.5 and l[6] and not BRON_RE.match(l[4]):
             title, head = l, l[3]
     if title is not None:
         for d in page.get_drawings():
@@ -112,6 +113,13 @@ def analyse_page(doc, pno, hashes):
 def vraag_number(vl, v):
     """Vraagnummer: bold digits at the start of the leftmost member line after
     the points ("2p") line, or "2p 12" merged into one line."""
+    # A bold pure-digit line is the vraagnummer (list numbers in an inleiding
+    # are not bold). Checked first because a "Let op:"-line printed further
+    # left than the vraag text (HAVO-GS-23-II-O.pdf vraag 8) would otherwise
+    # stop the leftmost-line scan below.
+    bold = [l for l in vl if l[6] and re.fullmatch(r"\d{1,2}", l[4])]
+    if bold:
+        return int(min(bold, key=lambda l: l[0])[4])
     for l in sorted(vl, key=lambda l: (l[0], l[1])):
         if POINTS_RE.match(l[4]):
             mm = re.match(r"^\s*\d+\s*p\s+(\d{1,2})\b", l[4])
@@ -454,7 +462,15 @@ def main():
                 ly1 = max((l[3] for l in ls), default=0)
                 b = min(b, max(p["limit"] + 2, ly1 + 1))
                 keep = [(min(x[0] for x in boxes), y0, max(x[2] for x in boxes), y1)]
-                imgs.append(render(page, t, b, win, wipe=wipe_all_except(page, t, b, win, keep)))
+                wipe = wipe_all_except(page, t, b, win, keep)
+                # Footer images (QR code, logo) that reach above the footer limit
+                # fall inside the union keep box when the last bron line runs into
+                # the footer (HAVO-GS-23-II-O.pdf bron 4): wipe them explicitly.
+                for img in page.get_images(full=True):
+                    for r in page.get_image_rects(img[0]):
+                        if r.y1 > p["limit"] + 5 and r.y0 < b and r.width < 150 and r.height < 80:
+                            wipe.append((r.x0 - 1, max(r.y0 - 1, t), r.x1 + 1, b + 5))
+                imgs.append(render(page, t, b, win, wipe=wipe))
                 sl = check_crop(get_blocks(page), t, b)
                 for s in sl:
                     if s["kind"] != "image" or s["bbox"][1] < p["limit"]:
