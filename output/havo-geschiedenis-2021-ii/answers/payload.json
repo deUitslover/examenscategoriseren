@@ -1,0 +1,550 @@
+{
+ "payload": {
+  "subject_name": "Geschiedenis",
+  "level": "HAVO",
+  "source": "HAVO Geschiedenis 2021-II",
+  "answers": [
+   {
+    "title": "Door de tijd heen",
+    "question_number": 1,
+    "answer_text": "De juiste volgorde is:\n2, 1, 4, 5, 6, 3",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 2, 1, 4, 5, 6, 3"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-door-de-tijd-heen-antw1.png"
+    ]
+   },
+   {
+    "title": "Door de tijd heen",
+    "question_number": 16,
+    "answer_text": "De juiste volgorde is:\n4, 5, 1, 6, 3, 2",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 4, 5, 1, 6, 3, 2"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-door-de-tijd-heen-antw16.png"
+    ]
+   },
+   {
+    "title": "Ontdekkers en Hervormers",
+    "question_number": 2,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De koning kan de kolonisatie rechtvaardigen door te beweren dat het daardoor mogelijk wordt de Braziliaanse bevolking Europese beschaving bij te brengen / te laten bekeren tot het christendom\n• wat nodig is, omdat uit de beschrijving blijkt dat de Brazilianen (een van de volgende):\n  − naakt rondlopen.\n  − met meerdere vrouwen trouwen.\n  − relaties met familieleden hebben.\n  − kannibalen zijn.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De koning kan de kolonisatie rechtvaardigen door te beweren dat het daardoor mogelijk wordt de Braziliaanse bevolking Europese beschaving bij te brengen / te laten bekeren tot het christendom"
+     },
+     {
+      "points": 1,
+      "description": "wat nodig is, omdat uit de beschrijving blijkt dat de Brazilianen (een van de volgende): naakt rondlopen.; met meerdere vrouwen trouwen.; relaties met familieleden hebben.; kannibalen zijn."
+     }
+    ],
+    "grading_note": "Alleen als in het antwoord een juist voorbeeld van rechtvaardiging wordt genoemd, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-ontdekkers-en-hervormers-antw2.png"
+    ]
+   },
+   {
+    "title": "Ontdekkers en Hervormers",
+    "question_number": 4,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De bouw van de citadel was noodzakelijk vanwege 'het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat', waardoor Den Bosch zich moest verdedigen tegen de Spanjaarden\n• Het (uitblinken in het) gebruik van molens / waterpompen om het land droog te maken past bij 'de wetenschappelijke revolutie' in de zeventiende eeuw, waarbij de pompen werden verbeterd / past bij 'de economische bloei van de Republiek', waardoor er geld was voor zulke uitgebreide werkzaamheden",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De bouw van de citadel was noodzakelijk vanwege 'het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat', waardoor Den Bosch zich moest verdedigen tegen de Spanjaarden"
+     },
+     {
+      "points": 1,
+      "description": "Het (uitblinken in het) gebruik van molens / waterpompen om het land droog te maken past bij 'de wetenschappelijke revolutie' in de zeventiende eeuw, waarbij de pompen werden verbeterd / past bij 'de economische bloei van de Republiek', waardoor er geld was voor zulke uitgebreide werkzaamheden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-ontdekkers-en-hervormers-antw4.png"
+    ]
+   },
+   {
+    "title": "Het Britse Rijk",
+    "question_number": 3,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Elizabeth I was geïnteresseerd in de kolonisatie van Noord-Amerika, omdat hierdoor een mogelijke uitvalsbasis voor de strijd tegen de Spanjaarden werd verkregen / omdat dit de machtsuitbreiding van de Spanjaarden zou stoppen\n• De prenten (van planten / dieren die gegeten konden worden / van de inheemse bevolking die eten kookte en verbouwde) brachten de boodschap over dat leven in Amerika mogelijk / aantrekkelijk was, wat kolonisatie moest bevorderen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Elizabeth I was geïnteresseerd in de kolonisatie van Noord-Amerika, omdat hierdoor een mogelijke uitvalsbasis voor de strijd tegen de Spanjaarden werd verkregen / omdat dit de machtsuitbreiding van de Spanjaarden zou stoppen"
+     },
+     {
+      "points": 2,
+      "description": "De prenten (van planten / dieren die gegeten konden worden / van de inheemse bevolking die eten kookte en verbouwde) brachten de boodschap over dat leven in Amerika mogelijk / aantrekkelijk was, wat kolonisatie moest bevorderen"
+     }
+    ],
+    "grading_note": "Als in het antwoord op de eerste deelvraag alleen wordt genoemd dat kolonisatie tot gebiedsuitbreiding leidt, wordt geen scorepunt toegekend (omdat dit niet specifiek over Noord-Amerika gaat).",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-het-britse-rijk-antw3.png"
+    ]
+   },
+   {
+    "title": "Het Britse Rijk",
+    "question_number": 7,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De prent toont (een van de volgende):\n  − een handmatig bediend weefgetouw\n  − de eigen werkplaats van de wever waarin de productie plaatsvindt\n• waardoor de prent past als illustratie bij de beginperiode van de industriële revolutie, waarin nog geen sprake is van fabrieken / grote machines / waarin nog sprake is van huisnijverheid\n• Door verbeteringen in de landbouw groeide de bevolking, waardoor de behoefte aan textiel / kleding groeide, waardoor industrialisatie noodzakelijk werd om sneller / meer te produceren",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De prent toont (een van de volgende): een handmatig bediend weefgetouw; de eigen werkplaats van de wever waarin de productie plaatsvindt"
+     },
+     {
+      "points": 1,
+      "description": "waardoor de prent past als illustratie bij de beginperiode van de industriële revolutie, waarin nog geen sprake is van fabrieken / grote machines / waarin nog sprake is van huisnijverheid"
+     },
+     {
+      "points": 2,
+      "description": "Door verbeteringen in de landbouw groeide de bevolking, waardoor de behoefte aan textiel / kleding groeide, waardoor industrialisatie noodzakelijk werd om sneller / meer te produceren"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord op de eerste deelvraag een juiste uitleg bevat waarom de prent geschikt is als illustratie van de beginperiode van de industriële revolutie, wordt 1 scorepunt toegekend aan een hierbij passende verwijzing naar de bron.\nAlleen als in het antwoord bij de tweede deelvraag wordt verwezen naar de groeiende vraag naar textiel die werd veroorzaakt door de bevolkingsgroei, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-het-britse-rijk-antw7.png"
+    ]
+   },
+   {
+    "title": "Het Britse Rijk",
+    "question_number": 8,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De commissie wil mensen als Coulson verhoren, omdat hij uit eigen ervaring spreekt over de arbeidsomstandigheden\n• De aanbevelingen van de commissie leiden tot de aanname van (de eerste van) de Factory Acts",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De commissie wil mensen als Coulson verhoren, omdat hij uit eigen ervaring spreekt over de arbeidsomstandigheden"
+     },
+     {
+      "points": 1,
+      "description": "De aanbevelingen van de commissie leiden tot de aanname van (de eerste van) de Factory Acts"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-het-britse-rijk-antw8.png"
+    ]
+   },
+   {
+    "title": "Het Britse Rijk",
+    "question_number": 9,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Omdat de commissie het voornemen van de Britse regering verbeteringen door te voeren moet steunen, is het mogelijk dat tijdens het interview alleen naar slechte ervaringen wordt gevraagd / dat de vragen sturend zijn\n• wat blijkt uit de vraag naar de lange werktijden / naar de weinige pauzes / naar de consequenties van het te laat komen / uit de vraag \"Was het niet heel moeilijk om ze wakker te krijgen?\"",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Omdat de commissie het voornemen van de Britse regering verbeteringen door te voeren moet steunen, is het mogelijk dat tijdens het interview alleen naar slechte ervaringen wordt gevraagd / dat de vragen sturend zijn"
+     },
+     {
+      "points": 1,
+      "description": "wat blijkt uit de vraag naar de lange werktijden / naar de weinige pauzes / naar de consequenties van het te laat komen / uit de vraag \"Was het niet heel moeilijk om ze wakker te krijgen?\""
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een juiste verklaring bevat voor de twijfel aan de betrouwbaarheid, wordt 1 scorepunt toegekend aan een passend voorbeeld uit de bron.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-het-britse-rijk-antw9.png"
+    ]
+   },
+   {
+    "title": "Het Britse Rijk",
+    "question_number": 10,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nCole wil het benodigde geld bij elkaar krijgen door:\nbij 1:\n• te suggereren dat de Britse industrie er voordelig zal uitkomen in een competitie met andere landen\n• waarmee Cole gebruikmaakt van het Britse superioriteitsgevoel dat met de tentoonstelling bewezen zal worden dat de Britse industrie de beste producten levert\nbij 2:\n• te zeggen dat de Britse ondernemers het benodigde geld bij elkaar moeten brengen / dat Britse ondernemers niet afhankelijk zijn van de regering\n• wat laat zien dat Cole uitgaat van het belang van particulier initiatief (wat een liberaal uitgangspunt is)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "te suggereren dat de Britse industrie er voordelig zal uitkomen in een competitie met andere landen"
+     },
+     {
+      "points": 1,
+      "description": "waarmee Cole gebruikmaakt van het Britse superioriteitsgevoel dat met de tentoonstelling bewezen zal worden dat de Britse industrie de beste producten levert"
+     },
+     {
+      "points": 1,
+      "description": "te zeggen dat de Britse ondernemers het benodigde geld bij elkaar moeten brengen / dat Britse ondernemers niet afhankelijk zijn van de regering"
+     },
+     {
+      "points": 1,
+      "description": "wat laat zien dat Cole uitgaat van het belang van particulier initiatief (wat een liberaal uitgangspunt is)"
+     }
+    ],
+    "grading_note": "Alleen als bij de eerste deelvraag een juist voorbeeld van Brits superioriteitsgevoel en bij de tweede deelvraag een juist liberaal standpunt wordt genoemd, wordt telkens 1 scorepunt toegekend aan een passende verwijzing naar de bron.\nAls bij beide deelvragen dezelfde verwijzing naar de bron wordt genoemd, wordt alleen aan de eerste verwijzing 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-het-britse-rijk-antw10.png"
+    ]
+   },
+   {
+    "title": "Het Britse Rijk",
+    "question_number": 13,
+    "answer_text": "Kern van een juist antwoord is:\nIn 1885 werd het Indian National Congress opgericht, waardoor de Britse machthebbers te maken kregen met de organisatie van het Indiase streven naar gelijke kansen binnen het Brits-Indisch bestuur (waaraan de Britten niet wilden toegeven) / waardoor de Britse machthebbers de roep om meer rechten van Indiërs moesten afweren.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "In 1885 werd het Indian National Congress opgericht, waardoor de Britse machthebbers te maken kregen met de organisatie van het Indiase streven naar gelijke kansen binnen het Brits-Indisch bestuur (waaraan de Britten niet wilden toegeven) / waardoor de Britse machthebbers de roep om meer rechten van Indiërs moesten afweren."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-het-britse-rijk-antw13.png"
+    ]
+   },
+   {
+    "title": "Regenten en Vorsten",
+    "question_number": 5,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nDe negatieve beschrijving van het hofleven onder Madame de Maintenon kan worden verklaard:\nbij 1:\n• door het absolute karakter van het bewind van Lodewijk XIV, waardoor de ministers / de edelen (om bij de koning in de gunst te blijven) zich niet (durven te) verzetten tegen de echtgenote van de koning / zich kritiekloos opstellen\nbij 2:\n• vanuit het persoonlijke motief dat Elisabeth Charlotte zich in haar positie bedreigd voelt door Madame de Maintenon, omdat die de koning opzet tegen zijn familie (waar zij en haar man deel van uitmaken)\n• Elisabeth Charlotte overdrijft misschien de misstanden / beschrijft alleen de misstanden, omdat zij door het bekritiseren van Madame de Maintenon haar positie wil beschermen / de positie van Madame de Maintenon wil ondermijnen / door deze bedreiging geen oog heeft voor andere kwaliteiten van Madame de Maintenon",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "door het absolute karakter van het bewind van Lodewijk XIV, waardoor de ministers / de edelen (om bij de koning in de gunst te blijven) zich niet (durven te) verzetten tegen de echtgenote van de koning / zich kritiekloos opstellen"
+     },
+     {
+      "points": 1,
+      "description": "vanuit het persoonlijke motief dat Elisabeth Charlotte zich in haar positie bedreigd voelt door Madame de Maintenon, omdat die de koning opzet tegen zijn familie (waar zij en haar man deel van uitmaken)"
+     },
+     {
+      "points": 2,
+      "description": "Elisabeth Charlotte overdrijft misschien de misstanden / beschrijft alleen de misstanden, omdat zij door het bekritiseren van Madame de Maintenon haar positie wil beschermen / de positie van Madame de Maintenon wil ondermijnen / door deze bedreiging geen oog heeft voor andere kwaliteiten van Madame de Maintenon"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-regenten-en-vorsten-antw5.png"
+    ]
+   },
+   {
+    "title": "Pruiken en Revoluties",
+    "question_number": 6,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Door 'de uitbouw van de Europese overheersing, met name in de vorm van plantagekoloniën en de daarmee verbonden trans-Atlantische slavenhandel' ligt de nadruk op de handel in slaafgemaakten / in plantageproducten\n• Willem Bosman stelt een koerswijziging voor door (een van de volgende combinaties):\n  − te beweren dat de goudmijnen meer schatten zouden kunnen opleveren, waarmee hij voorstelt dat de West-Indische Compagnie zich gaat richten op handel in goud (in plaats van alleen slaafgemaakten te kopen in Afrika).\n  − te beweren dat het voordelig zou zijn als Europeanen het land zouden bezitten, waarmee hij de wens uitspreekt de Europese overheersing uit te breiden naar West-Afrika (in plaats van zich te concentreren op handel naar Amerika).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door 'de uitbouw van de Europese overheersing, met name in de vorm van plantagekoloniën en de daarmee verbonden trans-Atlantische slavenhandel' ligt de nadruk op de handel in slaafgemaakten / in plantageproducten"
+     },
+     {
+      "points": 2,
+      "description": "Willem Bosman stelt een koerswijziging voor door (een van de volgende combinaties): te beweren dat de goudmijnen meer schatten zouden kunnen opleveren, waarmee hij voorstelt dat de West-Indische Compagnie zich gaat richten op handel in goud (in plaats van alleen slaafgemaakten te kopen in Afrika).; te beweren dat het voordelig zou zijn als Europeanen het land zouden bezitten, waarmee hij de wens uitspreekt de Europese overheersing uit te breiden naar West-Afrika (in plaats van zich te concentreren op handel naar Amerika)."
+     }
+    ],
+    "grading_note": "Als bij de eerste deelvraag alleen een juist kenmerkend aspect wordt genoemd zonder dat aangegeven wordt dat de voorrang uitgaat naar slavenhandel / plantageproducten, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-pruiken-en-revoluties-antw6.png"
+    ]
+   },
+   {
+    "title": "Pruiken en Revoluties",
+    "question_number": 11,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Liernur geeft het beeld weer dat slavernij noodzakelijk is / beter is voor de slaafgemaakten dan vrijheid / Liernur besteedt geen aandacht aan de slechte behandeling van (sommige) slaafgemaakten / aan de onderwerping van slaafgemaakten\n• door te schrijven dat (een van de volgende):\n  − slavenarbeid onmisbaar is voor de plantage-economie / voor de productie van bepaalde producten.\n  − slaafgemaakten gelukkig / tevreden / verzorgd zijn.\n  − vrijgemaakten zich economisch niet redden.\n• Abolitionisten zouden hiertegen inbrengen dat Liernur voorbijgaat aan het religieuze argument dat slavernij niet strookt met de Bijbel / aan het verlichte ideaal gelijkheid / vrijheid (waardoor slavernij onwenselijk is)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Liernur geeft het beeld weer dat slavernij noodzakelijk is / beter is voor de slaafgemaakten dan vrijheid / Liernur besteedt geen aandacht aan de slechte behandeling van (sommige) slaafgemaakten / aan de onderwerping van slaafgemaakten"
+     },
+     {
+      "points": 1,
+      "description": "door te schrijven dat (een van de volgende): slavenarbeid onmisbaar is voor de plantage-economie / voor de productie van bepaalde producten.; slaafgemaakten gelukkig / tevreden / verzorgd zijn.; vrijgemaakten zich economisch niet redden."
+     },
+     {
+      "points": 1,
+      "description": "Abolitionisten zouden hiertegen inbrengen dat Liernur voorbijgaat aan het religieuze argument dat slavernij niet strookt met de Bijbel / aan het verlichte ideaal gelijkheid / vrijheid (waardoor slavernij onwenselijk is)"
+     }
+    ],
+    "grading_note": "Alleen als bij de eerste deelvraag een juiste uitleg wordt gegeven over de eenzijdigheid van het beeld dat Liernur schetst, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-pruiken-en-revoluties-antw11.png"
+    ]
+   },
+   {
+    "title": "Burgers en Stoommachines",
+    "question_number": 12,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Het besluit om Tuindorp 't Lansink te bouwen kan worden verklaard vanuit 'discussies over de sociale kwestie', want met de bouw van moderne woningen werd geprobeerd de woonomstandigheden van de arbeiders te verbeteren / vanuit 'de industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving', want door de groei van de arbeidersklasse steeg de vraag naar woonruimte\n• Het besluit om Tuindorp in Utrecht te bouwen kan worden verklaard vanuit 'de crisis van het wereldkapitalisme', waardoor de vraag naar onroerend goed steeg omdat particulieren na de crisis niet meer wilden investeren in het bankwezen / aandelen / huizen een veiliger belegging vonden",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het besluit om Tuindorp 't Lansink te bouwen kan worden verklaard vanuit 'discussies over de sociale kwestie', want met de bouw van moderne woningen werd geprobeerd de woonomstandigheden van de arbeiders te verbeteren / vanuit 'de industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving', want door de groei van de arbeidersklasse steeg de vraag naar woonruimte"
+     },
+     {
+      "points": 1,
+      "description": "Het besluit om Tuindorp in Utrecht te bouwen kan worden verklaard vanuit 'de crisis van het wereldkapitalisme', waardoor de vraag naar onroerend goed steeg omdat particulieren na de crisis niet meer wilden investeren in het bankwezen / aandelen / huizen een veiliger belegging vonden"
+     }
+    ],
+    "grading_note": "Voor het noemen van alleen een juist kenmerkend aspect zonder passende verklaring voor de bouw van een tuindorp wordt geen scorepunt toegekend.\nAls een kenmerkend aspect twee keer genoemd wordt, wordt alleen bij de eerste vermelding 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-burgers-en-stoommachines-antw12.png"
+    ]
+   },
+   {
+    "title": "Burgers en Stoommachines",
+    "question_number": 14,
+    "answer_text": "Voorbeeld van een juist antwoord is:\na. De verkiezing van Poppe de Rook was te verklaren met (een van de volgende):\n  i. 'de opkomst van emancipatiebewegingen (van arbeiders)', waardoor de arbeiders zich bewust werden van hun rechten, zodat ze stemden op De Rook (die zich wilde inzetten voor de arbeiders).\n  ii. 'de opkomst van de politiek-maatschappelijke stroming socialisme', waardoor partijen en vakbonden ontstonden waarvoor De Rook zich verkiesbaar stelde om zijn idealen uit te werken.\n  iii. 'de voortschrijdende democratisering', omdat hierdoor meer arbeiders konden stemmen op de socialist De Rook (die voor hun belangen opkwam).\nb. Door het voorstel om het schoolgeld te halveren werd scholing toegankelijker voor minder welgestelden, wat paste bij het socialistisch ideaal van emancipatie van de arbeiders / gelijke kansen voor iedereen / een meer rechtvaardige samenleving",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "a. De verkiezing van Poppe de Rook was te verklaren met (een van de volgende): 'de opkomst van emancipatiebewegingen (van arbeiders)', waardoor de arbeiders zich bewust werden van hun rechten, zodat ze stemden op De Rook (die zich wilde inzetten voor de arbeiders).; 'de opkomst van de politiek-maatschappelijke stroming socialisme', waardoor partijen en vakbonden ontstonden waarvoor De Rook zich verkiesbaar stelde om zijn idealen uit te werken.; 'de voortschrijdende democratisering', omdat hierdoor meer arbeiders konden stemmen op de socialist De Rook (die voor hun belangen opkwam)."
+     },
+     {
+      "points": 2,
+      "description": "b. Door het voorstel om het schoolgeld te halveren werd scholing toegankelijker voor minder welgestelden, wat paste bij het socialistisch ideaal van emancipatie van de arbeiders / gelijke kansen voor iedereen / een meer rechtvaardige samenleving"
+     }
+    ],
+    "grading_note": "Als bij de eerste deelvraag alleen een juist kenmerkend aspect wordt genoemd, wordt geen scorepunt toegekend.\nAlleen als bij de tweede deelvraag een juist ideaal van de socialisten wordt genoemd dat kon worden bereikt met scholing, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-burgers-en-stoommachines-antw14.png"
+    ]
+   },
+   {
+    "title": "Burgers en Stoommachines",
+    "question_number": 15,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nFeministen zouden vinden dat deze recensent de nadruk legt op Baudets sekse / haar een meisje noemde zonder waardering voor haar wetenschappelijke prestatie / ervan uitging dat de keuken het terrein van vrouwen was, waarmee hij traditionele rolpatronen benadrukte / bevestigde.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Feministen zouden vinden dat deze recensent de nadruk legt op Baudets sekse / haar een meisje noemde zonder waardering voor haar wetenschappelijke prestatie / ervan uitging dat de keuken het terrein van vrouwen was, waarmee hij traditionele rolpatronen benadrukte / bevestigde."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-burgers-en-stoommachines-antw15.png"
+    ]
+   },
+   {
+    "title": "Burgers en Stoommachines",
+    "question_number": 27,
+    "answer_text": "Voorbeeld van een juist antwoord is:\ntwee van de volgende:\nbij 1:\nEr werd naar Coen verwezen als held om de boodschap weer te geven dat kolonialisme voor Nederland gunstig / wenselijk was, wat paste bij 'de moderne vorm van imperialisme' / bij 'de opkomst van (politiek-maatschappelijke stromingen zoals) het nationalisme'.\nbij 2:\nEr werd naar de spreuk van Coen verwezen om de Nederlandse bevolking de boodschap over te brengen dat zij zich niet moest neerleggen bij / dat zij zich moest verzetten tegen de Duitse bezetters, wat paste bij 'de Duitse bezetting van Nederland' / 'het voeren van twee wereldoorlogen'.\nbij 3:\nHet standbeeld werd neergehaald om de boodschap weer te geven dat de Nederlandse overheersing van Indonesië voorbij was, wat paste bij 'vormen van verzet tegen het westerse imperialisme' / 'het voeren van twee wereldoorlogen'.\nbij 4:\nEr werd geprotesteerd tegen de tentoonstelling over Coen om de boodschap over te brengen dat het eren van het Nederlandse koloniale verleden werd afgekeurd, wat paste bij 'de ontwikkeling van pluriforme en multiculturele samenlevingen' / 'de dekolonisatie die een einde maakte aan de westerse hegemonie in de wereld'.\nper combinatie van een juiste boodschap met een hierbij passend kenmerkend aspect",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "per combinatie van een juiste boodschap met een hierbij passend kenmerkend aspect (eerste combinatie)"
+     },
+     {
+      "points": 2,
+      "description": "per combinatie van een juiste boodschap met een hierbij passend kenmerkend aspect (tweede combinatie)"
+     }
+    ],
+    "grading_note": "Als alleen een juist kenmerkend aspect wordt genoemd zonder passende uitleg, wordt geen scorepunt toegekend.\nAls een kenmerkend aspect twee keer genoemd wordt, worden alleen bij de eerste vermelding scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-burgers-en-stoommachines-antw27.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa",
+    "question_number": 17,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Door (een van de volgende):\n  − af te beelden dat Clemenceau de laatste (v)eer uit de adelaar trekt\n  − het onderschrift waarin verwezen wordt naar de Duitse eer\n• geeft Jan Sluijters de mening weer dat Clemenceau Duitsland wil vernederen / compleet wil uitschakelen\n• Door het afbeelden van (een van de volgende):\n  − een kaalgeplukte (Duitse) adelaar\n  − het uittrekken van de laatste (v)eer\n  − de dichtgebonden bek van de adelaar\n  − de ketting met loden bal om de poten van de adelaar\n  − de druppels bloed die uit de adelaar vallen\n• geeft Jan Sluijters de mening weer dat het Verdrag van Versailles Duitsland economisch ruïneert / aan banden legt / van alle waardigheid berooft",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door (een van de volgende): af te beelden dat Clemenceau de laatste (v)eer uit de adelaar trekt; het onderschrift waarin verwezen wordt naar de Duitse eer"
+     },
+     {
+      "points": 1,
+      "description": "geeft Jan Sluijters de mening weer dat Clemenceau Duitsland wil vernederen / compleet wil uitschakelen"
+     },
+     {
+      "points": 1,
+      "description": "Door het afbeelden van (een van de volgende): een kaalgeplukte (Duitse) adelaar; het uittrekken van de laatste (v)eer; de dichtgebonden bek van de adelaar; de ketting met loden bal om de poten van de adelaar; de druppels bloed die uit de adelaar vallen"
+     },
+     {
+      "points": 1,
+      "description": "geeft Jan Sluijters de mening weer dat het Verdrag van Versailles Duitsland economisch ruïneert / aan banden legt / van alle waardigheid berooft"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juist doel en bij de tweede deelvraag een juist gevolg bevat, wordt telkens 1 scorepunt toegekend aan een passende verwijzing naar de bron.\nAls voor beide deelvragen hetzelfde beeldelement wordt genoemd, wordt alleen aan de eerste verwijzing 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-duitsland-in-europa-antw17.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa",
+    "question_number": 18,
+    "answer_text": "Kern van een juist antwoord is:\n• In de bron komt de (hyper)inflatie / de economische crisis (in 1923) naar voren, waardoor geld steeds minder waard werd / waardoor er niets meer te koop is in de winkel\n• wat ertoe leidt dat de bevolking het vertrouwen in de regering verliest zodat er opstanden uitbreken / extremistische partijen ontstaan (zoals de NSDAP) / wat ertoe leidt dat er telkens nieuwe regeringen moeten worden gevormd omdat de regering het niet eens wordt over de aanpak van de crisis\n• Er komt een einde aan deze periode door het Dawesplan (of een juiste omschrijving hiervan) / omdat de herstelbetalingen tijdelijk werden verlaagd / door de verzoeningspolitiek met Frankrijk",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In de bron komt de (hyper)inflatie / de economische crisis (in 1923) naar voren, waardoor geld steeds minder waard werd / waardoor er niets meer te koop is in de winkel"
+     },
+     {
+      "points": 1,
+      "description": "wat ertoe leidt dat de bevolking het vertrouwen in de regering verliest zodat er opstanden uitbreken / extremistische partijen ontstaan (zoals de NSDAP) / wat ertoe leidt dat er telkens nieuwe regeringen moeten worden gevormd omdat de regering het niet eens wordt over de aanpak van de crisis"
+     },
+     {
+      "points": 1,
+      "description": "Er komt een einde aan deze periode door het Dawesplan (of een juiste omschrijving hiervan) / omdat de herstelbetalingen tijdelijk werden verlaagd / door de verzoeningspolitiek met Frankrijk"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-duitsland-in-europa-antw18.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa",
+    "question_number": 19,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De foto moet in de Storm SS aan de (nationaalsocialistische) lezers de boodschap uitdragen dat de deportatie van Joden voorspoedig verloopt / dat Joden worden gedeporteerd\n• omdat op de foto is te zien dat Joden zich zonder verzet melden / dat Joden zich melden met bagage (waaruit op te maken is dat ze voor langere tijd weggaan)\n• Met het publicatieverbod wil de Duitse bezetter ervoor zorgen dat de (arische) Nederlandse bevolking niet langer in contact komt met Joden / wil de Duitse bezetter Joden buiten de samenleving plaatsen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De foto moet in de Storm SS aan de (nationaalsocialistische) lezers de boodschap uitdragen dat de deportatie van Joden voorspoedig verloopt / dat Joden worden gedeporteerd"
+     },
+     {
+      "points": 1,
+      "description": "omdat op de foto is te zien dat Joden zich zonder verzet melden / dat Joden zich melden met bagage (waaruit op te maken is dat ze voor langere tijd weggaan)"
+     },
+     {
+      "points": 1,
+      "description": "Met het publicatieverbod wil de Duitse bezetter ervoor zorgen dat de (arische) Nederlandse bevolking niet langer in contact komt met Joden / wil de Duitse bezetter Joden buiten de samenleving plaatsen"
+     }
+    ],
+    "grading_note": "Alleen als bij de eerste deelvraag een juiste boodschap wordt genoemd, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-duitsland-in-europa-antw19.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa",
+    "question_number": 24,
+    "answer_text": "Kern van een juist antwoord is:\nDe Ostpolitik was gericht op het verbeteren van de betrekkingen met de (communistische) DDR / Oost-Europese landen, wat paste bij de periode van detente (of een juiste omschrijving hiervan) in de Koude Oorlog.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De Ostpolitik was gericht op het verbeteren van de betrekkingen met de (communistische) DDR / Oost-Europese landen, wat paste bij de periode van detente (of een juiste omschrijving hiervan) in de Koude Oorlog."
+     }
+    ],
+    "grading_note": "Voor het alleen noemen van de detente, zonder verband te leggen met het doel van de Ostpolitik, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-duitsland-in-europa-antw24.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa",
+    "question_number": 26,
+    "answer_text": "Voorbeeld van een juist antwoord is:\na. De tekenaar geeft de mening weer dat de DDR-leiding weigert te luisteren naar de roep om verandering / zich afkeert van de liberale koers in de Sovjet-Unie / in andere Oostbloklanden\nb. door af te beelden dat (een van de volgende):\n  i. Honecker zijn vingers in zijn oren stopt.\n  ii. Honecker de hervormingsleuzen de rug toekeert / negeert.\n  iii. de DDR een vesting is met prikkeldraad.\nc. De tekenaar voorspelt dat het regime van de DDR uiteindelijk zal vallen / de huidige politieke koers in haar eentje niet lang vol kan houden\nd. door het afbeelden van (een van de volgende):\n  i. de scheur in de muur waar DDR op staat.\n  ii. de DDR als geïsoleerde vesting.\n  iii. de geringe omvang van de vesting rondom Honecker.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a. De tekenaar geeft de mening weer dat de DDR-leiding weigert te luisteren naar de roep om verandering / zich afkeert van de liberale koers in de Sovjet-Unie / in andere Oostbloklanden"
+     },
+     {
+      "points": 1,
+      "description": "b. door af te beelden dat (een van de volgende): Honecker zijn vingers in zijn oren stopt.; Honecker de hervormingsleuzen de rug toekeert / negeert.; de DDR een vesting is met prikkeldraad."
+     },
+     {
+      "points": 1,
+      "description": "c. De tekenaar voorspelt dat het regime van de DDR uiteindelijk zal vallen / de huidige politieke koers in haar eentje niet lang vol kan houden"
+     },
+     {
+      "points": 1,
+      "description": "d. door het afbeelden van (een van de volgende): de scheur in de muur waar DDR op staat.; de DDR als geïsoleerde vesting.; de geringe omvang van de vesting rondom Honecker."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juiste mening van de tekenaar en bij de tweede deelvraag een juiste voorspelling bevat, wordt telkens 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-duitsland-in-europa-antw26.png"
+    ]
+   },
+   {
+    "title": "Nederland 1948-2008",
+    "question_number": 20,
+    "answer_text": "De juiste combinaties zijn:\n1 – e, 2 – a, 3 – c, 4 – d\nindien vier combinaties juist\nindien drie combinaties juist\nindien minder dan drie combinaties juist",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "indien vier combinaties juist"
+     },
+     {
+      "points": 1,
+      "description": "indien drie combinaties juist"
+     },
+     {
+      "points": 0,
+      "description": "indien minder dan drie combinaties juist"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-nederland-1948-2008-antw20.png"
+    ]
+   },
+   {
+    "title": "Nederland 1948-2008",
+    "question_number": 21,
+    "answer_text": "Voorbeeld van een juist antwoord:\n• De Nederlandse overheid steunde de wederopbouw omdat West-Duitsland een belangrijke handelspartner was (zodat de Nederlandse economie zou profiteren van een sterke West-Duitse economie)\n• De Nederlandse regering pleitte voor herbewapening omdat een sterk West-Duitsland kon bijdragen aan de verdediging van West-Europa tegen het communistische Oostblok",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De Nederlandse overheid steunde de wederopbouw omdat West-Duitsland een belangrijke handelspartner was (zodat de Nederlandse economie zou profiteren van een sterke West-Duitse economie)"
+     },
+     {
+      "points": 1,
+      "description": "De Nederlandse regering pleitte voor herbewapening omdat een sterk West-Duitsland kon bijdragen aan de verdediging van West-Europa tegen het communistische Oostblok"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-nederland-1948-2008-antw21.png"
+    ]
+   },
+   {
+    "title": "Nederland 1948-2008",
+    "question_number": 22,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Door (een van de volgende):\n  − de jongeren 'hysterische vlegels' te noemen\n  − het gedrag van de jongeren 'bont' te noemen\n• keurt het artikel het gedrag van de jongeren af / wordt het beeld geschetst dat het verbod terecht is / wordt geen aandacht gegeven aan de mening van de jongeren\n• De krant heeft moeite met de opkomst van jongerencultuur / met de verandering dat de jongeren (beslissingen van) het gezag niet meer accepteren",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door (een van de volgende): de jongeren 'hysterische vlegels' te noemen; het gedrag van de jongeren 'bont' te noemen"
+     },
+     {
+      "points": 1,
+      "description": "keurt het artikel het gedrag van de jongeren af / wordt het beeld geschetst dat het verbod terecht is / wordt geen aandacht gegeven aan de mening van de jongeren"
+     },
+     {
+      "points": 1,
+      "description": "De krant heeft moeite met de opkomst van jongerencultuur / met de verandering dat de jongeren (beslissingen van) het gezag niet meer accepteren"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord op de eerste deelvraag een juist voorbeeld van de eenzijdigheid bevat, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-nederland-1948-2008-antw22.png"
+    ]
+   },
+   {
+    "title": "Nederland 1948-2008",
+    "question_number": 25,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nDe financiering van de moedermavo's:\nbij 1:\na. ondersteunde de veranderende positie van vrouwen in de jaren 1970, omdat vrouwen door het volgen van onderwijs kozen voor ontplooiing buitenshuis / hun kansen op de arbeidsmarkt vergrootten (terwijl eerst een dienende rol / rol als huisvrouw vanzelfsprekend werd gevonden)\nbij 2:\nb. paste bij het ideaal van de maakbare samenleving, omdat het kabinet met de ondersteuning van de moedermavo's de gelijkheid / financiële onafhankelijkheid van vrouwen wilde bevorderen (en daarmee de samenleving stuurde in de door haar gewenste richting)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a. ondersteunde de veranderende positie van vrouwen in de jaren 1970, omdat vrouwen door het volgen van onderwijs kozen voor ontplooiing buitenshuis / hun kansen op de arbeidsmarkt vergrootten (terwijl eerst een dienende rol / rol als huisvrouw vanzelfsprekend werd gevonden)"
+     },
+     {
+      "points": 1,
+      "description": "b. paste bij het ideaal van de maakbare samenleving, omdat het kabinet met de ondersteuning van de moedermavo's de gelijkheid / financiële onafhankelijkheid van vrouwen wilde bevorderen (en daarmee de samenleving stuurde in de door haar gewenste richting)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-nederland-1948-2008-antw25.png"
+    ]
+   },
+   {
+    "title": "Computer en Televisie",
+    "question_number": 23,
+    "answer_text": "Kern van een juist antwoord is:\nDoor te oordelen op nauwkeurigheid / snelheid van het afrekenen, liet de supermarktketen zien dat zij gericht was op meer omzet / dat zij wilde bevorderen dat er steeds meer kon worden verkocht (wat paste bij de opkomst van de consumptiemaatschappij).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Door te oordelen op nauwkeurigheid / snelheid van het afrekenen, liet de supermarktketen zien dat zij gericht was op meer omzet / dat zij wilde bevorderen dat er steeds meer kon worden verkocht (wat paste bij de opkomst van de consumptiemaatschappij)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2021-ii-computer-en-televisie-antw23.png"
+    ]
+   }
+  ]
+ }
+}
