@@ -1,4 +1,4 @@
-"""STAP 1-2A for one VWO Geschiedenis exam (-O.pdf) from ExamenCentraal.
+"""STAP 1-2A for one VWO or HAVO Geschiedenis exam (-O.pdf) from ExamenCentraal.
 
 Geschiedenis exams are not organised in opgaven with a grey title bar per
 opgave like the beta/economie exams (build_exam.py), but in THEMABLOKKEN:
@@ -182,11 +182,25 @@ def main():
     ap.add_argument("--skip-page", action="append", type=int, default=[],
                     help="0-based page index to ignore entirely (e.g. a stray page that "
                          "ExamenCentraal copied in from another exam, VWO-GS-22-III-O.pdf p3-4)")
+    ap.add_argument("--drop", action="append", default=[],
+                    help="N@P: drop vraag N on 0-based page P together with its inleiding "
+                         "(a vraag ExamenCentraal copied in from another exam, "
+                         "HAVO-GS-21-I-O.pdf p14 'vraag 20' comes from HAVO-GS-24-II)")
+    ap.add_argument("--carry", action="append", type=int, default=[],
+                    help="N: an inleiding left without vraag at the end of a block "
+                         "(before its bron pages) is the inleiding of vraag N in a LATER "
+                         "block (HAVO-GS-21-I-O.pdf vraag 19)")
+    ap.add_argument("--move", action="append", default=[],
+                    help="N:Title: move vraag N to the block with this exact title "
+                         "(the block the correctievoorschrift names, e.g. a vraag "
+                         "printed under the wrong block)")
     args = ap.parse_args()
+    drops = {(int(d.split("@")[0]), int(d.split("@")[1])) for d in args.drop}
+    orphan = []
     cuts = {int(c.split("@")[0]): float(c.split("@")[1]) for c in args.cut}
 
-    m = re.match(r"vwo-geschiedenis-(\d{4})-([ivx]+)$", args.slug)
-    prefix = f"geschiedenis-vwo-{m.group(1)}-{m.group(2)}"
+    m = re.match(r"(vwo|havo)-geschiedenis-(\d{4})-([ivx]+)$", args.slug)
+    prefix = f"geschiedenis-{m.group(1)}-{m.group(2)}-{m.group(3)}"
     ctx_split = {}
     for c in args.ctx:
         if "@>" in c:   # only the inleiding lines that start at/below y
@@ -309,6 +323,15 @@ def main():
                         sys.exit(f"page {p['pno']}: no vraagnummer in {v['text'][:60]!r}")
                     parts = list(pending) + [(p, intro + vl)]
                     pending = []
+                    if (num, p["pno"]) in drops:
+                        for l in intro + vl:
+                            used.add(id(l))
+                        cursor = max(l[3] for l in vl)
+                        warnings.append(f"vraag {num} op p{p['pno']} weggelaten (--drop)")
+                        continue
+                    if num in args.carry and orphan:
+                        parts = orphan + parts
+                        orphan = []
                     # uitzondering 1/2: inleiding (or its upper part) as a separate context block
                     if num in ctx_split:
                         cut = ctx_split[num]
@@ -383,8 +406,11 @@ def main():
             if p["heads"]:
                 mode = "bron"
                 if pending:
-                    warnings.append(f"{blk['title']}: inleiding without vraag before bron pages: "
-                                    + " / ".join(l[4] for _, ls in pending for l in ls)[:200])
+                    if args.carry:
+                        orphan = list(pending)
+                    else:
+                        warnings.append(f"{blk['title']}: inleiding without vraag before bron pages: "
+                                        + " / ".join(l[4] for _, ls in pending for l in ls)[:200])
                     pending = []
                 groups = group_heads(p["heads"])
                 for gi, g in enumerate(groups):
@@ -443,6 +469,21 @@ def main():
         draft["blocks"].append(dict(title=blk["title"], slug=tslug,
                                     context_blocks=ctxs, questions=questions))
 
+    for mv in args.move:
+        n, title = mv.split(":", 1)
+        n = int(n)
+        src = next(b for b in draft["blocks"] if any(q["number"] == n for q in b["questions"]))
+        dst = next(b for b in draft["blocks"] if b["title"] == title)
+        qq = next(q for q in src["questions"] if q["number"] == n)
+        src["questions"].remove(qq)
+        new = f"{prefix}-{dst['slug']}-vraag{n}.png"
+        os.rename(os.path.join(imgdir, qq["image"]), os.path.join(imgdir, new))
+        qq["image"] = new
+        dst["questions"].append(qq)
+        dst["questions"].sort(key=lambda q: q["number"])
+        warnings.append(f"vraag {n} verplaatst van {src['title']!r} naar {title!r} (--move)")
+    if orphan:
+        warnings.append("orphan inleiding never used: " + " / ".join(l[4] for _, ls in orphan for l in ls)[:200])
     draft["width"] = sorted(widths)
     json.dump(draft, open(os.path.join(outdir, "draft.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)

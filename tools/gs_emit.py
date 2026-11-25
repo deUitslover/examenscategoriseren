@@ -1,4 +1,4 @@
-"""STAP 3-6 for one VWO Geschiedenis exam: combine output/<slug>/draft.json
+"""STAP 3-6 for one VWO or HAVO Geschiedenis exam (level taken from SOURCE): combine output/<slug>/draft.json
 (from gs_build.py) with an annotation file into insert.sql, manifest.json
 and payload.json (the insert_full_exercise RPC payload).
 
@@ -67,6 +67,24 @@ SUBDOMAINS = {
     "Televisie en computer — overig (vanaf 1950)": _TV,
 }
 
+_BR = "Het Britse Rijk (1585-1900)"
+_NL = "Nederland (1948-2008)"
+_DEH = "Duitsland in Europa (1918-1991)"
+SUBDOMAINS_HAVO = {
+    "De Engelse koloniën in de Amerika's (1585-1833)": _BR,
+    "India als belangrijkste kolonie (1765-1885)": _BR,
+    "Koloniën en sociaal-economische ontwikkeling in Groot-Brittannië (1750-1900)": _BR,
+    "Opkomst nationaalsocialisme en gevolgen (1918-1945)": _DEH,
+    "Duitsland en de Koude Oorlog (1945-1961)": _DEH,
+    "Hereniging en Europese integratie (1961-1991)": _DEH,
+    "Veranderende maatschappelijke verhoudingen (1948-1978)": _NL,
+    "Veranderende maatschappelijke verhoudingen (1978-2008)": _NL,
+    "Ontdekkers en hervormers — overig (1500-1600)": _TV,
+    "Regenten en vorsten — overig (1600-1700)": _TV,
+    "Pruiken en revoluties — overig (1700-1800)": _TV,
+    "Wereldoorlogen — overig (1900-1950)": _TV,
+}
+
 BRON_REF = re.compile(r"\bbronn?e?n?\s+(\d+(?:\s*(?:,|en)\s*\d+)*)", re.I)
 
 
@@ -95,7 +113,11 @@ def main():
     draft = json.load(open(os.path.join(outdir, "draft.json"), encoding="utf-8"))
     ann = runpy.run_path(annpath)
     source = ann["SOURCE"]
-    subject, level = "Geschiedenis", "VWO"
+    subject = "Geschiedenis"
+    level = "HAVO" if source.startswith("HAVO") else "VWO"
+    global SUBDOMAINS
+    if level == "HAVO":
+        SUBDOMAINS = SUBDOMAINS_HAVO
     exs, ctxs, qs, manifest, problems, notes = [], [], [], [], [], []
     for blk in draft["blocks"]:
         a = ann["EX"][blk["title"]]
