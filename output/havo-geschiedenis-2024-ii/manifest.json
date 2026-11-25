@@ -1,0 +1,77 @@
+{
+  "source": "HAVO Geschiedenis 2024-II",
+  "subject_name": "Geschiedenis",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Door de tijd heen",
+      "question_numbers": [
+        1
+      ]
+    },
+    {
+      "title": "Ontdekkers en Hervormers",
+      "question_numbers": [
+        2,
+        4
+      ]
+    },
+    {
+      "title": "Het Britse Rijk",
+      "question_numbers": [
+        3,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Regenten en Vorsten",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        10
+      ]
+    },
+    {
+      "title": "Pruiken en Revoluties",
+      "question_numbers": [
+        8
+      ]
+    },
+    {
+      "title": "Tijd van Wereldoorlogen",
+      "question_numbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Duitsland in Europa",
+      "question_numbers": [
+        16,
+        17,
+        19,
+        21,
+        24,
+        26
+      ]
+    },
+    {
+      "title": "Nederland 1948-2008",
+      "question_numbers": [
+        20,
+        22,
+        23
+      ]
+    },
+    {
+      "title": "Computer en Televisie",
+      "question_numbers": [
+        25
+      ]
+    }
+  ]
+}
