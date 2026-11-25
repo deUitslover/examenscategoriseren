@@ -1,0 +1,436 @@
+{
+ "payload": {
+  "subject_name": "Geschiedenis",
+  "level": "VWO",
+  "source": "VWO Geschiedenis 2026-II",
+  "answers": [
+   {
+    "title": "Door de tijd heen",
+    "question_number": 1,
+    "answer_text": "De juiste volgorde is:\n2, 6, 1, 5, 4, 3",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 2, 6, 1, 5, 4, 3"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-door-de-tijd-heen-antw1.png"
+    ]
+   },
+   {
+    "title": "Prehistorie en oudheid",
+    "question_number": 2,
+    "answer_text": "Kern van een juist antwoord is:\n• Caligula liet het standbeeld plaatsen vanuit 'de groei van het Romeinse imperium (waardoor de Grieks-Romeinse cultuur zich in Europa verspreidde)' omdat hij hiermee zijn/de Romeinse macht over Jeruzalem wilde tonen / de Romeinse keizercultus in Jeruzalem wilde introduceren.\n• De gouverneur verwachtte dat er rellen zouden uitbreken onder de joodse bevolking vanuit 'de ontwikkeling van het jodendom en het christendom als de eerste monotheïstische godsdiensten' omdat het vereren van (een standbeeld van) een Romeinse keizer inging tegen de verering van één god.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Caligula liet het standbeeld plaatsen vanuit 'de groei van het Romeinse imperium (waardoor de Grieks-Romeinse cultuur zich in Europa verspreidde)' omdat hij hiermee zijn/de Romeinse macht over Jeruzalem wilde tonen / de Romeinse keizercultus in Jeruzalem wilde introduceren."
+     },
+     {
+      "points": 1,
+      "description": "De gouverneur verwachtte dat er rellen zouden uitbreken onder de joodse bevolking vanuit 'de ontwikkeling van het jodendom en het christendom als de eerste monotheïstische godsdiensten' omdat het vereren van (een standbeeld van) een Romeinse keizer inging tegen de verering van één god."
+     }
+    ],
+    "grading_note": "Als een antwoord alleen een kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-prehistorie-en-oudheid-antw2.png"
+    ]
+   },
+   {
+    "title": "Prehistorie en oudheid",
+    "question_number": 3,
+    "answer_text": "Kern van een juist antwoord is:\n• Uit de bron blijkt dat de positie van de Senaat (ver)zwak(t) is, omdat er strijd is tussen Senaat en leger over wie de keizer mag benoemen / het leger ook politieke macht naar zich toe trekt door benoemde keizers af te wijzen (wat bijdraagt aan de politieke crisis in het Romeinse Rijk).\n• Vanwege 'de confrontatie tussen de Grieks-Romeinse cultuur en de Germaanse cultuur van Noordwest-Europa' wil Gordianus een snelle benoeming van een keizer, omdat het Rijk een legeraanvoerder nodig heeft / omdat de strijd tegen de Germanen moet worden geleid/opgepakt.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit de bron blijkt dat de positie van de Senaat (ver)zwak(t) is, omdat er strijd is tussen Senaat en leger over wie de keizer mag benoemen / het leger ook politieke macht naar zich toe trekt door benoemde keizers af te wijzen (wat bijdraagt aan de politieke crisis in het Romeinse Rijk)."
+     },
+     {
+      "points": 1,
+      "description": "Vanwege 'de confrontatie tussen de Grieks-Romeinse cultuur en de Germaanse cultuur van Noordwest-Europa' wil Gordianus een snelle benoeming van een keizer, omdat het Rijk een legeraanvoerder nodig heeft / omdat de strijd tegen de Germanen moet worden geleid/opgepakt."
+     }
+    ],
+    "grading_note": "Als het antwoord bij de tweede deelvraag alleen een kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-prehistorie-en-oudheid-antw3.png"
+    ]
+   },
+   {
+    "title": "De middeleeuwen",
+    "question_number": 4,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Ethelred II wil zijn onderdanen laten zien dat hij oog heeft voor de verliezen die zijn volk lijdt door de Scandinaviërs / dat hij een daadkrachtige koning is (waarmee hij zijn positie als koning versterkt).\n• Ethelred II schrijft dat het doden van de Denen rechtvaardig is omdat de Denen onkruid zijn / dat hij zijn besluit heeft overlegd met de raad van leidinggevende mannen.\n• Ethelred II benadrukt dat hij de kerk laat herbouwen omdat hij als koning de steun nodig heeft van de kerk/geestelijkheid / omdat hij hiermee de steun van het gelovige volk behoudt.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Ethelred II wil zijn onderdanen laten zien dat hij oog heeft voor de verliezen die zijn volk lijdt door de Scandinaviërs / dat hij een daadkrachtige koning is (waarmee hij zijn positie als koning versterkt)."
+     },
+     {
+      "points": 1,
+      "description": "Ethelred II schrijft dat het doden van de Denen rechtvaardig is omdat de Denen onkruid zijn / dat hij zijn besluit heeft overlegd met de raad van leidinggevende mannen."
+     },
+     {
+      "points": 1,
+      "description": "Ethelred II benadrukt dat hij de kerk laat herbouwen omdat hij als koning de steun nodig heeft van de kerk/geestelijkheid / omdat hij hiermee de steun van het gelovige volk behoudt."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-de-middeleeuwen-antw4.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 5,
+    "answer_text": "Kern van een juist antwoord is:\n• De oprichting van de Gemene Beurs paste bij de verandering dat de stedelijke overheid/burgerij de armenzorg overnam van de geestelijkheid.\n• De centralisatiepolitiek van de Habsburgers werd bevorderd omdat door de verplichting tot het oprichten van een Gemene Beurs hetzelfde armenbeleid werd ingevoerd in steden in de Nederlanden.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De oprichting van de Gemene Beurs paste bij de verandering dat de stedelijke overheid/burgerij de armenzorg overnam van de geestelijkheid."
+     },
+     {
+      "points": 1,
+      "description": "De centralisatiepolitiek van de Habsburgers werd bevorderd omdat door de verplichting tot het oprichten van een Gemene Beurs hetzelfde armenbeleid werd ingevoerd in steden in de Nederlanden."
+     }
+    ],
+    "grading_note": "Als bij het eerste antwoord alleen de term bonum commune wordt genoemd zonder in te gaan op de daadwerkelijke verandering in de sociale zorg, wordt geen scorepunt toegekend.\nAls het antwoord bij de tweede deelvraag alleen een voorbeeld van politiek beleid bevat zonder uitleg op welke wijze de maatregel het politieke beleid bevordert, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-steden-en-burgers-1050-1700-antw5.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 6,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Willem van Oranje wil laten zien dat zijn verzet tegen de Spanjaarden terecht is / dat hij terecht een oorlog begint tegen de Spaanse troepen,\n• door te schrijven dat (een van de volgende):\n  − de hertog van Alva / de troepen van de hertog van Alva onchristelijke/bloeddorstige daden pleegt/plegen.\n  − de hertog van Alva tegen de overeenkomst tussen Filips II en de Nederlanden handelt.\n  − de hertog van Alva een gruwelijke tirannie voert.\n• Willem van Oranje schetst het beeld van Filips II (als een goede koning/die wordt misbruikt door de hertog van Alva), omdat het beschuldigen van de koning weerstand kan oproepen/mensen afschrikt zich aan te sluiten bij de Opstand / omdat zijn eigen politieke positie als stadhouder afkomstig is van de koning.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Willem van Oranje wil laten zien dat zijn verzet tegen de Spanjaarden terecht is / dat hij terecht een oorlog begint tegen de Spaanse troepen,"
+     },
+     {
+      "points": 1,
+      "description": "door te schrijven dat (een van de volgende): de hertog van Alva / de troepen van de hertog van Alva onchristelijke/bloeddorstige daden pleegt/plegen.; de hertog van Alva tegen de overeenkomst tussen Filips II en de Nederlanden handelt.; de hertog van Alva een gruwelijke tirannie voert."
+     },
+     {
+      "points": 1,
+      "description": "Willem van Oranje schetst het beeld van Filips II (als een goede koning/die wordt misbruikt door de hertog van Alva), omdat het beschuldigen van de koning weerstand kan oproepen/mensen afschrikt zich aan te sluiten bij de Opstand / omdat zijn eigen politieke positie als stadhouder afkomstig is van de koning."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juiste uitleg bevat over het onderbouwen van het optreden van Willem van Oranje, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-steden-en-burgers-1050-1700-antw6.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 7,
+    "answer_text": "Kern van een juist antwoord is:\n• De soldaat houdt het dagboek bij voor zichzelf waardoor hij geen reden heeft om de situatie anders voor te stellen.\n• Uit de bron blijkt dat de oorlogvoering leidt tot vernietiging van oogsten / dat de bevolking lijdt onder de oorlog zodat sommigen/seizoens-arbeiders naar de Republiek trekken (om daar te werken/veilig te zijn).\n• In die tijd wordt de Dertigjarige Oorlog uitgevochten.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De soldaat houdt het dagboek bij voor zichzelf waardoor hij geen reden heeft om de situatie anders voor te stellen."
+     },
+     {
+      "points": 1,
+      "description": "Uit de bron blijkt dat de oorlogvoering leidt tot vernietiging van oogsten / dat de bevolking lijdt onder de oorlog zodat sommigen/seizoens-arbeiders naar de Republiek trekken (om daar te werken/veilig te zijn)."
+     },
+     {
+      "points": 1,
+      "description": "In die tijd wordt de Dertigjarige Oorlog uitgevochten."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-steden-en-burgers-1050-1700-antw7.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 - 1900",
+    "question_number": 8,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• In de prent wordt de mening weergegeven dat Karel II absolute macht heeft/macht heeft boven het parlement vanwege het droit divin (of een juiste omschrijving hiervan),\n• wat wordt afgebeeld met de kroon die Karel II vanuit de hemel wordt aangereikt / door de tekst \"door Mij (God) regeren koningen\".\n• De tekst “voor hemzelf en zijn rechtmatige opvolgers” geeft weer dat (het goddelijk) recht te regeren ook voor de troonopvolger/Jacobus geldt (waarmee diens claim op de troon wordt ondersteund).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In de prent wordt de mening weergegeven dat Karel II absolute macht heeft/macht heeft boven het parlement vanwege het droit divin (of een juiste omschrijving hiervan),"
+     },
+     {
+      "points": 1,
+      "description": "wat wordt afgebeeld met de kroon die Karel II vanuit de hemel wordt aangereikt / door de tekst \"door Mij (God) regeren koningen\"."
+     },
+     {
+      "points": 1,
+      "description": "De tekst “voor hemzelf en zijn rechtmatige opvolgers” geeft weer dat (het goddelijk) recht te regeren ook voor de troonopvolger/Jacobus geldt (waarmee diens claim op de troon wordt ondersteund)."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juiste mening over de positie van de koning bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de prent.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-verlichting-1650-1900-antw8.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 - 1900",
+    "question_number": 9,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• In het pamflet maakt Olympe de Gouges gebruik van een logische redenering / haar verstand / haar kennis van natuurwetten om tot een conclusie te komen over slaafgemaakten (wat past bij het rationalisme),\n• door te schrijven dat kleurverschil een natuurlijk verschijnsel is bij mensen, net als bij dieren/planten/mineralen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In het pamflet maakt Olympe de Gouges gebruik van een logische redenering / haar verstand / haar kennis van natuurwetten om tot een conclusie te komen over slaafgemaakten (wat past bij het rationalisme),"
+     },
+     {
+      "points": 1,
+      "description": "door te schrijven dat kleurverschil een natuurlijk verschijnsel is bij mensen, net als bij dieren/planten/mineralen."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een juiste uitleg bevat over het gebruik van de rede, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-verlichting-1650-1900-antw9.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 - 1900",
+    "question_number": 10,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De beschrijving past bij (gebeurtenissen voorafgaand aan/die leiden tot) de Belgische afscheiding.\n• Von Metternich laat het uitgangspunt van het Congres van Wenen los dat verlichte liberale ideeën moeten worden ingedamd,\n• omdat hij schrijft dat hij hoopt dat het verlichte deel van de Belgische natie met het Nederlandse gezag zal samenwerken / een aantal veranderingen door mag voeren in de Nederlanden.\n• Von Metternich blijft vasthouden aan het uitgangspunt dat machtsevenwicht (in Europa) belangrijk is / dat het Koninkrijk der Nederlanden niet mag splitsen,\n• omdat hij schrijft dat een definitieve scheiding moet worden voorkomen / dat een scheiding te gunstig zal zijn voor Frankrijk (en daarmee de balans verstoort).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De beschrijving past bij (gebeurtenissen voorafgaand aan/die leiden tot) de Belgische afscheiding."
+     },
+     {
+      "points": 1,
+      "description": "Von Metternich laat het uitgangspunt van het Congres van Wenen los dat verlichte liberale ideeën moeten worden ingedamd,"
+     },
+     {
+      "points": 1,
+      "description": "omdat hij schrijft dat hij hoopt dat het verlichte deel van de Belgische natie met het Nederlandse gezag zal samenwerken / een aantal veranderingen door mag voeren in de Nederlanden."
+     },
+     {
+      "points": 1,
+      "description": "Von Metternich blijft vasthouden aan het uitgangspunt dat machtsevenwicht (in Europa) belangrijk is / dat het Koninkrijk der Nederlanden niet mag splitsen,"
+     },
+     {
+      "points": 1,
+      "description": "omdat hij schrijft dat een definitieve scheiding moet worden voorkomen / dat een scheiding te gunstig zal zijn voor Frankrijk (en daarmee de balans verstoort)."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de tweede en derde deelvraag een juist voorbeeld bevat van een uitgangspunt van het Congres van Wenen dat Von Metternich loslaat/vasthoudt, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-verlichting-1650-1900-antw10.png"
+    ]
+   },
+   {
+    "title": "China 1842 - 2001",
+    "question_number": 11,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Lin Zexu wilde in het bijzonder de handel in opium tot een halt brengen.\n• De bepaling van Lin Zexu paste bij 'vormen van verzet tegen het West-Europese imperialisme' omdat hij hiermee zeggenschap wilde krijgen over de handel die werd gedreven door buitenlandse/Britse handelaren.\nof\n• De bepaling van Lin Zexu paste bij 'de opkomst van politiek-maatschappelijke stromingen: nationalisme' omdat hij hiermee zijn land wilde beschermen tegen de schadelijke import van opium.\n• Het verbod van Elliot de verklaring te tekenen paste bij het streven naar 'de moderne vorm van imperialisme' omdat de Britten via de handel in opium meer macht wilden krijgen in China / de verklaring voor de Britten een aanleiding vormde tegen China op te treden.\nof\n• Het verbod van Elliot de verklaring te tekenen paste bij 'de opkomst van de politiek-maatschappelijke stromingen: nationalisme' omdat Elliot vond dat de Britten superieur waren/niet ondergeschikt waren aan Chinese wetten.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Lin Zexu wilde in het bijzonder de handel in opium tot een halt brengen."
+     },
+     {
+      "points": 1,
+      "description": "De bepaling van Lin Zexu paste bij 'vormen van verzet tegen het West-Europese imperialisme' omdat hij hiermee zeggenschap wilde krijgen over de handel die werd gedreven door buitenlandse/Britse handelaren. of: De bepaling van Lin Zexu paste bij 'de opkomst van politiek-maatschappelijke stromingen: nationalisme' omdat hij hiermee zijn land wilde beschermen tegen de schadelijke import van opium."
+     },
+     {
+      "points": 1,
+      "description": "Het verbod van Elliot de verklaring te tekenen paste bij het streven naar 'de moderne vorm van imperialisme' omdat de Britten via de handel in opium meer macht wilden krijgen in China / de verklaring voor de Britten een aanleiding vormde tegen China op te treden. of: Het verbod van Elliot de verklaring te tekenen paste bij 'de opkomst van de politiek-maatschappelijke stromingen: nationalisme' omdat Elliot vond dat de Britten superieur waren/niet ondergeschikt waren aan Chinese wetten."
+     }
+    ],
+    "grading_note": "Als het antwoord bij de tweede deelvraag alleen een kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-china-1842-2001-antw11.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 - 1900",
+    "question_number": 12,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Deze prent brengt de boodschap over aan welgestelde Amerikanen dat zij er rekening mee moeten houden dat arbeiders voor zichzelf beginnen op te komen/meer rechten opeisen / dat hun onderdrukking de arbeiders in opstand doet komen,\n• door af te beelden dat (een van de volgende):\n  − de vuist van de arbeiders door de vloer omhoog komt.\n  − de rijke feestvierders verschrikt/verbaasd/verontwaardigd kijken naar de vuist van de arbeiders.\n• Deze prent (die kritiek geeft op de uitbuiting van arbeiders) past bij het socialisme/communisme.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Deze prent brengt de boodschap over aan welgestelde Amerikanen dat zij er rekening mee moeten houden dat arbeiders voor zichzelf beginnen op te komen/meer rechten opeisen / dat hun onderdrukking de arbeiders in opstand doet komen,"
+     },
+     {
+      "points": 1,
+      "description": "door af te beelden dat (een van de volgende): de vuist van de arbeiders door de vloer omhoog komt.; de rijke feestvierders verschrikt/verbaasd/verontwaardigd kijken naar de vuist van de arbeiders."
+     },
+     {
+      "points": 1,
+      "description": "Deze prent (die kritiek geeft op de uitbuiting van arbeiders) past bij het socialisme/communisme."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juiste boodschap aan de welgestelde Amerikanen bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de prent.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-verlichting-1650-1900-antw12.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 13,
+    "answer_text": "Kern van een juist antwoord is:\n• De boodschap werd overgebracht dat Belgen met succes hun onafhankelijkheid konden bevechten/zich succesvol konden verzetten tegen onderdrukkers/de Duitsers,\n• door te verwijzen naar de Guldensporenslag waarin de (Vlaamse) boeren/het gemeen kans had gezien de adel/machthebbers te verslaan.\nof\n• door te verwijzen naar de Belgische Opstand waarin de (voornamelijk Franstalige) Belgen het leger van Willem I weerstonden / zich afscheidden van Nederland.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De boodschap werd overgebracht dat Belgen met succes hun onafhankelijkheid konden bevechten/zich succesvol konden verzetten tegen onderdrukkers/de Duitsers,"
+     },
+     {
+      "points": 1,
+      "description": "door te verwijzen naar de Guldensporenslag waarin de (Vlaamse) boeren/het gemeen kans had gezien de adel/machthebbers te verslaan. of: door te verwijzen naar de Belgische Opstand waarin de (voornamelijk Franstalige) Belgen het leger van Willem I weerstonden / zich afscheidden van Nederland."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-steden-en-burgers-1050-1700-antw13.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 14,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nKern van een juist antwoord is:\n• Münsterberg geeft het beeld weer dat bij de start van de Republiek van Weimar het democratische idee doordringt tot alle klassen / de Duitsers allen achter (de parlementaire democratie van) de Republiek staan.\n• De conservatieve elite / de legerleiding/soldaten / de aanhangers van extreemlinkse/communistische / extreemrechtse groepen zijn het niet eens met deze beschrijving, omdat zij de regering van Weimar de schuld geven van de wapenstilstand/de Duitse overgave / het neerslaan van de Spartakusopstand (zodat zij het niet eens zijn met het geschetste beeld dat alle Duitsers de parlementaire democratie omarmen).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Münsterberg geeft het beeld weer dat bij de start van de Republiek van Weimar het democratische idee doordringt tot alle klassen / de Duitsers allen achter (de parlementaire democratie van) de Republiek staan."
+     },
+     {
+      "points": 1,
+      "description": "De conservatieve elite / de legerleiding/soldaten / de aanhangers van extreemlinkse/communistische / extreemrechtse groepen zijn het niet eens met deze beschrijving, omdat zij de regering van Weimar de schuld geven van de wapenstilstand/de Duitse overgave / het neerslaan van de Spartakusopstand (zodat zij het niet eens zijn met het geschetste beeld dat alle Duitsers de parlementaire democratie omarmen)."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de tweede deelvraag een juiste combinatie bevat van groepering en een uitleg waarom deze groepering het niet eens is met de beschrijving, wordt 1 scorepunt toegekend.\n⚠️ CONTROLEREN: maximumscore 1, maar het correctievoorschrift vermeldt 2 deelpunten van 1 scorepunt; bovendien staan zowel \"Voorbeeld van een juist antwoord is:\" als \"Kern van een juist antwoord is:\" boven het antwoord.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-duitsland-in-europa-1918-1991-antw14.png"
+    ]
+   },
+   {
+    "title": "China 1842 - 2001",
+    "question_number": 16,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Het beëindigen van de 'ongelijke verdragen' paste bij de communistische afkeer van het (modern) imperialisme / van uitbuiting van (de arbeiders van) een land door een ander land.\n• Met het beëindigen van de 'ongelijke verdragen' wilde de Russische regering bereiken dat er onder de Chinezen meer steun voor het communisme/de communistische partij zou komen / dat de communistische beweging zou gaan groeien.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het beëindigen van de 'ongelijke verdragen' paste bij de communistische afkeer van het (modern) imperialisme / van uitbuiting van (de arbeiders van) een land door een ander land."
+     },
+     {
+      "points": 1,
+      "description": "Met het beëindigen van de 'ongelijke verdragen' wilde de Russische regering bereiken dat er onder de Chinezen meer steun voor het communisme/de communistische partij zou komen / dat de communistische beweging zou gaan groeien."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-china-1842-2001-antw16.png"
+    ]
+   },
+   {
+    "title": "Door de tijd heen",
+    "question_number": 17,
+    "answer_text": "De juiste volgorde is:\n5, 2, 6, 3, 4, 1",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 5, 2, 6, 3, 4, 1"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-door-de-tijd-heen-antw17.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 18,
+    "answer_text": "Voorbeeld van een juist antwoord is:\na. Franz Hofer ziet als nationaalsocialistische leider de geallieerden als vijanden, zodat zijn beschrijving van (het geallieerde gedrag bij/het weinige succes tijdens) de opmars waarschijnlijk overdreven is / hij een vijandbeeld wil scheppen (zodat de informatie niet betrouwbaar is voor het onderzoeksgebied).\nb. Hofer wil de Duitsers motiveren zich te verdedigen tegen de geallieerde opmars door te zeggen dat (twee van de volgende):\n  i. de verdediging/strijdlust van de Duitsers de geallieerden tegenhoudt.\n  ii. de geallieerden uit zijn op de vernietiging van de Duitsers / bruut zijn.\n  iii. de Duitse stam militaristisch is / vechten vanzelfsprekend vindt.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Franz Hofer ziet als nationaalsocialistische leider de geallieerden als vijanden, zodat zijn beschrijving van (het geallieerde gedrag bij/het weinige succes tijdens) de opmars waarschijnlijk overdreven is / hij een vijandbeeld wil scheppen (zodat de informatie niet betrouwbaar is voor het onderzoeksgebied)."
+     },
+     {
+      "points": 2,
+      "description": "Hofer wil de Duitsers motiveren zich te verdedigen tegen de geallieerde opmars door te zeggen dat (twee van de volgende): de verdediging/strijdlust van de Duitsers de geallieerden tegenhoudt.; de geallieerden uit zijn op de vernietiging van de Duitsers / bruut zijn.; de Duitse stam militaristisch is / vechten vanzelfsprekend vindt."
+     }
+    ],
+    "grading_note": "Bij de tweede deelvraag wordt per juist antwoord 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-duitsland-in-europa-1918-1991-antw18.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 19,
+    "answer_text": "Kern van een juist antwoord is:\nDe Baader-Meinhoff Gruppe kon met de levensloop van Franz Hofer (wiens straf werd verkort / die een succesvol leven kon opbouwen in de BRD) zijn standpunt onderbouwen dat de denazificatie in West-Duitsland (te) beperkt was.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De Baader-Meinhoff Gruppe kon met de levensloop van Franz Hofer (wiens straf werd verkort / die een succesvol leven kon opbouwen in de BRD) zijn standpunt onderbouwen dat de denazificatie in West-Duitsland (te) beperkt was."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-duitsland-in-europa-1918-1991-antw19.png"
+    ]
+   },
+   {
+    "title": "China 1842 - 2001",
+    "question_number": 22,
+    "answer_text": "Voorbeeld van een juist antwoord is:\na. Met het stoppen van de productie van beelden van boeddha’s/godheden kun je het kenmerk illustreren dat de Culturele Revolutie anti-traditioneel/antireligieus is.\nb. Met het produceren van beelden van academici die worden aangevallen/vernederd door Rode gardisten kun je het anti-intellectuele karakter van de Culturele Revolutie illustreren.\nc. Uit de afbeelding blijkt dat de Rode gardisten mensen vernederen/bestraffen, wat zorgt voor ontwrichting van de samenleving omdat het angst veroorzaakt onder de bevolking / omdat het onderwijs/de wetenschappelijke ontwikkeling in China ontregeld raakt.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Met het stoppen van de productie van beelden van boeddha’s/godheden kun je het kenmerk illustreren dat de Culturele Revolutie anti-traditioneel/antireligieus is."
+     },
+     {
+      "points": 1,
+      "description": "Met het produceren van beelden van academici die worden aangevallen/vernederd door Rode gardisten kun je het anti-intellectuele karakter van de Culturele Revolutie illustreren."
+     },
+     {
+      "points": 1,
+      "description": "Uit de afbeelding blijkt dat de Rode gardisten mensen vernederen/bestraffen, wat zorgt voor ontwrichting van de samenleving omdat het angst veroorzaakt onder de bevolking / omdat het onderwijs/de wetenschappelijke ontwikkeling in China ontregeld raakt."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-china-1842-2001-antw22.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 23,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Reizen werd makkelijker door de toenadering tussen de DDR en de BRD / de Ostpolitik / de detente / de wederzijdse erkenning van de DDR en de BRD.\n• De regering van de BRD wilde met het geven van welkomstgeld bereiken dat de burgers van de DDR een positief beeld van de BRD/het westen/kapitalisme kregen / zich aangetrokken voelden tot het westen.\n• Met het doorbetalen van het welkomstgeld wilde de regering van de BRD de Duitse hereniging bevorderen (omdat dit ervoor zou zorgen dat Oost-Duitsers positief tegenover de hereniging met de BRD zouden staan).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Reizen werd makkelijker door de toenadering tussen de DDR en de BRD / de Ostpolitik / de detente / de wederzijdse erkenning van de DDR en de BRD."
+     },
+     {
+      "points": 1,
+      "description": "De regering van de BRD wilde met het geven van welkomstgeld bereiken dat de burgers van de DDR een positief beeld van de BRD/het westen/kapitalisme kregen / zich aangetrokken voelden tot het westen."
+     },
+     {
+      "points": 1,
+      "description": "Met het doorbetalen van het welkomstgeld wilde de regering van de BRD de Duitse hereniging bevorderen (omdat dit ervoor zou zorgen dat Oost-Duitsers positief tegenover de hereniging met de BRD zouden staan)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-duitsland-in-europa-1918-1991-antw23.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 24,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nUit de geschiedenis blijkt dat de leden van de LSWH bij de protestgeneratie hoorden / taboes wilden doorbreken / de seksuele normen en waarden wilden veranderen (wat past bij de sociaal-culturele veranderingsprocessen), waardoor groeperingen met verschillende standpunten over seksualiteit elkaar ontmoetten / waardoor er aandacht/begrip kwam voor mensen die op hetzelfde geslacht vielen (wat de pluriformiteit in de Nederlandse samenleving bevorderde).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit de geschiedenis blijkt dat de leden van de LSWH bij de protestgeneratie hoorden / taboes wilden doorbreken / de seksuele normen en waarden wilden veranderen (wat past bij de sociaal-culturele veranderingsprocessen), waardoor groeperingen met verschillende standpunten over seksualiteit elkaar ontmoetten / waardoor er aandacht/begrip kwam voor mensen die op hetzelfde geslacht vielen (wat de pluriformiteit in de Nederlandse samenleving bevorderde)."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord beide delen van de redenering bevat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-ii-moderne-tijd-antw24.png"
+    ]
+   }
+  ]
+ }
+}
