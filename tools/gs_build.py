@@ -89,6 +89,17 @@ def analyse_page(doc, pno, hashes):
         # a "bron 11" heading printed at 14pt (HAVO-GS-23-I-O.pdf p17) is not a title
         if l[1] < 130 and l[5] >= 13.5 and l[6] and not BRON_RE.match(l[4]):
             title, head = l, l[3]
+    if title is None and pagenum == 1:
+        # Some block titles are printed at 12pt instead of 14pt
+        # (HAVO-GS-24-II-O.pdf "Ontdekkers en Hervormers", "Tijd van
+        # Wereldoorlogen"): on a page numbered 1, accept the topmost line
+        # if it is bold, >= 11.5pt, not a "bron N" heading and not digits.
+        top = sorted((l for l in lines if l[1] < limit), key=lambda l: l[1])
+        if top:
+            l = top[0]
+            if (l[1] < 100 and l[5] >= 11.5 and l[6] and not BRON_RE.match(l[4])
+                    and not re.fullmatch(r"[\d\s]+", l[4])):
+                title, head = l, l[3]
     if title is not None:
         for d in page.get_drawings():
             r = d["rect"]
@@ -202,7 +213,17 @@ def main():
                     help="N:Title: move vraag N to the block with this exact title "
                          "(the block the correctievoorschrift names, e.g. a vraag "
                          "printed under the wrong block)")
+    ap.add_argument("--drop-bron", action="append", default=[],
+                    help="N@P: drop the bron with heading N on 0-based page P (and its "
+                         "continuation): the copy of a bron that only belongs to a vraag "
+                         "removed with --drop (HAVO-GS-24-I-O.pdf bron 11 on p17)")
+    ap.add_argument("--renum", action="append", default=[],
+                    help="P:OLD:NEW: the bron heading 'bron OLD' on 0-based page P is really "
+                         "bron NEW (HAVO-GS-24-II-O.pdf p6: the Punch-prent that vraag 11 "
+                         "uses as bron 6 is headed 'bron 1')")
     args = ap.parse_args()
+    drop_bron = {(int(d.split("@")[0]), int(d.split("@")[1])) for d in args.drop_bron}
+    renum = {(int(r.split(":")[0]), int(r.split(":")[1])): int(r.split(":")[2]) for r in args.renum}
     drops = {(int(d.split("@")[0]), int(d.split("@")[1])) for d in args.drop}
     orphan = []
     cuts = {int(c.split("@")[0]): float(c.split("@")[1]) for c in args.cut}
@@ -424,13 +445,22 @@ def main():
                 for gi, g in enumerate(groups):
                     nexty = groups[gi + 1][0][1] if gi + 1 < len(groups) else None
                     nums = [int(BRON_RE.match(h[4]).group(1)) for h in sorted(g, key=lambda h: h[0])]
+                    for i, n in enumerate(nums):
+                        if (p["pno"], n) in renum:
+                            warnings.append(f"p{p['pno']}: kop 'bron {n}' behandeld als bron "
+                                            f"{renum[(p['pno'], n)]} (--renum)")
+                            nums[i] = renum[(p["pno"], n)]
                     last_bron = dict(kind="bron", nums=nums, parts=[(p, g[0][1], nexty)])
+                    if any((n, p["pno"]) in drop_bron for n in nums):
+                        last_bron["dropped"] = True
+                        warnings.append(f"bron {nums} op p{p['pno']} weggelaten (--drop-bron)")
                     ctxs.append(last_bron)
         if pending:
             warnings.append(f"{blk['title']}: trailing text without vraag: "
                             + " / ".join(l[4] for _, ls in pending for l in ls)[:200])
 
         # ---- render the bronnen
+        ctxs = [c for c in ctxs if not c.get("dropped")]
         for c in ctxs:
             if c["kind"] != "bron":
                 continue
