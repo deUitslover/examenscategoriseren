@@ -1,0 +1,502 @@
+{
+ "payload": {
+  "subject_name": "Geschiedenis",
+  "level": "VWO",
+  "source": "VWO Geschiedenis 2025-II",
+  "answers": [
+   {
+    "title": "Door de tijd heen",
+    "question_number": 1,
+    "answer_text": "De juiste volgorde is:\n3, 1, 5, 4, 6, 2",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 3, 1, 5, 4, 6, 2"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-door-de-tijd-heen-antw1.png"
+    ]
+   },
+   {
+    "title": "Door de tijd heen",
+    "question_number": 12,
+    "answer_text": "De juiste volgorde is:\n3, 6, 5, 4, 1, 2",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 3, 6, 5, 4, 1, 2"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-door-de-tijd-heen-antw12.png"
+    ]
+   },
+   {
+    "title": "Prehistorie en oudheid",
+    "question_number": 2,
+    "answer_text": "Kern van een juist antwoord is:\nDoor de afbeelding van de godin Athena die toezicht houdt op het stemmen / die de winnaar van de stemming aanwijst, wordt de boodschap overgebracht dat de democratie in Athene zo goed is dat (zelfs) de godin die goedkeurt / dat de Atheense democratie functioneert omdat de stemmers wijsheid krijgen van de godin.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Door de afbeelding van de godin Athena die toezicht houdt op het stemmen / die de winnaar van de stemming aanwijst, wordt de boodschap overgebracht dat de democratie in Athene zo goed is dat (zelfs) de godin die goedkeurt / dat de Atheense democratie functioneert omdat de stemmers wijsheid krijgen van de godin."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-prehistorie-en-oudheid-antw2.png"
+    ]
+   },
+   {
+    "title": "Prehistorie en oudheid",
+    "question_number": 3,
+    "answer_text": "Kern van een juist antwoord is:\nVanwege 'de confrontatie tussen de Grieks-Romeinse cultuur en de Germaanse cultuur van Noordwest-Europa' hadden de Romeinen belang bij het tekenen van een samenwerkingsverdrag met een volk aan de noordelijke grens om de veiligheid van die grens te behouden.\nof\nVanwege 'de groei van het Romeinse imperium, waardoor de Grieks-Romeinse cultuur zich in Europa verspreidde' hadden de Romeinen belang bij het tekenen van een samenwerkingsverband met een volk dat aan de grens woonde, om vast te leggen dat dit gebied onderdeel was van het Romeinse Rijk.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Vanwege 'de confrontatie tussen de Grieks-Romeinse cultuur en de Germaanse cultuur van Noordwest-Europa' hadden de Romeinen belang bij het tekenen van een samenwerkingsverdrag met een volk aan de noordelijke grens om de veiligheid van die grens te behouden. of Vanwege 'de groei van het Romeinse imperium, waardoor de Grieks-Romeinse cultuur zich in Europa verspreidde' hadden de Romeinen belang bij het tekenen van een samenwerkingsverband met een volk dat aan de grens woonde, om vast te leggen dat dit gebied onderdeel was van het Romeinse Rijk."
+     }
+    ],
+    "grading_note": "Als het antwoord alleen een juist kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-prehistorie-en-oudheid-antw3.png"
+    ]
+   },
+   {
+    "title": "De middeleeuwen",
+    "question_number": 4,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Langton schreef dat onderdanen niet langer gebonden waren aan hun (tegen de paus/God rebellerende) heer, waarmee hij in de late middeleeuwen gebruikmaakte van de feodale verhoudingen (of een juiste omschrijving daarvan) uit de vroege middeleeuwen.\n• De weigering van de koning paste bij 'het conflict in de christelijke wereld over de vraag of de wereldlijke dan wel de geestelijke macht het primaat behoorde te hebben', omdat Jan zonder Land hiermee aangaf dat hij het (alleen)recht op de benoeming van bisschoppen door de paus niet erkende / dat hij moest kunnen bepalen wie de aartsbisschop werd.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Langton schreef dat onderdanen niet langer gebonden waren aan hun (tegen de paus/God rebellerende) heer, waarmee hij in de late middeleeuwen gebruikmaakte van de feodale verhoudingen (of een juiste omschrijving daarvan) uit de vroege middeleeuwen."
+     },
+     {
+      "points": 1,
+      "description": "De weigering van de koning paste bij 'het conflict in de christelijke wereld over de vraag of de wereldlijke dan wel de geestelijke macht het primaat behoorde te hebben', omdat Jan zonder Land hiermee aangaf dat hij het (alleen)recht op de benoeming van bisschoppen door de paus niet erkende / dat hij moest kunnen bepalen wie de aartsbisschop werd."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de eerste deelvraag een combinatie bevat van een verwijzing naar het citaat en een daarbij passend voorbeeld van politieke continuïteit, worden scorepunten toegekend.\nAls het antwoord bij de tweede deelvraag alleen een juist kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-de-middeleeuwen-antw4.png"
+    ]
+   },
+   {
+    "title": "De middeleeuwen",
+    "question_number": 5,
+    "answer_text": "Kern van een juist antwoord is:\nMet deze geschiedenis kan worden geïllustreerd:\n• 'De opkomst van handel en ambacht die de basis legde voor het herleven van een agrarisch-urbane samenleving', omdat er sprake is van buitenlandse kooplieden in Frankrijk / de verkoop van laken uit Vlaanderen.\n• 'Het begin van staatsvorming (en centralisatie)', omdat er sprake is van een gerechtshof in Parijs waar klachten worden behandeld over grote delen van Frankrijk / dat zeggenschap had over verschillende streken.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "'De opkomst van handel en ambacht die de basis legde voor het herleven van een agrarisch-urbane samenleving', omdat er sprake is van buitenlandse kooplieden in Frankrijk / de verkoop van laken uit Vlaanderen."
+     },
+     {
+      "points": 1,
+      "description": "'Het begin van staatsvorming (en centralisatie)', omdat er sprake is van een gerechtshof in Parijs waar klachten worden behandeld over grote delen van Frankrijk / dat zeggenschap had over verschillende streken."
+     }
+    ],
+    "grading_note": "Als het antwoord alleen een juist kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.\nVoor een antwoord dat ingaat op het kenmerkend aspect 'de opkomst van de stedelijke burgerij en de toenemende zelfstandigheid van steden', wordt geen scorepunt toegekend (omdat deze geschiedenis gaat over het platteland van Frankrijk).",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-de-middeleeuwen-antw5.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 7,
+    "answer_text": "Kern van een juist antwoord is:\n• Het stadsbestuur bevorderde door het aanstellen van de burgers die brood uitdeelden het welzijn van de armen in de stad (wat past bij het idee van bonum commune).\n• In Haarlem werd de armenhulp geregeld door burgers/het stadsbestuur en niet (hoofdzakelijk) door de geestelijkheid (zoals in eerdere eeuwen meestal het geval was).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het stadsbestuur bevorderde door het aanstellen van de burgers die brood uitdeelden het welzijn van de armen in de stad (wat past bij het idee van bonum commune)."
+     },
+     {
+      "points": 1,
+      "description": "In Haarlem werd de armenhulp geregeld door burgers/het stadsbestuur en niet (hoofdzakelijk) door de geestelijkheid (zoals in eerdere eeuwen meestal het geval was)."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een combinatie bevat van een juiste uitleg en een verwijzing naar deze geschiedenis, wordt telkens 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-steden-en-burgers-1050-1700-antw7.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 9,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nbij 1:\n• De koopman Bijland levert wapens/buskruit aan Antwerpen (dat in Spaanse handen is), waardoor deze handel juist het succes van het Spaanse leger bevordert.\nbij 2:\n• De Amsterdamse regenten komen door de handelswaar van Bijland in conflict met de stadhouder / De stadhouder laat de handelswaar van Bijland in beslag nemen tegen het besluit van de burgemeesters in, zodat hun recht om hun eigen beleid te voeren (wat past bij particularisme) onder druk komt te staan.\n• In Amsterdam wonen veel (familieleden van) kooplieden die (na 1585) vanwege oorlogshandelingen tijdens de Opstand/het verlies van de stapelmarktfunctie naar Holland waren getrokken en door hun contacten met achtergebleven familie/bekenden een goede handelsrelatie met Antwerpen hadden.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "bij 1: De koopman Bijland levert wapens/buskruit aan Antwerpen (dat in Spaanse handen is), waardoor deze handel juist het succes van het Spaanse leger bevordert."
+     },
+     {
+      "points": 1,
+      "description": "bij 2: De Amsterdamse regenten komen door de handelswaar van Bijland in conflict met de stadhouder / De stadhouder laat de handelswaar van Bijland in beslag nemen tegen het besluit van de burgemeesters in, zodat hun recht om hun eigen beleid te voeren (wat past bij particularisme) onder druk komt te staan."
+     },
+     {
+      "points": 1,
+      "description": "bij 2: In Amsterdam wonen veel (familieleden van) kooplieden die (na 1585) vanwege oorlogshandelingen tijdens de Opstand/het verlies van de stapelmarktfunctie naar Holland waren getrokken en door hun contacten met achtergebleven familie/bekenden een goede handelsrelatie met Antwerpen hadden."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-steden-en-burgers-1050-1700-antw9.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 - 1900",
+    "question_number": 11,
+    "answer_text": "Kern van een juist antwoord is:\n• Leopold schrijft dat het volk recht heeft in opstand te komen als de vorst zich niet aan de afspraken houdt / gaat uit van een contract/overeenkomst tussen de vorst en het volk, wat aansluit bij het idee van het sociale contract van Locke.\n• Leopold schrijft dat de vorst alleen de uitvoerende macht heeft / de machten zijn verdeeld tussen de vorst en het volk, wat aansluit bij het idee van de scheiding der machten van Montesquieu.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Leopold schrijft dat het volk recht heeft in opstand te komen als de vorst zich niet aan de afspraken houdt / gaat uit van een contract/overeenkomst tussen de vorst en het volk, wat aansluit bij het idee van het sociale contract van Locke."
+     },
+     {
+      "points": 1,
+      "description": "Leopold schrijft dat de vorst alleen de uitvoerende macht heeft / de machten zijn verdeeld tussen de vorst en het volk, wat aansluit bij het idee van de scheiding der machten van Montesquieu."
+     }
+    ],
+    "grading_note": "Alleen als in het antwoord een juist idee van Locke/Montesquieu wordt genoemd met een daarbij passend uitgangspunt van Leopold, wordt telkens 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-verlichting-1650-1900-antw11.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 - 1900",
+    "question_number": 13,
+    "answer_text": "Kern van een juist antwoord is:\na. Dessalines verwachtte dat de Verenigde Staten, die als koloniën ook in opstand waren gekomen, andere koloniën die vrijheid nastreefden (zoals het nu vrije Haïti) zouden willen steunen.\nb. De regering van de Verenigde Staten wees het verzoek af, omdat zij vreesde dat slaafgemaakten in de Verenigde Staten geïnspireerd zouden raken in opstand te komen / dat de discussie over slavernij in de Verenigde Staten zou oplaaien als de regering een bondgenootschap aanging met een land dat had bewezen dat opstand tegen slavernij succesvol kon zijn.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "a. Dessalines verwachtte dat de Verenigde Staten, die als koloniën ook in opstand waren gekomen, andere koloniën die vrijheid nastreefden (zoals het nu vrije Haïti) zouden willen steunen."
+     },
+     {
+      "points": 1,
+      "description": "b. De regering van de Verenigde Staten wees het verzoek af, omdat zij vreesde dat slaafgemaakten in de Verenigde Staten geïnspireerd zouden raken in opstand te komen / dat de discussie over slavernij in de Verenigde Staten zou oplaaien als de regering een bondgenootschap aanging met een land dat had bewezen dat opstand tegen slavernij succesvol kon zijn."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-verlichting-1650-1900-antw13.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 - 1900",
+    "question_number": 14,
+    "answer_text": "Kern van een juist antwoord is:\nHet verbod op het dragen van een livrei in dit plakkaat brengt het verlichte idee tot uitvoer dat bestaande gezagsverhoudingen moeten worden doorbroken / dat alle mensen gelijk moeten zijn, omdat wordt voorkomen dat aan feodale verhoudingen/ongelijkheid wordt herinnerd / dat duidelijk is wie bediende is en wie niet.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Het verbod op het dragen van een livrei in dit plakkaat brengt het verlichte idee tot uitvoer dat bestaande gezagsverhoudingen moeten worden doorbroken / dat alle mensen gelijk moeten zijn, omdat wordt voorkomen dat aan feodale verhoudingen/ongelijkheid wordt herinnerd / dat duidelijk is wie bediende is en wie niet."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een combinatie bevat van een juist verlicht idee met een daarbij passende uitleg, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-verlichting-1650-1900-antw14.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 - 1900",
+    "question_number": 15,
+    "answer_text": "Kern van een juist antwoord is:\nBij het Congres van Wenen / Tijdens de restauratie werden verlichte idealen (van de Franse revolutie) teruggedraaid/de oude machtshebbers weer hersteld (zodat het dragen van een uniform met familiekleuren door een bediende weer werd geaccepteerd).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij het Congres van Wenen / Tijdens de restauratie werden verlichte idealen (van de Franse revolutie) teruggedraaid/de oude machtshebbers weer hersteld (zodat het dragen van een uniform met familiekleuren door een bediende weer werd geaccepteerd)."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord ingaat op het Congres van Wenen/de restauratie, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-verlichting-1650-1900-antw15.png"
+    ]
+   },
+   {
+    "title": "Vroegmoderne tijd",
+    "question_number": 6,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Boccaccio geeft heidense vrouwen aandacht omdat ze iets presteren op basis van hun talent/uit verlangen naar aardse roem, wat past bij het 'veranderde mensbeeld van de renaissance' (in tegenstelling tot de middeleeuwen waar beschrijvingen van vrouwen meestal ingingen op christelijke deugden).\n• Boccaccio doet voor dit boek onderzoek naar het erfgoed van de klassieke Oudheid / heeft klassieke werken bestudeerd.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Boccaccio geeft heidense vrouwen aandacht omdat ze iets presteren op basis van hun talent/uit verlangen naar aardse roem, wat past bij het 'veranderde mensbeeld van de renaissance' (in tegenstelling tot de middeleeuwen waar beschrijvingen van vrouwen meestal ingingen op christelijke deugden)."
+     },
+     {
+      "points": 1,
+      "description": "Boccaccio doet voor dit boek onderzoek naar het erfgoed van de klassieke Oudheid / heeft klassieke werken bestudeerd."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-vroegmoderne-tijd-antw6.png"
+    ]
+   },
+   {
+    "title": "Vroegmoderne tijd",
+    "question_number": 8,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nDe verklaring van Diego del Santissimo Sacramento dat de prehistorische Afrikaanse rotstekeningen waren gemaakt door Sint Thomas paste bij zijn wereldbeeld als missionaris/christen, omdat hij het hierdoor belangrijk vond te vermelden dat Afrika was bezocht door een leerling van Jezus / zich niet kon voorstellen dat de rotstekeningen waren gemaakt door een prehistorische Afrikaanse beschaving / onbekende fenomenen verklaarde vanuit zijn christelijke kennis.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De verklaring van Diego del Santissimo Sacramento dat de prehistorische Afrikaanse rotstekeningen waren gemaakt door Sint Thomas paste bij zijn wereldbeeld als missionaris/christen, omdat hij het hierdoor belangrijk vond te vermelden dat Afrika was bezocht door een leerling van Jezus / zich niet kon voorstellen dat de rotstekeningen waren gemaakt door een prehistorische Afrikaanse beschaving / onbekende fenomenen verklaarde vanuit zijn christelijke kennis."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-vroegmoderne-tijd-antw8.png"
+    ]
+   },
+   {
+    "title": "Vroegmoderne tijd",
+    "question_number": 10,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Van Collen laat zichzelf en zijn gezin afbeelden voor het landhuis / in chique kleding / op een prachtig (gefantaseerd) terras, omdat hij zijn rijke levensstijl wil benadrukken / om de nadruk te leggen op zijn rijkdom (zodat het schilderij bruikbaar is voor het eerste onderzoeksonderwerp).\n• Het schilderij is bedoeld om te imponeren, waardoor het geschetste beeld overdreven/gefantaseerd is, zodat het geen representatief/compleet beeld geeft van het dagelijks leven van rijke kooplieden (zodat het schilderij minder bruikbaar is voor het tweede onderzoeksonderwerp).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Van Collen laat zichzelf en zijn gezin afbeelden voor het landhuis / in chique kleding / op een prachtig (gefantaseerd) terras, omdat hij zijn rijke levensstijl wil benadrukken / om de nadruk te leggen op zijn rijkdom (zodat het schilderij bruikbaar is voor het eerste onderzoeksonderwerp)."
+     },
+     {
+      "points": 2,
+      "description": "Het schilderij is bedoeld om te imponeren, waardoor het geschetste beeld overdreven/gefantaseerd is, zodat het geen representatief/compleet beeld geeft van het dagelijks leven van rijke kooplieden (zodat het schilderij minder bruikbaar is voor het tweede onderzoeksonderwerp)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-vroegmoderne-tijd-antw10.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 16,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Daniell geeft weer dat de handel tussen Europa en China bloeit / dat de Europese naties een sterke handelspositie hebben in Kanton,\n• door af te beelden dat (een van de volgende):\n  − (grote) schepen klaarliggen voor handel met de handelsposten.\n  − de gebouwen van de handelsposten groot/imposant zijn.\n  − er veel handelsposten zijn (te zien aan de verschillende vlaggen).\n• China wordt na de Opiumoorlogen gedwongen tot het tekenen van ongelijke verdragen / het afstaan van havens (waardoor de handel niet langer alleen verloopt via Kanton).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Daniell geeft weer dat de handel tussen Europa en China bloeit / dat de Europese naties een sterke handelspositie hebben in Kanton,"
+     },
+     {
+      "points": 1,
+      "description": "door af te beelden dat (een van de volgende): (grote) schepen klaarliggen voor handel met de handelsposten. / de gebouwen van de handelsposten groot/imposant zijn. / er veel handelsposten zijn (te zien aan de verschillende vlaggen)."
+     },
+     {
+      "points": 1,
+      "description": "China wordt na de Opiumoorlogen gedwongen tot het tekenen van ongelijke verdragen / het afstaan van havens (waardoor de handel niet langer alleen verloopt via Kanton)."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juist beeld bevat dat Daniell weergeeft, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-china-1842-2001-antw16.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 18,
+    "answer_text": "Kern van een juist antwoord is:\nDe bewering was een reactie op de (bloedige) breuk tussen de nationalisten en de communisten, waarna de weduwe van Sun Yat-sen bang was dat hierdoor het sociale aspect van de ideeën van Sun Yat-sen niet tot uitvoer zouden komen, omdat de communisten werden uitgesloten.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De bewering was een reactie op de (bloedige) breuk tussen de nationalisten en de communisten, waarna de weduwe van Sun Yat-sen bang was dat hierdoor het sociale aspect van de ideeën van Sun Yat-sen niet tot uitvoer zouden komen, omdat de communisten werden uitgesloten."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-china-1842-2001-antw18.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 24,
+    "answer_text": "Kern van een juist antwoord is:\n• Mao geeft het beeld weer dat Stalin een slechte bondgenoot is / dat Stalin niet wil helpen, wat past bij de verslechterde relatie tussen de landen in de jaren 1960 (zodat Mao de eerdere samenwerking wil ontkennen/minder wil doen lijken).\n• Dr. Li Zhizui besluit zijn dagboeken te verbranden vanwege de Culturele Revolutie, waarin het gevaarlijk is dagboeken te hebben die als kritisch (over Mao) kunnen worden gezien / die Mao niet verheerlijken / waarin schrijvers als intellectueel worden vervolgd.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Mao geeft het beeld weer dat Stalin een slechte bondgenoot is / dat Stalin niet wil helpen, wat past bij de verslechterde relatie tussen de landen in de jaren 1960 (zodat Mao de eerdere samenwerking wil ontkennen/minder wil doen lijken)."
+     },
+     {
+      "points": 2,
+      "description": "Dr. Li Zhizui besluit zijn dagboeken te verbranden vanwege de Culturele Revolutie, waarin het gevaarlijk is dagboeken te hebben die als kritisch (over Mao) kunnen worden gezien / die Mao niet verheerlijken / waarin schrijvers als intellectueel worden vervolgd."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-china-1842-2001-antw24.png"
+    ]
+   },
+   {
+    "title": "China 1842 – 2001",
+    "question_number": 26,
+    "answer_text": "Kern van een juist antwoord is:\n• De Verenigde Staten wilden bevorderen dat China ideeën over democratie zou overnemen / dat de situatie rondom de mensenrechten in China zou verbeteren,\n• doordat China via de WTO in contact zou komen met westerse democratische ideeën/invloeden / zich zou openstellen voor samenwerking met niet-communistische landen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De Verenigde Staten wilden bevorderen dat China ideeën over democratie zou overnemen / dat de situatie rondom de mensenrechten in China zou verbeteren,"
+     },
+     {
+      "points": 1,
+      "description": "doordat China via de WTO in contact zou komen met westerse democratische ideeën/invloeden / zich zou openstellen voor samenwerking met niet-communistische landen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-china-1842-2001-antw26.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 17,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Uit het artikel blijkt dat het bestuur denkt dat armoede wordt veroorzaakt door het drankmisbruik van arbeiders / door het gebrek aan spaarzin onder arbeiders, wat eenzijdig is omdat er weinig aandacht is voor de rol van de fabriekseigenaren / voor het gebrek aan regelgeving/scholing/uitbuiting (die ook bijdragen aan de armoede).\n• De bestuurders zijn afkomstig uit de hogere burgerij, die hun eigen rol niet willen/kunnen zien / die weinig ervaring hebben met/kennis hebben van de daadwerkelijke omstandigheden van de arbeiders.\n• Het bestuur sluit zich aan bij 'discussies over de sociale kwestie' door zijn zorg uit te spreken over het maatschappelijke thema drankmisbruik / zedeloosheid.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Uit het artikel blijkt dat het bestuur denkt dat armoede wordt veroorzaakt door het drankmisbruik van arbeiders / door het gebrek aan spaarzin onder arbeiders, wat eenzijdig is omdat er weinig aandacht is voor de rol van de fabriekseigenaren / voor het gebrek aan regelgeving/scholing/uitbuiting (die ook bijdragen aan de armoede)."
+     },
+     {
+      "points": 1,
+      "description": "De bestuurders zijn afkomstig uit de hogere burgerij, die hun eigen rol niet willen/kunnen zien / die weinig ervaring hebben met/kennis hebben van de daadwerkelijke omstandigheden van de arbeiders."
+     },
+     {
+      "points": 1,
+      "description": "Het bestuur sluit zich aan bij 'discussies over de sociale kwestie' door zijn zorg uit te spreken over het maatschappelijke thema drankmisbruik / zedeloosheid."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de eerste deelvraag een combinatie bevat van een verwijzing naar de bron en een daarbij passende uitleg over de eenzijdigheid daarvan, worden scorepunten toegekend.\nAls het antwoord bij de derde deelvraag alleen een juist kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-moderne-tijd-antw17.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 19,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Je vindt deze foto minder bruikbaar voor het hoofdstuk over emancipatie van vrouwen, omdat uit de teksten blijkt dat alleenstaande vrouwen vinden dat gehuwde vrouwen ontslagen moeten worden / dat ongehuwde vrouwen het zo zwaar hebben op de arbeidsmarkt dat ze oproepen tot ontslag van gehuwde vrouwen (omdat ze wisten dat dit een wens was van vele Amerikanen), wat niet past bij het verkrijgen van meer/gelijke rechten voor alle vrouwen.\n• Je kunt met deze foto 'de crisis van het wereldkapitalisme' illustreren, omdat de crisis de hoge werkloosheid in die tijd veroorzaakt/leidt tot de New Deal (waartoe de E.R.A behoort).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Je vindt deze foto minder bruikbaar voor het hoofdstuk over emancipatie van vrouwen, omdat uit de teksten blijkt dat alleenstaande vrouwen vinden dat gehuwde vrouwen ontslagen moeten worden / dat ongehuwde vrouwen het zo zwaar hebben op de arbeidsmarkt dat ze oproepen tot ontslag van gehuwde vrouwen (omdat ze wisten dat dit een wens was van vele Amerikanen), wat niet past bij het verkrijgen van meer/gelijke rechten voor alle vrouwen."
+     },
+     {
+      "points": 1,
+      "description": "Je kunt met deze foto 'de crisis van het wereldkapitalisme' illustreren, omdat de crisis de hoge werkloosheid in die tijd veroorzaakt/leidt tot de New Deal (waartoe de E.R.A behoort)."
+     }
+    ],
+    "grading_note": "Als het antwoord op de tweede deelvraag alleen een juist kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-moderne-tijd-antw19.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 27,
+    "answer_text": "Kern van een juist antwoord is:\nbij 1:\n• De burgerij streefde het 'burgerlijk gezinsideaal' na door voor meisjes scholing in huishoudelijke vaardigheden te verzorgen.\nof\n• De burgerij streefde verheffing van de arbeidersklasse na door scholing te verzorgen voor meisjes uit de arbeidersklasse.\nbij 2:\n• In de jaren 1970 werd niet langer gevonden dat huishoudelijk werk alleen door vrouwen moest worden gedaan / wilden er ook jongens taken op zich nemen in het huishouden, wat paste bij 'de toenemende westerse welvaart die vanaf de jaren zestig van de twintigste eeuw aanleiding gaf tot ingrijpende sociaal-culturele veranderingsprocessen'.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "bij 1: De burgerij streefde het 'burgerlijk gezinsideaal' na door voor meisjes scholing in huishoudelijke vaardigheden te verzorgen. of De burgerij streefde verheffing van de arbeidersklasse na door scholing te verzorgen voor meisjes uit de arbeidersklasse."
+     },
+     {
+      "points": 1,
+      "description": "bij 2: In de jaren 1970 werd niet langer gevonden dat huishoudelijk werk alleen door vrouwen moest worden gedaan / wilden er ook jongens taken op zich nemen in het huishouden, wat paste bij 'de toenemende westerse welvaart die vanaf de jaren zestig van de twintigste eeuw aanleiding gaf tot ingrijpende sociaal-culturele veranderingsprocessen'."
+     }
+    ],
+    "grading_note": "Als het antwoord bij de tweede deelvraag alleen een juist kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-moderne-tijd-antw27.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 20,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Stoetzer denkt dat de ware schuldigen niet zijn aangepakt, zodat er meer stakingen zullen volgen gericht tegen het Duitse gezag, wat hij als districtsleider van de NSB (die het Duitse gezag steunt) wil voorkomen.\nof\n• Stoetzer denkt dat als de Duitse bezetter besluit meer arbeiders te straffen/geen hooggeplaatste personen te straffen dit ertoe kan leiden dat de NSB/de Duitse bezetter minder populair wordt, wat hij als districtsleider van de NSB (die het Duitse gezag steunt) wil voorkomen.\n\n• Stoetzer wil succesvol propaganda bedrijven, wat een methode van nazificatie is omdat hierdoor de bevolking kan worden geïndoctrineerd.\nof\n• Stoetzer roept op politie/burgemeesters aan te pakken die zich niet voldoende inzet/inzetten voor de Duitse bezetter, wat een methode van nazificatie is omdat alleen politie/bestuurders overblijft/overblijven die actief het Duitse nationaalsocialistische bestuur steunt/steunen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Stoetzer denkt dat de ware schuldigen niet zijn aangepakt, zodat er meer stakingen zullen volgen gericht tegen het Duitse gezag, wat hij als districtsleider van de NSB (die het Duitse gezag steunt) wil voorkomen. of Stoetzer denkt dat als de Duitse bezetter besluit meer arbeiders te straffen/geen hooggeplaatste personen te straffen dit ertoe kan leiden dat de NSB/de Duitse bezetter minder populair wordt, wat hij als districtsleider van de NSB (die het Duitse gezag steunt) wil voorkomen."
+     },
+     {
+      "points": 2,
+      "description": "Stoetzer wil succesvol propaganda bedrijven, wat een methode van nazificatie is omdat hierdoor de bevolking kan worden geïndoctrineerd. of Stoetzer roept op politie/burgemeesters aan te pakken die zich niet voldoende inzet/inzetten voor de Duitse bezetter, wat een methode van nazificatie is omdat alleen politie/bestuurders overblijft/overblijven die actief het Duitse nationaalsocialistische bestuur steunt/steunen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-duitsland-in-europa-1918-1991-antw20.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 21,
+    "answer_text": "Een juist antwoord bevat een voorbeeld van een onderzoeksvraag over de Duitse bezetting waarvoor de informatie van het rapport betrouwbaar is, waarbij duidelijk wordt aangegeven dat de bron een nationaalsocialistisch oogpunt weergeeft / dat de bron geschreven is door een ooggetuige/door iemand die vanuit zijn positie beschikt over informatie.\n\nVoorbeeld van een juist antwoord is:\nWelke maatregelen nam de Duitse bezetter om stakingen tegen te gaan?\nDe bron bevat hiervoor betrouwbare informatie omdat Stoetzer een ooggetuige was / als districtsleider van de NSB kan beschikken over informatie over de maatregelen / omdat Stoetzer dit rapport schreef voor de leider van de NSB (tegen wie hij niet zal willen/niet hoeft te liegen).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Een juist antwoord bevat een voorbeeld van een onderzoeksvraag over de Duitse bezetting waarvoor de informatie van het rapport betrouwbaar is, waarbij duidelijk wordt aangegeven dat de bron een nationaalsocialistisch oogpunt weergeeft / dat de bron geschreven is door een ooggetuige/door iemand die vanuit zijn positie beschikt over informatie."
+     }
+    ],
+    "grading_note": "Als het antwoord alleen een onderzoeksvraag bevat zonder uitleg over de betrouwbaarheid van de informatie, worden geen scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-duitsland-in-europa-1918-1991-antw21.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 22,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Ulbricht schrijft aan de Duitse soldaten dat ze slachtoffers zijn van de Duitse miljonairs/kapitalisten (wat past bij de communistische visie op oorlog).\n• Ulbricht wil aan het volk van de DDR de visie overbrengen dat opname in het Oostblok verstandig is/gunstig zal zijn, door te beweren dat de Sovjet-Unie het opneemt voor arbeiders en boeren tegen het (ooglogszuchtige) kapitalisme / omdat hij door de Sovjet-Unie zal worden beschouwd als een bondgenoot (dankzij zijn optreden tijdens de Tweede Wereldoorlog).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Ulbricht schrijft aan de Duitse soldaten dat ze slachtoffers zijn van de Duitse miljonairs/kapitalisten (wat past bij de communistische visie op oorlog)."
+     },
+     {
+      "points": 2,
+      "description": "Ulbricht wil aan het volk van de DDR de visie overbrengen dat opname in het Oostblok verstandig is/gunstig zal zijn, door te beweren dat de Sovjet-Unie het opneemt voor arbeiders en boeren tegen het (ooglogszuchtige) kapitalisme / omdat hij door de Sovjet-Unie zal worden beschouwd als een bondgenoot (dankzij zijn optreden tijdens de Tweede Wereldoorlog)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-duitsland-in-europa-1918-1991-antw22.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 23,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De DDR voert een planeconomie (of een juiste omschrijving daarvan) in.\n• Ulbricht maakt zich zorgen om de afhankelijkheid van het Westen / omdat het Oostblok technologie moet kopen van het Westen (wat hij als onwenselijk beschouwt vanwege de Koude Oorlog).\n• Chroesjtsjov zou de uitspraak dat de socialistische landen niet samenwerken kunnen opvatten als kritiek op het leiderschap van de Sovjet-Unie die zou moeten zorgen voor eenheid / die de andere regeringen in het Oostblok in de gaten zou moeten houden.\nof\n• Chroesjtsjov zou de uitspraak dat de Comecon niet functioneert kunnen opvatten als kritiek, omdat de Comecon door de Sovjet-Unie in het leven is geroepen om de economie in het Oostblok te versterken.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De DDR voert een planeconomie (of een juiste omschrijving daarvan) in."
+     },
+     {
+      "points": 1,
+      "description": "Ulbricht maakt zich zorgen om de afhankelijkheid van het Westen / omdat het Oostblok technologie moet kopen van het Westen (wat hij als onwenselijk beschouwt vanwege de Koude Oorlog)."
+     },
+     {
+      "points": 2,
+      "description": "Chroesjtsjov zou de uitspraak dat de socialistische landen niet samenwerken kunnen opvatten als kritiek op het leiderschap van de Sovjet-Unie die zou moeten zorgen voor eenheid / die de andere regeringen in het Oostblok in de gaten zou moeten houden. of Chroesjtsjov zou de uitspraak dat de Comecon niet functioneert kunnen opvatten als kritiek, omdat de Comecon door de Sovjet-Unie in het leven is geroepen om de economie in het Oostblok te versterken."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-duitsland-in-europa-1918-1991-antw23.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 25,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Door het terugtrekken van het Sovjetleger zouden de overheidskosten worden beperkt, wat het beleid van perestrojka ondersteunde (dat de slecht functionerende economie van de Sovjet-Unie moest verbeteren).\nof\n• Omdat de Westerse landen blij waren met de terugtrekking van de troepen kreeg Gorbatsjov van de Westerse landen medewerking / economische steun, die hij nodig had voor het bereiken van succes met het beleid van perestrojka.\n• Door het loslaten van de Brezjnevdoctrine (of een juiste omschrijving daarvan) was het niet meer nodig in Oost-Europa het communisme te beschermen / anticommunistische opstanden neer te slaan (zodat het leger zich kon terugtrekken).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door het terugtrekken van het Sovjetleger zouden de overheidskosten worden beperkt, wat het beleid van perestrojka ondersteunde (dat de slecht functionerende economie van de Sovjet-Unie moest verbeteren). of Omdat de Westerse landen blij waren met de terugtrekking van de troepen kreeg Gorbatsjov van de Westerse landen medewerking / economische steun, die hij nodig had voor het bereiken van succes met het beleid van perestrojka."
+     },
+     {
+      "points": 1,
+      "description": "Door het loslaten van de Brezjnevdoctrine (of een juiste omschrijving daarvan) was het niet meer nodig in Oost-Europa het communisme te beschermen / anticommunistische opstanden neer te slaan (zodat het leger zich kon terugtrekken)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2025-ii-duitsland-in-europa-1918-1991-antw25.png"
+    ]
+   }
+  ]
+ }
+}
