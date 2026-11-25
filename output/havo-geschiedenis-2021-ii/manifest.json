@@ -1,0 +1,79 @@
+{
+  "source": "HAVO Geschiedenis 2021-II",
+  "subject_name": "Geschiedenis",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Door de tijd heen",
+      "question_numbers": [
+        1,
+        16
+      ]
+    },
+    {
+      "title": "Ontdekkers en Hervormers",
+      "question_numbers": [
+        2,
+        4
+      ]
+    },
+    {
+      "title": "Het Britse Rijk",
+      "question_numbers": [
+        3,
+        7,
+        8,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "title": "Regenten en Vorsten",
+      "question_numbers": [
+        5
+      ]
+    },
+    {
+      "title": "Pruiken en Revoluties",
+      "question_numbers": [
+        6,
+        11
+      ]
+    },
+    {
+      "title": "Burgers en Stoommachines",
+      "question_numbers": [
+        12,
+        14,
+        15,
+        27
+      ]
+    },
+    {
+      "title": "Duitsland in Europa",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        24,
+        26
+      ]
+    },
+    {
+      "title": "Nederland 1948-2008",
+      "question_numbers": [
+        20,
+        21,
+        22,
+        25
+      ]
+    },
+    {
+      "title": "Computer en Televisie",
+      "question_numbers": [
+        23
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "source": "HAVO Geschiedenis 2021-I",
+  "subject_name": "Geschiedenis",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Door de tijd heen",
+      "question_numbers": [
+        1,
+        8
+      ]
+    },
+    {
+      "title": "Ontdekkers en Hervormers",
+      "question_numbers": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Het Britse Rijk",
+      "question_numbers": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Pruiken en Revoluties",
+      "question_numbers": [
+        7
+      ]
+    },
+    {
+      "title": "Tijd van Wereldoorlogen",
+      "question_numbers": [
+        18
+      ]
+    },
+    {
+      "title": "Duitsland in Europa",
+      "question_numbers": [
+        14,
+        15,
+        16,
+        17,
+        19,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "title": "Nederland 1948-2008",
+      "question_numbers": [
+        20,
+        24,
+        25
+      ]
+    },
+    {
+      "title": "Computer en Televisie",
+      "question_numbers": [
+        26,
+        27
+      ]
+    }
+  ]
+}

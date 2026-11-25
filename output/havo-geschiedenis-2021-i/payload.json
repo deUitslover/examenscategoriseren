@@ -1,0 +1,809 @@
+{
+ "exercises": [
+  {
+   "id": "777d2587-3a1a-4b23-a6b7-c2607f90cde4",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Door de tijd heen",
+   "source": "HAVO Geschiedenis 2021-I"
+  },
+  {
+   "id": "22b56194-abad-4eb3-a2b3-df1755406a57",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Ontdekkers en Hervormers",
+   "source": "HAVO Geschiedenis 2021-I"
+  },
+  {
+   "id": "3b6d5808-d8a0-4b21-85ca-c12fb8f348fd",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Het Britse Rijk",
+   "source": "HAVO Geschiedenis 2021-I"
+  },
+  {
+   "id": "f28a4cbe-757a-41c5-a88d-1add732e6a09",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Pruiken en Revoluties",
+   "source": "HAVO Geschiedenis 2021-I"
+  },
+  {
+   "id": "1835142f-060c-4ffc-8f82-ecb8aacae0fd",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Tijd van Wereldoorlogen",
+   "source": "HAVO Geschiedenis 2021-I"
+  },
+  {
+   "id": "041c3070-d0dd-480e-bece-1e5dbcb77a2a",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Duitsland in Europa",
+   "source": "HAVO Geschiedenis 2021-I"
+  },
+  {
+   "id": "03a02853-4a73-4e4c-bf3b-854db1b33ec3",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Nederland 1948-2008",
+   "source": "HAVO Geschiedenis 2021-I"
+  },
+  {
+   "id": "c42f51e6-88e1-4883-959c-f5f58b3f67f0",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Computer en Televisie",
+   "source": "HAVO Geschiedenis 2021-I"
+  }
+ ],
+ "context_blocks": [
+  {
+   "id": "81affe36-0f4b-45b7-a9e8-510e27bccda7",
+   "exercise_id": "22b56194-abad-4eb3-a2b3-df1755406a57",
+   "label": "bron 1: Erasmus over de Italiaanse drukker Manutius in Adagia (1500)",
+   "image_url": "geschiedenis-havo-2021-i-ontdekkers-en-hervormers-bron1.png",
+   "text_content": "bron 1 In 1500 publiceert de humanist Erasmus het boek Adagia, een verzameling van Griekse en Romeinse spreuken. Bij de spreuk Festina Lente schrijft hij over de Italiaanse drukker Manutius, die deze spreuk als logo heeft:\nManutius is als het ware geschapen om deze beschaving [van de Oudheid] in haar oude glorie te herstellen; onvermoeibaar zwoegt hij voort. Geen inspanning is hem te zwaar en slechts op dit ene is zijn vurige hoop gericht: de gereedschappen voor de beoefening der schone letteren gezuiverd en gaaf ter hand te stellen aan mannen van goede aanleg (...). [Ik] durf de geleerden te verzekeren dat zij, door het toedoen van deze éne man, binnen weinige jaren zullen beschikken over al de goede auteurs die geschreven hebben in het Latijn en Grieks. En zonder uitzondering van enige tak van wetenschap en dat alles in onverkorte en van fouten gezuiverde vorm. Niemand zal dan ook maar één leemte in zijn bronnenmateriaal hoeven te hebben. Mocht dit ooit lukken, dan zal pas blijken, hoeveel goede handschriften nu nog ontoegankelijk zijn (...). Dan ook zal men merken, hoe ook die teksten, waarvan men nu nog denkt dat die behoorlijk gecorrigeerd zijn, wemelen van de wonderlijkste fouten.",
+   "block_type": "inline"
+  },
+  {
+   "id": "96ff7191-47ba-4920-a227-e0a5438bad8f",
+   "exercise_id": "22b56194-abad-4eb3-a2b3-df1755406a57",
+   "label": "bron 2: sommen uit de rekenmethode De Cijfferinghe van Willem Bartjens (1604)",
+   "image_url": "geschiedenis-havo-2021-i-ontdekkers-en-hervormers-bron2.png",
+   "text_content": "bron 2 In 1604 publiceert de schoolmeester Willem Bartjens een rekenmethode, De Cijfferinghe. Hierin staan sommen als:\n1 560 soldaten verdedigen een schans (vestingwerk), en hebben voedsel voor 7 maanden: ze besluiten samen om als ze belegerd worden de schans niet binnen 10 maanden over te geven. Vraag: hoeveel mannen moeten ze laten gaan om met hun voedsel de schans tien maanden te kunnen verdedigen? (oplossing: 168)\n2 6 timmermannen maken in 186⅔ dagen een schip van 66 lasten (inhoudsmaat voor schepen). Vraag: als men 10 mannen aanstelt, in hoeveel dagen kunnen die dat schip maken? (oplossing: 112 dagen)",
+   "block_type": "inline"
+  },
+  {
+   "id": "f2ae7359-90f9-414c-9cfa-579902d899c3",
+   "exercise_id": "3b6d5808-d8a0-4b21-85ca-c12fb8f348fd",
+   "label": "bron 4: voorstellen van de commissie-Russell voor een nieuw kiesstelsel (1831)",
+   "image_url": "geschiedenis-havo-2021-i-het-britse-rijk-bron4.png",
+   "text_content": "bron 4 In 1831 presenteert Lord John Russell namens een commissie in het Britse parlement verschillende voorstellen om het Britse kiesstelsel te veranderen:\nWe stellen voor dat alle kiesdistricten met minder dan 2000 inwoners het recht verliezen om afgevaardigden naar het Parlement te sturen. Dat betekent dat\n60 districten verdwijnen, waarmee 119 zetels vrijkomen. Maar we gaan nog verder: er zijn 47 kiesdistricten met minder dan 4000 inwoners. Wij stellen voor dat die districten maximaal één parlementslid kunnen afvaardigen. Het district Weymouth kan daarnaast van 4 naar 2 parlementsleden worden teruggebracht. Dit alles bij elkaar betekent dat er 168 zetels vrijkomen. (…) Wij willen echter niet dat de overgebleven zetels in handen komen van een kleine groep rijken. Daarom stellen we voor dat alle huiseigenaren die jaarlijks minimaal 10 pond aan woonlasten betalen, kiesrecht krijgen1). (…) Dit zijn de mensen die we nodig hebben bij toekomstige uitdagingen voor ons land!\nnoot 1 Hierdoor komen de zetels terecht bij stedelijke districten.",
+   "block_type": "inline"
+  },
+  {
+   "id": "9fa6f9cb-982a-4376-9633-3e27e327f23e",
+   "exercise_id": "3b6d5808-d8a0-4b21-85ca-c12fb8f348fd",
+   "label": "bron 5: artikel in de Illustrated London News over India (1857)",
+   "image_url": "geschiedenis-havo-2021-i-het-britse-rijk-bron5.png",
+   "text_content": "bron 5 In de Britse krant Illustrated London News staat in 1857 in een artikel over India:\nWe horen met pijn, maar niet zozeer met afkeer, van de dood van onze dappere officieren en soldaten die werden afgeslacht, want het hoort bij de taak van een soldaat om de dood tegemoet te treden. Maar als we lezen over de gruwelijkheden die zijn begaan tegen onze vrouwen en kinderen, dan wordt het hart van Engeland geraakt; en het verdriet om hun lot, hoe groot dat ook is, wordt overschaduwd door de afschuw die we voelen voor hun onmenselijke moordenaars en de grimmige overtuiging dat zij moeten worden getroffen door volledige en onwrikbare gerechtigheid.",
+   "block_type": "inline"
+  },
+  {
+   "id": "05a95d1d-61eb-46b1-8c29-67f3cd37efaf",
+   "exercise_id": "3b6d5808-d8a0-4b21-85ca-c12fb8f348fd",
+   "label": "bron 6: schilderij The Secret of England's Greatness van Thomas Jones Barker (1863)",
+   "image_url": "geschiedenis-havo-2021-i-het-britse-rijk-bron6.png",
+   "text_content": "bron 6 De Britse schilder Thomas Jones Barker maakt in 1863 het schilderij The Secret of England's Greatness (Het geheim van Engelands grootheid):\n[Afbeelding] Schilderij: koningin Victoria staat in een paleiszaal en overhandigt een bijbel aan een geknielde Afrikaanse vorst; achter haar staan enkele Britse heren.\nToelichting Op de voorgrond staat de Britse koningin Victoria, die een bijbel overhandigt aan een vorst uit oostelijk Afrika.",
+   "block_type": "inline"
+  },
+  {
+   "id": "af833821-8ca4-4b5f-bf1e-028d8152a1fb",
+   "exercise_id": "f28a4cbe-757a-41c5-a88d-1add732e6a09",
+   "label": "bron 3: brief van arts Jacobus Reichard vanaf plantage Vreedestein in Demerary (1781)",
+   "image_url": "geschiedenis-havo-2021-i-pruiken-en-revoluties-bron3.png",
+   "text_content": "bron 3 In 1781 schrijft de arts Jacobus Reichard een brief vanuit de suikerplantage Vreedestein in de Nederlandse kolonie Demerary (in Zuid-Amerika) aan zijn werkgever in Amsterdam:\nDe hemel zij dank: Wij zijn na een voorspoedige en gezegende reis op uw plantage Vreedestein aangekomen. (...) Ik zal deze maand op de plantage gaan wonen zodra de apotheek en de woning klaar zijn. Op uw plantage zijn feitelijk geen zieken, op vier negers na die aan de jas of zogenaamde Indiaanse pokken1) lijden. En Quacu, de suikerkoker, die veertien dagen kwakkelde door de beliac2), is hersteld. Een meid, Henrietta, is bevallen van een mulat3). Zij heeft de bevalling overleefd maar het kind is overleden. Ik heb de medicijnen gecontroleerd maar die zijn niet in goede staat zoals de bijgevoegde monsters laten zien. Ik heb gevraagd om extra medicijnen maar slechts een klein gedeelte ontvangen. Wilt u mij de gevraagde medicijnen alsnog opsturen zodat ik er straks geen tekort aan heb?\nnoot 1 Jas of Indiaanse pokken is een huidziekte.\nnoot 2 Beliac is een vorm van loodvergiftiging. noot 3 Een mulat is iemand die een witte en een gekleurde ouder heeft.",
+   "block_type": "inline"
+  },
+  {
+   "id": "dadddf53-19d5-4fc6-a6e3-f9f895db1aa0",
+   "exercise_id": "1835142f-060c-4ffc-8f82-ecb8aacae0fd",
+   "label": "bron 10: verslag van voorlichter Willem Brandt over Nederlandse militairen in Indonesië (1947)",
+   "image_url": "geschiedenis-havo-2021-i-tijd-van-wereldoorlogen-bron10.png",
+   "text_content": "bron 10 De Nederlandse regering zendt troepen naar de kolonie Nederlands-Indië om daar na het einde van de Japanse bezetting de macht terug te krijgen. Willem Brandt, een voorlichter in dienst van het Koninklijk Nederlands-Indische Leger, schrijft in 1947:\nDe gevangenen die ons in handen vallen en die men nieuwsgierig beziet en uithoort zijn bezield met de meest fantastische opvattingen over de Nederlandse bedoelingen en methoden. Het zijn meestal jongens nog, opgevoed in blankenhaat, onder een Japans beheer, getraind in het wapengeweld door Japanse deserteurs in het binnenland. Jongens vaak, die niet weten wat zij doen. (…) Dat zijn zij: de losgebroken horden, het schuim van het Indonesisch volk, de op drift geraakte bandeloze legers van een machteloze leiding, die de toegestoken hand van hulp en steun uit dom wanbegrip geweigerd heeft, gedreven door wilde fanatici, profiteurs en bekrompen partijbonzen.",
+   "block_type": "inline"
+  },
+  {
+   "id": "2f298cb4-dcc3-464d-8454-3db8db5d7406",
+   "exercise_id": "041c3070-d0dd-480e-bece-1e5dbcb77a2a",
+   "label": "bron 7: bericht van generaal Wilhelm Groener aan de Duitse regering (november 1918)",
+   "image_url": "geschiedenis-havo-2021-i-duitsland-in-europa-bron7.png",
+   "text_content": "bron 7 In november 1918 stuurt de Duitse generaal Wilhelm Groener een bericht aan de Duitse regering:\nVeldmaarschalk Von Hindenburg heeft zich bereid verklaard aan te willen blijven als hoogste legeraanvoerder, totdat het leger stabiel en in alle orde zal zijn teruggeleid naar het vaderland. Hij heeft de commandoleiding en de officieren verzocht om hun plicht onverminderd te blijven doen. De veldmaarschalk verwacht van de nieuwe regering, dat zij de zorg voor het leger met alle middelen veiligstelt en hiervoor elke mogelijke verstoring van het treinverkeer zal verhinderen.",
+   "block_type": "inline"
+  },
+  {
+   "id": "4c826f5e-0bac-4d58-8fec-64c0eda1ef7a",
+   "exercise_id": "041c3070-d0dd-480e-bece-1e5dbcb77a2a",
+   "label": "bron 8: Robert Boothby in het Britse parlement over het beleid ten aanzien van Duitsland (1938)",
+   "image_url": "geschiedenis-havo-2021-i-duitsland-in-europa-bron8.png",
+   "text_content": "bron 8 Op 22 februari 1938 vindt in het Britse parlement een debat plaats over het beleid ten aanzien van Duitsland. Het parlementslid Robert Boothby zegt tijdens dit debat:\nAchteraf gezien denk ik dat het Verdrag van Versailles toch niet het wondermiddel voor het bereiken van vrede was waarvoor de onderhandelaars het destijds hielden. Ik durf zelfs te beweren dat het verdrag veel van onze huidige problemen heeft veroorzaakt (…). Ik zal de schuld hiervoor niet neerleggen bij Mr. Lloyd George1), want de obstakels waren toen bijna onoverkomelijk en hij stond onder enorme druk van de publieke opinie in dit land, die zakelijk en rustig onderhandelen bijna onmogelijk maakte. Dat er uiteindelijk toch een verdrag kwam, is op zich al verbazingwekkend. Maar dat neemt niet weg dat het geen goed verdrag was. Dit zullen we moeten meewegen bij het beoordelen van de situatie waarin we ons nu bevinden.\nnoot 1 Minister-president Lloyd George onderhandelde in 1919 namens Groot-Brittannië over het Verdrag van Versailles.",
+   "block_type": "inline"
+  },
+  {
+   "id": "79dd2f23-687f-4a8d-b1c8-da22402d14e7",
+   "exercise_id": "041c3070-d0dd-480e-bece-1e5dbcb77a2a",
+   "label": "bron 9: foto van Duitse burgers die de Elbe oversteken (1 mei 1945)",
+   "image_url": "geschiedenis-havo-2021-i-duitsland-in-europa-bron9.png",
+   "text_content": "bron 9 Foto van Duitse burgers die op 1 mei 1945 de rivier de Elbe oversteken om de naderende Sovjettroepen voor te blijven:\n[Afbeelding] Foto: Duitse burgers met koffers en tassen klimmen over de verwrongen ijzeren balken van een verwoeste brug over de Elbe.",
+   "block_type": "inline"
+  },
+  {
+   "id": "ccbf324e-8191-4999-8d4d-4ce98c85165a",
+   "exercise_id": "041c3070-d0dd-480e-bece-1e5dbcb77a2a",
+   "label": "bron 11: De Waarheid over de opstand in Oost-Berlijn (17 juni 1953)",
+   "image_url": "geschiedenis-havo-2021-i-duitsland-in-europa-bron11.png",
+   "text_content": "bron 11 In 1953 komen Oost-Duitse arbeiders in opstand tegen de regering. In het communistische Nederlandse dagblad De Waarheid van 17 juni 1953 staat over het uitbreken van die opstand een artikel:\nOnze correspondent telefoneerde ons gisteravond dat de aanleiding van de demonstraties (…) van Oost-Duitse bouwvakarbeiders een onjuist toegepaste regeringsmaatregel over de verhoging van de arbeidsnormen is geweest. De spionage- en sabotage-organisaties in het Westen hadden hiervan gebruik gemaakt om enkele groepen arbeiders tot demonstraties aan te zetten, die onmiddellijk aangevuld werden door mannen uit West-Berlijn. Toen de arbeiders voor het regeringsgebouw van het ministerie van Wederopbouw verschenen, werden zij door [de DDR] minister Selbmann toegesproken. Deze vertelde hun dat de regering al besloten had om de onjuiste maatregelen in te trekken. Agenten uit West-Berlijn probeerden de arbeiders over te halen om naar het Westen te marcheren \"om daar hun recht te zoeken\". Dit provocerende voorstel werd onmiddellijk afgewezen met de verklaring: \"Als wij klachten hebben, dan spreken wij onze eigen regering daarop aan.\" De arbeiders gingen na de mededeling van minister Selbmann gerustgesteld weer naar hun werk.",
+   "block_type": "inline"
+  },
+  {
+   "id": "b936413c-bb42-4d4b-99a2-9361ff344980",
+   "exercise_id": "03a02853-4a73-4e4c-bf3b-854db1b33ec3",
+   "label": "bron 12: lied Regering (krijg de tering) van punkband B.G.K. (1983)",
+   "image_url": "geschiedenis-havo-2021-i-nederland-1948-2008-bron12.png",
+   "text_content": "bron 12 Uit het lied Regering (krijg de tering) van de Nederlandse punkband Balthasar Gerards Kommando (B.G.K.) uit 1983:\nGrote kampanjes1) veel beloven Moeten wij die lulkoek geloven Stemmen helpt allang niet meer Rechts wint toch wel keer op keer Je wordt verwacht je neer te leggen Bij wat de meeste mensen zeggen Als je ertegen protesteert Word je met harde hand bekeerd\nnoot 1 Verkiezingscampagnes",
+   "block_type": "inline"
+  },
+  {
+   "id": "51f1fc56-f3b6-499d-8436-116e48c4f682",
+   "exercise_id": "c42f51e6-88e1-4883-959c-f5f58b3f67f0",
+   "label": "bron 13: cartoon van Carlo Schneider over de Europese politiek (2005)",
+   "image_url": "geschiedenis-havo-2021-i-computer-en-televisie-bron13.png",
+   "text_content": "bron 13 Cartoon van de Luxemburgse tekenaar Carlo Schneider uit 2005:\n[Afbeelding] Cartoon: twee politici dragen een spandoek met 'Europapolitik'; een man links met een tas met 'Non' geeft een van hen een trap, een vrouw rechtsachter doet hetzelfde bij de ander.\nToelichting De mannen die het spandoek met de tekst 'Europapolitiek' erop vasthouden zijn de Franse president Chirac en de Nederlandse premier Balkenende. De man links stelt het Franse volk voor, op zijn tas staat Non (Nee). De vrouw rechtsachter stelt het Nederlandse volk voor.",
+   "block_type": "inline"
+  }
+ ],
+ "questions": [
+  {
+   "id": "ed91ae6d-0e2d-4835-992e-e27a4847396a",
+   "exercise_id": "777d2587-3a1a-4b23-a6b7-c2607f90cde4",
+   "question_number": 1,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    },
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Ontdekkers en hervormers — overig (1500-1600)"
+    },
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Opkomst nationaalsocialisme en gevolgen (1918-1945)"
+    }
+   ],
+   "keywords": [
+    "chronologie",
+    "Opstand",
+    "Jamestown",
+    "imperialisme",
+    "DDR",
+    "Tweede Wereldoorlog"
+   ],
+   "question_summary": "Chronologisch ordenen van zes vernoemingen van steden naar personen uit verschillende tijdvakken.",
+   "question_image_url": "geschiedenis-havo-2021-i-door-de-tijd-heen-vraag1.png",
+   "question_text": "Steden worden soms vernoemd naar personen. De volgende vernoemingen staan in willekeurige volgorde:\n1 De Amerikaanse hoofdstad Washington werd vernoemd naar George Washington, de eerste president van de Verenigde Staten, nadat hij de locatie van deze federale hoofdstad had uitgekozen.\n2 De Brabantse vesting Willemstad werd vernoemd naar Willem van Oranje, de eerste leider van de Nederlandse Opstand, die kort daarvoor in Delft was vermoord.\n3 De havenstad Lüderitz, in de kolonie Duits-Zuidwest-Afrika, werd vernoemd naar de koopman Adolf Lüderitz, die verdronk tijdens zijn zoektocht naar grondstoffen voor de Duitse industrie.\n4 De regering van de DDR noemde een stad die werd aangelegd voor grootschalige ijzer- en staalproductie Stalinstadt, naar de pas overleden Sovjetleider Jozef Stalin.\n5 In de Engelse kolonie Virginia werd de stad Jamestown bij de stichting vernoemd naar koning James I, die aan kolonisten toestemming gaf in Amerika tabak te produceren voor de Engelse markt.\n6 Na de Duitse inval werd voorgesteld de Poolse stad Zamość Himmlerstadt te noemen, naar de nationaalsocialistische SS-leider Heinrich Himmler. 2p 1 Zet deze beschrijvingen in de juiste chronologische volgorde, van vroeger naar later. Noteer alleen de nummers.",
+   "context_block_ids": []
+  },
+  {
+   "id": "46b61335-76c0-42f7-b0ec-6687a351a7c7",
+   "exercise_id": "777d2587-3a1a-4b23-a6b7-c2607f90cde4",
+   "question_number": 8,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    },
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Regenten en vorsten — overig (1600-1700)"
+    },
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1948-1978)"
+    }
+   ],
+   "keywords": [
+    "chronologie",
+    "reformatie",
+    "Republiek",
+    "Bataafse revolutie",
+    "economische wereldcrisis",
+    "wederopbouw"
+   ],
+   "question_summary": "Chronologisch ordenen van zes gebeurtenissen rond glas-in-loodramen in Nederland.",
+   "question_image_url": "geschiedenis-havo-2021-i-door-de-tijd-heen-vraag8.png",
+   "question_text": "De volgende gebeurtenissen rondom glas-in-loodramen in Nederland staan in willekeurige volgorde:\n1 Door de emancipatie van katholieken in Nederland en het daarbij horende herstel van de bisdommen groeide de productie van gebrandschilderde kerkramen.\n2 Er ontstond een nieuwe belangstelling voor glas-in-loodkunst tijdens de wederopbouw, doordat werd bepaald dat 1,5% van de bouwsom van overheidsgebouwen moest worden besteed aan kunst.\n3 In de Republiek werden in opdracht van rijke regenten gebrandschilderde medaillons in grachtenpanden geplaatst.\n4 Patriotten vernielden tijdens de Bataafse revolutie, een democratische revolutie, glas-in-loodramen waarop wapenschilden van voorname families waren afgebeeld.\n5 Tijdens de economische wereldcrisis moest er goedkoop worden gebouwd, waardoor de vraag naar decoratieve glas-in-loodramen sterk terugliep.\n6 Veel glas-in-loodramen in kerken en kloosters gingen verloren tijdens de reformatie. 2p 8 Zet deze gebeurtenissen in de juiste chronologische volgorde, van vroeger naar later. Noteer alleen de nummers.",
+   "context_block_ids": []
+  },
+  {
+   "id": "b0f6d1ec-7021-4baf-a6a6-8ef9489cadd5",
+   "exercise_id": "22b56194-abad-4eb3-a2b3-df1755406a57",
+   "question_number": 2,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Ontdekkers en hervormers — overig (1500-1600)"
+    }
+   ],
+   "keywords": [
+    "humanisme",
+    "renaissance",
+    "klassieke Oudheid",
+    "boekdrukkunst",
+    "Erasmus",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Met twee kenmerkende aspecten van de zestiende eeuw het positieve oordeel van Erasmus over drukker Manutius verklaren.",
+   "question_image_url": "geschiedenis-havo-2021-i-ontdekkers-en-hervormers-vraag2.png",
+   "question_text": "Gebruik bron 1. Erasmus geeft een positief oordeel over het werk van Manutius. Dit positieve oordeel kun je verklaren met twee kenmerkende aspecten van de zestiende eeuw. 4p 2 Noem deze twee verschillende kenmerkende aspecten uit de zestiende eeuw en verklaar daarmee telkens een positief oordeel van Erasmus.",
+   "context_block_ids": [
+    "81affe36-0f4b-45b7-a9e8-510e27bccda7"
+   ]
+  },
+  {
+   "id": "b73c95a3-38d8-413b-8a99-f393d6efc960",
+   "exercise_id": "22b56194-abad-4eb3-a2b3-df1755406a57",
+   "question_number": 3,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    }
+   ],
+   "keywords": [
+    "reformatie",
+    "Luther",
+    "katholieke kerk",
+    "boekdrukkunst",
+    "volkstaal",
+    "verklaren"
+   ],
+   "question_summary": "Verklaren waarom een katholieke hertog drukkers verbood godsdienstige geschriften in het Duits te drukken.",
+   "question_image_url": "geschiedenis-havo-2021-i-ontdekkers-en-hervormers-vraag3.png",
+   "question_text": "Een anekdote: In 1524 klaagden de bestuurders van de Duitse stad Leipzig bij de katholieke hertog George van Saksen over zijn gebod dat de drukkers in Leipzig alleen maar godsdienstige geschriften in het Latijn mochten drukken (waar volgens hen geen vraag naar was) en niet in het Duits (waar veel vraag naar was). 2p 3 Verklaar het gebod van George van Saksen door aan te geven:\n− wat de hertog wilde bereiken op godsdienstig gebied en\n− dat juist dit gebod hieraan kon bijdragen.",
+   "context_block_ids": []
+  },
+  {
+   "id": "affae6fd-7b4b-4f74-b978-9d3b485f97d1",
+   "exercise_id": "22b56194-abad-4eb3-a2b3-df1755406a57",
+   "question_number": 4,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Ontdekkers en hervormers — overig (1500-1600)"
+    },
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Regenten en vorsten — overig (1600-1700)"
+    }
+   ],
+   "keywords": [
+    "Opstand",
+    "Tachtigjarige Oorlog",
+    "Republiek",
+    "Gouden Eeuw",
+    "handel",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Met kenmerkende aspecten uitleggen bij welke actualiteit in de zestiende en zeventiende eeuw de sommen van Bartjens aansluiten.",
+   "question_image_url": "geschiedenis-havo-2021-i-ontdekkers-en-hervormers-vraag4.png",
+   "question_text": "Gebruik bron 2. Bartjens sluit met zijn sommen aan op de actuele situatie in de Republiek in de zestiende én de zeventiende eeuw. 4p 4 Leg voor beide sommen apart uit welke actualiteit dit is, waarbij je je antwoord voor de eerste som ondersteunt met een kenmerkend aspect uit de zestiende eeuw en voor de tweede som met een kenmerkend aspect uit de zeventiende eeuw.",
+   "context_block_ids": [
+    "96ff7191-47ba-4920-a227-e0a5438bad8f"
+   ]
+  },
+  {
+   "id": "27e829a4-793f-479b-8a42-81b642742c08",
+   "exercise_id": "3b6d5808-d8a0-4b21-85ca-c12fb8f348fd",
+   "question_number": 9,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "Koloniën en sociaal-economische ontwikkeling in Groot-Brittannië (1750-1900)"
+    }
+   ],
+   "keywords": [
+    "Reform Bill",
+    "industriële revolutie",
+    "democratisering",
+    "kiesrecht",
+    "Groot-Brittannië",
+    "bron onderbouwen"
+   ],
+   "question_summary": "Met de voorstellen van een commissie uit 1831 aantonen dat de Britse samenleving door de industriële revolutie veranderde en democratiseerde.",
+   "question_image_url": "geschiedenis-havo-2021-i-het-britse-rijk-vraag9.png",
+   "question_text": "Gebruik bron 4. Twee beweringen over de voorstellen van de commissie:\n1 Uit de voorstellen blijkt dat de Britse samenleving door de industriële revolutie is veranderd.\n2 De voorstellen dragen bij aan de democratisering van Groot-Brittannië. 2p 9 Ondersteun beide beweringen, waarbij je telkens aangeeft welk voorstel van de commissie erbij past.",
+   "context_block_ids": [
+    "f2ae7359-90f9-414c-9cfa-579902d899c3"
+   ]
+  },
+  {
+   "id": "4e7d5f4b-9875-436d-b2a2-4c6d6f69aa8b",
+   "exercise_id": "3b6d5808-d8a0-4b21-85ca-c12fb8f348fd",
+   "question_number": 10,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "Koloniën en sociaal-economische ontwikkeling in Groot-Brittannië (1750-1900)"
+    }
+   ],
+   "keywords": [
+    "Reform Bill",
+    "1832",
+    "industriële ondernemers",
+    "kiesrecht",
+    "liberalisme",
+    "democratisering"
+   ],
+   "question_summary": "De kieswet van 1832 noemen en uitleggen waarom die gunstig was voor industriële ondernemers.",
+   "question_image_url": "geschiedenis-havo-2021-i-het-britse-rijk-vraag10.png",
+   "question_text": "De plannen van de commissie in 1831 (zie bron 4) werden uiteindelijk doorgevoerd in een wet in 1832. 2p 10 Noem deze wet en geef aan waardoor de wet gunstig was voor de industriële ondernemers.",
+   "context_block_ids": [
+    "f2ae7359-90f9-414c-9cfa-579902d899c3"
+   ]
+  },
+  {
+   "id": "e43c8133-8ed3-48d8-8586-cf41e5d4b293",
+   "exercise_id": "3b6d5808-d8a0-4b21-85ca-c12fb8f348fd",
+   "question_number": 11,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "India als belangrijkste kolonie (1765-1885)"
+    }
+   ],
+   "keywords": [
+    "Opstand van 1857",
+    "direct gezag",
+    "East India Company",
+    "Britse pers",
+    "beeldvorming",
+    "propaganda"
+   ],
+   "question_summary": "Uitleggen hoe een Brits krantenartikel uit 1857 de overgang naar direct Brits gezag in India ondersteunde.",
+   "question_image_url": "geschiedenis-havo-2021-i-het-britse-rijk-vraag11.png",
+   "question_text": "Gebruik bron 5. Met artikelen als deze wordt een verandering in het Britse bestuur in India ondersteund. 4p 11 Licht dit toe door:\n− de gebeurtenis te noemen waar dit artikel verslag van doet en\n− zonder bron aan te geven welke Britse beleidsverandering hierna wordt ingevoerd en\n− uit te leggen dat dit artikel die beleidsverandering wil ondersteunen.",
+   "context_block_ids": [
+    "9fa6f9cb-982a-4376-9633-3e27e327f23e"
+   ]
+  },
+  {
+   "id": "45aa10c8-f280-43de-8a45-dd3ce0b93028",
+   "exercise_id": "3b6d5808-d8a0-4b21-85ca-c12fb8f348fd",
+   "question_number": 12,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "India als belangrijkste kolonie (1765-1885)"
+    }
+   ],
+   "keywords": [
+    "imperialisme",
+    "superioriteitsgevoel",
+    "beschavingsmissie",
+    "christendom",
+    "koningin Victoria",
+    "bron analyseren"
+   ],
+   "question_summary": "Met verwijzingen naar een schilderij uit 1863 aantonen hoe het Britse imperialisme werd onderbouwd.",
+   "question_image_url": "geschiedenis-havo-2021-i-het-britse-rijk-vraag12.png",
+   "question_text": "Gebruik bron 6. Jones Barker onderbouwt met dit schilderij het Britse imperialisme. 4p 12 Toon dit aan door twee voorbeelden van onderbouwing te noemen die Jones Barker weergeeft, waarbij je je antwoord ondersteunt met telkens een verschillende verwijzing naar de bron.",
+   "context_block_ids": [
+    "05a95d1d-61eb-46b1-8c29-67f3cd37efaf"
+   ]
+  },
+  {
+   "id": "6e9573d6-1578-44f7-bf6d-33f6b319ab50",
+   "exercise_id": "3b6d5808-d8a0-4b21-85ca-c12fb8f348fd",
+   "question_number": 13,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "India als belangrijkste kolonie (1765-1885)"
+    },
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "Koloniën en sociaal-economische ontwikkeling in Groot-Brittannië (1750-1900)"
+    }
+   ],
+   "keywords": [
+    "Swadeshi-beweging",
+    "afzetmarkt",
+    "huisnijverheid",
+    "Indiaas nationalisme",
+    "katoenindustrie",
+    "economische verklaring"
+   ],
+   "question_summary": "Economisch verklaren waarom de Swadeshi-beweging ontstond en waarom Britse kranten er economisch en politiek negatief over waren.",
+   "question_image_url": "geschiedenis-havo-2021-i-het-britse-rijk-vraag13.png",
+   "question_text": "Twee gegevens over de Swadeshi-beweging in India:\n1 In 1905 namen de oprichters van de Swadeshi-beweging voor het stadhuis van Calcutta een resolutie aan in het bijzijn van 20.000 Indiërs, waarin ze Indiërs opriepen hun eigen kleding te weven en te produceren.\n2 In Groot-Brittannië publiceerden kranten artikelen waarin de Swadeshi-beweging werd beschreven als gevaarlijk en onwenselijk. 3p 13 Licht beide gegevens toe door:\n− een economische verklaring te geven voor het ontstaan van de Swadeshi-beweging en\n− een economische en een politieke verklaring te geven voor de reactie van de Britse kranten.",
+   "context_block_ids": []
+  },
+  {
+   "id": "052c7bcc-e05a-47ee-9d19-d37f34eb8fae",
+   "exercise_id": "f28a4cbe-757a-41c5-a88d-1add732e6a09",
+   "question_number": 7,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    }
+   ],
+   "keywords": [
+    "plantagekoloniën",
+    "slavernij",
+    "abolitionisme",
+    "Suriname",
+    "bruikbaarheid",
+    "onderzoeksvraag"
+   ],
+   "question_summary": "Uitleggen welk deel van een onderzoek naar plantagekoloniën en abolitionisme je met een brief van een plantagearts wel en niet kunt illustreren.",
+   "question_image_url": "geschiedenis-havo-2021-i-pruiken-en-revoluties-vraag7.png",
+   "question_text": "Gebruik bron 3. Stel: je doet onderzoek naar 'de uitbouw van de Europese overheersing, met name in de vorm van plantagekoloniën, en de opkomst van het abolitionisme'. Je concludeert dat je met de taak van Reichard een onderdeel van je onderzoek wél kunt illustreren en een ander onderdeel niet. 4p 7 Leg beide delen van je conclusie uit.",
+   "context_block_ids": [
+    "af833821-8ca4-4b5f-bf1e-028d8152a1fb"
+   ]
+  },
+  {
+   "id": "8dedb168-1a57-48fb-8bc4-871adef2a48b",
+   "exercise_id": "1835142f-060c-4ffc-8f82-ecb8aacae0fd",
+   "question_number": 18,
+   "topics": [
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1948-1978)"
+    },
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Wereldoorlogen — overig (1900-1950)"
+    }
+   ],
+   "keywords": [
+    "dekolonisatie",
+    "Indonesië",
+    "politionele acties",
+    "eenzijdigheid",
+    "nationalisme",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Uitleggen waarom een Nederlands verslag over het militaire ingrijpen in Indonesië eenzijdig is en dat ingrijpen verklaren met een kenmerkend aspect.",
+   "question_image_url": "geschiedenis-havo-2021-i-tijd-van-wereldoorlogen-vraag18.png",
+   "question_text": "Gebruik bron 10 Stel: je doet onderzoek naar het Nederlandse ingrijpen in Nederlands-Indië en je vindt deze bron. Je concludeert dat dit verslag een eenzijdige weergave is. 3p 18 Licht je conclusie toe door:\n− uit te leggen welke boodschap Brandt wil overbrengen over het Nederlandse ingrijpen, waarbij je je antwoord ondersteunt met een verwijzing naar de bron en\n− zonder bron met een kenmerkend aspect uit de twintigste eeuw een verklaring te geven voor het Nederlandse ingrijpen.",
+   "context_block_ids": [
+    "dadddf53-19d5-4fc6-a6e3-f9f895db1aa0"
+   ]
+  },
+  {
+   "id": "278fabb1-3d99-40d3-8dfe-f3b8fe90ca37",
+   "exercise_id": "041c3070-d0dd-480e-bece-1e5dbcb77a2a",
+   "question_number": 14,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Opkomst nationaalsocialisme en gevolgen (1918-1945)"
+    }
+   ],
+   "keywords": [
+    "Republiek van Weimar",
+    "dolkstootlegende",
+    "wapenstilstand",
+    "legerleiding",
+    "conservatieve elite",
+    "parlementaire democratie"
+   ],
+   "question_summary": "Uitleggen welke politieke verandering de Duitse legerleiding in 1918 mogelijk maakte en welke kritiek op Weimar de elite met dit bericht kon onderbouwen.",
+   "question_image_url": "geschiedenis-havo-2021-i-duitsland-in-europa-vraag14.png",
+   "question_text": "Gebruik bron 7. Dit bericht wordt gezien als een belangrijk document in de ontstaansgeschiedenis van de Republiek van Weimar. 3p 14 Licht deze visie toe door:\n− aan te geven welke politieke verandering in Duitsland in 1918 de legerleiding met deze reactie mogelijk maakt en\n− uit te leggen welke kritiek op de regering van de Republiek van Weimar de conservatieve elite met dit bericht kan onderbouwen.",
+   "context_block_ids": [
+    "2f298cb4-dcc3-464d-8454-3db8db5d7406"
+   ]
+  },
+  {
+   "id": "b62aaa70-6fa3-495a-903b-2b69bba2783a",
+   "exercise_id": "041c3070-d0dd-480e-bece-1e5dbcb77a2a",
+   "question_number": 15,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Opkomst nationaalsocialisme en gevolgen (1918-1945)"
+    }
+   ],
+   "keywords": [
+    "totalitarisme",
+    "Volksgemeinschaft",
+    "nationaalsocialisme",
+    "terreur",
+    "Hitlergroet",
+    "argumenteren"
+   ],
+   "question_summary": "Met een anekdote over een gevangene ondersteunen dat nazi-Duitsland een totalitaire staat was en een Volksgemeinschaft creëerde.",
+   "question_image_url": "geschiedenis-havo-2021-i-duitsland-in-europa-vraag15.png",
+   "question_text": "Een Duitse gevangene schreef over een medegevangene eind jaren 1930: \"'Wees verstandig' zeiden zijn vrienden. 'Wat geeft het nu om af en toe 'Heil Hitler' te zeggen. Doe zoals wij. Wij menen het toch ook niet'. Hij schudde zijn hoofd. De volgende dag weigerde hij weer. Hij ging de donkere cel in. Veertien dagen.\" Uit de behandeling van de gevangene blijkt dat:\n1 Duitsland eind jaren 1930 een totalitaire staat was geworden en\n2 er een Volksgemeinschaft werd gecreëerd in Duitsland. 2p 15 Ondersteun beide beweringen, elk met een verschillend argument.",
+   "context_block_ids": []
+  },
+  {
+   "id": "b5b0caab-0dca-44cf-b07f-8d7f707b68a7",
+   "exercise_id": "041c3070-d0dd-480e-bece-1e5dbcb77a2a",
+   "question_number": 16,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Opkomst nationaalsocialisme en gevolgen (1918-1945)"
+    }
+   ],
+   "keywords": [
+    "Verdrag van Versailles",
+    "appeasementpolitiek",
+    "Conferentie van München",
+    "continuïteit en verandering",
+    "Brits beleid",
+    "bron analyseren"
+   ],
+   "question_summary": "Continuïteit en verandering in het Britse beleid tegenover Duitsland in 1919 en 1938 aantonen met een parlementaire toespraak.",
+   "question_image_url": "geschiedenis-havo-2021-i-duitsland-in-europa-vraag16.png",
+   "question_text": "Gebruik bron 8. Een interpretatie: Boothby ziet continuïteit en verandering in het beleid dat de Britse regering in 1919 en in 1938 voert ten aanzien van Duitsland. 3p 16 Onderbouw deze interpretatie door:\n− zonder bron aan te geven welk zelfde doel de Britse regering in 1919 en in 1938 probeert te bereiken met haar beleid en\n− uit te leggen op welke verandering in het Britse beleid in 1938 Boothby reageert, waarbij je je antwoord ondersteunt met een passende verwijzing naar de bron.",
+   "context_block_ids": [
+    "4c826f5e-0bac-4d58-8fec-64c0eda1ef7a"
+   ]
+  },
+  {
+   "id": "30cf828d-8c20-4fa9-bb87-395892b29eab",
+   "exercise_id": "041c3070-d0dd-480e-bece-1e5dbcb77a2a",
+   "question_number": 17,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Duitsland en de Koude Oorlog (1945-1961)"
+    }
+   ],
+   "keywords": [
+    "capitulatie",
+    "ontwrichting",
+    "Heimatvertriebene",
+    "Sovjettroepen",
+    "1945",
+    "foto als bron"
+   ],
+   "question_summary": "Met een foto uit mei 1945 de economische en sociale ontwrichting van Duitsland illustreren.",
+   "question_image_url": "geschiedenis-havo-2021-i-duitsland-in-europa-vraag17.png",
+   "question_text": "Gebruik bron 9. Met deze foto kun je de economische en de sociale ontwrichting van de Duitse samenleving in mei 1945 illustreren. 2p 17 Toon beide aan.",
+   "context_block_ids": [
+    "79dd2f23-687f-4a8d-b1c8-da22402d14e7"
+   ]
+  },
+  {
+   "id": "c2397ae1-21d6-48b9-b067-b3fe2b55129a",
+   "exercise_id": "041c3070-d0dd-480e-bece-1e5dbcb77a2a",
+   "question_number": 19,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Hereniging en Europese integratie (1961-1991)"
+    },
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Duitsland en de Koude Oorlog (1945-1961)"
+    }
+   ],
+   "keywords": [
+    "oorzaak en gevolg",
+    "Blokkade van Berlijn",
+    "Ostpolitik",
+    "Brezjnevdoctrine",
+    "Duitse hereniging",
+    "euro"
+   ],
+   "question_summary": "Vier gebeurtenissen uit de Duitse geschiedenis na 1945 koppelen aan hun gevolgen.",
+   "question_image_url": "geschiedenis-havo-2021-i-duitsland-in-europa-vraag19.png",
+   "question_text": "Hieronder staan in de linkerkolom vier gebeurtenissen uit de Duitse geschiedenis (a tot en met d) in chronologische volgorde en in de rechterkolom vijf gevolgen (1 tot en met 5) in willekeurige volgorde:\nGebeurtenissen: Gevolgen: a Jozef Stalin liet de 1 De Verenigde Staten stelden een toegangswegen naar West- luchtbrug in. Berlijn blokkeren. 2 Frankrijk steunde openlijk de Duitse plannen voor hereniging. b Willy Brandt startte met de 3 Oost-Duitse arbeiders startten met uitvoering van de Ostpolitik. de bouw van de Muur in Berlijn.\n4 Oost-Duitse burgers trokken via c Michael Gorbatsjov besloot de Hongarije naar het Westen, nadat de Brezjnevdoctrine los te laten. grens met Oostenrijk was opengesteld. d Helmut Kohl kondigde aan de 5 West-Duitsland en Oost- Duitsland Duitse mark te vervangen door erkenden elkaar als gelijkwaardige de euro. staten.\n2p 19 Geef voor elke gebeurtenis aan welk gevolg daarbij hoort. Noteer alleen de letter en het daarbij behorende cijfer. Let op: er blijft één gevolg over.",
+   "context_block_ids": []
+  },
+  {
+   "id": "b05d80d3-0c51-4f2a-a5d9-ae5332bd9536",
+   "exercise_id": "041c3070-d0dd-480e-bece-1e5dbcb77a2a",
+   "question_number": 21,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Duitsland en de Koude Oorlog (1945-1961)"
+    }
+   ],
+   "keywords": [
+    "DDR",
+    "opstand 1953",
+    "communisme",
+    "planeconomie",
+    "economische malaise",
+    "standplaatsgebondenheid"
+   ],
+   "question_summary": "Uitleggen welk communistisch standpunt De Waarheid over de Oost-Duitse opstand van 1953 geeft en een oorzaak van de Oost-Duitse malaise noemen.",
+   "question_image_url": "geschiedenis-havo-2021-i-duitsland-in-europa-vraag21.png",
+   "question_text": "Gebruik bron 11. Een conclusie: De redactie van De Waarheid geeft een communistisch standpunt weer over de opstand. 3p 21 Ondersteun deze conclusie door:\n− uit te leggen welk communistisch standpunt De Waarheid over de opstand weergeeft, waarbij je je antwoord ondersteunt met een verwijzing naar de bron en\n− zonder bron een oorzaak voor de economische malaise te noemen waarin de DDR zich in 1953 bevindt.",
+   "context_block_ids": [
+    "ccbf324e-8191-4999-8d4d-4ce98c85165a"
+   ]
+  },
+  {
+   "id": "dcb7af3b-6dac-4a70-ad9d-6bed3bc2f35d",
+   "exercise_id": "041c3070-d0dd-480e-bece-1e5dbcb77a2a",
+   "question_number": 22,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Duitsland en de Koude Oorlog (1945-1961)"
+    }
+   ],
+   "keywords": [
+    "Staatssicherheitsdienst",
+    "DDR",
+    "opstand 1953",
+    "nuanceren",
+    "totalitaire dictatuur",
+    "beeldvorming"
+   ],
+   "question_summary": "Uitleggen hoe de uitbreiding van de Stasi na 1953 het beeld van de Oost-Duitse arbeiders in de bron nuanceert.",
+   "question_image_url": "geschiedenis-havo-2021-i-duitsland-in-europa-vraag22.png",
+   "question_text": "Gebruik bron 11. Een gegeven: Na het neerslaan van de opstand worden de bevoegdheden van de Staatssicherheitsdienst in de DDR uitgebreid. 2p 22 Leg uit dat dit gegeven het beeld van de Oost-Duitse arbeiders, zoals dat wordt geschetst in de bron, nuanceert.",
+   "context_block_ids": [
+    "ccbf324e-8191-4999-8d4d-4ce98c85165a"
+   ]
+  },
+  {
+   "id": "77514b91-c05e-4df6-a08e-1a81923684ef",
+   "exercise_id": "041c3070-d0dd-480e-bece-1e5dbcb77a2a",
+   "question_number": 23,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Duitsland en de Koude Oorlog (1945-1961)"
+    }
+   ],
+   "keywords": [
+    "BRD",
+    "DDR",
+    "Duitse deling",
+    "erkenning",
+    "Koude Oorlog",
+    "Adenauer"
+   ],
+   "question_summary": "Uitleggen dat een West-Duitse boycot van een ijshockeywedstrijd tegen de DDR in 1961 paste bij de opstelling van de BRD.",
+   "question_image_url": "geschiedenis-havo-2021-i-duitsland-in-europa-vraag23.png",
+   "question_text": "Tijdens het wereldkampioenschap ijshockey in 1961 verbood de leiding van de West-Duitse ijshockeybond hun spelers deel te nemen aan een wedstrijd tegen het team van de DDR. De West-Duitse spelers zouden, als ze de wedstrijd verloren, aanwezig moeten zijn bij het hijsen van de Oost-Duitse vlag en het spelen van het Oost-Duitse volkslied. 2p 23 Leg uit dat dit besluit paste bij de opstelling van de BRD ten aanzien van de DDR op dat moment.",
+   "context_block_ids": []
+  },
+  {
+   "id": "72d17de4-3b97-4116-b7c7-1646e0547d91",
+   "exercise_id": "03a02853-4a73-4e4c-bf3b-854db1b33ec3",
+   "question_number": 20,
+   "topics": [
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1948-1978)"
+    }
+   ],
+   "keywords": [
+    "NAVO",
+    "neutraliteitspolitiek",
+    "Koude Oorlog",
+    "Marshallhulp",
+    "westers bondgenootschap",
+    "politieke verklaring"
+   ],
+   "question_summary": "Uitleggen bij welke verandering in de Nederlandse buitenlandse politiek het NAVO-lidmaatschap paste en die verandering politiek verklaren.",
+   "question_image_url": "geschiedenis-havo-2021-i-nederland-1948-2008-vraag20.png",
+   "question_text": "In 1949 was Nederland een van de oprichters van de NAVO. 3p 20 Leg uit bij welke verandering van de Nederlandse buitenlandse politiek na 1945 het lidmaatschap van de NAVO paste en geef vervolgens een politieke verklaring voor deze verandering.",
+   "context_block_ids": []
+  },
+  {
+   "id": "7fa0c5ee-a80b-4d76-a26d-4f305f957bb2",
+   "exercise_id": "03a02853-4a73-4e4c-bf3b-854db1b33ec3",
+   "question_number": 24,
+   "topics": [
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1948-1978)"
+    }
+   ],
+   "keywords": [
+    "oliecrisis",
+    "1973",
+    "energiebesparing",
+    "economische crisis",
+    "overheidsvoorlichting",
+    "context"
+   ],
+   "question_summary": "Uitleggen dat een overheidsbericht over zuinig rijden paste bij de oliecrisis van 1973.",
+   "question_image_url": "geschiedenis-havo-2021-i-nederland-1948-2008-vraag24.png",
+   "question_text": "Een anekdote: In 1973 werd in overleg met het ministerie van Economische Zaken het volgende bericht in de landelijke dagbladen geplaatst: \"Als u wat kalmer optrekt en rustiger rijdt, bespaart u per dag 1.300.000 liter benzine. In een test is gebleken dat onrustig ruw rijden ten koste gaat van indrukwekkende hoeveelheden brandstof. Wegspuiten bij een stoplicht en hard remmen op het laatste moment kan u, als u er een gewoonte van maakt, veel meer benzine kosten dan een gelijkmatiger rijstijl.\" 2p 24 Leg uit dat het doel van dit bericht paste bij de actuele situatie in 1973.",
+   "context_block_ids": []
+  },
+  {
+   "id": "8e39d842-2714-44a1-9e68-075c30305aa5",
+   "exercise_id": "03a02853-4a73-4e4c-bf3b-854db1b33ec3",
+   "question_number": 25,
+   "topics": [
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1978-2008)"
+    },
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1948-1978)"
+    }
+   ],
+   "keywords": [
+    "punk",
+    "provo's",
+    "jongerencultuur",
+    "protestbeweging",
+    "overeenkomst en verschil",
+    "gezag"
+   ],
+   "question_summary": "Met een punklied uit 1983 een overeenkomst en een verschil aantonen tussen de standpunten van provo's en de punkbeweging.",
+   "question_image_url": "geschiedenis-havo-2021-i-nederland-1948-2008-vraag25.png",
+   "question_text": "Gebruik bron 1. Een conclusie: Met deze bron kun je een overeenkomst en een verschil aantonen tussen de standpunten van de provo's en die van de punkbeweging. 4p 25 Ondersteun deze conclusie door, telkens met een passende verwijzing naar de bron:\n− een standpunt van de punkbeweging aan te geven dat overeenkomt met dat van de provo's en\n− een standpunt van de punkbeweging aan te geven dat verschilt van dat van de provo's.\n⚠️ CONTROLEREN: in de PDF staat \"Gebruik bron 1.\", bedoeld is bron 12 (het punklied).",
+   "context_block_ids": [
+    "b936413c-bb42-4d4b-99a2-9361ff344980"
+   ]
+  },
+  {
+   "id": "ebf2fdaa-3517-4c10-9a14-cfd150c5044d",
+   "exercise_id": "c42f51e6-88e1-4883-959c-f5f58b3f67f0",
+   "question_number": 26,
+   "topics": [
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1978-2008)"
+    }
+   ],
+   "keywords": [
+    "Europese integratie",
+    "Europese Grondwet",
+    "referendum 2005",
+    "euroscepsis",
+    "spotprent",
+    "Balkenende"
+   ],
+   "question_summary": "Met een cartoon uit 2005 uitleggen welke oorzaak van problemen bij de Europese samenwerking wordt weergegeven.",
+   "question_image_url": "geschiedenis-havo-2021-i-computer-en-televisie-vraag26.png",
+   "question_text": "Gebruik bron 13. Carlo Schneider geeft een oorzaak weer van problemen bij de Europese samenwerking in de eenentwintigste eeuw. 2p 26 Leg uit welke oorzaak dat is, waarbij je je antwoord ondersteunt met een passende verwijzing naar de bron.",
+   "context_block_ids": [
+    "51f1fc56-f3b6-499d-8436-116e48c4f682"
+   ]
+  },
+  {
+   "id": "155c22d4-a984-4ba0-9e29-0babae624230",
+   "exercise_id": "c42f51e6-88e1-4883-959c-f5f58b3f67f0",
+   "question_number": 27,
+   "topics": [
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1978-2008)"
+    }
+   ],
+   "keywords": [
+    "multiculturele samenleving",
+    "migratie",
+    "asielinstroom",
+    "homohuwelijk",
+    "emancipatie",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Twee afleveringen van een televisieserie koppelen aan verschillende kenmerkende aspecten van de late twintigste eeuw.",
+   "question_image_url": "geschiedenis-havo-2021-i-computer-en-televisie-vraag27.png",
+   "question_text": "In de televisieserie De taarten van Abel (op televisie sinds 2003) bakken kinderen een taart om iemand te bedanken of te steunen, zoals bijvoorbeeld:\n1 Een meisje dat een taart bakte om haar vader te bedanken die na hun vlucht in 2016 uit het Afrikaanse land Oeganda hard werkte om een nieuw bestaan op te bouwen in Nederland.\n2 Een meisje dat een taart bakte om te laten weten dat ze het stoer vond dat haar tante ging trouwen met haar vriendin. Met deze afleveringen uit De taarten van Abel kun je verschillende kenmerkende aspecten uit de tweede helft van de twintigste eeuw illustreren. 2p 27 Noem voor beide afleveringen van de televisieserie een verschillend kenmerkend aspect dat hierbij past. Let op: je mag een kenmerkend aspect maar één keer gebruiken.",
+   "context_block_ids": []
+  }
+ ]
+}
