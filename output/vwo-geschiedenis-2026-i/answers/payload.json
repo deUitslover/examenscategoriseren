@@ -1,0 +1,493 @@
+{
+ "payload": {
+  "subject_name": "Geschiedenis",
+  "level": "VWO",
+  "source": "VWO Geschiedenis 2026-I",
+  "answers": [
+   {
+    "title": "Door de tijd heen",
+    "question_number": 1,
+    "answer_text": "De juiste volgorde is:\n3, 5, 4, 2, 6, 1",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 3, 5, 4, 2, 6, 1"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-door-de-tijd-heen-antw1.png"
+    ]
+   },
+   {
+    "title": "Prehistorie en oudheid",
+    "question_number": 2,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Uit de bron blijkt dat wordt voorkomen dat Athene een oligarchie wordt omdat (een van de volgende):\n  − iedereen over de regering van de stad mag adviseren/beslissen.\n  − bij technische vraagstukken naar experts wordt geluisterd en niet naar mensen met een hoge maatschappelijke status.\n  − ook mensen met een hoge maatschappelijke status uit de volksvergadering kunnen worden verwijderd.\n• Uit de bron blijkt dat het bestuur ook in handen is van burgers zonder opleiding/politieke achtergrond, zodat mogelijk niet de verstandigste beslissingen worden genomen / het bestuur de ervaring mist om snel/daadkrachtig beslissingen te nemen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Uit de bron blijkt dat wordt voorkomen dat Athene een oligarchie wordt omdat (een van de volgende): iedereen over de regering van de stad mag adviseren/beslissen.; bij technische vraagstukken naar experts wordt geluisterd en niet naar mensen met een hoge maatschappelijke status.; ook mensen met een hoge maatschappelijke status uit de volksvergadering kunnen worden verwijderd."
+     },
+     {
+      "points": 1,
+      "description": "Uit de bron blijkt dat het bestuur ook in handen is van burgers zonder opleiding/politieke achtergrond, zodat mogelijk niet de verstandigste beslissingen worden genomen / het bestuur de ervaring mist om snel/daadkrachtig beslissingen te nemen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-prehistorie-en-oudheid-antw2.png"
+    ]
+   },
+   {
+    "title": "De middeleeuwen",
+    "question_number": 3,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Widukind wil vanuit zijn eigen positie als monnik/christen de verspreiding van het geloof bevorderen, waardoor hij het verhaal van de bekering van Harald (waarschijnlijk) overdrijft / waardoor hij wil laten zien dat God de bekering steunt (waardoor deze bron minder bruikbaar is voor de eerste onderzoeksvraag).\n• Uit de bron blijkt dat Harald/een koning zijn onderdanen kan bevelen om alleen Christus als God te vereren / de afgoden op te geven (zodat het bekeren van Harald/een koning een effectieve methode van kerstening is).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Widukind wil vanuit zijn eigen positie als monnik/christen de verspreiding van het geloof bevorderen, waardoor hij het verhaal van de bekering van Harald (waarschijnlijk) overdrijft / waardoor hij wil laten zien dat God de bekering steunt (waardoor deze bron minder bruikbaar is voor de eerste onderzoeksvraag)."
+     },
+     {
+      "points": 1,
+      "description": "Uit de bron blijkt dat Harald/een koning zijn onderdanen kan bevelen om alleen Christus als God te vereren / de afgoden op te geven (zodat het bekeren van Harald/een koning een effectieve methode van kerstening is)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-de-middeleeuwen-antw3.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 5,
+    "answer_text": "Kern van een juist antwoord is:\nIn 1302 vond de Guldensporenslag plaats / was het Vlaamse gemeen succesvol in opstand gekomen tegen de patriciërs, zodat het stadsbestuur van Sint-Omaars met een onderzoek wilde uitsluiten/voorkomen dat de eigen ambachtslieden door middel van deze correspondentie inspiratie/steun zochten bij/kregen van deze (machtige) Vlaamse ambachtslieden.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In 1302 vond de Guldensporenslag plaats / was het Vlaamse gemeen succesvol in opstand gekomen tegen de patriciërs, zodat het stadsbestuur van Sint-Omaars met een onderzoek wilde uitsluiten/voorkomen dat de eigen ambachtslieden door middel van deze correspondentie inspiratie/steun zochten bij/kregen van deze (machtige) Vlaamse ambachtslieden."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een combinatie bevat van een verwijzing naar de Guldensporenslag/de succesvolle opstand van het Vlaamse gemeen en een daarbij passende uitleg over het onderzoek, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-steden-en-burgers-1050-1700-antw5.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 6,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Vives beweerde dat armenzorg voor meer rust/eenheid in de stad zorgde / dat armenzorg de kans gaf om je als weldoener op te stellen naar je medeburger waardoor armenzorg het algemeen belang diende (wat paste bij de ideeën over bonum commune).\n• Aan het begin van de zestiende eeuw verschoof het zwaartepunt van de (opkomende wereld)handel (met onder andere de Spaanse koloniën) naar Antwerpen / werd de scheepsvaart naar Brugge gehinderd door de verzanding van het Zwin / lag Brugge niet langer aan gunstige vaarwegen naar zee (waardoor de economie in Brugge achteruit ging).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Vives beweerde dat armenzorg voor meer rust/eenheid in de stad zorgde / dat armenzorg de kans gaf om je als weldoener op te stellen naar je medeburger waardoor armenzorg het algemeen belang diende (wat paste bij de ideeën over bonum commune)."
+     },
+     {
+      "points": 1,
+      "description": "Aan het begin van de zestiende eeuw verschoof het zwaartepunt van de (opkomende wereld)handel (met onder andere de Spaanse koloniën) naar Antwerpen / werd de scheepsvaart naar Brugge gehinderd door de verzanding van het Zwin / lag Brugge niet langer aan gunstige vaarwegen naar zee (waardoor de economie in Brugge achteruit ging)."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de eerste deelvraag een combinatie bevat van een verwijzing naar de uitspraak van Vives en een uitleg over hoe dit paste bij bonum commune, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-steden-en-burgers-1050-1700-antw6.png"
+    ]
+   },
+   {
+    "title": "Vroegmoderne tijd",
+    "question_number": 7,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De Spanjaarden verwachten dat de Inca's de benoeming van Manco Inca zullen accepteren, omdat de ceremonie hem hetzelfde aanzien geeft als eerdere vorsten / omdat de ceremonie laat zien dat Manco Inca door zijn voorouders recht heeft op de troon / omdat ze een ceremonie toestaan die voortkomt uit de gebruiken van de Inca’s.\n• De ceremonie gaat in tegen het motief van het verspreiden van christelijke waarden / het christendom/katholicisme,\n• omdat in de bron duidelijk wordt dat de Inca's (een van de volgende):\n  − de Zon mogen aanbidden/mogen bedanken.\n  − voorouderverering mogen uitvoeren door mummies rond te dragen/te verzorgen.\n  − de ceremonie mogen laten uitvoeren door een Inca-priester.\n• Het lezen van deze beschrijvingen draagt bij aan het 'veranderende mens- en wereldbeeld van de renaissance en het begin van nieuwe wetenschappelijke belangstelling', omdat Europeanen zich er bewust van worden dat er culturen bestaan die voor hen onbekend zijn / die een andere godsdienst/andere tradities hebben.\nof\n• Door het lezen van deze beschrijvingen wordt 'het begin van de Europese overzeese expansie' bevorderd, omdat hierdoor meer Europeanen/Europese vorsten inzicht krijgen in wat deze nieuwe landen kunnen opleveren aan macht.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De Spanjaarden verwachten dat de Inca's de benoeming van Manco Inca zullen accepteren, omdat de ceremonie hem hetzelfde aanzien geeft als eerdere vorsten / omdat de ceremonie laat zien dat Manco Inca door zijn voorouders recht heeft op de troon / omdat ze een ceremonie toestaan die voortkomt uit de gebruiken van de Inca’s."
+     },
+     {
+      "points": 1,
+      "description": "De ceremonie gaat in tegen het motief van het verspreiden van christelijke waarden / het christendom/katholicisme,"
+     },
+     {
+      "points": 1,
+      "description": "omdat in de bron duidelijk wordt dat de Inca's (een van de volgende): de Zon mogen aanbidden/mogen bedanken.; voorouderverering mogen uitvoeren door mummies rond te dragen/te verzorgen.; de ceremonie mogen laten uitvoeren door een Inca-priester."
+     },
+     {
+      "points": 1,
+      "description": "Het lezen van deze beschrijvingen draagt bij aan het 'veranderende mens- en wereldbeeld van de renaissance en het begin van nieuwe wetenschappelijke belangstelling', omdat Europeanen zich er bewust van worden dat er culturen bestaan die voor hen onbekend zijn / die een andere godsdienst/andere tradities hebben. of: Door het lezen van deze beschrijvingen wordt 'het begin van de Europese overzeese expansie' bevorderd, omdat hierdoor meer Europeanen/Europese vorsten inzicht krijgen in wat deze nieuwe landen kunnen opleveren aan macht."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de tweede deelvraag een juist cultureel motief bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.\nAls het antwoord bij de derde deelvraag alleen een kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-vroegmoderne-tijd-antw7.png"
+    ]
+   },
+   {
+    "title": "Steden en burgers 1050 - 1700",
+    "question_number": 8,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• In/Vanaf 1585 verliest Antwerpen haar stapelmarktfunctie / is de oogst verwoest door de Spaanse troepen / wordt de Schelde afgesloten (waardoor de handel/aanvoer in graan wegvalt).\n• De penning moet de politieke boodschap overbrengen dat het (protestantse) bestuur in de noordelijke gewesten een beter bestuur is dan het Spaanse (katholieke) bestuur,\n• wat wordt weergegeven door (een van de volgende):\n  − de hongerende vrouw / de dood bij de Spanjaard / de tekst dat \"talloze rampen voor de goddelozen zijn\" op de voorkant (katholieke kant) van de munt.\n  − de hoorn des overvloeds / de tekst dat goede dingen zijn voor diegene die op God vertrouwt op de achterkant (protestantse kant) van de munt.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In/Vanaf 1585 verliest Antwerpen haar stapelmarktfunctie / is de oogst verwoest door de Spaanse troepen / wordt de Schelde afgesloten (waardoor de handel/aanvoer in graan wegvalt)."
+     },
+     {
+      "points": 1,
+      "description": "De penning moet de politieke boodschap overbrengen dat het (protestantse) bestuur in de noordelijke gewesten een beter bestuur is dan het Spaanse (katholieke) bestuur,"
+     },
+     {
+      "points": 1,
+      "description": "wat wordt weergegeven door (een van de volgende): de hongerende vrouw / de dood bij de Spanjaard / de tekst dat \"talloze rampen voor de goddelozen zijn\" op de voorkant (katholieke kant) van de munt.; de hoorn des overvloeds / de tekst dat goede dingen zijn voor diegene die op God vertrouwt op de achterkant (protestantse kant) van de munt."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de tweede deelvraag een juiste politieke boodschap bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-steden-en-burgers-1050-1700-antw8.png"
+    ]
+   },
+   {
+    "title": "Vroegmoderne tijd",
+    "question_number": 9,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Door 'het ontstaan van feodale verhoudingen in het bestuur' moest de adel in ruil voor land het rijk verdedigen / ontstonden door het ontbreken van een sterk centraal gezag conflicten tussen leenmannen / tussen leenmannen en de leenheer (zodat de adel versterkingen liet bouwen).\nof\n• Door 'de vrijwel volledige vervanging in West-Europa van de agrarisch-urbane cultuur door een zelfvoorzienende agrarische cultuur georganiseerd via hofstelsel en horigheid' moest de adel de horigen/ondergeschikten kunnen verdedigen in ruil voor hun werk (zodat de adel versterkingen liet bouwen).\n• Vanwege 'het streven van vorsten naar absolute macht' wilde Richelieu de macht van de adel verkleinen / ervoor zorgen dat de adel de macht van de vorst niet kon bedreigen (zodat hij de versterkingen van kastelen liet slopen).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door 'het ontstaan van feodale verhoudingen in het bestuur' moest de adel in ruil voor land het rijk verdedigen / ontstonden door het ontbreken van een sterk centraal gezag conflicten tussen leenmannen / tussen leenmannen en de leenheer (zodat de adel versterkingen liet bouwen). of: Door 'de vrijwel volledige vervanging in West-Europa van de agrarisch-urbane cultuur door een zelfvoorzienende agrarische cultuur georganiseerd via hofstelsel en horigheid' moest de adel de horigen/ondergeschikten kunnen verdedigen in ruil voor hun werk (zodat de adel versterkingen liet bouwen)."
+     },
+     {
+      "points": 1,
+      "description": "Vanwege 'het streven van vorsten naar absolute macht' wilde Richelieu de macht van de adel verkleinen / ervoor zorgen dat de adel de macht van de vorst niet kon bedreigen (zodat hij de versterkingen van kastelen liet slopen)."
+     }
+    ],
+    "grading_note": "Als het antwoord alleen een kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-vroegmoderne-tijd-antw9.png"
+    ]
+   },
+   {
+    "title": "Vroegmoderne tijd",
+    "question_number": 10,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Bij de trans-Atlantische slavenhandel worden slaafgemaakten uit verschillende delen van Afrika naar Suriname gebracht, zodat er de noodzaak is voor het ontwikkelen van een gemeenschappelijke taal.\n• De plantage-eigenaren kunnen met de taalgids ervoor zorgen dat er meer werk wordt verzet (omdat ze beter met hun slaafgemaakten kunnen communiceren) / er minder verzet is onder slaafgemaakten (omdat wreedheden worden voorkomen door de betere communicatie).\n• Door 'de opkomst van emancipatiebewegingen' / 'de opkomst van politiek-maatschappelijke stromingen zoals het nationalisme' wilden de (voormalig) slaafgemaakten door in het Sranantongo te schrijven zich onderscheiden van de koloniale overheerser / hun eigen cultuur binnen de koloniale samenleving benadrukken/bewaren.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij de trans-Atlantische slavenhandel worden slaafgemaakten uit verschillende delen van Afrika naar Suriname gebracht, zodat er de noodzaak is voor het ontwikkelen van een gemeenschappelijke taal."
+     },
+     {
+      "points": 1,
+      "description": "De plantage-eigenaren kunnen met de taalgids ervoor zorgen dat er meer werk wordt verzet (omdat ze beter met hun slaafgemaakten kunnen communiceren) / er minder verzet is onder slaafgemaakten (omdat wreedheden worden voorkomen door de betere communicatie)."
+     },
+     {
+      "points": 1,
+      "description": "Door 'de opkomst van emancipatiebewegingen' / 'de opkomst van politiek-maatschappelijke stromingen zoals het nationalisme' wilden de (voormalig) slaafgemaakten door in het Sranantongo te schrijven zich onderscheiden van de koloniale overheerser / hun eigen cultuur binnen de koloniale samenleving benadrukken/bewaren."
+     }
+    ],
+    "grading_note": "Als bij het antwoord bij de eerste deelvraag wordt uitgelegd dat Sranantongo wordt ontwikkeld om uit te sluiten dat de plantage-eigenaren de slaven kunnen begrijpen, wordt geen scorepunt toegekend (omdat Afrikanen al talen spraken die de plantage-eigenaren niet begrepen).\nAls het antwoord bij de derde deelvraag alleen een kenmerkend aspect\n⚠️ CONTROLEREN: de tweede opmerking breekt in het correctievoorschrift af na \"alleen een kenmerkend aspect\" (de rest van de zin ontbreekt in de bron).",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-vroegmoderne-tijd-antw10.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 - 1900",
+    "question_number": 11,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Dat Hutchinson een voorstander is van mercantilisme blijkt uit zijn opmerking dat hij wil dat thee uit Holland wordt uitgesloten / dat de consumptie/verkoop van thee van de EIC wordt aangemoedigd.\n• De onafhankelijkheidsverklaring/het uitroepen van de Verenigde Staten (in 1776) kan met deze brief worden verklaard,\n• omdat Hutchinson beschrijft (een van de volgende):\n  − dat in de Raad oppositie tegen het Britse bestuur plaatsvindt.\n  − dat hij denkt dat het verzet ook in de afgelegen delen van de provincie plaatsvindt.\n  − dat de inwoners van Boston en omstreken geen boodschap hebben aan/niet bang zijn voor de gevolgen van het verzet.\n  − dat hij blij zal zijn als er een manier gevonden zal worden om het Britse gezag te handhaven.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Dat Hutchinson een voorstander is van mercantilisme blijkt uit zijn opmerking dat hij wil dat thee uit Holland wordt uitgesloten / dat de consumptie/verkoop van thee van de EIC wordt aangemoedigd."
+     },
+     {
+      "points": 1,
+      "description": "De onafhankelijkheidsverklaring/het uitroepen van de Verenigde Staten (in 1776) kan met deze brief worden verklaard,"
+     },
+     {
+      "points": 1,
+      "description": "omdat Hutchinson beschrijft (een van de volgende): dat in de Raad oppositie tegen het Britse bestuur plaatsvindt.; dat hij denkt dat het verzet ook in de afgelegen delen van de provincie plaatsvindt.; dat de inwoners van Boston en omstreken geen boodschap hebben aan/niet bang zijn voor de gevolgen van het verzet.; dat hij blij zal zijn als er een manier gevonden zal worden om het Britse gezag te handhaven."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de tweede deelvraag een juiste historische gebeurtenis bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-verlichting-1650-1900-antw11.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 - 1900",
+    "question_number": 12,
+    "answer_text": "Kern van een juist antwoord is:\nRobespierre wilde Rousseaus idee over directe democratie/de algemene wil/volkssoevereiniteit vormgeven (omdat door de publieke tribune deze wil van het volk gehoord kon worden / het volk goedkeuring/afkeuring kon laten blijken over kwesties die in het parlement aan de orde kwamen).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Robespierre wilde Rousseaus idee over directe democratie/de algemene wil/volkssoevereiniteit vormgeven (omdat door de publieke tribune deze wil van het volk gehoord kon worden / het volk goedkeuring/afkeuring kon laten blijken over kwesties die in het parlement aan de orde kwamen)."
+     }
+    ],
+    "grading_note": "Als bij het antwoord alleen wordt ingegaan op gelijkheid (zonder het noemen van de directe democratie/algemene wil/volkssoevereiniteit), wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-verlichting-1650-1900-antw12.png"
+    ]
+   },
+   {
+    "title": "Door de tijd heen",
+    "question_number": 13,
+    "answer_text": "De juiste volgorde is:\n6, 4, 1, 3, 5, 2",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 6, 4, 1, 3, 5, 2"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-door-de-tijd-heen-antw13.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 - 1900",
+    "question_number": 14,
+    "answer_text": "Voorbeeld van een juist antwoord is:\na. Door de verkorte arbeidstijd zouden vrouwen minder in staat zijn in hun eigen onderhoud te voorzien / meer afhankelijk zijn van het inkomen van hun man (zodat de Arbeidswet de verder emancipatie van vrouwen hinderde).\nb. In 1889 hadden alleen mannen kiesrecht en volgens Drucker bewees de aanname van de Arbeidswet dat mannen wetten aannamen die de verdere emancipatie van vrouwen hinderden / was vrouwenkiesrecht nodig om ervoor te zorgen dat er wetten zouden worden aangenomen die de emancipatie van de vrouw wel zouden bevorderen (zodat er vrouwenkiesrecht moest komen).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de verkorte arbeidstijd zouden vrouwen minder in staat zijn in hun eigen onderhoud te voorzien / meer afhankelijk zijn van het inkomen van hun man (zodat de Arbeidswet de verder emancipatie van vrouwen hinderde)."
+     }
+    ],
+    "grading_note": "Als bij het antwoord op de eerste deelvraag wordt ingegaan op de ontstane ongelijkheid tussen mannen en vrouwen, wordt geen scorepunt toegekend (omdat beantwoord moet worden op welke wijze de Arbeidswet de verdere emancipatie van vrouwen hinderde).\n⚠️ CONTROLEREN: maximumscore 2, maar in het correctievoorschrift staat alleen bij a. een scorepunt (1); bij b. ontbreekt het scorepunt.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-verlichting-1650-1900-antw14.png"
+    ]
+   },
+   {
+    "title": "Verlichting 1650 - 1900",
+    "question_number": 15,
+    "answer_text": "Kern van een juist antwoord is:\na. Domela Nieuwenhuis keert zich tegen de sociaaldemocraten,\nb. door te schrijven dat (een van de volgende):\n  i. arbeiders niet de speelbal moeten worden voor deze of gene politieke partij.\n  ii. de bevrijding van de arbeiders niet door een politieke partij moet gebeuren die hen (als schapen) naar de stembus leidt.\n  iii. de bevrijding van de arbeiders door middel van revolutie / niet via de stembus moet worden bereikt.\nc. De opvatting past bij het anarchisme (omdat Domela Nieuwenhuis vindt dat stakers/arbeiders het recht hebben de wet te overtreden om hun doel te bereiken / de spoorwegen mogen saboteren).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Domela Nieuwenhuis keert zich tegen de sociaaldemocraten,"
+     },
+     {
+      "points": 1,
+      "description": "door te schrijven dat (een van de volgende): arbeiders niet de speelbal moeten worden voor deze of gene politieke partij.; de bevrijding van de arbeiders niet door een politieke partij moet gebeuren die hen (als schapen) naar de stembus leidt.; de bevrijding van de arbeiders door middel van revolutie / niet via de stembus moet worden bereikt."
+     },
+     {
+      "points": 1,
+      "description": "De opvatting past bij het anarchisme (omdat Domela Nieuwenhuis vindt dat stakers/arbeiders het recht hebben de wet te overtreden om hun doel te bereiken / de spoorwegen mogen saboteren)."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juiste socialistische richting bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-verlichting-1650-1900-antw15.png"
+    ]
+   },
+   {
+    "title": "China 1842 - 2001",
+    "question_number": 16,
+    "answer_text": "Voorbeeld van een juist antwoord:\n• De boodschap die overgebracht kan worden is dat de Duitsers bijdragen aan de modernisering van China / dat de Duitse cultuur superieur is aan de Chinese cultuur / dat de Duitsers controle hebben over (een deel van) China,\n• door de foto van (een van de volgende):\n  − Chinese kinderen die onderwezen worden door een Duitse leraar.\n  − Chinese kinderen die onderwezen worden in het Duits.\n  − De scheikundige/rekenkundige instructie op het schoolbord.\n• Het politieke doel dat hiermee nagestreefd wordt, is de legitimering van de Duitse kolonisatie (door te laten zien dat Chinezen ervan profiteren) / het versterken van de controle over de kolonie door het opleiden van Chinezen (die kunnen worden ingezet voor het Duitse bestuur).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De boodschap die overgebracht kan worden is dat de Duitsers bijdragen aan de modernisering van China / dat de Duitse cultuur superieur is aan de Chinese cultuur / dat de Duitsers controle hebben over (een deel van) China,"
+     },
+     {
+      "points": 1,
+      "description": "door de foto van (een van de volgende): Chinese kinderen die onderwezen worden door een Duitse leraar.; Chinese kinderen die onderwezen worden in het Duits.; De scheikundige/rekenkundige instructie op het schoolbord."
+     },
+     {
+      "points": 1,
+      "description": "Het politieke doel dat hiermee nagestreefd wordt, is de legitimering van de Duitse kolonisatie (door te laten zien dat Chinezen ervan profiteren) / het versterken van de controle over de kolonie door het opleiden van Chinezen (die kunnen worden ingezet voor het Duitse bestuur)."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juiste boodschap bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-china-1842-2001-antw16.png"
+    ]
+   },
+   {
+    "title": "China 1842 - 2001",
+    "question_number": 17,
+    "answer_text": "• De zelfversterkingsbeweging wilde door te leren van westerse technologie en denkbeelden China hervormen/moderniseren (zodat een school waar leerlingen werden onderwezen in westerse vakken bij dat uitgangspunt leek te passen).\n• De zelfversterkingsbeweging wilde dat China niet langer onder de invloed van westerse landen zou staan/dat China weer geheel onafhankelijk zou zijn zodat het bestaan van Duitse scholen in China/een Duitse kolonie werd afgewezen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De zelfversterkingsbeweging wilde door te leren van westerse technologie en denkbeelden China hervormen/moderniseren (zodat een school waar leerlingen werden onderwezen in westerse vakken bij dat uitgangspunt leek te passen)."
+     },
+     {
+      "points": 1,
+      "description": "De zelfversterkingsbeweging wilde dat China niet langer onder de invloed van westerse landen zou staan/dat China weer geheel onafhankelijk zou zijn zodat het bestaan van Duitse scholen in China/een Duitse kolonie werd afgewezen."
+     }
+    ],
+    "grading_note": "⚠️ CONTROLEREN: maximumscore 3, maar het correctievoorschrift vermeldt slechts 2 deelpunten van 1 scorepunt.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-china-1842-2001-antw17.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 18,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De bron bevat minder betrouwbare informatie voor het eerste hoofdstuk, omdat Himmler de opening van het concentratiekamp wil legitimeren / omdat de nationaalsocialisten de communisten beschouwen als vijanden, zodat Himmler mogelijk de dreiging van de communistische politici / van het gedrag van communisten voor de veiligheid overdrijft.\n• De bron bevat meer betrouwbare informatie voor het tweede hoofdstuk, omdat Himmler een leider/beleidsmaker van de nationaalsocialisten is / omdat de nationaalsocialisten deze toespraak in de Duitse kranten laten drukken, waarmee aan te tonen valt dat de nationaalsocialisten terreur/ intimidatie gebruiken om politieke tegenstanders uit de samenleving te weren (wat een kenmerk is van een totalitaire staat).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De bron bevat minder betrouwbare informatie voor het eerste hoofdstuk, omdat Himmler de opening van het concentratiekamp wil legitimeren / omdat de nationaalsocialisten de communisten beschouwen als vijanden, zodat Himmler mogelijk de dreiging van de communistische politici / van het gedrag van communisten voor de veiligheid overdrijft."
+     },
+     {
+      "points": 1,
+      "description": "De bron bevat meer betrouwbare informatie voor het tweede hoofdstuk, omdat Himmler een leider/beleidsmaker van de nationaalsocialisten is / omdat de nationaalsocialisten deze toespraak in de Duitse kranten laten drukken, waarmee aan te tonen valt dat de nationaalsocialisten terreur/ intimidatie gebruiken om politieke tegenstanders uit de samenleving te weren (wat een kenmerk is van een totalitaire staat)."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een combinatie bevat van een juiste uitleg waardoor de beschrijving minder/meer betrouwbare informatie bevat en een daarbij passende verwijzing naar de bron, wordt telkens 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-duitsland-in-europa-1918-1991-antw18.png"
+    ]
+   },
+   {
+    "title": "China 1842 - 2001",
+    "question_number": 19,
+    "answer_text": "Kern van een juist antwoord is:\na. In 1943 hield Japan grote delen van China bezet / was er oorlog tussen Japan en China,\nb. waardoor Japan met deze film (waarin wordt aangekondigd dat de Britten zullen worden gestraft / over de wreedheden van de Britten) wilde bereiken dat Chinezen de Japanse bezetting zouden accepteren / de Chinezen wilde overtuigen dat de Japanse bezetting beter was dan die van de Britten / de Chinezen wilde overtuigen mee te strijden tegen de geallieerden.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In 1943 hield Japan grote delen van China bezet / was er oorlog tussen Japan en China,"
+     },
+     {
+      "points": 1,
+      "description": "waardoor Japan met deze film (waarin wordt aangekondigd dat de Britten zullen worden gestraft / over de wreedheden van de Britten) wilde bereiken dat Chinezen de Japanse bezetting zouden accepteren / de Chinezen wilde overtuigen dat de Japanse bezetting beter was dan die van de Britten / de Chinezen wilde overtuigen mee te strijden tegen de geallieerden."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-china-1842-2001-antw19.png"
+    ]
+   },
+   {
+    "title": "Moderne tijd",
+    "question_number": 20,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De foto moet de boodschap verspreiden dat de arrestatie zonder geweld verliep / dat het Nederlandse leger Soekarno goed behandelde,\n• waardoor ze deze foto kiezen waarop (een van de volgende):\n  − Soekarno lacht/er ontspannen uitziet.\n  − geen soldaten/wapens/boeien te zien zijn.\n• Door de instructie geven de foto's een minder betrouwbaar beeld van de situatie in Indonesië / gaan de fotografen censuur toepassen, omdat de fotografen begrijpen dat ze niet mogen laten zien dat het Nederlandse leger hard optreedt / dat ze een gunstig beeld moeten laten zien van het Nederlandse leger (en dus alleen gunstige zaken fotograferen).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De foto moet de boodschap verspreiden dat de arrestatie zonder geweld verliep / dat het Nederlandse leger Soekarno goed behandelde,"
+     },
+     {
+      "points": 1,
+      "description": "waardoor ze deze foto kiezen waarop (een van de volgende): Soekarno lacht/er ontspannen uitziet.; geen soldaten/wapens/boeien te zien zijn."
+     },
+     {
+      "points": 1,
+      "description": "Door de instructie geven de foto's een minder betrouwbaar beeld van de situatie in Indonesië / gaan de fotografen censuur toepassen, omdat de fotografen begrijpen dat ze niet mogen laten zien dat het Nederlandse leger hard optreedt / dat ze een gunstig beeld moeten laten zien van het Nederlandse leger (en dus alleen gunstige zaken fotograferen)."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juiste boodschap bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de foto.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-moderne-tijd-antw20.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 21,
+    "answer_text": "Kern van een juist antwoord is:\na. Na de (mislukte) opstand in de DDR in 1953 vluchtten DDR-burgers uit angst voor het gewelddadig neerslaan van de opstand / werden de politieke en economische vrijheden in de DDR ingeperkt / nam de strenge controle door de Staatssicherheitsdienst toe (waardoor veel burgers uit DDR naar West-Berlijn vertrokken).\nb. Door de bouw van de Berlijnse Muur in 1961 werd Oost-Berlijn/de DDR afgesloten van West-Berlijn / konden er nauwelijks nog Oost-Duitsers naar het Westen vertrekken.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Na de (mislukte) opstand in de DDR in 1953 vluchtten DDR-burgers uit angst voor het gewelddadig neerslaan van de opstand / werden de politieke en economische vrijheden in de DDR ingeperkt / nam de strenge controle door de Staatssicherheitsdienst toe (waardoor veel burgers uit DDR naar West-Berlijn vertrokken)."
+     },
+     {
+      "points": 1,
+      "description": "Door de bouw van de Berlijnse Muur in 1961 werd Oost-Berlijn/de DDR afgesloten van West-Berlijn / konden er nauwelijks nog Oost-Duitsers naar het Westen vertrekken."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een combinatie bevat van een verwijzing naar de opstand in 1953/de bouw van de Berlijnse Muur in 1961 en een daarbij passende verklaring, wordt telkens 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-duitsland-in-europa-1918-1991-antw21.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 22,
+    "answer_text": "Voorbeeld van een juist antwoord is:\na. De regering van de DDR kan met dit pamflet de boodschap overbrengen dat het voor burgers aantrekkelijker is te leven in de DDR / dat het leven in het Westen niet aantrekkelijk is:\nb. door in het pamflet te schrijven dat (een van de volgende):\n  i. etalages met mooie dingen/elegante mensen/chique auto's geen paradijs maken.\n  ii. het Westen misbruik maakt van arbeiders/vluchtelingen om de lonen laag te houden.\n  iii. de mensen die terugkomen allemaal de weg naar een zinvol, eerlijk en mooi leven hebben teruggevonden.\n  iv. de regering van de Duitse Democratische Republiek helpt bij de opbouw van een zeker bestaan.\nc. De regering van de BRD kan dit pamflet gebruiken om aan te tonen dat de regering van de DDR haar burgers ophitst / bezig is de ideologische kloof tussen BRD en DDR te vergroten,\nd. omdat in het pamflet staat dat (een van de volgende):\n  i. West-Duitse politici gebruikmaken van de wanhoop van vluchtelingen om lonen laag te houden.\n  ii. arbeiders uit de DDR moeten oppassen dat ze niet worden misbruikt door de BRD.\nof\n• De regering van de BRD kan dit pamflet gebruiken in haar propaganda om aan te tonen dat de regering van de DDR wanhopig is door het vertrek van de burgers,\n• omdat de regering van de DDR met een pamflet DDR-burgers overhaalt terug te keren / hulp aanbiedt om een zeker bestaan op te bouwen in de DDR.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De regering van de DDR kan met dit pamflet de boodschap overbrengen dat het voor burgers aantrekkelijker is te leven in de DDR / dat het leven in het Westen niet aantrekkelijk is:"
+     },
+     {
+      "points": 1,
+      "description": "door in het pamflet te schrijven dat (een van de volgende): etalages met mooie dingen/elegante mensen/chique auto's geen paradijs maken.; het Westen misbruik maakt van arbeiders/vluchtelingen om de lonen laag te houden.; de mensen die terugkomen allemaal de weg naar een zinvol, eerlijk en mooi leven hebben teruggevonden.; de regering van de Duitse Democratische Republiek helpt bij de opbouw van een zeker bestaan."
+     },
+     {
+      "points": 1,
+      "description": "De regering van de BRD kan dit pamflet gebruiken om aan te tonen dat de regering van de DDR haar burgers ophitst / bezig is de ideologische kloof tussen BRD en DDR te vergroten, of: De regering van de BRD kan dit pamflet gebruiken in haar propaganda om aan te tonen dat de regering van de DDR wanhopig is door het vertrek van de burgers,"
+     },
+     {
+      "points": 1,
+      "description": "omdat in het pamflet staat dat (een van de volgende): West-Duitse politici gebruikmaken van de wanhoop van vluchtelingen om lonen laag te houden.; arbeiders uit de DDR moeten oppassen dat ze niet worden misbruikt door de BRD. of: omdat de regering van de DDR met een pamflet DDR-burgers overhaalt terug te keren / hulp aanbiedt om een zeker bestaan op te bouwen in de DDR."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een juiste propagandaboodschap bevat van de BRD en de DDR, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.\nAls het antwoord bij beide propagandaboodschappen dezelfde verwijzing naar de bron bevat, wordt alleen 1 scorepunt toegekend aan de eerste verwijzing.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-duitsland-in-europa-1918-1991-antw22.png"
+    ]
+   },
+   {
+    "title": "China 1842 - 2001",
+    "question_number": 23,
+    "answer_text": "Voorbeeld van een juist antwoord is:\na. Peng Duhai schrijft over (de problemen tijdens) de Grote Sprong Voorwaarts.\nb. In 1966 begint de Culturele Revolutie / de periode waarin Mao wordt verheerlijkt / de periode waarin politieke tegenstanders worden weggezuiverd,\nc. zodat de brief waarin Peng Duhai kritiek levert op de Grote Sprong Voorwaarts / aan Mao schrijft dat er niet goed is nagedacht, kan hebben bijgedragen aan zijn arrestatie.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Peng Duhai schrijft over (de problemen tijdens) de Grote Sprong Voorwaarts."
+     },
+     {
+      "points": 1,
+      "description": "In 1966 begint de Culturele Revolutie / de periode waarin Mao wordt verheerlijkt / de periode waarin politieke tegenstanders worden weggezuiverd,"
+     },
+     {
+      "points": 1,
+      "description": "zodat de brief waarin Peng Duhai kritiek levert op de Grote Sprong Voorwaarts / aan Mao schrijft dat er niet goed is nagedacht, kan hebben bijgedragen aan zijn arrestatie."
+     }
+    ],
+    "grading_note": "Alleen als bij het antwoord op de tweede deelvraag de Culturele Revolutie/de Mao-verering/zuivering van politieke tegenstanders wordt genoemd, wordt 1 scorepunt toegekend aan een daarbij passende uitleg over de arrestatie van Peng Duhai.\n⚠️ CONTROLEREN: maximumscore 2, maar het correctievoorschrift vermeldt 3 deelpunten van 1 scorepunt.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-china-1842-2001-antw23.png"
+    ]
+   },
+   {
+    "title": "China 1842 - 2001",
+    "question_number": 24,
+    "answer_text": "Voorbeeld van een juist antwoord is:\na. Door het publiceren van de brief wilde de leiding van de CCP (na de dood van Mao) een einde maken aan de persoonsverheerlijking van Mao / de Culturele Revolutie / laten zien dat zij wilde moderniseren (waarmee de positie werd versterkt).\nb. Door het publiceren van een brief met kritiek op het beleid van Mao werd ten onrechte de verwachting gewekt dat er ruimte was voor kritiek op de CCP / op de huidige leiding van de CCP (terwijl politieke modernisering niet tot het beleid van Deng Xiaoping hoorde).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door het publiceren van de brief wilde de leiding van de CCP (na de dood van Mao) een einde maken aan de persoonsverheerlijking van Mao / de Culturele Revolutie / laten zien dat zij wilde moderniseren (waarmee de positie werd versterkt)."
+     },
+     {
+      "points": 1,
+      "description": "Door het publiceren van een brief met kritiek op het beleid van Mao werd ten onrechte de verwachting gewekt dat er ruimte was voor kritiek op de CCP / op de huidige leiding van de CCP (terwijl politieke modernisering niet tot het beleid van Deng Xiaoping hoorde)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-china-1842-2001-antw24.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa 1918 - 1991",
+    "question_number": 25,
+    "answer_text": "Voorbeeld van een juist antwoord is:\na. Volgens Haitzinger wordt de integratie van de voormalige DDR bemoeilijkt door economische ongelijkheid / de armoede van de DDR, (door af te beelden dat de DDR dunner is dan de BRD/bloed nodig heeft van de BRD).\nb. De visie die Haitzinger weergeeft is dat het beleid van Kohl niet leidt tot een gelijkwaardige hereniging van Oost- en West-Duitsland / West-Duitsland verzwakt,\nc. door af te beelden (een van de volgende):\n  i. dat (eigen) belastinggeld uit West-Duitsland wordt gebruikt om Oost-Duitsland te versterken.\n  ii. dat het bloed dat Oost-Duitsland moet versterken uit hetzelfde lichaam komt.\n  iii. dat er een zichtbaar litteken overblijft op Duitsland.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Volgens Haitzinger wordt de integratie van de voormalige DDR bemoeilijkt door economische ongelijkheid / de armoede van de DDR, (door af te beelden dat de DDR dunner is dan de BRD/bloed nodig heeft van de BRD)."
+     },
+     {
+      "points": 1,
+      "description": "De visie die Haitzinger weergeeft is dat het beleid van Kohl niet leidt tot een gelijkwaardige hereniging van Oost- en West-Duitsland / West-Duitsland verzwakt,"
+     },
+     {
+      "points": 1,
+      "description": "door af te beelden (een van de volgende): dat (eigen) belastinggeld uit West-Duitsland wordt gebruikt om Oost-Duitsland te versterken.; dat het bloed dat Oost-Duitsland moet versterken uit hetzelfde lichaam komt.; dat er een zichtbaar litteken overblijft op Duitsland."
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de tweede deelvraag een juist voorbeeld van kritiek van Haitzinger bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.\n⚠️ CONTROLEREN: maximumscore 4, maar het correctievoorschrift vermeldt slechts 3 deelpunten van 1 scorepunt.",
+    "answer_image_urls": [
+     "geschiedenis-vwo-2026-i-duitsland-in-europa-1918-1991-antw25.png"
+    ]
+   }
+  ]
+ }
+}
