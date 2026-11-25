@@ -1,0 +1,531 @@
+{
+ "payload": {
+  "subject_name": "Geschiedenis",
+  "level": "HAVO",
+  "source": "HAVO Geschiedenis 2022-II",
+  "answers": [
+   {
+    "title": "Door de tijd heen",
+    "question_number": 1,
+    "answer_text": "De juiste volgorde is:\n5, 6, 1, 4, 2, 3",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 5, 6, 1, 4, 2, 3"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, mag 1 scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-door-de-tijd-heen-antw1.png"
+    ]
+   },
+   {
+    "title": "Ontdekkers en Hervormers",
+    "question_number": 2,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nPalladio's werkwijze past bij de Renaissancetijd:\n• omdat hij geïnspireerd wordt door zuilen/gebouwen uit de Oudheid / de klassieke vormentaal gebruikt voor zijn ontwerpen\n• wat past bij 'de hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid'\n• omdat hij metingen verricht / de overblijfselen/de verhoudingen van klassieke gebouwen onderzoekt\n• wat past bij 'het ontstaan van de nieuwe wetenschappelijke belangstelling'",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "omdat hij geïnspireerd wordt door zuilen/gebouwen uit de Oudheid / de klassieke vormentaal gebruikt voor zijn ontwerpen"
+     },
+     {
+      "points": 1,
+      "description": "wat past bij 'de hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid'"
+     },
+     {
+      "points": 1,
+      "description": "omdat hij metingen verricht / de overblijfselen/de verhoudingen van klassieke gebouwen onderzoekt"
+     },
+     {
+      "points": 1,
+      "description": "wat past bij 'het ontstaan van de nieuwe wetenschappelijke belangstelling'"
+     }
+    ],
+    "grading_note": "Alleen als een juist voorbeeld van een werkwijze die past bij de Renaissancetijd wordt genoemd, wordt telkens 1 scorepunt toegekend aan een daarbij passend kenmerkend aspect.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-ontdekkers-en-hervormers-antw2.png"
+    ]
+   },
+   {
+    "title": "Ontdekkers en Hervormers",
+    "question_number": 3,
+    "answer_text": "Kern van een juist antwoord is:\n• Het gegeven dat Wingfield volgens het anglicaanse geloof werd opgevoed, past bij 'de protestantse reformatie die splitsing van de christelijke kerk in West-Europa tot gevolg had'\n• Het gegeven dat Wingfield vocht voor de Republiek, past bij 'het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat'\n• Het gegeven dat Wingfield naar Amerika vertrok om een kolonie te stichten, past bij 'het begin van de Europese overzeese expansie'",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het gegeven dat Wingfield volgens het anglicaanse geloof werd opgevoed, past bij 'de protestantse reformatie die splitsing van de christelijke kerk in West-Europa tot gevolg had'"
+     },
+     {
+      "points": 1,
+      "description": "Het gegeven dat Wingfield vocht voor de Republiek, past bij 'het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat'"
+     },
+     {
+      "points": 1,
+      "description": "Het gegeven dat Wingfield naar Amerika vertrok om een kolonie te stichten, past bij 'het begin van de Europese overzeese expansie'"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-ontdekkers-en-hervormers-antw3.png"
+    ]
+   },
+   {
+    "title": "Het Britse Rijk",
+    "question_number": 4,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• John Smith beschrijft dat Wingfield te streng/hard optreedt / bepaalde kolonisten voortrekt / voorraden alleen deelt met zijn getrouwen, waardoor de kolonisten ontevreden worden / de veiligheid van de kolonie in gevaar is (wat leidt tot het afzetten van Wingfield)\n• De bron is een persoonlijke brief aan een vriend, zodat Smith geen reden heeft de situatie/de gebeurtenissen in Chesapeake Bay anders voor te stellen",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "John Smith beschrijft dat Wingfield te streng/hard optreedt / bepaalde kolonisten voortrekt / voorraden alleen deelt met zijn getrouwen, waardoor de kolonisten ontevreden worden / de veiligheid van de kolonie in gevaar is (wat leidt tot het afzetten van Wingfield)"
+     },
+     {
+      "points": 1,
+      "description": "De bron is een persoonlijke brief aan een vriend, zodat Smith geen reden heeft de situatie/de gebeurtenissen in Chesapeake Bay anders voor te stellen"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord bij de eerste deelvraag een combinatie bevat van een juiste verklaring voor het afzetten van Wingfield met een verwijzing naar de brief, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-het-britse-rijk-antw4.png"
+    ]
+   },
+   {
+    "title": "Regenten en Vorsten",
+    "question_number": 5,
+    "answer_text": "Kern van een juist antwoord is:\n• Door deze aanvallen moest de handel in slaafgemaakten/de trans-Atlantische handel in Nederlandse handen komen\n• De aanvallen moesten de stichting van een Nederlandse staat ondersteunen omdat (een van de volgende):\n− door de opbrengst uit de veroverde gebieden/handelsstromen de Republiek meer geld kon besteden aan de bewapening tegen de Spanjaarden.\n− door deze aanvallen de Spanjaarden financieel werden getroffen, zodat zij minder legers konden inzetten tegen de Republiek.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door deze aanvallen moest de handel in slaafgemaakten/de trans-Atlantische handel in Nederlandse handen komen"
+     },
+     {
+      "points": 1,
+      "description": "De aanvallen moesten de stichting van een Nederlandse staat ondersteunen omdat (een van de volgende): door de opbrengst uit de veroverde gebieden/handelsstromen de Republiek meer geld kon besteden aan de bewapening tegen de Spanjaarden; door deze aanvallen de Spanjaarden financieel werden getroffen, zodat zij minder legers konden inzetten tegen de Republiek"
+     }
+    ],
+    "grading_note": "Alleen als bij de tweede deelvraag wordt ingegaan op strijd tussen de Republiek en Spanje, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-regenten-en-vorsten-antw5.png"
+    ]
+   },
+   {
+    "title": "Regenten en Vorsten",
+    "question_number": 6,
+    "answer_text": "Kern van een juist antwoord is:\n• Door het onderzoek van De Bondt werden minder werknemers van de VOC uitgeschakeld door ziekte / konden meer gezonde werknemers (in India) meer werk verzetten\n• wat 'de wereldwijde handelscontacten en het begin van een wereldeconomie' / 'de bloei in economisch opzicht van de Nederlandse Republiek' bevorderde (zodat het bestuur van de VOC het onderzoek noodzakelijk vond)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door het onderzoek van De Bondt werden minder werknemers van de VOC uitgeschakeld door ziekte / konden meer gezonde werknemers (in India) meer werk verzetten"
+     },
+     {
+      "points": 1,
+      "description": "wat 'de wereldwijde handelscontacten en het begin van een wereldeconomie' / 'de bloei in economisch opzicht van de Nederlandse Republiek' bevorderde (zodat het bestuur van de VOC het onderzoek noodzakelijk vond)"
+     }
+    ],
+    "grading_note": "Als het kenmerkend aspect 'de wetenschappelijke revolutie' wordt genoemd, wordt geen scorepunt toegekend (omdat dit voorbijgaat aan het belang van het bestuur van de VOC).",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-regenten-en-vorsten-antw6.png"
+    ]
+   },
+   {
+    "title": "Het Britse Rijk",
+    "question_number": 7,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De East India Company mocht eerst alleen vanuit factorijen werken / was voor de veiligheid afhankelijk van lokale heersers, maar kreeg nu meer autonomie / kon nu haar handelspositie verdedigen door het recht zich in het binnenland te vestigen / een fort te versterken / soldaten te legeren\n• Met het verdrag van Allahabad kreeg de East India Company ook toestemming belasting te heffen / politieke soevereiniteit in delen van India",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De East India Company mocht eerst alleen vanuit factorijen werken / was voor de veiligheid afhankelijk van lokale heersers, maar kreeg nu meer autonomie / kon nu haar handelspositie verdedigen door het recht zich in het binnenland te vestigen / een fort te versterken / soldaten te legeren"
+     },
+     {
+      "points": 1,
+      "description": "Met het verdrag van Allahabad kreeg de East India Company ook toestemming belasting te heffen / politieke soevereiniteit in delen van India"
+     }
+    ],
+    "grading_note": "Alleen als in het antwoord op de eerste deelvraag wordt ingegaan op de positie van de East India Company voor én na 1717, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-het-britse-rijk-antw7.png"
+    ]
+   },
+   {
+    "title": "Pruiken en Revoluties",
+    "question_number": 8,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Daendels roept burgers op de strijd aan te gaan om ervoor te zorgen dat ze gelijkheid krijgen / dat afkomst niet langer bepaalt wie de macht heeft / de voorrechten van de adel verdwijnen (wat past bij een democratische revolutie)\n• door te schrijven dat (een van de volgende):\n− burgers zich moeten bevrijden uit de slavernij.\n− de machthebbers beulen/bloedzuigers zijn.\n− 'gewone' jongens de wapens moeten opnemen tegen de (adellijke) machthebbers.\n− officieren op de vlucht zullen slaan voor boerenjongens.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Daendels roept burgers op de strijd aan te gaan om ervoor te zorgen dat ze gelijkheid krijgen / dat afkomst niet langer bepaalt wie de macht heeft / de voorrechten van de adel verdwijnen (wat past bij een democratische revolutie)"
+     },
+     {
+      "points": 1,
+      "description": "door te schrijven dat (een van de volgende): burgers zich moeten bevrijden uit de slavernij; de machthebbers beulen/bloedzuigers zijn; 'gewone' jongens de wapens moeten opnemen tegen de (adellijke) machthebbers; officieren op de vlucht zullen slaan voor boerenjongens"
+     }
+    ],
+    "grading_note": "Alleen als een juiste uitleg wordt gegeven van de oproep tot een democratische revolutie, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-pruiken-en-revoluties-antw8.png"
+    ]
+   },
+   {
+    "title": "Door de tijd heen",
+    "question_number": 9,
+    "answer_text": "De juiste volgorde is:\n3, 6, 4, 5, 2, 1",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste volgorde is: 3, 6, 4, 5, 2, 1"
+     }
+    ],
+    "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-door-de-tijd-heen-antw9.png"
+    ]
+   },
+   {
+    "title": "Het Britse Rijk",
+    "question_number": 10,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• De opstellers erkennen door de petitie te sturen de bevoegdheid van de gouverneur-generaal / geven aan dat het probleem ligt bij de afvallige Hindoes en niet bij het Britse bestuur / benadrukken dat Sati een religieus gebruik is (zodat het geen bestuurlijke aangelegenheid is)\n• door te schrijven dat (een van de volgende):\n− zij eerbiedig de kwestie voorleggen.\n− de Britten vals zijn voorgelicht over hoe over Sati wordt gedacht onder de Hindoes in India.\n− alleen pundits/brahmanen zich mogen uitspreken over de interpretatie van de heilige boeken/gebruiken.\n• De opstellers van de petitie zijn van mening dat Indiërs die zich door de Britten laten beïnvloeden geen echte Hindoes meer zijn / zich niet mogen bemoeien met het geloof van de andere Hindoes\n• door te schrijven dat (een van de volgende):\n− Hindoes zichzelf vervuilen met een Europese levensstijl.\n− eten en drinken uit de Europese samenleving verboden is.\n− alleen pundits/brahmanen zich mogen uitspreken over de interpretatie van de heilige boeken/gebruiken.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De opstellers erkennen door de petitie te sturen de bevoegdheid van de gouverneur-generaal / geven aan dat het probleem ligt bij de afvallige Hindoes en niet bij het Britse bestuur / benadrukken dat Sati een religieus gebruik is (zodat het geen bestuurlijke aangelegenheid is)"
+     },
+     {
+      "points": 1,
+      "description": "door te schrijven dat (een van de volgende): zij eerbiedig de kwestie voorleggen; de Britten vals zijn voorgelicht over hoe over Sati wordt gedacht onder de Hindoes in India; alleen pundits/brahmanen zich mogen uitspreken over de interpretatie van de heilige boeken/gebruiken"
+     },
+     {
+      "points": 1,
+      "description": "De opstellers van de petitie zijn van mening dat Indiërs die zich door de Britten laten beïnvloeden geen echte Hindoes meer zijn / zich niet mogen bemoeien met het geloof van de andere Hindoes"
+     },
+     {
+      "points": 1,
+      "description": "door te schrijven dat (een van de volgende): Hindoes zichzelf vervuilen met een Europese levensstijl; eten en drinken uit de Europese samenleving verboden is; alleen pundits/brahmanen zich mogen uitspreken over de interpretatie van de heilige boeken/gebruiken"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord een juiste uitleg bevat over (bij de eerste deelvraag) het accepteren van het Britse bestuurlijke gezag en (bij de tweede deelvraag) het verzetten tegen Britse beïnvloeding, wordt telkens 1 scorepunt toegekend aan een passende verwijzing naar de bron.\nAls bij beide deelvragen dezelfde verwijzing naar de bron wordt genoemd, wordt alleen aan de eerste verwijzing 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-het-britse-rijk-antw10.png"
+    ]
+   },
+   {
+    "title": "Het Britse Rijk",
+    "question_number": 11,
+    "answer_text": "Een voorbeeld van een juist antwoord is:\n• Officiële verslagen over/inspecties van de (werk)omstandigheden in de fabrieken zorgen ervoor dat eigenaren niet onder de uitvoering van de Factory Acts kunnen uitkomen / dat de verbeteringen die worden voorgeschreven door de Factory Acts ook daadwerkelijk worden doorgevoerd\n• De informatie kan als betrouwbaar worden beschouwd, omdat liegen tegen een officiële inspecteur bestraft zou worden / omdat de verslagen worden opgesteld door inspecteurs die objectief moeten blijven/die niet het belang van de fabriekseigenaren dienen\n• In de brief wordt het standpunt verdedigd dat de invoering van de minder lange werkdagen beter is voor de productie / ervoor zorgt dat de arbeiders niet onnodig worden uitgeput\n• door te zeggen dat (een van de volgende):\n− arbeiders door kortere werkdagen met meer energie en geest werken.\n− arbeiders niet als machines aan het werk kunnen worden gezet.\n− arbeiders (net als paarden) tijd nodig hebben voor rust/voedsel.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Officiële verslagen over/inspecties van de (werk)omstandigheden in de fabrieken zorgen ervoor dat eigenaren niet onder de uitvoering van de Factory Acts kunnen uitkomen / dat de verbeteringen die worden voorgeschreven door de Factory Acts ook daadwerkelijk worden doorgevoerd"
+     },
+     {
+      "points": 1,
+      "description": "De informatie kan als betrouwbaar worden beschouwd, omdat liegen tegen een officiële inspecteur bestraft zou worden / omdat de verslagen worden opgesteld door inspecteurs die objectief moeten blijven/die niet het belang van de fabriekseigenaren dienen"
+     },
+     {
+      "points": 1,
+      "description": "In de brief wordt het standpunt verdedigd dat de invoering van de minder lange werkdagen beter is voor de productie / ervoor zorgt dat de arbeiders niet onnodig worden uitgeput"
+     },
+     {
+      "points": 1,
+      "description": "door te zeggen dat (een van de volgende): arbeiders door kortere werkdagen met meer energie en geest werken; arbeiders niet als machines aan het werk kunnen worden gezet; arbeiders (net als paarden) tijd nodig hebben voor rust/voedsel"
+     }
+    ],
+    "grading_note": "Alleen als het antwoord op de derde deelvraag een juist kapitalistisch standpunt bevat, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-het-britse-rijk-antw11.png"
+    ]
+   },
+   {
+    "title": "Burgers en Stoommachines",
+    "question_number": 12,
+    "answer_text": "Kern van een juist antwoord is:\n• Net als Octavia Hill streefden de socialisten naar het verbeteren van de leefomstandigheden van arbeiders\nDe socialisten hadden kritiek op de uitgangspunten van Hill:\n• omdat zij door de nadruk op christelijke normen en waarden als tegenprestatie niet alle arbeiders hielp / de zelfstandigheid van arbeiders verminderde / omdat het socialisme niet is gebaseerd op godsdienst\n• omdat het afwijzen van grootschalige overheidsprojecten betekende dat arbeiders langer moesten wachten op verbetering van hun huisvesting / betekende dat de rol van de overheid kleiner bleef (terwijl socialisten juist een grotere invloed van de overheid nastreefden)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Net als Octavia Hill streefden de socialisten naar het verbeteren van de leefomstandigheden van arbeiders"
+     },
+     {
+      "points": 1,
+      "description": "De socialisten hadden kritiek op de uitgangspunten van Hill: omdat zij door de nadruk op christelijke normen en waarden als tegenprestatie niet alle arbeiders hielp / de zelfstandigheid van arbeiders verminderde / omdat het socialisme niet is gebaseerd op godsdienst"
+     },
+     {
+      "points": 1,
+      "description": "De socialisten hadden kritiek op de uitgangspunten van Hill: omdat het afwijzen van grootschalige overheidsprojecten betekende dat arbeiders langer moesten wachten op verbetering van hun huisvesting / betekende dat de rol van de overheid kleiner bleef (terwijl socialisten juist een grotere invloed van de overheid nastreefden)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-burgers-en-stoommachines-antw12.png"
+    ]
+   },
+   {
+    "title": "Burgers en Stoommachines",
+    "question_number": 13,
+    "answer_text": "Kern van een juist antwoord is:\nDuitsland wilde Elzas-Lotharingen in bezit nemen vanwege:\n• 'de industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving' (waardoor Duitsland wilde beschikken over de delfstoffen waaraan het gebied rijk was)\n• 'de opkomst van de politiek-maatschappelijke stroming het nationalisme' (waardoor Duitsland het belangrijk vond dat de Duitssprekende bevolking werd opgenomen in een land met hun eigen taal/cultuur / dat door inlijving de machtspositie van Duitsland groter werd)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "'de industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving' (waardoor Duitsland wilde beschikken over de delfstoffen waaraan het gebied rijk was)"
+     },
+     {
+      "points": 1,
+      "description": "'de opkomst van de politiek-maatschappelijke stroming het nationalisme' (waardoor Duitsland het belangrijk vond dat de Duitssprekende bevolking werd opgenomen in een land met hun eigen taal/cultuur / dat door inlijving de machtspositie van Duitsland groter werd)"
+     }
+    ],
+    "grading_note": "Als 'de moderne vorm van imperialisme' wordt genoemd als kenmerkend aspect, wordt geen scorepunt toegekend (omdat het daarbij gaat om een buiten-Europees verschijnsel).",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-burgers-en-stoommachines-antw13.png"
+    ]
+   },
+   {
+    "title": "Burgers en Stoommachines",
+    "question_number": 14,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nUit de herinnering blijkt dat door de voortschrijdende democratisering:\n• katholieke studenten zich gaan organiseren / politiek actief worden, omdat zij steun gaan werven onder de arbeiders die nu mogen gaan stemmen (wat de emancipatie van de katholieken in Nederland bevordert)\nof\n• katholieke arbeiders via huisbezoeken/propaganda worden aangespoord te gaan stemmen, waardoor zij zich bewust worden van hun politieke rechten / waardoor zij in het parlement vertegenwoordigd worden (wat de emancipatie van de katholieken in Nederland bevordert)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Uit de herinnering blijkt dat door de voortschrijdende democratisering: katholieke studenten zich gaan organiseren / politiek actief worden, omdat zij steun gaan werven onder de arbeiders die nu mogen gaan stemmen (wat de emancipatie van de katholieken in Nederland bevordert) of katholieke arbeiders via huisbezoeken/propaganda worden aangespoord te gaan stemmen, waardoor zij zich bewust worden van hun politieke rechten / waardoor zij in het parlement vertegenwoordigd worden (wat de emancipatie van de katholieken in Nederland bevordert)"
+     }
+    ],
+    "grading_note": "Alleen voor een combinatie van een gegeven uit de bron waaruit de voortschrijdende democratisering blijkt en een passende uitleg op welke wijze dit de emancipatie bevordert, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-burgers-en-stoommachines-antw14.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa",
+    "question_number": 15,
+    "answer_text": "De juiste combinaties zijn:\n1 - b, 2 - a, 3 - e, 4 - c",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De juiste combinaties zijn: 1 - b, 2 - a, 3 - e, 4 - c (indien vier combinaties juist: 2; indien drie of twee combinaties juist: 1; indien minder dan twee combinaties juist: 0)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-duitsland-in-europa-antw15.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa",
+    "question_number": 16,
+    "answer_text": "Kern van een juist antwoord is:\nIn het Verdrag van Versailles werd bepaald dat Duitsland herstelbetalingen moest doen, wat bemoeilijkt werd door de teruggave van Elzas-Lotharingen omdat hierdoor delfstoffen voor de industrie wegvielen (waardoor de economie van Duitsland verzwakte).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "In het Verdrag van Versailles werd bepaald dat Duitsland herstelbetalingen moest doen, wat bemoeilijkt werd door de teruggave van Elzas-Lotharingen omdat hierdoor delfstoffen voor de industrie wegvielen (waardoor de economie van Duitsland verzwakte)."
+     }
+    ],
+    "grading_note": "Voor het alleen noemen van de afspraak zonder verband met de teruggave van Elzas-Lotharingen, wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-duitsland-in-europa-antw16.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa",
+    "question_number": 17,
+    "answer_text": "Uit het antwoord moet blijken dat de instructie oproept:\n• kranten te boycotten / kranten te controleren, wat past bij de nationaalsocialistische opvatting dat andere meningen moeten worden bestreden / dat censuur moet worden toegepast / dat een staat totalitair moet worden bestuurd\n• tot haat tegen Joden / de Joden aan te wijzen als niet-Duits, wat past bij de nationaalsocialistische opvatting dat Joden moeten worden buitengesloten / dat alleen Arische Duitsers behoren tot de Volksgemeinschaft",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "kranten te boycotten / kranten te controleren, wat past bij de nationaalsocialistische opvatting dat andere meningen moeten worden bestreden / dat censuur moet worden toegepast / dat een staat totalitair moet worden bestuurd"
+     },
+     {
+      "points": 2,
+      "description": "tot haat tegen Joden / de Joden aan te wijzen als niet-Duits, wat past bij de nationaalsocialistische opvatting dat Joden moeten worden buitengesloten / dat alleen Arische Duitsers behoren tot de Volksgemeinschaft"
+     }
+    ],
+    "grading_note": "Alleen voor een juiste combinatie van een element uit de instructie en een daarbij passende nationaalsocialistische opvatting worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-duitsland-in-europa-antw17.png"
+    ]
+   },
+   {
+    "title": "Tijd van Wereldoorlogen",
+    "question_number": 18,
+    "answer_text": "Kern van een juist antwoord is:\n• Er was in 1932 kritiek op de kosten van de Nederlandse deelname aan de Spelen, omdat veel mensen in Nederland in armoede leefden / de Nederlandse economie zwak was\n• vanwege de gevolgen van 'de crisis van het wereldkapitalisme'\n• Er was in 1936 kritiek op de Nederlandse deelname, omdat die gezien kon worden als (ongewenste) steun aan de totalitaire samenleving/dictatuur/racistische staat van Hitler\n• omdat in Duitsland 'de totalitaire ideologie van het nationaalsocialisme in praktijk' werd gebracht",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er was in 1932 kritiek op de kosten van de Nederlandse deelname aan de Spelen, omdat veel mensen in Nederland in armoede leefden / de Nederlandse economie zwak was"
+     },
+     {
+      "points": 1,
+      "description": "vanwege de gevolgen van 'de crisis van het wereldkapitalisme'"
+     },
+     {
+      "points": 1,
+      "description": "Er was in 1936 kritiek op de Nederlandse deelname, omdat die gezien kon worden als (ongewenste) steun aan de totalitaire samenleving/dictatuur/racistische staat van Hitler"
+     },
+     {
+      "points": 1,
+      "description": "omdat in Duitsland 'de totalitaire ideologie van het nationaalsocialisme in praktijk' werd gebracht"
+     }
+    ],
+    "grading_note": "Alleen als een juist voorbeeld van kritiek wordt genoemd, wordt telkens 1 scorepunt toegekend aan een passend kenmerkend aspect.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-tijd-van-wereldoorlogen-antw18.png"
+    ]
+   },
+   {
+    "title": "Computer en Televisie",
+    "question_number": 19,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Truman wil de uitbreiding van het communisme in Europa tegengaan (door het invoeren van de Trumandoctrine)\n• Truman kan met het verslag (de invoering van) het Marshallplan (of een juiste omschrijving daarvan) ondersteunen\n• omdat uit het verslag blijkt dat ervoor moet worden gezorgd dat de rantsoenen in de Amerikaanse zone niet lager zijn dan in de Russische zone / dat er te weinig te eten is in de Amerikaanse zone (waardoor Duitsers voor het communisme zouden kiezen)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Truman wil de uitbreiding van het communisme in Europa tegengaan (door het invoeren van de Trumandoctrine)"
+     },
+     {
+      "points": 1,
+      "description": "Truman kan met het verslag (de invoering van) het Marshallplan (of een juiste omschrijving daarvan) ondersteunen"
+     },
+     {
+      "points": 1,
+      "description": "omdat uit het verslag blijkt dat ervoor moet worden gezorgd dat de rantsoenen in de Amerikaanse zone niet lager zijn dan in de Russische zone / dat er te weinig te eten is in de Amerikaanse zone (waardoor Duitsers voor het communisme zouden kiezen)"
+     }
+    ],
+    "grading_note": "Alleen als bij de tweede deelvraag in het antwoord de invoering van het Marshallplan (of een juiste omschrijving daarvan) wordt genoemd, wordt 1 scorepunt toegekend aan een juiste verwijzing naar het verslag.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-computer-en-televisie-antw19.png"
+    ]
+   },
+   {
+    "title": "Duitsland in Europa",
+    "question_number": 20,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Jordaan geeft de mening weer dat de regering met haar beleid het Duitse volk/de arbeiders net zo slecht behandelt als de Duitse bezetter dat deed in Nederland / dat het beleid in de DDR totalitair is net als het beleid van de Duitse bezetter in Nederland\n• door af te beelden dat (een van de volgende):\n− het beleid in 1953 in de DDR precies lijkt op het neerslaan van de staking in 1941 door de Duitse bezetter.\n− Ulbricht en Grotewohl zich achter de arm van de Sovjet-Unie verschuilen zoals Mussert zich achter de arm van de Duitse bezetter heeft verscholen.\n• Jordaan geeft de mening weer dat de regering van de DDR zelf niet de macht in handen heeft / afhankelijk is van de Sovjet-Unie\n• door af te beelden dat (een van de volgende):\n− Ulbricht en Grotewohl achter de arm met de hamer en sikkel staan/schuilen.\n− dat de vuist van de Sovjet-Unie de arbeider neerslaat.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Jordaan geeft de mening weer dat de regering met haar beleid het Duitse volk/de arbeiders net zo slecht behandelt als de Duitse bezetter dat deed in Nederland / dat het beleid in de DDR totalitair is net als het beleid van de Duitse bezetter in Nederland"
+     },
+     {
+      "points": 1,
+      "description": "door af te beelden dat (een van de volgende): het beleid in 1953 in de DDR precies lijkt op het neerslaan van de staking in 1941 door de Duitse bezetter; Ulbricht en Grotewohl zich achter de arm van de Sovjet-Unie verschuilen zoals Mussert zich achter de arm van de Duitse bezetter heeft verscholen"
+     },
+     {
+      "points": 1,
+      "description": "Jordaan geeft de mening weer dat de regering van de DDR zelf niet de macht in handen heeft / afhankelijk is van de Sovjet-Unie"
+     },
+     {
+      "points": 1,
+      "description": "door af te beelden dat (een van de volgende): Ulbricht en Grotewohl achter de arm met de hamer en sikkel staan/schuilen; dat de vuist van de Sovjet-Unie de arbeider neerslaat"
+     }
+    ],
+    "grading_note": "Alleen als de mening over (bij de eerste deelvraag) het regeringsbeleid van de DDR en (bij de tweede deelvraag) de machtsverhouding in het Oostblok juist wordt weergegeven, wordt telkens 1 scorepunt toegekend aan een passende verwijzing naar de bron.\nAls bij beide deelvragen dezelfde verwijzing naar de bron wordt genoemd, wordt alleen aan de eerste verwijzing 1 scorepunt toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-duitsland-in-europa-antw20.png"
+    ]
+   },
+   {
+    "title": "Nederland 1948-2008",
+    "question_number": 21,
+    "answer_text": "Kern van een juist antwoord is:\n• Romme wil de geleide loonpolitiek doorbreken door voor te stellen dat lonen meer mogen stijgen / dat er een nieuw systeem komt voor het vaststellen van lonen\n• waardoor de samenwerking van de rooms-rode regering/tussen de katholieken en sociaaldemocraten onder druk komt te staan / de sociaaldemocraten zich mogelijk van de samenwerking met de KVP afkeren (omdat zij de geleide loonpolitiek samen voeren)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Romme wil de geleide loonpolitiek doorbreken door voor te stellen dat lonen meer mogen stijgen / dat er een nieuw systeem komt voor het vaststellen van lonen"
+     },
+     {
+      "points": 1,
+      "description": "waardoor de samenwerking van de rooms-rode regering/tussen de katholieken en sociaaldemocraten onder druk komt te staan / de sociaaldemocraten zich mogelijk van de samenwerking met de KVP afkeren (omdat zij de geleide loonpolitiek samen voeren)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-nederland-1948-2008-antw21.png"
+    ]
+   },
+   {
+    "title": "Nederland 1948-2008",
+    "question_number": 22,
+    "answer_text": "Voorbeeld van een juist antwoord:\n• Van Straaten geeft de mening weer dat de groei van de consumptiemaatschappij het leven van de Nederlanders beheerst / dat consumeren een (te) grote rol heeft gekregen\n• door (een van de volgende):\n− af te beelden dat Sinterklaas met een zweep het Nederlandse volk aanspoort om te kopen.\n− de lange rij mensen met handen vol aankopen af te beelden.\n− de oproep \"koop koop koop koop koop koop koop\".\n− de tekst \"hedenavond verkoop tot 21 uur\".",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Van Straaten geeft de mening weer dat de groei van de consumptiemaatschappij het leven van de Nederlanders beheerst / dat consumeren een (te) grote rol heeft gekregen"
+     },
+     {
+      "points": 1,
+      "description": "door (een van de volgende): af te beelden dat Sinterklaas met een zweep het Nederlandse volk aanspoort om te kopen; de lange rij mensen met handen vol aankopen af te beelden; de oproep \"koop koop koop koop koop koop koop\"; de tekst \"hedenavond verkoop tot 21 uur\""
+     }
+    ],
+    "grading_note": "Alleen als een juiste mening wordt weergegeven, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-nederland-1948-2008-antw22.png"
+    ]
+   },
+   {
+    "title": "Nederland 1948-2008",
+    "question_number": 23,
+    "answer_text": "Kern van het antwoord is:\n• Nederland voerde een gedoogbeleid (of een juiste omschrijving daarvan)\n• Door het Verdrag van Schengen werd vrij verkeer van personen mogelijk / was er geen controle van personen aan de grens meer, waardoor er afspraken over de controles op softdrugs moesten worden gemaakt (omdat West-Duitsland geen gedoogbeleid voerde / geen softdrugs toestond)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Nederland voerde een gedoogbeleid (of een juiste omschrijving daarvan)"
+     },
+     {
+      "points": 2,
+      "description": "Door het Verdrag van Schengen werd vrij verkeer van personen mogelijk / was er geen controle van personen aan de grens meer, waardoor er afspraken over de controles op softdrugs moesten worden gemaakt (omdat West-Duitsland geen gedoogbeleid voerde / geen softdrugs toestond)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-nederland-1948-2008-antw23.png"
+    ]
+   },
+   {
+    "title": "Tijd van Wereldoorlogen",
+    "question_number": 24,
+    "answer_text": "Kern van een juist antwoord is:\n• Deze koerswijziging is het loslaten van de Brezjnev-doctrine (of een juiste omschrijving hiervan), zodat landen in het Oostblok hun eigen beleid konden gaan bepalen, omdat de Sovjet-Unie niet zou ingrijpen als landen zich van het communisme / de koers van de Sovjet-Unie af zouden wenden\n• Dan Quayle voorspelde dat de Sovjet-Unie de positie als leider van het Oostblok zou verliezen / het Oostblok uit elkaar zou vallen / het Oostblok niet langer een communistisch blok zou blijven (omdat de landen zouden weglopen)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Deze koerswijziging is het loslaten van de Brezjnev-doctrine (of een juiste omschrijving hiervan), zodat landen in het Oostblok hun eigen beleid konden gaan bepalen, omdat de Sovjet-Unie niet zou ingrijpen als landen zich van het communisme / de koers van de Sovjet-Unie af zouden wenden"
+     },
+     {
+      "points": 1,
+      "description": "Dan Quayle voorspelde dat de Sovjet-Unie de positie als leider van het Oostblok zou verliezen / het Oostblok uit elkaar zou vallen / het Oostblok niet langer een communistisch blok zou blijven (omdat de landen zouden weglopen)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-tijd-van-wereldoorlogen-antw24.png"
+    ]
+   },
+   {
+    "title": "Nederland 1948-2008",
+    "question_number": 25,
+    "answer_text": "Kern van een juist antwoord is:\nDe boodschap was dat door het toenemen van de politieke taak van de NAVO / het veranderen van Europa (door het toelaten van voormalige Oostbloklanden), de politieke rol van Nederland in Europa zou kunnen afnemen / dat Nederland haar politieke rol in Europa moest veiligstellen / dat Nederland moest werken aan het zekerstellen van haar politieke rol.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De boodschap was dat door het toenemen van de politieke taak van de NAVO / het veranderen van Europa (door het toelaten van voormalige Oostbloklanden), de politieke rol van Nederland in Europa zou kunnen afnemen / dat Nederland haar politieke rol in Europa moest veiligstellen / dat Nederland moest werken aan het zekerstellen van haar politieke rol."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-nederland-1948-2008-antw25.png"
+    ]
+   },
+   {
+    "title": "Nederland 1948-2008",
+    "question_number": 26,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• De boodschap van gangsta rap is volgens Thera van Osch dat een crimineel leven loont / dat het leven draait om geld en luxe, terwijl de oorspronkelijke rapmuziek zich verzet tegen racisme tegenover Afro-Amerikanen\n• Van Osch waarschuwt dat door de ontwikkeling van digitale platforms als MTV en videogames jongeren/kinderen steeds makkelijker worden bereikt / de boodschap steeds sneller wordt verspreid / ouders minder invloed hebben op wat de jeugd bekijkt",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "De boodschap van gangsta rap is volgens Thera van Osch dat een crimineel leven loont / dat het leven draait om geld en luxe, terwijl de oorspronkelijke rapmuziek zich verzet tegen racisme tegenover Afro-Amerikanen"
+     },
+     {
+      "points": 1,
+      "description": "Van Osch waarschuwt dat door de ontwikkeling van digitale platforms als MTV en videogames jongeren/kinderen steeds makkelijker worden bereikt / de boodschap steeds sneller wordt verspreid / ouders minder invloed hebben op wat de jeugd bekijkt"
+     }
+    ],
+    "grading_note": "Alleen als bij de eerste deelvraag wordt ingegaan op de boodschap van zowel de oorspronkelijke rapmuziek als die van de gangsta rap, worden scorepunten toegekend.",
+    "answer_image_urls": [
+     "geschiedenis-havo-2022-ii-nederland-1948-2008-antw26.png"
+    ]
+   }
+  ]
+ }
+}
