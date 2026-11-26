@@ -1,0 +1,593 @@
+{
+ "payload": {
+  "subject_name": "Bedrijfseconomie",
+  "level": "VWO",
+  "source": "VWO Bedrijfseconomie 2023-II",
+  "answers": [
+   {
+    "title": "Marloes",
+    "question_number": 1,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– Marloes heeft vergeleken met het pensioenfonds minder kennis van beleggen (waardoor het rendement lager zal zijn dan bij deelneming in een pensioenfonds).\n– Bij zelf beleggen zijn er geen schaalvoordelen / zijn de kosten van beleggen hoger, (waardoor het rendement lager is).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-marloes-antw1.png"
+    ]
+   },
+   {
+    "title": "Marloes",
+    "question_number": 2,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– In loondienst kan Marloes aanspraak maken op werknemersverzekeringen (dit kan niet als ondernemer).\n– In loondienst is haar inkomen zekerder (dan als ondernemer).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-marloes-antw2.png"
+    ]
+   },
+   {
+    "title": "Marloes",
+    "question_number": 3,
+    "answer_text": "• Een vergoeding bij ontslag: onjuist:\nOmdat Marloes zelf ontslag neemt, krijgt ze geen transitievergoeding\n• Direct pensioen ontvangen: onjuist:\nMarloes zal minimaal tot haar pensioengerechtigde leeftijd moeten wachten om een uitkering van het pensioenfonds te krijgen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een vergoeding bij ontslag: onjuist: omdat Marloes zelf ontslag neemt, krijgt ze geen transitievergoeding"
+     },
+     {
+      "points": 1,
+      "description": "Direct pensioen ontvangen: onjuist: Marloes zal minimaal tot haar pensioengerechtigde leeftijd moeten wachten om een uitkering van het pensioenfonds te krijgen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-marloes-antw3.png"
+    ]
+   },
+   {
+    "title": "Marloes",
+    "question_number": 4,
+    "answer_text": "• Productbeleid: Marloes weet haar product (dienst) af te stemmen op wat de klant nodig heeft / (oud) stagiaires kunnen huiswerkbegeleiding geven\n• Plaatsbeleid: Marloes kan gebruik maken van de klaslokalen van de ex-middelbare school\n• Promotiebeleid: Marloes zal de plaatselijke voetbalclub gaan sponsoren",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Productbeleid: Marloes weet haar product (dienst) af te stemmen op wat de klant nodig heeft / (oud) stagiaires kunnen huiswerkbegeleiding geven"
+     },
+     {
+      "points": 1,
+      "description": "Plaatsbeleid: Marloes kan gebruik maken van de klaslokalen van de ex-middelbare school"
+     },
+     {
+      "points": 1,
+      "description": "Promotiebeleid: Marloes zal de plaatselijke voetbalclub gaan sponsoren"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-marloes-antw4.png"
+    ]
+   },
+   {
+    "title": "Peel bv",
+    "question_number": 5,
+    "answer_text": "• Bij een bv zijn de aandeelhouders niet aansprakelijk met hun privévermogen / hoofdelijk aansprakelijk voor schulden van de bv\n• De borgstellingen zorgen ervoor dat ze (door het afgeven) wel privé aansprakelijk zijn voor schulden van de bv, waardoor de bank meer zekerheid heeft dat aan de betalingsverplichting wordt voldaan",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij een bv zijn de aandeelhouders niet aansprakelijk met hun privévermogen / hoofdelijk aansprakelijk voor schulden van de bv"
+     },
+     {
+      "points": 1,
+      "description": "De borgstellingen zorgen ervoor dat ze (door het afgeven) wel privé aansprakelijk zijn voor schulden van de bv, waardoor de bank meer zekerheid heeft dat aan de betalingsverplichting wordt voldaan"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-peel-bv-antw5.png"
+    ]
+   },
+   {
+    "title": "Peel bv",
+    "question_number": 6,
+    "answer_text": "Nee, want dit is een risico voor de eigenaren privé en niet voor het bedrijf/de onderneming.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-peel-bv-antw6.png"
+    ]
+   },
+   {
+    "title": "Peel bv",
+    "question_number": 7,
+    "answer_text": "afschrijving pand: 505.000 / 40 = 12.625\nafschrijving licentie: 10.000\ntotaal: € 22.625",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-peel-bv-antw7.png"
+    ]
+   },
+   {
+    "title": "Peel bv",
+    "question_number": 8,
+    "answer_text": "• totale activa na 6 jaar:\nlicentie: 80.000 − 6 × 10.000 = 20.000\npand: 505.000 − 6 × 12.625 = 429.250\nvoorraad: 400.000\ndebiteuren: 140.000\nliquide middelen: 55.000 +\ntotale activa: 1.044.250\n• totaal vreemd vermogen na 6 jaar:\n505.000 + 280.000 − 6 × 25.250 = 633.500\n1.044.250 / 633.500 × 100% = 165%\nof\n• totaal vreemd vermogen na 6 jaar:\n505.000 + 280.000 − 6 × 25.250 = 633.500\n• totaal vermogen na 6 jaar:\n300.000 + 95.000 + 15.750 + 633.500 = 1.044.250\n1.044.250 / 633.500 × 100% = 165%",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "totale activa na 6 jaar: 1.044.250, of: totaal vreemd vermogen na 6 jaar: 505.000 + 280.000 − 6 × 25.250 = 633.500"
+     },
+     {
+      "points": 1,
+      "description": "totaal vreemd vermogen na 6 jaar: 505.000 + 280.000 − 6 × 25.250 = 633.500, of: totaal vermogen na 6 jaar: 300.000 + 95.000 + 15.750 + 633.500 = 1.044.250"
+     },
+     {
+      "points": 1,
+      "description": "1.044.250 / 633.500 × 100% = 165%"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-peel-bv-antw8.png"
+    ]
+   },
+   {
+    "title": "Peel bv",
+    "question_number": 9,
+    "answer_text": "1.250.000 − 810.000 − 22.625 (vraag 7) − 287.050 = 130.325\n130.325 × (1 − 0,149) = €110.906,58",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Wanneer niet op eurocenten wordt afgerond geen scorepunten aftrekken.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-peel-bv-antw9.png"
+    ]
+   },
+   {
+    "title": "Peel bv",
+    "question_number": 10,
+    "answer_text": "• resultaat na vpb: 110.906,58 (zie vraag 9)\nreserve: 50.000 −\nbeschikbaar voor dividend: €60.906,58\n• 5.000 aandelen: 2.000 aan HUB + 3.000 (300.000 / 100) van Eline en Peter.\ntotaal benodigd dividend 5.000 × 10,27 = €51.350",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "beschikbaar voor dividend: 110.906,58 − 50.000 = €60.906,58"
+     },
+     {
+      "points": 2,
+      "description": "5.000 aandelen: 2.000 aan HUB + 3.000 (300.000 / 100) van Eline en Peter; totaal benodigd dividend 5.000 × 10,27 = €51.350"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-peel-bv-antw10.png"
+    ]
+   },
+   {
+    "title": "Peel bv",
+    "question_number": 11,
+    "answer_text": "• agio per aandeel: (131,67 x 1,20 – 100) = 58\n• totale agio op aandelen 2.000 x 58 = € 116.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "agio per aandeel: (131,67 x 1,20 – 100) = 58"
+     },
+     {
+      "points": 1,
+      "description": "totale agio op aandelen 2.000 x 58 = € 116.000"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-peel-bv-antw11.png"
+    ]
+   },
+   {
+    "title": "Peel bv",
+    "question_number": 12,
+    "answer_text": "• De cashflow bestaat uit resultaat + afschrijvingen\n• Het resultaat wordt beïnvloed door de gekozen afschrijvingsmethode en is dus te beïnvloeden (Het resultaat geeft oom Zuiker een vertekend beeld hoe de onderneming gepresteerd heeft)\nof\n• Het risico voor oom Zuiker is dat hij geen interest en aflossing ontvangt. De cashflow geeft (bij benadering) de geldstroom weer, waaruit de interest en aflossing betaald worden\n• Het resultaat geeft niet aan of er voldoende geld beschikbaar is om de interest en aflossing te betalen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De cashflow bestaat uit resultaat + afschrijvingen, of: het risico voor oom Zuiker is dat hij geen interest en aflossing ontvangt; de cashflow geeft (bij benadering) de geldstroom weer, waaruit de interest en aflossing betaald worden"
+     },
+     {
+      "points": 1,
+      "description": "Het resultaat wordt beïnvloed door de gekozen afschrijvingsmethode en is dus te beïnvloeden, of: het resultaat geeft niet aan of er voldoende geld beschikbaar is om de interest en aflossing te betalen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-peel-bv-antw12.png"
+    ]
+   },
+   {
+    "title": "Peel bv",
+    "question_number": 13,
+    "answer_text": "110.906,58 (vraag 9) + 22.625 (vraag 7) = € 133.531,58\n(€133.531,58 is hoger dan € 130.000)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-peel-bv-antw13.png"
+    ]
+   },
+   {
+    "title": "Peel bv",
+    "question_number": 14,
+    "answer_text": "• 2.000 x 158 = € 316.000 ontvangst uit emissie\n• 505.000 – 316.000 = € 189.000 is de hoogte van de aanvullende lening",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "2.000 x 158 = € 316.000 ontvangst uit emissie"
+     },
+     {
+      "points": 1,
+      "description": "505.000 – 316.000 = € 189.000 is de hoogte van de aanvullende lening"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-peel-bv-antw14.png"
+    ]
+   },
+   {
+    "title": "Peel bv",
+    "question_number": 15,
+    "answer_text": "berekeningen (uitgaven: mogelijkheid a; mogelijkheid b):\ntotale interest over de lening voor 2 jaar: a: 505.000 x 0,04 = 20.200 en 479.750 x 0,04 = 19.190, samen 39.390; b: 18.614,20\ntotale aflossing over 2 jaar: a: 25.250 x 2 = 50.500; b: 11.717,49\nuitgekeerd dividend aan HUP: b: 2.000 x 10,27 x 2 = 41.080,00\ntotale uitgaven: a: € 89.890; b: € 71.411,69\n\nBedragen ten behoeve van mogelijkheid b (schuld op 1 januari; interest 5%; annuïteit; aflossing):\n2022: € 189.000,00; € 9.450,00; € 15.165,85; € 5.715,85\n2023: € 183.284,15; € 9.164,21; € 15.165,85; € 6.001,64\ntotaal over 2 jaar: interest € 18.614,21; aflossing € 11.717,49\n\nEr wordt gekozen voor mogelijkheid b, omdat 71.411,69 < 89.890",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "89.890"
+     },
+     {
+      "points": 1,
+      "description": "11.717,49"
+     },
+     {
+      "points": 1,
+      "description": "41.080,00"
+     },
+     {
+      "points": 1,
+      "description": "18.614,20"
+     },
+     {
+      "points": 1,
+      "description": "Er wordt gekozen voor mogelijkheid b, omdat 71.411,69 < 89.890"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-peel-bv-antw15.png"
+    ]
+   },
+   {
+    "title": "Beter Bed",
+    "question_number": 16,
+    "answer_text": "Bij beschikbaar stellen van (maximaal) cashdividend daalt het eigen vermogen en neemt het kort vreemd vermogen toe (en verslechtert de solvabiliteit).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Bij het antwoord: ‘Bij uitkeren van (maximaal) cashdividend daalt het eigen vermogen na winstverdeling (en verslechtert de solvabiliteit)’, kunnen 2 scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-beter-bed-antw16.png"
+    ]
+   },
+   {
+    "title": "Beter Bed",
+    "question_number": 17,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Een gezonde solvabiliteitspositie kan leiden tot een lager interestpercentage / Als gevolg van een gezondere vermogenspositie kan er tegen een lagere interestvergoeding geleend worden\n• Lagere interestkosten verbeteren het resultaat, wat kan leiden tot meer vraag naar aandelen Beter Bed/hogere beurskoers",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een gezonde solvabiliteitspositie kan leiden tot een lager interestpercentage / Als gevolg van een gezondere vermogenspositie kan er tegen een lagere interestvergoeding geleend worden"
+     },
+     {
+      "points": 1,
+      "description": "Lagere interestkosten verbeteren het resultaat, wat kan leiden tot meer vraag naar aandelen Beter Bed/hogere beurskoers"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-beter-bed-antw17.png"
+    ]
+   },
+   {
+    "title": "Beter Bed",
+    "question_number": 18,
+    "answer_text": "• Conflict: behoud koopkracht versus winstgevendheid / dividend. Werknemers willen behoud van koopkracht / een zo hoog mogelijk loon, wat kan leiden tot een lagere winst\n• Voor aandeelhouders zijn hogere winsten en dividenduitkeringen van belang\nof\n• Conflict: behoud werkgelegenheid versus winstgevendheid/dividend. Om hoge winsten te behalen zullen aandeelhouders goedkoop willen produceren / de loonkosten verlagen / personeel ontslaan\n• Werknemers zullen hiermee niet akkoord gaan",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Conflict: behoud koopkracht versus winstgevendheid / dividend; werknemers willen behoud van koopkracht / een zo hoog mogelijk loon, wat kan leiden tot een lagere winst, of: conflict: behoud werkgelegenheid versus winstgevendheid/dividend; om hoge winsten te behalen zullen aandeelhouders goedkoop willen produceren / de loonkosten verlagen / personeel ontslaan"
+     },
+     {
+      "points": 1,
+      "description": "Voor aandeelhouders zijn hogere winsten en dividenduitkeringen van belang, of: werknemers zullen hiermee niet akkoord gaan"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-beter-bed-antw18.png"
+    ]
+   },
+   {
+    "title": "Belles Antiquités",
+    "question_number": 19,
+    "answer_text": "• besloten vennootschap / bv\n• De aandelen worden niet in het openbaar verhandeld",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "besloten vennootschap / bv"
+     },
+     {
+      "points": 1,
+      "description": "De aandelen worden niet in het openbaar verhandeld"
+     }
+    ],
+    "grading_note": "Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-belles-antiquites-antw19.png"
+    ]
+   },
+   {
+    "title": "Belles Antiquités",
+    "question_number": 20,
+    "answer_text": "• Door reservering te verplichten, kan er minder dividend uitgekeerd worden\n• en nemen de liquide middelen minder af",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door reservering te verplichten, kan er minder dividend uitgekeerd worden"
+     },
+     {
+      "points": 1,
+      "description": "en nemen de liquide middelen minder af"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-belles-antiquites-antw20.png"
+    ]
+   },
+   {
+    "title": "Belles Antiquités",
+    "question_number": 21,
+    "answer_text": "• Afspraak 1 en 3:\ndeel van het eigen vermogen op 1 januari 2010:\n1/3 van 30.000 × 1,06¹² = 20.121,96\n• Afspraak 2 en 3:\ndeel van de winstreserveringen\n2012: 1/3 deel van (9.000 + 9.000) × 1,06¹⁰ = 10.745,09\n• a = 1; r = 1,06; n = 10; S = 13,18079494\n2013 tot en met 2022: 1/3 deel van 9.000 × 13,18079494 = 39.542,38\n• uitkoopsom: 20.121,96 + 10.745,09 + 39.542,38 = €70.409,43\nof\nbij stortingen tot en met 1 januari 2017:\n• Afspraak 1 en 3:\ndeel van het eigen vermogen op 1 januari 2010:\n2012: 1/3 deel van 30.000 × 1,06¹² = 20.121,96\n• Afspraak 2 en 3:\ndeel van de winstreserveringen\n2012: 1/3 deel van (9.000 + 9.000) × 1,06¹⁰ = 10.745,09\n• a = 1,06⁵; r = 1,06; n = 5; S = 7,543701982\n2013 tot en met 2017: 1/3 deel van 9.000 × 7,543701982 = 22.631,11\n• uitkoopsom: 20.121,96 + 10.745,09 + 22.631,11 = €53.498,16",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Afspraak 1 en 3: deel van het eigen vermogen op 1 januari 2010: 1/3 van 30.000 × 1,06¹² = 20.121,96"
+     },
+     {
+      "points": 1,
+      "description": "Afspraak 2 en 3: deel van de winstreserveringen 2012: 1/3 deel van (9.000 + 9.000) × 1,06¹⁰ = 10.745,09"
+     },
+     {
+      "points": 2,
+      "description": "2013 tot en met 2022: 1/3 deel van 9.000 × 13,18079494 = 39.542,38, of (bij stortingen tot en met 1 januari 2017): 2013 tot en met 2017: 1/3 deel van 9.000 × 7,543701982 = 22.631,11"
+     },
+     {
+      "points": 1,
+      "description": "uitkoopsom: €70.409,43, of (bij stortingen tot en met 1 januari 2017): €53.498,16"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-belles-antiquites-antw21.png"
+    ]
+   },
+   {
+    "title": "Belles Antiquités",
+    "question_number": 22,
+    "answer_text": "De rechtsvorm blijft onveranderd, omdat het eigen vermogen van de onderneming bestaat uit aandelen die niet openbaar te verhandelen zijn.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-belles-antiquites-antw22.png"
+    ]
+   },
+   {
+    "title": "Dutch PPE Solutions",
+    "question_number": 23,
+    "answer_text": "Voorbeelden van een goed antwoord zijn:\n– klantloyaliteit: (prestatie-indicator) herhalingsaankopen\n– tevredenheid van werknemers: (prestatie-indicator) percentage ziekteverzuim / personeelsverloop",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-dutch-ppe-solutions-antw23.png"
+    ]
+   },
+   {
+    "title": "Dutch PPE Solutions",
+    "question_number": 24,
+    "answer_text": "• push-strategie\n• de onderneming probeert de verkoop te stimuleren door het geven van kortingen aan de bedrijven (organisaties) / de actie is gericht op de directe afnemers",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "push-strategie"
+     },
+     {
+      "points": 1,
+      "description": "de onderneming probeert de verkoop te stimuleren door het geven van kortingen aan de bedrijven (organisaties) / de actie is gericht op de directe afnemers"
+     }
+    ],
+    "grading_note": "Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-dutch-ppe-solutions-antw24.png"
+    ]
+   },
+   {
+    "title": "Dutch PPE Solutions",
+    "question_number": 25,
+    "answer_text": "Immateriële vaste activa",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-dutch-ppe-solutions-antw25.png"
+    ]
+   },
+   {
+    "title": "Dutch PPE Solutions",
+    "question_number": 26,
+    "answer_text": "⚠️ CONTROLEREN: het correctievoorschrift bevat bij deze vraag geen modelantwoord, alleen een opmerking.",
+    "scoring_steps": [
+     {
+      "points": 3,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Als er wordt gerekend met 16 medewerkers geen scorepunt aftrekken.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-dutch-ppe-solutions-antw26.png"
+    ]
+   },
+   {
+    "title": "Dutch PPE Solutions",
+    "question_number": 27,
+    "answer_text": "0,90 x 800.000 x 3 x (1,25 – 1,10) = € 324.000 positief/+/voordelig",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Per gemaakte fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-dutch-ppe-solutions-antw27.png"
+    ]
+   },
+   {
+    "title": "Dutch PPE Solutions",
+    "question_number": 28,
+    "answer_text": "• De verhoging van de verkoopprijs kan hebben geleid tot minder afzet\n• waardoor er een afwijking is tussen werkelijke en normale afzet en het bezettingsresultaat afneemt",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De verhoging van de verkoopprijs kan hebben geleid tot minder afzet"
+     },
+     {
+      "points": 1,
+      "description": "waardoor er een afwijking is tussen werkelijke en normale afzet en het bezettingsresultaat afneemt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-dutch-ppe-solutions-antw28.png"
+    ]
+   },
+   {
+    "title": "Dutch PPE Solutions",
+    "question_number": 29,
+    "answer_text": "Efficiencyresultaat\n(sh – wh) x sp: (2.040.000 x 0,2 – wh) x 4 = – 40.800\nwh = 418.200 meter",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Per gemaakte fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-dutch-ppe-solutions-antw29.png"
+    ]
+   },
+   {
+    "title": "Dutch PPE Solutions",
+    "question_number": 30,
+    "answer_text": "Prijsresultaat:\n(sp – wp) x wh: (4 – 4,40) x 418.200 = € 167.280 nadelig/-/negatief",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Per gemaakte fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-dutch-ppe-solutions-antw30.png"
+    ]
+   },
+   {
+    "title": "Ikea",
+    "question_number": 31,
+    "answer_text": "– gezagsverhouding\n– arbeidsverplichting\n– loon/vergoeding voor arbeid",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "Indien drie antwoorden juist 2; indien twee antwoorden juist 1; indien minder dan twee antwoorden juist 0"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-ikea-antw31.png"
+    ]
+   },
+   {
+    "title": "Ikea",
+    "question_number": 32,
+    "answer_text": "Bij deze vraag moet het scorepunt altijd worden toegekend, ongeacht of er wel of geen antwoord is gegeven en ongeacht het gegeven antwoord.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Toelichting: De zin die in het antwoord moet worden geciteerd is niet eenduidig. Hierdoor is de vraag voor leerlingen niet goed te beantwoorden.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-ii-ikea-antw32.png"
+    ]
+   }
+  ]
+ }
+}
