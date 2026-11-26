@@ -1,0 +1,67 @@
+{
+  "source": "VWO Bedrijfseconomie 2025-I",
+  "subject_name": "Bedrijfseconomie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Ahold Delhaize",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Camping Vogelhof",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "De Kleine bv",
+      "question_numbers": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Klaas Dane",
+      "question_numbers": [
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "title": "Air France-KLM",
+      "question_numbers": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "title": "Uw Krant",
+      "question_numbers": [
+        27,
+        28,
+        29,
+        30
+      ]
+    }
+  ]
+}
