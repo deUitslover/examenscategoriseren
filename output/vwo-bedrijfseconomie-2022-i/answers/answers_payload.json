@@ -1,0 +1,563 @@
+{
+ "payload": {
+  "subject_name": "Bedrijfseconomie",
+  "level": "VWO",
+  "source": "VWO Bedrijfseconomie 2022-I",
+  "answers": [
+   {
+    "title": "Het Hypotheekhuis",
+    "question_number": 1,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– Vanwege de kwaliteit van het werk: als een medewerker per advies wordt betaald, kan het werk worden afgeraffeld en is de kwaliteit mogelijk onder de maat. Dit is op termijn slecht voor het imago.\n– Vanwege de werksfeer: medewerkers kunnen elkaar onderling beconcurreren op opdrachten.\n– De bereidheid om elkaar te helpen kan verdwijnen: de tijd die een medewerker besteedt aan het helpen van een andere medewerker, gaat ten koste van het eigen werk.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "juist antwoord"
+     }
+    ],
+    "grading_note": "In vraag 1 is de formulering 'een argument' gebruikt. Daarom is het geven van één antwoord voldoende om de 2 scorepunten aan één juist antwoord toe te kennen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-het-hypotheekhuis-antw1.png"
+    ]
+   },
+   {
+    "title": "Het Hypotheekhuis",
+    "question_number": 2,
+    "answer_text": "• N is (5 x 36) x 46 = 8.280 uur per jaar\n• C/N = (89.600 + 490.000) / 8.280 = € 70 per uur\n• basic 15 x 70 + 150 = € 1.200\ncomfort 18 x 70 + 150 = € 1.410",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "N is (5 x 36) x 46 = 8.280 uur per jaar"
+     },
+     {
+      "points": 1,
+      "description": "C/N = (89.600 + 490.000) / 8.280 = € 70 per uur"
+     },
+     {
+      "points": 1,
+      "description": "basic 15 x 70 + 150 = € 1.200; comfort 18 x 70 + 150 = € 1.410"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-het-hypotheekhuis-antw2.png"
+    ]
+   },
+   {
+    "title": "Het Hypotheekhuis",
+    "question_number": 3,
+    "answer_text": "200 x (1.400 – 1.200) + 300 x (1.800 – 1.410) = € 157.000 voordelig/positief/+",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Per gemaakte fout wordt 1 scorepunt in mindering gebracht.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-het-hypotheekhuis-antw3.png"
+    ]
+   },
+   {
+    "title": "Het Hypotheekhuis",
+    "question_number": 4,
+    "answer_text": "(3.100 + 5.100 – 8.280) x 70 = € 5.600 nadelig/negatief/-",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Per gemaakte fout wordt 1 scorepunt in mindering gebracht.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-het-hypotheekhuis-antw4.png"
+    ]
+   },
+   {
+    "title": "Hiero bv",
+    "question_number": 5,
+    "answer_text": "• Er worden meerdere doelgroepen onderscheiden met een verschillende invulling van de marketingmix:\n• en twee van de volgende P's\n– Product: ze hebben een kleiner aanbod van producten voor mensen die niet met de app kunnen omgaan.\n– Plaats: voor de mensen die niet met de app kunnen omgaan, is er een papieren bestelformulier in plaats van digitaal.\n– Promotie: mensen die niet met de app kunnen omgaan, worden bereikt via de wijkkrant en de hulpverlening. Anderen worden bereikt via de app en sociale media.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Er worden meerdere doelgroepen onderscheiden met een verschillende invulling van de marketingmix"
+     },
+     {
+      "points": 2,
+      "description": "en twee van de volgende P's: Product / Plaats / Promotie (zie antwoord)"
+     }
+    ],
+    "grading_note": "Voor elke van de twee beantwoorde P's, 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-hiero-bv-antw5.png"
+    ]
+   },
+   {
+    "title": "Hiero bv",
+    "question_number": 6,
+    "answer_text": "• De subsidie is per bezorging en niet per bezorging aan een 65-plusser\n• Het bestelbedrag is in West lager dan in Engelen en daarmee ook de variabele vergoeding voor Hiero",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De subsidie is per bezorging en niet per bezorging aan een 65-plusser"
+     },
+     {
+      "points": 1,
+      "description": "Het bestelbedrag is in West lager dan in Engelen en daarmee ook de variabele vergoeding voor Hiero"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-hiero-bv-antw6.png"
+    ]
+   },
+   {
+    "title": "Hiero bv",
+    "question_number": 7,
+    "answer_text": "aantal bestellingen: West 416 (berekening: 43.680 / 2,1 x 0,2 x 0,1); Engelen 208 (berekening: 21.840 / 2,1 x 0,2 x 0,1)\nVerwachte opbrengst van Hiero per week van 1 april 2021 tot en met 31 maart 2022:\nvariabele vergoeding: € 2.600 (berekening: (416 x 70 + 208 x 110) x 0,05)\nvast bezorgtarief: € 1.560 (berekening: (416 + 208) x 2,5)\nsubsidie gemeente: € 312 (berekening: 1.560 x 0,20)\ntotaal: € 4.472",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "416 en 208"
+     },
+     {
+      "points": 1,
+      "description": "2.600"
+     },
+     {
+      "points": 1,
+      "description": "1.560, 312 en 4.472"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-hiero-bv-antw7.png"
+    ]
+   },
+   {
+    "title": "Hiero bv",
+    "question_number": 8,
+    "answer_text": "Openingsbalans Hiero per 1 april 2021 (getallen x € 1):\ndebet: App 12.500; Bezorgauto's 44.000; Bezorgkratten 10.000; Overige vaste activa 7.000; Bank 3.000; totaal 76.500\ncredit: Aandelenkapitaal 42.500; 4% Onderhandse lening 29.000; Crediteuren 5.000; totaal 76.500\nBerekeningen:\nBezorgauto's: 22.000 x 2 = 44.000\nCrediteuren: 10.000 / 2 = 5.000\n4% Onderhandse lening: tv = 12.500 + 44.000 + 10.000 + 7.000 + 3.000 = 76.500; tv/vv = 2,25 dus vv = 76.500 / 2,25 = 34.000; 4% Onderhandse lening = 34.000 − 5.000 = 29.000\nAandelenkapitaal: 76.500 − 34.000 = 42.500",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "44.000 en 5.000"
+     },
+     {
+      "points": 1,
+      "description": "29.000"
+     },
+     {
+      "points": 1,
+      "description": "42.500 en 76.500"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-hiero-bv-antw8.png"
+    ]
+   },
+   {
+    "title": "Hiero bv",
+    "question_number": 9,
+    "answer_text": "(22.000 − (1.500 − 500)) / 6 x 2 = € 7.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-hiero-bv-antw9.png"
+    ]
+   },
+   {
+    "title": "Hiero bv",
+    "question_number": 10,
+    "answer_text": "• €1.000 / 10.000 km = 0,10 per km kostenvoordeel.\nVariabele kosten per km: 0,14 – 0,10 = 0,04 voor elektrisch\n• 2 x 300 x 50 x 0,04 = € 1.200\nToelichting\nBij 0 kilometer is het kostenvoordeel van de elektrische auto € 1.000 negatief. Dat kan alleen maar door de constante kosten komen.\nIn 10.000 km is er € 1.000 aan totale kosten door de elektrische auto ingehaald. Dat kan alleen maar komen door de variabele kosten en die zijn dan €1.000 / 10.000 km = € 0,10 per km aan verschil.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "€1.000 / 10.000 km = 0,10 per km kostenvoordeel; variabele kosten per km: 0,14 – 0,10 = 0,04 voor elektrisch"
+     },
+     {
+      "points": 1,
+      "description": "2 x 300 x 50 x 0,04 = € 1.200"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-hiero-bv-antw10.png"
+    ]
+   },
+   {
+    "title": "Hiero bv",
+    "question_number": 11,
+    "answer_text": "Exploitatiebegroting (getallen x € 1) boekjaar 1 april 2021 – 31 maart 2022:\nopbrengsten: 232.544\nkosten: kosten vergoed aan Noor 16.800; variabele kosten Goupils 1.200; loonkosten 186.756; totaal 204.756\nEBITDA: 27.788\ninterestkosten 1.110; afschrijvingskosten Goupils 7.000; overige afschrijvingskosten 1.250; totaal 9.360\nresultaat voor belasting: 18.428\nBerekeningen:\nopbrengsten: 52 x 4.472 (zie vraag 7)\ninterestkosten: 29.000 x 0,04 x 9/12 + (29.000 − 5.000) x 0,04 x 3/12\nloonkosten: 3 x 44.000 + 75 x 52 x 10 x 1,08 x 1,30",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "232.544"
+     },
+     {
+      "points": 1,
+      "description": "16.800, 1.200, 186.756, 204.756 en 27.788"
+     },
+     {
+      "points": 1,
+      "description": "1.110, 7.000, 1.250, 9.360 en 18.428"
+     },
+     {
+      "points": 1,
+      "description": "alle posten op de juiste plaats"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-hiero-bv-antw11.png"
+    ]
+   },
+   {
+    "title": "Hiero bv",
+    "question_number": 12,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– De vennootschapsbelasting moet er nog af.\n– Over het beschikbare dividend wordt dividendbelasting ingehouden.\n– Resultaat kan ook worden gebruikt om via de reserves het Eigen vermogen te versterken.\n– Hun bruto-inkomen is hoger: ze staan immers ook op de loonlijst als DGA's.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-hiero-bv-antw12.png"
+    ]
+   },
+   {
+    "title": "Sibel",
+    "question_number": 13,
+    "answer_text": "obligatie",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-sibel-antw13.png"
+    ]
+   },
+   {
+    "title": "Sibel",
+    "question_number": 14,
+    "answer_text": "• (a) put-opties\n• (b) longpositie\n• (c) hedgen / (risico)hedging",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(a) put-opties"
+     },
+     {
+      "points": 1,
+      "description": "(b) longpositie"
+     },
+     {
+      "points": 1,
+      "description": "(c) hedgen / (risico)hedging"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-sibel-antw14.png"
+    ]
+   },
+   {
+    "title": "Sibel",
+    "question_number": 15,
+    "answer_text": "• d: € 18. Vanaf deze aandelenkoers zal Sibel niet van haar uitoefenrecht gebruikmaken, omdat ze op de beurs meer kan krijgen dan de € 18 bij uitoefening van haar optierecht. Het rendement is dan 100% verlies (is de betaalde optiepremie)\n• e: bij een beurskoers van € 14 is de totale winst € 0. De winst die gemaakt wordt bij uitoefening op het aandeel is dan gelijk aan de optiepremie, dus 18 – 14 – e = 0 → e = € 4\nof\n• e: bij beurskoers van € 0 is het verwachte rendement +350%\n(18 − 4) / belegging x 100% = 350%\n• belegging = optiepremie = € 4",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "d: € 18. Vanaf deze aandelenkoers zal Sibel niet van haar uitoefenrecht gebruikmaken, omdat ze op de beurs meer kan krijgen dan de € 18 bij uitoefening van haar optierecht. Het rendement is dan 100% verlies (is de betaalde optiepremie)"
+     },
+     {
+      "points": 1,
+      "description": "e: bij een beurskoers van € 14 is de totale winst € 0; 18 – 14 – e = 0 → e = € 4 (of: bij beurskoers van € 0 is het verwachte rendement +350%; (18 − 4) / belegging x 100% = 350%; belegging = optiepremie = € 4)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-sibel-antw15.png"
+    ]
+   },
+   {
+    "title": "Sibel",
+    "question_number": 16,
+    "answer_text": "• resultaat in euro's = 200 x (18 − 14,75 − 4) = −150\n• belegging = 200 x (14,75 + 4) = 3.750\nrendement in procenten = −150 / 3.750 x 100% = −4% dus negatief\nof\n• (18 − 14,75 − 4) / (14,75 + 4) x 100% = −4% dus negatief",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-sibel-antw16.png"
+    ]
+   },
+   {
+    "title": "Henk Verhaas",
+    "question_number": 17,
+    "answer_text": "c en d",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-henk-verhaas-antw17.png"
+    ]
+   },
+   {
+    "title": "Henk Verhaas",
+    "question_number": 18,
+    "answer_text": "• Sanders redenering klopt niet, omdat de vrijstelling bij schenken voor Sander lager is (€ 5.515) dan bij erven (€ 20.946)\n• en verder de tarieven van erven en schenken gelijk zijn",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Sanders redenering klopt niet, omdat de vrijstelling bij schenken voor Sander lager is (€ 5.515) dan bij erven (€ 20.946)"
+     },
+     {
+      "points": 1,
+      "description": "en verder de tarieven van erven en schenken gelijk zijn"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-henk-verhaas-antw18.png"
+    ]
+   },
+   {
+    "title": "Henk Verhaas",
+    "question_number": 19,
+    "answer_text": "Dan kan hij ieder jaar gebruikmaken van het vrijstellingsbedrag.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-henk-verhaas-antw19.png"
+    ]
+   },
+   {
+    "title": "Henk Verhaas",
+    "question_number": 20,
+    "answer_text": "keuze 2:\n• 80.000 / 10 = 8.000\n8.000 – ((8.000 – 5.515) x 0,1) = 7.751,50\n• 7.751,50 x (1,08⁻⁹ + 1,08⁻⁸ + …. + 1)\na = 1,08⁻⁹ r = 1,08 n = 10 S = 7,24688791085\n7.751,50 x 7,24688791085 = 56.174,25\nKeuze 1:\n• 80.000 – ((80.000 – 5.515) x 0,1) = 72.551,50\n(72.551,50 > 56.174,25, dus keuze 1 is voor Sander financieel het meest aantrekkelijk)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "keuze 2: 80.000 / 10 = 8.000; 8.000 – ((8.000 – 5.515) x 0,1) = 7.751,50"
+     },
+     {
+      "points": 1,
+      "description": "7.751,50 x (1,08⁻⁹ + 1,08⁻⁸ + …. + 1); a = 1,08⁻⁹ r = 1,08 n = 10 S = 7,24688791085; 7.751,50 x 7,24688791085 = 56.174,25"
+     },
+     {
+      "points": 1,
+      "description": "keuze 1: 80.000 – ((80.000 – 5.515) x 0,1) = 72.551,50 (72.551,50 > 56.174,25, dus keuze 1 is voor Sander financieel het meest aantrekkelijk)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-henk-verhaas-antw20.png"
+    ]
+   },
+   {
+    "title": "Henk Verhaas",
+    "question_number": 21,
+    "answer_text": "b\n200.000 / 2 – 80.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-henk-verhaas-antw21.png"
+    ]
+   },
+   {
+    "title": "Klusstudent",
+    "question_number": 22,
+    "answer_text": "Voorbeelden van juiste opbrengsten en kosten zijn:\nOpbrengsten:\n– het in contact komen met een klusstudent\n– het kunnen zien dat een klusstudent goed is beoordeeld\n– het werkt eenvoudig\nKosten:\n– de tijd/inspanning van het plaatsen van een klus\n– het geven van een beoordeling\n– het vergelijken van de profielen van de geïnteresseerde studenten",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "juiste opbrengst"
+     },
+     {
+      "points": 1,
+      "description": "juiste kostenpost"
+     }
+    ],
+    "grading_note": "Per juiste opbrengst 1 scorepunt en per juiste kostenpost 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-klusstudent-antw22.png"
+    ]
+   },
+   {
+    "title": "Klusstudent",
+    "question_number": 23,
+    "answer_text": "Break-evenafzet over het jaar 2022 voor Klusstudent (verwachte bedragen):\nopbrengst per klus 6,50\nvariabele kosten per klus 1,30 -\ndekkingsbijdrage per klus 5,20\ntotale constante kosten 17.600\nbreak-evenafzet 3.385\nConclusie:\nHet verwachte resultaat over 2022 is positief, omdat: 300 x 12 = 3.600 (> 3.385)\nBerekeningen:\nopbrengst per klus: 2 + 0,25 x 18 = 6,50\nvariabele kosten per klus: 0,2 x 6,50 = 1,30\ntotale constante kosten over het jaar 2022: app: 6.800 + 450 x 4 = 8.600; personeel: 500 x 12 = 6.000\nbreak-evenafzet over het jaar 2022: 17.600 / 5,20 = 3.000 + 3.000 = 17.600",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "6,50 en 1,30 en 5,20"
+     },
+     {
+      "points": 1,
+      "description": "17.600 en 3.385"
+     },
+     {
+      "points": 1,
+      "description": "3.600"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-klusstudent-antw23.png"
+    ]
+   },
+   {
+    "title": "Klusstudent",
+    "question_number": 24,
+    "answer_text": "• Indien een onderneming relatief veel constante kosten heeft, zullen bij een daling van de afzet de variabele kosten wel meedalen, maar blijven de constante kosten gelijk\n• Hierdoor blijven bij een dalende afzet de kosten relatief hoger, waardoor het resultaat meer zal dalen dan wanneer er relatief meer variabele kosten waren geweest",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Indien een onderneming relatief veel constante kosten heeft, zullen bij een daling van de afzet de variabele kosten wel meedalen, maar blijven de constante kosten gelijk"
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor blijven bij een dalende afzet de kosten relatief hoger, waardoor het resultaat meer zal dalen dan wanneer er relatief meer variabele kosten waren geweest"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-klusstudent-antw24.png"
+    ]
+   },
+   {
+    "title": "Klusstudent",
+    "question_number": 25,
+    "answer_text": "a: verhoging\nb: verlenging",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-klusstudent-antw25.png"
+    ]
+   },
+   {
+    "title": "Klusstudent",
+    "question_number": 26,
+    "answer_text": "• De daling van de afschrijvingskosten is gelijk aan de stijging van het resultaat voor belasting\n• echter door een stijging van het resultaat voor belasting, zal de te betalen winstbelasting / inkomstenbelasting stijgen.\nPer saldo verslechtert de cashflow na belasting van Klusstudent",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De daling van de afschrijvingskosten is gelijk aan de stijging van het resultaat voor belasting"
+     },
+     {
+      "points": 1,
+      "description": "echter door een stijging van het resultaat voor belasting, zal de te betalen winstbelasting / inkomstenbelasting stijgen. Per saldo verslechtert de cashflow na belasting van Klusstudent"
+     }
+    ],
+    "grading_note": "Aan het antwoord 'de afschrijvingskosten nemen toe, dus de cashflow neemt toe' worden geen scorepunten toegekend.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-klusstudent-antw26.png"
+    ]
+   },
+   {
+    "title": "Klusstudent",
+    "question_number": 27,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– hoeveel tijd beide partners voor de vof werken\n– welke kennis en kunde (diploma's / vergunningen) de partners hebben, die van belang zijn voor de vof.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-klusstudent-antw27.png"
+    ]
+   },
+   {
+    "title": "Schaeffer nv",
+    "question_number": 28,
+    "answer_text": "• gemiddelde onderhandse lening: (800 x 3/12 + 700 x 9/12) = 725\n• gemiddeld totaalvermogen: ((1.500 + 500 + 600 + 100) + (1.500 + 600 + 400 + 600 + 150)) / 2 + 725 = 2.975 + 725 = 3.700\n• RTV = (400 + 29) / 3.700 x 100% = 11,6%\n• IVV < RTV is de oorzaak van het positieve hefboomeffect",
+    "scoring_steps": [
+     {
+      "points": 3,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-schaeffer-nv-antw28.png"
+    ]
+   },
+   {
+    "title": "Schaeffer nv",
+    "question_number": 29,
+    "answer_text": "• Als de hefboomfactor dus de verhouding vv/ev toeneemt, neemt het risico op wanbetaling toe\n• waardoor de vreemdvermogenverschaffers een hogere (interest)vergoeding zullen vragen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Als de hefboomfactor dus de verhouding vv/ev toeneemt, neemt het risico op wanbetaling toe"
+     },
+     {
+      "points": 1,
+      "description": "waardoor de vreemdvermogenverschaffers een hogere (interest)vergoeding zullen vragen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-schaeffer-nv-antw29.png"
+    ]
+   },
+   {
+    "title": "Schaeffer nv",
+    "question_number": 30,
+    "answer_text": "Schaeffer heeft ook vreemd vermogen: Vooruitontvangen bedragen en/of Crediteuren waarover geen interest betaald wordt.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-i-schaeffer-nv-antw30.png"
+    ]
+   }
+  ]
+ }
+}
