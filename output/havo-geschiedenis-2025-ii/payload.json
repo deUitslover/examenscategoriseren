@@ -1,0 +1,810 @@
+{
+ "exercises": [
+  {
+   "id": "bda149b1-cdf8-410d-96dc-f112443e7d0b",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Door de tijd heen",
+   "source": "HAVO Geschiedenis 2025-II"
+  },
+  {
+   "id": "ce7fda7b-6761-4a3e-a790-ce2ae7385c71",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Ontdekkers en Hervormers",
+   "source": "HAVO Geschiedenis 2025-II"
+  },
+  {
+   "id": "2baaeaa7-e8c2-44f1-9c30-8e173a0b6a88",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Het Britse Rijk",
+   "source": "HAVO Geschiedenis 2025-II"
+  },
+  {
+   "id": "3121c032-54c5-4142-ac93-daf56e79a885",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Regenten en Vorsten",
+   "source": "HAVO Geschiedenis 2025-II"
+  },
+  {
+   "id": "e8589101-9c7b-41ee-8273-50478312ecf0",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Pruiken en Revoluties",
+   "source": "HAVO Geschiedenis 2025-II"
+  },
+  {
+   "id": "3f99ebdf-07d3-4311-a924-0b07434b6ca3",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Burgers en Stoommachines",
+   "source": "HAVO Geschiedenis 2025-II"
+  },
+  {
+   "id": "db48578b-640f-42dc-b67b-c6e2edaa9671",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Duitsland in Europa",
+   "source": "HAVO Geschiedenis 2025-II"
+  },
+  {
+   "id": "5afdb8b3-8257-4e89-9d75-69b7832ad1ab",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Nederland 1948-2008",
+   "source": "HAVO Geschiedenis 2025-II"
+  },
+  {
+   "id": "e6720cf1-6d6d-4cf6-9d4b-64564cb66c37",
+   "subject_name": "Geschiedenis",
+   "level": "HAVO",
+   "title": "Computer en Televisie",
+   "source": "HAVO Geschiedenis 2025-II"
+  }
+ ],
+ "context_blocks": [
+  {
+   "id": "51bbe6fd-2e21-43f0-a645-75daf7830d61",
+   "exercise_id": "ce7fda7b-6761-4a3e-a790-ce2ae7385c71",
+   "label": "bron 1: brief van Cincius Romanus over de bibliotheek van Sankt Gallen (1416)",
+   "image_url": "geschiedenis-havo-2025-ii-ontdekkers-en-hervormers-bron1.png",
+   "text_content": "bron 1 In 1416 reist de Italiaan Cincius Romanus naar het klooster Sankt Gallen in Zwitserland. Hij schrijft aan een vriend:\nMaar toen we de toren van de kerk van Sankt Gallen zorgvuldig bestudeerden, daar waar talloze boeken worden bewaard als gevangenen en waar de bibliotheek verwaarloosd is en vol met stof, wormen, roet en allerlei andere zaken die worden geassocieerd met de vernietiging van boeken, barstten we in tranen uit. We bedachten dat dit de manier is waarop de Latijnse taal zijn grootse glorie en onderscheiding had verloren. Werkelijk, als deze bibliotheek kon spreken dan zou het uitroepen: \"Jullie die de Latijnse taal zo liefhebben, zorg ervoor dat ik niet helemaal vernietigd raak door deze treurige verwaarlozing!\"",
+   "block_type": "inline"
+  },
+  {
+   "id": "ccd972df-c61a-4271-a5c9-b4930e6d64a5",
+   "exercise_id": "2baaeaa7-e8c2-44f1-9c30-8e173a0b6a88",
+   "label": "bron 3: medaille van de East India Company voor inheemse soldaten (1784)",
+   "image_url": "geschiedenis-havo-2025-ii-het-britse-rijk-bron3.png",
+   "text_content": "bron 3 Een medaille uit 1784, uitgereikt door de East India Company:\n[Afbeelding] Foto van een medaille: Brittannia zit met speer en schild tussen wapens en houdt een lauwerkrans omhoog; op de achtergrond een fort.\nToelichting: Op de medaille staat Brittannia, een symbool voor Groot-Brittannië. Brittannia houdt een lauwerkrans vast, een beloning voor overwinnaars. Op de achtergrond staat een Indiaas fort afgebeeld waarop de Britse vlag is gehesen.",
+   "block_type": "inline"
+  },
+  {
+   "id": "224c081d-792d-4cbb-b942-f22c5f22934d",
+   "exercise_id": "2baaeaa7-e8c2-44f1-9c30-8e173a0b6a88",
+   "label": "bron 6: tekening van een Brits schip op de Indus (1861)",
+   "image_url": "geschiedenis-havo-2025-ii-het-britse-rijk-bron6.png",
+   "text_content": "bron 6 Tekening uit 1861 van een Brits schip op de Indiase rivier de Indus:\n[Afbeelding] Gravure: een lang, plat stoomschip met schoepenrad en drie schoorstenen vaart over een brede rivier; op de voorgrond een klein bootje.",
+   "block_type": "inline"
+  },
+  {
+   "id": "2b08553a-7cd5-49e4-a1f8-e882201da4e0",
+   "exercise_id": "2baaeaa7-e8c2-44f1-9c30-8e173a0b6a88",
+   "label": "bron 8: Brits lied over koloniale politiek in Afrika (rond 1895)",
+   "image_url": "geschiedenis-havo-2025-ii-het-britse-rijk-bron8.png",
+   "text_content": "bron 8 Rond 1895 wordt in Groot-Brittannië een lied geschreven over Britse koloniale politiek in Afrika:\nVoorwaarts, huursoldaten, op naar het heidens land, Kerkboek in je zakken, 't geweer klaar in je hand. Breng het goede bericht naar landen met een handelssfeer, Verbreid het vreedzaam evangelie – met een Maximgeweer1).\nnoot 1 Dit is een Brits machinegeweer.",
+   "block_type": "inline"
+  },
+  {
+   "id": "c8f28811-cffc-45a5-b384-17a2432c1dfc",
+   "exercise_id": "3121c032-54c5-4142-ac93-daf56e79a885",
+   "label": "bron 2: brief van WIC-bestuurder Pieter Schaghen over Nieuw-Nederland (1626)",
+   "image_url": "geschiedenis-havo-2025-ii-regenten-en-vorsten-bron2.png",
+   "text_content": "bron 2 Pieter Schaghen zit in het bestuur van de handelsorganisatie West-Indische Compagnie (WIC) te Amsterdam. Op 7 november 1626 schrijft hij:\nGister is het schip Het Wapen van Amsterdam gearriveerd. Het is vertrokken uit Nieuw-Nederland1) op 23 september. Ze brengen de boodschap dat het volk2) gezond is en in vrede leeft. De vrouwen hebben daar kinderen gebaard en ze hebben het eiland Manhattan van de wilden3) gekocht voor 60 gulden (…). Er is koren gezaaid in mei en gemaaid in augustus. Ze hebben voorbeelden van deze zomergranen gestuurd: tarwe, rogge, gerst, haver, boekweit, kanariezaad, bonen en vlas. De lading van het schip is: 7246 bevervellen, 675 ottervellen, 48 nertsvellen.\nnoot 1 een gebied in Noord-Amerika waar Nederlandse kolonisten zich vestigen noot 2 de Nederlandse kolonisten noot 3 Schaghen bedoelt de oorspronkelijke bevolking.",
+   "block_type": "inline"
+  },
+  {
+   "id": "290c9f16-c099-4356-a7da-b6a4cb4ca644",
+   "exercise_id": "e8589101-9c7b-41ee-8273-50478312ecf0",
+   "label": "bron 4: abolitionist Carl Wädstrom over een West-Afrikaanse koning (1787)",
+   "image_url": "geschiedenis-havo-2025-ii-pruiken-en-revoluties-bron4.png",
+   "text_content": "bron 4 De abolitionist Carl Wädstrom reist in 1787 naar Afrika en publiceert daarover een boek. Hierin staat over een koning in West-Afrika:\nDe koning had in het jaar 1787 een wet aangenomen die hem tot eer strekte, namelijk dat geen slaaf meer door zijn rijk mocht worden vervoerd. In die tijd lagen verschillende Franse schepen1) te anker in de Senegalese baai, wachtend op slaven. De route van de handelaren in zwarte mensen was door deze wet van de koning geblokkeerd en ze brachten de slaven daarom naar andere gebieden. De Fransen die hierdoor hun lading niet kregen, klaagden bij de koning. Hij was echter niet onder de indruk van hun klachten en gaf de geschenken terug die de Senegalese Compagnie hem stuurde. Hiervan was ik zelf getuige, en hij [de koning] verklaarde dat alle rijkdommen van de Compagnie hem niet van gedachte zouden doen veranderen.\nnoot 1 De Franse schepen waren onderdeel van de Senegalese Compagnie, een organisatie waarmee de Fransen handel dreven in Afrika.",
+   "block_type": "inline"
+  },
+  {
+   "id": "afff3f72-81eb-45d5-9036-904a7f7e0a9c",
+   "exercise_id": "e8589101-9c7b-41ee-8273-50478312ecf0",
+   "label": "bron 5: oproep van Herman Willem Daendels aan de Nederlanders (1794)",
+   "image_url": "geschiedenis-havo-2025-ii-pruiken-en-revoluties-bron5.png",
+   "text_content": "bron 5 De Nederlander Herman Willem Daendels is generaal van de Franse troepen die in 1794 Gelderland binnentrekken. Hij roept de Nederlanders op:\nBegin maar met u te wapenen met jachtgeweren, die u veel op de havezaten (landgoederen) en in de herenhuizen zult vinden. En met pieken, hooivorken of ander lang en scherp gereedschap. Vorm compagnieën van 125 mannen en kies kapiteins. Kies niet de rijkste, die mooi gekleed zijn of het best uit hun woorden komen, maar kies diegenen die het beste kunnen vechten. Wij bezorgen u leiders die de oorlog kennen. Wees niet bang dat u jaren soldaat moet blijven. Niemand hoeft langer de wapens te dragen dan de zaak vereist, dat wil zeggen totdat Oranje1) met zijn 'vergulde' knechten het land uit is.\nnoot 1 Daendels bedoelt de stadhouder Willem V van Oranje.",
+   "block_type": "inline"
+  },
+  {
+   "id": "c0a4a9cb-344d-4d2d-8d65-5ee8b677055a",
+   "exercise_id": "3f99ebdf-07d3-4311-a924-0b07434b6ca3",
+   "label": "bron 7: dominee Hoedemaker over fabrieksarbeiders in Veenendaal (1875)",
+   "image_url": "geschiedenis-havo-2025-ii-burgers-en-stoommachines-bron7.png",
+   "text_content": "bron 7 In 1875 schrijft dominee Hoedemaker in de brochure De Fabrieksarbeiders te Veenendaal:\nLevendig herinner ik mij de indruk, die de bleke, ingevallen, verouderde, scherp getekende gelaatstrekken van de jongens en meisjes (…), op mij\nmaakten vooral gedurende de eerste weken van mijn verblijf te Veenendaal. Nooit vergeet ik het ongewone geluid van de fabrieksbel, die mij vaak wekte, terwijl alles buiten nog donker en stil was, en hoe ik te midden van de\nafgemeten voetstappen der oudere arbeiders, het getrappel van kleine voetjes kon onderscheiden, die zich voorbij de woningen waar alles nog 'in de rust\nwas', naar het werk spoedden. Ik wist, dat er kinderen voorbijgingen, die misschien dezen morgen al slapende uit bed getild waren om, op de kille stenen van den vloer wakker geschud, tot bezinning te komen.",
+   "block_type": "inline"
+  },
+  {
+   "id": "ca0da794-f9c8-4a13-8347-65694ebe7727",
+   "exercise_id": "db48578b-640f-42dc-b67b-c6e2edaa9671",
+   "label": "bron 9: Freiburger Zeitung over de verkiezingsdag in Berlijn (1936)",
+   "image_url": "geschiedenis-havo-2025-ii-duitsland-in-europa-bron9.png",
+   "text_content": "bron 9 Bericht uit de Duitse krant Freiburger Zeitung van 29 maart 1936:\nEen prachtige lentehemel glimlacht over de Rijkshoofdstad. Verkiezingsdag - feestdag! De Berlijners werden al vroeg uit bed getrommeld. Sinds 7.00 uur klinkt er marsmuziek door de met vlaggen versierde straten. De nazigelederen zijn overal aanwezig en doen opnieuw een beroep op plicht en geweten (…). Een verkwikkende, vrolijke sfeer domineert de stad. Binnenkort zal er een echte volksverhuizing plaatsvinden naar de meer dan 2.000 stembureaus. (...) Bij aanvang van de verkiezingen, staan er lange rijen mensen voor de stembureaus tot ver in de straten. (...) Om 12.00 uur hebben al vele honderdduizenden hun stem kunnen uitbrengen, stemmend in lijn met de grote woorden van de leider [Hitler] die in veel stembureaus aan de muur hangt: 'voor de één zijn we de partij, voor een ander een organisatie, weer iets anders voor een derde, in werkelijkheid zijn wij het Duitse volk!'",
+   "block_type": "inline"
+  },
+  {
+   "id": "1bd2cf6c-ef3a-4e14-990c-7480c157f512",
+   "exercise_id": "db48578b-640f-42dc-b67b-c6e2edaa9671",
+   "label": "bron 11: Christel Dux over een grenscontrole in Berlijn (1957)",
+   "image_url": "geschiedenis-havo-2025-ii-duitsland-in-europa-bron11.png",
+   "text_content": "bron 11 Christel Dux beschrijft een voorval uit haar jeugd in Oost-Berlijn in 1957:\nPapa nam altijd graag de tijdschriften mee die verboden waren, en hij was vooral dol op de Stern1), die oom Alex2) altijd las. Daarom stopte hij vlak voor de grens, voordat we bij de Oberbaumbrug werden gecontroleerd, altijd één of twee tijdschriften in zijn broek. Na een feestje werd hij overmoedig en stopte een aantal tijdschriften in zijn broek toen hij bij tante Gerda2) was. We namen de trein naar Warschauer Straat en liepen naar de Oberbaumbrug, het was al nacht. Op de Oberbaumbrug stond maar één jonge grenswachter, misschien was de ander net vertrokken of ziek, het waren er in ieder geval altijd twee geweest. Hij wilde onze identiteitsbewijzen zien. Over het algemeen werd gevraagd waar je vandaan kwam, maar deze grenswachter zei niets, stelde alleen de gebruikelijke vraag over tijdschriften. Mijn vader antwoordde een beetje geschokt: 'Nee, wat denkt u, zulke besmette kranten lezen wij niet.' Precies op dat moment vielen de Sternen uit zijn broekspijpen. Pats, daar lagen ze voor de grenswacht. 'O God, we moeten nu gaan', dacht ik en natuurlijk was ik bang dat mijn ouders nu opgesloten zouden worden. Smokkel van verboden, provocerende, imperialistische geschriften betekende jarenlang gevangenisstraf. Maar de grenswacht liet ons de tijdschriften oppakken, gaf mijn ouders hun identiteitsbewijs en liet ons gaan. \"Ga weg\", waren slechts zijn woorden. Ik ben deze persoon nog steeds dankbaar dat hij ons van een verschrikkelijk lot heeft gered.\nnoot 1 Stern is een West-Duits weekblad. noot 2 Oom Alex en tante Gerda wonen in West-Berlijn.",
+   "block_type": "inline"
+  },
+  {
+   "id": "28d9688d-35da-4d8e-8bee-f571387dfaf4",
+   "exercise_id": "db48578b-640f-42dc-b67b-c6e2edaa9671",
+   "label": "bron 14: prent van Klaus Stuttmann over de Duitse eenheid (1995)",
+   "image_url": "geschiedenis-havo-2025-ii-duitsland-in-europa-bron14.png",
+   "text_content": "bron 14 Prent van de Duitse tekenaar Klaus Stuttmann uit 1995:\n[Afbeelding] Prent in drie delen: een slang met 'West' slokt een egel met 'Ost' op, ligt daarna met een bolle buik en kronkelt ten slotte van de pijn doordat de stekels van de egel uit zijn lijf steken.\nToelichting: Op de egel staat Ost (Oosten) en op de slang staat West (Westen). De ondertitel is 'Op de dag van de Duitse eenheid'.",
+   "block_type": "inline"
+  },
+  {
+   "id": "2c111251-529f-472c-9595-5b96f31ec388",
+   "exercise_id": "5afdb8b3-8257-4e89-9d75-69b7832ad1ab",
+   "label": "bron 10: Rie Stroek-Wagenmakers over het inwisselen van een girobetaalkaart (jaren 1950)",
+   "image_url": "geschiedenis-havo-2025-ii-nederland-1948-2008-bron10.png",
+   "text_content": "bron 10 In een interview vertelt de Nederlandse Rie Stroek-Wagenmakers over het inwisselen van een girobetaalkaart1) bij de bank in de jaren 1950:\n\"Was ik eindelijk aan de beurt na een uur wachten, zegt die man 'waar is de toestemming van uw man?' Woedend was ik.\" Bij de slager om de hoek vroeg Rie vervolgens een briefje en schreef zelf een machtiging. \"Ik ben bij een ander loket gaan staan en heb mijn geld toch gekregen\", lacht ze, nog altijd trots op haar ongehoorzaamheid.\nnoot 1 Met een girobetaalkaart kon je geld opnemen van een bankrekening",
+   "block_type": "inline"
+  },
+  {
+   "id": "7dfe840a-569d-4dfd-98e6-b2dd121015cd",
+   "exercise_id": "5afdb8b3-8257-4e89-9d75-69b7832ad1ab",
+   "label": "bron 13: advertentie van uitzendbureau Studia in Het Parool (1970)",
+   "image_url": "geschiedenis-havo-2025-ii-nederland-1948-2008-bron13.png",
+   "text_content": "bron 13 In het dagblad Het Parool van 5 juni 1970 staat deze advertentie van Studia: een uitzendbureau en een crèche:\nMOEDER uw peuter vindt het fijn om samen met leeftijdsgenootjes in een leuke omgeving:\n− te spelen (met goed speelgoed).\n− te eten (verantwoord voedsel).\n− te slapen (in zijn 'eigen' bedje). Dit kan in Studia onder toezicht van een deskundige leiding. U vindt het prettig om eens - al is het maar voor een paar weken - uit uw dagelijkse sleur te breken. Uw 'oude' beroep (steno)-typiste of secretaresse weer eens op te nemen. Uw huishoud- of vakantiebudget aan te vullen. Dat kan via Studia uitzendbureau. Uw kind is uitstekend verzorgd. En u verdient minstens f 140,- netto per week.",
+   "block_type": "inline"
+  }
+ ],
+ "questions": [
+  {
+   "id": "16591a18-f1b6-4db6-b9b2-a6a05db5666d",
+   "exercise_id": "bda149b1-cdf8-410d-96dc-f112443e7d0b",
+   "question_number": 1,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    },
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Ontdekkers en hervormers — overig (1500-1600)"
+    },
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1948-1978)"
+    }
+   ],
+   "keywords": [
+    "chronologie",
+    "ontdekkingsreizen",
+    "reformatie",
+    "koningin Victoria",
+    "Eerste Wereldoorlog",
+    "dekolonisatie"
+   ],
+   "question_summary": "Chronologisch ordenen van zes gebeurtenissen over papegaaien uit verschillende tijdvakken.",
+   "question_image_url": "geschiedenis-havo-2025-ii-door-de-tijd-heen-vraag1.png",
+   "question_text": "De volgende gebeurtenissen, die te maken hebben met papegaaien, staan in willekeurige volgorde:\n1 De Culemborgse graaf Floris I, die zich verzette tegen het Spaanse godsdienstbeleid, voerde zijn papegaai een hostie die klaarlag voor een katholieke eredienst.\n2 De ontdekkingsreiziger Christoffel Columbus bracht papegaaien, die hij kreeg van de inheemse bevolking van Amerika, naar Spanje.\n3 De roodstaartpapegaai 'Polly' werd de mascotte van een luchtmachtonderdeel met Nederlandse piloten die voor de Duitsers waren gevlucht naar Engeland.\n4 In Vught werden in een woonwijk voor Molukkers die na de onafhankelijkheid van Indonesië naar Nederland waren gekomen, straten genoemd naar de papegaaiensoorten Kastoeri en Lori.\n5 Koningin Victoria bezat een papegaai die 'God save the Queen' [God beware de koningin] kon krijsen.\n6 Tijdens de Eerste Wereldoorlog werden in Parijs papegaaien in de top van de Eiffeltoren geplaatst die waarschuwden als ze een vliegtuig hoorden aankomen. 2p 1 Zet de gebeurtenissen in de juiste chronologische volgorde, van vroeger naar later. Noteer alleen de nummers.",
+   "context_block_ids": []
+  },
+  {
+   "id": "670e6644-2729-4e0d-8191-1b27fb1751c4",
+   "exercise_id": "bda149b1-cdf8-410d-96dc-f112443e7d0b",
+   "question_number": 16,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Opkomst nationaalsocialisme en gevolgen (1918-1945)"
+    },
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Duitsland en de Koude Oorlog (1945-1961)"
+    },
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Wereldoorlogen — overig (1900-1950)"
+    }
+   ],
+   "keywords": [
+    "chronologie",
+    "Adenauer",
+    "verzoeningspolitiek",
+    "beurskrach",
+    "machtsovername Hitler",
+    "bezettingszones"
+   ],
+   "question_summary": "Chronologisch ordenen van zes gebeurtenissen uit het leven van Konrad Adenauer.",
+   "question_image_url": "geschiedenis-havo-2025-ii-door-de-tijd-heen-vraag16.png",
+   "question_text": "De volgende gebeurtenissen uit het leven van Konrad Adenauer (1876-1967) staan in willekeurige volgorde:\n1 Adenauer liet vlaggen met daarop het hakenkruis weghalen die aan Keulse bruggen werden opgehangen voor het bezoek van de nieuwe rijkskanselier Hitler.\n2 Adenauer sprak met de Fransen over samenwerking in het Rijnland om de Duitse verzoeningspolitiek te ondersteunen.\n3 De leiding van de Britse bezettingszone verweet Adenauer dat hij het opruimen van puin in Keulen niet snel genoeg regelde.\n4 Kort nadat legerofficieren een aanslag pleegden op Hitler vanwege het dramatische verloop van de strijd tegen de geallieerden, werd Adenauer opgepakt en vastgezet.\n5 Om meer arbeidsplaatsen te creëren voor de mensen die door de beurskrach werkloos werden, verbood Adenauer zijn ambtenaren bijbanen te hebben.\n6 Tijdens de Eerste Wereldoorlog ontwikkelde Adenauer een worst op basis van sojameel om het tekort aan vlees op te vangen. 2p 16 Zet deze gebeurtenissen in de juiste chronologische volgorde, van vroeger naar later. Noteer alleen de nummers.",
+   "context_block_ids": []
+  },
+  {
+   "id": "f8a8449f-429e-462d-bf16-84cdb8c99d37",
+   "exercise_id": "ce7fda7b-6761-4a3e-a790-ce2ae7385c71",
+   "question_number": 2,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Ontdekkers en hervormers — overig (1500-1600)"
+    }
+   ],
+   "keywords": [
+    "renaissance",
+    "humanisme",
+    "klassieke Oudheid",
+    "Latijn",
+    "kenmerkend aspect",
+    "zestiende eeuw"
+   ],
+   "question_summary": "Voor twee kenmerkende aspecten van de zestiende eeuw aantonen dat de mening van Cincius Romanus erbij past.",
+   "question_image_url": "geschiedenis-havo-2025-ii-ontdekkers-en-hervormers-vraag2.png",
+   "question_text": "Gebruik bron 1. De mening die Cincius Romanus geeft over de bibliotheek van Sankt Gallen past bij verschillende kenmerkende aspecten van de zestiende eeuw. 2p 2 Toon dit aan voor twee kenmerkende aspecten van de zestiende eeuw. Let op: je moet na het opschrijven van een kenmerkend aspect een uitleg geven.",
+   "context_block_ids": [
+    "51bbe6fd-2e21-43f0-a645-75daf7830d61"
+   ]
+  },
+  {
+   "id": "2cbeea92-6a7a-4c6b-8f24-9e5b0f4ca43c",
+   "exercise_id": "ce7fda7b-6761-4a3e-a790-ce2ae7385c71",
+   "question_number": 3,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    },
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Ontdekkers en hervormers — overig (1500-1600)"
+    }
+   ],
+   "keywords": [
+    "reformatie",
+    "Maarten Luther",
+    "protestantisme",
+    "godsdienstige onrust",
+    "Opstand",
+    "stadsbestuur"
+   ],
+   "question_summary": "Beredeneren waarom het Groningse stadsbestuur verwachtte dat een boek van Luther voor onrust zou zorgen.",
+   "question_image_url": "geschiedenis-havo-2025-ii-ontdekkers-en-hervormers-vraag3.png",
+   "question_text": "Een geschiedenis: In 1557 onderwees schoolmeester Derck Paesschen in Groningen zijn leerlingen uit 'een zeker Duits boekje, namelijk van Maarten Luther'. Het stadsbestuur verbood de schoolmeester dit boek te gebruiken. Toen Paesschen het boek toch bleef gebruiken, werd hij door het stadsbestuur uit Groningen verbannen om onrust te voorkomen. 2p 3 Beredeneer waardoor het stadsbestuur ervan uitging dat het gebruik van een boek van Maarten Luther voor onrust zou zorgen in de stad.",
+   "context_block_ids": []
+  },
+  {
+   "id": "78a30b75-92a1-47bd-a7f4-a2e60c7adf28",
+   "exercise_id": "ce7fda7b-6761-4a3e-a790-ce2ae7385c71",
+   "question_number": 4,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Ontdekkers en hervormers — overig (1500-1600)"
+    },
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    }
+   ],
+   "keywords": [
+    "Opstand",
+    "Filips II",
+    "overzeese expansie",
+    "ontdekkingsreizen",
+    "handelsroute naar Azië",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Twee gebeurtenissen rond de Portugese havens en de Houtman-expeditie verklaren met verschillende kenmerkende aspecten van de zestiende eeuw.",
+   "question_image_url": "geschiedenis-havo-2025-ii-ontdekkers-en-hervormers-vraag4.png",
+   "question_text": "Twee gebeurtenissen:\n1 Nadat Portugal in 1580 bij Spanje werd gevoegd, besloot de Spaanse koning Filips II dat schepen uit de Republiek niet meer in Portugese havens mochten komen.\n2 In 1592 gaven Amsterdamse kooplieden aan de gebroeders Houtman opdracht om informatie in te winnen over de Carreira da Índia, de zeeroute naar India die de Portugezen hadden ontdekt. 2p 4 Geef voor elke gebeurtenis een verklaring met behulp van een verschillend kenmerkend aspect van de zestiende eeuw. Let op: je moet na het opschrijven van een kenmerkend aspect een uitleg geven.",
+   "context_block_ids": []
+  },
+  {
+   "id": "30004ee6-0417-4378-b8ea-ae9a74fbce2d",
+   "exercise_id": "2baaeaa7-e8c2-44f1-9c30-8e173a0b6a88",
+   "question_number": 7,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "India als belangrijkste kolonie (1765-1885)"
+    }
+   ],
+   "keywords": [
+    "East India Company",
+    "Verdrag van Allahabad",
+    "belastinginning",
+    "Brits-Indisch leger",
+    "propaganda",
+    "medaille"
+   ],
+   "question_summary": "Uitleggen waarom de Britten na 1765 een leger in India nodig hadden en welke boodschap de medaille en de afbeelding erop moesten uitdragen.",
+   "question_image_url": "geschiedenis-havo-2025-ii-het-britse-rijk-vraag7.png",
+   "question_text": "Gebruik bron 3. Na 1765 hebben de Britten behoefte aan een leger in India. Deze medaille wordt uitgereikt aan inheemse soldaten die voor de Britten vechten in India. 4p 7 Geef aan:\n− waarom de Britten behoefte hebben aan een leger, waarbij je in je antwoord ingaat op een gebeurtenis uit 1765, en\n− welke boodschap de Britten willen geven door het uitreiken van de medaille, en\n− welke boodschap de Britten willen geven met de afbeelding op de medaille.",
+   "context_block_ids": [
+    "ccd972df-c61a-4271-a5c9-b4930e6d64a5"
+   ]
+  },
+  {
+   "id": "e36b731b-045c-44ab-9400-1c144e5642f1",
+   "exercise_id": "2baaeaa7-e8c2-44f1-9c30-8e173a0b6a88",
+   "question_number": 10,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    },
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "Koloniën en sociaal-economische ontwikkeling in Groot-Brittannië (1750-1900)"
+    }
+   ],
+   "keywords": [
+    "afschaffing slavernij",
+    "plantage-economie",
+    "Caribisch gebied",
+    "Wereldtentoonstelling 1851",
+    "industriële revolutie",
+    "stoommachine"
+   ],
+   "question_summary": "De interesse voor een suikerrietpers verklaren vanuit de afschaffing van de slavernij in 1833 en de boodschap van de Wereldtentoonstelling.",
+   "question_image_url": "geschiedenis-havo-2025-ii-het-britse-rijk-vraag10.png",
+   "question_text": "In 1851 toonde het Britse bedrijf Robinson and Russel op de wereldtentoonstelling in Londen een stoommachine waarmee suikerriet kon worden geperst. Er was veel interesse voor deze machine. 3p 10 Licht de interesse voor de machine toe door:\n− een verklaring te geven waardoor er in het Caribisch gebied interesse was voor machines als deze, waarbij je in je antwoord ingaat op een Brits besluit uit 1833, en\n− aan te geven dat het tonen van de machine van Robinson and Russel bijdroeg aan de boodschap die de wereldtentoonstelling moest overbrengen.",
+   "context_block_ids": []
+  },
+  {
+   "id": "6274183f-3f7b-4859-8bc8-c0359e20fcb8",
+   "exercise_id": "2baaeaa7-e8c2-44f1-9c30-8e173a0b6a88",
+   "question_number": 11,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "India als belangrijkste kolonie (1765-1885)"
+    }
+   ],
+   "keywords": [
+    "Opstand van 1857",
+    "stoomschepen",
+    "modern imperialisme",
+    "industriële revolutie",
+    "Brits gezag in India",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Verklaren waarom de Britten in 1857 rivierschepen voor India lieten bouwen en bij welk kenmerkend aspect het ontwerp past.",
+   "question_image_url": "geschiedenis-havo-2025-ii-het-britse-rijk-vraag11.png",
+   "question_text": "Gebruik bron 6. In 1857 laat de Britse overheid schepen bouwen die speciaal ontworpen zijn voor rivieren in India. De Britse overheid eist dat:\n1 de schepen tot ver in de binnenlanden kunnen varen.\n2 de schepen veel soldaten tegelijk kunnen vervoeren. 3p 11 Licht de bouw van het schip toe door:\n− te verklaren waardoor de Britse overheid juist in 1857 opdracht geeft voor de bouw van schepen als deze, en\n− aan te tonen bij welk kenmerkend aspect van de negentiende eeuw het ontwerp van het schip past. Let op: je moet na het opschrijven van een kenmerkend aspect een uitleg geven.",
+   "context_block_ids": [
+    "224c081d-792d-4cbb-b942-f22c5f22934d"
+   ]
+  },
+  {
+   "id": "d1430d33-b474-4290-b8c1-8b573fef9fcc",
+   "exercise_id": "2baaeaa7-e8c2-44f1-9c30-8e173a0b6a88",
+   "question_number": 13,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "Koloniën en sociaal-economische ontwikkeling in Groot-Brittannië (1750-1900)"
+    }
+   ],
+   "keywords": [
+    "modern imperialisme",
+    "beschavingsmissie",
+    "superioriteitsgevoel",
+    "zending",
+    "koloniale expansie",
+    "bronverwijzing"
+   ],
+   "question_summary": "Met de liedtekst aangeven welke kritiek het lied geeft op het Britse idee de wereld te moeten beschaven.",
+   "question_image_url": "geschiedenis-havo-2025-ii-het-britse-rijk-vraag13.png",
+   "question_text": "Gebruik bron 8. Eind negentiende eeuw dachten de Britten dat zij de wereld moesten beschaven. 2p 13 Geef aan welke kritiek het lied weergeeft op dit idee, waarna je je antwoord ondersteunt met een verwijzing naar de liedtekst.",
+   "context_block_ids": [
+    "2b08553a-7cd5-49e4-a1f8-e882201da4e0"
+   ]
+  },
+  {
+   "id": "5419067e-6f22-46c0-a675-76c26264c82a",
+   "exercise_id": "3121c032-54c5-4142-ac93-daf56e79a885",
+   "question_number": 5,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Regenten en vorsten — overig (1600-1700)"
+    }
+   ],
+   "keywords": [
+    "WIC",
+    "Nieuw-Nederland",
+    "vestigingskolonie",
+    "oorspronkelijke bevolking",
+    "Republiek",
+    "bronverwijzing"
+   ],
+   "question_summary": "Met de brief aantonen dat de kolonisten in Nieuw-Nederland hun twee opdrachten uitvoeren.",
+   "question_image_url": "geschiedenis-havo-2025-ii-regenten-en-vorsten-vraag5.png",
+   "question_text": "Gebruik bron 2. De kolonisten krijgen twee opdrachten mee voor de stichting van Nieuw-Nederland:\n1 Nieuw-Nederland moet een vestigingskolonie worden.\n2 De kolonisten moeten ervoor zorgen dat er geen conflicten ontstaan met de oorspronkelijke bevolking. 2p 5 Toon voor elk van beide opdrachten apart aan dat uit de brief blijkt dat de kolonisten deze uitvoeren.",
+   "context_block_ids": [
+    "c8f28811-cffc-45a5-b384-17a2432c1dfc"
+   ]
+  },
+  {
+   "id": "1ac9874a-5558-477f-880c-494509ea1cb3",
+   "exercise_id": "3121c032-54c5-4142-ac93-daf56e79a885",
+   "question_number": 6,
+   "topics": [
+    {
+     "domain": "Tijdvakken (overige kenmerkende aspecten)",
+     "subdomain": "Regenten en vorsten — overig (1600-1700)"
+    }
+   ],
+   "keywords": [
+    "WIC",
+    "handelskapitalisme",
+    "bonthandel",
+    "winst",
+    "Gouden Eeuw",
+    "bronverwijzing"
+   ],
+   "question_summary": "Vanuit de functie van Schaghen als WIC-bestuurder verklaren waarom hij tevreden is met de kolonie.",
+   "question_image_url": "geschiedenis-havo-2025-ii-regenten-en-vorsten-vraag6.png",
+   "question_text": "Gebruik bron 2 nogmaals. Pieter Schaghen is tevreden met de kolonie. 2p 6 Verklaar vanuit zijn functie als bestuurder van de WIC dat Schaghen tevreden is met de kolonie, waarna je je antwoord ondersteunt met een verwijzing naar de bron.",
+   "context_block_ids": [
+    "c8f28811-cffc-45a5-b384-17a2432c1dfc"
+   ]
+  },
+  {
+   "id": "feb8168d-571b-4927-b69e-41c58c688ff6",
+   "exercise_id": "e8589101-9c7b-41ee-8273-50478312ecf0",
+   "question_number": 8,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    }
+   ],
+   "keywords": [
+    "abolitionisme",
+    "slavenhandel",
+    "standplaatsgebondenheid",
+    "Afrikaanse handelaren",
+    "motieven",
+    "bronverwijzing"
+   ],
+   "question_summary": "Met de bron aantonen dat Wädstrom het abolitionisme wil steunen en een niet-abolitionistisch motief van de Afrikaanse koning noemen.",
+   "question_image_url": "geschiedenis-havo-2025-ii-pruiken-en-revoluties-vraag8.png",
+   "question_text": "Gebruik bron 4. Historici denken dat:\n1 Wädstrom door het opnemen van deze gebeurtenis de abolitionistische beweging wil steunen.\n2 de Afrikaanse koning mogelijk niet beïnvloed is door abolitionistische ideeën. 3p 8 Ondersteun beide redeneringen door:\n− met een verwijzing naar de bron een argument te geven voor de eerste redenering, en\n− zonder bron een motief van de Afrikaanse koning te noemen voor het verbod op het vervoeren van slaafgemaakten door zijn rijk dat niet past bij abolitionistische ideeën.",
+   "context_block_ids": [
+    "290c9f16-c099-4356-a7da-b6a4cb4ca644"
+   ]
+  },
+  {
+   "id": "33d7106c-14be-43f5-bac1-982e701ef21a",
+   "exercise_id": "e8589101-9c7b-41ee-8273-50478312ecf0",
+   "question_number": 9,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "De Engelse koloniën in de Amerika's (1585-1833)"
+    }
+   ],
+   "keywords": [
+    "Verlichting",
+    "democratische revoluties",
+    "patriotten",
+    "Bataafse Revolutie",
+    "gelijkheid",
+    "bronverwijzing"
+   ],
+   "question_summary": "Per kenmerkend aspect uitleggen waarom de oproep van Daendels past bij verlicht denken en bij de democratische revoluties.",
+   "question_image_url": "geschiedenis-havo-2025-ii-pruiken-en-revoluties-vraag9.png",
+   "question_text": "Gebruik bron 5. De oproep van Daendels past bij:\n1 'verlicht denken' dat werd toegepast op sociale verhoudingen'.\n2 'de democratische revoluties in westerse landen'. 4p 9 Geef per kenmerkend aspect aan waarom de oproep hierbij past, waarna je je antwoord telkens ondersteunt met een andere verwijzing naar de bron.",
+   "context_block_ids": [
+    "afff3f72-81eb-45d5-9036-904a7f7e0a9c"
+   ]
+  },
+  {
+   "id": "ab1f5c5a-428f-4712-8d2d-92487b0f2782",
+   "exercise_id": "3f99ebdf-07d3-4311-a924-0b07434b6ca3",
+   "question_number": 12,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "Koloniën en sociaal-economische ontwikkeling in Groot-Brittannië (1750-1900)"
+    }
+   ],
+   "keywords": [
+    "sociale kwestie",
+    "kinderarbeid",
+    "confessionalisme",
+    "fabrieksarbeid",
+    "industriële revolutie",
+    "bronverwijzing"
+   ],
+   "question_summary": "Aantonen dat Hoedemaker bijdraagt aan de discussie over de sociale kwestie en de passende politiek-maatschappelijke stroming noemen.",
+   "question_image_url": "geschiedenis-havo-2025-ii-burgers-en-stoommachines-vraag12.png",
+   "question_text": "Gebruik bron 7. Dominee Hoedemaker wil met de brochure geld bij elkaar krijgen voor zijn werkzaamheden, zoals het verzorgen van godsdienstlessen voor fabriekskinderen. 3p 12 Licht dit toe door:\n− aan te tonen dat Hoedemaker een bijdrage levert aan 'de discussies rondom de sociale kwestie', waarna je je antwoord ondersteunt met een verwijzing naar de bron, en\n− zonder bron de politiek-maatschappelijke stroming te noemen waarbij Hoedemaker met zijn werkzaamheden past.",
+   "context_block_ids": [
+    "c0a4a9cb-344d-4d2d-8d65-5ee8b677055a"
+   ]
+  },
+  {
+   "id": "ca84b436-fced-4bd7-9221-43bde195f8e6",
+   "exercise_id": "3f99ebdf-07d3-4311-a924-0b07434b6ca3",
+   "question_number": 25,
+   "topics": [
+    {
+     "domain": "Het Britse Rijk (1585-1900)",
+     "subdomain": "India als belangrijkste kolonie (1765-1885)"
+    }
+   ],
+   "keywords": [
+    "modern imperialisme",
+    "Nederlands-Indië",
+    "oorlogsbuit",
+    "koloniale expansie",
+    "nationalisme",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Het tentoonstellen van de diamant van Banjarmasin verklaren met het moderne imperialisme en de politieke boodschap ervan noemen.",
+   "question_image_url": "geschiedenis-havo-2025-ii-burgers-en-stoommachines-vraag25.png",
+   "question_text": "De volgende vraag gaat over de diamant van Banjarmasin, die werd meegenomen van het Indonesische eiland Borneo naar Nederland:\nIn 1859 veroverden Nederlandse troepen het vorstendom Banjarmasin op het Indonesische eiland Borneo. Ze namen een grote diamant van de voormalige sultan van Banjarmasin mee. De Nederlandse regering liet deze diamant in het Rijksmuseum tentoonstellen, als 'een geschiedkundig gedenkteken van de onderwerping van Banjarmasin'. 2p 25 Licht het tentoonstellen van de diamant toe door:\n− met een kenmerkend aspect uit de negentiende eeuw een verklaring te geven voor de beslissing om de diamant tentoon te stellen, en\n− de politieke boodschap te noemen die de regering met het tentoonstellen wilde overbrengen. Let op: je moet na het opschrijven van een kenmerkend aspect een uitleg geven.",
+   "context_block_ids": []
+  },
+  {
+   "id": "fd26f6c7-a8c8-45dd-8cee-9ecc4e54b647",
+   "exercise_id": "db48578b-640f-42dc-b67b-c6e2edaa9671",
+   "question_number": 14,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Opkomst nationaalsocialisme en gevolgen (1918-1945)"
+    }
+   ],
+   "keywords": [
+    "Republiek van Weimar",
+    "Freikorps",
+    "dolkstootlegende",
+    "zwakke democratie",
+    "Verdrag van Versailles",
+    "leger"
+   ],
+   "question_summary": "Aan de geschiedenis van de Vrijkorpsen twee oorzaken ontlenen voor de zwakke positie van de Weimarregering.",
+   "question_image_url": "geschiedenis-havo-2025-ii-duitsland-in-europa-vraag14.png",
+   "question_text": "Een geschiedenis: Begin 1919 sloten meer dan 350.000 Duitse soldaten zich aan bij paramilitaire eenheden die Freikorps [Vrijkorps] werden genoemd. De regering van de Republiek van Weimar zette Vrijkorpsen eerst in voor het neerslaan van opstanden, maar kondigde in 1920 aan dat ze werden opgeheven. Hierna kwamen Vrijkorpsen in opstand. De Duitse legerleiding weigerde de opstand neer te slaan. Aan deze geschiedenis kun je verschillende oorzaken ontlenen voor de zwakke positie van de regering van de Republiek van Weimar. 2p 14 Toon dit voor twee oorzaken aan.",
+   "context_block_ids": []
+  },
+  {
+   "id": "e3cbf9b0-3b16-4786-b4ba-ee8b81b303bc",
+   "exercise_id": "db48578b-640f-42dc-b67b-c6e2edaa9671",
+   "question_number": 15,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Opkomst nationaalsocialisme en gevolgen (1918-1945)"
+    }
+   ],
+   "keywords": [
+    "totalitarisme",
+    "propaganda",
+    "gelijkgeschakelde pers",
+    "verkiezingen",
+    "betrouwbaarheid",
+    "bronverwijzing"
+   ],
+   "question_summary": "Uitleggen waarom Duitse krantenartikelen uit 1936 onbetrouwbaar kunnen zijn maar de beschrijving wel past bij een verkiezingsdag in een totalitaire staat.",
+   "question_image_url": "geschiedenis-havo-2025-ii-duitsland-in-europa-vraag15.png",
+   "question_text": "Gebruik bron 9. Stel: je doet onderzoek naar de verkiezingsdag in 1936. Je trekt de conclusie dat deze beschrijving een waarheidsgetrouw beeld geeft van het verloop van de verkiezingsdag. 3p 15 Geef aan:\n− zonder bron waardoor je kunt twijfelen aan de betrouwbaarheid van krantenartikelen in Duitsland in die tijd, maar\n− dat de beschrijving wel een waarheidsgetrouw beeld geeft van het verloop van een verkiezingsdag in een totalitaire staat, waarna je je antwoord ondersteunt met een verwijzing naar de bron.",
+   "context_block_ids": [
+    "ca0da794-f9c8-4a13-8347-65694ebe7727"
+   ]
+  },
+  {
+   "id": "a6583475-94a9-4b97-b44d-768cc8e51fc7",
+   "exercise_id": "db48578b-640f-42dc-b67b-c6e2edaa9671",
+   "question_number": 18,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Duitsland en de Koude Oorlog (1945-1961)"
+    }
+   ],
+   "keywords": [
+    "Berlijnse Muur",
+    "DDR",
+    "vlucht naar het Westen",
+    "grensbewaking",
+    "Staatssicherheitsdienst",
+    "bronverwijzing"
+   ],
+   "question_summary": "Met de bron een motief voor de bouw van de Berlijnse Muur aantonen en verklaren waarom er altijd twee grenswachten werkten.",
+   "question_image_url": "geschiedenis-havo-2025-ii-duitsland-in-europa-vraag18.png",
+   "question_text": "Gebruik bron 11. Je concludeert dat je deze bron kunt gebruiken om:\n1 een motief aan te tonen voor de bouw van de Berlijnse Muur.\n2 te verklaren dat er altijd twee grenswachten tegelijk werken bij de Berlijnse Muur. 4p 18 Toon de juistheid van elke conclusie aan, waarbij je je antwoord telkens ondersteunt met een andere verwijzing naar de bron.",
+   "context_block_ids": [
+    "1bd2cf6c-ef3a-4e14-990c-7480c157f512"
+   ]
+  },
+  {
+   "id": "02c4a807-c3c1-4954-abeb-e2d56ee1166d",
+   "exercise_id": "db48578b-640f-42dc-b67b-c6e2edaa9671",
+   "question_number": 24,
+   "topics": [
+    {
+     "domain": "Duitsland in Europa (1918-1991)",
+     "subdomain": "Hereniging en Europese integratie (1961-1991)"
+    }
+   ],
+   "keywords": [
+    "Duitse hereniging",
+    "integratie voormalige DDR",
+    "Ost en West",
+    "spotprent",
+    "economische problemen",
+    "bronverwijzing"
+   ],
+   "question_summary": "Met de prent aantonen welke mening de tekenaar heeft over de integratie van de voormalige DDR.",
+   "question_image_url": "geschiedenis-havo-2025-ii-duitsland-in-europa-vraag24.png",
+   "question_text": "Gebruik bron 14. De tekenaar geeft in deze prent een mening weer over de integratie van de voormalige DDR in het verenigde Duitsland. 2p 24 Toon aan welke mening dat is, waarna je je antwoord ondersteunt met een verwijzing naar de prent.",
+   "context_block_ids": [
+    "28d9688d-35da-4d8e-8bee-f571387dfaf4"
+   ]
+  },
+  {
+   "id": "ea2459f1-38a5-4a24-afc9-de127b3a6585",
+   "exercise_id": "5afdb8b3-8257-4e89-9d75-69b7832ad1ab",
+   "question_number": 17,
+   "topics": [
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1948-1978)"
+    }
+   ],
+   "keywords": [
+    "handelingsonbekwaamheid",
+    "positie van vrouwen",
+    "gehuwde vrouw",
+    "emancipatie",
+    "wetgeving 1956",
+    "bronverwijzing"
+   ],
+   "question_summary": "De wet uit 1956 noemen die de beschreven situatie onmogelijk maakte en met de bron aangeven wat die wet veranderde.",
+   "question_image_url": "geschiedenis-havo-2025-ii-nederland-1948-2008-vraag17.png",
+   "question_text": "Gebruik bron 10. De situatie die Rie Stroek-Wagenmakers beschrijft, vindt na 1956 niet meer plaats in Nederland. 2p 17 Geef hiervoor een verklaring door:\n− de wet uit 1956 te noemen die situaties als deze niet langer mogelijk maakt, en\n− met een verwijzing naar de bron aan te geven wat deze wet wil veranderen.",
+   "context_block_ids": [
+    "2c111251-529f-472c-9595-5b96f31ec388"
+   ]
+  },
+  {
+   "id": "0d176b87-11a9-4072-b435-01c6096f394d",
+   "exercise_id": "5afdb8b3-8257-4e89-9d75-69b7832ad1ab",
+   "question_number": 21,
+   "topics": [
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1948-1978)"
+    }
+   ],
+   "keywords": [
+    "tweede feministische golf",
+    "rolpatronen",
+    "economische groei",
+    "vrouwenarbeid",
+    "consumptiemaatschappij",
+    "bronverwijzing"
+   ],
+   "question_summary": "Met de advertentie aantonen dat tweede-golffeministen kritiek zouden hebben en dat het succes van uitzendbureaus samenhing met economische groei.",
+   "question_image_url": "geschiedenis-havo-2025-ii-nederland-1948-2008-vraag21.png",
+   "question_text": "Gebruik bron 13. Twee beweringen:\n1 Feministen van de tweede golf zullen kritiek hebben op deze advertentietekst.\n2 Het succes van uitzendbureaus als Studia wordt mede veroorzaakt door de groei van de economie in Nederland. 4p 21 Toon de juistheid van beide beweringen aan, waarna je je antwoord telkens ondersteunt met een verwijzing naar de bron.",
+   "context_block_ids": [
+    "7dfe840a-569d-4dfd-98e6-b2dd121015cd"
+   ]
+  },
+  {
+   "id": "8889dbb6-2041-4f12-a1de-eb34b2648f46",
+   "exercise_id": "5afdb8b3-8257-4e89-9d75-69b7832ad1ab",
+   "question_number": 22,
+   "topics": [
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1978-2008)"
+    }
+   ],
+   "keywords": [
+    "Lubbers",
+    "kritiek op verzorgingsstaat",
+    "bezuinigingen",
+    "no-nonsensebeleid",
+    "eigen verantwoordelijkheid",
+    "CDA"
+   ],
+   "question_summary": "Met het CDA-rapport aantonen welke beleidsmaatregel Lubbers wilde ondersteunen.",
+   "question_image_url": "geschiedenis-havo-2025-ii-nederland-1948-2008-vraag22.png",
+   "question_text": "Een gegeven: In 1983 publiceerde het Christen-Democratisch Appèl (CDA), de partij van minister-president Lubbers, een onderzoeksrapport. Hierin stond de kritiek dat burgers \"in plaats van voor elkaar te zorgen, er steeds meer vanuit gaan dat de overheid die verantwoordelijkheid overneemt.\" Lubbers wilde met dit onderzoeksrapport zijn beleid ondersteunen. 2p 22 Toon met een verwijzing naar het onderzoeksrapport aan welke beleidsmaatregel Lubbers wilde ondersteunen.",
+   "context_block_ids": []
+  },
+  {
+   "id": "dbee19b1-6282-4439-93c3-c9c21fc03aff",
+   "exercise_id": "5afdb8b3-8257-4e89-9d75-69b7832ad1ab",
+   "question_number": 23,
+   "topics": [
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1978-2008)"
+    }
+   ],
+   "keywords": [
+    "migrantenbeleid",
+    "gastarbeiders",
+    "terugkeergedachte",
+    "multiculturele samenleving",
+    "onderwijs in eigen taal",
+    "integratie"
+   ],
+   "question_summary": "Uitleggen bij welk migrantenbeleid het besluit uit 1984 over les in de eigen taal paste.",
+   "question_image_url": "geschiedenis-havo-2025-ii-nederland-1948-2008-vraag23.png",
+   "question_text": "In 1984 besloot de Nederlandse regering dat op lagere scholen aan \"leerlingen van 'niet-Nederlandse afkomst' les zal worden gegeven in hun eigen taal, zoals het Turks, Marokkaans, Italiaans, Grieks en Moluks.\" 2p 23 Leg uit bij welk migrantenbeleid van de overheid in die tijd dit besluit paste.",
+   "context_block_ids": []
+  },
+  {
+   "id": "31f10734-441b-4f76-bec6-a2bd41b51490",
+   "exercise_id": "e6720cf1-6d6d-4cf6-9d4b-64564cb66c37",
+   "question_number": 19,
+   "topics": [
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1948-1978)"
+    }
+   ],
+   "keywords": [
+    "ontzuiling",
+    "verzuiling",
+    "katholieke zuil",
+    "secularisatie",
+    "pers",
+    "jaren zestig"
+   ],
+   "question_summary": "Uitleggen bij welke maatschappelijke verandering het schrappen van de katholieke ondertitel van de Volkskrant past.",
+   "question_image_url": "geschiedenis-havo-2025-ii-computer-en-televisie-vraag19.png",
+   "question_text": "Na de Tweede Wereldoorlog verscheen de Volkskrant met de ondertitel 'Katholiek dagblad voor Nederland'. In 1965 besloot de redactie van de Volkskrant om de ondertitel niet meer te gebruiken. 2p 19 Leg uit bij welke maatschappelijke verandering in Nederland in de tweede helft van de twintigste eeuw dit besluit past.",
+   "context_block_ids": []
+  },
+  {
+   "id": "211ab827-ec52-42e0-a242-55f71dc187f2",
+   "exercise_id": "e6720cf1-6d6d-4cf6-9d4b-64564cb66c37",
+   "question_number": 26,
+   "topics": [
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1948-1978)"
+    },
+    {
+     "domain": "Nederland (1948-2008)",
+     "subdomain": "Veranderende maatschappelijke verhoudingen (1978-2008)"
+    }
+   ],
+   "keywords": [
+    "dekolonisatie",
+    "koloniaal verleden",
+    "oorlogsbuit",
+    "restitutie",
+    "multiculturele samenleving",
+    "kenmerkend aspect"
+   ],
+   "question_summary": "Het plaatsen van een tekst over oorlogsbuit bij de diamant van Banjarmasin verklaren met een kenmerkend aspect uit de twintigste eeuw.",
+   "question_image_url": "geschiedenis-havo-2025-ii-computer-en-televisie-vraag26.png",
+   "question_text": "De volgende vraag gaat over de diamant van Banjarmasin, die werd meegenomen van het Indonesische eiland Borneo naar Nederland:\nIn 2017 plaatste het Rijksmuseum bij de diamant van Banjarmasin (zie vraag 25) de tekst: \"Deze diamant is oorlogsbuit. Ooit was hij eigendom van Panembahan Adam, de sultan van Banjarmasin\". 2p 26 Licht het plaatsen van de tekst toe door:\n− met een kenmerkend aspect uit de twintigste eeuw een verklaring te geven voor het besluit deze tekst te plaatsen, en\n− aan te geven wat het Rijksmuseum met de tekst wilde bereiken. Let op: je moet na het opschrijven van een kenmerkend aspect een uitleg geven.",
+   "context_block_ids": []
+  }
+ ]
+}
