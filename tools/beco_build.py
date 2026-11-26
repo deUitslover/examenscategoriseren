@@ -182,9 +182,25 @@ def main():
         win = window_for(windows, page)
         lim = footer_limit(page, hashes)
         cut = None
+        uwb_from = 0
+        if mode == "vraag" and head is None:
+            # uwb page without kop that starts with the bare vraagnummer and holds
+            # no vraag ("19" on top of VWO-BECO-24-II-O.pdf p.13)
+            first = sorted([l for l in text_lines(page) if l[1] < lim and norm(l[4])], key=lambda l: l[1])
+            top_nums = [l for l in first if first and l[1] <= first[0][1] + 10
+                        and re.fullmatch(r"\d{1,2}", norm(l[4])) and l[0] < 130 and int(norm(l[4])) in uwb_cand]
+            if (top_nums
+                    and not any(it["kind"] == "vraag" for it in plan_page(page, hashes))):
+                mode = "uwb"
         if mode == "vraag":
             mh = mid_heads(page, hashes)
             cut = mh[0][1] - 1 if mh else None
+            # "Uitwerkbijlage" kop halfway down a vraag page (VWO-BECO-24-II-O.pdf p.20)
+            uk = sorted([l for l in text_lines(page) if UWB_RE.match(norm(l[4])) and l[1] > 140 and l[1] < lim],
+                        key=lambda l: l[1])
+            if uk and (cut is None or uk[0][1] < cut):
+                cut = uk[0][1] - 1
+                uwb_from = uk[0][1] - 0.5
             plan = plan_page(page, hashes)
             if cut is not None:
                 plan = [it for it in plan if it["y1"] < cut]
@@ -229,7 +245,7 @@ def main():
                     continue
                 run = {"kind": "ctx", "page": pn, "item": it, "fig": fig}
                 op["elems"].append(run)
-        if mode in ("bron", "formuleblad") or cut is not None:
+        if (mode in ("bron", "formuleblad") or cut is not None) and not uwb_from:
             heads = mid_heads(page, hashes)
             starts = [h[1] for h in heads]
             # content above the first kop on this page continues the previous bron
@@ -253,12 +269,15 @@ def main():
                                     "text": format_block_text(page, y0 - 0.5, y1 + 0.5)})
             if cut is not None:
                 mode = "bron"
-        elif mode == "uwb":
+        if mode == "uwb" or uwb_from:
+            if uwb_from:
+                mode = "uwb"
             nums = sorted([l for l in text_lines(page)
                            if re.fullmatch(r"\d{1,2}", l[4].strip()) and l[0] < 130
-                           and int(l[4]) in uwb_cand and l[1] < lim],
+                           and int(l[4]) in uwb_cand and uwb_from < l[1] < lim],
                           key=lambda l: l[1])
-            ukop = [l for l in text_lines(page) if UWB_RE.match(norm(l[4])) or norm(l[4]).startswith("Naam")]
+            ukop = [l for l in text_lines(page) if (UWB_RE.match(norm(l[4])) or norm(l[4]).startswith("Naam"))
+                    and l[1] >= uwb_from]
             top = max([l[3] for l in ukop], default=30) + 2
             if nums and content_end(page, hashes, top, nums[0][1] - 2):
                 print(f"WARNING page {pn}: content above first uwb number -- check")
