@@ -40,6 +40,10 @@ Usage:
         [--glue P:I ...]      merge plan item I on page P into the block before it, even
                               when one of them is a table/figure (a "noot 1" under a
                               table, VWO-BECO-21-II-O.pdf p.15: --glue 14:2)
+        [--vstem P:I=Y ...]   vraag item I on page P starts at y=Y: the ctx items between Y
+                              and the vraag are its stem (a multiple-choice stem "... sprake
+                              is van a .. b .. c .. d" above "2p 18", VWO-BECO-22-II-O.pdf
+                              p.16: --vstem 15:5=419); they move into the vraag crop/text
         [--split-uwb P:Y ...] (not needed so far)
 """
 
@@ -121,6 +125,7 @@ def main():
     ap.add_argument("--nomerge", nargs="*", default=[])
     ap.add_argument("--glue", nargs="*", default=[])
     ap.add_argument("--vsplit", nargs="*", default=[])
+    ap.add_argument("--vstem", nargs="*", default=[])
     ap.add_argument("--uwb-pad", type=float, default=45.0)
     a = ap.parse_args()
 
@@ -134,6 +139,11 @@ def main():
     for spec in a.vsplit:
         k, y = spec.split("=")
         vsplit[tuple(map(int, k.split(":")))] = float(y)
+
+    vstem = {}
+    for spec in a.vstem:
+        k, y = spec.split("=")
+        vstem[tuple(map(int, k.split(":")))] = float(y)
 
     doc = fitz.open(a.pdf)
     hashes = footer_hashes(doc)
@@ -191,6 +201,17 @@ def main():
                 v["y1"] = v["members"][0][3]
                 plan.insert(i + 1, {"kind": "ctx", "page": pn, "y0": min(b[1] for b in below),
                                     "y1": max(b[3] for b in below), "members": below})
+            for i in sorted([i for (p_, i) in vstem if p_ == pn], reverse=True):
+                v = plan[i]
+                assert v["kind"] == "vraag", f"vstem {pn}:{i} is not a vraag"
+                ys = vstem[(pn, i)]
+                stem = [j for j in range(i) if plan[j]["kind"] == "ctx" and plan[j]["y0"] >= ys - 0.5]
+                assert stem, f"vstem {pn}:{i}: no ctx item below y={ys}"
+                m = v["members"][0]
+                v["members"] = [(m[0], ys, m[2], m[3])]
+                v["y0"] = ys
+                for j in reversed(stem):
+                    del plan[j]
             run = None
             for i, it in enumerate(plan):
                 it["key"] = f"{pn}:{i}"
