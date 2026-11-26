@@ -1,0 +1,67 @@
+{
+  "source": "VWO Bedrijfseconomie 2022-I",
+  "subject_name": "Bedrijfseconomie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Het Hypotheekhuis",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Hiero bv",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Sibel",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Henk Verhaas",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "Klusstudent",
+      "question_numbers": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "title": "Schaeffer nv",
+      "question_numbers": [
+        28,
+        29,
+        30
+      ]
+    }
+  ]
+}
