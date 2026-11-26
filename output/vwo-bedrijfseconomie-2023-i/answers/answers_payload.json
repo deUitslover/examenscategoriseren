@@ -1,0 +1,555 @@
+{
+ "payload": {
+  "subject_name": "Bedrijfseconomie",
+  "level": "VWO",
+  "source": "VWO Bedrijfseconomie 2023-I",
+  "answers": [
+   {
+    "title": "Clip & Go",
+    "question_number": 1,
+    "answer_text": "marketingplan",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-clip-go-antw1.png"
+    ]
+   },
+   {
+    "title": "Clip & Go",
+    "question_number": 2,
+    "answer_text": "• Het is niet extern\n• Het is geen bedreiging (T), het is een zwakte (W), want het is intern en negatief",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het is niet extern"
+     },
+     {
+      "points": 1,
+      "description": "Het is geen bedreiging (T), het is een zwakte (W), want het is intern en negatief"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-clip-go-antw2.png"
+    ]
+   },
+   {
+    "title": "Clip & Go",
+    "question_number": 3,
+    "answer_text": "• opdelen van de afzetmarkt in verschillende doelgroepen, (waarbij iedere doelgroep een aantal gemeenschappelijke kenmerken heeft)\n• iedere doelgroep heeft een eigen marketingstrategie",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "opdelen van de afzetmarkt in verschillende doelgroepen, (waarbij iedere doelgroep een aantal gemeenschappelijke kenmerken heeft)"
+     },
+     {
+      "points": 1,
+      "description": "iedere doelgroep heeft een eigen marketingstrategie"
+     }
+    ],
+    "grading_note": "Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-clip-go-antw3.png"
+    ]
+   },
+   {
+    "title": "Clip & Go",
+    "question_number": 4,
+    "answer_text": "plaatsbeleid / distributiebeleid, omdat het gaat om het afzetkanaal (de manier waarop de haarclipjes bij de consument komen)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Als een leerling promotiebeleid noemt en uitlegt vanuit het perspectief van persoonlijke verkoop moeten scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-clip-go-antw4.png"
+    ]
+   },
+   {
+    "title": "Clip & Go",
+    "question_number": 5,
+    "answer_text": "• prijspenetratiepolitiek\n• Johanna beoogt een marktaandeel te veroveren door onder de prijs van de concurrentie te gaan zitten",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "prijspenetratiepolitiek"
+     },
+     {
+      "points": 1,
+      "description": "Johanna beoogt een marktaandeel te veroveren door onder de prijs van de concurrentie te gaan zitten"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-clip-go-antw5.png"
+    ]
+   },
+   {
+    "title": "De Baddertobbe",
+    "question_number": 6,
+    "answer_text": "• vennootschap onder firma / vof, omdat\n• er twee (meerdere) eigenaren zijn en De Baddertobbe geen rechtspersoon is",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "vennootschap onder firma / vof"
+     },
+     {
+      "points": 1,
+      "description": "er twee (meerdere) eigenaren zijn en De Baddertobbe geen rechtspersoon is"
+     }
+    ],
+    "grading_note": "Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-de-baddertobbe-antw6.png"
+    ]
+   },
+   {
+    "title": "De Baddertobbe",
+    "question_number": 7,
+    "answer_text": "• a\n• want “het uitgaan van nieuwe markten” is een fase van effectuation. Er wordt een nieuwe doelgroep met een nieuwe behoefte: duurzaam energiegebruik, bereikt\nof:\n• e\n• want zoeken naar samenwerking / strategische partners is een fase van effectuation",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a, of: e"
+     },
+     {
+      "points": 1,
+      "description": "bij a: want “het uitgaan van nieuwe markten” is een fase van effectuation; er wordt een nieuwe doelgroep met een nieuwe behoefte (duurzaam energiegebruik) bereikt, of: bij e: want zoeken naar samenwerking / strategische partners is een fase van effectuation"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-de-baddertobbe-antw7.png"
+    ]
+   },
+   {
+    "title": "De Baddertobbe",
+    "question_number": 8,
+    "answer_text": "• stortingen van €500 op 1 maart 2014 tot 1 maart 2019:\n500 × 1,000424 × (1,000424⁶⁰ − 1) / (1,000424 − 1) = 30.391,22\n• welkomstbonus van €100 op 1 maart 2019:\n100 × 1,000424⁶⁰ = 102,58\n30.391,22 + 102,58 = 30.493,80\n• periode 1 maart 2019 - 31 maart 2022:\n(30.493,80 + 500) × 1,000249³⁷ = €31.280,63\n31.280,63 − €30.000 = €1.280,63",
+    "scoring_steps": [
+     {
+      "points": 3,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Voor een juiste berekening uitgaande van stortingen van € 500 op 1 maart 2014 tot 1 maart 2019 moeten scorepunten worden toegekend.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-de-baddertobbe-antw8.png"
+    ]
+   },
+   {
+    "title": "De Baddertobbe",
+    "question_number": 9,
+    "answer_text": "totale constante kosten (berekening; bedrag):\nhuur: 4 × 1.200 = 4.800\nafschrijving inventaris: 2.750 / 5 = 550\nafschrijving aanhangwagens en hottubs: (48.000 − 15% van 48.000) / 6 = 6.800\ninterest: 6/12 × 6% van 30.000 + 6/12 × 6% van (30.000 − 3.000) = 1.710\nverzekering: 9 × 125 + 3 × 104% van 125 = 1.515\nonderhoud: 1.200\ntotaal: 16.575\n\nbedrag constante kosten in kostprijs: 16.575 / (75% van 52 x 5) = 85,00\nbedrag variabele kosten in kostprijs: 25,00\nkostprijs: 110,00\nwinstopslag: 25% van 110,00 = 27,50\nverhuurprijs exclusief btw: 137,50\nbtw: 28,88\nverhuurprijs inclusief btw: 166,38",
+    "scoring_steps": [
+     {
+      "points": 3,
+      "description": "4.800 en 550 en 6800 en 1.710 en 1.515 en 16.575"
+     },
+     {
+      "points": 1,
+      "description": "85"
+     },
+     {
+      "points": 1,
+      "description": "25 en 110 en 27,50"
+     },
+     {
+      "points": 1,
+      "description": "137,50 en 28,88"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-de-baddertobbe-antw9.png"
+    ]
+   },
+   {
+    "title": "De Baddertobbe",
+    "question_number": 10,
+    "answer_text": "omzet: 210 x 137,50 = 28.875\ntotale constante kosten: 17.025\ntotale variabele kosten: 210 × 100/121 × 31,46 = 5.460\ntotale kosten: -/- 22.485\n• gerealiseerd resultaat voor belasting: € 6.390 voordelig / + / positief",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "omzet: 210 x 137,50 = 28.875"
+     },
+     {
+      "points": 1,
+      "description": "gerealiseerd resultaat voor belasting € 6.390 voordelig / + / positief"
+     }
+    ],
+    "grading_note": "Toelichting: De eerste deelscore wordt nu behaald bij het correct berekenen van de omzet.\nIn de eerste aanvulling van 26 mei is abusievelijk de conclusie ‘voordelig / + / positief’ weggevallen. Deze is noodzakelijk voor het toekennen van het tweede scorepunt.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-de-baddertobbe-antw10.png"
+    ]
+   },
+   {
+    "title": "De Baddertobbe",
+    "question_number": 11,
+    "answer_text": "30.000 + (30.000 / 33.000) × 6.390 − 25.000 = €10.809,09",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Per gemaakte fout wordt 1 scorepunt in mindering gebracht.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-de-baddertobbe-antw11.png"
+    ]
+   },
+   {
+    "title": "De Baddertobbe",
+    "question_number": 12,
+    "answer_text": "• gemiddeld geïnvesteerd vermogen Jaap is (30.000 + 10.809,09) / 2 = 20.040,55\n• deel van het resultaat dat Jaap toekomt: 30.000 / 33.000 × 6.390 = 5.809,09\n• rendement: 5.809,09 / 20.040,55 × 100% = 28,47%",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "gemiddeld geïnvesteerd vermogen Jaap is (30.000 + 10.809,09) / 2 = 20.040,55"
+     },
+     {
+      "points": 1,
+      "description": "deel van het resultaat dat Jaap toekomt: 30.000 / 33.000 × 6.390 = 5.809,09"
+     },
+     {
+      "points": 1,
+      "description": "rendement: 5.809,09 / 20.040,55 × 100% = 28,47%"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-de-baddertobbe-antw12.png"
+    ]
+   },
+   {
+    "title": "De Baddertobbe",
+    "question_number": 13,
+    "answer_text": "Het door Jaap ingelegde vermogen in De Baddertobbe heeft meer rendement opgeleverd dan wanneer het bedrag op een spaarrekening was blijven staan / Ja, want 28,47% > 0,299%.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-de-baddertobbe-antw13.png"
+    ]
+   },
+   {
+    "title": "Zorgverzekeraars Nederland",
+    "question_number": 14,
+    "answer_text": "• individuele arbeidsovereenkomst en collectieve arbeidsovereenkomst\n• Indeling in een functiegroep is voor het individu (op basis van opleiding en ervaring)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "individuele arbeidsovereenkomst en collectieve arbeidsovereenkomst"
+     },
+     {
+      "points": 1,
+      "description": "Indeling in een functiegroep is voor het individu (op basis van opleiding en ervaring)"
+     }
+    ],
+    "grading_note": "Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-zorgverzekeraars-nederland-antw14.png"
+    ]
+   },
+   {
+    "title": "Zorgverzekeraars Nederland",
+    "question_number": 15,
+    "answer_text": "Voorbeelden van juiste redenen zijn:\n– De werkgever (van Margot) kan moeilijk personeel vinden.\n– De werkgever (van Margot) wil niet telkens nieuw personeel aannemen.\n– De werkgever is bang dat de werknemer (Margot) na afloop van een tijdelijk contract kiest voor een andere werkgever.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-zorgverzekeraars-nederland-antw15.png"
+    ]
+   },
+   {
+    "title": "Zorgverzekeraars Nederland",
+    "question_number": 16,
+    "answer_text": "Voorbeelden van juiste redenen zijn:\n– bedrijfseconomische redenen\n– het niet functioneren van de werknemer\n– De werknemer is twee jaar of langer arbeidsongeschikt.\n– De werknemer laat verwijtbaar gedrag zien of laat verwijtbaar iets na.\n– Er is een verstoorde arbeidsrelatie.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-zorgverzekeraars-nederland-antw16.png"
+    ]
+   },
+   {
+    "title": "Zorgverzekeraars Nederland",
+    "question_number": 17,
+    "answer_text": "maandsalaris in september voor 24 uur:\n100 / 102,5 × 24 / 34 × 2.024 = €1.393,86",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Per gemaakte fout wordt 1 scorepunt in mindering gebracht.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-zorgverzekeraars-nederland-antw17.png"
+    ]
+   },
+   {
+    "title": "Verdonk nv",
+    "question_number": 18,
+    "answer_text": "resultaat 2022 na belasting: 50.000\npreferent dividend: 250.000 / 100 × 8 = 20.000 -\n= 30.000\ndividend gewone aandeelhouders: 600.000 / 25 × 0,50 = 12.000 -\ntoevoeging aan de reserves: € 18.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "preferent dividend: 250.000 / 100 × 8 = 20.000"
+     },
+     {
+      "points": 1,
+      "description": "toevoeging aan de reserves € 18.000"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-verdonk-nv-antw18.png"
+    ]
+   },
+   {
+    "title": "Verdonk nv",
+    "question_number": 19,
+    "answer_text": "• te betalen dividendbelasting: 0,15 x (20.000 + 12.000) = 4.800\nnetto preferent dividend: 0,85 x 20.000 = 17.000\n• mutatie/verandering: 21.800\nof\n• brutodividend: 32.000\naf: 600.000/25 x 0,425 = 10.200 (stockdividend)\n• mutatie/verandering: 32.000 - 10.200 = 21.800",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "te betalen dividendbelasting: 0,15 x (20.000 + 12.000) = 4.800, of: brutodividend 32.000, af: 600.000/25 x 0,425 = 10.200 (stockdividend)"
+     },
+     {
+      "points": 1,
+      "description": "mutatie/verandering: 21.800"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-verdonk-nv-antw19.png"
+    ]
+   },
+   {
+    "title": "Verdonk nv",
+    "question_number": 20,
+    "answer_text": "• gemiddelde beurskoers is (28,75 + 26,35) / 2 = 27,55\ndividendrendement: 0,50 / 27,55 × 100% = 1,81%\n• koersrendement: (26,35 − 28,75) / 27,55 × 100% = -/- 8,71%\n• rendement op een gewoon aandeel Verdonk nv: -/- 6,90%",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "dividendrendement: 0,50 / 27,55 × 100% = 1,81%"
+     },
+     {
+      "points": 1,
+      "description": "rendement op een gewoon aandeel Verdonk nv -/- 6,90%"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-verdonk-nv-antw20.png"
+    ]
+   },
+   {
+    "title": "Verdonk nv",
+    "question_number": 21,
+    "answer_text": "Voorbeeld van een goed antwoord is:\n– Grote besluiten goedkeuren, zoals fusies en overnames\nBeslissen over:\n– benoeming en ontslag van de bestuurders;\n– het beloningsbeleid voor bestuurders;\n– de vaststelling van de jaarrekening;\n– wijzigingen van de statuten.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-verdonk-nv-antw21.png"
+    ]
+   },
+   {
+    "title": "Verdonk nv",
+    "question_number": 22,
+    "answer_text": "• Door het ter beschikking stellen van cashdividend verandert de teller niet\n• De noemer wordt groter doordat Verdonk nv een nog grotere schuld aan de bank krijgt, waardoor de quick ratio verslechtert",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door het ter beschikking stellen van cashdividend verandert de teller niet"
+     },
+     {
+      "points": 1,
+      "description": "De noemer wordt groter doordat Verdonk nv een nog grotere schuld aan de bank krijgt, waardoor de quick ratio verslechtert"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-verdonk-nv-antw22.png"
+    ]
+   },
+   {
+    "title": "Verdonk nv",
+    "question_number": 23,
+    "answer_text": "Op pagina 11 van het correctievoorschrift, bij vraag 23 moeten altijd 2 scorepunten worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Toelichting: De vraagstelling is niet duidelijk vanwege de laatste zin. Hierdoor is de vraag niet eenduidig te beantwoorden.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-verdonk-nv-antw23.png"
+    ]
+   },
+   {
+    "title": "Bente",
+    "question_number": 24,
+    "answer_text": "legitieme portie",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-bente-antw24.png"
+    ]
+   },
+   {
+    "title": "Bente",
+    "question_number": 25,
+    "answer_text": "(167.500 + 45.000) × 1/2 = €106.250",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-bente-antw25.png"
+    ]
+   },
+   {
+    "title": "Bente",
+    "question_number": 26,
+    "answer_text": "• Bente (106.250 − 20.371) × 10% = €8.587,90 erfbelasting\n• 106.250 − 8.587,90 = €97.662,10 = erfenis na aftrek van erfbelasting Bente\n• 97.662,10 / 3 = €32.554,03 = schenking stiefzusje\n(32.554,03 − 2.147) × 30% = €9.122,11 schenkbelasting stiefzusje\n• Totaal te betalen belasting: €8.587,90 + 2 x €9.122,11 = €26.832,12",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bente (106.250 − 20.371) × 10% = €8.587,90 erfbelasting"
+     },
+     {
+      "points": 1,
+      "description": "106.250 − 8.587,90 = €97.662,10 = erfenis na aftrek van erfbelasting Bente"
+     },
+     {
+      "points": 1,
+      "description": "97.662,10 / 3 = €32.554,03 schenking stiefzusje; (32.554,03 − 2.147) × 30% = €9.122,11 schenkbelasting stiefzusje"
+     },
+     {
+      "points": 1,
+      "description": "Totaal te betalen belasting: €8.587,90 + 2 x €9.122,11 = €26.832,12"
+     }
+    ],
+    "grading_note": "Naar beneden afgeronde bedragen ook goed rekenen, dus € 8.587, € 97.663, € 9.122 en € 26.831.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-bente-antw26.png"
+    ]
+   },
+   {
+    "title": "Bente",
+    "question_number": 27,
+    "answer_text": "(De schenking wordt verdeeld over meerdere jaren en) jaarlijks wordt een bedrag geschonken dat binnen de schenkingsvrijstelling blijft (net zo lang tot het totale schenkingsbedrag is weggeschonken).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Toelichting: Een deel van het antwoord is tussen haakjes geplaatst. Dit behoeft niet noodzakelijk te worden genoemd.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-bente-antw27.png"
+    ]
+   },
+   {
+    "title": "Bente",
+    "question_number": 28,
+    "answer_text": "• Ontvangen wettelijke interest:\nOp 1 september 2021: 4.750 x 0,06 = 285\nOp 1 september 2022: 2 x 4.750 x 0,06 = 570\n• Op de spaarrekening op 2 september 2022 van Kira staat dan:\n(285 x 1,02) + 570 = € 860,70",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Ontvangen wettelijke interest: 1 september 2021: 4.750 x 0,06 = 285; 1 september 2022: 2 x 4.750 x 0,06 = 570"
+     },
+     {
+      "points": 1,
+      "description": "Op de spaarrekening op 2 september 2022 van Kira staat dan: (285 x 1,02) + 570 = € 860,70"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-bente-antw28.png"
+    ]
+   },
+   {
+    "title": "Restaurant Chez Martine",
+    "question_number": 29,
+    "answer_text": "Wanneer de omzet in een kwartaal afneemt ten opzichte van hetzelfde kwartaal een jaar eerder, nemen de variabele kosten ook af, maar de constante kosten niet.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-restaurant-chez-martine-antw29.png"
+    ]
+   },
+   {
+    "title": "Restaurant Chez Martine",
+    "question_number": 30,
+    "answer_text": "• dekkingsbijdrage: 95 − 0,40 × 95 − 5,50 = 51,50\n• te dekken bedrag: 3 × 35.000 − 20.000 = 85.000\n• aantal te verkopen boxen: 85.000 / 51,50 = 1.651",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "dekkingsbijdrage: 95 − 0,40 × 95 − 5,50 = 51,50"
+     },
+     {
+      "points": 1,
+      "description": "te dekken bedrag: 3 × 35.000 − 20.000 = 85.000"
+     },
+     {
+      "points": 1,
+      "description": "aantal te verkopen boxen: 85.000 / 51,50 = 1.651"
+     }
+    ],
+    "grading_note": "Wanneer naar 1.650 is afgerond, geen scorepunt toekennen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2023-i-restaurant-chez-martine-antw30.png"
+    ]
+   }
+  ]
+ }
+}
