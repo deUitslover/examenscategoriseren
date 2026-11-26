@@ -1,0 +1,491 @@
+{
+ "subject_name": "Geschiedenis",
+ "level": "HAVO",
+ "source": "HAVO Geschiedenis 2026-II",
+ "answers": [
+  {
+   "title": "Door de tijd heen",
+   "question_number": 1,
+   "answer_text": "De juiste volgorde is:\n6, 1, 5, 3, 2, 4",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "juiste volgorde: 6, 1, 5, 3, 2, 4"
+    }
+   ],
+   "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-door-de-tijd-heen-antw1.png"
+   ]
+  },
+  {
+   "title": "Ontdekkers en hervormers",
+   "question_number": 2,
+   "answer_text": "Voorbeeld van een juist antwoord is:\nDe wijze waarop Daniele Barbaro zich laat afbeelden past bij:\n• het veranderende mensbeeld van de renaissance, omdat hij centraal zit in de compositie / omdat hij zich laat afbeelden als een individu dat trots is op zijn werk.\n• het begin van een nieuwe wetenschappelijke belangstelling, omdat hij zich laat afbeelden met zijn vertaling van het werk van een Romeinse bouwmeester.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "het veranderende mensbeeld van de renaissance, omdat hij centraal zit in de compositie / omdat hij zich laat afbeelden als een individu dat trots is op zijn werk."
+    },
+    {
+     "points": 1,
+     "description": "het begin van een nieuwe wetenschappelijke belangstelling, omdat hij zich laat afbeelden met zijn vertaling van het werk van een Romeinse bouwmeester."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-ontdekkers-en-hervormers-antw2.png"
+   ]
+  },
+  {
+   "title": "Ontdekkers en hervormers",
+   "question_number": 3,
+   "answer_text": "Kern van een juist antwoord is:\n• Tijdens 'het begin van de Europese overzeese expansie' werden ontdekkingen gedaan die werden verwerkt in nieuwe edities van de zeeatlassen / was er een grote vraag naar zeeatlassen met betere/veiliger routes.\n• Door 'de bijzondere plaats in staatkundig opzicht en de bloei in economisch en cultureel opzicht van de Nederlandse Republiek' hadden kooplieden voldoende geld voor/interesse in fraai gepubliceerde boeken (waardoor een luxe editie kon worden gepubliceerd).\nof\n• Door 'wereldwijde handelscontacten, handelskapitalisme en het begin van een wereldeconomie' wilden kooplieden een zeeatlas hebben waarin ze konden tonen/bekijken welke reizen er werden gemaakt / waar de producten vandaan kwamen waarmee ze hun vermogen verdienden.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Tijdens 'het begin van de Europese overzeese expansie' werden ontdekkingen gedaan die werden verwerkt in nieuwe edities van de zeeatlassen / was er een grote vraag naar zeeatlassen met betere/veiliger routes."
+    },
+    {
+     "points": 1,
+     "description": "Door 'de bijzondere plaats in staatkundig opzicht en de bloei in economisch en cultureel opzicht van de Nederlandse Republiek' hadden kooplieden voldoende geld voor/interesse in fraai gepubliceerde boeken (waardoor een luxe editie kon worden gepubliceerd). OF Door 'wereldwijde handelscontacten, handelskapitalisme en het begin van een wereldeconomie' wilden kooplieden een zeeatlas hebben waarin ze konden tonen/bekijken welke reizen er werden gemaakt / waar de producten vandaan kwamen waarmee ze hun vermogen verdienden."
+    }
+   ],
+   "grading_note": "Als het antwoord bij de tweede deelvraag alleen een juist kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.\nAls het antwoord bij de tweede deelvraag ingaat op het vinden van juiste routes, wordt geen scorepunt toegekend (omdat deze Zee-atlas niet bedoeld was om mee te nemen).",
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-ontdekkers-en-hervormers-antw3.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 4,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• De kolonist vraagt om goederen uit Engeland / schrijft dat ze zonder voorzieningen uit Engeland niet kunnen overleven, waaruit op te maken valt dat de kolonisten een tekort hebben aan levensmiddelen (waardoor ze contacten met de inheemse bevolking nodig hebben).\n• De kolonist schrijft dat hij koeien had willen hebben / dat het land tegenvalt, waaruit blijkt dat hij landbouw wil bedrijven / een boerderij wil beginnen.\n• Het Engelse bestuur streeft ernaar dat er meer kolonisten naar Amerika gaan / meer koloniën te stichten, zodat het niet wil dat brieven openbaar worden waaruit op te maken is dat het leven zwaar is (omdat dit bericht potentiële kolonisten zou afschrikken).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De kolonist vraagt om goederen uit Engeland / schrijft dat ze zonder voorzieningen uit Engeland niet kunnen overleven, waaruit op te maken valt dat de kolonisten een tekort hebben aan levensmiddelen (waardoor ze contacten met de inheemse bevolking nodig hebben)."
+    },
+    {
+     "points": 1,
+     "description": "De kolonist schrijft dat hij koeien had willen hebben / dat het land tegenvalt, waaruit blijkt dat hij landbouw wil bedrijven / een boerderij wil beginnen."
+    },
+    {
+     "points": 1,
+     "description": "Het Engelse bestuur streeft ernaar dat er meer kolonisten naar Amerika gaan / meer koloniën te stichten, zodat het niet wil dat brieven openbaar worden waaruit op te maken is dat het leven zwaar is (omdat dit bericht potentiële kolonisten zou afschrikken)."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-het-britse-rijk-antw4.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 5,
+   "answer_text": "Voorbeeld van een juist antwoord is:\nVolgens historici stierf een groot deel van de inheemse bevolking aan ziektes die de kolonisten hadden meegebracht.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Volgens historici stierf een groot deel van de inheemse bevolking aan ziektes die de kolonisten hadden meegebracht."
+    }
+   ],
+   "grading_note": "Als het antwoord ingaat op het doden van de inheemse bevolking door kolonisten (tijdens oorlog), wordt geen scorepunt toegekend (omdat de vraag gaat over de vreedzame beginfase).",
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-het-britse-rijk-antw5.png"
+   ]
+  },
+  {
+   "title": "Regenten en Vorsten",
+   "question_number": 6,
+   "answer_text": "Kern van een juist antwoord is:\n• De boodschap was dat Lodewijk XIV het centrum was van de macht / dat de adel moest gehoorzamen aan/afhankelijk was van de koning,\n• wat blijkt uit (een van de volgende):\n− het gegeven dat om Lodewijk XIV heen wordt gedanst door de kinderen.\n− het zich verkleden van Lodewijk XIV als de Romeinse zonnegod.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De boodschap was dat Lodewijk XIV het centrum was van de macht / dat de adel moest gehoorzamen aan/afhankelijk was van de koning,"
+    },
+    {
+     "points": 1,
+     "description": "wat blijkt uit (een van de volgende): het gegeven dat om Lodewijk XIV heen wordt gedanst door de kinderen; het zich verkleden van Lodewijk XIV als de Romeinse zonnegod"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord een juiste boodschap bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar deze geschiedenis.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-regenten-en-vorsten-antw6.png"
+   ]
+  },
+  {
+   "title": "Regenten en Vorsten",
+   "question_number": 7,
+   "answer_text": "Kern van een juist antwoord is:\n• Het bestuur van de Republiek wil door het onderzoek een einde maken aan de verering van de non, om zo te voorkomen dat na 'de protestantse reformatie' het katholieke geloof zich verspreidt / het katholieke geloof (weer) invloed krijgt.\n• De werkwijze van De Bils illustreert 'de wetenschappelijke revolutie', omdat hij (empirisch) onderzoek doet / omdat hij probeert aan te tonen of een bewering klopt.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het bestuur van de Republiek wil door het onderzoek een einde maken aan de verering van de non, om zo te voorkomen dat na 'de protestantse reformatie' het katholieke geloof zich verspreidt / het katholieke geloof (weer) invloed krijgt."
+    },
+    {
+     "points": 1,
+     "description": "De werkwijze van De Bils illustreert 'de wetenschappelijke revolutie', omdat hij (empirisch) onderzoek doet / omdat hij probeert aan te tonen of een bewering klopt."
+    }
+   ],
+   "grading_note": "Als het antwoord bij de tweede deelvraag alleen een juist kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-regenten-en-vorsten-antw7.png"
+   ]
+  },
+  {
+   "title": "Pruiken en Revoluties",
+   "question_number": 8,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Catharina de Grote wil het idee over gelijkheid / over het afschaffen van de standenmaatschappij / meer (politieke) invloed van het volk / het petitierecht tegengaan,\n• door te bevelen dat lijfeigenen/boeren die klagen over hun landheer moeten worden gestraft met de knoet / gedeporteerd moeten worden voor dwangarbeid voor het leven (in Siberië).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Catharina de Grote wil het idee over gelijkheid / over het afschaffen van de standenmaatschappij / meer (politieke) invloed van het volk / het petitierecht tegengaan,"
+    },
+    {
+     "points": 1,
+     "description": "door te bevelen dat lijfeigenen/boeren die klagen over hun landheer moeten worden gestraft met de knoet / gedeporteerd moeten worden voor dwangarbeid voor het leven (in Siberië)."
+    },
+    {
+     "points": 1,
+     "description": "Uit de bron valt op te maken dat veel onderdanen niet kunnen lezen/schrijven, omdat Catharina de Grote het nodig vindt het decreet te verspreiden door dit te laten voorlezen tijdens kerkdiensten (en niet via gedrukte publicaties) / ervan uitgaat dat de indieners van de petities niet degenen zijn die ze schrijven."
+    }
+   ],
+   "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juist verlicht idee bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-pruiken-en-revoluties-antw8.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 9,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Wilberforce wil de zorg wegnemen dat de werkzaamheden op de plantages stilvallen / dat er onvoldoende werkkrachten overblijven voor de plantages,\n• door voor te stellen dat (een van de volgende):\n− andere middelen/machines worden ingezet.\n− er minder slaafgemaakten als bediende gaan werken.\n• Wilberforce zet zich hiermee niet in voor de afschaffing van de slavernij / zoekt oplossingen om de slavernij te behouden na de afschaffing van de slavenhandel.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Wilberforce wil de zorg wegnemen dat de werkzaamheden op de plantages stilvallen / dat er onvoldoende werkkrachten overblijven voor de plantages,"
+    },
+    {
+     "points": 1,
+     "description": "door voor te stellen dat (een van de volgende): andere middelen/machines worden ingezet; er minder slaafgemaakten als bediende gaan werken"
+    },
+    {
+     "points": 1,
+     "description": "Wilberforce zet zich hiermee niet in voor de afschaffing van de slavernij / zoekt oplossingen om de slavernij te behouden na de afschaffing van de slavenhandel."
+    }
+   ],
+   "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juiste zorg bevat die Wilberforce wil wegnemen, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-het-britse-rijk-antw9.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 10,
+   "answer_text": "Voorbeeld van een juist antwoord is:\nRechter Williams wil met deze hoge straf landarbeiders afschrikken zodat ze zich niet gaan verenigen/zodat ze geen eisen gaan stellen / rechter Williams wil er met de hoge straf voor zorgen dat landeigenaren kunnen doorgaan met lagere lonen betalen.\n• De landarbeiders in de bron komen voor zichzelf op / eisen gelijke rechten door samen te werken/samen te staken tegen loonsverlaging (wat past bij 'de opkomst van emancipatiebewegingen').\n• Het protest tegen de hoge straf past bij het idee van Robert Owen dat arbeiders moeten (kunnen) strijden voor meer rechten / zich moeten (kunnen) verenigen in een vakbond.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Rechter Williams wil met deze hoge straf landarbeiders afschrikken zodat ze zich niet gaan verenigen/zodat ze geen eisen gaan stellen / rechter Williams wil er met de hoge straf voor zorgen dat landeigenaren kunnen doorgaan met lagere lonen betalen."
+    },
+    {
+     "points": 1,
+     "description": "De landarbeiders in de bron komen voor zichzelf op / eisen gelijke rechten door samen te werken/samen te staken tegen loonsverlaging (wat past bij 'de opkomst van emancipatiebewegingen')."
+    },
+    {
+     "points": 1,
+     "description": "Het protest tegen de hoge straf past bij het idee van Robert Owen dat arbeiders moeten (kunnen) strijden voor meer rechten / zich moeten (kunnen) verenigen in een vakbond."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-het-britse-rijk-antw10.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 11,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Campbell veroordeelt als bevelhebber van de Britse troepen de aanval van de Indiërs waardoor hij de nadruk zal leggen op de gruwelijkheden die de Indiërs begaan / waardoor hij geen oog heeft voor het aandeel van de Britten (waardoor de informatie in de bron minder betrouwbaar is voor het eerste onderzoeksonderwerp).\n• De prent moet overbrengen dat (onschuldige) Britten het slachtoffer zijn van agressie / beschermd moeten worden tegen de Indiërs (wat het neerslaan van de opstand rechtvaardigt),\n• door het afbeelden van (een van de volgende):\n− de vastgebonden Britse man.\n− de angstige vrouwen en kinderen.\n− de gewelddadige Indiase soldaten.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Campbell veroordeelt als bevelhebber van de Britse troepen de aanval van de Indiërs waardoor hij de nadruk zal leggen op de gruwelijkheden die de Indiërs begaan / waardoor hij geen oog heeft voor het aandeel van de Britten (waardoor de informatie in de bron minder betrouwbaar is voor het eerste onderzoeksonderwerp)."
+    },
+    {
+     "points": 1,
+     "description": "De prent moet overbrengen dat (onschuldige) Britten het slachtoffer zijn van agressie / beschermd moeten worden tegen de Indiërs (wat het neerslaan van de opstand rechtvaardigt),"
+    },
+    {
+     "points": 1,
+     "description": "door het afbeelden van (een van de volgende): de vastgebonden Britse man; de angstige vrouwen en kinderen; de gewelddadige Indiase soldaten"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord bij de tweede deelvraag een juiste uitleg bevat over de bruikbaarheid van de informatie, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-het-britse-rijk-antw11.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 12,
+   "answer_text": "Kern van een juist antwoord is:\na. Uit de vraag of Everaerts het uithalen van de ovens zelf heeft gezien / uit de opmerking \"maar was dit zo erg dat toen jij als jongen van twaalf jaren dit zag\" blijkt dat de commissie zekerheid wil over waar Everaerts de informatie vandaan heeft / of Everaerts uit eigen ervaring spreekt.\nb. Je kunt 'discussies over de sociale kwestie' illustreren, omdat het parlement met dit onderzoek wil vaststellen wat de misstanden zijn / dit onderzoek wil gebruiken om aan te tonen dat de discussies over de sociale kwestie noodzakelijk zijn.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "a. Uit de vraag of Everaerts het uithalen van de ovens zelf heeft gezien / uit de opmerking \"maar was dit zo erg dat toen jij als jongen van twaalf jaren dit zag\" blijkt dat de commissie zekerheid wil over waar Everaerts de informatie vandaan heeft / of Everaerts uit eigen ervaring spreekt."
+    },
+    {
+     "points": 1,
+     "description": "b. Je kunt 'discussies over de sociale kwestie' illustreren, omdat het parlement met dit onderzoek wil vaststellen wat de misstanden zijn / dit onderzoek wil gebruiken om aan te tonen dat de discussies over de sociale kwestie noodzakelijk zijn."
+    }
+   ],
+   "grading_note": "Als het antwoord bij de tweede deelvraag alleen een kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-het-britse-rijk-antw12.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 13,
+   "answer_text": "Voorbeeld van een juist antwoord is:\na. Britse bestuurders gaan ervan uit dat Groot-Brittannië de wereld moet beschaven / dat de Britse cultuur superieur is (zodat ze het niet eens zijn met de redenering van Besant dat Indiërs in staat zijn plaats te nemen in het bestuur / meer verantwoordelijkheden aankunnen / India beter begrijpen dan de Britten).\nb. In 1885 wordt het Indian National Congress opgericht (dat net als Besant streeft naar meer inspraak van Indiërs).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "a. Britse bestuurders gaan ervan uit dat Groot-Brittannië de wereld moet beschaven / dat de Britse cultuur superieur is (zodat ze het niet eens zijn met de redenering van Besant dat Indiërs in staat zijn plaats te nemen in het bestuur / meer verantwoordelijkheden aankunnen / India beter begrijpen dan de Britten)."
+    },
+    {
+     "points": 1,
+     "description": "b. In 1885 wordt het Indian National Congress opgericht (dat net als Besant streeft naar meer inspraak van Indiërs)."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-het-britse-rijk-antw13.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 14,
+   "answer_text": "Voorbeeld van een juist antwoord is:\na. De Verenigde Staten zijn een federale staat, waardoor wetten (over bijvoorbeeld kiesrecht) in sommige staten wel werden aangenomen terwijl die in andere staten nog niet werden aangenomen.\nb. Deze oproep droeg eraan bij dat politici aan de macht kwamen die instemden met vrouwenkiesrecht / dat (meer) vrouwen in Colorado gebruik gingen maken van hun stemrecht (en dus deelnamen aan het politieke proces), omdat ze zich aangesproken voelden / deze oproep zorgde ervoor dat politici in de Verenigde Staten inzagen dat opkomen voor vrouwenkiesrecht stemmen opbracht (wat de 'voortschrijdende democratisering' bevorderde).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "a. De Verenigde Staten zijn een federale staat, waardoor wetten (over bijvoorbeeld kiesrecht) in sommige staten wel werden aangenomen terwijl die in andere staten nog niet werden aangenomen."
+    },
+    {
+     "points": 1,
+     "description": "b. Deze oproep droeg eraan bij dat politici aan de macht kwamen die instemden met vrouwenkiesrecht / dat (meer) vrouwen in Colorado gebruik gingen maken van hun stemrecht (en dus deelnamen aan het politieke proces), omdat ze zich aangesproken voelden / deze oproep zorgde ervoor dat politici in de Verenigde Staten inzagen dat opkomen voor vrouwenkiesrecht stemmen opbracht (wat de 'voortschrijdende democratisering' bevorderde)."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-het-britse-rijk-antw14.png"
+   ]
+  },
+  {
+   "title": "Duitsland in Europa",
+   "question_number": 15,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• De aanhang van de NSDAP zal zijn aangesproken door (twee van de volgende):\n− het verheerlijken van het leger / het militarisme.\n− het verheerlijken van de grootsheid van Duitsland.\n− de opvatting dat de overgave in 1918 een dolkstoot was voor het Duitse leger.\n− de opvatting dat het Verdrag van Versailles een onrechtmatig juk was.\n− de opvatting dat Duitsland sterk vernederd was door de geallieerden door de schuldvraag.\n• Wilhelm II moest aan het einde van de oorlog afstand doen van de troon / kreeg (mede) de schuld van het Duitse verlies zodat hij met het schrijven van deze memoires zijn reputatie/positie wil herstellen.",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "De aanhang van de NSDAP zal zijn aangesproken door (twee van de volgende): het verheerlijken van het leger / het militarisme; het verheerlijken van de grootsheid van Duitsland; de opvatting dat de overgave in 1918 een dolkstoot was voor het Duitse leger; de opvatting dat het Verdrag van Versailles een onrechtmatig juk was; de opvatting dat Duitsland sterk vernederd was door de geallieerden door de schuldvraag"
+    },
+    {
+     "points": 1,
+     "description": "Wilhelm II moest aan het einde van de oorlog afstand doen van de troon / kreeg (mede) de schuld van het Duitse verlies zodat hij met het schrijven van deze memoires zijn reputatie/positie wil herstellen."
+    }
+   ],
+   "grading_note": "Per juiste opvatting 1 scorepunt toekennen.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-duitsland-in-europa-antw15.png"
+   ]
+  },
+  {
+   "title": "Duitsland in Europa",
+   "question_number": 16,
+   "answer_text": "Kern van een juist antwoord is:\nUit de uitspraak van Goebbels blijkt dat:\n• het nationaalsocialistische toekomstbeeld voor meisjes dat van moeder/echtgenote is, omdat zij aantrekkelijk moeten blijven (in de ogen van nationaalsocialistische mannen) / gezond moeten zijn (om kinderen te kunnen krijgen / het huishouden te doen).\n• het nationaalsocialistische toekomstbeeld voor jongens dat van strijdbare man/soldaat/militair is, omdat zij moeten leren marcheren / spierbundels moeten kweken.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "het nationaalsocialistische toekomstbeeld voor meisjes dat van moeder/echtgenote is, omdat zij aantrekkelijk moeten blijven (in de ogen van nationaalsocialistische mannen) / gezond moeten zijn (om kinderen te kunnen krijgen / het huishouden te doen)."
+    },
+    {
+     "points": 1,
+     "description": "het nationaalsocialistische toekomstbeeld voor jongens dat van strijdbare man/soldaat/militair is, omdat zij moeten leren marcheren / spierbundels moeten kweken."
+    }
+   ],
+   "grading_note": "Alleen als het antwoord een combinatie bevat van een juist toekomstbeeld voor meisjes/jongens en een daarbij passende verwijzing naar de bron, wordt telkens 1 scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-duitsland-in-europa-antw16.png"
+   ]
+  },
+  {
+   "title": "Nederland 1948 - 2008",
+   "question_number": 17,
+   "answer_text": "Kern van een juist antwoord is:\n• Van beleidsverandering 1 is ontwikkeling c de oorzaak, want de arbeiders waren noodzakelijk voor de wederopbouw na de oorlog / want er was veel werk te verzetten voor de wederopbouw.\n• Van beleidsverandering 2 is ontwikkeling a de oorzaak, want de regering zag emigratie als oplossing voor de sterke bevolkingstoename.\n• Van beleidsverandering 3 is ontwikkeling d de oorzaak, want door de welvaartsgroei ontstond een tekort aan arbeiders / waren arbeiders uit het buitenland nodig.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Van beleidsverandering 1 is ontwikkeling c de oorzaak, want de arbeiders waren noodzakelijk voor de wederopbouw na de oorlog / want er was veel werk te verzetten voor de wederopbouw."
+    },
+    {
+     "points": 1,
+     "description": "Van beleidsverandering 2 is ontwikkeling a de oorzaak, want de regering zag emigratie als oplossing voor de sterke bevolkingstoename."
+    },
+    {
+     "points": 1,
+     "description": "Van beleidsverandering 3 is ontwikkeling d de oorzaak, want door de welvaartsgroei ontstond een tekort aan arbeiders / waren arbeiders uit het buitenland nodig."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-nederland-1948-2008-antw17.png"
+   ]
+  },
+  {
+   "title": "Duitsland in Europa",
+   "question_number": 18,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• De boodschap die de CDU met deze poster weergeeft, is dat het communisme / de Sovjet-Unie gevaarlijk/een agressor is,\n• wat blijkt uit (een van de volgende):\n− de soldaat met een wapen in zijn hand.\n− de tekst: Hij is bewapend.\n• De CDU ondersteunt hiermee het beleid van snelle integratie in het Westen (de Westbindung) / het beleid van Adenauer om de DDR niet te erkennen / de wens dat de BRD lid wordt van de Europese Defensiegemeenschap.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De boodschap die de CDU met deze poster weergeeft, is dat het communisme / de Sovjet-Unie gevaarlijk/een agressor is,"
+    },
+    {
+     "points": 1,
+     "description": "wat blijkt uit (een van de volgende): de soldaat met een wapen in zijn hand; de tekst: Hij is bewapend"
+    },
+    {
+     "points": 1,
+     "description": "De CDU ondersteunt hiermee het beleid van snelle integratie in het Westen (de Westbindung) / het beleid van Adenauer om de DDR niet te erkennen / de wens dat de BRD lid wordt van de Europese Defensiegemeenschap."
+    }
+   ],
+   "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juiste boodschap bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de poster.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-duitsland-in-europa-antw18.png"
+   ]
+  },
+  {
+   "title": "Door de tijd heen",
+   "question_number": 19,
+   "answer_text": "De juiste volgorde is:\n3, 1, 5, 2, 6, 4",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "juiste volgorde: 3, 1, 5, 2, 6, 4"
+    }
+   ],
+   "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-door-de-tijd-heen-antw19.png"
+   ]
+  },
+  {
+   "title": "Duitsland in Europa",
+   "question_number": 20,
+   "answer_text": "Kern van een juist antwoord is:\n• (De DDR behoorde tot) de Comecon.\n• De (bouw van de) Berlijnse Muur stopte de vlucht van (hoogopgeleide) inwoners van de DDR naar het Westen / zorgde ervoor dat er genoeg (hoogopgeleide) arbeiders bleven om de economie draaiende te houden.\n• Het gesprek over de slechte economie moest geheim blijven om te voorkomen dat onder de inwoners van het Oostblok draagvlak werd verloren / om te voorkomen dat kritiek ontstond op het communistische beleid.\n• Chroesjtsjov gaf het bevel tot de bouw wat past bij het gegeven dat de (leiding van de) DDR moest doen wat de Sovjet-Unie beval.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "(De DDR behoorde tot) de Comecon."
+    },
+    {
+     "points": 1,
+     "description": "De (bouw van de) Berlijnse Muur stopte de vlucht van (hoogopgeleide) inwoners van de DDR naar het Westen / zorgde ervoor dat er genoeg (hoogopgeleide) arbeiders bleven om de economie draaiende te houden."
+    },
+    {
+     "points": 1,
+     "description": "Het gesprek over de slechte economie moest geheim blijven om te voorkomen dat onder de inwoners van het Oostblok draagvlak werd verloren / om te voorkomen dat kritiek ontstond op het communistische beleid."
+    },
+    {
+     "points": 1,
+     "description": "Chroesjtsjov gaf het bevel tot de bouw wat past bij het gegeven dat de (leiding van de) DDR moest doen wat de Sovjet-Unie beval."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-duitsland-in-europa-antw20.png"
+   ]
+  },
+  {
+   "title": "Nederland 1948 - 2008",
+   "question_number": 21,
+   "answer_text": "Voorbeeld van een juist antwoord is:\nJongerenbewegingen accepteerden de bestaande autoritaire machtsverhoudingen niet meer / beschouwden het gezag van de politie als minder vanzelfsprekend, waardoor het noodzakelijk werd om in de opleiding van politieagenten meer aandacht te besteden aan communicatievaardigheden / om politieagenten voor te bereiden op situaties waarin hun gezag werd betwist.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Jongerenbewegingen accepteerden de bestaande autoritaire machtsverhoudingen niet meer / beschouwden het gezag van de politie als minder vanzelfsprekend, waardoor het noodzakelijk werd om in de opleiding van politieagenten meer aandacht te besteden aan communicatievaardigheden / om politieagenten voor te bereiden op situaties waarin hun gezag werd betwist."
+    }
+   ],
+   "grading_note": "Alleen als het antwoord een combinatie bevat van een gevolg van de opkomst van jongerenbewegingen en daaruit voortkomende behoefte aan de lesmethode, wordt 1 scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-nederland-1948-2008-antw21.png"
+   ]
+  },
+  {
+   "title": "Nederland 1948 - 2008",
+   "question_number": 22,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Slechts 21% van de vrouwen/lezers wil een huwelijk met een eerlijke verdeling van de huishoudelijke taken en zorgtaken (waaruit blijkt dat de emancipatie van vrouwen nog niet voltooid is).\n• D'Ancona wil vanuit haar rol als hoofdredacteur van een feministisch maandblad / als feministe laten zien dat de feministische beweging succes begint te krijgen (zodat zij er de nadruk op legt dat jonge/ongehuwde lezers bewondering hebben voor een man die huishoudelijke taken en zorgtaken op zich neemt).\n• Door de publicatie weten vrouwen dat ze niet alleen staan in hun mening / durven (meer) vrouwen voor een eerlijke verdeling van taken op te komen / krijgen meer vrouwen/mannen oog voor het belang van een andere taakverdeling.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Slechts 21% van de vrouwen/lezers wil een huwelijk met een eerlijke verdeling van de huishoudelijke taken en zorgtaken (waaruit blijkt dat de emancipatie van vrouwen nog niet voltooid is)."
+    },
+    {
+     "points": 1,
+     "description": "D'Ancona wil vanuit haar rol als hoofdredacteur van een feministisch maandblad / als feministe laten zien dat de feministische beweging succes begint te krijgen (zodat zij er de nadruk op legt dat jonge/ongehuwde lezers bewondering hebben voor een man die huishoudelijke taken en zorgtaken op zich neemt)."
+    },
+    {
+     "points": 1,
+     "description": "Door de publicatie weten vrouwen dat ze niet alleen staan in hun mening / durven (meer) vrouwen voor een eerlijke verdeling van taken op te komen / krijgen meer vrouwen/mannen oog voor het belang van een andere taakverdeling."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-nederland-1948-2008-antw22.png"
+   ]
+  },
+  {
+   "title": "Nederland 1948 - 2008",
+   "question_number": 23,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Het Verdrag van Maastricht.\n• Door de campagne waarin kinderen/Nederlanders de namen van de landen van de euro leren worden Nederlanders zich bewust van de landen waarmee ze samenwerken.\n• Er komen nieuwe landen bij de Europese Unie (waarvan een deel zich ook aansluit bij de Europese Monetaire Unie).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Het Verdrag van Maastricht."
+    },
+    {
+     "points": 1,
+     "description": "Door de campagne waarin kinderen/Nederlanders de namen van de landen van de euro leren worden Nederlanders zich bewust van de landen waarmee ze samenwerken."
+    },
+    {
+     "points": 1,
+     "description": "Er komen nieuwe landen bij de Europese Unie (waarvan een deel zich ook aansluit bij de Europese Monetaire Unie)."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-nederland-1948-2008-antw23.png"
+   ]
+  },
+  {
+   "title": "Nederland 1948 - 2008",
+   "question_number": 24,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• De campagne past goed bij 'de toenemende westerse welvaart', omdat het vernieuwen van interieur / het kopen van designmeubelen bereikbaar werd door deze stijging in welvaart.\n• Hippies verzetten zich tegen de consumptiemaatschappij / vonden het weggooien van meubelen nodeloze verspilling/milieuvervuilend (zodat zij zich verzetten tegen de vernieuwing / zodat zij de afgedankte meubelen weer in hun woningen neerzetten).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "De campagne past goed bij 'de toenemende westerse welvaart', omdat het vernieuwen van interieur / het kopen van designmeubelen bereikbaar werd door deze stijging in welvaart."
+    },
+    {
+     "points": 1,
+     "description": "Hippies verzetten zich tegen de consumptiemaatschappij / vonden het weggooien van meubelen nodeloze verspilling/milieuvervuilend (zodat zij zich verzetten tegen de vernieuwing / zodat zij de afgedankte meubelen weer in hun woningen neerzetten)."
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2026-ii-nederland-1948-2008-antw24.png"
+   ]
+  }
+ ]
+}
