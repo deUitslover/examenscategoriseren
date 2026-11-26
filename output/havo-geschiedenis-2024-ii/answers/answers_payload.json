@@ -1,0 +1,510 @@
+{
+  "subject_name": "Geschiedenis",
+  "level": "HAVO",
+  "source": "HAVO Geschiedenis 2024-II",
+  "answers": [
+    {
+      "title": "Door de tijd heen",
+      "question_number": 1,
+      "answer_text": "De juiste volgorde is:\n6, 1, 5, 3, 2, 4",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "juiste volgorde: 6, 1, 5, 3, 2, 4"
+        }
+      ],
+      "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-door-de-tijd-heen-antw1.png"
+      ]
+    },
+    {
+      "title": "Ontdekkers en Hervormers",
+      "question_number": 2,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• (Het opgraven van / onderzoek doen naar een Romeins badhuis past bij) het kenmerkend aspect '(het veranderende mens- en wereldbeeld van de renaissance en) het begin van een nieuwe wetenschappelijke belangstelling' / 'de hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid'.\n• (Het laten maken van een tafel met Romeinse vondsten / naar Romeins voorbeeld past bij) het kenmerkend aspect 'de hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid'.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "passend kenmerkend aspect bij het opgraven van/onderzoek naar een Romeins badhuis"
+        },
+        {
+          "points": 1,
+          "description": "passend kenmerkend aspect bij het laten maken van een tafel met Romeinse vondsten/naar Romeins voorbeeld"
+        }
+      ],
+      "grading_note": "Als hetzelfde kenmerkend aspect meer dan één keer gebruikt wordt, wordt maximaal 1 scorepunt toegekend.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-ontdekkers-en-hervormers-antw2.png"
+      ]
+    },
+    {
+      "title": "Ontdekkers en Hervormers",
+      "question_number": 4,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• De maker van de prent kiest partij voor de protestanten door af te beelden dat (een van de volgende):\n− uit Luther een boom groeit waaruit het woord van God komt.\n− een jezuïet/katholieke geestelijke overlegt met de duivel.\n− jezuïeten/katholieke geestelijken de boom met het woord van God proberen om te hakken.\n• Ook gelovigen die niet kunnen lezen begrijpen de boodschap van een prent / prenten worden in grotere aantallen gedrukt (waardoor de propagandaboodschap zich snel zal verspreiden).\n• De maker wil anoniem blijven om bestraffing door de katholieke kerk te voorkomen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "de maker kiest partij voor de protestanten, met een passende verwijzing naar de prent (een van de genoemde punten)"
+        },
+        {
+          "points": 1,
+          "description": "juiste uitleg waarom een prent geschikt is (ook voor wie niet kan lezen / in grote aantallen gedrukt)"
+        },
+        {
+          "points": 1,
+          "description": "de maker wil anoniem blijven om bestraffing door de katholieke kerk te voorkomen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-ontdekkers-en-hervormers-antw4.png"
+      ]
+    },
+    {
+      "title": "Het Britse Rijk",
+      "question_number": 3,
+      "answer_text": "Kern van een juist antwoord is:\n• De bron is minder bruikbaar voor het eerste hoofdstuk, want het kruis wordt uitgelegd als een symbool van vriendschap met Powhatan / de ware betekenis van het kruis (als christelijk symbool) wordt niet genoemd door de Engelsen.\n• De bron is meer bruikbaar voor het tweede hoofdstuk, want uit de plaatsing van het kruis met de naam van de koning / uit het verkondigen dat Jacobus de koning is van dit gebied blijkt dat de Engelsen het land willen koloniseren/innemen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "de bron is minder bruikbaar voor het eerste hoofdstuk, met juiste uitleg"
+        },
+        {
+          "points": 1,
+          "description": "de bron is meer bruikbaar voor het tweede hoofdstuk, met juiste uitleg"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-het-britse-rijk-antw3.png"
+      ]
+    },
+    {
+      "title": "Het Britse Rijk",
+      "question_number": 9,
+      "answer_text": "Kern van een juist antwoord is:\n• Door de groei van steden / het leeglopen van het platteland tijdens/door de industriële revolutie ontstond kritiek op het gegeven dat de (inwoners van de) steden geen/te weinig vertegenwoordigers hadden (terwijl er wel parlementsleden werden afgevaardigd vanuit rotten boroughs).\n• Aan de kritiek werd tegemoetgekomen door de Reform Bill.\n• De kritiek op rotten boroughs past bij 'de voortschrijdende democratisering, met deelname van steeds meer mannen en vrouwen aan het politieke proces' (omdat meer mensen vertegenwoordiging wilden krijgen bij de verkiezing van parlementsleden).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juiste uitleg van het ontstaan van de kritiek (groei van steden / leeglopen platteland door de industriële revolutie)"
+        },
+        {
+          "points": 1,
+          "description": "de Reform Bill"
+        },
+        {
+          "points": 1,
+          "description": "juist kenmerkend aspect: de voortschrijdende democratisering"
+        }
+      ],
+      "grading_note": "Als bij de derde deelvraag 'de opkomst van emancipatiebewegingen' wordt geantwoord, wordt geen scorepunt toegekend (omdat de ondernemers door de Reform Bill politieke invloed krijgen).",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-het-britse-rijk-antw9.png"
+      ]
+    },
+    {
+      "title": "Het Britse Rijk",
+      "question_number": 11,
+      "answer_text": "Voorbeeld van een juist antwoord is:\nbij 1:\n• De kritiek wordt weergegeven dat Londen een ongezonde stad is om in te wonen / dat wonen bij de Theems gevaarlijk is,\n• door af beelden dat (een van de volgende):\n− uit de rivier figuren komen die ziektes voorstellen.\n− er dode dieren in de rivier/op de oever liggen.\n− de Theems een viezig figuur is.\n− er sprake is van vervuiling door schoorstenen.\nbij 2:\n• De kritiek wordt weergegeven dat de regering te weinig doet aan de vervuiling / dat de regering de problemen negeert door een nieuw parlementsgebouw op een andere plek te willen bouwen,\n• door (een van de volgende):\n− de spottende ondertitel 'ontwerp voor een muurschildering in het nieuwe parlementsgebouw'.\n− de bezorgde reactie van Londen op de ziektes.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "bij 1: juiste kritiek op de leefomstandigheden (Londen ongezond / wonen bij de Theems gevaarlijk)"
+        },
+        {
+          "points": 1,
+          "description": "bij 1: passende verwijzing naar de prent"
+        },
+        {
+          "points": 1,
+          "description": "bij 2: juiste kritiek op het regeringsbeleid (te weinig doen aan vervuiling / problemen negeren)"
+        },
+        {
+          "points": 1,
+          "description": "bij 2: passende verwijzing naar de prent"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord een juiste kritiek bevat op (bij de eerste deelvraag) de leefomstandigheden en (bij de tweede deelvraag) het regeringsbeleid, wordt aan een daarbij passende verwijzing naar de bron 1 scorepunt toegekend.\nAls dezelfde verwijzing naar de bron wordt gebruikt, wordt alleen aan de eerste verwijzing 1 scorepunt toegekend.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-het-britse-rijk-antw11.png"
+      ]
+    },
+    {
+      "title": "Het Britse Rijk",
+      "question_number": 12,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• Op de foto is te zien dat door de aanleg van de spoorlijn een ruig/hoog/moeilijk toegankelijk gebied bereikbaar wordt,\n• waardoor de Britten hun politieke invloed kunnen vergroten / het verkrijgen van grondstoffen makkelijker wordt (wat het moderne imperialisme bevordert).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "door de spoorlijn wordt een ruig/hoog/moeilijk toegankelijk gebied bereikbaar"
+        },
+        {
+          "points": 1,
+          "description": "juiste uitleg hoe dit het moderne imperialisme bevordert (politieke invloed / grondstoffen)"
+        }
+      ],
+      "grading_note": "Alleen als uit het antwoord blijkt dat deze spoorlijn een geïsoleerd gebied toegankelijk maakt, wordt 1 scorepunt toegekend aan de uitleg over het bevorderen van het moderne imperialisme.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-het-britse-rijk-antw12.png"
+      ]
+    },
+    {
+      "title": "Het Britse Rijk",
+      "question_number": 13,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• De Britten moesten gebruikmaken van het bestaande Indiase bestuur omdat zij slechts met een kleine groep Britten miljoenen Indiërs moesten besturen,\n• wat Lord Curzon niet noemt omdat hij wil voorkomen dat het Britse gezag wordt gezien als (te) zwak/kwetsbaar / omdat hij wil dat niemand de macht van het Britse bestuur in twijfel trekt (door te denken dat die eigenlijk afhankelijk is van het inheemse bestuur).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "de Britten moesten gebruikmaken van het bestaande Indiase bestuur (kleine groep Britten tegenover miljoenen Indiërs)"
+        },
+        {
+          "points": 1,
+          "description": "juiste verklaring waarom Lord Curzon dit niet noemt"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-het-britse-rijk-antw13.png"
+      ]
+    },
+    {
+      "title": "Regenten en Vorsten",
+      "question_number": 5,
+      "answer_text": "Voorbeeld van een juist antwoord is:\nDeze informatie werd belangrijk gevonden omdat:\n• de Republiek hierdoor de oorlog met het Spaanse rijk ook naar Zuid-Amerika kon uitbreiden (omdat met deze informatie de aanval op/inname van steden in Zuid-Amerika/Spaanse koloniën gemakkelijker werd).\n• hiermee de WIC wist waar zij haar handelspositie in Zuid-Amerika kon verbeteren (die onderdeel uitmaakte van de driehoekshandel).\nof\n• hierdoor het veroveren van gebieden in Zuid-Amerika gemakkelijker werd waarmee de Republiek toegang kreeg tot de plantages (die produceerden voor de driehoekshandel).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "de Republiek kon de oorlog met het Spaanse rijk naar Zuid-Amerika uitbreiden"
+        },
+        {
+          "points": 1,
+          "description": "de WIC wist waar zij haar handelspositie in Zuid-Amerika kon verbeteren / het veroveren van gebieden gaf toegang tot plantages (driehoekshandel)"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-regenten-en-vorsten-antw5.png"
+      ]
+    },
+    {
+      "title": "Regenten en Vorsten",
+      "question_number": 6,
+      "answer_text": "Kern van een juist antwoord is:\nEisinga wilde door wetenschappelijke kennis toegankelijk/inzichtelijk te maken bijgeloof bestrijden/mensen overtuigen dat de voorspelling niet zou uitkomen (zodat het openstellen van het planetarium past bij het 'rationeel optimisme').",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "juiste uitleg: door wetenschappelijke kennis toegankelijk/inzichtelijk te maken bijgeloof bestrijden (rationeel optimisme)"
+        }
+      ],
+      "grading_note": "Alleen als in het antwoord wordt ingegaan op het toegankelijk/inzichtelijk maken van kennis (door het openstellen), worden scorepunten toegekend.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-regenten-en-vorsten-antw6.png"
+      ]
+    },
+    {
+      "title": "Regenten en Vorsten",
+      "question_number": 7,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• Uit de beschrijving blijkt dat Lodewijk XIV door de dag van het appartement verplicht te stellen de adel een paar keer per week in de gaten kan houden / de adel kan imponeren met luxe (waardoor hij zijn positie als absoluut vorst verstevigt).\n• Met de beschrijving kan de kritiek onderbouwd worden dat de sociale verhoudingen scheef zijn/er geld wordt verspild,\n• omdat uit de bron blijkt dat (een van de volgende):\n− de adel/de koning avonden vult met allerlei (nutteloos) vermaak.\n− er veel geld wordt uitgegeven aan voedsel/vermaak/inrichting.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juiste uitleg hoe Lodewijk XIV zijn positie als absoluut vorst verstevigt (adel in de gaten houden / imponeren met luxe)"
+        },
+        {
+          "points": 1,
+          "description": "juiste kritiek: scheve sociale verhoudingen / geldverspilling"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de bron (een van de genoemde punten)"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord bij de tweede deelvraag een juist voorbeeld van kritiek bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-regenten-en-vorsten-antw7.png"
+      ]
+    },
+    {
+      "title": "Regenten en Vorsten",
+      "question_number": 10,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• De schrijver wijst het idee van natuurlijke rechten af,\n• door te schrijven dat (pers)vrijheid alleen geldt voor vrije mensen / door een grondwet kan worden verboden voor slaafgemaakten.\n• De uitgever wil overbrengen dat de abolitionistische beweging haar doel nog niet heeft bereikt/steun nodig heeft / dat het belangrijk is dat de abolitionistische beweging het werk voortzet.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "de schrijver wijst het idee van natuurlijke rechten af"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de bron ((pers)vrijheid alleen voor vrije mensen / kan verboden worden voor slaafgemaakten)"
+        },
+        {
+          "points": 1,
+          "description": "juiste boodschap van de uitgever (abolitionistische beweging heeft doel nog niet bereikt / moet het werk voortzetten)"
+        }
+      ],
+      "grading_note": "Als bij het antwoord op de tweede deelvraag alleen wordt ingegaan op de beoogde afschaffing van de slavernij door abolitionisten en niet op de boodschap van The Liberator, wordt geen scorepunt toegekend.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-regenten-en-vorsten-antw10.png"
+      ]
+    },
+    {
+      "title": "Pruiken en Revoluties",
+      "question_number": 8,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• Lacour wil de boodschap overbrengen dat (opstandige slaven als) Solitude wreed/wraakzuchtig/onbeschaafd (zijn) is,\n• omdat hij als familielid van plantage-eigenaren opstand onder slaafgemaakten afkeurt/vreest.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juiste boodschap: (opstandige slaven als) Solitude wreed/wraakzuchtig/onbeschaafd"
+        },
+        {
+          "points": 1,
+          "description": "juiste verklaring: als familielid van plantage-eigenaren keurt hij opstand af/vreest hij opstand"
+        }
+      ],
+      "grading_note": "Als bij de tweede deelvraag alleen wordt genoemd dat Lacour familie is van plantage-eigenaren zonder daarmee een verklaring te geven voor de boodschap die Lacour wil overbrengen, wordt geen scorepunt toegekend.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-pruiken-en-revoluties-antw8.png"
+      ]
+    },
+    {
+      "title": "Tijd van Wereldoorlogen",
+      "question_number": 14,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• Door \"alles gaat goed\" / \"maar voel me al beter\" / \"ik heb wel/niet recentelijk een brief/pakketje ontvangen\" wist het thuisfront dat de soldaat het goed maakte/leefde, zodat de steun voor de oorlog bij het thuisfront hoog bleef / zodat mannen zich zouden aanmelden voor dienst.\n• De Britse legerleiding zorgde met de zin \"Als er iets anders op deze kaart wordt geschreven, wordt hij vernietigd\" ervoor dat soldaten geen informatie toevoegden, om te voorkomen dat er informatie over het front/strategische informatie in vijandelijke handen zou vallen / dat de moraal van het thuisfront door de ellendige toestand aan het front zou dalen / het falen van de legerleiding uit zou komen.",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "juiste uitleg met passende verwijzing naar de kaart hoe de steun voor de oorlog bij het thuisfront hoog bleef"
+        },
+        {
+          "points": 2,
+          "description": "juiste uitleg met passende verwijzing naar de kaart waarom soldaten geen informatie mochten toevoegen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-tijd-van-wereldoorlogen-antw14.png"
+      ]
+    },
+    {
+      "title": "Tijd van Wereldoorlogen",
+      "question_number": 15,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• Uit de bron blijkt dat Nabrink een communist/socialist is,\n• omdat hij schrijft dat (een van de volgende):\n− de 'Indische Tentoonstelling' een wanhopige poging is het optreden van de Nederlandse bezittende klasse (in Indonesië) te rechtvaardigen.\n− de Nederlandse aanwezigheid in Indonesië alleen om winst gaat.\n− de Nederlandse aanwezigheid in Indonesië ten koste gaat van de Indonesische bevolking.\n− er sprake is van bourgeoisie / klassen.\n• (Het organiseren van een tentoonstelling waarin het kolonialisme wordt verdedigd / dat het Nederlandse volk wil doordringen van het belang van de kolonie past bij) 'de rol van propaganda en moderne communicatiemiddelen'.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juiste politieke stroming: communisme/socialisme"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de bron (een van de genoemde punten)"
+        },
+        {
+          "points": 1,
+          "description": "juist kenmerkend aspect: de rol van propaganda en moderne communicatiemiddelen"
+        }
+      ],
+      "grading_note": "Alleen als bij de eerste deelvraag een juiste politieke stroming wordt genoemd, wordt 1 scorepunt toegekend aan een passende verwijzing naar de bron.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-tijd-van-wereldoorlogen-antw15.png"
+      ]
+    },
+    {
+      "title": "Duitsland in Europa",
+      "question_number": 16,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• De maatregel laat zien dat de overheid zeggenschap heeft over een persoonlijke aangelegenheid als voornamen (wat past bij een totalitaire staat).\n• Door de maatregel zijn Joden meteen te herkennen aan hun voornaam, waardoor de controle op maatregelen die bedoeld zijn om Joden buiten te sluiten makkelijker wordt / waardoor instanties/mensen in Duitsland makkelijk Joden kunnen ontlopen/weren.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "de overheid heeft zeggenschap over een persoonlijke aangelegenheid als voornamen (totalitaire staat)"
+        },
+        {
+          "points": 2,
+          "description": "juiste uitleg: Joden zijn meteen herkenbaar aan hun voornaam, waardoor uitsluiting makkelijker wordt"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-duitsland-in-europa-antw16.png"
+      ]
+    },
+    {
+      "title": "Duitsland in Europa",
+      "question_number": 17,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• David Low bekritiseert de Britse appeasementpolitiek (of een juiste omschrijving daarvan),\n• door (een van de volgende):\n− af te beelden dat de man lui op een stoeltje blijft liggen terwijl de krokodil zijn been al in zijn bek heeft.\n− de titel \"Het dwazenparadijs van de democratie\" van het boekje.\n− de tekst \"Vooruit dan maar, alles voor een rustig leven\".\n• David Low bekritiseert het Duitse beleid dat geweld wordt gebruikt voor aansluiting van Duitstalige gebieden / dat Duitsland zich agressief opstelt tegenover andere landen,\n• door het afbeelden van de nationaalsocialistische buitenlandse politiek als een gewelddadige/hongerige krokodil.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "Low bekritiseert de Britse appeasementpolitiek"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de prent bij de Britse politiek (een van de genoemde punten)"
+        },
+        {
+          "points": 1,
+          "description": "Low bekritiseert het agressieve/gewelddadige Duitse buitenlandse beleid"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de prent: de nationaalsocialistische buitenlandse politiek als gewelddadige/hongerige krokodil"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord het juiste (bij de eerste deelvraag) Britse buitenlandse beleid en (bij de tweede deelvraag) Duitse buitenlandse beleid bevat dat Low bekritiseert, wordt telkens 1 scorepunt toegekend aan een daarbij passende verwijzing naar de prent.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-duitsland-in-europa-antw17.png"
+      ]
+    },
+    {
+      "title": "Duitsland in Europa",
+      "question_number": 19,
+      "answer_text": "Kern van een juist antwoord is:\na. Na de Tweede Wereldoorlog wilde de Sovjet-Unie compensatie voor de geleden schade, waarbij het meenemen van fabrieken en laboratoria/wetenschappers werd gezien als deel hiervan / moest bijdragen aan het herstel van de Russische economie.\nb. De wetenschappers en technici werden als helden ontvangen omdat ze een bijdrage hadden geleverd aan het versterken van het communisme / omdat de DDR de opdracht kreeg van de Sovjet-Unie om deze wetenschappers een voorkeursbehandeling te geven.",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "a. juiste uitleg: de Sovjet-Unie wilde compensatie voor de geleden oorlogsschade / herstel van de Russische economie"
+        },
+        {
+          "points": 1,
+          "description": "b. juiste verklaring waarom de wetenschappers en technici als helden werden ontvangen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-duitsland-in-europa-antw19.png"
+      ]
+    },
+    {
+      "title": "Duitsland in Europa",
+      "question_number": 21,
+      "answer_text": "Voorbeeld van een juist antwoord is:\na. Het optreden van de Oost-Berlijnse grensbewakers draagt bij aan de gespannen verhouding omdat het doodschieten van/niet helpen van Peter Fechter door de Oost-Berlijnse grensbewakers leidt tot opstootjes/rellen aan de grens tussen Oost- en West-Berlijn,\nb. wat blijkt uit het artikel waarin staat dat de West-Berlijners het doodschieten van de jongen openlijk veroordelen / omdat de reacties uit het Westen de communistische politie ertoe brengen traangasgranaten te gooien.\nc. De publicatie van het artikel draagt bij aan de gespannen verhouding omdat hierdoor het westerse vijandsbeeld van het Oostblok wordt versterkt,\nd. omdat in het artikel wordt benadrukt dat de bewakers die de jongen doodschieten communisten zijn / het artikel het gedrag van de communistische grensbewakers veroordeelt.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "a. juiste uitleg hoe het optreden van de grensbewakers bijdraagt aan de gespannen verhouding"
+        },
+        {
+          "points": 1,
+          "description": "b. passende verwijzing naar de bron"
+        },
+        {
+          "points": 1,
+          "description": "c. juiste uitleg hoe de publicatie van het artikel bijdraagt aan de gespannen verhouding (westers vijandsbeeld versterkt)"
+        },
+        {
+          "points": 1,
+          "description": "d. passende verwijzing naar de bron"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord een juiste uitleg over de wijze waarop (bij de eerste deelvraag) het optreden van de grensbewakers en (bij de tweede deelvraag) de publicatie van het artikel bijdragen aan de gespannen verhouding, wordt telkens 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-duitsland-in-europa-antw21.png"
+      ]
+    },
+    {
+      "title": "Duitsland in Europa",
+      "question_number": 24,
+      "answer_text": "Voorbeeld van een juist antwoord is:\na. De bevolking verzette zich omdat ze bang was dat de overheid totalitair zou kunnen worden / misbruik zou maken van de gegevens om de bevolking te overheersen,\nb. omdat ze te maken hadden gehad met 'het in praktijk brengen van de totalitaire ideologieën communisme en fascisme/nationaalsocialisme'.\nc. De bevolking was bezorgd dat door de start van de digitale revolutie de gegevens sneller konden worden gedeeld / gegevens makkelijker konden worden vergeleken/uitgewisseld (zodat door het gebruik van de computer de regering meer macht kreeg).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "a. juiste verklaring voor het verzet (angst voor een totalitaire overheid / misbruik van gegevens)"
+        },
+        {
+          "points": 1,
+          "description": "b. passend kenmerkend aspect: het in praktijk brengen van de totalitaire ideologieën communisme en fascisme/nationaalsocialisme"
+        },
+        {
+          "points": 1,
+          "description": "c. juiste uitleg van de zorg over de digitale revolutie"
+        }
+      ],
+      "grading_note": "Alleen als bij de eerste deelvraag een juiste verklaring wordt gegeven voor het verzet in de BRD, wordt 1 scorepunt toegekend aan een daarbij passend kenmerkend aspect.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-duitsland-in-europa-antw24.png"
+      ]
+    },
+    {
+      "title": "Duitsland in Europa",
+      "question_number": 26,
+      "answer_text": "Kern van een juist antwoord is:\nIn 1997 bestond (de dictatuur in) de DDR niet meer / was Duitsland verenigd, waardoor het mogelijk werd/gevraagd werd om af te rekenen met de mensen die tijdens de DDR-tijd misdaden hadden gepleegd voor het toenmalige regime.",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "juiste uitleg: de DDR bestond niet meer / Duitsland was verenigd, waardoor afgerekend kon worden met misdaden uit de DDR-tijd"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-duitsland-in-europa-antw26.png"
+      ]
+    },
+    {
+      "title": "Nederland 1948-2008",
+      "question_number": 20,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• De Stichting van de Arbeid en de regering wilden de wederopbouw (of een omschrijving hiervan) / de werkgelegenheid stimuleren.\n• Vanaf de jaren 1950 groeide de economie, zodat de steun voor de geleide loonpolitiek afnam, omdat door de gedwongen lage lonen de welvaart niet steeg / omdat de werkgevers problemen kregen personeel te werven (omdat ze geen extra beloningen mochten toekennen).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "doel: de wederopbouw / de werkgelegenheid stimuleren"
+        },
+        {
+          "points": 2,
+          "description": "juiste uitleg waarom de steun voor de geleide loonpolitiek afnam door de economische groei"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-nederland-1948-2008-antw20.png"
+      ]
+    },
+    {
+      "title": "Nederland 1948-2008",
+      "question_number": 22,
+      "answer_text": "Voorbeeld van een juist antwoord is:\nUit de uitspraak van Gerrit van Dam blijkt dat de confessionele partijen vinden dat de vrouw een traditionele rol moet houden / vinden dat de vrouw verantwoordelijk is voor het gezinsleven / haar gezin boven het betaalde werk moet stellen, waardoor actiegroep Dolle Mina bang is dat vrouwen nog geen gelijke rechten/kansen krijgen (waardoor ze doorgaan met de acties).",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "juiste uitleg: de confessionele partijen willen een traditionele rol voor de vrouw, waardoor Dolle Mina vreest dat vrouwen nog geen gelijke rechten/kansen krijgen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-nederland-1948-2008-antw22.png"
+      ]
+    },
+    {
+      "title": "Nederland 1948-2008",
+      "question_number": 23,
+      "answer_text": "Voorbeeld van een juist antwoord is:\nDe punkbeweging verzette zich tegen de bestaande orde/tegen het kapitalisme/tegen de consumptiemaatschappij, wat past bij de beschrijving in de bron dat emblemen van Mercedes/een luxe auto worden gesloopt/ worden gebruikt als kerstversiering / dat (gewone) kerstballen burgerlijk zijn.",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "juiste uitleg waartegen de punkbeweging zich verzette met een passende verwijzing naar de bron"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-nederland-1948-2008-antw23.png"
+      ]
+    },
+    {
+      "title": "Computer en Televisie",
+      "question_number": 25,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• Million geeft de kritiek weer dat de Europese Unie niet goed samenwerkt / traag is / alleen maar praat en geen actie onderneemt,\n• door af te beelden dat (een van de volgende):\n− de brandweermannen zich afvragen wie er moet gaan kijken / ruzie maken over wie het water/de extra uren gaat betalen.\n− de brandweerauto nog moet worden aangezwengeld.\n− de brandweermannen allemaal in de auto blijven zitten.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juiste kritiek op de werkwijze van de Europese Unie (niet goed samenwerken / traag / alleen praten)"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de prent (een van de genoemde punten)"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord een juiste kritiek van Million bevat op de werkwijze van de Europese Unie (en niet alleen ingaat op het negeren van Joegoslavië), wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de prent.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-ii-computer-en-televisie-antw25.png"
+      ]
+    }
+  ]
+}

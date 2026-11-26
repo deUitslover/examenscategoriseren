@@ -1,0 +1,529 @@
+{
+  "subject_name": "Geschiedenis",
+  "level": "HAVO",
+  "source": "HAVO Geschiedenis 2024-I",
+  "answers": [
+    {
+      "title": "Door de tijd heen",
+      "question_number": 1,
+      "answer_text": "De juiste volgorde is:\n1, 5, 6, 4, 3, 2",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "juiste volgorde: 1, 5, 6, 4, 3, 2"
+        }
+      ],
+      "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-door-de-tijd-heen-antw1.png"
+      ]
+    },
+    {
+      "title": "Door de tijd heen",
+      "question_number": 16,
+      "answer_text": "De juiste volgorde is:\n2, 6, 3, 1, 4, 5",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "juiste volgorde: 2, 6, 3, 1, 4, 5"
+        }
+      ],
+      "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-door-de-tijd-heen-antw16.png"
+      ]
+    },
+    {
+      "title": "Ontdekkers en Hervormers",
+      "question_number": 2,
+      "answer_text": "Voorbeeld van een juist antwoord is:\nTijdens de reformatie keerden de protestanten zich af van de paus/katholieke kerk, zodat er belangstelling was voor deze legende omdat hiermee het gezag/de reputatie van de paus/katholieke kerk ter discussie kon worden gesteld/werd geschaad.",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "juiste verklaring voor de belangstelling voor de legende tijdens de reformatie (gezag/reputatie van de paus/katholieke kerk ter discussie gesteld/geschaad)"
+        }
+      ],
+      "grading_note": "Alleen als in het antwoord wordt verwezen naar de legende met een daarbij passende verklaring voor de belangstelling tijdens de reformatie, worden scorepunten toegekend.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-ontdekkers-en-hervormers-antw2.png"
+      ]
+    },
+    {
+      "title": "Ontdekkers en Hervormers",
+      "question_number": 3,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• De informatie in de bron is betrouwbaar omdat de ambassadeur ooggetuige is van de werkwijze van de Spaanse koning / zelf geen partij is in het conflict.\n• De Nederlandse edelen hebben kritiek op het Spaanse bestuur omdat zij zich buitengesloten voelen / bang zijn hun bestuurlijke macht te verliezen,\n• omdat volgens Suriano de Spaanse koning (een van de volgende):\n− Spaanse edelen voortrekt / om advies vraagt.\n− neerkijkt op edelen uit de andere landen waarover hij regeert.\n− geen (bestuurlijke) positie geeft aan de edelen uit de andere landen die hij regeert.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juiste uitleg waarom de informatie in de bron betrouwbaar is (ooggetuige / geen partij in het conflict)"
+        },
+        {
+          "points": 1,
+          "description": "juiste verklaring voor de kritiek van de Nederlandse edelen (buitengesloten / bang bestuurlijke macht te verliezen)"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de bron (een van de genoemde punten over de Spaanse koning volgens Suriano)"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord bij de tweede deelvraag een juiste verklaring voor de kritiek van de edelen bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-ontdekkers-en-hervormers-antw3.png"
+      ]
+    },
+    {
+      "title": "Het Britse Rijk",
+      "question_number": 4,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• De Engelsen streven ernaar de verhoudingen goed te houden / erkennen het gezag van de stamhoofden (door niet zelf in te grijpen) / streven naar handel met de inheemse bevolking (wat past bij de beginperiode van de Engelse aanwezigheid in Noord-Amerika),\n• wat blijkt uit de beschrijving dat (een van de volgende):\n− de mensen die gestolen hebben niet gestraft worden / beloond worden voor het teruggeven van de goederen.\n− de Engelsen goederen bij zich hebben om te verhandelen met de bevolking.\n− de inheemse bevolking bereid is spullen terug te geven.\n− de stamhoofden worden bedankt.\n• Kapitein Newport heeft de inheemse bevolking nodig om te overleven / is bang dat hij een conflict met de op dat moment nog talrijke inheemse bevolking niet zou winnen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juist argument dat de ontmoeting past bij de beginperiode van de Engelse aanwezigheid in Noord-Amerika"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de beschrijving (een van de genoemde punten)"
+        },
+        {
+          "points": 1,
+          "description": "juiste verklaring voor het optreden van kapitein Newport (inheemse bevolking nodig om te overleven / bang een conflict niet te winnen)"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord bij de eerste deelvraag met een juist argument aantoont dat de ontmoeting past bij de beginperiode van de Engelse aanwezigheid, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-het-britse-rijk-antw4.png"
+      ]
+    },
+    {
+      "title": "Het Britse Rijk",
+      "question_number": 8,
+      "answer_text": "Kern van een juist antwoord is:\nUit het affiche blijkt dat de Britse bevelhebber de opstand gewelddadig neer zou slaan / dat er geen genade werd getoond voor de opstandige slaafgemaakten, wat bij de Britse regering/het Britse volk leidde tot het besef dat de slavernij onhoudbaar was / tot meer medelijden met slaafgemaakten (waardoor de steun voor de afschaffing van de slavernij toenam).",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "juiste uitleg over de versterkte steun voor de afschaffing van de slavernij in combinatie met een passende verwijzing naar het affiche"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord een combinatie bevat van een uitleg over de versterkte steun voor de afschaffing van de slavernij en een daarbij passende verwijzing naar het affiche, worden scorepunten toegekend.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-het-britse-rijk-antw8.png"
+      ]
+    },
+    {
+      "title": "Het Britse Rijk",
+      "question_number": 9,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• Verandering: uit de bron blijkt dat India onder direct gezag van de Britse regering komt (in plaats van onder de East India Company),\n• omdat er een onderkoning wordt benoemd.\n• Continuïteit: uit de bron blijkt dat de Britse regering gebruik blijft maken van het bestaande inheemse bestuur / de bestaande verhoudingen continueren,\n• omdat het Britse bestuur (een van de volgende):\n− de rechten van inheemse vorsten respecteert.\n− de verdragen handhaaft die de East India Company met de inheemse vorsten heeft gesloten.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "verandering: India komt onder direct gezag van de Britse regering (in plaats van onder de East India Company)"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de bron: er wordt een onderkoning benoemd"
+        },
+        {
+          "points": 1,
+          "description": "continuïteit: de Britse regering blijft gebruikmaken van het bestaande inheemse bestuur / de bestaande verhoudingen continueren"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de bron (rechten van inheemse vorsten gerespecteerd / verdragen van de East India Company gehandhaafd)"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord een juist voorbeeld bevat van verandering/continuïteit, wordt telkens 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.\nAls dezelfde verwijzing naar de bron tweemaal wordt gebruikt, wordt alleen aan de eerste verwijzing 1 punt toegekend.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-het-britse-rijk-antw9.png"
+      ]
+    },
+    {
+      "title": "Het Britse Rijk",
+      "question_number": 11,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• Bij het industrieel kapitalisme wordt gestreefd naar het maken van zoveel mogelijk winst / naar het zo laag mogelijk houden van de (loon)kosten (waardoor de misstanden ontstaan die Lord Ashley beschrijft).\n• Lord Ashley ondersteunt de Factory Acts,\n• door te zeggen dat het terugbrengen/afnemen van de werkuren ervoor zorgt dat kinderen niet meer misvormd zijn.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juiste uitleg van het verband met het industrieel kapitalisme (zoveel mogelijk winst / zo laag mogelijke (loon)kosten)"
+        },
+        {
+          "points": 1,
+          "description": "Lord Ashley ondersteunt de Factory Acts"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de bron (minder werkuren zorgt dat kinderen niet meer misvormd zijn)"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord bij de tweede deelvraag gaat over de Factory Acts, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-het-britse-rijk-antw11.png"
+      ]
+    },
+    {
+      "title": "Het Britse Rijk",
+      "question_number": 12,
+      "answer_text": "Voorbeeld van een juist antwoord is:\nbij 1:\n• De uitgever wilde met artikelen over invloedrijke Indiërs in Groot-Brittannië het politieke doel bereiken dat (rijke) Indiërs zich meer gingen zien als Britse onderdaan / (rijke) Indiërs het Britse bestuur accepteren/ondersteunen.\nbij 2:\n• De uitgever wilde met artikelen over productie en gebruik van katoen en stoffen het economische doel bereiken dat Indiërs Britse goederen gingen kopen / Indiërs gingen produceren voor de Britse markt.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "bij 1: juist politiek doel met een passend voorbeeld van artikelen (over invloedrijke Indiërs in Groot-Brittannië)"
+        },
+        {
+          "points": 1,
+          "description": "bij 2: juist economisch doel met een passend voorbeeld van artikelen (over productie en gebruik van katoen en stoffen)"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord een combinatie bevat van een (bij de eerste deelvraag) politiek doel en (bij de tweede deelvraag) een economisch doel en een verwijzing naar een voorbeeld van artikelen, wordt telkens 1 scorepunt toegekend.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-het-britse-rijk-antw12.png"
+      ]
+    },
+    {
+      "title": "Regenten en Vorsten",
+      "question_number": 5,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• De boodschap wordt weergegeven dat Lodewijk XIV terecht de rechten van protestanten intrekt / een kwaadaardig/slecht geloof bestrijdt,\n• door af te beelden dat (een van de volgende):\n− Lodewijk XIV het protestantisme vertrapt.\n− slangen (symbool voor kwaad) uit protestantse boeken kruipen.\n• Lodewijk XIV wordt afgebeeld als een Romeinse keizer/almachtig heerser (wat moet aantonen dat hij absolute macht heeft).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juiste boodschap over het intrekken van de rechten van protestanten"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de bron (Lodewijk XIV vertrapt het protestantisme / slangen kruipen uit protestantse boeken)"
+        },
+        {
+          "points": 1,
+          "description": "Lodewijk XIV wordt afgebeeld als Romeinse keizer/almachtig heerser (absolute macht)"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juiste boodschap bevat over het besluit de rechten van protestanten in te trekken, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-regenten-en-vorsten-antw5.png"
+      ]
+    },
+    {
+      "title": "Pruiken en Revoluties",
+      "question_number": 6,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• Uit het artikel blijkt dat er continuïteit is in de opvatting van de taak van vrouwen / in het bestaande rollenpatroon tussen mannen en vrouwen,\n• wat blijkt uit (een van de volgende):\n− de bewondering van de auteur voor de zorg die Liberté Barreau geeft aan haar gewonde echtgenoot.\n− de opmerking dat een vrouw haar man zorg verschuldigd is.\n− de opmerking dat verzorgen een deugd van vrouwen is.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "continuïteit in de opvatting van de taak van vrouwen / het bestaande rollenpatroon"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de bron (een van de genoemde punten)"
+        }
+      ],
+      "grading_note": "Alleen als een juist voorbeeld van continuïteit wordt genoemd, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-pruiken-en-revoluties-antw6.png"
+      ]
+    },
+    {
+      "title": "Pruiken en Revoluties",
+      "question_number": 7,
+      "answer_text": "Kern van een juist antwoord is:\n• De oorlog past bij ‘de democratische revoluties in westerse landen (met als gevolg discussies over grondwetten, grondrechten en staatsburgerschap)',\n• omdat in deze oorlog de Fransen/Liberté Barreau de Franse Republiek/de val van het absolutisme in Frankrijk ondersteunde(n).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juist kenmerkend aspect: de democratische revoluties in westerse landen"
+        },
+        {
+          "points": 1,
+          "description": "juiste verklaring: de Fransen/Liberté Barreau ondersteunde(n) de Franse Republiek/de val van het absolutisme"
+        }
+      ],
+      "grading_note": "Alleen als in het antwoord het juiste kenmerkend aspect wordt genoemd, wordt 1 scorepunt toegekend aan een juiste verklaring waarom de oorlog waarin Liberté Barreau vocht daarbij paste.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-pruiken-en-revoluties-antw7.png"
+      ]
+    },
+    {
+      "title": "Burgers en Stoommachines",
+      "question_number": 10,
+      "answer_text": "Kern van het antwoord is:\n• De aanname van de wet paste bij 'de industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving'.\n• De regering wilde (door de aanleg van spoorlijnen) mogelijk maken dat producten/grondstoffen snel/in grote hoeveelheden konden worden aangevoerd/afgevoerd (wat de economie zou stimuleren).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juist kenmerkend aspect: de industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving"
+        },
+        {
+          "points": 1,
+          "description": "juiste uitleg: snelle aan-/afvoer van producten/grondstoffen in grote hoeveelheden mogelijk maken"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-burgers-en-stoommachines-antw10.png"
+      ]
+    },
+    {
+      "title": "Burgers en Stoommachines",
+      "question_number": 13,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• Het is mogelijk dat een voorstander van het Nederlandse bestuur de opdracht gaf omdat de Nederlanders als machtiger worden weergegeven / wordt beweerd dat de aanval van Surapati een misdaad is,\n• door (een van de volgende):\n− Tack (de Nederlander) groter af te beelden dan Surapati.\n− in de tekst op het schilderij de dood van Tack 'moord' te noemen.\n• In de negentiende eeuw ontstaat belangstelling voor Surapati omdat Indonesiërs zijn verzet tegen de VOC gebruiken als inspiratie voor hun eigen verzet,\n• wat past bij 'vormen van verzet tegen het westerse imperialisme'.\nof\n• In de negentiende eeuw ontstaat belangstelling voor Surapati omdat Indonesiërs interesse/waardering krijgen voor hun eigen geschiedenis/nationale helden,\n• wat past bij 'opkomst van de politiek-maatschappelijke stroming nationalisme'.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juiste uitleg over de opdrachtgever (voorstander van het Nederlandse bestuur)"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de bron (Tack groter afgebeeld / dood van Tack 'moord' genoemd)"
+        },
+        {
+          "points": 1,
+          "description": "juiste verklaring voor de belangstelling voor Surapati in de negentiende eeuw (inspiratie voor eigen verzet / interesse in eigen geschiedenis/nationale helden)"
+        },
+        {
+          "points": 1,
+          "description": "passend kenmerkend aspect (vormen van verzet tegen het westerse imperialisme / opkomst van de politiek-maatschappelijke stroming nationalisme)"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord op de eerste deelvraag een juiste uitleg over de opdrachtgever bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-burgers-en-stoommachines-antw13.png"
+      ]
+    },
+    {
+      "title": "Duitsland in Europa",
+      "question_number": 14,
+      "answer_text": "Kern van een juist antwoord is:\n• Met het citaat wilde Kuttner duidelijk maken dat de Duitse legerleiding/Von Hindenburg de oorlog wilde beëindigen/dacht dat het Duitse leger niet meer kon winnen, terwijl de dolkstootlegende ervan uitging dat de oorlog (onnodig) werd verloren omdat de (sociaaldemocratische) regering de strijd wilde staken / dat het Duitse leger in 1918 had kunnen doorvechten.\n• Kuttner moest Duitsland ontvluchten omdat in 1933 de nationaalsocialisten aan de macht kwamen (die politieke tegenstanders als sociaaldemocraten/socialisten/ontkenners van de dolkstootlegende vervolgden).",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "juiste uitleg dat het citaat de dolkstootlegende weerlegt (legerleiding wilde de oorlog beëindigen tegenover de bewering dat de regering de strijd wilde staken)"
+        },
+        {
+          "points": 1,
+          "description": "Kuttner moest vluchten omdat in 1933 de nationaalsocialisten aan de macht kwamen"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-duitsland-in-europa-antw14.png"
+      ]
+    },
+    {
+      "title": "Duitsland in Europa",
+      "question_number": 15,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• Uit de foto blijkt dat er sprake is van een Volksgemeinschaft (waar deze vrouwen van worden uitgesloten) / dat het helpen van (minderwaardige / niet raszuivere) Poolse krijgsgevangenen wordt bestraft (wat past bij ‘het in praktijk brengen van het nationaalsocialisme’).\n• Het stadsbestuur wil bereiken dat de bevolking van de stad bang wordt om tegen het nationaalsocialisme in te gaan / wil de nazificatie bevorderen,\n• door de vrouwen publiekelijk/in het openbaar te straffen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juiste uitleg hoe de foto past bij het in praktijk brengen van het nationaalsocialisme (Volksgemeinschaft / bestraffing helpen Poolse krijgsgevangenen)"
+        },
+        {
+          "points": 1,
+          "description": "juiste uitleg van wat het stadsbestuur wil bereiken (bevolking bang maken / nazificatie bevorderen)"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar het publieke karakter van de bestraffing"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord bij de tweede deelvraag een juiste uitleg bevat over de boodschap die de bestraffing geeft aan de bevolking van de stad/ die bijdraagt aan nazificatie, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar het publieke karakter van de bestraffing.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-duitsland-in-europa-antw15.png"
+      ]
+    },
+    {
+      "title": "Duitsland in Europa",
+      "question_number": 17,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• De beslissing om de Duitse buitengrenzen te verleggen leidt tot de ontruiming van het dorp.\n• Met deze bron kun je aantonen dat de Duitse samenleving te maken krijgt met (een grote groep) vluchtelingen / Heimatvertriebenen die hun dorp moeten achterlaten/die getraumatiseerd zijn (waardoor er sprake is van sociale ontwrichting),\n• wat blijkt uit de beschrijving dat (een van de volgende):\n− iedereen uit het dorp weg moet.\n− de vrouwen zingen over het verlaten van hun dierbaar vaderland.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "de beslissing om de Duitse buitengrenzen te verleggen"
+        },
+        {
+          "points": 1,
+          "description": "juiste uitleg van de sociale ontwrichting (vluchtelingen / Heimatvertriebenen)"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de bron (een van de genoemde punten)"
+        }
+      ],
+      "grading_note": "Als bij de eerste deelvraag wordt ingegaan op de verdeling van Duitsland in bezettingszones, wordt geen scorepunt toegekend (omdat dit niet past bij de ontruiming van een dorp dat Pools wordt).\nAlleen als bij de tweede deelvraag een juiste uitleg wordt gegeven van de sociale ontwrichting, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-duitsland-in-europa-antw17.png"
+      ]
+    },
+    {
+      "title": "Duitsland in Europa",
+      "question_number": 18,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• Met de verspreiding van de krant konden propagandaboodschappen over de eenheid/tegen de DDR aan de Oost-Duitse bevolking worden overgebracht / werd de band met de Oost-Duitse bevolking onderhouden.\n• Na de bouw van de Berlijnse Muur kon de krant niet langer naar Oost-Berlijn worden gebracht / konden DDR-burgers het blad niet langer in West-Berlijn kopen.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juiste uitleg van het doel van de verspreiding van de krant (propaganda / band met de Oost-Duitse bevolking)"
+        },
+        {
+          "points": 1,
+          "description": "na de bouw van de Berlijnse Muur kon de krant Oost-Berlijn/DDR-burgers niet meer bereiken"
+        }
+      ],
+      "grading_note": "Als bij de tweede deelvraag niet wordt ingegaan op de bouw van de Berlijnse Muur wordt geen scorepunt toegekend.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-duitsland-in-europa-antw18.png"
+      ]
+    },
+    {
+      "title": "Duitsland in Europa",
+      "question_number": 22,
+      "answer_text": "Kern van een juist antwoord is:\nDe Ostpolitik had tot doel de relatie tussen de BRD en de DDR/het Oostblok te verbeteren, zodat de regering van de Sovjet-Unie ervan uitging dat de vervanging van Ulbricht/de benoeming van een leider die meewerkte aan de Ostpolitik zou leiden tot ontspanning tussen de ideologische blokken (wat tijdens de detente werd nagestreefd).",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "juiste uitleg: de Ostpolitik moest de relatie tussen BRD en DDR/Oostblok verbeteren, zodat vervanging van Ulbricht zou leiden tot ontspanning tussen de ideologische blokken"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-duitsland-in-europa-antw22.png"
+      ]
+    },
+    {
+      "title": "Duitsland in Europa",
+      "question_number": 24,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• Met Operatie Dialoog kun je illustreren dat de overheid het leven van de burgers (volledig) beheerste / propaganda bedreef, wat bleek uit het wegsturen / onder huisarrest plaatsen van burgers / het inzetten van de geheime dienst / het laten toejuichen van Honecker.\n• Met Operatie Dialoog voorkwam de regering dat inwoners van de DDR (door naar West-Duitse zenders te kijken) ontdekten dat er kritiek was onder hun medeburgers / door het zien van kritiek (op West-Duitse zenders) opstandiger zouden worden.",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "juist kenmerk van een totalitaire dictatuur met een passende verwijzing naar de anekdote"
+        },
+        {
+          "points": 1,
+          "description": "juiste uitleg wat de regering met Operatie Dialoog voorkwam"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord op de eerste deelvraag een combinatie bevat van een juist kenmerk van een totalitaire dictatuur en een daarbij passende verwijzing naar de anekdote, worden scorepunten toegekend.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-duitsland-in-europa-antw24.png"
+      ]
+    },
+    {
+      "title": "Duitsland in Europa",
+      "question_number": 25,
+      "answer_text": "Kern van een juist antwoord is:\n• Gorbatsjov en zijn adviseurs beweren dat de politieke instabiliteit van de DDR wordt veroorzaakt door het te lange aanblijven/de impopulariteit van Honecker.\n• Gorbatsjov en zijn adviseurs nemen niet mee dat de instabiliteit mede wordt veroorzaakt omdat de hervormingen in de Sovjet-Unie ervoor zorgen dat de bevolking van de DDR ook versoepelingen verwacht / doordat de bevolking van de DDR in opstand durft te komen omdat de Sovjet-Unie Honecker niet zal helpen (vanwege het loslaten van de Brezjnevdoctrine).",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "volgens Gorbatsjov en zijn adviseurs: instabiliteit door het te lange aanblijven/de impopulariteit van Honecker"
+        },
+        {
+          "points": 1,
+          "description": "niet meegenomen: de hervormingen in de Sovjet-Unie / het loslaten van de Brezjnevdoctrine als oorzaak van de instabiliteit"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-duitsland-in-europa-antw25.png"
+      ]
+    },
+    {
+      "title": "Nederland 1948-2008",
+      "question_number": 19,
+      "answer_text": "Voorbeeld van een juist antwoord is:\nbij 1:\n• Het toelaten van nieuwe omroepen werd veroorzaakt door (het begin van) sociaal-culturele veranderingsprocessen / de opkomst van jongerenculturen / de ontzuiling / de ontkerkelijking, waardoor er behoefte ontstond aan omroepen die programma's aanboden voor andere doelgroepen / buiten het verzuilde omroepbestel.\nbij 2:\n• Het toestaan van reclame op televisie werd veroorzaakt door de opkomst van de consumptiemaatschappij / de toenemende welvaart, waardoor bedrijven via televisiereclame probeerden meer producten te verkopen / te profiteren van de toegenomen koopkracht.",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "bij 1: juiste ontwikkeling in de Nederlandse maatschappij met passende verklaring voor het toelaten van nieuwe omroepen"
+        },
+        {
+          "points": 2,
+          "description": "bij 2: juiste ontwikkeling in de Nederlandse maatschappij met passende verklaring voor het toestaan van reclame op televisie"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord een combinatie bevat van een ontwikkeling in de Nederlandse maatschappij en een daarbij passende verklaring hoe dit (bij de eerste deelvraag) het toelaten van nieuwe omroepen en (bij de tweede deelvraag) het toestaan van reclame veroorzaakte, worden telkens scorepunten toegekend.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-nederland-1948-2008-antw19.png"
+      ]
+    },
+    {
+      "title": "Nederland 1948-2008",
+      "question_number": 20,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• Economisch: Jongejan wil de zorg wegnemen dat de gastarbeiders de werkzaamheden waarvoor ze nodig zijn niet kunnen vervullen / dat de gastarbeiders de benodigde kennis die nodig is voor het werk in Nederland niet kunnen opdoen,\n• door te benadrukken dat hij mensen selecteert die geen analfabeet zijn / die representatief/geschikt zijn voor de Nederlandse arbeidsmarkt.\n• Sociaal: Jongejan wil de zorg wegnemen dat de gastarbeiders problemen gaan veroorzaken omdat ze de cultuur niet begrijpen / dat de gastarbeiders zich niet kunnen aanpassen,\n• door te benadrukken dat hij mensen selecteert die behoorlijk kunnen communiceren in Nederland / dat hij een scherpe/strenge selectie toepast.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juiste economische zorg"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de bron bij de economische zorg"
+        },
+        {
+          "points": 1,
+          "description": "juiste sociale zorg"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de bron bij de sociale zorg"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord een juist voorbeeld van een economische/sociale zorg bevat, wordt telkens 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-nederland-1948-2008-antw20.png"
+      ]
+    },
+    {
+      "title": "Nederland 1948-2008",
+      "question_number": 21,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• Omdat Van Meekeren wil dat de regering haar beleid verandert, is het mogelijk dat hij wil aantonen dat de selectie niet eerlijk/zorgvuldig verloopt / dat de vragen aan/de opmerkingen tegen Jongejan sturend zijn,\n• zoals de vergelijking over de slavenmarkt / de vraag/opmerking dat Jongejan zijn beslissing “één, twee, drie”/zonder echt na te denken neemt.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juiste verklaring voor de twijfel aan de betrouwbaarheid"
+        },
+        {
+          "points": 1,
+          "description": "passend voorbeeld uit de bron"
+        }
+      ],
+      "grading_note": "Alleen als het antwoord een juiste verklaring bevat voor de twijfel aan de betrouwbaarheid, wordt 1 scorepunt toegekend aan een passend voorbeeld uit de bron.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-nederland-1948-2008-antw21.png"
+      ]
+    },
+    {
+      "title": "Nederland 1948-2008",
+      "question_number": 23,
+      "answer_text": "Voorbeeld van een juist antwoord is:\n• Collignon geeft weer dat de verzorgingsstaat in gevaar/overbelast is/moet worden herzien,\n• door af te beelden dat (een van de volgende):\n− de boot van de welzijnssector overvol is / te groot is voor de boot van de verzorgingsstaat.\n− de boot van de verzorgingsstaat (bijna) kapseist.\n− de boot van de verzorgingsstaat naar donkere wolken/slecht weer vaart.\n• De regeringen onder Lubbers voeren een (liberaal) beleid van bezuinigingen/beperken de verzorgingsstaat.",
+      "scoring_steps": [
+        {
+          "points": 1,
+          "description": "juiste visie: de verzorgingsstaat is in gevaar/overbelast/moet worden herzien"
+        },
+        {
+          "points": 1,
+          "description": "passende verwijzing naar de prent (een van de genoemde punten)"
+        },
+        {
+          "points": 1,
+          "description": "de regeringen onder Lubbers voeren een beleid van bezuinigingen/beperken de verzorgingsstaat"
+        }
+      ],
+      "grading_note": "Alleen als bij de eerste deelvraag een juiste visie wordt genoemd, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de prent.",
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-nederland-1948-2008-antw23.png"
+      ]
+    },
+    {
+      "title": "Computer en Televisie",
+      "question_number": 26,
+      "answer_text": "Kern van een juist antwoord is:\nDoor het afbeelden van Europese architectonische stijlen op de biljetten werd de nadruk gelegd op de gemeenschappelijke geschiedenis/cultuur, waardoor alle (deelnemende) landen zich verbonden voelden met de Europese munt/met Europa (wat moest bijdragen aan Europese eenheid).\nof\nDoor het opnemen van fictieve bouwwerken werd voorkomen dat sommige Europese landen zich achtergesteld zouden voelen omdat er geen bouwwerk van hun land werd afgebeeld / omdat hun nationale bouwwerk werd afgebeeld op een biljet met lage waarde, waardoor alle (deelnemende) landen zich verbonden voelden met de Europese munt/met Europa (wat moest bijdragen aan Europese eenheid).",
+      "scoring_steps": [
+        {
+          "points": 2,
+          "description": "juiste uitleg hoe de afbeeldingen op de biljetten (Europese architectonische stijlen / fictieve bouwwerken) moesten bijdragen aan Europese eenheid"
+        }
+      ],
+      "grading_note": null,
+      "answer_image_urls": [
+        "geschiedenis-havo-2024-i-computer-en-televisie-antw26.png"
+      ]
+    }
+  ]
+}
