@@ -1,0 +1,555 @@
+{
+ "payload": {
+  "subject_name": "Bedrijfseconomie",
+  "level": "VWO",
+  "source": "VWO Bedrijfseconomie 2022-III",
+  "answers": [
+   {
+    "title": "Ringeling nv",
+    "question_number": 1,
+    "answer_text": "Aantal geplaatste aandelen = 3.000.000 / 25 = 120.000\nVennootschapsbelasting = 245.000 x 0,15 + (640.000 – 245.000) x 0,25 = 135.500\nToevoeging aan Algemene Reserve = 640.000 – 135.500 – 120.000 x 1,50 = 324.500",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Per fout wordt 1 scorepunt in mindering gebracht.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-ringeling-nv-antw1.png"
+    ]
+   },
+   {
+    "title": "Ringeling nv",
+    "question_number": 2,
+    "answer_text": "• Eigen Vermogen = 3.000.000 + 120.000 x 0,60 + 6.500.000 + 5.000.000 + 324.500 = 3.072.000 + 6.500.000 + 5.324.500 = 14.896.500\n• 14.896.500 / (3.072.000 / 25) = € 121,23",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Eigen Vermogen = 14.896.500"
+     },
+     {
+      "points": 1,
+      "description": "14.896.500 / (3.072.000 / 25) = € 121,23"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-ringeling-nv-antw2.png"
+    ]
+   },
+   {
+    "title": "Ringeling nv",
+    "question_number": 3,
+    "answer_text": "Voorbeelden van een juiste berekening zijn:\n– 2.500 x 0,90 – (0,15 x 2.500 x 1,50) = € 1.687,50\n– 2.500 x (0,90 – 0,15 x 1,50) = € 1.687,50",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Per fout wordt 1 scorepunt in mindering gebracht.\nAfrondingsverschillen niet fout rekenen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-ringeling-nv-antw3.png"
+    ]
+   },
+   {
+    "title": "Ringeling nv",
+    "question_number": 4,
+    "answer_text": "• Door resultaatverdeling daalt het totale vermogen (de teller) doordat (voorbeelden van een juiste reden):\n  – creditzijde: daling Eigen vermogen door winstverdeling\n  – debetzijde: daling Liquide middelen door winstuitkeringen\n• Omdat het vreemd vermogen (de noemer) gelijk blijft daalt de solvabiliteit",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door resultaatverdeling daalt het totale vermogen (de teller), met juiste reden"
+     },
+     {
+      "points": 1,
+      "description": "Omdat het vreemd vermogen (de noemer) gelijk blijft daalt de solvabiliteit"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-ringeling-nv-antw4.png"
+    ]
+   },
+   {
+    "title": "Biohuis nv",
+    "question_number": 5,
+    "answer_text": "• de ondernemingsraad (OR)\n• de vakbond",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "de ondernemingsraad (OR)"
+     },
+     {
+      "points": 1,
+      "description": "de vakbond"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-biohuis-nv-antw5.png"
+    ]
+   },
+   {
+    "title": "Biohuis nv",
+    "question_number": 6,
+    "answer_text": "• Bij ontslag wegens een bedrijfseconomische reden ligt de reden voor ontslag buiten de werknemer\n• Bij ontslag wegens een dringende reden is de reden voor ontslag het functioneren van de werknemer zélf",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij ontslag wegens een bedrijfseconomische reden ligt de reden voor ontslag buiten de werknemer"
+     },
+     {
+      "points": 1,
+      "description": "Bij ontslag wegens een dringende reden is de reden voor ontslag het functioneren van de werknemer zélf"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-biohuis-nv-antw6.png"
+    ]
+   },
+   {
+    "title": "Biohuis nv",
+    "question_number": 7,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– Een werkgever hoeft nu niet te beargumenteren waarom hij een bepaalde medewerker wel ontslaat en anderen niet.\n– Gelijkmatige leeftijdsopbouw (diversiteit) blijft gehandhaafd: hierdoor is kennisbehoud beter gewaarborgd / verschillende leeftijdsgroepen hebben een verschillende inbreng.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist voordeel"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist voordeel"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-biohuis-nv-antw7.png"
+    ]
+   },
+   {
+    "title": "Biohuis nv",
+    "question_number": 8,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– Het is voor de sfeer binnen het bedrijf beter indien er minder gedwongen ontslagen in fase 2 vallen.\n– De bijkomende kosten van gedwongen ontslagen (fase 2), zoals juridisch advies of door de rechter opgelegde vergoedingen aan de werknemer zijn hoog.\n– Biohuis behoudt graag de laatst binnengekomen medewerkers.\n– Werknemers van Biohuis die al niet gemotiveerd waren, zullen nu hopelijk opstappen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juiste reden"
+     },
+     {
+      "points": 1,
+      "description": "tweede juiste reden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-biohuis-nv-antw8.png"
+    ]
+   },
+   {
+    "title": "Biohuis nv",
+    "question_number": 9,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n– Lot kan zich negatief uitlaten over Biohuis.\n– Biohuis wil voorkomen dat Lot contacten meeneemt naar een nieuwe werkgever.\n– Lot is vanaf het moment van ontslagaanzegging niet meer verzekerd voor bedrijfsongevallen, waardoor Biohuis zelf voor kosten bij bedrijfsongevallen aansprakelijk wordt.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-biohuis-nv-antw9.png"
+    ]
+   },
+   {
+    "title": "Biohuis nv",
+    "question_number": 10,
+    "answer_text": "Biohuis (getallen x € 1; tweede kwartaal 2021 / derde + vierde kwartaal 2021 / eerste kwartaal 2022 / totaal):\nomzet – inkoopwaarde van de omzet: eerste kwartaal 2022: 1.430.000\nvariabele bedrijfskosten exclusief provisiekosten: eerste kwartaal 2022: 333.500\nomzet – totale variabele kosten exclusief provisiekosten: 218.000 / 2.355.000 / 1.096.500 / 3.669.500\n\nBerekeningen:\nomzet – inkoopwaarde van de omzet in eerste kwartaal 2022: 3.640.000 × 44/56 × 3/6 = 1.430.000\nvariabele bedrijfskosten exclusief provisiekosten in eerste kwartaal 2022: 667.000 × 3/6 = 333.500\ngemiddelde provisie inclusief vakantiegeld per maand voor Lot: 0,025 × 3.669.500/12 × 24/60 × 1,08 = 3.302,55",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "1.430.000"
+     },
+     {
+      "points": 1,
+      "description": "333.500 en 1.096.500 en 3.669.500"
+     },
+     {
+      "points": 2,
+      "description": "3.302,55"
+     }
+    ],
+    "grading_note": "Per fout wordt 1 scorepunt in mindering gebracht.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-biohuis-nv-antw10.png"
+    ]
+   },
+   {
+    "title": "Biohuis nv",
+    "question_number": 11,
+    "answer_text": "• In het begin van haar dienstverband wordt de provisie voor Lot bepaald op basis van de omzet/orders, waarvoor haar voorganger heeft gezorgd: deze omzet kan veel lager zijn dan dat wat Lot behaald zou hebben\n• De provisie over de door Lot binnengehaalde orders in het laatste halfjaar van haar dienstverband zal ze nooit ontvangen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In het begin van haar dienstverband wordt de provisie bepaald op basis van de omzet/orders van haar voorganger"
+     },
+     {
+      "points": 1,
+      "description": "De provisie over de door Lot binnengehaalde orders in het laatste halfjaar van haar dienstverband zal ze nooit ontvangen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-biohuis-nv-antw11.png"
+    ]
+   },
+   {
+    "title": "Biohuis nv",
+    "question_number": 12,
+    "answer_text": "• brutoloon inclusief provisie = 1.320 x 1,08 + 3.302,55 = 4.728,71\n• Lot is 5 jaar en 5 maanden in dienst. Ze heeft recht op een transitievergoeding van 8.125\n• Vrijwillig ontslag levert haar een bedrag op van 15.000 × 24 / 40 = € 9.000\nLot zal haar vrijwillig ontslag indienen, want € 9.000 > € 8.125",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "brutoloon inclusief provisie = 1.320 x 1,08 + 3.302,55 = 4.728,71"
+     },
+     {
+      "points": 1,
+      "description": "transitievergoeding van 8.125"
+     },
+     {
+      "points": 1,
+      "description": "vrijwillig ontslag levert € 9.000 op; Lot zal haar vrijwillig ontslag indienen, want € 9.000 > € 8.125"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-biohuis-nv-antw12.png"
+    ]
+   },
+   {
+    "title": "Sporty",
+    "question_number": 13,
+    "answer_text": "• 500.000 + 423.500 / 1,21 = 850.000\n• 1.149.500 / 1,21 × 0,4 = 380.000 –\n€ 470.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "500.000 + 423.500 / 1,21 = 850.000"
+     },
+     {
+      "points": 1,
+      "description": "1.149.500 / 1,21 × 0,4 = 380.000; € 470.000"
+     }
+    ],
+    "grading_note": "Als de kandidaat de btw foutief meeneemt bij de berekening, wordt 1 scorepunt in mindering gebracht.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-sporty-antw13.png"
+    ]
+   },
+   {
+    "title": "Sporty",
+    "question_number": 14,
+    "answer_text": "210.000 × 1,21 / 0,21 × 1/2 = € 605.000",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Per fout wordt 1 scorepunt in mindering gebracht.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-sporty-antw14.png"
+    ]
+   },
+   {
+    "title": "Sporty",
+    "question_number": 15,
+    "answer_text": "5.000 + (3 × 500) − (3.630 − 630) = € 3.500",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-sporty-antw15.png"
+    ]
+   },
+   {
+    "title": "Sporty",
+    "question_number": 16,
+    "answer_text": "150.000 + 1.149.500 / 1,21 × (1 − 0,4) − 3 × 500 − 500.000 − privéopnames = 188.500",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-sporty-antw16.png"
+    ]
+   },
+   {
+    "title": "Wanders Sport",
+    "question_number": 17,
+    "answer_text": "– (Onderhandelingspositie van) leveranciers: er is een beperkte hoeveelheid leveranciers van fitnessapparatuur, waardoor de prijs voor de fitnessstudio’s hoog is.\n– (Onderhandelingspositie van) afnemers: er zijn veel fitnessstudio’s in de buurt, waardoor de klant een lagere prijs / betere service kan afdwingen / makkelijk kan overstappen naar een concurrent.\n– (Bedreiging van) substituten: er zijn veel andere vormen van lichaamsbeweging, die een vergelijkbaar resultaat opleveren als fitnessen bij een fitnessstudio, zoals fitness thuis / op het werk, andere sporten, etc.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juiste kracht en juiste motivatie"
+     },
+     {
+      "points": 1,
+      "description": "tweede juiste kracht en juiste motivatie"
+     },
+     {
+      "points": 1,
+      "description": "derde juiste kracht en juiste motivatie"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-wanders-sport-antw17.png"
+    ]
+   },
+   {
+    "title": "Wanders Sport",
+    "question_number": 18,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n– Wetgeving: er kunnen wetten/regels worden vervaardigd, die invloed hebben op het aantal klanten / kosten van fitnessstudio’s.\n– Subsidies / overheidssteun: de overheid kan fitnessstudio’s geld geven bijvoorbeeld voor het bevorderen van innovaties.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juiste combinatie van antwoord en toelichting"
+     },
+     {
+      "points": 1,
+      "description": "tweede juiste combinatie van antwoord en toelichting"
+     }
+    ],
+    "grading_note": "Wanneer er twee verschillende wetten of twee vormen van subsidies / overheidssteun worden genoemd en juist toegelicht: dit ook goed rekenen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-wanders-sport-antw18.png"
+    ]
+   },
+   {
+    "title": "Wanders Sport",
+    "question_number": 19,
+    "answer_text": "Omzet 2020: 229 x 228 = 52.212\nomzet 2021: 52.212 × 97/99 = 51.157,21\nomzet per klant 2021: = € 237,94",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Per fout wordt 1 scorepunt in mindering gebracht.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-wanders-sport-antw19.png"
+    ]
+   },
+   {
+    "title": "Wanders Sport",
+    "question_number": 20,
+    "answer_text": "(215 × 237,94) / (880 × 251) × 100% = 23,16%",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "voor de volgende berekening moeten ook scorepunten worden toegekend: (215 × 237,94) / (2.356.000 × 203) × 100% = 0,01%\nPer fout wordt 1 scorepunt in mindering gebracht.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-wanders-sport-antw20.png"
+    ]
+   },
+   {
+    "title": "J. Bos Schilderwerken",
+    "question_number": 21,
+    "answer_text": "Voorbeelden van een juist antwoord:\n• De beloning voor het werk van de eigenaar / DGA\n• is niet als kostenpost opgevoerd bij de berekening van het resultaat van een eenmanszaak / is wel als kostenpost opgevoerd bij de berekening van het resultaat van een bv\nof\n• Een bv heeft een betere continuïteit omdat deze niet afhankelijk is van een eigenaar\n• hierdoor zal bij het berekenen van de overnamesom bij de bv het resultaat van meer jaren dan bij de overnamesom bij een eenmanszaak worden meegenomen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De beloning voor het werk van de eigenaar / DGA / Een bv heeft een betere continuïteit omdat deze niet afhankelijk is van een eigenaar"
+     },
+     {
+      "points": 1,
+      "description": "is niet als kostenpost opgevoerd bij een eenmanszaak / is wel als kostenpost opgevoerd bij een bv / hierdoor wordt bij de bv het resultaat van meer jaren meegenomen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-j-bos-schilderwerken-antw21.png"
+    ]
+   },
+   {
+    "title": "J. Bos Schilderwerken",
+    "question_number": 22,
+    "answer_text": "r = 1,001\nn = 84\na = 1,001⁻⁸³\nS = 80,61068283\n80,61068283 x 4.700 = € 378.870,21",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Per fout wordt 1 scorepunt in mindering gebracht.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-j-bos-schilderwerken-antw22.png"
+    ]
+   },
+   {
+    "title": "J. Bos Schilderwerken",
+    "question_number": 23,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– de goede naam\n– het klantenbestand\n– de orderportefeuille\n– de komende winsten / kasstromen\n– goed geschoold personeel",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juiste reden"
+     },
+     {
+      "points": 1,
+      "description": "tweede juiste reden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-j-bos-schilderwerken-antw23.png"
+    ]
+   },
+   {
+    "title": "J. Bos Schilderwerken",
+    "question_number": 24,
+    "answer_text": "balanspost debet: Liquide middelen – € 70.000\nbalanspost credit: Reserves + € 50.000; Resultaat – € 120.000",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-j-bos-schilderwerken-antw24.png"
+    ]
+   },
+   {
+    "title": "J. Bos Schilderwerken",
+    "question_number": 25,
+    "answer_text": "• eis Jan: 360.000 + (120.000 – 50.000) = 430.000\n430.000 > € 378.870,21\n• eis personeel: 1,5 x (322.500 / 1,5 + 50.000) = 397.500\n360.000 < € 397.500\n• Voor beide partijen is het compromis acceptabel, de overname gaat door",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eis Jan: 430.000 > € 378.870,21"
+     },
+     {
+      "points": 1,
+      "description": "eis personeel: 397.500; 360.000 < € 397.500"
+     },
+     {
+      "points": 1,
+      "description": "Voor beide partijen is het compromis acceptabel, de overname gaat door"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-j-bos-schilderwerken-antw25.png"
+    ]
+   },
+   {
+    "title": "Birgit en Moshaber",
+    "question_number": 26,
+    "answer_text": "• Birgit en Moshaber zijn de hypotheekgevers\n• Zij geven de ING-bank het recht hun huis te verkopen wanneer zij in betalingsgebreke blijven",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Birgit en Moshaber zijn de hypotheekgevers"
+     },
+     {
+      "points": 1,
+      "description": "Zij geven de ING-bank het recht hun huis te verkopen wanneer zij in betalingsgebreke blijven"
+     }
+    ],
+    "grading_note": "Het tweede scorepunt kan alleen toegekend worden als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-birgit-en-moshaber-antw26.png"
+    ]
+   },
+   {
+    "title": "Birgit en Moshaber",
+    "question_number": 27,
+    "answer_text": "• omdat de interest in het eerste jaar bij beide hypotheekvormen gelijk is\n• De hypotheekuitgaven exclusief belastingvoordeel bij de lineaire hypotheek liggen hoger, dus is de aflossing (= hypotheekuitgaven exclusief belastingvoordeel – interest) bij de lineaire hypotheek hoger",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "omdat de interest in het eerste jaar bij beide hypotheekvormen gelijk is"
+     },
+     {
+      "points": 1,
+      "description": "De hypotheekuitgaven exclusief belastingvoordeel bij de lineaire hypotheek liggen hoger, dus is de aflossing bij de lineaire hypotheek hoger"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-birgit-en-moshaber-antw27.png"
+    ]
+   },
+   {
+    "title": "Birgit en Moshaber",
+    "question_number": 28,
+    "answer_text": "getallen x € 1: schuld begin jaar 1: 329.500; aflossing jaar 1: 10.983,33; interest jaar 1: 6.590; hypotheekuitgaven voor belastingvoordeel jaar 1: 17.573,33; hypotheekuitgaven na belastingvoordeel jaar 1: 15.596,33; belastingvoordeel jaar 1: 1.977\nHet belastingpercentage: 30%\n\nBerekeningen:\naflossing jaar 1: 329.500 / 30\ninterest jaar 1: 17.573,33 – 10.983,33\nbelastingvoordeel: 17.573,33 – 15.596,33\nbelastingpercentage: 1.977 / 6.590 × 100",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "10.983,33"
+     },
+     {
+      "points": 1,
+      "description": "6.590 en 1.977"
+     },
+     {
+      "points": 1,
+      "description": "30%"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-birgit-en-moshaber-antw28.png"
+    ]
+   },
+   {
+    "title": "Birgit en Moshaber",
+    "question_number": 29,
+    "answer_text": "• Bij aflossing op basis van annuïteiten wordt elke volgende periode meer afgelost doordat de annuïteit gelijkblijft en het interestdeel van de annuïteit daalt\n• Alleen het interestdeel is aftrekbaar, het aflossingsdeel niet. Hierdoor daalt het belastingvoordeel",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij aflossing op basis van annuïteiten wordt elke volgende periode meer afgelost doordat de annuïteit gelijkblijft en het interestdeel daalt"
+     },
+     {
+      "points": 1,
+      "description": "Alleen het interestdeel is aftrekbaar, het aflossingsdeel niet. Hierdoor daalt het belastingvoordeel"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-birgit-en-moshaber-antw29.png"
+    ]
+   },
+   {
+    "title": "Birgit en Moshaber",
+    "question_number": 30,
+    "answer_text": "Voorbeeld van een juist antwoord:\n– het opstellen van akte(s) (zoals de eigendomsakte en hypotheekakte) / de inschrijving in het kadaster\n– het regelen van alle juridische zaken rond de aankoop en financiering",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-iii-birgit-en-moshaber-antw30.png"
+    ]
+   }
+  ]
+ }
+}
