@@ -1,0 +1,560 @@
+{
+  "payload": {
+    "subject_name": "Bedrijfseconomie",
+    "level": "VWO",
+    "source": "VWO Bedrijfseconomie 2021-II",
+    "answers": [
+      {
+        "title": "Duijff Diervoeders nv",
+        "question_number": 1,
+        "answer_text": "• De beurskoers is gebaseerd op toekomstverwachtingen en men verwacht dat het resultaat in de toekomst tegenvalt / de beurskoers kan gebaseerd zijn op sentiment en/of speculatie\n• De intrinsieke waarde is gebaseerd op het heden / de balansdatum",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De beurskoers is gebaseerd op toekomstverwachtingen en men verwacht dat het resultaat in de toekomst tegenvalt / de beurskoers kan gebaseerd zijn op sentiment en/of speculatie"
+          },
+          {
+            "points": 1,
+            "description": "De intrinsieke waarde is gebaseerd op het heden / de balansdatum"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-duijff-diervoeders-nv-antw1.png"
+        ]
+      },
+      {
+        "title": "Duijff Diervoeders nv",
+        "question_number": 2,
+        "answer_text": "• aantal geplaatste aandelen = 600.000 / 2,50 = 240.000\n• toevoeging aan Dividendreserve: (279.500 – 50.000 – 240.000 x 0,40) x 0,5 = € 66.750",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "aantal geplaatste aandelen = 600.000 / 2,50 = 240.000"
+          },
+          {
+            "points": 2,
+            "description": "toevoeging aan Dividendreserve: (279.500 – 50.000 – 240.000 x 0,40) x 0,5 = € 66.750"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-duijff-diervoeders-nv-antw2.png"
+        ]
+      },
+      {
+        "title": "Duijff Diervoeders nv",
+        "question_number": 3,
+        "answer_text": "• beschikbaar dividend over de winst van 2020: 92.000 – 50.000 = 42.000\ngewenst dividend = 240.000 x 0,40 = 96.000\n• onttrekking aan Dividendreserve = 96.000 – 42.000 = 54.000\nresterend in Dividendreserve = 66.750 – 54.000 = € 12.750",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "beschikbaar dividend over de winst van 2020: 92.000 – 50.000 = 42.000; gewenst dividend = 240.000 x 0,40 = 96.000"
+          },
+          {
+            "points": 1,
+            "description": "onttrekking aan Dividendreserve = 96.000 – 42.000 = 54.000; resterend in Dividendreserve = 66.750 – 54.000 = € 12.750"
+          }
+        ],
+        "grading_note": "Wanneer een kandidaat uitkomt op een negatieve Dividendreserve, wordt 1 scorepunt in mindering gebracht.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-duijff-diervoeders-nv-antw3.png"
+        ]
+      },
+      {
+        "title": "Broekenhuis nv",
+        "question_number": 4,
+        "answer_text": "twee van de drie volgende antwoorden:\n– Mate van competitie: door de opkomst van webwinkels neemt de concurrentie op de interne markt toe.\n– (Dreiging van) nieuwe toetreders: door de opkomst van webwinkels komen er nieuwe spelers op de markt.\n– Onderhandelingspositie kopers: de klant kan lagere prijzen afdwingen (omdat hij kan dreigen het product op internet te kopen).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist antwoord"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist antwoord"
+          }
+        ],
+        "grading_note": "Zowel de kracht als de motivatie moeten correct zijn om 1 scorepunt toe te kennen per antwoord.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-broekenhuis-nv-antw4.png"
+        ]
+      },
+      {
+        "title": "Broekenhuis nv",
+        "question_number": 5,
+        "answer_text": "marktaandeel op basis van omzet van Apeldoorn\n(5.000 × 40) / (120.000 × 41) x 100% = 4,07%. Dit is < 5,00% van Emmen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-broekenhuis-nv-antw5.png"
+        ]
+      },
+      {
+        "title": "Broekenhuis nv",
+        "question_number": 6,
+        "answer_text": "250.000 × 1 / 1,0002⁶⁰ × (1,0002⁶⁰ − 1) / (1,0002 − 1) = 250.000 × 59,63550805 = 14.908.877,01\n(Hierbij is: a = 1 / 1,0002⁶⁰; r = 1,0002; n = 60)\n3.000.000 / 1,0002²⁴ = 2.985.635,94\n5.000.000 / 1,0002⁴⁸ = 4.952.234,42\ntotaal: 24.846.747,37\nAfgerond € 24.847.000,00",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "250.000 × 1 / 1,0002⁶⁰ × (1,0002⁶⁰ − 1) / (1,0002 − 1) = 14.908.877,01"
+          },
+          {
+            "points": 2,
+            "description": "2.985.635,94 en 4.952.234,42; totaal 24.846.747,37, afgerond € 24.847.000 — ⚠️ CONTROLEREN: bij dit deel staat in het correctievoorschrift geen puntenaantal; de resterende 2 punten van maximumscore 4 zijn hieraan toegekend"
+          }
+        ],
+        "grading_note": "Aan elk deelantwoord > 15.000.000 geen scorepunten toekennen.\nAan elk deelantwoord > 10.000.000 (= 2.000.000 + 3.000.000 + 5.000.000) geen scorepunten toekennen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-broekenhuis-nv-antw6.png"
+        ]
+      },
+      {
+        "title": "Broekenhuis nv",
+        "question_number": 7,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– De interestvergoeding op de obligaties (0,05% per maand) is hoger dan de interestvergoeding op een bankrekening.\n– De converteerbare obligatie biedt een financieel interessante mogelijkheid om aandelen te verkrijgen tegen een koers die lager is dan de beurskoers.\n– Converteerbare obligaties hebben weinig risico, omdat er een vaste interestvergoeding is, maar kunnen wel profiteren van een waardestijging van de onderliggende aandelen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juiste reden"
+          },
+          {
+            "points": 1,
+            "description": "tweede juiste reden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-broekenhuis-nv-antw7.png"
+        ]
+      },
+      {
+        "title": "Broekenhuis nv",
+        "question_number": 8,
+        "answer_text": "• Een converteerbare obligatielening is vreemd vermogen,\n• maar wordt bij een conversie omgezet in eigen vermogen (in de vorm van geplaatst aandelenkapitaal)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een converteerbare obligatielening is vreemd vermogen,"
+          },
+          {
+            "points": 1,
+            "description": "maar wordt bij een conversie omgezet in eigen vermogen (in de vorm van geplaatst aandelenkapitaal)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-broekenhuis-nv-antw8.png"
+        ]
+      },
+      {
+        "title": "Broekenhuis nv",
+        "question_number": 9,
+        "answer_text": "Voorbeelden van juiste redenen zijn:\n– Er treedt anders (te veel) stemverwatering op.\n– Het dividend per aandeel zal in de toekomst anders (te veel) zakken.\n– De beurskoers zal anders (te veel) zakken.\n– De intrinsieke waarde per aandeel zal anders (te veel) zakken.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juiste reden"
+          },
+          {
+            "points": 1,
+            "description": "tweede juiste reden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-broekenhuis-nv-antw9.png"
+        ]
+      },
+      {
+        "title": "Broekenhuis nv",
+        "question_number": 10,
+        "answer_text": "• nieuw totaal vermogen = 125.153.000 + 24.847.000 = 150.000.000\n• maximaal vreemd vermogen: 150.000.000 / vreemd vermogen x 100% = 160%\nVV = 93.750.000",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "nieuw totaal vermogen = 125.153.000 + 24.847.000 = 150.000.000"
+          },
+          {
+            "points": 1,
+            "description": "maximaal vreemd vermogen: 150.000.000 / vreemd vermogen x 100% = 160%; VV = 93.750.000"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-broekenhuis-nv-antw10.png"
+        ]
+      },
+      {
+        "title": "Broekenhuis nv",
+        "question_number": 11,
+        "answer_text": "financieringsbehoefte: 24.847.000 (zie vraag 6)\nemissie obligaties: 8.000.000 (3.200 x 2.000 x 1,25)\nophoging lening bij de Roetbank: 12.497.000 (93.750.000 (vraag 10) – 8.000.000 – 5.800.000 – 12.000.000 – 42.919.000 – 11.600.000 – 934.000)\nte verkrijgen uit aandelenemissie: 4.350.000 (24.847.000 – 8.000.000 – 12.497.000)\naantal te plaatsen aandelen: 181.174,51 (24,50 x (1 – 0,02) = 24,01; 4.350.000 / 24,01)\nConclusie:\nBroekenhuis zet het plan wel/niet door, want het aantal geplaatste aandelen stijgt met 181.174,51 / (2.000.000 / 0,5) × 100% = 4,53% (Dit is minder dan 5%.)\nof\nEr mogen maximaal 2.000.000 / 0,05 x 0,5 = 200.000. Aandelen worden geplaatst (181.174,51 < 200.000).\n(In het correctievoorschrift is ‘niet’ doorgestreept: Broekenhuis zet het plan wel door.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "8.000.000"
+          },
+          {
+            "points": 1,
+            "description": "12.497.000"
+          },
+          {
+            "points": 1,
+            "description": "4.350.000"
+          },
+          {
+            "points": 2,
+            "description": "181.174,51"
+          },
+          {
+            "points": 1,
+            "description": "‘niet’ doorgestreept (dus: wel) + berekening conclusie"
+          }
+        ],
+        "grading_note": "Als 181.174,51 is afgerond, geen scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-broekenhuis-nv-antw11.png"
+        ]
+      },
+      {
+        "title": "IJsbrand IJs",
+        "question_number": 12,
+        "answer_text": "promotie",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-ijsbrand-ijs-antw12.png"
+        ]
+      },
+      {
+        "title": "IJsbrand IJs",
+        "question_number": 13,
+        "answer_text": "• variabele kosten = 0,21 + 19,00 / (5 × 20) = 0,21 + 0,19 = 0,40\n• constante kosten = 15.000 / 25.000 = 0,60\nstandaardkostprijs 1,00\n• resultaat per product 1,00\nverkoopprijs exclusief btw 2,00\nbtw 0,18\nverkoopprijs inclusief btw € 2,18",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "variabele kosten = 0,21 + 19,00 / (5 × 20) = 0,21 + 0,19 = 0,40"
+          },
+          {
+            "points": 1,
+            "description": "constante kosten = 15.000 / 25.000 = 0,60; standaardkostprijs 1,00"
+          },
+          {
+            "points": 1,
+            "description": "resultaat per product 1,00; verkoopprijs exclusief btw 2,00; btw 0,18; verkoopprijs inclusief btw € 2,18"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-ijsbrand-ijs-antw13.png"
+        ]
+      },
+      {
+        "title": "IJsbrand IJs",
+        "question_number": 14,
+        "answer_text": "• voorcalculatorisch verkoopresultaat = (2,00 – 1,00) x 20.000 = 20.000 (voordelig)\n• voorcalculatorisch bezettingsresultaat = (20.000 – 25.000) x 0,60 = 3.000 nadelig\nvoorcalculatorisch bedrijfsresultaat = € 17.000 voordelig",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "voorcalculatorisch verkoopresultaat = (2,00 – 1,00) x 20.000 = 20.000 (voordelig)"
+          },
+          {
+            "points": 1,
+            "description": "voorcalculatorisch bezettingsresultaat = (20.000 – 25.000) x 0,60 = 3.000 nadelig; voorcalculatorisch bedrijfsresultaat = € 17.000 voordelig"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-ijsbrand-ijs-antw14.png"
+        ]
+      },
+      {
+        "title": "IJsbrand IJs",
+        "question_number": 15,
+        "answer_text": "Grafiek (euro’s x 1.000 tegen verwachte afzet x 1.000) met de lijnen ‘voorcalculatorisch bedrijfsresultaat’ en ‘voorcalculatorisch bezettingsresultaat’ (zie afbeelding).\n• De lijn start bij – 15.000\n• De lijn snijdt de x-as bij 25.000 en eindigt bij 50.000 op de x-as op de hoogte van 15.000 op de y-as",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De lijn start bij – 15.000"
+          },
+          {
+            "points": 1,
+            "description": "De lijn snijdt de x-as bij 25.000 en eindigt bij 50.000 op de x-as op de hoogte van 15.000 op de y-as"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-ijsbrand-ijs-antw15.png"
+        ]
+      },
+      {
+        "title": "Schrijf & Zo bv",
+        "question_number": 16,
+        "answer_text": "b minder",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-schrijf-en-zo-bv-antw16.png"
+        ]
+      },
+      {
+        "title": "Schrijf & Zo bv",
+        "question_number": 17,
+        "answer_text": "• a = gedaald\nb = groter\n• c = verslechterd",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "a = gedaald; b = groter"
+          },
+          {
+            "points": 1,
+            "description": "c = verslechterd"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-schrijf-en-zo-bv-antw17.png"
+        ]
+      },
+      {
+        "title": "Schrijf & Zo bv",
+        "question_number": 18,
+        "answer_text": "EBIT = € 30.000 (25.000 + 5.000) : omzet = € 200.000 → EBIT-marge = 15%\nomzet = € 200.000 : GTV = € 220.000 → omloopsnelheid van het GTV 0,9091\nEBIT-marge x omloopsnelheid van het GTV → RTV = 13,6%",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "30.000 en 220.000"
+          },
+          {
+            "points": 1,
+            "description": "alle twee begrippen (EBIT en GTV) op de juiste plek"
+          },
+          {
+            "points": 1,
+            "description": "15% en 0,9091 en 13,6%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-schrijf-en-zo-bv-antw18.png"
+        ]
+      },
+      {
+        "title": "Schrijf & Zo bv",
+        "question_number": 19,
+        "answer_text": "• De teller neemt af doordat de voorraden met een groter bedrag afnemen dan de liquide middelen toenemen\n• De noemer blijft gelijk omdat het kort vreemd vermogen gelijk blijft. De current ratio verslechtert",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De teller neemt af doordat de voorraden met een groter bedrag afnemen dan de liquide middelen toenemen"
+          },
+          {
+            "points": 1,
+            "description": "De noemer blijft gelijk omdat het kort vreemd vermogen gelijk blijft. De current ratio verslechtert"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-schrijf-en-zo-bv-antw19.png"
+        ]
+      },
+      {
+        "title": "Schrijf & Zo bv",
+        "question_number": 20,
+        "answer_text": "C",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-schrijf-en-zo-bv-antw20.png"
+        ]
+      },
+      {
+        "title": "Paul van Haperen",
+        "question_number": 21,
+        "answer_text": "Resultaat uit een gemiddelde aardappeloogst tegen de gemiddelde prijs:\nomzet: 88.000 (2/3 x 12 = 8; 8 x 50 = 400 ton; 400 x 220)\nzaaigoed: 12.000 (400 x 30)\nloonwerkers: 16.000 (8 x 2.000)\noverige kosten: 15.200\ntotale kosten: 43.200\nverwacht resultaat: 44.800\nConclusie: Paul kan wel/niet het minimaal gewenste resultaat behalen, want 44.800 > 42.000. (‘niet’ is doorgestreept: Paul kan het wel behalen.)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "88.000"
+          },
+          {
+            "points": 1,
+            "description": "44.800"
+          },
+          {
+            "points": 1,
+            "description": "conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-paul-van-haperen-antw21.png"
+        ]
+      },
+      {
+        "title": "Paul van Haperen",
+        "question_number": 22,
+        "answer_text": "een van de volgende antwoorden:\n– Autoriteit Financiële Markten / AFM\n– De Nederlandsche Bank / DNB",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-paul-van-haperen-antw22.png"
+        ]
+      },
+      {
+        "title": "Paul van Haperen",
+        "question_number": 23,
+        "answer_text": "C",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-paul-van-haperen-antw23.png"
+        ]
+      },
+      {
+        "title": "Paul van Haperen",
+        "question_number": 24,
+        "answer_text": "Verwacht resultaat bij een gemiddelde oogst, met een gekocht en verkocht termijncontract, bij verschillende marktprijzen (marktprijs per ton in €: 210 / 220 / 230 / 240):\nopbrengsten – oogst: 88.000 / 88.000 / 92.000 / 92.000\nopbrengsten – verkocht termijncontract: 3.200 / 3.200 / 3.200 / 3.200\nkosten – oogst (vraag 21): 43.200 / 43.200 / 43.200 / 43.200\nkosten – gekocht termijncontract: 4.800 / 4.800 / 4.800 / 4.800\nverwacht resultaat: 43.200 / 43.200 / 47.200 / 47.200\ngemiddelde oogst in ton (zie vraag 21): 400 ton\nopbrengsten oogst bij marktprijs van: € 210: 400 x 220 (minimumprijs) = 88.000; € 220: 400 x 220 = 88.000; € 230: 400 x 230 = 92.000; € 240: 400 x 230 (maximumprijs) = 92.000\nopbrengst verkocht termijncontract: 16 x 200 = 3.200\nkosten gekocht termijncontract: 16 x 300 = 4.800",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "rij oogst"
+          },
+          {
+            "points": 1,
+            "description": "rij verkocht termijncontract"
+          },
+          {
+            "points": 1,
+            "description": "rij gekocht termijncontract"
+          },
+          {
+            "points": 1,
+            "description": "rij verwacht resultaat"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-paul-van-haperen-antw24.png"
+        ]
+      },
+      {
+        "title": "Paul van Haperen",
+        "question_number": 25,
+        "answer_text": "Grafiek (resultaat x 1 € tegen verkoopprijs in € per ton, 200–250) met lijn (1) en lijn (2) (zie afbeelding).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "horizontale delen van lijn (2)"
+          },
+          {
+            "points": 1,
+            "description": "schuin deel van lijn (2)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-paul-van-haperen-antw25.png"
+        ]
+      },
+      {
+        "title": "Paul van Haperen",
+        "question_number": 26,
+        "answer_text": "• Ja, de situatie met beide termijncontracten voldoet\n• want zie antwoord vraag 24: zijn gegarandeerde resultaat is > € 42.000.\nof\nzie bij lijn (2): zijn gegarandeerde resultaat blijft > € 42.000",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Ja, de situatie met beide termijncontracten voldoet"
+          },
+          {
+            "points": 1,
+            "description": "want zie antwoord vraag 24: zijn gegarandeerde resultaat is > € 42.000, of: zie bij lijn (2): zijn gegarandeerde resultaat blijft > € 42.000"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-paul-van-haperen-antw26.png"
+        ]
+      },
+      {
+        "title": "Verma bv",
+        "question_number": 27,
+        "answer_text": "(1) = kernwaarden\n(2) = personeelsbeleid\n(3) = bedrijfseconomische doelstelling",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-verma-bv-antw27.png"
+        ]
+      },
+      {
+        "title": "Verma bv",
+        "question_number": 28,
+        "answer_text": "• Een functioneringsgesprek / voortgangsgesprek\n• omdat dit een gelijkwaardig gesprek is / om afspraken gaat over het verbeteren van het functioneren door de werknemer en de wijze waarop de werkgever dat gaat ondersteunen / op de toekomst gericht is",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een functioneringsgesprek / voortgangsgesprek"
+          },
+          {
+            "points": 1,
+            "description": "omdat dit een gelijkwaardig gesprek is / om afspraken gaat over het verbeteren van het functioneren door de werknemer en de wijze waarop de werkgever dat gaat ondersteunen / op de toekomst gericht is"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt kan alleen worden toegekend als het eerste scorepunt is behaald.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-verma-bv-antw28.png"
+        ]
+      },
+      {
+        "title": "Verma bv",
+        "question_number": 29,
+        "answer_text": "B",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-ii-verma-bv-antw29.png"
+        ]
+      }
+    ]
+  }
+}

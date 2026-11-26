@@ -1,0 +1,602 @@
+{
+  "payload": {
+    "subject_name": "Bedrijfseconomie",
+    "level": "VWO",
+    "source": "VWO Bedrijfseconomie 2021-I",
+    "answers": [
+      {
+        "title": "Julie en August",
+        "question_number": 1,
+        "answer_text": "• Bij huwelijkse voorwaarden maken beide partners afspraken over de verdeling van het vermogen\n• Bij gemeenschap van goederen zijn het door de partners in het huwelijk ingebrachte vermogen en het tijdens het huwelijk verworven vermogen gemeenschappelijk\nof\n• Bij beperkte gemeenschap van goederen geldt dat bezittingen en schulden die vóór het huwelijk van beide partners samen waren of die tijdens het huwelijk gevormd worden, gemeenschappelijk vermogen zijn. Bezittingen en schulden die vóór het huwelijk van één partner waren blijven alleen van die partner.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij huwelijkse voorwaarden maken beide partners afspraken over de verdeling van het vermogen"
+          },
+          {
+            "points": 1,
+            "description": "Bij gemeenschap van goederen zijn het ingebrachte en het tijdens het huwelijk verworven vermogen gemeenschappelijk, of: bij beperkte gemeenschap van goederen zijn bezittingen en schulden die vóór het huwelijk van beide partners samen waren of tijdens het huwelijk gevormd worden gemeenschappelijk; bezittingen en schulden die vóór het huwelijk van één partner waren blijven van die partner"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-julie-en-august-antw1.png"
+        ]
+      },
+      {
+        "title": "Julie en August",
+        "question_number": 2,
+        "answer_text": "150 × (1,002⁻⁵⁹ + 1,002⁻⁵⁸ + ⋯ + 1) =\n150 × (1 / 1,002⁵⁹ × (1,002⁶⁰ − 1) / (1,002 − 1)) =\n150 × 56,5996073462 = € 8.489,94\n(hierbij: a = 1 / 1,002⁵⁹; r = 1,002; n = 60; dus S = 56,5996073462)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Aan elk antwoord groter dan of gelijk aan € 9.000 (60 x € 150) worden geen scorepunten toegekend.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-julie-en-august-antw2.png"
+        ]
+      },
+      {
+        "title": "Julie en August",
+        "question_number": 3,
+        "answer_text": "erfenis: 200.000 x 0,5 = 100.000,00 per kind\nerfbelasting: (100.000 – 20.616) x 0,10 = 7.938,40 per kind\n92.061,60 per kind",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "erfenis: 200.000 x 0,5 = 100.000,00 per kind"
+          },
+          {
+            "points": 1,
+            "description": "erfbelasting: (100.000 – 20.616) x 0,10 = 7.938,40 per kind; 92.061,60 per kind"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-julie-en-august-antw3.png"
+        ]
+      },
+      {
+        "title": "Juicy Lucy",
+        "question_number": 4,
+        "answer_text": "beneficiair aanvaarden",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-juicy-lucy-antw4.png"
+        ]
+      },
+      {
+        "title": "Juicy Lucy",
+        "question_number": 5,
+        "answer_text": "• punt 2\n• Het is een externe factor én Juicy Lucy kan hieruit haar voordeel halen doordat de inkoopprijs van groenten lager kan worden en daardoor de verkoopprijs van de sappen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "punt 2"
+          },
+          {
+            "points": 1,
+            "description": "Het is een externe factor én Juicy Lucy kan hieruit haar voordeel halen doordat de inkoopprijs van groenten lager kan worden en daardoor de verkoopprijs van de sappen"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt kan alleen behaald worden als het eerste scorepunt is behaald.\nOm het tweede scorepunt te behalen, moeten beide argumenten genoemd worden.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-juicy-lucy-antw5.png"
+        ]
+      },
+      {
+        "title": "Juicy Lucy",
+        "question_number": 6,
+        "answer_text": "(2.286 × 0,15 × 1,1 + 1.143 × 0,06 × 0,6 + 1.714 × 0,01 × 0,2) / 7\n60 per dag, afgerond",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Wanneer niet juist is afgerond, wordt 1 scorepunt in mindering gebracht.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-juicy-lucy-antw6.png"
+        ]
+      },
+      {
+        "title": "Juicy Lucy",
+        "question_number": 7,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– Het is niet zeker of de ja-zeggers ook werkelijk zullen gaan kopen.\n– Het is niet zeker of de leeftijdsopbouw van de wijk gelijk zal blijven.\n– De respondenten kunnen ook een sapbar in een andere wijk gaan of blijven bezoeken.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juiste reden"
+          },
+          {
+            "points": 1,
+            "description": "tweede juiste reden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-juicy-lucy-antw7.png"
+        ]
+      },
+      {
+        "title": "Juicy Lucy",
+        "question_number": 8,
+        "answer_text": "Beginbalans Juicy Lucy per 1 januari 2021 (bedragen in €):\ndebet: Pand 340.000; Bestelauto 4.000; Inventaris 8.000; Voorraad 6.000; Vooruitbetaalde bedragen 1.200; Kas 600; totaal 359.800\ncredit: Eigen vermogen 184.000; Hypothecaire lening 170.000; Crediteuren 3.000; Rekening-courantkrediet 2.800; totaal 359.800",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Vooruitbetaalde bedragen en 1.200"
+          },
+          {
+            "points": 1,
+            "description": "184.000"
+          },
+          {
+            "points": 1,
+            "description": "170.000 en 3.000"
+          },
+          {
+            "points": 1,
+            "description": "359.800"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-juicy-lucy-antw8.png"
+        ]
+      },
+      {
+        "title": "Juicy Lucy",
+        "question_number": 9,
+        "answer_text": "50.000 + 184.000 x 0,04 = € 57.360",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-juicy-lucy-antw9.png"
+        ]
+      },
+      {
+        "title": "Juicy Lucy",
+        "question_number": 10,
+        "answer_text": "• Minder risico voor de bank\n• In geval van faillissement kan de bank bij een eenmanszaak aanspraak doen op het privévermogen van Lucy en bij een besloten vennootschap niet: alleen op het vermogen van de bv zelf",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Minder risico voor de bank"
+          },
+          {
+            "points": 1,
+            "description": "In geval van faillissement kan de bank bij een eenmanszaak aanspraak doen op het privévermogen van Lucy en bij een besloten vennootschap niet: alleen op het vermogen van de bv zelf"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-juicy-lucy-antw10.png"
+        ]
+      },
+      {
+        "title": "Juicy Lucy",
+        "question_number": 11,
+        "answer_text": "Verwachte constante kosten over 2021:\nconstante personeelskosten: 23.115,46 (343 x 4 x 12 x 1,08 x 1,30)\ninterestkosten: 7.516,19 (800 + (170.000 x 0,02) + ((170.000 – (7.590,49 – 3.400)) x 0,02)\nafschrijvingskosten: 1.850 ((8.000 − 1.200) / 8 + 1.000)\noverige constante kosten: 10.000",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "23.115,46"
+          },
+          {
+            "points": 1,
+            "description": "7.516,19"
+          },
+          {
+            "points": 1,
+            "description": "1.850"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-juicy-lucy-antw11.png"
+        ]
+      },
+      {
+        "title": "Juicy Lucy",
+        "question_number": 12,
+        "answer_text": "De verwachte EBIT van Juicy Lucy over 2021:\nomzet: 164.640,00 (343 x 60 x 8)\ninkoopwaarde van de omzet: 41.160,00 (164.640 x 0,25)\nvariabele personeelskosten: 4.939,20 (164.640 x 0,03)\nvoor de EBITDA relevante constante kosten: 33.115,46 (23.115,46 (zie vraag 11) + 10.000)\nEBITDA: 85.425,34\nafschrijvingskosten: 1.850,00 (zie vraag 11)\nEBIT: 83.575,34",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "164.640 en 41.160 en 4.939,20"
+          },
+          {
+            "points": 1,
+            "description": "33.115,46"
+          },
+          {
+            "points": 1,
+            "description": "afschrijvingskosten en 1.850"
+          },
+          {
+            "points": 1,
+            "description": "83.575,34"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-juicy-lucy-antw12.png"
+        ]
+      },
+      {
+        "title": "Juicy Lucy",
+        "question_number": 13,
+        "answer_text": "rentedekkingsfactor over 2021: 11,1 (83.575,34 / 7.516,19)\nvoorwaarde 1, 2 en 5 – beloning Lucy is mogelijk – voldaan: ja – (83.575,34 – 7.516,19) > 57.360\nvoorwaarde 3 – rechtsvorm – voldaan: ja – ‘Jucy stemt in’\nvoorwaarde 4 – rentedekking – voldaan: ja – 11,1 > 7,0\nConclusie: Juicy Lucy gaat van start (aan alle voorwaarden wordt voldaan).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "voorwaarden 1, 2 en 5"
+          },
+          {
+            "points": 1,
+            "description": "11,1"
+          },
+          {
+            "points": 1,
+            "description": "voorwaarden 3 en 4"
+          },
+          {
+            "points": 1,
+            "description": "conclusie"
+          }
+        ],
+        "grading_note": "De juiste uitleg of berekening bij elke voorwaarde is noodzakelijk voor toekenning van het scorepunt.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-juicy-lucy-antw13.png"
+        ]
+      },
+      {
+        "title": "The Maxx Brothers nv",
+        "question_number": 14,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– Kans: tv en bioscoop zijn dure kanalen. De komst van goedkopere social media vergroot het aantal mogelijke klanten van TMB, want TMB kan ook filmpjes maken ten behoeve van het gebruik van social media.\n– Bedreiging: de komst van digitale technologieën maakt het voor nieuwe aanbieders (bijvoorbeeld vloggers en influencers) mogelijk om tegen lage kosten tot de markt toe te treden.\nof\n– Bedreiging: bedrijven willen niet meer adverteren op tv, maar op social media.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "per juiste kans"
+          },
+          {
+            "points": 1,
+            "description": "per juiste bedreiging"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-the-maxx-brothers-nv-antw14.png"
+        ]
+      },
+      {
+        "title": "The Maxx Brothers nv",
+        "question_number": 15,
+        "answer_text": "(1.800.000 + 200.000 + 1.600.000 + 400.000) / 50 = 80.000 aandelen\nOf\n1.800.000 / 22,50 = 80.000 aandelen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-the-maxx-brothers-nv-antw15.png"
+        ]
+      },
+      {
+        "title": "The Maxx Brothers nv",
+        "question_number": 16,
+        "answer_text": "Mutaties balans TMB als gevolg van de financiële feiten op 30 december 2020:\ndebet: Bedrijfspand + 2.000.000; Bank + 592.500\ncredit: Agio op obligaties + 242.500; Converteerbare obligatielening + 4.850.000; 5% Hypothecaire lening – 2.500.000\nruimte voor berekeningen:\nBank: + (3.000.000 – 2.500.000) + 5.092.500 – 5.000.000\nConverteerbare obligatielening: 5.092.500 / 1,05 = 4.850.000\nAgio op obligaties: 5.092.500 – 4.850.000 = 242.500\n5% Hypothecaire lening: – 2.500.000\nBedrijfspand: – 3.000.000 + 5.000.000",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Agio op obligaties en + 242.500"
+          },
+          {
+            "points": 1,
+            "description": "Bank: + 592.500"
+          },
+          {
+            "points": 1,
+            "description": "Converteerbare obligatielening: + 4.850.000"
+          },
+          {
+            "points": 1,
+            "description": "5% Hypothecaire lening: – 2.500.000; Bedrijfspand: + 2.000.000"
+          }
+        ],
+        "grading_note": "Wanneer is geantwoord ‘Agio’ in plaats van ‘Agio op obligaties’, wordt 1 scorepunt in mindering gebracht.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-the-maxx-brothers-nv-antw16.png"
+        ]
+      },
+      {
+        "title": "The Maxx Brothers nv",
+        "question_number": 17,
+        "answer_text": "• c\n• Als de beurskoers lager is dan de conversiekoers, is het voordeliger om de aandelen te kopen tegen de (lagere) beurskoers",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "c"
+          },
+          {
+            "points": 1,
+            "description": "Als de beurskoers lager is dan de conversiekoers, is het voordeliger om de aandelen te kopen tegen de (lagere) beurskoers"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt kan alleen worden behaald als het eerste scorepunt is behaald.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-the-maxx-brothers-nv-antw17.png"
+        ]
+      },
+      {
+        "title": "The Maxx Brothers nv",
+        "question_number": 18,
+        "answer_text": "(1.000 + 200 – 15 x 22,50) x 1.000 = € 862.500",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-the-maxx-brothers-nv-antw18.png"
+        ]
+      },
+      {
+        "title": "Brait bv",
+        "question_number": 19,
+        "answer_text": "(p van) plaats",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-brait-bv-antw19.png"
+        ]
+      },
+      {
+        "title": "Brait bv",
+        "question_number": 20,
+        "answer_text": "verkopen: winst- en verliesrekening (in €) over eerste kwartaal 2021: 330.578,51; liquiditeitsoverzicht (in €) in eerste kwartaal 2021: 389.500\nonderhoud: winst- en verliesrekening: 3.000; liquiditeitsoverzicht: 20.000\nruimte voor berekeningen:\nverkopen, winst- en verliesrekening: (125.000 + 135.000 + 140.000) / 1,21\nverkopen, liquiditeitsoverzicht: debiteuren: 0,6 x 0,5 x 120.000 + 0,6 x 130.000 + 0,6 x 125.000 + 0,6 x 0,5 x 135.000; contante verkopen: 0,4 x (125.000 + 135.000 + 140.000)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "330.578,51 en op winst- en verliesrekening"
+          },
+          {
+            "points": 2,
+            "description": "389.500 en op liquiditeitsoverzicht"
+          },
+          {
+            "points": 1,
+            "description": "3.000 en op winst- en verliesrekening"
+          },
+          {
+            "points": 1,
+            "description": "20.000 en op liquiditeitsoverzicht"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-brait-bv-antw20.png"
+        ]
+      },
+      {
+        "title": "Brait bv",
+        "question_number": 21,
+        "answer_text": "verdeling resultaat: winst- en verliesrekening (in €) over eerste kwartaal 2021: (leeg); liquiditeitsoverzicht (in €) in eerste kwartaal 2021: 188.000\nruimte voor berekeningen (liquiditeitsoverzicht):\nvennootschapsbelasting: 500.000 – 390.000 +\ncash dividend: 390.000 / 5 × 2 × 0,5",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "188.000"
+          },
+          {
+            "points": 1,
+            "description": "en op liquiditeitsoverzicht"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-brait-bv-antw21.png"
+        ]
+      },
+      {
+        "title": "Stijn Verhulst",
+        "question_number": 22,
+        "answer_text": "– AFM/ Autoriteit Financiële Markten\n– DNB/De Nederlandsche Bank",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-stijn-verhulst-antw22.png"
+        ]
+      },
+      {
+        "title": "Stijn Verhulst",
+        "question_number": 23,
+        "answer_text": "• Een aandeel moet een lage volatiliteit hebben\n• en een lage koers/winstverhouding. Aandelen Eduard nv en Ferdinand nv voldoen aan deze criteria",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Een aandeel moet een lage volatiliteit hebben"
+          },
+          {
+            "points": 1,
+            "description": "en een lage koers/winstverhouding. Aandelen Eduard nv en Ferdinand nv voldoen aan deze criteria"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-stijn-verhulst-antw23.png"
+        ]
+      },
+      {
+        "title": "Stijn Verhulst",
+        "question_number": 24,
+        "answer_text": "• zeggenschap / stemrecht\n• (recht op) dividend",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "zeggenschap / stemrecht"
+          },
+          {
+            "points": 1,
+            "description": "(recht op) dividend"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-stijn-verhulst-antw24.png"
+        ]
+      },
+      {
+        "title": "Stijn Verhulst",
+        "question_number": 25,
+        "answer_text": "Hoe verder de afloopdatum is, hoe groter de kans op winst bij uitoefenen van de putoptie, omdat de kans dat de uitoefenprijs een keer boven de beurskoers plus optiepremie komt dan groter is.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-stijn-verhulst-antw25.png"
+        ]
+      },
+      {
+        "title": "Stijn Verhulst",
+        "question_number": 26,
+        "answer_text": "resultaat over 2021 bij een stijgende beurskoers van 8% / een dalende beurskoers van 15%:\n100 aandelen Jacobsen: 158,40 / –124,50\n100 aandelen Jacobsen én 1 putoptie Jacobsen: 128,40 / – 24,50\nruimte voor berekeningen:\n100 aandelen Jacobsen, stijgende beurskoers van 8%: 100 x 12 x 0,08 = 96,00; 100 x 0,05 x (12 + (12 x 1,08)) / 2 = 62,40; totaal 158,40\n100 aandelen Jacobsen, dalende beurskoers van 15%: 100 x 12 x – 0,15 = – 180; 100 x 0,05 x (12 + (12 x 0,85)) / 2 = 55,50; totaal – 124,50\n100 aandelen Jacobsen én 1 putoptie Jacobsen, stijgende beurskoers van 8%: 158,40 – (100 x 0,30) = 128,40\n100 aandelen Jacobsen én 1 putoptie Jacobsen, dalende beurskoers van 15%: 100 x (11,50 – (0,85 x 12)) = 130; 130 – 124,50 – 30 = – 24,50\nof\n100 x (12 – 11,50) = – 50; 100 x 0,05 x (12 + (12 x 0,85)) / 2 = 55,50; – 50 + 55,50 – 30 = – 24,50",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "158,40 en –124,50"
+          },
+          {
+            "points": 1,
+            "description": "128,40"
+          },
+          {
+            "points": 2,
+            "description": "– 24,50"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-stijn-verhulst-antw26.png"
+        ]
+      },
+      {
+        "title": "Stijn Verhulst",
+        "question_number": 27,
+        "answer_text": "• Bij het kopen van alleen 100 aandelen Jacobsen wordt een hoger risico gelopen\n• De doorlopende lijn is van ‘alleen 100 aandelen Jacobsen’. Deze laat bij een lagere beurskoers een lager resultaat zien en bij hogere beurskoersen een hoger resultaat zien dan de gestippelde lijn (100 aandelen Jacobsen én 1 putoptie Jacobsen)\nof\n• Het resultaat bij het kopen van alleen 100 aandelen Jacobsen ligt hoger dan dat van 100 aandelen Jacobsen én 1 putoptie Jacobsen\n• maar het verlies is ook groter\nof\n• Het resultaat bij alleen aandelen is hoger dan bij aandelen gecombineerd met putopties\n• maar het verlies kan ook groter zijn",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij het kopen van alleen 100 aandelen Jacobsen wordt een hoger risico gelopen / Het resultaat bij (het kopen van) alleen (100) aandelen (Jacobsen) ligt hoger dan bij aandelen gecombineerd met putopties"
+          },
+          {
+            "points": 1,
+            "description": "uitleg aan de hand van de lijnen (de doorlopende lijn ‘alleen 100 aandelen Jacobsen’ laat bij een lagere beurskoers een lager en bij hogere beurskoersen een hoger resultaat zien dan de gestippelde lijn) / maar het verlies is (kan) ook groter (zijn)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-stijn-verhulst-antw27.png"
+        ]
+      },
+      {
+        "title": "Schildersbedrijf Vermeer bv",
+        "question_number": 28,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– Voordeel: flexibiliteit. Een schilder met een nul-urencontract wordt alleen opgeroepen en betaald als er werk is. Een werknemer met een contract voor onbepaalde tijd wordt ook doorbetaald als er tijdelijk geen werk is.\n– Nadeel: mogelijk gebrek aan binding. Een schilder met een nul-urencontract kan mogelijk sneller op zoek gaan naar een andere werkgever die hem meer vastigheid kan geven dan een werknemer met een contract voor onbepaalde tijd.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Aan antwoorden met de strekking: “Een werknemer met een nul-urencontract hoeft niet te komen als hij niet wil” of “kan direct ontslag nemen” worden geen scorepunten toegekend.\nDe juiste motivatie per voordeel/nadeel is noodzakelijk voor het behalen van ieder scorepunt.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-schildersbedrijf-vermeer-bv-antw28.png"
+        ]
+      },
+      {
+        "title": "Schildersbedrijf Vermeer bv",
+        "question_number": 29,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\nDoor het doorberekenen van:\n– een vast bedrag per offerte\n– een vast bedrag per te werken dag\n– een opslag in de vorm van een percentage van de totale kosten",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-schildersbedrijf-vermeer-bv-antw29.png"
+        ]
+      },
+      {
+        "title": "Schildersbedrijf Vermeer bv",
+        "question_number": 30,
+        "answer_text": "47.309,18 / (30 × (52 − 6)) + 60.000 / (4 × 30 × (52 − 6)) = € 45,15",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-schildersbedrijf-vermeer-bv-antw30.png"
+        ]
+      },
+      {
+        "title": "Schildersbedrijf Vermeer bv",
+        "question_number": 31,
+        "answer_text": "plaatsen steiger 240,00\nmateriaal 850,00\narbeid 28 uur à € 45,15: 1.264,20\nkostprijs 2.354,20\nresultaat 20%: 588,55\noffertebedrag exclusief btw 2.942,75\nbtw 342,68\noffertebedrag inclusief btw 3.285,43\nruimte voor berekeningen:\narbeid: 45,15 x 28 = 1.264,20\nresultaat: 2.354,20 / 80 × 20 = 588,55\nbtw: 1.264,20 x 0,09 = 113,78; (240 + 850) x 0,21 = 228,90; totaal 342,68",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "1.264,20"
+          },
+          {
+            "points": 1,
+            "description": "588,55"
+          },
+          {
+            "points": 1,
+            "description": "342,68 en 3.285,43"
+          }
+        ],
+        "grading_note": "Bij vraag 31, bij de derde deelscore moet altijd 1 deelscorepunt worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.\nToelichting: Ten onrechte is in het correctievoorschrift de btw over het resultaat niet meegenomen bij de berekening van de btw over het offertebedrag. Wegens onvolledige informatie in de opgave is deze berekening ook niet op een eenduidige manier mogelijk.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2021-i-schildersbedrijf-vermeer-bv-antw31.png"
+        ]
+      }
+    ]
+  }
+}
