@@ -1,0 +1,67 @@
+{
+  "source": "VWO Bedrijfseconomie 2023-I",
+  "subject_name": "Bedrijfseconomie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Clip & Go",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "De Baddertobbe",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Zorgverzekeraars Nederland",
+      "question_numbers": [
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "title": "Verdonk nv",
+      "question_numbers": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "title": "Bente",
+      "question_numbers": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "title": "Restaurant Chez Martine",
+      "question_numbers": [
+        29,
+        30
+      ]
+    }
+  ]
+}
