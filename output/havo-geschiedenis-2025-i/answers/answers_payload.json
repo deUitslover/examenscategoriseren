@@ -1,0 +1,526 @@
+{
+ "subject_name": "Geschiedenis",
+ "level": "HAVO",
+ "source": "HAVO Geschiedenis 2025-I",
+ "answers": [
+  {
+   "title": "Door de tijd heen",
+   "question_number": 1,
+   "answer_text": "De juiste volgorde is:\n4, 3, 6, 5, 2, 1",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "juiste volgorde: 4, 3, 6, 5, 2, 1"
+    }
+   ],
+   "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-door-de-tijd-heen-antw1.png"
+   ]
+  },
+  {
+   "title": "Ontdekkers en Hervormers",
+   "question_number": 2,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Uit de beschrijving blijkt dat de Portugese ontdekkingsreizigers erachter komen dat ze niet voldoende weten van de gewoontes van de (hoogstaande) cultuur in India / dat ze niet voldoende op de hoogte zijn van de rijkdom van andere culturen (waardoor hun wereldbeeld verandert),\n• omdat ze (een van de volgende):\n− eerst de huisbediende/wali ervan in kennis moeten stellen (als ze iets aan de koning willen brengen).\n− te horen krijgen dat zelfs arme handelaren niet zulke armoedige geschenken zouden aanbieden.\n− te horen krijgen dat de koning alleen goud als geschenk zal accepteren.\n• Je vindt dat de bron betrouwbare informatie bevat omdat Velho de gebeurtenis beschrijft in een reisverslag dat hij voor zichzelf bijhoudt (zodat hij geen reden heeft om onwaarheden te beschrijven) / omdat Velho ook zaken opneemt die geen gunstig beeld schetsen van de Portugezen / omdat Velho een beschrijving geeft van een gebeurtenis waarvan hij zelf getuige is.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "juiste uitleg dat de Portugese ontdekkingsreizigers erachter komen dat ze niet voldoende weten van de gewoontes van de (hoogstaande) cultuur in India / van de rijkdom van andere culturen (waardoor hun wereldbeeld verandert)"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de bron (huisbediende/wali eerst in kennis stellen / armoedige geschenken / de koning accepteert alleen goud)"
+    },
+    {
+     "points": 1,
+     "description": "juiste uitleg waarom de bron betrouwbare informatie bevat (reisverslag voor zichzelf / ook ongunstige zaken over de Portugezen / ooggetuige)"
+    }
+   ],
+   "grading_note": "Alleen als in het antwoord bij de eerste deelvraag op juiste wijze wordt uitgelegd dat de beschrijving aantoont dat de reis bijdraagt aan het veranderen van het wereldbeeld, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-ontdekkers-en-hervormers-antw2.png"
+   ]
+  },
+  {
+   "title": "Regenten en Vorsten",
+   "question_number": 3,
+   "answer_text": "Voorbeeld van een juist antwoord is:\nbij 1:\n• De schutters moeten hun stad beschermen tegen (de dreiging van) de Spaanse troepen (of een juiste omschrijving hiervan).\n• zodat de schutterijen zich na 1580 met de door Bontemantel genoemde wapens laten afbeelden.\nbij 2:\n• Ook hebben burgers voldoende geld / interesse voor kunst,\n• wat verklaart dat Bontemantel beschrijft dat de meeste afgebeelde schutters geen officier zijn / dat de leden van de schutterijen zelf betalen voor de schilderijen / dat de schilderijen door de belangrijkste meesters (schilders) worden gemaakt.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "bij 1: de schutters moeten hun stad beschermen tegen (de dreiging van) de Spaanse troepen (of een juiste omschrijving hiervan)"
+    },
+    {
+     "points": 1,
+     "description": "bij 1: passende verwijzing naar de bron: de schutterijen laten zich na 1580 met de door Bontemantel genoemde wapens afbeelden"
+    },
+    {
+     "points": 1,
+     "description": "bij 2: burgers hebben voldoende geld / interesse voor kunst"
+    },
+    {
+     "points": 1,
+     "description": "bij 2: passende verwijzing naar de bron (meeste afgebeelde schutters geen officier / leden betalen zelf / schilderijen door de belangrijkste meesters gemaakt)"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord een juist argument bevat voor (bij de eerste deelvraag) de invloed van het conflict in de Nederlanden en (bij de tweede deelvraag) de invloed van de culturele en economische bloei van de Republiek op het schilderen van schuttersstukken, wordt telkens 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-regenten-en-vorsten-antw3.png"
+   ]
+  },
+  {
+   "title": "Regenten en Vorsten",
+   "question_number": 4,
+   "answer_text": "Kern van een juist antwoord is:\nbij 1:\n• Stevin sloot aan bij 'het begin van wetenschappelijke belangstelling'/'de wetenschappelijke revolutie' omdat hij zelf experimenten/onderzoek deed.\nbij 2:\n• Stevin sloot niet aan bij de 'heroriëntatie op de klassieke oudheid' omdat hij specifiek de Nederlandse taal geschikt vond voor kennisoverdracht / zijn lessen niet gaf in het Latijn/Grieks.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "bij 1: Stevin sloot aan bij 'het begin van wetenschappelijke belangstelling'/'de wetenschappelijke revolutie', met juiste uitleg (hij deed zelf experimenten/onderzoek)"
+    },
+    {
+     "points": 1,
+     "description": "bij 2: Stevin sloot niet aan bij de 'heroriëntatie op de klassieke oudheid', met juiste uitleg (Nederlandse taal geschikt voor kennisoverdracht / lessen niet in het Latijn/Grieks)"
+    }
+   ],
+   "grading_note": "Als het antwoord op een deelvraag alleen een kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-regenten-en-vorsten-antw4.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 5,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Uit de tekst onder het portret blijkt dat de Engelsen de inheemse vorst erkennen als keizer/prins / dat de relatie tussen de inheemse bevolking en de Engelsen goed is / dat de Engelsen nog gebruikmaken van de inheemse naam van Virginia (wat past bij de beginfase van de Engelse aanwezigheid).\n• Met dit portret laat de Virginia Company zien dat de inheemse bevolking beschaafd/niet angstaanjagend is / dat het leven in de kolonie lucratief is (zodat nieuwe kolonisten geïnteresseerd raken),\n• door (een van de volgende):\n− te vermelden dat Mataoka met een Engelsman is getrouwd.\n− te vermelden dat Mataoka gedoopt is in het christelijk geloof.\n− Mataoka af te beelden met rijke / Engelse kleding.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "juiste uitleg aan de hand van de tekst onder het portret dat het portret past bij de beginfase van de Engelse aanwezigheid (vorst erkend als keizer/prins / goede relatie / inheemse naam van Virginia)"
+    },
+    {
+     "points": 1,
+     "description": "juiste uitleg dat de Virginia Company laat zien dat de inheemse bevolking beschaafd/niet angstaanjagend is / dat het leven in de kolonie lucratief is"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de bron (Mataoka getrouwd met een Engelsman / gedoopt in het christelijk geloof / afgebeeld met rijke/Engelse kleding)"
+    }
+   ],
+   "grading_note": "Als in het antwoord bij de eerste deelvraag wordt ingegaan op het jaartal 1616, wordt geen scorepunt toegekend (omdat dit gegeven niet in de tekst onder het portret staat).\nAlleen als bij de tweede deelvraag het antwoord een juiste uitleg bevat waardoor het portret nieuwe kolonisten kan interesseren, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-het-britse-rijk-antw5.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 6,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• De kolonisten verzetten zich met het argument dat ze geen belasting wilden betalen omdat zij geen (politieke) vertegenwoordiging hadden (in Groot-Brittannië) / met het argument ‘no taxation without representation’.\n• Het Britse bestuur kwam onder druk te staan door boycotten omdat hiermee de Britse economie werd getroffen / omdat door acties zoals deze mogelijk andere kolonisten geïnspireerd zouden raken om ook te protesteren tegen het Britse bestuur.\n• Penelope Barker vond dat ook vrouwen/mensen het recht hadden te protesteren/zich te verzetten tegen het beleid van de koning (wat past bij het idee dat bepaalde rechten aangeboren/onvervreemdbaar zijn).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "juist argument van de kolonisten: geen belasting zonder (politieke) vertegenwoordiging / 'no taxation without representation'"
+    },
+    {
+     "points": 1,
+     "description": "juiste uitleg hoe het Britse bestuur door boycotten onder druk kwam te staan (Britse economie getroffen / andere kolonisten geïnspireerd)"
+    },
+    {
+     "points": 1,
+     "description": "juiste uitleg dat Penelope Barker vond dat ook vrouwen/mensen het recht hadden te protesteren tegen het beleid van de koning (aangeboren/onvervreemdbare rechten)"
+    }
+   ],
+   "grading_note": "Als in het antwoord bij de derde deelvraag alleen een natuurlijk recht wordt genoemd zonder uitleg, wordt geen scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-het-britse-rijk-antw6.png"
+   ]
+  },
+  {
+   "title": "Pruiken en Revoluties",
+   "question_number": 7,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Het beleid past bij verlicht denken omdat Catharina de Grote zich wil inzetten voor het welzijn van haar volk / uitgaat van rationeel optimisme,\n• omdat uit de brief blijkt dat Catharina de Grote (een van de volgende):\n− wil voorkomen dat haar onderdanen ziek worden.\n− verwacht dat variolatie tot verbetering van de gezondheid van het volk zal leiden.\n− medische wetenschap wil inzetten ter bevordering van de volksgezondheid.\n• Het beleid van Catharina de Grote past bij absolutisme omdat zij zonder inspraak van anderen voor het hele land een bevel uitdoet / een beslissing neemt,\n• omdat uit de brief blijkt dat Catharina de Grote (een van de volgende):\n− de graaf opdraagt te zorgen voor een landelijke variolatie.\n− beveelt dat elke provinciestad woningen moet bouwen als verblijf.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "juiste uitleg dat het beleid past bij verlicht denken (inzet voor het welzijn van haar volk / rationeel optimisme)"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de brief bij verlicht denken (voorkomen dat onderdanen ziek worden / verbetering van de gezondheid / medische wetenschap inzetten)"
+    },
+    {
+     "points": 1,
+     "description": "juiste uitleg dat het beleid past bij absolutisme (zonder inspraak van anderen een bevel uitdoen / beslissing nemen)"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de brief bij absolutisme (graaf opdragen landelijke variolatie te regelen / bevel dat elke provinciestad woningen bouwt)"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord een juiste uitleg bevat over dat het beleid past (bij de eerste deelvraag) bij het verlicht denken en (bij de tweede deelvraag) bij het absolutisme, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-pruiken-en-revoluties-antw7.png"
+   ]
+  },
+  {
+   "title": "Burgers en Stoommachines",
+   "question_number": 8,
+   "answer_text": "Kern van een juist antwoord is:\n• Het uitgangspunt in het rapport past bij 'de moderne vorm van imperialisme die verband hield met de industrialisatie' / ‘de industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving’, omdat je uit het rapport kunt opmaken dat de kolonie ondergeschikt was aan Nederland / dat de kolonie gebruikt werd (voor grondstoffen voor de industrie) door Nederland.\n• Het uitgangspunt in het rapport past bij 'de opkomst van de politiek-maatschappelijke stroming nationalisme'/’de moderne vorm van imperialisme (die verband hield met de industrialisatie)' omdat hieruit blijkt dat de regering Nederland belangrijker vond dan de kolonie / dat de kolonie moest bijdragen aan het machtiger worden van Nederland.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "juist kenmerkend aspect (moderne vorm van imperialisme / industriële revolutie) met juiste uitleg dat de kolonie ondergeschikt was aan/gebruikt werd door Nederland"
+    },
+    {
+     "points": 1,
+     "description": "juist kenmerkend aspect (opkomst van het nationalisme / moderne vorm van imperialisme) met juiste uitleg dat de regering Nederland belangrijker vond dan de kolonie / de kolonie moest bijdragen aan het machtiger worden van Nederland"
+    }
+   ],
+   "grading_note": "Als het antwoord alleen een kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-burgers-en-stoommachines-antw8.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 9,
+   "answer_text": "Kern van een juist antwoord is:\n• Het idee dat Prince zou zijn gered door Britse abolitionisten bevestigde het zelfbeeld van de Britten dat ze superieur waren / dat zij de wereld beschaafden (zoals door het redden van een slaafgemaakte).\n• De titel benadrukte dat dit een autobiografie zou zijn / dat Strickland een ooggetuigenverslag had geschreven.\n• De interesse nam toe door de discussie over het verbod op slavernij (dat in 1833 werd aangenomen).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "het idee dat Prince gered werd door Britse abolitionisten bevestigde het zelfbeeld van de Britten dat ze superieur waren / de wereld beschaafden"
+    },
+    {
+     "points": 1,
+     "description": "de titel benadrukte dat het een autobiografie / ooggetuigenverslag zou zijn"
+    },
+    {
+     "points": 1,
+     "description": "de interesse nam toe door de discussie over het verbod op slavernij (aangenomen in 1833)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-het-britse-rijk-antw9.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 10,
+   "answer_text": "Kern van een juist antwoord is:\n• Met de Factory Acts worden de werktijden (voor kinderen) verkort.\n• Uit het verslag blijkt dat er controle plaatsvindt in fabrieken (door de inspecteur/chirurg) om ervoor te zorgen dat de afspraken van Factory Acts worden nageleefd / dat er straffen moeten worden uitgedeeld aan fabrikanten die kinderen (te) lang laten werken.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "met de Factory Acts worden de werktijden (voor kinderen) verkort"
+    },
+    {
+     "points": 1,
+     "description": "uit het verslag blijkt dat er controle plaatsvindt in fabrieken op naleving van de Factory Acts / dat fabrikanten die kinderen (te) lang laten werken gestraft moeten worden"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-het-britse-rijk-antw10.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 11,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• De fabrieksinspecteur benadrukt de betrouwbaarheid van zijn waarnemingen door aan te geven dat hij zelf onderzoek heeft gedaan / dat hij zich niet op één waarneming heeft gebaseerd / dat zijn bevindingen worden bevestigd door een betrouwbare ooggetuige,\n• door te schrijven dat (een van de volgende):\n− hij alle jongens dezelfde vraag heeft gesteld (en steeds hetzelfde antwoord kreeg).\n− een gecertificeerde chirurg bij het onderzoek aanwezig was.\n− hij het logboek (met de werktijden) bekijkt.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "juist argument hoe de fabrieksinspecteur de betrouwbaarheid van zijn waarnemingen benadrukt (zelf onderzoek / niet op één waarneming gebaseerd / bevestigd door betrouwbare ooggetuige)"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de bron (alle jongens dezelfde vraag gesteld / gecertificeerde chirurg aanwezig / logboek bekeken)"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord een juist argument voor het benadrukken van de betrouwbaarheid bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-het-britse-rijk-antw11.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 12,
+   "answer_text": "Kern van een juist antwoord is:\n• De Britse regering wil door te volgen wat er in de kranten wordt geschreven op de hoogte zijn van onvrede onder de Indiase bevolking / tekenen van een (nieuwe) opstand in de gaten houden.\n• Dit artikel wordt opgenomen omdat hierin het beleid van het Britse bestuur wordt bekritiseerd / wordt gesuggereerd dat het Britse bestuur geen idee heeft van de toestand in India / wordt aangegeven dat de toestand van veel Indiërs zorgelijk is,\n• door te schrijven dat (een van de volgende):\n− Lord George Hamilton negeert / niet weet dat er in India hongersnood heerst.\n− Indiërs sterven van de honger.\n− Indiërs zuchten onder zware belastingen.\n− het Britse bestuur woede oproept / uitgelachen wordt door de schrijvers.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de Britse regering wil op de hoogte zijn van onvrede onder de Indiase bevolking / tekenen van een (nieuwe) opstand in de gaten houden"
+    },
+    {
+     "points": 1,
+     "description": "juiste verklaring voor de opname van het artikel (kritiek op het Britse beleid / Britse bestuur heeft geen idee van de toestand in India / toestand van veel Indiërs zorgelijk)"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de bron (Hamilton negeert de hongersnood / Indiërs sterven van de honger / zware belastingen / het Britse bestuur roept woede op)"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord bij de tweede deelvraag een juiste verklaring bevat voor de opname van dit artikel in het rapport, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-het-britse-rijk-antw12.png"
+   ]
+  },
+  {
+   "title": "Burgers en Stoommachines",
+   "question_number": 13,
+   "answer_text": "Kern van een juist antwoord is:\n• Het koloniale gezag prijst de inhoud van de brieven van Kartini omdat ermee kan worden aangetoond dat inlandse bestuurders openstaan voor Europese invloeden / dat het Nederlandse bestuur de toestand in de kolonie verbetert / kansen biedt aan Indonesiërs,\n• omdat Kartini schrijft dat (een van de volgende):\n− haar grootvader zijn huis opstelde voor de Westerse beschaving.\n− haar broers naar de H.B.S. gaan.\n− haar broer in Nederland mag studeren.\n− zijzelf naar een Europese school is gegaan.\n• Feministen prijzen de inhoud van de brieven van Kartini omdat zij de ongelijkheid aanklaagt in de opvoeding van jongens en meisjes (onder de inlandse elite),\n• omdat zij schrijft dat (een van de volgende):\n− de adat ervoor zorgt dat meisjes niet naar school mogen.\n− zij maar weinig kan profiteren van de scholingsmogelijkheden.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "juiste verklaring waarom het koloniale gezag de brieven prijst (inlandse bestuurders openstaan voor Europese invloeden / Nederlands bestuur verbetert de toestand / biedt kansen aan Indonesiërs)"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de bron bij het koloniale gezag (grootvader / broers naar de H.B.S. / broer studeert in Nederland / zijzelf naar een Europese school)"
+    },
+    {
+     "points": 1,
+     "description": "juiste verklaring waarom feministen de brieven prijzen (Kartini klaagt de ongelijkheid in de opvoeding van jongens en meisjes aan)"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de bron bij de feministen (de adat verbiedt meisjes naar school te gaan / zij kan weinig profiteren van de scholingsmogelijkheden)"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord een juiste verklaring bevat voor het prijzen van de inhoud van de brieven door (bij de eerste deelvraag) het Nederlandse gezag en (bij de tweede deelvraag) feministen, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.\nAls bij beide deelvragen dezelfde verwijzing naar de bron wordt genoemd, wordt alleen aan de eerste verwijzing 1 scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-burgers-en-stoommachines-antw13.png"
+   ]
+  },
+  {
+   "title": "Duitsland in Europa",
+   "question_number": 14,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• De herstelbetalingen (moesten volgens Lloyd George worden aangepast omdat ze te hoog waren voor Duitsland).\n• Lloyd George vond nog steeds dat Duitsland de aanstichter was van / schuld had aan de oorlog (door te zeggen dat Duitsland moreel verantwoordelijk is om alle kosten te betalen).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de herstelbetalingen (moesten worden aangepast omdat ze te hoog waren voor Duitsland)"
+    },
+    {
+     "points": 1,
+     "description": "Lloyd George vond nog steeds dat Duitsland de aanstichter was van / schuld had aan de oorlog"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-duitsland-in-europa-antw14.png"
+   ]
+  },
+  {
+   "title": "Duitsland in Europa",
+   "question_number": 15,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• In Niederstetten worden (grond)rechten van burgers geschonden / worden bepaalde groepen burgers vervolgd (wat past bij een totalitaire samenleving).\n• De nazificering is nog niet volledig omdat de inwoners van Niederstetten de Joodse inwoners niet als minderwaardig beschouwen / terreur tegen tegenstanders afwijzen,\n• want uit de bron blijkt dat (een van de volgende):\n− de inwoners van Niederstetten verontwaardigd zijn over de mishandeling van de Joodse inwoners.\n− een inwoner denkt dat Hitler de mishandeling zou afkeuren.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "in Niederstetten worden (grond)rechten van burgers geschonden / bepaalde groepen burgers vervolgd (past bij een totalitaire samenleving)"
+    },
+    {
+     "points": 1,
+     "description": "juiste uitleg dat de nazificering nog niet volledig is (inwoners beschouwen Joodse inwoners niet als minderwaardig / wijzen terreur af)"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de bron (inwoners verontwaardigd over de mishandeling / een inwoner denkt dat Hitler de mishandeling zou afkeuren)"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord bij de tweede deelvraag een uitleg bevat over de onvolledige nazificering, wordt aan een daarbij passende verwijzing naar de bron 1 scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-duitsland-in-europa-antw15.png"
+   ]
+  },
+  {
+   "title": "Duitsland in Europa",
+   "question_number": 16,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Het ontwerp van de triomfboog past bij het kenmerk nationalisme / militarisme / gebruik van propaganda, omdat door het opnemen van de (1,8 miljoen) namen Hitler de slachtoffers / de gevallen Duitse soldaten uit de Eerste Wereldoorlog eert / door het bouwen van een enorme triomfboog de grootsheid van Duitsland wil laten zien.\n• Het is tijdens de Tweede Wereldoorlog niet mogelijk de boog te bouwen omdat (een van de volgende):\n− (veel) arbeiders worden ingezet in het Duitse leger.\n− er door de oorlog te weinig bouwmaterialen zijn.\n− vanwege bombardementen op Duitse steden bouwactiviteiten gevaarlijk worden.",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "juist nationaalsocialistisch kenmerk (nationalisme / militarisme / propaganda) met een daarbij passende verwijzing naar de triomfboog"
+    },
+    {
+     "points": 1,
+     "description": "juiste verklaring waarom de boog tijdens de Tweede Wereldoorlog niet gebouwd kon worden (arbeiders in het leger / te weinig bouwmaterialen / bombardementen)"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord bij de eerste deelvraag een combinatie is van een nationaalsocialistisch kenmerk en een daarbij passende verwijzing naar de triomfboog, worden scorepunten toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-duitsland-in-europa-antw16.png"
+   ]
+  },
+  {
+   "title": "Duitsland in Europa",
+   "question_number": 17,
+   "answer_text": "Voorbeeld van een juist antwoord is:\nDe geallieerden dachten dat de Duitse bevolking door het zien van de gruwelijkheden zich schuldig zouden voelen / afschuw zouden voelen, waardoor de Duitse bevolking zich zou afkeren van / afstand zou doen van de nationaalsocialistische ideologie.",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "juiste uitleg: de geallieerden dachten dat de Duitse bevolking zich door het zien van de gruwelijkheden schuldig zou voelen / afschuw zou voelen, waardoor zij zich zou afkeren van de nationaalsocialistische ideologie"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-duitsland-in-europa-antw17.png"
+   ]
+  },
+  {
+   "title": "Nederland 1948-2008",
+   "question_number": 18,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Blokzijl geeft de communistische visie weer dat de politie / het gezag te hard/onderdrukkend optreedt tegen arbeiders/stakers / dat rechten van arbeiders/stakers worden geschonden,\n• door (een van de volgende):\n− het politieoptreden tegen stakers terreur te noemen.\n− te beweren dat de stakers in elkaar zijn gebeukt.\n− de politie te vergelijken met de nationaalsocialistische politie in de oorlog.\n− te suggereren dat de directies wraak zouden gaan nemen.\n• De politie treedt hard op tegen communistische/socialistische arbeiders vanwege angst voor deze groep door 'de verdeling van de wereld in twee ideologische blokken in de greep van een wapenwedloop en de daaruit voortvloeiende dreiging van een atoomoorlog'.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "juiste uitleg van de communistische visie van Blokzijl (politie/gezag treedt te hard/onderdrukkend op tegen arbeiders/stakers / rechten worden geschonden)"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de bron (terreur / stakers in elkaar gebeukt / vergelijking met de nationaalsocialistische politie / wraak van de directies)"
+    },
+    {
+     "points": 1,
+     "description": "juiste verklaring vanuit 'de verdeling van de wereld in twee ideologische blokken ...' voor het harde optreden van de politie tegen communistische/socialistische arbeiders"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juiste uitleg bevat over de gekleurde visie van Blokzijl, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.\nAls bij de tweede deelvraag een verklaring wordt gegeven vanuit het kenmerkend aspect ‘de toenemende westerse welvaart die vanaf de jaren zestig van de twintigste eeuw aanleiding gaf tot ingrijpende sociaal-culturele veranderingsprocessen’ wordt geen scorepunt toegekend (omdat de stakers zich in 1950 verzetten tegen de autoriteiten vanuit een ideologisch standpunt en niet vanuit de sociaal-culturele veranderingsprocessen vanaf de jaren zestig).\nAls het antwoord op de tweede deelvraag alleen een juist kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-nederland-1948-2008-antw18.png"
+   ]
+  },
+  {
+   "title": "Door de tijd heen",
+   "question_number": 19,
+   "answer_text": "De juiste volgorde is:\n1, 5, 4, 2, 6, 3",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "juiste volgorde: 1, 5, 4, 2, 6, 3"
+    }
+   ],
+   "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-door-de-tijd-heen-antw19.png"
+   ]
+  },
+  {
+   "title": "Nederland 1948-2008",
+   "question_number": 20,
+   "answer_text": "Kern van een juist antwoord is:\n− Sprenger heeft kritiek op de wet die een einde maakt aan de wettelijke onbekwaamheid (van getrouwde vrouwen) / op het beëindigen van de wettelijke handelingsonbekwaamheid (van getrouwde vrouwen),\n− omdat Sprenger schrijft dat een man het primaat in het huwelijk heeft / een gehuwde vrouw zich door het huwelijk aan het gezag van haar man onderwerpt.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Sprenger heeft kritiek op de wet die een einde maakt aan de wettelijke (handelings)onbekwaamheid van getrouwde vrouwen"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing: Sprenger schrijft dat een man het primaat in het huwelijk heeft / een gehuwde vrouw zich aan het gezag van haar man onderwerpt"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-nederland-1948-2008-antw20.png"
+   ]
+  },
+  {
+   "title": "Computer en Televisie",
+   "question_number": 21,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Door het organiseren van uitzendingen zoals deze konden kijkers meer kennis opdoen van andere (West-)Europese/EGKS-landen / werd benadrukt dat de landen bij elkaar hoorden, wat bijdroeg aan een gevoel van verbinding / enthousiasme voor de samenwerking.\n• Met de uitzending kun je 'de toenemende westerse welvaart die vanaf de jaren zestig van de 20e eeuw aanleiding gaf tot ingrijpende sociaal-culturele veranderingsprocessen' illustreren omdat eruit blijkt dat genoeg mensen een televisie kunnen kopen om de organisatie van zo'n uitzending mogelijk te maken / dat mensen vrije tijd krijgen om naar een televisie-uitzending te kijken.\nof\n• Met de uitzending kun je 'de verdeling van de wereld in twee ideologische blokken (in de greep van een wapenwedloop en de daaruit voortvloeiende dreiging van een atoomoorlog)' illustreren omdat eruit blijkt de samenwerking alleen West-Europese landen betreft / dat de Oost-Europese landen niet meedoen aan deze quiz.\nof\n• Met de uitzending kun je 'de ontwikkeling van multiculturele en pluriforme samenlevingen' illustreren omdat door de uitzendingen Europeanen in aanraking kwamen met andere culturen / met andere normen en waarden binnen Europa.",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "juiste uitleg hoe uitzendingen als deze bijdroegen aan de Europese samenwerking (kennis van andere landen / benadrukken dat de landen bij elkaar hoorden, gevoel van verbinding / enthousiasme)"
+    },
+    {
+     "points": 1,
+     "description": "juist kenmerkend aspect met juiste uitleg aan de hand van de uitzending (toenemende westerse welvaart / verdeling van de wereld in twee ideologische blokken / ontwikkeling van multiculturele en pluriforme samenlevingen)"
+    }
+   ],
+   "grading_note": "Als het antwoord bij de tweede deelvraag alleen een kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-computer-en-televisie-antw21.png"
+   ]
+  },
+  {
+   "title": "Nederland 1948-2008",
+   "question_number": 22,
+   "answer_text": "Voorbeeld van een juist antwoord is:\nProvo wilde het gezag provoceren/uitdagen, maar door de verkiezing in de Amsterdamse gemeenteraad werden ze onderdeel van het gezag waardoor de beweging zichzelf zou moeten provoceren (en werd opgeheven).\nof\nProvo was opgericht met het doel het gezag te provoceren/uit te dagen, waardoor er in de beweging onenigheid kwam over deelname aan de gemeenteraad (waarna Provo zich ophief).",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "juiste uitleg vanuit de doelstelling van Provo (het gezag provoceren/uitdagen) waarom deelname aan de gemeenteraad bijdroeg aan het opheffen van de beweging (zelf onderdeel van het gezag / onenigheid over deelname)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-nederland-1948-2008-antw22.png"
+   ]
+  },
+  {
+   "title": "Duitsland in Europa",
+   "question_number": 23,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• De DDR had er belang bij had dat Brandt kanselier bleef omdat Brandt eraan bijdroeg dat de (internationale) positie van de DDR / de relatie tussen de DDR en de BRD verbeterde,\n• dankzij de Ostpolitik (of een juiste omschrijving hiervan).\n• Na de val van het communistische regime / de val van de Berlijnse Muur / de Duitse hereniging werd de Staatssicherheidsdienst opgeheven / werden de archieven van de Staatssicherheidsdienst openbaar.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de DDR had er belang bij dat Brandt kanselier bleef omdat hij bijdroeg aan een betere (internationale) positie van de DDR / relatie tussen DDR en BRD"
+    },
+    {
+     "points": 1,
+     "description": "dankzij de Ostpolitik (of een juiste omschrijving hiervan)"
+    },
+    {
+     "points": 1,
+     "description": "na de val van het communistische regime / de Muur / de Duitse hereniging werd de Staatssicherheitsdienst opgeheven / werden de archieven openbaar"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-duitsland-in-europa-antw23.png"
+   ]
+  },
+  {
+   "title": "Computer en Televisie",
+   "question_number": 24,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Kern van het beleid van perestrojka is de economische/politieke hervormingen die worden doorgevoerd in het systeem van de Sovjet-Unie.\n• De tekenaar maakt duidelijk dat de politiek van perestrojka zorgt voor vooruitgang (in de Sovjet-Unie en de landen die perestrojka volgen),\n• door af te beelden dat het schip met perestrojka (een van de volgende):\n− het ijs breekt.\n− wel kan varen.\n− ervoor zorgt dat schepen die perestrojka volgen kunnen varen.\nof\n• De tekenaar maakt duidelijk dat het afwijzen van het beleid van perestrojka leidt tot (economische en politieke) problemen,\n• met het afbeelden van de vastgevroren schepen van landen die perestrojka afwijzen.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "kern van het beleid van perestrojka: economische/politieke hervormingen in het systeem van de Sovjet-Unie"
+    },
+    {
+     "points": 1,
+     "description": "juiste uitleg hoe de tekenaar het beleid van perestrojka ondersteunt (perestrojka zorgt voor vooruitgang / afwijzen leidt tot problemen)"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de prent (het schip met perestrojka breekt het ijs / kan varen / laat volgers varen, of de vastgevroren schepen van landen die perestrojka afwijzen)"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord op de tweede deelvraag een juiste uitleg bevat van de ondersteuning van het beleid van perestrojka, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-computer-en-televisie-antw24.png"
+   ]
+  },
+  {
+   "title": "Nederland 1948-2008",
+   "question_number": 25,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• De pers komt voor de eerste huwelijkssluiting tussen mensen van hetzelfde geslacht / het eerste homohuwelijk.\n• Berichten in buitenlandse kranten dat Nederland als eerste het huwelijk openstelt voor mensen van hetzelfde geslacht dragen bij aan het idee dat andere landen aan Nederland een voorbeeld (zouden) kunnen nemen.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de pers komt voor de eerste huwelijkssluiting tussen mensen van hetzelfde geslacht / het eerste homohuwelijk"
+    },
+    {
+     "points": 1,
+     "description": "berichten in buitenlandse kranten dat Nederland als eerste het huwelijk openstelt dragen bij aan het idee dat andere landen een voorbeeld aan Nederland kunnen nemen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-i-nederland-1948-2008-antw25.png"
+   ]
+  }
+ ]
+}

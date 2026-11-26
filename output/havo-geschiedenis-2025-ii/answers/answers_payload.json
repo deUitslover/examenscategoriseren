@@ -1,0 +1,518 @@
+{
+ "subject_name": "Geschiedenis",
+ "level": "HAVO",
+ "source": "HAVO Geschiedenis 2025-II",
+ "answers": [
+  {
+   "title": "Door de tijd heen",
+   "question_number": 1,
+   "answer_text": "De juiste volgorde is:\n2, 1, 5, 6, 3, 4",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "juiste volgorde: 2, 1, 5, 6, 3, 4"
+    }
+   ],
+   "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-door-de-tijd-heen-antw1.png"
+   ]
+  },
+  {
+   "title": "Ontdekkers en Hervormers",
+   "question_number": 2,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• De mening past bij 'de hernieuwde oriëntatie op het klassieke erfgoed', omdat hij bedroefd is dat de Latijnse boeken zo slecht worden behandeld / omdat hij Latijnse boeken liefheeft.\n• De mening past bij '(het veranderende mens- en wereldbeeld van de renaissance en) het begin van een nieuwe wetenschappelijke belangstelling', omdat hij onderzoek doet naar de bibliotheek / de boeken in de bibliotheek wil bewaren.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "de mening past bij 'de hernieuwde oriëntatie op het klassieke erfgoed', met juiste uitleg"
+    },
+    {
+     "points": 1,
+     "description": "de mening past bij '(het veranderende mens- en wereldbeeld van de renaissance en) het begin van een nieuwe wetenschappelijke belangstelling', met juiste uitleg"
+    }
+   ],
+   "grading_note": "Als het antwoord alleen een juist kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-ontdekkers-en-hervormers-antw2.png"
+   ]
+  },
+  {
+   "title": "Ontdekkers en Hervormers",
+   "question_number": 3,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Maarten Luther was een hervormer / gaf met zijn kritiek op de kerk de aanzet tot de reformatie, waardoor\n• het stadsbestuur ervan uitging dat katholieken zouden protesteren/onrust zouden veroorzaken als een boek van Luther werd gebruikt op school.\nof\n• het stadsbestuur dacht dat het landsbestuur / de katholieke kerk het stadsbestuur zou aanspreken/bestraffen omdat de reformatie niet werd aangepakt.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "Maarten Luther was een hervormer / gaf met zijn kritiek op de kerk de aanzet tot de reformatie"
+    },
+    {
+     "points": 1,
+     "description": "juiste uitleg van de reactie van het stadsbestuur (katholieken zouden protesteren/onrust veroorzaken, of het landsbestuur / de katholieke kerk zou het stadsbestuur aanspreken/bestraffen)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-ontdekkers-en-hervormers-antw3.png"
+   ]
+  },
+  {
+   "title": "Ontdekkers en Hervormers",
+   "question_number": 4,
+   "answer_text": "Kern van een juist antwoord is:\nbij 1:\n• Vanwege 'het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat' nam Filips II dit besluit om de handel/economie van de Nederlanden te benadelen.\nbij 2:\n• Vanwege 'het begin van de Europese overzeese expansie' gaven de Amsterdamse kooplieden deze opdracht, omdat zij met deze zeeroute zelf naar India wilden kunnen reizen.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "bij 1: juiste uitleg vanuit 'het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat' (Filips II wilde de handel/economie van de Nederlanden benadelen)"
+    },
+    {
+     "points": 1,
+     "description": "bij 2: juiste uitleg vanuit 'het begin van de Europese overzeese expansie' (de kooplieden wilden zelf naar India kunnen reizen)"
+    }
+   ],
+   "grading_note": "Als het antwoord alleen een juist kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-ontdekkers-en-hervormers-antw4.png"
+   ]
+  },
+  {
+   "title": "Regenten en Vorsten",
+   "question_number": 5,
+   "answer_text": "Voorbeeld van een juist antwoord is:\nbij 1:\n• Uit de brief blijkt dat de Nederlanders in Amerika gezinnen hebben / landbouw bedrijven (wat past bij een vestigingskolonie).\nbij 2:\n• Uit de brief blijkt dat de kolonisten grond kopen van de oorspronkelijke bevolking (in plaats van afpakken) / in de brief staat dat de kolonisten in vrede leven (waaruit blijkt dat ze geen conflict hebben).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "bij 1: uit de brief blijkt dat de Nederlanders in Amerika gezinnen hebben / landbouw bedrijven (vestigingskolonie)"
+    },
+    {
+     "points": 1,
+     "description": "bij 2: uit de brief blijkt dat de kolonisten grond kopen van de oorspronkelijke bevolking / in vrede leven"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-regenten-en-vorsten-antw5.png"
+   ]
+  },
+  {
+   "title": "Regenten en Vorsten",
+   "question_number": 6,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Schaghen is als bestuurder van de handelsorganisatie WIC tevreden met de kolonie omdat deze lijkt te gaan bijdragen aan de (wereld)handel / winstgevend lijkt te zijn,\n• want hij ziet dat het schip vanuit de kolonie (handels)producten meebrengt zoals graan/dierenvellen.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "juiste verklaring voor de tevredenheid van Schaghen: de kolonie lijkt bij te dragen aan de (wereld)handel / winstgevend te zijn"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de bron: het schip brengt (handels)producten mee zoals graan/dierenvellen"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord een juiste verklaring voor de tevredenheid van Schaghen bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.\nAls het antwoord ingaat op het succes van Nieuw-Nederland als vestigingskolonie, worden geen scorepunten toegekend (omdat de WIC geïnteresseerd is in (wereld)handel).",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-regenten-en-vorsten-antw6.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 7,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• In 1765 sluit de East India Company het verdrag van Allahabad,\n• waardoor het na 1765 belangrijk wordt om een leger te hebben dat kan toezien op/kan helpen bij het innen van belasting / het besturen van (delen van) India.\n• De Britten geven door het uitreiken van de medaille de boodschap dat ze de bijdrage van de inheemse soldaten waarderen / dat de inheemse soldaten bijdragen aan de Britse overwinning in India.\n• De Britten geven (met de afbeelding van Brittannia met de lauwerkrans / met de Britse vlag op het fort) de boodschap dat ze (delen van) India hebben onderworpen / dat ze machtig zijn.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "in 1765 sluit de East India Company het verdrag van Allahabad"
+    },
+    {
+     "points": 1,
+     "description": "waardoor een leger belangrijk wordt om te helpen bij het innen van belasting / het besturen van (delen van) India"
+    },
+    {
+     "points": 1,
+     "description": "boodschap van de medaille: de Britten waarderen de bijdrage van de inheemse soldaten aan de Britse overwinning"
+    },
+    {
+     "points": 1,
+     "description": "boodschap (Brittannia met lauwerkrans / Britse vlag op het fort): de Britten hebben (delen van) India onderworpen / zijn machtig"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-het-britse-rijk-antw7.png"
+   ]
+  },
+  {
+   "title": "Pruiken en Revoluties",
+   "question_number": 8,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Wädstrom wil laten zien dat de abolitionistische beweging ook in Afrika successen kan behalen in het stoppen van de slavenhandel / wil met dit verhaal abolitionisten laten zien dat er hoop is de slavenhandel te stoppen,\n• door te schrijven dat (een van de volgende):\n− een Afrikaanse koning een wet aanneemt tegen het vervoer van slaafgemaakten.\n− het verbod de koning tot eer strekt.\n− een Afrikaanse koning niet om te kopen is door de Fransen / zich verzet tegen de Fransen die slaven willen kopen.\n• De koning heeft mogelijk het (politieke) motief dat hij zelf de (slaven)handel in zijn rijk wil kunnen bepalen (zodat hij de route sluit voor handelaren uit andere landen).\nof\n• De koning heeft mogelijk het (economische) motief dat hij zelf wil verdienen aan de (slaven)handel (zodat hij de route sluit voor handelaren uit andere landen).",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "juiste uitleg dat Wädstrom wil laten zien dat de abolitionistische beweging ook in Afrika successen kan behalen / dat er hoop is de slavenhandel te stoppen"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de bron (wet tegen het vervoer van slaafgemaakten / het verbod strekt de koning tot eer / de koning is niet om te kopen door de Fransen)"
+    },
+    {
+     "points": 1,
+     "description": "juist (politiek of economisch) motief van de koning (zelf de (slaven)handel bepalen / zelf verdienen aan de (slaven)handel)"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord bij de eerste deelvraag een juiste uitleg bevat voor de steun aan de abolitionistische beweging, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-pruiken-en-revoluties-antw8.png"
+   ]
+  },
+  {
+   "title": "Pruiken en Revoluties",
+   "question_number": 9,
+   "answer_text": "Voorbeeld van een juist antwoord is:\nbij 1:\n• Daendels wijst de standensamenleving af,\n• door op te roepen de keus voor kapiteins niet te baseren op kleding/scholing / te kiezen voor kapiteins die het beste kunnen vechten.\nbij 2:\n• Daendels roept op om te zorgen voor een nieuw bestuur/een niet-adellijk bestuur / roept burgers op om te strijden tegen het bestuur,\n• door op te roepen Oranje / de vergulde (rijke) knechten van Oranje te verdrijven.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "bij 1: Daendels wijst de standensamenleving af"
+    },
+    {
+     "points": 1,
+     "description": "bij 1: passende verwijzing: keus voor kapiteins niet baseren op kleding/scholing / kiezen voor wie het beste kan vechten"
+    },
+    {
+     "points": 1,
+     "description": "bij 2: Daendels roept op tot een nieuw / niet-adellijk bestuur / tot strijd tegen het bestuur"
+    },
+    {
+     "points": 1,
+     "description": "bij 2: passende verwijzing: Oranje / de vergulde (rijke) knechten van Oranje verdrijven"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord een juist argument bevat dat de oproep past bij (bij de eerste deelvraag) het 'verlicht denken' en (bij de tweede deelvraag) 'de democratische revoluties in westerse landen', wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.\nAls dezelfde verwijzing naar de bron tweemaal wordt gebruikt, wordt alleen aan de eerste juiste verwijzing 1 scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-pruiken-en-revoluties-antw9.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 10,
+   "answer_text": "Kern van een juist antwoord is:\n• Door het besluit de slavernij af te schaffen (in 1833),\n• was er in het Caribisch gebied interesse voor een machine die het werk van slaafgemaakten op de suikerplantages kon overnemen.\n• Het tonen van de stoommachine van Britse makelij / die ontworpen was door een Brits bedrijf droeg bij aan de boodschap dat Groot-Brittannië de werkplaats van de wereld was / voorliep in technologische vernieuwingen.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "door het besluit de slavernij af te schaffen (in 1833)"
+    },
+    {
+     "points": 1,
+     "description": "was er in het Caribisch gebied interesse voor een machine die het werk van slaafgemaakten op de suikerplantages kon overnemen"
+    },
+    {
+     "points": 1,
+     "description": "het tonen van de Britse stoommachine droeg bij aan de boodschap dat Groot-Brittannië de werkplaats van de wereld was / voorliep in technologische vernieuwingen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-het-britse-rijk-antw10.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 11,
+   "answer_text": "Kern van een juist antwoord is:\n• Er vindt in 1857 in India een opstand plaats tegen het Britse bestuur,\n• zodat er behoefte is aan dit schip waarmee de Britten snel een groot aantal soldaten kunnen vervoeren / tot ver in de binnenlanden kunnen varen om toekomstige opstanden snel neer te slaan.\n• Het ontwerp van het schip past bij ‘de moderne vorm van imperialisme (die verband hield met de industrialisatie)’, omdat de Britten met zulke grote schepen hun grip op de kolonie konden beschermen.\nof\n• Het ontwerp van het schip past bij ‘de industriële revolutie (die in de westerse wereld de basis legde voor een industriële samenleving)’, omdat uit de schoorstenen/rookpluimen blijkt dat het schip aangedreven wordt door stoommachines.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "in 1857 vindt in India een opstand plaats tegen het Britse bestuur"
+    },
+    {
+     "points": 1,
+     "description": "zodat er behoefte is aan dit schip om snel veel soldaten te vervoeren / ver landinwaarts te varen om opstanden neer te slaan"
+    },
+    {
+     "points": 1,
+     "description": "juist kenmerkend aspect (moderne vorm van imperialisme / industriële revolutie) met juiste uitleg aan de hand van het ontwerp van het schip"
+    }
+   ],
+   "grading_note": "Als bij het antwoord op de tweede deelvraag alleen een juist kenmerkend aspect wordt genoemd zonder uitleg, wordt geen scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-het-britse-rijk-antw11.png"
+   ]
+  },
+  {
+   "title": "Burgers en Stoommachines",
+   "question_number": 12,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Hoedemaker wil duidelijk maken dat het gebruik om (jonge) kinderen te laten werken in fabrieken slecht voor hen is (waarmee hij een bijdrage levert aan de discussies over ‘de sociale kwestie’),\n• door te schrijven (een van de volgende):\n− over de ongezonde trekken van de werkende kinderen.\n− hoe hij in de vroege ochtend kleine kindervoetjes hoort die naar de fabriek lopen terwijl hij nog in bed ligt.\n− dat kinderen wakker geschud moeten worden om aan het werk te gaan.\n• De werkzaamheden van Hoedemaker (als dominee / zoals het verzorgen van godsdienstlessen) passen bij het confessionalisme.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "juiste uitleg dat Hoedemaker duidelijk wil maken dat kinderarbeid in fabrieken slecht is (bijdrage aan de discussies over de sociale kwestie)"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de bron (ongezonde trekken / kindervoetjes in de vroege ochtend / kinderen wakker geschud om te werken)"
+    },
+    {
+     "points": 1,
+     "description": "de werkzaamheden van Hoedemaker (als dominee / godsdienstlessen) passen bij het confessionalisme"
+    }
+   ],
+   "grading_note": "Alleen als bij de eerste deelvraag een juist argument wordt genoemd voor de bijdrage aan de discussies rondom de sociale kwestie, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-burgers-en-stoommachines-antw12.png"
+   ]
+  },
+  {
+   "title": "Het Britse Rijk",
+   "question_number": 13,
+   "answer_text": "Kern van een juist antwoord is:\n• De kritiek van het lied is dat de Britten (doen alsof ze geloof/beschaving brengen maar in feite) met geweld Afrika/gebieden onderwerpen (vanwege de handel/macht),\n• door de tekst dat de Britten een kerkboek in de zak hebben maar een geweer klaar in de hand / het vreedzaam evangelie verspreiden met een Maximgeweer.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "juiste kritiek van het lied: de Britten onderwerpen (onder het mom van geloof/beschaving) met geweld Afrika/gebieden"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de liedtekst (kerkboek in de zak maar geweer in de hand / vreedzaam evangelie met een Maximgeweer)"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord een juist voorbeeld van kritiek bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar de liedtekst.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-het-britse-rijk-antw13.png"
+   ]
+  },
+  {
+   "title": "Duitsland in Europa",
+   "question_number": 14,
+   "answer_text": "Voorbeeld van een juist antwoord is:\nDe zwakke positie van de regering blijkt uit het gegeven dat (twee van de volgende):\n− er sprake was van groepen die bereid waren met geweld in opstand te komen tegen de regering.\n− de regering niet kon rekenen op het leger.\n− de legerleiding niet luisterde naar de regering.\n− de regering gebruik moest maken van paramilitaire organisaties om politieke onrust te onderdrukken.\n− de regering te maken kreeg met een zeer grote groep paramilitairen waarop ze weinig grip hadden.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "per juist gegeven waaruit de zwakke positie van de regering blijkt (twee van de genoemde), eerste juiste gegeven"
+    },
+    {
+     "points": 1,
+     "description": "per juist gegeven waaruit de zwakke positie van de regering blijkt (twee van de genoemde), tweede juiste gegeven"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-duitsland-in-europa-antw14.png"
+   ]
+  },
+  {
+   "title": "Duitsland in Europa",
+   "question_number": 15,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Krantenartikelen in Duitsland in die tijd worden in opdracht van de (totalitaire) regering geschreven/gecensureerd (waardoor de inhoud minder betrouwbaar wordt).\n• Uit de beschrijving blijkt dat alles gecontroleerd wordt / dat mensen worden aangezet tot het stemmen op één partij (wat een waarheidsgetrouw beeld geeft van een verkiezingsdag in een totalitaire staat),\n• want uit de bron blijkt dat (een van de volgende):\n− nazi’s overal op straat aanwezig zijn om mensen aan te sporen om te gaan stemmen.\n− de nazi-ideologie overheerst door vlaggen/muziek/woorden van Hitler in de stemlokalen.\n− nazi's mensen wakker maken om te stemmen.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "krantenartikelen worden in opdracht van de (totalitaire) regering geschreven/gecensureerd (minder betrouwbaar)"
+    },
+    {
+     "points": 1,
+     "description": "juiste uitleg dat de beschrijving een waarheidsgetrouw beeld geeft van een verkiezingsdag in een totalitaire staat (alles gecontroleerd / aangezet tot stemmen op één partij)"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de bron (nazi's overal op straat / vlaggen, muziek, woorden van Hitler in stemlokalen / mensen wakker maken om te stemmen)"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-duitsland-in-europa-antw15.png"
+   ]
+  },
+  {
+   "title": "Door de tijd heen",
+   "question_number": 16,
+   "answer_text": "De juiste volgorde is:\n6, 2, 5, 1, 4, 3",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "juiste volgorde: 6, 2, 5, 1, 4, 3"
+    }
+   ],
+   "grading_note": "Als door het weglaten van één foutief geplaatst nummer een verder complete en foutloze reeks ontstaat, wordt 1 scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-door-de-tijd-heen-antw16.png"
+   ]
+  },
+  {
+   "title": "Nederland 1948-2008",
+   "question_number": 17,
+   "answer_text": "Kern van een juist antwoord is:\n• Door de wet die een einde maakte aan de wettelijke handelingsonbekwaamheid van getrouwde vrouwen waren situaties als deze niet langer meer mogelijk.\n• Door deze wet hoefden vrouwen zoals Rie Stroek-Wagenmakers niet langer toestemming te vragen aan hun man om geld van een bankrekening te halen/om zelf beslissingen te nemen over het uitgeven van geld / mochten instellingen (als de bank) aan vrouwen niet langer vragen om een bewijs van de instemming van hun man.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "door de wet die een einde maakte aan de handelingsonbekwaamheid van getrouwde vrouwen waren situaties als deze niet langer mogelijk"
+    },
+    {
+     "points": 1,
+     "description": "juiste uitleg: vrouwen hoefden geen toestemming meer te vragen aan hun man / instellingen mochten niet langer om instemming van de man vragen"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-nederland-1948-2008-antw17.png"
+   ]
+  },
+  {
+   "title": "Duitsland in Europa",
+   "question_number": 18,
+   "answer_text": "Voorbeeld van een juist antwoord is:\nbij 1:\n• Je kunt met de bron aantonen dat de bouw van de Muur moet voorkomen dat DDR-burgers in aanraking komen met kapitalistische/Westerse ideeën,\n• want uit de bron blijkt dat (een van de volgende):\n− de vader van Christel (vaak) tijdschriften meesmokkelt vanuit de BRD naar de DDR.\n− Christel en haar familie regelmatig op bezoek gaan bij familie in West-Berlijn.\n− de Oost-Duitse grenswachten niet (altijd) streng optreden tegen het smokkelen van Westerse tijdschriften.\nbij 2:\n• Er werken altijd twee grenswachten tegelijk om ervoor te zorgen dat ze elkaar kunnen controleren zodat er geen overtredingen door de vingers worden gezien / grenswachters zich strikt houden aan de regels,\n• want uit de bron blijkt dat de grenswachter die alleen werkt de vader van Christel niet arresteert / de westerse tijdschriften niet inneemt.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "bij 1: de Muur moet voorkomen dat DDR-burgers in aanraking komen met kapitalistische/Westerse ideeën"
+    },
+    {
+     "points": 1,
+     "description": "bij 1: passende verwijzing naar de bron (tijdschriften meesmokkelen / familiebezoek in West-Berlijn / grenswachten niet altijd streng)"
+    },
+    {
+     "points": 1,
+     "description": "bij 2: twee grenswachten zodat ze elkaar controleren / zich strikt aan de regels houden"
+    },
+    {
+     "points": 1,
+     "description": "bij 2: passende verwijzing: de grenswachter die alleen werkt arresteert de vader van Christel niet / neemt de tijdschriften niet in"
+    }
+   ],
+   "grading_note": "Als het antwoord bij de eerste deelvraag ingaat op het voorkómen van de vlucht/het vertrek van inwoners van de DDR naar de BRD, wordt geen scorepunt toegekend (omdat in de bron geen sprake is van vluchten/vertrek).\nAlleen als in het antwoord (bij de eerste deelvraag) een juist motief wordt aangetoond voor het bouwen van de Berlijnse Muur en (bij de tweede deelvraag) een juiste verklaring wordt gegeven voor het werken met twee grenswachten, wordt telkens 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-duitsland-in-europa-antw18.png"
+   ]
+  },
+  {
+   "title": "Computer en Televisie",
+   "question_number": 19,
+   "answer_text": "Voorbeeld van een juist antwoord is:\nHet besluit past bij de ontzuiling/secularisatie, waardoor de redactie van de Volkskrant denkt ook niet-katholieke lezers aan zich te kunnen binden / zich ook te kunnen richten op lezers buiten de katholieke zuil.",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "juiste uitleg: het besluit past bij de ontzuiling/secularisatie, waardoor de Volkskrant ook niet-katholieke lezers / lezers buiten de katholieke zuil wil binden"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-computer-en-televisie-antw19.png"
+   ]
+  },
+  {
+   "title": "Nederland 1948-2008",
+   "question_number": 21,
+   "answer_text": "Voorbeeld van een juist antwoord is:\nbij 1:\n• De feministen zullen de kritiek hebben dat Studia niet bijdraagt aan het streven naar een gelijke positie op de arbeidsmarkt voor vrouwen / een eerlijkere verdeling van huishoudelijke taken tussen mannen en vrouwen,\n• omdat in de advertentie (een van de volgende):\n− de vrouwen worden aangesproken als 'moeder'.\n− ervan uit wordt gegaan dat een vrouw misschien maar een paar weken wil werken / geen kostwinner is.\n− ervan uit wordt gegaan dat vrouwen (met hun salaris) slechts het huishoud- of vakantiebudget aanvullen.\nbij 2:\n• Door de economische groei is er een tekort aan arbeidskrachten,\n• wat het succes van Studia verklaart, omdat Studia (een van de volgende):\n− probeert moeders te laten deelnemen aan het arbeidsproces.\n− moeders aanmoedigt een (deeltijd)baan te nemen.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "bij 1: juiste kritiek van de feministen (Studia draagt niet bij aan een gelijke positie op de arbeidsmarkt / eerlijkere verdeling van huishoudelijke taken)"
+    },
+    {
+     "points": 1,
+     "description": "bij 1: passende verwijzing naar de advertentie (vrouwen aangesproken als 'moeder' / maar een paar weken werken, geen kostwinner / alleen huishoud- of vakantiebudget aanvullen)"
+    },
+    {
+     "points": 1,
+     "description": "bij 2: door de economische groei is er een tekort aan arbeidskrachten"
+    },
+    {
+     "points": 1,
+     "description": "bij 2: passende verwijzing: Studia probeert moeders te laten deelnemen aan het arbeidsproces / moedigt een (deeltijd)baan aan"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord een juiste uitleg bevat (bij de eerste deelvraag) over de kritiek van de feministen en (bij de tweede deelvraag) over het verband tussen de economische groei en het tekort aan arbeidskrachten, wordt telkens 1 scorepunt toegekend aan een daarbij passende verwijzing naar de bron.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-nederland-1948-2008-antw21.png"
+   ]
+  },
+  {
+   "title": "Nederland 1948-2008",
+   "question_number": 22,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Met het onderzoeksrapport werd beleid van bezuinigingen op uitkeringen/het beperken van de verzorgingsstaat ondersteund,\n• want uit het onderzoeksrapport bleek dat het CDA vond dat burgers minder moesten verwachten van de overheid / dat burgers meer voor elkaar moesten zorgen / kritiek had op burgers die de zorg wilden overlaten aan de overheid.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "juiste beleidsmaatregel: bezuinigingen op uitkeringen / het beperken van de verzorgingsstaat"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar het onderzoeksrapport (burgers minder verwachten van de overheid / meer voor elkaar zorgen / kritiek op burgers die zorg aan de overheid overlaten)"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord een juiste beleidsmaatregel bevat, wordt 1 scorepunt toegekend aan een daarbij passende verwijzing naar het onderzoeksrapport.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-nederland-1948-2008-antw22.png"
+   ]
+  },
+  {
+   "title": "Nederland 1948-2008",
+   "question_number": 23,
+   "answer_text": "Kern van een juist antwoord is:\nHet beleid om leerlingen les te geven in hun (niet-Nederlandse) moedertaal paste bij het multiculturalisme, waarbij mensen met een migratieachtergrond de mogelijkheid kregen om binnen de Nederlandse samenleving/het Nederlandse onderwijssysteem hun eigen cultuur te behouden.",
+   "scoring_steps": [
+    {
+     "points": 2,
+     "description": "juiste uitleg: het onderwijs in de eigen moedertaal paste bij het multiculturalisme, waarbij mensen met een migratieachtergrond hun eigen cultuur konden behouden"
+    }
+   ],
+   "grading_note": null,
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-nederland-1948-2008-antw23.png"
+   ]
+  },
+  {
+   "title": "Duitsland in Europa",
+   "question_number": 24,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• De tekenaar geeft de mening weer dat de integratie niet gunstig is voor de BRD / dat de BRD is verzwakt door de integratie van de voormalige DDR,\n• wat blijkt uit de stekels van de egel (de voormalige DDR) waar de slang (de BRD) last van heeft.\nof\n• De tekenaar geeft de mening weer dat de BRD gulzig is en geen rekening houdt met de voormalige DDR,\n• door af te beelden dat de BRD de egel in zijn geheel opeet.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "juiste mening van de tekenaar (integratie niet gunstig / BRD verzwakt, of BRD gulzig en houdt geen rekening met de voormalige DDR)"
+    },
+    {
+     "points": 1,
+     "description": "passende verwijzing naar de prent (stekels van de egel waar de slang last van heeft, of de BRD eet de egel in zijn geheel op)"
+    }
+   ],
+   "grading_note": "Alleen als het antwoord een juiste mening van de tekenaar weergeeft, wordt 1 scorepunt aan een daarbij passende verwijzing naar de prent toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-duitsland-in-europa-antw24.png"
+   ]
+  },
+  {
+   "title": "Burgers en Stoommachines",
+   "question_number": 25,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Door 'de moderne vorm van imperialisme' / 'de opkomst van politiek-maatschappelijke stromingen zoals nationalisme' bestond er in Nederland een gevoel van trots / de behoefte het belang van de koloniale macht te benadrukken,\n• waarbij het ministerie de boodschap wilde overbrengen dat Nederland succesvol was geweest in de onderwerping van Banjarmasin / dat Banjarmasin bij het Nederlandse koloniale rijk hoorde.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "juist kenmerkend aspect (moderne vorm van imperialisme / opkomst van nationalisme) met uitleg: gevoel van trots / behoefte het belang van de koloniale macht te benadrukken"
+    },
+    {
+     "points": 1,
+     "description": "het ministerie wilde de boodschap overbrengen dat Nederland succesvol was in de onderwerping van Banjarmasin / dat Banjarmasin bij het koloniale rijk hoorde"
+    }
+   ],
+   "grading_note": "Als het antwoord alleen een juist kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-burgers-en-stoommachines-antw25.png"
+   ]
+  },
+  {
+   "title": "Computer en Televisie",
+   "question_number": 26,
+   "answer_text": "Voorbeeld van een juist antwoord is:\n• Door ‘de ontwikkeling van de multiculturele en pluriforme samenlevingen’ / ‘de dekolonisatie die een eind maakte aan de westerse hegemonie in de wereld’ kwam steeds meer kritiek op het koloniale verleden / werd ingezien dat de verovering van Banjarmasin een onrechtmatige daad was.\n• Door de diamant ‘oorlogsbuit’ te noemen wilde het Rijksmuseum ervoor zorgen dat het publiek zou nadenken over/bewust zou worden van de rol van Nederland in de Indonesische geschiedenis / ervoor zorgen dat er geen protest kwam vanwege het tentoonstellen van de diamant.",
+   "scoring_steps": [
+    {
+     "points": 1,
+     "description": "juist kenmerkend aspect (multiculturele en pluriforme samenlevingen / dekolonisatie) met uitleg: meer kritiek op het koloniale verleden / verovering van Banjarmasin onrechtmatig"
+    },
+    {
+     "points": 1,
+     "description": "juiste uitleg van het doel van het Rijksmuseum (publiek laten nadenken over de rol van Nederland in de Indonesische geschiedenis / protest voorkomen)"
+    }
+   ],
+   "grading_note": "Als het antwoord alleen een juist kenmerkend aspect bevat zonder uitleg, wordt geen scorepunt toegekend.",
+   "answer_image_urls": [
+    "geschiedenis-havo-2025-ii-computer-en-televisie-antw26.png"
+   ]
+  }
+ ]
+}
