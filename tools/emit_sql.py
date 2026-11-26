@@ -26,6 +26,9 @@ Annotation file (Python, loaded with runpy) defines:
 the draft) to the real vraagnummer (VWO-WISB-24-I-O.pdf prints "3" for vraag
 6 and "7"/"8" for vraag 9/10). "q" and "text" ("q6") use the real number; the
 vraag PNG is renamed to ...-vraag<real>.png.
+With SUBJECT = "Bedrijfseconomie" (draft from beco_build.py: the stored
+title comes from the draft's "stored_title", block_type from the draft's
+context blocks) subdomains are validated against BEDRIJFSECONOMIE_SUBDOMAINS.
 With SUBJECT = "Economie" subdomains are validated against
 ECONOMIE_SUBDOMAINS (VWO Economie list) and the chemistry FORMULAS
 rewrite is skipped. Otherwise subdomain names are validated against SUBDOMAINS below (HAVO Biologie
@@ -143,6 +146,19 @@ HAVO_ECONOMIE_SUBDOMAINS = {
 }
 
 
+# VWO Bedrijfseconomie list (SUBJECT = "Bedrijfseconomie")
+_BP = "Van persoon naar rechtspersoon"; _BI = "Interne organisatie en personeelsbeleid"
+_BF = "Investeren en financieren"; _BM = "Marketing"; _BB = "Financieel beleid"; _BV = "Verslaggeving"
+BEDRIJFSECONOMIE_SUBDOMAINS = {
+    "Persoonlijke financiële zelfredzaamheid": _BP, "De oprichting van een eenmanszaak": _BP,
+    "Van eenmanszaak naar rechtspersoon": _BP, "Perspectief op de organisatie": _BP,
+    "Personeelsbeleid": _BI, "Financieren": _BF, "Marketingbeleid": _BM,
+    "Vastleggen van financiële en niet-financiële informatie": _BB,
+    "Kosten- en winstvraagstukken en beheermaatregelen": _BB,
+    "Verslaggeving": _BV,
+}
+
+
 def clean(text, math=False, chem=True, extra=None):
     if math:
         text = clean_math(text)
@@ -170,9 +186,11 @@ def main():
     source, level = ann["SOURCE"], ann.get("LEVEL", "HAVO")
     subject = ann.get("SUBJECT", "Biologie")
     math = subject.startswith("Wiskunde")
-    chem = subject != "Economie"
+    chem = subject not in ("Economie", "Bedrijfseconomie")
     extra = ann.get("REPLACE", {})
-    if subject == "Economie":
+    if subject == "Bedrijfseconomie":
+        subdomains = BEDRIJFSECONOMIE_SUBDOMAINS
+    elif subject == "Economie":
         subdomains = HAVO_ECONOMIE_SUBDOMAINS if level == "HAVO" else ECONOMIE_SUBDOMAINS
     elif subject == "Wiskunde A":
         subdomains = WISKUNDE_A_SUBDOMAINS
@@ -187,7 +205,7 @@ def main():
         overrides = a.get("text", {})
         ex_id = str(uuid.uuid4())
         exs.append({"id": ex_id, "subject_name": subject, "level": level,
-                    "title": a.get("title", ex["title"]), "source": source})
+                    "title": a.get("title", ex.get("stored_title", ex["title"])), "source": source})
         cid = {}
         for c in ex["context_blocks"]:
             n = c["n"]
@@ -198,7 +216,7 @@ def main():
                          "label": a["labels"].get(n, f"context {n}"),
                          "image_url": c["image"],
                          "text_content": clean(overrides.get(f"c{n}", c["text"]), math, chem, extra),
-                         "block_type": a.get("block_types", {}).get(n, "inline")})
+                         "block_type": a.get("block_types", {}).get(n, c.get("block_type", "inline"))})
         nums = []
         for qq in ex["questions"]:
             n = a.get("renumber", {}).get(qq["number"], qq["number"])
@@ -230,14 +248,22 @@ def main():
         for c in ex["context_blocks"]:
             bv = c.get("before_vraag")
             bv = a.get("renumber", {}).get(bv, bv)
-            if a.get("block_types", {}).get(c["n"], "inline") == "inline" and bv is not None \
+            if a.get("block_types", {}).get(c["n"], c.get("block_type", "inline")) == "inline" and bv is not None \
                     and c["n"] not in a["q"].get(bv, ([],))[0]:
                 problems.append(f"{ex['title']}: context{c['n']} not linked to vraag {bv} (volgorde-koppeling)")
+        # beco_build.py drafts: uitwerkbijlage block linked only to its own
+        # vraag; every informatiebron / formuleblad linked at least once
+        for c in ex["context_blocks"]:
+            users = [n for n in nums if c["n"] in a["q"][n][0]]
+            if c.get("uwb_vraag") is not None and users != [c["uwb_vraag"]]:
+                problems.append(f"{ex['title']}: uitwerkbijlage{c['uwb_vraag']} linked to {users}")
+            if c.get("kind") in ("bron", "formuleblad") and not users:
+                problems.append(f"{ex['title']}: {c['kind']} c{c['n']} not linked")
         for n in nums:
             links = a["q"][n][0]
             if links != sorted(links):
                 problems.append(f"{ex['title']}: vraag {n} context links not in PDF order")
-        manifest.append({"title": a.get("title", ex["title"]), "question_numbers": nums})
+        manifest.append({"title": a.get("title", ex.get("stored_title", ex["title"])), "question_numbers": nums})
     if problems:
         print("\n".join(problems))
         sys.exit(1)
