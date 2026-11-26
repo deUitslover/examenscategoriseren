@@ -1,0 +1,551 @@
+{
+ "payload": {
+  "subject_name": "Bedrijfseconomie",
+  "level": "VWO",
+  "source": "VWO Bedrijfseconomie 2022-II",
+  "answers": [
+   {
+    "title": "Kay",
+    "question_number": 1,
+    "answer_text": "de Arbo-wet",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-kay-antw1.png"
+    ]
+   },
+   {
+    "title": "Kay",
+    "question_number": 2,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– Er hoeft geen ontslagvergunning te worden aangevraagd bij afloop van het contract.\n– Er is geen opzegtermijn van toepassing bij afloop van het contract.\n– Er hoeft geen gegronde reden voor het niet verlengen van het contract gegeven te worden bij afloop van het contract.\n– Tijdelijk personeel is mogelijk meer gemotiveerd omdat het een vast contract wil.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-kay-antw2.png"
+    ]
+   },
+   {
+    "title": "Kay",
+    "question_number": 3,
+    "answer_text": "• Hoe lager de restwaarde, hoe hoger de jaarlijkse afschrijvingskosten\n• Hoe hoger de (afschrijvings)kosten, des de lager het resultaat",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Hoe lager de restwaarde, hoe hoger de jaarlijkse afschrijvingskosten"
+     },
+     {
+      "points": 1,
+      "description": "Hoe hoger de (afschrijvings)kosten, des de lager het resultaat"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-kay-antw3.png"
+    ]
+   },
+   {
+    "title": "Kay",
+    "question_number": 4,
+    "answer_text": "• 19.000 + 2.000 − (1 + 8/12) × 3.600 = 15.000\n• 16.940 / 1,21 × (1 − 0,015) − 15.000 = € 1.210 nadelig",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "19.000 + 2.000 − (1 + 8/12) × 3.600 = 15.000"
+     },
+     {
+      "points": 1,
+      "description": "16.940 / 1,21 × (1 − 0,015) − 15.000 = € 1.210 nadelig"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-kay-antw4.png"
+    ]
+   },
+   {
+    "title": "Timo van Geel",
+    "question_number": 5,
+    "answer_text": "moeten altijd alle scorepunten worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.\nToelichting: De begrippen in de vraag zijn onvoldoende te herleiden tot specificaties in de syllabus.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "altijd toekennen, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-timo-van-geel-antw5.png"
+    ]
+   },
+   {
+    "title": "Timo van Geel",
+    "question_number": 6,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n• Pijnpunt: je kan het product niet fysiek zien / passen (waardoor je mogelijk iets koopt wat je toch niet wilt hebben)\n• Pijnverzachter: je kan de artikelen gratis retourneren / je kunt de kleding digitaal passen (door inzoomen en roteren)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "pijnpunt"
+     },
+     {
+      "points": 1,
+      "description": "pijnverzachter"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-timo-van-geel-antw6.png"
+    ]
+   },
+   {
+    "title": "Timo van Geel",
+    "question_number": 7,
+    "answer_text": "Wanneer een bezoeker op een (vergelijkings)website een product van Timo’s webshop aanklikt / koopt, moet Timo aan de (vergelijkings)website betalen (en heeft hij kosten).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-timo-van-geel-antw7.png"
+    ]
+   },
+   {
+    "title": "Timo van Geel",
+    "question_number": 8,
+    "answer_text": "winst- en verliesrekening Timo over 2020 (getallen x € 1; berekeningen):\nomzet: 625.600 (7.820 x 4 x 20)\nkosten:\ninkoopwaarde van de omzet: 312.800 (0,5 x 625.600)\nfinancieringskosten: 3.085,15 (60/365 × 312.800/4 × 0,06 × 4)\ntransportkosten: 12.000 (4 x 3.000)\nhuurkosten: 52.000\nafschrijvingskosten inrichting magazijn: 3.120 (((30.000 + 5.200) − (6.000 − 2.000)) / 10)\nbezorgkosten: 54.740 (3,50 x 15.640)\nwebsite- en marketingkosten: 125.000\ntotaal kosten: 562.745,15\nresultaat: 62.854,85 voordelig",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "625.600 en 312.800 en 12.000 en 3.120"
+     },
+     {
+      "points": 1,
+      "description": "3.085,15"
+     },
+     {
+      "points": 1,
+      "description": "54.740 en 562.745,15 en 62.854,85 voordelig"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-timo-van-geel-antw8.png"
+    ]
+   },
+   {
+    "title": "Timo van Geel",
+    "question_number": 9,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– betrouwbaarheid\n– traceerbaarheid\n– bereikbaarheid\n– klanttevredenheid",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-timo-van-geel-antw9.png"
+    ]
+   },
+   {
+    "title": "Timo van Geel",
+    "question_number": 10,
+    "answer_text": "Tabel (maandag): geschat aantal benodigde werknemers per dag in 2021: 2; aantal orders per dag in 2020: 20; verwacht aantal orders per dag in 2021: 28; benodigd aantal minuten per dag voor gereedmaken en verzenden van orders in 2021: 329; beschikbaar aantal minuten per dag voor gereedmaken en verzenden van orders in 2021: 360\ndinsdag: 2; woensdag: 2 (op dinsdag en woensdag: per dag idem aan maandag)\ndonderdag: 4; vrijdag: 4 (op donderdag en vrijdag: per dag 2 keer zoveel als op maandag)\nzaterdag: 8; zondag: 8 (op zaterdag en zondag: per dag 4 keer zoveel als op maandag)\n\nRuimte voor berekeningen:\nverwacht aantal orders op maandag in 2021: 20 x 1,4\nbenodigd aantal minuten op maandag voor gereedmaken en verzenden van orders in 2021: 28 x (0,5 x 10 + 0,25 x 12 + 0,25 x 15)\nbeschikbaar aantal minuten op maandag voor gereedmaken en verzenden van orders in 2021: 2 x 3 x 60",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "28 en 360"
+     },
+     {
+      "points": 1,
+      "description": "329"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-timo-van-geel-antw10.png"
+    ]
+   },
+   {
+    "title": "Timo van Geel",
+    "question_number": 11,
+    "answer_text": "(3 x 2 + 2 x 4 + 2 x 8) x 3 x 52 x 5 = € 23.400",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-timo-van-geel-antw11.png"
+    ]
+   },
+   {
+    "title": "Timo van Geel",
+    "question_number": 12,
+    "answer_text": "verwachte constante kosten 2021 (getallen x € 1):\nfinancieringskosten: 3.887\ntransportkosten: 12.000 (zie vraag 8)\nhuurkosten: 52.000\nafschrijvingskosten inrichting magazijn: 3.120 (zie vraag 8)\nwebsite- en marketingkosten: 0\nloonkosten werknemers: 23.400 (zie vraag 11)\ntotaal: 94.407\nverwachte variabele kosten per order in 2021:\nbezorgkosten: 3,50\ncommissie Bol.com: 8,86 (gemiddeld aantal artikelen per order: (0,5 x 1) + (0,25 x 2) + (0,25 x 4) = 2; 2 x ((20 x 0,9 x 0,20) + 0,83))\ninkoopprijs: 20,00 (2 x 10)\ntotaal: 32,36\nverwachte dekkingsbijdrage per order in 2021: 3,64 ((2 x 20 x 0,9) – 32,36)\ngewenst aantal orders in 2021: (94.407 + 62.854,85) / 3,64 = 43.203,80 = 43.204\n\nConclusie: Het lukt Timo niet zijn doel te bereiken (in het correctievoorschrift is 'wel' doorgestreept), omdat 43.204 > 15.640 x 1,4",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "12.000 en 3.120 en 0 en 23.400 en 94.407"
+     },
+     {
+      "points": 2,
+      "description": "8,86"
+     },
+     {
+      "points": 1,
+      "description": "3,64"
+     },
+     {
+      "points": 1,
+      "description": "43.204"
+     },
+     {
+      "points": 1,
+      "description": "conclusie"
+     }
+    ],
+    "grading_note": "Bij het antwoord 43.204: wanneer niet op hele orders of niet naar beneden is afgerond, wordt geen deelscore toegekend.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-timo-van-geel-antw12.png"
+    ]
+   },
+   {
+    "title": "Guerrilla Games",
+    "question_number": 13,
+    "answer_text": "• b\n• De games worden (zowel fysiek als digitaal) via een tussenhandel verkocht aan de consument",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "b"
+     },
+     {
+      "points": 1,
+      "description": "De games worden (zowel fysiek als digitaal) via een tussenhandel verkocht aan de consument"
+     }
+    ],
+    "grading_note": "Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-guerrilla-games-antw13.png"
+    ]
+   },
+   {
+    "title": "Guerrilla Games",
+    "question_number": 14,
+    "answer_text": "Potentieel nieuwe toetreders ondervinden hoge opstartkosten / ontwikkelkosten / investeringsbedragen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-guerrilla-games-antw14.png"
+    ]
+   },
+   {
+    "title": "Guerrilla Games",
+    "question_number": 15,
+    "answer_text": "• Opportunities/O en de Threats/T\n• want het vijfkrachtenmodel van Porter kan worden gebruikt voor externe analyse",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Opportunities/O en de Threats/T"
+     },
+     {
+      "points": 1,
+      "description": "want het vijfkrachtenmodel van Porter kan worden gebruikt voor externe analyse"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-guerrilla-games-antw15.png"
+    ]
+   },
+   {
+    "title": "Guerrilla Games",
+    "question_number": 16,
+    "answer_text": "• dreiging nieuwe toetreders\n• Deze is laag, waardoor Guerrilla Games bij een nieuwe game een hogere prijs kan vragen, omdat de kans dat een nieuwe speler een vergelijkbare game (tegen een lagere prijs) op de markt brengt niet groot is",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "dreiging nieuwe toetreders"
+     },
+     {
+      "points": 1,
+      "description": "Deze is laag, waardoor Guerrilla Games bij een nieuwe game een hogere prijs kan vragen, omdat de kans dat een nieuwe speler een vergelijkbare game (tegen een lagere prijs) op de markt brengt niet groot is"
+     }
+    ],
+    "grading_note": "Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-guerrilla-games-antw16.png"
+    ]
+   },
+   {
+    "title": "Guerrilla Games",
+    "question_number": 17,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n• Push–strategie: (activiteit gericht op de tussenhandel): afspraken maken met fysieke winkels over de plaats van de game in de schappen / de tussenhandel kortingen geven / de tussenhandel beloven snel en in ruime mate te leveren\n• Pull–strategie: (activiteit gericht op de consument): reclame",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "push-strategie"
+     },
+     {
+      "points": 1,
+      "description": "pull-strategie"
+     }
+    ],
+    "grading_note": "⚠️ CONTROLEREN: in het correctievoorschrift ontbreekt bij vraag 17 de regel 'maximumscore'; de deelpunten (1 + 1) tellen op tot 2, gelijk aan de 2p in de opgaven.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-guerrilla-games-antw17.png"
+    ]
+   },
+   {
+    "title": "Massagesalon Knoopweg",
+    "question_number": 18,
+    "answer_text": "• a (ontvangen leverancierskrediet)\n• Knoopweg ontvangt de producten eerst en mag ze later betalen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a (ontvangen leverancierskrediet)"
+     },
+     {
+      "points": 1,
+      "description": "Knoopweg ontvangt de producten eerst en mag ze later betalen"
+     }
+    ],
+    "grading_note": "Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-massagesalon-knoopweg-antw18.png"
+    ]
+   },
+   {
+    "title": "Massagesalon Knoopweg",
+    "question_number": 19,
+    "answer_text": "• AfterPay beginbalans: 145,00\n• contante verkopen: 2.541 x 0,6 = 1.524,60\n• iDeal: 2.541 x 0,20 x (1 – 0,05) = 482,79\nAfterPay: (930 + 771 + 0,5 x 840) x 0,20 x (1 – 0,05) = 402,99\ntotaal: € 2.555,38",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "AfterPay beginbalans: 145,00"
+     },
+     {
+      "points": 1,
+      "description": "contante verkopen: 2.541 x 0,6 = 1.524,60"
+     },
+     {
+      "points": 2,
+      "description": "iDeal 482,79 en AfterPay 402,99; totaal € 2.555,38"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-massagesalon-knoopweg-antw19.png"
+    ]
+   },
+   {
+    "title": "Massagesalon Knoopweg",
+    "question_number": 20,
+    "answer_text": "(399 + 412) x 1,21 = € 981,31",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-massagesalon-knoopweg-antw20.png"
+    ]
+   },
+   {
+    "title": "Massagesalon Knoopweg",
+    "question_number": 21,
+    "answer_text": "• 1.790 + 1.231 – 245 = 2.776\n• 2541 / 1,21 x 0,65 = – 1.365\n€ 1.411",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "1.790 + 1.231 – 245 = 2.776"
+     },
+     {
+      "points": 2,
+      "description": "2541 / 1,21 x 0,65 = 1.365 in mindering; € 1.411"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-massagesalon-knoopweg-antw21.png"
+    ]
+   },
+   {
+    "title": "OilExperts",
+    "question_number": 22,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n– Bij een call-optie is het niet verplicht om de onderliggende (financiële) waarde te kopen, bij een termijncontract wel.\n– De onderliggende waarde van een call-optie bestaat uit aandelen / financiële producten en de onderliggende waarde van een termijncontract kunnen ook grondstoffen / valuta’s zijn.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "⚠️ CONTROLEREN: in het correctievoorschrift staat dit antwoord abusievelijk genummerd als vraag 18; op basis van de volgorde (Opgave 5, eerste vraag) en de inhoud hoort het bij vraag 22.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-oilexperts-antw22.png"
+    ]
+   },
+   {
+    "title": "OilExperts",
+    "question_number": 23,
+    "answer_text": "Y = tarief huur olietanker per dag\n2.000.000 x (30 + 5 – 10) – (325 x Y) = 5.000.000\n45.000.000 = 325 x Y\nY = $ 138.461,54 per dag.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "⚠️ CONTROLEREN: in het correctievoorschrift ontbreekt bij vraag 23 het vraagnummer en de regel 'maximumscore'; het antwoord staat direct onder dat van vraag 22. De maximumscore van 2 is overgenomen uit de opgaven (2p).",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-oilexperts-antw23.png"
+    ]
+   },
+   {
+    "title": "OilExperts",
+    "question_number": 24,
+    "answer_text": "4.000.000 × 1/1,005¹¹ × (1,005¹² − 1)/(1,005 − 1) = $ 46.708.106,91\nof:\n4.000.000 (1,005⁻¹¹ + 1,005⁻¹⁰ + … + 1)\na = 1,005⁻¹¹, r = 1,005, n = 12 → S = 11,677026726\n4.000.000 x 11,67702673 = $ 46.708.106,91",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-oilexperts-antw24.png"
+    ]
+   },
+   {
+    "title": "OilExperts",
+    "question_number": 25,
+    "answer_text": "• Bewering 1 is onjuist, omdat door vreemd vermogen interestkosten toenemen en hierdoor het resultaat afneemt. Hierdoor moet er minder (vennootschaps)belasting betaald worden. De vergoeding voor eigen vermogen (dividend), beïnvloedt het fiscaal belastbare resultaat niet\n• Bewering 2 is juist, omdat door vreemd vermogen het faillissementsrisico toeneemt in tegenstelling tot financiering met eigen vermogen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bewering 1 is onjuist, met juiste toelichting"
+     },
+     {
+      "points": 1,
+      "description": "Bewering 2 is juist, met juiste toelichting"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-oilexperts-antw25.png"
+    ]
+   },
+   {
+    "title": "OilExperts",
+    "question_number": 26,
+    "answer_text": "• I: 2.000.000 x (-5 + 10) + 46.708.106,91 = $ 56.708.106,91\n• II: 56.708.106,91 / (1,07 x 20) = 2.649.911,53 = 2.649.912",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "I: 2.000.000 x (-5 + 10) + 46.708.106,91 = $ 56.708.106,91"
+     },
+     {
+      "points": 1,
+      "description": "II: 2.649.911,53 = 2.649.912"
+     }
+    ],
+    "grading_note": "Wanneer het euroteken in plaats van het dollarteken wordt gebruikt, worden geen scorepunten in mindering gebracht.\n⚠️ CONTROLEREN: de breuk bij II is in het correctievoorschrift verminkt weergegeven (56.708.106,91 los boven '1,07 / 20'); de berekening 56.708.106,91 / (1,07 x 20) = 2.649.911,53 klopt rekenkundig met de uitkomst.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-oilexperts-antw26.png"
+    ]
+   },
+   {
+    "title": "OilExperts",
+    "question_number": 27,
+    "answer_text": "Combinatie a\nVoorbeelden van een juiste berekening:\n• a: dit kan wel, want: 5 x $ 20 + $ 40 < 3 x $ 60\n• b: dit kan niet, want: 4 x $ 20 + $ 110 > 3 x $ 60\nof\n• a: dit kan wel, want: (5 x $ 20 + $ 40) : 3 = $ 46,67 < $ 60\n• b: dit kan niet, want: (4 x $ 20 + $ 110) : 3 = $ 63,33 > $ 60",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a: dit kan wel, met juiste berekening"
+     },
+     {
+      "points": 1,
+      "description": "b: dit kan niet, met juiste berekening"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-oilexperts-antw27.png"
+    ]
+   },
+   {
+    "title": "Van der Made nv",
+    "question_number": 28,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– (eenvoudiger) aantrekken van nieuw vreemd vermogen\n– aflossen op vreemd vermogen\n– opvangen toekomstige verliezen\n– dividendstabilisatie\n– (niet-uitgekeerde) liquide middelen aanwenden voor toekomstige investeringen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": "Voor elk juist antwoord 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-van-der-made-nv-antw28.png"
+    ]
+   },
+   {
+    "title": "Van der Made nv",
+    "question_number": 29,
+    "answer_text": "0,15 x 245.000 + (1.200.000 – 245.000) x 0,25 = € 275.500",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-van-der-made-nv-antw29.png"
+    ]
+   },
+   {
+    "title": "Van der Made nv",
+    "question_number": 30,
+    "answer_text": "Mutaties in balans per 1 januari 2022:\ndebet: Liquide middelen: 195.000 ˉ/-\ncredit: Aandelenkapitaal: 400.000 +; 5% Preferent aandelenkapitaal: =; Algemene reserve: 224.500 +; Resultaat over 2021 voor belasting: 1.200.000 ˉ/-; Te betalen vennootschapsbelasting: 275.500 +; Te betalen dividendbelasting: 105.000 +\n\nRuimte voor berekeningen:\nAandelenkapitaal: 700.000 − (2.000.000 / 10 × 0,50) = 600.000; 600.000 / 3 x 2 = 400.000\nAlgemene reserve: 924.500 – 700.000\nTe betalen dividendbelasting: 0,15 x 700.000 = 105.000\nLiquide middelen: 100.000 (preferent dividend) + 200.000 (cashdividend) – dividendbelasting (105.000) = 195.000",
+    "scoring_steps": [
+     {
+      "points": 4,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2022-ii-van-der-made-nv-antw30.png"
+    ]
+   }
+  ]
+ }
+}
