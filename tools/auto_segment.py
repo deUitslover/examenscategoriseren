@@ -50,9 +50,19 @@ def title_bar_y(page, max_y=200.0):
     ~4-5pt high; the 0pt hairline under the running page header
     (header_line_y) must not count as one.
     """
+    lines = None
     for d in page.get_drawings():
         r = d["rect"]
         if r.width > 300 and 2 <= r.height < 8 and r.y0 < max_y and d.get("fill"):
+            # a kop bar halfway down the page (a "Formuleblad" under vraag 15,
+            # VWO-BECO-21-III-O.pdf p.6) is no opgave-title bar: the content
+            # above it ("Conclusie" + vraag 15) must not be cut away. Only the
+            # kop itself (and headers, never a vraag) may sit above a title bar.
+            if lines is None:
+                lines = text_lines(page)
+            if any(l[3] <= r.y0 + 0.5 and re.fullmatch(r"\d{1,2}\s*p", l[4].strip())
+                   for l in lines):
+                continue
             return r.y1
     # HAVO-ECO-18-I-O.pdf p.1/p.4: the grey bar is a raster image
     # (808x8 px) instead of a filled vector rectangle
