@@ -1,0 +1,67 @@
+{
+  "source": "VWO Bedrijfseconomie 2022-III",
+  "subject_name": "Bedrijfseconomie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Ringeling nv",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Biohuis nv",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Sporty",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Wanders Sport",
+      "question_numbers": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "title": "J. Bos Schilderwerken",
+      "question_numbers": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "title": "Birgit en Moshaber",
+      "question_numbers": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    }
+  ]
+}
