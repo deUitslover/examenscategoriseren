@@ -157,6 +157,11 @@ BEDRIJFSECONOMIE_SUBDOMAINS = {
     "Kosten- en winstvraagstukken en beheermaatregelen": _BB,
     "Verslaggeving": _BV,
 }
+# HAVO Bedrijfseconomie list (SUBJECT = "Bedrijfseconomie", LEVEL = "HAVO"):
+# the HAVO subdomain is "Kosten- en winstvraagstukken" (no "en beheermaatregelen")
+HAVO_BEDRIJFSECONOMIE_SUBDOMAINS = {k: v for k, v in BEDRIJFSECONOMIE_SUBDOMAINS.items()
+                                    if k != "Kosten- en winstvraagstukken en beheermaatregelen"}
+HAVO_BEDRIJFSECONOMIE_SUBDOMAINS["Kosten- en winstvraagstukken"] = _BB
 
 
 def clean(text, math=False, chem=True, extra=None):
@@ -189,7 +194,7 @@ def main():
     chem = subject not in ("Economie", "Bedrijfseconomie")
     extra = ann.get("REPLACE", {})
     if subject == "Bedrijfseconomie":
-        subdomains = BEDRIJFSECONOMIE_SUBDOMAINS
+        subdomains = HAVO_BEDRIJFSECONOMIE_SUBDOMAINS if level == "HAVO" else BEDRIJFSECONOMIE_SUBDOMAINS
     elif subject == "Economie":
         subdomains = HAVO_ECONOMIE_SUBDOMAINS if level == "HAVO" else ECONOMIE_SUBDOMAINS
     elif subject == "Wiskunde A":
