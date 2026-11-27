@@ -1,0 +1,590 @@
+{
+ "payload": {
+  "subject_name": "Bedrijfseconomie",
+  "level": "VWO",
+  "source": "VWO Bedrijfseconomie 2024-I",
+  "answers": [
+   {
+    "title": "Sap&Bro",
+    "question_number": 1,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Er wordt uitgegaan van beschikbare middelen/ ‘bird in hand’: garage en slowjuicer.\n− Er worden strategische partners bij betrokken / crazy quilt: plaatselijke leveranciers en verkooppunten van groente en fruit.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist gegeven principe met juiste uitleg"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist gegeven principe met juiste uitleg"
+     }
+    ],
+    "grading_note": "Onjuist is: ‘pilot in the plane’. De broers benutten de trend naar een gezonde levensstijl en nemen niet het heft in eigen handen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-sap-bro-antw1.png"
+    ]
+   },
+   {
+    "title": "Sap&Bro",
+    "question_number": 2,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\nThreat:\n− De overheid heeft plannen om een suikertaks te heffen. Dit is een externe factor / het bedrijf heeft hier geen invloed op en het is negatief (negatieve invloed op de afzet).\n− Er zijn veel concurrenten bijgekomen. Dit is een externe factor / het bedrijf heeft hier geen invloed op en het is negatief (negatieve invloed op de afzet).\nWeakness:\n− Ze zijn maar met z’n tweeën. Als één broer uitvalt komt de productie in gevaar. Dit is een interne factor en het is negatief (negatieve invloed op de afzet).\n− Hun prijs is hoger dan die van de concurrentie (door het ontbreken van schaalvoordelen). Dit is een interne factor en het is negatief (negatieve invloed op de afzet).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "per juist toegelichte Threat"
+     },
+     {
+      "points": 1,
+      "description": "per juist toegelichte Weakness"
+     }
+    ],
+    "grading_note": "Als er bij zowel Threat als Weakness niet aangegeven is dat het negatief is, dan wordt hiervoor maximaal 1 scorepunt in mindering gebracht.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-sap-bro-antw2.png"
+    ]
+   },
+   {
+    "title": "Sap&Bro",
+    "question_number": 3,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\na de cash flow / current ratio / solvabiliteit\nb het suikergehalte van het product\nc het aantal verkooppunten / de openingsduur",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist toegelichte prestatie-indicator"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist toegelichte prestatie-indicator"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-sap-bro-antw3.png"
+    ]
+   },
+   {
+    "title": "Fenix bv",
+    "question_number": 4,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Een klantwaardepropositie geeft aan welk probleem een product of dienst oplost voor de klant / welke voordelen de klant ervaart door de aankoop van het product of dienst.\n• Omdat de elektrische scooter nu in meer gebieden te gebruiken is (als duurzaam alternatief) / de elektrische scooter nu een beter alternatief is geworden door het OV vanwege de ruimere inzetbaarheid",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een klantwaardepropositie geeft aan welk probleem een product of dienst oplost voor de klant / welke voordelen de klant ervaart door de aankoop van het product of dienst."
+     },
+     {
+      "points": 1,
+      "description": "Omdat de elektrische scooter nu in meer gebieden te gebruiken is (als duurzaam alternatief) / de elektrische scooter nu een beter alternatief is geworden door het OV vanwege de ruimere inzetbaarheid"
+     }
+    ],
+    "grading_note": "Toelichting: Het antwoord betreft één voorbeeld van een juist antwoord. Er is een verdeling van scorepunten toegevoegd.\nDuurzaam alternatief hoeft niet genoemd te worden voor het behalen van de tweede deelscore.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-fenix-bv-antw4.png"
+    ]
+   },
+   {
+    "title": "Fenix bv",
+    "question_number": 5,
+    "answer_text": "• toename geplaatst aandelenkapitaal: 750.000 – 600.000 = 150.000\n• agio op aandelen: 4.000.000 – 1.600.000 = 2.400.000\ntotale vermogenstoename door aandelenemissie: 150.000 + 2.400.000 = € 2.550.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "toename geplaatst aandelenkapitaal: 750.000 – 600.000 = 150.000"
+     },
+     {
+      "points": 1,
+      "description": "agio op aandelen: 4.000.000 – 1.600.000 = 2.400.000; totale vermogenstoename door aandelenemissie: 150.000 + 2.400.000 = € 2.550.000"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-fenix-bv-antw5.png"
+    ]
+   },
+   {
+    "title": "Fenix bv",
+    "question_number": 6,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n• Wanneer alleen vreemd vermogen wordt aangetrokken, verslechtert de vermogenspositie / solvabiliteit\n• en neemt het risico voor verschaffers van vreemd vermogen toe dat ze bij faillissement (een deel van) hun ingebrachte vermogen kwijtraken.\nof\n• Wanneer aandeelhouders bij een aandelenemissie aandelen kopen/ vanuit privé storten naar de bv, neemt het eigen vermogen toe / laten ze zien dat ze vertrouwen hebben in het bedrijf.\n• Verschaffers van vreemd vermogen lopen dan minder risico dat ze (een deel van) hun ingebrachte vermogen kwijtraken.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Wanneer alleen vreemd vermogen wordt aangetrokken, verslechtert de vermogenspositie / solvabiliteit (of: wanneer aandeelhouders bij een aandelenemissie aandelen kopen/ vanuit privé storten naar de bv, neemt het eigen vermogen toe / laten ze zien dat ze vertrouwen hebben in het bedrijf)"
+     },
+     {
+      "points": 1,
+      "description": "en neemt het risico voor verschaffers van vreemd vermogen toe dat ze bij faillissement (een deel van) hun ingebrachte vermogen kwijtraken (of: verschaffers van vreemd vermogen lopen dan minder risico dat ze (een deel van) hun ingebrachte vermogen kwijtraken)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-fenix-bv-antw6.png"
+    ]
+   },
+   {
+    "title": "Fenix bv",
+    "question_number": 7,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− aanbieden van opleidingsmogelijkheden\n− aanbieden van carrièrekansen\n− aanbieden van een gunstige werk-privébalans\n− aanbieden van een contract voor onbepaalde tijd",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": "De gegeven antwoorden moeten zowel over het aantrekken als het behouden van personeel gaan.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-fenix-bv-antw7.png"
+    ]
+   },
+   {
+    "title": "Fenix bv",
+    "question_number": 8,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− vermindering van zeggenschap\n− winstverwatering / dividendverwatering\n− daling intrinsieke waarde per aandeel",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": "‘Daling van de beurskoers’ is onjuist.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-fenix-bv-antw8.png"
+    ]
+   },
+   {
+    "title": "Fenix bv",
+    "question_number": 9,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nDe inzet van SARs kan leiden tot een hogere productiviteit van werknemers met SARs vanwege een verwachte hogere SAR-uitkering, waardoor het resultaat van Fenix kan toenemen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-fenix-bv-antw9.png"
+    ]
+   },
+   {
+    "title": "Fenix bv",
+    "question_number": 10,
+    "answer_text": "• EBIT 2023: 82.500 + 480.000 = 562.500\n• waarde per aandeel: (5.000 x 562.500) / (750.000 / 0,50) = € 1.875",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "EBIT 2023: 82.500 + 480.000 = 562.500"
+     },
+     {
+      "points": 1,
+      "description": "waarde per aandeel: (5.000 x 562.500) / (750.000 / 0,50) = € 1.875"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-fenix-bv-antw10.png"
+    ]
+   },
+   {
+    "title": "Fenix bv",
+    "question_number": 11,
+    "answer_text": "• De waardestijging van het aandeel bedraagt: 1.875 x 1,125³ – 1.875 = 794,68.\n• De verwachte totale SAR-uitkering bedraagt 30% x 180 x 20 x 794,68 = € 858.251,95.\nof\n• De waardestijging van het aandeel bedraagt: 1.875 x 0,125 x 3 = 703,13\n• De verwachte totale SAR-uitkering bedraagt 30% x 180 x 20 x 703,13 = € 759.375.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De waardestijging van het aandeel bedraagt: 1.875 x 1,125³ – 1.875 = 794,68 (of: 1.875 x 0,125 x 3 = 703,13)"
+     },
+     {
+      "points": 1,
+      "description": "De verwachte totale SAR-uitkering bedraagt 30% x 180 x 20 x 794,68 = € 858.251,95 (of: 30% x 180 x 20 x 703,13 = € 759.375)"
+     }
+    ],
+    "grading_note": "Toelichting: Aan een berekening met enkelvoudige interest van 12,5% per jaar moeten ook scorepunten kunnen worden toegekend.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-fenix-bv-antw11.png"
+    ]
+   },
+   {
+    "title": "Fenix bv",
+    "question_number": 12,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nMet een SAR-uitkering wordt voorkomen dat talentvolle werknemers geldelijk moeten worden beloond, wat leidt tot afname van liquide middelen (en verslechtering van de liquiditeit).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-fenix-bv-antw12.png"
+    ]
+   },
+   {
+    "title": "Fenix bv",
+    "question_number": 13,
+    "answer_text": "• De kostenstijging (door de SARs) leidt tot afname van het resultaat en daling van het eigen vermogen (teller).\n• Een toevoeging aan de voorziening (door de SARs) leidt tot een toename van het vreemd vermogen (noemer), wat leidt tot een verslechtering van de solvabiliteit.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De kostenstijging (door de SARs) leidt tot afname van het resultaat en daling van het eigen vermogen (teller)."
+     },
+     {
+      "points": 1,
+      "description": "Een toevoeging aan de voorziening (door de SARs) leidt tot een toename van het vreemd vermogen (noemer), wat leidt tot een verslechtering van de solvabiliteit."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-fenix-bv-antw13.png"
+    ]
+   },
+   {
+    "title": "Thom Ponte",
+    "question_number": 14,
+    "answer_text": "• verwerpen\n• beneficiair aanvaarden / aanvaarden onder voorrecht van boedelbeschrijving",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "verwerpen"
+     },
+     {
+      "points": 1,
+      "description": "beneficiair aanvaarden / aanvaarden onder voorrecht van boedelbeschrijving"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-thom-ponte-antw14.png"
+    ]
+   },
+   {
+    "title": "Thom Ponte",
+    "question_number": 15,
+    "answer_text": "Balans eenmanszaak Rob Berends per 6 december 2023 (x € 1)\nDebet:\nVaste activa: Bedrijfspand 350.000; Overige vaste activa 25.000\nVlottende activa: Vooruitbetaalde bedragen / verstrekt afnemerskrediet 2.000; Voorraden 12.000; Debiteuren / verstrekt leverancierskrediet 10.000\nTotaal 399.000\nCredit:\nEigen vermogen 186.000\nLang vreemd vermogen: Hypothecaire lening 180.000\nKort vreemd vermogen: Vooruit ontvangen bedragen / ontvangen afnemerskrediet 2.500; Crediteuren / ontvangen leverancierskrediet 6.000; Bank / Rekening courantkrediet 24.500\nTotaal 399.000",
+    "scoring_steps": [
+     {
+      "points": 4,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Voor elke post die niet in de juiste categorie is geplaatst, 1 scorepunt in mindering brengen.\nWanneer ontvangen en verstrekt leverancierskrediet zijn verwisseld, 1 scorepunt in mindering brengen.\nVoor iedere foute berekening ook 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-thom-ponte-antw15.png"
+    ]
+   },
+   {
+    "title": "Thom Ponte",
+    "question_number": 16,
+    "answer_text": "Privébezittingen: Effectenportefeuille 25.000; Positief saldo bankrekening 3.000; Inboedel 60.000; Totaal van de privébezittingen 88.000\nPrivéschulden: Creditcardschuld 4.000; Totaal van de privéschulden 4.000\nTotaal privévermogen Rob Berends 84.000\nEigen vermogen eenmanszaak (vraag 15) 186.000\nTotale erfenis 270.000\n• totaal privévermogen Rob Berends: 84.000\n• totale erfenis: 270.000 en grootte erfdeel Thom: (1/30) x 270.000 = € 9.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "totaal privévermogen Rob Berends: 84.000"
+     },
+     {
+      "points": 1,
+      "description": "totale erfenis: 270.000 en grootte erfdeel Thom: (1/30) x 270.000 = € 9.000"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-thom-ponte-antw16.png"
+    ]
+   },
+   {
+    "title": "Thom Ponte",
+    "question_number": 17,
+    "answer_text": "9.000 – 30% van (9.000 – 2.274) = € 6.983 (6.982,20)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-thom-ponte-antw17.png"
+    ]
+   },
+   {
+    "title": "Bella Cucina bv",
+    "question_number": 18,
+    "answer_text": "• variabele kosten per pizza: (106.000 − 50.000) / 14.000 = 4\n• dekkingsbijdrage per pizza: (140.000/14.000) – 4 = €6",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "variabele kosten per pizza: (106.000 − 50.000) / 14.000 = 4"
+     },
+     {
+      "points": 1,
+      "description": "dekkingsbijdrage per pizza: (140.000/14.000) – 4 = €6"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-bella-cucina-bv-antw18.png"
+    ]
+   },
+   {
+    "title": "Bella Cucina bv",
+    "question_number": 19,
+    "answer_text": "resultaat: 9.200 x 6 – 50.000 = € 5.200 voordelig / + / positief",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-bella-cucina-bv-antw19.png"
+    ]
+   },
+   {
+    "title": "Bella Cucina bv",
+    "question_number": 20,
+    "answer_text": "• totaalbedrag investering in de ovens: 3 x (12.000 + 800) x 1,21 = 46.464\n• Na de investering en afname liquide middelen stijgt het balanstotaal met 46.464 – 10.000 = 36.464.\n• maximaal vreemd vermogen na de financiering: 70% x (225.000 + 36.464) = 183.024,80\n• De zakelijke banklening is maximaal 183.024,80 – 157.500 = 25.524,80.\ndoor aandeelhouders zelf in te brengen: 36.464 – 25.524,80 = € 10.939,20\nof\n• totaalbedrag investering in de ovens: 3 x (12.000 + 800) x 1,21 = 46.464\n• Na de investering en afname liquide middelen stijgt het balanstotaal met 46.464 – 10.000 = 36.464.\n• door aandeelhouders zelf in te brengen: 30% x (225.000 + 36.464) – 67.500 = € 10.939,20",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "totaalbedrag investering in de ovens: 3 x (12.000 + 800) x 1,21 = 46.464"
+     },
+     {
+      "points": 1,
+      "description": "Na de investering en afname liquide middelen stijgt het balanstotaal met 46.464 – 10.000 = 36.464."
+     },
+     {
+      "points": 1,
+      "description": "maximaal vreemd vermogen na de financiering: 70% x (225.000 + 36.464) = 183.024,80"
+     },
+     {
+      "points": 1,
+      "description": "De zakelijke banklening is maximaal 183.024,80 – 157.500 = 25.524,80; door aandeelhouders zelf in te brengen: 36.464 – 25.524,80 = € 10.939,20"
+     }
+    ],
+    "grading_note": "Als de ‘x 3’ in de vragen 20, 21 en 22 wordt vergeten, slechts één keer een scorepunt in mindering brengen.\n⚠️ CONTROLEREN: in het correctievoorschrift staat bij vraag 20 'maximumscore 1', terwijl de deelscores optellen tot 4; bovenaan het antwoord staat bovendien de regel van vraag 19 ('resultaat: 9.200 x 6 – 50.000 = € 5.200 voordelig / + / positief') herhaald, die hier is weggelaten.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-bella-cucina-bv-antw20.png"
+    ]
+   },
+   {
+    "title": "Bella Cucina bv",
+    "question_number": 21,
+    "answer_text": "• 0,21 x 3 x (12.000 + 800) = 8.064 (te vorderen btw)\n• Liquide middelen: – 10.000\nVlottende activa inclusief liquide middelen: 8.064 – 10.000 = – € 1.936",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "0,21 x 3 x (12.000 + 800) = 8.064 (te vorderen btw)"
+     },
+     {
+      "points": 1,
+      "description": "Liquide middelen: – 10.000; Vlottende activa inclusief liquide middelen: 8.064 – 10.000 = – € 1.936"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-bella-cucina-bv-antw21.png"
+    ]
+   },
+   {
+    "title": "Bella Cucina bv",
+    "question_number": 22,
+    "answer_text": "• totale constante kosten: 50.000 + 3 × (12.000 + 800 − 920) / 24 + 0,5% × 26.000 = 51.615\n• (51.615 + 1.500 + 5.200 (vraag 19)) / 5 = 11.663 pizza's",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "totale constante kosten: 50.000 + 3 × (12.000 + 800 − 920) / 24 + 0,5% × 26.000 = 51.615"
+     },
+     {
+      "points": 1,
+      "description": "(51.615 + 1.500 + 5.200 (vraag 19)) / 5 = 11.663 pizza's"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-bella-cucina-bv-antw22.png"
+    ]
+   },
+   {
+    "title": "Gouda’s Roem bv",
+    "question_number": 23,
+    "answer_text": "product(beleid)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-goudas-roem-bv-antw23.png"
+    ]
+   },
+   {
+    "title": "Gouda’s Roem bv",
+    "question_number": 24,
+    "answer_text": "De constante kosten zijn de kosten die onafhankelijk van de productie/afzet zijn en de variabele kosten zijn de kosten die afhankelijk van de productie/afzet zijn.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-goudas-roem-bv-antw24.png"
+    ]
+   },
+   {
+    "title": "Gouda’s Roem bv",
+    "question_number": 25,
+    "answer_text": "• constante kosten 1.150\nloon: 100 x 6 x 20,00 = 12.000\nverzekeringskosten 350\ntotaal 13.500\nconstante kosten per pot: 13.500 / 6.000 = 2,25\ninkoopprijs 12 stroopwafels: 80 / 250 × 12 = 3,84\nenergieverbruik 0,27 +\naardewerken pot: (2.190,21 / 1,21) / 250 = 7,24 +\n13,60\nwinstmarge: 20 / 80 × 13,60 = 3,40\nverkoopprijs exclusief btw €17,00",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "constante kosten per pot: 13.500 / 6.000 = 2,25"
+     },
+     {
+      "points": 1,
+      "description": "inkoopprijs 12 stroopwafels: 80 / 250 × 12 = 3,84"
+     },
+     {
+      "points": 1,
+      "description": "0,27 + 7,24 → 13,60"
+     },
+     {
+      "points": 1,
+      "description": "verkoopprijs exclusief btw €17,00"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-goudas-roem-bv-antw25.png"
+    ]
+   },
+   {
+    "title": "Gouda’s Roem bv",
+    "question_number": 26,
+    "answer_text": "• verwacht verkoopresultaat: 5.000 x 3,40 (vraag 25) = 17.000 positief / + / voordelig\n• verwacht bezettingsresultaat: (5.000 – 6.000) x 2,25 = 2.250 negatief/ -/- / nadelig\nverwacht resultaat: 17.000 – 2.250 = € 14.750 positief / + / voordelig",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "verwacht verkoopresultaat: 5.000 x 3,40 (vraag 25) = 17.000 positief / + / voordelig"
+     },
+     {
+      "points": 1,
+      "description": "verwacht bezettingsresultaat: (5.000 – 6.000) x 2,25 = 2.250 negatief/ -/- / nadelig; verwacht resultaat: 17.000 – 2.250 = € 14.750 positief / + / voordelig"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-goudas-roem-bv-antw26.png"
+    ]
+   },
+   {
+    "title": "Gouda’s Roem bv",
+    "question_number": 27,
+    "answer_text": "Gerealiseerd verkoopresultaat: 4.000 x (16,75 – 13,60) = 12.600,00\nGerealiseerd bezettingsresultaat: -/- 4.500,00\nPrijsresultaat op inkoop stroopwafels: 4.000 x 3,84 – 16.800 = -/- 1.440,00\nPrijsresultaat op constante kosten: 13.500 – 12.500 = 1.000,00\nBudgetresultaat op energie: 4.000 x 0,27 – 1.687,50 = -/- 607,50\nEfficiencyresultaat stroopwafelpotten: 4.000 x 7,24 – 30.408 = -/-1.448,00\nTotaal: + 5.604,50\n• gerealiseerde verkoopresultaat: 12.600,00\n• prijsresultaat op inkoop stroopwafels: -/- 1.440\n• prijsresultaat op constante kosten: + 1.000\n• budgetresultaat energie: -/- 607,50\n• efficiencyresultaat op stroopwafelpotten: -/- 1.448,00 en totaal + 5.604,50",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "gerealiseerde verkoopresultaat: 12.600,00"
+     },
+     {
+      "points": 1,
+      "description": "prijsresultaat op inkoop stroopwafels: -/- 1.440"
+     },
+     {
+      "points": 1,
+      "description": "prijsresultaat op constante kosten: + 1.000"
+     },
+     {
+      "points": 1,
+      "description": "budgetresultaat energie: -/- 607,50"
+     },
+     {
+      "points": 1,
+      "description": "efficiencyresultaat op stroopwafelpotten: -/- 1.448,00 en totaal + 5.604,50"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-goudas-roem-bv-antw27.png"
+    ]
+   },
+   {
+    "title": "Alin",
+    "question_number": 28,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n− een gezagsverhouding\n− de verplichting van de werknemer om arbeid te verrichten\n− de verplichting van de werkgever om loon te betalen",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "indien drie antwoorden goed (indien twee antwoorden goed 1 punt, indien een of geen antwoord goed 0 punten)"
+     }
+    ],
+    "grading_note": "Toelichting: In de vraag wordt niet duidelijk genoeg dat het om de wettelijke eisen gaat van een individuele arbeidsovereenkomst.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-alin-antw28.png"
+    ]
+   },
+   {
+    "title": "Alin",
+    "question_number": 29,
+    "answer_text": "• 652,75 x 1,0015¹² = 664,60\n• 440/2 x (1,0015 + 1,0015² … + 1,0015¹²) = 2.665,88\n• 195 x 1,0015¹⁰ = 197,94\n300 x 1,0015⁷ = 303,16\n195 x 1,0015² = 195,59\ntotaal € 4.027,17\nof voor de tweede deelscore:\nS = a × (rⁿ − 1) / (r − 1)\n• a = 1,0015; r = 1,0015; n = 12 → S = 12,1176459197\n440/2 × 12,1176459197 = 2.665,88",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "652,75 x 1,0015¹² = 664,60"
+     },
+     {
+      "points": 2,
+      "description": "440/2 x (1,0015 + 1,0015² … + 1,0015¹²) = 2.665,88 (of via S = a × (rⁿ − 1) / (r − 1) met a = 1,0015; r = 1,0015; n = 12 → S = 12,1176459197; 440/2 × 12,1176459197 = 2.665,88)"
+     },
+     {
+      "points": 1,
+      "description": "195 x 1,0015¹⁰ = 197,94; 300 x 1,0015⁷ = 303,16; 195 x 1,0015² = 195,59; totaal € 4.027,17"
+     }
+    ],
+    "grading_note": "Per fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-alin-antw29.png"
+    ]
+   },
+   {
+    "title": "Alin",
+    "question_number": 30,
+    "answer_text": "199 x 12 + 1.500 – 3.800 = € 88",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-alin-antw30.png"
+    ]
+   },
+   {
+    "title": "Alin",
+    "question_number": 31,
+    "answer_text": "Voorbeelden van een juist antwoord:\n− vanwege het debiteurenrisico\n− administratiekosten",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-i-alin-antw31.png"
+    ]
+   }
+  ]
+ }
+}
