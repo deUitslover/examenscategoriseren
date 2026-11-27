@@ -418,6 +418,19 @@ def wipe_all_except(page, y0, y1, window, keep_boxes, pad=2.0, gap=1.0):
                     and by0 < ky1 - gap and by1 > ky0 + gap):
                 keep = True
                 break
+        if not keep and by1 - by0 < 1.5:
+            # a fraction bar between two kept lines ("verkoopprijs" over
+            # "kwaliteitscijfer", HAVO-BECO-25-I-O.pdf p.11): a hairline with a
+            # kept line just above and just below it, both overlapping it in x
+            def near(above):
+                for kx0, ky0, kx1, ky1 in keep_boxes:
+                    if bx0 < kx1 and bx1 > kx0:
+                        if above and 0 <= by0 - ky1 < 4:
+                            return True
+                        if not above and 0 <= ky0 - by1 < 4:
+                            return True
+                return False
+            keep = near(True) and near(False)
         if not keep:
             top, bot = by0 - pad, by1 + pad
             # Cambria Math stretched delimiters (the big "(" around ½ in
