@@ -1,0 +1,66 @@
+{
+  "source": "VWO Bedrijfseconomie 2026-I",
+  "subject_name": "Bedrijfseconomie",
+  "level": "VWO",
+  "exercises": [
+    {
+      "title": "Pear nv",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "DroomKaas bv",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "NLD bank",
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Wings nv",
+      "question_numbers": [
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "title": "Personal Gym vof",
+      "question_numbers": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "title": "Kim en Tarik",
+      "question_numbers": [
+        28,
+        29
+      ]
+    }
+  ]
+}
