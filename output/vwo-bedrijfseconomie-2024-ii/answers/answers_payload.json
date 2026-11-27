@@ -1,0 +1,589 @@
+{
+ "payload": {
+  "subject_name": "Bedrijfseconomie",
+  "level": "VWO",
+  "source": "VWO Bedrijfseconomie 2024-II",
+  "answers": [
+   {
+    "title": "Juul Appelboom",
+    "question_number": 1,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nTekstonderdeel: e-bikes zijn steeds complexer geworden.\nDit speelt: extern, omdat: Juul heeft geen invloed op de complexiteit van e-bikes.\nDit is: negatief, omdat: het bijhouden van de kennis over het repareren van e-bikes daardoor bijna onmogelijk is geworden.\nDit onderdeel is daarom een: Threat.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "extern en negatief en juiste toelichting"
+     },
+     {
+      "points": 1,
+      "description": "Threat"
+     }
+    ],
+    "grading_note": "Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-juul-appelboom-antw1.png"
+    ]
+   },
+   {
+    "title": "Juul Appelboom",
+    "question_number": 2,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Minder opslagkosten: door minder verschillende fietsmerken te verkopen / repareren, kunnen er gerichter onderdelen worden ingekocht / kan er met minder voorraad worden gewerkt.\n− Minder financieringskosten: er is minder vermogen nodig voor het aanhouden van de voorraden.\n− Minder personeelskosten: door te werken op afspraak kan personeel beter worden ingepland.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist toegelicht antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist toegelicht antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-juul-appelboom-antw2.png"
+    ]
+   },
+   {
+    "title": "Juul Appelboom",
+    "question_number": 3,
+    "answer_text": "• promotie(beleid): gebruik van social media (YouTube)\n• product(beleid): alleen nog werken op afspraak / Het assortiment is aangepast.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "promotie(beleid): gebruik van social media (YouTube)"
+     },
+     {
+      "points": 1,
+      "description": "product(beleid): alleen nog werken op afspraak / Het assortiment is aangepast."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-juul-appelboom-antw3.png"
+    ]
+   },
+   {
+    "title": "Juul Appelboom",
+    "question_number": 4,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− gebruik maken van een stakeholder / crazy quilts / strategische partners\n− Juul heeft samen met een leverancier de winkel gemoderniseerd.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist uitgelegd antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist uitgelegd antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-juul-appelboom-antw4.png"
+    ]
+   },
+   {
+    "title": "Juul Appelboom",
+    "question_number": 5,
+    "answer_text": "mutatiebalans 1 juni 2023 (getal x € 1)\nDebet: voorraad -/- 3.500; debiteuren + 5.929; totaal + 2.429\nCredit: eigen vermogen / resultaat + 1.400; te betalen btw + 1.029; totaal + 2.429\nBerekeningen (getallen x € 1):\nvoorraad: 2 x 2.450 x 100/140 = 3.500\ndebiteuren: 2 x 2.450 x 1,21 = 5.929\nte betalen btw: 2 x 2.450 x 0,21 = 1.029\neigen vermogen / resultaat: 2 x 2.450 – 3.500 = 1.400\n• voorraad: -/- 3.500\n• debiteuren: + 5.929 en te betalen btw: + 1.029\n• eigen vermogen / resultaat: + 1.400 en totale verandering balans: + 2.429",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "voorraad: -/- 3.500"
+     },
+     {
+      "points": 1,
+      "description": "debiteuren: + 5.929 en te betalen btw: + 1.029"
+     },
+     {
+      "points": 1,
+      "description": "eigen vermogen / resultaat: + 1.400 en totale verandering balans: + 2.429"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-juul-appelboom-antw5.png"
+    ]
+   },
+   {
+    "title": "Ilse Sushi",
+    "question_number": 6,
+    "answer_text": "• afschrijving ((4.235 / 1,21) − 500) / 3 = 1.000\n• loonkosten (260 × 400 × 4 × 5,50) / 200 = 11.440\n• verzekering 12 x 55 = 660\noverige kosten 120\ntotaal per scooter 13.220\ntotale constante kosten per jaar 13.220 x 200 = € 2.644.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "afschrijving ((4.235 / 1,21) − 500) / 3 = 1.000"
+     },
+     {
+      "points": 1,
+      "description": "loonkosten (260 × 400 × 4 × 5,50) / 200 = 11.440"
+     },
+     {
+      "points": 1,
+      "description": "verzekering 12 x 55 = 660; totaal per scooter 13.220; totale constante kosten per jaar 13.220 x 200 = € 2.644.000"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-ilse-sushi-antw6.png"
+    ]
+   },
+   {
+    "title": "Ilse Sushi",
+    "question_number": 7,
+    "answer_text": "• aandeel variabele kosten in kostprijs (V/B): (1,50 / 20 + 0,025) × 2 = 0,20\n• aandeel constante kosten in kostprijs (C/N): 2.644.000 / 2.000.000 = 1,32",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-ilse-sushi-antw7.png"
+    ]
+   },
+   {
+    "title": "Ilse Sushi",
+    "question_number": 8,
+    "answer_text": "• verkoopresultaat: 1.900.000 x (1,75 – 1,52) = 437.000 voordelig/ positief/ +\n• budgetresultaat: 1.900.000 x 1,52 – (400.000 + 264.000 + 2.451.800 + 50.000 + 294.525 + 95.000) = 667.325 nadelig/negatief /-/-\nbedrijfsresultaat: 437.000 – 667.325 = € 230.325 nadelig/negatief/ -/-",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "verkoopresultaat: 1.900.000 x (1,75 – 1,52) = 437.000 voordelig/ positief/ +"
+     },
+     {
+      "points": 1,
+      "description": "budgetresultaat: 1.900.000 x 1,52 – (400.000 + 264.000 + 2.451.800 + 50.000 + 294.525 + 95.000) = 667.325 nadelig/negatief /-/-; bedrijfsresultaat: 437.000 – 667.325 = € 230.325 nadelig/negatief/ -/-"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-ilse-sushi-antw8.png"
+    ]
+   },
+   {
+    "title": "Ilse Sushi",
+    "question_number": 9,
+    "answer_text": "het gerealiseerde bezettingsresultaat:\n(1.900.000 – 2.000.000) x 1,32 = € 132.000 nadelig/negatief/ -/-",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-ilse-sushi-antw9.png"
+    ]
+   },
+   {
+    "title": "Ilse Sushi",
+    "question_number": 10,
+    "answer_text": "het gerealiseerde prijsresultaat op de constante kosten:\n2.644.000 (vraag 6) – (400.000 + 264.000 + 2.451.800 + 50.000) = € 521.800 nadelig/negatief/ -/-",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-ilse-sushi-antw10.png"
+    ]
+   },
+   {
+    "title": "Ilse Sushi",
+    "question_number": 11,
+    "answer_text": "het gerealiseerde prijsresultaat op de benzinekosten:\nstandaardprijs: 1,50\n294.525 / 192.500 = 1,53\nwerkelijke hoeveelheid: 192.500\n(1,50 – 1,53) x 192.500 = € 5.775 nadelig/negatief/ -/-",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Bij elke gemaakte fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-ilse-sushi-antw11.png"
+    ]
+   },
+   {
+    "title": "Ilse Sushi",
+    "question_number": 12,
+    "answer_text": "het gerealiseerde efficiencyresultaat op benzinekosten:\n• standaardhoeveelheid: 1.900.000 × 2/20 = 190.000\n• (190.000 – 192.500) x 1,50 = € 3.750 nadelig/negatief/ -/-",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "standaardhoeveelheid: 1.900.000 × 2/20 = 190.000"
+     },
+     {
+      "points": 1,
+      "description": "(190.000 – 192.500) x 1,50 = € 3.750 nadelig/negatief/ -/-"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-ilse-sushi-antw12.png"
+    ]
+   },
+   {
+    "title": "Ilse Sushi",
+    "question_number": 13,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nDe liquide middelen nemen in het eerste jaar minder af, omdat de uitgaven aan lease in het eerste jaar lager zijn dan de uitgaven van de totale investering.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-ilse-sushi-antw13.png"
+    ]
+   },
+   {
+    "title": "Ilse Sushi",
+    "question_number": 14,
+    "answer_text": "• Het verwachte verkoopresultaat zal een positieve bijdrage leveren, omdat het budget per bezorging € 1,75 bedraagt, terwijl de kostprijs € 1,45 bedraagt / daalt.\n• Het verwachte bezettingsresultaat zal een positieve bijdrage aan het resultaat geven, omdat het verwachte aantal bezorgingen groter is dan het normale aantal bezorgingen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het verwachte verkoopresultaat zal een positieve bijdrage leveren, omdat het budget per bezorging € 1,75 bedraagt, terwijl de kostprijs € 1,45 bedraagt / daalt."
+     },
+     {
+      "points": 1,
+      "description": "Het verwachte bezettingsresultaat zal een positieve bijdrage aan het resultaat geven, omdat het verwachte aantal bezorgingen groter is dan het normale aantal bezorgingen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-ilse-sushi-antw14.png"
+    ]
+   },
+   {
+    "title": "Leijten nv",
+    "question_number": 15,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Werknemers: als werknemers zich kunnen blijven ontwikkelen, zullen zij productiever zijn (en dit is gunstig voor het resultaat van Leijten).\n− Overheid: wanneer de leefbaarheid van de omgeving gewaarborgd blijft, kan de overheid gemakkelijker klimaatdoelen realiseren.\n− Omwonenden: wanneer er milieuvriendelijker wordt geproduceerd, ervaren omwonenden minder negatieve effecten van de productie (minder uitstoot van schadelijke stoffen).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-leijten-nv-antw15.png"
+    ]
+   },
+   {
+    "title": "Leijten nv",
+    "question_number": 16,
+    "answer_text": "• het gemiddelde totale vermogen: 880.000 / 2 + (880.000 − 160.000) / 2 = 800.000.000\n• rentabiliteit van het totale vermogen: 180.000.000 / 800.000.000 × 100% = 22,5%",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-leijten-nv-antw16.png"
+    ]
+   },
+   {
+    "title": "Leijten nv",
+    "question_number": 17,
+    "answer_text": "• 160.000.000 × (1 − 0,235) = 122.400.000\n• 122.400.000 – (200.000.000 / 25 x 3,75) = €92.400.000",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-leijten-nv-antw17.png"
+    ]
+   },
+   {
+    "title": "Leijten nv",
+    "question_number": 18,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Door af te lossen en te herfinancieren tegen een lagere interest, dalen de interestkosten en kan het resultaat toenemen.\n− Investering in zonnepanelen / energiebesparende maatregelen kan op langere termijn goedkoper zijn en tot een kostenbesparing / toename resultaat leiden.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist toegelicht antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist toegelicht antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-leijten-nv-antw18.png"
+    ]
+   },
+   {
+    "title": "Workspace bv",
+    "question_number": 19,
+    "answer_text": "liquiditeitsbegroting maart 2024 (getallen x €)\ncontante ontvangsten: 1.900.000 x 1,21 x 0,25 = 574.750\nontvangsten verkopen op rekening: 1.700.000 x 1,21 x 0,75 = 1.542.750\ntotale ontvangsten: 2.117.500\ncontante uitgaven: 1.650.000 x 1,21 x 0,1 = 199.650\nuitgaven aan crediteuren: 1.862.190\nuitgaven aan loon en overige uitgaven: 125.000 + 130.000 = 255.000\ntotale uitgaven: 2.316.840\nontvangsten - uitgaven: 2.117.500 – 2.316.840 = -/- 199.340\nbenodigd rekening-courantkrediet per 31 maart 2024: 3.900.660 + 199.340 = 4.100.000\nverhoging rekening-courantkrediet per 31 maart 2024: 4.100.000 – 4.000.000 = 100.000\n• ontvangsten verkopen op rekening: 1.542.750\n• contante ontvangsten 574.750 en totale ontvangsten: 2.117.500\n• contante uitgaven 199.650 en totale uitgaven: 2.316.840\n• ontvangsten – uitgaven: -/- 199.340, benodigd rekening-courantkrediet: per 31 maart 2024: 4.100.000 en verhoging rekening-courantkrediet per 31 maart 2024: € 100.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "ontvangsten verkopen op rekening: 1.542.750"
+     },
+     {
+      "points": 1,
+      "description": "contante ontvangsten 574.750 en totale ontvangsten: 2.117.500"
+     },
+     {
+      "points": 1,
+      "description": "contante uitgaven 199.650 en totale uitgaven: 2.316.840"
+     },
+     {
+      "points": 1,
+      "description": "ontvangsten – uitgaven: -/- 199.340, benodigd rekening-courantkrediet per 31 maart 2024: 4.100.000 en verhoging rekening-courantkrediet per 31 maart 2024: € 100.000"
+     }
+    ],
+    "grading_note": "Wanneer de btw wordt vergeten, maximaal 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-workspace-bv-antw19.png"
+    ]
+   },
+   {
+    "title": "Workspace bv",
+    "question_number": 20,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Er is geen inzicht in de mate van verkoopbaarheid van de voorraad. (aangezien het om een hoge voorraad gaat).\n− Het is een momentopname. (Wanneer een deel van de crediteuren net is betaald, is het beeld onterecht gunstig).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-workspace-bv-antw20.png"
+    ]
+   },
+   {
+    "title": "Workspace bv",
+    "question_number": 21,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− De solvabiliteit geeft aan in hoeverre een onderneming een verlies kan opvangen met het eigen vermogen.\n− De solvabiliteit geeft aan hoe waarschijnlijk het is dat de financiers van vreemd vermogen (bij een faillissement van Workspace) het uitgeleende geld nog terugkrijgen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-workspace-bv-antw21.png"
+    ]
+   },
+   {
+    "title": "Workspace bv",
+    "question_number": 22,
+    "answer_text": "Het gevolg voor de leveranciers is dat de betalingen aan leveranciers worden opgeschort / uitgesteld.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-workspace-bv-antw22.png"
+    ]
+   },
+   {
+    "title": "Job",
+    "question_number": 23,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n− In beide gevallen gaan de kosten voor de baten uit.\n− Je moet nu iets opofferen, tijd of geld, voor een naar verwachting hoger inkomen / zinvoller werk in de toekomst.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-job-antw23.png"
+    ]
+   },
+   {
+    "title": "Job",
+    "question_number": 24,
+    "answer_text": "wanneer er met de beleggingen een hoger rendement (RTV) wordt behaald dan de interestkosten van het bij DUO geleende bedrag (IVV), (dat hij gebruikt om te beleggen)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-job-antw24.png"
+    ]
+   },
+   {
+    "title": "Job",
+    "question_number": 25,
+    "answer_text": "Voorbeeld van een juiste berekening is:\n1.011,50 x 60 x 1,001²⁸ = € 62.412,46.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Per fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-job-antw25.png"
+    ]
+   },
+   {
+    "title": "Job",
+    "question_number": 26,
+    "answer_text": "Voorbeeld van een juiste berekening is:\n• S = a x (rⁿ − 1) / (r − 1)\na = 1,001⁻⁴²⁰\nr = 1,001\nn = 420\nS = 342,8152778\n• 182,06 x 342,8152778 = € 62.412,95\nJob heeft de totale studieschuld in 35 jaar afgelost: € 62.412,95 > € 62.412,46.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "S = a x (rⁿ − 1) / (r − 1) met a = 1,001⁻⁴²⁰, r = 1,001, n = 420: S = 342,8152778"
+     },
+     {
+      "points": 1,
+      "description": "182,06 x 342,8152778 = € 62.412,95; Job heeft de totale studieschuld in 35 jaar afgelost: € 62.412,95 > € 62.412,46."
+     }
+    ],
+    "grading_note": "Per fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-job-antw26.png"
+    ]
+   },
+   {
+    "title": "Job",
+    "question_number": 27,
+    "answer_text": "• Bij een lineaire lening wordt in het begin van de looptijd meer afgelost dan bij een annuïtaire lening,\n• waardoor de schuld bij een lineaire lening sneller daalt, waardoor er over de gehele looptijd minder interest hoeft te worden betaald.\nof voor de tweede deelscore:\n• waardoor de schuld bij een annuïtaire lening minder snel afneemt en je dus over de gehele looptijd een hoger bedrag aan interest betaalt dan bij de lineaire lening.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij een lineaire lening wordt in het begin van de looptijd meer afgelost dan bij een annuïtaire lening,"
+     },
+     {
+      "points": 1,
+      "description": "waardoor de schuld bij een lineaire lening sneller daalt, waardoor er over de gehele looptijd minder interest hoeft te worden betaald (of: waardoor de schuld bij een annuïtaire lening minder snel afneemt en je dus over de gehele looptijd een hoger bedrag aan interest betaalt dan bij de lineaire lening)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-job-antw27.png"
+    ]
+   },
+   {
+    "title": "Job",
+    "question_number": 28,
+    "answer_text": "• totale interest over gehele looptijd: 35 x 12 x 182,06 – 62.412,46 = € 14.052,74\n• interest in de eerste 5 jaar: 25,1% x 14.052,74 = € 3.527,24\n• aflossing in de eerste 5 jaar: 60 x 182,06 – 3.527,24 = € 7.396,36\nschuld op 1 januari 2031: 62.412,46 – 7.396,36 = € 55.016,10",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "totale interest over gehele looptijd: 35 x 12 x 182,06 – 62.412,46 = € 14.052,74"
+     },
+     {
+      "points": 1,
+      "description": "interest in de eerste 5 jaar: 25,1% x 14.052,74 = € 3.527,24"
+     },
+     {
+      "points": 1,
+      "description": "aflossing in de eerste 5 jaar: 60 x 182,06 – 3.527,24 = € 7.396,36; schuld op 1 januari 2031: 62.412,46 – 7.396,36 = € 55.016,10"
+     }
+    ],
+    "grading_note": "Per fout 1 scorepunt in mindering brengen.\nEen benadering via de somformule levert een uitkomst van € 55.018,20 op en dient ook juist te worden gerekend.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-job-antw28.png"
+    ]
+   },
+   {
+    "title": "Job",
+    "question_number": 29,
+    "answer_text": "• Door de vervroegde aflossing op de studieschuld houdt Job maandelijks een groter deel van zijn inkomen over / heeft Job minder schuld.\n• Deze ruimte maakt hogere maandlasten en dus een hogere hypothecaire lening mogelijk. / Hierdoor loopt de bank minder risico dat hij zijn hypothecaire lening niet kan aflossen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de vervroegde aflossing op de studieschuld houdt Job maandelijks een groter deel van zijn inkomen over / heeft Job minder schuld."
+     },
+     {
+      "points": 1,
+      "description": "Deze ruimte maakt hogere maandlasten en dus een hogere hypothecaire lening mogelijk. / Hierdoor loopt de bank minder risico dat hij zijn hypothecaire lening niet kan aflossen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-job-antw29.png"
+    ]
+   },
+   {
+    "title": "Sam",
+    "question_number": 30,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− De werkgever heeft de mogelijkheid om de arbeidsovereenkomst niet te verlengen als er geen ruimte is / werkzaamheden zijn voor de werknemer.\n− De werknemer kan gemotiveerder zijn, omdat de werknemer een contract voor onbepaalde tijd wil bemachtigen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist toegelicht antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist toegelicht antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-sam-antw30.png"
+    ]
+   },
+   {
+    "title": "Sam",
+    "question_number": 31,
+    "answer_text": "wettelijke eis – blijkt op basis van de vacaturetekst uit het volgende:\n1. arbeidsverplichting: De medewerker krijgt projecten/werkzaamheden toegewezen die (persoonlijk) uitgevoerd moeten worden.\n2. loon: De medewerker ontvangt een marktconform salaris en vakantiegeld.\n3. gezagsverhouding: De werkzaamheden vinden in opdracht van en in overleg met de marketingmanager plaats / Je legt verantwoording af aan de marketingmanager.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist toegelichte wettelijke eis"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist toegelichte wettelijke eis"
+     },
+     {
+      "points": 1,
+      "description": "derde juist toegelichte wettelijke eis"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-sam-antw31.png"
+    ]
+   },
+   {
+    "title": "Sam",
+    "question_number": 32,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n− Bij b2b wordt de nadruk gelegd op persoonlijke relaties, terwijl bij b2c de relatie meer gericht is op het doen van een transactie / onpersoonlijk is (massacommunicatie).\n− Bij b2b wordt een relatie met meerdere personen op verschillende niveaus in de organisatie onderhouden, bij b2c wordt de relatie op één niveau onderhouden.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2024-ii-sam-antw32.png"
+    ]
+   }
+  ]
+ }
+}
