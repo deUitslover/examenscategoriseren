@@ -1,0 +1,559 @@
+{
+  "payload": {
+    "subject_name": "Bedrijfseconomie",
+    "level": "VWO",
+    "source": "VWO Bedrijfseconomie 2025-I",
+    "answers": [
+      {
+        "title": "Ahold Delhaize",
+        "question_number": 1,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Ahold Delhaize voorziet in werkgelegenheid – gezien de post loonkosten.\n− Ahold Delhaize voorziet in inkomen – gezien de post loonkosten.\n− Ahold Delhaize voorziet in de behoefte aan producten – gezien de post omzet.\n− Ahold Delhaize voorziet in belastinginkomsten – gelet op de “T” in het EBIT / het resultaat voor vennootschapsbelasting.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist toegelicht antwoord"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist toegelicht antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-ahold-delhaize-antw1.png"
+        ]
+      },
+      {
+        "title": "Ahold Delhaize",
+        "question_number": 2,
+        "answer_text": "3.768 / 86.984 x 100% = 4,33% < 4,39 % / de resultaatmarge is niet gestegen, dus is er in 2022 geen sprake geweest van graaiflatie.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-ahold-delhaize-antw2.png"
+        ]
+      },
+      {
+        "title": "Ahold Delhaize",
+        "question_number": 3,
+        "answer_text": "• aantal aandelen 2021: 2.805 miljoen / 2,75 = 1.020 miljoen aandelen\n• stijging resultaat per aandeel als gevolg van inkoop eigen aandelen:\n3,25 − 3.213 miljoen / 1.020 miljoen = € 0,10\nof\n• (3.213 − 2.805) / 2.805 × 100% = 14,5%\n• 3,25 − 2,75 × 1,145 = € 0,10",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Aan het antwoord 3,25 - 2,75 = 0,50 geen scorepunt toekennen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-ahold-delhaize-antw3.png"
+        ]
+      },
+      {
+        "title": "Ahold Delhaize",
+        "question_number": 4,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Door het inkopen van eigen aandelen kan het dividend per aandeel stijgen, (omdat het resultaat / dividend over minder aandelen verdeeld hoeft te worden).\n− Door het inkopen van eigen aandelen stijgt de vraag naar aandelen en stijgt de beurskoers (en het koersresultaat).\n− Door het inkopen van eigen aandelen is er minder aanbod van aandelen op de beurs waardoor de beurskoers stijgt (en daarmee het koersresultaat).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist toegelicht antwoord"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist toegelicht antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-ahold-delhaize-antw4.png"
+        ]
+      },
+      {
+        "title": "Camping Vogelhof",
+        "question_number": 5,
+        "answer_text": "vof / vennootschap onder firma",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-camping-vogelhof-antw5.png"
+        ]
+      },
+      {
+        "title": "Camping Vogelhof",
+        "question_number": 6,
+        "answer_text": "weekboekingen: voorseizoen 110 x 186 = 20.460; hoogseizoen 280 x 300 = 84.000; naseizoen 120 x 210 = 25.200\ndagboekingen: voorseizoen 700 x 30 = 21.000; naseizoen 728 x 35 = 25.480\ntotale omzet per week: voorseizoen 41.460; hoogseizoen 84.000; naseizoen 50.680\nTotale omzet heel 2024 voor aftrek van kortingen:\n41.460 x 13 + 84.000 x 8 + 50.680 x 5 = 1.464.380\nTotale omzet heel 2024 na aftrek van kortingen:\n0,75 x 1.464.380 + 0,95 x 0,25 x 1.464.380 = € 1.446.075,25",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "20.460 en 84.000 en 25.200"
+          },
+          {
+            "points": 1,
+            "description": "41.460 en 84.000 en 50.680"
+          },
+          {
+            "points": 1,
+            "description": "1.464.380"
+          },
+          {
+            "points": 1,
+            "description": "1.446.075,25"
+          }
+        ],
+        "grading_note": "Als de btw is meegerekend, 1 scorepunt op het totaal in mindering brengen.\nAls de kandidaat in de tabel van de uitwerkbijlage de omzet per seizoen uitrekent, geen scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-camping-vogelhof-antw6.png"
+        ]
+      },
+      {
+        "title": "Camping Vogelhof",
+        "question_number": 7,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− marketingplan\n− externe analyse",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-camping-vogelhof-antw7.png"
+        ]
+      },
+      {
+        "title": "Camping Vogelhof",
+        "question_number": 8,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− notariskosten\n− taxatiekosten\n− (hypotheek)adviseurskosten / bemiddelingskosten\n− makelaarskosten",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist toegelicht antwoord"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist toegelicht antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-camping-vogelhof-antw8.png"
+        ]
+      },
+      {
+        "title": "Camping Vogelhof",
+        "question_number": 9,
+        "answer_text": "aantal chalets: 60 x 120/180 = 40\naanschafprijs inclusief bijkomende uitgaven en inventaris per chalet:\n63.500 + 5.500 + 6.000 = 75.000\n40 x 75.000 x 0,6 = € 1.800.000",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Per gemaakte fout 1 scorepunt in mindering brengen.\nBij vraag 9 moeten voor een berekening waarin de transportkosten van € 5.500 niet zijn opgenomen, wel scorepunten worden toegekend.\nToelichting: Omdat in de informatiebron het woord ‘aanschaf’ in plaats van ‘aanschafwaarde’ is gebruikt, is onduidelijk of de transportkosten betrokken moesten worden in de berekening.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-camping-vogelhof-antw9.png"
+        ]
+      },
+      {
+        "title": "Camping Vogelhof",
+        "question_number": 10,
+        "answer_text": "• 40 x 0,9 x 4/7 = 63 (keer per week een eindschoonmaak doen)\n• 63 x 40/60 = 42 uur",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "40 x 0,9 x 4/7 = 63 (keer per week een eindschoonmaak doen)"
+          },
+          {
+            "points": 1,
+            "description": "63 x 40/60 = 42 uur"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-camping-vogelhof-antw10.png"
+        ]
+      },
+      {
+        "title": "Camping Vogelhof",
+        "question_number": 11,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n(De inzet van zzp’ers kan leiden tot lagere kosten want,)\n− zzp’ers kunnen pieken in bedrijfsdrukte opvangen.\n− zzp’ers hebben geen ontslagbescherming.\n− zzp’ers hebben geen loondoorbetaling bij ziekte / werkloosheid / arbeidsongeschiktheid / sociale zekerheid.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist toegelicht antwoord"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist toegelicht antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-camping-vogelhof-antw11.png"
+        ]
+      },
+      {
+        "title": "Camping Vogelhof",
+        "question_number": 12,
+        "answer_text": "kostensoort: berekening = bedrag\nafschrijvingskosten chalets: (63.500 + 5.500 − 3.000) / 15 × 40 = 176.000\nafschrijvingskosten inventaris: 6.000 / 15 × 40 = 16.000\ninterestkosten lening oom van Flohr: 1.800.000 × 0,06 × 6/12 + (1.800.000 − 1.800.000 / (15 × 2)) × 0,06 × 6/12 = 106.200\nschoonmaak door zzp'ers: 42 (vraag 10) × 26 × 25 = 27.300\noverige kosten: 260.000\ntotale verwachte kosten: € 585.500",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "176.000"
+          },
+          {
+            "points": 1,
+            "description": "16.000"
+          },
+          {
+            "points": 1,
+            "description": "106.200"
+          },
+          {
+            "points": 1,
+            "description": "27.300 en 585.500"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-camping-vogelhof-antw12.png"
+        ]
+      },
+      {
+        "title": "Camping Vogelhof",
+        "question_number": 13,
+        "answer_text": "voorwaarde a (vraag 9): De financieringsbehoefte is € 1.800.000. Dit is minder dan € 2 miljoen, dus de financiering lukt.\nvoorwaarde b (vraag 10): Er is voor 42 uur personeel per week nodig (vraag 10) en er kan voor 28 x 2 = 56 uur per week personeel worden aangetrokken, dus de werving van het personeel lukt.\nvoorwaarde c:\nomzet verhuur: 40 x 0,9 x 26 x 7 x 160 = 1.048.320\nopbrengst eindschoonmaak: 63 x 26 x 80 = 131.040\nverwachte bijdrage aan het resultaat over 2023: 1.048.320 + 131.040 – 585.500 (vraag 12) = 593.860\nconclusie: Dit is meer dan 3 x 115.000 = 345.000, dus er is voldaan aan voorwaarde c\n(of: 593.860 / 115.000 = 5,17 > 3, dus er is voldaan aan voorwaarde c)\nAan alle drie de voorwaarden is voldaan: het herinrichten gaat door.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "voorwaarde a"
+          },
+          {
+            "points": 1,
+            "description": "voorwaarde b"
+          },
+          {
+            "points": 1,
+            "description": "voorwaarde c: omzet verhuur"
+          },
+          {
+            "points": 1,
+            "description": "opbrengst eindschoonmaak"
+          },
+          {
+            "points": 1,
+            "description": "verwachte positieve bijdrage aan het resultaat over 2023 + eindconclusie"
+          }
+        ],
+        "grading_note": "Bij vraag 13 moet bij de vijfde deelscore altijd 1 scorepunt worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.\nToelichting: In de uitwerkbijlage is abusievelijk ‘2023’ vermeld waar dit ‘2025’ had moeten zijn. Hierdoor kan onduidelijkheid zijn ontstaan bij kandidaten waardoor het antwoord bij de laatste deelscore mogelijk niet gegeven kan worden.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-camping-vogelhof-antw13.png"
+        ]
+      },
+      {
+        "title": "De Kleine bv",
+        "question_number": 14,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− lease\n− (meerjarige) huurovereenkomsten\n− factoring van debiteuren\n− het aanhouden van een consignatievoorraad",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-de-kleine-bv-antw14.png"
+        ]
+      },
+      {
+        "title": "De Kleine bv",
+        "question_number": 15,
+        "answer_text": "inkoopwaarde van de omzet in week 1: 0,40 x 3.000 = 1.200\ninkopen in week 1: 6.800 – 5.000 + 1.200 = € 3.000\ninkoopwaarde van de omzet in week 5: 0,40 x 3.050 = 1.220\ninkopen in week 5: 4.620 – 3.340 + 1.220 = € 2.500\n(2.500 < 3.000)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Per gemaakte fout 1 scorepunt in mindering brengen.\nBij vraag 15 moeten ook scorepunten worden toegekend aan antwoorden waarin wel rekening is gehouden met de vermenigvuldiging x 1.000",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-de-kleine-bv-antw15.png"
+        ]
+      },
+      {
+        "title": "De Kleine bv",
+        "question_number": 16,
+        "answer_text": "Voorbeelden van een juiste berekening zijn:\n(2.700 + 2.600) x 0,80 x 1,21 = € 5.130,40\nof\n5.324 – (2.800 x 0,80 x 1,21) + 2.600 x 0,80 x 1,21 = € 5.130,40",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Per gemaakte fout 1 scorepunt in mindering brengen.\nBij vraag 16 moeten ook scorepunten worden toegekend aan antwoorden waarin wel rekening is gehouden met de vermenigvuldiging x 1.000",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-de-kleine-bv-antw16.png"
+        ]
+      },
+      {
+        "title": "Klaas Dane",
+        "question_number": 17,
+        "answer_text": "belastbaar deel erfenis: 150.000 – 2.658 = 147.342\nerfbelasting: 138.642 x 0,30 + (147.342 – 138.642) x 0,40 = 45.072 (45.072,60)\nbedrag erfdeel na erfbelasting: 150.000 – 45.072 = € 104.928",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Als niet is afgerond, dit niet fout rekenen.\nPer gemaakte fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-klaas-dane-antw17.png"
+        ]
+      },
+      {
+        "title": "Klaas Dane",
+        "question_number": 18,
+        "answer_text": "d – c – a – b",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-klaas-dane-antw18.png"
+        ]
+      },
+      {
+        "title": "Klaas Dane",
+        "question_number": 19,
+        "answer_text": "• eindwaarde spaarsaldo op 31 december 2033 bij geen opnames:\n128.441,92 x 1,001¹⁰⁵ = 142.654,32\n• eindwaarde opnames op 31 december 2033:\n1.200 x 100,706264 = 120.847,52\n• spaarsaldo op 31 december 2033 na opnames: € 21.806,80\nHet is niet mogelijk 8 jaar lang maandelijks € 1.200 op te nemen en na de laatste opname nog € 25.000 op de spaarrekening te hebben staan.\nToelichting bij de tweede deelscore:\ns = a × (rⁿ − 1) / (r − 1)\na = 1 ; r = 1,001 ; n = 96 ; S = 100,706264\nof\n• contante waarde opnames op 1 april 2025:\n1.200 x 90,6730761 = 108.807,69\ncontante waarde spaargeld na opnames:\n128.441,92 – 108.807,69 = 19.634,23\n• contante waarde van € 25.000 op 1 april 2025:\n25.000 x 1,001⁻¹⁰⁵ = € 22.509,29\n• Het is niet mogelijk 8 jaar lang maandelijks € 1.200 op te nemen en na de laatste opname nog € 25.000 op de spaarrekening te hebben staan.\nToelichting bij de eerste deelscore:\ns = a × (rⁿ − 1) / (r − 1)\na = 1,001⁻¹⁰⁵ ; r = 1,001 ; n = 96 ; S = 90,6730761",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eindwaarde spaarsaldo op 31 december 2033 bij geen opnames: 128.441,92 x 1,001¹⁰⁵ = 142.654,32 (of: contante waarde van € 25.000 op 1 april 2025: 25.000 x 1,001⁻¹⁰⁵ = € 22.509,29)"
+          },
+          {
+            "points": 2,
+            "description": "eindwaarde opnames op 31 december 2033: 1.200 x 100,706264 = 120.847,52 (of: contante waarde opnames op 1 april 2025: 1.200 x 90,6730761 = 108.807,69 en contante waarde spaargeld na opnames: 128.441,92 – 108.807,69 = 19.634,23)"
+          },
+          {
+            "points": 1,
+            "description": "(spaarsaldo op 31 december 2033 na opnames: € 21.806,80) Het is niet mogelijk 8 jaar lang maandelijks € 1.200 op te nemen en na de laatste opname nog € 25.000 op de spaarrekening te hebben staan."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-klaas-dane-antw19.png"
+        ]
+      },
+      {
+        "title": "Air France-KLM",
+        "question_number": 20,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− goedkoper lenen / een lager interestpercentage\n− onder gunstigere voorwaarden lenen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-air-france-klm-antw20.png"
+        ]
+      },
+      {
+        "title": "Air France-KLM",
+        "question_number": 21,
+        "answer_text": "• resultaat kwartaal 3 in 2022: 232 + 228 = 460 en\nresultaat kwartaal 3 in 2021: -3.164 + 2.971 = -193\n• toename resultaat kwartaal 3 2022 t.o.v. 2021: 460 + 193 = € 653 miljoen\nof\n• toename resultaat eerste halfjaar 2022 ten opzichte van 2021: 2.971 – 228 = 2.743 en\ntoename resultaat kwartaal eerste negen maanden 2022 ten opzichte van 2021: 3.164 + 232 = 3.396\n• toename resultaat kwartaal 3 2022 ten opzichte van 2021: 3.396 – 2.743 = € 653 miljoen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "resultaat kwartaal 3 in 2022: 232 + 228 = 460 en resultaat kwartaal 3 in 2021: -3.164 + 2.971 = -193 (of: toename resultaat eerste halfjaar 2022 ten opzichte van 2021: 2.743 en toename resultaat eerste negen maanden 2022 ten opzichte van 2021: 3.396)"
+          },
+          {
+            "points": 1,
+            "description": "toename resultaat kwartaal 3 2022 t.o.v. 2021: 460 + 193 = € 653 miljoen (of: 3.396 – 2.743 = € 653 miljoen)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-air-france-klm-antw21.png"
+        ]
+      },
+      {
+        "title": "Air France-KLM",
+        "question_number": 22,
+        "answer_text": "• solvabiliteit (EV/TV) op 31 december 2021:\n-3.816 / (-3.816 + 22.773 + 11.726) x 100% = -12%\nsolvabiliteit (EV/TV) op 30 september 2022:\n-2.797 / (-2.797 + 22.775 + 14.585) x 100% = -8%\n• (De verhouding EV/TV is gestegen), wat duidt op een verbetering van de solvabiliteit.\nof\n• solvabiliteit (VV/TV) op 31 december 2021:\n(22.773 + 11.726) / (-3.816 + 22.773 + 11.726) x 100% = 112%\nsolvabiliteit (VV/TV) op 30 september 2022:\n(22.775 + 14.585) / 34.563 x 100% = 108%\n• (De verhouding VV/TV is gedaald), wat duidt op een verbetering van de solvabiliteit.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "solvabiliteit (EV/TV) op 31 december 2021: -12% en op 30 september 2022: -8% (of: solvabiliteit (VV/TV) op 31 december 2021: 112% en op 30 september 2022: 108%)"
+          },
+          {
+            "points": 1,
+            "description": "(De verhouding EV/TV is gestegen), wat duidt op een verbetering van de solvabiliteit (of: (De verhouding VV/TV is gedaald), wat duidt op een verbetering van de solvabiliteit)"
+          }
+        ],
+        "grading_note": "Het totale vermogen kan ook berekend worden door de vaste en vlottende activa op te tellen.\nAan een correcte berekening van EV/VV 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-air-france-klm-antw22.png"
+        ]
+      },
+      {
+        "title": "Air France-KLM",
+        "question_number": 23,
+        "answer_text": "Een juist antwoord bevat:\nEen toelichting van de verslechtering van de solvabiliteit op korte termijn:\n− Door uitgifte van converteerbare obligaties stijgt het vreemd vermogen op korte termijn (en blijft het eigen vermogen gelijk), waardoor de solvabiliteit verslechtert.\nEen toelichting van de verbetering van de solvabiliteit op lange termijn:\n− De converteerbare obligaties zullen bij een stijging van de aandelenkoers (boven conversieprijs) worden omgewisseld in aandelen, waardoor na conversie het eigen vermogen stijgt, (het vreemd vermogen daalt) en de solvabiliteit verbetert.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist toegelicht antwoord"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist toegelicht antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-air-france-klm-antw23.png"
+        ]
+      },
+      {
+        "title": "Air France-KLM",
+        "question_number": 24,
+        "answer_text": "Voorbeeld van een juiste berekening is:\n0,093 x 300 miljoen x 0,065 x 3 + 0,093 x 300 miljoen x (0,03 + 0,013) x 7 = € 13.838.400",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Per gemaakte fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-air-france-klm-antw24.png"
+        ]
+      },
+      {
+        "title": "Air France-KLM",
+        "question_number": 25,
+        "answer_text": "• Wanneer de Nederlandse staat niet deelneemt aan de converteerbare obligatielening, zal zijn aandelenbelang in Air France-KLM mogelijk dalen.\n• Hierdoor krijgt de Nederlandse staat minder zeggenschap waardoor die minder goed kan opkomen voor de werkgelegenheid.\nof\n• Wanneer de Nederlandse staat niet deelneemt, bestaat de kans dat er minder vermogen wordt opgehaald (door minder vertrouwen van beleggers).\n• Hierdoor zijn er minder investeringen mogelijk, waardoor de verkopen (en winst) mogelijk dalen en de werkgelegenheid daalt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Wanneer de Nederlandse staat niet deelneemt aan de converteerbare obligatielening, zal zijn aandelenbelang in Air France-KLM mogelijk dalen (of: Wanneer de Nederlandse staat niet deelneemt, bestaat de kans dat er minder vermogen wordt opgehaald (door minder vertrouwen van beleggers))"
+          },
+          {
+            "points": 1,
+            "description": "Hierdoor krijgt de Nederlandse staat minder zeggenschap waardoor die minder goed kan opkomen voor de werkgelegenheid (of: Hierdoor zijn er minder investeringen mogelijk, waardoor de verkopen (en winst) mogelijk dalen en de werkgelegenheid daalt)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-air-france-klm-antw25.png"
+        ]
+      },
+      {
+        "title": "Air France-KLM",
+        "question_number": 26,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nHet verwachte rendement op de obligaties (interest en/of koersresultaat) ligt volgens hen boven het verwachte rendement op aandelen (dividend en/of koersresultaat).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Aan een verdere stijging van de aandelenkoers afwachten en dan pas overgaan tot conversie geen scorepunt toekennen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-air-france-klm-antw26.png"
+        ]
+      },
+      {
+        "title": "Uw Krant",
+        "question_number": 27,
+        "answer_text": "• verkoopresultaat: 34.500 x 4 x 6 x 0,05 + 25.000 x 4 x 6 x 0,22 = 173.400 voordelig / positief / +\n• bezettingsresultaat: (59.500 – 60.000) x 4 x 6 x 0,75 = 9.000 negatief / nadelig / -\nresultaat: 173.400 – 9.000 = € 164.400 voordelig / positief / +",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "verkoopresultaat: 34.500 x 4 x 6 x 0,05 + 25.000 x 4 x 6 x 0,22 = 173.400 voordelig / positief / +"
+          },
+          {
+            "points": 1,
+            "description": "bezettingsresultaat: (59.500 – 60.000) x 4 x 6 x 0,75 = 9.000 negatief / nadelig / - en resultaat: 173.400 – 9.000 = € 164.400 voordelig / positief / +"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-uw-krant-antw27.png"
+        ]
+      },
+      {
+        "title": "Uw Krant",
+        "question_number": 28,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Adverteren via social media kan goedkoper zijn (dan adverteren via traditionele media).\n− Social media geeft de mogelijkheid om op een gepersonaliseerde manier contact te maken met potentiële abonnees. (Bij traditionele media is dit niet het geval).\n− Uw Krant kan via social media gemakkelijker de behoeften van potentiële abonnees achterhalen en met hun content daarop inspelen. (Bij traditionele media is dit niet mogelijk).\n− De doelgroep maakt meer gebruik van social media (dan van traditionele media) en dus wordt de doelgroep gemakkelijker bereikt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist antwoord"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-uw-krant-antw28.png"
+        ]
+      },
+      {
+        "title": "Uw Krant",
+        "question_number": 29,
+        "answer_text": "• dekkingsbijdrage van een digitale krant: (14,40 / 24) - 0,10 = € 0,50\n• dekkingsbijdrage van een papieren krant: (27,60 / 24) – 1,20 = – € 0,05\n• De abonnementsvorm digitaal heeft de voorkeur (aangezien de dekkingsbijdrage hierbij het hoogste is).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "dekkingsbijdrage van een digitale krant: € 0,50 en dekkingsbijdrage van een papieren krant: – € 0,05"
+          },
+          {
+            "points": 1,
+            "description": "De abonnementsvorm digitaal heeft de voorkeur (aangezien de dekkingsbijdrage hierbij het hoogste is)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-uw-krant-antw29.png"
+        ]
+      },
+      {
+        "title": "Uw Krant",
+        "question_number": 30,
+        "answer_text": "• promotiebeleid\n• Wanneer de klant duidelijk uitgelegd wordt wat de reden is voor de prijsverhoging (uiteindelijk terugdringen van de externe kosten), zal de klant eerder bereid zijn deze hogere prijs te betalen.\nof\n• productbeleid\n• In het colofon / op de verpakking wordt duidelijk gemaakt dat Uw Krant true pricing inzet, (waardoor de verkoopprijs hoger is).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "promotiebeleid (of: productbeleid)"
+          },
+          {
+            "points": 1,
+            "description": "Wanneer de klant duidelijk uitgelegd wordt wat de reden is voor de prijsverhoging (uiteindelijk terugdringen van de externe kosten), zal de klant eerder bereid zijn deze hogere prijs te betalen (of: In het colofon / op de verpakking wordt duidelijk gemaakt dat Uw Krant true pricing inzet, (waardoor de verkoopprijs hoger is))"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt alleen toekennen wanneer het eerste scorepunt is behaald.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-i-uw-krant-antw30.png"
+        ]
+      }
+    ]
+  }
+}
