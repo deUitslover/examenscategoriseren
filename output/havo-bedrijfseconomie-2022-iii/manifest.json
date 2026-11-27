@@ -1,0 +1,67 @@
+{
+  "source": "HAVO Bedrijfseconomie 2022-III",
+  "subject_name": "Bedrijfseconomie",
+  "level": "HAVO",
+  "exercises": [
+    {
+      "title": "Pen & Papier bv",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Gerrit Roos",
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "Micran",
+      "question_numbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "title": "Tante Beth",
+      "question_numbers": [
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "title": "Adnane",
+      "question_numbers": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "title": "Blokker bv",
+      "question_numbers": [
+        27,
+        28,
+        29,
+        30
+      ]
+    }
+  ]
+}
