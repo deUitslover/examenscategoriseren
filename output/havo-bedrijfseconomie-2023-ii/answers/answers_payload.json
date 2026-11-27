@@ -1,0 +1,583 @@
+{
+  "payload": {
+    "subject_name": "Bedrijfseconomie",
+    "level": "HAVO",
+    "source": "HAVO Bedrijfseconomie 2023-II",
+    "answers": [
+      {
+        "title": "Basic-Fit",
+        "question_number": 1,
+        "answer_text": "• Door(dat) de opening (eerder is dan verwacht) zal het verwachte resultaat positief worden beïnvloed\n• en daardoor kan de vraag naar het aandeel stijgen en daarmee stijgt ook de koers",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Door(dat) de opening (eerder is dan verwacht) zal het verwachte resultaat positief worden beïnvloed"
+          },
+          {
+            "points": 1,
+            "description": "en daardoor kan de vraag naar het aandeel stijgen en daarmee stijgt ook de koers"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-basic-fit-antw1.png"
+        ]
+      },
+      {
+        "title": "Basic-Fit",
+        "question_number": 2,
+        "answer_text": "• Emissiekoers: 204.000.000 / 6.000.000 = €34\n• Agio per aandeel: 34 – 0,06 = € 33,94",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Emissiekoers: 204.000.000 / 6.000.000 = €34"
+          },
+          {
+            "points": 1,
+            "description": "Agio per aandeel: 34 – 0,06 = € 33,94"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-basic-fit-antw2.png"
+        ]
+      },
+      {
+        "title": "Basic-Fit",
+        "question_number": 3,
+        "answer_text": "Voorbeeld van een juiste berekening is:\n• Eigen vermogen 31 december 2021: €7,89 × 50 miljoen = €394.500.000\n• Gemiddeld eigen vermogen: (306.700.000 + 394.500.000) / 2 = €350.600.000\n• REV: −116.200.000 / 350.600.000 × 100% = −33,14%",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Eigen vermogen 31 december 2021: €7,89 × 50 miljoen = €394.500.000"
+          },
+          {
+            "points": 1,
+            "description": "Gemiddeld eigen vermogen: (306.700.000 + 394.500.000) / 2 = €350.600.000"
+          },
+          {
+            "points": 1,
+            "description": "REV: −116.200.000 / 350.600.000 × 100% = −33,14%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-basic-fit-antw3.png"
+        ]
+      },
+      {
+        "title": "Zara Brekebeen",
+        "question_number": 4,
+        "answer_text": "• een schadeverzekering\n• heeft tot doel om een verzekerde na het optreden van een verzekerd risico schadeloos te stellen / wanneer Zara arbeidsongeschikt wordt, krijgt zij een uitkering",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een schadeverzekering"
+          },
+          {
+            "points": 1,
+            "description": "heeft tot doel om een verzekerde na het optreden van een verzekerd risico schadeloos te stellen / wanneer Zara arbeidsongeschikt wordt, krijgt zij een uitkering"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt kan alleen toegekend worden als het eerste scorepunt is toegekend.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-zara-brekebeen-antw4.png"
+        ]
+      },
+      {
+        "title": "Zara Brekebeen",
+        "question_number": 5,
+        "answer_text": "• 240.000 x 0,02 x 0,5 = 2.400\n• 210.000 x 0,02 x 0,5 = 2.100\n2.400 + 2.100 = € 4.500",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "240.000 x 0,02 x 0,5 = 2.400"
+          },
+          {
+            "points": 1,
+            "description": "210.000 x 0,02 x 0,5 = 2.100; 2.400 + 2.100 = € 4.500"
+          }
+        ],
+        "grading_note": "Aan het antwoord “240.000 x 0,02 = € 4.800” geen scorepunten toekennen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-zara-brekebeen-antw5.png"
+        ]
+      },
+      {
+        "title": "Zara Brekebeen",
+        "question_number": 6,
+        "answer_text": "totale constante kosten 2022:\nUitgewerkte tabel (berekeningen):\nInterestkosten hypothecaire lening: 4.500\nAfschrijvingskosten: (40.000 − 4.000) / 4 = 9.000\nLoonkosten: 600 × 1,08 × 1,3 × 12 × 1,03³ = 11.046,16\nOverige constante kosten: 6.299,84\nTotale constante kosten: 4.500 + 9.000 + 11.046,16 + 6.299,94 = €30.846,00",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "afschrijvingskosten 9.000,00"
+          },
+          {
+            "points": 2,
+            "description": "loonkosten 11.046,16"
+          },
+          {
+            "points": 1,
+            "description": "overige en totale constante kosten 6.299,84 en € 30.846,00"
+          }
+        ],
+        "grading_note": "⚠️ CONTROLEREN: in de tabel van het correctievoorschrift staat bij Totale constante kosten '6.299,94', terwijl bij Overige constante kosten en in de puntentelling 6.299,84 staat (letterlijk overgenomen).",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-zara-brekebeen-antw6.png"
+        ]
+      },
+      {
+        "title": "Zara Brekebeen",
+        "question_number": 7,
+        "answer_text": "97% = 30.846\n• verzekerd bedrag: 100/97 × 30.846 = 31.800\n• jaarpremie: 31.800 × 4% = €1.272 per jaar\n• jaarpremie na aftrek belastingvoordeel: 1.272 × (1 − 0,35) = €826,80",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "verzekerd bedrag: 100/97 × 30.846 = 31.800"
+          },
+          {
+            "points": 1,
+            "description": "jaarpremie: 31.800 × 4% = €1.272 per jaar"
+          },
+          {
+            "points": 1,
+            "description": "jaarpremie na aftrek belastingvoordeel: 1.272 × (1 − 0,35) = €826,80"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-zara-brekebeen-antw7.png"
+        ]
+      },
+      {
+        "title": "Zara Brekebeen",
+        "question_number": 8,
+        "answer_text": "uitkering bij arbeidsongeschiktheid: 31.800 x (1 – 0,35) = € 20.670",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Wanneer de kandidaat bij vraag 7 en vraag 8 een zelfde fout maakt met (1 – 0,35), dan wordt er maximaal 1 scorepunt in mindering gebracht.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-zara-brekebeen-antw8.png"
+        ]
+      },
+      {
+        "title": "Zara Brekebeen",
+        "question_number": 9,
+        "answer_text": "Algemene ledenvergadering / ALV",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-zara-brekebeen-antw9.png"
+        ]
+      },
+      {
+        "title": "Zara Brekebeen",
+        "question_number": 10,
+        "answer_text": "Voorbeelden van een voordeel zijn:\n– dat de maandelijkse inleg en contributie lager zijn dan de (bruto) premie voor de arbeidsongeschiktheidsverzekering, omdat het broodfonds geen winstdoelstelling heeft.\n– dat het broodfonds minder ingewikkeld is, omdat er geen controlerende artsen zijn om een uitkering te ontvangen.\n– dat deelnemers geen (schenk)belasting over de uitkering hoeven te betalen indien de uitkering lager is dan de schenkingsvrijstelling.\nVoorbeelden van een nadeel zijn:\n– SureThing biedt ook hulp en advies ter preventie en bij re-integratie, een broodfonds biedt dat niet.\n– De uitkeringsduur is maximaal 2 jaar, terwijl een arbeidsongeschiktheidsverzekering ook mogelijkheden biedt voor een eventueel langere uitkeringsduur.\n– Deelnemers kunnen gemakkelijk misbruik maken van het fonds, omdat er geen controle is.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "juist voordeel"
+          },
+          {
+            "points": 1,
+            "description": "juist nadeel"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-zara-brekebeen-antw10.png"
+        ]
+      },
+      {
+        "title": "Zara Brekebeen",
+        "question_number": 11,
+        "answer_text": "• schenking: 3.010 x 12 = € 36.120\nvoorwaarde a: € 36.120 > € 31.800 (voldoende om totale constante kosten en privé-uitgaven te dekken)\n• voorwaarde b: € 36.120 > € 20.670 (vraag 8) dus Zara kiest voor deelname aan broodfonds Broodnodig",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "schenking: 3.010 x 12 = € 36.120; voorwaarde a: € 36.120 > € 31.800 (voldoende om totale constante kosten en privé-uitgaven te dekken)"
+          },
+          {
+            "points": 1,
+            "description": "voorwaarde b: € 36.120 > € 20.670 (vraag 8) dus Zara kiest voor deelname aan broodfonds Broodnodig"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-zara-brekebeen-antw11.png"
+        ]
+      },
+      {
+        "title": "Djainy en Jan-Willem",
+        "question_number": 12,
+        "answer_text": "• huuruitgaven in 2022: 12 x (750 – 263) = € 5.844\n• huuruitgaven in 2023: 12 x 750 x 1,03 = € 9.270",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "huuruitgaven in 2022: 12 x (750 – 263) = € 5.844"
+          },
+          {
+            "points": 1,
+            "description": "huuruitgaven in 2023: 12 x 750 x 1,03 = € 9.270"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-djainy-en-jan-willem-antw12.png"
+        ]
+      },
+      {
+        "title": "Djainy en Jan-Willem",
+        "question_number": 13,
+        "answer_text": "huuruitgaven in procenten van het inkomen in 2022:\n• 5.844 / 26.000 × 100% = 22,48%\nhuuruitgaven in procenten van het inkomen in 2023:\n• 9.270 / 48.000 × 100% = 19,31%",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-djainy-en-jan-willem-antw13.png"
+        ]
+      },
+      {
+        "title": "Djainy en Jan-Willem",
+        "question_number": 14,
+        "answer_text": "• Het inkomen moet hoog genoeg zijn om de betaling van interest en aflossing aan de bank te kunnen doen / de geldverstrekker eist dat er zekerheid is omtrent het inkomen\n• De schuld mag een maximaal percentage zijn van de woningwaarde (schuldmarktwaarde). Bij (gedwongen) verkoop moet het onderpand voldoende waard zijn om de restschuld af te lossen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het inkomen moet hoog genoeg zijn om de betaling van interest en aflossing aan de bank te kunnen doen / de geldverstrekker eist dat er zekerheid is omtrent het inkomen"
+          },
+          {
+            "points": 1,
+            "description": "De schuld mag een maximaal percentage zijn van de woningwaarde (schuldmarktwaarde). Bij (gedwongen) verkoop moet het onderpand voldoende waard zijn om de restschuld af te lossen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-djainy-en-jan-willem-antw14.png"
+        ]
+      },
+      {
+        "title": "Djainy en Jan-Willem",
+        "question_number": 15,
+        "answer_text": "(Bij een inkomen van € 48.000 is de maximale hypothecaire lening € 235.279 en de daarbij behorende annuïteit / uitgave aan hypothecaire lening € 760).\nmaandelijkse uitgave aan huur:\n9.270 / 12 = 772,50\n772,50 − 760 = €12,50 (< €15)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-djainy-en-jan-willem-antw15.png"
+        ]
+      },
+      {
+        "title": "Djainy en Jan-Willem",
+        "question_number": 16,
+        "answer_text": "De interestlasten van de hypothecaire lening mogen in mindering worden gebracht op het bruto inkomen / het voordeel van hypotheekrenteaftrek.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-djainy-en-jan-willem-antw16.png"
+        ]
+      },
+      {
+        "title": "Djainy en Jan-Willem",
+        "question_number": 17,
+        "answer_text": "• daling schuld hypothecaire lening: 60 x 760 – 11.254,80 = € 34.345,20\n• waardestijging woning: 245.000 x 1,05⁵ – 245.000 = € 67.688,98\n• totale vermogensopbouw: 34.345,20 + 67.688,98 = € 102.034,18",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "daling schuld hypothecaire lening: 60 x 760 – 11.254,80 = € 34.345,20"
+          },
+          {
+            "points": 1,
+            "description": "waardestijging woning: 245.000 x 1,05⁵ – 245.000 = € 67.688,98"
+          },
+          {
+            "points": 1,
+            "description": "totale vermogensopbouw: 34.345,20 + 67.688,98 = € 102.034,18"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-djainy-en-jan-willem-antw17.png"
+        ]
+      },
+      {
+        "title": "De gesmeerde fiets",
+        "question_number": 18,
+        "answer_text": "• daling eigen vermogen: 2 x (5.899 – 5.699) = € 400 totaal\n• Hiervan veroorzaakt door privé-opnames: 5.000\nVoordelig resultaat 5.000 – 400 = € 4.600",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "daling eigen vermogen: 2 x (5.899 – 5.699) = € 400 totaal"
+          },
+          {
+            "points": 1,
+            "description": "hiervan veroorzaakt door privé-opnames: 5.000; voordelig resultaat 5.000 – 400 = € 4.600"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-de-gesmeerde-fiets-antw18.png"
+        ]
+      },
+      {
+        "title": "De gesmeerde fiets",
+        "question_number": 19,
+        "answer_text": "(mutatie)balans april 2022\nDebet:\nLiquide middelen: + 1.815\nVoorraad: – 900\ntotaal: + € 915\nCredit:\nVermogen Erik: + 300\nVermogen Younes: + 300\nTe betalen btw: + 315\ntotaal: + € 915",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Liquide middelen + 1.815"
+          },
+          {
+            "points": 1,
+            "description": "Voorraad en totaal – 900 en + € 915"
+          },
+          {
+            "points": 1,
+            "description": "Vermogen Erik en Younes + 300 en + 300"
+          },
+          {
+            "points": 1,
+            "description": "Te betalen btw + 315"
+          }
+        ],
+        "grading_note": "Bij de derde deelscore mag de balanspost Resultaat (voor winstverdeling) van + 600 ook worden goedgekeurd.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-de-gesmeerde-fiets-antw19.png"
+        ]
+      },
+      {
+        "title": "De gesmeerde fiets",
+        "question_number": 20,
+        "answer_text": "• omzet fietsreparaties 6.540 / 1,09 = 6.000\n• omzet accessoires: 1.500 +\ntotaal: € 7.500",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "omzet fietsreparaties 6.540 / 1,09 = 6.000"
+          },
+          {
+            "points": 1,
+            "description": "omzet accessoires 1.500; totaal: € 7.500"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-de-gesmeerde-fiets-antw20.png"
+        ]
+      },
+      {
+        "title": "De gesmeerde fiets",
+        "question_number": 21,
+        "answer_text": "Uitgaven in april 2022:\nHuur: 2.700\nBanklening: 2.600\nCrediteuren: 968\nVerrekening btw: 1.637\nPrivé-opnames: 5.000\nOverige uitgaven: 500\nSaldo: –\ntotaal: 13.405\nOntvangsten in april 2022:\nVerkoop fietsaccessoires en reparaties: 7.855\nDebiteuren: 450\nSaldo: 5.100\ntotaal: 13.405\n• Verkoop fietsaccessoires en reparaties: 1.500 x 1,21 + 6.540 – 500 = 7.855\n• Verrekening btw: 2.435 – 798 = 1.637\n• Huur: 3 x 900 = 2.700\n• 2.503 (saldo begin) – 5.100 = – 2.597\nConclusie: het rekening-courantkrediet is voldoende om uit de liquiditeitsproblemen te blijven, want 2.597 < 4.000",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "Verkoop fietsaccessoires en reparaties: 1.500 x 1,21 + 6.540 – 500 = 7.855"
+          },
+          {
+            "points": 1,
+            "description": "Verrekening btw: 2.435 – 798 = 1.637"
+          },
+          {
+            "points": 1,
+            "description": "Huur: 3 x 900 = 2.700"
+          },
+          {
+            "points": 1,
+            "description": "2.503 (saldo begin) – 5.100 = – 2.597; conclusie: het rekening-courantkrediet is voldoende om uit de liquiditeitsproblemen te blijven, want 2.597 < 4.000"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-de-gesmeerde-fiets-antw21.png"
+        ]
+      },
+      {
+        "title": "Express bv",
+        "question_number": 22,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n– het risico dat de bezorgkosten groter dan de marge op de bezorgde boodschappen en bezorgtarief zijn\n– het risico dat de belofte van binnen 10 minuten bezorgen niet kan worden waargemaakt door een teveel aan kleine bestellingen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-express-bv-antw22.png"
+        ]
+      },
+      {
+        "title": "Express bv",
+        "question_number": 23,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nhet percentage van de bestellingen dat binnen 10 minuten wordt bezorgd",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-express-bv-antw23.png"
+        ]
+      },
+      {
+        "title": "Express bv",
+        "question_number": 24,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n– Door werknemers in loondienst te nemen, kunnen de werknemers een binding met de organisatie krijgen en kunnen ze loyaler zijn dan zzp’ers.\n– Een arbeidsovereenkomst geeft meer zekerheid voor werknemers. Hierdoor kan de werving van bezorgers gemakkelijker zijn.\n– Werknemers moeten een aantal uren per week beschikbaar zijn. Hierdoor heeft Express meer zekerheid over voldoende werknemers voor de bezorging.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist antwoord"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-express-bv-antw24.png"
+        ]
+      },
+      {
+        "title": "Express bv",
+        "question_number": 25,
+        "answer_text": "Voorbeelden van een juist antwoord zijn\n– Het totale aantal verwachte bestellingen in de stad inclusief Express in Groningen (82.000) is groter dan in Haarlem (56.000).\n– Het verwachte aantal bestellingen / de verwachte omzet voor Express is in Groningen groter dan in Haarlem.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist antwoord"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-express-bv-antw25.png"
+        ]
+      },
+      {
+        "title": "Express bv",
+        "question_number": 26,
+        "answer_text": "Voorbeeld van een juiste berekening is:\n• Totale kosten zijn bij 90.000 bestellingen € 2.270.000 en bij 60.000 bestellingen € 1.820.000.\nVariabele kosten per bestelling zijn: (2.270.000 − 1.820.000) / (90.000 − 60.000) = €15\n• Totale variabele kosten zijn dan 90.000 x 15 = 1.350.000.\n• Totale constante kosten zijn dan 2.270.000 – 1.350.000 = 920.000\n• In totaal zijn er 20 hubs, dus totale constante kosten voor Groningen zijn dan 920.000 / 20 × 3 = €138.000",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "variabele kosten per bestelling: (2.270.000 − 1.820.000) / (90.000 − 60.000) = €15"
+          },
+          {
+            "points": 1,
+            "description": "totale variabele kosten 90.000 x 15 = 1.350.000; totale constante kosten 2.270.000 – 1.350.000 = 920.000"
+          },
+          {
+            "points": 1,
+            "description": "totale constante kosten voor Groningen: 920.000 / 20 × 3 = €138.000"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-express-bv-antw26.png"
+        ]
+      },
+      {
+        "title": "Express bv",
+        "question_number": 27,
+        "answer_text": "• opbrengst per bestelling = 26 + 1,80 = 27,80\n• gemiddelde variabele kosten = 15\ndekkingsbijdrage per bestelling = 27,80 – 15 = € 12,80",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "opbrengst per bestelling = 26 + 1,80 = 27,80"
+          },
+          {
+            "points": 1,
+            "description": "gemiddelde variabele kosten = 15; dekkingsbijdrage per bestelling = 27,80 – 15 = € 12,80"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-express-bv-antw27.png"
+        ]
+      },
+      {
+        "title": "Express bv",
+        "question_number": 28,
+        "answer_text": "• break-evenafzet = 138.000 / 12,80 = 10.782 bestellingen\n• Verwachte afzet Express in Groningen over 2023 is 20.000.\n20.000 / 10.782 × 100% = 185,5%\n• De verwachte afzet in Groningen over 2023 is 85,5% > 15% van de\n• break-evenafzet",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "break-evenafzet = 138.000 / 12,80 = 10.782 bestellingen"
+          },
+          {
+            "points": 1,
+            "description": "verwachte afzet Express in Groningen over 2023 is 20.000; 20.000 / 10.782 × 100% = 185,5%"
+          },
+          {
+            "points": 1,
+            "description": "De verwachte afzet in Groningen over 2023 is 85,5% > 15% van de break-evenafzet"
+          }
+        ],
+        "grading_note": "Aan het antwoord “10.781 bestellingen” geen scorepunt toekennen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-express-bv-antw28.png"
+        ]
+      },
+      {
+        "title": "Reclame op televisie",
+        "question_number": 29,
+        "answer_text": "minuten omzetten in seconden.\n(170 − 298) / 298 × 100% = −42,95% (korter)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "⚠️ CONTROLEREN: in het correctievoorschrift staat dit antwoord onder Opgave 6 met vraagnummer 26 (drukfout); op basis van de opgaven-PDF hoort het bij vraag 29.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-reclame-op-televisie-antw29.png"
+        ]
+      },
+      {
+        "title": "Reclame op televisie",
+        "question_number": 30,
+        "answer_text": "A",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "⚠️ CONTROLEREN: in het correctievoorschrift staat dit antwoord onder Opgave 6 met vraagnummer 27 (drukfout); op basis van de opgaven-PDF hoort het bij vraag 30.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-ii-reclame-op-televisie-antw30.png"
+        ]
+      }
+    ]
+  }
+}
