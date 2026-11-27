@@ -44,6 +44,15 @@ Usage:
                               and the vraag are its stem (a multiple-choice stem "... sprake
                               is van a .. b .. c .. d" above "2p 18", VWO-BECO-22-II-O.pdf
                               p.16: --vstem 15:5=419); they move into the vraag crop/text
+        [--vext P:I ...]      vraag item I on page P absorbs the ctx item right after it (an
+                              answer table under the vraag: "Neem onderstaande tabel over
+                              op het antwoordenblad", SWOT grid under vraag 26 of
+                              HAVO-BECO-22-II-O.pdf p.19: --vext 18:1)
+        [--bronfix P=N@Y ...] page P holds informatiebron N, cropped from y=Y down (the kop on
+                              the page is ignored): for a PDF with a wrong or missing kop.
+                              HAVO-BECO-22-III-O.pdf p.20 is headed "Informatiebron 5" but is
+                              bron 4 (vraag 22 cites bron 4 for DUO), and p.21 (the contract,
+                              bron 5) has no kop: --bronfix 19=4@110 20=5@78
         [--split-uwb P:Y ...] (not needed so far)
 """
 
@@ -127,6 +136,8 @@ def main():
     ap.add_argument("--glue", nargs="*", default=[])
     ap.add_argument("--vsplit", nargs="*", default=[])
     ap.add_argument("--vstem", nargs="*", default=[])
+    ap.add_argument("--bronfix", nargs="*", default=[])
+    ap.add_argument("--vext", nargs="*", default=[])
     ap.add_argument("--uwb-pad", type=float, default=45.0)
     a = ap.parse_args()
 
@@ -141,6 +152,12 @@ def main():
         k, y = spec.split("=")
         vsplit[tuple(map(int, k.split(":")))] = float(y)
 
+    bronfix = {}
+    for spec in a.bronfix:
+        k, v = spec.split("=")
+        nn, yy = v.split("@")
+        bronfix[int(k)] = (int(nn), float(yy))
+    vext = {tuple(map(int, s.split(":"))) for s in a.vext}
     vstem = {}
     for spec in a.vstem:
         k, y = spec.split("=")
@@ -229,6 +246,15 @@ def main():
                 v["y0"] = ys
                 for j in reversed(stem):
                     del plan[j]
+            for i in sorted([i for (p_, i) in vext if p_ == pn], reverse=True):
+                v, c = plan[i], plan[i + 1]
+                assert v["kind"] == "vraag" and c["kind"] == "ctx", f"vext {pn}:{i}"
+                m = v["members"][0]
+                xs0 = [b[0] for b in c["members"]] + [m[0]]
+                xs1 = [b[2] for b in c["members"]] + [m[2]]
+                v["members"] = [(min(xs0), m[1], max(xs1), max(m[3], c["y1"]))]
+                v["y1"] = v["members"][0][3]
+                del plan[i + 1]
             run = None
             for i, it in enumerate(plan):
                 it["key"] = f"{pn}:{i}"
@@ -248,9 +274,12 @@ def main():
                 op["elems"].append(run)
         if (mode in ("bron", "formuleblad") or cut is not None) and not uwb_from:
             heads = mid_heads(page, hashes)
+            if pn in bronfix:
+                nn, yy = bronfix[pn]
+                heads = [(0, yy, 0, yy, f"Informatiebron {nn}")]
             starts = [h[1] for h in heads]
             # content above the first kop on this page continues the previous bron
-            if cut is None and (not heads or content_end(page, hashes, 30, starts[0] - 2)):
+            if cut is None and pn not in bronfix and (not heads or content_end(page, hashes, 30, starts[0] - 2)):
                 y1 = content_end(page, hashes, 30, starts[0] - 2 if heads else lim)
                 if y1:
                     y0 = min(b[1] for b in content_boxes(page) if b[1] >= 30 and b[3] <= y1 + 0.5)
