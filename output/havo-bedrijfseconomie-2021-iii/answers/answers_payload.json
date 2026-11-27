@@ -1,0 +1,555 @@
+{
+  "payload": {
+    "subject_name": "Bedrijfseconomie",
+    "level": "HAVO",
+    "source": "HAVO Bedrijfseconomie 2021-III",
+    "answers": [
+      {
+        "title": "Familie De Groot",
+        "question_number": 1,
+        "answer_text": "• Dirk en Marleen (ieder een derde, dus) 180.000 / 3 = € 60.000\n• Kelly en Tom (als plaatsvervangers van Sandra): 60.000 / 2 = € 30.000",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Dirk en Marleen (ieder een derde, dus) 180.000 / 3 = € 60.000"
+          },
+          {
+            "points": 1,
+            "description": "Kelly en Tom (als plaatsvervangers van Sandra): 60.000 / 2 = € 30.000"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-familie-de-groot-antw1.png"
+        ]
+      },
+      {
+        "title": "Familie De Groot",
+        "question_number": 2,
+        "answer_text": "(60.000 − 20.615) × 0,10 = € 3.938,50 (€ 3.938 of € 3.939)",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-familie-de-groot-antw2.png"
+        ]
+      },
+      {
+        "title": "Familie De Groot",
+        "question_number": 3,
+        "answer_text": "• nee\n• Marleen heeft als kind altijd recht op haar wettelijk erfdeel/legitieme portie",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "nee"
+          },
+          {
+            "points": 1,
+            "description": "Marleen heeft als kind altijd recht op haar wettelijk erfdeel/legitieme portie"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt kan alleen toegekend worden als het eerste scorepunt is behaald.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-familie-de-groot-antw3.png"
+        ]
+      },
+      {
+        "title": "BJones bv",
+        "question_number": 4,
+        "answer_text": "• in de analyse van T (Threats)\n• want het veranderende koopgedrag (een externe factor) leidt tot een daling van de afzet\nof\n• in de analyse van O (Opportunities)\n• want het al aanwezige distributiecentrum (een interne factor) kan de online verkopen faciliteren die passen bij het veranderende koopgedrag",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "in de analyse van T (Threats) / in de analyse van O (Opportunities)"
+          },
+          {
+            "points": 1,
+            "description": "want het veranderende koopgedrag (een externe factor) leidt tot een daling van de afzet / want het al aanwezige distributiecentrum (een interne factor) kan de online verkopen faciliteren die passen bij het veranderende koopgedrag"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt kan alleen toegekend worden als het eerste scorepunt is behaald.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-bjones-bv-antw4.png"
+        ]
+      },
+      {
+        "title": "BJones bv",
+        "question_number": 5,
+        "answer_text": "• in de analyse van W (Weaknesses)\n• want personeelskosten (een interne factor) kunnen leiden tot relatief hoge verkoopprijzen waardoor de concurrentiepositie van BJones verslechtert",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "in de analyse van W (Weaknesses)"
+          },
+          {
+            "points": 1,
+            "description": "want personeelskosten (een interne factor) kunnen leiden tot relatief hoge verkoopprijzen waardoor de concurrentiepositie van BJones verslechtert"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt kan alleen toegekend worden als het eerste scorepunt is behaald.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-bjones-bv-antw5.png"
+        ]
+      },
+      {
+        "title": "BJones bv",
+        "question_number": 6,
+        "answer_text": "• Bij het bepalen van de quick ratio wordt de voorraad niet meegenomen (wel bij de current ratio)\n• Voorraden zijn moeilijk te verkopen / zijn in voorkomende gevallen niet tegen de balanswaarde te verkopen",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Bij het bepalen van de quick ratio wordt de voorraad niet meegenomen (wel bij de current ratio)"
+          },
+          {
+            "points": 1,
+            "description": "Voorraden zijn moeilijk te verkopen / zijn in voorkomende gevallen niet tegen de balanswaarde te verkopen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-bjones-bv-antw6.png"
+        ]
+      },
+      {
+        "title": "BJones bv",
+        "question_number": 7,
+        "answer_text": "(280.000 + 10.000 + 4.600) / (304.200 + 234.950 + 35.000) = 0,51\n0,51 < 0,64, dus nam het faillissementsrisico toe",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "(280.000 + 10.000 + 4.600) / (304.200 + 234.950 + 35.000) = 0,51"
+          },
+          {
+            "points": 1,
+            "description": "0,51 < 0,64, dus nam het faillissementsrisico toe"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-bjones-bv-antw7.png"
+        ]
+      },
+      {
+        "title": "BJones bv",
+        "question_number": 8,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− verplichtingen met betrekking tot de huurcontracten van de fysieke winkels\n− verplichtingen met betrekking tot het onderhoud van het distributiecentrum",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-bjones-bv-antw8.png"
+        ]
+      },
+      {
+        "title": "BJones bv",
+        "question_number": 9,
+        "answer_text": "Bij surseance van betaling gelden de ontslagverboden / geldt regulier ontslagrecht (inclusief eventuele opzegtermijnen).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-bjones-bv-antw9.png"
+        ]
+      },
+      {
+        "title": "BJones bv",
+        "question_number": 10,
+        "answer_text": "• kritische succesfactor\n• want het is een randvoorwaarde voor succes",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "kritische succesfactor"
+          },
+          {
+            "points": 1,
+            "description": "want het is een randvoorwaarde voor succes"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt kan alleen toegekend worden als het eerste scorepunt is behaald.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-bjones-bv-antw10.png"
+        ]
+      },
+      {
+        "title": "BJones bv",
+        "question_number": 11,
+        "answer_text": "767.140",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-bjones-bv-antw11.png"
+        ]
+      },
+      {
+        "title": "BJones bv",
+        "question_number": 12,
+        "answer_text": "• aflossing 60.000 / 12 = € 5.000 per jaar\n• 60.000 × 3,6% × 3/12 = € 540\n• 55.000 × 3,6% × 9/12 = € 1.485 +\n€ 2.025",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "aflossing 60.000 / 12 = € 5.000 per jaar"
+          },
+          {
+            "points": 1,
+            "description": "60.000 × 3,6% × 3/12 = € 540"
+          },
+          {
+            "points": 1,
+            "description": "55.000 × 3,6% × 9/12 = € 1.485; totaal € 2.025"
+          }
+        ],
+        "grading_note": "Aan het antwoord 0,036 x 60.000 = € 2.160 wordt maximaal 1 scorepunt toegekend.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-bjones-bv-antw12.png"
+        ]
+      },
+      {
+        "title": "BJones bv",
+        "question_number": 13,
+        "answer_text": "exploitatiebegroting\nOpbrengsten\nOmzet (zie vraag 11): 767.140\nKosten\nInkoopwaarde van de omzet: 126.818\nLoonkosten: 374.632\nInterestkosten (zie vraag 12): 2.025\nOverige kosten: 30.000\nTotale kosten: 533.475\nBedrijfsresultaat: 233.665\n\nberekeningen:\nLoonkosten: 2.200 × 12 × 8 × (1 + 0,08 + 0,02) × 1,35 = 313.632; 313.632 + 61.000 = € 374.632\nBedrijfsresultaat als percentage van de investering: 233.665 / 325.000 × 100% = 71,9%\n\nConclusie: Darcy maakt een doorstart, omdat 71,9 > 30%\nof\n233.665 > 0,30 x 325.000",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "313.632"
+          },
+          {
+            "points": 1,
+            "description": "61.000"
+          },
+          {
+            "points": 1,
+            "description": "233.665 en 71,9%"
+          },
+          {
+            "points": 1,
+            "description": "conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-bjones-bv-antw13.png"
+        ]
+      },
+      {
+        "title": "Vink",
+        "question_number": 14,
+        "answer_text": "Als de huur vooruitbetaald wordt, valt het moment van betaling niet samen met de periode waaraan de huurkosten worden toegerekend.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-vink-antw14.png"
+        ]
+      },
+      {
+        "title": "Vink",
+        "question_number": 15,
+        "answer_text": "Ingevulde uitwerkbijlage (afname liquide middelen, vraag 15):\na: 0\nb: 53\nc: 2.000\nd: 0\ne: 3.267\ntotaal: 5.320\n\n(gevolg voor kosten, vraag 16: a: 0; b: 5 (0,2% x 2.500); c: 0; d: 600 (1.200 / 2); e: 45 (3.267 / (1,21 × 60)); totaal: 650)",
+        "scoring_steps": [
+          {
+            "points": 3,
+            "description": "indien zes antwoorden juist 3 scorepunten; indien vijf of vier antwoorden juist 2 scorepunten; indien drie, twee of één antwoord(en) juist 1 scorepunt; indien geen antwoord juist 0 scorepunten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-vink-antw15.png"
+        ]
+      },
+      {
+        "title": "Vink",
+        "question_number": 16,
+        "answer_text": "(zie vraag 15 voor de uitwerkbijlage)\nGevolg voor kosten:\na: 0\nb: 5 (berekening: 0,2% x 2.500)\nc: 0\nd: 600 (berekening: 1.200 / 2)\ne: 45 (berekening: 3.267 / (1,21 × 60))\ntotaal: 650",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "0 en 0"
+          },
+          {
+            "points": 1,
+            "description": "5"
+          },
+          {
+            "points": 1,
+            "description": "600"
+          },
+          {
+            "points": 1,
+            "description": "45 en totaal"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-vink-antw16.png"
+        ]
+      },
+      {
+        "title": "CosmoSub bv",
+        "question_number": 17,
+        "answer_text": "De ontvangsten zijn inclusief btw en de opbrengsten zijn exclusief btw.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Het antwoord 180.000 x 1,21 = 217.800 ook goed rekenen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-cosmosub-bv-antw17.png"
+        ]
+      },
+      {
+        "title": "CosmoSub bv",
+        "question_number": 18,
+        "answer_text": "50.000 + 133.100 / 1,21 − 108.000 = € 52.000",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-cosmosub-bv-antw18.png"
+        ]
+      },
+      {
+        "title": "CosmoSub bv",
+        "question_number": 19,
+        "answer_text": "Voorbeeld van een juiste berekening is: Stel 6%-Banklening na 1 april 2019 = Y.\nY × 0,06 × 9/12 = 9.000\nY = € 200.000\nof\n9.000 / 11.250 × 250.000 = € 200.000",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-cosmosub-bv-antw19.png"
+        ]
+      },
+      {
+        "title": "CosmoSub bv",
+        "question_number": 20,
+        "answer_text": "• omzet exclusief btw: (2.600 + 2.700 + 2.800) x 10 = 81.000\ninkopen = 0,6 x 81.000 = 48.600\n• Te vorderen btw: 48.600 x 0,21 = € 10.206",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "omzet exclusief btw: (2.600 + 2.700 + 2.800) x 10 = 81.000; inkopen = 0,6 x 81.000 = 48.600"
+          },
+          {
+            "points": 1,
+            "description": "Te vorderen btw: 48.600 x 0,21 = € 10.206"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-cosmosub-bv-antw20.png"
+        ]
+      },
+      {
+        "title": "CosmoSub bv",
+        "question_number": 21,
+        "answer_text": "• Te betalen btw 0,21 x 81.000: 17.010\n• Te vorderen btw: 10.206\naf te dragen btw: € 6.804",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Te betalen btw 0,21 x 81.000: 17.010"
+          },
+          {
+            "points": 1,
+            "description": "Te vorderen btw: 10.206; af te dragen btw: € 6.804"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-cosmosub-bv-antw21.png"
+        ]
+      },
+      {
+        "title": "Advice4U",
+        "question_number": 22,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nAls elektrische auto’s door technologische ontwikkelingen in de toekomst beter worden, dan zullen elektrische auto’s die al zijn verkocht, sneller minder waard worden. / snellere economische veroudering",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-advice4u-antw22.png"
+        ]
+      },
+      {
+        "title": "Advice4U",
+        "question_number": 23,
+        "answer_text": "(125 − 98) x 139 + 2.077 = € 5.830",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-advice4u-antw23.png"
+        ]
+      },
+      {
+        "title": "Advice4U",
+        "question_number": 24,
+        "answer_text": "Afschrijvingskosten: benzineauto constante kosten per jaar 8.700; elektrische auto constante kosten per jaar 12.100\nBrandstof/energiekosten: benzineauto variabele kosten per kilometer 0,07; elektrische auto variabele kosten per kilometer 0,03\nOverige kosten: benzineauto constante kosten per jaar 4.080; elektrische auto constante kosten per jaar 2.400\nTotaal: benzineauto 0,07 per kilometer en 12.780 per jaar; elektrische auto 0,03 per kilometer en 14.500 per jaar\n\nberekeningen:\nbenzineauto\nafschrijvingskosten: (37.670 + 5.830) x 0,2 = 8.700\nbrandstofkosten: 1/25 × 1,75 = 0,07\nelektrische auto\nafschrijvingskosten: (50.000 + 5.000) x 0,22 = 12.100\nenergiekosten: 0,15 x 0,20 = 0,03",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "8.700 + 12.100"
+          },
+          {
+            "points": 1,
+            "description": "0,07 + 0,03"
+          },
+          {
+            "points": 1,
+            "description": "12.780 + 14.500"
+          }
+        ],
+        "grading_note": "Als de antwoorden anders zijn afgerond, geen scorepunten in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-advice4u-antw24.png"
+        ]
+      },
+      {
+        "title": "Advice4U",
+        "question_number": 25,
+        "answer_text": "• jaarkosten elektrische auto: 0,03 x 50.000 + 14.500 = 16.000\n• jaarkosten benzineauto: 0,07 x 50.000 + 12.780 = 16.280\n(€ 16.000 < € 16.280)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "jaarkosten elektrische auto: 0,03 x 50.000 + 14.500 = 16.000"
+          },
+          {
+            "points": 1,
+            "description": "jaarkosten benzineauto: 0,07 x 50.000 + 12.780 = 16.280 (€ 16.000 < € 16.280)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-advice4u-antw25.png"
+        ]
+      },
+      {
+        "title": "Advice4U",
+        "question_number": 26,
+        "answer_text": "In de grafiek 'Verloop jaarlijkse kosten bij aanschaf en bij lease van elektrische auto inclusief laadpaal' wordt de lijn voor de jaarlijkse kosten bij lease elektrische auto inclusief laadpaal (stippellijn) getekend: beginpunt bij € 12.000 (0 km), evenwijdig aan de lijn voor aanschaf (die loopt van € 14.500 naar € 17.500) en doorgetrokken tot 100.000 km (€ 15.000).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "beginpunt bij € 12.000"
+          },
+          {
+            "points": 1,
+            "description": "evenwijdig aan de andere lijn en doorgetrokken tot 100.000 km (€ 15.000)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-advice4u-antw26.png"
+        ]
+      },
+      {
+        "title": "Erkun",
+        "question_number": 27,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− De beloning is bij beleggen in aandelen (dividend) onzekerder dan bij obligaties (interest).\n− De koersen van aandelen schommelen over het algemeen meer dan de koersen van obligaties.\n− Bij faillissement krijgen de aandeelhouders pas uitbetaald nadat eerst de schuldeisers, onder andere de obligatiehouders, zijn betaald.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste correcte reden"
+          },
+          {
+            "points": 1,
+            "description": "tweede correcte reden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-erkun-antw27.png"
+        ]
+      },
+      {
+        "title": "Erkun",
+        "question_number": 28,
+        "answer_text": "• dividend: 500 x 0,50 = 250\n• interest obligatie: 0,04 x 500 x 10 = 200\n• interest spaarrekening: 0,02 x 22.440 / 1,02 = 440\ntotaal: € 890",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "dividend: 500 x 0,50 = 250"
+          },
+          {
+            "points": 1,
+            "description": "interest obligatie: 0,04 x 500 x 10 = 200"
+          },
+          {
+            "points": 1,
+            "description": "interest spaarrekening: 0,02 x 22.440 / 1,02 = 440; totaal: € 890"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-erkun-antw28.png"
+        ]
+      },
+      {
+        "title": "Erkun",
+        "question_number": 29,
+        "answer_text": "500 x 22 + 10 x (500 x 1,03) + 22.440 = € 38.590",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-erkun-antw29.png"
+        ]
+      },
+      {
+        "title": "Erkun",
+        "question_number": 30,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Een beleggingsfonds heeft meer kennis / beschikt over meer data.\n− Een beleggingsfonds spreidt de ontvangen gelden over vermogenstitels van meerdere bedrijven / overheden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2021-iii-erkun-antw30.png"
+        ]
+      }
+    ]
+  }
+}

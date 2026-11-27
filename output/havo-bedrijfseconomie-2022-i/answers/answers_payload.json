@@ -1,0 +1,540 @@
+{
+  "payload": {
+    "subject_name": "Bedrijfseconomie",
+    "level": "HAVO",
+    "source": "HAVO Bedrijfseconomie 2022-I",
+    "answers": [
+      {
+        "title": "Bernhard Willems",
+        "question_number": 1,
+        "answer_text": "C",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-bernhard-willems-antw1.png"
+        ]
+      },
+      {
+        "title": "Bernhard Willems",
+        "question_number": 2,
+        "answer_text": "De erfgenaam aanvaardt de erfenis alleen als de bezittingen van de erflater groter zijn dan de schulden van de erflater.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-bernhard-willems-antw2.png"
+        ]
+      },
+      {
+        "title": "Bernhard Willems",
+        "question_number": 3,
+        "answer_text": "Voorbeelden van een juiste berekening zijn:\n− 0,80 × 450.000 / 2 = € 180.000\n− zonder schenking/testament:\nbelastbare erfenis: 450.000 − 20.946 = 429.054\nerfbelasting: 0,10 x 126.722 + 0,20 x (429.054 − 126.722) = 73.138,60\nnetto erfenis: 450.000 − 73.138,60 = 376.861,40\nmet schenking/testament:\nbelastbare erfenis: 225.000 − 20.946 = 204.054\nerfbelasting: 0,10 x 126.722 + 0,20 x (204.054 − 126.722) = 28.138,60\nnetto erfenis: 225.000 − 28.138,60 = 196.861,40\nHet verschil is 376.861,40 − 196.861,40 = € 180.000",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Per gemaakte fout wordt 1 scorepunt in mindering gebracht.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-bernhard-willems-antw3.png"
+        ]
+      },
+      {
+        "title": "Bernhard Willems",
+        "question_number": 4,
+        "answer_text": "• a\n• De Stichting CliniClowns heeft een ANBI status / is een ANBI (en betaalt daarom geen erfbelasting)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "a"
+          },
+          {
+            "points": 1,
+            "description": "De Stichting CliniClowns heeft een ANBI status / is een ANBI (en betaalt daarom geen erfbelasting)"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-bernhard-willems-antw4.png"
+        ]
+      },
+      {
+        "title": "Restaurant De Waal",
+        "question_number": 5,
+        "answer_text": "vennootschap onder firma / vof",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-restaurant-de-waal-antw5.png"
+        ]
+      },
+      {
+        "title": "Restaurant De Waal",
+        "question_number": 6,
+        "answer_text": "omzet (in €):\nrestaurant: eerste kwartaal 2020 331.500; tweede kwartaal 2020 0\nprivate dining: eerste kwartaal 2020 66.300; tweede kwartaal 2020 0\nbezorgen: eerste kwartaal 2020 0; tweede kwartaal 2020 91.000\ntotaal: eerste kwartaal 2020 397.800; tweede kwartaal 2020 91.000\n\nberekeningen:\neerste kwartaal\nomzet private dining: (75 x 0,2 x 60 + 75 x 0,8 x 70) x 13 = 66.300\nomzet bezorgen: 0\ntotale omzet eerste kwartaal: 331.500 + 66.300 + 0 = 397.800\ntweede kwartaal\nomzet restaurant: 0\nomzet private dining: 0\nomzet bezorgen: 200 x 35 x 13 = 91.000\ntotale omzet tweede kwartaal: 91.000\nprocentuele omzetdaling tweede kwartaal ten opzichte van het eerste kwartaal: (91.000 − 397.800) / 397.800 × 100% = −77,1%",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "totale omzet eerste kwartaal 397.800"
+          },
+          {
+            "points": 1,
+            "description": "totale omzet tweede kwartaal 91.000; procentuele omzetontwikkeling −77,1%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-restaurant-de-waal-antw6.png"
+        ]
+      },
+      {
+        "title": "Restaurant De Waal",
+        "question_number": 7,
+        "answer_text": "uitspraak 3",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-restaurant-de-waal-antw7.png"
+        ]
+      },
+      {
+        "title": "Restaurant De Waal",
+        "question_number": 8,
+        "answer_text": "Loonkosten 211.000 / 4 = 52.750\nLeasekosten scooters (3 × 800) / 4 = 600\nHuisvesting 22.500 / 2 = 11.250\nAfschrijvingen (75.000 × 0,9 / 5) / 4 = 3.375\nOverige constante kosten 44.900 / 4 = 11.225 +\nTotale constante kosten € 79.200",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "52.750 en 600 en 11.250 en 11.225"
+          },
+          {
+            "points": 1,
+            "description": "3.375 en 79.200"
+          }
+        ],
+        "grading_note": "Als de kandidaat bij de berekeningen vergeet naar een kwartaal om te rekenen, wordt 1 scorepunt in mindering gebracht.\nToelichting: De tweede opmerking vervalt omdat er maximaal 1 scorepunt per deelscore kan worden behaald. Er kan dus niet meer dan 1 scorepunt per deelscore worden afgetrokken.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-restaurant-de-waal-antw8.png"
+        ]
+      },
+      {
+        "title": "Restaurant De Waal",
+        "question_number": 9,
+        "answer_text": "• inkoopwaarde van de ingrediënten = 35 x 0,30 = 10,50\ndekkingsbijdrage per menu = 35 − 10,50 − 2,50 = 22\n• 79.200 / 22 = 3.600\n• In het tweede kwartaal zijn 200 x 13 = 2.600 menu’s bezorgd\n(3.600 − 2.600 = dus 1.000 driegangenmenu’s te weinig bezorgd)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inkoopwaarde van de ingrediënten = 35 x 0,30 = 10,50; dekkingsbijdrage per menu = 35 − 10,50 − 2,50 = 22"
+          },
+          {
+            "points": 1,
+            "description": "79.200 / 22 = 3.600"
+          },
+          {
+            "points": 1,
+            "description": "In het tweede kwartaal zijn 200 x 13 = 2.600 menu’s bezorgd (3.600 − 2.600 = dus 1.000 driegangenmenu’s te weinig bezorgd)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-restaurant-de-waal-antw9.png"
+        ]
+      },
+      {
+        "title": "Restaurant De Waal",
+        "question_number": 10,
+        "answer_text": "• 2.600 x 2 = 5.200\n• verpakkingskosten = 5.200 x 2,50 = 13.000\nconstante loonkosten = 52.750 x 2 = 105.500 +\n€ 118.500",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "2.600 x 2 = 5.200"
+          },
+          {
+            "points": 1,
+            "description": "verpakkingskosten = 5.200 x 2,50 = 13.000; constante loonkosten = 52.750 x 2 = 105.500; totaal € 118.500"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-restaurant-de-waal-antw10.png"
+        ]
+      },
+      {
+        "title": "Restaurant De Waal",
+        "question_number": 11,
+        "answer_text": "B",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-restaurant-de-waal-antw11.png"
+        ]
+      },
+      {
+        "title": "Restaurant De Waal",
+        "question_number": 12,
+        "answer_text": "Winst- en verliesrekening derde en vierde kwartaal 2020 (getallen in €)\nomzet: 490.800\nkosten:\ninkoopwaarde van de ingrediënten: 147.240\nkosten online systeem: 3.850\nhuurkosten: 11.250\nloon- en verpakkingskosten (vraag 10): 118.500\nafschrijvingskosten: 6.750\nleasekosten scooters: 1.200\nkosten online cursus: 675\noverige constante kosten: 22.450\ntotale kosten: 311.915\nbedrijfsresultaat: 178.885\n\nConclusie:\nDe maatregelen van restaurant de Waal hebben wel tot een positief bedrijfsresultaat geleid (want 178.885 > 0).\n\nberekeningen:\nomzet: (117.000 + 37.400 + 2.600 × 35) × 2 = 490.800\ninkoopwaarde van de ingrediënten: 0,30 × 490.800 = 147.240\nkosten online systeem: 2.600 / 2 + 0,25 × 10.200 = 3.850\nhuurkosten: 45.000 / 4 × 1/3 + 45.000 / 4 × 2/3 = 11.250\nleasekosten scooters: 2 × 600 (zie vraag 8) = 1.200",
+        "scoring_steps": [
+          {
+            "points": 3,
+            "description": "490.800 en 147.240 en 3.850"
+          },
+          {
+            "points": 2,
+            "description": "11.250"
+          },
+          {
+            "points": 1,
+            "description": "1.200 en 675 en 311.915"
+          },
+          {
+            "points": 1,
+            "description": "conclusie en positief bedrijfsresultaat van 178.885"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-restaurant-de-waal-antw12.png"
+        ]
+      },
+      {
+        "title": "Douwe Egberts NV",
+        "question_number": 13,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Voordeel: bij het openbaar aantrekken van vermogen zijn er meer mogelijke kredietgevers dan bij het onderhands aantrekken van vermogen, dus kan er ook een hoger bedrag opgehaald worden\n• Nadeel:\nVoorbeeld van een juist nadeel:\n– de kosten bij het openbaar aantrekken van vermogen zijn hoger dan bij het onderhands aantrekken van vermogen.\n– de concurrentie kan zien dat er vermogen wordt aangetrokken",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Voordeel: bij het openbaar aantrekken van vermogen zijn er meer mogelijke kredietgevers dan bij het onderhands aantrekken van vermogen, dus kan er ook een hoger bedrag opgehaald worden"
+          },
+          {
+            "points": 1,
+            "description": "juist nadeel"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-douwe-egberts-nv-antw13.png"
+        ]
+      },
+      {
+        "title": "Douwe Egberts NV",
+        "question_number": 14,
+        "answer_text": "B",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-douwe-egberts-nv-antw14.png"
+        ]
+      },
+      {
+        "title": "Douwe Egberts NV",
+        "question_number": 15,
+        "answer_text": "• resultaat voor belasting: 179.000.000\nvpb: 0,15 x 245.000 + 0,25 x (179.000.000 − 245.000) = 44.725.500\n• reservering: 20.000.000\nbeschikbaar totaal dividend: 114.274.500\n• aantal geplaatste aandelen 4.995.000 / 0,05 = 99.900.000\n• beschikbaar dividend per aandeel: 114.274.500 / 99.900.000 = € 1,14",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "resultaat voor belasting: 179.000.000; vpb: 0,15 x 245.000 + 0,25 x (179.000.000 − 245.000) = 44.725.500"
+          },
+          {
+            "points": 1,
+            "description": "reservering: 20.000.000; beschikbaar totaal dividend 114.274.500"
+          },
+          {
+            "points": 1,
+            "description": "aantal geplaatste aandelen 4.995.000 / 0,05 = 99.900.000"
+          },
+          {
+            "points": 1,
+            "description": "beschikbaar dividend per aandeel: 114.274.500 / 99.900.000 = € 1,14"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-douwe-egberts-nv-antw15.png"
+        ]
+      },
+      {
+        "title": "Yacien",
+        "question_number": 16,
+        "answer_text": "• Irene zal de voorkeur hebben voor het afsluiten van een abonnement/huren\n• Dat is (in tegenstelling tot koop op afbetaling) geen vorm van krediet en wordt niet geregistreerd bij BKR",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Irene zal de voorkeur hebben voor het afsluiten van een abonnement/huren"
+          },
+          {
+            "points": 1,
+            "description": "Dat is (in tegenstelling tot koop op afbetaling) geen vorm van krediet en wordt niet geregistreerd bij BKR"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-yacien-antw16.png"
+        ]
+      },
+      {
+        "title": "Yacien",
+        "question_number": 17,
+        "answer_text": "(58 × 15,09 − 700) / (12 × 61,37 − 700) = 4,81 dus de uitspraak is juist.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Voor elke gemaakte fout wordt 1 scorepunt in mindering gebracht.\nVoor het antwoord (58 × 15,09) / (12 × 61,37) = 1,19 dus de uitspraak is onjuist wordt\n⚠️ CONTROLEREN: deze opmerking is in het correctievoorschrift zelf afgebroken (de zin eindigt op “wordt”).",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-yacien-antw17.png"
+        ]
+      },
+      {
+        "title": "Yacien",
+        "question_number": 18,
+        "answer_text": "• aflossing eerste maand: 61,37 − 0,0079 x 700 = 55,84\n• aflossing tweede maand: 61,37 − 0,0079 x (700 − 55,84) = 56,28\nschuld na 2 maanden 700 − 55,84 − 56,28 = 587,88\n587,88 < 600 dus de uitspraak is juist",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "aflossing eerste maand: 61,37 − 0,0079 x 700 = 55,84"
+          },
+          {
+            "points": 1,
+            "description": "aflossing tweede maand: 61,37 − 0,0079 x (700 − 55,84) = 56,28; schuld na 2 maanden 700 − 55,84 − 56,28 = 587,88; 587,88 < 600 dus de uitspraak is juist"
+          }
+        ],
+        "grading_note": "Voor het antwoord “restschuld na 2 maanden = 700 − 2 x 61,37 = 577,26” worden geen scorepunten toegekend.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-yacien-antw18.png"
+        ]
+      },
+      {
+        "title": "Ttime",
+        "question_number": 19,
+        "answer_text": "• Weaknesses\n• omdat het gebrek aan een keurmerk negatief uitpakt op de afzet en de certificering van een keurmerk hangt af van een bedrijf zelf",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Weaknesses"
+          },
+          {
+            "points": 1,
+            "description": "omdat het gebrek aan een keurmerk negatief uitpakt op de afzet en de certificering van een keurmerk hangt af van een bedrijf zelf"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.\nVoor het tweede deelscorepunt moeten beide kenmerken genoemd worden.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-ttime-antw19.png"
+        ]
+      },
+      {
+        "title": "Ttime",
+        "question_number": 20,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nDe bijbehorende kritische succesfactor is veilig/betrouwbaar winkelen. De veiligheid/betrouwbaarheid is bepalend voor het succes van het bedrijf. Het mogen gebruiken van een keurmerk voor online winkelen is een indicatie daarvan.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-ttime-antw20.png"
+        ]
+      },
+      {
+        "title": "Ttime",
+        "question_number": 21,
+        "answer_text": "• P van plaats\n• het verkopen via een website is een voorbeeld van een distributiekanaal",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "P van plaats"
+          },
+          {
+            "points": 1,
+            "description": "het verkopen via een website is een voorbeeld van een distributiekanaal"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-ttime-antw21.png"
+        ]
+      },
+      {
+        "title": "Ttime",
+        "question_number": 22,
+        "answer_text": "a\n14 dagen na ontvangst is een langere bedenktijd dan 14 dagen na bestelling.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Zonder juiste motivatie wordt geen scorepunt toegekend.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-ttime-antw22.png"
+        ]
+      },
+      {
+        "title": "Ttime",
+        "question_number": 23,
+        "answer_text": "Voorbeelden van een goed antwoord:\n− Een voldoende current ratio geeft enige zekerheid met betrekking tot de liquiditeitspositie, waardoor de kans op surseance van betaling en/of faillissement afneemt / Thuiswinkel Waarborg meer zekerheid heeft over de (jaarlijkse) certificeringsontvangsten.\n− Surseance van betaling / faillissementen van aangesloten bedrijven schaden de naam/reputatie van Thuiswinkel Waarborg.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-ttime-antw23.png"
+        ]
+      },
+      {
+        "title": "Ttime",
+        "question_number": 24,
+        "answer_text": "Balans per 31 december 2021 (getallen x € 1)\ndebet:\nVaste activa: 17.000\nVoorraad: 7.750\nDebiteuren: 24.805\nTe vorderen btw: 3.810\nLiquide middelen: 8.690\ntotaal debet: 62.055\ncredit:\nEigen vermogen: 53.750\nTe betalen btw: 8.305\ntotaal credit: 62.055\n\nberekeningen:\nVoorraad: 14.000 + 4.840 / 1,21 − 10.250 = 7.750\nDebiteuren: 20.500 × 1,21 = 24.805\nTe vorderen btw: 1.500 + (2.420 + 4.840 + 6.050) / 1,21 × 0,21 = 3.810\nLiquide middelen: 6.500 + 2.190 = 8.690\nAfschrijvingskosten vaste activa: 20.000 + 6.050 / 1,21 − 17.000 = 8.000\nEigen vermogen: 53.500 + 250 (= 20.500 − 10.250 − 2.000 − 8.000) = 53.750\nTe betalen btw: 4.000 + 20.500 × 0,21 = 8.305",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "7.750"
+          },
+          {
+            "points": 1,
+            "description": "24.805"
+          },
+          {
+            "points": 1,
+            "description": "3.810"
+          },
+          {
+            "points": 1,
+            "description": "8.690 en 8.000"
+          },
+          {
+            "points": 1,
+            "description": "53.750 en 8.305 en 62.055"
+          }
+        ],
+        "grading_note": "Als de btw verkeerd is berekend, wordt maximaal 1 scorepunt in mindering gebracht.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-ttime-antw24.png"
+        ]
+      },
+      {
+        "title": "Ttime",
+        "question_number": 25,
+        "answer_text": "• De solvabiliteitsratio is 53.750 / 8.305 = 6,47 > 4\n• De current ratio is (7.750 + 24.805 + 3.810 + 8.690) / 8.305 = 5,43 > 1,5\ndus Ttime voldoet ook aan stap 3 en wordt gecertificeerd",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De solvabiliteitsratio is 53.750 / 8.305 = 6,47 > 4"
+          },
+          {
+            "points": 1,
+            "description": "De current ratio is (7.750 + 24.805 + 3.810 + 8.690) / 8.305 = 5,43 > 1,5 dus Ttime voldoet ook aan stap 3 en wordt gecertificeerd"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-ttime-antw25.png"
+        ]
+      },
+      {
+        "title": "Spaarzegels bij supermarkten",
+        "question_number": 26,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Klanten gebruiken de app ook voor het bekijken van aanbiedingen en dergelijke.\n− PLUS krijgt informatie over klantgedrag en kan zo gepersonaliseerde aanbiedingen sturen.\n− PLUS heeft een milieuvriendelijk imago, omdat er op papier wordt bespaard.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist antwoord en toelichting"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist antwoord en toelichting"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-spaarzegels-bij-supermarkten-antw26.png"
+        ]
+      },
+      {
+        "title": "Spaarzegels bij supermarkten",
+        "question_number": 27,
+        "answer_text": "• een vol boekje: 0,02 x 200 = 4\n• (6 − 4) / 4 × 100% = 50%",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "een vol boekje: 0,02 x 200 = 4"
+          },
+          {
+            "points": 1,
+            "description": "(6 − 4) / 4 × 100% = 50%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-spaarzegels-bij-supermarkten-antw27.png"
+        ]
+      },
+      {
+        "title": "Spaarzegels bij supermarkten",
+        "question_number": 28,
+        "answer_text": "D\nToelichting:\nPas bij het inleveren van een vol zegelboekje daalt het eigen vermogen, niet bij de aanschaf van losse zegels.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-spaarzegels-bij-supermarkten-antw28.png"
+        ]
+      },
+      {
+        "title": "Spaarzegels bij supermarkten",
+        "question_number": 29,
+        "answer_text": "Het opnemen kan pas als het “spaarboekje” vol is.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2022-i-spaarzegels-bij-supermarkten-antw29.png"
+        ]
+      }
+    ]
+  }
+}
