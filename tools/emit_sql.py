@@ -260,7 +260,8 @@ def main():
         # vraag; every informatiebron / formuleblad linked at least once
         for c in ex["context_blocks"]:
             users = [n for n in nums if c["n"] in a["q"][n][0]]
-            if c.get("uwb_vraag") is not None and users != [c["uwb_vraag"]]:
+            # a shared uwb ("11 en 13", HAVO-BECO-21-III-O.pdf) belongs to both vragen
+            if c.get("uwb_vraag") is not None and users != (c.get("uwb_vragen") or [c["uwb_vraag"]]):
                 problems.append(f"{ex['title']}: uitwerkbijlage{c['uwb_vraag']} linked to {users}")
             if c.get("kind") in ("bron", "formuleblad") and not users:
                 problems.append(f"{ex['title']}: {c['kind']} c{c['n']} not linked")
