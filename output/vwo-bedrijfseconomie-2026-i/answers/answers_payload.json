@@ -1,0 +1,540 @@
+{
+ "payload": {
+  "subject_name": "Bedrijfseconomie",
+  "level": "VWO",
+  "source": "VWO Bedrijfseconomie 2026-I",
+  "answers": [
+   {
+    "title": "Pear nv",
+    "question_number": 1,
+    "answer_text": "• Producten zijn duurder dan die van de concurrentie.\n• Het is intern (en negatief) / Pear heeft er zelf invloed op, dus hoort het bij W(eakness).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Producten zijn duurder dan die van de concurrentie."
+     },
+     {
+      "points": 1,
+      "description": "Het is intern (en negatief) / Pear heeft er zelf invloed op, dus hoort het bij W(eakness)."
+     }
+    ],
+    "grading_note": "Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-pear-nv-antw1.png"
+    ]
+   },
+   {
+    "title": "Pear nv",
+    "question_number": 2,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\na (Immateriële vaste activa:) goodwill, vergunningen, patenten/octrooien, licenties, concessies, software\nb (Materiële vaste activa:) pand, auto, machine, inventaris\nc (Financiële vaste activa): deelneming, (hypothecaire) lening uitgeleend geld, effecten langer dan 1 jaar",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "indien 3 juist: 2 scorepunten; indien 2 juist: 1 scorepunt; indien 1 of 0 juist: 0 scorepunten"
+     }
+    ],
+    "grading_note": "Van iedere groep vaste activa hoeft maar één voorbeeld te worden gegeven.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-pear-nv-antw2.png"
+    ]
+   },
+   {
+    "title": "Pear nv",
+    "question_number": 3,
+    "answer_text": "31 december 2024: (5.332 + 936 + 6.720) / 11.093 = 1,17\n31 december 2025: (3.674 + 1.451 + 5.348) / 11.071 = 0,95\nde liquiditeit is verslechterd (want 0,95 < 1,17)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-pear-nv-antw3.png"
+    ]
+   },
+   {
+    "title": "Pear nv",
+    "question_number": 4,
+    "answer_text": "• : nee / geen gevolgen / blijft gelijk\nEen herwaardering heeft geen gevolgen voor de teller / vlottende activa (exclusief voorraden) en voor de noemer / het kort vreemd vermogen.\n• : ja / verbetering\nDe teller zal stijgen / de vlottende activa (exclusief voorraden) / liquide middelen zullen stijgen. De noemer / het kort vreemd vermogen zal gelijk blijven.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "nee / geen gevolgen / blijft gelijk, met juiste toelichting (geen gevolgen voor teller en noemer)"
+     },
+     {
+      "points": 1,
+      "description": "ja / verbetering, met juiste toelichting (teller stijgt, noemer blijft gelijk)"
+     }
+    ],
+    "grading_note": "Als er een onjuiste toelichting wordt gegeven op het teller- of noemereffect bij a en/of b wordt voor dit onderdeel geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-pear-nv-antw4.png"
+    ]
+   },
+   {
+    "title": "DroomKaas bv",
+    "question_number": 5,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n• geen andere afzetkanalen / afnemers (dan de supermarktketens)\n• waardoor DroomKaas voor zijn afzet volledig afhankelijk is van de supermarktketens\nof\n• er zijn ook andere bedrijven voor kaasrijping actief\n• waardoor supermarktketens kunnen overstappen naar concurrenten",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "geen andere afzetkanalen / afnemers (dan de supermarktketens) / er zijn ook andere bedrijven voor kaasrijping actief"
+     },
+     {
+      "points": 1,
+      "description": "waardoor DroomKaas voor zijn afzet volledig afhankelijk is van de supermarktketens / waardoor supermarktketens kunnen overstappen naar concurrenten"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-droomkaas-bv-antw5.png"
+    ]
+   },
+   {
+    "title": "DroomKaas bv",
+    "question_number": 6,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n• risico op prijsdaling\n• In het nieuwe bedrijfsmodel worden er vaste prijsafspraken per jaar gemaakt (, terwijl bij het oude bedrijfsmodel er ieder half jaar onderhandeld kon worden).\nof\n• voorraadrisico\n• In het nieuwe bedrijfsmodel is DroomKaas geen eigenaar meer van de voorraad (, terwijl in het oude bedrijfsmodel DroomKaas als eigenaar met onverkochte voorraad kon blijven zitten).\nof\n• risico op omzetdaling\n• In het nieuwe bedrijfsmodel hebben ze meer afnemers (boeren in plaats van supermarktketens), waardoor het wegvallen van één afnemer minder invloed heeft op de omzet.\nof\n• risico op afzetdaling\n• want er zijn contracten afgesloten met de boer over de hoeveelheid kaas.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "juist risico (prijsdaling / voorraadrisico / omzetdaling / afzetdaling)"
+     },
+     {
+      "points": 1,
+      "description": "juiste toelichting waarom het risico in het nieuwe bedrijfsmodel kleiner is"
+     }
+    ],
+    "grading_note": "Het risico mag ook omschreven worden voor de eerste deelscore.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-droomkaas-bv-antw6.png"
+    ]
+   },
+   {
+    "title": "DroomKaas bv",
+    "question_number": 7,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nDe oude kazen liggen langer in het kaaspakhuis, leggen daardoor een groter beslag op de ruimte / kapitaal / personeel (en dus op een groter deel van de huur / interest / personeelskosten).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Het uitsluitend noemen van een langer rijpingsproces is onvoldoende voor het toekennen van het scorepunt.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-droomkaas-bv-antw7.png"
+    ]
+   },
+   {
+    "title": "DroomKaas bv",
+    "question_number": 8,
+    "answer_text": "• jonge kaas: 0,20 + 1/3 × 90.000 / 75.000 = 0,20 + 0,40 = € 0,60\n• oude kaas: 0,50 + 2/3 × 90.000 / 30.000 = 0,50 + 2,00 = € 2,50\n• 78.000 x (1,50 – 0,60) + 24.000 x (3,70 – 2,50) = € 99.000",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "jonge kaas € 0,60 en oude kaas € 2,50"
+     },
+     {
+      "points": 1,
+      "description": "78.000 x (1,50 – 0,60) + 24.000 x (3,70 – 2,50) = € 99.000"
+     }
+    ],
+    "grading_note": "Bij de eerste deelscore voor elke fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-droomkaas-bv-antw8.png"
+    ]
+   },
+   {
+    "title": "DroomKaas bv",
+    "question_number": 9,
+    "answer_text": "Ja, DroomKaas mag bij de individuele arbeidsovereenkomst afwijken van de cao als dit in het voordeel van de werknemer is.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-droomkaas-bv-antw9.png"
+    ]
+   },
+   {
+    "title": "DroomKaas bv",
+    "question_number": 10,
+    "answer_text": "(3.566 x 6 x 1,08 + (0,5 x 3.200)) x 1,30 = € 32.120",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.\nAls de sociale lasten alleen over het basisbrutoloon zijn berekend 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-droomkaas-bv-antw10.png"
+    ]
+   },
+   {
+    "title": "DroomKaas bv",
+    "question_number": 11,
+    "answer_text": "budgetresultaat op constante kosten (getal x € 1):\nbezettingsresultaat op jonge kaas: 1.200 positief/+\nbezettingsresultaat op oude kaas: (24.000 – 30.000) x 2 (vraag 8) = 12.000 negatief/–\nprijsresultaat overige constante kosten: 0\nprijsresultaat loonkosten: 30.000 – 32.120 (vraag 10) = 2.120 negatief/–\nbudgetresultaat op constante kosten: (12.920 negatief/–)\n\nbudgetresultaat op variabele kosten (getal x € 1):\nprijsresultaat op jonge kaas: 7.800 negatief/–\nprijsresultaat op oude kaas: 24.000 x (0,50 – 0,55) = 1.200 negatief/–\nbudgetresultaat op variabele kosten: (9.000 negatief/–)\n\nhet totale budgetresultaat (getal x € 1):\ntotale budgetresultaat: – 9.000 – 12.920 = 21.920 negatief/–",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "12.000 negatief/–"
+     },
+     {
+      "points": 1,
+      "description": "2.120 negatief/–"
+     },
+     {
+      "points": 1,
+      "description": "1.200 negatief/–"
+     },
+     {
+      "points": 1,
+      "description": "21.920 negatief/–"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-droomkaas-bv-antw11.png"
+    ]
+   },
+   {
+    "title": "DroomKaas bv",
+    "question_number": 12,
+    "answer_text": "Voorbeelden van een juiste berekening zijn:\neerste deelscore:\n• Resultaat: verkoopresultaat + budgetresultaat = 99.000 (vraag 8) – 21.920 (vraag 11) = 77.080\nof\nResultaat: omzet – kosten = 78.000 x 1,50 + 24.000 x 3,70 – (78.000 x 0,3 + 24.000 x 0,55 + 60.000 + 32.120 (vraag 10) = 77.080\n\ntweede deelscore:\n• Het resultaat in het tweede halfjaar van 2024 bedraagt: 110.000 x 0,92 x 0,92 x 0,93 x 0,95 = 82.257,38.\n\nderde deelscore:\n• De procentuele daling in het eerste halfjaar 2025 ten opzichte van het tweede halfjaar 2024: (77.080 − 82.257,38) / 82.257,38 x 100% = – 6,3%. Dat is voor Frans acceptabel (omdat het minder dan 10% daling is).\nof\n€ 77.080 > 0,90 x € 82.257,38, dus is het voor Frans acceptabel.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "resultaat eerste halfjaar 2025: 77.080"
+     },
+     {
+      "points": 1,
+      "description": "resultaat tweede halfjaar 2024: 82.257,38"
+     },
+     {
+      "points": 1,
+      "description": "daling – 6,3% (of € 77.080 > 0,90 x € 82.257,38), dus acceptabel voor Frans"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-droomkaas-bv-antw12.png"
+    ]
+   },
+   {
+    "title": "NLD bank",
+    "question_number": 13,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− minder afboeking van oninbare debiteuren\n− minder incassokosten / deurwaarderskosten\n− minder kosten van debiteurenbeheer\n− minder personeelskosten",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-nld-bank-antw13.png"
+    ]
+   },
+   {
+    "title": "NLD bank",
+    "question_number": 14,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Promotie(beleid): er kan met minder uitgaven aan reclame worden volstaan (om bestaande klanten van de bank te behouden).\n− Product(beleid): banken kunnen volstaan met minder service (om bestaande klanten tevreden te houden) / banken hoeven minder nieuwe producten te ontwikkelen (om bestaande klanten tevreden te houden / om te voorkomen dat ze overstappen) / banken kunnen een lagere rente op een spaarrekening aanbieden.\n− Plaats(beleid): banken kunnen volstaan met minder vestigingen (om bestaande klanten van de bank te behouden).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord met bijbehorende toelichting"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord met bijbehorende toelichting"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-nld-bank-antw14.png"
+    ]
+   },
+   {
+    "title": "NLD bank",
+    "question_number": 15,
+    "answer_text": "• resultaat na belasting: 2.800.000.000 – 0,19 x 200.000 – 0,258 x (2.800.000.000 – 200.000) = 2.077.613.600\n• aantal geplaatste aandelen: 1.796.000.000 / 2 = 898.000.000\ndividend per aandeel: 0,45 × 2.077.613.600 / 898.000.000 = 1,04\n• gemiddelde beurskoers: (13,16 + 13,42) / 2 = 13,29\ndividendrendement: 1,04 / 13,29 × 100% = 7,8%",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "resultaat na belasting: 2.077.613.600"
+     },
+     {
+      "points": 1,
+      "description": "aantal geplaatste aandelen 898.000.000 en dividend per aandeel 1,04"
+     },
+     {
+      "points": 1,
+      "description": "gemiddelde beurskoers 13,29 en dividendrendement 7,8% (⚠️ CONTROLEREN: bij dit deelpunt staat in het correctievoorschrift geen scorepunt; afgeleid uit maximumscore 3)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-nld-bank-antw15.png"
+    ]
+   },
+   {
+    "title": "NLD bank",
+    "question_number": 16,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n• Voor de aandeelhouders:\n− Aandeelhouders lopen het risico op waardedaling van de aandelen.\nof\n− Het is onzeker of / hoeveel dividend er beschikbaar wordt gesteld.\n• Voor de spaarders:\n− Spaarders ontvangen (meestal) interest op het spaargeld.\n− Voor spaarders geldt het depositogarantiestelsel (de Nederlandse overheid staat garant voor maximaal € 100.000)\nOf\nIn geval van faillissement gaan spaarders voor aandeelhouders bij het verdelen van de boedel.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor de aandeelhouders: juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "Voor de spaarders: juist antwoord (het alternatieve antwoord 'In geval van faillissement gaan spaarders voor aandeelhouders bij het verdelen van de boedel' levert 2 scorepunten op)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-nld-bank-antw16.png"
+    ]
+   },
+   {
+    "title": "Wings nv",
+    "question_number": 17,
+    "answer_text": "• c\n• Bij de eerste termijn wordt eerst het geld ontvangen en daarna worden de goederen geleverd (afnemerskrediet).\nBij de tweede termijn worden eerst de goederen geleverd en daarna wordt het geld ontvangen (leverancierskrediet).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "c"
+     },
+     {
+      "points": 1,
+      "description": "juiste uitleg: eerste termijn afnemerskrediet, tweede termijn leverancierskrediet"
+     }
+    ],
+    "grading_note": "Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-wings-nv-antw17.png"
+    ]
+   },
+   {
+    "title": "Wings nv",
+    "question_number": 18,
+    "answer_text": "20 miljard x 0,60 x 0,75 x 1,21 = € 10,89 miljard",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-wings-nv-antw18.png"
+    ]
+   },
+   {
+    "title": "Wings nv",
+    "question_number": 19,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− een afboeking van de vordering op Skybus uit 2025\n− een enorm omzetverlies voor Wings / het verlies van een grote klant voor Wings\n− extra kosten door ontslaan van personeel",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-wings-nv-antw19.png"
+    ]
+   },
+   {
+    "title": "Personal Gym vof",
+    "question_number": 20,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Crowdfunding kan ervoor zorgen dat Personal Gym bekender wordt.\n− De voorwaarden voor kredietverlening (interestpercentage en aflossing) via crowdfunding kunnen gunstiger zijn.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-personal-gym-vof-antw20.png"
+    ]
+   },
+   {
+    "title": "Personal Gym vof",
+    "question_number": 21,
+    "answer_text": "Hypotheekrecht kan alleen gegeven worden bij leningen voor onroerende goederen (en fitnessapparaten zijn roerende goederen).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Onroerend goed expliciet benoemen of een voorbeeld van een onroerend goed geven is noodzakelijk voor 1 scorepunt.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-personal-gym-vof-antw21.png"
+    ]
+   },
+   {
+    "title": "Personal Gym vof",
+    "question_number": 22,
+    "answer_text": "Balans Personal Gym per 1 januari 2026 (na investering en financiering), getallen x € 1:\ndebet: Vaste activa 96.000; Fitnessapparatuur (nieuwe vaste activa) 35.000; Te vorderen btw 7.350; Liquide middelen 15.000; totaal 153.350\ncredit: Eigen vermogen 75.444; Banklening 45.556; Crowdfunding 32.350; totaal 153.350\n\nFitnessapparatuur: 42.350 / 1,21 = 35.000\nTe vorderen btw: 0,21 x 35.000 = 7.350\nLiquide middelen: 25.000 – 10.000 = 15.000\nCrowdfunding: 42.350 – 10.000 = 32.350 en 153.350",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "35.000 en 7.350"
+     },
+     {
+      "points": 1,
+      "description": "15.000, 153.350 en 32.350"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-personal-gym-vof-antw22.png"
+    ]
+   },
+   {
+    "title": "Personal Gym vof",
+    "question_number": 23,
+    "answer_text": "(45.556 + 32.350) / 153.350 × 100% = 50,8%, dus de waardering is voldoende / 5 punten.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-personal-gym-vof-antw23.png"
+    ]
+   },
+   {
+    "title": "Personal Gym vof",
+    "question_number": 24,
+    "answer_text": "getallen x € 1:\neerste halfjaar: schuld 45.556,00; interest 1.366,68; aflossing 2.666,32; annuïteit 4.033\ntweede halfjaar: schuld 42.889,68; interest 1.286,69; aflossing 2.746,31; annuïteit 4.033\ntotaal: interest 2.653,37; aflossing 5.412,63; annuïteit 8.066\n\nToelichting\neerste halfjaar:\n0,03 x 45.556,00 = 1.366,68 en 4.033 – 1.366,68 = 2.666,32\ntweede halfjaar:\n0,03 x 42.889,68 = 1.286,69 en 4.033 – 1.286,69 = 2.746,31",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "1.366,68 en 2.666,32"
+     },
+     {
+      "points": 1,
+      "description": "2.653,37 en 5.412,63"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-personal-gym-vof-antw24.png"
+    ]
+   },
+   {
+    "title": "Personal Gym vof",
+    "question_number": 25,
+    "answer_text": "Exploitatiebegroting 2026 (getallen x € 1)\nomzet: 94.200\nkosten:\nverzekeringskosten: 4.800\nhuisvestingskosten: 7.000\nafschrijvingskosten: 22.200\nmarketingkosten: 1.000\ninterestkosten banklening (zie vraag 24): 2.653,37\ninterestkosten crowdfunding: 1.905,42\noverige kosten: 2.000\ntotale kosten: 41.558,79\nresultaat: 52.641,21\n\n• 0,12 × (96.000 / 0,64 + 42.350 / 1,21) = 22.200\n• (0,062 × 32.350 × 0,5) + 0,062 × (32.350 − 32.350 / 10) × 0,5 = 1.905,42\n• 41.558,79 en 52.641,21",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "0,12 × (96.000 / 0,64 + 42.350 / 1,21) = 22.200"
+     },
+     {
+      "points": 1,
+      "description": "(0,062 × 32.350 × 0,5) + 0,062 × (32.350 − 32.350 / 10) × 0,5 = 1.905,42"
+     },
+     {
+      "points": 1,
+      "description": "41.558,79 en 52.641,21"
+     }
+    ],
+    "grading_note": "Bij de eerste deelscore voor elke fout 1 scorepunt in mindering brengen.\nIedere juiste manier van afronden goedkeuren.\n⚠️ CONTROLEREN: maximumscore is 4, maar het correctievoorschrift toont slechts drie deelscores van 1 scorepunt.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-personal-gym-vof-antw25.png"
+    ]
+   },
+   {
+    "title": "Personal Gym vof",
+    "question_number": 26,
+    "answer_text": "(5.412,63 + 2 × 3.235) / (52.641,21 + 22.200) × 100% = 15,88%, dus de waardering is zeer goed / 40 punten.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-personal-gym-vof-antw26.png"
+    ]
+   },
+   {
+    "title": "Personal Gym vof",
+    "question_number": 27,
+    "answer_text": "• Het totale aantal punten: 20 (zekerheden) + 5 (solvabiliteit) + 40 (afloscapaciteit) = 65.\n• 65 punten geeft een CCS met de waardering goed en daarmee kunnen ze de investering en financiering doorzetten.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het totale aantal punten: 20 (zekerheden) + 5 (solvabiliteit) + 40 (afloscapaciteit) = 65."
+     },
+     {
+      "points": 1,
+      "description": "65 punten geeft een CCS met de waardering goed en daarmee kunnen ze de investering en financiering doorzetten."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-personal-gym-vof-antw27.png"
+    ]
+   },
+   {
+    "title": "Kim en Tarik",
+    "question_number": 28,
+    "answer_text": "• 13.965,82 x 13,417312 = € 187.383,76\n(a = 1,0375⁻¹⁹ ; r = 1,0375 ; n = 19 S = 13,417312)\n• Kim ontvangt: (756.000 − 187.383,76) / 2 = € 284.308,12 (= 284.308)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "13.965,82 x 13,417312 = € 187.383,76"
+     },
+     {
+      "points": 1,
+      "description": "Kim ontvangt: (756.000 − 187.383,76) / 2 = € 284.308,12"
+     }
+    ],
+    "grading_note": "Bij de eerste deelscore voor elke fout 1 scorepunt in mindering brengen.\nAls de restschuld op een andere wijze is berekend bij de eerste deelscore maximaal 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-kim-en-tarik-antw28.png"
+    ]
+   },
+   {
+    "title": "Kim en Tarik",
+    "question_number": 29,
+    "answer_text": "• vermogen bij overlijden: 284.308,12 x 1,0012⁹ = 287.393,43\n• erfenis per dochter voor erfbelasting: (287.393,43 − 30.000) / 2 = 128.696,71\n• 128.696,71 – 0,10 x (128.696,71 – 25.490) = € 118.376(,04)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "vermogen bij overlijden: 287.393,43"
+     },
+     {
+      "points": 1,
+      "description": "erfenis per dochter voor erfbelasting: 128.696,71"
+     },
+     {
+      "points": 1,
+      "description": "128.696,71 – 0,10 x (128.696,71 – 25.490) = € 118.376(,04)"
+     }
+    ],
+    "grading_note": "Als een kandidaat met een zelfverzonnen vermogen begint omdat opgave 28 niet is gemaakt, kunnen alle scorepunten worden behaald.\nAls er tussentijds naar beneden is afgerond op hele euro’s, dan moet dit goedgerekend worden.",
+    "answer_image_urls": [
+     "bedrijfseconomie-vwo-2026-i-kim-en-tarik-antw29.png"
+    ]
+   }
+  ]
+ }
+}
