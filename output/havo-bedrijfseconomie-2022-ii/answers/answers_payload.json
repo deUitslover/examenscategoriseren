@@ -1,0 +1,536 @@
+{
+ "payload": {
+  "subject_name": "Bedrijfseconomie",
+  "level": "HAVO",
+  "source": "HAVO Bedrijfseconomie 2022-II",
+  "answers": [
+   {
+    "title": "Benno",
+    "question_number": 1,
+    "answer_text": "• (Staats)obligatie\n• Voorbeeld van een juiste uitleg:\n– koersen van obligaties schommelen minder dan koersen van aandelen\n– obligaties geven een vaste interestvergoeding (en aandelen een minder goed voorspelbare dividenduitkering)\n– obligaties worden afgelost, aandelen niet",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(Staats)obligatie"
+     },
+     {
+      "points": 1,
+      "description": "juiste uitleg, bijvoorbeeld: koersen van obligaties schommelen minder dan koersen van aandelen / obligaties geven een vaste interestvergoeding / obligaties worden afgelost, aandelen niet"
+     }
+    ],
+    "grading_note": "Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-benno-antw1.png"
+    ]
+   },
+   {
+    "title": "Benno",
+    "question_number": 2,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nMensen blijven eten afhalen/ laten bezorgen terwijl ze niet meer in restaurants/cafés/ bij evenementen bier gaan drinken. Beleggers reageren daarop door meer aandelen Just Eat Takeway te kopen (wat de koers doet stijgen). De vraag naar bier zal dalen en dus ook de vraag naar aandelen Heineken. (Hierdoor daalt de koers van het aandeel Heineken.)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-benno-antw2.png"
+    ]
+   },
+   {
+    "title": "Benno",
+    "question_number": 3,
+    "answer_text": "• koersstijging in oktober 2019 – oktober 2020: (95,76 − 72,95) / 72,95 x 100% = 31,3%\n• koers op 1 oktober 2026: 95,76 x 1,313⁶ = € 490,65",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "koersstijging in oktober 2019 – oktober 2020: (95,76 − 72,95) / 72,95 x 100% = 31,3%"
+     },
+     {
+      "points": 1,
+      "description": "koers op 1 oktober 2026: 95,76 x 1,313⁶ = € 490,65"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-benno-antw3.png"
+    ]
+   },
+   {
+    "title": "Benno",
+    "question_number": 4,
+    "answer_text": "• pakket 50 aandelen op 1 oktober 2020 = 50 x 95,76 = 4.788\npakket 50 aandelen op 1 oktober 2021 = 50 x 95,76 x 1,313 = 6.286,64\n• totale koerswinst = 100 x 490,65 – (4.788 + 6.286,64) = € 37.990,36",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "pakket 50 aandelen op 1 oktober 2020 = 50 x 95,76 = 4.788; pakket 50 aandelen op 1 oktober 2021 = 50 x 95,76 x 1,313 = 6.286,64"
+     },
+     {
+      "points": 1,
+      "description": "totale koerswinst = 100 x 490,65 – (4.788 + 6.286,64) = € 37.990,36"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-benno-antw4.png"
+    ]
+   },
+   {
+    "title": "Cor Lok",
+    "question_number": 5,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n– inschrijving bij de kamer van Koophandel (KvK)\n– registratie bij de Belastingdienst\n– aanvragen van vergunningen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Bij inschrijving bij de KvK wordt automatisch de registratie bij de Belastingdienst volbracht en vergunningen zijn niet altijd nodig. Desondanks worden deze antwoorden goedgerekend, want deze antwoorden worden genoemd in de syllabus.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-cor-lok-antw5.png"
+    ]
+   },
+   {
+    "title": "Cor Lok",
+    "question_number": 6,
+    "answer_text": "• huur in maart: 1.600 (vooruitbetaalde huur volgens balans)\nhuur vanaf 1 april: 3000 / 3 1.000 per maand\nhuurverlaging: 1.600 – 1.000 = € 600 per maand",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "huur in maart: 1.600 (vooruitbetaalde huur volgens balans)"
+     },
+     {
+      "points": 1,
+      "description": "huur vanaf 1 april: 3000 / 3 = 1.000 per maand; huurverlaging: 1.600 – 1.000 = € 600 per maand"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-cor-lok-antw6.png"
+    ]
+   },
+   {
+    "title": "Cor Lok",
+    "question_number": 7,
+    "answer_text": "inkopen/a: 30% van 11.990 = € 3.597",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-cor-lok-antw7.png"
+    ]
+   },
+   {
+    "title": "Cor Lok",
+    "question_number": 8,
+    "answer_text": "• januari en februari 3.750 – 1.125 = 2.625\n• maart: 11.990 / 1,09 × 0,09 − 3.597 / 1,09 × 0,09 = 990 − 297 = 693\ntotaal 2.625 + 693 = € 3.318",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "januari en februari 3.750 – 1.125 = 2.625"
+     },
+     {
+      "points": 1,
+      "description": "maart: 11.990 / 1,09 × 0,09 − 3.597 / 1,09 × 0,09 = 990 − 297 = 693; totaal 2.625 + 693 = € 3.318"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-cor-lok-antw8.png"
+    ]
+   },
+   {
+    "title": "Cor Lok",
+    "question_number": 9,
+    "answer_text": "• Interestkosten/c: 0,005 x (15.999 – 326 – 328) = 76,72 dus 77\n• Aflossing/d: (326 + 80) – 77 = € 329",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Interestkosten/c: 0,005 x (15.999 – 326 – 328) = 76,72 dus 77"
+     },
+     {
+      "points": 1,
+      "description": "Aflossing/d: (326 + 80) – 77 = € 329"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-cor-lok-antw9.png"
+    ]
+   },
+   {
+    "title": "Cor Lok",
+    "question_number": 10,
+    "answer_text": "1. Wat was de omzet (exclusief btw) in het jaar 2019? 240.000\n2. Wat is de verwachte omzet (exclusief btw) in de maanden:\n– maart 2020: 11.000\n– april 2020: 6.000\n– mei 2020: 6.000\n3. verwacht percentage (3 decimalen) omzetdaling: 61,667%\n4. NOW tegemoetkoming: 9.990,05 → 9.990\n\nruimte voor berekeningen:\nomzet maart 2020: 11.990 / 1,09\nomzet april 2020: 6.540 / 1,09\nomzet mei 2020: 6.540 / 1,09\n% omzetdaling: (11.000 + 6.000 + 6.000) / 3 − 240.000 / 12\nNOW tegemoetkoming: 61,667% × 900% = 61,667%\n\n• 11.000 en 6.000 en 6.000\n• 61,667%\n• 9.990",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "11.000 en 6.000 en 6.000"
+     },
+     {
+      "points": 2,
+      "description": "61,667%"
+     },
+     {
+      "points": 2,
+      "description": "9.990"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-cor-lok-antw10.png"
+    ]
+   },
+   {
+    "title": "Cor Lok",
+    "question_number": 11,
+    "answer_text": "• Constante kosten 3 maanden:\nInterest: 80 + 78 + 77 = 235\n• Loon: 18.000 – 9.990 = 8.010\n• Afschrijving: 3 x 250 = 750\nHuur: 3.600\nReclame + overig: 1.500\n235 + 8.010 + 750 + 3.600 + 1.500 > 4.000 (komt in aanmerking voor TOGS)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Constante kosten 3 maanden: Interest: 80 + 78 + 77 = 235"
+     },
+     {
+      "points": 1,
+      "description": "Loon: 18.000 – 9.990 = 8.010"
+     },
+     {
+      "points": 1,
+      "description": "Afschrijving: 3 x 250 = 750; Huur: 3.600; Reclame + overig: 1.500; 235 + 8.010 + 750 + 3.600 + 1.500 > 4.000 (komt in aanmerking voor TOGS)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-cor-lok-antw11.png"
+    ]
+   },
+   {
+    "title": "Sanne en Nico",
+    "question_number": 13,
+    "answer_text": "Het vermogen van Nico wordt beschermd tegen een eventueel faillissement en schuldeisers van de onderneming van Sanne.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-sanne-en-nico-antw13.png"
+    ]
+   },
+   {
+    "title": "Sanne en Nico",
+    "question_number": 14,
+    "answer_text": "A",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-sanne-en-nico-antw14.png"
+    ]
+   },
+   {
+    "title": "Sanne en Nico",
+    "question_number": 15,
+    "answer_text": "• koopwoning = 1/2 × (400.000 − 50.000) = 175.000,00\n• spaargeld = 1/2 × 20.000 × 1,021¹¹ = 12.568,49\n• overige bezittingen = 15.000,00 +\n€ 202.568,49",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "koopwoning = 1/2 × (400.000 − 50.000) = 175.000,00"
+     },
+     {
+      "points": 1,
+      "description": "spaargeld = 1/2 × 20.000 × 1,021¹¹ = 12.568,49"
+     },
+     {
+      "points": 1,
+      "description": "overige bezittingen = 15.000,00; totaal € 202.568,49"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-sanne-en-nico-antw15.png"
+    ]
+   },
+   {
+    "title": "Sanne en Nico",
+    "question_number": 16,
+    "answer_text": "• erfdeel van iedere erfgenaam zonder testament = 1/3 × 202.568,49 = 67.522,83\n• legitieme portie Yari = 1/2 × 67.522,83 = 33.761,42\n• 33.761,42 – 0,1 x (33.761,42 - 20.946) = € 32.479,88",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "erfdeel van iedere erfgenaam zonder testament = 1/3 × 202.568,49 = 67.522,83"
+     },
+     {
+      "points": 1,
+      "description": "legitieme portie Yari = 1/2 × 67.522,83 = 33.761,42"
+     },
+     {
+      "points": 2,
+      "description": "33.761,42 – 0,1 x (33.761,42 - 20.946) = € 32.479,88"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-sanne-en-nico-antw16.png"
+    ]
+   },
+   {
+    "title": "S&P Oil vof",
+    "question_number": 17,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– Een ondernemer krijgt geen geld als hij bijvoorbeeld ziek is en mensen in loondienst wel.\n– Een ondernemer bouwt geen pensioen op, mensen in loondienst wel.\n– Het inkomen van een ondernemer kan wisselen en mensen in loondienst hebben een stabieler inkomen.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-sp-oil-vof-antw17.png"
+    ]
+   },
+   {
+    "title": "S&P Oil vof",
+    "question_number": 18,
+    "answer_text": "Interestkosten zijn onafhankelijk van de behaalde afzet/omzet.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-sp-oil-vof-antw18.png"
+    ]
+   },
+   {
+    "title": "S&P Oil vof",
+    "question_number": 19,
+    "answer_text": "• break-evenafzet: (3.600 + 650 + 450 + 2.980) / (4,80 − 2,00 − 0,40) = 3.200\n• afzet in kwartaal 1: 14.400 / 4,80 = 3.000, dus 200 flessen meer",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "break-evenafzet: (3.600 + 650 + 450 + 2.980) / (4,80 − 2,00 − 0,40) = 3.200"
+     },
+     {
+      "points": 1,
+      "description": "afzet in kwartaal 1: 14.400 / 4,80 = 3.000, dus 200 flessen meer"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-sp-oil-vof-antw19.png"
+    ]
+   },
+   {
+    "title": "S&P Oil vof",
+    "question_number": 20,
+    "answer_text": "• cashflow = resultaat + afschrijving = 6.645 + 650 = 7.295\n• benodigde cashflow: 2 x 3.500 + 30.000 / 10 = 10.000\n7.295 < 10.000: doelstelling niet behaald",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "cashflow = resultaat + afschrijving = 6.645 + 650 = 7.295"
+     },
+     {
+      "points": 1,
+      "description": "benodigde cashflow: 2 x 3.500 + 30.000 / 10 = 10.000; 7.295 < 10.000: doelstelling niet behaald"
+     }
+    ],
+    "grading_note": "⚠️ CONTROLEREN: maximumscore is 3, maar het correctievoorschrift kent bij deze vraag slechts 2 deelscorepunten (1 + 1) toe.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-sp-oil-vof-antw20.png"
+    ]
+   },
+   {
+    "title": "Fastned",
+    "question_number": 21,
+    "answer_text": "omzetten (van de bv) in een nv",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-fastned-antw21.png"
+    ]
+   },
+   {
+    "title": "Fastned",
+    "question_number": 22,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n– Een beursgenoteerd bedrijf krijgt aandacht van de pers / zorgt voor free publicity.\n– Een beursgenoteerd bedrijf geniet meer aanzien dan een bv waardoor het makkelijker is om personeel aan te trekken.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-fastned-antw22.png"
+    ]
+   },
+   {
+    "title": "Fastned",
+    "question_number": 23,
+    "answer_text": "Liquiditeit:\n• Fastned zou bij een emissie van aandelen alleen dividend beschikbaar kunnen stellen wanneer de winst dat toelaat, terwijl bij een emissie van obligaties er altijd interest betaald moet worden (wat nadelig is voor de liquiditeit)\nof\n• Obligaties moeten worden afgelost, aandelen hoeven niet te worden teruggekocht (wat nadelig is voor de liquiditeit)\nSolvabiliteit:\n• Een emissie van aandelen verbetert de solvabiliteit, want het eigen vermogen neemt toe, terwijl een emissie van obligaties de solvabiliteit juist verslechtert, want het vreemd vermogen neemt toe",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Liquiditeit: Fastned zou bij een emissie van aandelen alleen dividend beschikbaar kunnen stellen wanneer de winst dat toelaat, terwijl bij een emissie van obligaties er altijd interest betaald moet worden (wat nadelig is voor de liquiditeit) of: Obligaties moeten worden afgelost, aandelen hoeven niet te worden teruggekocht (wat nadelig is voor de liquiditeit)"
+     },
+     {
+      "points": 1,
+      "description": "Solvabiliteit: Een emissie van aandelen verbetert de solvabiliteit, want het eigen vermogen neemt toe, terwijl een emissie van obligaties de solvabiliteit juist verslechtert, want het vreemd vermogen neemt toe"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-fastned-antw23.png"
+    ]
+   },
+   {
+    "title": "Fastned",
+    "question_number": 24,
+    "answer_text": "0,80 x 135.000.000 x 0,06 x 2/12 = € 1.080.000",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Voor elke fout wordt 1 scorepunt in mindering gebracht.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-fastned-antw24.png"
+    ]
+   },
+   {
+    "title": "Fastned",
+    "question_number": 25,
+    "answer_text": "• % positieve klanten: (186 + 169) / 773 × 100% = 45,9% (46%)\n% negatieve klanten: (62 + 8) / 773 × 100% = 9,1% (9%)\n• NPS = 46% - 9% = 37% (>35%)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-fastned-antw25.png"
+    ]
+   },
+   {
+    "title": "Fastned",
+    "question_number": 26,
+    "answer_text": "S item(s) 4\nO item(s) 1\nW item(s) 3\nT item(s) 2",
+    "scoring_steps": [
+     {
+      "points": 3,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-fastned-antw26.png"
+    ]
+   },
+   {
+    "title": "Fastned",
+    "question_number": 27,
+    "answer_text": "Voorbeeld van een argument voor slagen van de emissie:\n• De emissiekoers ligt onder de beurskoers van 21 april\nof\nOp 21 april is een beperkte handel (3.485 aandelen). Beleggers wachten af en willen inschrijven op de emissie\n\nVoorbeeld van een argument tegen slagen van de emissie:\n• Er is weinig belangstelling bij beleggers. Zo is er op 21 april maar beperkte handel (3.485 aandelen) en moeten er bij de emissie 3 miljoen aandelen worden geplaatst\nof\nBeleggers vrezen dat de beurskoers door een emissie van 3 miljoen aandelen zal gaan dalen\nof\nBeleggers vrezen voor winstverwatering (stijging aantal geplaatste aandelen is 3mln / 14,8mln x 100% = 20,2%)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "juist argument voor slagen van de emissie"
+     },
+     {
+      "points": 1,
+      "description": "juist argument tegen slagen van de emissie"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-fastned-antw27.png"
+    ]
+   },
+   {
+    "title": "Fastned",
+    "question_number": 28,
+    "answer_text": "• 27.000.000 / 9 = 3.000.000 aandelen\ntoename Geplaatst kapitaal / afname Aandelen in portefeuille: 3.000.000 x 0,01 = € 30.000\n• toename Agioreserve: 3.000.000 x (9 – 0,01) = € 26.970.000\n• toename Liquide middelen / Bank: € 27.000.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "27.000.000 / 9 = 3.000.000 aandelen; toename Geplaatst kapitaal / afname Aandelen in portefeuille: 3.000.000 x 0,01 = € 30.000"
+     },
+     {
+      "points": 1,
+      "description": "toename Agioreserve: 3.000.000 x (9 – 0,01) = € 26.970.000"
+     },
+     {
+      "points": 1,
+      "description": "toename Liquide middelen / Bank: € 27.000.000"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-fastned-antw28.png"
+    ]
+   },
+   {
+    "title": "Floriana",
+    "question_number": 29,
+    "answer_text": "• artikel 1.2: wel\n• artikel 2.1: een vergoeding",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "artikel 1.2: wel"
+     },
+     {
+      "points": 1,
+      "description": "artikel 2.1: een vergoeding"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-floriana-antw29.png"
+    ]
+   },
+   {
+    "title": "Floriana",
+    "question_number": 30,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n• investeerders/beleggers. Belang: risico van hun financiële inbreng beperken / goed beeld wat er met hun ingebrachte vermogen gedaan is\n• Belastingdienst. Belang: correcte berekening winstbelasting / btw-afdracht\n• externe toezichthouders. Belang: het toezicht/de controle is efficiënter.\n• het bestuur. Belang: een correct beeld van de gevolgen van het gevoerde beleid\n• concurrentie. Belang: een correct beeld van de financiële positie\n• leveranciers. Belang: een correct beeld van de financiële positie (wel of niet verstrekken van leverancierskrediet)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "derde juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2022-ii-floriana-antw30.png"
+    ]
+   }
+  ]
+ }
+}
