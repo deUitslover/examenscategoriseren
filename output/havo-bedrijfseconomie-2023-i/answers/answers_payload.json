@@ -1,0 +1,544 @@
+{
+  "payload": {
+    "subject_name": "Bedrijfseconomie",
+    "level": "HAVO",
+    "source": "HAVO Bedrijfseconomie 2023-I",
+    "answers": [
+      {
+        "title": "Jumbo",
+        "question_number": 1,
+        "answer_text": "• zekerheid 1: Prijs(beleid)\n• zekerheid 2: Product(beleid)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "zekerheid 1: Prijs(beleid)"
+          },
+          {
+            "points": 1,
+            "description": "zekerheid 2: Product(beleid)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-jumbo-antw1.png"
+        ]
+      },
+      {
+        "title": "Jumbo",
+        "question_number": 2,
+        "answer_text": "A",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-jumbo-antw2.png"
+        ]
+      },
+      {
+        "title": "Jumbo",
+        "question_number": 3,
+        "answer_text": "• Omzet per winkel Jumbo: 8,7 miljard / 672 = 12.946.429\n• Omzet per winkel Albert Heijn: ((8,7 miljard / 0,21) / 980) × 0,35 = 14.795.918\n(12.946.429 − 14.795.918) / 14.795.918 × 100% = −12,5%\nof:\nalleen via gegevens winkel en marktaandeel:\n(21/672 − 35/980) / (35/980) × 100% = −12,5%",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "omzet per winkel Jumbo: 8,7 miljard / 672 = 12.946.429 en omzet per winkel Albert Heijn: ((8,7 miljard / 0,21) / 980) × 0,35 = 14.795.918"
+          },
+          {
+            "points": 1,
+            "description": "(12.946.429 − 14.795.918) / 14.795.918 × 100% = −12,5% (of alleen via gegevens winkel en marktaandeel: (21/672 − 35/980) / (35/980) × 100% = −12,5%: 2 scorepunten)"
+          }
+        ],
+        "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-jumbo-antw3.png"
+        ]
+      },
+      {
+        "title": "Jumbo",
+        "question_number": 4,
+        "answer_text": "Voorbeelden van juiste argumenten zijn:\n– Je moet kijken naar de omzet per vierkante meter in plaats van de omzet per winkel. De ene winkel is groter dan de andere.\n– Het is een nieuwe winkel en de omzet moet nog groeien.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist argument"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist argument"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-jumbo-antw4.png"
+        ]
+      },
+      {
+        "title": "Rob en Mattijs",
+        "question_number": 5,
+        "answer_text": "Voorbeelden van juiste redenen zijn:\n– Op obligaties zit een vaste interestvergoeding, terwijl het dividend op aandelen variabel is /afhangt van het resultaat.\n– De beurskoers van aandelen schommelt sterker dan de beurskoers van obligaties.\n– Obligaties worden na afloop van de looptijd afgelost (tegen nominale waarde). Dit geldt niet voor aandelen.\n– Bij faillissement van de onderneming hebben obligatiehouders voorrang op aandeelhouders bij de verdeling van de boedel.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juiste reden"
+          },
+          {
+            "points": 1,
+            "description": "tweede juiste reden"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-rob-en-mattijs-antw5.png"
+        ]
+      },
+      {
+        "title": "Rob en Mattijs",
+        "question_number": 6,
+        "answer_text": "Voorbeelden van een juist antwoord:\n– De schulden van KPN zijn geen schulden van de erflater en spelen daarom geen rol van betekenis in de keuze.\n– KPN is een rechtspersoon.\n– Een aandeelhouder kan alleen de waarde van het door de aandeelhouder gekochte aandeel verliezen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-rob-en-mattijs-antw6.png"
+        ]
+      },
+      {
+        "title": "Rob en Mattijs",
+        "question_number": 7,
+        "answer_text": "• Het resultaat per aandeel in 2021 bedraagt 630.000.000 / 4.200.000.000 = 0,15\n• Bij een stabiel dividendbeleid in 2021 wordt het volgende dividend beschikbaar gesteld: 0,1120 / 0,14 × 0,15 = €0,12",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "resultaat per aandeel in 2021: 630.000.000 / 4.200.000.000 = 0,15"
+          },
+          {
+            "points": 1,
+            "description": "dividend bij stabiel dividendbeleid: 0,1120 / 0,14 × 0,15 = €0,12"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-rob-en-mattijs-antw7.png"
+        ]
+      },
+      {
+        "title": "Rob en Mattijs",
+        "question_number": 8,
+        "answer_text": "• Uit de externe omgeving blijkt dat er een Threat is waardoor KPN fors zal moeten investeren\nof\nUit de externe omgeving blijkt dat er door de toegenomen vraag naar veiligheid van het computernetwerk een Opportunity is waardoor KPN fors zal moeten investeren\n• Daarvoor zijn liquide middelen nodig. Dit zou kunnen betekenen dat KPN minder dividend aan de aandeelhouders zal uitkeren dan past bij het stabiele dividendbeleid",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Uit de externe omgeving blijkt dat er een Threat is waardoor KPN fors zal moeten investeren, of: dat er door de toegenomen vraag naar veiligheid van het computernetwerk een Opportunity is waardoor KPN fors zal moeten investeren"
+          },
+          {
+            "points": 1,
+            "description": "Daarvoor zijn liquide middelen nodig. Dit zou kunnen betekenen dat KPN minder dividend aan de aandeelhouders zal uitkeren dan past bij het stabiele dividendbeleid"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-rob-en-mattijs-antw8.png"
+        ]
+      },
+      {
+        "title": "Rob en Mattijs",
+        "question_number": 9,
+        "answer_text": "• per 31 december 2021:\nHet totale vermogen na winstverdeling en beschikbaar stellen van het dividend:\n9.260.000.000 – 4.200.000.000 x 0,06 = 9.008.000.000\n• Vreemd vermogen / Totaalvermogen = 6.753.000.000 / 9.008.000.000 × 100% = 75%\n• Op 31 december 2020 was dit 77% (dus de solvabiliteit is niet verslechterd)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "totale vermogen per 31 december 2021 na winstverdeling en beschikbaar stellen van het dividend: 9.260.000.000 – 4.200.000.000 x 0,06 = 9.008.000.000"
+          },
+          {
+            "points": 1,
+            "description": "Vreemd vermogen / Totaalvermogen = 6.753.000.000 / 9.008.000.000 × 100% = 75%"
+          },
+          {
+            "points": 1,
+            "description": "Op 31 december 2020 was dit 77% (dus de solvabiliteit is niet verslechterd)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-rob-en-mattijs-antw9.png"
+        ]
+      },
+      {
+        "title": "Rob en Mattijs",
+        "question_number": 10,
+        "answer_text": "• 32,50 / ((1.030 + 1.020) / 2) × 100% = 3,2%\n• (3,95% <) 3,2% + 2% (dus verkoop van aandelen)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "32,50 / ((1.030 + 1.020) / 2) × 100% = 3,2%"
+          },
+          {
+            "points": 1,
+            "description": "(3,95% <) 3,2% + 2% (dus verkoop van aandelen)"
+          }
+        ],
+        "grading_note": "Op pagina 7, bij vraag 10 moet bij de eerste deelscore altijd 1 scorepunt worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.\n⚠️ CONTROLEREN: de maximumscore is 3, maar het correctievoorschrift vermeldt deelscores van in totaal 2 scorepunten.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-rob-en-mattijs-antw10.png"
+        ]
+      },
+      {
+        "title": "Rob en Mattijs",
+        "question_number": 11,
+        "answer_text": "• waarde erfenis: 40.000 x 2,55 + 100 x 1,02 x 1.000 = 204.000\nerfdeel van elk van de broers: 102.000\n• te betalen erfbelasting door elk van de broers: 0,30 x (102.000 – 2.173) = € 29.948",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "waarde erfenis: 40.000 x 2,55 + 100 x 1,02 x 1.000 = 204.000; erfdeel van elk van de broers: 102.000"
+          },
+          {
+            "points": 1,
+            "description": "te betalen erfbelasting door elk van de broers: 0,30 x (102.000 – 2.173) = € 29.948"
+          }
+        ],
+        "grading_note": "Voor het afronden van de belasting op eurocenten worden geen scorepunten in mindering gebracht.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-rob-en-mattijs-antw11.png"
+        ]
+      },
+      {
+        "title": "Rob en Mattijs",
+        "question_number": 12,
+        "answer_text": "te verkopen aantal aandelen door elk van de broers: 29.948 / 2,55 = 11.744,31",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-rob-en-mattijs-antw12.png"
+        ]
+      },
+      {
+        "title": "Presentz",
+        "question_number": 13,
+        "answer_text": "Debiteuren",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Voor ‘nog te ontvangen bedragen’ geen scorepunt toekennen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-presentz-antw13.png"
+        ]
+      },
+      {
+        "title": "Presentz",
+        "question_number": 14,
+        "answer_text": "• gemiddelde bestelwaarde in 2022 = 62.500 / 2.500 = 25\ngemiddelde bestelwaarde in 2023 = 25 × 1,16 = 29\n• aantal bestellingen in 2023 = 2.500 × 1,10 = 2.750\n• verwachte totale commissie = 2.750 × 1 + 2.750 × (0,03 × 29) = €5.142,50",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "gemiddelde bestelwaarde in 2022 = 62.500 / 2.500 = 25; gemiddelde bestelwaarde in 2023 = 25 × 1,16 = 29"
+          },
+          {
+            "points": 1,
+            "description": "aantal bestellingen in 2023 = 2.500 × 1,10 = 2.750"
+          },
+          {
+            "points": 1,
+            "description": "verwachte totale commissie = 2.750 × 1 + 2.750 × (0,03 × 29) = €5.142,50"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-presentz-antw14.png"
+        ]
+      },
+      {
+        "title": "Presentz",
+        "question_number": 15,
+        "answer_text": "extra omzet 2.750 x 29 – 2.500 x 25 = 17.250\ninkoopwaarde omzet en overige variabele kosten -/- 10.350\nextra dekkingsbijdrage (0,40 x 17.250) 6.900\nvoordeel wegens wegvallen debiteurenrisico 2.000 +\n8.900\nverwachte totale commissie (vraag 14) -/- 5.142,50\nextra bijdrage aan resultaat is € 3.757,50\nof:\n(250 x 0,40 x 29) + (2500 x 0,40 x 4) = 6.900\nvoordeel wegvallen debiteurenrisico 2.000 +\n8.900\nresultaat neemt toe, want €8.900 > €5.142,50",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "extra dekkingsbijdrage: (0,40 x 17.250) = 6.900 (of: (250 x 0,40 x 29) + (2500 x 0,40 x 4) = 6.900)"
+          },
+          {
+            "points": 1,
+            "description": "voordeel wegens wegvallen debiteurenrisico 2.000; 6.900 + 2.000 = 8.900"
+          },
+          {
+            "points": 1,
+            "description": "extra bijdrage aan resultaat: 8.900 − 5.142,50 = € 3.757,50 (of: resultaat neemt toe, want €8.900 > €5.142,50)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-presentz-antw15.png"
+        ]
+      },
+      {
+        "title": "A&B bv",
+        "question_number": 16,
+        "answer_text": "Voorbeelden van juiste voordelen zijn:\n– Werknemers (die ook aandeelhouder zijn) zijn meer gemotiveerd om zich in te zetten voor het bedrijf.\n– aantrekken en behouden van talent\n– betrokkenheid van werknemers vergroten door inspraak te geven in de besluitvorming",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist voordeel"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist voordeel"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-a-b-bv-antw16.png"
+        ]
+      },
+      {
+        "title": "A&B bv",
+        "question_number": 17,
+        "answer_text": "• studiefaciliteiten\n• want die vergroten de kwaliteit van de werknemers",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "studiefaciliteiten"
+          },
+          {
+            "points": 1,
+            "description": "want die vergroten de kwaliteit van de werknemers"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-a-b-bv-antw17.png"
+        ]
+      },
+      {
+        "title": "A&B bv",
+        "question_number": 18,
+        "answer_text": "• Informatierecht\n• Instemmingsrecht",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Informatierecht"
+          },
+          {
+            "points": 1,
+            "description": "Instemmingsrecht"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-a-b-bv-antw18.png"
+        ]
+      },
+      {
+        "title": "A&B bv",
+        "question_number": 19,
+        "answer_text": "▪ op 1 januari 2022 maandloon 3.003,26 × 1,015 = 3.048,31\n▪ 3.048,31 × 12 × 1,16 = 42.432,48\n▪ Uurloon = (42.432,48 / 260) / 8 = € 20,40\n▪ 14 × 8 × 20,40 = 2.284,80\n▪ 42.432,48 − 2.284,80 = €40.147,68",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "op 1 januari 2022 maandloon 3.003,26 × 1,015 = 3.048,31; 3.048,31 × 12 × 1,16 = 42.432,48"
+          },
+          {
+            "points": 2,
+            "description": "uurloon = (42.432,48 / 260) / 8 = € 20,40; 14 × 8 × 20,40 = 2.284,80; 42.432,48 − 2.284,80 = €40.147,68"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-a-b-bv-antw19.png"
+        ]
+      },
+      {
+        "title": "Mangiamo",
+        "question_number": 20,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– het verschil tussen het gecommuniceerde en daadwerkelijke tijdstip van aflevering\n– het aantal keren dat de bezorgde maaltijd overeenkomt met de bestelling\n– de temperatuur in graden Celsius van de afgeleverde maaltijd",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist antwoord"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-mangiamo-antw20.png"
+        ]
+      },
+      {
+        "title": "Mangiamo",
+        "question_number": 21,
+        "answer_text": "De bezorger kiest zelf voor accepteren van de bestelling wanneer hij of zij dat wil / kiest zelf voor eigen kleding en fiets of kiest om gebruik te maken van bedrijfskleding/ mag zelf bepalen wanneer hij of zij werkt.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-mangiamo-antw21.png"
+        ]
+      },
+      {
+        "title": "Mangiamo",
+        "question_number": 22,
+        "answer_text": "• kosten kopen per maand:\nafschrijving: (2460 − 300) / 48 = 45\nkosten thermobox: 72 / 24 = 3\nverzekering: 40\nklein onderhoud: 8\noverige kosten e-bike: 15 +\ntotaal kopen: 111\n• kosten leasen per maand: 120 + 15 + 3 = 138\n(kopen is € 111 < € 138 leasen)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "kosten kopen per maand: 45 + 3 + 40 + 8 + 15 = 111"
+          },
+          {
+            "points": 1,
+            "description": "kosten leasen per maand: 120 + 15 + 3 = 138 (kopen is € 111 < € 138 leasen)"
+          }
+        ],
+        "grading_note": "Wanneer er onjuiste kosten worden opgevoerd bij kopen, per onjuiste post 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-mangiamo-antw22.png"
+        ]
+      },
+      {
+        "title": "Mangiamo",
+        "question_number": 23,
+        "answer_text": "Uitgewerkte tabel (berekeningen):\nconstante kosten e-bikes: 2 × 45 + 2 × 72/24 = 96; 2 × (40 + 8 + 15) = 126 +; totaal 222; of: 2 × 111 = 222\nloonkosten bezorgers: 248,51\nkosten zelf bezorgen met e-bikes: 96 + 126 + 248,51 = 470,51; of: 222 + 248,51 = 470,51\ncommissie bezorgen door Thuisbezorgd.nl: 0,13 x 4.000 = € 520\nConclusie: Zelf bezorgen is goedkoper dan laten bezorgen door Thuisbezorgd.nl, want 470,51 < 520.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "126 + 96 of 222"
+          },
+          {
+            "points": 1,
+            "description": "470,51 en 520; Zelf bezorgen is goedkoper dan laten bezorgen door Thuisbezorgd.nl (want € 470,51 < € 520)"
+          }
+        ],
+        "grading_note": "Wanneer een kandidaat bij vraag 23 bij de constante kosten van e-bikes een foutieve berekening van het antwoord op vraag 22 herhaalt en deze correct vermenigvuldigt met 2, moet dit als doorwerkfout worden gezien en niet als identieke fout.\nToelichting: De kandidaat hanteert weliswaar twee keer een onjuiste berekeningsmethode maar maakt maar een keer een denkfout.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-mangiamo-antw23.png"
+        ]
+      },
+      {
+        "title": "Mangiamo",
+        "question_number": 24,
+        "answer_text": "16 – 10 = 6\nDe kosten van de ingrediënten en het verpakkingsmateriaal per maaltijd zijn 6 – 1,92 = € 4,08",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "16 – 10 = 6"
+          },
+          {
+            "points": 1,
+            "description": "kosten van de ingrediënten en het verpakkingsmateriaal per maaltijd: 6 – 1,92 = € 4,08"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-mangiamo-antw24.png"
+        ]
+      },
+      {
+        "title": "Mangiamo",
+        "question_number": 25,
+        "answer_text": "Uitgewerkte tabel (berekeningen):\ntoename aantal maaltijden: 4.000 / 16 = 250\ntoename dekkingsbijdrage: 250 x 10 = 2.500\nverandering resultaat per maand: 2.500 – € 470,51 = € 2.029,49",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "2.500"
+          },
+          {
+            "points": 1,
+            "description": "2.029,49"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-mangiamo-antw25.png"
+        ]
+      },
+      {
+        "title": "Neude",
+        "question_number": 26,
+        "answer_text": "Voorbeeld van een juist antwoord:\nTim en Noor zijn dan niet meer aansprakelijk met hun privévermogen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-neude-antw26.png"
+        ]
+      },
+      {
+        "title": "Neude",
+        "question_number": 27,
+        "answer_text": "De reserveringen gemaakt voor november 2022 tot en met januari 2023 worden in het vierde kwartaal van 2022 ontvangen.\n(3 + 4 + 4) x 3 x 980 = € 32.340",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Wanneer een correcte berekening wordt gemaakt met een vaste huurprijs van € 980 voor drie boshuisjes, moeten scorepunten worden toegekend.\nToelichting: Het tweede gegeven in de stam van de vraag kan worden opgevat als de vaste huurprijs van drie boshuisjes in plaats van één boshuisje, zoals uitgewerkt in het correctievoorschrift.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-neude-antw27.png"
+        ]
+      },
+      {
+        "title": "Neude",
+        "question_number": 28,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n– De hypotheekgever moet voldoende inkomen hebben om de betalingsverplichtingen (aflossing en interest) na te komen.\n– Het bedrag van de lening is maximaal een bepaald percentage van de waarde van het onderpand.\n– Andere financiële verplichtingen/studieschuld mogen niet te hoog zijn.\n– het aanhouden/openen van een betaalrekening bij de bank die de hypothecaire lening verstrekt\n– verplicht een verzekering afsluiten tegen brand- en stormschade",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist antwoord"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-neude-antw28.png"
+        ]
+      },
+      {
+        "title": "Neude",
+        "question_number": 29,
+        "answer_text": "• Bedrag hypothecaire lening = 100.000 − 32.340 = 67.660\nAflossing = 67.660 / 20 = 3.383\nIn twee gelijke delen wordt er afgelost met 3.383 / 2 = 1.691,50\n• Interest = 67.660 × 0,04 × 6/12 = €1.353,20\nTotaal: 1.691,50 + 1.353,20 = €3.044,70",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "bedrag hypothecaire lening = 100.000 − 32.340 = 67.660; aflossing = 67.660 / 20 = 3.383; in twee gelijke delen: 3.383 / 2 = 1.691,50"
+          },
+          {
+            "points": 1,
+            "description": "interest = 67.660 × 0,04 × 6/12 = €1.353,20; totaal: 1.691,50 + 1.353,20 = €3.044,70"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2023-i-neude-antw29.png"
+        ]
+      }
+    ]
+  }
+}
