@@ -1,0 +1,547 @@
+{
+  "payload": {
+    "subject_name": "Bedrijfseconomie",
+    "level": "VWO",
+    "source": "VWO Bedrijfseconomie 2025-II",
+    "answers": [
+      {
+        "title": "Hasna",
+        "question_number": 1,
+        "answer_text": "Voorbeeld van een juist antwoord:\nJe betaalt nu geld voor het volgen van een opleiding en hoopt daar in de toekomst een (hoger) inkomen door te krijgen / een uitdagende(re) baan door te krijgen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-hasna-antw1.png"
+        ]
+      },
+      {
+        "title": "Hasna",
+        "question_number": 2,
+        "answer_text": "Voorbeelden van een juiste berekening zijn:\n200 x (1 + 1,0005 … + 1,0005⁴⁷) = € 9.713,67\nof\n200 x 48,56834839 = € 9.713,67\nS = a x (rⁿ - 1) / (r - 1)\na = 1; r = 1,0005; n = 48; S = 48,56834839",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-hasna-antw2.png"
+        ]
+      },
+      {
+        "title": "Hasna",
+        "question_number": 3,
+        "answer_text": "Voorbeelden van een juiste berekening zijn:\nEr is betaald aan DUO:\n15 x 12 x 47,02 + (9.713,67 – 8.000) = 10.177,27\nEr is geleend:\n4 x 12 x 200 = 9.600,00\ntotaal € 577,27\nof\ntijdens het studeren:\n9.713,67 (vraag 2) – 4 x 12 x 200 = 113,67\nna het studeren:\n15 x 12 x 47,02 – 8.000 = 463,60\ntotaal € 577,27",
+        "scoring_steps": [
+          {
+            "points": 3,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-hasna-antw3.png"
+        ]
+      },
+      {
+        "title": "Hasna",
+        "question_number": 4,
+        "answer_text": "• b\n• het termijnbedrag is een gelijkblijvend bedrag, bestaande uit interest en aflossing",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "b"
+          },
+          {
+            "points": 1,
+            "description": "het termijnbedrag is een gelijkblijvend bedrag, bestaande uit interest en aflossing"
+          }
+        ],
+        "grading_note": "Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-hasna-antw4.png"
+        ]
+      },
+      {
+        "title": "Beukers bv",
+        "question_number": 5,
+        "answer_text": "12.180 + 0,08 x (2 x 26.250) x (1 – 0,40) = € 14.700",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.\nAls is geantwoord met behulp van informatiebron 2: 12.180 / 10 × 12 = € 14.616 1 scorepunt toekennen.\nAls is geantwoord met behulp van informatiebron 1: 0,08 x 12 x 26.250 x (1 – 0,40) = € 15.120 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-beukers-bv-antw5.png"
+        ]
+      },
+      {
+        "title": "Beukers bv",
+        "question_number": 6,
+        "answer_text": "getallen x € 1 (april; mei)\nOntvangsten:\nContante ontvangsten: april 5.625; mei 9.375\nOntvangsten van debiteuren: april 81.000; mei 50.625\nTotale ontvangsten: april 86.625; mei 60.000\nUitgaven:\nVervoer hei-installatie: april 10.125; mei 15.850\nBrandstof heien: april 20.200; mei 22.220\nVerzekeringspremie: april 19.080; mei 7.475\nNettoloon: april 15.750; mei 15.750\nNetto vakantiegeld (= vraag 5): mei 14.700\nOverige uitgaven: april 7.500; mei 8.000\nLoonheffing: april 42.525\nTotale uitgaven: april 115.180; mei 83.995\nOntvangsten – uitgaven: april -/- 28.555; mei -/- 23.995\nBeginsaldo liquide middelen: april 103.200; mei 74.645\nEindsaldo liquide middelen: april 74.645; mei 50.650\nBerekeningen:\n− Vervoer hei-installatie: 700 x 17,50 + 8 x 6 x 75 = 15.850\n− Brandstof heien: 500 x 22 x 2,02 = 22.220\n− Verzekeringspremie april: 12 x 1.500 x 1,06 = 19.080\n− Verzekeringspremie mei: 0,005 x 1.495.000 = 7.475\n− Nettoloon: 0,60 x 26.250 = 15.750",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "15.850 en 22.220"
+          },
+          {
+            "points": 1,
+            "description": "19.080 en 7.475"
+          },
+          {
+            "points": 1,
+            "description": "15.750, 14.700, 7.500 en 8.000"
+          },
+          {
+            "points": 1,
+            "description": "overige bedragen"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-beukers-bv-antw6.png"
+        ]
+      },
+      {
+        "title": "Beukers bv",
+        "question_number": 7,
+        "answer_text": "opbrengst verkoop hei-installatie:\n(60.000 – 2 x 0,00375 x 600.000 x 0,95) x 1,20 = € 66.870",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-beukers-bv-antw7.png"
+        ]
+      },
+      {
+        "title": "Beukers bv",
+        "question_number": 8,
+        "answer_text": "• subsidie: 0,50 x (1.495.000 – 995.000) = 250.000\n• contante waarde: 250.000 x 1,005⁻⁶ = € 242.630",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "subsidie: 0,50 x (1.495.000 – 995.000) = 250.000"
+          },
+          {
+            "points": 1,
+            "description": "contante waarde: 250.000 x 1,005⁻⁶ = € 242.630"
+          }
+        ],
+        "grading_note": "Er moet op hele euro’s zijn afgerond voor het toekennen van de tweede deelscore.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-beukers-bv-antw8.png"
+        ]
+      },
+      {
+        "title": "Beukers bv",
+        "question_number": 9,
+        "answer_text": "Voorbeelden van een juiste berekening zijn:\n• te betalen interest per 1 juni 2025: 0,04 × 180.000 × 5/12 = 3.000\nof\n• te betalen interest per 1 juni 2025: 1.800 / 3 × 5 = 3.000\n• 180.000 + 3.000 = € 183.000",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "te betalen interest per 1 juni 2025: 0,04 × 180.000 × 5/12 = 3.000 (2 scorepunten), of: te betalen interest per 1 juni 2025: 1.800 / 3 × 5 = 3.000 (1 scorepunt) en 180.000 + 3.000 = € 183.000 (1 scorepunt)"
+          }
+        ],
+        "grading_note": "Per gemaakte fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-beukers-bv-antw9.png"
+        ]
+      },
+      {
+        "title": "Beukers bv",
+        "question_number": 10,
+        "answer_text": "financiering (getallen x € 1):\nliquide middelen (vraag 6): 50.650\nverkoop oude hei-installatie (vraag 7): 66.870\nsubsidie (vraag 8): 242.630\nhypothecaire leningen: 0,80 x (200.000 + 625.000) – 183.000 (vraag 9) = 477.000\ntotaal: 50.650 + 66.870 + 242.630 + 477.000 = 837.150\naf te sluiten nieuwe 8% lening: 1.495.000 – 837.150 = 657.850",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Per gemaakte fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-beukers-bv-antw10.png"
+        ]
+      },
+      {
+        "title": "Beukers bv",
+        "question_number": 11,
+        "answer_text": "Voorbeeld van een juist antwoord is:\n• Het risico van het niet terugontvangen van het uitgeleende geld voor de geldverstrekker neemt toe, waardoor\n• er meer interest betaald moet worden / er tegen minder gunstige voorwaarden kan worden geleend, (waardoor de winst kan afnemen).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het risico van het niet terugontvangen van het uitgeleende geld voor de geldverstrekker neemt toe"
+          },
+          {
+            "points": 1,
+            "description": "er moet meer interest betaald worden / er kan tegen minder gunstige voorwaarden worden geleend, (waardoor de winst kan afnemen)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-beukers-bv-antw11.png"
+        ]
+      },
+      {
+        "title": "Beukers bv",
+        "question_number": 12,
+        "answer_text": "• solvabiliteit op 31 maart 2025:\n(36.945 + 180.000 + 12.180 + 42.525 + 1.800) / 438.450 × 100% = 62,4%\n• Het solvabiliteitskengetal stijgt met 77,4% – 62,4% = 15,0%-punten.\nDat is minder dan 18%-punten.\nAan voorwaarde b wordt voldaan, (dus Beukers schaft de hei-installatie aan).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "solvabiliteit op 31 maart 2025: (36.945 + 180.000 + 12.180 + 42.525 + 1.800) / 438.450 × 100% = 62,4%"
+          },
+          {
+            "points": 1,
+            "description": "Het solvabiliteitskengetal stijgt met 77,4% – 62,4% = 15,0%-punten. Dat is minder dan 18%-punten. Aan voorwaarde b wordt voldaan"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-beukers-bv-antw12.png"
+        ]
+      },
+      {
+        "title": "Wasmachinekast.nl",
+        "question_number": 13,
+        "answer_text": "product(beleid)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-wasmachinekast-nl-antw13.png"
+        ]
+      },
+      {
+        "title": "Wasmachinekast.nl",
+        "question_number": 14,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Wasmachinekast heeft liquide middelen nodig om de in te kopen kasten / materialen (voor) te financieren.\n− Door de aanbetaling weet Wasmachinekast dat de klant daadwerkelijk de kast zal afnemen / het risico op wanbetaling neemt af\n− De liquiditeit neemt toe",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist antwoord"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-wasmachinekast-nl-antw14.png"
+        ]
+      },
+      {
+        "title": "Wasmachinekast.nl",
+        "question_number": 15,
+        "answer_text": "• b\n• De ontvangst van het geld vindt plaats voor de levering van het product / de dienst.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "b"
+          },
+          {
+            "points": 1,
+            "description": "De ontvangst van het geld vindt plaats voor de levering van het product / de dienst."
+          }
+        ],
+        "grading_note": "Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-wasmachinekast-nl-antw15.png"
+        ]
+      },
+      {
+        "title": "Wasmachinekast.nl",
+        "question_number": 16,
+        "answer_text": "in april wordt ontvangen:\n75% van de omzet van april = 0,75 x 60.000 x 1,21 = 54.450\n25% van de omzet van juni\nomzet juni = (73.810 − 54.450) / 1,21 × 100/25 = € 64.000",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Per gemaakte fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-wasmachinekast-nl-antw16.png"
+        ]
+      },
+      {
+        "title": "Motherman nv",
+        "question_number": 17,
+        "answer_text": "• Het eigen vermogen is relatief meer gestegen dan het totale vermogen (, dus de solvabiliteit is verbeterd).\n• De (vlottende activa inclusief) liquide middelen zijn toegenomen / teller is gestegen en het kort vreemd vermogen / de noemer is gelijk gebleven (, dus de current ratio is verbeterd).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Het eigen vermogen is relatief meer gestegen dan het totale vermogen (, dus de solvabiliteit is verbeterd)."
+          },
+          {
+            "points": 1,
+            "description": "De (vlottende activa inclusief) liquide middelen zijn toegenomen / teller is gestegen en het kort vreemd vermogen / de noemer is gelijk gebleven (, dus de current ratio is verbeterd)."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-motherman-nv-antw17.png"
+        ]
+      },
+      {
+        "title": "Motherman nv",
+        "question_number": 18,
+        "answer_text": "Voorbeelden van een juiste berekening zijn:\n• toename aantal aandelen: (3.400.000 − 3.200.000) / 20 = 10.000 aandelen\n• agio per aandeel: (1.325.000 − 1.225.000) / 10.000 = € 10\nof\n• De reserve is (1.325 − 1.225) / (3.400 − 3.200) = 0,5 keer zo hard gestegen als het geplaatste aandelenkapitaal.\nagio per aandeel = 0,5 x 20 = € 10",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "toename aantal aandelen: (3.400.000 − 3.200.000) / 20 = 10.000 aandelen"
+          },
+          {
+            "points": 1,
+            "description": "agio per aandeel: (1.325.000 − 1.225.000) / 10.000 = € 10 (of, voor beide scorepunten samen: De reserve is (1.325 − 1.225) / (3.400 − 3.200) = 0,5 keer zo hard gestegen als het geplaatste aandelenkapitaal; agio per aandeel = 0,5 x 20 = € 10)"
+          }
+        ],
+        "grading_note": "Per gemaakte fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-motherman-nv-antw18.png"
+        ]
+      },
+      {
+        "title": "Motherman nv",
+        "question_number": 19,
+        "answer_text": "de algemene vergadering van aandeelhouders / ava / aandeelhoudervergadering",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-motherman-nv-antw19.png"
+        ]
+      },
+      {
+        "title": "Motherman nv",
+        "question_number": 20,
+        "answer_text": "Voorbeeld van een juiste berekening is:\n• stockdividend = (600 − 200) × 3/4 = 300 (× 1.000)\n• eigen vermogen na winstverdeling = 3.400 + 300 + 1.325 + 200 = 5.225 (× 1.000)\n• aantal aandelen: (3.400 + 300) / 20 = 185 (× 1.000)\n5.225 / 185 = € 28,24\n• 28,24 > € 27,50, dus het voorstel wordt goedgekeurd.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "stockdividend = (600 − 200) × 3/4 = 300 (× 1.000)"
+          },
+          {
+            "points": 1,
+            "description": "eigen vermogen na winstverdeling = 3.400 + 300 + 1.325 + 200 = 5.225 (× 1.000)"
+          },
+          {
+            "points": 1,
+            "description": "aantal aandelen: (3.400 + 300) / 20 = 185 (× 1.000); 5.225 / 185 = € 28,24"
+          },
+          {
+            "points": 1,
+            "description": "28,24 > € 27,50, dus het voorstel wordt goedgekeurd."
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-motherman-nv-antw20.png"
+        ]
+      },
+      {
+        "title": "Holland-waterontharder bv",
+        "question_number": 21,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Installateurs zijn fitter, waardoor ze beter werk leveren / minder vaak ziek zijn / productiever zijn.\n− Het is voor installateurs aantrekkelijker om voor HWO te werken, waardoor het aantrekken van personeel makkelijker / goedkoper is.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist antwoord"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-holland-waterontharder-bv-antw21.png"
+        ]
+      },
+      {
+        "title": "Holland-waterontharder bv",
+        "question_number": 22,
+        "answer_text": "(900 − 430 − 110) / 900 × 100% = 40%",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Per gemaakte fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-holland-waterontharder-bv-antw22.png"
+        ]
+      },
+      {
+        "title": "Holland-waterontharder bv",
+        "question_number": 23,
+        "answer_text": "Voorbeelden van een juiste berekening zijn:\n• Constante kosten heel 2025: (1.057,50 x 10 + 9.000) x 52 = € 1.017.900\n• Break-evenomzet 2025: 1.017.900 / 0,40 = € 2.544.750\nVerwachte omzet 2025: 2.500 x 900 = € 2.250.000\nof\n• Verwachte omzet 2025: 2.500 x 900 = € 2.250.000\nConstante kosten mogen maximaal 2.250.000 x 0,4 = € 900.000 zijn\n• Constante kosten zijn: (1.057,50 x 10 + 9.000) x 52 = € 1.017.900",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Constante kosten heel 2025: (1.057,50 x 10 + 9.000) x 52 = € 1.017.900 (of: Verwachte omzet 2025: 2.500 x 900 = € 2.250.000; constante kosten mogen maximaal 2.250.000 x 0,4 = € 900.000 zijn)"
+          },
+          {
+            "points": 1,
+            "description": "Break-evenomzet 2025: 1.017.900 / 0,40 = € 2.544.750; verwachte omzet 2025: 2.500 x 900 = € 2.250.000 (of: Constante kosten zijn: (1.057,50 x 10 + 9.000) x 52 = € 1.017.900)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-holland-waterontharder-bv-antw23.png"
+        ]
+      },
+      {
+        "title": "Holland-waterontharder bv",
+        "question_number": 24,
+        "answer_text": "Voorbeeld van een juiste berekening is:\n• aantal geïnstalleerde waterontharders per 1,0 fte: 45 × 36/4 = 405\n• gewenste aantal fte: 2.500 / 405 + 1 = 7,2 fte\nEr kan dus 10,0 – 7,2 = 2,8 fte worden bespaard.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "aantal geïnstalleerde waterontharders per 1,0 fte: 45 × 36/4 = 405"
+          },
+          {
+            "points": 1,
+            "description": "gewenste aantal fte: 2.500 / 405 + 1 = 7,2 fte; er kan dus 10,0 – 7,2 = 2,8 fte worden bespaard"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-holland-waterontharder-bv-antw24.png"
+        ]
+      },
+      {
+        "title": "Holland-waterontharder bv",
+        "question_number": 25,
+        "answer_text": "• losse zakken: 22,95 x (500 + 2 x 800 + 3 x 300) = 68.850\n• per 5 zakken: 99 x 600 = 59.400\nbijdrage verzendkosten: (500 + 800 + 300) x 4,95 = 7.920 +\ntotaal € 136.170",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "losse zakken: 22,95 x (500 + 2 x 800 + 3 x 300) = 68.850"
+          },
+          {
+            "points": 1,
+            "description": "per 5 zakken: 99 x 600 = 59.400; bijdrage verzendkosten: (500 + 800 + 300) x 4,95 = 7.920; totaal € 136.170"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-holland-waterontharder-bv-antw25.png"
+        ]
+      },
+      {
+        "title": "Holland-waterontharder bv",
+        "question_number": 26,
+        "answer_text": "Voorbeeld van een juist antwoord:\nDoor het weggeven van het regeneratiezout is de kans groter dat klanten met een waterontharder (in de toekomst) het regeneratiezout bij HWO zullen kopen, (waardoor het resultaat kan verbeteren).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-holland-waterontharder-bv-antw26.png"
+        ]
+      },
+      {
+        "title": "Holland-waterontharder bv",
+        "question_number": 27,
+        "answer_text": "extra opbrengsten (bedrag in euro’s):\nopbrengsten regeneratiezout: zie vraag 25: 136.170\nextra kosten: berekening = bedrag in euro’s\nvervoerskosten naar de klant en constante kosten: 7,50 x (500 + 800 + 300 + 600) + 400 x 12 = 21.300\ninkoopwaarde omzet regeneratiezout: 500 + 2 x 800 + 3 x 300 + 5 x 600 = 6.000 stuks; 6.000 x 9,50 = 57.000\nkosten weggeven regeneratiezout: 2.500 x 9,50 = 23.750\nkosten ontslaan installateurs: 18.000\ntotale extra kosten: 120.050\nbesparing op de loonkosten: 2,0 x 1.057,50 x 52 = 109.980\nverandering van het resultaat: 136.170 – 120.050 + 109.980 = 126.100\noude resultaat: 2.500 x 900 x 0,40 – 1.017.900 (zie vraag 23) = -/-117.900\nconclusie: Ja, want 126.100 > -/-117.900 …",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "21.300"
+          },
+          {
+            "points": 2,
+            "description": "57.000, 23.750 en 120.050"
+          },
+          {
+            "points": 2,
+            "description": "109.980, 126.100, -/-117.900 en conclusie"
+          }
+        ],
+        "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-holland-waterontharder-bv-antw27.png"
+        ]
+      },
+      {
+        "title": "Carson Johansson",
+        "question_number": 28,
+        "answer_text": "Voorbeelden van een juist antwoord\n− Bij een lening met een korte looptijd zal er in geval van herfinanciering een nieuwe lening moeten worden afgesloten met een hoger interestpercentage. Dit leidt tot hogere kosten.\n− Leningen met een korte looptijd hebben veelal een variabele interest, waardoor de interestkosten kunnen stijgen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-carson-johansson-antw28.png"
+        ]
+      },
+      {
+        "title": "Carson Johansson",
+        "question_number": 29,
+        "answer_text": "Dividendrendement:\n• Hogere interestkosten leiden tot een lager resultaat en kunnen leiden tot een lagere dividenduitkering.\nKoersresultaat:\n• Hoge interestuitgaven leiden tot een slechtere liquiditeit waardoor het faillissementsrisico toeneemt en de vraag naar het aandeel daalt. Dit leidt tot een lagere beurskoers en lager koersresultaat.\nof\n• Hoge interestuitgaven leiden tot een lagere winst(verwachting) / dividenduitkering, waardoor de vraag naar het aandeel daalt en de beurskoers en het koersresultaat lager worden.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Dividendrendement: Hogere interestkosten leiden tot een lager resultaat en kunnen leiden tot een lagere dividenduitkering."
+          },
+          {
+            "points": 1,
+            "description": "Koersresultaat: Hoge interestuitgaven leiden tot een slechtere liquiditeit waardoor het faillissementsrisico toeneemt en de vraag naar het aandeel daalt. Dit leidt tot een lagere beurskoers en lager koersresultaat (of: Hoge interestuitgaven leiden tot een lagere winst(verwachting) / dividenduitkering, waardoor de vraag naar het aandeel daalt en de beurskoers en het koersresultaat lager worden)"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-carson-johansson-antw29.png"
+        ]
+      },
+      {
+        "title": "Carson Johansson",
+        "question_number": 30,
+        "answer_text": "• putopties\n• Mochten de aandelen SBB toch verder dalen, dan kan Carson deze aandelen tegen de uitoefenprijs van de optie verkopen en beperkt hij zo zijn verlies.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "putopties"
+          },
+          {
+            "points": 1,
+            "description": "Mochten de aandelen SBB toch verder dalen, dan kan Carson deze aandelen tegen de uitoefenprijs van de optie verkopen en beperkt hij zo zijn verlies."
+          }
+        ],
+        "grading_note": "Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
+        "answer_image_urls": [
+          "bedrijfseconomie-vwo-2025-ii-carson-johansson-antw30.png"
+        ]
+      }
+    ]
+  }
+}
