@@ -66,6 +66,7 @@ OPGAVE_RE = re.compile(r"^Opgave\s+(\d+)$")
 BRON_RE = re.compile(r"^Informatiebron\s+(\d+)$")
 FORM_RE = re.compile(r"^Formuleblad$", re.I)
 UWB_RE = re.compile(r"^uitwerkbijlage$", re.I)
+UWBNUM_RE = re.compile(r"(\d{1,2})(?: en (\d{1,2}))?")
 
 
 def norm(s):
@@ -272,9 +273,11 @@ def main():
         if mode == "uwb" or uwb_from:
             if uwb_from:
                 mode = "uwb"
+            # a shared uwb starts with "11 en 13" (HAVO-BECO-21-III-O.pdf p.10/13)
             nums = sorted([l for l in text_lines(page)
-                           if re.fullmatch(r"\d{1,2}", l[4].strip()) and l[0] < 130
-                           and int(l[4]) in uwb_cand and uwb_from < l[1] < lim],
+                           if UWBNUM_RE.fullmatch(norm(l[4])) and l[0] < 130
+                           and int(UWBNUM_RE.fullmatch(norm(l[4])).group(1)) in uwb_cand
+                           and uwb_from < l[1] < lim],
                           key=lambda l: l[1])
             ukop = [l for l in text_lines(page) if (UWB_RE.match(norm(l[4])) or norm(l[4]).startswith("Naam"))
                     and l[1] >= uwb_from]
@@ -284,9 +287,11 @@ def main():
             for k, nl in enumerate(nums):
                 ynext = nums[k + 1][1] - 2 if k + 1 < len(nums) else lim
                 y1 = content_end(page, hashes, nl[1], ynext)
-                n = int(nl[4].strip())
-                uwb_nums_all.add(n)
-                op["elems"].append({"kind": "uwb", "num": n, "parts": [(pn, nl[1], y1)],
+                mm = UWBNUM_RE.fullmatch(norm(nl[4]))
+                n = int(mm.group(1))
+                ns = [n] + ([int(mm.group(2))] if mm.group(2) else [])
+                uwb_nums_all.update(ns)
+                op["elems"].append({"kind": "uwb", "num": n, "nums": ns, "parts": [(pn, nl[1], y1)],
                                     "text": format_block_text(page, nl[1] - 0.5, y1 + 0.5)})
 
     # ---- pass 2: render
@@ -348,7 +353,7 @@ def main():
                     stack(pixes, path)
                 widths.add(display_width(fitz.Pixmap(path)))
                 lst.append({"kind": {"uwb": "uitwerkbijlage"}.get(e["kind"], e["kind"]),
-                            "bron": e.get("bron"), "uwb_vraag": e.get("num"),
+                            "bron": e.get("bron"), "uwb_vraag": e.get("num"), "uwb_vragen": e.get("nums"),
                             "image": name, "text": e["text"], "key": f"{e['parts'][0][0]}:{e['kind']}",
                             "page": e["parts"][0][0], "before_vraag": None,
                             "block_type": "uitwerkbijlage" if e["kind"] == "uwb" else "inline"})
