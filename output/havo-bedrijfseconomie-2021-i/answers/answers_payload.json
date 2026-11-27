@@ -1,0 +1,544 @@
+{
+ "payload": {
+  "subject_name": "Bedrijfseconomie",
+  "level": "HAVO",
+  "source": "HAVO Bedrijfseconomie 2021-I",
+  "answers": [
+   {
+    "title": "Kanon bv",
+    "question_number": 1,
+    "answer_text": "8,60 / 1,37 = € 6,28",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-kanon-bv-antw1.png"
+    ]
+   },
+   {
+    "title": "Kanon bv",
+    "question_number": 2,
+    "answer_text": "42.441.000 / 0,50 × 8,60 × 0,15 = € 109.497.780",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-kanon-bv-antw2.png"
+    ]
+   },
+   {
+    "title": "Kanon bv",
+    "question_number": 3,
+    "answer_text": "• Deelnemingen\nBij Deelnemingen gaat het om verworven aandelen waarvan het doel is om zeggenschap te verwerven / hierdoor de concurrentiepositie van de onderneming te handhaven of te verbeteren (op lange termijn)\n• Bij Effecten is het doel (op korte termijn) met de verworven aandelen dividend en/of koerswinst te behalen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Deelnemingen: bij Deelnemingen gaat het om verworven aandelen waarvan het doel is om zeggenschap te verwerven / de concurrentiepositie te handhaven of te verbeteren (op lange termijn)"
+     },
+     {
+      "points": 1,
+      "description": "Bij Effecten is het doel (op korte termijn) met de verworven aandelen dividend en/of koerswinst te behalen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-kanon-bv-antw3.png"
+    ]
+   },
+   {
+    "title": "Super Mobile",
+    "question_number": 4,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Een werknemer heeft een grotere binding met de organisatie / is loyaler aan het werk of werkgever dan een zzp’er.\n− Een werknemer investeert meer in werkrelaties, kennisoverdracht en lange-termijnsucces van de organisatie.\n− Zzp’ers moeten hun aandacht (vaak) verdelen over meerdere opdrachtgevers, waardoor ze vaak minder beschikbaar zijn.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juiste reden"
+     },
+     {
+      "points": 1,
+      "description": "tweede juiste reden"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-super-mobile-antw4.png"
+    ]
+   },
+   {
+    "title": "Super Mobile",
+    "question_number": 5,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− De werkgever kan de arbeidsovereenkomst opzeggen met ingang van de afloopdatum van de arbeidsovereenkomst voor bepaalde tijd zonder vermelding van een goede, gedocumenteerde reden.\n− De medewerker kan gemotiveerder zijn, omdat hij/zij een verlenging wil.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist voordeel"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist voordeel"
+     }
+    ],
+    "grading_note": "Voor het antwoord: “makkelijker te ontslaan tijdens de looptijd” wordt geen scorepunt toegekend.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-super-mobile-antw5.png"
+    ]
+   },
+   {
+    "title": "Super Mobile",
+    "question_number": 6,
+    "answer_text": "• kritische succesfactoren\n• a - 2, b - 3, c - 1, d - 4\n• (3 × 7 + 1 × 2 + 5 × 8 + 4 × 6) / 13 = 6,7",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "kritische succesfactoren"
+     },
+     {
+      "points": 1,
+      "description": "a - 2, b - 3, c - 1, d - 4"
+     },
+     {
+      "points": 1,
+      "description": "(3 × 7 + 1 × 2 + 5 × 8 + 4 × 6) / 13 = 6,7"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-super-mobile-antw6.png"
+    ]
+   },
+   {
+    "title": "Super Mobile",
+    "question_number": 7,
+    "answer_text": "getallen x € 1\ngerealiseerde opbrengsten: 182.208\ngerealiseerde kosten:\nafschrijving computernetwerk: 1.000\nICT-ondersteuning: 2.700\nloonkosten medewerkers callcenter: 193.752\nreiskosten medewerkers callcenter: 16.650\nHRM-ondersteuning: 8.775\ntotale gerealiseerde kosten: 222.877\ngerealiseerd resultaat positief / negatief: 40.669 negatief\n\nberekeningen:\ngerealiseerde opbrengsten: 62.400 x 2,92 = 182.208\nafschrijving computernetwerk: 4.000 / 4 = 1.000\nICT-ondersteuning: 3 x 900 = 2.700\nloonkosten medewerkers callcenter: 15 x 20 x 40 x 13 x 1,08 x 1,15 = 193.752\nreiskosten medewerkers callcenter: 15 x 370 x 3 = 16.650\nHRM-ondersteuning: 45 x 15 x 13 = 8.775",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "182.208"
+     },
+     {
+      "points": 2,
+      "description": "1.000 en 2.700"
+     },
+     {
+      "points": 2,
+      "description": "193.752 en 16.650 en 8.775"
+     },
+     {
+      "points": 1,
+      "description": "40.669 negatief"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-super-mobile-antw7.png"
+    ]
+   },
+   {
+    "title": "Super Mobile",
+    "question_number": 8,
+    "answer_text": "Recht op initiatief",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-super-mobile-antw8.png"
+    ]
+   },
+   {
+    "title": "Super Mobile",
+    "question_number": 9,
+    "answer_text": "totale werkelijke kosten / totale gerealiseerde klantcontacten = 222.877 / 62.400 = € 3,57 (17)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Het antwoord ≥ € 3,5717 of ≥ 3,58 ook goed rekenen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-super-mobile-antw9.png"
+    ]
+   },
+   {
+    "title": "Super Mobile",
+    "question_number": 10,
+    "answer_text": "62.400 / (13 × 40 × 15) = 8 klantcontacten",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-super-mobile-antw10.png"
+    ]
+   },
+   {
+    "title": "Super Mobile",
+    "question_number": 11,
+    "answer_text": "8 × 60 / 48 = 10 klantcontacten",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-super-mobile-antw11.png"
+    ]
+   },
+   {
+    "title": "Super Mobile",
+    "question_number": 12,
+    "answer_text": "In 1 uur outsourcing zijn er 10 klantcontacten.\nEén klantcontact outsourcing vergt 1/10 uur\ndus nodig: 62.400 × 0,10 = 6.240 uren bij outsourcing.\nof\n62.400 / 10 = 6.240 uren",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-super-mobile-antw12.png"
+    ]
+   },
+   {
+    "title": "Super Mobile",
+    "question_number": 13,
+    "answer_text": "kosten bij eigen callcenter: € 222.877 (en zijn onafhankelijk van de vergoeding door het hoofdkantoor) en\nkosten bij outsourcing: 6.240 x 30 = € 187.200",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-super-mobile-antw13.png"
+    ]
+   },
+   {
+    "title": "Piet",
+    "question_number": 14,
+    "answer_text": "Het vrijgekomen geld kan dan mogelijk belegd worden met een verwachte opbrengst die hoger is dan de verwachte opbrengst van de langlopende obligatie.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-piet-antw14.png"
+    ]
+   },
+   {
+    "title": "Piet",
+    "question_number": 15,
+    "answer_text": "(1) lager\n(2) meer\nof\n(1) hoger\n(2) minder\n\n(3) een schuldeiser",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "derde juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-piet-antw15.png"
+    ]
+   },
+   {
+    "title": "Piet",
+    "question_number": 16,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n• Ondernemingen kunnen in de toekomst goedkoper lenen. Hierdoor kunnen de investeringen toenemen en daarmee wordt het toekomstige resultaat positief beïnvloed\n• Hierdoor kan het dividend toenemen / stijgt de beurskoers van aandelen en worden aandelen aantrekkelijker en obligaties niet\nof\n• Interestkosten van ondernemingen dalen waardoor het resultaat van ondernemingen positief wordt beïnvloed\n• Hierdoor kan het dividend toenemen / stijgt de beurskoers van aandelen en worden aandelen aantrekkelijker en obligaties niet\nof\n• Als de kapitaalmarktinterest in de toekomst omlaag gaat, zal het interestpercentage op nieuwe obligaties ook omlaag gaan\n• Voor beleggers is het alternatief aandelen dan interessanter bij gelijkblijvend resultaat dan beleggen in obligaties",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste deelscorepunt: goedkoper lenen / hogere investeringen en daarmee positief toekomstig resultaat, of lagere interestkosten waardoor het resultaat positief wordt beïnvloed, of lagere interest op nieuwe obligaties bij dalende kapitaalmarktinterest"
+     },
+     {
+      "points": 1,
+      "description": "tweede deelscorepunt: hierdoor kan het dividend toenemen / stijgt de beurskoers van aandelen en worden aandelen aantrekkelijker en obligaties niet, of het alternatief aandelen is voor beleggers interessanter dan beleggen in obligaties"
+     }
+    ],
+    "grading_note": "Toelichting:\nBij het tweede voorbeeld van een juist antwoord vervalt bij het eerste deelscorepunt de zin ‘Hierdoor kan het dividend toenemen / stijgt de beurskoers van aandelen’.\nDeze zin vervalt omdat dit antwoordonderdeel ook is vermeld bij het tweede deelscorepunt en alleen daar vermeld behoort te worden.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-piet-antw16.png"
+    ]
+   },
+   {
+    "title": "Piet",
+    "question_number": 17,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− (Uit de historie blijkt dat) aandelen op langere termijn beter renderen dan obligaties.\n− Hoe langer de periode hoe groter het risico dat een belegger zich kan permitteren. De kans dat tegenvallers worden goedgemaakt, is groter bij een lange periode dan bij een korte periode.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-piet-antw17.png"
+    ]
+   },
+   {
+    "title": "Edo en Jesse",
+    "question_number": 18,
+    "answer_text": "• De aflossing is in het eerste jaar 360.000 – 351.175 = 8.825 en in het tweede jaar 351.175 – 342.197 = 8.978\n• De aflossingen nemen toe en dus wordt er annuïtair afgelost\nof\n• Bij lineaire aflossing zou de jaarlijkse aflossing steeds 360.000 / 30 = 12.000 zijn\n• Dat is hier niet het geval. De aflossing is in het eerste jaar 360.000 – 351.175 = 8.825 en in het tweede jaar 351.175 – 342.197 = 8.978, dus er wordt annuïtair afgelost",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "aflossing eerste jaar 360.000 – 351.175 = 8.825 en tweede jaar 351.175 – 342.197 = 8.978 (of: bij lineaire aflossing zou de jaarlijkse aflossing steeds 360.000 / 30 = 12.000 zijn)"
+     },
+     {
+      "points": 1,
+      "description": "de aflossingen nemen toe (zijn niet gelijk), dus er wordt annuïtair afgelost"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-edo-en-jesse-antw18.png"
+    ]
+   },
+   {
+    "title": "Edo en Jesse",
+    "question_number": 19,
+    "answer_text": "• W. Assuur: hypotheekadviseur\n• H. van den Bergh: notaris",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "W. Assuur: hypotheekadviseur"
+     },
+     {
+      "points": 1,
+      "description": "H. van den Bergh: notaris"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-edo-en-jesse-antw19.png"
+    ]
+   },
+   {
+    "title": "Edo en Jesse",
+    "question_number": 20,
+    "answer_text": "• Wanneer de waarde van de hypothecaire schuld in verhouding tot de waarde van de woning (zekerheid voor de bank) lager wordt, loopt de kredietgever minder risico\n• en daalt het interestpercentage omdat dit een vergoeding is voor het gelopen risico",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Wanneer de waarde van de hypothecaire schuld in verhouding tot de waarde van de woning lager wordt, loopt de kredietgever minder risico"
+     },
+     {
+      "points": 1,
+      "description": "en daalt het interestpercentage omdat dit een vergoeding is voor het gelopen risico"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-edo-en-jesse-antw20.png"
+    ]
+   },
+   {
+    "title": "Edo en Jesse",
+    "question_number": 21,
+    "answer_text": "• 360.000 / 365.000 × 100% = 99% dus kolom ≤ 100%\n• Bij 10 jaar (zonder NHG) is dan een interest van 1,73% van toepassing. De interestopslag is dan 1,73% – 1,33% = 0,40%",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "360.000 / 365.000 × 100% = 99% dus kolom ≤ 100%"
+     },
+     {
+      "points": 1,
+      "description": "interest 1,73% (10 jaar, zonder NHG); interestopslag 1,73% – 1,33% = 0,40%"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-edo-en-jesse-antw21.png"
+    ]
+   },
+   {
+    "title": "Willem en Liesbeth",
+    "question_number": 22,
+    "answer_text": "• (55.000 x 1,02² + 5.000) x 1,02⁴ = 67.351,09\nof\n55.000 x 1,02⁶ + 5.000 x 1,02⁴ = 67.351,09\n• 67.351,09 > 60.720.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "(55.000 x 1,02² + 5.000) x 1,02⁴ = 67.351,09 of 55.000 x 1,02⁶ + 5.000 x 1,02⁴ = 67.351,09"
+     },
+     {
+      "points": 1,
+      "description": "67.351,09 > 60.720"
+     }
+    ],
+    "grading_note": "Toelichting:\nBij het tweede deelscorepunt is niet vereist dat de zin 'Daarmee vervalt het recht op huurtoeslag in 2020' in het antwoord wordt gegeven.\nIn de vraag wordt de formulering 'Toon aan dat ...' gebruikt. Daarom is de berekening als antwoord voldoende om het scorepunt toe te kennen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-willem-en-liesbeth-antw22.png"
+    ]
+   },
+   {
+    "title": "Willem en Liesbeth",
+    "question_number": 23,
+    "answer_text": "12 x 168 = € 2.016",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-willem-en-liesbeth-antw23.png"
+    ]
+   },
+   {
+    "title": "Willem en Liesbeth",
+    "question_number": 24,
+    "answer_text": "Een van de volgende berekeningen:\n− (10.000 – 2.173) x 0,18 = € 1.408,86\n− 102.010 > 10.000. Als Erik de schenking gebruikt voor een koophuis is de schenking volledig vrijgesteld van schenkbelasting. Dus is de schenkbelasting € 0.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-willem-en-liesbeth-antw24.png"
+    ]
+   },
+   {
+    "title": "Willem en Liesbeth",
+    "question_number": 25,
+    "answer_text": "• Vermogen op 1 januari 2021 na geldopname en boete: onder de vermogensgrens\n67.351,09 x 1,02 – 10.000 – 0,01 x 10.000 x 3 = 58.398,11\n• 58.398,11 < 60.720.\n• Saldo spaardeposito op 1 januari 2022: (58.398,11 x 1,02 =) 59.566,07 < 60.720.",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "vermogen op 1 januari 2021 na geldopname en boete: 67.351,09 x 1,02 – 10.000 – 0,01 x 10.000 x 3 = 58.398,11"
+     },
+     {
+      "points": 1,
+      "description": "58.398,11 < 60.720"
+     },
+     {
+      "points": 1,
+      "description": "saldo spaardeposito op 1 januari 2022: (58.398,11 x 1,02 =) 59.566,07 < 60.720"
+     }
+    ],
+    "grading_note": "Toelichting:\nBij het tweede deelscorepunt is de zin 'In 2021 recht op huurtoeslag' en bij het derde deelscorepunt de zin 'Ook in 2022 recht op huurtoeslag' niet vereist in het antwoord. In de vraag wordt de formulering 'Toon aan dat ...' gebruikt. Daarom is de berekening als antwoord voldoende om de scorepunten toe te kennen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-willem-en-liesbeth-antw25.png"
+    ]
+   },
+   {
+    "title": "Willem en Liesbeth",
+    "question_number": 26,
+    "answer_text": "• De legitieme portie is het gedeelte van de erfenis waar een kind recht op houdt wanneer hij/zij in een testament onterfd wordt (de helft van wat hij/zij zonder testament zou hebben gekregen)\n• Door schenkingen aan Erik daalt het vermogen van Willem en Liesbeth en daarmee ook de legitieme portie van Ivan",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De legitieme portie is het gedeelte van de erfenis waar een kind recht op houdt wanneer hij/zij in een testament onterfd wordt (de helft van wat hij/zij zonder testament zou hebben gekregen)"
+     },
+     {
+      "points": 1,
+      "description": "Door schenkingen aan Erik daalt het vermogen van Willem en Liesbeth en daarmee ook de legitieme portie van Ivan"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-willem-en-liesbeth-antw26.png"
+    ]
+   },
+   {
+    "title": "Only1 vof",
+    "question_number": 27,
+    "answer_text": "Liquiditeitsoverzicht van december 2020\nfinancieel feit a: uitgaven: interest € 600; aflossing € 2.000\nfinancieel feit b: ontvangsten: relatiebemiddeling € 2.178\n\nWinst- en verliesrekening over december 2020\nfinancieel feit a: kosten: interest(kosten) € 50\nfinancieel feit b: —\n\nToelichting:\ninterest(kosten): 600 / 12 = 50",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "liquiditeitsoverzicht, financieel feit a: uitgaven interest € 600"
+     },
+     {
+      "points": 1,
+      "description": "liquiditeitsoverzicht, financieel feit a: uitgaven aflossing € 2.000"
+     },
+     {
+      "points": 1,
+      "description": "liquiditeitsoverzicht, financieel feit b: ontvangsten relatiebemiddeling € 2.178"
+     },
+     {
+      "points": 1,
+      "description": "winst- en verliesrekening, financieel feit a: kosten interest(kosten) € 50"
+     }
+    ],
+    "grading_note": "Per juiste naam, bedrag en plek 1 scorepunt toekennen.\nVoor elke ten onrechte opgevoerde post 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-only1-vof-antw27.png"
+    ]
+   },
+   {
+    "title": "Only1 vof",
+    "question_number": 28,
+    "answer_text": "• bedrijfsresultaat: 7.500 – 450 – 460 – 240 – 200 – 50 (interest) = 6.100\n• bedrijfsresultaat – privé-onttrekkingen = 6.100 – 5.000\n• dus het eigen vermogen stijgt (met 1.100) / daalt niet",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "bedrijfsresultaat: 7.500 – 450 – 460 – 240 – 200 – 50 (interest) = 6.100"
+     },
+     {
+      "points": 1,
+      "description": "bedrijfsresultaat – privé-onttrekkingen = 6.100 – 5.000"
+     },
+     {
+      "points": 1,
+      "description": "dus het eigen vermogen stijgt (met 1.100) / daalt niet"
+     }
+    ],
+    "grading_note": "Wanneer in de eerste twee onderdelen van de uitwerking van deze vraag gewerkt wordt met gegevens uit het liquiditeitsoverzicht, dan kan het 3ᵉ scorepunt niet worden toegekend.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-only1-vof-antw28.png"
+    ]
+   },
+   {
+    "title": "Only1 vof",
+    "question_number": 29,
+    "answer_text": "• Door de vof om te zetten in een bv (of in een andere ondernemingsvorm met rechtspersoonlijkheid)\n• zijn de eigenaren niet meer hoofdelijk aansprakelijk voor de schulden van de onderneming",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de vof om te zetten in een bv (of in een andere ondernemingsvorm met rechtspersoonlijkheid)"
+     },
+     {
+      "points": 1,
+      "description": "zijn de eigenaren niet meer hoofdelijk aansprakelijk voor de schulden van de onderneming"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-i-only1-vof-antw29.png"
+    ]
+   }
+  ]
+ }
+}

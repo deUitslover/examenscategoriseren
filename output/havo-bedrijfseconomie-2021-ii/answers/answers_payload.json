@@ -1,0 +1,518 @@
+{
+ "payload": {
+  "subject_name": "Bedrijfseconomie",
+  "level": "HAVO",
+  "source": "HAVO Bedrijfseconomie 2021-II",
+  "answers": [
+   {
+    "title": "Ontslagrecht",
+    "question_number": 1,
+    "answer_text": "I : a, b, f\nII: c, d\nIII: e",
+    "scoring_steps": [
+     {
+      "points": 3,
+      "description": "indien zes antwoorden goed 3 scorepunten; indien vijf of vier antwoorden goed 2 scorepunten; indien minder dan vier antwoorden goed 1 scorepunt"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-ontslagrecht-antw1.png"
+    ]
+   },
+   {
+    "title": "Ontslagrecht",
+    "question_number": 2,
+    "answer_text": "• De leeftijdsopbouw binnen een functie en binnen de organisatie voor en na de ontslagen blijft zo veel mogelijk gelijk\n• waardoor na verloop van tijd niet ineens veel ervaring verdwijnt als gevolg van bijvoorbeeld pensionering\nof\n• De werkgever hoeft niet specifiek te motiveren waarom hij een bepaalde werknemer voordraagt voor opzegging en anderen niet\n• Dit voorkomt discussies met de ontslagen werknemers\nof\n• Bij de ontslagkeuze spelen persoonlijke voorkeur of functioneren geen rol: de ontslagvolgorde is dwingend voorgeschreven door de ontslagregels\n• Dit maakt de acceptatie van het ontslag door de werknemer soms makkelijker. Dit voorkomt discussies met de ontslagen werknemers",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste deelscorepunt: de leeftijdsopbouw blijft zo veel mogelijk gelijk / de werkgever hoeft niet specifiek te motiveren waarom hij een bepaalde werknemer voordraagt voor opzegging / persoonlijke voorkeur of functioneren spelen geen rol: de ontslagvolgorde is dwingend voorgeschreven"
+     },
+     {
+      "points": 1,
+      "description": "tweede deelscorepunt: waardoor niet ineens veel ervaring verdwijnt (bijvoorbeeld door pensionering) / dit voorkomt discussies met de ontslagen werknemers / dit maakt de acceptatie van het ontslag makkelijker"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-ontslagrecht-antw2.png"
+    ]
+   },
+   {
+    "title": "Ontslagrecht",
+    "question_number": 3,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Een werkgever zal een werknemer makkelijker ontslaan.\n− Een werkgever zal (nieuw) personeel eerder een arbeidsovereenkomst voor onbepaalde tijd aanbieden.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Toelichting:\nIn vraag 3 wordt alleen gevraagd om een gevolg van een wetswijziging.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-ontslagrecht-antw3.png"
+    ]
+   },
+   {
+    "title": "Robin Vermeer",
+    "question_number": 4,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− lagere maandlasten vergeleken met de hoge huren in de private sector\n− meer invloed op de duur van het koopproces vergeleken met de lange wachtlijsten in de sociale huursector\n− opbouw van vermogen doordat de waarde van de koopwoning kan stijgen\nDe waardestijging van de huurwoning valt toe aan de verhuurder.\n− belastingvoordeel op hypotheekinterest\nDe huur is geen fiscale aftrekpost.\n− Bij een koophuis kan je als bewoner verbouwen/aanbouwen/bijbouwen naar eigen wens en smaak, bij huur is dat afhankelijk van toestemming / financiering van de verhuurder.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-robin-vermeer-antw4.png"
+    ]
+   },
+   {
+    "title": "Robin Vermeer",
+    "question_number": 5,
+    "answer_text": "getallen x € 1 (Robin / Floor)\njaarinkomen uit dienstverband: Robin 35.164,80\noverige inkomsten: Robin 11.400,00\ngemiddeld jaarinkomen zelfstandige: Floor 46.000\ntotaal: Robin 46.564,80; Floor 46.000\ngezamenlijk toetsinkomen: 78.764,80\n\nBerekeningen:\njaarinkomen uit dienstverband: salaris: 3.300 × (32 / 40) × 12 = 31.680\nsalaris inclusief vakantiegeld en eindejaarsuitkering: 31.680 × (1 + 0,08 + 0,03) = 35.164,80\noverige inkomsten: —\ngezamenlijk inkomen zelfstandige: (41.000 + 47.000 + 50.000) / 3 = 46.000\ngezamenlijk toetsinkomen: 46.564,80 + (0,7 x 46.000) = 78.764,80",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "31.680"
+     },
+     {
+      "points": 1,
+      "description": "35.164,80"
+     },
+     {
+      "points": 1,
+      "description": "11.400"
+     },
+     {
+      "points": 1,
+      "description": "46.000"
+     },
+     {
+      "points": 1,
+      "description": "78.764,80"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-robin-vermeer-antw5.png"
+    ]
+   },
+   {
+    "title": "Robin Vermeer",
+    "question_number": 6,
+    "answer_text": "• a: 78.764,80 x 4,5 = 354.441,60\nb: 1.000 x 4 = 4.000\n• c: 354.441,60 – 4.000 = 350.441,60 (> 350.000)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a: 78.764,80 x 4,5 = 354.441,60 en b: 1.000 x 4 = 4.000"
+     },
+     {
+      "points": 1,
+      "description": "c: 354.441,60 – 4.000 = 350.441,60 (> 350.000)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-robin-vermeer-antw6.png"
+    ]
+   },
+   {
+    "title": "Robin Vermeer",
+    "question_number": 7,
+    "answer_text": "• 0,02 x 350.000 = 7.000,00\n0,015 x 359.500 = 5.392,50\n• 0,12 x (359.500 – 350.000) = 1.140,00\n• 1.200 + 2.600 + 500 + 450 = 4.750,00\ntotaal: € 18.282,50",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "0,02 x 350.000 = 7.000,00 en 0,015 x 359.500 = 5.392,50"
+     },
+     {
+      "points": 1,
+      "description": "0,12 x (359.500 – 350.000) = 1.140,00"
+     },
+     {
+      "points": 1,
+      "description": "1.200 + 2.600 + 500 + 450 = 4.750,00; totaal € 18.282,50"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-robin-vermeer-antw7.png"
+    ]
+   },
+   {
+    "title": "Robin Vermeer",
+    "question_number": 8,
+    "answer_text": "• Floor 53.000 x 0,25 = 13.250\nRobin 10.000\ntotaal € 23.250\n• De kosten koper en overige aankoopkosten (18.282,50) zijn minder dan de beschikbare liquide middelen (23.250), dus ja",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Floor 53.000 x 0,25 = 13.250 + Robin 10.000 = € 23.250"
+     },
+     {
+      "points": 1,
+      "description": "De kosten koper en overige aankoopkosten (18.282,50) zijn minder dan de beschikbare liquide middelen (23.250), dus ja"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-robin-vermeer-antw8.png"
+    ]
+   },
+   {
+    "title": "Robin Vermeer",
+    "question_number": 9,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Robin heeft een arbeidsovereenkomst voor onbepaalde tijd waardoor er meer zekerheid is dat de geldnemer aan de betalingsverplichting kan voldoen\n• Floor loopt ondernemersrisico, dus kunnen haar inkomsten fluctueren",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Robin heeft een arbeidsovereenkomst voor onbepaalde tijd waardoor er meer zekerheid is dat de geldnemer aan de betalingsverplichting kan voldoen"
+     },
+     {
+      "points": 1,
+      "description": "Floor loopt ondernemersrisico, dus kunnen haar inkomsten fluctueren"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-robin-vermeer-antw9.png"
+    ]
+   },
+   {
+    "title": "Robin Vermeer",
+    "question_number": 10,
+    "answer_text": "annuïtaire lening (bedragen in €)\n2021: schuld begin van het jaar 350.000,00; interest 11.200,00; aflossing 7.121,00; belastingvoordeel 4.480,00; uitgaven na belastingvoordeel 13.841,00\n2022: schuld begin van het jaar 342.879,00; interest 10.972,13; aflossing 7.348,87; belastingvoordeel 4.388,85; uitgaven na belastingvoordeel 13.932,15\n\nlineaire lening (bedragen in €)\n2021: schuld begin van het jaar 350.000,00; interest 11.200,00; aflossing 11.666,67; belastingvoordeel 4.480,00; uitgaven na belastingvoordeel 18.386,67\n2022: schuld begin van het jaar 338.333,33; interest 10.826,67; aflossing 11.666,67; belastingvoordeel 4.330,67; uitgaven na belastingvoordeel 18.162,67\n\nConclusie:\nDe norm is 78.764,80 x 0,23 = 18.115,90.\nDe annuïtaire lening voldoet wel aan de norm, want de hypotheekuitgaven na belastingvoordeel zijn 13.841,00 en 13.932,15 en zijn lager dan de norm.\nDe lineaire lening voldoet niet aan de norm, want 18.386,67 en 18.162,67 zijn hoger dan de norm",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "interestbedragen"
+     },
+     {
+      "points": 1,
+      "description": "aflossingsbedragen"
+     },
+     {
+      "points": 1,
+      "description": "belastingvoordeelbedragen"
+     },
+     {
+      "points": 1,
+      "description": "uitgaven na belastingvoordeel"
+     },
+     {
+      "points": 1,
+      "description": "conclusie: norm 78.764,80 x 0,23 = 18.115,90; annuïtaire lening voldoet wel (13.841,00 en 13.932,15), lineaire lening niet (18.386,67 en 18.162,67)"
+     }
+    ],
+    "grading_note": "Als de kandidaat geen berekeningen geeft van de bedragen in de tabellen, worden geen scorepunten in mindering gebracht.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-robin-vermeer-antw10.png"
+    ]
+   },
+   {
+    "title": "De Zonnige Kant bv",
+    "question_number": 11,
+    "answer_text": "Het voorkomen van een faillissement.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Voor het antwoord “uitstel van betaling” wordt geen scorepunt toegekend.\nToelichting:\nIn het antwoord is het benoemen van een correcte reden voldoende om het scorepunt toe te kennen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-de-zonnige-kant-bv-antw11.png"
+    ]
+   },
+   {
+    "title": "De Zonnige Kant bv",
+    "question_number": 12,
+    "answer_text": "Omdat De Zonnige Kant de enige is die toeristen naar het hotel brengt, betekent het faillissement van De Zonnige Kant geen toeristen/hotelovernachtingen en dus geen ontvangsten.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-de-zonnige-kant-bv-antw12.png"
+    ]
+   },
+   {
+    "title": "De Zonnige Kant bv",
+    "question_number": 13,
+    "answer_text": "Voorbeelden van een juist antwoord zijn\n− De hypotheekverstrekker heeft het recht van hypotheek (en het Griekse hotel heeft dit niet).\n− Een vast actief is onderpand voor de verstrekker van de hypothecaire lening (en de verstrekker kan bij niet betalen het onderpand opeisen).",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-de-zonnige-kant-bv-antw13.png"
+    ]
+   },
+   {
+    "title": "De Zonnige Kant bv",
+    "question_number": 14,
+    "answer_text": "Harry heeft geen gelijk, want\nvoorbeeld van een juiste motivatie is:\nDe Zonnige Kant is een bv/rechtspersoon en dan ben je privé niet aansprakelijk.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-de-zonnige-kant-bv-antw14.png"
+    ]
+   },
+   {
+    "title": "Strota",
+    "question_number": 15,
+    "answer_text": "• contante verkoop: (20.000 + 30.000 + 25.000) x 0,90 = 67.500\ndebiteuren: (15.000 + 25.000 + 20.000) x 0,10 = 6.000 +\n73.500\n• btw 0,21 x 73.500 = 15.435 +\nontvangsten € 88.935",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "contante verkoop: (20.000 + 30.000 + 25.000) x 0,90 = 67.500 en debiteuren: (15.000 + 25.000 + 20.000) x 0,10 = 6.000; samen 73.500"
+     },
+     {
+      "points": 1,
+      "description": "btw 0,21 x 73.500 = 15.435; ontvangsten € 88.935"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-strota-antw15.png"
+    ]
+   },
+   {
+    "title": "Strota",
+    "question_number": 16,
+    "answer_text": "275 x 10 = € 2.750",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-strota-antw16.png"
+    ]
+   },
+   {
+    "title": "Strota",
+    "question_number": 17,
+    "answer_text": "liquide middelen 1 januari 2021: 350 + 250 = 600\nontvangsten uit verkopen: + 88.935\n• btw-afdracht: – 6.930\nbetaalde verzekeringspremie en overige uitgaven: 12 x 275 + 4.000 x 3 = – 15.300\n• betaald aan crediteuren: (10.000 + 8.000 + 11.000) x 1,21 = – 35.090\n• 31 maart 2021 kas: – 500\n31 maart 2021 bank: € 31.715\nBank staat aan de debetzijde",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "liquide middelen 1 januari 2021: 350 + 250 = 600 en ontvangsten uit verkopen + 88.935"
+     },
+     {
+      "points": 1,
+      "description": "btw-afdracht – 6.930 en betaalde verzekeringspremie en overige uitgaven: 12 x 275 + 4.000 x 3 = – 15.300"
+     },
+     {
+      "points": 1,
+      "description": "betaald aan crediteuren: (10.000 + 8.000 + 11.000) x 1,21 = – 35.090"
+     },
+     {
+      "points": 1,
+      "description": "31 maart 2021 kas – 500; 31 maart 2021 bank € 31.715; bank staat aan de debetzijde"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-strota-antw17.png"
+    ]
+   },
+   {
+    "title": "Strota",
+    "question_number": 18,
+    "answer_text": "• Te betalen btw: (20.000 + 30.000 + 25.000) x 0,21 = 15.750\n• Te vorderen btw: (8.000 + 11.000 + 9.000) x 0,21 = 5.880\nsaldo te betalen aan de Belastingdienst € 9.870",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Te betalen btw: (20.000 + 30.000 + 25.000) x 0,21 = 15.750"
+     },
+     {
+      "points": 1,
+      "description": "Te vorderen btw: (8.000 + 11.000 + 9.000) x 0,21 = 5.880; saldo te betalen aan de Belastingdienst € 9.870"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-strota-antw18.png"
+    ]
+   },
+   {
+    "title": "Eva en Sanne",
+    "question_number": 19,
+    "answer_text": "• In geval van beneficiair aanvaarden van de erfenis kunnen Eva en Sanne, wanneer de schulden groter zijn dan de bezittingen, de erfenis (alsnog) verwerpen\n• Bij zuivere aanvaarding wordt de erfenis altijd aanvaard, ongeacht de verhouding schuld/bezit",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "In geval van beneficiair aanvaarden van de erfenis kunnen Eva en Sanne, wanneer de schulden groter zijn dan de bezittingen, de erfenis (alsnog) verwerpen"
+     },
+     {
+      "points": 1,
+      "description": "Bij zuivere aanvaarding wordt de erfenis altijd aanvaard, ongeacht de verhouding schuld/bezit"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-eva-en-sanne-antw19.png"
+    ]
+   },
+   {
+    "title": "Eva en Sanne",
+    "question_number": 20,
+    "answer_text": "Tante Door had een testament moeten laten opstellen (bij een notaris) waarin ze de stichting als erfgenaam benoemde.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-eva-en-sanne-antw20.png"
+    ]
+   },
+   {
+    "title": "Eva en Sanne",
+    "question_number": 21,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− De stichting heeft de ANBI-status en hoeft geen erf-/schenkbelasting te betalen.\n− Eva en Sanne moeten over de erfenis belasting betalen waardoor de schenking aan de stichting lager uitvalt.\n− Bij direct ontvangen van de erfenis zou de waarde van de inboedel aan de stichting Hulphond Nederland toegekomen zijn, terwijl dat bij de huidige verrekening aan Eva en Sanne toekomt.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-eva-en-sanne-antw21.png"
+    ]
+   },
+   {
+    "title": "Eva en Sanne",
+    "question_number": 22,
+    "answer_text": "• bij de energiemaatschappij: 840 – 5 x 130 = 190\n• bij de zorgverzekeraar: 385\ntotaal € 575",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "bij de energiemaatschappij: 840 – 5 x 130 = 190"
+     },
+     {
+      "points": 1,
+      "description": "bij de zorgverzekeraar: 385; totaal € 575"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-eva-en-sanne-antw22.png"
+    ]
+   },
+   {
+    "title": "Eva en Sanne",
+    "question_number": 23,
+    "answer_text": "• waarde bezittingen op 1 april:\nspaarrekeningen: 9.560\ninboedel: 4.500\ntotaal 14.060\n• waarde schulden op 1 april:\nenergiemaatschappij en zorgverzekeraar: 575\nrood staan betaalrekening: 240\ncreditcardschuld: 360\ntotaal 1.175\nwaarde bezittingen min schulden: € 12.885",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "waarde bezittingen op 1 april: 9.560 + 4.500 = 14.060"
+     },
+     {
+      "points": 2,
+      "description": "waarde schulden op 1 april: 575 + 240 + 360 = 1.175; waarde bezittingen min schulden: € 12.885"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-eva-en-sanne-antw23.png"
+    ]
+   },
+   {
+    "title": "Eva en Sanne",
+    "question_number": 24,
+    "answer_text": "• te betalen erfbelasting (2 personen): (12.885 – 2 x 2.173) x 0,30 = 2.561,70\n• De stichting ontvangt: 9.560 (spaarrekening) – (575 + 240 + 360) (schulden) – 2.561,70 = € 5.823,30",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "te betalen erfbelasting (2 personen): (12.885 – 2 x 2.173) x 0,30 = 2.561,70"
+     },
+     {
+      "points": 1,
+      "description": "De stichting ontvangt: 9.560 (spaarrekening) – (575 + 240 + 360) (schulden) – 2.561,70 = € 5.823,30"
+     }
+    ],
+    "grading_note": "Wanneer de erfbelasting naar beneden is afgerond op hele euro’s, is dit ook correct.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-eva-en-sanne-antw24.png"
+    ]
+   },
+   {
+    "title": "Hema",
+    "question_number": 25,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Product: door het assortiment te veranderen\n− Plaats: de Hema distributiekanalen worden uitgebreid (nu ook bij Jumbo).\n− Promotie: er is sprake van co-sponsoring.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste P met juiste uitleg"
+     },
+     {
+      "points": 1,
+      "description": "tweede P met juiste uitleg"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-hema-antw25.png"
+    ]
+   },
+   {
+    "title": "Hema",
+    "question_number": 26,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Grotere naamsbekendheid Hema, hierdoor neemt de afzet van Hema producten toe. Deze Hema producten zijn ook te koop bij Jumbo, dus komen er meer klanten bij de Jumbo die ook Jumbo producten gaan kopen.\n− Het sponsorbudget van Jumbo kan nu verdeeld worden over meer sporten (bijvoorbeeld voetbal) met ieder een specifiek publiciteitskanaal (sportblad, tv-programma) waardoor de naamsbekendheid van Jumbo kan toenemen.\n− De kwaliteit van de wielerploeg wordt groter, want door het grotere budget kunnen er betere wielrenners gecontracteerd worden waardoor de wielerploeg en dus ook Jumbo meer in de publiciteit komen.\n− Lagere promotiekosten omdat Hema die voor een deel voor haar rekening neemt.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-hema-antw26.png"
+    ]
+   },
+   {
+    "title": "Hema",
+    "question_number": 27,
+    "answer_text": "• Pullstrategie, want door de reclamefolder wordt het voor de klant aantrekkelijk om naar de tompouce te vragen bij zowel Jumbo als Hema\n• Pushstrategie, want Hema zal de winkelinrichting verzorgen waardoor het voor Jumbo aantrekkelijk gemaakt wordt om de tompouce in het assortiment op te nemen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Pullstrategie, want door de reclamefolder wordt het voor de klant aantrekkelijk om naar de tompouce te vragen bij zowel Jumbo als Hema"
+     },
+     {
+      "points": 1,
+      "description": "Pushstrategie, want Hema zal de winkelinrichting verzorgen waardoor het voor Jumbo aantrekkelijk gemaakt wordt om de tompouce in het assortiment op te nemen"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2021-ii-hema-antw27.png"
+    ]
+   }
+  ]
+ }
+}
