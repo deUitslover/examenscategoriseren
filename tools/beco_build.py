@@ -201,9 +201,11 @@ def main():
         lim = footer_limit(page, hashes)
         cut = None
         uwb_from = 0
-        if mode == "vraag" and head is None:
+        if mode in ("vraag", "bron", "formuleblad") and head is None:
             # uwb page without kop that starts with the bare vraagnummer and holds
-            # no vraag ("19" on top of VWO-BECO-24-II-O.pdf p.13)
+            # no vraag ("19" on top of VWO-BECO-24-II-O.pdf p.13; "22" on top of
+            # HAVO-BECO-26-II-O.pdf p.21, right after informatiebron 7 -- without
+            # this it was stacked onto that bron as a continuation page)
             first = sorted([l for l in text_lines(page) if l[1] < lim and norm(l[4])], key=lambda l: l[1])
             top_nums = [l for l in first if first and l[1] <= first[0][1] + 10
                         and re.fullmatch(r"\d{1,2}", norm(l[4])) and l[0] < 130 and int(norm(l[4])) in uwb_cand]
