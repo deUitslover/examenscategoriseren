@@ -1,0 +1,547 @@
+{
+ "payload": {
+  "subject_name": "Bedrijfseconomie",
+  "level": "HAVO",
+  "source": "HAVO Bedrijfseconomie 2026-I",
+  "answers": [
+   {
+    "title": "Vacature docent Nederlands",
+    "question_number": 1,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Een vacaturebank heeft een groot bereik.\n− Werkzoekenden zoeken een vacature vaak in een vacaturebank.\n− Een vacaturebank is gericht op de doelgroep.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-vacature-docent-nederlands-antw1.png"
+    ]
+   },
+   {
+    "title": "Vacature docent Nederlands",
+    "question_number": 2,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Voor de school: het is belangrijk dat kandidaten met de juiste bevoegdheden/competenties solliciteren.\n• Voor de sollicitant: het is belangrijk dat de sollicitant weet wat de functie-inhoud is en welke taken hij/zij moet verrichten / kan beoordelen of de beloning passend is bij de functie.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Voor de school: het is belangrijk dat kandidaten met de juiste bevoegdheden/competenties solliciteren."
+     },
+     {
+      "points": 1,
+      "description": "Voor de sollicitant: het is belangrijk dat de sollicitant weet wat de functie-inhoud is en welke taken hij/zij moet verrichten / kan beoordelen of de beloning passend is bij de functie."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-vacature-docent-nederlands-antw2.png"
+    ]
+   },
+   {
+    "title": "Vacature docent Nederlands",
+    "question_number": 3,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• a) de mogelijkheid tot professionele ontwikkeling / het volgen van cursussen / loon in natura / competentiebeloningen\n• b) bepaalde tijd",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "a) de mogelijkheid tot professionele ontwikkeling / het volgen van cursussen / loon in natura / competentiebeloningen"
+     },
+     {
+      "points": 1,
+      "description": "b) bepaalde tijd"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-vacature-docent-nederlands-antw3.png"
+    ]
+   },
+   {
+    "title": "Vacature docent Nederlands",
+    "question_number": 4,
+    "answer_text": "• 0,7 x 3.814 x 2 x 1,08 + 0,7 x 4.001 x 7 x 1,08 = € 26.940,06",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "0,7 x 3.814 x 2 x 1,08 + 0,7 x 4.001 x 7 x 1,08 = € 26.940,06"
+     }
+    ],
+    "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-vacature-docent-nederlands-antw4.png"
+    ]
+   },
+   {
+    "title": "Samen Eten en Delen",
+    "question_number": 5,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− De eigenaren van de bv / aandeelhouders zijn niet privé-aansprakelijk voor de schulden van de onderneming.\n− Het kan fiscaal voordeliger uitpakken.\n− De bv is (door aandelen) gemakkelijker overdraagbaar.\n\nper juist antwoord",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-samen-eten-en-delen-antw5.png"
+    ]
+   },
+   {
+    "title": "Samen Eten en Delen",
+    "question_number": 6,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Product(beleid): aan de van tevoren bereide maaltijden (in productiekeukens) worden andere eisen gesteld voor wat betreft de kwaliteit, verpakking of service.\n− Plaats(beleid): SED zal de nieuwe doelgroepen moeten bevoorraden (, want de gasten komen niet meer naar het restaurant).\n− Promotie(beleid): SED maakt reclame in vakbladen (in plaats van via sociale media).\n− Prijs(beleid): de prijzen van kant-en-klare maaltijden zullen lager zijn (dan de prijzen van in de horeca bereide maaltijden).\n\nPer juist antwoord (met bijbehorende toelichting)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord (met bijbehorende toelichting)"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord (met bijbehorende toelichting)"
+     },
+     {
+      "points": 1,
+      "description": "derde juist antwoord (met bijbehorende toelichting)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-samen-eten-en-delen-antw6.png"
+    ]
+   },
+   {
+    "title": "Samen Eten en Delen",
+    "question_number": 7,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nWanneer Stichting SED veel belangstelling trekt bij kook- en kennismakingsmiddagen / aandacht in de media krijgt, kan deze naamsbekendheid leiden tot een hogere afzet voor SED bv.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Een juist antwoord bevat informatie over een positieve situatie bij de Stichting SED die een positieve invloed kan hebben op SED bv.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-samen-eten-en-delen-antw7.png"
+    ]
+   },
+   {
+    "title": "Samen Eten en Delen",
+    "question_number": 8,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− toezicht houden op het beleid van het bestuur\n− advies geven aan het bestuur\n− schorsen of ontslaan van de bestuurder(s)\n\nper juist antwoord",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-samen-eten-en-delen-antw8.png"
+    ]
+   },
+   {
+    "title": "Samen Eten en Delen",
+    "question_number": 9,
+    "answer_text": "• 120.000 / 3 + 45.000 / 3 × 2 + 15.000 = 85.000\n• 85.000 x 1,09 = € 92.650 (a)",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "120.000 / 3 + 45.000 / 3 × 2 + 15.000 = 85.000"
+     },
+     {
+      "points": 1,
+      "description": "85.000 x 1,09 = € 92.650 (a)"
+     }
+    ],
+    "grading_note": "Bij de eerste deelscore voor elke fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-samen-eten-en-delen-antw9.png"
+    ]
+   },
+   {
+    "title": "Samen Eten en Delen",
+    "question_number": 10,
+    "answer_text": "(b): € 848",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-samen-eten-en-delen-antw10.png"
+    ]
+   },
+   {
+    "title": "Samen Eten en Delen",
+    "question_number": 11,
+    "answer_text": "• 15.000 – (848 – 0,012 x 15.000) = 14.332\n• (c): 0,012 x 14.332 = € 172",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "15.000 – (848 – 0,012 x 15.000) = 14.332"
+     },
+     {
+      "points": 1,
+      "description": "(c): 0,012 x 14.332 = € 172"
+     }
+    ],
+    "grading_note": "Wanneer niet is afgerond op hele euro’s 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-samen-eten-en-delen-antw11.png"
+    ]
+   },
+   {
+    "title": "Samen Eten en Delen",
+    "question_number": 12,
+    "answer_text": "• te betalen btw: 0,09 x 180.000 = 16.200\n• af te dragen btw (d): 16.200 – 13.140 = € 3.060",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "te betalen btw: 0,09 x 180.000 = 16.200"
+     },
+     {
+      "points": 1,
+      "description": "af te dragen btw (d): 16.200 – 13.140 = € 3.060"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-samen-eten-en-delen-antw12.png"
+    ]
+   },
+   {
+    "title": "Samen Eten en Delen",
+    "question_number": 13,
+    "answer_text": "• liquide middelen eind tweede kwartaal voor donatie: 6.500 + 9.682 = 16.182\n• 16.182 – 0,25 x 24.428 = € 10.075 (> 6.000)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "liquide middelen eind tweede kwartaal voor donatie: 6.500 + 9.682 = 16.182"
+     },
+     {
+      "points": 1,
+      "description": "16.182 – 0,25 x 24.428 = € 10.075 (> 6.000)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-samen-eten-en-delen-antw13.png"
+    ]
+   },
+   {
+    "title": "Coolblue bv",
+    "question_number": 14,
+    "answer_text": "• De bv moet worden omgezet in een nv.\n• Alleen een nv kan aandelen uitgeven op de effectenbeurs / Aandelen van een bv zijn niet vrij overdraagbaar en die van een nv wel.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De bv moet worden omgezet in een nv."
+     },
+     {
+      "points": 1,
+      "description": "Alleen een nv kan aandelen uitgeven op de effectenbeurs / Aandelen van een bv zijn niet vrij overdraagbaar en die van een nv wel."
+     }
+    ],
+    "grading_note": "Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-coolblue-bv-antw14.png"
+    ]
+   },
+   {
+    "title": "Coolblue bv",
+    "question_number": 15,
+    "answer_text": "• Door een emissie van aandelen stijgt het eigen vermogen.\n• Het vreemd vermogen blijft gelijk(, waardoor de solvabiliteit verbetert).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door een emissie van aandelen stijgt het eigen vermogen."
+     },
+     {
+      "points": 1,
+      "description": "Het vreemd vermogen blijft gelijk(, waardoor de solvabiliteit verbetert)."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-coolblue-bv-antw15.png"
+    ]
+   },
+   {
+    "title": "Coolblue bv",
+    "question_number": 16,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n• Door de komst van een concurrent kan de winst van Coolblue dalen.\n• Door lagere winst (verwachting) zal de vraag naar aandelen van Coolblue dalen / het aanbod van aandelen Coolblue toenemen, waardoor de koers van het aandeel Coolblue zal dalen / de beurskoers te laag is om de aandelenemissie te laten slagen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Door de komst van een concurrent kan de winst van Coolblue dalen."
+     },
+     {
+      "points": 1,
+      "description": "Door lagere winst (verwachting) zal de vraag naar aandelen van Coolblue dalen / het aanbod van aandelen Coolblue toenemen, waardoor de koers van het aandeel Coolblue zal dalen / de beurskoers te laag is om de aandelenemissie te laten slagen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-coolblue-bv-antw16.png"
+    ]
+   },
+   {
+    "title": "Coolblue bv",
+    "question_number": 17,
+    "answer_text": "− voorraad (wasmachines)\n− te vorderen btw\n− crediteuren\n\nindien drie juist: 2\nindien twee juist: 1\nindien een of geen juist: 0",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "indien drie juist 2; indien twee juist 1; indien een of geen juist 0"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-coolblue-bv-antw17.png"
+    ]
+   },
+   {
+    "title": "N@Home nv",
+    "question_number": 18,
+    "answer_text": "• GEV = (600.000 + 250.000 + 247.500 + 800.000) / 2 = 948.750\n• 247.500 / 948.750 × 100% = 26,09%",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-n-home-nv-antw18.png"
+    ]
+   },
+   {
+    "title": "N@Home nv",
+    "question_number": 19,
+    "answer_text": "▪ vlottende activa na uitbetaling dividend: 200.000 + 25.000 + 197.500 – 300.000 x 0,50 = 272.500\n▪ current ratio = 272.500 / (225.000 + 350.000) = 0,47",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "vlottende activa na uitbetaling dividend: 200.000 + 25.000 + 197.500 – 300.000 x 0,50 = 272.500"
+     },
+     {
+      "points": 1,
+      "description": "current ratio = 272.500 / (225.000 + 350.000) = 0,47"
+     }
+    ],
+    "grading_note": "Bij de eerste deelscore voor elke fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-n-home-nv-antw19.png"
+    ]
+   },
+   {
+    "title": "N@Home nv",
+    "question_number": 20,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n• Een verslechterde liquiditeit leidt tot het mogelijk niet kunnen voldoen aan de betalingsverplichtingen op korte termijn.\n• Het voortbestaan van N@Home kan hierdoor in gevaar komen wat leidt tot (minder vraag naar dit aandeel en dus) een daling van de beurskoers van dit aandeel.\nof (voor de tweede deelscore):\n• Bij een eventueel faillissement zijn de aandeelhouders de laatste in de rij.\n\nof\n\n• Door een verslechterde liquiditeit blijft er minder geld over voor investeringen.\n• Dit kan ten koste gaan van een positief resultaat en minder beschikbaar dividend in de toekomst / Door lagere winstverwachting van N@Home daalt (de vraag naar dit aandeel en dus) de beurskoers van dit aandeel.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een verslechterde liquiditeit leidt tot het mogelijk niet kunnen voldoen aan de betalingsverplichtingen op korte termijn / of: Door een verslechterde liquiditeit blijft er minder geld over voor investeringen."
+     },
+     {
+      "points": 1,
+      "description": "Het voortbestaan van N@Home kan hierdoor in gevaar komen wat leidt tot (minder vraag naar dit aandeel en dus) een daling van de beurskoers van dit aandeel / of: Bij een eventueel faillissement zijn de aandeelhouders de laatste in de rij / of: Dit kan ten koste gaan van een positief resultaat en minder beschikbaar dividend in de toekomst / Door lagere winstverwachting van N@Home daalt (de vraag naar dit aandeel en dus) de beurskoers van dit aandeel."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-n-home-nv-antw20.png"
+    ]
+   },
+   {
+    "title": "Kids and Cooking",
+    "question_number": 21,
+    "answer_text": "persoonlijk plan",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-kids-and-cooking-antw21.png"
+    ]
+   },
+   {
+    "title": "Kids and Cooking",
+    "question_number": 22,
+    "answer_text": "120 x (2 + 1) + 52 x 1,5 = 438 uur",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-kids-and-cooking-antw22.png"
+    ]
+   },
+   {
+    "title": "Kids and Cooking",
+    "question_number": 23,
+    "answer_text": "138 – 6 x (6,90 + 2,10) = € 84",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-kids-and-cooking-antw23.png"
+    ]
+   },
+   {
+    "title": "Kids and Cooking",
+    "question_number": 24,
+    "answer_text": "kostensoort | berekening | getal x €1\nafschrijvingskosten keukenblokken: (6.000 − 4.350) / 5,5 = 300\nafschrijvingskosten inventaris: (1.200 − 300) / 15 = 60\ninterestkosten 5%-lening: aflossing per halfjaar = 4.000 / (2 × 10) = 200; schuld eerste helft 2026 = 4.000 − 11 × 200 = 1.800; schuld tweede helft 2026 = 4.000 − 12 × 200 = 1.600; 1.800 × 0,05 × 6/12 + 1.600 × 0,05 × 6/12 = 85\nverzekeringskosten: 310 × 120 / 100 = 372\noverige constante kosten: 40 × 12 = 480\ntotale constante kosten: 1.297",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "€ 300"
+     },
+     {
+      "points": 1,
+      "description": "€ 60"
+     },
+     {
+      "points": 2,
+      "description": "€ 85"
+     },
+     {
+      "points": 1,
+      "description": "€ 372"
+     },
+     {
+      "points": 1,
+      "description": "€ 480 en € 1.297"
+     }
+    ],
+    "grading_note": "Bij de derde deelscore voor elke fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-kids-and-cooking-antw24.png"
+    ]
+   },
+   {
+    "title": "Kids and Cooking",
+    "question_number": 25,
+    "answer_text": "• (84 × 120 − 1.297) / 438 = € 20,05\n• Dit is lager dan € 22,50, dus Elles gaat de verkoopprijzen verhogen.\n\nof\n\n• totale opbrengsten: 40 x (138 + 147 + 156) = 17.640\ntotale kosten per feestje\n- inkoopwaarde: 40 x (6 + 7 + 8) x 6,90 = -/- 5.796\n- schorten: 40 x (6 + 7 + 8) x 2,10 = -/- 1.764\n- constante kosten: -/- 1.297\nResultaat: 8.783\n• 8.783 / 438 = € 20,05\n• Dit is lager dan € 22,50, dus Elles gaat de verkoopprijzen verhogen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(84 × 120 − 1.297) / 438 = € 20,05 / of: totale opbrengsten 17.640 − inkoopwaarde 5.796 − schorten 1.764 − constante kosten 1.297 = 8.783; 8.783 / 438 = € 20,05"
+     },
+     {
+      "points": 1,
+      "description": "Dit is lager dan € 22,50, dus Elles gaat de verkoopprijzen verhogen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-kids-and-cooking-antw25.png"
+    ]
+   },
+   {
+    "title": "Ada en Chris",
+    "question_number": 26,
+    "answer_text": "A of C",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "⚠️ CONTROLEREN: het correctievoorschrift bevat Opgave 6 twee keer; op de ene pagina staat bij vraag 26 \"A of C\", op de andere alleen \"A\".",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-ada-en-chris-antw26.png"
+    ]
+   },
+   {
+    "title": "Ada en Chris",
+    "question_number": 27,
+    "answer_text": "de hypotheekgevers",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-ada-en-chris-antw27.png"
+    ]
+   },
+   {
+    "title": "Ada en Chris",
+    "question_number": 28,
+    "answer_text": "• Voorbeeld van een juist antwoord voor de inbreng van eigen geld is:\nDoor de inbreng van eigen geld verbetert de schuld-marktwaardeverhouding. Dit verkleint het risico dat bij (executie)verkoop de opbrengst te laag is om de hypothecaire lening af te lossen.\n• Voorbeeld van een juist antwoord voor het in onderpand geven is:\nDoordat de bank een onderpand heeft kan de bank bij wanbetaling via een (executie)verkoop / veiling het onderpand, het geleende bedrag (gedeeltelijk) terugkrijgen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "inbreng van eigen geld: Door de inbreng van eigen geld verbetert de schuld-marktwaardeverhouding. Dit verkleint het risico dat bij (executie)verkoop de opbrengst te laag is om de hypothecaire lening af te lossen."
+     },
+     {
+      "points": 1,
+      "description": "in onderpand geven: Doordat de bank een onderpand heeft kan de bank bij wanbetaling via een (executie)verkoop / veiling het onderpand, het geleende bedrag (gedeeltelijk) terugkrijgen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-ada-en-chris-antw28.png"
+    ]
+   },
+   {
+    "title": "Ada en Chris",
+    "question_number": 29,
+    "answer_text": "30 x 21.032,86 – 375.000 = 255.985,80\n(€ 255.985,80 > € 217.968,75 dus kiezen ze voor een hypotheek met lineaire aflossing).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-ada-en-chris-antw29.png"
+    ]
+   },
+   {
+    "title": "Ada en Chris",
+    "question_number": 30,
+    "answer_text": "• 0,0375 x 375.000 x (1 – 0,40) = 8.437,50\n• (375.000 / 30) + 8.437,50 = € 20.937,50",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "0,0375 x 375.000 x (1 – 0,40) = 8.437,50"
+     },
+     {
+      "points": 1,
+      "description": "(375.000 / 30) + 8.437,50 = € 20.937,50"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-i-ada-en-chris-antw30.png"
+    ]
+   }
+  ]
+ }
+}
