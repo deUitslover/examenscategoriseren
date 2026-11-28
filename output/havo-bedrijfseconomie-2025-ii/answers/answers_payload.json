@@ -1,0 +1,524 @@
+{
+  "payload": {
+    "subject_name": "Bedrijfseconomie",
+    "level": "HAVO",
+    "source": "HAVO Bedrijfseconomie 2025-II",
+    "answers": [
+      {
+        "title": "Big Bazar bv",
+        "question_number": 1,
+        "answer_text": "• De omzet van Big Bazar is gegroeid met (93 − 77,4) / 77,4 × 100% = 20,2%\n• en bleef daarmee achter bij de omzetgroei van Action van 30%",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "De omzet van Big Bazar is gegroeid met (93 − 77,4) / 77,4 × 100% = 20,2%"
+          },
+          {
+            "points": 1,
+            "description": "en bleef daarmee achter bij de omzetgroei van Action van 30%"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-big-bazar-bv-antw1.png"
+        ]
+      },
+      {
+        "title": "Big Bazar bv",
+        "question_number": 2,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Door oplopende schuld nemen de interestkosten toe, wat leidt tot toename van verlies.\n− Door oplopende schuld neemt het vertrouwen van investeerders af, waardoor Big Bazar niet meer aan nieuw vermogen kan komen om investeringen te doen waardoor de afzet en winst dalen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-big-bazar-bv-antw2.png"
+        ]
+      },
+      {
+        "title": "Big Bazar bv",
+        "question_number": 3,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Voordeel: wanneer Big Bazar failliet gaat, kunnen de verhuurders van winkelpanden op zoek naar nieuwe huurders (voor de winkelpanden).\n− Nadeel: verhuurders krijgen mogelijk een gedeelte van de nog te ontvangen huur niet meer terug.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist antwoord"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-big-bazar-bv-antw3.png"
+        ]
+      },
+      {
+        "title": "Big Bazar bv",
+        "question_number": 4,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Werknemers: zij verliezen hun baan en inkomen.\n− Klanten: zij moeten op zoek naar een andere winkel.\n− Leveranciers: zij verliezen een klant.\n− Aandeelhouders: zij raken hun inkomen en vermogen kwijt.\n− Belastingdienst: zij missen btw-ontvangsten / (vennootschaps)belasting",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist antwoord"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-big-bazar-bv-antw4.png"
+        ]
+      },
+      {
+        "title": "Stichting Voedselbank Voorwaerts",
+        "question_number": 5,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n(Rianah zal na haar studie waarschijnlijk gemakkelijker een baan vinden omdat:)\n− ze (tijdens haar studie) werkervaring heeft opgedaan.\n− ze door vrijwilligerswerk verschillende vaardigheden heeft ontwikkeld.\n− ze een netwerk heeft opgebouwd.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-stichting-voedselbank-voorwaerts-antw5.png"
+        ]
+      },
+      {
+        "title": "Stichting Voedselbank Voorwaerts",
+        "question_number": 6,
+        "answer_text": "Een niet-commerciële-organisatie, want de organisatie streeft niet naar winst / want het is een stichting.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-stichting-voedselbank-voorwaerts-antw6.png"
+        ]
+      },
+      {
+        "title": "Stichting Voedselbank Voorwaerts",
+        "question_number": 7,
+        "answer_text": "• a (stichting): het (algemeen) bestuur\n• b (vereniging): algemene ledenvergadering",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "a (stichting): het (algemeen) bestuur"
+          },
+          {
+            "points": 1,
+            "description": "b (vereniging): algemene ledenvergadering"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-stichting-voedselbank-voorwaerts-antw7.png"
+        ]
+      },
+      {
+        "title": "Stichting Voedselbank Voorwaerts",
+        "question_number": 8,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nDoor het vaker geven van kortingen kunnen de supermarkten deze goederen toch nog verkopen aan de klanten, waardoor er minder voedseloverschotten zijn (en er minder naar de voedselbanken gaat).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-stichting-voedselbank-voorwaerts-antw8.png"
+        ]
+      },
+      {
+        "title": "Stichting Voedselbank Voorwaerts",
+        "question_number": 9,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\nTegenvaller aan de opbrengstenkant:\n− De afzet daalt en bedrijven moeten besparen op kosten van sponsoring.\n− Huishoudens / organisaties hebben minder inkomsten en zullen daardoor lagere giften / minder donaties doen.\nTegenvaller aan de kostenkant:\n− Bedrijven zullen om kosten te besparen minder voedsel doneren waardoor de inkoopwaarde van (gratis) uitgedeeld voedsel toeneemt.\n− Huishoudens hebben een lager inkomen, waardoor er meer klanten bij de voedselbanken komen, wat leidt tot hogere kosten voor de inkoop van voedsel / toename van de inkoopwaarde van (gratis) uitgedeeld voedsel.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "juiste tegenvaller met juiste toelichting aan de opbrengstenkant"
+          },
+          {
+            "points": 1,
+            "description": "juiste tegenvaller met juiste toelichting aan de kostenkant"
+          }
+        ],
+        "grading_note": "Per juiste tegenvaller met juiste toelichting aan de opbrengstenkant 1 scorepunt toekennen\nPer juiste tegenvaller met juiste toelichting aan de kostenkant 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-stichting-voedselbank-voorwaerts-antw9.png"
+        ]
+      },
+      {
+        "title": "Stichting Voedselbank Voorwaerts",
+        "question_number": 10,
+        "answer_text": "Voorbeelden van een juiste berekening van de solvabiliteit:\nUitgewerkte tabel (berekening; uitkomst):\nsolvabiliteit per 1 januari 2024: EV/VV × 100%: 178.750 / (65.000 + 64.000) × 100% = 139%\nof: VV/TV × 100%: (65.000 + 64.000) / 307.750 × 100% = 42%\nliquiditeit per 1 januari 2024: (7.500 + 255.000) / 64.000 = 4,1",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "correct solvabiliteitskengetal (1,39 of 0,42 geen puntenaftrek)"
+          },
+          {
+            "points": 1,
+            "description": "correct liquiditeitskengetal"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-stichting-voedselbank-voorwaerts-antw10.png"
+        ]
+      },
+      {
+        "title": "Stichting Voedselbank Voorwaerts",
+        "question_number": 11,
+        "answer_text": "• afschrijving op nieuwe transportauto: (75.000 − 11.400) / 10 × 9/12 = 4.770\n• afschrijving op huidige transportauto: 4.800 x 3/12 = 1.200\n• totaal afschrijving transportauto: 4.770 + 1.200 = € 5.970",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "afschrijving op nieuwe transportauto: (75.000 − 11.400) / 10 × 9/12 = 4.770"
+          },
+          {
+            "points": 1,
+            "description": "afschrijving op huidige transportauto: 4.800 x 3/12 = 1.200"
+          },
+          {
+            "points": 1,
+            "description": "totaal afschrijving transportauto: 4.770 + 1.200 = € 5.970"
+          }
+        ],
+        "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.\nWanneer een leerling (75.000 − 11.400) / 10 = € 6.360 als antwoord heeft, 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-stichting-voedselbank-voorwaerts-antw11.png"
+        ]
+      },
+      {
+        "title": "Stichting Voedselbank Voorwaerts",
+        "question_number": 12,
+        "answer_text": "Uitgewerkte tabel (berekening; bedrag x € 1):\naangepast resultaat 2024: 23.600 – 30.000 – 15.000 – (5.970 – 4.800) = of: 23.600 – 30.000 – 15.000 – (4.770 – 3.600) = 22.570 negatief / -\neigen vermogen 31-12-2024: 178.750 – 22.570 = 156.180\nconclusie: € 156.180 > € 150.000: Het eigen vermogen voldoet aan de eis van de vereniging.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "22.570 / negatief / -"
+          },
+          {
+            "points": 1,
+            "description": "156.180"
+          },
+          {
+            "points": 1,
+            "description": "conclusie"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-stichting-voedselbank-voorwaerts-antw12.png"
+        ]
+      },
+      {
+        "title": "Too4You vof",
+        "question_number": 13,
+        "answer_text": "Voorbeeld van een juist antwoord is:\nBij een vof is iedere vennoot hoofdelijk / privé aansprakelijk voor alle schulden van de vof en bij de bv (zijn de aandeelhouders dat) niet.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-too4you-vof-antw13.png"
+        ]
+      },
+      {
+        "title": "Too4You vof",
+        "question_number": 14,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Crediteuren, want leveranciers moeten binnen enkele maanden worden betaald.\n− Rekening courantkrediet, want dit krediet moet binnen een jaar worden afgelost.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist antwoord met bijbehorende toelichting"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist antwoord met bijbehorende toelichting"
+          }
+        ],
+        "grading_note": "Per juist antwoord met bijbehorende toelichting 1 scorepunt toekennen.\nTe betalen btw / af te dragen btw levert geen scorepunt op.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-too4you-vof-antw14.png"
+        ]
+      },
+      {
+        "title": "Too4You vof",
+        "question_number": 15,
+        "answer_text": "Omzet februari 6.000 + 2.420 / 1,21 = 8.000\nResultaat februari: 8.000 – 0,125 x 8.000 – 2.500 = € 4.500",
+        "scoring_steps": [
+          {
+            "points": 3,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-too4you-vof-antw15.png"
+        ]
+      },
+      {
+        "title": "Too4You vof",
+        "question_number": 16,
+        "answer_text": "Het resultaat is voldoende want,\n0,60 x 4.500 x (1 – 0,36) = € 1.728 > € 1.700",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-too4you-vof-antw16.png"
+        ]
+      },
+      {
+        "title": "SuperWebsite",
+        "question_number": 17,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− De verzekeraar heeft minder risico op wanbetaling.\n− De verzekeraar kan de ontvangen gelden tegen een hoger rendement beleggen.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-superwebsite-antw17.png"
+        ]
+      },
+      {
+        "title": "SuperWebsite",
+        "question_number": 18,
+        "answer_text": "Mutatiebalans financieel feit a (getallen x € 1):\ndebet: Liquide middelen + € 4.000; totaal + € 4.000\ncredit: Vooruitontvangen bedragen / abonnementsgelden + € 4.000; totaal + € 4.000\nMutatiebalans financieel feit b (getallen x € 1):\ndebet: Vooruitbetaalde (verzekerings-) premie / bedragen + € 1.700; Liquide middelen – € 1.700; totaal 0\ncredit: (geen posten)",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "Liquide middelen: + 4.000 en Liquide middelen – 1.700"
+          },
+          {
+            "points": 1,
+            "description": "Vooruitontvangen bedragen / abonnementsgelden: + 4.000"
+          },
+          {
+            "points": 1,
+            "description": "Vooruitbetaalde (verzekerings-) premie / bedragen + 1.700"
+          }
+        ],
+        "grading_note": "Als het bedrag bij totaal is vergeten, dit niet fout rekenen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-superwebsite-antw18.png"
+        ]
+      },
+      {
+        "title": "SuperWebsite",
+        "question_number": 19,
+        "answer_text": "• 20.000 x 0,03 = 600\n• 20.000 – (2.849,13 – 600) x 0,03 = 532,53\n600 + 532,53 = € 1.132,53",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "20.000 x 0,03 = 600"
+          },
+          {
+            "points": 1,
+            "description": "20.000 – (2.849,13 – 600) x 0,03 = 532,53; 600 + 532,53 = € 1.132,53"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-superwebsite-antw19.png"
+        ]
+      },
+      {
+        "title": "SuperWebsite",
+        "question_number": 20,
+        "answer_text": "(16.000 + 1.132,53 (vraag 19) + 40.000) / (4.000 − 150) = 14,8\n15 jaarabonnementen",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.\nEr dient op hele jaarabonnementen te worden afgerond om 2 scorepunten te kunnen behalen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-superwebsite-antw20.png"
+        ]
+      },
+      {
+        "title": "Rita",
+        "question_number": 21,
+        "answer_text": "• waarde appartement op 1 januari 2025: 115.000 × 1,02⁹ = 137.435,65\n• schuldrest hypothecaire lening op 1 januari 25: 115.000 − 115.000 / 30 × 9 = 80.500\n• gezamenlijk vermogen op 2 januari 2025: 137.435,65 - 80.500 + 10.000 = 66.935,65\nvermogen op 2 januari Rita na scheiding: 66.935,65 / 2 = € 33.467,82",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "waarde appartement op 1 januari 2025: 115.000 × 1,02⁹ = 137.435,65"
+          },
+          {
+            "points": 1,
+            "description": "schuldrest hypothecaire lening op 1 januari 25: 115.000 − 115.000 / 30 × 9 = 80.500"
+          },
+          {
+            "points": 1,
+            "description": "gezamenlijk vermogen op 2 januari 2025: 66.935,65; vermogen Rita na scheiding: 66.935,65 / 2 = € 33.467,82"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-rita-antw21.png"
+        ]
+      },
+      {
+        "title": "Rita",
+        "question_number": 22,
+        "answer_text": "• inkomen uit arbeid per jaar\n((2.274 + 14,92) x 12 + 16 x 8 x 15 x 0,25) x 1,08 = 30.182,80\n• inkomen uit arbeid per jaar: 30.182,80\nalimentatie: 300 x 12: 3.600,00\ntotaal toetsingsinkomen: € 33.782,80\n(€ 33.782,80 < € 44.035, ze komt dus in aanmerking voor een sociale huurwoning)",
+        "scoring_steps": [
+          {
+            "points": 3,
+            "description": "inkomen uit arbeid per jaar: ((2.274 + 14,92) x 12 + 16 x 8 x 15 x 0,25) x 1,08 = 30.182,80"
+          },
+          {
+            "points": 1,
+            "description": "totaal toetsingsinkomen 30.182,80 + 3.600,00 = € 33.782,80 (< € 44.035, ze komt dus in aanmerking voor een sociale huurwoning)"
+          }
+        ],
+        "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-rita-antw22.png"
+        ]
+      },
+      {
+        "title": "Rita",
+        "question_number": 23,
+        "answer_text": "− Zorgtoeslag: Ja, haar toetsingsinkomen (€ 33.782,80) is lager dan € 38.520, haar vermogen per 2 januari 2025 (€ 33.467,82) is lager dan € 126.000.\n− Huurtoeslag: Ja, de huur van € 800 is lager dan € 808, het toetsingsinkomen (€ 33.782,80) is lager dan € 44.035 en het vermogen per 2 januari 2025 (€ 33.467,82) is lager dan € 33.748.\n− Kindgebonden budget: Nee, want het kind van Rita is geboren in 1999 en dus meerderjarig / volwassen.",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien drie antwoorden volledig juist gemotiveerd 2 scorepunten; indien twee antwoorden volledig juist gemotiveerd 1 scorepunt; indien een of geen antwoord volledig juist gemotiveerd 0 scorepunten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-rita-antw23.png"
+        ]
+      },
+      {
+        "title": "Rita",
+        "question_number": 24,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− De spaarrekening is dan na een tijdje leeg, terwijl Rita nog wel extra middelen / geld nodig heeft om de huur te betalen.\n− Door je spaargeld te gebruiken om huur te betalen, verminder je je financiële buffer (voor noodgevallen).",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-rita-antw24.png"
+        ]
+      },
+      {
+        "title": "Rita",
+        "question_number": 25,
+        "answer_text": "Voorbeeld van een juiste berekening zijn:\n• inkomen na belasting 33.782,80 x (1 – 0,167) = € 28.141,07 per jaar\n• inkomen per maand 28.141,07 / 12 = 2.345,09\n2.345,09 + 50 + 65 = 2.460,09 > 2.400 (1.600 + 800)\nJa, Rita kan de huur van de woning betalen, zonder haar spaarrekening te hoeven aanspreken.",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "inkomen na belasting 33.782,80 x (1 – 0,167) = € 28.141,07 per jaar"
+          },
+          {
+            "points": 2,
+            "description": "inkomen per maand 28.141,07 / 12 = 2.345,09; 2.345,09 + 50 + 65 = 2.460,09 > 2.400 (1.600 + 800); Ja, Rita kan de huur van de woning betalen, zonder haar spaarrekening te hoeven aanspreken"
+          }
+        ],
+        "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-rita-antw25.png"
+        ]
+      },
+      {
+        "title": "Zeeman textielSupers bv",
+        "question_number": 26,
+        "answer_text": "− people\n− planet\n− profit",
+        "scoring_steps": [
+          {
+            "points": 2,
+            "description": "indien drie antwoorden juist 2 scorepunten; indien twee antwoorden juist 1 scorepunt; indien een of geen antwoord juist 0 scorepunten"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-zeeman-textielsupers-bv-antw26.png"
+        ]
+      },
+      {
+        "title": "Zeeman textielSupers bv",
+        "question_number": 27,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− product(beleid): een basic T-shirt\n− plaats(beleid): 1.300 winkels in 7 landen / fysieke winkels en webshop\n− promotie(beleid): de poster met Zeemanshirt",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juiste p met juiste toelichting"
+          },
+          {
+            "points": 1,
+            "description": "tweede juiste p met juiste toelichting"
+          }
+        ],
+        "grading_note": "Per juiste p met juiste toelichting 1 scorepunt toekennen.",
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-zeeman-textielsupers-bv-antw27.png"
+        ]
+      },
+      {
+        "title": "Zeeman textielSupers bv",
+        "question_number": 28,
+        "answer_text": "Voorbeelden van een juist antwoord zijn:\n− mogelijkheid tot het volgen van opleidingen\n− professionele ontwikkeling\n− aanbieden van carrièreperspectief",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "volledig juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-zeeman-textielsupers-bv-antw28.png"
+        ]
+      },
+      {
+        "title": "Zeeman textielSupers bv",
+        "question_number": 29,
+        "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− door sollicitaties te anonimiseren\n− door actief te werven via media die door ondervertegenwoordigde groepen worden gebruikt\n− door het uitnodigen van kandidaten met een afstand tot de arbeidsmarkt",
+        "scoring_steps": [
+          {
+            "points": 1,
+            "description": "eerste juist antwoord"
+          },
+          {
+            "points": 1,
+            "description": "tweede juist antwoord"
+          }
+        ],
+        "grading_note": null,
+        "answer_image_urls": [
+          "bedrijfseconomie-havo-2025-ii-zeeman-textielsupers-bv-antw29.png"
+        ]
+      }
+    ]
+  }
+}
