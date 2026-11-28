@@ -1,0 +1,541 @@
+{
+ "payload": {
+  "subject_name": "Bedrijfseconomie",
+  "level": "HAVO",
+  "source": "HAVO Bedrijfseconomie 2026-II",
+  "answers": [
+   {
+    "title": "Jessie en Bianca",
+    "question_number": 1,
+    "answer_text": "Een levensverzekering keert uit bij overlijden, (of op een afgesproken moment bij leven) in plaats van bij een schade, zoals bij een schadeverzekering.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-jessie-en-bianca-antw1.png"
+    ]
+   },
+   {
+    "title": "Jessie en Bianca",
+    "question_number": 2,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n• Bianca heeft een minder hoog inkomen dan Jessie.\n• Bianca heeft minder spaargeld / een kleiner vermogen dan Jessie.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bianca heeft een minder hoog inkomen dan Jessie."
+     },
+     {
+      "points": 1,
+      "description": "Bianca heeft minder spaargeld / een kleiner vermogen dan Jessie."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-jessie-en-bianca-antw2.png"
+    ]
+   },
+   {
+    "title": "Jessie en Bianca",
+    "question_number": 3,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Bij een hypothecaire lening op basis van annuïteiten zijn de uitgaven (na hypotheekrenteaftrek) aan het begin van de looptijd lager (in vergelijking met een hypothecaire lening met lineaire aflossing)\n− Bij een hypothecaire lening op basis van annuïteiten profiteer je (over de gehele looptijd van de lening) meer van hypotheekrenteaftrek.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-jessie-en-bianca-antw3.png"
+    ]
+   },
+   {
+    "title": "Jessie en Bianca",
+    "question_number": 4,
+    "answer_text": "• aflossing in jaar 1: 11.621 – 240.000 x 0,026 = 5.381\nschuldrest 1 januari 2026: 240.000 – 5.381 = 234.619\n• interest jaar 2: 234.619 x 0,026 = 6.100,09\naflossing jaar 2: 11.621 – 6.100,09 = 5.520,91\nschuldrest 1 januari 2027: 234.619 – 5.520,91 = 229.098,09\n• De uitkeringsverplichting bedraagt: 229.098,09 x 0,6 = € 137.458,86",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "aflossing in jaar 1: 11.621 – 240.000 x 0,026 = 5.381; schuldrest 1 januari 2026: 240.000 – 5.381 = 234.619"
+     },
+     {
+      "points": 1,
+      "description": "interest jaar 2: 234.619 x 0,026 = 6.100,09; aflossing jaar 2: 11.621 – 6.100,09 = 5.520,91; schuldrest 1 januari 2027: 234.619 – 5.520,91 = 229.098,09"
+     },
+     {
+      "points": 1,
+      "description": "De uitkeringsverplichting bedraagt: 229.098,09 x 0,6 = € 137.458,86"
+     }
+    ],
+    "grading_note": "Wanneer de interest niet is berekend maximaal 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-jessie-en-bianca-antw4.png"
+    ]
+   },
+   {
+    "title": "KRING",
+    "question_number": 5,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n• People: door mensen met een arbeidsbeperking in dienst te nemen, (laat KRING zien dat zij bijdragen aan een inclusievere samenleving).\n• Planet: door met tweedehands meubels (en accessoires) te werken, (zijn er minder negatieve effecten op het milieu).\n• Profit: er wordt gewerkt aan een positief resultaat.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "People: door mensen met een arbeidsbeperking in dienst te nemen, (laat KRING zien dat zij bijdragen aan een inclusievere samenleving)."
+     },
+     {
+      "points": 1,
+      "description": "Planet: door met tweedehands meubels (en accessoires) te werken, (zijn er minder negatieve effecten op het milieu)."
+     },
+     {
+      "points": 1,
+      "description": "Profit: er wordt gewerkt aan een positief resultaat."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-kring-antw5.png"
+    ]
+   },
+   {
+    "title": "KRING",
+    "question_number": 6,
+    "answer_text": "(a) breedte\n(b) diepte",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-kring-antw6.png"
+    ]
+   },
+   {
+    "title": "KRING",
+    "question_number": 7,
+    "answer_text": "• Bij een rechtsvorm zonder rechtspersoonlijkheid is Lisa hoofdelijk aansprakelijk voor de schulden van de onderneming,\n• waardoor de neef de mogelijkheid heeft om haar privé aansprakelijk te stellen bij wanbetaling van de (onderhandse) lening / hij minder risico loopt dat de lening niet wordt terugbetaald.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij een rechtsvorm zonder rechtspersoonlijkheid is Lisa hoofdelijk aansprakelijk voor de schulden van de onderneming,"
+     },
+     {
+      "points": 1,
+      "description": "waardoor de neef de mogelijkheid heeft om haar privé aansprakelijk te stellen bij wanbetaling van de (onderhandse) lening / hij minder risico loopt dat de lening niet wordt terugbetaald."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-kring-antw7.png"
+    ]
+   },
+   {
+    "title": "KRING",
+    "question_number": 8,
+    "answer_text": "Balans per 1 januari 2025 (getallen x € 1)\nDebet:\nVaste activa\n- Bestelbus: 15.000\n- Inventaris: 12.675\nVlottende activa\n- Voorraad meubelen en accessoires: 6.000\n- Voorraad koffiebar: 1.650\n- Vooruitbetaalde huur: 7.500\nLiquide middelen\n- Bank: 1.000\nTotaal debet: 43.825\nCredit:\nEigen vermogen: 13.000\nLang vreemd vermogen\n- 5% Onderhandse lening: 30.000\nKort vreemd vermogen\n- Crediteuren: 825\nTotaal credit: 43.825",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bestelbus, inventaris, voorraad meubelen en accessoires, voorraad koffiebar, onderhandse lening, met juiste bedragen"
+     },
+     {
+      "points": 1,
+      "description": "Vooruitbetaalde huur en: (3 x 2.500 =) 7.500"
+     },
+     {
+      "points": 1,
+      "description": "Crediteuren (0,50 x 1.650 =) 825"
+     },
+     {
+      "points": 1,
+      "description": "Eigen vermogen en: (43.825 – 30.000 – 825 =) 13.000 en 43.825"
+     }
+    ],
+    "grading_note": "Als het rekening-courantkrediet met 0 op de balans is opgenomen geen scorepunt aftrekken.\nAls de Voorraad meubelen en accessoires en de Voorraad koffiebar als één balanspost zijn opgenomen, geen scorepunt aftrekken.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-kring-antw8.png"
+    ]
+   },
+   {
+    "title": "KRING",
+    "question_number": 9,
+    "answer_text": "• aflossing onderhandse lening: 30.000 / (3 × 12) = 833,33\n• interest: (30.000 − 2 × 833,33) × 0,05 × 1/12 = 118,06\n• 833,33 + 118,06 = € 951,39",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "aflossing onderhandse lening: 30.000 / (3 × 12) = 833,33"
+     },
+     {
+      "points": 1,
+      "description": "833,33 + 118,06 = € 951,39"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-kring-antw9.png"
+    ]
+   },
+   {
+    "title": "KRING",
+    "question_number": 10,
+    "answer_text": "• Contante inkopen koffiebar 6.000 × 0,3 × 0,5 = 900\n• Contante inkopen meubelen en accessoires 5.500 × 0,4 = 2.200 +\n• Contante inkopen maart 2025: 3.100",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Contante inkopen koffiebar 6.000 × 0,3 × 0,5 = 900"
+     },
+     {
+      "points": 1,
+      "description": "Contante inkopen maart 2025: 3.100"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-kring-antw10.png"
+    ]
+   },
+   {
+    "title": "KRING",
+    "question_number": 11,
+    "answer_text": "Liquiditeitsbegroting (januari / februari / maart)\nontvangsten\n- verkoop meubels en accessoires: maart 6.500\n- verkopen koffiebar: maart 6.000\n- loonkostensubsidie: maart 4.116\n- totale ontvangsten: 18.616 / 17.116 / 16.616\nuitgaven\n- contante inkopen (vraag 10): maart 3.100\n- betaling crediteuren: maart 1.200\n- huur: maart 7.500\n- loon medewerkers: maart 9.030\n- uitgaven onderhandse lening (vraag 9): maart 951\n- privéopnames: 3.800 / 3.800 / 3.800\n- totale uitgaven: 18.203 / 18.410 / 25.581\nverandering van liquide middelen: + 413 / - 1.294 / - 8.965\nbeginsaldo liquide middelen op de eerste dag van de maand: 1.000 / 1.413 / 119\neindsaldo liquide middelen op de laatste dag van de maand: 1.413 / 119 / - 8.846\n\nconclusie:\nLisa heeft in maart 2025 wel gebruik moeten maken van het rekening-courantkrediet om maandelijks ook een privéopname van € 3.800 te kunnen doen, want in de maand maart is het eindsaldo liquide middelen (€ 8.846,39) negatief.\n\n• loon medewerkers 3 x 1.960 + 3.150 = 9.030\nloonkostensubsidie 3 x 1.960 x 0,7 = 4.116\n• betaling crediteuren 8.000 x 0,3 x 0,5 = 1.200",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "loon medewerkers 3 x 1.960 + 3.150 = 9.030; loonkostensubsidie 3 x 1.960 x 0,7 = 4.116"
+     },
+     {
+      "points": 1,
+      "description": "betaling crediteuren 8.000 x 0,3 x 0,5 = 1.200"
+     },
+     {
+      "points": 1,
+      "description": "huur en eindsaldo liquide middelen"
+     },
+     {
+      "points": 1,
+      "description": "conclusie"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-kring-antw11.png"
+    ]
+   },
+   {
+    "title": "Devin",
+    "question_number": 12,
+    "answer_text": "Bank D: (10 × 5 + 10 × 4 + 8 × 2 + 7 × 1 + 8 × 3) / 15 = 9,1 (> 8,8)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-devin-antw12.png"
+    ]
+   },
+   {
+    "title": "Devin",
+    "question_number": 13,
+    "answer_text": "• (10.000 x 1,025⁵ + 12.500) x 1,015¹⁰ = 27.637,21\n• 22.500 x 0,01 x 5 = 1.125\n27.637,21 – 1.125 = € 26.512,21",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(10.000 x 1,025⁵ + 12.500) x 1,015¹⁰ = 27.637,21"
+     },
+     {
+      "points": 1,
+      "description": "22.500 x 0,01 x 5 = 1.125; 27.637,21 – 1.125 = € 26.512,21"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-devin-antw13.png"
+    ]
+   },
+   {
+    "title": "Devin",
+    "question_number": 14,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Er is meer kennis / expertise.\n− De kosten zijn lager dan bij zelf beleggen.\n− Beleggingsrisico’s kunnen beter worden gespreid.\n\nper juist antwoord",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-devin-antw14.png"
+    ]
+   },
+   {
+    "title": "Always BeCo",
+    "question_number": 15,
+    "answer_text": "Voorbeeld van een juiste berekening is:\n(33.000 – 3.000) / 5.000 = € 6",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-always-beco-antw15.png"
+    ]
+   },
+   {
+    "title": "Always BeCo",
+    "question_number": 16,
+    "answer_text": "• penetratiepolitiek\n• Door een lagere prijs te kiezen dan die van zijn concurrenten (hoopt hij een deel van de markt te veroveren).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "penetratiepolitiek"
+     },
+     {
+      "points": 1,
+      "description": "Door een lagere prijs te kiezen dan die van zijn concurrenten (hoopt hij een deel van de markt te veroveren)."
+     }
+    ],
+    "grading_note": "Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-always-beco-antw16.png"
+    ]
+   },
+   {
+    "title": "Always BeCo",
+    "question_number": 17,
+    "answer_text": "• percentage havoleerlingen in zijn klassen dat ABC koopt: (52 / 80) x 100% = 65%\n• totaal aantal havoleerlingen dat bedrijfseconomie heeft: 172.000 x 0,27 x 0,30 = 13.932\n• aantal leerlingen dat ABC koopt: (0,65 – 0,50) x 13.932 = 2.090",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "percentage havoleerlingen in zijn klassen dat ABC koopt: (52 / 80) x 100% = 65%"
+     },
+     {
+      "points": 1,
+      "description": "totaal aantal havoleerlingen dat bedrijfseconomie heeft: 172.000 x 0,27 x 0,30 = 13.932"
+     },
+     {
+      "points": 1,
+      "description": "aantal leerlingen dat ABC koopt: (0,65 – 0,50) x 13.932 = 2.090"
+     }
+    ],
+    "grading_note": "Afronden naar beneden niet fout rekenen.\nDe derde deelscore mag ook worden toegekend aan het antwoord: 52 + (0,65 – 0,50) x (13.932 – 80) = 2.130.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-always-beco-antw17.png"
+    ]
+   },
+   {
+    "title": "Always BeCo",
+    "question_number": 18,
+    "answer_text": "2.090 x (10 – 6) – 3.000 = € 5.360",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Voor elke fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-always-beco-antw18.png"
+    ]
+   },
+   {
+    "title": "Always BeCo",
+    "question_number": 19,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n• Promotie(beleid)\n• Nadal zou (op social media) meer reclame kunnen maken voor zijn boekje.\n\nof\n\n• Plaats(beleid)\n• Nadal kan zijn boekje via een platform (Bol.com) verkopen / via scholen aanbieden.\n\nof\n\n• Product(beleid)\n• Nadal gaat zijn boekje nog overzichtelijker maken / meer relevante opgaven toevoegen dan de concurrent.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Promotie(beleid) / Plaats(beleid) / Product(beleid)"
+     },
+     {
+      "points": 1,
+      "description": "bijbehorende juiste toelichting, bijv. Nadal zou (op social media) meer reclame kunnen maken voor zijn boekje / Nadal kan zijn boekje via een platform (Bol.com) verkopen / via scholen aanbieden / Nadal gaat zijn boekje nog overzichtelijker maken / meer relevante opgaven toevoegen dan de concurrent."
+     }
+    ],
+    "grading_note": "Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-always-beco-antw19.png"
+    ]
+   },
+   {
+    "title": "Introductiecommissie ORM",
+    "question_number": 20,
+    "answer_text": "(a) het functieprofiel",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-introductiecommissie-orm-antw20.png"
+    ]
+   },
+   {
+    "title": "Introductiecommissie ORM",
+    "question_number": 21,
+    "answer_text": "Constante kosten, omdat deze niet afhankelijk zijn van het aantal studenten / als de kosten variabel zijn, zouden de kosten toenemen met de groei van het aantal studenten.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-introductiecommissie-orm-antw21.png"
+    ]
+   },
+   {
+    "title": "Introductiecommissie ORM",
+    "question_number": 22,
+    "answer_text": "Exploitatiebegroting introductieweek 2025-2026 (getallen x € 1)\nopbrengsten\n- bijdrage directie: 17.607\n- eigen bijdrage studenten: 6.615\n- totale opbrengsten: 24.222\nkosten\n- cadeaubonnen mentoren: 700\n- lunch maandag en dinsdag: 2.464\n- T-shirts: 1.568\n- fotograaf: 432\n- cadeau sprekers: 50\n- boothuur: 4.536\n- huur feestlocatie: 14.472\n- totale kosten: 24.222\nresultaat: 0\n\nberekeningen (getallen x € 1)\nverwachte opbrengsten eigen bijdrage: (180 × 25) − 4.050 = 450; 450 / 4.500 × 100% = 10%; (1 − 0,10) × 210 × 35 = 6.615\nCadeaubonnen mentoren: 210 / 15 = 14; 14 × 50 = 700\nlunch maandag en dinsdag: (2,75 + 1 + 0,75 + 1) × (210 + 14) × 2 = 2.464\nfotograaf: 400 × 1,08 = 432\nbijdrage directie: 700 + 2.464 + 1.568 + 432 + 50 + 4.536 + 14.472 − 6.615 = 17.607",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "6.615"
+     },
+     {
+      "points": 1,
+      "description": "700"
+     },
+     {
+      "points": 1,
+      "description": "2.464"
+     },
+     {
+      "points": 1,
+      "description": "432"
+     },
+     {
+      "points": 1,
+      "description": "17.607"
+     }
+    ],
+    "grading_note": "Bij de eerste deelscore voor elke fout 1 scorepunt in mindering brengen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-introductiecommissie-orm-antw22.png"
+    ]
+   },
+   {
+    "title": "Introductiecommissie ORM",
+    "question_number": 23,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− De commissie/hogeschool beschikt direct over geld om de betalingen te kunnen doen.\n− De commissie kan nauwkeuriger inkopen nu er meer zekerheid is over de studentenaantallen.\n− minder administratieve kosten\n− meer interestopbrengsten\n\nper juist antwoord",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-introductiecommissie-orm-antw23.png"
+    ]
+   },
+   {
+    "title": "Introductiecommissie ORM",
+    "question_number": 24,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Een vereniging heeft niet als doel om winst te maken / een vereniging is geen commerciële organisatie.\n− de (mogelijke) werving van nieuwe leden\n− het vergroten van de naamsbekendheid\n− Het is goed voor het imago van de roeivereniging.\n\nper juist antwoord",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-introductiecommissie-orm-antw24.png"
+    ]
+   },
+   {
+    "title": "Neero nv",
+    "question_number": 25,
+    "answer_text": "de algemene vergadering van aandeelhouders / AvA",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-neero-nv-antw25.png"
+    ]
+   },
+   {
+    "title": "Neero nv",
+    "question_number": 26,
+    "answer_text": "• vennootschapsbelasting: 200.000 x 0,19 + (500.000 – 200.000) x 0,258 = 115.400\n• dividend: 250.000 x 1,45 = 362.500\ntoevoegen aan reserves: 500.000 – 115.400 – 362.500 = € 22.100",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "vennootschapsbelasting: 200.000 x 0,19 + (500.000 – 200.000) x 0,258 = 115.400"
+     },
+     {
+      "points": 1,
+      "description": "dividend: 250.000 x 1,45 = 362.500; toevoegen aan reserves: 500.000 – 115.400 – 362.500 = € 22.100"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-neero-nv-antw26.png"
+    ]
+   },
+   {
+    "title": "Neero nv",
+    "question_number": 27,
+    "answer_text": "• vreemd vermogen: 5.000.000 + 1.800.000 + 200.000 + 115.400 + 362.500 = 7.477.900\n• eigen vermogen: 4.000.000 + 1.500.000 + 22.100 = 5.522.100\nsolvabiliteit (EV/VV): 5.522.100 / 7.477.900 = 0,74",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "vreemd vermogen: 5.000.000 + 1.800.000 + 200.000 + 115.400 + 362.500 = 7.477.900"
+     },
+     {
+      "points": 1,
+      "description": "eigen vermogen: 4.000.000 + 1.500.000 + 22.100 = 5.522.100; solvabiliteit (EV/VV): 5.522.100 / 7.477.900 = 0,74"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-neero-nv-antw27.png"
+    ]
+   },
+   {
+    "title": "Neero nv",
+    "question_number": 28,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− de emissie van aandelen (boven pari)\n− herwaardering (van activa)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2026-ii-neero-nv-antw28.png"
+    ]
+   }
+  ]
+ }
+}
