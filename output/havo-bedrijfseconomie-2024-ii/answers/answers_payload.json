@@ -1,0 +1,555 @@
+{
+ "payload": {
+  "subject_name": "Bedrijfseconomie",
+  "level": "HAVO",
+  "source": "HAVO Bedrijfseconomie 2024-II",
+  "answers": [
+   {
+    "title": "Tijger bv",
+    "question_number": 1,
+    "answer_text": "de NV/Naamloze Vennootschap",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-tijger-bv-antw1.png"
+    ]
+   },
+   {
+    "title": "Tijger bv",
+    "question_number": 2,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n• Het beursklimaat is positief,\n• waardoor investeerders bereid zijn meer voor een aandeel te betalen dan de intrinsieke waarde per aandeel.\nof\n• De toekomstverwachtingen zijn goed.\n• Bij een hoge winstverwachting zijn investeerders bereid om meer te betalen dan de intrinsieke waarde per aandeel.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Het beursklimaat is positief, (of: De toekomstverwachtingen zijn goed.)"
+     },
+     {
+      "points": 1,
+      "description": "waardoor investeerders bereid zijn meer voor een aandeel te betalen dan de intrinsieke waarde per aandeel. (of: Bij een hoge winstverwachting zijn investeerders bereid om meer te betalen dan de intrinsieke waarde per aandeel.)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-tijger-bv-antw2.png"
+    ]
+   },
+   {
+    "title": "Tijger bv",
+    "question_number": 3,
+    "answer_text": "• 200.000 / 1,25 = 160.000 aandelen te emitteren\n• agio per aandeel: 1,25 – 0,50 = 0,75\ntotale agio op aandelen: 160.000 x 0,75 = € 120.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "200.000 / 1,25 = 160.000 aandelen te emitteren"
+     },
+     {
+      "points": 1,
+      "description": "agio per aandeel: 1,25 – 0,50 = 0,75; totale agio op aandelen: 160.000 x 0,75 = € 120.000"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-tijger-bv-antw3.png"
+    ]
+   },
+   {
+    "title": "Tijger bv",
+    "question_number": 4,
+    "answer_text": "• Totaal aantal aandelen op 31 december 2023\naantal aandelen voor emissie: 600.000 / 0,5 = 1.200.000\ngeëmitteerde aandelen: 160.000 +\ngeplaatste aandelen op 31 december 2023: 1.360.000\n• resultaat na vennootschapsbelasting per aandeel: 272.000 / 1.360.000 = € 0,20",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Totaal aantal aandelen op 31 december 2023: aantal aandelen voor emissie 600.000 / 0,5 = 1.200.000; geëmitteerde aandelen 160.000; geplaatste aandelen op 31 december 2023: 1.360.000"
+     },
+     {
+      "points": 1,
+      "description": "resultaat na vennootschapsbelasting per aandeel: 272.000 / 1.360.000 = € 0,20"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-tijger-bv-antw4.png"
+    ]
+   },
+   {
+    "title": "Tijger bv",
+    "question_number": 5,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\nHet bedrijf / Tijger wil:\n− investeringen financieren (waarbij minder geld hoeft te worden geleend).\n− het eigen vermogen versterken (waardoor de continuïteit beter is gewaarborgd).\n− schulden aflossen.\n− dividendstabilisatie mogelijk maken.\n− meer liquide middelen beschikbaar houden.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": "Per juist antwoord 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-tijger-bv-antw5.png"
+    ]
+   },
+   {
+    "title": "Chez AnTuan",
+    "question_number": 6,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nAnne geeft de financiële zekerheid op van:\n− een uitkering bij arbeidsongeschiktheid\n− een uitkering bij werkloosheid\n− het (verder) opbouwen van een pensioen\n− haar loon / vaste inkomen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-chez-antuan-antw6.png"
+    ]
+   },
+   {
+    "title": "Chez AnTuan",
+    "question_number": 7,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− gelijke (bruto) maandlasten / uitgaven in de periode waarin de interest vaststaat (bij de annuïteitenlening), terwijl de huur jaarlijks meestal stijgt\n− dalende (bruto) maandlasten / uitgaven bij een lineaire hypothecaire lening terwijl de huur jaarlijks meestal stijgt\n− Interest op hypothecaire lening is fiscaal aftrekbaar (verlaagt je woonlasten), het huurbedrag niet.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-chez-antuan-antw7.png"
+    ]
+   },
+   {
+    "title": "Chez AnTuan",
+    "question_number": 8,
+    "answer_text": "• resterende schuld: 119.582 – (1.264,81 – 0,0025 x 119.582) = 118.616,15\n• woningwaarde: 480.000 x 1,015 = 487.200\noverwaarde: 487.200 – 118.616,15 = € 368.583,85",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "resterende schuld: 119.582 – (1.264,81 – 0,0025 x 119.582) = 118.616,15"
+     },
+     {
+      "points": 1,
+      "description": "woningwaarde: 480.000 x 1,015 = 487.200; overwaarde: 487.200 – 118.616,15 = € 368.583,85"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-chez-antuan-antw8.png"
+    ]
+   },
+   {
+    "title": "Chez AnTuan",
+    "question_number": 9,
+    "answer_text": "• 15.000 x 1,018⁸ + 10.000 x 1,016⁵ = 28.127,10\n• 0,01 x 2 x (10.000 + 15.000) = 500\n28.127,10 – 500 = € 27.627,10",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "15.000 x 1,018⁸ + 10.000 x 1,016⁵ = 28.127,10"
+     },
+     {
+      "points": 1,
+      "description": "0,01 x 2 x (10.000 + 15.000) = 500; 28.127,10 – 500 = € 27.627,10"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-chez-antuan-antw9.png"
+    ]
+   },
+   {
+    "title": "Chez AnTuan",
+    "question_number": 10,
+    "answer_text": "• plaatsbeleid\n• Door aansluiting bij Booking.com is er een nieuw kanaal waarbij (potentiële) gasten kamers kunnen boeken bij de B&B.\nof\n• promotiebeleid\n• Via Booking.com nemen mensen kennis van het bestaan van de B&B (en boeken later via de eigen site van de B&B).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "plaatsbeleid (of: promotiebeleid)"
+     },
+     {
+      "points": 1,
+      "description": "Door aansluiting bij Booking.com is er een nieuw kanaal waarbij (potentiële) gasten kamers kunnen boeken bij de B&B. (of: Via Booking.com nemen mensen kennis van het bestaan van de B&B (en boeken later via de eigen site van de B&B).)"
+     }
+    ],
+    "grading_note": "Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-chez-antuan-antw10.png"
+    ]
+   },
+   {
+    "title": "Chez AnTuan",
+    "question_number": 11,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− productbeleid: een optimale gastbeleving, of een van de drie onder klantwaarde genoemde onderdelen: heerlijk ontbijt met streekproducten, wellness en verhuur van e-bikes\n− promotiebeleid: mond-tot-mondreclame, social media en toeristeninformatie",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Het moet wel om een ander marketinginstrument gaan dan bij vraag 10.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-chez-antuan-antw11.png"
+    ]
+   },
+   {
+    "title": "Chez AnTuan",
+    "question_number": 12,
+    "answer_text": "aantal overnachtingen in de 8 kamers in het:\n- laagseizoen: 4/12 x 365 x 8 x 0,15 = 146\n- middenseizoen: 5/12 x 365 x 8 x 0,30 = 365\n- hoogseizoen: 3/12 x 365 x 8 x 0,60 = 438 +\ntotaal aantal overnachtingen in 2024: 949\nomzet\nomzet boekingen via Booking.com na aftrek commissie: (146 – 100) x 0,90 x 75 + (365 – 100) x 0,90 x 85 + (438 – 100) x 0,90 x 95 = 52.276,50\nomzet rechtstreekse boekingen: 100 x (75 + 85 + 95) = 25.500\noverige omzet verhuur e-bikes: 2 x 100 x 17,50 = 3.500 +\ntotale omzet: 81.276,50\nkosten\nvariabel: 949 x 15 = 14.235\nconstant, exclusief afschrijving: 350 x 12 = 4.200\nafschrijving: 250 x 12 = 3.000 +\ntotale kosten: 14.235 + 4.200 + 3.000 = 21.435\nresultaat: 81.276,50 – 21.435 = 59.841,50\ncashflow: 59.841,50 + 3.000 = 62.841,50",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "totaal aantal overnachtingen: 949"
+     },
+     {
+      "points": 2,
+      "description": "totale omzet via Booking.com: 52.276,50"
+     },
+     {
+      "points": 1,
+      "description": "totale omzet: 81.276,50"
+     },
+     {
+      "points": 1,
+      "description": "totale kosten: 21.435 en resultaat: 59.841,50"
+     },
+     {
+      "points": 1,
+      "description": "cashflow: 62.841,50"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-chez-antuan-antw12.png"
+    ]
+   },
+   {
+    "title": "Chez AnTuan",
+    "question_number": 13,
+    "answer_text": "• financiering: 368,583,85 (vraag 8) + 27.627,10 (vraag 9) + 98.173 > aankoopprijs: 385.000 + verbouwing: 75.000\n• cashflow per maand: 62814,5 / 12 > 2 x 2.000\nAan beide voorwaarden is voldaan.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "financiering: 368,583,85 (vraag 8) + 27.627,10 (vraag 9) + 98.173 > aankoopprijs: 385.000 + verbouwing: 75.000"
+     },
+     {
+      "points": 1,
+      "description": "cashflow per maand: 62814,5 / 12 > 2 x 2.000; aan beide voorwaarden is voldaan."
+     }
+    ],
+    "grading_note": "⚠️ CONTROLEREN: het correctievoorschrift schrijft letterlijk ‘368,583,85’ (bedoeld is vermoedelijk 368.583,85 uit vraag 8) en ‘62814,5’ (vraag 12 komt uit op 62.841,50).",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-chez-antuan-antw13.png"
+    ]
+   },
+   {
+    "title": "Chez AnTuan",
+    "question_number": 14,
+    "answer_text": "afschrijvingskosten: (8.000 + 400) / (14 x 12) = € 50 per maand",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-chez-antuan-antw14.png"
+    ]
+   },
+   {
+    "title": "GOOS",
+    "question_number": 15,
+    "answer_text": "GOOS hanteert een push-strategie,\n− want de fysieke verkooppunten worden door middel van een bonus aangemoedigd om voor meer dan € 10.000 aan producten van GOOS te verkopen.\n− want GOOS richt zich op de tussenhandel om de verkoop te vergroten (en niet op de eindgebruiker).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-goos-antw15.png"
+    ]
+   },
+   {
+    "title": "GOOS",
+    "question_number": 16,
+    "answer_text": "totale ontvangsten:\n• contante verkopen: (25.000 + 20.000 + 17.000) x 0,3 = 18.600\n• debiteuren: (18.000 + 26.000 + 25.000) x 0,7 = 48.300 +\n66.900\n• btw over verkopen: 0,21 x 66.900 = 14.049 +\nontvangsten uit verkopen interieurproducten inclusief btw = 80.949\n• interieuradvies inclusief btw: (6 + 7 + 8) x 1.500 = 31.500 +\n€ 112.449",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "contante verkopen: (25.000 + 20.000 + 17.000) x 0,3 = 18.600"
+     },
+     {
+      "points": 1,
+      "description": "debiteuren: (18.000 + 26.000 + 25.000) x 0,7 = 48.300; samen 66.900"
+     },
+     {
+      "points": 1,
+      "description": "btw over verkopen: 0,21 x 66.900 = 14.049; ontvangsten uit verkopen interieurproducten inclusief btw = 80.949"
+     },
+     {
+      "points": 1,
+      "description": "interieuradvies inclusief btw: (6 + 7 + 8) x 1.500 = 31.500; totaal € 112.449"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-goos-antw16.png"
+    ]
+   },
+   {
+    "title": "GOOS",
+    "question_number": 17,
+    "answer_text": "Inkopen in december 2023, januari 2024 en februari 2024\n12.000 + 8.000 + 7.000 = 27.000\nUitgaven inclusief btw: 27.000 x 1,21 = € 32.670",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Als zowel bij vraag 16 als bij vraag 17 de btw niet is meegenomen in de berekening, dit 1 keer als fout aanrekenen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-goos-antw17.png"
+    ]
+   },
+   {
+    "title": "GOOS",
+    "question_number": 18,
+    "answer_text": "• te betalen btw over verkopen van producten: (25.000 + 20.000 + 17.000) x 0,21 = 13.020,00\n• te betalen btw verkochte adviezen: 31.500 / 1,21 × 0,21 = 5.466,94 +\n• te vorderen btw: (8.000 + 7.000 + 6.000) x 0,21 = 4.410,00 -/-\naf te dragen btw: € 14.076,94",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "te betalen btw over verkopen van producten: (25.000 + 20.000 + 17.000) x 0,21 = 13.020,00"
+     },
+     {
+      "points": 1,
+      "description": "te betalen btw verkochte adviezen: 31.500 / 1,21 × 0,21 = 5.466,94"
+     },
+     {
+      "points": 1,
+      "description": "⚠️ CONTROLEREN: te vorderen btw: (8.000 + 7.000 + 6.000) x 0,21 = 4.410,00; af te dragen btw: € 14.076,94 (in het correctievoorschrift staat bij dit deelpunt geen scorepunt vermeld)"
+     }
+    ],
+    "grading_note": "⚠️ CONTROLEREN: maximumscore 3, maar in het correctievoorschrift staan slechts twee scorepunten (bij de eerste twee deelpunten); bij ‘te vorderen btw … af te dragen btw’ staat geen scorepunt.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-goos-antw18.png"
+    ]
+   },
+   {
+    "title": "Broodnodig bv",
+    "question_number": 19,
+    "answer_text": "• De verwachte omzet in 2023 bedraagt 800.000 / 0,40 = 2.000.000.\n• De verwachte energiekosten exclusief TEK bedragen 80.000 x 2,71 + 60.000 x 0,78 = 263.600.\n263.600 / 2.000.000 × 100% = 13,18%",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "De verwachte omzet in 2023 bedraagt 800.000 / 0,40 = 2.000.000."
+     },
+     {
+      "points": 1,
+      "description": "De verwachte energiekosten exclusief TEK bedragen 80.000 x 2,71 + 60.000 x 0,78 = 263.600; 263.600 / 2.000.000 × 100% = 13,18%"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-broodnodig-bv-antw19.png"
+    ]
+   },
+   {
+    "title": "Broodnodig bv",
+    "question_number": 20,
+    "answer_text": "80.000 x (2,71 – 1,19) x 0,50 + 60.000 x (0,78 – 0,35) x 0,50 = € 73.700",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Per gemaakte fout wordt 1 scorepunt in mindering gebracht.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-broodnodig-bv-antw20.png"
+    ]
+   },
+   {
+    "title": "Broodnodig bv",
+    "question_number": 21,
+    "answer_text": "De uitbetaling van de TEK vindt pas plaats op 1 april 2024.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-broodnodig-bv-antw21.png"
+    ]
+   },
+   {
+    "title": "Broodnodig bv",
+    "question_number": 22,
+    "answer_text": "Voorbeelden van een juist antwoord:\n− Investeringen in verduurzaming van het productieproces die leiden tot minder energieverbruik, kunnen leiden tot lagere kosten en een hoger resultaat.\n− De regeling geldt alleen voor 2023. Daarna kunnen de steunmaatregelen worden ingetrokken waardoor de kosten hoger uitvallen.\n− Ook met subsidie moeten ze 50% van de energiekosten boven de € 1,19 en € 0,35 zelf betalen. (Dus kunnen de kosten nog steeds lager worden door verduurzaming.)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-broodnodig-bv-antw22.png"
+    ]
+   },
+   {
+    "title": "Daglicht",
+    "question_number": 23,
+    "answer_text": "Voordeel c dient geplaatst te worden bij de: Opportunities (Kansen)\nintern / extern, omdat Daglicht geen invloed heeft op de reclamecampagnes die door LUXEV georganiseerd worden (juist: extern)\npositief / negatief, omdat deze reclamecampagnes naar verwachting een groot bereik hebben onder (potentiële) klanten / kunnen leiden tot meer afzet (omzet) (juist: positief)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "opportunities"
+     },
+     {
+      "points": 1,
+      "description": "extern + toelichting"
+     },
+     {
+      "points": 1,
+      "description": "positief + toelichting"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-daglicht-antw23.png"
+    ]
+   },
+   {
+    "title": "Daglicht",
+    "question_number": 24,
+    "answer_text": "Voorbeelden een juist antwoord:\n− Joshua heeft een bedrijf: Daglicht. Bedrijven staan ingeschreven bij de Kamer van Koophandel.\n− Daglicht heeft als rechtsvorm een eenmanszaak. Eén van de oprichtingseisen van een eenmanszaak is inschrijving bij de Kamer van Koophandel.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Alleen bij verwijzing naar bedrijf of rechtsvorm 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-daglicht-antw24.png"
+    ]
+   },
+   {
+    "title": "Daglicht",
+    "question_number": 25,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Als een montagepartner van LUXEV failliet gaat, heeft dit een negatieve invloed op het imago van LUXEV en haar montagepartners.\n− Als een montagepartner failliet gaat, worden mogelijk ook bij LUXEV ingekochte materialen niet betaald.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-daglicht-antw25.png"
+    ]
+   },
+   {
+    "title": "Daglicht",
+    "question_number": 26,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n• Bij het berekenen van de quick ratio worden de voorraden niet meegenomen. Dit gebeurt wel bij het berekenen van de current ratio.\n• De voorraad kan moeilijk te verkopen zijn. / Het kan een tijd duren voordat de voorraad omgezet is in geld.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij het berekenen van de quick ratio worden de voorraden niet meegenomen. Dit gebeurt wel bij het berekenen van de current ratio."
+     },
+     {
+      "points": 1,
+      "description": "De voorraad kan moeilijk te verkopen zijn. / Het kan een tijd duren voordat de voorraad omgezet is in geld."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-daglicht-antw26.png"
+    ]
+   },
+   {
+    "title": "Daglicht",
+    "question_number": 27,
+    "answer_text": "• quick ratio: (2.000 + 2.050) / (2.250 + 1.250 + 250) = 1,08\n(Daglicht voldoet aan de liquiditeitseis 1,08 > 1,0.)\n• solvabiliteitsratio: 12.000 / (1.250 + 2.250 + 1.250 + 250) = 2,4\n(Daglicht voldoet aan de solvabiliteitseis 2,4 > 2,0.)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "quick ratio: (2.000 + 2.050) / (2.250 + 1.250 + 250) = 1,08 (Daglicht voldoet aan de liquiditeitseis 1,08 > 1,0.)"
+     },
+     {
+      "points": 1,
+      "description": "solvabiliteitsratio: 12.000 / (1.250 + 2.250 + 1.250 + 250) = 2,4 (Daglicht voldoet aan de solvabiliteitseis 2,4 > 2,0.)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-daglicht-antw27.png"
+    ]
+   },
+   {
+    "title": "Daglicht",
+    "question_number": 28,
+    "answer_text": "• personeel aannemen\n• uitbesteden aan een ander bouwbedrijf/partij",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "personeel aannemen"
+     },
+     {
+      "points": 1,
+      "description": "uitbesteden aan een ander bouwbedrijf/partij"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-daglicht-antw28.png"
+    ]
+   },
+   {
+    "title": "Staking openbaar vervoer",
+    "question_number": 29,
+    "answer_text": "vakbond",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-staking-openbaar-vervoer-antw29.png"
+    ]
+   },
+   {
+    "title": "Staking openbaar vervoer",
+    "question_number": 30,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Bij een arbeidsovereenkomst voor onbepaalde tijd is er geen einddatum in het contract en hoef je niet telkens opnieuw te solliciteren.\n− Bij een arbeidsovereenkomst voor onbepaalde tijd kan je makkelijker een (hypothecaire) lening afsluiten.\n− meer zekerheid op de lange termijn over je inkomen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": "Per juist antwoord 1 scorepunt toekennen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-ii-staking-openbaar-vervoer-antw30.png"
+    ]
+   }
+  ]
+ }
+}

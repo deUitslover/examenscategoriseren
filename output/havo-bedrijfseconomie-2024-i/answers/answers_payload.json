@@ -1,0 +1,551 @@
+{
+ "payload": {
+  "subject_name": "Bedrijfseconomie",
+  "level": "HAVO",
+  "source": "HAVO Bedrijfseconomie 2024-I",
+  "answers": [
+   {
+    "title": "Ridha",
+    "question_number": 1,
+    "answer_text": "• (1) stijgt\n• (2) vrijwillig",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "(1) stijgt"
+     },
+     {
+      "points": 1,
+      "description": "(2) vrijwillig"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-ridha-antw1.png"
+    ]
+   },
+   {
+    "title": "Ridha",
+    "question_number": 2,
+    "answer_text": "• EW (eindwaarde) 5 jaar vast, daarna variabel: 20.000 x 1,011⁵ x 1,002⁵ = 21.336,56\n• EW 10 jaar vast: 20.000 x 1,0135¹⁰ = 22.870,07\nHet verschil in verwachte interestopbrengst bedraagt: 22.870,07 – 21.336,56 = € 1.533,51.\nof\n(20.000 x 1,0135¹⁰) – (20.000 x 1,011⁵ x 1,002⁵) = € 1.533,51",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "EW (eindwaarde) 5 jaar vast, daarna variabel: 20.000 x 1,011⁵ x 1,002⁵ = 21.336,56"
+     },
+     {
+      "points": 1,
+      "description": "EW 10 jaar vast: 20.000 x 1,0135¹⁰ = 22.870,07; het verschil in verwachte interestopbrengst bedraagt: 22.870,07 – 21.336,56 = € 1.533,51"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-ridha-antw2.png"
+    ]
+   },
+   {
+    "title": "Ridha",
+    "question_number": 3,
+    "answer_text": "Voorbeelden van een juist antwoord zijn:\n− Er is bij het beleggingsfonds meer kennis (over de risico’s) van beleggen.\n− De kosten per euro belegd vermogen zijn lager dan bij zelf beleggen.\n− Een fonds kan beleggingsrisico’s beter spreiden.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "‘Omdat ze hun werk doen’ is geen voorbeeld van een juist antwoord.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-ridha-antw3.png"
+    ]
+   },
+   {
+    "title": "Ridha",
+    "question_number": 4,
+    "answer_text": "(Beleggen in obligaties is minder risicovol dan beleggen in aandelen, omdat) (drie van de volgende):\n− er sprake is van een vaste interest op obligaties en het dividend op aandelen afhankelijk is van het resultaat.\n− de koersschommelingen van aandelen groter zijn dan de koersschommelingen van obligaties.\n− obligaties (tegen nominale waarde) worden afgelost en aandelen niet.\n− bij faillissement obligaties voorrang hebben boven aandelen bij het verdelen van de boedel.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "derde juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-ridha-antw4.png"
+    ]
+   },
+   {
+    "title": "Welkom Energie bv",
+    "question_number": 5,
+    "answer_text": "voorzien in (twee van de volgende):\n− werkgelegenheid\n− belastinginkomsten\n− inkomen\n− (een bijdrage leveren aan) innovatie",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-welkom-energie-bv-antw5.png"
+    ]
+   },
+   {
+    "title": "Welkom Energie bv",
+    "question_number": 6,
+    "answer_text": "A",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Bij vraag 6 moet het scorepunt altijd worden toegekend, ongeacht of er wel of geen antwoord is gegeven en ongeacht het gegeven antwoord.\nToelichting: De syllabus gaat uit van toezichthouders op de financiële markten, terwijl de casus gaat over de energiemarkt. De vraag mag conform de syllabus niet gesteld worden.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-welkom-energie-bv-antw6.png"
+    ]
+   },
+   {
+    "title": "Welkom Energie bv",
+    "question_number": 7,
+    "answer_text": "• Een te lage current ratio betekent dat een bedrijf minder goed kan voldoen aan zijn betalingsverplichtingen op korte termijn.\n• Hierdoor kan het bedrijf failliet gaan (en moet de levering van energie aan huishoudens door een andere energieleverancier worden overgenomen).\nof\n• Als het bedrijf zijn rekeningen niet op tijd betaalt kunnen leveranciers reageren door de toelevering van energie te stoppen / pauzeren,\n• waardoor het energiebedrijf onvoldoende energie kan leveren / de leveringszekerheid vermindert.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Een te lage current ratio betekent dat een bedrijf minder goed kan voldoen aan zijn betalingsverplichtingen op korte termijn. (of: Als het bedrijf zijn rekeningen niet op tijd betaalt kunnen leveranciers reageren door de toelevering van energie te stoppen / pauzeren,)"
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor kan het bedrijf failliet gaan (en moet de levering van energie aan huishoudens door een andere energieleverancier worden overgenomen). (of: waardoor het energiebedrijf onvoldoende energie kan leveren / de leveringszekerheid vermindert.)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-welkom-energie-bv-antw7.png"
+    ]
+   },
+   {
+    "title": "Welkom Energie bv",
+    "question_number": 8,
+    "answer_text": "• € 0,48 x 1.000.000 + € 1,50 x 500.000 + € 0,25 x 3.000.000 + € 0,80 x 1.200.000 = € 2.940.000\n• 2.940.000 / 12 = € 245.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "€ 0,48 x 1.000.000 + € 1,50 x 500.000 + € 0,25 x 3.000.000 + € 0,80 x 1.200.000 = € 2.940.000"
+     },
+     {
+      "points": 1,
+      "description": "2.940.000 / 12 = € 245.000"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-welkom-energie-bv-antw8.png"
+    ]
+   },
+   {
+    "title": "Welkom Energie bv",
+    "question_number": 9,
+    "answer_text": "((1.000.000 + 3.000.000) x € 0,34 + (500.000 + 1.200.000) x € 1,20) x (0,85 – 0,73) = € 408.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "jaarlijkse afzet elektriciteit: (1.000.000 + 3.000.000) en gas (500.000 + 1.200.000)"
+     },
+     {
+      "points": 1,
+      "description": "juiste prijzen: € 0,34 en € 1,20"
+     },
+     {
+      "points": 1,
+      "description": "geschat volume november: 0,85 – 0,73 = 0,12 en verwachte uitgaven € 408.000"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-welkom-energie-bv-antw9.png"
+    ]
+   },
+   {
+    "title": "Welkom Energie bv",
+    "question_number": 10,
+    "answer_text": "Liquide middelen: 1.000.000 + 245.000 (vraag 8) – 408.000 (vraag 9) – 140.000 = € 697.000",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-welkom-energie-bv-antw10.png"
+    ]
+   },
+   {
+    "title": "Welkom Energie bv",
+    "question_number": 11,
+    "answer_text": "• Current ratio per 31 oktober 2021: (2.100.000 + 697.000) / 2.950.000 = 0,95\n• 0,95 < 1,0 (dus Welkom Energie voldoet niet meer aan de eis)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Current ratio per 31 oktober 2021: (2.100.000 + 697.000) / 2.950.000 = 0,95"
+     },
+     {
+      "points": 1,
+      "description": "0,95 < 1,0 (dus Welkom Energie voldoet niet meer aan de eis)"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-welkom-energie-bv-antw11.png"
+    ]
+   },
+   {
+    "title": "Welkom Energie bv",
+    "question_number": 12,
+    "answer_text": "• Bij een vast contract kan de (gestegen) inkoopprijs niet worden doorberekend.\n• Hierdoor zijn de uitgaven groter dan de ontvangsten en kan de onderneming betalingsproblemen / liquiditeitsproblemen krijgen.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Bij een vast contract kan de (gestegen) inkoopprijs niet worden doorberekend."
+     },
+     {
+      "points": 1,
+      "description": "Hierdoor zijn de uitgaven groter dan de ontvangsten en kan de onderneming betalingsproblemen / liquiditeitsproblemen krijgen."
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-welkom-energie-bv-antw12.png"
+    ]
+   },
+   {
+    "title": "Welkom Energie bv",
+    "question_number": 13,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− Klanten moeten een andere leverancier van energie vinden.\n− Aandeelhouders raken mogelijk ingebracht vermogen kwijt.\n− Vermogensverschaffers zoals banken moeten leningen afboeken.\n− (Toe)leveranciers raken een klant kwijt / moeten leverancierskrediet afboeken.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juiste stakeholder + gevolg"
+     },
+     {
+      "points": 1,
+      "description": "tweede juiste stakeholder + gevolg"
+     },
+     {
+      "points": 1,
+      "description": "derde juiste stakeholder + gevolg"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-welkom-energie-bv-antw13.png"
+    ]
+   },
+   {
+    "title": "Maaltijd-aan-Huis",
+    "question_number": 14,
+    "answer_text": "Voorbeelden van juiste antwoorden:\n− het veroveren van marktaandeel (met x%)\n− het behalen van een zo groot mogelijke afzet/omzet (met x stuks)\n− het opbouwen van naamsbekendheid (bij x% van de bevolking)",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": "Voor ‘het behalen van winst’ geen scorepunt toekennen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-maaltijd-aan-huis-antw14.png"
+    ]
+   },
+   {
+    "title": "Maaltijd-aan-Huis",
+    "question_number": 15,
+    "answer_text": "De interestkosten zijn niet afhankelijk van het aantal maaltijdboxen dat wordt verkocht / de afzet.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-maaltijd-aan-huis-antw15.png"
+    ]
+   },
+   {
+    "title": "Maaltijd-aan-Huis",
+    "question_number": 16,
+    "answer_text": "dekkingsbijdrage per maaltijdbox: 15 + 3,05 – (15 x 0,53) = 10,10",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-maaltijd-aan-huis-antw16.png"
+    ]
+   },
+   {
+    "title": "Maaltijd-aan-Huis",
+    "question_number": 17,
+    "answer_text": "Voorbeeld van een juiste berekening is:\n• totale constante kosten per maand zijn: 5.000 / 12 + 2.500 x 0,005 = 429,17\n• 429,17 / 10,10 = 42,49 dus afgerond 43 maalijdboxen",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "totale constante kosten per maand zijn: 5.000 / 12 + 2.500 x 0,005 = 429,17"
+     },
+     {
+      "points": 1,
+      "description": "429,17 / 10,10 = 42,49 dus afgerond 43 maalijdboxen"
+     }
+    ],
+    "grading_note": "Voor een ontbrekende of onjuiste afronding geen scorepunt toekennen.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-maaltijd-aan-huis-antw17.png"
+    ]
+   },
+   {
+    "title": "Maaltijd-aan-Huis",
+    "question_number": 18,
+    "answer_text": "Voorbeeld van een juiste berekening is:\n30 x 10,10 – 429,17 = € 126,17 nadelig / negatief / -/-",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-maaltijd-aan-huis-antw18.png"
+    ]
+   },
+   {
+    "title": "Jakko bv",
+    "question_number": 19,
+    "answer_text": "kosten als gevolg van investering: afschrijvings(kosten) — berekening: (40.000 + 2.000 − 4.200) / 84 = 450 — bedrag in €: 450\nkosten als gevolg van financiering: interest(kosten) — berekening: 0,004 x 42.000 = — bedrag in €: 168 +\ntotaal — bedrag in €: 618",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "afschrijvings(kosten) en interest(kosten)"
+     },
+     {
+      "points": 2,
+      "description": "450"
+     },
+     {
+      "points": 1,
+      "description": "168 en 618"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-jakko-bv-antw19.png"
+    ]
+   },
+   {
+    "title": "Jakko bv",
+    "question_number": 20,
+    "answer_text": "• Inventaris: 42.000 – 450 = € 41.550\n• Banklening: 42.000 – (788,75 – 168) = € 41.379,25",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "Inventaris: 42.000 – 450 = € 41.550"
+     },
+     {
+      "points": 1,
+      "description": "Banklening: 42.000 – (788,75 – 168) = € 41.379,25"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-jakko-bv-antw20.png"
+    ]
+   },
+   {
+    "title": "Jakko bv",
+    "question_number": 21,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n− Te vorderen btw\n− Te vorderen omzetbelasting\n− Af te dragen btw\n− Resultaat voor aftrek van belasting",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-jakko-bv-antw21.png"
+    ]
+   },
+   {
+    "title": "Evy",
+    "question_number": 22,
+    "answer_text": "Voorbeeld van een juist antwoord is:\nIn de functieomschrijving van Evy staat niet dat zij verantwoordelijk is voor:\n− de temperatuur in het restaurant.\n− de kwaliteit van het eten.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Het antwoord moet te herleiden zijn uit informatiebron 4.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-evy-antw22.png"
+    ]
+   },
+   {
+    "title": "Evy",
+    "question_number": 23,
+    "answer_text": "Arbowet / Arbeidsomstandighedenwet",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-evy-antw23.png"
+    ]
+   },
+   {
+    "title": "Evy",
+    "question_number": 24,
+    "answer_text": "− adviesrecht\n− initiatiefrecht\n− recht op informatie",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "Alleen met twee juiste antwoorden kan het scorepunt worden toegekend.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-evy-antw24.png"
+    ]
+   },
+   {
+    "title": "Evy",
+    "question_number": 25,
+    "answer_text": "Voorbeelden van juiste berekeningen zijn:\n▪ brutoloon in februari (4 weken): 1.799,47 / 38 × 32 = 1.515,34\n▪ eerste week in februari: 1.515,34 / 4 = 378,84; eerste week van ziekte (1 wachtdag): 0,70 × 378,84 × 3/4 = 198,89\n▪ tweede en derde week van ziekte: 2 × 0,70 × 378,84 = 530,38\n▪ totaal: 198,89 + 530,38 + 378,84 = € 1.108,11. Dus het restaurant heeft zich gehouden aan de cao.\nof\n• brutoloon in februari (4 weken): 1.799,47 / 38 × 32 = 1.515,34\n• per week in februari: 1.515,34 / 4 = 378,84; tijdens 3 weken ziekte (1 onbetaalde wachtdag, dus 11 van 12 dagen): 3 × 378,84 × 0,70 × 11/12 = 729,27\n• Totaal in februari: 729,27 + 378,84 = € 1.108,11. Dus het restaurant heeft zich gehouden aan de cao.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "brutoloon in februari (4 weken): 1.799,47 / 38 × 32 = 1.515,34"
+     },
+     {
+      "points": 1,
+      "description": "eerste week in februari: 1.515,34 / 4 = 378,84; eerste week van ziekte (1 wachtdag): 0,70 × 378,84 × 3/4 = 198,89"
+     },
+     {
+      "points": 1,
+      "description": "tweede en derde week van ziekte: 2 × 0,70 × 378,84 = 530,38"
+     },
+     {
+      "points": 1,
+      "description": "totaal: 198,89 + 530,38 + 378,84 = € 1.108,11. Dus het restaurant heeft zich gehouden aan de cao."
+     }
+    ],
+    "grading_note": "Wanneer een kandidaat door een doorwerkfout bij de conclusie op een hoger loon uitkomt, moet diens conclusie zijn dat het restaurant zich niet aan de cao heeft gehouden. Anders wordt het laatste scorepunt niet toegekend.\n⚠️ CONTROLEREN: puntverdeling van de alternatieve berekening (‘of’) volgens het correctievoorschrift: brutoloon in februari 1 punt; per week in februari + tijdens 3 weken ziekte 729,27 2 punten; bij ‘Totaal in februari … € 1.108,11’ staat geen scorepunt vermeld. Bij de eerste berekening staat onder ‘tweede en derde week van ziekte’ een losse extra ‘1’ in het correctievoorschrift.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-evy-antw25.png"
+    ]
+   },
+   {
+    "title": "Evy",
+    "question_number": 26,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n− Als zzp’er heeft Evy meer zeggenschap over haar werktijden.\n− Het tarief per gewerkt uur als zzp’er is hoger dan het loon per gewerkt uur (in loondienst).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-evy-antw26.png"
+    ]
+   },
+   {
+    "title": "Evy",
+    "question_number": 27,
+    "answer_text": "Voorbeelden van juiste antwoorden zijn:\n− 4.16 vakantiegeld: als zzp’er heeft Evy geen recht op vakantietoeslag.\n− 5.1 ontwikkelingsbudget: voor zzp’ers is er geen ontwikkelingsbudget.\n− 7.2 doorbetalen van loon bij ziekte: als zzp’er heeft Evy geen recht op loondoorbetaling bij ziekte.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "eerste juist antwoord"
+     },
+     {
+      "points": 1,
+      "description": "tweede juist antwoord"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-evy-antw27.png"
+    ]
+   },
+   {
+    "title": "Adidas",
+    "question_number": 28,
+    "answer_text": "Voorbeeld van een juist antwoord is:\n− Negatieve publiciteit treft ook de sponsor.\n− Het effect van sponsoring is moeilijk meetbaar.",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "volledig juist antwoord"
+     }
+    ],
+    "grading_note": "‘Sponsoring brengt hoge kosten met zich mee’ is geen voorbeeld van een juist antwoord.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-adidas-antw28.png"
+    ]
+   },
+   {
+    "title": "Adidas",
+    "question_number": 29,
+    "answer_text": "(1) productbeleid\n(2) plaatsbeleid\n(3) prijsbeleid",
+    "scoring_steps": [
+     {
+      "points": 2,
+      "description": "indien drie goed: 2 scorepunten; indien twee goed: 1 scorepunt; indien een of geen goed: 0 scorepunten"
+     }
+    ],
+    "grading_note": null,
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-adidas-antw29.png"
+    ]
+   },
+   {
+    "title": "Adidas",
+    "question_number": 30,
+    "answer_text": "• pull-strategie\n• De marketing van Adidas is gericht op de consument (,waardoor vraag wordt gecreëerd in de webshop / tussenhandel).",
+    "scoring_steps": [
+     {
+      "points": 1,
+      "description": "pull-strategie"
+     },
+     {
+      "points": 1,
+      "description": "De marketing van Adidas is gericht op de consument (,waardoor vraag wordt gecreëerd in de webshop / tussenhandel)."
+     }
+    ],
+    "grading_note": "Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
+    "answer_image_urls": [
+     "bedrijfseconomie-havo-2024-i-adidas-antw30.png"
+    ]
+   }
+  ]
+ }
+}
